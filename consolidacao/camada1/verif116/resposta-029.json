@@ -1,0 +1,255 @@
+[
+ {
+  "id": "pt:dre:642527:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "Rectificações 1, 2 e 3 da DR 107/2007 aplicadas (art. 43.º n.os 2 e 3; art. 140.º n.º 1 alínea g)); restante igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "DR 107/2007 n.º 4: n.º 1 do art. 3.º do DL 236/2001 com o texto rectificado.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 13.º",
+    "veredicto": "certo",
+    "motivo": "DR 107/2007 n.º 5: n.º 4 com 'artigo 10.º' e 'bases de dados'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 24.º",
+    "veredicto": "certo",
+    "motivo": "DL 247-B/2008 art. 46.º j): n.º 2 revogado.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 1.º #2",
+    "veredicto": "dúvida",
+    "motivo": "Aditamento da alínea i) apadrinhamento (Lei 103/2009), renumeração das alíneas seguintes e n.º 3 (Lei 2/2016) estão certos. A alínea h) 'O acompanhamento de maiores e a tutela e administração de bens' não vem de nenhuma instrução com texto na vista (Lei 49/2018 só traz o art. 12.º); não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 43.º",
+    "veredicto": "certo",
+    "motivo": "DR 107/2007 n.os 1 e 2: 'documento assinado' nos n.os 2 e 3.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 49.º",
+    "veredicto": "certo",
+    "motivo": "DL 51/2018 art. 2.º: novo n.º 8.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 69.º",
+    "veredicto": "dúvida",
+    "motivo": "Certos: alíneas h) a q) renumeradas com o apadrinhamento (Lei 103/2009), n.º 3 com 'alínea f)' (DL 247-B/2008). Não verificáveis na vista: alínea d) 'A adoção e a revisão da respetiva sentença' e n.º 5 (Lei 143/2015, sem texto), alínea g) 'acompanhamento de maiores' (Lei 49/2018, só art. 12.º no texto) e a falta do n.º 4 (Lei 7/2011/DL 100/2009 não fazem parte do pedido).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 70.º",
+    "veredicto": "dúvida",
+    "motivo": "N.º 2 revogado (DL 247-B/2008 art. 46.º e)): certo. Alínea e) 'por maior acompanhado, nos casos em que o acompanhamento constitua um impedimento' não vem de texto presente na vista (Lei 49/2018 só art. 12.º); não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 78.º",
+    "veredicto": "certo",
+    "motivo": "Lei 103/2009 art. 29.º: n.º 2 'um dia'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 95.º",
+    "veredicto": "certo",
+    "motivo": "DL 247-B/2008 art. 31.º: n.º 2 com 'n.º 5 do artigo 92.º'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 103.º",
+    "veredicto": "certo",
+    "motivo": "DR 107/2007 n.º 6: n.º 3 '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 112.º",
+    "veredicto": "certo",
+    "motivo": "DL 51/2018: novo n.º 3.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 118.º",
+    "veredicto": "certo",
+    "motivo": "DL 51/2018: novo n.º 3.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 126.º",
+    "veredicto": "certo",
+    "motivo": "DL 51/2018: alínea b) do n.º 1 com 'número de identificação civil'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 140.º",
+    "veredicto": "certo",
+    "motivo": "DR 107/2007 n.º 3: alíneas a), b), c) e g).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 163.º",
+    "veredicto": "certo",
+    "motivo": "DL 247-B/2008 art. 31.º: novo n.º 2.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 174.º",
+    "veredicto": "dúvida",
+    "motivo": "Alínea e) com 'acompanhamento, quando a sentença respetiva assim o determine' e 'respetivo' não vem de nenhuma instrução com texto na vista (Lei 49/2018 só art. 12.º); não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 202.º-A",
+    "veredicto": "dúvida",
+    "motivo": "A Lei 29/2009 art. 81.º (texto: 'conservatória ou o cartório notarial') foi revogada pela Lei 23/2013 art. 6.º; o consolidado tem 'cartório notarial', que seria da Lei 23/2013, cujo texto na vista só traz o art. 1.º. Não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 202.º-B",
+    "veredicto": "dúvida",
+    "motivo": "Idem: epígrafe 'efetuar pelos tribunais e notários' e n.º 2 'o notário comunica' não constam do texto da Lei 29/2009 (revogada) nem de texto presente da Lei 23/2013. Não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 207.º",
+    "veredicto": "certo",
+    "motivo": "Lei 90/2015: novo n.º 4.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 208.º",
+    "veredicto": "certo",
+    "motivo": "Lei 90/2015: n.os 1 e 2 com a nova redação.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 210.º",
+    "veredicto": "dúvida",
+    "motivo": "Texto não coincide com a Lei 29/2009 art. 81.º (revogada; 'ou do tribunal do lugar da abertura da sucessão'); o consolidado ('para as finalidades previstas no regime jurídico do processo de inventário') viria da Lei 23/2013, cujo texto não está na vista. Estrutura n.os 1 a 4 coerente. Não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 210.º-A",
+    "veredicto": "certo",
+    "motivo": "DL 247-B/2008: alínea b) do n.º 2, novo n.º 5 e n.º 6 (anterior 5).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 210.º-C",
+    "veredicto": "certo",
+    "motivo": "DL 247-B/2008: n.º 1, novo n.º 2 e n.º 3 (anterior 2).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 210.º-G",
+    "veredicto": "certo",
+    "motivo": "DL 247-B/2008: epígrafe, n.os 1 a 4 com a nova redação; n.º 5 revogado (art. 46.º e)).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 210.º-H",
+    "veredicto": "certo",
+    "motivo": "DL 247-B/2008: n.os 1, 2 e 3.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 215.º",
+    "veredicto": "certo",
+    "motivo": "DL 247-B/2008: n.º 1 com a nova redação.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 270.º",
+    "veredicto": "certo",
+    "motivo": "DL 247-B/2008 art. 46.º e): alínea c) do n.º 1 revogada.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 272.º",
+    "veredicto": "certo",
+    "motivo": "Lei 61/2008 art. 5.º: alínea c) do n.º 1 e n.º 2.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 272.º-A",
+    "veredicto": "certo",
+    "motivo": "DL 247-B/2008: n.os 1 a 8 conforme a instrução (n.os 4 e 5 anteriores renumerados 6 e 8).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 272.º-C",
+    "veredicto": "certo",
+    "motivo": "DL 247-B/2008: remissões com 210.º-L e 210.º-M.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 299.º",
+    "veredicto": "certo",
+    "motivo": "DL 201/2015 art. 29.º e): artigo revogado (o art. 16.º do DL 209/2012 ficou sem efeito).",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 116/2008: sem artigos dirigidos ao original",
+    "motivo": "o diploma que altera não traz o texto da alteração"
+   },
+   {
+    "instrucao": "Lei 61/2008 arts. 1.º a 4.º, 6.º, 7.º",
+    "motivo": "outro diploma (Código Civil, CPC, DL 272/2001, Código Penal); só o art. 5.º visa o CRC e foi aplicado"
+   },
+   {
+    "instrucao": "DL 247-B/2008 art. 46.º a)-d), f)-i)",
+    "motivo": "outro diploma (revogações de normas de outros diplomas)"
+   },
+   {
+    "instrucao": "Lei 64-A/2008",
+    "motivo": "o diploma que altera não traz o texto da alteração"
+   },
+   {
+    "instrucao": "DL 122/2009",
+    "motivo": "outro diploma; nenhuma instrução se dirige ao original"
+   },
+   {
+    "instrucao": "Lei 29/2009 art. 81.º (arts. 202.º-A, 202.º-B, 210.º do CRC)",
+    "motivo": "efeito adiado: revogada pelo art. 6.º da Lei 23/2013 (nota no próprio diploma) sem chegar a produzir efeito"
+   },
+   {
+    "instrucao": "DL 99/2010, Lei 64-B/2011, Lei 63/2012, DL 122/2013, DL 19/2015, Lei 2/2016 arts. 2.º e 3.º, Lei 110/2017, Lei 49/2018 art. 12.º, DL 66/2019, DL 209/2012 arts. 1.º-15.º e 17.º-19.º, DL 201/2015 salvo art. 29.º e)",
+    "motivo": "outro diploma ou sem texto dirigido ao original"
+   },
+   {
+    "instrucao": "Lei 23/2013 (alteração aos arts. 202.º-A, 202.º-B, 210.º do CRC)",
+    "motivo": "o diploma que altera não traz o texto da alteração (só o art. 1.º consta da vista)"
+   },
+   {
+    "instrucao": "Lei 143/2015 (n.º 5 do art. 69.º, alínea d) do art. 69.º)",
+    "motivo": "o diploma que altera não traz o texto da alteração"
+   },
+   {
+    "instrucao": "Lei 49/2018 (arts. 1.º, 69.º g), 70.º e), 174.º e) do CRC)",
+    "motivo": "o diploma que altera não traz o texto da alteração (só o art. 12.º consta da vista)"
+   },
+   {
+    "instrucao": "DL 100/2009 art. 2.º e Lei 7/2011 art. 5.º (arts. 69.º, 70.º, etc.)",
+    "motivo": "não são alteradores do pedido nem trazem texto"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

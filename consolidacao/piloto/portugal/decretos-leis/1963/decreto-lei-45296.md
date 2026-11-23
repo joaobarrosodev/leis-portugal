@@ -10,6 +10,12 @@ consolidacao:
   - id: pt:dre:238615:por
     title: Decreto-Lei n.º 46243
     publication_date: '1965-03-19'
+  - id: pt:dre:296233:por
+    title: Decreto-Lei n.º 46380
+    publication_date: '1965-06-11'
+  - id: pt:dre:274851:por
+    title: Decreto-Lei n.º 48369
+    publication_date: '1968-05-06'
   - id: pt:dre:201236:por
     title: Decreto-Lei n.º 49003
     publication_date: '1969-05-10'
@@ -397,23 +403,21 @@ Os accionistas dos bancos nacionais com sede numa província ultramarina que sej
 
 ###### Artigo 41.º
 
-Fica o Governo autorizado a emitir no ultramar, por intermédio do Ministério das Finanças e nos termos a estabelecer, títulos de obrigação denominados «promissórias de fomento ultramarino», reembolsáveis a prazos de um a cinco anos e cujo produto se destinará, exclusivamente, ao financiamento, nas províncias ultramarinas de investimentos previstos em planos aprovados pelo Conselho de Ministros para os Assuntos Económicos.
+(Revogado.)
 
-§ 1.º As promissórias serão títulos nominativos, liberados em moeda nacional com curso legal nas províncias ultramarinas e averbáveis ùnicamente a favor da Fazenda Nacional e das instituições de crédito referidas no artigo 3.º deste diploma.
-
-§ 2.º O valor de cada título não será inferior a 1000000$00 nem excederá 10000000$00.
-
-§ 3.º As promissórias vencerão juro de taxa anual não superior a 2 por cento, pagável no fim de cada semestre, e serão transmissíveis por todos os modos admitidos em direito, mas as transmissões a título oneroso efectuar-se-ão sempre pelo capital nominal.
-
-§ 4.º A importância total das promissórias em circulação não poderá exceder o limite que for acordado, para determinado período e sobre parecer do Ministro do Ultramar, entre o Estado, representado pelo Ministro das Finanças, e os bancos emissores ultramarinos.
+> Revogado pelo/a [Decreto-Lei n.º 46380](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46380-1965-296233), publicado em 1965-06-11.
 
 ###### Artigo 42.º
 
-O produto da emissão das promissórias de fomento ultramarino será colocado à disposição do Fundo de Fomento Económico, nos termos da alínea f) do artigo 10.º do [Decreto-Lei n.º 44652](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44652-1962-673217), mediante depósito em conta corrente à ordem no banco emissor da respectiva província ultramarina.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 46380](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46380-1965-296233), publicado em 1965-06-11.
 
 ###### Artigo 43.º
 
-O produto da emissão das promissórias de fomento ultramarino poderá ser objecto, no todo ou em parte, de empréstimos ou suprimentos a conceder pelo Estado a bancos de investimentos ou aos fundos de fomento das províncias ultramarinas referidos no artigo 11.º do [Decreto-Lei n.º 44652](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44652-1962-673217), para ser por eles utilizado de harmonia com as aplicações indicadas nos planos de emissão dos títulos.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 46380](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46380-1965-296233), publicado em 1965-06-11.
 
 ###### Artigo 44.º
 
@@ -457,19 +461,9 @@ Quando o desenvolvimento económico-social dos agregados urbanos nas províncias
 
 ###### Artigo 51.º
 
-Os depósitos de disponibilidades monetárias a que se refere o artigo 47.º revestirão uma das formas seguintes:
+(Revogado.)
 
-1.º Depósito à ordem;
-
-2.º Depósito a prazo.
-
-§ 1.º Os depósitos referidos no n.º 1.º são imediatamente exigíveis, podendo, todavia, os depositários acordar com os depositantes que os levantamentos, quando excedam determinada importância, dependam de aviso dado com a antecedência de um certo número de dias.
-
-§ 2.º Os depósitos a que respeita o n.º 2.º só são exigíveis findo o prazo por que foram efectuados, prazo que não poderá exceder um ano e se considera prorrogado por um período igual, no caso de falta de declaração em contrário feita pelo depositante até à data do vencimento.
-
-§ 3.º Os depósitos a prazo podem incluir a cláusula de pré-aviso, destinada a torná-los exigíveis antes do prazo estipulado.
-
-§ 4.º Os depósitos a prazo com cláusula de pré-aviso só serão exigíveis depois de prevenido o depositário com a antecipação fixada nesta cláusula, a qual nunca poderá ser superior a 90 dias.
+> Revogado pelo/a [Decreto-Lei n.º 48369](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48369-1968-274851), publicado em 1968-05-06.
 
 ###### Artigo 52.º
 
@@ -643,63 +637,47 @@ Os lucros anuais dos departamentos financeiros dos bancos comerciais terão a di
 
 ###### Artigo 72.º
 
-O juro atribuído pelos bancos comerciais nas províncias ultramarinas aos depósitos à ordem não poderá exceder metade da taxa média de desconto do banco emissor da respectiva província durante o semestre anterior à liquidação do mesmo juro e o juro atribuído aos depósitos a prazo até um ano não excederá o valor da taxa média de desconto do dito banco emissor, durante os prazos que precederem a liquidação dos juros, acrescida de 0,5 por cento.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 48369](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48369-1968-274851), publicado em 1968-05-06.
 
 ###### Artigo 73.º
 
-Os bancos comerciais não cobrarão, pelo desconto de efeitos comerciais ou por quaisquer outras operações de crédito a curto prazo, juros de taxa superior à do desconto do banco emissor da respectiva província, acrescida de 2 por cento.
+(Revogado.)
 
-§ 1.º Sendo cobradas quaisquer comissões, estas serão consideradas como juro para efeito do limite fixado no presente artigo. Não serão, porém, considerados para o mesmo efeito os prémios de transferência referentes a letras ou outros efeitos pagáveis em praça diferente daquela onde tiver lugar o desconto e o reembolso de despesas efectuadas.
-
-§ 2.º As taxas de juro aplicadas em conformidade com o presente artigo não têm de ser diminuídas, nem podem ser aumentadas, em virtude de alteração da taxa de desconto do banco emissor da província durante o prazo por que as operações forem feitas.
+> Revogado pelo/a [Decreto-Lei n.º 48369](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48369-1968-274851), publicado em 1968-05-06.
 
 ###### Artigo 74.º
 
-Os Ministros das Finanças e do Ultramar, ouvidos o Conselho Nacional de Crédito e os governos das províncias ultramarinas interessadas, ou por propostas destas ou daquele Conselho, poderão alterar por portaria, em relação a uma ou mais províncias, os limites estabelecidos nos artigos 72.º e 73.º anteriores, bem como fixar os limites de juro de quaisquer outras operações bancárias, nomeadamente das operações de crédito a médio e longo prazos.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 48369](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48369-1968-274851), publicado em 1968-05-06.
 
 #### SECÇÃO VII — Das garantias de liquidez e solvabilidade
 
 ###### Artigo 75.º
 
-A importância das disponibilidades de caixa dos bancos comerciais, constituídas por dinheiro em cofre, depósitos à ordem no banco emissor da respectiva província ultramarina e promissórias de fomento ultramarino, deverá ser equivalente a 20 por cento, pelo menos, das suas responsabilidades à vista e moeda nacional com curso legal na província.
+(Revogado.)
 
-§ 1.º Os vales de correio e os cheques à vista emitidos por entidades de reconhecida idoneidade sobre instituições de crédito domiciliadas na província poderão ser considerados como dinheiro em cofre, mas apenas pelo tempo estritamente indispensável à sua cobrança ou compensação, o qual nunca poderá exceder cinco dias.
-
-§ 2.º Além dos depósitos à ordem e das demais responsabilidades imediatamente exigíveis, são considerados como responsabilidades à vista, para efeito do disposto no corpo do presente artigo, os depósitos a prazo ou com pré-aviso inferiores a 30 dias.
+> Revogado pelo/a [Decreto-Lei n.º 48369](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48369-1968-274851), publicado em 1968-05-06.
 
 ###### Artigo 76.º
 
-Os bancos comerciais são obrigados a ter disponibilidades de caixa com a constituição referida no artigo anterior, numa importância de 5 por cento, pelo menos, do total das suas responsabilidades, em moeda nacional com curso legal na província, por depósitos a prazo ou com pré-aviso não inferiores a 30 dias.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 48369](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48369-1968-274851), publicado em 1968-05-06.
 
 ###### Artigo 77.º
 
-O Ministro do Ultramar fica com a faculdade de, ouvido o Conselho Nacional de Crédito, alterar por portaria, de acordo com a evolução dos mercados monetários das províncias ultramarinas, as percentagens das disponibilidades de caixa estabelecidas nos artigos 75.º e 76.º, bem como a fixar a participação que nelas poderão atingir as promissórias de fomento ultramarino referidas no artigo 41.º do presente diploma.
+(Revogado.)
 
-§ único. As alterações das percentagens das disponibilidades de caixa poderão não ser idênticas para todas as províncias ultramarinas e a participação nessas disponibilidades das promissórias de fomento ultramarino poderá igualmente variar de província para província.
+> Revogado pelo/a [Decreto-Lei n.º 48369](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48369-1968-274851), publicado em 1968-05-06.
 
 ###### Artigo 78.º
 
-A parte do valor das responsabilidades à vista e dos depósitos a prazo ou com pré-aviso não inferiores a 30 dias dos bancos comerciais, em moeda nacional com curso legal na província onde os bancos estiverem domiciliados, que exceda a importância das disponibilidades de caixa referidas nos artigos 75.º e 76.º deverá estar garantida por:
+(Revogado.)
 
-a) Disponibilidades em ouro e moedas estrangeiras, deduzidas as responsabilidades totais em moedas estrangeiras exigíveis a prazo não superior a 180 dias, que os bancos comerciais tenham constituído ao abrigo da legislação sobre o exercício de comércio de câmbios nas províncias ultramarinas;
-
-b) Disponibilidades em moeda nacional com curso legal noutros territórios portugueses, que os bancos comerciais tenham constituído ao abrigo da legislação sobre a realização de operações de pagamentos interterritoriais;
-
-c) Saldos em outras instituições de crédito domiciliadas na mesma província ultramarina, pagáveis à vista ou a prazos não superiores a 90 dias, e cheques à vista e ordens de pagamento emitidas por entidades de reconhecido crédito sobre essas instituições;
-
-d) Títulos da dívida pública portuguesa, incluindo as promissórias de fomento ultramarino não contadas para os efeitos do artigo 75.º, e obrigações com garantia do Estado emitidas por quaisquer empresas;
-
-e) Acções e obrigações não garantidas pelo Estado, cotadas na bolsa;
-
-f) Valores da carteira comercial a prazo não superior a seis meses, representados por letras, livranças, extractos de facturas e warrants descontados;
-
-g) Disponibilidades e valores realizáveis até 180 dias em posse de correspondentes na província;
-
-h) Empréstimos ou contas correntes a prazo não superior a um ano, caucionados por hipoteca ou pelo penhor de títulos da dívida pública, de títulos de acções e obrigações de empresas, de metais preciosos amoedados ou não, de mercadorias ou dos respectivos conhecimentos que, para esse efeito, as representem, e por warrants.
-
-§ 1.º Nas disponibilidades em moedas estrangeiras, a que se refere a alínea a) do presente artigo, contar-se-ão, além dos saldos das contas abertas nos termos da legislação vigente sobre o exercício do comércio de câmbios nas províncias ultramarinas, as letras em carteira aceites por bancos domiciliados no estrangeiro, os cheques à vista e ordens de pagamento passados por entidades de reconhecido crédito sobre esses bancos e, bem assim, quaisquer outros valores em moeda estrangeira que os bancos comerciais hajam adquirido ao abrigo daquela legislação.
-
-§ 2.º Nas disponibilidades em moeda nacional com curso legal noutros territórios portugueses, referidas na alínea b) do presente artigo, contar-se-ão, além dos saldos das contas abertas nos termos da legislação vigente sobre as operações de pagamentos interterritoriais, as letras em carteira aceites por instituições de crédito domiciliadas naqueles territórios nacionais, os cheques à vista e ordens de pagamento passados por entidades de reconhecido crédito sobre essas instituições e, bem assim, quaisquer outros valores em moeda nacional que os bancos comerciais hajam adquirido ao abrigo da citada legislação.
+> Revogado pelo/a [Decreto-Lei n.º 48369](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48369-1968-274851), publicado em 1968-05-06.
 
 ###### Artigo 79.º
 
@@ -721,19 +699,9 @@ Para efeitos do disposto no artigo anterior, os valores nele mencionados deverã
 
 ###### Artigo 80.º
 
-O Ministro do Ultramar, atenta a conjuntura monetária e financeira das províncias ultramarinas e ouvido o Conselho Nacional de Crédito, poderá fixar por portaria:
+(Revogado.)
 
-a) A participação dos títulos de dívida pública nas garantias a que se refere o artigo 78.º;
-
-b) O limite máximo de representação nas mesmas garantias, de acções e obrigações, incluindo as obrigações garantidas pelo Estado, dos valores de carteira comercial a prazo superior a 90 dias dos empréstimos e contas correntes caucionados por outra forma que não seja a do penhor de títulos de dívida pública;
-
-c) As condições a que devem obedecer as acções e as obrigações não garantidas pelo Estado para que estes títulos, ou os empréstimos ou contas correntes por eles caucionados, possam ser considerados nas ditas garantias;
-
-d) As condições em que valores não indicados nas alíneas a) a h) do artigo 78.º, ou aí referidos mas a prazos superiores aos estabelecidos nas mesmas alíneas, poderão ser contados como garantias para efeitos do disposto nesse artigo;
-
-e) O limite mínimo da relação entre o montante do capital e fundos de reserva dos bancos comerciais, por um lado, e, por outro, o montante dos depósitos e outras responsabilidades efectivas destes bancos para com terceiros, bem como da relação entre aquele montante do capital e fundos de reserva e o das responsabilidades dos bancos por aceites, avales e garantias concedidas.
-
-§ único. Os limites e condições a estabelecer pelo Ministro do Ultramar nos termos do presente artigo poderão variar de província para província ou, na mesma província ultramarina, com a evolução da sua conjuntura monetária e financeira.
+> Revogado pelo/a [Decreto-Lei n.º 48369](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48369-1968-274851), publicado em 1968-05-06.
 
 ###### Artigo 81.º
 

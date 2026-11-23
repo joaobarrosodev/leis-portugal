@@ -35,34 +35,35 @@
       "de": 65,
       "ate": 68,
       "texto": "Art. 20.º - (Revogado.)",
-      "alterador": 4
+      "alterador": 5
     },
     {
       "de": 2863,
       "ate": 2863,
-      "texto": "Art. 5.º - (Revogado.)",
+      "texto": "Art. 5.º Chegada. - (Revogado.)",
       "alterador": 2
     }
   ],
   "insercoes": [],
-  "nao_aplicavel": "Alterador 2, art. 3.º: nova redação dos artigos 3.º e 4.º do Regulamento de Segurança de Instalações Colectivas de Edifícios e Entradas: sem texto; a redação é a dos n.os 25 e 24 do artigo 3.º do Regulamento de Segurança de Redes de Distribuição de Energia Eléctrica em Baixa Tensão, anexo ao Decreto Regulamentar n.º 90/84, que não vem no pedido.",
+  "nao_aplicavel": "Alterador 2, nova redação dos artigos 3.º e 4.º do Regulamento de Segurança de Instalações Colectivas de Edifícios e Entradas (redação dos n.os 25 e 24 do artigo 3.º do Regulamento de Segurança de Redes de Distribuição de Energia Eléctrica em Baixa Tensão): sem texto; o pedido só traz o artigo 3.º do Decreto Regulamentar n.º 90/84, não o regulamento anexo de onde vem a redação.\nAlterador 4, artigo 6.º, revogação do artigo 1.º e dos Regulamentos anexos: efeito adiado; a revogação produz efeitos a partir da publicação da portaria do n.º 1 do artigo 2.º do Decreto-Lei n.º 226/2005, facto posterior que o pedido não traz.",
   "instrucoes": [
-    "Alterador 1, art. 1.º: nova redação dos n.os 1 e 2 do art. 4.º; substituídas as unidades 20-21 (o n.º 2 fica em dois parágrafos, como no alterador).",
-    "Alterador 1, art. 1.º: nova redação do art. 5.º; substituídas as unidades 25-32 pelo artigo novo (n.os 1 a 6).",
-    "Alterador 1, art. 1.º: nova redação do art. 6.º; ultrapassada pela do alterador 3 na mesma unidade 33.",
-    "Alterador 1, art. 1.º: nova redação do n.º 1 do art. 9.º; substituída a unidade 43, mantendo 'Art. 9.º - 1.' do texto atual.",
-    "Alterador 1, art. 2.º: regime dos ramais, chegadas ou entradas, sem alterar o texto do original; ignorado.",
-    "Alterador 1, art. 3.º: revoga o n.º 3 do art. 8.º; unidade 41 passa a '3. (Revogado.)'.",
-    "Alterador 2, art. 3.º: nova redação dos arts. 3.º e 4.º do Regulamento de Instalações Colectivas por remissão para o anexo do DR 90/84, que não vem no pedido; em nao_aplicavel.",
-    "Alterador 2, art. 5.º: revoga o art. 5.º do Regulamento de Instalações Colectivas; unidade 2863 passa a 'Art. 5.º - (Revogado.)'. A revogação do Decreto n.º 46847 é de outro diploma.",
-    "Alterador 3, artigo único: nova redação do art. 6.º; substituída a unidade 33 (n.os 1 e 2).",
-    "Alterador 4, art. 37.º, alínea i): revoga o art. 20.º; unidades 65-68 passam a 'Art. 20.º - (Revogado.)'."
+    "Alt. 1, art. 1.º: nova redação dos n.os 1 e 2 do art. 4.º; unidades 20-21 substituídas (o n.º 2 novo tem dois parágrafos).",
+    "Alt. 1, art. 1.º: nova redação do art. 5.º; unidades 25-32 substituídas pelos n.os 1 a 6 novos.",
+    "Alt. 1, art. 1.º: nova redação do art. 6.º, depois substituída pela do alt. 3 (artigo único); unidade 33 com a redação final do alt. 3 (n.os 1 e 2).",
+    "Alt. 1, art. 1.º: nova redação do n.º 1 do art. 9.º; unidade 43 substituída, mantendo 'Art. 9.º - 1.'.",
+    "Alt. 1, art. 2.º: regra própria sobre ramais e chegadas, não altera o texto do original; ignorada.",
+    "Alt. 1, art. 3.º: revoga o n.º 3 do art. 8.º; unidade 41 = '3. (Revogado.)'.",
+    "Alt. 2, art. 3.º: nova redação dos arts. 3.º e 4.º do Regulamento de Instalações Colectivas por remissão para o regulamento anexo ao DR 90/84, que não vem no pedido; nao_aplicavel.",
+    "Alt. 2, art. 5.º: revoga o art. 5.º do Regulamento de Instalações Colectivas; unidade 2863 = 'Art. 5.º Chegada. - (Revogado.)', mantendo a epígrafe (reparo). A revogação do Decreto n.º 46847 é de outro diploma.",
+    "Alt. 4, art. 6.º: revogação do art. 1.º e dos Regulamentos anexos dependente da publicação de portaria; nao_aplicavel (efeito adiado). Arts. 1.º a 5.º do alt. 4 não alteram o texto.",
+    "Alt. 5, art. 37.º, alínea i): revoga o art. 20.º; unidades 65-68 = 'Art. 20.º - (Revogado.)'. O resto da Lei n.º 30/2006 é de outros diplomas."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",
-  "problemas": [],
+  "problemas": [
+    "substituição 2863-2863: parágrafo que não está no alterador nem no original: Art. 5.º Chegada. - (Revogado.)"
+  ],
   "numeracao_aceite": [
-    "substituição 65-68: parágrafo que não está no alterador nem no original: Art. 20.º - (Revogado.)",
-    "substituição 2863-2863: parágrafo que não está no alterador nem no original: Art. 5.º - (Revogado.)"
+    "substituição 65-68: parágrafo que não está no alterador nem no original: Art. 20.º - (Revogado.)"
   ]
 }

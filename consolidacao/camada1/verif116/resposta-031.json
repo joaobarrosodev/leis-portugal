@@ -1,0 +1,175 @@
+[
+ {
+  "id": "pt:dre:215770:por",
+  "artigos": [
+   {
+    "artigo": "Trecho 1",
+    "veredicto": "certo",
+    "motivo": "Retificação: preâmbulo n.º 3 'requeridas'."
+   },
+   {
+    "artigo": "Trecho 2",
+    "veredicto": "certo",
+    "motivo": "Retificação: art. 4.º n.º 1 c), vírgula depois de 'a) e b)'."
+   },
+   {
+    "artigo": "Trecho 3",
+    "veredicto": "certo",
+    "motivo": "DL 5/73: n.os 5 e 6 do art. 6.º novos, texto idêntico (original só tem n.os 1-4)."
+   },
+   {
+    "artigo": "Trecho 4",
+    "veredicto": "certo",
+    "motivo": "Arts. 9.º, 11.º, 12.º, 13.º n.º 1 a) conforme DL 642/74 (com DL 5/73 nos n.os 5 do art. 9.º e 2 e 5 do art. 11.º); art. 10.º revogado."
+   },
+   {
+    "artigo": "Trecho 5",
+    "veredicto": "certo",
+    "motivo": "DL 642/74 art. 13.º n.os 2 e 3 letra a letra."
+   },
+   {
+    "artigo": "Trecho 6",
+    "veredicto": "certo",
+    "motivo": "DL 642/74 art. 14.º n.os 2 e 3 letra a letra."
+   },
+   {
+    "artigo": "Trecho 7",
+    "veredicto": "certo",
+    "motivo": "Retificação: 'Estatuto'."
+   },
+   {
+    "artigo": "Trecho 8",
+    "veredicto": "certo",
+    "motivo": "DL 5/73 art. 17.º n.º 3 b)."
+   },
+   {
+    "artigo": "Trecho 9",
+    "veredicto": "certo",
+    "motivo": "DL 5/73 art. 17.º n.º 3 d)."
+   },
+   {
+    "artigo": "Trecho 10",
+    "veredicto": "certo",
+    "motivo": "DL 5/73 art. 20.º n.º 4 c) aditada."
+   },
+   {
+    "artigo": "Trecho 11",
+    "veredicto": "certo",
+    "motivo": "DL 5/73 art. 23.º n.º 4, acrescento final."
+   },
+   {
+    "artigo": "Trecho 12",
+    "veredicto": "certo",
+    "motivo": "Retificação ('ou por conveniência') em a); b) e c) conforme DL 5/73 (o 'd.e' é do diploma)."
+   },
+   {
+    "artigo": "Trecho 13",
+    "veredicto": "certo",
+    "motivo": "Retificação: Decreto-Lei n.º 23048 e ligação."
+   },
+   {
+    "artigo": "Trecho 14",
+    "veredicto": "certo",
+    "motivo": "DL 596/73 art. 27.º n.º 3."
+   },
+   {
+    "artigo": "Trecho 15",
+    "veredicto": "certo",
+    "motivo": "DL 355/87 art. 5.º revoga o art. 35.º; corpo '(Revogado.)'."
+   },
+   {
+    "artigo": "Trecho 16",
+    "veredicto": "certo",
+    "motivo": "DL 5/73 art. 39.º n.º 1 e parágrafo seguinte."
+   },
+   {
+    "artigo": "Trecho 17",
+    "veredicto": "certo",
+    "motivo": "Retificação: 'à reserva geral'."
+   },
+   {
+    "artigo": "Trecho 18",
+    "veredicto": "certo",
+    "motivo": "DL 5/73 art. 53.º n.º 1."
+   },
+   {
+    "artigo": "Trecho 19",
+    "veredicto": "certo",
+    "motivo": "Retificação: 'à definição'."
+   },
+   {
+    "artigo": "Trecho 20",
+    "veredicto": "certo",
+    "motivo": "DL 26/71 art. 4.º revoga o art. 55.º."
+   },
+   {
+    "artigo": "Trecho 21",
+    "veredicto": "certo",
+    "motivo": "DL 5/73 art. 59.º n.º 1."
+   },
+   {
+    "artigo": "Trecho 22",
+    "veredicto": "certo",
+    "motivo": "DL 147/89 art. 15.º revoga os arts. 63.º e 64.º do anexo I."
+   },
+   {
+    "artigo": "Trecho 23",
+    "veredicto": "certo",
+    "motivo": "DL 375/77 art. 22.º n.º 3 do estatuto dos TLP (Anexo II tem o art. 22.º n.º 3), letra a letra."
+   }
+  ],
+  "instrucoes_em_falta": [
+   "DL 355/87 art. 5.º: revogação do art. 25.º do anexo I 'na parte em que dispõe sobre tarifas' (art. 25.º n.º 1 i), parte, e s)): alvo incerto, sem efeito no consolidado",
+   "DL 485/88 art. 2.º 3): revogação, desde 1/1/1989, da alínea c) do n.º 2 do art. 53.º do anexo I (isenção de impostos), mantendo isenções de sisa e contribuição predial: alvo incerto, a alínea c) fica intacta no consolidado"
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 244/74 (extinção dos conselhos de administração, fiscal e geral; criação do conselho de gerência e de fiscalização)",
+    "motivo": "não textual; diploma revogado pelo DL 642/74"
+   },
+   {
+    "instrucao": "DL 642/74 arts. 1.º e 4.º (extinção dos conselhos de gerência/fiscalização; funções do correio-mor e da comissão executiva passam ao presidente e ao conselho de administração)",
+    "motivo": "não textual: mudança de designação sem nova redação"
+   },
+   {
+    "instrucao": "DL 375/77 art. 2.º, nova redação do art. 14.º n.º 2 c) e do art. 24.º n.º 2 do estatuto dos TLP",
+    "motivo": "outro diploma (DL 48007); estes artigos não constam do anexo II do original"
+   },
+   {
+    "instrucao": "DL 355/87 art. 5.º: revogação do n.º 3 do art. 14.º do anexo ao DL 48007",
+    "motivo": "outro diploma"
+   },
+   {
+    "instrucao": "DL 355/87 art. 5.º: revogação de outras disposições que contrariem o diploma",
+    "motivo": "revogação condicional"
+   },
+   {
+    "instrucao": "DL 485/88 art. 2.º 1): revogação do art. 15.º b) do estatuto anexo ao DL 48007",
+    "motivo": "outro diploma"
+   },
+   {
+    "instrucao": "DL 147/89 art. 15.º: revogação do DL 48007",
+    "motivo": "outro diploma"
+   },
+   {
+    "instrucao": "DL 147/89 art. 15.º: revogação das normas que contrariem o diploma",
+    "motivo": "revogação condicional"
+   },
+   {
+    "instrucao": "DL 87/92 (transformação dos CTT em sociedade anónima e estatutos)",
+    "motivo": "não textual, não altera nem revoga texto do original"
+   },
+   {
+    "instrucao": "DL 122/94 art. 15.º b): revogação do DL 49368 e do anexo I 'na parte aplicável à Telecom'",
+    "motivo": "revogação condicional (não identifica as normas)"
+   },
+   {
+    "instrucao": "DL 18/2003 art. 1.º: nova redação do art. 4.º do DL 20-C/86",
+    "motivo": "outro diploma"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações (além do preâmbulo, Trecho 1)"
+ }
+]

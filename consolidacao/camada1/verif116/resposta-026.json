@@ -1,0 +1,39 @@
+[
+ {
+  "id": "pt:dre:629160:por",
+  "artigos": [
+   {
+    "artigo": "ANEXO I",
+    "veredicto": "certo",
+    "motivo": "Original so tem o titulo (anexo em imagem). O DL 110/2009, art. 6.º, republica as bases em anexo (imagem, link 0306103099.pdf igual ao do alterador), e o consolidado poe esse endereco sob o titulo; depois o DL 44-A/2010, art. 1.º (alteracao parcial), acrescenta as linhas das bases 2 e 3, que coincidem letra a letra (n.os 1-8 '...', 9, 10, 11 e 12 renumerados; base 3 als. a)-g)).",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Lei 13/2008, art. 1.º: base 10 do anexo, limite da concessao 31/12/2099",
+    "motivo": "Texto novo absorvido na republicacao em imagem do DL 110/2009 (art. 6.º, 'com a redacao actual'); o consolidado nao tem anexo textual onde o por."
+   },
+   {
+    "instrucao": "DL 110/2009, art. 2.º: nova redacao das bases 2, 3, 5, 6, 7, 10, 12, 22, 33, 60, 61, 66 e 79",
+    "motivo": "Tambem so em imagem na republicacao do art. 6.º; o anexo fica com o endereco da imagem."
+   },
+   {
+    "instrucao": "DL 110/2009, art. 3.º: aditamento das bases 2-A, 7-A, 12-A, 35-A, 41-A, 63-A e quadro IV",
+    "motivo": "Idem: texto vem na imagem da republicacao."
+   },
+   {
+    "instrucao": "DL 110/2009, art. 5.º, n.º 2: revogacao de bases 19, 61 e 66 (n.os)",
+    "motivo": "Idem: refletido apenas na imagem republicada."
+   },
+   {
+    "instrucao": "DL 110/2009, art. 1.º (art. 7.º do DL 374/2007) e art. 5.º, n.º 1 (n.os 3 e 4 do art. 8.º do DL 374/2007)",
+    "motivo": "Instrucoes de outro diploma."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

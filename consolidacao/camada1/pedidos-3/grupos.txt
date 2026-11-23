@@ -1,0 +1,52 @@
+1|corrido/pedido-002.md|1063
+2|completo/pedido-003.md|756
+3|completo/pedido-032.md|686
+4|completo/pedido-059.md|660
+5|corrido/pedido-006.md|640
+6|corrido/pedido-004.md|536
+7|completo/pedido-018.md|512
+8|completo/pedido-031.md|489
+9|completo/pedido-002.md|474
+10|completo/pedido-001.md|459
+11|completo/pedido-009.md|419
+12|corrido/pedido-003.md|371
+13|completo/pedido-005.md|365
+14|completo/pedido-070.md|300
+15|completo/pedido-051.md|294
+16|completo/pedido-016.md|291
+17|completo/pedido-020.md|269
+18|completo/pedido-015.md|246
+19|completo/pedido-041.md|244
+20|completo/pedido-071.md|233
+21|completo/pedido-028.md|231
+22|corrido/pedido-001.md|227
+23|completo/pedido-076.md|215
+24|completo/pedido-011.md, completo/pedido-029.md|219
+25|completo/pedido-021.md|211
+26|completo/pedido-007.md|209
+27|completo/pedido-046.md, completo/pedido-073.md|216
+28|corrido/pedido-010.md, completo/pedido-072.md|219
+29|completo/pedido-013.md, completo/pedido-024.md|219
+30|completo/pedido-023.md, completo/pedido-057.md|217
+31|completo/pedido-030.md, completo/pedido-066.md|215
+32|corrido/pedido-007.md, completo/pedido-064.md|216
+33|completo/pedido-017.md, completo/pedido-045.md|211
+34|corrido/pedido-005.md, completo/pedido-039.md, corrido/pedido-009.md|217
+35|completo/pedido-048.md, completo/pedido-040.md|218
+36|completo/pedido-037.md, completo/pedido-042.md|219
+37|completo/pedido-006.md, completo/pedido-074.md|219
+38|completo/pedido-061.md, completo/pedido-060.md|216
+39|completo/pedido-010.md, completo/pedido-047.md|214
+40|completo/pedido-053.md, completo/pedido-014.md|210
+41|completo/pedido-055.md, completo/pedido-035.md|219
+42|completo/pedido-056.md, completo/pedido-069.md|207
+43|completo/pedido-012.md, completo/pedido-063.md|216
+44|completo/pedido-033.md, completo/pedido-034.md, completo/pedido-022.md|219
+45|corrido/pedido-008.md, completo/pedido-067.md, completo/pedido-008.md|218
+46|completo/pedido-026.md, completo/pedido-049.md, completo/pedido-043.md|216
+47|completo/pedido-044.md, completo/pedido-038.md|219
+48|completo/pedido-004.md, completo/pedido-050.md|218
+49|completo/pedido-027.md, completo/pedido-058.md|215
+50|completo/pedido-062.md, completo/pedido-068.md, completo/pedido-052.md|219
+51|completo/pedido-075.md, completo/pedido-025.md, completo/pedido-054.md, completo/pedido-019.md, completo/pedido-036.md|171
+52|completo/pedido-065.md|21

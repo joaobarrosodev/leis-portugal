@@ -1,0 +1,218 @@
+[
+ {
+  "id": "pt:dre:234698:por",
+  "artigos": [
+   {
+    "artigo": "(preâmbulo)",
+    "veredicto": "certo",
+    "motivo": "Preâmbulo igual; os artigos foram separados do bloco único.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "Mesmo texto do original; o consolidado só separa o artigo do bloco único do original (Art. -> Artigo) sem alterar o texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "Mesmo texto do original; o consolidado só separa o artigo do bloco único do original (Art. -> Artigo) sem alterar o texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "Mesmo texto do original; o consolidado só separa o artigo do bloco único do original (Art. -> Artigo) sem alterar o texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "Mesmo texto do original; o consolidado só separa o artigo do bloco único do original (Art. -> Artigo) sem alterar o texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "Mesmo texto do original; o consolidado só separa o artigo do bloco único do original (Art. -> Artigo) sem alterar o texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "Mesmo texto do original; o consolidado só separa o artigo do bloco único do original (Art. -> Artigo) sem alterar o texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "certo",
+    "motivo": "Mesmo texto do original; o consolidado só separa o artigo do bloco único do original (Art. -> Artigo) sem alterar o texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "Mesmo texto do original; o consolidado só separa o artigo do bloco único do original (Art. -> Artigo) sem alterar o texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "Mesmo texto do original; o consolidado só separa o artigo do bloco único do original (Art. -> Artigo) sem alterar o texto.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 370/72, artigo único: efectivos dos músicos da Armada no mapa II passam a 2, 68, 14, 4, 4 (total 92)",
+    "motivo": "alteração só em imagem (mapa/quadro do original só existe em imagem, sem anexo com título onde pôr a nova redação); mapa II só em imagem"
+   },
+   {
+    "instrucao": "DL 535/72, art. 1.º: efectivos dos farmacêuticos navais do mapa I acrescidos de um capitão-de-mar-e-guerra",
+    "motivo": "alteração só em imagem (mapa/quadro do original só existe em imagem, sem anexo com título onde pôr a nova redação); acréscimo a número só existente na imagem"
+   },
+   {
+    "instrucao": "DL 65/73, art. 1.º: novos efectivos de capitães-de-mar-e-guerra e capitães-de-fragata (quadro em imagem)",
+    "motivo": "texto novo só em imagem e sem anexo com título no consolidado"
+   },
+   {
+    "instrucao": "DL 136/74, art. 1.º: aumento dos efectivos do serviço especial no mapa I (5, 14 e 26); art. 2.º mapa de escalonamento em imagem; arts. 3.º a 6.º (regras de promoção, quadro único, limites de idade)",
+    "motivo": "alteração só em imagem (mapa/quadro do original só existe em imagem, sem anexo com título onde pôr a nova redação); acréscimo a números só na imagem; arts. 3.º-6.º não dão nova redação a artigos do original"
+   },
+   {
+    "instrucao": "DL 27/76, art. 1.º: reduções e aumentos de efectivos (contra-almirante, capitão-de-mar-e-guerra, comodoro, capitão-de-fragata) no mapa I; arts. 2.º a 5.º",
+    "motivo": "alteração só em imagem (mapa/quadro do original só existe em imagem, sem anexo com título onde pôr a nova redação); reduções/aumentos a números só na imagem; arts. 2.º-5.º são regras transitórias/efeitos sem texto a inserir"
+   },
+   {
+    "instrucao": "Portaria 57/85, n.os 1.º e 2.º: efectivos de primeiro-tenente de fuzileiros passam para o bloco de oficiais subalternos e acerto da coluna «Total por postos»",
+    "motivo": "alteração só em imagem (mapa/quadro do original só existe em imagem, sem anexo com título onde pôr a nova redação)"
+   },
+   {
+    "instrucao": "DL 166/85, artigo único: efectivos de capitão-tenente e oficiais subalternos dos oficiais técnicos no mapa I (quadro em anexo em imagem)",
+    "motivo": "texto novo só em imagem e sem anexo com título no consolidado"
+   },
+   {
+    "instrucao": "DL 279/86, art. 1.º: efectivos de capitão-de-mar-e-guerra, capitão-de-fragata e oficiais subalternos de fuzileiros (quadro anexo em imagem); art. 2.º ajustamento gradual",
+    "motivo": "texto novo só em imagem e sem anexo com título no consolidado; art. 2.º é matéria de execução, não textual"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:522859:por",
+  "artigos": [
+   {
+    "artigo": "(preâmbulo)",
+    "veredicto": "certo",
+    "motivo": "Preâmbulo igual; artigos separados do bloco único.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "Mesmo texto do original; o consolidado só separa o artigo do bloco único do original (Art. -> Artigo) sem alterar o texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "A coordenação global das medidas previstas nos regulamentos referidos no artigo anterior é da competência da Direcção-Geral de Desenvolvimento Rural, no que se refere aos Regulamentos n.os 2078/92 e 2079/92, e da Direcção-Geral das Florestas, no que se refere ao Regulamento n.º 2080/92, em articulação com os organismos sectoriais competentes nas respectivas áreas e com o Instituto de Financiamento e Apoio ao Desenvolvimento da Agricultura e Pescas (IFADAP).",
+    "motivo": "Nova redacção do art. 2.º dada pelo art. 1.º do DL 351/97, letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "Mesmo texto do original; o consolidado só separa o artigo do bloco único do original (Art. -> Artigo) sem alterar o texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "Mesmo texto do original; o consolidado só separa o artigo do bloco único do original (Art. -> Artigo) sem alterar o texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "Mesmo texto do original; o consolidado só separa o artigo do bloco único do original (Art. -> Artigo) sem alterar o texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "Corpo do original igual nos n.os 1 a 5; n.º 6 substituído pelo texto do DL 351/97 (n.os 1 a 5 mantidos por «...»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "certo",
+    "motivo": "Mesmo texto do original; o consolidado só separa o artigo do bloco único do original (Art. -> Artigo) sem alterar o texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 7.º-A",
+    "veredicto": "certo",
+    "motivo": "Aditado pelo art. 2.º do DL 351/97, texto igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "Mesmo texto do original; o consolidado só separa o artigo do bloco único do original (Art. -> Artigo) sem alterar o texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "Mesmo texto do original; o consolidado só separa o artigo do bloco único do original (Art. -> Artigo) sem alterar o texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 10.º",
+    "veredicto": "certo",
+    "motivo": "N.os 1 e 2 mantidos; n.º 3 com a redacção do DL 351/97.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 11.º",
+    "veredicto": "certo",
+    "motivo": "N.os 1 a 3 mantidos; n.º 4 aditado pelo DL 351/97.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [
+   "DL 38/2014, art. 6.º, al. a): revoga o artigo 2.º do DL 31/94, na parte em que se refere ao Regulamento (CEE) n.º 2079/92. O alvo é conhecido (a expressão «aos Regulamentos n.os 2078/92 e 2079/92» no art. 2.º) e o consolidado não a aplicou; é revogação parcial por matéria, não condicional."
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 38/2014, art. 6.º, als. b), c) e d): revogam artigos do DL 64/2004 e das Portarias 854/94 e 99/2001",
+    "motivo": "instrução dirigida a outros diplomas"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:541267:por",
+  "artigos": [],
+  "instrucoes_em_falta": [
+   "DL 38/2014, art. 6.º, al. b): revogação do artigo 5.º do DL 64/2004 na parte relativa à intervenção «Reforma Antecipada» — alvo incerto (o texto do original não é visível na vista)",
+   "DL 38/2014, art. 6.º, al. b): revogação do artigo 8.º do DL 64/2004 na parte relativa à intervenção «Reforma Antecipada» — alvo incerto",
+   "DL 38/2014, art. 6.º, al. b): revogação do n.º 1 do artigo 16.º do DL 64/2004 na parte em que se refere ao Regulamento (CEE) n.º 2079/92 — alvo incerto (texto do original não visível; revogação parcial por matéria, não condicional)"
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 38/2014, art. 6.º, als. a), c) e d): revogam o art. 2.º do DL 31/94 e artigos das Portarias 854/94 e 99/2001",
+    "motivo": "instrução dirigida a outros diplomas"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

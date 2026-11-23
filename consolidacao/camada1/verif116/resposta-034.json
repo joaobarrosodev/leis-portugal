@@ -1,0 +1,249 @@
+[
+ {
+  "id": "pt:dre:226629:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 70.º, n.º 1, do DL 124/99 (revoga o Estatuto salvo art. 2.º, n.os 1 e 2 do art. 3.º, art. 6.º, parte inicial das alíneas b) e c) e alínea d) do n.º 2 do art. 10.º e arts. 11.º a 21.º); o artigo não está nas exceções.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "N.os 1 e 2 mantidos pelo art. 70.º, n.º 1; n.os 3 a 5 revogados (não excecionados).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 70.º, n.º 1, do DL 124/99 (revoga o Estatuto salvo art. 2.º, n.os 1 e 2 do art. 3.º, art. 6.º, parte inicial das alíneas b) e c) e alínea d) do n.º 2 do art. 10.º e arts. 11.º a 21.º); o artigo não está nas exceções.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 70.º, n.º 1, do DL 124/99 (revoga o Estatuto salvo art. 2.º, n.os 1 e 2 do art. 3.º, art. 6.º, parte inicial das alíneas b) e c) e alínea d) do n.º 2 do art. 10.º e arts. 11.º a 21.º); o artigo não está nas exceções.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 70.º, n.º 1, do DL 124/99 (revoga o Estatuto salvo art. 2.º, n.os 1 e 2 do art. 3.º, art. 6.º, parte inicial das alíneas b) e c) e alínea d) do n.º 2 do art. 10.º e arts. 11.º a 21.º); o artigo não está nas exceções.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 70.º, n.º 1, do DL 124/99 (revoga o Estatuto salvo art. 2.º, n.os 1 e 2 do art. 3.º, art. 6.º, parte inicial das alíneas b) e c) e alínea d) do n.º 2 do art. 10.º e arts. 11.º a 21.º); o artigo não está nas exceções.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 70.º, n.º 1, do DL 124/99 (revoga o Estatuto salvo art. 2.º, n.os 1 e 2 do art. 3.º, art. 6.º, parte inicial das alíneas b) e c) e alínea d) do n.º 2 do art. 10.º e arts. 11.º a 21.º); o artigo não está nas exceções.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 10.º",
+    "veredicto": "dúvida",
+    "motivo": "N.º 1, alínea a) do n.º 2, n.os 3 e 4 revogados (certo); alínea d) mantida (certo). Mas o art. 70.º só exceciona 'a parte inicial das alíneas b) e c)' e a alínea d) do n.º 2: o consolidado deixou inteiras as alíneas b) e c), sem se saber onde acaba a parte inicial, e manteve o proémio do n.º 2, que a exceção não menciona expressamente.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 12.º",
+    "veredicto": "certo",
+    "motivo": "Art. 12.º mantido (11.º a 21.º); n.º 4 com a redação do art. 62.º, n.º 3 do DL 124/99, que o altera ('Obtida a aprovação... ou obtido o doutoramento em área científica adequada...'). N.os 1 a 3 iguais ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 22.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 70.º, n.º 1, do DL 124/99 (revoga o Estatuto salvo art. 2.º, n.os 1 e 2 do art. 3.º, art. 6.º, parte inicial das alíneas b) e c) e alínea d) do n.º 2 do art. 10.º e arts. 11.º a 21.º); o artigo não está nas exceções.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 23.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 70.º, n.º 1, do DL 124/99 (revoga o Estatuto salvo art. 2.º, n.os 1 e 2 do art. 3.º, art. 6.º, parte inicial das alíneas b) e c) e alínea d) do n.º 2 do art. 10.º e arts. 11.º a 21.º); o artigo não está nas exceções.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 24.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 70.º, n.º 1, do DL 124/99 (revoga o Estatuto salvo art. 2.º, n.os 1 e 2 do art. 3.º, art. 6.º, parte inicial das alíneas b) e c) e alínea d) do n.º 2 do art. 10.º e arts. 11.º a 21.º); o artigo não está nas exceções.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 25.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 70.º, n.º 1, do DL 124/99 (revoga o Estatuto salvo art. 2.º, n.os 1 e 2 do art. 3.º, art. 6.º, parte inicial das alíneas b) e c) e alínea d) do n.º 2 do art. 10.º e arts. 11.º a 21.º); o artigo não está nas exceções.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 26.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 70.º, n.º 1, do DL 124/99 (revoga o Estatuto salvo art. 2.º, n.os 1 e 2 do art. 3.º, art. 6.º, parte inicial das alíneas b) e c) e alínea d) do n.º 2 do art. 10.º e arts. 11.º a 21.º); o artigo não está nas exceções.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 27.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 70.º, n.º 1, do DL 124/99 (revoga o Estatuto salvo art. 2.º, n.os 1 e 2 do art. 3.º, art. 6.º, parte inicial das alíneas b) e c) e alínea d) do n.º 2 do art. 10.º e arts. 11.º a 21.º); o artigo não está nas exceções.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 28.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 70.º, n.º 1, do DL 124/99 (revoga o Estatuto salvo art. 2.º, n.os 1 e 2 do art. 3.º, art. 6.º, parte inicial das alíneas b) e c) e alínea d) do n.º 2 do art. 10.º e arts. 11.º a 21.º); o artigo não está nas exceções.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 29.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 70.º, n.º 1, do DL 124/99 (revoga o Estatuto salvo art. 2.º, n.os 1 e 2 do art. 3.º, art. 6.º, parte inicial das alíneas b) e c) e alínea d) do n.º 2 do art. 10.º e arts. 11.º a 21.º); o artigo não está nas exceções.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 30.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 70.º, n.º 1, do DL 124/99 (revoga o Estatuto salvo art. 2.º, n.os 1 e 2 do art. 3.º, art. 6.º, parte inicial das alíneas b) e c) e alínea d) do n.º 2 do art. 10.º e arts. 11.º a 21.º); o artigo não está nas exceções.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 31.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 70.º, n.º 1, do DL 124/99 (revoga o Estatuto salvo art. 2.º, n.os 1 e 2 do art. 3.º, art. 6.º, parte inicial das alíneas b) e c) e alínea d) do n.º 2 do art. 10.º e arts. 11.º a 21.º); o artigo não está nas exceções.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 32.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 70.º, n.º 1, do DL 124/99 (revoga o Estatuto salvo art. 2.º, n.os 1 e 2 do art. 3.º, art. 6.º, parte inicial das alíneas b) e c) e alínea d) do n.º 2 do art. 10.º e arts. 11.º a 21.º); o artigo não está nas exceções.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 33.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 70.º, n.º 1, do DL 124/99 (revoga o Estatuto salvo art. 2.º, n.os 1 e 2 do art. 3.º, art. 6.º, parte inicial das alíneas b) e c) e alínea d) do n.º 2 do art. 10.º e arts. 11.º a 21.º); o artigo não está nas exceções.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 34.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 70.º, n.º 1, do DL 124/99 (revoga o Estatuto salvo art. 2.º, n.os 1 e 2 do art. 3.º, art. 6.º, parte inicial das alíneas b) e c) e alínea d) do n.º 2 do art. 10.º e arts. 11.º a 21.º); o artigo não está nas exceções. Fecho (assinaturas) mantido, como no original.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [
+   "Art. 70.º, n.º 1: a parte final das alíneas b) e c) do n.º 2 do art. 10.º (para além da 'parte inicial') fica revogada, e o proémio do n.º 2 não é excecionado: alvo incerto (o alterador não diz onde acaba a parte inicial); o consolidado manteve b) e c) inteiras."
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Art. 62.º, n.º 4: referências ao CRAF nas disposições mantidas consideram-se feitas ao conselho científico",
+    "motivo": "Mudança de designação sem nova redação (regra de remissão; confirmado no texto: 'consideram-se feitas')."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:237465:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 10.º",
+    "veredicto": "certo",
+    "motivo": "DL 49305, art. 1.º, altera o §3.º: 'As emissões ... necessárias ... regem-se pelo disposto no artigo 40.º do DL 49304'; corpo e §§ 1.º e 2.º ('...') ficam como no original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 20.º",
+    "veredicto": "certo",
+    "motivo": "Redação do DL 49305, art. 1.º, igual letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 29.º",
+    "veredicto": "certo",
+    "motivo": "Corpo mantido ('...'); §único com a redação do DL 49305 (sem ponto final, como no alterador).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 36.º",
+    "veredicto": "dúvida",
+    "motivo": "O §1.º tem as quotas do DL 49305, art. 1.º (valores e total conferem), corpo e §2.º mantidos. Mas o DL 479/71, art. 5.º, n.º 1, fixa novas quotas-partes (total 3 000 000 contos) pelo capital total do Fundo, o que pode afetar o §1.º; o consolidado não o aplicou. Dependente da leitura dessa norma autónoma.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 41.º",
+    "veredicto": "certo",
+    "motivo": "Redação do DL 48702, art. 1.º (corpo, §1.º, §2.º), que substitui o artigo (e a do DL 48006/46632), mais o §3.º aditado pelo DL 49305, art. 2.º; confere letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 47.º",
+    "veredicto": "certo",
+    "motivo": "Alínea d) com a redação do DL 49305, art. 3.º; resto igual.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [
+   "DL 479/71, art. 1.º, n.º 1: o capital de 1 500 000 contos atribuído pelo art. 3.º é elevado para 3 milhões de contos (alvo: art. 3.º, que está na lista dos IGUAIS; o alterador dá o novo montante, por isso há texto para aplicar).",
+   "DL 479/71, art. 5.º, n.º 1: novas quotas-partes das províncias pelo capital total (3 000 000 contos); alvo incerto (art. 36.º, §1.º?), norma autónoma sem instrução de substituição."
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 44828, artigo único: entrada em vigor dos DL 44698 a 44703 (art. 63.º do original) fixada para 1 de Março de 1963",
+    "motivo": "Fixação/adiamento de data sem nova redação do art. 63.º; não textual."
+   },
+   {
+    "instrucao": "DL 48006, art. 2.º: revoga o DL 46632",
+    "motivo": "Instrução de outro diploma."
+   },
+   {
+    "instrucao": "DL 48702, art. 2.º: redução da taxa de juro dos empréstimos (e §único, remissão para o art. 52.º)",
+    "motivo": "Norma autónoma, sem alterar o texto do original; não textual."
+   },
+   {
+    "instrucao": "Decreto 553/71, art. 1.º, n.º 1: sistema de compensação criado em substituição do instituído pelo art. 1.º do original",
+    "motivo": "Substituição de regime sem revogação nem nova redação do art. 1.º; não textual."
+   },
+   {
+    "instrucao": "DL 317/80, art. 1.º: extinção e liquidação do Fundo Monetário da Zona do Escudo",
+    "motivo": "Não revoga nem dá nova redação a artigos do original; não textual."
+   },
+   {
+    "instrucao": "DL 317/80, art. 9.º: revoga o DL 478/71 e o Decreto 553/71",
+    "motivo": "Instrução de outro diploma."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:374825:por",
+  "artigos": [
+   {
+    "artigo": "ANEXO",
+    "veredicto": "dúvida",
+    "motivo": "Matemáticas Aplicadas: imagem 1993/07/162b00/38123814 é a da Portaria 662/93 (certo). Relações Internacionais: imagem 1993/10/239b00/57285729 é a da Portaria 1010/93 (certo). Arquitectura: Portaria 436/2000 dá a imagem 2000/07/163b00/32863287, mas o consolidado traz 'Grau de licenciado', QUADROS 1 a 5 e a imagem 2001/05/123b00/31423143, que só pode vir da Portaria 539/2001, cujo texto está omitido na vista: não verificável. Os 5 quadros repetem a mesma imagem (cosmético).",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [
+   "Portaria 539/2001 (substitui o plano de Arquitectura de Lisboa fixado pela Portaria 436/2000): texto omitido na vista, aplicação (imagem 2001/05/123b00/31423143) não verificável; alvo anexo, curso de Arquitectura.",
+   "Portarias 1195/2000, 1196/2000, 1287/2001 e 1296/2002 (planos de Arquitectura de Famalicão e Porto): texto omitido na vista, só há a afirmação da triagem de que são de outro diploma; não confirmável; alvo incerto."
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Portaria 662/93, 1.º: plano do curso de Economia",
+    "motivo": "Outro diploma: confirmado no texto, o plano de Economia consta do anexo ao Despacho n.º 135/MEC/86, e só o de Matemáticas Aplicadas ao DL 166/88."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

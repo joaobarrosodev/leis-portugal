@@ -1,0 +1,47 @@
+[
+ {
+  "id": "pt:dre:638772:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 48.º-A",
+    "veredicto": "certo",
+    "motivo": "Igual ao artigo 48.º-A aditado pelo art. 3.º do DL 65/2011.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 48.º-B",
+    "veredicto": "certo",
+    "motivo": "Igual ao texto aditado pelo DL 65/2011.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 48.º-C",
+    "veredicto": "certo",
+    "motivo": "Igual ao texto aditado pelo DL 65/2011.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 52.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação do art. 2.º do DL 65/2011 (n.os 1 e 2); epígrafe mantida.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [
+   "DL 65/2011, art. 3.º: aditamento do «CAPÍTULO V-A — Cadastro predial em zonas de intervenção florestal» a integrar os artigos 48.º-A a 48.º-C; o consolidado não tem esse título (alvo: entre o artigo 48.º e o CAPÍTULO VI, ou antes do 48.º-A; posição exacta incerta)"
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 65/2011, art. 4.º: republicação do DL 224/2007",
+    "motivo": "não textual"
+   },
+   {
+    "instrucao": "DL 16/2025, arts. 2.º, 3.º e 4.º: alterações ao DL 72/2023 e à Lei 3/2015 e revogações",
+    "motivo": "instruções de outros diplomas, nenhuma dirigida ao DL 224/2007"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

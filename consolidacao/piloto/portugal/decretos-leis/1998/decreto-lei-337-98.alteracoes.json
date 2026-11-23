@@ -124,5 +124,19 @@
     "unidade": [],
     "diploma": "pt:dre:223019:por",
     "alterador": "pt:dre:571959:por;pt:dre:333868:por;pt:dre:251873:por;pt:dre:536639:por"
+  },
+  {
+    "artigo": "ANEXO I — [(ver planta no documento original)](https://files.diariodarepublica.pt/1s/1998/11/254a00/57445753.pdf)",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "## ANEXO I — [(ver planta no documento original)](https://files.diariodarepublica.pt/1s/1998/11/254a00/57445753.pdf)",
+    "depois": "## ANEXO I",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:223019:por",
+    "alterador": "pt:dre:571959:por;pt:dre:333868:por;pt:dre:251873:por;pt:dre:536639:por"
   }
 ]

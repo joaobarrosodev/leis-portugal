@@ -1,5 +1,19 @@
 [
   {
+    "artigo": "4.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 4.º — Zonas non aedificandi\n\n1 - Em relação aos lanços de auto-estrada constantes da base II do anexo ao presente diploma, são fixadas as seguintes zonas de servidão non aedificandi:\n\na) Desde a aprovação do estudo prévio até a aprovação da planta parcelar do projecto de execução, 200 m para cada lado do eixo da estrada e, centrado em cada nó de ligação, um círculo com 1300 m de diâmetro;\n\nb) A partir da aprovação da planta parcelar do projecto de execução, os limites fixados pelas alíneas d) e e) do n.º 1 do artigo 8.º do Decreto-Lei n.º 13/71, de 23 de Janeiro, passam a ser os seguintes:\n\ni) Edifícios, a menos de 40 m a contar do limite definitivo previsto das plataformas das auto-estradas, dos ramos dos nós e dos ramais de acesso e ainda das praças de portagem e das zonas de serviço, e nunca a menos de 20 m da zona da auto-estrada;\n\nii) Instalações de carácter industrial, nomeadamente fábricas, garagens, armazéns, restaurantes, hotéis e congéneres e, bem assim, igrejas, recintos de espectáculos, matadouros e quartéis de bombeiros, a menos de 70 m a contar dos limites da plataforma considerados na alínea anterior, e nunca a menos de 50 m da auto-estrada.\n\n2 - As disposições do número anterior ficam, respectivamente, condicionadas à publicação no Diário da República da aprovação pelo Ministro das Obras Públicas, Transportes e Habitação, ou entidades a quem este tenha delegado, dos estudos prévios e das plantas parcelares dos projectos de execução.\n\n3 - O Instituto das Estradas de Portugal pode usar do direito de embargo relativamente a obras efectuadas com violação do disposto nos números anteriores, considerando-se nulos e de nenhum efeito os licenciamentos efectuados por quaisquer entidades nessas condições.",
+    "depois": "###### Artigo 4.º — Zonas non aedificandi\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 34/2015](https://diariodarepublica.pt/dr/detalhe/lei/34-2015-67085601), publicado em 2015-04-27.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:173758:por",
+    "alterador": "pt:dre:67085601:por;pt:dre:67522988:por"
+  },
+  {
     "artigo": "CAPÍTULO VII — Funções do IEP",
     "operacao": "substituir",
     "regra": "llm",
@@ -11,7 +25,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:173758:por",
-    "alterador": "pt:dre:67522988:por"
+    "alterador": "pt:dre:67085601:por;pt:dre:67522988:por"
   },
   {
     "artigo": "CAPÍTULO X — Exploração e conservação da Auto-Estrada",
@@ -25,6 +39,6 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:173758:por",
-    "alterador": "pt:dre:67522988:por"
+    "alterador": "pt:dre:67085601:por;pt:dre:67522988:por"
   }
 ]

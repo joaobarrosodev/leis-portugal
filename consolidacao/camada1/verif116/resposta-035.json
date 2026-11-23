@@ -1,0 +1,203 @@
+[
+ {
+  "id": "pt:dre:455465:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "DL 55/98 art. 1.º: nova redação integral (lista de Ministros; sem ';' após 'Economia' como no diploma).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "DL 55/98: n.os 1-4 mantidos, n.º 5 novo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "DL 55/98: n.º 1 a)-b) mantidas, c)-e) = anteriores d)-f), f) nova; n.º 2 e 7 novos; n.º 6 novo; 3-5 mantidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "errado",
+    "motivo": "DL 55/98 art. 1.º dá ao art. 7.º nova redação integral. O consolidado tem o texto novo seguido do texto antigo (segundo parágrafo, 'pelo Ministro da Presidência.'), que devia ter sido eliminado.",
+    "texto_esperado": "Artigo 7.º\n\nO Primeiro-Ministro, salvo sua indicação em contrário, será substituído, nas suas ausências ou impedimentos, pelo Ministro dos Negócios Estrangeiros ou pelo ministro que não esteja ausente ou impedido, de acordo com a ordem estabelecida no artigo 2.º, sendo a substituição comunicada ao Presidente da República nos termos do artigo 185.º, n.º 1, da Constituição."
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 55/98.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "DL 55/98: n.º 1 mantido, n.º 2 novo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 9.º-A",
+    "veredicto": "certo",
+    "motivo": "Aditado pelo DL 55/98 art. 2.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 9.º-B",
+    "veredicto": "certo",
+    "motivo": "Aditado pelo DL 55/98 art. 2.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 10.º",
+    "veredicto": "certo",
+    "motivo": "DL 55/98: art. 10.º passa a ter o texto do anterior art. 11.º (permuta).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 11.º",
+    "veredicto": "certo",
+    "motivo": "DL 55/98: art. 11.º passa a ter o texto do anterior art. 10.º, incluindo o n.º 3 aditado pelo DL 23/96 art. 4.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 14.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 23/96 art. 8.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 15.º",
+    "veredicto": "certo",
+    "motivo": "DL 43/96 art. 1.º: novo n.º 1; n.º 2 mantido.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 16.º",
+    "veredicto": "certo",
+    "motivo": "DL 55/98: n.º 2 novo (substitui o do DL 43/96); n.os 1, 3-5 mantidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 17.º",
+    "veredicto": "certo",
+    "motivo": "DL 17/99 art. 1.º: novo n.º 2; restantes mantidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 19.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 23/96 art. 8.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 21.º",
+    "veredicto": "certo",
+    "motivo": "DL 55/98: nova redação integral (n.os 1-4).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 22.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 55/98.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 23.º",
+    "veredicto": "certo",
+    "motivo": "DL 55/98: nova redação.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 24.º",
+    "veredicto": "certo",
+    "motivo": "DL 55/98: nova redação.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 25.º",
+    "veredicto": "certo",
+    "motivo": "DL 55/98: n.º 1 novo; n.º 2 mantido.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 26.º",
+    "veredicto": "certo",
+    "motivo": "DL 23/96 art. 5.º: alíneas d) a x) do n.º 3 novas (a antiga alínea d) Comissão Portuguesa da História Militar sai; a lista nova termina em x) Algarve, logo a antiga y) não subsiste; coincide com a republicação anexa ao DL 55/98).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 30.º",
+    "veredicto": "certo",
+    "motivo": "DL 55/98: n.os 1-2 mantidos, n.º 3 = anterior n.º 4 (antigo n.º 3 sai).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 31.º",
+    "veredicto": "certo",
+    "motivo": "DL 55/98: n.º 1 novo; 2-4 mantidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 32.º",
+    "veredicto": "certo",
+    "motivo": "DL 55/98: n.º 1 novo; 2-4 mantidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 33.º",
+    "veredicto": "certo",
+    "motivo": "DL 55/98: n.º 1 novo; 2-5 mantidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 33.º-A",
+    "veredicto": "certo",
+    "motivo": "Aditado pelo DL 267/98.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 34.º",
+    "veredicto": "certo",
+    "motivo": "DL 23/96 art. 7.º: n.º 5 novo; n.os 6-8 aditados; 1-4 mantidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 38.º-A",
+    "veredicto": "certo",
+    "motivo": "Aditado pelo DL 55/98 art. 2.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 38.º-B",
+    "veredicto": "certo",
+    "motivo": "Aditado pelo DL 55/98 art. 2.º.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 3-B/96 (regime do Alto-Comissário para a Igualdade e a Família)",
+    "motivo": "Não contém nenhuma instrução de alteração ao texto do DL 296-A/95; só remete para o n.º 7 do art. 6.º."
+   },
+   {
+    "instrucao": "DL 23/96 arts. 1.º e 2.º (criação do Ministério do Equipamento, Planeamento e Administração do Território e extinções) e DL 55/98 art. 3.º (referências a ministros consideradas feitas a outros)",
+    "motivo": "Não textuais: disposições próprias e regras de equivalência de referências, sem nova redação de artigos do original (avaliação minha; não vêm na secção do consolidador)."
+   },
+   {
+    "instrucao": "DL 474-A/99 art. 37.º n.º 1 (a estrutura orgânica do DL 296-A/95 é substituída pela do novo diploma)",
+    "motivo": "Não textual: substituição global sem revogação expressa de artigos nem texto para aplicar (confirmado no art. 37.º; o diploma não tem norma revogatória)."
+   },
+   {
+    "instrucao": "DL 171/2004 (orgânica do Ministério da Segurança Social e do Trabalho)",
+    "motivo": "Outro diploma; não tem nenhuma instrução dirigida ao DL 296-A/95 (o art. 42.º revoga o DL 115/98 e o DL 2/2003)."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

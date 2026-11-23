@@ -7,18 +7,24 @@ consolidacao:
     sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
+  - id: pt:dre:628488:por
+    title: Declaração de Rectificação n.º 107/2007
+    publication_date: '2007-11-27'
   - id: pt:dre:487360:por
     title: Decreto-Lei n.º 247-B/2008
     publication_date: '2008-12-30'
-  - id: pt:dre:73740375:por
-    title: Lei n.º 2/2016
-    publication_date: '2016-02-29'
+  - id: pt:dre:116043536:por
+    title: Lei n.º 49/2018
+    publication_date: '2018-08-14'
   - id: pt:dre:115578234:por
     title: Decreto-Lei n.º 51/2018
     publication_date: '2018-06-25'
   - id: pt:dre:489737:por
     title: Lei n.º 103/2009
     publication_date: '2009-09-11'
+  - id: pt:dre:259267:por
+    title: Lei n.º 23/2013
+    publication_date: '2013-03-05'
   - id: pt:dre:69992902:por
     title: Lei n.º 90/2015
     publication_date: '2015-08-12'
@@ -262,9 +268,9 @@ Artigo 43.º
 
 1 - ...
 
-2 - A procuração pode ser outorgada por documento escrito e assinado pelo representado, com reconhecimento presencial da assinatura, por documento autenticado ou por instrumento público.
+2 - A procuração pode ser outorgada por documento assinado pelo representado, com reconhecimento presencial da assinatura, por documento autenticado ou por instrumento público.
 
-3 - Se a procuração tiver sido passada a advogado ou solicitador, é suficiente documento escrito e assinado pelo representado.
+3 - Se a procuração tiver sido passada a advogado ou solicitador, é suficiente documento assinado pelo representado.
 
 4 - (Revogado.)
 
@@ -852,7 +858,7 @@ Artigo 140.º
 
 Publicidade do processo
 
-1 - O processo preliminar de casamento é público na parte que respeita à declaração dos elementos previstos nas alíneas a), b), c) e f) do n.º 2 do artigo 136.º, sem prejuízo do disposto no n.º 3 do artigo 143.º
+1 - O processo preliminar de casamento é público na parte que respeita à declaração dos elementos previstos nas alíneas a), b), c) e g) do n.º 2 do artigo 136.º, sem prejuízo do disposto no n.º 3 do artigo 143.º
 
 2 - A publicidade do processo é garantida através do direito à obtenção de cópia, certificada ou com mero valor de informação, da parte da declaração para casamento que contém os elementos previstos no número anterior.
 
@@ -1826,6 +1832,8 @@ Artigo 305.º
 
 9 - (Revogado.)»
 
+> Alterado pelo/a [Declaração de Rectificação n.º 107/2007](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/107-2007-628488), publicado em 2007-11-27.
+
 ###### Artigo 2.º — Aditamento ao Código do Registo Civil
 
 São aditados ao Código do Registo Civil os artigos 81.º-A, 102.º-A, 187.º-A, 187.º-B, 187.º-C, 202.º-A, 202.º-B, 210.º-A, 210.º-B, 210.º-C, 210.º-D, 210.º-E, 210.º-F, 210.º-G, 210.º-H, 210.º-I, 210.º-J, 210.º-L, 210.º-M, 210.º-N, 210.º-O, 210.º-P, 210.º-Q, 210.º-R, 220.º-A, 220.º-B, 220.º-C, 220.º-D, 220.º-E, 220.º-F, 272.º-A, 272.º-B e 272.º-C, com a seguinte redacção:
@@ -2562,7 +2570,7 @@ Artigo 3.º
 
 [...]
 
-1 - Quando não haja disponibilidade ou possibilidade por parte do conservador referido no n.º 2 do artigo anterior para celebrar o casamento, deve aquele designar o respectivo substituto para esse efeito, de acordo com a seguinte ordem de preferência:
+1 - Quando não haja disponibilidade ou possibilidade por parte dos conservadores referidos no artigo anterior para celebrar o casamento, devem aqueles designar o respectivo substituto para esse efeito, de acordo com a seguinte ordem de preferência:
 
 a) Conservador auxiliar;
 
@@ -2573,6 +2581,8 @@ c) Substitutos do conservador, pela ordem por que foram designados;
 d) Demais oficiais da conservatória, por ordem de categoria funcional e de classe pessoal.
 
 2 - ...»
+
+> Alterado pelo/a [Declaração de Rectificação n.º 107/2007](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/107-2007-628488), publicado em 2007-11-27.
 
 ###### Artigo 9.º — Alteração ao Código do Imposto do Selo
 
@@ -2948,7 +2958,9 @@ As normas que no Código do Registo Civil, na redacção dada pelo presente decr
 
 3 - Os actos de registo lavrados pelos agentes diplomáticos e consulares podem provar-se por certidão extraída dos assentos consulares, com a excepção dos registos de nascimento, de declaração de maternidade ou de perfilhação, que só podem provar-se por meio de acesso à base de dados ou de certidão extraída desses assentos onde conste, por cota de referência, a sua integração.
 
-4 - É competente para a integração do assento consular de casamento civil de portugueses no estrangeiro e do assento de óbito que não tenham sido lavrados em suporte informático e disponibilizados em base de dados, a conservatória onde tenha sido lavrado o assento de nascimento de qualquer dos nubentes, de acordo com as regras previstas nos artigos 10.º e 11.º do Código do Registo Civil, na redacção dada pelo presente decreto-lei, ou a conservatória que tenha lavrado o assento do falecido, consoante os casos.
+4 - É competente para a integração do assento consular de casamento civil de portugueses no estrangeiro e do assento de óbito que não tenham sido lavrados em suporte informático e disponibilizados em bases de dados, a conservatória onde tenha sido lavrado o assento de nascimento de qualquer dos nubentes, de acordo com as regras previstas no artigo 10.º do Código do Registo Civil, na redacção dada pelo presente decreto-lei, ou a conservatória que tenha lavrado o assento do falecido, consoante os casos.
+
+> Alterado pelo/a [Declaração de Rectificação n.º 107/2007](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/107-2007-628488), publicado em 2007-11-27.
 
 ###### Artigo 14.º — Contabilidade e inventário das conservatórias
 
@@ -3046,7 +3058,7 @@ c) A revogação, operada pelo presente decreto-lei, das Portarias n.os [973/95]
 
 4 - O disposto nos artigos 7.º e 8.º do [Decreto-Lei n.º 519-F2/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-f2-1979-157050), de 29 de Dezembro, na redacção dada pelo presente decreto-lei, produz efeitos desde o dia 1 de Maio de 2007.
 
-> Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 247-B/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-b-2008-487360), publicado em 2008-12-30.
+> Alterado pelo/a [Decreto-Lei n.º 247-B/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-b-2008-487360), publicado em 2008-12-30.
 
 ###### Artigo 25.º — Entrada em vigor
 
@@ -3100,7 +3112,7 @@ f) A regulação do exercício do poder paternal, sua alteração e cessação;
 
 g) A inibição ou suspensão do exercício do poder paternal e as providências limitativas desse poder;
 
-h) A interdição e inabilitação definitivas, a tutela de menores ou interditos, a administração de bens de menores e a curadoria de inabilitados;
+h) O acompanhamento de maiores e a tutela e administração de bens;
 
 i) O apadrinhamento civil e a sua revogação;
 
@@ -3122,7 +3134,7 @@ q) Os que determinem a modificação ou extinção de qualquer dos factos indica
 
 3 - Quando os sujeitos da relação jurídica de filiação, adoção ou apadrinhamento civil estejam casados ou unidos de facto com pessoa do mesmo sexo, os assentos, averbamentos ou novos assentos de nascimento no registo civil são efetuados de forma idêntica à prevista nas leis em vigor para casais de sexo diferente.
 
-> Alterado pelo/a [Lei n.º 2/2016](https://diariodarepublica.pt/dr/detalhe/lei/2-2016-73740375), publicado em 2016-02-29.
+> Alterado pelo/a [Lei n.º 49/2018](https://diariodarepublica.pt/dr/detalhe/lei/49-2018-116043536), publicado em 2018-08-14.
 
 ###### Artigo 2.º — Atendibilidade dos factos sujeitos a registo
 
@@ -3412,13 +3424,15 @@ Quando alguma das partes não conhecer a língua portuguesa e o funcionário nã
 
 1 - A parte pode fazer-se representar por procurador com poderes especiais para o acto.
 
-2 - A procuração pode ser outorgada por documento escrito e assinado pelo representado, com reconhecimento presencial da assinatura, por documento autenticado ou por instrumento público.
+2 - A procuração pode ser outorgada por documento assinado pelo representado, com reconhecimento presencial da assinatura, por documento autenticado ou por instrumento público.
 
-3 - Se a procuração tiver sido passada a advogado ou solicitador, é suficiente documento escrito e assinado pelo representado.
+3 - Se a procuração tiver sido passada a advogado ou solicitador, é suficiente documento assinado pelo representado.
 
 4 - (Revogado.)
 
 5 - (Revogado.)
+
+> Alterado pelo/a [Declaração de Rectificação n.º 107/2007](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/107-2007-628488), publicado em 2007-11-27.
 
 ###### Artigo 44.º — Procuração para casamento
 
@@ -3662,13 +3676,13 @@ b) O estabelecimento da filiação;
 
 c) O casamento dos pais, entre si, posterior ao registo de nascimento do filho;
 
-d) A adopção plena e a revisão da respectiva sentença e a adopção restrita, sua conversão, revisão e revogação;
+d) A adoção e a revisão da respetiva sentença;
 
 e) A regulação do exercício do poder paternal, sua cessação e a alteração que respeite à confiança do filho;
 
 f) A inibição e a suspensão do exercício do poder paternal, bem como as providências limitativas desse poder;
 
-g) A interdição e a inabilitação definitivas, a tutela de menor ou interdito, a administração de bens de menor e a curadoria de inabilitado, a curadoria provisória ou definitiva de ausente e a incapacidade de menor casado para administrar os bens, sua modificação e extinção;
+g) O acompanhamento de maiores, incluindo as concretas medidas decretadas com relevância registal, a tutela e administração de bens, a curadoria provisória ou definitiva de ausente e a incapacidade de menor casado para administrar os bens, sua modificação e extinção;
 
 h) A constituição do apadrinhamento civil e a sua revogação;
 
@@ -3692,7 +3706,9 @@ q) Em geral, todos os factos jurídicos que modifiquem os elementos de identific
 
 3 - Os factos referidos na alínea f) do n.º 1 são averbados aos assentos de nascimento dos filhos.
 
-> Alterado pelo/a [Lei n.º 103/2009](https://diariodarepublica.pt/dr/detalhe/lei/103-2009-489737), publicado em 2009-09-11.
+5 - Após o averbamento do facto referido na alínea d) deverá ser feita a comunicação a que se reporta o n.º 3 do artigo 56.º do Regime Jurídico do Processo de Adoção, a efetuar com preservação dos elementos de identificação dos adotantes, designadamente identidade, filiação, residência, número de documentos de identificação e do tribunal por onde correu o processo de adoção.
+
+> Alterado pelo/a [Lei n.º 49/2018](https://diariodarepublica.pt/dr/detalhe/lei/49-2018-116043536), publicado em 2018-08-14.
 
 ###### Artigo 70.º — Averbamentos ao assento de casamento
 
@@ -3706,7 +3722,7 @@ c) A morte presumida de qualquer dos cônjuges;
 
 d) A sanação in radice do casamento católico nulo;
 
-e) A sanação da anulabilidade do casamento celebrado por menor não núbil, por interdito ou inabilitado por anomalia psíquica ou sem a intervenção das testemunhas exigidas;
+e) A sanação da anulabilidade do casamento celebrado por menor não núbil, por maior acompanhado, nos casos em que o acompanhamento constitua um impedimento, ou sem a intervenção das testemunhas exigidas;
 
 f) A separação de pessoas e bens, a reconciliação dos cônjuges separados e a simples separação judicial de bens;
 
@@ -3716,7 +3732,7 @@ h) As alterações ao regime de bens convencionado ou legalmente fixado.
 
 2 - (Revogado.)
 
-> Alterado pelo/a [Decreto-Lei n.º 247-B/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-b-2008-487360), publicado em 2008-12-30.
+> Alterado pelo/a [Lei n.º 49/2018](https://diariodarepublica.pt/dr/detalhe/lei/49-2018-116043536), publicado em 2018-08-14.
 
 ###### Artigo 71.º — Averbamentos ao assento de óbito
 
@@ -4146,9 +4162,11 @@ e) Os apelidos são escolhidos entre os que pertençam a ambos ou só a um dos p
 
 f) Se a filiação não ficar estabelecida, pode o declarante escolher os apelidos a atribuir ao registando e, se não o fizer, observa-se o disposto no artigo 108.º
 
-3 - Para efeitos do disposto nas alíneas b) e c) do número anterior, deve ser produzida prova, sempre que possível documental.
+3 - (Revogado.)
 
 4 - As dúvidas sobre a composição do nome são esclarecidas por despacho do director-geral dos Registos e do Notariado, por intermédio da Conservatória dos Registos Centrais.
+
+> Retificado pelo/a [Declaração de Rectificação n.º 107/2007](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/107-2007-628488), publicado em 2007-11-27.
 
 ###### Artigo 104.º — Alteração do nome
 
@@ -4500,7 +4518,7 @@ b) A competência dos órgãos para a emissão dos documentos previstos no núme
 
 ###### Artigo 140.º — Publicidade do processo
 
-1 - O processo preliminar de casamento é público na parte que respeita à declaração dos elementos previstos nas alíneas a), b), c) e f) do n.º 2 do artigo 136.º, sem prejuízo do disposto no n.º 3 do artigo 143.º
+1 - O processo preliminar de casamento é público na parte que respeita à declaração dos elementos previstos nas alíneas a), b), c) e g) do n.º 2 do artigo 136.º, sem prejuízo do disposto no n.º 3 do artigo 143.º
 
 2 - A publicidade do processo é garantida através do direito à obtenção de cópia, certificada ou com mero valor de informação, da parte da declaração para casamento que contém os elementos previstos no número anterior.
 
@@ -4509,6 +4527,8 @@ b) A competência dos órgãos para a emissão dos documentos previstos no núme
 4 - (Revogado.)
 
 5 - (Revogado.)
+
+> Alterado pelo/a [Declaração de Rectificação n.º 107/2007](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/107-2007-628488), publicado em 2007-11-27.
 
 ###### Artigo 141.º — Substituição da afixação do edital no local da residência
 
@@ -4874,7 +4894,7 @@ c) Se o conservador tiver fundadas dúvidas acerca da identidade dos contraentes
 
 d) Se no momento da celebração for oponível ao casamento algum impedimento dirimente;
 
-e) Se, tratando-se de casamento legalmente celebrado sem precedência do processo respectivo, existir no momento da celebração o impedimento de falta de idade nupcial, de interdição ou inabilitação por anomalia psíquica, reconhecida por sentença com trânsito em julgado, ou o impedimento de casamento civil anterior não dissolvido, desde que, em qualquer dos casos, o impedimento ainda subsista.
+e) Se, tratando-se de casamento legalmente celebrado sem precedência do processo respetivo, existir no momento da celebração o impedimento de falta de idade nupcial, de acompanhamento, quando a sentença respetiva assim o determine, ou o impedimento de casamento civil anterior não dissolvido, desde que, em qualquer dos casos, o impedimento ainda subsista.
 
 2 - Nos casos a que se referem as alíneas b) e c) do número anterior, o conservador deve remeter ao pároco o duplicado ou a certidão, sempre que possível por via electrónica, para que se complete ou esclareça o documento em termos de a transcrição se efectuar, sempre que possível, dentro dos sete dias ulteriores à celebração do casamento.
 
@@ -4883,6 +4903,8 @@ e) Se, tratando-se de casamento legalmente celebrado sem precedência do process
 4 - A morte de um ou de ambos os cônjuges não obsta à transcrição.
 
 5 - A recusa da transcrição deve ser notificada aos nubentes, pessoalmente ou por carta registada.
+
+> Alterado pelo/a [Lei n.º 49/2018](https://diariodarepublica.pt/dr/detalhe/lei/49-2018-116043536), publicado em 2018-08-14.
 
 ###### Artigo 175.º — Efectivação da transcrição depois de recusada
 
@@ -5168,13 +5190,17 @@ e) Cemitério onde o falecido vai ser ou foi sepultado.
 
 1 - Independentemente da forma da sua titulação, a habilitação de herdeiros é mencionada no assento de óbito do falecido, por meio de cota de referência que especifique a data, a forma de titulação e a identificação do título.
 
-2 - Nos casos em que tenha sido instaurado processo de inventário por óbito do registado, é feita menção do facto no assento respectivo, por meio de cota de referência que identifique o tribunal onde o processo foi instaurado e o seu número.
+2 - Nos casos em que tenha sido instaurado processo de inventário por óbito do registado, é feita menção do facto no assento respetivo, por meio de cota de referência que identifique o cartório notarial onde o processo foi instaurado e o seu número.
 
-###### Artigo 202.º-B — Comunicações a efectuar pelos tribunais e notários
+> Alterado pelo/a [Lei n.º 23/2013](https://diariodarepublica.pt/dr/detalhe/lei/23-2013-259267), publicado em 2013-03-05.
+
+###### Artigo 202.º-B — Comunicações a efetuar pelos tribunais e notários
 
 1 - Para efeitos do disposto no n.º 1 do artigo anterior, no prazo de cinco dias após o trânsito em julgado de decisão judicial que declare a habilitação de herdeiros ou da data em que seja lavrada escritura pública do mesmo acto, o respectivo tribunal ou notário comunicam a qualquer conservatória do registo civil a decisão judicial ou escritura que titule a habilitação de herdeiros através do envio, sempre que possível por via electrónica, de certidão do título respectivo.
 
-2 - Para os efeitos do disposto no n.º 2 do artigo anterior, o tribunal comunica a qualquer conservatória do registo civil, preferencialmente por via electrónica, a instauração do processo de inventário.
+2 - Para os efeitos do disposto no n.º 2 do artigo anterior, o notário comunica a qualquer conservatória do registo civil, preferencialmente por via eletrónica, a instauração do processo de inventário.
+
+> Alterado pelo/a [Lei n.º 23/2013](https://diariodarepublica.pt/dr/detalhe/lei/23-2013-259267), publicado em 2013-03-05.
 
 ##### SUBSECÇÃO III — Óbitos ocorridos em hospitais, cadeias e estabelecimentos equivalentes
 
@@ -5266,21 +5292,25 @@ e) Cemitério onde vai ser ou foi sepultado.
 
 ###### Artigo 210.º — Comunicações a efectuar pelo conservador
 
-1 - O conservador do registo civil deve enviar ou disponibilizar o acesso em base de dados ao Ministério Público junto do tribunal competente para a providência tutelar ou para a eventual instauração de inventário, das seguintes informações:
+1 - O conservador do registo civil deve enviar ao Ministério Público junto do tribunal competente para a providência tutelar ou para as finalidades previstas no regime jurídico do processo de inventário:
 
 a) Assentos de óbito lavrados no mês anterior referentes a indivíduos com descendentes sujeitos àquela providência; e
 
-b) Assentos de óbito lavrados no mês anterior referentes a indivíduos com herdeiros menores, incapazes, ausentes em parte incerta ou pessoas colectivas, acompanhados da indicação da pessoa à qual compete o cargo de cabeça-de-casal.
+b) Assentos de óbito lavrados no mês anterior referentes a indivíduos cuja herança seja deferida a incapazes ou ausentes em parte incerta ou ao Estado.
 
-2 - Para os efeitos do disposto no número anterior, o conservador deve ouvir o declarante do óbito, através de auto lavrado imediatamente após a prestação da respectiva declaração.
+2 - A informação prevista no número anterior pode ser facultada por disponibilização do acesso à base de dados do registo civil.
 
-3 - O conservador deve comunicar, por via electrónica, ao Instituto das Tecnologias de Informação na Justiça, I. P.:
+3 - Para os efeitos do disposto no n.º 1, o conservador deve ouvir o declarante do óbito, através de auto lavrado imediatamente após a prestação da respetiva declaração.
+
+4 - O conservador deve comunicar, por via electrónica, ao Instituto das Tecnologias de Informação na Justiça, I. P.:
 
 a) O teor dos autos relativos aos óbitos lavrados no mês anterior;
 
 b) Os números de documentos de identificação ulteriormente conhecidos;
 
 c) Qualquer completamento ou rectificação de assento de óbito que respeite ao nome do falecido, idade, naturalidade ou filiação.
+
+> Alterado pelo/a [Lei n.º 23/2013](https://diariodarepublica.pt/dr/detalhe/lei/23-2013-259267), publicado em 2013-03-05.
 
 ##### SUBSECÇÃO VII — Procedimentos simplificados de sucessão hereditária
 

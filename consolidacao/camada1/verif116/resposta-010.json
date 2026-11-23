@@ -1,0 +1,37 @@
+[
+ {
+  "id": "pt:dre:285477:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "DL 290/91 art. 1.º dá nova redação ao art. 1.º: acrescenta Francisco Gentil e escreve «constantes ao anexo»; consolidado é essa redação letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "errado",
+    "motivo": "Os 18 blocos titulados do anexo (Beja, Bissaia Barreto, Bragança, Calouste Gulbenkian de Braga, Guarda, Faro, Leiria, Calouste Gulbenkian de Lisboa, Portalegre, Dr. Lopes Dias, Santarém, São João, São João de Deus, Viana do Castelo, Vila Real, Viseu, Dr. Ângelo da Fonseca, D. Ana Guedes) mantêm todos a imagem de 1988 (09800/16821698.pdf). As imagens dos alteradores (substituições por portaria de 1992 a 2000) estão num monte de 22 links sem título, colocado a seguir ao n.º 5 e antes do bloco de Francisco Gentil, em vez de dentro do bloco de cada escola. Há título de anexo onde as pôr, logo não se justifica a omissão. O bloco de Francisco Gentil (DL 290/91, art. 3.º) também ficou antes do parágrafo «Visto e aprovado…» e não no fim do anexo.",
+    "texto_esperado": "N.os 1 a 5 e fecho (Visto/Promulgado/Referendado) como no original. Em cada bloco 'Quadro de pessoal da Escola de Enfermagem de X' a imagem passa a ser a do último alterador que o substitui: Beja 1999/11/268b00/81138114; Bissaia Barreto 1999/10/235b00/67966798; Bragança 1999/11/256b00/75667567; Guarda 1999/04/080b00/18471848; Faro 1999/10/251b00/72607262; Leiria 1999/10/236b00/68266827; Lisboa 1999/04/088b00/20182020; Portalegre 1999/11/274b00/83658367; Santarém 1999/04/080b00/18451846; São João 1999/04/088b00/20202021; São João de Deus 2000/07/167b00/34903491; Viana do Castelo 1999/01/017b00/03680369; Vila Real 1998/09/213b00/47664768; Viseu 1999/03/069b00/16291630; Dr. Ângelo da Fonseca 1999/06/149b00/39773979; D. Ana Guedes 1999/02/032b00/07030704. Braga (alteração parcial, Port. 471/99): corpo antigo mais as linhas das imagens 1992/10/244b00/49234923, 1992/12/284b00/56515651, 1994/09/224b00/58485849 e 1999/06/149b00/39743976. Dr. Lopes Dias (sem substituição total): corpo antigo mais 1992/12/282b00/56125612 e 1994/08/196b00/49354936. O bloco 'Quadro de pessoal da Escola Superior de Enfermagem de Francisco Gentil' fica no fim do anexo, depois dos demais. A Nota do tesoureiro mantém-se onde estava."
+   }
+  ],
+  "instrucoes_em_falta": [
+   "Substituição do quadro de pessoal de cada escola pelo quadro/mapa anexo dos alteradores (Port. 1016/99 Beja, 861/99 Bissaia Barreto, 986/99 Bragança, 237/99 Guarda, 939/99 Faro, 876/99 Leiria, 275/99 Lisboa, 1032/99 Portalegre, 236/99 Santarém, 276/99 São João, 459/2000 São João de Deus, 34/99 Viana do Castelo, 763/98 Vila Real, 192/99 Viseu, 473/99 Dr. Ângelo da Fonseca, 99/99 D. Ana Guedes): o bloco titulado de cada escola continua com a imagem de 1988; a imagem nova só aparece no monte inicial sem título.",
+   "Alterações parciais/substituições de Braga (Port. 994/92, 1127/92, 864/94, 471/99) e Dr. Lopes Dias (Port. 1115/92, 769/94): as imagens estão no monte inicial e não nos respetivos blocos titulados.",
+   "Posição do bloco de Francisco Gentil (DL 290/91, art. 3.º, «é acrescentado» ao anexo): ficou antes do fecho do art. 3.º e não no fim do anexo (menor)."
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Port. 1118/92, 644/94 e 744/98 (substituição do quadro da Escola Superior de Enfermagem de Artur Ravara, só em imagem)",
+    "motivo": "Texto novo só em imagem e nem o original nem o consolidado têm bloco titulado de Artur Ravara no anexo onde o pôr (confirmado: só há 18 blocos, sem Artur Ravara)."
+   },
+   {
+    "instrucao": "DL 290/91, art. 2.º (titular do lugar de secretário transita para chefe de repartição)",
+    "motivo": "Norma autónoma de transição, sem nova redação para o texto do original."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

@@ -10,17 +10,20 @@
       "alterador": 6
     }
   ],
-  "nao_aplicavel": "Alterador 1, novo plano do curso de Economia (anexo I): outro diploma — é o plano do Despacho n.º 135/MEC/86, não do anexo do original.\nAlterador 4, novo plano de Arquitectura da Universidade Lusíada em Vila Nova de Famalicão: alvo incerto — o anexo do original só tem um plano de Arquitectura (o da Universidade Lusíada, em Lisboa, substituído pelos alteradores 3 e 6); o curso de Famalicão vem das Portarias n.os 73/91 e 1209/93 e não há secção do anexo onde o pôr.\nAlterador 5, novo plano de Arquitectura da Universidade Lusíada no Porto: alvo incerto — o anexo do original não tem plano do Porto (o curso do Porto vem das Portarias n.os 73/91 e 1132/91); não há secção do anexo onde o pôr.\nAlterador 7, novo plano de Arquitectura da Universidade Lusíada no Porto: alvo incerto — mesmo motivo do alterador 5 (substitui o plano da Portaria n.º 1196/2000, que não está no anexo do original).\nAlterador 8, alteração do plano de Arquitectura do Porto constante do anexo à Portaria n.º 1287/2001: outro diploma — altera o anexo da Portaria n.º 1287/2001, não o do original.",
+  "nao_aplicavel": "Alterador 1, plano de estudos do curso de Economia (anexo I): outro diploma, é o plano anexo ao Despacho n.º 135/MEC/86\nAlterador 4, plano de estudos de Arquitectura da Universidade Lusíada em Vila Nova de Famalicão: alvo incerto, o anexo do original tem um só plano de Arquitectura, que segue o de Lisboa (Portarias n.os 436/2000 e 539/2001); o curso de Famalicão funciona conjugado com as Portarias n.os 73/91 e 1209/93 e não há no anexo lugar próprio para o seu plano\nAlterador 5, plano de estudos de Arquitectura da Universidade Lusíada no Porto: alvo incerto, o anexo do original tem um só plano de Arquitectura, que segue o de Lisboa; o curso do Porto funciona conjugado com as Portarias n.os 73/91 e 1132/91 e não há no anexo lugar próprio para o seu plano\nAlterador 7, novo plano de estudos de Arquitectura da Universidade Lusíada no Porto (substitui o da Portaria n.º 1196/2000): alvo incerto, pelo mesmo motivo do alterador 5\nAlterador 8, alteração do plano de Arquitectura (Porto) constante do anexo à Portaria n.º 1287/2001: outro diploma, altera o anexo da Portaria n.º 1287/2001",
   "instrucoes": [
-    "Alterador 1: plano de Matemáticas Aplicadas alterado (anexo II, em imagem) — no corpo do anexo, a imagem do curso de Matemáticas Aplicadas passa a ser a do alterador 1.",
-    "Alterador 2: novo plano de Relações Internacionais, que substitui o do original (em imagem) — a imagem do curso de Relações Internacionais passa a ser a do alterador 2.",
-    "Alterador 3: plano de Arquitectura em Lisboa «passa a ser» o do anexo (em imagem) — substitui por inteiro o plano de Arquitectura do anexo, seja o original seja o já mexido pela Portaria n.º 73/91 (a dúvida da triagem não muda o resultado); depois substituído pelo alterador 6.",
-    "Alterador 6: plano de Arquitectura em Lisboa passa a ser o do anexo (quadros 1 a 5, em imagem) — é o texto final do curso de Arquitectura no corpo do anexo.",
-    "Alteradores 4, 5, 7 e 8 (planos de Famalicão e Porto) e anexo I do alterador 1 (Economia): não aplicados (nao_aplicavel)."
+    "Alterador 1 (Portaria 662/93): plano de Matemáticas Aplicadas substituído pelo anexo II (imagem) - aplicado no corpo do anexo; anexo I (Economia) é de outro diploma",
+    "Alterador 2 (Portaria 1010/93): plano de Relações Internacionais substituído (imagem) - aplicado no corpo do anexo",
+    "Alterador 3 (Portaria 436/2000): plano de Arquitectura (Lisboa) substituído (imagem) - aplicado e depois substituído pelo alterador 6",
+    "Alterador 4 (Portaria 1195/2000): plano de Arquitectura em Famalicão - nao_aplicavel (alvo incerto)",
+    "Alterador 5 (Portaria 1196/2000): plano de Arquitectura no Porto - nao_aplicavel (alvo incerto)",
+    "Alterador 6 (Portaria 539/2001): plano de Arquitectura (Lisboa) passa a ser o do anexo (Quadros n.os 1 a 5, imagem) e substitui o da Portaria 436/2000 - aplicado no corpo do anexo",
+    "Alterador 7 (Portaria 1287/2001): plano de Arquitectura no Porto - nao_aplicavel (alvo incerto)",
+    "Alterador 8 (Portaria 1296/2002): altera o anexo da Portaria 1287/2001 - outro diploma"
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "ronda_camada1": 115,
+  "ronda_camada1": 116,
   "problemas": [],
   "numeracao_aceite": [],
   "avisos": []

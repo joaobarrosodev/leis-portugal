@@ -2,10 +2,22 @@
   "id": "pt:dre:152365:por",
   "artigos": [
     {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
       "chave": "3.º",
       "epigrafe": "",
       "texto": "1 - Os emolumentos e taxas devidos pela prestação dos serviços de registo e de identificação civil são fixados por portaria do membro do Governo responsável pela área da justiça.\n\n2 - Os preços de venda de bens conexos com a prestação de serviços no âmbito dos registos e da identificação civil são fixados por despacho do presidente do Instituto dos Registos e do Notariado, I. P.\n\n3 - Os impressos usados pelos serviços dos registos e do notariado são aprovados por portaria do Ministro da Justiça.\n\n4 - Os conservadores e notários devem remeter mensalmente à Direcção-Geral dos Registos e do Notariado, de harmonia com as instruções por esta emitidas, nota detalhada de todas as importâncias arrecadadas, despesas efectuadas e saldos depositados.",
-      "alterador": 2
+      "alterador": 4
+    },
+    {
+      "chave": "4.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
     }
   ],
   "removidos": [],
@@ -13,14 +25,15 @@
   "anexos": [],
   "nao_aplicavel": null,
   "instrucoes": [
-    "Alterador 1 (DL 54/90), artigo 5.º: nova redacção do n.º 2 do artigo 3.º («Os impressos ... são aprovados por portaria do Ministro da Justiça.»), mantendo os n.os 1 e 3 — aplicada.",
-    "Alterador 1, artigos 1.º a 4.º: alteram o Código do Registo Civil ou são normas avulsas — não são do original.",
-    "Alterador 2 (DL 318/2007), artigo 11.º: nova redacção do artigo 3.º, com n.os 1 e 2 novos, n.º 3 = anterior n.º 2 e n.º 4 = anterior n.º 3 — aplicada. O anterior n.º 2 é o da redacção do DL 54/90, que já tinha suprimido a parte final («e constituem exclusivo da respectiva Direcção-Geral...»); o reparo que a queria repor não se confirma.",
-    "Alterador 3 (Portaria 286/2012): só invoca o n.º 1 do artigo 3.º como norma habilitante («ao abrigo de»); não altera o original."
+    "Alterador 1 (DL 42/89), art. 88.º, f): revoga o art. 4.º; já estava (Revogado.), confirmado.",
+    "Alterador 2 (DL 54/90), art. 5.º: nova redação do n.º 2 do art. 3.º (n.os 1 e 3 ficam); aplicada.",
+    "Alterador 3 (DL 40/94), art. 31.º: revoga o art. 2.º; aplicado.",
+    "Alterador 4 (DL 318/2007), art. 11.º: nova redação dos n.os 1 e 2 do art. 3.º; antigos n.os 2 e 3 passam a 3 e 4; aplicado.",
+    "Alterador 5 (Portaria 286/2012): só cita o n.º 1 do art. 3.º como habilitação; sem alteração ao texto."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "ronda_camada1": 115,
+  "ronda_camada1": 116,
   "problemas": [],
   "numeracao_aceite": [],
   "avisos": []

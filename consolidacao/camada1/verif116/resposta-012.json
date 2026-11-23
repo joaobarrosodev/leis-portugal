@@ -1,0 +1,182 @@
+[
+ {
+  "id": "pt:dre:371035:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "Texto da Declaração de Rectificação n.º 20/2002 (republicação integral); alíneas a) e e) no masculino; consolidado igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "DL 119/2003: n.º 2 com nova alínea b) (SE Adjunto do PM) e renumeração c)/d); n.os 3 e 4 passam para o art. 6.º-A; resto como na Rect. (Ministro de Estado e das Finanças).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º-A",
+    "veredicto": "certo",
+    "motivo": "Aditado pelo DL 119/2003, art. 2.º: n.º 1 novo, n.os 2 e 3 são os anteriores n.os 3 e 4 do art. 6.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "errado",
+    "motivo": "A Rect. 20/2002 troca «pela Ministra» por «pelo Ministro»; o consolidado tem os dois parágrafos (o novo e o antigo «pela Ministra» duplicado). Deve ficar só o parágrafo rectificado.",
+    "texto_esperado": "###### Artigo 7.º\n\nO Primeiro-Ministro, salvo sua indicação em contrário, será substituído, nas suas ausências ou impedimentos, pelo Ministro de Estado e das Finanças ou por ministro que não esteja ausente ou impedido, de acordo com a ordem estabelecida no artigo 2.º, sendo a substituição comunicada ao Presidente da República, nos termos do artigo 185.º, n.º 1, da Constituição."
+   },
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "Rect. (masculino, Ministério, alínea b) sem parênteses) + DL 119/2003 n.º 1 («exercício das suas funções») + DL 176/2004 n.º 4 d) (Revogada.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 10.º",
+    "veredicto": "certo",
+    "motivo": "Texto da Declaração de Rectificação n.º 20/2002 (republicação integral); «Ministério» maiúsculo; consolidado igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 11.º",
+    "veredicto": "certo",
+    "motivo": "Texto da Declaração de Rectificação n.º 20/2002 (republicação integral); n.º 1 sem vírgulas e «Ministério»; consolidado igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 12.º",
+    "veredicto": "certo",
+    "motivo": "Texto da Declaração de Rectificação n.º 20/2002 (republicação integral); «Ministério» maiúsculo; consolidado igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 13.º",
+    "veredicto": "certo",
+    "motivo": "Texto da Declaração de Rectificação n.º 20/2002 (republicação integral); masculino e «Ministério»; consolidado igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 14.º",
+    "veredicto": "certo",
+    "motivo": "DL 119/2003: n.º 2 reescrito (só SE Adjunto do Ministro da Presidência); n.º 1 inalterado.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 15.º",
+    "veredicto": "certo",
+    "motivo": "Texto da Declaração de Rectificação n.º 20/2002 (republicação integral); «nele foram delegados»; consolidado igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 17.º",
+    "veredicto": "certo",
+    "motivo": "Rect. (n.os 1 a 3) + DL 119/2003 n.º 4 («ficam sob a responsabilidade do Ministro da Economia as entidades...»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 18.º",
+    "veredicto": "certo",
+    "motivo": "DL 20/2004: n.º 1 com três secretários de Estado (inclui Florestas); n.º 2 igual à Rect.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 19.º",
+    "veredicto": "certo",
+    "motivo": "Texto da Declaração de Rectificação n.º 20/2002 (republicação integral); «Ministério» maiúsculo, SE da Educação no masculino; consolidado igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 20.º",
+    "veredicto": "certo",
+    "motivo": "DL 119/2003: n.º 2 com SE Adjunto do Ministro da Ciência e do Ensino Superior; restantes números como na Rect.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 21.º",
+    "veredicto": "certo",
+    "motivo": "Texto da Declaração de Rectificação n.º 20/2002 (republicação integral); «Ministério» maiúsculo; consolidado igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 22.º",
+    "veredicto": "certo",
+    "motivo": "Texto da Declaração de Rectificação n.º 20/2002 (republicação integral); «Ministério» maiúsculo; consolidado igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 23.º",
+    "veredicto": "certo",
+    "motivo": "Texto da Declaração de Rectificação n.º 20/2002 (republicação integral); «pelo Secretário de Estado da Segurança Social»; consolidado igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 24.º",
+    "veredicto": "certo",
+    "motivo": "DL 119/2003: n.º 2 passa a «coadjuvado no exercício das suas funções»; restantes como na Rect.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 25.º",
+    "veredicto": "certo",
+    "motivo": "Rect. (n.º 5, Parque EXPO, vírgula na alínea c)) + DL 119/2003 (n.º 2; EDIA, S. A.) + DL 176/2004 (n.º 2 novo, n.os 6 e 7 novos, n.º 8 = anterior n.º 6).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 26.º",
+    "veredicto": "certo",
+    "motivo": "Rect. (sem «1 -», Agência de Inovação suprimida) + DL 119/2003 (nomeadamente; novas alíneas e renumeração) + DL 20/2004 (nova b), nova l), renumeração); texto das alíneas «anteriores» vem da Rect.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 27.º",
+    "veredicto": "certo",
+    "motivo": "DL 119/2003: n.os 1 e 2 novos; consolidado igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 29.º",
+    "veredicto": "certo",
+    "motivo": "DL 119/2003: n.º 2 com dois secretários de Estado; n.º 3 como na Rect. («sem direito a voto»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 30.º",
+    "veredicto": "certo",
+    "motivo": "DL 119/2003: n.º 2 com SE Adjunto do PM; n.os 3 e 4 como na Rect.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 31.º",
+    "veredicto": "certo",
+    "motivo": "DL 119/2003: n.º 2 com SE Adjunto do PM; alínea a) e n.º 3 como na Rect.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 32.º",
+    "veredicto": "certo",
+    "motivo": "Texto da Declaração de Rectificação n.º 20/2002 (republicação integral); n.os 6, 7 e 10 corrigidos; consolidado igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 32.º-A",
+    "veredicto": "certo",
+    "motivo": "Aditado pelo DL 176/2004, art. 2.º; texto igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 33.º",
+    "veredicto": "certo",
+    "motivo": "Texto da Declaração de Rectificação n.º 20/2002 (republicação integral); «pelo Ministro de Estado e das Finanças»; consolidado igual.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [
+   "Rect. 20/2002, art. 35.º: «em cooperação com os ministros da República» (minúscula). O artigo está na lista dos IGUAIS ao original e o DL 119/2003 e o DL 176/2004 (anexos) trazem «Ministros da República», pelo que o original terá a maiúscula: alvo incerto, o original deste artigo não está na vista."
+  ],
+  "instrucoes_justificadas": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

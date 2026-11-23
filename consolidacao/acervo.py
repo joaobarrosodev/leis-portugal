@@ -282,10 +282,11 @@ def _selecao_de(id_: str, resultado: dict, selecao: dict, selecao_escala: dict) 
 
 def retificados_por_regra() -> set[str]:
     """Os registos a que `retificacoes.py`/`retificacoes_llm.py` aplicaram retificações fora da
-    cadeia, e aqueles a que `anexos_alteradores.py` aplicou anexos de alteradores: uma nova corrida
+    cadeia, aqueles a que `anexos_alteradores.py` aplicou anexos de alteradores e `revogacoes.py` revogações
+    registadas só como `repealed_by`: uma nova corrida
     não os escreve por cima."""
     ids: set[str] = set()
-    for nome in ("retificacoes-aplicadas.jsonl", "anexos-aplicados.jsonl", "plantas-aplicadas.jsonl"):
+    for nome in ("retificacoes-aplicadas.jsonl", "anexos-aplicados.jsonl", "plantas-aplicadas.jsonl", "revogacoes-aplicadas.jsonl"):
         caminho = PASTA / "auditoria" / nome
         if caminho.exists():
             ids |= {json.loads(l)["id"] for l in caminho.read_text(encoding="utf-8").splitlines() if l.strip()}

@@ -1,0 +1,379 @@
+[
+ {
+  "id": "pt:dre:643342:por",
+  "artigos": [
+   {
+    "artigo": "CAPÍTULO I",
+    "veredicto": "certo",
+    "motivo": "Bloco do capítulo do original dividido em artigos no consolidado; texto igual (só 'Art.'->'Artigo' e traço).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original; consolidado só separa o artigo do bloco do capítulo (Art.->Artigo, sem o traço).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original; consolidado só separa o artigo do bloco do capítulo (Art.->Artigo, sem o traço).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original; consolidado só separa o artigo do bloco do capítulo (Art.->Artigo, sem o traço).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original; consolidado só separa o artigo do bloco do capítulo (Art.->Artigo, sem o traço).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original; consolidado só separa o artigo do bloco do capítulo (Art.->Artigo, sem o traço).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "CAPÍTULO II",
+    "veredicto": "certo",
+    "motivo": "Bloco do capítulo do original dividido em artigos no consolidado; texto igual (só 'Art.'->'Artigo' e traço).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original; consolidado só separa o artigo do bloco do capítulo (Art.->Artigo, sem o traço).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original; consolidado só separa o artigo do bloco do capítulo (Art.->Artigo, sem o traço).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original; consolidado só separa o artigo do bloco do capítulo (Art.->Artigo, sem o traço).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original; consolidado só separa o artigo do bloco do capítulo (Art.->Artigo, sem o traço).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 10.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original; consolidado só separa o artigo do bloco do capítulo (Art.->Artigo, sem o traço).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 11.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original; consolidado só separa o artigo do bloco do capítulo (Art.->Artigo, sem o traço).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "CAPÍTULO III",
+    "veredicto": "certo",
+    "motivo": "Bloco do capítulo do original dividido em artigos no consolidado; texto igual (só 'Art.'->'Artigo' e traço).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 12.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original; consolidado só separa o artigo do bloco do capítulo (Art.->Artigo, sem o traço).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 13.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original; consolidado só separa o artigo do bloco do capítulo (Art.->Artigo, sem o traço).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 14.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original; consolidado só separa o artigo do bloco do capítulo (Art.->Artigo, sem o traço).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 15.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original; consolidado só separa o artigo do bloco do capítulo (Art.->Artigo, sem o traço).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 16.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original; consolidado só separa o artigo do bloco do capítulo (Art.->Artigo, sem o traço).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 17.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original; consolidado só separa o artigo do bloco do capítulo (Art.->Artigo, sem o traço).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 18.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original; consolidado só separa o artigo do bloco do capítulo (Art.->Artigo, sem o traço).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 19.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original; consolidado só separa o artigo do bloco do capítulo (Art.->Artigo, sem o traço).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "CAPÍTULO IV",
+    "veredicto": "certo",
+    "motivo": "Bloco do capítulo do original dividido em artigos no consolidado; texto igual (só 'Art.'->'Artigo' e traço).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 20.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original; consolidado só separa o artigo do bloco do capítulo (Art.->Artigo, sem o traço).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 21.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original; consolidado só separa o artigo do bloco do capítulo (Art.->Artigo, sem o traço).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 22.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original; consolidado só separa o artigo do bloco do capítulo (Art.->Artigo, sem o traço).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "CAPÍTULO V",
+    "veredicto": "certo",
+    "motivo": "Bloco do capítulo do original dividido em artigos no consolidado; texto igual (só 'Art.'->'Artigo' e traço).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 23.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original; consolidado só separa o artigo do bloco do capítulo (Art.->Artigo, sem o traço).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 24.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original; consolidado só separa o artigo do bloco do capítulo (Art.->Artigo, sem o traço).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 25.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original; consolidado só separa o artigo do bloco do capítulo (Art.->Artigo, sem o traço).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 26.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original; consolidado só separa o artigo do bloco do capítulo (Art.->Artigo, sem o traço).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 27.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original; consolidado só separa o artigo do bloco do capítulo (Art.->Artigo, sem o traço).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 28.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original; consolidado só separa o artigo do bloco do capítulo (Art.->Artigo, sem o traço).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 29.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original; consolidado só separa o artigo do bloco do capítulo (Art.->Artigo, sem o traço).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 30.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original; consolidado só separa o artigo do bloco do capítulo (Art.->Artigo, sem o traço).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 31.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original; consolidado só separa o artigo do bloco do capítulo (Art.->Artigo, sem o traço).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 32.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original; consolidado só separa o artigo do bloco do capítulo (Art.->Artigo, sem o traço).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 33.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original; consolidado só separa o artigo do bloco do capítulo (Art.->Artigo, sem o traço).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 34.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original; consolidado só separa o artigo do bloco do capítulo (Art.->Artigo, sem o traço).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 35.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original; consolidado só separa o artigo do bloco do capítulo (Art.->Artigo, sem o traço).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "CAPÍTULO VI",
+    "veredicto": "certo",
+    "motivo": "Bloco do capítulo do original dividido em artigos no consolidado; texto igual (só 'Art.'->'Artigo' e traço).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 36.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original; consolidado só separa o artigo do bloco do capítulo (Art.->Artigo, sem o traço).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 37.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original; consolidado só separa o artigo do bloco do capítulo (Art.->Artigo, sem o traço).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 38.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original; consolidado só separa o artigo do bloco do capítulo (Art.->Artigo, sem o traço).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "CAPÍTULO VII",
+    "veredicto": "certo",
+    "motivo": "Bloco do capítulo do original dividido em artigos no consolidado; texto igual (só 'Art.'->'Artigo' e traço).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 39.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original; consolidado só separa o artigo do bloco do capítulo (Art.->Artigo, sem o traço).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 40.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original; consolidado só separa o artigo do bloco do capítulo (Art.->Artigo, sem o traço).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 41.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original; consolidado só separa o artigo do bloco do capítulo (Art.->Artigo, sem o traço).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 42.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original; consolidado só separa o artigo do bloco do capítulo (Art.->Artigo, sem o traço).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 43.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original; consolidado só separa o artigo do bloco do capítulo (Art.->Artigo, sem o traço).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 44.º",
+    "veredicto": "certo",
+    "motivo": "Texto igual ao original; consolidado só separa o artigo do bloco do capítulo (Art.->Artigo, sem o traço).",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 93/79, art. 1.º e art. 12.º, n.º 2: atribuições do director e subdirectores passam ao conselho de gestão; referências ao director entendem-se feitas ao conselho",
+    "motivo": "não é textual: mudança de designação/competência sem nova redacção de artigo do original"
+   },
+   {
+    "instrucao": "DL 93/79, art. 11.º: extinção dos lugares de director e subdirector",
+    "motivo": "efeito adiado para facto futuro (n.º 2: só quando tomarem posse o presidente e pelo menos dois membros do conselho de gestão) e sem nova redacção"
+   },
+   {
+    "instrucao": "DL 93/79, art. 13.º: revogação do DL 270/71 «naquilo que contrariar o presente diploma»",
+    "motivo": "revogação condicional"
+   },
+   {
+    "instrucao": "DL 513-D1/79, art. 1.º: quadro de pessoal do GAS substituído pelo quadro anexo",
+    "motivo": "texto novo só em imagem (anexo com a ligação ao PDF) e o original não tem anexo com título de quadro de pessoal onde o pôr"
+   },
+   {
+    "instrucao": "DL 513-D1/79, arts. 2.º a 6.º e 8.º a 10.º (provimento, integração, regime do pessoal)",
+    "motivo": "não é textual: não dá nova redacção a artigos do original"
+   },
+   {
+    "instrucao": "DL 513-D1/79, art. 7.º: revogação das disposições do DL 270/71 «que contradigam a letra do presente decreto-lei»",
+    "motivo": "revogação condicional"
+   },
+   {
+    "instrucao": "DL 155/87 (duas cópias), art. 1.º: revogação do regime transitório do art. 40.º do DL 270/71 na parte em que os efeitos não haviam cessado já pelo art. 1.º do DL 93/75",
+    "motivo": "revogação condicional («na parte em que os seus efeitos não haviam cessado já»)"
+   },
+   {
+    "instrucao": "DL 155/87 (duas cópias), art. 2.º: extinção da proibição do n.º 1 do art. 10.º do DL 93/75",
+    "motivo": "instrução dirigida a outro diploma (DL 93/75)"
+   },
+   {
+    "instrucao": "DL 228/89, art. 1.º: extinção do GAS; arts. 2.º a 7.º e anexo (liquidação, transmissão de imóveis)",
+    "motivo": "não é textual: não traz cláusula revogatória nem nova redacção de artigos do original"
+   },
+   {
+    "instrucao": "DL 6/90: transmissão dos imóveis do ex-GAS para o Estado",
+    "motivo": "texto do alterador omitido na vista (triagem prévia: nao_textual, não menciona o original); não confirmável por mim, sem instrução identificável dirigida ao original"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:645280:por",
+  "artigos": [],
+  "instrucoes_em_falta": [
+   "Lei 26/96, art. 3.º (nas duas cópias do alterador): nova redacção do artigo 3.º do DL 334/95 («1 - Na ausência de plano municipal de ordenamento do território, poderão as câmaras municipais proceder à imediata delimitação das áreas urbanas ... 2 - Decorrido o prazo de 60 dias ... considera-se ... concedida»). A instrução é dirigida a este diploma e o consolidado não a aplicou; o artigo 3.º está colado ao fim da chave 72.º-A (alvo localizável, a vista não mostra o seu texto por serem artigos iguais ao original)."
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Lei 26/96 (duas cópias), art. 1.º: nova redacção dos artigos 2.º, 7.º, 11.º, 12.º, 16.º, 24.º, 32.º, 36.º, 38.º, 43.º, 55.º, 56.º, 57.º e 68.º do DL 448/91",
+    "motivo": "instrução dirigida a outro diploma (DL 448/91, alterado pelo DL 334/95)"
+   },
+   {
+    "instrucao": "Lei 26/96 (duas cópias), art. 2.º: aditamento dos artigos 68.º-A e 68.º-B ao DL 448/91",
+    "motivo": "instrução dirigida a outro diploma (DL 448/91)"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

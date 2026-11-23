@@ -1,0 +1,889 @@
+[
+ {
+  "id": "pt:dre:560020:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 74.º, n.º 1, do DL 186-A/99 (revoga o DL 214/88 salvo art. 25.º e mapa VIII quanto ao MP nos tribunais administrativos e fiscais); consolidado mantém epígrafe e corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 74.º, n.º 1, do DL 186-A/99 (revoga o DL 214/88 salvo art. 25.º e mapa VIII quanto ao MP nos tribunais administrativos e fiscais); consolidado mantém epígrafe e corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 74.º, n.º 1, do DL 186-A/99 (revoga o DL 214/88 salvo art. 25.º e mapa VIII quanto ao MP nos tribunais administrativos e fiscais); consolidado mantém epígrafe e corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 74.º, n.º 1, do DL 186-A/99 (revoga o DL 214/88 salvo art. 25.º e mapa VIII quanto ao MP nos tribunais administrativos e fiscais); consolidado mantém epígrafe e corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º-A",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 74.º, n.º 1, do DL 186-A/99 (revoga o DL 214/88 salvo art. 25.º e mapa VIII quanto ao MP nos tribunais administrativos e fiscais); consolidado mantém epígrafe e corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 74.º, n.º 1, do DL 186-A/99 (revoga o DL 214/88 salvo art. 25.º e mapa VIII quanto ao MP nos tribunais administrativos e fiscais); consolidado mantém epígrafe e corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 74.º, n.º 1, do DL 186-A/99 (revoga o DL 214/88 salvo art. 25.º e mapa VIII quanto ao MP nos tribunais administrativos e fiscais); consolidado mantém epígrafe e corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º-A",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 74.º, n.º 1, do DL 186-A/99 (revoga o DL 214/88 salvo art. 25.º e mapa VIII quanto ao MP nos tribunais administrativos e fiscais); consolidado mantém epígrafe e corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 74.º, n.º 1, do DL 186-A/99 (revoga o DL 214/88 salvo art. 25.º e mapa VIII quanto ao MP nos tribunais administrativos e fiscais); consolidado mantém epígrafe e corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 74.º, n.º 1, do DL 186-A/99 (revoga o DL 214/88 salvo art. 25.º e mapa VIII quanto ao MP nos tribunais administrativos e fiscais); consolidado mantém epígrafe e corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 74.º, n.º 1, do DL 186-A/99 (revoga o DL 214/88 salvo art. 25.º e mapa VIII quanto ao MP nos tribunais administrativos e fiscais); consolidado mantém epígrafe e corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 10.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 74.º, n.º 1, do DL 186-A/99 (revoga o DL 214/88 salvo art. 25.º e mapa VIII quanto ao MP nos tribunais administrativos e fiscais); consolidado mantém epígrafe e corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 11.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 74.º, n.º 1, do DL 186-A/99 (revoga o DL 214/88 salvo art. 25.º e mapa VIII quanto ao MP nos tribunais administrativos e fiscais); consolidado mantém epígrafe e corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 12.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 74.º, n.º 1, do DL 186-A/99 (revoga o DL 214/88 salvo art. 25.º e mapa VIII quanto ao MP nos tribunais administrativos e fiscais); consolidado mantém epígrafe e corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 13.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 74.º, n.º 1, do DL 186-A/99 (revoga o DL 214/88 salvo art. 25.º e mapa VIII quanto ao MP nos tribunais administrativos e fiscais); consolidado mantém epígrafe e corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 13.º-A",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 74.º, n.º 1, do DL 186-A/99 (revoga o DL 214/88 salvo art. 25.º e mapa VIII quanto ao MP nos tribunais administrativos e fiscais); consolidado mantém epígrafe e corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 14.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 74.º, n.º 1, do DL 186-A/99 (revoga o DL 214/88 salvo art. 25.º e mapa VIII quanto ao MP nos tribunais administrativos e fiscais); consolidado mantém epígrafe e corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 14.º-A",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 74.º, n.º 1, do DL 186-A/99 (revoga o DL 214/88 salvo art. 25.º e mapa VIII quanto ao MP nos tribunais administrativos e fiscais); consolidado mantém epígrafe e corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 15.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 74.º, n.º 1, do DL 186-A/99 (revoga o DL 214/88 salvo art. 25.º e mapa VIII quanto ao MP nos tribunais administrativos e fiscais); consolidado mantém epígrafe e corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 16.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 74.º, n.º 1, do DL 186-A/99 (revoga o DL 214/88 salvo art. 25.º e mapa VIII quanto ao MP nos tribunais administrativos e fiscais); consolidado mantém epígrafe e corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 17.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 74.º, n.º 1, do DL 186-A/99 (revoga o DL 214/88 salvo art. 25.º e mapa VIII quanto ao MP nos tribunais administrativos e fiscais); consolidado mantém epígrafe e corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 18.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 74.º, n.º 1, do DL 186-A/99 (revoga o DL 214/88 salvo art. 25.º e mapa VIII quanto ao MP nos tribunais administrativos e fiscais); consolidado mantém epígrafe e corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 19.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 74.º, n.º 1, do DL 186-A/99 (revoga o DL 214/88 salvo art. 25.º e mapa VIII quanto ao MP nos tribunais administrativos e fiscais); consolidado mantém epígrafe e corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 20.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 74.º, n.º 1, do DL 186-A/99 (revoga o DL 214/88 salvo art. 25.º e mapa VIII quanto ao MP nos tribunais administrativos e fiscais); consolidado mantém epígrafe e corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 21.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 74.º, n.º 1, do DL 186-A/99 (revoga o DL 214/88 salvo art. 25.º e mapa VIII quanto ao MP nos tribunais administrativos e fiscais); consolidado mantém epígrafe e corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 21.º-A",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 74.º, n.º 1, do DL 186-A/99 (revoga o DL 214/88 salvo art. 25.º e mapa VIII quanto ao MP nos tribunais administrativos e fiscais); consolidado mantém epígrafe e corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 22.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 74.º, n.º 1, do DL 186-A/99 (revoga o DL 214/88 salvo art. 25.º e mapa VIII quanto ao MP nos tribunais administrativos e fiscais); consolidado mantém epígrafe e corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 22.º-A",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 74.º, n.º 1, do DL 186-A/99 (revoga o DL 214/88 salvo art. 25.º e mapa VIII quanto ao MP nos tribunais administrativos e fiscais); consolidado mantém epígrafe e corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 22.º-B",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 74.º, n.º 1, do DL 186-A/99 (revoga o DL 214/88 salvo art. 25.º e mapa VIII quanto ao MP nos tribunais administrativos e fiscais); consolidado mantém epígrafe e corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 22.º-C",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 74.º, n.º 1, do DL 186-A/99 (revoga o DL 214/88 salvo art. 25.º e mapa VIII quanto ao MP nos tribunais administrativos e fiscais); consolidado mantém epígrafe e corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 23.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 74.º, n.º 1, do DL 186-A/99 (revoga o DL 214/88 salvo art. 25.º e mapa VIII quanto ao MP nos tribunais administrativos e fiscais); consolidado mantém epígrafe e corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 24.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 74.º, n.º 1, do DL 186-A/99 (revoga o DL 214/88 salvo art. 25.º e mapa VIII quanto ao MP nos tribunais administrativos e fiscais); consolidado mantém epígrafe e corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 25.º",
+    "veredicto": "certo",
+    "motivo": "Mantido pelo DL 186-A/99; n.º 2 = DL 206/91, n.os 4 e 5 = DL 39/99 (redação final), n.os 1, 3 e 6 originais/inalterados (6 do DL 206/91). Confere letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 26.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 74.º, n.º 1, do DL 186-A/99 (revoga o DL 214/88 salvo art. 25.º e mapa VIII quanto ao MP nos tribunais administrativos e fiscais); consolidado mantém epígrafe e corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 27.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 74.º, n.º 1, do DL 186-A/99 (revoga o DL 214/88 salvo art. 25.º e mapa VIII quanto ao MP nos tribunais administrativos e fiscais); consolidado mantém epígrafe e corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 28.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 74.º, n.º 1, do DL 186-A/99 (revoga o DL 214/88 salvo art. 25.º e mapa VIII quanto ao MP nos tribunais administrativos e fiscais); consolidado mantém epígrafe e corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 29.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 74.º, n.º 1, do DL 186-A/99 (revoga o DL 214/88 salvo art. 25.º e mapa VIII quanto ao MP nos tribunais administrativos e fiscais); consolidado mantém epígrafe e corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 30.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 74.º, n.º 1, do DL 186-A/99 (revoga o DL 214/88 salvo art. 25.º e mapa VIII quanto ao MP nos tribunais administrativos e fiscais); consolidado mantém epígrafe e corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 31.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 74.º, n.º 1, do DL 186-A/99 (revoga o DL 214/88 salvo art. 25.º e mapa VIII quanto ao MP nos tribunais administrativos e fiscais); consolidado mantém epígrafe e corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 32.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 74.º, n.º 1, do DL 186-A/99 (revoga o DL 214/88 salvo art. 25.º e mapa VIII quanto ao MP nos tribunais administrativos e fiscais); consolidado mantém epígrafe e corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 33.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 74.º, n.º 1, do DL 186-A/99 (revoga o DL 214/88 salvo art. 25.º e mapa VIII quanto ao MP nos tribunais administrativos e fiscais); consolidado mantém epígrafe e corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 33.º-A",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 74.º, n.º 1, do DL 186-A/99 (revoga o DL 214/88 salvo art. 25.º e mapa VIII quanto ao MP nos tribunais administrativos e fiscais); consolidado mantém epígrafe e corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 34.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 74.º, n.º 1, do DL 186-A/99 (revoga o DL 214/88 salvo art. 25.º e mapa VIII quanto ao MP nos tribunais administrativos e fiscais); consolidado mantém epígrafe e corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 35.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 74.º, n.º 1, do DL 186-A/99 (revoga o DL 214/88 salvo art. 25.º e mapa VIII quanto ao MP nos tribunais administrativos e fiscais); consolidado mantém epígrafe e corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 36.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 74.º, n.º 1, do DL 186-A/99 (revoga o DL 214/88 salvo art. 25.º e mapa VIII quanto ao MP nos tribunais administrativos e fiscais); consolidado mantém epígrafe e corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 37.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 74.º, n.º 1, do DL 186-A/99 (revoga o DL 214/88 salvo art. 25.º e mapa VIII quanto ao MP nos tribunais administrativos e fiscais); consolidado mantém epígrafe e corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 37.º-A",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 74.º, n.º 1, do DL 186-A/99 (revoga o DL 214/88 salvo art. 25.º e mapa VIII quanto ao MP nos tribunais administrativos e fiscais); consolidado mantém epígrafe e corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 38.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 74.º, n.º 1, do DL 186-A/99 (revoga o DL 214/88 salvo art. 25.º e mapa VIII quanto ao MP nos tribunais administrativos e fiscais); consolidado mantém epígrafe e corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 39.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 74.º, n.º 1, do DL 186-A/99 (revoga o DL 214/88 salvo art. 25.º e mapa VIII quanto ao MP nos tribunais administrativos e fiscais); consolidado mantém epígrafe e corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 40.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 74.º, n.º 1, do DL 186-A/99 (revoga o DL 214/88 salvo art. 25.º e mapa VIII quanto ao MP nos tribunais administrativos e fiscais); consolidado mantém epígrafe e corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 41.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 74.º, n.º 1, do DL 186-A/99 (revoga o DL 214/88 salvo art. 25.º e mapa VIII quanto ao MP nos tribunais administrativos e fiscais); consolidado mantém epígrafe e corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 42.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 74.º, n.º 1, do DL 186-A/99 (revoga o DL 214/88 salvo art. 25.º e mapa VIII quanto ao MP nos tribunais administrativos e fiscais); consolidado mantém epígrafe e corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 43.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 74.º, n.º 1, do DL 186-A/99 (revoga o DL 214/88 salvo art. 25.º e mapa VIII quanto ao MP nos tribunais administrativos e fiscais); consolidado mantém epígrafe e corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 44.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 74.º, n.º 1, do DL 186-A/99 (revoga o DL 214/88 salvo art. 25.º e mapa VIII quanto ao MP nos tribunais administrativos e fiscais); consolidado mantém epígrafe e corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 45.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 74.º, n.º 1, do DL 186-A/99 (revoga o DL 214/88 salvo art. 25.º e mapa VIII quanto ao MP nos tribunais administrativos e fiscais); consolidado mantém epígrafe e corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 46.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 74.º, n.º 1, do DL 186-A/99 (revoga o DL 214/88 salvo art. 25.º e mapa VIII quanto ao MP nos tribunais administrativos e fiscais); consolidado mantém epígrafe e corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 47.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 74.º, n.º 1, do DL 186-A/99 (revoga o DL 214/88 salvo art. 25.º e mapa VIII quanto ao MP nos tribunais administrativos e fiscais); consolidado mantém epígrafe e corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 48.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 74.º, n.º 1, do DL 186-A/99 (revoga o DL 214/88 salvo art. 25.º e mapa VIII quanto ao MP nos tribunais administrativos e fiscais); consolidado mantém epígrafe e corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 49.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 74.º, n.º 1, do DL 186-A/99 (revoga o DL 214/88 salvo art. 25.º e mapa VIII quanto ao MP nos tribunais administrativos e fiscais); consolidado mantém epígrafe e corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 50.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 74.º, n.º 1, do DL 186-A/99 (revoga o DL 214/88 salvo art. 25.º e mapa VIII quanto ao MP nos tribunais administrativos e fiscais); consolidado mantém epígrafe e corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 51.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 74.º, n.º 1, do DL 186-A/99 (revoga o DL 214/88 salvo art. 25.º e mapa VIII quanto ao MP nos tribunais administrativos e fiscais); consolidado mantém epígrafe e corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 52.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 74.º, n.º 1, do DL 186-A/99 (revoga o DL 214/88 salvo art. 25.º e mapa VIII quanto ao MP nos tribunais administrativos e fiscais); consolidado mantém epígrafe e corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 53.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 74.º, n.º 1, do DL 186-A/99 (revoga o DL 214/88 salvo art. 25.º e mapa VIII quanto ao MP nos tribunais administrativos e fiscais); consolidado mantém epígrafe e corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 54.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 74.º, n.º 1, do DL 186-A/99 (revoga o DL 214/88 salvo art. 25.º e mapa VIII quanto ao MP nos tribunais administrativos e fiscais); consolidado mantém epígrafe e corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 55.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 74.º, n.º 1, do DL 186-A/99 (revoga o DL 214/88 salvo art. 25.º e mapa VIII quanto ao MP nos tribunais administrativos e fiscais); consolidado mantém epígrafe e corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 56.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 74.º, n.º 1, do DL 186-A/99 (revoga o DL 214/88 salvo art. 25.º e mapa VIII quanto ao MP nos tribunais administrativos e fiscais); consolidado mantém epígrafe e corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 57.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 74.º, n.º 1, do DL 186-A/99 (revoga o DL 214/88 salvo art. 25.º e mapa VIII quanto ao MP nos tribunais administrativos e fiscais); consolidado mantém epígrafe e corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 58.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 74.º, n.º 1, do DL 186-A/99 (revoga o DL 214/88 salvo art. 25.º e mapa VIII quanto ao MP nos tribunais administrativos e fiscais); consolidado mantém epígrafe e corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 59.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 74.º, n.º 1, do DL 186-A/99 (revoga o DL 214/88 salvo art. 25.º e mapa VIII quanto ao MP nos tribunais administrativos e fiscais); consolidado mantém epígrafe e corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 60.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 74.º, n.º 1, do DL 186-A/99 (revoga o DL 214/88 salvo art. 25.º e mapa VIII quanto ao MP nos tribunais administrativos e fiscais); consolidado mantém epígrafe e corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 61.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 74.º, n.º 1, do DL 186-A/99 (revoga o DL 214/88 salvo art. 25.º e mapa VIII quanto ao MP nos tribunais administrativos e fiscais); consolidado mantém epígrafe e corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 62.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 74.º, n.º 1, do DL 186-A/99 (revoga o DL 214/88 salvo art. 25.º e mapa VIII quanto ao MP nos tribunais administrativos e fiscais); consolidado mantém epígrafe e corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 63.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 74.º, n.º 1, do DL 186-A/99 (revoga o DL 214/88 salvo art. 25.º e mapa VIII quanto ao MP nos tribunais administrativos e fiscais); consolidado mantém epígrafe e corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 64.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 74.º, n.º 1, do DL 186-A/99 (revoga o DL 214/88 salvo art. 25.º e mapa VIII quanto ao MP nos tribunais administrativos e fiscais); consolidado mantém epígrafe e corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 65.º",
+    "veredicto": "errado",
+    "motivo": "Corpo (Encargos) revogado ok, mas o texto que se lhe segue mantém os mapas I a VII e IX integralmente (inclusive IV, V, VI, VII), quando o art. 74.º n.º 1 do DL 186-A/99 revoga tudo menos o art. 25.º e o mapa VIII quanto ao quadro do MP nos tribunais administrativos e fiscais. Além disso, as correcções da Declaração ao mapa VIII (STA: '3 Procuradores da República'; Tribunal Tributário de 2.ª Instância: '1 Procurador da República') não estão aplicadas no lugar (linhas 'Procuradores da República' e '1 Procurador-Geral da República' ficam como no original) e surgem soltas no início do artigo, a par de 'MAPA X' e de 13 '(Revogado.)' soltos. Mapa II e mapa X da Lei 44/96 mantêm-se só até 15-9-1999 (n.os 2 e 3), prazo que não é textual.",
+    "texto_esperado": "###### Artigo 65.º — (Encargos)\n\n(Revogado.)\n\nSó se mantém o quadro do mapa VIII relativo aos magistrados do MP nos tribunais administrativos e fiscais (Supremo Tribunal Administrativo: 3 Procuradores da República; Tribunal Tributário de 2.ª Instância: 1 Procurador-Geral-Adjunto, 1 Procurador da República; tribunais administrativos de círculo), e os mapas I a VII, IX e X ficam revogados."
+   },
+   {
+    "artigo": "Artigo 1º",
+    "veredicto": "certo",
+    "motivo": "Existe no consolidado como 'Artigo 1.º' (só difere o formato da chave), revogado pelo art. 74.º n.º 1 do DL 186-A/99.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 2º",
+    "veredicto": "certo",
+    "motivo": "Existe no consolidado como 'Artigo 2.º' (só difere o formato da chave), revogado pelo art. 74.º n.º 1 do DL 186-A/99.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3º",
+    "veredicto": "certo",
+    "motivo": "Existe no consolidado como 'Artigo 3.º' (só difere o formato da chave), revogado pelo art. 74.º n.º 1 do DL 186-A/99.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4º",
+    "veredicto": "certo",
+    "motivo": "Existe no consolidado como 'Artigo 4.º' (só difere o formato da chave), revogado pelo art. 74.º n.º 1 do DL 186-A/99.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5º",
+    "veredicto": "certo",
+    "motivo": "Existe no consolidado como 'Artigo 5.º' (só difere o formato da chave), revogado pelo art. 74.º n.º 1 do DL 186-A/99.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "artigo 6º",
+    "veredicto": "certo",
+    "motivo": "Existe no consolidado como 'Artigo 6.º' (só difere o formato da chave), revogado pelo art. 74.º n.º 1 do DL 186-A/99.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 7º",
+    "veredicto": "certo",
+    "motivo": "Existe no consolidado como 'Artigo 7.º' (só difere o formato da chave), revogado pelo art. 74.º n.º 1 do DL 186-A/99.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 8º",
+    "veredicto": "certo",
+    "motivo": "Existe no consolidado como 'Artigo 8.º' (só difere o formato da chave), revogado pelo art. 74.º n.º 1 do DL 186-A/99.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 9º",
+    "veredicto": "certo",
+    "motivo": "Existe no consolidado como 'Artigo 9.º' (só difere o formato da chave), revogado pelo art. 74.º n.º 1 do DL 186-A/99.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 10º",
+    "veredicto": "certo",
+    "motivo": "Existe no consolidado como 'Artigo 10.º' (só difere o formato da chave), revogado pelo art. 74.º n.º 1 do DL 186-A/99.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 11º",
+    "veredicto": "certo",
+    "motivo": "Existe no consolidado como 'Artigo 11.º' (só difere o formato da chave), revogado pelo art. 74.º n.º 1 do DL 186-A/99.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 12º",
+    "veredicto": "certo",
+    "motivo": "Existe no consolidado como 'Artigo 12.º' (só difere o formato da chave), revogado pelo art. 74.º n.º 1 do DL 186-A/99.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 13º",
+    "veredicto": "certo",
+    "motivo": "Existe no consolidado como 'Artigo 13.º' (só difere o formato da chave), revogado pelo art. 74.º n.º 1 do DL 186-A/99.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 14º",
+    "veredicto": "certo",
+    "motivo": "Existe no consolidado como 'Artigo 14.º' (só difere o formato da chave), revogado pelo art. 74.º n.º 1 do DL 186-A/99.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 15º",
+    "veredicto": "certo",
+    "motivo": "Existe no consolidado como 'Artigo 15.º' (só difere o formato da chave), revogado pelo art. 74.º n.º 1 do DL 186-A/99.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 16º",
+    "veredicto": "certo",
+    "motivo": "Existe no consolidado como 'Artigo 16.º' (só difere o formato da chave), revogado pelo art. 74.º n.º 1 do DL 186-A/99.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 17º",
+    "veredicto": "certo",
+    "motivo": "Existe no consolidado como 'Artigo 17.º' (só difere o formato da chave), revogado pelo art. 74.º n.º 1 do DL 186-A/99.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 18º",
+    "veredicto": "certo",
+    "motivo": "Existe no consolidado como 'Artigo 18.º' (só difere o formato da chave), revogado pelo art. 74.º n.º 1 do DL 186-A/99.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 19º",
+    "veredicto": "certo",
+    "motivo": "Existe no consolidado como 'Artigo 19.º' (só difere o formato da chave), revogado pelo art. 74.º n.º 1 do DL 186-A/99.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 20º",
+    "veredicto": "certo",
+    "motivo": "Existe no consolidado como 'Artigo 20.º' (só difere o formato da chave), revogado pelo art. 74.º n.º 1 do DL 186-A/99.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 21º",
+    "veredicto": "certo",
+    "motivo": "Existe no consolidado como 'Artigo 21.º' (só difere o formato da chave), revogado pelo art. 74.º n.º 1 do DL 186-A/99.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 22º",
+    "veredicto": "certo",
+    "motivo": "Existe no consolidado como 'Artigo 22.º' (só difere o formato da chave), revogado pelo art. 74.º n.º 1 do DL 186-A/99.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 23º",
+    "veredicto": "certo",
+    "motivo": "Existe no consolidado como 'Artigo 23.º' (só difere o formato da chave), revogado pelo art. 74.º n.º 1 do DL 186-A/99.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 24º",
+    "veredicto": "certo",
+    "motivo": "Existe no consolidado como 'Artigo 24.º' (só difere o formato da chave), revogado pelo art. 74.º n.º 1 do DL 186-A/99.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 25º",
+    "veredicto": "certo",
+    "motivo": "Sem artigo de igual chave no consolidado só por formato (Artigo 25.º); ver veredicto de Artigo 25.º: alterações aplicadas correctamente.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 26º",
+    "veredicto": "certo",
+    "motivo": "Existe no consolidado como 'Artigo 26.º' (só difere o formato da chave), revogado pelo art. 74.º n.º 1 do DL 186-A/99.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 27º",
+    "veredicto": "certo",
+    "motivo": "Existe no consolidado como 'Artigo 27.º' (só difere o formato da chave), revogado pelo art. 74.º n.º 1 do DL 186-A/99.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 28º",
+    "veredicto": "certo",
+    "motivo": "Existe no consolidado como 'Artigo 28.º' (só difere o formato da chave), revogado pelo art. 74.º n.º 1 do DL 186-A/99.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 29º",
+    "veredicto": "certo",
+    "motivo": "Existe no consolidado como 'Artigo 29.º' (só difere o formato da chave), revogado pelo art. 74.º n.º 1 do DL 186-A/99.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 30º",
+    "veredicto": "certo",
+    "motivo": "Existe no consolidado como 'Artigo 30.º' (só difere o formato da chave), revogado pelo art. 74.º n.º 1 do DL 186-A/99.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 31º",
+    "veredicto": "certo",
+    "motivo": "Existe no consolidado como 'Artigo 31.º' (só difere o formato da chave), revogado pelo art. 74.º n.º 1 do DL 186-A/99.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 32º",
+    "veredicto": "certo",
+    "motivo": "Existe no consolidado como 'Artigo 32.º' (só difere o formato da chave), revogado pelo art. 74.º n.º 1 do DL 186-A/99.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 33º",
+    "veredicto": "certo",
+    "motivo": "Existe no consolidado como 'Artigo 33.º' (só difere o formato da chave), revogado pelo art. 74.º n.º 1 do DL 186-A/99.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 34º",
+    "veredicto": "certo",
+    "motivo": "Existe no consolidado como 'Artigo 34.º' (só difere o formato da chave), revogado pelo art. 74.º n.º 1 do DL 186-A/99.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 35º",
+    "veredicto": "certo",
+    "motivo": "Existe no consolidado como 'Artigo 35.º' (só difere o formato da chave), revogado pelo art. 74.º n.º 1 do DL 186-A/99.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 36º",
+    "veredicto": "certo",
+    "motivo": "Existe no consolidado como 'Artigo 36.º' (só difere o formato da chave), revogado pelo art. 74.º n.º 1 do DL 186-A/99.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 37º",
+    "veredicto": "certo",
+    "motivo": "Existe no consolidado como 'Artigo 37.º' (só difere o formato da chave), revogado pelo art. 74.º n.º 1 do DL 186-A/99.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 38º",
+    "veredicto": "certo",
+    "motivo": "Existe no consolidado como 'Artigo 38.º' (só difere o formato da chave), revogado pelo art. 74.º n.º 1 do DL 186-A/99.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 39º",
+    "veredicto": "certo",
+    "motivo": "Existe no consolidado como 'Artigo 39.º' (só difere o formato da chave), revogado pelo art. 74.º n.º 1 do DL 186-A/99.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 40º",
+    "veredicto": "certo",
+    "motivo": "Existe no consolidado como 'Artigo 40.º' (só difere o formato da chave), revogado pelo art. 74.º n.º 1 do DL 186-A/99.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 41º",
+    "veredicto": "certo",
+    "motivo": "Existe no consolidado como 'Artigo 41.º' (só difere o formato da chave), revogado pelo art. 74.º n.º 1 do DL 186-A/99.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 42º",
+    "veredicto": "certo",
+    "motivo": "Existe no consolidado como 'Artigo 42.º' (só difere o formato da chave), revogado pelo art. 74.º n.º 1 do DL 186-A/99.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 43º",
+    "veredicto": "certo",
+    "motivo": "Existe no consolidado como 'Artigo 43.º' (só difere o formato da chave), revogado pelo art. 74.º n.º 1 do DL 186-A/99.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 44º",
+    "veredicto": "certo",
+    "motivo": "Existe no consolidado como 'Artigo 44.º' (só difere o formato da chave), revogado pelo art. 74.º n.º 1 do DL 186-A/99.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 45º",
+    "veredicto": "certo",
+    "motivo": "Existe no consolidado como 'Artigo 45.º' (só difere o formato da chave), revogado pelo art. 74.º n.º 1 do DL 186-A/99.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 46º",
+    "veredicto": "certo",
+    "motivo": "Existe no consolidado como 'Artigo 46.º' (só difere o formato da chave), revogado pelo art. 74.º n.º 1 do DL 186-A/99.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 47º",
+    "veredicto": "certo",
+    "motivo": "Existe no consolidado como 'Artigo 47.º' (só difere o formato da chave), revogado pelo art. 74.º n.º 1 do DL 186-A/99.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 48º",
+    "veredicto": "certo",
+    "motivo": "Existe no consolidado como 'Artigo 48.º' (só difere o formato da chave), revogado pelo art. 74.º n.º 1 do DL 186-A/99.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 49º",
+    "veredicto": "certo",
+    "motivo": "Existe no consolidado como 'Artigo 49.º' (só difere o formato da chave), revogado pelo art. 74.º n.º 1 do DL 186-A/99.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 50º",
+    "veredicto": "certo",
+    "motivo": "Existe no consolidado como 'Artigo 50.º' (só difere o formato da chave), revogado pelo art. 74.º n.º 1 do DL 186-A/99.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 51º",
+    "veredicto": "certo",
+    "motivo": "Existe no consolidado como 'Artigo 51.º' (só difere o formato da chave), revogado pelo art. 74.º n.º 1 do DL 186-A/99.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 52º",
+    "veredicto": "certo",
+    "motivo": "Existe no consolidado como 'Artigo 52.º' (só difere o formato da chave), revogado pelo art. 74.º n.º 1 do DL 186-A/99.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 53º",
+    "veredicto": "certo",
+    "motivo": "Existe no consolidado como 'Artigo 53.º' (só difere o formato da chave), revogado pelo art. 74.º n.º 1 do DL 186-A/99.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 54º",
+    "veredicto": "certo",
+    "motivo": "Existe no consolidado como 'Artigo 54.º' (só difere o formato da chave), revogado pelo art. 74.º n.º 1 do DL 186-A/99.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 55º",
+    "veredicto": "certo",
+    "motivo": "Existe no consolidado como 'Artigo 55.º' (só difere o formato da chave), revogado pelo art. 74.º n.º 1 do DL 186-A/99.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 56º",
+    "veredicto": "certo",
+    "motivo": "Existe no consolidado como 'Artigo 56.º' (só difere o formato da chave), revogado pelo art. 74.º n.º 1 do DL 186-A/99.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 57º",
+    "veredicto": "certo",
+    "motivo": "Existe no consolidado como 'Artigo 57.º' (só difere o formato da chave), revogado pelo art. 74.º n.º 1 do DL 186-A/99.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 58º",
+    "veredicto": "certo",
+    "motivo": "Existe no consolidado como 'Artigo 58.º' (só difere o formato da chave), revogado pelo art. 74.º n.º 1 do DL 186-A/99.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 59º",
+    "veredicto": "certo",
+    "motivo": "Existe no consolidado como 'Artigo 59.º' (só difere o formato da chave), revogado pelo art. 74.º n.º 1 do DL 186-A/99.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 60º",
+    "veredicto": "certo",
+    "motivo": "Existe no consolidado como 'Artigo 60.º' (só difere o formato da chave), revogado pelo art. 74.º n.º 1 do DL 186-A/99.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 61º",
+    "veredicto": "certo",
+    "motivo": "Existe no consolidado como 'Artigo 61.º' (só difere o formato da chave), revogado pelo art. 74.º n.º 1 do DL 186-A/99.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 62º",
+    "veredicto": "certo",
+    "motivo": "Existe no consolidado como 'Artigo 62.º' (só difere o formato da chave), revogado pelo art. 74.º n.º 1 do DL 186-A/99.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 63º",
+    "veredicto": "certo",
+    "motivo": "Existe no consolidado como 'Artigo 63.º' (só difere o formato da chave), revogado pelo art. 74.º n.º 1 do DL 186-A/99.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 64º",
+    "veredicto": "certo",
+    "motivo": "Existe no consolidado como 'Artigo 64.º' (só difere o formato da chave), revogado pelo art. 74.º n.º 1 do DL 186-A/99.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 65º",
+    "veredicto": "errado",
+    "motivo": "Equivale a Artigo 65.º do consolidado (só difere o formato da chave); ver veredicto errado desse artigo (mapas por revogar e correcções ao mapa VIII).",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [
+   "Declaração: rectificação do formulário do diploma ('Decreto-Lei n.º 38/87' deve ler-se 'Lei n.º 38/87', 'regime jurídico estabelecido pela Lei n.º 38/87'): o preâmbulo consta da lista dos artigos IGUAIS ao original, logo sem efeito (alvo conhecido: preâmbulo).",
+   "Declaração, mapa VIII (parte mantida, STA e Tribunal Tributário de 2.ª Instância): 'Procuradores da República' -> '3 Procuradores da República' e '1 Procurador-Geral da República' -> '1 Procurador da República' não aplicadas no lugar próprio (só aparecem soltas no início do Artigo 65.º).",
+   "DL 186-A/99, art. 74.º, n.º 1: revogação dos mapas I, II (salvo prorrogação), III, IV, V, VI, VII, IX e X anexos ao DL 214/88 não aplicada: o texto dos mapas I a VII e IX permanece integral no consolidado (dentro do Artigo 65.º)."
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Declaração: correcções ao quadro dos delegados do procurador da República no mapa VIII (Coimbra 13 (2 TT), Torre de Moncorvo, Oeiras 7, Penela, Ponta Delgada, Santo Tirso, V. N. Famalicão, 'Lisboa' após Vouzela)",
+    "motivo": "quadro só existe em imagem (link para o PDF) e a rectificação não traz imagem nova"
+   },
+   {
+    "instrucao": "DL 222/94, 153/95, 173/96 e 110/98: entradas soltas ao quadro dos delegados do mapa VIII e mapas anexos",
+    "motivo": "só em imagem; a parte dos tribunais judiciais fica revogada pelo DL 186-A/99"
+   },
+   {
+    "instrucao": "DL 206/91, art. 3.º (regulamentação por decreto-lei do n.º 3 do art. 6.º-A) e art. 6.º (produção de efeitos do art. 6.º-A)",
+    "motivo": "não textual; o art. 6.º-A fica revogado pelo DL 186-A/99"
+   },
+   {
+    "instrucao": "Lei 44/96, art. 5.º: revogação do art. 21.º-A a partir do início de funcionamento dos tribunais de turno",
+    "motivo": "efeito adiado para facto futuro; o artigo fica de qualquer modo revogado pelo DL 186-A/99"
+   },
+   {
+    "instrucao": "DL 173/96, art. 1.º: aumento de um juiz no quadro dos círculos de Guimarães, Santarém e Vila Franca de Xira",
+    "motivo": "não textual (só mapa VI, revogado pelo DL 186-A/99)"
+   },
+   {
+    "instrucao": "DL 186-A/99, art. 74.º, n.os 2 e 3: manutenção do mapa II e do mapa X da Lei 44/96 até 15-9-1999",
+    "motivo": "não textual (prorrogação); mapa X é de outro diploma"
+   },
+   {
+    "instrucao": "DL 301-A/99, art. 6.º: manutenção dos quadros de procuradores-adjuntos dos tribunais administrativos de círculo do mapa VIII, extintos quando vagarem",
+    "motivo": "não textual"
+   },
+   {
+    "instrucao": "DL 25/2009 (comarcas piloto) e alterações a outros diplomas (DL 376/87 e outros)",
+    "motivo": "outro diploma: nada visa o DL 214/88"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "Preâmbulo (formulário): rectificação 'Lei n.º 38/87' da Declaração não aplicada (ver instrucoes_em_falta). Chaves 'Artigo Nº' do original vs 'Artigo N.º' do consolidado: só formato."
+ }
+]

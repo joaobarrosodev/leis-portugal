@@ -87,11 +87,13 @@ def selecionar(db: sqlite3.Connection) -> list[dict]:
     return sorted(resultado, key=lambda r: (-r["citacoes"], r["id"]))
 
 
-def selecionar_todos(db: sqlite3.Connection, ids: set[str] | None = None) -> list[dict]:
+def selecionar_todos(db: sqlite3.Connection, ids: set[str] | None = None, com_revogacoes: bool = False) -> list[dict]:
     """Escala: todos os em vigor alterados, com texto, com os alteradores por ordem de data.
 
     Com `ids`, só esses e com qualquer `legal_status`: é assim que entram os de vigência
-    desconhecida (`unknown`), que a seleção por omissão não vê (camada 1, `camada1.py`)."""
+    desconhecida (`unknown`), que a seleção por omissão não vê (camada 1, `camada1.py`). Com
+    `com_revogacoes`, as relações `repealed_by` também entram na lista (`revogacao: true`): uma revogação
+    parcial que o DRE só regista assim («Revogados os arts. …») ficava fora da cadeia (ronda 116)."""
     filtro = "legal_status in ('in_force', 'partially_in_force')" if ids is None else "1 = 1"
     alvo = {
         linha[0]: dict(zip(COLUNAS.split(", "), linha, strict=True))
@@ -103,7 +105,8 @@ def selecionar_todos(db: sqlite3.Connection, ids: set[str] | None = None) -> lis
     }
     relacoes: dict[str, dict[str, dict]] = defaultdict(dict)  # original -> alvo da relação -> relação
     for origem, alvo_rel, alvo_id, data, rotulo, tipo in db.execute(
-        "select source_id, target, target_id, date, label, type from relacoes where type in ('amended_by', 'corrected_by')"
+        "select source_id, target, target_id, date, label, type from relacoes where type in ('amended_by', 'corrected_by'"
+        + (", 'repealed_by'" if com_revogacoes else "") + ")"
     ):
         if origem not in alvo:
             continue
@@ -134,6 +137,8 @@ def selecionar_todos(db: sqlite3.Connection, ids: set[str] | None = None) -> lis
         base["datas_dre"] = datas
         # A ordem: data de publicação; sem ela, a data da relação do DRE; sem nenhuma, no fim.
         base["ordem"] = base.get("publication_date") or (datas[-1] if datas else "9999-99-99")
+        if r["tipos"] == {"repealed_by"}:
+            base["revogacao"] = True
         if r["tipos"] == {"corrected_by"}:
             # Uma declaração de retificação do original aplica-se ao texto original (Lei 74/98,
             # art. 5.º, n.º 4): vai primeiro na cadeia. A que o DRE liga ao original mas retifica um

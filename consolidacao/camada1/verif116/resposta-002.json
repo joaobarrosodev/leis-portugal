@@ -1,0 +1,5 @@
+[{"id":"pt:dre:152365:por","artigos":[
+{"artigo":"Artigo 2.º","veredicto":"certo","motivo":"Revogado pelo art. 31.º do diploma orgânico que revoga o art. 2.º do DL 145/85; epígrafe/corpo '(Revogado.)'.","texto_esperado":""},
+{"artigo":"Artigo 3.º","veredicto":"certo","motivo":"Art. 11.º do diploma de capítulo 'Alterações legislativas' dá nova redação n.os 1 e 2 e renumera anteriores 2 e 3 para 3 e 4; n.º 3 mantém redação 'portaria do Ministro da Justiça' (art. 5.º do DL de 1990, sem a referência ao DL 144/83); n.º 4 igual ao anterior n.º 3.","texto_esperado":""},
+{"artigo":"Artigo 4.º","veredicto":"certo","motivo":"Art. 88.º f) do DL 42/89 revoga o artigo 4.º do DL 145/85.","texto_esperado":""}],
+"instrucoes_em_falta":[],"instrucoes_justificadas":[],"artigos_a_mais":[],"artigos_em_falta":[],"fora_dos_artigos":"sem alterações"}]

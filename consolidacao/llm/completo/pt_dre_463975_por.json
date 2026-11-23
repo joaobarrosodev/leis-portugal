@@ -2,92 +2,289 @@
   "id": "pt:dre:463975:por",
   "artigos": [
     {
+      "chave": "1.º",
+      "epigrafe": "Níveis de serviços",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
       "chave": "2.º",
       "epigrafe": "Serviços centrais operativos",
-      "texto": "Os serviços centrais operativos integram:\n\nDirecção de Serviços de Cadastro e Inventário;\n\nDirecção de Serviços de Gestão Patrimonial;\n\nDirecção de Serviços Especiais e de Inspecção Patrimonial;\n\nDirecção de Serviços de Gestão de Veículos do Estado;\n\nDirecção de Serviços do Aprovisionamento Público.",
-      "alterador": 4
+      "texto": "(Revogado.)",
+      "alterador": 11
     },
     {
       "chave": "3.º",
-      "epigrafe": "Estrutura dos serviços operativos",
-      "texto": "1 - Os serviços centrais operativos da DGPE têm a seguinte estrutura:\n\na) Direcção de Serviços de Cadastro e Inventário:\n\ne) Direcção de Serviços do Aprovisionamento Público:\n\nDivisão de Racionalização de Consumos;\n\nDivisão de Coordenação de Aquisições;\n\nDivisão de Divulgação e Controle.",
-      "alterador": 4
+      "epigrafe": "Estrutura dos serviços centrais operativos",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "4.º",
+      "epigrafe": "Atribuições genéricas",
+      "texto": "(Revogado.)",
+      "alterador": 11
     },
     {
       "chave": "5.º",
       "epigrafe": "Atribuições específicas",
-      "texto": "1 - À Direcção de Serviços de Cadastro e Inventário incumbe, através da suas divisões:\n\na) Manter actualizado e normalizado, em colaboração com o Ministério das Obras Públicas, o cadastro das instalações da Administração Pública;\n\nb) Receber, conferir, classificar e tratar os elementos do cadastro dos bens do Estado;\n\nc) Processar as operações relativas à elaboração do inventário geral dos bens do Estado, em ordem à organização da conta do património.\n\n2 - À Divisão de Aquisições e de Arrendamentos para o Estado cabe:\n\na) Propor a compra para o Estado de bens imóveis ou de direitos a eles respeitantes, ouvidos os departamentos técnicos competentes dos demais Ministérios;\n\nb) Assegurar o processamento dos actos relativos à aquisição de imóveis para instalação de serviços públicos ou outros fins;\n\nc) Assegurar a instrução dos processos de arrendamento para o Estado, até à respectiva autorização;\n\nd) Assegurar o processamento dos actos relativos à aquisição de móveis a título oneroso, nos casos em que a lei o determine;\n\ne) Proceder à afectação dos imóveis aos diversos serviços ou entidades;\n\nf) Assegurar o processamento dos actos relativos a heranças, legados e doações a favor do Estado;\n\ng) Assegurar o processamento dos actos relativos à prescrição de títulos e outros valores;\n\nh) Assegurar o processamento do expediente relativo aos actos de registo subsequentes à aquisição, incluindo os actos de regularização e registo de veículos automóveis.\n\n3 - À Divisão de Administração Patrimonial compete:\n\na) Assegurar o processamento dos actos relativos ao arrendamento de bens do Estado;\n\nb) Assegurar o processamento dos actos relacionados com a conservação e valorização dos bens do Estado na directa administração da DGPE;\n\nc) Assegurar os demais actos de gestão dos bens do Estado, nos termos que a lei definir.\n\n4 - À Divisão de Alienação de Bens incumbe:\n\na) Assegurar o processamento dos actos relacionados com a venda de bens do Estado;\n\nb) Assegurar o processamento dos actos relacionados com a cessão definitiva de bens do Estado;\n\nc) Assegurar o processamento dos actos decorrentes da aplicação do [Decreto-Lei n.º 30615](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30615-1940-144595), de 25 de Julho de 1940.\n\n5 - À Direcção de Serviços Especiais e de Inspecção Patrimonial incumbe, através da Divisão de Serviços Especiais, assegurar o processamento de todos os actos relacionados com a coordenação da gestão e dos planos de actividade dos palácios e monumentos nacionais e do Arquivo Histórico do Ministério das Finanças enquanto não se operar a prevista transferência para o Instituto Português do Património Cultural.\n\n6 - À Divisão de Inspecção Patrimonial cabe:\n\na) Assegurar o processamento de todos os actos relacionados com a verificação da utilização que os serviços fazem dos bens do Estado que lhes estão afectos;\n\nb) Assegurar o processamento dos actos relacionados com um aproveitamento racional dos bens do património do Estado.\n\n7 - À Direcção de Serviços de Gestão de Veículos do Estado incumbem as atribuições conferidas pelo [Decreto-Lei n.º 49/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-1978-447689), de 23 de Março, e pelo [Decreto Regulamentar n.º 69/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/69-1979-365762), de 28 de Dezembro.\n\n8 - A Direcção de Serviços referida no número anterior será efectivamente implementada no âmbito da DGPE, nos termos e condições do artigo 17.º do [Decreto-Lei n.º 518/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/518-1979-365748), de 28 de Dezembro.\n\n9 - À Divisão de Racionalização de Consumos compete:\n\na) Estudar e propor as exigências técnicas a que deverão obedecer as aquisições públicas nos aspectos de concepção/construção e utilização/conservação, numa perspectiva de equilíbrio do custo com a eficácia;\n\nb) Seleccionar os métodos de verificação da qualidade dos produtos;\n\nc) Preparar os elementos de carácter técnico a integrar nos contratos e assegurar a análise técnica das propostas;\n\nd) Estudar os dossiers de fabrico compatíveis com as exigências técnicas das especificações dos produtos;\n\ne) Promover, em colaboração com as entidades especializadas, os testes necessários à verificação do cumprimento das cláusulas técnicas;\n\nf) Estabelecer regras de apoio técnico à recepção dos produtos e acompanhar os serviços na sua execução.\n\n10 - À Divisão de Coordenação de Aquisições compete:\n\na) Estudar e propor as exigências económicas que deverão integrar os contratos e proceder à análise económica das propostas;\n\nb) Desenvolver estudos e assegurar a revisão e actualização dos preços dos bens e serviços integrados nos contratos e elaborar as fórmulas de revisão tipo quando esteja prevista a sua aplicação;\n\nc) Proceder à determinação global das necessidades de aquisição com base nos elementos fornecidos pelas entidades públicas em ordem à programação das aquisições;\n\nd) Desenvolver estudos económicos de prospecção e evolução dos mercados;\n\ne) Orientar os agrupamentos de ecomenda;\n\nf) Promover junto dos fornecedores a recolha de dados quanto à utilização dos contratos na modalidade de compra directa.\n\n11 - À Divisão de Divulgação e Controle compete:\n\na) Elaborar e difundir pelos serviços públicos toda a informação com interesse para a melhoria dos aprovisionamentos;\n\nb) Assegurar a divulgação aos serviços públicos dos contratos celebrados com os fornecedores;\n\nc) Promover a elaboração de estatísticas dos contratos de aprovisionamento celebrados pelos serviços públicos;\n\nd) Proceder ao lançamento de inquéritos e ao tratamento e recolha de dados sobre consumos e preferências dos serviços;\n\ne) Apoiar os serviços ou comissões de aprovisionamento específico.",
-      "alterador": 4
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "6.º",
+      "epigrafe": "Divisão de Estudos Patrimoniais",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "7.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "8.º",
+      "epigrafe": "Núcleo de informática",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "9.º",
+      "epigrafe": "Direcção de Serviços Administrativos",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "10.º",
+      "epigrafe": "Categorias, vencimentos e número de funcionários",
+      "texto": "(Revogado.)",
+      "alterador": 11
     },
     {
       "chave": "10.º-A",
       "epigrafe": "",
-      "texto": "1 - Os lugares previstos no mapa anexo ao presente diploma para a carreira de auxiliar de gestão patrimonial abrangem também a categoria de auxiliar de gestão patrimonial estagiário, a que corresponde o vencimento da letra M.\n\n2 - Um dos lugares de subdirector-geral previstos no mapa anexo ao presente diploma será extinto quando vagar.",
-      "alterador": 4
+      "texto": "(Revogado.)",
+      "alterador": 11
     },
     {
       "chave": "11.º",
       "epigrafe": "Recrutamento para lugares de ingresso",
       "texto": "(Revogado.)",
-      "alterador": 11
+      "alterador": 13
     },
     {
       "chave": "12.º",
       "epigrafe": "Grupos profissionais",
-      "texto": "1 - O pessoal da DGPE integra-se num quadro geral e distribui-se pelos seguintes grupos profissionais:\n\na) Pessoal dirigente;\n\nb) Pessoal técnico superior;\n\nc) Pessoal técnico;\n\nd) Pessoal técnico de gestão patrimonial;\n\ne) Pessoal de informática;\n\nf) Pessoal técnico-profissional e administrativo;\n\ng) Pessoal operário semiqualificado e auxiliar.\n\n2 - O grupo do pessoal técnico superior abrangerá os conservadores dos palácios e monumentos nacionais, os bibliotecários-arquivistas do Arquivo Histórico do Ministério das Finanças e da biblioteca do Palácio Nacional de Mafra, cujo estatuto se rege essencialmente pelo disposto no [Decreto-Lei n.º 280/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1979-377699), de 10 de Agosto, e os técnicos superiores licenciados em Direito, Economia, Finanças, Gestão de Empresas ou Engenharia.\n\n3 - (Revogado.)\n\n4 - O grupo do pessoal de informática integra as carreiras de controlador de trabalho, operador de registo de dados, operador, programador e analista.",
+      "texto": "(Revogado.)",
+      "alterador": 13
+    },
+    {
+      "chave": "13.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
       "alterador": 11
     },
     {
       "chave": "14.º",
       "epigrafe": "",
-      "texto": "1 - O provimento do pessoal pertencente a categorias de ingresso integradas em carreiras profissionais terá carácter provisório durante um ano, findo o qual os funcionários serão nomeados definitivamente se tiverem revelado aptidão para o lugar, ou exonerados, no caso contrário.\n\n2 - A conversão da nomeação em definitiva ou a exoneração referidas no número anterior deverão ser propostas pelo director-geral até ao fim do mês seguinte ao do termo daquele prazo, continuando entretanto os funcionários na mesma situação.\n\n3 - (Revogado.)",
-      "alterador": 4
+      "texto": "(Revogado.)",
+      "alterador": 11
     },
     {
       "chave": "15.º",
       "epigrafe": "Recrutamento do pessoal técnico de gestão patrimonial",
       "texto": "(Revogado.)",
-      "alterador": 11
+      "alterador": 13
     },
     {
       "chave": "16.º",
       "epigrafe": "Admissão de auxiliares de gestão patrimonial estagiários",
       "texto": "(Revogado.)",
-      "alterador": 11
+      "alterador": 13
     },
     {
       "chave": "17.º",
       "epigrafe": "Graduação dos candidatos para efeitos de nomeação para a categoria de auxiliar de gestão patrimonial de 2.ª classe",
+      "texto": "(Revogado.)\n\nSUBSEÇÇÃO II\n\nPessoal técnico superior",
+      "alterador": 13
+    },
+    {
+      "chave": "18.º",
+      "epigrafe": "Provimento",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "19.º",
+      "epigrafe": "Provimento",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "20.º",
+      "epigrafe": "Recrutamento",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "21.º",
+      "epigrafe": "Recrutamento",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "22.º",
+      "epigrafe": "Pessoal operário semiqualificado e pessoal auxiliar",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "23.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "24.º",
+      "epigrafe": "Promoção mediante provas finais a realizar após os estágios ou cursos, concursos de prestação de provas ou provas de apreciação curricular.",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "25.º",
+      "epigrafe": "Promoções não baseadas na realização de provas",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "26.º",
+      "epigrafe": "Preferências a atender em caso de igualdade de circunstâncias",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "27.º",
+      "epigrafe": "Contrato além do quadro",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "28.º",
+      "epigrafe": "Pessoal requisitado",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "29.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "30.º",
+      "epigrafe": "Pessoal técnico superior",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "31.º",
+      "epigrafe": "Pessoal de informática",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "32.º",
+      "epigrafe": "Do restante pessoal",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "33.º",
+      "epigrafe": "Incompatibilidades",
       "texto": "(Revogado.)",
       "alterador": 11
     },
     {
       "chave": "34.º",
       "epigrafe": "Prémio de gestão patrimonial",
-      "texto": "O direito à percepção de remunerações até ao limite fixado no artigo 46.º do [Decreto-Lei n.º 506/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/506-1973-413054), de 9 de Outubro, além dos respectivos vencimentos, em conformidade com o mapa anexo ao presente diploma, tornar-se-á efectivo pela seguinte forma:\n\n1 - O prémio de gestão patrimonial é constituído pela importância correspondente a 1% do valor das operações ou rendimentos patrimoniais realizados ou fiscalizados pela DGPE.\n\n2 - Não participam no prémio de gestão patrimonial os funcionários do quadro da Direcção-Geral que, no exercício das suas funções, não intervenham, directa ou indirectamente, nas operações patrimoniais ou de fiscalização a que se refere o n.º 1, nomeadamente:\n\na) O pessoal que exerce funções meramente administrativas;\n\nb) O pessoal operário semiqualificado;\n\nc) O pessoal auxiliar;\n\nd) O pessoal que tiver apenas a categoria de estagiário.\n\n3 - O prémio de gestão patrimonial será distribuído pelos funcionários não excluídos nos termos do n.º 2 do presente artigo na proporção dos respectivos vencimentos, com o limite máximo anual de 30% dos mesmos.\n\n4 - A distribuição referida no número anterior será feita trimestralmente, sendo as correspondentes folhas de despesa processadas pela Direcção dos Serviços Administrativos da DGPE em conta de verba apropriada inscrita no orçamento do Ministério das Finanças e do Plano.\n\n5 - No caso de, em face do apuramento correspondente ao valor das operações e rendimentos patrimoniais realizados durante um ano, se verificar que o prémio de gestão distribuído nesse ano foi inferior ao limite estabelecido no n.º 3 deste artigo, será a devida compensação efectivada no primeiro trimestre do ano seguinte.\n\n6 - O prémio de gestão patrimonial fica sujeito aos descontos e imposições legais que incidem sobre os vencimentos e só será devido quando haja lugar ao abono do correspondente vencimento de exercício.\n\n7 - O valor ilíquido do prémio de gestão patrimonial a distribuir por cada funcionário é arredondado trimestralmente para a centena de escudos imediatamente superior, independentemente do disposto na parte final do n.º 3.",
-      "alterador": 2
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "35.º",
+      "epigrafe": "Contrato de mera prestação de serviços",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "36.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "37.º",
+      "epigrafe": "Contagem de tempo de serviço",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "38.º",
+      "epigrafe": "Contagem de tempo de serviço ao pessoal do quadro geral de adidos integrado na DGPE",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "39.º",
+      "epigrafe": "Manutenção de direitos em matéria de remunerações globais",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "40.º",
+      "epigrafe": "Listas dos candidatos já aprovados em provas de selecção",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "41.º",
+      "epigrafe": "Provimento nas novas categorias e cargos",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "42.º",
+      "epigrafe": "Pessoal dos bens culturais",
+      "texto": "(Revogado.)",
+      "alterador": 11
+    },
+    {
+      "chave": "43.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)\n\nFrancisco Sá Carneiro - Diogo Pinto de Freitas do Amaral - Aníbal António Cavaco Silva.\n\nPromulgado em 5 de Agosto de 1980.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nMAPA I\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/08/20000/24642473.pdf)\n\nMAPA II\n\nTabela de correspondência para efeito de contagem do tempo das novas categorias\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/08/20000/24642473.pdf)\n\nMAPA III\n\nCursos\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/08/20000/24642473.pdf)",
+      "alterador": 11
     }
   ],
   "removidos": [],
   "titulos": [],
   "anexos": [],
-  "nao_aplicavel": "Alterador 4, artigo 3.º, n.º 1, alíneas b) a d) (mantidas com '...'): alvo incerto: o texto atual do artigo 3.º acaba na alínea a) («Direcção de Serviços de Cadastro e Inventário:»), a linha seguinte («Divisão de Móveis;») veio como título de divisão e as alíneas b) a d) e as divisões de cada direcção não estão no texto atual; o artigo vai com o n.º 1, a alínea a) atual e a nova alínea e), sem inventar as alíneas b) a d).\nAlterador 4, art. 3.º (aditamento de lugares ao quadro de pessoal pelo mapa anexo): só em imagem: o mapa vem em imagem e o quadro do original (mapa I) não tem título de anexo no texto atual.\nAlterador 5, n.º 1.º (lugar aditado ao quadro de pessoal pelo mapa anexo): só em imagem: mapa em imagem e sem título de anexo no texto atual.\nAlterador 6, n.os 1.º e 2.º (lugares acrescidos e lugar extinto/criado no quadro, pelo mapa anexo): só em imagem: mapa em imagem e sem título de anexo no texto atual.\nAlterador 7, n.os 1.º e 6.º (carreira de técnico superior de informática; quadro de pessoal de informática do mapa I alterado pelo quadro anexo): só em imagem: o quadro vem em imagem e o mapa I não tem título de anexo no texto atual.\nAlterador 8 (criação de um lugar de assessor no quadro): sem texto: a portaria não traz o mapa nem a redacção nova do quadro.\nAlterador 9 (substituição do mapa de pessoal pelo mapa anexo e anexo com o conteúdo funcional da carreira de técnico auxiliar): só em imagem: o mapa vem em imagem e o quadro do original não tem título de anexo no texto atual.\nAlterador 1 (extinção do GVE e transferência das suas atribuições para a DGPE): não textual.\nAlterador 3 e Alterador 10 (alargamento da área de recrutamento para lugares do artigo 13.º): não textual.",
+  "nao_aplicavel": "Alterador 1, extinção do GVE e transferência das suas atribuições para a DGPE: não textual (não altera o texto do original)\nAlterador 3, alargamento da área de recrutamento para director de serviços e chefe de divisão (art. 13.º): não textual (não altera o texto do artigo)\nAlterador 4, art. 3.º, aditamento de lugares ao quadro de pessoal pelo mapa anexo: só em imagem (o mapa só vem em imagem e não há título de anexo no texto atual)\nAlterador 5, aumento de um lugar no quadro de pessoal: só em imagem (sem título de anexo no texto atual)\nAlterador 6, acréscimo e extinção de lugares no quadro de pessoal: só em imagem (sem título de anexo no texto atual)\nAlterador 7, n.os 1.º a 5.º, criação da carreira de técnico superior de informática e respetivas funções: alvo incerto (não diz que texto do original muda; o art. 12.º, n.º 4, acabou de qualquer forma revogado pelos alteradores 11 e 13)\nAlterador 7, n.º 6.º, alteração do quadro de pessoal de informática do mapa I: só em imagem (sem título de anexo no texto atual)\nAlterador 8, criação de um lugar de assessor no quadro: só em imagem (o quadro só existe em imagem, sem título de anexo no texto atual)\nAlterador 9, substituição do mapa de pessoal: só em imagem (sem título de anexo no texto atual)\nAlterador 9, ANEXO «Conteúdo funcional da carreira de técnico auxiliar»: alvo incerto (nenhuma instrução diz onde se insere no original)\nAlterador 10, alargamento excecional da área de recrutamento para chefe da Divisão de Gestão Técnica e Formação (art. 13.º): não textual (não altera o texto do artigo)",
   "instrucoes": [
-    "Alterador 2 (DR 69/80): nova redacção do n.º 3 do artigo 34.º (limite de 30%) — aplicado; epígrafe «Prémio de gestão patrimonial» como vem no texto atual.",
-    "Alterador 4 (DR 40/83), art. 1.º: nova redacção do artigo 2.º (aditada a Direcção de Serviços do Aprovisionamento Público) — aplicado.",
-    "Alterador 4, art. 1.º: nova redacção do artigo 3.º (nova epígrafe, n.º 1 e alíneas a) a d) mantidas, nova alínea e)) — aplicado com o texto atual que existe (n.º 1 e alínea a)); alíneas b) a d) em falta no texto atual, ver nao_aplicavel.",
-    "Alterador 4, art. 2.º: aditados os n.os 9 a 11 ao artigo 5.º — aplicado.",
-    "Alterador 4, art. 3.º: lugares aditados ao quadro pelo mapa anexo (imagem) — não aplicado, ver nao_aplicavel.",
-    "Alterador 4, art. 4.º: aditado o artigo 10.º-A (sem epígrafe) — aplicado.",
-    "Alterador 4, art. 5.º: revogado o n.º 3 do artigo 14.º — aplicado.",
-    "Alteradores 5 a 9: alterações ao quadro de pessoal por mapas em imagem ou sem texto — não aplicadas, ver nao_aplicavel.",
-    "Alteradores 1, 3 e 10: extinção do GVE e alargamentos da área de recrutamento — não textuais.",
-    "Alterador 11 (Declaração de Rectificação n.º 49/2008): o mapa VIII republicado do DL 121/2008 («Disposições normativas revogadas») inclui o artigo 11.º, o n.º 3 do artigo 12.º e os artigos 15.º a 17.º do original — aplicado: 11.º, 15.º, 16.º e 17.º «(Revogado.)» e 12.º n.º 3 «(Revogado.)». Nota: o corpo atual do artigo 17.º trazia no fim a linha «SUBSEÇÇÃO II / Pessoal técnico superior», que é o título da subsecção do artigo 18.º e não texto do artigo; com a revogação o corpo fica só «(Revogado.)».",
-    "Alterador 11, rectificação propriamente dita (entrada relativa à Portaria n.º 358/2002 no mapa VIII do DL 121/2008): outro diploma, ignorada."
+    "Alterador 1 (DR 59/80): extingue o GVE; não altera o texto do original.",
+    "Alterador 2 (DR 69/80): nova redação do n.º 3 do art. 34.º; aplicada, mas o artigo ficou depois revogado pelo alterador 11.",
+    "Alterador 3 (Portaria 79/81): alarga a área de recrutamento; não textual.",
+    "Alterador 4 (DR 40/83): nova redação dos arts. 2.º e 3.º, aditamento dos n.os 9 a 11 ao art. 5.º e do art. 10.º-A, revogação do n.º 3 do art. 14.º; aplicadas, mas tudo ficou depois revogado pelo alterador 11 (o art. 10.º-A vai como revogado). Mapa anexo em imagem: não aplicado.",
+    "Alteradores 5, 6, 8 e 9 (portarias): alteram o quadro de pessoal, só em imagem; não aplicados. O anexo de texto da Portaria 73/87 não tem alvo; não aplicado.",
+    "Alterador 7 (Portaria 116/85): cria carreira e altera o quadro de informática; alvo incerto / só em imagem; não aplicado.",
+    "Alterador 10 (Portaria 531/89): alarga a área de recrutamento; não textual.",
+    "Alterador 11 (DR 21/2007), art. 12.º, alínea c): revoga o DR 44/80, salvo os arts. 11.º, 12.º, n.º 3, e 15.º a 17.º; aplicado: arts. 1.º a 10.º, 10.º-A, 13.º, 14.º e 18.º a 43.º com o corpo «(Revogado.)» (no 43.º mantêm-se as assinaturas e os mapas que vêm a seguir).",
+    "Alteradores 12 e 13 (DL 121/2008, mapa VIII, republicado pela Declaração de Retificação 49/2008): revoga o art. 11.º, o n.º 3 do art. 12.º e os arts. 15.º a 17.º; aplicado (o art. 12.º fica todo revogado; no art. 17.º mantém-se o cabeçalho «SUBSEÇÇÃO II / Pessoal técnico superior», que não pertence ao artigo).",
+    "Nos arts. 6.º, 24.º, 30.º, 33.º e 34.º a primeira linha do texto atual é a epígrafe; ficou em «epigrafe», com o corpo «(Revogado.)»."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "ronda_camada1": 115,
+  "ronda_camada1": 116,
   "problemas": [],
   "numeracao_aceite": [],
   "avisos": []

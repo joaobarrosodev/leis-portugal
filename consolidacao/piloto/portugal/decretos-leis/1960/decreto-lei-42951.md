@@ -7,15 +7,9 @@ consolidacao:
     sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
-  - id: pt:dre:142331:por
-    title: Decreto-Lei n.º 217/70
-    publication_date: '1970-05-16'
-  - id: pt:dre:526197:por
-    title: Decreto-Lei n.º 48946
-    publication_date: '1969-03-31'
-  - id: pt:dre:622295:por
-    title: Decreto-Lei n.º 7/85
-    publication_date: '1985-01-08'
+  - id: pt:dre:665133:por
+    title: Decreto-Lei n.º 583/72
+    publication_date: '1972-12-30'
   titulos_normalizados: artigos em texto corrido no original, com título pelo parser
     da fase 3
 ---
@@ -58,139 +52,135 @@ Das casas em regime de propriedade resolúvel
 
 ###### Artigo 3.º
 
-A aquisição ou construção de casas a ceder sob a forma de propriedade resolúvel será normalmente feita a pedido dos funcionários, devendo preferir-se, como regra, o regime de propriedade horizontal.
+(Revogado.)
 
-§ 1.º O estudo dos projectos e as avaliações ou estimativas de custo das edificações, bem como quaisquer outras despesas preliminares da construção, constituem encargo dos interessados no prédio que por elas ficarão solidàriamente responsáveis até à realização do contrato de venda.
-
-§ 2.º Será fixado, por despacho do Ministro das Finanças, o limite máximo a que fica sujeito o custo das habitações a adquirir ou a construir nos termos deste artigo.
+> Revogado pelo/a [Decreto-Lei n.º 583/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/583-1972-665133), publicado em 1972-12-30.
 
 ###### Artigo 4.º
 
-Se a construção se realizar em terreno pertencente ao funcionário, a Caixa efectuará a sua compra, sendo o respectivo preço levado em conta de entrega inicial e princípio de pagamento.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 583/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/583-1972-665133), publicado em 1972-12-30.
 
 ###### Artigo 5.º
 
-Os pedidos de aquisição ou de construção só poderão ter seguimento desde que a mensalidade correspondente à casa pretendida não exceda um terço dos rendimentos do agregado familiar, devendo na sua apreciação considerar-se os elementos referidos no § único do artigo seguinte.
+(Revogado.)
 
-§ 1.º Na definição do agregado familiar e determinação do seu rendimento observar-se-á o disposto na base VII da [Lei n.º 2092](https://diariodarepublica.pt/dr/detalhe/lei/2092-1958-304997), de 9 de Abril de 1958.
-
-§ 2.º Sempre que concorram proventos da função pública e réditos de outra origem, estes sòmente serão considerados até quantitativo igual à totalidade dos primeiros.
-
-§ 3.º O interessado poderá satisfazer imediatamente a importância necessária para que a mensalidade se contenha dentro do limite fixado no corpo deste artigo.
-
-> Alterado pelo/a [Decreto-Lei n.º 217/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-1970-142331), publicado em 1970-05-16.
+> Revogado pelo/a [Decreto-Lei n.º 583/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/583-1972-665133), publicado em 1972-12-30.
 
 ###### Artigo 6.º
 
-A atribuição de casas em regime de propriedade resolúvel, quando adquiridas ou construídas por iniciativa da Caixa, será precedida de concurso anunciado com a antecedência mínima de 30 dias, para a admissão ao qual se terá de observar o preceituado na primeira parte do corpo do artigo anterior e nos seus parágrafos.
+(Revogado.)
 
-§ 1.º Na classificação dos concorrentes atender-se-á, na medida do possível, ao maior número e ao mais próximo grau de parentesco das pessoas que constituem o agregado familiar, às mais deficientes condições e aos mais pesados encargos da actual habitação, ao menor rendimento familiar per capita e à maior idade do requerente.
-
-§ 2.º Se nos concursos a que alude o corpo do artigo não se inscreverem funcionários em número suficiente para preencher as habitações a distribuir, poderá o Ministro das Finanças, sob proposta da Caixa, decidir que a novo concurso sejam admitidos indivíduos estranhos à função pública, sempre, porém, sem prejuízo da preferência daqueles, ou determinar qualquer outro destino às mesmas habitações.
-
-> Alterado pelo/a [Decreto-Lei n.º 48946](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48946-1969-526197), publicado em 1969-03-31.
+> Revogado pelo/a [Decreto-Lei n.º 583/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/583-1972-665133), publicado em 1972-12-30.
 
 ###### Artigo 7.º
 
-A propriedade resolúvel adquire-se pela realização do contrato de compra e venda entre os interessados e a Caixa, devendo constar do respectivo documento o preço, que corresponderá ao capital investido, as entregas iniciais, havendo-as, as condições de pagamento em mensalidades e ainda outras que se considerem necessárias.
+(Revogado.)
 
-§ único. Por capital investido entende-se:
-
-1.º O custo do edifício ou terreno, despesas de construção e de administração das obras e quaisquer outras feitas com o imóvel;
-
-2.º Os encargos com o contrato e, bem assim, as despesas efectuadas com o prévio registo do prédio em nome da Caixa.
+> Revogado pelo/a [Decreto-Lei n.º 583/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/583-1972-665133), publicado em 1972-12-30.
 
 ###### Artigo 8.º
 
-As mensalidades serão iguais e antecipadas, adoptando-se no seu cálculo a taxa média de 4 por cento ao ano, se outra não vier a ser fixada por despacho do Ministro das Finanças, ouvida a administração da Caixa.
+(Revogado.)
 
-> Alterado pelo/a [Decreto-Lei n.º 217/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-1970-142331), publicado em 1970-05-16.
+> Revogado pelo/a [Decreto-Lei n.º 583/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/583-1972-665133), publicado em 1972-12-30.
 
 ###### Artigo 9.º
 
-As mensalidades serão distribuídas por períodos anuais, com o limite máximo de vinte e cinco anos, à escolha dos interessados, mas sempre de forma que a idade destes, no fim do prazo, não ultrapasse 70 anos.
+(Revogado.)
 
-> Alterado pelo/a [Decreto-Lei n.º 217/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-1970-142331), publicado em 1970-05-16.
+> Revogado pelo/a [Decreto-Lei n.º 583/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/583-1972-665133), publicado em 1972-12-30.
 
 ###### Artigo 10.º
 
-A certidão do documento do contrato a que se refere o artigo 7.º será título suficiente para o registo de transmissão do prédio a favor do adquirente.
+(Revogado.)
 
-§ único. Liquidadas integralmente pelo morador-adquirente as suas responsabilidades, a conservatória procederá ao competente averbamento em presença de autorização concedida pela Caixa em documento autêntico ou autenticado e do facto far-se-á a devida comunicação à secção de finanças da área a que o prédio pertencer.
+> Revogado pelo/a [Decreto-Lei n.º 583/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/583-1972-665133), publicado em 1972-12-30.
 
 ###### Artigo 11.º
 
-O morador-adquirente poderá antecipar, no fim de cada período de um ano, o pagamento do capital contido nas mensalidades correspondentes a um ou mais anos. A antecipação parcial poderá efectuar-se sem alienação do prazo de amortização previsto no contrato ou com redução do mesmo prazo.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 583/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/583-1972-665133), publicado em 1972-12-30.
 
 ###### Artigo 12.º
 
-Os moradores-adquirentes são obrigados a manter o prédio em bom estado de conservação, devendo fazer à sua custa, por iniciativa própria ou intimação da Caixa, as obras de limpeza e de reparação necessárias durante a vigência do contrato.
+(Revogado.)
 
-§ 1.º As obras da iniciativa dos moradores-adquirentes serão antecipadamente comunicadas à Caixa.
-
-§ 2.º A Caixa poderá mandar vistoriar o imóvel sempre que o entenda conveniente.
+> Revogado pelo/a [Decreto-Lei n.º 583/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/583-1972-665133), publicado em 1972-12-30.
 
 ###### Artigo 13.º
 
-Durante a vigência do contrato, não poderão realizar-se sem autorização por escrito da Caixa, quaisquer benfeitorias ou obras que envolvam, ainda que parcialmente, modificações do imóvel.
+(Revogado.)
 
-§ único. A Caixa poderá efectuar, à custa dos interessados, a demolição das obras feitas sem sua autorização, no prazo de seis meses a contar da data em que delas tiver conhecimento.
+> Revogado pelo/a [Decreto-Lei n.º 583/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/583-1972-665133), publicado em 1972-12-30.
 
 ###### Artigo 14.º
 
-Enquanto se não verificar a liquidação total das prestações devidas, é o morador-adquirente obrigado a manter o prédio seguro contra incêndio e ainda a constituir e manter um seguro de renda certa-amortização ou outro, destinado a cobrir o pagamento das prestações vincendas à data da sua morte.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 583/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/583-1972-665133), publicado em 1972-12-30.
 
 ###### Artigo 15.º
 
-Em caso de destruição parcial devida a fogo, a Caixa providenciará no sentido de o prédio ser restituído ao estado anterior.
+(Revogado.)
 
-§ único. Ficam sujeitas ao mesmo regime as benfeitorias efectuadas, desde que estejam cobertas pelo seguro e tenham sido autorizadas pela Caixa.
+> Revogado pelo/a [Decreto-Lei n.º 583/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/583-1972-665133), publicado em 1972-12-30.
 
 ###### Artigo 16.º
 
-Se a destruição for total, a Caixa reterá, da indemnização a receber da entidade seguradora, adicionada ao produto da venda do terreno e de possíveis salvados, a importância e o correspondente ao capital ainda não amortizado e despesas a que o acidente tenha dado origem, entregando aos adquirentes o saldo, se o houver.
+(Revogado.)
 
-§ único. O contrato ficará sem efeito, salvo se a Caixa optar, com a anuência dos interessados, pela reconstituição do prédio.
+> Revogado pelo/a [Decreto-Lei n.º 583/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/583-1972-665133), publicado em 1972-12-30.
 
 ###### Artigo 17.º
 
-Se o imóvel for expropriado por utilidade pública, nos termos da legislação aplicável, proceder-se-á, quanto à indemnização recebida, por forma idêntica à indicada no corpo do artigo antecedente.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 583/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/583-1972-665133), publicado em 1972-12-30.
 
 ###### Artigo 18.º
 
-As casas não poderão ser alienadas antes da sua amortização total, mas, na hipótese de esta ter sido antecipada, nos termos do artigo 11.º, a alienação não poderá efectuar-se sem autorização da Caixa senão depois de decorridos dez anos sobre a data da celebração do contrato.
+(Revogado.)
 
-§ único. A alienação fará cessar a isenção estabelecida no artigo 24.º
+> Revogado pelo/a [Decreto-Lei n.º 583/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/583-1972-665133), publicado em 1972-12-30.
 
 ###### Artigo 19.º
 
-A Caixa terá o direito de preferência na alienação das casas por ela atribuídas em regime de propriedade resolúvel se, nos termos do artigo anterior, essa alienação se verificar antes de decorridos dez anos sobre a data da celebração do contrato.
+(Revogado.)
 
-Neste caso, se o preço da venda for superior ao da atribuição da propriedade resolúvel, a diferença será distribuída pelo alienante e pela Caixa, em proporção, respectivamente, do número de anos completos decorridos sobre aquele contrato e dos que faltarem para o termo do período de amortização.
+> Revogado pelo/a [Decreto-Lei n.º 583/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/583-1972-665133), publicado em 1972-12-30.
 
 ###### Artigo 20.º
 
-As casas atribuídas em regime de propriedade resolúvel não podem permanecer desocupadas pelo agregado familiar durante mais de um ano, nem ser dadas de arrendamento, sem o consentimento escrito da Caixa, caducando o arrendamento findo o prazo para ele concedido.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 583/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/583-1972-665133), publicado em 1972-12-30.
 
 ###### Artigo 21.º
 
-Se os moradores-adquirentes faltarem a qualquer das obrigações estabelecidas pelo presente diploma ou estipuladas no contrato, considerar-se-á este rescindido.
+(Revogado.)
 
-§ 1.º Verificado o disposto no corpo deste artigo, a Caixa restituirá ao morador-adquirente a diferença que se apurar entre o total das mensalidades já pagas e o rendimento que devia ter produzido o capital investido, à taxa constante do artigo 8.º, acrescida de 3 por cento.
-
-§ 2.º A Caixa, havendo razões atendíveis, poderá conceder prazo suficiente para o cumprimento da obrigação em falta e a sua comunicação constará de carta registada, com aviso de recepção, a enviar para a casa que foi objecto do contrato.
+> Revogado pelo/a [Decreto-Lei n.º 583/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/583-1972-665133), publicado em 1972-12-30.
 
 ###### Artigo 22.º
 
-Em caso de rescisão do contrato, a conservatória, a simples requerimento da Caixa, cancelará o registo de transmissão a favor do morador-adquirente.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 583/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/583-1972-665133), publicado em 1972-12-30.
 
 ###### Artigo 23.º
 
-As habitações atribuídas em regime de propriedade resolúvel não podem ser hipotecadas, arrestadas ou penhoradas enquanto não pertencerem definitiva e incondicionalmente ao morador-adquirente.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 583/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/583-1972-665133), publicado em 1972-12-30.
 
 ###### Artigo 24.º
 
-As habitações a que se refere o artigo anterior são isentas de contribuição predial durante quinze anos, a contar da data da realização do contrato a que se refere o artigo 7.º
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 583/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/583-1972-665133), publicado em 1972-12-30.
 
 III
 
@@ -198,27 +188,33 @@ Das casas em regime de arrendamento
 
 ###### Artigo 25.º
 
-As casas para arrendamento serão de tipos adequados às várias categorias de funcionários, podendo prever-se a instalação dos estabelecimentos comerciais indispensáveis quando forem dispostas em agrupamento e a sua localização o justifique.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 583/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/583-1972-665133), publicado em 1972-12-30.
 
 ###### Artigo 26.º
 
-Compete ao Ministro das Finanças fixar, sob proposta da Caixa, que deverá observar o disposto na base V da [Lei n.º 2092](https://diariodarepublica.pt/dr/detalhe/lei/2092-1958-304997), de 9 de Abril de 1958, os limites das rendas a pagar pelos funcionários.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 583/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/583-1972-665133), publicado em 1972-12-30.
 
 ###### Artigo 27.º
 
-À atribuição das casas em regime de arrendamento é extensivo o disposto no artigo 6.º do presente diploma.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 583/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/583-1972-665133), publicado em 1972-12-30.
 
 ###### Artigo 28.º
 
-É aplicável à actualização das rendas o preceituado na base VI da [Lei n.º 2092](https://diariodarepublica.pt/dr/detalhe/lei/2092-1958-304997), competindo a respectiva homologação ao Ministro das Finanças, mediante proposta da Caixa.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 583/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/583-1972-665133), publicado em 1972-12-30.
 
 ###### Artigo 29.º
 
-As habitações dadas em arrendamento podem passar ao regime de propriedade resolúvel a pedido do respectivo arrendatário, competindo à Caixa promover, nesse caso, a competente divisão do prédio em fracções autónomas.
+(Revogado.)
 
-§ único. O preço corresponderá ao capital investido ou será o que a Caixa fixar em equivalência à despesa que teria de ser efectuada nesse momento para a construção no mesmo local de uma casa de igual tipo, se essa despesa for superior à do capital investido.
-
-> Alterado pelo/a [Decreto-Lei n.º 217/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-1970-142331), publicado em 1970-05-16.
+> Revogado pelo/a [Decreto-Lei n.º 583/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/583-1972-665133), publicado em 1972-12-30.
 
 IV
 
@@ -226,37 +222,39 @@ Disposições gerais
 
 ###### Artigo 30.º
 
-Fica o Ministro das Finanças autorizado a ceder definitivamente à Caixa Geral de Depósitos, Crédito e Previdência (Caixa Nacional de Previdência), mediante justa compensação, para a construção de habitações nos termos deste diploma, terrenos pertencentes ao domínio privado do Estado.
+(Revogado.)
 
-§ único. As cessões a que respeita este artigo serão isentas de impostos e efectuar-se-ão por meio de auto lavrado na Direcção-Geral da Fazenda Pública.
+> Revogado pelo/a [Decreto-Lei n.º 583/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/583-1972-665133), publicado em 1972-12-30.
 
 ###### Artigo 31.º
 
-As câmaras municipais cooperarão com a Caixa na realização dos fins previstos neste decreto-lei, sendo desde já autorizadas a contratar com a mesma instituição a venda ou troca dos terrenos necessários.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 583/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/583-1972-665133), publicado em 1972-12-30.
 
 ###### Artigo 32.º
 
-A perda, por parte dos arrendatários ou dos moradores-adquirentes, da qualidade de funcionários ou a sua passagem à situação de licença ilimitada implicarão:
+(Revogado.)
 
-a) A rescisão do contrato, no caso de demissão;
-
-b) A revisão das condições financeiras do contrato, no caso de exoneração ou de passagem à situação de licença ilimitada.
-
-§ único. A revisão das condições financeiras consistirá no cálculo de uma nova renda, ou da prestação de amortização, a partir da data da modificação da situação do funcionário, utilizando-se no novo cálculo as taxas de 15,5% no caso de exoneração e de 14,5% no caso de passagem à licença ilimitada.
-
-> Alterado pelo/a [Decreto-Lei n.º 7/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-1985-622295), publicado em 1985-01-08.
+> Revogado pelo/a [Decreto-Lei n.º 583/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/583-1972-665133), publicado em 1972-12-30.
 
 ###### Artigo 33.º
 
-O disposto no presente diploma é aplicável às casas construídas pela Caixa em terrenos adquiridos à Câmara Municipal de Lisboa, ao abrigo do [Decreto-Lei n.º 42454](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42454-1959-432236), de 18 de Agosto de 1959, sem prejuízo do que nele se estabelece quanto a planos de trabalho, categorias de habitações, respectivas percentagens e valores-limites das rendas mensais.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 583/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/583-1972-665133), publicado em 1972-12-30.
 
 ###### Artigo 34.º
 
-As resoluções tomadas pela Caixa em execução deste diploma são susceptíveis de recurso, a interpor no prazo de 30 dias para o Ministro das Finanças, cuja decisão não poderá ser contenciosamente impugnada.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 583/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/583-1972-665133), publicado em 1972-12-30.
 
 ###### Artigo 35.º
 
-O Ministro das Finanças resolverá em definitivo, sob informação da Caixa, as dúvidas que se suscitarem na interpretação, aplicação ou execução do presente decreto-lei.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 583/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/583-1972-665133), publicado em 1972-12-30.
 
 Publique-se e cumpra-se como nele se contém.
 

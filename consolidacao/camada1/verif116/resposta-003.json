@@ -1,0 +1,71 @@
+[
+ {
+  "id": "pt:dre:171362:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "DL 97/2006 art. 1.º: n.os 2, 3 e 4 novos, n.º 1 mantido (\"...\").",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "DL 97/2006: n.os 1 e 2 novos; n.º 3 = anterior n.º 2.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "DL 302/86 (n.os 1-5) e DL 97/2006 (n.os 1, 4, 5, 6 novos; 2 e 3 mantidos; n.º 5 revogado pelo DL 234-B/98 art. 3.º e reposto pelo DL 97/2006).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 97/2006 art. 3.º a).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 97/2006 art. 3.º a).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 10.º",
+    "veredicto": "errado",
+    "motivo": "Portaria 277/87 n.º 1.º substitui o mapa de pessoal do n.º 1 do art. 4.º pelo mapa anexo (com as alterações do n.º 4 das Portarias 49-A/92 e 282/97). O consolidado pôs o mapa novo mas deixou também o mapa antigo (\"Mapa de pessoal da Missão Permanente\", com a ligação à imagem), que devia ter sido substituído, e o mapa novo perdeu as epígrafes numeradas (1 - Representante permanente: ... 6 - Pessoal assalariado) e a linha do embaixador.",
+    "texto_esperado": "Artigo 10.º\n\nO presente diploma entrará em vigor no dia imediato ao da sua publicação.\n\n[Visto e aprovado..., Promulgado..., Publique-se, Referendado..., O Primeiro-Ministro (inalterados)]\n\nMapa do pessoal da Representação Permanente\n\n1 - Representante permanente:\n\nUm funcionário do quadro do pessoal do serviço diplomático com a categoria de embaixador.\n\n2 - Representante permanente-adjunto:\n\nUm funcionário do quadro do serviço diplomático com a categoria de ministro plenipotenciário de 1.ª classe ou de 2.ª classe.\n\n3 - Pessoal diplomático:\n\nDez funcionários do quadro do pessoal do serviço diplomático de qualquer categoria.\n\n4 - Pessoal especializado:\n\n31 funcionários do quadro do pessoal especializado com a categoria de conselheiro técnico principal, conselheiro técnico e adido técnico;\n\n1 funcionário do quadro do pessoal especializado com a categoria de conselheiro ou de adido de imprensa;\n\n2 funcionários do quadro do pessoal especializado com a categoria de secretário privativo.\n\n5 - Pessoal administrativo:\n\nDois funcionários do quadro do pessoal administrativo do Ministério dos Negócios Estrangeiros.\n\n6 - Pessoal assalariado:\n\nTrês chanceleres; Três arquivistas; Onze assistentes tradutores; Três secretários de 1.ª classe; Seis secretários de 2.ª classe; Dois escriturários-dactilógrafos; Um telefonista; Três motoristas; Um porteiro; Três contínuos; Um guarda; Três auxiliares de serviço.\n\n(o mapa antigo 'Mapa de pessoal da Missão Permanente' e a ligação '(ver documento original)' deixam de constar)"
+   }
+  ],
+  "instrucoes_em_falta": [
+   "Portaria 277/87 n.º 1.º: o mapa antigo não foi substituído, ficou depois do novo (ver Artigo 10.º)"
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Portaria 277/87 n.º 2.º (mapa I do DL 133/85, substituído; imagem)",
+    "motivo": "Instrução de outro diploma (DL 133/85); texto só em imagem."
+   },
+   {
+    "instrucao": "Portaria 49-A/92 n.os 2.º e 3.º, e Portaria 282/97 n.os 2.º e 3.º (quadros do DL 133/85 e da Portaria 411/87)",
+    "motivo": "Instruções dirigidas a outros diplomas, não ao DL 459/85."
+   },
+   {
+    "instrucao": "Portaria 319/2004 n.º 1.º (altera o mapa da Portaria 330-A/2002, conselheiro militar)",
+    "motivo": "O mapa novo só vem em imagem (ligação a pdf) e o consolidado não tem anexo com título onde o pôr; o mapa alterado é o da Portaria 330-A/2002, não o do original."
+   },
+   {
+    "instrucao": "DL 100/2019 arts. 1.º a 3.º (suspensão transitória dos prazos máximos do art. 6.º e prorrogações)",
+    "motivo": "Não textual: suspensão/prorrogação, sem nova redação."
+   },
+   {
+    "instrucao": "DL 32/2022, DL 32/2024 e DL 87-A/2025",
+    "motivo": "A vista não traz o texto destes diplomas (só o título); não se pode verificar nenhuma instrução."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

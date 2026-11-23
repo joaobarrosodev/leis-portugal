@@ -1,0 +1,59 @@
+[
+ {
+  "id": "pt:dre:237461:por",
+  "artigos": [
+   {
+    "artigo": "Trecho 1",
+    "veredicto": "certo",
+    "motivo": "DL 227/83 art. 49.º n.º 1 revoga todo o DL 44699 (a ressalva dos n.os 2 e 3 do art. 47.º é da penalização do próprio 227/83, não condiciona a revogação); consolidado deixa só '(Revogado.)' por artigo, sem texto, com os mesmos números do original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 2",
+    "veredicto": "certo",
+    "motivo": "DL 227/83 art. 49.º n.º 1 revoga todo o DL 44699 (a ressalva dos n.os 2 e 3 do art. 47.º é da penalização do próprio 227/83, não condiciona a revogação); consolidado deixa só '(Revogado.)' por artigo, sem texto, com os mesmos números do original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 3",
+    "veredicto": "certo",
+    "motivo": "DL 227/83 art. 49.º n.º 1 revoga todo o DL 44699 (a ressalva dos n.os 2 e 3 do art. 47.º é da penalização do próprio 227/83, não condiciona a revogação); consolidado deixa só '(Revogado.)' por artigo, sem texto, com os mesmos números do original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 4",
+    "veredicto": "certo",
+    "motivo": "DL 227/83 art. 49.º n.º 1 revoga todo o DL 44699 (a ressalva dos n.os 2 e 3 do art. 47.º é da penalização do próprio 227/83, não condiciona a revogação); consolidado deixa só '(Revogado.)' por artigo, sem texto, com os mesmos números do original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 5",
+    "veredicto": "certo",
+    "motivo": "DL 227/83 art. 49.º n.º 1 revoga todo o DL 44699 (a ressalva dos n.os 2 e 3 do art. 47.º é da penalização do próprio 227/83, não condiciona a revogação); consolidado deixa só '(Revogado.)' por artigo, sem texto, com os mesmos números do original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 6",
+    "veredicto": "certo",
+    "motivo": "DL 227/83 art. 49.º n.º 1 revoga todo o DL 44699 (a ressalva dos n.os 2 e 3 do art. 47.º é da penalização do próprio 227/83, não condiciona a revogação); consolidado deixa só '(Revogado.)' por artigo, sem texto, com os mesmos números do original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 7",
+    "veredicto": "certo",
+    "motivo": "DL 227/83 art. 49.º n.º 1 revoga todo o DL 44699 (a ressalva dos n.os 2 e 3 do art. 47.º é da penalização do próprio 227/83, não condiciona a revogação); consolidado deixa só '(Revogado.)' por artigo, sem texto, com os mesmos números do original.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 44828 (entrada em vigor a 1/3/1963), DL 47919 art. 4.º, DL 48311 art. 2.º, DL 49306 arts. 3.º e 4.º, DL 747/76 art. 3.º (alterações e revogações parciais)",
+    "motivo": "Sem efeito autónomo: o DL 227/83 art. 49.º revoga depois o diploma inteiro, pelo que todos os artigos ficam '(Revogado.)'."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

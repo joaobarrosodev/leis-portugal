@@ -7,12 +7,15 @@ consolidacao:
     sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
+  - id: pt:dre:520434:por
+    title: Decreto-Lei n.º 81/2007
+    publication_date: '2007-03-29'
+  - id: pt:dre:448153:por
+    title: Decreto-Lei n.º 262/2002
+    publication_date: '2002-11-25'
   - id: pt:dre:218365:por
     title: Decreto-Lei n.º 237/2004
     publication_date: '2004-12-18'
-  - id: pt:dre:405937:por
-    title: Decreto-Lei n.º 3/2000
-    publication_date: '2000-01-29'
 ---
 
 # Decreto-Lei n.º 366/99
@@ -43,325 +46,177 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 ###### Artigo 1.º — Natureza e missão
 
-A Direcção-Geral dos Impostos, a seguir abreviadamente designada por DGCI, é o serviço do Ministério das Finanças que tem por missão assegurar a administração dos impostos sobre o rendimento, sobre a despesa e sobre o património, bem como de outros tributos que lhe forem atribuídos por lei, de acordo com as políticas e as orientações definidas pelo Governo.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 81/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2007-520434), publicado em 2007-03-29.
 
 ###### Artigo 2.º — Âmbito de intervenção
 
-1 - Cabe em geral à DGCI, relativamente aos impostos que lhe incumbe administrar:
+(Revogado.)
 
-a) Assegurar a respectiva liquidação e cobrança;
-
-b) Exercer a acção de inspecção tributária, prevenindo e combatendo a fraude e evasão fiscais;
-
-c) Exercer a acção de justiça tributária e assegurar a representação da Fazenda Pública junto dos órgãos judiciais;
-
-d) Executar os acordos e convenções internacionais em matéria tributária, nomeadamente os destinados a evitar a dupla tributação;
-
-e) Informar os particulares sobre as respectivas obrigações fiscais e apoiá-los no cumprimento das mesmas;
-
-f) Promover a correcta aplicação da legislação e das decisões administrativas relacionadas com as respectivas competências;
-
-g) Contribuir para a melhoria da eficácia do sistema fiscal, propondo as providências de carácter normativo, técnico e organizacional que se revelem adequadas;
-
-h) Cooperar com as administrações tributárias de outros Estados e participar nos trabalhos de organismos internacionais especializados no domínio da fiscalidade;
-
-i) Promover e assegurar as relações com organismos nacionais vocacionados para o estudo de matérias fiscais.
-
-j) Contribuir para a investigação científica no domínio da fiscalidade e para o aperfeiçoamento da técnica tributária.
-
-2 - Cabe, ainda, à DGCI a arrecadação e a cobrança de outras receitas do Estado ou de outras pessoas colectivas de direito público que lhe sejam atribuídas por lei.
-
-3 - No desempenho das suas competências, a DGCI actua em coordenação institucional com a Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo e com a Direcção-Geral de Informática e Apoio aos Serviços Tributários e Aduaneiros e coopera com outros serviços públicos que intervenham na área fiscal e com as administrações tributárias de outros Estados.
-
-> Alterado pelo/a [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), publicado em 2004-12-18.
+> Revogado pelo/a [Decreto-Lei n.º 81/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2007-520434), publicado em 2007-03-29.
 
 ###### Artigo 3.º — Princípios
 
-1 - A DGCI rege-se pelos seguintes princípios:
+(Revogado.)
 
-a) Legalidade;
-
-b) Flexibilização organizativa;
-
-c) Desburocratização;
-
-d) Desconcentração;
-
-e) Valorização dos recursos humanos;
-
-f) Coordenação tributária interadministrativa;
-
-g) Duplo grau de decisão administrativa.
-
-2 - O princípio da legalidade implica que a prossecução das suas atribuições deve pautar-se pela rigorosa observância das disposições legais e no respeito pelas garantias dos contribuintes.
-
-3 - O princípio da flexibilidade organizativa visa optimizar permanentemente a adequação das unidades de trabalho aos objectivos a prosseguir em cada momento, através de normativos regulamentares e de decisões administrativas.
-
-4 - O princípio da desburocratização visa racionalizar os procedimentos administrativos relativos ao cumprimento das obrigações tributárias, através, designadamente, da redução e simplificação dos suportes da informação a fornecer pelos contribuintes e da maior comodidade destes nos contactos com os serviços, quer pela difusão de unidades de atendimento e apoio, quer pela intensificação da utilização de meios electrónicos de comunicação.
-
-5 - O princípio da desconcentração administrativa visa cometer, tendencialmente, aos serviços periféricos as tarefas operativas e aos serviços centrais as tarefas de concepção, planeamento, regulamentação, avaliação e controlo e, bem assim, as tarefas operativas que não possam ser desenvolvidas a outro nível sem diminuição de qualidade ou não o devam ser em razão de ganhos de eficiência significativos alcançados através de meios tecnológicos.
-
-6 - O princípio da valorização dos recursos humanos visa aumentar a motivação e a participação activa dos trabalhadores, através, designadamente, da sua formação permanente, de formas de organização do trabalho que lhes permitam pôr à prova a sua capacidade e criatividade, da mobilidade profissional e de adequados planos de carreira baseados no mérito.
-
-7 - O princípio da coordenação interadministrativa significa que os serviços e as actividades da DGCI serão objecto de coordenação comum com os dos organismos mencionados no n.º 2 do artigo anterior.
-
-8 - O princípio do duplo grau de decisão administrativa significa que as decisões tomadas por qualquer órgão da DGCI no uso de competência própria, delegada ou subdelegada, somente podem ser objecto de recurso administrativo para o superior hierárquico imediato e que a decisão deste apenas pode ser objecto de impugnação judicial.
+> Revogado pelo/a [Decreto-Lei n.º 81/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2007-520434), publicado em 2007-03-29.
 
 ### CAPÍTULO II — Órgãos
 
 ###### Artigo 4.º — Administração
 
-São órgãos superiores de administração da DGCI:
+(Revogado.)
 
-a) O director-geral;
-
-b) O conselho de administração fiscal, abreviadamente designado por CAF.
+> Revogado pelo/a [Decreto-Lei n.º 81/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2007-520434), publicado em 2007-03-29.
 
 ###### Artigo 5.º — Director-geral
 
-1 - Ao director-geral compete a direcção superior dos serviços da DGCI.
+1 - (Revogado.)
 
-2 - Incumbe em especial ao director-geral:
+2 - (Revogado.)
 
-a) Colaborar na elaboração de políticas públicas em matéria tributária, preparando e apresentando ao Ministro das Finanças a informação necessária para o efeito;
-
-b) Promover a correcta execução da política e das leis tributárias;
-
-c) Propor a criação e alteração das leis e regulamentos necessários à eficácia e eficiência do sistema fiscal quanto aos tributos administrados pela DGCI;
-
-d) Zelar pelos interesses da Fazenda Pública, no respeito pelos direitos e garantias dos obrigados fiscais;
-
-e) Exercer a função de representação da DGCI junto das organizações nacionais e internacionais na área fiscal;
-
-f) Dirigir e controlar os serviços da DGCI e superintender na gestão dos recursos à mesma afectos, em ordem a promover a sua eficácia e eficiência e a qualidade das respectivas prestações.
-
-3 - Ao director-geral incumbe, ainda, exercer as competências que os códigos e demais legislação tributária lhe atribuírem, as que nele forem delegadas ou subdelegadas, bem como o exercício dos poderes fixados na lei geral para os directores-gerais.
+3 - (Revogado.)
 
 4 - O director-geral é coadjuvado por nove subdirectores-gerais nomeados pelo Ministro das Finanças nos termos previstos na lei geral e ainda de entre funcionários da DGCI com a qualificação profissional de administrador tributário.
 
-5 - Um dos subdirectores-gerais pode ser designado para coadjuvar o director-geral na actividade de coordenação e substituí-lo nas suas faltas e impedimentos, podendo ou não exercer as funções referidas no n.º 1 do artigo 11.º do presente diploma.
+5 - (Revogado.)
+
+> Alterado pelo/a [Decreto-Lei n.º 81/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2007-520434), publicado em 2007-03-29.
 
 ###### Artigo 6.º — Conselho de administração fiscal
 
-1 - O CAF é constituído pelo director-geral, que será o seu presidente, e pelos subdirectores-gerais e tem competências decisórias e competências consultivas.
+1 - (Revogado.)
 
-2 - São competências decisórias do CAF:
+2 - (Revogado.)
 
-a) Aprovar os regulamentos internos da DGCI incluindo o seu próprio regimento;
+3 - (Revogado.)
 
-b) Aprovar os projectos do plano e do relatório de actividades;
+4 - (Revogado.)
 
-c) Aprovar a proposta de orçamento;
+5 - Pelo exercício de funções como membros deste Conselho, será atribuída ao dirigente máximo da DGCI e aos subdirectores-gerais, respectivamente, uma remuneração mensal de 45% e de 25% do valor padrão fixado para o cargo de director-geral.
 
-d) Aprovar o projecto de plano anual de formação profissional;
+6 - (Revogado.)
 
-e) Aprovar o projecto de balanço social.
-
-3 - As competências consultivas do CAF concretizam-se através da emissão de parecer, nas seguintes matérias:
-
-a) Criação, modificação ou extinção de serviços e fixação dos respectivos níveis, quando for caso disso;
-
-b) Gestão do pessoal, nomeadamente quanto aos critérios de afectação, mobilidade de pessoal e fixação de quadros de pessoal;
-
-c) Inconveniência de nomeação ou de renovação da comissão de serviço do pessoal de chefia tributária;
-
-d) Alterações ao regime do pessoal;
-
-e) Identificação das necessidades de informação dos contribuintes e agentes económicos nas suas relações com a Direcção-Geral e tratar o resultado de audição das suas sugestões relativamente aos serviços prestados pela DGCI;
-
-f) Sugestão de ideias, metodologias e acções que permitam melhorar a relação com os agentes económicos e que possibilitem a racionalização e simplificação dos procedimentos administrativos.
-
-4 - Compete, ainda, ao CAF acompanhar a execução do plano de actividades e do orçamento, bem como pronunciar-se sobre quaisquer assuntos, a pedido do Ministro das Finanças ou do director-geral.
-
-5 - As competências do CAF são indelegáveis.
+> Alterado pelo/a [Decreto-Lei n.º 81/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2007-520434), publicado em 2007-03-29.
 
 ### CAPÍTULO III — Organização
 
 ###### Artigo 7.º — Estrutura territorial
 
-1 - No âmbito territorial a DGCI dispõe dos seguintes serviços:
+(Revogado.)
 
-a) Serviços centrais;
-
-b) Serviços periféricos.
-
-2 - Os serviços periféricos referidos na alínea b) do número anterior são constituídos por:
-
-a) Serviços regionais;
-
-b) Serviços locais.
+> Revogado pelo/a [Decreto-Lei n.º 81/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2007-520434), publicado em 2007-03-29.
 
 #### SECÇÃO I — Serviços centrais
 
 ###### Artigo 8.º — Âmbito de intervenção
 
-Os serviços centrais são os que funcionam junto do director-geral, competindo-lhes, em geral, a preparação das decisões relacionadas com a aplicação da política e das leis tributárias, o exercício, no âmbito nacional, das actividades de orientação, coordenação e controlo da administração tributária e dos respectivos serviços, a execução das actividades conexas com as atribuições da DGCI ou com o seu funcionamento que, por lei ou decisão superior, devam ser asseguradas a nível central, bem como a prática de actos de gestão corrente que, por virtude do sistema de tratamento da informação ou por razões de eficácia e eficiência administrativas devam ser centralizadas.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 81/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2007-520434), publicado em 2007-03-29.
 
 ###### Artigo 9.º — Estrutura básica central
 
-1 - Os serviços centrais integram os seguintes departamentos:
+1 - (Revogado.)
 
-a) Departamento de Gestão Tributária;
+2 - (Revogado.)
 
-b) Departamento de Cobrança;
+3 - (Revogado.)
 
-c) Departamento de Inspecção Tributária;
+4 - (Revogado.)
 
-d) Departamento de Justiça Tributária;
+5 - O Centro de Estudos Fiscais é dirigido por um director, equiparado, para efeitos de regime de provimento e remuneratório, a subdirector-geral, sendo nomeado de entre investigadores tributários da DGCI ou, na sua falta, de entre assessores da mesma carreira.
 
-e) Departamento de Gestão dos Recursos Humanos, Financeiros e Materiais.
+6 - (Revogado.)
 
-2 - Os serviços centrais compreendem, ainda, unidades de apoio para as seguintes áreas:
-
-a) Serviços de consultadoria jurídica e do contencioso;
-
-b) Planeamento;
-
-c) Relações internacionais;
-
-d) Relações públicas e com a comunicação social;
-
-e) Núcleo de apoio social.
-
-3 - As unidades de apoio a que se refere o número anterior podem possuir o nível de direcção de serviços, podendo, no todo ou em parte, ser colocadas, por despacho do director-geral, na dependência de um subdirector-geral.
+> Alterado pelo/a [Decreto-Lei n.º 81/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2007-520434), publicado em 2007-03-29.
 
 ###### Artigo 10.º — Competências gerais dos departamentos dos serviços centrais
 
-1 - Incumbe em geral aos departamentos a que se refere o artigo anterior, no âmbito das tarefas definidas no artigo 8.º deste diploma:
+(Revogado.)
 
-a) Ao Departamento de Gestão Tributária, o desempenho das actividades relacionadas com a concepção do quadro normativo e dos procedimentos técnicos relacionados com os diferentes impostos e outros tributos administrados pela DGCI, com a liquidação dos mesmos e com a informação e apoio aos contribuintes;
-
-b) Ao Departamento de Cobrança, o desempenho das actividades relacionadas com a coordenação, controlo e arrecadação dos impostos e outros tributos administrados pela DGCI bem como os respectivos reembolsos, com a contabilidade das receitas, com as ligações com a tesouraria central do Estado, entidades intervenientes na cobrança e outras cujas receitas próprias são cobradas através da referida Direcção-Geral, incumbindo-lhe, ainda, gerir o registo de contribuintes;
-
-c) Ao Departamento de Inspecção Tributária, o desempenho das actividades que têm por objectivo a investigação das irregularidades fiscais e a prevenção e combate à fraude e evasão fiscais;
-
-d) Ao Departamento de Justiça Tributária, o desempenho das actividades relacionadas com a conflitualidade fiscal, quer seja suscitada pelos contribuintes quer consubstancie reacção ao cumprimento das obrigações tributárias;
-
-e) Ao Departamento de Gestão dos Recursos Humanos, Financeiros e Materiais, o desempenho das actividades relacionadas com a gestão dos recursos humanos, com a gestão orçamental e contabilidade, com a gestão do material, das instalações e com a logística.
-
-2 - Poderá haver mais de um departamento de gestão tributária, caso em que a respectiva divisão será por impostos.
-
-3 - Os departamentos são dirigidos por subdirectores-gerais, nos termos previstos nas delegações e subdelegações do director-geral.
+> Revogado pelo/a [Decreto-Lei n.º 262/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-2002-448153), publicado em 2002-11-25.
 
 #### SECÇÃO II — Serviços periféricos
 
 ###### Artigo 11.º — Natureza e tipos
 
-1 - Os serviços periféricos constituem unidades orgânicas desconcentradas da DGCI, no plano regional e local, que visam assegurar a prossecução das suas missões na respectiva área de jurisdição.
+(Revogado.)
 
-2 - São serviços periféricos:
-
-a) As direcções de finanças;
-
-b) Os serviços de finanças.
+> Revogado pelo/a [Decreto-Lei n.º 81/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2007-520434), publicado em 2007-03-29.
 
 ##### SUBSECÇÃO I — Serviços regionais
 
 ###### Artigo 12.º — Natureza e âmbito de actuação territorial
 
-Os serviços regionais da DGCI são unidades territoriais intermédias, denominadas direcções de finanças, cuja criação e âmbito de actuação territorial constam de portaria do Ministro das Finanças.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 81/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2007-520434), publicado em 2007-03-29.
 
 ###### Artigo 13.º — Âmbito de intervenção
 
-Às direcções de finanças incumbe, em geral, na respectiva área territorial, assegurar a orientação, coordenação e controlo da administração tributária e dos respectivos serviços locais, exercer as actividades da DGCI que, por lei ou decisão superior, devam ser prosseguidas no âmbito regional, bem como assegurar a prática de actos de gestão corrente que não sejam próprios dos serviços centrais ou locais.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 81/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2007-520434), publicado em 2007-03-29.
 
 ###### Artigo 14.º — Direcção
 
-1 - As direcções de finanças são dirigidas por directores de finanças, hierarquicamente dependentes do director-geral, sem prejuízo da dependência funcional relativamente aos subdirectores-gerais que dirijam os departamentos dos serviços centrais.
+(Revogado.)
 
-2 - Os directores de finanças podem ser coadjuvados, no exercício das suas funções, por directores de finanças-adjuntos, que exercerão as funções que neles forem delegadas ou subdelegadas por aqueles dirigentes.
-
-3 - O recrutamento dos directores de finanças e dos respectivos adjuntos faz-se nos termos que forem definidos no estatuto do pessoal da DGCI.
+> Revogado pelo/a [Decreto-Lei n.º 81/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2007-520434), publicado em 2007-03-29.
 
 ###### Artigo 15.º — Estrutura
 
-1 - As direcções de finanças dispõem de serviços operativos e serviços de apoio.
+(Revogado.)
 
-2 - A estrutura das direcções de finanças será adequada à respectiva dimensão territorial, ao número de contribuintes e à especificidade e volume do serviço e reflectirá, com as devidas adaptações, a estrutura funcional correspondente aos serviços centrais.
+> Revogado pelo/a [Decreto-Lei n.º 81/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2007-520434), publicado em 2007-03-29.
 
 ##### SUBSECÇÃO II — Serviços locais
 
 ###### Artigo 16.º — Natureza e âmbito de actuação
 
-1 - Os serviços locais da DGCI são unidades territoriais de base sediadas em todos os municípios, denominados serviços de finanças e criados por portaria do Ministro das Finanças.
+(Revogado.)
 
-2 - Quando as circunstâncias o aconselharem poderá haver mais de um serviço de finanças em cada município, sendo as respectivas áreas territoriais fixadas no diploma a que se refere o número anterior.
-
-3 - Quando o volume de serviço o justifique ou quando estiver em causa a comodidade do cumprimento das obrigações fiscais e a informação e o apoio aos contribuintes, podem ser criadas extensões de serviços de finanças, por despacho do director-geral, que lhes fixa o âmbito de actuação.
-
-4 - Os serviços de finanças são de nível I ou II, consoante o desenvolvimento dos respectivos municípios, o número de contribuintes e o volume de serviço.
-
-> Alterado pelo/a [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), publicado em 2004-12-18.
+> Revogado pelo/a [Decreto-Lei n.º 81/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2007-520434), publicado em 2007-03-29.
 
 ###### Artigo 17.º — Âmbito de intervenção
 
-Aos serviços de finanças incumbe, em geral, executar as actividades de natureza operativa e de gestão corrente da DGCI que, por lei ou decisão superior, devam ser prosseguidas no âmbito local e, em especial, assegurar as funções de informação e apoio directo aos contribuintes.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 81/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2007-520434), publicado em 2007-03-29.
 
 ###### Artigo 18.º — Estrutura
 
-1 - Os serviços de finanças podem ser constituídos por secções, estabelecidas em função do número de contribuintes e do volume de serviço.
+(Revogado.)
 
-2 - Sem prejuízo do disposto no número anterior, os serviços de finanças integram uma secção de tesouraria.
-
-3 - As competências anteriormente atribuídas às tesourarias da Fazenda Pública ou às tesourarias de finanças consideram-se atribuídas aos serviços de finanças e são exercidas através das secções de tesouraria.
-
-4 - Nos serviços de finanças de maior dimensão poderá haver um sector de apoio administrativo.
-
-> Alterado pelo/a [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), publicado em 2004-12-18.
+> Revogado pelo/a [Decreto-Lei n.º 81/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2007-520434), publicado em 2007-03-29.
 
 ###### Artigo 19.º — Chefia
 
-Os serviços de finanças são chefiados por chefes de finanças, directamente dependentes dos directores de finanças, e as respectivas secções por chefes de finanças-adjuntos.
+(Revogado.)
 
-> Alterado pelo/a [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), publicado em 2004-12-18.
+> Revogado pelo/a [Decreto-Lei n.º 81/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2007-520434), publicado em 2007-03-29.
 
 ### CAPÍTULO IV — Regime financeiro e instrumentos de gestão
 
 ###### Artigo 20.º — Regime financeiro
 
-O regime financeiro da DGCI é o da autonomia administrativa.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 81/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2007-520434), publicado em 2007-03-29.
 
 ###### Artigo 21.º — Receitas
 
-1 - Para além das verbas provenientes do Orçamento do Estado, a DGCI dispõe das seguintes receitas próprias:
+(Revogado.)
 
-a) A participação constituída por uma percentagem das cobranças efectuadas pela DGCI a favor de outros organismos do Estado, da segurança social e da administração autónoma;
-
-b) O produto da venda de serviços prestados a terceiros;
-
-c) O montante dos emolumentos e coimas cobrados nos respectivos serviços, das custas cobradas nos processos fiscais, bem como de uma percentagem das receitas resultantes de acções de inspecção e de outras correcções nos valores declarados pelos contribuintes;
-
-d) O montante dos reembolsos dos salários e demais abonos dos membros das comissões de avaliações que sejam da iniciativa dos contribuintes;
-
-e) O produto da venda de impressos e publicações;
-
-f) O reembolso dos encargos com a publicidade realizada no âmbito da cobrança coerciva;
-
-g) O produto dos reembolsos das despesas com papel, fotocópias e correio, efectuadas no interesse dos contribuintes, bem como o produto do fornecimento de cadernetas prediais;
-
-h) O produto da venda de bens não duradouros;
-
-i) Quaisquer outras receitas que lhe sejam atribuídas por lei.
-
-2 - As percentagens referidas no número anterior serão definidas por despacho do Ministro das Finanças.
-
-3 - As receitas a que se refere o n.º 1 serão aplicadas na aquisição de bens de investimento e aquisição de serviços.
-
-4 - O saldo das receitas próprias da DGCI transita para o ano seguinte, desde que autorizado por despacho do Ministro das Finanças.
+> Revogado pelo/a [Decreto-Lei n.º 81/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2007-520434), publicado em 2007-03-29.
 
 ###### Artigo 22.º — Instrumentos de gestão
 
-São instrumentos de gestão da DGCI:
+(Revogado.)
 
-a) O plano anual de actividades;
-
-b) O orçamento;
-
-c) O relatório anual de actividades;
-
-d) O plano de formação profissional;
-
-e) O balanço social.
+> Revogado pelo/a [Decreto-Lei n.º 81/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2007-520434), publicado em 2007-03-29.
 
 ###### Artigo 23.º — Coordenação e equipas de trabalho
 
@@ -375,45 +230,39 @@ e) O balanço social.
 
 ###### Artigo 24.º — Regulamentação complementar
 
-1 - A estrutura, competências específicas e demais aspectos organizativos e funcionais dos serviços centrais e periféricos da DGCI constarão de portaria do Ministro das Finanças.
+(Revogado.)
 
-2 - Até à entrada em vigor do diploma mencionado no número anterior mantém-se a actual estrutura e competências dos referidos serviços.
+> Revogado pelo/a [Decreto-Lei n.º 81/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2007-520434), publicado em 2007-03-29.
 
 ###### Artigo 25.º — Concursos e estágios pendentes
 
-Mantêm-se válidos todos os concursos e estágios a decorrer à data da entrada em vigor do presente diploma.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 81/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2007-520434), publicado em 2007-03-29.
 
 ###### Artigo 26.º — Quadros de pessoal
 
-Os quadros de pessoal dos serviços centrais, regionais e locais serão fixados por portaria conjunta do Ministro das Finanças e do membro do Governo que tenha a seu cargo a Administração Pública, tendo em conta as suas reais necessidades em matéria de recursos humanos, quer quantitativas quer qualitativas.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 81/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2007-520434), publicado em 2007-03-29.
 
 ###### Artigo 27.º — Competências dos chefes de finanças
 
-A partir da entrada em vigor deste diploma, são atribuídas aos chefes de serviços de finanças as seguintes competências:
+(Revogado.)
 
-a) Decidir sobre as reclamações graciosas quando o valor do processo não ultrapasse o valor de 1000000$00;
-
-b) Proceder à declaração oficiosa da cessação de actividade quando for manifesto que esta não está a ser exercida nem há a intenção de a continuar a exercer, com excepção dos sujeitos passivos classificados como grandes empresas;
-
-c) Proceder à fixação dos elementos mais convenientes quando existir discordância dos constantes nas declarações referidas nos artigos 30.º a 32.º do Código do IVA, quando respeitem aos pequenos retalhistas;
-
-d) Aplicar as coimas previstas no artigo 29.º do RJIFNA ou arquivar os respectivos processos de contra-ordenação, com observância do montante máximo de 500000$00 de prestação tributária em falta de entrega ou equiparada;
-
-e) Aplicar as coimas previstas no artigo 34.º do RJIFNA ou arquivar os respectivos processos de contra-ordenação com observância do montante máximo de 500000$00 de imposto não liquidado;
-
-f) Decidir das reclamações graciosas respeitantes aos impostos de veículos, circulação, camionagem, municipal de sisa e sobre sucessões e doações, quando o processo não ultrapasse o montante de 100000$00.
+> Revogado pelo/a [Decreto-Lei n.º 81/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2007-520434), publicado em 2007-03-29.
 
 ###### Artigo 28.º — Revogação
 
-1 - São revogados os artigos 1.º, 2.º, 3.º, 4.º, 17.º, 18.º, 25.º e 52.º do [Decreto-Lei n.º 408/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1993-533376), de 14 de Dezembro, e o artigo 4.º do [Decreto-Lei n.º 42/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1997-559038), de 7 de Fevereiro.
+(Revogado.)
 
-2 - A partir da entrada em vigor da portaria a que se refere o artigo 24.º são revogados os artigos 5.º a 16.º, 19.º a 24.º, 26.º a 31.º e 32.º a 38.º do [Decreto-Lei n.º 408/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1993-533376), de 14 de Dezembro, com as alterações que lhes foram introduzidas pelo [Decreto-Lei n.º 42/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1997-559038), de 7 de Fevereiro.
+> Revogado pelo/a [Decreto-Lei n.º 81/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2007-520434), publicado em 2007-03-29.
 
 ###### Artigo 29.º — Entrada em vigor
 
-O presente diploma entra em vigor no dia 1 de Maio de 2000, salvo as normas legais de habilitação de poder regulamentar.
+(Revogado.)
 
-> Alterado pelo/a [Decreto-Lei n.º 3/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/3-2000-405937), publicado em 2000-01-29.
+> Revogado pelo/a [Decreto-Lei n.º 81/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2007-520434), publicado em 2007-03-29.
 
 Visto e aprovado em Conselho de Ministros de 1 de Julho de 1999. - Jaime José Matos da Gama - António Luciano Pacheco de Sousa Franco - Fausto de Sousa Correia.
 

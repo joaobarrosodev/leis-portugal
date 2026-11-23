@@ -1,0 +1,201 @@
+[
+ {
+  "id": "pt:dre:569887:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 13.º do DL 81/2007 (revoga o DL 366/99 salvo exceções): (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação do DL 237/2004 e revogação total pelo art. 13.º do DL 81/2007: (Revogado.) com epígrafe.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 13.º do DL 81/2007 (revoga o DL 366/99 salvo exceções): (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 13.º do DL 81/2007 (revoga o DL 366/99 salvo exceções): (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "dúvida",
+    "motivo": "N.os 1-3 e 5 revogados; n.º 4 mantido inteiro, mas o DL 81/2007 revoga o n.º 4 só com exceção da sua parte final (extensão da parte final incerta).",
+    "texto_esperado": "N.º 4: texto inteiro mantido no consolidado; só a 'parte final' deveria sobreviver, extensão incerta."
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "N.os 1-4 e 6 revogados (DL 81/2007); n.º 5 mantido (exceção e art. 15.º n.º 2 do DL 118/2011), texto do DL 262/2002.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 13.º do DL 81/2007 (revoga o DL 366/99 salvo exceções): (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 13.º do DL 81/2007 (revoga o DL 366/99 salvo exceções): (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "N.os 1-4 e 6 revogados; n.º 5 mantido (exceção do art. 13.º do DL 81/2007), texto do DL 262/2002.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 10.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 13.º do DL 81/2007 (revoga o DL 366/99 salvo exceções): (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 11.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 13.º do DL 81/2007 (revoga o DL 366/99 salvo exceções): (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 12.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 13.º do DL 81/2007 (revoga o DL 366/99 salvo exceções): (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 13.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 13.º do DL 81/2007 (revoga o DL 366/99 salvo exceções): (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 14.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 13.º do DL 81/2007 (revoga o DL 366/99 salvo exceções): (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 15.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 13.º do DL 81/2007 (revoga o DL 366/99 salvo exceções): (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 16.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 81/2007; epígrafe e redação como no DL 237/2004.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 17.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 13.º do DL 81/2007 (revoga o DL 366/99 salvo exceções): (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 18.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 13.º do DL 81/2007 (revoga o DL 366/99 salvo exceções): (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 19.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 13.º do DL 81/2007 (revoga o DL 366/99 salvo exceções): (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 20.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 13.º do DL 81/2007 (revoga o DL 366/99 salvo exceções): (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 21.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 13.º do DL 81/2007 (revoga o DL 366/99 salvo exceções): (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 22.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 13.º do DL 81/2007 (revoga o DL 366/99 salvo exceções): (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 23.º",
+    "veredicto": "certo",
+    "motivo": "Redação do DL 237/2004 (n.os 1 e 2; n.º 3 desaparece pela substituição), mantido pela exceção do DL 81/2007.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 24.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 13.º do DL 81/2007 (revoga o DL 366/99 salvo exceções): (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 25.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 13.º do DL 81/2007 (revoga o DL 366/99 salvo exceções): (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 26.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 13.º do DL 81/2007 (revoga o DL 366/99 salvo exceções): (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 27.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 13.º do DL 81/2007 (revoga o DL 366/99 salvo exceções): (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 28.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 13.º do DL 81/2007 (revoga o DL 366/99 salvo exceções): (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 29.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 81/2007; texto de fecho mantido.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [
+   "DL 81/2007 art. 13.º: revogação do n.º 4 do art. 5.º com exceção da sua parte final; o consolidado deixou o n.º 4 inteiro - alvo incerto (não é claro qual é a parte final)"
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 262/2002 art. 2.º n.º 2: repristinação dos arts. 17.º, 18.º e 25.º do DL 408/93",
+    "motivo": "outro diploma (DL 408/93); confirmado no texto"
+   },
+   {
+    "instrucao": "DL 237/2004 art. 3.º: nova redação do n.º 2 do art. 2.º do DL 262/2002",
+    "motivo": "altera o DL 262/2002, outro diploma; confirmado no texto"
+   },
+   {
+    "instrucao": "DL 118/2011 art. 15.º n.º 2: mantém em vigor o n.º 5 do art. 6.º e os n.os 1 e 2 do art. 23.º",
+    "motivo": "não textual: confirma vigência de normas já ressalvadas pelo DL 81/2007, sem nova redação"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

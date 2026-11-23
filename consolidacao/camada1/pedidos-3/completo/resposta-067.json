@@ -1,0 +1,66 @@
+[
+ {
+  "id": "pt:dre:292498:por",
+  "artigos": [
+   {
+    "chave": "10.º",
+    "epigrafe": "Divisão de Gestão e Controlo Orçamental",
+    "texto": "Compete à Divisão de Gestão e Controlo Orçamental:\n\na) Proceder à elaboração das propostas de orçamento do CNP, com base nos programas de actividade anuais;\n\nb) Garantir a cobertura orçamental das despesas do CNP, em observância às regras legais;\n\nc) Controlar a execução orçamental do CNP e apresentar ao conselho directivo informações periódicas sobre as disponibilidades financeiras e orçamentais;\n\nd) Elaborar os planos financeiros e verificar a sua execução;\n\ne) Controlar as disponibilidades financeiras do CNP e propor medidas relacionadas com a sua gestão;\n\nf) Controlar os saldos das contas bancárias;\n\ng) Assegurar as ligações com as instituições bancárias;\n\nh) Elaborar e analisar indicadores financeiros.",
+    "alterador": 6
+   },
+   {
+    "chave": "21.º",
+    "epigrafe": "Direcção de Serviços Jurídicos, Contencioso e de Contra-Ordenações",
+    "texto": "A Direcção de Serviços Jurídicos, Contencioso e de Contra-Ordenações compreende a Divisão de Assuntos Jurídicos e Contencioso e o Serviço de Contra-Ordenações.",
+    "alterador": 6
+   },
+   {
+    "chave": "22.º",
+    "epigrafe": "Divisão de Assuntos Jurídicos e Contencioso",
+    "texto": "Compete à Divisão de Assuntos Jurídicos e Contencioso:\n\na) Representar o CNP em juízo sempre que de tal seja incumbido pelo conselho directivo;\n\nb) Proceder ao estudo dos diplomas legais com incidência na actividade do CNP e promover a sua divulgação pelos serviços;\n\nc) Emitir pareceres e informações, satisfazer consultas e elaborar estudos de natureza jurídica;\n\nd) Instruir processos de inquérito, disciplinares ou outros na sequência de determinações do conselho directivo;\n\ne) Elaborar minutas de escrituras, contratos e outros documentos de natureza legal;\n\nf) Manter actualizados os ficheiros de legislação, jurisprudência e doutrina com interesse para o CNP.",
+    "alterador": 6
+   },
+   {
+    "chave": "29.º",
+    "epigrafe": "Divisão de Auditoria",
+    "texto": "(Revogado.)",
+    "alterador": 6
+   }
+  ],
+  "removidos": [],
+  "titulos": [
+   {
+    "atual": "##### Divisão de Gestão Financeira e de Contabilidade",
+    "novo": null,
+    "alterador": 6
+   },
+   {
+    "atual": "##### Divisão de Auditoria",
+    "novo": null,
+    "alterador": 6
+   }
+  ],
+  "anexos": [
+   {
+    "titulo": "## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/07/167b00/34253434.pdf)",
+    "texto": "Pessoal abrangido pela [Portaria n.º 193/79](https://diariodarepublica.pt/dr/detalhe/portaria/193-1979-382621), de 21 de Abril\n\nAplicação da [Portaria n.º 820/89](https://diariodarepublica.pt/dr/detalhe/portaria/820-1989-547609), de 15 de Setembro\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/07/167b00/34253434.pdf)\n\n[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/07/165b00/34803482.pdf)](https://files.diariodarepublica.pt/1s/1998/07/165b00/34803482.pdf)",
+    "alterador": 7
+   }
+  ],
+  "nao_aplicavel": "Alterador 1, criação de um lugar de assessor de informática principal no quadro de pessoal: sem texto (não traz o quadro do anexo I alterado)\nAlterador 2, criação de um lugar de assessor principal no quadro de pessoal: sem texto (não traz o quadro do anexo I alterado)\nAlterador 3, criação de um lugar de assessor de informática principal no quadro de pessoal: sem texto (não traz o quadro do anexo I alterado)\nAlterador 4, criação de um lugar de assessor principal no quadro de pessoal: sem texto (não traz o quadro do anexo I alterado)\nAlterador 5, criação de um lugar de assessor principal no quadro de pessoal: sem texto (não traz o quadro do anexo I alterado)\nAlterador 6, art. 1.º, nova redação do artigo 19.º (Divisão de Apoio e Exploração), com as alíneas a) a f) em «...» e a alínea g) nova: alvo incerto (o artigo 19.º vem vazio no texto atual, só com a epígrafe como título de divisão; o corpo e as alíneas a) a f), que a nova redação manda manter, não estão no texto atual e não se podem copiar letra a letra, por isso não se reescreve o artigo para não as apagar)\nAlterador 8, criação de um lugar de assessor principal no quadro de pessoal: sem texto (não traz o quadro do anexo I alterado)\nAlterador 9, criação de um lugar de assessor principal no quadro de pessoal: sem texto (não traz o quadro do anexo I alterado)\nAlterador 10, criação de um lugar de assessor principal no quadro de pessoal: sem texto (não traz o quadro do anexo I alterado)",
+  "instrucoes": [
+   "Alterador 6, art. 1.º, artigo 2.º (alínea l) Direcção de Serviços de Auditoria): já aplicado pelo programa, certo",
+   "Alterador 6, art. 1.º, artigo 9.º: já aplicado pelo programa, certo",
+   "Alterador 6, art. 1.º, artigo 10.º (nova epígrafe e corpo): devolvido o artigo com a nova redação e eliminado o título «##### Divisão de Gestão Financeira e de Contabilidade», que era a epígrafe antiga do artigo 10.º",
+   "Alterador 6, art. 1.º, artigos 11.º, 12.º e 17.º: já aplicados pelo programa, certos",
+   "Alterador 6, art. 1.º, artigo 19.º (alínea g) nova): não aplicado, o corpo atual do artigo não vem no texto (nao_aplicavel)",
+   "Alterador 6, art. 1.º, artigo 21.º: nova redação (Divisão de Assuntos Jurídicos e Contencioso)",
+   "Alterador 6, art. 1.º, artigo 22.º: nova epígrafe e proémio; alíneas a) a f) («...») copiadas do texto atual",
+   "Alterador 6, art. 2.º, aditamento do artigo 17.º-A: já aplicado pelo programa, certo",
+   "Alterador 6, art. 3.º: remete alterações do quadro para portaria; não altera o texto",
+   "Alterador 6, art. 4.º, revogação do artigo 29.º: artigo 29.º com a epígrafe Divisão de Auditoria e corpo (Revogado.); eliminado o título «##### Divisão de Auditoria», que era a epígrafe antiga com o corpo antigo",
+   "Alterador 7 (Portaria 414/98): quadro de pessoal alterado de acordo com o quadro anexo em imagem; anexo I = corpo atual + linha da imagem do alterador",
+   "Alteradores 1-5 e 8-10: criação de lugares no quadro de pessoal, sem texto (nao_aplicavel)"
+  ]
+ }
+]

@@ -7,6 +7,9 @@ consolidacao:
     sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
+  - id: pt:dre:647304:por
+    title: Declaração
+    publication_date: '1987-09-30'
   - id: pt:dre:574931:por
     title: Decreto-Lei n.º 184/90
     publication_date: '1990-06-06'
@@ -225,9 +228,7 @@ f) Colaborar com as Circunscrições Florestais de Coimbra e Viseu nas acções 
 
 4 - (Revogado.)
 
-> Revogado pelo/a Artigo 13.º-A do/a [Decreto-Lei n.º 184/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1990-574931), publicado em 1990-06-06.
-
-> Revogado pelo/a Artigo 13.º-A do/a [Decreto-Lei n.º 184/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1990-574931), publicado em 1990-06-06.
+> Alterado pelo/a [Decreto-Lei n.º 184/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1990-574931), publicado em 1990-06-06.
 
 ###### Artigo 12.º — Direcção de Serviços de Protecção à Produção Animal
 
@@ -339,8 +340,6 @@ A DPPV tem as competências referidas no n.º 2 do artigo 15.º do [Decreto-Lei 
 
 > Alterado pelo/a [Decreto-Lei n.º 184/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1990-574931), publicado em 1990-06-06.
 
-##### Divisão de Protecção à Produção Vegetal
-
 A DPPV tem as competências referidas no n.º 2 do artigo 15.º do [Decreto-Lei n.º 190/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-1986-228013), de 16 de Julho, sem prejuízo das atribuídas no n.º 4 do artigo 9.º à DV (Estação Vitivinícola da Beira Litoral).
 
 ###### Artigo 15.º — Serviços operativos de âmbito local
@@ -375,7 +374,7 @@ b) Promover, através da transferência de tecnologia, a divulgação e incremen
 
 1 - Para o exercício das suas actividades no âmbito da experimentação a DRABL dispõe das seguintes unidades, sem prejuízo de lhes poder vir a ser dado outro destino:
 
-a) Centro de Reprodução Animal e Fomento Pecuário da Beira Litoral, integrando as explorações agro-pecuárias de Vidreira do Norte (Mira) e Capa Rota e Mucate (Soure);
+a) Centro de Reprodução Animal e Fomento Pecuário da Beira Litoral, integrando as explorações agro-pecuárias de Videira do Norte (Mira) e Capa Rota e Mucate (Soure);
 
 b) Centro de Experimentação Agrária da Beira Litoral, integrando as unidades de exploração do Tojal Mau e a Estação Agrária de Viseu, situadas em Viseu.
 
@@ -390,6 +389,8 @@ c) Centro de Formação Técnico-Profissional de Viseu, em Viseu.
 3 - Mediante proposta fundamentada do director regional, ouvidos os Conselhos Técnico Regional e Administrativo, poderá o Ministro da Agricultura, Pescas e Alimentação alterar por despacho o número e designação das unidades experimentais ou centros de formação técnico-profissional sempre que tal se torne necessário ao cumprimento dos objectivos da DRABL.
 
 4 - As unidades experimentais e os centros de formação técnico-profissional são coordenados por um funcionário da carreira técnica superior, de grau 1, ou da carreira técnica, designado pelo director regional.
+
+> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1987-647304), publicado em 1987-09-30.
 
 ### CAPÍTULO III — Pessoal
 

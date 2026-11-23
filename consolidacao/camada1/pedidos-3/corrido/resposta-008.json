@@ -1,0 +1,45 @@
+[
+ {
+  "id": "pt:dre:201053:por",
+  "substituicoes": [
+   {
+    "de": 49,
+    "ate": 54,
+    "texto": "BASE VIII - (Revogada.)",
+    "alterador": 1
+   },
+   {
+    "de": 137,
+    "ate": 149,
+    "texto": "BASE XXII - (Revogada.)\n\nBASE XXIII - (Revogada.)",
+    "alterador": 1
+   },
+   {
+    "de": 151,
+    "ate": 158,
+    "texto": "BASE XXIV - (Revogada.)",
+    "alterador": 1
+   },
+   {
+    "de": 160,
+    "ate": 179,
+    "texto": "BASE XXV - (Revogada.)\n\nBASE XXVI - (Revogada.)\n\nBASE XXVII - (Revogada.)",
+    "alterador": 1
+   },
+   {
+    "de": 181,
+    "ate": 184,
+    "texto": "BASE XXVIII - (Revogada.)",
+    "alterador": 2
+   }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, art. 71.º, al. a), revogação das «demais bases daquele diploma que se refiram às funções de previdência e assistência das Casas do Povo»: alvo incerto (o alterador não identifica as bases; há candidatas só parciais, como a base XVIII n.º 2, XI n.º 4, XXIX, XXX e XXXI, que misturam essas funções com outras)\nAlterador 2, art. 71.º, al. a), revogação das «demais bases daquele diploma que se refiram às funções de previdência e assistência das casas do povo»: alvo incerto (o alterador não identifica as bases; há candidatas só parciais, como a base XVIII n.º 2, XI n.º 4, XXIX, XXX e XXXI)",
+  "instrucoes": [
+   "Alterador 1 (DL 251/83), art. 71.º, al. a): revoga as bases VIII e XXII a XXVII; cada base substituída por «BASE … - (Revogada.)», mantendo os títulos de secção",
+   "Alterador 1, art. 71.º, al. a), «demais bases» de previdência e assistência: não aplicado (alvo incerto)",
+   "Alterador 2 (DL 81/85), art. 71.º, al. a): revoga as bases VIII e XXII a XXVIII; VIII e XXII-XXVII já revogadas, revogada ainda a base XXVIII",
+   "Alterador 2, art. 71.º, al. a), «demais bases»: não aplicado (alvo incerto)"
+  ]
+ }
+]

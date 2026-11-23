@@ -321,7 +321,7 @@ Referendado em 16 de Outubro de 1998.
 
 O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
-## ANEXO I — [(ver planta no documento original)](https://files.diariodarepublica.pt/1s/1998/11/254a00/57445753.pdf)
+## ANEXO I
 
 [(ver documento original)](https://files.diariodarepublica.pt/1s/2010/07/14600/0291202916.pdf)
 

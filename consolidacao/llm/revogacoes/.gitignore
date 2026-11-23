@@ -1,0 +1,2 @@
+# Os lotes dos verificadores são cortes de verificacao-entrada*.jsonl (revogacoes.py verificacao / verificacao-v2); ficam as saídas.
+verif*/verificacao-entrada-*.jsonl

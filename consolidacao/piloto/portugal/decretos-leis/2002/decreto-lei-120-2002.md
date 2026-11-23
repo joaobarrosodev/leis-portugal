@@ -10,6 +10,9 @@ consolidacao:
   - id: pt:dre:684205:por
     title: Decreto-Lei n.º 119/2003
     publication_date: '2003-06-17'
+  - id: pt:dre:153106:por
+    title: Declaração de Rectificação n.º 20/2002
+    publication_date: '2002-05-28'
   - id: pt:dre:507641:por
     title: Decreto-Lei n.º 176/2004
     publication_date: '2004-07-23'
@@ -62,7 +65,7 @@ O Governo é constituído pelo Primeiro-Ministro, pelos ministros e pelos secret
 
 Integram o Governo os seguintes Ministros:
 
-a) Ministra de Estado e das Finanças;
+a) Ministro de Estado e das Finanças;
 
 b) Ministro de Estado e da Defesa Nacional;
 
@@ -70,7 +73,7 @@ c) Ministro dos Negócios Estrangeiros e das Comunidades Portuguesas;
 
 d) Ministro da Administração Interna;
 
-e) Ministra da Justiça;
+e) Ministro da Justiça;
 
 f) Ministro da Presidência;
 
@@ -95,6 +98,8 @@ p) Ministro da Segurança Social e do Trabalho;
 q) Ministro das Obras Públicas, Transportes e Habitação;
 
 r) Ministro das Cidades, Ordenamento do Território e Ambiente.
+
+> Alterado pelo/a [Declaração de Rectificação n.º 20/2002](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/20-2002-153106), publicado em 2002-05-28.
 
 ###### Artigo 3.º
 
@@ -144,13 +149,17 @@ d) Secretário de Estado da Juventude e Desportos.
 
 2 - A Presidência do Conselho de Ministros compreende todos os serviços e organismos nela integrados em diplomas anteriores, bem como os que não tenham sido expressamente integrados noutros departamentos.
 
-3 - Incumbe ao Primeiro-Ministro a responsabilidade pelas entidades do sector empresarial do Estado no domínio da comunicação social, sem prejuízo dos poderes conferidos por lei ao Conselho de Ministros e à Ministra de Estado e das Finanças.
+3 - Incumbe ao Primeiro-Ministro a responsabilidade pelas entidades do sector empresarial do Estado no domínio da comunicação social, sem prejuízo dos poderes conferidos por lei ao Conselho de Ministros e ao Ministro de Estado e das Finanças.
 
 > Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 119/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2003-684205), publicado em 2003-06-17.
 
 > Alterado pelo/a [Decreto-Lei n.º 119/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2003-684205), publicado em 2003-06-17.
 
 ###### Artigo 7.º
+
+O Primeiro-Ministro, salvo sua indicação em contrário, será substituído, nas suas ausências ou impedimentos, pelo Ministro de Estado e das Finanças ou por ministro que não esteja ausente ou impedido, de acordo com a ordem estabelecida no artigo 2.º, sendo a substituição comunicada ao Presidente da República, nos termos do artigo 185.º, n.º 1, da Constituição.
+
+> Alterado pelo/a [Declaração de Rectificação n.º 20/2002](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/20-2002-153106), publicado em 2002-05-28.
 
 O Primeiro-Ministro, salvo sua indicação em contrário, será substituído, nas suas ausências ou impedimentos, pela Ministra de Estado e das Finanças ou por ministro que não esteja ausente ou impedido, de acordo com a ordem estabelecida no artigo 2.º, sendo a substituição comunicada ao Presidente da República, nos termos do artigo 185.º, n.º 1, da Constituição.
 
@@ -162,7 +171,7 @@ Os Ministros de Estado exercem os poderes que neles forem delegados pelo Conselh
 
 1 - O Ministro de Estado e das Finanças é coadjuvado no exercício das suas funções pelo Secretário de Estado do Orçamento, pelo Secretário de Estado dos Assuntos Fiscais, pelo Secretário de Estado do Tesouro e Finanças e pelo Secretário de Estado da Administração Pública.
 
-2 - O Ministério das Finanças integra os serviços e organismos até aqui compreendidos no ministério com a mesma designação.
+2 - O Ministério das Finanças integra os serviços e organismos até aqui compreendidos no Ministério com a mesma designação.
 
 3 - Transitam do extinto Ministério da Reforma do Estado e da Administração Pública para o Ministério das Finanças os serviços e organismos naquele compreendidos.
 
@@ -170,13 +179,13 @@ Os Ministros de Estado exercem os poderes que neles forem delegados pelo Conselh
 
 a) Secretaria-Geral;
 
-b) Auditoria Jurídica (Planeamento e Administração do Território);
+b) Auditoria Jurídica;
 
 c) Departamento de Prospectiva e Planeamento;
 
 d) (Revogada.)
 
-5 - Ficam sob responsabilidade da Ministra de Estado e das Finanças as entidades do sector empresarial do Estado no domínio do sistema financeiro.
+5 - Ficam sob responsabilidade do Ministro de Estado e das Finanças as entidades do sector empresarial do Estado no domínio do sistema financeiro.
 
 > Alterado pelo/a [Decreto-Lei n.º 176/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2004-507641), publicado em 2004-07-23.
 
@@ -184,25 +193,33 @@ d) (Revogada.)
 
 1 - O Ministro de Estado e da Defesa Nacional é coadjuvado no exercício das suas funções pelo Secretário de Estado da Defesa e Antigos Combatentes.
 
-2 - O Ministério da Defesa Nacional integra os organismos e serviços até aqui compreendidos no ministério com a mesma designação.
+2 - O Ministério da Defesa Nacional integra os organismos e serviços até aqui compreendidos no Ministério com a mesma designação.
+
+> Alterado pelo/a [Declaração de Rectificação n.º 20/2002](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/20-2002-153106), publicado em 2002-05-28.
 
 ###### Artigo 11.º
 
-1 - O Ministro dos Negócios Estrangeiros e das Comunidades Portuguesas é coadjuvado, no exercício das suas funções, pelo Secretário de Estado dos Negócios Estrangeiros e da Cooperação, pelo Secretário de Estado dos Assuntos Europeus e pelo Secretário de Estado das Comunidades Portuguesas.
+1 - O Ministro dos Negócios Estrangeiros e das Comunidades Portuguesas é coadjuvado no exercício das suas funções pelo Secretário de Estado dos Negócios Estrangeiros e da Cooperação, pelo Secretário de Estado dos Assuntos Europeus e pelo Secretário de Estado das Comunidades Portuguesas.
 
-2 - O Ministério dos Negócios Estrangeiros integra os organismos e serviços até aqui compreendidos no ministério com a mesma designação.
+2 - O Ministério dos Negócios Estrangeiros integra os organismos e serviços até aqui compreendidos no Ministério com a mesma designação.
+
+> Alterado pelo/a [Declaração de Rectificação n.º 20/2002](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/20-2002-153106), publicado em 2002-05-28.
 
 ###### Artigo 12.º
 
 1 - O Ministro da Administração Interna é coadjuvado no exercício das suas funções pelo Secretário de Estado Adjunto do Ministro da Administração Interna e pelo Secretário de Estado da Administração Interna.
 
-2 - O Ministério da Administração Interna integra os organismos e serviços até aqui compreendidos no ministério com a mesma designação.
+2 - O Ministério da Administração Interna integra os organismos e serviços até aqui compreendidos no Ministério com a mesma designação.
+
+> Alterado pelo/a [Declaração de Rectificação n.º 20/2002](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/20-2002-153106), publicado em 2002-05-28.
 
 ###### Artigo 13.º
 
-1 - A Ministra da Justiça é coadjuvada no exercício das suas funções pelo Secretário de Estado Adjunto da Ministra da Justiça e pelo Secretário de Estado da Justiça.
+1 - O Ministro da Justiça é coadjuvado no exercício das suas funções pelo Secretário de Estado Adjunto do Ministro da Justiça e pelo Secretário de Estado da Justiça.
 
-2 - O Ministério da Justiça integra os organismos e serviços até aqui compreendidos no ministério com a mesma designação.
+2 - O Ministério da Justiça integra os organismos e serviços até aqui compreendidos no Ministério com a mesma designação.
+
+> Alterado pelo/a [Declaração de Rectificação n.º 20/2002](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/20-2002-153106), publicado em 2002-05-28.
 
 ###### Artigo 14.º
 
@@ -214,9 +231,11 @@ d) (Revogada.)
 
 ###### Artigo 15.º
 
-1 - O Ministro dos Assuntos Parlamentares exerce os poderes que nele forem delegados pelo Conselho de Ministros e pelo Primeiro-Ministro.
+1 - O Ministro dos Assuntos Parlamentares exerce os poderes que nele foram delegados pelo Conselho de Ministros e pelo Primeiro-Ministro.
 
 2 - Ao Ministro dos Assuntos Parlamentares compete assegurar as relações do Governo com a Assembleia da República e com os grupos parlamentares.
+
+> Alterado pelo/a [Declaração de Rectificação n.º 20/2002](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/20-2002-153106), publicado em 2002-05-28.
 
 ###### Artigo 16.º
 
@@ -226,11 +245,11 @@ d) (Revogada.)
 
 ###### Artigo 17.º
 
-1 - O Ministro da Economia é coadjuvado no exercício das suas funções pela Secretária de Estado Adjunta do Ministro da Economia, pela Secretária de Estado da Indústria, Comércio e Serviços e pelo Secretário de Estado do Turismo.
+1 - O Ministro da Economia é coadjuvado no exercício das suas funções pelo Secretário de Estado Adjunto do Ministro da Economia, pelo Secretário de Estado da Indústria, Comércio e Serviços e pelo Secretário de Estado do Turismo.
 
-2 - O Ministério da Economia integra os serviços e organismos até aqui compreendidos no ministério com essa designação.
+2 - O Ministério da Economia integra os serviços e organismos até aqui compreendidos no Ministério com essa designação.
 
-3 - Transitam do extinto Ministério do Equipamento Social para o Ministério da Economia os serviços e organismos com atribuições e competências no domínio das telecomunicações.
+3 - Transitam do extinto Ministério do Equipamento Social para o Ministério da Economia os serviços e organismos com atribuições e competências no domínio dos correios e das telecomunicações.
 
 4 - Sem prejuízo dos poderes conferidos por lei ao Conselho de Ministros e a outros ministros, ficam sob a responsabilidade do Ministro da Economia as entidades do sector empresarial do Estado no domínio dos correios e das telecomunicações.
 
@@ -240,15 +259,17 @@ d) (Revogada.)
 
 1 - O Ministro da Agricultura, Desenvolvimento Rural e Pescas é coadjuvado no exercício das suas funções pelo Secretário de Estado Adjunto e das Pescas, pelo Secretário de Estado do Desenvolvimento Rural e pelo Secretário de Estado das Florestas.
 
-2 - O Ministério da Agricultura, Desenvolvimento Rural e Pescas integra os serviços e organismos até aqui compreendidos no ministério com a mesma designação.
+2 - O Ministério da Agricultura, Desenvolvimento Rural e Pescas integra os serviços e organismos até aqui compreendidos no Ministério com a mesma designação.
 
 > Alterado pelo/a [Decreto-Lei n.º 20/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2004-608182), publicado em 2004-01-22.
 
 ###### Artigo 19.º
 
-1 - O Ministro da Educação é coadjuvado no exercício das suas funções pela Secretária de Estado da Educação e pelo Secretário de Estado da Administração Educativa.
+1 - O Ministro da Educação é coadjuvado no exercício das suas funções pelo Secretário de Estado da Educação e pelo Secretário de Estado da Administração Educativa.
 
-2 - O Ministério da Educação integra os serviços e organismos até aqui compreendidos no ministério com o mesmo nome, sem prejuízo dos que transitam para o Ministério da Ciência e do Ensino Superior.
+2 - O Ministério da Educação integra os serviços e organismos até aqui compreendidos no Ministério com o mesmo nome, sem prejuízo dos que transitam para o Ministério da Ciência e do Ensino Superior.
+
+> Alterado pelo/a [Declaração de Rectificação n.º 20/2002](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/20-2002-153106), publicado em 2002-05-28.
 
 ###### Artigo 20.º
 
@@ -282,23 +303,29 @@ h) Conselho Nacional da Acção Social do Ensino Superior.
 
 1 - O Ministro da Cultura é coadjuvado no exercício das suas funções pelo Secretário de Estado Adjunto do Ministro da Cultura.
 
-2 - O Ministério da Cultura integra os serviços e organismos até aqui compreendidos no ministério com a mesma designação, à excepção dos serviços e organismos com atribuições e competências no domínio da comunicação social, que transitam para a Presidência do Conselho de Ministros.
+2 - O Ministério da Cultura integra os serviços e organismos até aqui compreendidos no Ministério com a mesma designação, à excepção dos serviços e organismos com atribuições e competências no domínio da comunicação social, que transitam para a Presidência do Conselho de Ministros.
 
 3 - Sem prejuízo dos poderes conferidos por lei ao Conselho de Ministros e a outros ministros, ficam sob a responsabilidade do Ministro da Cultura as entidades do sector empresarial do Estado no domínio da cultura.
+
+> Alterado pelo/a [Declaração de Rectificação n.º 20/2002](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/20-2002-153106), publicado em 2002-05-28.
 
 ###### Artigo 22.º
 
 1 - O Ministro da Saúde é coadjuvado no exercício das suas funções pelo Secretário de Estado Adjunto do Ministro da Saúde e pelo Secretário de Estado da Saúde.
 
-2 - O Ministério da Saúde integra os serviços e organismos até aqui compreendidos no ministério com a mesma designação.
+2 - O Ministério da Saúde integra os serviços e organismos até aqui compreendidos no Ministério com a mesma designação.
 
 3 - Transitam da Presidência do Conselho de Ministros para o Ministério da Saúde os serviços e organismos com competências em matéria de prevenção e tratamento da toxicodependência.
 
+> Alterado pelo/a [Declaração de Rectificação n.º 20/2002](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/20-2002-153106), publicado em 2002-05-28.
+
 ###### Artigo 23.º
 
-1 - O Ministro da Segurança Social e do Trabalho é coadjuvado no exercício das suas funções pela Secretária de Estado da Segurança Social e pelo Secretário de Estado do Trabalho.
+1 - O Ministro da Segurança Social e do Trabalho é coadjuvado no exercício das suas funções pelo Secretário de Estado da Segurança Social e pelo Secretário de Estado do Trabalho.
 
 2 - O Ministério da Segurança Social e do Trabalho integra os organismos e serviços até aqui compreendidos no Ministério do Trabalho e da Solidariedade, à excepção do Instituto António Sérgio do Sector Cooperativo, que transita para a Presidência do Conselho de Ministros.
+
+> Alterado pelo/a [Declaração de Rectificação n.º 20/2002](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/20-2002-153106), publicado em 2002-05-28.
 
 ###### Artigo 24.º
 
@@ -334,7 +361,7 @@ d) Comissão de Coordenação da Região do Alentejo;
 
 e) Comissão de Coordenação da Região do Algarve.
 
-5 - Sem prejuízo do disposto no número anterior, participa na definição das linhas de orientação daqueles serviços a Ministra de Estado e das Finanças.
+5 - Sem prejuízo do disposto no número anterior, participa na definição das linhas de orientação daqueles serviços o Ministro de Estado e das Finanças.
 
 6 - Transita do Ministério das Finanças para o Ministério das Cidades, Ordenamento do Território e Ambiente a Direcção-Geral do Desenvolvimento Regional.
 
@@ -342,7 +369,7 @@ e) Comissão de Coordenação da Região do Algarve.
 
 8 - Sem prejuízo dos poderes conferidos por lei ao Conselho de Ministros e a outros ministros, ficam sob responsabilidade do Ministro das Cidades, Ordenamento do Território e Ambiente as entidades do sector empresarial do Estado nos domínios das águas, resíduos e reabilitação urbana, bem como as seguintes entidades:
 
-a) Parque Expo, S. A.;
+a) Parque EXPO, S. A.;
 
 b) COSTAGEST, S. A.;
 
@@ -364,9 +391,9 @@ d) O Instituto Nacional de Investigação Agrária e das Pescas, cabendo a tutel
 
 e) O Laboratório Nacional de Investigação Veterinária, cabendo a tutela funcional e patrimonial ao Ministro da Agricultura, Desenvolvimento Rural e Pescas e sendo a determinação das linhas de orientação e dos domínios prioritários da sua actuação exercida em articulação com o Ministro da Ciência e do Ensino Superior;
 
-f) A Agência Nacional para os Programas Comunitários Sócrates e Leonardo da Vinci, cabendo a tutela funcional e patrimonial ao Ministro da Educação e sendo a determinação das linhas de orientação e dos domínios prioritários da sua actuação exercida em articulação com o Ministro da Segurança Social e do Trabalho, e, quanto ao programa ERASMUS, com o Ministro da Ciência e do Ensino Superior;
+f) A Agência Nacional para os Programas Comunitários SÓCRATES e LEONARDO DA VINCI, cabendo a tutela funcional e patrimonial ao Ministro da Educação e sendo a determinação das linhas de orientação e dos domínios prioritários da sua actuação exercida em articulação com o Ministro da Segurança Social e do Trabalho e, quanto ao Programa ERASMUS, com o Ministro da Ciência e do Ensino Superior;
 
-g) O Conselho Nacional de Educação, cabendo a tutela funcional e patrimonial ao Ministro da Educação e sendo a determinação das linhas de orientação e dos domínios prioritários da sua actuação exercida em articulação com o Ministro da Ciência e do Ensino Superior;
+g) O Conselho Nacional da Educação, cabendo a tutela funcional e patrimonial ao Ministro da Educação e sendo a determinação das linhas de orientação e dos domínios prioritários da sua actuação exercida em articulação com o Ministro da Ciência e do Ensino Superior;
 
 h) O Instituto Tecnológico e Nuclear, cabendo a tutela funcional e patrimonial ao Ministro da Ciência e do Ensino Superior e sendo a determinação das linhas de orientação e dos domínios prioritários da sua actuação exercida em articulação com o Ministro da Economia;
 
@@ -376,7 +403,7 @@ j) O Instituto Nacional de Saúde Dr. Ricardo Jorge, cabendo a tutela funcional 
 
 l) A Comissão para a Igualdade no Trabalho e Emprego, cabendo a tutela funcional e patrimonial ao Ministro da Segurança Social e do Trabalho e sendo a determinação das linhas de orientação e dos domínios prioritários da sua actuação exercida em articulação com o Ministro da Presidência;
 
-m) A Comissão Nacional de Protecção das Crianças e Jovens em Risco, cabendo a tutela funcional e patrimonial ao Ministro da Segurança Social e do Trabalho e sendo a determinação das linhas de orientação e dos domínios prioritários da sua actuação exercida em articulação com a Ministra da Justiça;
+m) A Comissão Nacional de Protecção das Crianças e Jovens em Risco, cabendo a tutela funcional e patrimonial ao Ministro da Segurança Social e do Trabalho e sendo a determinação das linhas de orientação e dos domínios prioritários da sua actuação exercida em articulação com o Ministro da justiça;
 
 n) O Instituto do Emprego e Formação Profissional, cabendo a tutela funcional e patrimonial ao Ministro da Segurança Social e do Trabalho e sendo a determinação das linhas de orientação e dos domínios prioritários da sua actuação exercida em articulação com o Ministro da Educação;
 
@@ -408,7 +435,7 @@ O Conselho Superior de Obras Públicas e Transportes mantém a competência para
 
 2 - Salvo determinação em contrário do Primeiro-Ministro, participam nas reuniões do Conselho de Ministros, sem direito a voto, o Secretário de Estado da Presidência do Conselho de Ministros e o Secretário de Estado Adjunto do Primeiro-Ministro.
 
-3 - Podem também participar nas reuniões do Conselho de Ministros, sem direito de voto, os secretários de Estado que venham, em cada caso, a ser convocados por indicação do Primeiro-Ministro.
+3 - Podem também participar nas reuniões do Conselho de Ministros, sem direito a voto, os secretários de Estado que venham, em cada caso, a ser convocados por indicação do Primeiro-Ministro.
 
 > Alterado pelo/a [Decreto-Lei n.º 119/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2003-684205), publicado em 2003-06-17.
 
@@ -418,7 +445,7 @@ O Conselho Superior de Obras Públicas e Transportes mantém a competência para
 
 2 - Salvo determinação em contrário do Primeiro-Ministro, participam ainda nas reuniões, sem direito a voto, o Secretário de Estado da Presidência do Conselho de Ministros, o Secretário de Estado Adjunto do Primeiro-Ministro e o Secretário de Estado dos Assuntos Europeus.
 
-3 - Podem também participar nas reuniões do Conselho de Ministros para os Assuntos Europeus, sem direito de voto, os secretários de Estado que venham, em cada caso, a ser convocados por indicação do Primeiro-Ministro.
+3 - Podem também participar nas reuniões do Conselho de Ministros para os Assuntos Europeus, sem direito a voto, os secretários de Estado que venham, em cada caso, a ser convocados por indicação do Primeiro-Ministro.
 
 4 - O Conselho de Ministros para os Assuntos Europeus realiza a coordenação política global, nas vertentes interna e externa, no quadro da participação de Portugal na União Europeia, competindo-lhe:
 
@@ -438,7 +465,7 @@ e) Apreciar todas as matérias do âmbito deste Conselho que lhe sejam submetida
 
 1 - É criado o Conselho de Ministros para os Assuntos Económicos, de que fazem parte o Primeiro-Ministro, que preside, e os seguintes Ministros:
 
-a) Ministra de Estado e das Finanças;
+a) Ministro de Estado e das Finanças;
 
 b) Ministro de Estado e da Defesa Nacional;
 
@@ -462,7 +489,7 @@ l) Outros ministros que, para cada reunião, sejam convocados por indicação do
 
 2 - Salvo determinação em contrário do Primeiro-Ministro, participam ainda nas reuniões, sem direito a voto, o Secretário de Estado da Presidência do Conselho de Ministros e o Secretário de Estado Adjunto do Primeiro-Ministro.
 
-3 - Podem também participar nas reuniões do Conselho de Ministros para os Assuntos Económicos, sem direito de voto, os secretários de Estado que venham, em cada caso, a ser convocados por indicação do Primeiro-Ministro.
+3 - Podem também participar nas reuniões do Conselho de Ministros para os Assuntos Económicos, sem direito a voto, os secretários de Estado que venham, em cada caso, a ser convocados por indicação do Primeiro-Ministro.
 
 4 - Ao Conselho de Ministros para os Assuntos Económicos compete:
 
@@ -494,15 +521,17 @@ f) Apreciar todas as matérias do âmbito deste Conselho que lhe sejam submetida
 
 5 - Os direitos e as obrigações de que eram titulares os departamentos, organismos ou serviços objecto de alterações por força do presente diploma são automaticamente transferidos para os novos departamentos, organismos ou serviços que os substituem, sem dependência de qualquer formalidade.
 
-6 - Até à aprovação do Orçamento do Estado rectificativo para o ano 2002 mantém-se a expressão orçamental da estrutura governativa anterior, com as adaptações decorrentes do estabelecido nos números seguintes, considerando-se delegadas as competências que o tenham sido relativamente à gestão desses orçamentos.
+6 - Até à aprovação do Orçamento do Estado rectificativo para o ano de 2002 mantém-se a expressão orçamental da estrutura governativa anterior, com as adaptações decorrentes do estabelecido nos números seguintes, considerando-se delegadas as competências que o tenham sido relativamente à gestão desses orçamentos.
 
-7 - Serão transferidos para a Presidência do Conselho de Ministros e para o Ministério das Finanças os recursos financeiros correspondentes aos serviços e organismos que transitam dos extintos Ministérios da Juventude e do Desporto, do Planeamento e da Reforma do Estado e da Administração Pública, respectivamente.
+7 - Serão transferidos para a Presidência do Conselho de Ministros e para o Ministério das Finanças os recursos financeiros correspondentes aos serviços e organismos que transitam dos extintos Ministérios da Juventude e Desporto, do Planeamento e da Reforma do Estado e da Administração Pública, respectivamente.
 
 8 - Os encargos relativos aos serviços ou organismos que transitam, no todo ou em parte, para departamentos diferentes continuam a ser processados por conta das verbas que lhes estão afectas.
 
 9 - Os encargos com os gabinetes dos membros do Governo criados ou reestruturados pelo presente diploma serão satisfeitos por conta das verbas dos gabinetes extintos ou fundidos.
 
-10 - A Ministra de Estado e das Finanças providenciará a efectiva transferência ou reforço das verbas necessárias ao funcionamento dos novos gabinetes dos membros do Governo dos correspondentes gabinetes extintos ou integrados noutros departamentos.
+10 - O Ministro de Estado e das Finanças providenciará a efectiva transferência ou reforço das verbas necessárias ao funcionamento dos novos gabinetes dos membros do Governo dos correspondentes gabinetes extintos ou integrados noutros departamentos
+
+> Alterado pelo/a [Declaração de Rectificação n.º 20/2002](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/20-2002-153106), publicado em 2002-05-28.
 
 ###### Artigo 32.º-A
 
@@ -512,7 +541,9 @@ Até à entrada em vigor do Orçamento do Estado do ano de 2005 mantém-se a exp
 
 ###### Artigo 33.º
 
-Todos os actos do Governo que envolvam aumento de despesas ou diminuição de receitas serão obrigatoriamente aprovados pela Ministra de Estado e das Finanças.
+Todos os actos do Governo que envolvam aumento de despesas ou diminuição de receitas serão obrigatoriamente aprovados pelo Ministro de Estado e das Finanças.
+
+> Alterado pelo/a [Declaração de Rectificação n.º 20/2002](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/20-2002-153106), publicado em 2002-05-28.
 
 ###### Artigo 34.º
 

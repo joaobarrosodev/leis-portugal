@@ -13,6 +13,9 @@ consolidacao:
   - id: pt:dre:329833:por
     title: Decreto-Lei n.º 280/78
     publication_date: '1978-09-08'
+  - id: pt:dre:382999:por
+    title: Decreto-Lei n.º 66/79
+    publication_date: '1979-03-30'
   titulos_normalizados: artigos em texto corrido no original, com título pelo parser
     da fase 3
 ---
@@ -127,4 +130,6 @@ Se o critério usado para reavaliação de tais bens for o do valor de substitui
 
 7. A reavaliação só será considerada se se traduzir em aumento global do valor líquido dos bens reavaliados de, pelo menos, 10% e limitar-se-á, em princípio, quaisquer que sejam os critérios adoptados, ao valor global resultante da aplicação do critério da actualização monetária referido no n.º 3, a menos que, mediante parecer fundamentado da Direcção-Geral das Contribuições e Impostos, se decida manter valor excedente daquele limite, desde que calculado de acordo com os critérios definidos.
 
-> Alterado pelo/a [Decreto-Lei n.º 280/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1978-329833), publicado em 1978-09-08.
+O Ministro do Plano e Coordenação Económica, António Francisco Barroso de Sousa Gomes. - O Ministro das Finanças, Henrique Medina Carreira.
+
+> Alterado pelo/a [Decreto-Lei n.º 66/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-1979-382999), publicado em 1979-03-30.

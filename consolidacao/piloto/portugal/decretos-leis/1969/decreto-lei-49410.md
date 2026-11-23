@@ -16,6 +16,9 @@ consolidacao:
   - id: pt:dre:507194:por
     title: Decreto-Lei n.º 103/76
     publication_date: '1976-02-04'
+  - id: pt:dre:432671:por
+    title: Decreto-Lei n.º 191-A/79
+    publication_date: '1979-06-25'
   titulos_normalizados: artigos em texto corrido no original, com título pelo parser
     da fase 3
 ---
@@ -458,15 +461,17 @@ Os quadros únicos a que se refere o n.º 1 do artigo 24.º serão constituídos
 
 ###### Artigo 46.º
 
-1. Para o efeito do disposto no artigo anterior, os subscritores da Caixa Geral de Aposentações, ao passarem à situação de aposentados ou reformados, indemnizarão a mesma Caixa da importância correspondente a 1 por cento do vencimento anual que competir ao cargo exercido em 1 de Janeiro de 1970, relativamente aos anos de serviço prestado até à mesma data que aproveitem para o cálculo da respectiva pensão.
+1 - (Revogado.)
 
-2. Não será considerado, para o cômputo da referida indemnização, o tempo de serviço que venha a ser objecto de contagem com base nos vencimentos estabelecidos no presente decreto-lei.
+2 - (Revogado.)
 
-3. O pagamento da indemnização será feito em cento e vinte prestações mensais, a descontar nas pensões fixadas.
+3 - (Revogado.)
 
-4. Aos subscritores que tenham pago ou se encontrem a pagar indemnizações calculadas de acordo com o artigo 12.º do [Decreto-Lei n.º 42046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42046-1958-198100), serão levadas em linha de conta, no apuramento da indemnização devida nos termos do presente artigo, as importâncias já satisfeitas.
+4 - (Revogado.)
 
 5. São revogados o artigo 33.º do [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), de 23 de Novembro de 1935, o artigo. 18.º do [Decreto-Lei n.º 26503](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26503-1936-690220), de 6 de Abril de 1936, e o artigo 12.º do [Decreto-Lei n.º 42046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42046-1958-198100), de 23 de Dezembro de 1958.
+
+> Alterado pelo/a [Decreto-Lei n.º 191-A/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-a-1979-432671), publicado em 1979-06-25.
 
 ###### Artigo 47.º
 

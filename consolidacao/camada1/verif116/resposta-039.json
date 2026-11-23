@@ -1,0 +1,2562 @@
+[
+ {
+  "id": "pt:dre:398139:por",
+  "artigos": [
+   {
+    "artigo": "Trecho 1",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Art. 3.º Os distritos judiciais têm as sedes em Lisboa, Porto, Coimbra e Évora e abrangem as comarcas constantes do mapa anexo a e…». Há instrução visível para este artigo (Decreto-Lei n.º 46140, Decreto-Lei n.º 46538, Decreto-Lei n.º 47139, Decreto-Lei n.º 47691, Decreto-Lei n.º 487/70, Decreto-Lei n.º 281/71, Decreto-Lei n.º 696/73, Decreto-Lei n.º 325/74, Decreto-Lei n.º 609/74, Decreto-Lei n.º 369-A/75, Decreto-Lei n.º 201/76, Decreto-Lei n.º 31/77) mas o consolidado diverge dela ou vai além dela.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 2",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «2. São considerados da classe da respectiva comarca todos os cargos nela existentes que devam ser providos em magistrados, com exc…». Há instrução visível para este artigo (Decreto-Lei n.º 46140, Decreto-Lei n.º 46538, Decreto-Lei n.º 47139, Decreto-Lei n.º 47691, Decreto-Lei n.º 487/70, Decreto-Lei n.º 281/71, Decreto-Lei n.º 696/73, Decreto-Lei n.º 609/74, Decreto-Lei n.º 369-A/75, Decreto-Lei n.º 31/77) mas o consolidado diverge dela ou vai além dela.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 3",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «2. Nas comarcas de Lisboa e Porto há um tribunal cível, um tribunal criminal, um tribunal de família e juízos de instrução crimina…» | «3. O tribunal de comarca funciona como tribunal de menores, excepto nas comarcas onde se mostre conveniente a existência de tribun…». Há instrução visível para este artigo (Decreto-Lei n.º 46140, Decreto-Lei n.º 46538, Decreto-Lei n.º 47139, Decreto-Lei n.º 47691, Decreto-Lei n.º 487/70, Decreto-Lei n.º 281/71, Decreto-Lei n.º 696/73, Decreto-Lei n.º 609/74) mas o consolidado diverge dela ou vai além dela.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 4",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «2. O Tribunal de Execução das Penas de Lisboa compõe-se de três juízos e exerce jurisdição na área dos distritos judiciais de Lisb…». Há instrução visível para este artigo (Decreto-Lei n.º 47139, Decreto-Lei n.º 47691, Decreto-Lei n.º 281/71, Decreto-Lei n.º 696/73, Decreto-Lei n.º 609/74) mas o consolidado diverge dela ou vai além dela.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 5",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Art. 11.º - 1. O Supremo Tribunal de Justiça, composto de duas secções cíveis e uma secção criminal, tem o número de juízes que co…» | «2. Quando o serviço do Supremo se encontre consideravelmente atrasado ou em riscos de aglomeração extraordinária por causas durado…». Há instrução visível para este artigo (Decreto-Lei n.º 609/74) mas o consolidado diverge dela ou vai além dela.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 6",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «2. Nas suas faltas ou impedimentos é o presidente substituído pelo vice-presidente; na falta ou impedimento de ambos, são as respe…».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 7",
+    "veredicto": "certo",
+    "motivo": "Nova redacção confere letra a letra com o texto do alterador (Decreto-Lei n.º 47691); o resto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 8",
+    "veredicto": "certo",
+    "motivo": "Nova redacção confere letra a letra com o texto do alterador (Decreto-Lei n.º 696/73); o resto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 9",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «3. É aplicável às Relações o disposto nos n.os 2 e 3 do artigo 11.º A nomeação dos juízes além do quadro será feita de entre os ju…».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 10",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «2. Na falta ou impedimento do presidente, são as suas atribuições desempenhadas pelo mais antigo dos juízes em exercício ou pelo j…».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 11",
+    "veredicto": "certo",
+    "motivo": "Nova redacção confere letra a letra com o texto do alterador (Decreto-Lei n.º 696/73); o resto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 12",
+    "veredicto": "certo",
+    "motivo": "Nova redacção confere letra a letra com o texto do alterador (Decreto-Lei n.º 47691); o resto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 13",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Art. 26.º - 1. Em cada comarca há um juiz de direito; mas se o tribunal compreender mais de um juízo, haverá tantos juízes quantos…» | «Em cada vara cível haverá três juízes: um corregedor presidente e dois corregedores adjuntos.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 14",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «2. A composição de cada tribunal colectivo, no que respeita ao 2.º vogal, pode ser alterada, sob proposta do Conselho Superior Jud…».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 15",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Art. 31.º - 1. O tribunal colectivo das varas cíveis é constituído pelo presidente da vara por onde corre o processo e pelos dois …» | «4. Nos processos julgados pelo colectivo a sentença será proferida:». Há instrução visível para este artigo (Decreto-Lei n.º 45732, Decreto-Lei n.º 696/73) mas o consolidado diverge dela ou vai além dela.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 16",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «a) Como juízes de instrução criminal, exercer as funções jurisdicionais durante a instrução dos processos, compreendendo a validaç…» | «b) Preparar, sem prejuízo das atribuições próprias do Ministério Público, e julgar os processos por infracções cujo conhecimento n…».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 17",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «f) Dar posse, sem prejuízo do especialmente disposto sobre a matéria, aos magistrados do Ministério Público e aos funcionários do …».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 18",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «e) Suprir as omissões das sentenças por ele proferidas, esclarecê-las ou reformá-las e, em caso de recurso, sustentá-las.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 19",
+    "veredicto": "certo",
+    "motivo": "Nova redacção confere letra a letra com o texto do alterador (Decreto-Lei n.º 47691); o resto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 20",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «2. Independentemente da repartição do serviço de preparação dos processos entrados na vara pelos corregedores que nela funcionam, …». Há instrução visível para este artigo (Decreto-Lei n.º 47691) mas o consolidado diverge dela ou vai além dela.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 21",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «5. É da competência exclusiva dos tribunais de família a instrução e julgamento, em colectivo ou em juízo singular, conforme as le…» | «a) Processos de jurisdição voluntária relativos aos cônjuges;».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 22",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Art. 38.º - 1. O plenário do Tribunal Criminal de Lisboa exerce jurisdição na área dos distritos judiciais de Lisboa e Évora e o d…». Há instrução visível para este artigo (Decreto-Lei n.º 45732) mas o consolidado diverge dela ou vai além dela.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 23",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Art. 42.º - 1. No tribunal criminal das comarcas de Lisboa e Porto, compete:». Há instrução visível para este artigo (Decreto-Lei n.º 201/76) mas o consolidado diverge dela ou vai além dela.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 24",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «3. Os turnos são suspensos durante as férias judiciais de Verão; nestas férias são distribuídos, em Lisboa e no Porto, por todos o…». Há instrução visível para este artigo (Decreto-Lei n.º 47691) mas o consolidado diverge dela ou vai além dela.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 25",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «3. Para o efeito da organização dos turnos nas férias de Verão, considera-se como fazendo parte do tribunal criminal o tribunal de…».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 26",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «a) Ao juiz do outro juízo ou ao juiz auxiliar, quando o haja;» | «b) Ao juiz do tribunal tutelar central de menores, quando o haja;». Há instrução visível para este artigo (Decreto-Lei n.º 696/73) mas o consolidado diverge dela ou vai além dela.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 27",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «b) Os corregedores de cada vara substituem-se reciprocamente; não sendo essa substituição possível ou suficiente, são substituídos…». Há instrução visível para este artigo (Decreto-Lei n.º 696/73) mas o consolidado diverge dela ou vai além dela.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 28",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «d) Como presidente do tribunal colectivo, os juízes dos juízos cíveis são substituídos pela forma estabelecida para as varas.» | «Art. 47.º No tribunal criminal de Lisboa as substituições são feitas nos termos seguintes:». Há instrução visível para este artigo (Decreto-Lei n.º 696/73) mas o consolidado diverge dela ou vai além dela.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 29",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «b) Os corregedores dos juízos criminais e os juízes dos juízos correccionais são substituídos conforme o disposto na alínea c) do …» | «c) Os juízes dos juízos de polícia e dos juízos de instrução criminal são substituídos segundo a ordem estabelecida na alínea c) d…». Há instrução visível para este artigo (Decreto-Lei n.º 47691) mas o consolidado diverge dela ou vai além dela.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 30",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Art. 51.º - 1. Verificando-se em algum caso concreto inconveniente grave na aplicação das regras de substituição definidas nos art…» | «2. Desde que se não verifique urgência e quando seja de prever que o impedimento do juiz vai ser prolongado ou frequentemente repe…». Há instrução visível para este artigo (Decreto-Lei n.º 201/76) mas o consolidado diverge dela ou vai além dela.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 31",
+    "veredicto": "certo",
+    "motivo": "Nova redacção confere letra a letra com o texto do alterador (Decreto-Lei n.º 47691); o resto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 32",
+    "veredicto": "certo",
+    "motivo": "Nova redacção confere letra a letra com o texto do alterador (Decreto-Lei n.º 47691); o resto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 33",
+    "veredicto": "certo",
+    "motivo": "Nova redacção confere letra a letra com o texto do alterador (Decreto-Lei n.º 47691); o resto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 34",
+    "veredicto": "certo",
+    "motivo": "Nova redacção confere letra a letra com o texto do alterador (Decreto-Lei n.º 47691); o resto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 35",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «2. Logo que seja concluída a instrução, os processos referidos na alínea b) do número anterior sobem oficiosamente ao tribunal da …».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 36",
+    "veredicto": "certo",
+    "motivo": "Nova redacção confere letra a letra com o texto do alterador (Decreto-Lei n.º 281/71); o resto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 37",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «a) Os secretários são escolhidos de entre diplomados com curso superior adequado ou o arquivista-caixa da câmara com dez anos de s…».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 38",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «c) O arquivista-caixa, de entre os indivíduos habilitados com o curso geral dos liceus e os escriturários-dactilógrafos da câmara …».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 39",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Art. 96.º - 1. Aos agentes orientadores do tribunal de execução das penas incumbe a realização de inquéritos ou averiguações que o…» | «2. No tribunal de execução das penas de Lisboa há dois lugares de orientador de 1.ª classe e outros dois de 2.ª classe; no do Port…».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 40",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «2. Nos juízos de polícia e nos juízos de instrução criminal não há férias judiciais, sem prejuízo do direito a férias dos juízes q…» | «3. Nas comarcas com mais de um juízo de polícia ou de instrução criminal os juízes desses juízos não podem gozar férias simultanea…».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 41",
+    "veredicto": "certo",
+    "motivo": "Nova redacção confere letra a letra com o texto do alterador (Decreto-Lei n.º 47691); o resto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 42",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «2. Os juízes do Supremo têm o título de conselheiro, os das Relações o de desembargador e os juízes de direito, quando presidentes…».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 43",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «4. Aos juízes na situação de licença ilimitada não é permitido invocar ou usar essa qualidade em quaisquer meios de identificação,…».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 44",
+    "veredicto": "certo",
+    "motivo": "Nova redacção confere letra a letra com o texto do alterador (Decreto-Lei n.º 46140); o resto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 45",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «4. Os juízes das Relações, quando transferidos ou reassumam funções no termo de comissão de serviço, receberão os processos distri…» | «Os restantes processos, se os houver, serão redistribuídos por todos os juízes.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 46",
+    "veredicto": "certo",
+    "motivo": "Nova redacção confere letra a letra com o texto do alterador (Decreto-Lei n.º 281/71); o resto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 47",
+    "veredicto": "certo",
+    "motivo": "Nova redacção confere letra a letra com o texto do alterador (Decreto-Lei n.º 633/75); o resto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 48",
+    "veredicto": "certo",
+    "motivo": "Nova redacção confere letra a letra com o texto do alterador (Decreto-Lei n.º 633/75); o resto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 49",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Art. 133.º Além das incompatibilidades e inibições fixadas na legislação geral, os juízes na efectividade de serviço não podem em …».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 50",
+    "veredicto": "certo",
+    "motivo": "Nova redacção confere letra a letra com o texto do alterador (Decreto-Lei n.º 281/71); o resto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 51",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «a) Residir fora da sua circunscrição judicial, podendo fazê-lo em qualquer ponto dentro da área da comarca que seja servida por ca…» | «b) Ausentar-se da sua circunscrição judicial, salvo por virtude de doença, férias judiciais ou nos domingos e feriados, devendo se…».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 52",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «h) Exercer funções arbitrais que lhes não caibam por disposição legal, salvo tendo sido previamente autorizado pelo Conselho Super…».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 53",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «3. No caso de um juiz ser nomeado para um grupo de comarcas, nos termos do n.º 3 do artigo 26.º, ao Conselho Superior Judiciário c…».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 54",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «2. Quando a urgência não permita a obtenção prévia de autorização, cumpre aos magistrados comunicá-la imediatamente, enviando a co…» | «3. Não são contadas como faltas as ausências em dias de feriado ou domingos, e ainda em outros dias fora das horas do funcionament…».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 55",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «2. Os juízes que perfaçam dez anos de bom e efectivo serviço na mesma classe da 1.ª instância ou na 2.ª instância têm direito, enq…» | «4. Os juízes colocados em comissão de serviço estranha ao Ministério da Justiça não podem em caso algum, salvo quando se trate de …». Há instrução visível para este artigo (Decreto-Lei n.º 281/71) mas o consolidado diverge dela ou vai além dela.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 56",
+    "veredicto": "certo",
+    "motivo": "Nova redacção confere letra a letra com o texto do alterador (Decreto-Lei n.º 281/71); o resto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 57",
+    "veredicto": "certo",
+    "motivo": "Nova redacção confere letra a letra com o texto do alterador (Decreto-Lei n.º 281/71); o resto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 58",
+    "veredicto": "certo",
+    "motivo": "Nova redacção confere letra a letra com o texto do alterador (Decreto-Lei n.º 281/71); o resto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 59",
+    "veredicto": "certo",
+    "motivo": "Nova redacção confere letra a letra com o texto do alterador (Decreto-Lei n.º 281/71); o resto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 60",
+    "veredicto": "certo",
+    "motivo": "Nova redacção confere letra a letra com o texto do alterador (Decreto-Lei n.º 281/71); o resto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 61",
+    "veredicto": "certo",
+    "motivo": "Nova redacção confere letra a letra com o texto do alterador (Decreto-Lei n.º 281/71); o resto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 62",
+    "veredicto": "certo",
+    "motivo": "Nova redacção confere letra a letra com o texto do alterador (Decreto-Lei n.º 281/71); o resto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 63",
+    "veredicto": "certo",
+    "motivo": "Nova redacção confere letra a letra com o texto do alterador (Decreto-Lei n.º 281/71); o resto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 64",
+    "veredicto": "certo",
+    "motivo": "Nova redacção confere letra a letra com o texto do alterador (Decreto-Lei n.º 44959); o resto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 65",
+    "veredicto": "certo",
+    "motivo": "Nova redacção confere letra a letra com o texto do alterador (Decreto-Lei n.º 281/71); o resto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 66",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Art. 167.º - 1. Enquanto o Ministério da Justiça, através dos serviços competentes, não construir casas de renda limitada para res…». Há instrução visível para este artigo (Decreto-Lei n.º 47691, Decreto-Lei n.º 281/71) mas o consolidado diverge dela ou vai além dela.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 67",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «3. As dúvidas que se suscitem sobre o quantitativo das rendas e as condições de habitabilidade das casas e suficiência e qualidade…». Há instrução visível para este artigo (Decreto-Lei n.º 47691, Decreto-Lei n.º 281/71) mas o consolidado diverge dela ou vai além dela.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 68",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Art. 169.º - 1. Logo que o magistrado for habitar a casa receberá por inventário, de um representante da câmara municipal ou do de…» | «2. Os magistrados são responsáveis pelos artigos de mobiliário ou apetrechamento que se inutilizem ou danifiquem por uso diverso d…».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 69",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «d) Autorizar o Ministério Público a confessar, transigir ou desistir, mesmo da instância, nas causas cíveis em que o Estado seja p…».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 70",
+    "veredicto": "certo",
+    "motivo": "Nova redacção confere letra a letra com o texto do alterador (Decreto-Lei n.º 47691); o resto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 71",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «a) No Supremo Tribunal de Justiça, pelo procurador-geral da República ou pelo seu ajudante que for designado;» | «b) Em cada Relação, por um procurador da República;». Há instrução visível para este artigo (Decreto-Lei n.º 47691) mas o consolidado diverge dela ou vai além dela.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 72",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Art. 178.º - 1. Nos tribunais de comarca haverá um delegado do procurador da República por cada juízo.» | «2. Nas comarcas de Lisboa e do Porto, o Ministério Público é representado por delegados do procurador da República em número const…». Há instrução visível para este artigo (Decreto-Lei n.º 281/71) mas o consolidado diverge dela ou vai além dela.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 73",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Art. 183.º - 1. Junto dos círculos judiciais, a substituição do adjunto do procurador da República compete ao delegado da comarca …». Há instrução visível para este artigo (Decreto-Lei n.º 47139, Decreto-Lei n.º 281/71) mas o consolidado diverge dela ou vai além dela.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 74",
+    "veredicto": "certo",
+    "motivo": "Nova redacção confere letra a letra com o texto do alterador (Decreto-Lei n.º 281/71); o resto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 75",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «5. Na falta de delegado, ou no caso de impedimento superior a trinta dias, pode o lugar ser provido interinamente por licenciado e…». Há instrução visível para este artigo (Decreto-Lei n.º 47139, Decreto-Lei n.º 281/71) mas o consolidado diverge dela ou vai além dela.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 76",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «l) A instauração das acções necessárias à declaração da inexistência ou à dissolução das sociedades que se tenham constituído ou f…» | «m) Exercer as mais atribuições que lhe sejam cometidas por lei.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 77",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «e) Quando entenda dever intentar acções, assumir a representação de incapazes ou equiparados em quaisquer processos pendentes ou u…».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 78",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «3. Quando intervier como parte principal ou acessória, o Ministério Público tem sempre vista nos processos em recurso nos tribunai…».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 79",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «2. Se a lei não regular expressamente a forma e os termos da intervenção, o Ministério Público deve, na 1.ª instância, ser notific…».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 80",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Art. 190.º - 1. Logo que estejam empossados, os magistrados do Ministério Público remeterão um exemplar do termo de posse ao seu s…» | «2. Quando se trate de primeira nomeação, o termo de posse será acompanhado de uma nota com os elementos de identificação e biográf…». Há instrução visível para este artigo (Decreto-Lei n.º 46140) mas o consolidado diverge dela ou vai além dela.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 81",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «3. Para o bom desempenho das funções consultivas serão organizados na Procuradoria-Geral os convenientes registos e índices de lei…» | «4. Todos os serviços públicos e agentes diplomáticos no estrangeiro fornecerão à Procuradoria-Geral as informações que esta solici…». Há instrução visível para este artigo (Decreto-Lei n.º 369-A/75) mas o consolidado diverge dela ou vai além dela.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 82",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «6. A Imprensa Nacional-Casa da Moeda fornecerá gratuitamente à Procuradoria-Geral da República um exemplar das suas publicações of…». Há instrução visível para este artigo (Decreto-Lei n.º 369-A/75) mas o consolidado diverge dela ou vai além dela.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 83",
+    "veredicto": "certo",
+    "motivo": "Nova redacção confere letra a letra com o texto do alterador (Decreto-Lei n.º 47691); o resto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 84",
+    "veredicto": "certo",
+    "motivo": "Nova redacção confere letra a letra com o texto do alterador (Decreto-Lei n.º 369-A/75, Decreto-Lei n.º 281/71); o resto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 85",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «b) Quatro são os procuradores da República junto das Relações;». Há instrução visível para este artigo (Decreto-Lei n.º 281/71, Decreto-Lei n.º 609/74, Decreto-Lei n.º 369-A/75) mas o consolidado diverge dela ou vai além dela.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 86",
+    "veredicto": "certo",
+    "motivo": "Nova redacção confere letra a letra com o texto do alterador (Decreto-Lei n.º 369-A/75, Decreto-Lei n.º 609/74, Decreto-Lei n.º 281/71); o resto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 87",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «3. Quando se trate de magistrados judiciais, a comissão poderá manter-se, não obstante a sua promoção a juízes da Relação.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 88",
+    "veredicto": "certo",
+    "motivo": "Nova redacção confere letra a letra com o texto do alterador (Decreto-Lei n.º 609/74); o resto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 89",
+    "veredicto": "certo",
+    "motivo": "Nova redacção confere letra a letra com o texto do alterador (Decreto-Lei n.º 369-A/75); o resto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 90",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «4. Quando as necessidades de serviço o exijam, pode o Ministro da Justiça, sob proposta do procurador-geral, recrutar, para além d…».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 91",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Art. 218.º Para a execução dos serviços a que se acha adstrita, compete à secretaria:».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 92",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «d) Registar e arquivar as consultas, resoluções e mais trabalhos que devam ser expedidos ou que para o seu expediente sejam necess…».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 93",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «f) Organizar e manter o arquivo e a biblioteca da Procuradoria-Geral, sob a orientação técnica do bibliotecário-arquivista do Mini…».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 94",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Art. 219.º - 1. A secretaria enviará à Secretaria-Geral do Ministério da Justiça, a fim de serem integrados na biblioteca e no cen…» | «2. A biblioteca do Ministério enviará à Procuradoria-Geral da República, periodicamente, nota de todos os livros ou publicações qu…».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 95",
+    "veredicto": "certo",
+    "motivo": "Nova redacção confere letra a letra com o texto do alterador (Decreto-Lei n.º 369-A/75); o resto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 96",
+    "veredicto": "certo",
+    "motivo": "Nova redacção confere letra a letra com o texto do alterador (Decreto-Lei n.º 369-A/75); o resto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 97",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Art. 224.º - 1. As procuradorias da República junto das Relações são dirigidas por um ajudante do procurador-geral, com a categori…» | «2. O número de adjuntos do procurador pode ser aumentado em portaria dos Ministros da Justiça e das Finanças.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 98",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «f) Fornecer à Procuradoria-Geral, a respeito dos seus adjuntos, delegados e subdelegados, informações anuais de serviço nos mesmos…».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 99",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «h) Dar posse aos seus adjuntos e aos delegados e subdelegados da comarca sede da Relação.» | «Art. 226.º - 1. Os adjuntos do procurador da República são nomeados, em comissão, de entre os delegados aprovados em concurso para…». Há instrução visível para este artigo (Decreto-Lei n.º 633/75, Decreto-Lei n.º 46140, Decreto-Lei n.º 47691) mas o consolidado diverge dela ou vai além dela.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 100",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «b) Assumir, sempre que o entenda conveniente e com a anuência do procurador da República, a representação do Ministério Público na…». Há instrução visível para este artigo (Decreto-Lei n.º 46140, Decreto-Lei n.º 47691) mas o consolidado diverge dela ou vai além dela.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 101",
+    "veredicto": "certo",
+    "motivo": "Nova redacção confere letra a letra com o texto do alterador (Decreto-Lei n.º 46140); o resto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 102",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «h) Prestar serviço de turno na procuradoria de que dependam e assegurar a substituição do respectivo procurador nas suas faltas e …».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 103",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Art. 229.º Nos círculos judiciais onde prestam serviço compete aos adjuntos as funções discriminadas nas alíneas a), b) e d) a g) …».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 104",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «3. Para coadjuvar os delegados do procurador da República no desempenho das atribuições referidas no n.º 1 pode ser nomeado um fun…».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 105",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Art. 233.º - 1. Os delegados são nomeados de entre os indivíduos que não tenham ainda completado 35 anos de idade, sem prejuízo do…» | «2. Poderão ser nomeados independentemente de concurso os requerentes que, reunindo os demais requisitos, tenham classificação univ…».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 106",
+    "veredicto": "certo",
+    "motivo": "Nova redacção confere letra a letra com o texto do alterador (Decreto-Lei n.º 46140); o resto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 107",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Art. 239.º Sob proposta do procurador-geral da República, o Ministro da Justiça determinará quais os registos e arquivos que devem…».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 108",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «2. Quando hajam de ser vendidos bens móveis ou imóveis em processos nos quais sejam exequentes ou tenham reclamado créditos com ga…» | «A falta de resposta das repartições consultadas, até à véspera do dia designado, equivale a indicação no sentido de que não há con…».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 109",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Art. 247.º - 1. Os subdelegados são nomeados de preferência entre licenciados em Direito ou alunos dos cursos mais adiantados das …».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 110",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «3. Nas comarcas de Lisboa e Porto, o número de subdelegados é o constante do mapa anexo a este diploma, competindo aos respectivos…».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 111",
+    "veredicto": "certo",
+    "motivo": "Nova redacção confere letra a letra com o texto do alterador (Decreto-Lei n.º 281/71); o resto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 112",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «2. Quando seja de prever que o impedimento se prolongue, abrir-se-á concurso para provimento interino. Mas, se a duração provável …».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 113",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «3. A licença para férias dos funcionários das secretarias dos tribunais só pode ser utilizada, embora interpoladamente, nas férias…». Há instrução visível para este artigo (Decreto-Lei n.º 47691) mas o consolidado diverge dela ou vai além dela.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 114",
+    "veredicto": "certo",
+    "motivo": "Nova redacção confere letra a letra com o texto do alterador (Decreto-Lei n.º 47139); o resto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 115",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «b) Velar pelo cumprimento dos deveres dos funcionários, superintender nos serviços de conservação, arrumação, limpeza e segurança …». Há instrução visível para este artigo (Decreto-Lei n.º 281/71) mas o consolidado diverge dela ou vai além dela.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 116",
+    "veredicto": "certo",
+    "motivo": "Nova redacção confere letra a letra com o texto do alterador (Decreto-Lei n.º 281/71); o resto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 117",
+    "veredicto": "certo",
+    "motivo": "Nova redacção confere letra a letra com o texto do alterador (Decreto-Lei n.º 281/71); o resto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 118",
+    "veredicto": "certo",
+    "motivo": "Nova redacção confere letra a letra com o texto do alterador (Decreto-Lei n.º 281/71); o resto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 119",
+    "veredicto": "certo",
+    "motivo": "Nova redacção confere letra a letra com o texto do alterador (Decreto-Lei n.º 281/71); o resto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 120",
+    "veredicto": "certo",
+    "motivo": "Nova redacção confere letra a letra com o texto do alterador (Decreto-Lei n.º 31/77); o resto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 121",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «e) Organizar os trabalhos de estatística que hajam de ser efectuados pela repartição administrativa;» | «f) Assegurar a organização, guarda e conservação da biblioteca e arquivo.». Há instrução visível para este artigo (Decreto-Lei n.º 31/77) mas o consolidado diverge dela ou vai além dela.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 122",
+    "veredicto": "certo",
+    "motivo": "Nova redacção confere letra a letra com o texto do alterador (Decreto-Lei n.º 31/77, Decreto-Lei n.º 281/71); o resto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 123",
+    "veredicto": "certo",
+    "motivo": "Nova redacção confere letra a letra com o texto do alterador (Decreto-Lei n.º 281/71); o resto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 124",
+    "veredicto": "certo",
+    "motivo": "Nova redacção confere letra a letra com o texto do alterador (Decreto-Lei n.º 281/71); o resto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 125",
+    "veredicto": "certo",
+    "motivo": "Nova redacção confere letra a letra com o texto do alterador (Decreto-Lei n.º 281/71); o resto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 126",
+    "veredicto": "certo",
+    "motivo": "Nova redacção confere letra a letra com o texto do alterador (Decreto-Lei n.º 281/71); o resto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 127",
+    "veredicto": "certo",
+    "motivo": "Nova redacção confere letra a letra com o texto do alterador (Decreto-Lei n.º 281/71); o resto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 128",
+    "veredicto": "certo",
+    "motivo": "Nova redacção confere letra a letra com o texto do alterador (Decreto-Lei n.º 281/71); o resto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 129",
+    "veredicto": "certo",
+    "motivo": "Nova redacção confere letra a letra com o texto do alterador (Decreto-Lei n.º 281/71); o resto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 130",
+    "veredicto": "certo",
+    "motivo": "Nova redacção confere letra a letra com o texto do alterador (Decreto-Lei n.º 281/71); o resto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 131",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «2. O disposto no número anterior não se aplica nas secretarias dos juízos de polícia, nas quais os processos continuam a ser movim…» | «Art. 318.º - 1. Sempre que as circunstâncias o exigirem, haverá nos tribunais oficiais porteiros encarregados da guarda do edifíci…». Há instrução visível para este artigo (Decreto-Lei n.º 281/71) mas o consolidado diverge dela ou vai além dela.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 132",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «3. A distribuição dos serviços referida no n.º 1 poderá ser alterada pelo presidente do tribunal criminal.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 133",
+    "veredicto": "certo",
+    "motivo": "Nova redacção confere letra a letra com o texto do alterador (Decreto-Lei n.º 281/71); o resto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 134",
+    "veredicto": "certo",
+    "motivo": "Nova redacção confere letra a letra com o texto do alterador (Decreto-Lei n.º 281/71); o resto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 135",
+    "veredicto": "certo",
+    "motivo": "Nova redacção confere letra a letra com o texto do alterador (Decreto-Lei n.º 281/71); o resto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 136",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Art. 331.º - 1. Além das incompatibilidades e inibições fixadas na lei geral, os lugares das secretarias judiciais são incompatíve…».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 137",
+    "veredicto": "certo",
+    "motivo": "Nova redacção confere letra a letra com o texto do alterador (Decreto-Lei n.º 47691); o resto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 138",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «2. Na falta de chefes de secretaria ou escrivães de direito de 1.ª classe, ou quando o seu registo disciplinar mostre a inconveniê…» | «Art. 338.º - 1. Os lugares de chefe de secretaria são providos em chefes de secretaria ou escrivães de direito, por transferência,…». Há instrução visível para este artigo (Decreto-Lei n.º 47691, Decreto-Lei n.º 281/71) mas o consolidado diverge dela ou vai além dela.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 139",
+    "veredicto": "certo",
+    "motivo": "Nova redacção confere letra a letra com o texto do alterador (Decreto-Lei n.º 281/71); o resto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 140",
+    "veredicto": "certo",
+    "motivo": "Nova redacção confere letra a letra com o texto do alterador (Decreto-Lei n.º 45/77, Decreto-Lei n.º 281/71, Decreto-Lei n.º 201/76); o resto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 141",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Art. 346.º O provimento dos lugares de escriturário-dactilógrafo, telefonista, contínuo, correio, oficial porteiro e motorista é f…». Há instrução visível para este artigo (Decreto-Lei n.º 281/71) mas o consolidado diverge dela ou vai além dela.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 142",
+    "veredicto": "certo",
+    "motivo": "Nova redacção confere letra a letra com o texto do alterador (Decreto-Lei n.º 281/71); o resto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 143",
+    "veredicto": "certo",
+    "motivo": "Nova redacção confere letra a letra com o texto do alterador (Decreto-Lei n.º 281/71); o resto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 144",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «2. Os funcionários de justiça podem ser destacados para a Polícia Judiciária, em comissão e além do quadro, por períodos renovávei…» | «3. Compete ao Ministro da Justiça, ponderado o interesse dos serviços judiciais, conceder ou denegar a autorização e decidir sobre…».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 145",
+    "veredicto": "certo",
+    "motivo": "Nova redacção confere letra a letra com o texto do alterador (Decreto-Lei n.º 47691); o resto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 146",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «e) Ter efectuado o depósito a que se refere o artigo seguinte.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 147",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «3. O disposto no n.º 1 entende-se sem prejuízo do regime constante dos artigos 1.º e 2.º do Decreto-Lei n.º 49031, de 27 de Maio d…».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 148",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Art. 370.º - 1. Os membros do júri têm direito à gratificação, livre de descontos, que for fixada por despacho do Ministro da Just…».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 149",
+    "veredicto": "certo",
+    "motivo": "Nova redacção confere letra a letra com o texto do alterador (Decreto-Lei n.º 130/75); o resto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 150",
+    "veredicto": "certo",
+    "motivo": "Nova redacção confere letra a letra com o texto do alterador (Decreto-Lei n.º 130/75); o resto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 151",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «3. O concurso para escrivão de direito pode ser antecipado logo que estejam colocados todos os concorrentes aprovados com classifi…».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 152",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «2. São também admitidos como concorrentes voluntários os diplomados em Direito com informação final universitária não inferior a 1…».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 153",
+    "veredicto": "certo",
+    "motivo": "Nova redacção confere letra a letra com o texto do alterador (Decreto-Lei n.º 575/74); o resto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 154",
+    "veredicto": "certo",
+    "motivo": "Nova redacção confere letra a letra com o texto do alterador (Decreto-Lei n.º 130/75); o resto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 155",
+    "veredicto": "certo",
+    "motivo": "Nova redacção confere letra a letra com o texto do alterador (Decreto-Lei n.º 130/75); o resto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 156",
+    "veredicto": "certo",
+    "motivo": "Nova redacção confere letra a letra com o texto do alterador (Decreto-Lei n.º 130/75); o resto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 157",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «2. O júri, quando reconheça especiais qualidades em algum candidato excluído, poderá recomendar a sua manutenção em funções públic…» | «3. O delegado definitivamente excluído dos concursos, nos termos do n.º 1, que não tenha sido nomeado para outras funções no prazo…».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 158",
+    "veredicto": "certo",
+    "motivo": "Nova redacção confere letra a letra com o texto do alterador (Decreto-Lei n.º 47691, Decreto-Lei n.º 130/75, Decreto-Lei n.º 281/71); o resto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 159",
+    "veredicto": "certo",
+    "motivo": "Nova redacção confere letra a letra com o texto do alterador (Decreto-Lei n.º 281/71); o resto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 160",
+    "veredicto": "certo",
+    "motivo": "Nova redacção confere letra a letra com o texto do alterador (Decreto-Lei n.º 281/71); o resto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 161",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Art. 396.º - 1. Aos concursos para solicitador encartado são admitidos os requerentes que satisfaçam os requisitos mencionados no …». Há instrução visível para este artigo (Decreto-Lei n.º 47139) mas o consolidado diverge dela ou vai além dela.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 162",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «b) Ter tirocinado com um solicitador que exerça a profissão há mais de cinco anos, com bom aproveitamento e assiduidade, durante o…». Há instrução visível para este artigo (Decreto-Lei n.º 47139) mas o consolidado diverge dela ou vai além dela.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 163",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «3. Podem também ser admitidos os requerentes que, não satisfazendo aos requisitos das alíneas a) e b) do n.º 1, exerçam há mais de…». Há instrução visível para este artigo (Decreto-Lei n.º 47139) mas o consolidado diverge dela ou vai além dela.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 164",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Art. 400.º - 1. O Conselho Superior Judiciário é constituído por um presidente, que é o presidente do Supremo Tribunal de Justiça,…».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 165",
+    "veredicto": "certo",
+    "motivo": "Nova redacção confere letra a letra com o texto do alterador (Decreto-Lei n.º 353/75); o resto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 166",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «c) Fixar os critérios gerais a que devem obedecer as inspecções, inquéritos e sindicâncias, expedir as instruções convenientes à s…» | «d) Estabelecer os critérios a observar na classificação do mérito dos magistrados e funcionários de justiça e proceder a essa clas…». Há instrução visível para este artigo (Decreto-Lei n.º 201/76) mas o consolidado diverge dela ou vai além dela.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 167",
+    "veredicto": "certo",
+    "motivo": "Nova redacção confere letra a letra com o texto do alterador (Decreto-Lei n.º 201/76); o resto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 168",
+    "veredicto": "certo",
+    "motivo": "Nova redacção confere letra a letra com o texto do alterador (Decreto-Lei n.º 201/76); o resto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 169",
+    "veredicto": "certo",
+    "motivo": "Nova redacção confere letra a letra com o texto do alterador (Decreto-Lei n.º 201/76); o resto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 170",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «i) Promover reuniões de inspectores, a fim de se assentar em critérios uniformes e objectivos de apreciação e nos meios mais efica…».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 171",
+    "veredicto": "certo",
+    "motivo": "Nova redacção confere letra a letra com o texto do alterador (Decreto-Lei n.º 281/71); o resto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 172",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «3. Quando as necessidades do serviço o exijam, pode o Conselho contratar, para além do quadro, o pessoal indispensável ao seu dese…». Há instrução visível para este artigo (Decreto-Lei n.º 47139, Decreto-Lei n.º 201/76) mas o consolidado diverge dela ou vai além dela.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 173",
+    "veredicto": "certo",
+    "motivo": "Nova redacção confere letra a letra com o texto do alterador (Decreto-Lei n.º 47139); o resto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 174",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «6. Os candidatos aos concursos de habilitação para juiz de direito, ao comparecerem à primeira das provas práticas referidas no n.…».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 175",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «c) Dos fardamentos e transportes, incluindo bilhetes de assinatura em transportes colectivos, aos contínuos;».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 176",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «2. Os magistrados em serviço nas ilhas adjacentes há mais de dezoito meses têm preferência para a colocação no continente, com exc…» | «3. Para os juízos de instrução criminal não podem ser nomeados juízes com menos de três anos de serviço efectivo nos tribunais ord…».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 177",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «a) Se encontrem no quinto superior da escala de antiguidade da respectiva classe;». Há instrução visível para este artigo (Decreto-Lei n.º 46140) mas o consolidado diverge dela ou vai além dela.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 178",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Art. 433.º - 1. Os corregedores e os juízes de quaisquer círculos, tribunais, varas ou juízos, os adjuntos do procurador da Repúbl…» | «O relatório será acompanhado de dois exemplares das informações recebidas dos juízes e subdelegados municipais, nos termos do núme…». Há instrução visível para este artigo (Decreto-Lei n.º 696/73) mas o consolidado diverge dela ou vai além dela.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 179",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «r) Instalação, arrumação e estado de asseio, conservação e segurança do tribunal e das casas dos magistrados;».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 180",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Art. 446.º - 1. Os inspectores devem ouvir os magistrados e funcionários sobre todas as faltas ou procedimentos anómalos que notem…» | «2. O inspeccionado não pode ser classificado sem a observância das formalidades referidas no número anterior.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 181",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «5. O quarto capítulo, subdividido em três secções, versará os méritos e deméritos dos juízes, magistrados do Ministério Público e …» | «6. O quinto e último capítulo versará sobre a actuação dos substitutos dos magistrados, tanto judiciais como do Ministério Público…».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 182",
+    "veredicto": "certo",
+    "motivo": "Nova redacção confere letra a letra com o texto do alterador (Decreto-Lei n.º 487/70); o resto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 183",
+    "veredicto": "certo",
+    "motivo": "Nova redacção confere letra a letra com o texto do alterador (Decreto-Lei n.º 487/70); o resto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 184",
+    "veredicto": "certo",
+    "motivo": "Nova redacção confere letra a letra com o texto do alterador (Decreto-Lei n.º 201/76); o resto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 185",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «4. Multa de 100$00 a 10000$00;».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 186",
+    "veredicto": "certo",
+    "motivo": "Nova redacção confere letra a letra com o texto do alterador (Decreto-Lei n.º 201/76); o resto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 187",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «2. As penas específicas de multa por infracções cometidas simultaneamente ou sucessivamente são acumuláveis, mas o seu quantitativ…».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 188",
+    "veredicto": "certo",
+    "motivo": "Nova redacção confere letra a letra com o texto do alterador (Decreto-Lei n.º 201/76); o resto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 189",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «2. O Supremo Conselho Disciplinar é constituído por todos os membros do Conselho Superior Judiciário e pelos cinco juízes mais ant…». Há instrução visível para este artigo (Decreto-Lei n.º 201/76) mas o consolidado diverge dela ou vai além dela.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 190",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «5. Não estão compreendidos nas proibições dos números anteriores:» | «a) Os serviços de contencioso e consulta jurídica mantidos pelos organismos corporativos ou associações legalmente constituídas, d…».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 191",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Art. 614.º - 1. O Conselho Geral tem a sede em Lisboa e é constituído pelo presidente e onze membros, dos quais seis são eleitos p…».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 192",
+    "veredicto": "errado",
+    "motivo": "Rectificação (art. 19.º do DL 202/73, art. 616.º n.º 1) manda ler «conselhos»; o consolidado mantém «São quatro os conselho distritais». Os restantes acrescentos (Évora, quatro conselhos) vêm de diploma sem texto.",
+    "texto_esperado": "Art. 616.º - 1. São quatro os conselhos distritais e correspondem a outros tantos distritos forenses: o de Lisboa abrange as comarcas do Distrito Judicial de Lisboa; os do Porto, Coimbra e Évora coincidem com os distritos das respectivas Relações.\n\nAs sedes dos conselhos distritais são Lisboa, Porto, Coimbra e Évora.\n\n2. Os conselhos distritais têm, além dos presidentes, quinze membros o de Lisboa, dez o do Porto e cinco os de Coimbra e Évora; oito dos membros do conselho de Lisboa, cinco do do Porto e dois dos de Coimbra e Évora são eleitos pela assembleia do respectivo distrito, sendo os restantes nomeados pelo presidente da Ordem."
+   },
+   {
+    "artigo": "Trecho 193",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Art. 672.º - 1. Na primeira semana de cada trimestre devem as secretarias dos conselhos disciplinares da Ordem enviar ao Ministéri…» | «2. Serão imediatamente comunicadas ao Conselho Superior Judiciário ou à Procuradoria-Geral da República as decisões transitadas qu…».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 194",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «2. O quadro de solicitadores nas comarcas do continente e ilhas adjacentes é de quatro nas comarcas de 1.ª classe com mais de um j…» | «3. Exceptuam-se do disposto no número anterior as comarcas de Lisboa, Porto, Coimbra e Évora, nas quais o número de solicitadores …». Há instrução visível para este artigo (Decreto-Lei n.º 47139) mas o consolidado diverge dela ou vai além dela.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 195",
+    "veredicto": "certo",
+    "motivo": "Nova redacção confere letra a letra com o texto do alterador (Decreto-Lei n.º 47139); o resto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 196",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Art. 688.º - 1. É permitida a permuta entre solicitadores encartados e bem assim a sua transferência de uma comarca para outra, me…». Há instrução visível para este artigo (Decreto-Lei n.º 47139) mas o consolidado diverge dela ou vai além dela.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 197",
+    "veredicto": "errado",
+    "motivo": "Pontuação espúria «comarcas.» no n.º 1 (o n.º 1 do art. 691.º é «...» no DL 47139 e no DL 47691, logo mantém-se o original «Nas comarcas onde»); o resto do n.º 1/n.º 2/n.º 4 vem de diploma sem texto.",
+    "texto_esperado": "Art. 691.º - 1. Nas comarcas onde não esteja completo, pode o quadro de solicitadores ser completado com solicitadores provisionários se, ouvida a Ordem dos Advogados e a Câmara dos Solicitadores e obtido parecer do Conselho Superior Judiciário, houver nisso conveniência.\n\n2. A nomeação compete ao juiz e é válida por um ano, podendo ser renovada por períodos iguais, nos termos do número anterior, sem que acresçam novas custas.\n\n3. O juiz não concederá autorização aos pretendentes a primeira nomeação, que não mostrem ter como habilitações literárias o 1.º ciclo dos liceus ou equivalente, bom comportamento moral e civil, mais de 21 anos e estar isentos de culpa.\n\n4. Da decisão do juiz cabe reclamação para o presidente da Relação do distrito, a processar nos termos dos artigos 688.º e 689.º do Código de Processo Civil."
+   },
+   {
+    "artigo": "Trecho 198",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Art. 693.º - 1. Podem ser nomeados definitivamente, preenchendo vaga, os solicitadores provisionários cuja nomeação se tenha manti…» | «2. A verificação dos pressupostos legais para a conversão em definitiva das nomeações dos solicitadores provisionários é feita, a …».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 199",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Art. 721.º - 1. A câmara tem uma secção na sede de cada um dos distritos judiciais do Porto, Coimbra e Évora, por intermédio das q…».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 200",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Art. 723.º As secções usarão a denominação de Câmara dos Solicitadores, Secção de ... (Porto, Coimbra ou Évora).».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 201",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Presidente e 18 juízes conselheiros.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 202",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Presidente e 24 juízes desembargadores.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 203",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Presidente e 18 juízes desembargadores.» | «Relação de Coimbra;».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 204",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «[Artigos 175.º, n.os 1, alíneas c), d) e f) 2 e 3 178.º, n.º 2, 224.º, n.º 1, e 247.º, n.º 3]» | «Adjuntos, delegados e subdelegados do procurador da República».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 205",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Distrito Judicial de Lisboa».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 206",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «De 1.ª classe: Almada, Caldas da Rainha, Cascais, Funchal, Lisboa, Oeiras, Ponta Delgada, Santarém, Sintra, Torres Vedras e Vila F…» | «De 2.ª classe: Alenquer, Angra do Heroísmo, Barreiro, Cartaxo, Loures, Mafra, Rio Maior e Seixal.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 207",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «De 1.ª classe: Barcelos, Braga, Bragança, Guimarães, Oliveira de Azeméis, Ovar, Porto, Santo Tirso, Viana do Castelo, Vila da Feir…» | «De 2.ª classe: Arcos de Valdevez, Chaves, Fafe, Felgueiras, Matosinhos, Montalegre, Paredes, Penafiel, Peso da Régua, Ponte de Lim…».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 208",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «De 1.ª classe: Aveiro, Coimbra, Covilhã, Figueira da Foz, Guarda, Leiria, Pombal e Viseu.» | «De 2.ª classe: Águeda, Alcobaça, Anadia, Cantanhede, Estarreja, Fundão, Lamego, Lousã, Mangualde, Santa Comba Dão, Tomar, Tondela,…».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 209",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «(Artigo 2.ª, n.º 4)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 210",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Comarcas: Almada e Seixal.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 211",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Comarcas: Águeda, Anadia, Aveiro e Vagos.» | «Sede em Barcelos».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 212",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Comarcas: Beja, Cuba, Ferreira do Alentejo, Mértola, Moura,» | «Ourique, Santiago do Cacém e Serpa.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 213",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Comarcas: Amares, Braga, Póvoa de Lanhoso, Vieira do Minho, Vila Nova de Famalicão e Vila Verde.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 214",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Comarcas: Bragança, Carrazeda de Ansiães, Macedo de Cavaleiros, Miranda do Douro, Mirandela, Mogadouro, Moncorvo, Vila Flor, Vimio…».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 215",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Comarcas: Caldas da Rainha, Lourinhã, Rio Maior e Torres Vedras.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 216",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Comarcas: Castelo Branco, Covilhã, Fundão, Idanha-a-Nova e Sertã.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 217",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Comarcas: Arganil, Coimbra, Condeixa-a-Nova, Lousa, Oliveira do Hospital, Penacova e Tábua.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 218",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Comarcas: Arraiolos, Coruche, Estremoz, Évora, Montemor-o-Novo, Redondo, Reguengos de Monsaraz e Vila Viçosa.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 219",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Comarcas: Faro, Loulé, Olhão, Tavira e Vila Real de Santo António.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 220",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Comarcas: Ansião, Cantanhede, Figueira da Foz, Montemor-o-Velho, Pombal e Soure.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 221",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Comarcas: Funchal, Ponta do Sol, Santa Cruz e S. Vicente.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 222",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Comarcas: Almeida, Celorico da Beira, Figueira de Castelo Rodrigo, Gouveia, Guarda, Meda, Pinhel, Sabugal, Seia, Trancoso e Vila N…».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 223",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Comarcas: Amarante, Cabeceiras de Basto, Celorico de Basto, Fafe, Felgueiras, Guimarães e Lousada.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 224",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Comarcas: Armamar, Baião, Cinfães, Lamego, Marco de Canaveses, Moimenta da Beira, Penafiel, Peso da Régua, Resende, S. João da Pes…».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 225",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Comarcas: Alcobaça, Leiria, Marinha Grande e Porto de Mós.» | «Lisboa - 1.º círculo».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 226",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Comarcas: Cascais e Oeiras.» | «Lisboa - 2.º circulo».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 227",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Sede em Ponta Delgada» | «Comarcas: Angra do Heroísmo, Horta, Ilha das Flores, Ilha Graciosa, Ilha do Pico, Ilha de Santa Maria, Ilha de S. Jorge, Ponta Del…».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 228",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Comarcas: Abrantes, Castelo de Vide, Elvas, Fronteira, Mação, Nisa, Ponte de Sor e Portalegre.» | «Sede em Portimão».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 229",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Comarcas: Matosinhos, Paços de Ferreira, Paredes e Santo Tirso.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 230",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Comarcas: Benavente, Cartaxo e Santarém.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 231",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Comarcas: Alcácer do Sal, Grândola e Setúbal.» | «Sede em Tomar».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 232",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Comarcas: Arcos de Valdevez, Caminha, Melgaço, Monção, Paredes de Coura, Ponte da Barca, Ponte de Lima, Valença e Viana do Castelo…».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 233",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Comarcas: Espinho, Ovar, Vila da Feira e Vila Nova de Gaia.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 234",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Comarcas: Alijó, Boticas, Chaves, Montalegre, Murça, Valpaços, Vila Pouca de Aguiar e Vila Real.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 235",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Comarcas: Castro Daire, Mangualde, Oliveira de Frades, Santa Comba Dão, S. Pedro do Sul, Sátão, Tondela, Viseu e Vouzela.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 236",
+    "veredicto": "certo",
+    "motivo": "Nova redacção confere letra a letra com o texto do alterador (Decreto-Lei n.º 325/74); o resto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 237",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «A) Segundo-vogal dos tribunais colectivos nas comarcas dos círculos judiciais» | «Almada, 1.º Juízo - o juiz do 2.º Juízo; Almada, 2.º Juízo o juiz do 1.º Juízo; Seixal - o juiz do 2.º Juízo de Almada.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 238",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «4.º Juízo - os juízes dos 5.º e 6.º Juízos.» | «5.º Juízo - os juízes dos 4.º e 6.º Juízos.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 239",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «4.º Juízo - os juízes dos 5.º e 6.º Juízos.» | «5.º Juízo - os juízes dos 4.º e 6.º Juízos.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 240",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Com três juízos: Coimbra e Funchal.» | «De 1.ª classe: Almada, Aveiro, Barcelos, Braga, Cascais, Guimarães, Leiria, Oeiras, Santarém, Setúbal, Sintra, Vila da Feira, Vila…».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 241",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «(Artigo 6.º, n.º 2)» | «Composição dos Tribunais Cíveis, Criminais e de Família das Comarcas de Lisboa e do Porto».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 242",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Tribunal Cível» | «6 varas cíveis e 13 juízos cíveis.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 243",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Tribunal Cível».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 244",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Tribunal Criminal» | «2 juízos criminais, 5 juízos correccionais, 2 juízos de polícia e 4 juízos de instrução criminal.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 245",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «A) Comarcas».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 246",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Distrito judicial - Évora.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 247",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Gavião.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 248",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Círculo judicial - Oliveira de Azeméis.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 249",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Albufeira (3.ª classe):» | «Sede - Albufeira.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 250",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Distrito judicial - Évora.» | «Círculo judicial - Setúbal.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 251",
+    "veredicto": "dúvida",
+    "motivo": "Texto original removido sem instrução nas partes fornecidas (o conteúdo aparece noutras entradas do mapa VIII, comarcas/julgados criados por diploma sem texto: DL 202/73 e seguintes). Não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 252",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Alenquer (2.ª classe):».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 253",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Círculo judicial - Lisboa (3.º círculo).».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 254",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Almada (1.ª classe):».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 255",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Almeida (3.ª classe):» | «Sede - Almeida.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 256",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Círculo judicial - Aveiro.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 257",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Antes, Barcouço, Casal Comba, Luso, Mealhada, Pampilhosa, Vacariça e Ventosa do Bairro.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 258",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Círculo judicial - Figueira da Foz.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 259",
+    "veredicto": "dúvida",
+    "motivo": "Texto original removido sem instrução nas partes fornecidas (o conteúdo aparece noutras entradas do mapa VIII, comarcas/julgados criados por diploma sem texto: DL 202/73 e seguintes). Não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 260",
+    "veredicto": "dúvida",
+    "motivo": "Texto original removido sem instrução nas partes fornecidas (o conteúdo aparece noutras entradas do mapa VIII, comarcas/julgados criados por diploma sem texto: DL 202/73 e seguintes). Não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 261",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Anceriz, Arganil, Barril de Alva, Benfeita, Celavisa, Cepos, Cerdeira, Coja, Folques, Moura da Serra, Piódão, Pomares, Pombeiro da…».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 262",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Armamar (3.ª classe):» | «Sede - Armamar.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 263",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Círculo judicial - Oliveira de Azeméis.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 264",
+    "veredicto": "dúvida",
+    "motivo": "Texto original removido sem instrução nas partes fornecidas (o conteúdo aparece noutras entradas do mapa VIII, comarcas/julgados criados por diploma sem texto: DL 202/73 e seguintes). Não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 265",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Distrito judicial - Évora.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 266",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Arada, Cacia, Eirol, Eixo, Esgueira, Glória, Nariz, Oliveirinha, Requeixo, S. Bernardo, S. Jacinto e Vera Cruz.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 267",
+    "veredicto": "dúvida",
+    "motivo": "Texto original removido sem instrução nas partes fornecidas (o conteúdo aparece noutras entradas do mapa VIII, comarcas/julgados criados por diploma sem texto: DL 202/73 e seguintes). Não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 268",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Círculo judicial - Barcelos.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 269",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Beja (1.ª classe):».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 270",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Distrito judicial - Évora.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 271",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Aljustrel e Ervidel.» | «Benavente (2.ª classe):».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 272",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Bragança (1.ª classe):».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 273",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Âncora, Arga de Baixo e Arga de Cima, Arga de S. João, Argela, Azevedo, Caminha (Matriz), Cristelo, Dem, Gondar, Lanhelas, Moledo,…».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 274",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Carrazeda de Ansiães (3.ª classe):» | «Sede - Carrazeda de Ansiães.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 275",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Castelo Branco (1.ª classe):».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 276",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Distrito judicial - Évora.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 277",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Castelo de Paiva (3.ª classe):» | «Sede - Castelo de Paiva.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 278",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Distrito judicial - Évora.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 279",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Águas Frias, Anelhe, Arcossó, Bobadela, Bustelo, Calvão, Cela, Chaves, Cimo de Vila da Castanheira, Curalha, Eiras, Ervededo, Faiõ…».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 280",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Condeixa-a-Nova (3.ª classe):» | «Sede - Condeixa-a-Nova.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 281",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Distrito judicial - Évora.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 282",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Covilhã (1.ª classe):».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 283",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Aldeia do Carvalho, Aldeia de S. Francisco de Assis, Aldeia do Souto, Barco, Boidobra, Casegas, Cortes do Meio, Covilhã (Conceição…».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 284",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Distrito judicial - Évora.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 285",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Elvas (2.ª classe):».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 286",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Distrito judicial - Évora.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 287",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Espinho (3.ª classe):» | «Sede-Espinho.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 288",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Círculo judicial - Barcelos.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 289",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Estarreja (2.ª classe):».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 290",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Distrito judicial - Coimbra.» | «Círculo judicial - Oliveira de Azeméis.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 291",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Évora (1.ª classe):».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 292",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Distrito judicial - Évora.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 293",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Faro (1.ª classe):».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 294",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Distrito judicial - Évora.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 295",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Felgueiras (2.ª classe):».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 296",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Ferreira do Alentejo (3.ª classe):» | «Sede - Ferreira do Alentejo.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 297",
+    "veredicto": "dúvida",
+    "motivo": "Texto original removido sem instrução nas partes fornecidas (o conteúdo aparece noutras entradas do mapa VIII, comarcas/julgados criados por diploma sem texto: DL 202/73 e seguintes). Não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 298",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Círculo judicial - Tomar.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 299",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Distrito judicial - Évora.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 300",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Distrito judicial - Évora.» | «Círculo judicial - Tomar.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 301",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Grândola (3.ª classe):» | «Sede - Grândola.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 302",
+    "veredicto": "dúvida",
+    "motivo": "Texto original removido sem instrução nas partes fornecidas (o conteúdo aparece noutras entradas do mapa VIII, comarcas/julgados criados por diploma sem texto: DL 202/73 e seguintes). Não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 303",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Distrito judicial - Évora.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 304",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Distrito judicial - Évora.» | «Círculo judicial - Portimão.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 305",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Distrito judicial - Coimbra.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 306",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Dálvares, Gouviães, Tarouca e Várzea da Serra.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 307",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Amor, Arrabal, Azoia, Bajouca, Barosa, Barreira, Boa Vista, Caranguejeira, Carvide, Coimbrão, Colmeias, Cortes, Leiria, Maceira, M…».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 308",
+    "veredicto": "dúvida",
+    "motivo": "Texto original removido sem instrução nas partes fornecidas (o conteúdo aparece noutras entradas do mapa VIII, comarcas/julgados criados por diploma sem texto: DL 202/73 e seguintes). Não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 309",
+    "veredicto": "certo",
+    "motivo": "Nova redacção confere letra a letra com o texto do alterador (Decreto-Lei n.º 47691); o resto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 310",
+    "veredicto": "certo",
+    "motivo": "Nova redacção confere letra a letra com o texto do alterador (Decreto-Lei n.º 47691); o resto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 311",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Distrito judicial - Évora.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 312",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Círculo judicial - Lisboa (2.º círculo).».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 313",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Mação (3.ª classe):» | «Sede - Mação.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 314",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Mafra (2.ª classe):».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 315",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Circulo judicial - Lisboa (2.º círculo).».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 316",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Marinha Grande (3.ª classe):» | «Sede - Marinha Grande.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 317",
+    "veredicto": "dúvida",
+    "motivo": "Texto original removido sem instrução nas partes fornecidas (o conteúdo aparece noutras entradas do mapa VIII, comarcas/julgados criados por diploma sem texto: DL 202/73 e seguintes). Não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 318",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Distrito judicial - Évora.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 319",
+    "veredicto": "dúvida",
+    "motivo": "Texto original removido sem instrução nas partes fornecidas (o conteúdo aparece noutras entradas do mapa VIII, comarcas/julgados criados por diploma sem texto: DL 202/73 e seguintes). Não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 320",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Moita (3.ª classe):» | «Sede - Moita.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 321",
+    "veredicto": "dúvida",
+    "motivo": "Texto original removido sem instrução nas partes fornecidas (o conteúdo aparece noutras entradas do mapa VIII, comarcas/julgados criados por diploma sem texto: DL 202/73 e seguintes). Não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 322",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Distrito judicial - Évora.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 323",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Do concelho de Vendas Novas:» | «Vendas Novas.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 324",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Distrito judicial - Évora.» | «Círculo judicial - Barreiro.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 325",
+    "veredicto": "dúvida",
+    "motivo": "Texto original removido sem instrução nas partes fornecidas (o conteúdo aparece noutras entradas do mapa VIII, comarcas/julgados criados por diploma sem texto: DL 202/73 e seguintes). Não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 326",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Distrito judicial - Évora.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 327",
+    "veredicto": "errado",
+    "motivo": "Rectificação ao mapa VIII manda ler «Jou, Murça, Noura» e não «Moura»; o consolidado tem «Moura» na nova entrada de Murça.",
+    "texto_esperado": "Murça (3.ª classe):\n\nSede - Murça.\n\nDistrito judicial - Porto.\n\nCírculo judicial - Vila Real.\n\nFreguesias:\n\nDo concelho de Murça:\n\nCandedo, Carva, Fiolhoso, Jou, Murça, Noura, Palheiros, Valongo de Milhais e Vilares."
+   },
+   {
+    "artigo": "Trecho 328",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Distrito judicial - Évora.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 329",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Distrito judicial - Évora.» | «Círculo judicial - Portimão.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 330",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Oeiras (1.ª classe):» | «Círculo judicial - Lisboa (1.º círculo).».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 331",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Distrito judicial - Évora.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 332",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Oliveira de Azeméis (1.ª classe):».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 333",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Círculo judicial - Oliveira de Azeméis.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 334",
+    "veredicto": "dúvida",
+    "motivo": "Texto original removido sem instrução nas partes fornecidas (o conteúdo aparece noutras entradas do mapa VIII, comarcas/julgados criados por diploma sem texto: DL 202/73 e seguintes). Não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 335",
+    "veredicto": "dúvida",
+    "motivo": "Texto original removido sem instrução nas partes fornecidas (o conteúdo aparece noutras entradas do mapa VIII, comarcas/julgados criados por diploma sem texto: DL 202/73 e seguintes). Não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 336",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Círculo judicial - Coimbra.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 337",
+    "veredicto": "dúvida",
+    "motivo": "Texto original removido sem instrução nas partes fornecidas (o conteúdo aparece noutras entradas do mapa VIII, comarcas/julgados criados por diploma sem texto: DL 202/73 e seguintes). Não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 338",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Distrito judicial - Évora.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 339",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Ovar (1.ª classe):».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 340",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Círculo judicial - Vila da Feira.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 341",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Paredes (2.ª classe):».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 342",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Penacova (3.ª classe):» | «Sede - Penacova.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 343",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Pombal (1.ª classe):».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 344",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Arrifes, Bretanha, Candelária, Capelas, Fajã de Baixo, Fajã de Cima, Fenais da Luz, Feteiras, Ginetes, Mosteiros, Ponta Delgada (M…».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 345",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Lagoa (Nossa Senhora do Rosário), Lagoa (Santa Cruz) e Ribeira Chã.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 346",
+    "veredicto": "errado",
+    "motivo": "Rectificação ao mapa VIII manda ler «Britelo, Crasto» e não «Britelo, Castro»; o consolidado mantém «Castro» na nova entrada de Ponte da Barca.",
+    "texto_esperado": "Ponte da Barca (3.ª classe):\n\nSede - Ponte da Barca.\n\nDistrito judicial - Porto.\n\nCírculo judicial - Viana do Castelo.\n\nFreguesias:\n\nDo concelho de Ponte da Barca:\n\nAzias, Boivães, Bravães, Britelo, Crasto, Cuide de Vila Verde, Entre Ambos-os-Rios, Ermida, Germil, Grovelas, Lavradas, Lindoso, Nogueira, Oleiros, Paço Vedro de Magalhães, Ponte da Barca, Ruivos, Sampriz, Touvedo (Salvador), Touvedo (S. Lourenço), Vade (S. Pedro), Vade (S. Tomé), Vila Chá (Santiago), Vila Chá (S. João Baptista) e Vila Nova de Muía."
+   },
+   {
+    "artigo": "Trecho 347",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Distrito judicial - Évora.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 348",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Portalegre (1.ª classe):».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 349",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Distrito judicial - Évora.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 350",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Distrito judicial - Évora.» | «Círculo judicial - Portimão.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 351",
+    "veredicto": "dúvida",
+    "motivo": "Texto original removido sem instrução nas partes fornecidas (o conteúdo aparece noutras entradas do mapa VIII, comarcas/julgados criados por diploma sem texto: DL 202/73 e seguintes). Não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 352",
+    "veredicto": "dúvida",
+    "motivo": "Texto original removido sem instrução nas partes fornecidas (o conteúdo aparece noutras entradas do mapa VIII, comarcas/julgados criados por diploma sem texto: DL 202/73 e seguintes). Não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 353",
+    "veredicto": "dúvida",
+    "motivo": "Texto original removido sem instrução nas partes fornecidas (o conteúdo aparece noutras entradas do mapa VIII, comarcas/julgados criados por diploma sem texto: DL 202/73 e seguintes). Não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 354",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Círculo judicial - Barcelos.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 355",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Distrito judicial - Évora.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 356",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Distrito judicial - Évora.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 357",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Distrito judicial - Coimbra.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 358",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Calhetas, Fenais da Ajuda, Lomba da Maia, Maia, Pico da Pedra, Porto Formoso, Rabo de Peixe, Ribeira Grande (Conceição), Ribeira G…».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 359",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Rio Maior (2.ª classe):».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 360",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Santiago do Cacém (2.ª classe):».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 361",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Distrito judicial - Évora.» | «Círculo judicial - Beja.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 362",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Santo Tirso (1.ª classe):».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 363",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «S. João da Madeira (3.ª classe):» | «Sede -S. João da Madeira.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 364",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Distrito judicial - Coimbra.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 365",
+    "veredicto": "dúvida",
+    "motivo": "Texto original removido sem instrução nas partes fornecidas (o conteúdo aparece noutras entradas do mapa VIII, comarcas/julgados criados por diploma sem texto: DL 202/73 e seguintes). Não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 366",
+    "veredicto": "dúvida",
+    "motivo": "Texto original removido sem instrução nas partes fornecidas (o conteúdo aparece noutras entradas do mapa VIII, comarcas/julgados criados por diploma sem texto: DL 202/73 e seguintes). Não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 367",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Sátão (3.ª classe):» | «Sede - Sátão.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 368",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Seixal (2.ª classe):».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 369",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Distrito judicial - Évora.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 370",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Alvito da Beira, Montes da Senhora, Peral, Proença-a-Nova e Sobreira Formosa.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 371",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Distrito judicial - Évora.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 372",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Distrito judicial - Évora.» | «Círculo judicial - Portimão.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 373",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Sintra (1.ª classe):».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 374",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Círculo judicial - Lisboa (2.º círculo).».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 375",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Tábua (3.ª classe):» | «Sede - Tábua.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 376",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Distrito judicial - Coimbra.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 377",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Distrito judicial - Évora.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 378",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Círculo judicial - Tomar.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 379",
+    "veredicto": "dúvida",
+    "motivo": "Texto original removido sem instrução nas partes fornecidas (o conteúdo aparece noutras entradas do mapa VIII, comarcas/julgados criados por diploma sem texto: DL 202/73 e seguintes). Não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 380",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Barreiro de Besteiros, Campo de Besteiros, Canas de Santa Maria, Caparrosa, Castelões, Dardavaz, Ferreirós do Dão, Guardão, Lajeos…».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 381",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Círculo judicial - Tomar.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 382",
+    "veredicto": "errado",
+    "motivo": "Rectificação ao mapa VIII manda ler, em Vagos, «Ouca, Ponte de Vagos, Sosa e Vagos»; o consolidado termina em «Ouca e Ponte de Vagos» (faltam Sosa e Vagos).",
+    "texto_esperado": "Calvão, Covão do Lobo, Fonte de Angeão, Gafanha da Boa Hora, Ouca, Ponte de Vagos, Sosa e Vagos."
+   },
+   {
+    "artigo": "Trecho 383",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Do concelho de Oliveira do Bairro:» | «Palhaça.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 384",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Afife, Alvarães, Amonde, Anha, Areosa, Barroselas, Cardielos, Carreço, Carvoeiro, Castelo do Neiva, Darque, Deão, Deocriste, Freix…».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 385",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Do concelho da Vila da Feira:» | «Argoncilhe, Arrifana, Canedo, Escapães, Espargo, Feira, Fiães, Fornos, Gião, Guisande, Lobão, Louredo, Lourosa, Milheirós de Poiar…».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 386",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Círculo judicial - Barcelos.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 387",
+    "veredicto": "dúvida",
+    "motivo": "Texto original removido sem instrução nas partes fornecidas (o conteúdo aparece noutras entradas do mapa VIII, comarcas/julgados criados por diploma sem texto: DL 202/73 e seguintes). Não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 388",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Vila Franca de Xira (1.ª classe):».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 389",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Círculo judicial - Lisboa (3.º círculo).».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 390",
+    "veredicto": "certo",
+    "motivo": "Nova redacção confere letra a letra com o texto do alterador (Decreto-Lei n.º 46140); o resto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 391",
+    "veredicto": "certo",
+    "motivo": "Nova redacção confere letra a letra com o texto do alterador (Decreto-Lei n.º 46140); o resto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 392",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Círculo judicial - Braga.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 393",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Vila Nova de Foz Côa (3.ª classe).:» | «Sede - Vila Nova de Foz Côa.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 394",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Círculo judicial - Tomar.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 395",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Alburitel, Atouguia, Casal dos Bernardos, Caxarias, Espite, Fátima, Formigais, Freixianda, Gondemaria, Olival, Ourém, Rio de Couro…».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 396",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Distrito judicial - Évora.» | «Círculo judicial - Faro.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 397",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Distrito judicial - Évora.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 398",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Vouzela (3.ª classe):» | «Sede - Vouzela.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 399",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Do concelho de Vouzela:» | «Alcofra, Cambra, Campia, Carvalhal de Vermilhas, Fataunços, Figueiredo das Donas, Fornelo do Monte, Paços de Vilharigues, Queirã, …».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 400",
+    "veredicto": "dúvida",
+    "motivo": "Texto original removido sem instrução nas partes fornecidas (o conteúdo aparece noutras entradas do mapa VIII, comarcas/julgados criados por diploma sem texto: DL 202/73 e seguintes). Não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 401",
+    "veredicto": "dúvida",
+    "motivo": "Texto original removido sem instrução nas partes fornecidas (o conteúdo aparece noutras entradas do mapa VIII, comarcas/julgados criados por diploma sem texto: DL 202/73 e seguintes). Não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 402",
+    "veredicto": "dúvida",
+    "motivo": "Texto original removido sem instrução nas partes fornecidas (o conteúdo aparece noutras entradas do mapa VIII, comarcas/julgados criados por diploma sem texto: DL 202/73 e seguintes). Não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 403",
+    "veredicto": "dúvida",
+    "motivo": "Texto original removido sem instrução nas partes fornecidas (o conteúdo aparece noutras entradas do mapa VIII, comarcas/julgados criados por diploma sem texto: DL 202/73 e seguintes). Não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 404",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Nordeste:» | «Sede - Nordeste.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 405",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Achada, Achadinha, Lomba da Fazenda, Nordeste, Nordestinho e Santana.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 406",
+    "veredicto": "dúvida",
+    "motivo": "Texto original removido sem instrução nas partes fornecidas (o conteúdo aparece noutras entradas do mapa VIII, comarcas/julgados criados por diploma sem texto: DL 202/73 e seguintes). Não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 407",
+    "veredicto": "dúvida",
+    "motivo": "Texto original removido sem instrução nas partes fornecidas (o conteúdo aparece noutras entradas do mapa VIII, comarcas/julgados criados por diploma sem texto: DL 202/73 e seguintes). Não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 408",
+    "veredicto": "dúvida",
+    "motivo": "Alteração sem suporte nas instruções fornecidas (origem provável: DL 202/73, DL 414/73 ou outro diploma sem texto no pedido), não verificável: «Porto Santo:» | «Sede - Porto Santo.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 409",
+    "veredicto": "dúvida",
+    "motivo": "Texto original removido sem instrução nas partes fornecidas (o conteúdo aparece noutras entradas do mapa VIII, comarcas/julgados criados por diploma sem texto: DL 202/73 e seguintes). Não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 410",
+    "veredicto": "dúvida",
+    "motivo": "Texto original removido sem instrução nas partes fornecidas (o conteúdo aparece noutras entradas do mapa VIII, comarcas/julgados criados por diploma sem texto: DL 202/73 e seguintes). Não verificável.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 411",
+    "veredicto": "certo",
+    "motivo": "Nova redacção confere letra a letra com o texto do alterador (Decreto-Lei n.º 281/71); o resto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 412",
+    "veredicto": "certo",
+    "motivo": "Nova redacção confere letra a letra com o texto do alterador (Decreto-Lei n.º 47139, Decreto-Lei n.º 281/71, Decreto-Lei n.º 369-A/75, Decreto-Lei n.º 31/77); o resto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 413",
+    "veredicto": "certo",
+    "motivo": "Nova redacção confere letra a letra com o texto do alterador (Decreto-Lei n.º 281/71, Decreto-Lei n.º 46140); o resto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 414",
+    "veredicto": "certo",
+    "motivo": "Nova redacção confere letra a letra com o texto do alterador (Decreto-Lei n.º 281/71, Decreto-Lei n.º 46140, Decreto-Lei n.º 45732, Decreto-Lei n.º 46538); o resto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 415",
+    "veredicto": "certo",
+    "motivo": "Nova redacção confere letra a letra com o texto do alterador (Decreto-Lei n.º 281/71); o resto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 416",
+    "veredicto": "certo",
+    "motivo": "Nova redacção confere letra a letra com o texto do alterador (Decreto-Lei n.º 46140, Decreto-Lei n.º 281/71); o resto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 417",
+    "veredicto": "certo",
+    "motivo": "Nova redacção confere letra a letra com o texto do alterador (Decreto-Lei n.º 281/71, Decreto-Lei n.º 46140); o resto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 418",
+    "veredicto": "certo",
+    "motivo": "Nova redacção confere letra a letra com o texto do alterador (Decreto-Lei n.º 281/71); o resto igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 419",
+    "veredicto": "certo",
+    "motivo": "Nova redacção confere letra a letra com o texto do alterador (Decreto-Lei n.º 281/71); o resto igual ao original.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [
+   "Rectificação ao DL 202/73, art. 19.º (art. 616.º, n.º 1 do Estatuto): ler «São quatro os conselhos distritais»; o consolidado tem «conselho» (Trecho 192).",
+   "Rectificação ao DL 202/73, mapa VIII, Murça: «Jou, Murça, Moura» deve ler-se «Jou, Murça, Noura»; o consolidado tem «Moura» (Trecho 327).",
+   "Rectificação ao DL 202/73, mapa VIII, Ponte da Barca: «Britelo, Castro» deve ler-se «Britelo, Crasto»; o consolidado tem «Castro» (Trecho 346).",
+   "Rectificação ao DL 202/73, mapa VIII, Vagos: «Ouca e Ponte de Vagos» deve ler-se «Ouca, Ponte de Vagos, Sosa e Vagos»; o consolidado tem «Ouca e Ponte de Vagos» (Trecho 382).",
+   "DL 46538, art. 3.º: art. 178.º n.os 1 e 2 (Coimbra: dois delegados junto dos três juízos; nos outros tribunais com mais de um juízo, um delegado por juízo): o texto não aparece no consolidado, que traz outra redacção do art. 178.º de origem não visível (Trecho 72).",
+   "DL 487/70, art. 2.º: art. 20.º n.os 3 e 4 (juízes além do quadro nas Relações, «terço superior ... Muito bom», comissão de um ano até ocupar vaga): o consolidado não tem este texto; tem outro n.º 3 e um parágrafo «11.º A nomeação ... quinto superior» (Trecho 9), de origem não visível."
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 202/73 (nova redacção de vários artigos e mapas; sem texto na vista)",
+    "motivo": "o diploma que altera não traz o texto da alteração (secção vazia no pedido)"
+   },
+   {
+    "instrucao": "DL 414/73 (nova redacção de vários artigos e dos mapas II e V; sem texto na vista)",
+    "motivo": "o diploma que altera não traz o texto da alteração (secção vazia no pedido)"
+   },
+   {
+    "instrucao": "Rectificação ao DL 202/73, art. 7.º n.º 1 («Proto» para «Porto», tribunais de família)",
+    "motivo": "retifica texto do DL 202/73, que não foi fornecido; não é texto do original"
+   },
+   {
+    "instrucao": "Portarias e decretos que criam lugares ou aumentam quadros ao abrigo dos arts. 197.º, 224.º, 251.º, 318.º (P 19775, 19801, 149/70, 318/75, 343/75, 370/75, 393/75, 441/75, 457/75, 728/75, 730/75, 735/75, 778/75 e P 37/76 a 758/76, 44/77 a 1054/81, DL 555/71)",
+    "motivo": "não textual: criam lugares/aumentam quadros sem dar nova redacção ao texto"
+   },
+   {
+    "instrucao": "Portaria 124/76 e DL 217/77",
+    "motivo": "não mencionam o Estatuto Judiciário nem o DL 44278 (texto omitido pela triagem)"
+   },
+   {
+    "instrucao": "DL 25/2009 (comarcas piloto, altera o DL 186-A/99 e outros)",
+    "motivo": "outro diploma: não menciona o Estatuto Judiciário"
+   },
+   {
+    "instrucao": "DL 44959 art. 2.º (DL 30545); DL 47139 arts. 2.º-8.º; DL 609/74 arts. 1.º-4.º, 6.º, 7.º (DL 40768 e disposições autónomas); DL 201/76 arts. 2.º-4.º (DL 35007 e CPC art. 51.º); DL 696/73 arts. 3.º-7.º (CCJ art. 8.º e disposições autónomas); DL 281/71 arts. 2.º-9.º; DL 46140 arts. 1.º-4.º, 6.º; DL 47691 arts. 1.º-7.º; DL 487/70 arts. 1.º, 3.º, 4.º, 6.º",
+    "motivo": "instruções de outro diploma ou disposições autónomas/transitórias que não dão nova redacção ao texto do original"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações, salvo o título do Capítulo IV do Título III («... para escrivão de direito»), que o DL 281/71 altera e o consolidado aplica."
+ }
+]

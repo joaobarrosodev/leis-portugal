@@ -1,18 +1,518 @@
 {
   "id": "pt:dre:310440:por",
-  "artigos": [],
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "(Âmbito do diploma)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "2.º",
+      "epigrafe": "(Regimes dos incentivos)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "3.º",
+      "epigrafe": "(Projectos em sectores declarados em reestruturação)",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "4.º",
+      "epigrafe": "(Definições)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "5.º",
+      "epigrafe": "(Análise macroeconómica do projecto)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "6.º",
+      "epigrafe": "(Condições de acesso)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "7.º",
+      "epigrafe": "(Métodos dos pontos)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "8.º",
+      "epigrafe": "(Produtividade económica)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "9.º",
+      "epigrafe": "(Prioridade sectorial)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "10.º",
+      "epigrafe": "(Prioridade regional)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "11.º",
+      "epigrafe": "(Incentivos fiscais)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "12.º",
+      "epigrafe": "(Incentivos financeiros: bonificação da taxa de juro)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "13.º",
+      "epigrafe": "(Concessão provisória e definitiva dos incentivos)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "14.º",
+      "epigrafe": "(Opção)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "15.º",
+      "epigrafe": "(Condições de acesso)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "16.º",
+      "epigrafe": "(Incentivos fiscais)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "17.º",
+      "epigrafe": "(Incentivos financeiros: bonificação da taxa de juro)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "18.º",
+      "epigrafe": "(Opção)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "19.º",
+      "epigrafe": "(Condições de acesso)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "20.º",
+      "epigrafe": "(Incentivos fiscais)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "21.º",
+      "epigrafe": "(Incentivos financeiros)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "22.º",
+      "epigrafe": "(Outros incentivos)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "23.º",
+      "epigrafe": "(Condições de acesso)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "24.º",
+      "epigrafe": "(Incidências patrimoniais e fiscais)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "25.º",
+      "epigrafe": "(Montante e concessão)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "26.º",
+      "epigrafe": "(Opção)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "27.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "28.º",
+      "epigrafe": "(Condições de acesso)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "29.º",
+      "epigrafe": "(Incentivos fiscais)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "30.º",
+      "epigrafe": "(Incentivos financeiros)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "31.º",
+      "epigrafe": "(Condições de concessão)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "32.º",
+      "epigrafe": "(Acumulação de incentivos)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "33.º",
+      "epigrafe": "(Condições de acesso)",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "34.º",
+      "epigrafe": "(Actos de concentração)",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "35.º",
+      "epigrafe": "(Acordos de cooperação)",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "36.º",
+      "epigrafe": "(Incentivos fiscais)",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "37.º",
+      "epigrafe": "(Defesa da concorrência)",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "38.º",
+      "epigrafe": "(Condições de acesso)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "39.º",
+      "epigrafe": "(Montante e concessão)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "40.º",
+      "epigrafe": "(Apresentação do pedido de incentivos)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "41.º",
+      "epigrafe": "(Apreciação preliminar do processo)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "42.º",
+      "epigrafe": "(Avaliação e propostas de Incentivos financeiros: bonificação de taxa de juro)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "43.º",
+      "epigrafe": "(Proposta de incentivos fiscais)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "44.º",
+      "epigrafe": "(Decisão final)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "45.º",
+      "epigrafe": "(Decurso dos prazos)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "46.º",
+      "epigrafe": "(Apresentação do pedido de incentivos)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "47.º",
+      "epigrafe": "(Dos incentivos fiscais)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "48.º",
+      "epigrafe": "(Dos incentivos financeiros: bonificação da taxa de juro)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "49.º",
+      "epigrafe": "(Apreciação preliminar do processo)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "50.º",
+      "epigrafe": "(Proposta de incentivos financeiros)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "51.º",
+      "epigrafe": "(Avaliação e proposta de incentivos fiscais)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "52.º",
+      "epigrafe": "(Apresentação do pedido de incentivos)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "53.º",
+      "epigrafe": "(Do regime extraordinário das dotações de capital)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "54.º",
+      "epigrafe": "(Do regime contratual para projectos de grande incidência económica e social)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "55.º",
+      "epigrafe": "(Do regime de incentivos à transferência de localização)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "56.º",
+      "epigrafe": "(Do regime de incentivos fiscais à concentração e cooperação de empresas)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "57.º",
+      "epigrafe": "(Obrigações dos promotores dos projectos e sua fiscalização)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "58.º",
+      "epigrafe": "(Penalizações por incumprimento)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "59.º",
+      "epigrafe": "(Penalizações por dolo ou má fé)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "60.º",
+      "epigrafe": "(Pagamento dos incentivos financeiros concedidos sob a forma de bonificação da taxa de juro)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "61.º",
+      "epigrafe": "(Plano de liquidação dos incentivos financeiros atribuídos a título de bonificações de taxa de juro)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "62.º",
+      "epigrafe": "(Protocolo entre o Ministério das Finanças e do Plano e as instituições financiadoras)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "63.º",
+      "epigrafe": "(Do regime simplificado de incentivos para projectos de investimento de pequena dimensão)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "64.º",
+      "epigrafe": "(Do regime extraordinário das dotações de capital)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "65.º",
+      "epigrafe": "(Do regime contratual dos incentivos para projectos de grande incidência económico-social)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "66.º",
+      "epigrafe": "(Do regime de incentivos à transferência de localização)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "67.º",
+      "epigrafe": "(Do regime de apoio à investigação e desenvolvimento tecnológico)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "68.º",
+      "epigrafe": "(Concorrência legal de incentivos)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "69.º",
+      "epigrafe": "(Correcção monetária anual)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "70.º",
+      "epigrafe": "(Aplicação às Regiões Autónomas da Madeira e dos Açores)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "71.º",
+      "epigrafe": "(Intervenção especial)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "72.º",
+      "epigrafe": "(Situações transitórias)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "73.º",
+      "epigrafe": "(Alterações)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "74.º",
+      "epigrafe": "(Revogação da legislação anterior)",
+      "texto": "(Revogado.)\n\nVisto e aprovado em Conselho de Ministros de 27 de Julho de 1982. - Francisco José Pereira Pinto Balsemão - João Maurício Fernandes Salgueiro - Basílio Adolfo Mendonça Horta da Franca - Ricardo Manuel Simões Bayão Horta - José Carlos Pinto Soromenho Viana Baptista.\n\nPromulgado em 22 de Janeiro de 1983.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nReferendado em 25 de Janeiro de 1983.\n\nO Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.",
+      "alterador": 3
+    }
+  ],
   "removidos": [],
-  "titulos": [],
-  "anexos": [],
-  "nao_aplicavel": "Alterador 1, nova redação da rubrica CAE ex 3610.1.0 do anexo III: alvo incerto: a rubrica está nas listas do anexo III que só existem em imagem; não há texto onde a substituir nem se sabe em que lista (A ou C) fica, e o alterador não traz imagem\nAlterador 2, nova redação dos artigos 1.º, 2.º e 3.º do Decreto-Lei n.º 210/95: outro diploma: o original só é mencionado no preâmbulo",
+  "titulos": [
+    {
+      "atual": "#### SECÇÃO I — Do regime geral dos incentivos fiscais e financeiros e do regime das prioridades regionais sectoriais",
+      "novo": "#### SECÇÃO I — Do regime geral dos incentivos fiscais e financeiros e do regime das prioridades regionais/sectoriais",
+      "alterador": 1
+    },
+    {
+      "atual": "## ANEXO III — Graduação de actividade a que se refere o n.º 2 do artigo 9.º",
+      "novo": "## ANEXO III — Graduação de actividade a que se referem o n.º 2 do artigo 9.º e os artigos 16.º e 17.º",
+      "alterador": 1
+    },
+    {
+      "atual": "## ANEXO IV — Zonas a que se referem os artigos 9.º, 16.º, 17.º e 24.º",
+      "novo": "## ANEXO IV — Zonas a que se referem o artigos 10.º, 16.º, 17.º e 21.º",
+      "alterador": 1
+    }
+  ],
+  "anexos": [
+    {
+      "titulo": "## ANEXO I — Valor dos parâmetros a utilizar no cálculo do valor líquido actualizado a preços constantes de eficiência económica",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "titulo": "## ANEXO II",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "titulo": "## ANEXO III — Graduação de actividade a que se refere o n.º 2 do artigo 9.º",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "titulo": "## ANEXO IV — Zonas a que se referem os artigos 9.º, 16.º, 17.º e 24.º",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "titulo": "## ANEXO V — Distribuição dos incentivos fiscais por classes",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "titulo": "## ANEXO VI — Formulário e regras de cálculo referentes ao regime extraordinário de dotações de capital",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    }
+  ],
+  "nao_aplicavel": "Alterador 5, nova redação dos artigos 1.º, 2.º e 3.º do Decreto-Lei n.º 210/95: outro diploma: altera o Decreto-Lei n.º 210/95, que só refere o original.",
   "instrucoes": [
-    "Alterador 1 (Portaria 648/83): substitui a rubrica CAE ex 3610.1.0 do anexo III; a rubrica só existe em imagem; não aplicada",
-    "Alterador 2 (DL 246/96): altera o DL 210/95; outro diploma, ignorado"
+    "Alt. 1 (declaração de retificação): retificações nos arts. 4.º, 6.º, 12.º, 16.º, 17.º, 19.º, 21.º, 23.º, 27.º, 39.º, 40.º, 43.º, 44.º, 50.º, 51.º, 53.º, 72.º e 74.º — sem efeito no texto final, porque todos esses artigos ficam revogados (alts. 3 e 4); a retificação da epígrafe do art. 66.º («transferência de localização») foi aplicada à epígrafe que se mantém.",
+    "Alt. 1: retificação do título da secção I do capítulo XI («prioridades regionais/sectoriais») e dos títulos dos anexos III e IV — aplicadas em titulos (texto copiado letra a letra, incluindo «o artigos»).",
+    "Alt. 1: retificações no anexo II (art. 8.º, n.º 1, alínea c)), no corpo do anexo III («CAE 2909.1»), nos cabeçalhos dos quadros dos anexos V e VI — alvos só em imagem e, de qualquer modo, anexos revogados pelo alt. 3; ficam sem efeito no texto final.",
+    "Alt. 2 (Portaria 648/83): nova redação da rubrica CAE ex 3610.1.0 do anexo III — reparo confirmado quanto ao texto (vem em texto), mas o anexo III fica revogado com todo o diploma pelo DL 197-C/86 (art. 12.º, n.º 2) e pelo DL 251/86 (art. 16.º); o corpo do anexo III passa a «(Revogado.)», pelo que a nova redação da rubrica não subsiste.",
+    "Alt. 3 (DL 197-C/86) art. 12.º, n.º 2: revoga o DL 132/83, com exceção do art. 3.º, do capítulo VI (art. 27.º) e do capítulo VIII (arts. 33.º a 37.º) — aplicado: todos os outros artigos e os anexos ficam «(Revogado.)» com alterador 3; os arts. 1.º a 11.º do alt. 3 são regime próprio, sem nova redação do original.",
+    "Alt. 4 (DL 251/86) art. 16.º: revoga o DL 132/83 «no que respeita às excepções consagradas no» DL 197-C/86 — aplicado: arts. 3.º, 27.º e 33.º a 37.º ficam «(Revogado.)» com alterador 4; o diploma fica revogado na totalidade.",
+    "Art. 74.º revogado: mantidas, a seguir a «(Revogado.)», as fórmulas finais e assinaturas que vinham no seu corpo.",
+    "Alt. 5 (DL 246/96): altera o DL 210/95 — outro diploma, em nao_aplicavel."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "ronda_camada1": 115,
-  "problemas": [],
+  "ronda_camada1": 116,
+  "problemas": [
+    "título #### SECÇÃO I — Do regime geral dos incentivos fiscais e fin: texto que não está no alterador nem no original"
+  ],
   "numeracao_aceite": [],
   "avisos": []
 }

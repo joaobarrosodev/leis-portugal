@@ -2,63 +2,54 @@
   "id": "pt:dre:201053:por",
   "substituicoes": [
     {
-      "de": 50,
+      "de": 49,
       "ate": 54,
-      "texto": "(Revogada.)",
+      "texto": "BASE VIII - (Revogada.)",
       "alterador": 1
     },
     {
-      "de": 138,
-      "ate": 145,
-      "texto": "(Revogada.)",
-      "alterador": 1
-    },
-    {
-      "de": 147,
+      "de": 137,
       "ate": 149,
-      "texto": "(Revogada.)",
+      "texto": "BASE XXII - (Revogada.)\n\nBASE XXIII - (Revogada.)",
       "alterador": 1
     },
     {
-      "de": 152,
+      "de": 151,
       "ate": 158,
-      "texto": "(Revogada.)",
+      "texto": "BASE XXIV - (Revogada.)",
       "alterador": 1
     },
     {
-      "de": 161,
-      "ate": 163,
-      "texto": "(Revogada.)",
-      "alterador": 1
-    },
-    {
-      "de": 165,
-      "ate": 172,
-      "texto": "(Revogada.)",
-      "alterador": 1
-    },
-    {
-      "de": 174,
+      "de": 160,
       "ate": 179,
-      "texto": "(Revogada.)",
+      "texto": "BASE XXV - (Revogada.)\n\nBASE XXVI - (Revogada.)\n\nBASE XXVII - (Revogada.)",
       "alterador": 1
     },
     {
-      "de": 182,
+      "de": 181,
       "ate": 184,
-      "texto": "(Revogada.)",
-      "alterador": 1
+      "texto": "BASE XXVIII - (Revogada.)",
+      "alterador": 2
     }
   ],
   "insercoes": [],
-  "nao_aplicavel": "Alterador 1, artigo 71.º, alínea a), revogação das «demais bases daquele diploma que se refiram às funções de previdência e assistência das casas do povo»: alvo incerto: o alterador não diz quais são as bases e várias só em parte tratam da previdência (por exemplo as bases IV, XI, XVIII, XXIX a XXXI), por isso não se sabe com segurança a que unidades se aplica",
+  "nao_aplicavel": "Alterador 1, art. 71.º, al. a), revogação das «demais bases daquele diploma que se refiram às funções de previdência e assistência das Casas do Povo»: alvo incerto (o alterador não identifica as bases; há candidatas só parciais, como a base XVIII n.º 2, XI n.º 4, XXIX, XXX e XXXI, que misturam essas funções com outras)\nAlterador 2, art. 71.º, al. a), revogação das «demais bases daquele diploma que se refiram às funções de previdência e assistência das casas do povo»: alvo incerto (o alterador não identifica as bases; há candidatas só parciais, como a base XVIII n.º 2, XI n.º 4, XXIX, XXX e XXXI)",
   "instrucoes": [
-    "Alterador 1 (DL 81/85), artigo 71.º, alínea a): revogadas as bases VIII e XXII a XXVIII da Lei n.º 2144. Em cada uma fica a unidade 'BASE …' do texto atual e a epígrafe e o corpo (unidades seguintes até ao fim da base) passam a '(Revogada.)'. Corrige os reparos: já não se escreve 'BASE … - (Revogada.)' num só parágrafo.",
-    "Alterador 1, artigo 71.º, alínea a), segunda parte (demais bases sobre previdência e assistência): não aplicada, alvo incerto (nao_aplicavel).",
-    "Alterador 1, artigos 11.º e 67.º e preâmbulo: referem a Lei n.º 2144 sem lhe alterar o texto (substituição do regime); nada aplicado além da revogação.",
-    "Alterador 1, restantes alíneas do artigo 71.º e demais artigos: dirigidos a outros diplomas ou normas próprias; ignorados."
+    "Alterador 1 (DL 251/83), art. 71.º, al. a): revoga as bases VIII e XXII a XXVII; cada base substituída por «BASE … - (Revogada.)», mantendo os títulos de secção",
+    "Alterador 1, art. 71.º, al. a), «demais bases» de previdência e assistência: não aplicado (alvo incerto)",
+    "Alterador 2 (DL 81/85), art. 71.º, al. a): revoga as bases VIII e XXII a XXVIII; VIII e XXII-XXVII já revogadas, revogada ainda a base XXVIII",
+    "Alterador 2, art. 71.º, al. a), «demais bases»: não aplicado (alvo incerto)"
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",
-  "problemas": []
+  "problemas": [
+    "substituição 49-54: parágrafo que não está no alterador nem no original: BASE VIII - (Revogada.)",
+    "substituição 137-149: parágrafo que não está no alterador nem no original: BASE XXII - (Revogada.)",
+    "substituição 137-149: parágrafo que não está no alterador nem no original: BASE XXIII - (Revogada.)",
+    "substituição 151-158: parágrafo que não está no alterador nem no original: BASE XXIV - (Revogada.)",
+    "substituição 160-179: parágrafo que não está no alterador nem no original: BASE XXV - (Revogada.)",
+    "substituição 160-179: parágrafo que não está no alterador nem no original: BASE XXVI - (Revogada.)",
+    "substituição 160-179: parágrafo que não está no alterador nem no original: BASE XXVII - (Revogada.)",
+    "substituição 181-184: parágrafo que não está no alterador nem no original: BASE XXVIII - (Revogada.)"
+  ]
 }

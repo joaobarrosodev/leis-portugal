@@ -1,0 +1,21 @@
+[
+ {
+  "id": "pt:dre:234698:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, novos efectivos da classe dos músicos no mapa II (2, 68, 14, 4, 4; total 92): só em imagem, o mapa II só existe em imagem e não tem título de anexo no texto atual (vem no fim do artigo 9.º, depois das assinaturas, sem «Título de divisão» nem «Corpo do anexo»), pelo que não há onde pôr a alteração sem a inventar\nAlterador 2, efectivos dos farmacêuticos navais do mapa I acrescidos de um capitão-de-mar-e-guerra: só em imagem, o mapa I só existe em imagem e não tem título de anexo no texto atual (vem no fim do artigo 9.º, depois das assinaturas, sem «Título de divisão» nem «Corpo do anexo»), pelo que não há onde pôr a alteração sem a inventar; além disso é um acréscimo a um número que só está na imagem\nAlterador 3, novos efectivos de capitães-de-mar-e-guerra e capitães-de-fragata do mapa I (quadro em imagem): só em imagem, o mapa I só existe em imagem e não tem título de anexo no texto atual (vem no fim do artigo 9.º, depois das assinaturas, sem «Título de divisão» nem «Corpo do anexo»), pelo que não há onde pôr a alteração sem a inventar\nAlterador 4, artigo 1.º, aumento dos efectivos do serviço especial no mapa I (5, 14 e 26): só em imagem, o mapa I só existe em imagem e não tem título de anexo no texto atual (vem no fim do artigo 9.º, depois das assinaturas, sem «Título de divisão» nem «Corpo do anexo»), pelo que não há onde pôr a alteração sem a inventar; além disso é um acréscimo a números que só estão na imagem\nAlterador 5, artigo 1.º, reduções e aumentos de efectivos de contra-almirante, capitão-de-mar-e-guerra, comodoro e capitão-de-fragata no mapa I: só em imagem, o mapa I só existe em imagem e não tem título de anexo no texto atual (vem no fim do artigo 9.º, depois das assinaturas, sem «Título de divisão» nem «Corpo do anexo»), pelo que não há onde pôr a alteração sem a inventar; além disso são acréscimos e reduções a números que só estão na imagem\nAlterador 6, n.os 1.º e 2.º, efectivos de primeiro-tenente de fuzileiros passam para o bloco de oficiais subalternos do mapa I e acerto da coluna «Total por postos»: só em imagem, o mapa I só existe em imagem e não tem título de anexo no texto atual (vem no fim do artigo 9.º, depois das assinaturas, sem «Título de divisão» nem «Corpo do anexo»), pelo que não há onde pôr a alteração sem a inventar\nAlterador 7, efectivos de capitão-tenente e oficiais subalternos dos oficiais técnicos do mapa I (quadro anexo em imagem): só em imagem, o mapa I só existe em imagem e não tem título de anexo no texto atual (vem no fim do artigo 9.º, depois das assinaturas, sem «Título de divisão» nem «Corpo do anexo»), pelo que não há onde pôr a alteração sem a inventar\nAlterador 8, artigo 1.º, efectivos de capitão-de-mar-e-guerra, capitão-de-fragata e oficiais subalternos de fuzileiros do mapa I (quadro anexo em imagem): só em imagem, o mapa I só existe em imagem e não tem título de anexo no texto atual (vem no fim do artigo 9.º, depois das assinaturas, sem «Título de divisão» nem «Corpo do anexo»), pelo que não há onde pôr a alteração sem a inventar",
+  "instrucoes": [
+   "Alterador 1 (DL 370/72): efectivos dos músicos no mapa II - nao_aplicavel (mapa só em imagem, sem título de anexo)",
+   "Alterador 2 (DL 535/72): +1 capitão-de-mar-e-guerra farmacêutico no mapa I - nao_aplicavel; art. 2.º é norma de entrada em vigor do próprio alterador",
+   "Alterador 3 (DL 65/73): efectivos de CMG e CFR no mapa I (imagem) - nao_aplicavel; art. 2.º é do próprio alterador",
+   "Alterador 4 (DL 136/74): aumento dos efectivos do serviço especial no mapa I - nao_aplicavel; arts. 2.º a 6.º são regime próprio do alterador, sem instrução dirigida ao texto do original",
+   "Alterador 5 (DL 27/76): reduções e aumentos de efectivos no mapa I - nao_aplicavel; arts. 2.º a 5.º são regime próprio do alterador",
+   "Alterador 6 (Portaria 57/85): redistribuição de efectivos de fuzileiros no mapa I - nao_aplicavel",
+   "Alterador 7 (DL 166/85): efectivos dos oficiais técnicos no mapa I (quadro em imagem) - nao_aplicavel",
+   "Alterador 8 (DL 279/86): efectivos de fuzileiros no mapa I (quadro em imagem) - nao_aplicavel; art. 2.º é regime próprio do alterador",
+   "Nenhum artigo do original tem nova redação"
+  ]
+ }
+]

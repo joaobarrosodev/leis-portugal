@@ -2,23 +2,97 @@
   "id": "pt:dre:375192:por",
   "artigos": [
     {
+      "chave": "1.º",
+      "epigrafe": "Âmbito",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "2.º",
+      "epigrafe": "Composição dos gabinetes",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "3.º",
+      "epigrafe": "Competências dos chefes de gabinete",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "4.º",
+      "epigrafe": "Adjuntos",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "5.º",
+      "epigrafe": "Secretários pessoais",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "6.º",
+      "epigrafe": "Nomeação e exoneração",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "7.º",
+      "epigrafe": "Garantias dos membros dos gabinetes",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "8.º",
+      "epigrafe": "Deveres dos membros dos gabinetes",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "9.º",
+      "epigrafe": "Vencimento",
+      "texto": "1 - (Revogado.)\n\n2 - (Revogado.)\n\n3 - Os membros dos gabinetes dos ministros da República que prestam serviço nas regiões autónomas têm direito ao vencimento acrescido de um terço e a casa fornecida pelo Estado sempre que, com residência permanente no continente, a tenham transferido para as regiões autónomas por causa do exercício das suas funções.",
+      "alterador": 3
+    },
+    {
+      "chave": "10.º",
+      "epigrafe": "Apoio técnico e administrativo",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "11.º",
+      "epigrafe": "Requisição e destacamento",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "13.º",
+      "epigrafe": "Revogação",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
       "chave": "12.º-A",
       "epigrafe": "Motoristas",
       "texto": "Aos motoristas do mapa de pessoal dos gabinetes dos Representantes da República é aplicável o regime constante da parte final dos n.os 2 e 3, a alínea d) do n.º 4 e o n.º 7 do artigo 13.º do Decreto-Lei n.º 11/2012, de 20 de janeiro, que estabelece a natureza, a composição, a orgânica e o regime jurídico a que estão sujeitos os gabinetes dos membros do Governo.",
-      "alterador": 2
+      "alterador": 4
     }
   ],
   "removidos": [],
   "titulos": [],
   "anexos": [],
-  "nao_aplicavel": "Alterador 1, art. 42.º do DL 72-A/2010 (onde se lê «requisição e destacamento, referidos a trabalhadores que exercem funções públicas» deve ler-se «cedência de interesse público» no n.º 4 do art. 6.º e nos arts. 10.º e 11.º): não textual: é uma regra de leitura por remissão, e a expressão citada não existe letra a letra nesses artigos (art. 6.º, n.º 4: «comissão de serviço ou de requisição»; art. 10.º: «destacamento de funcionários»; art. 11.º: «destacamento ou à requisição de funcionários e agentes», epígrafe «Requisição e destacamento»), que abrangem também pessoas que não são trabalhadores em funções públicas (Forças Armadas, magistrados, empresas privadas); reescrevê-los seria inventar a redação.",
+  "nao_aplicavel": "Alterador 2, art. 42.º (onde se lê «requisição e destacamento, referidos a trabalhadores que exercem funções públicas» deve ler-se «cedência de interesse público», no n.º 4 do art. 6.º e nos arts. 10.º e 11.º): não textual — é regra de leitura das referências a requisição e destacamento, e a expressão citada não existe letra a letra nesses artigos; de qualquer modo os arts. 6.º, 10.º e 11.º ficam revogados pelo alterador 3.",
   "instrucoes": [
-    "Alterador 1 (DL 72-A/2010, art. 42.º): substituição por remissão de «requisição e destacamento» por «cedência de interesse público» nos arts. 6.º, n.º 4, 10.º e 11.º; a expressão literal não existe no texto: não aplicada, vai para nao_aplicavel.",
-    "Alterador 2 (Lei 114/2017, art. 305.º): aditado o art. 12.º-A «Motoristas», copiado letra a letra."
+    "Alt. 1 (declaração de retificação): no art. 1.º, n.º 3, «artigo 13.º» passa a «artigo 12.º»; sem efeito final porque o art. 1.º é depois revogado pelo alt. 3.",
+    "Alt. 2 (DL 72-A/2010, art. 42.º): substituição de referências a requisição/destacamento por cedência de interesse público nos arts. 6.º n.º 4, 10.º e 11.º — não textual (a expressão não existe letra a letra) e os artigos são revogados pelo alt. 3; em nao_aplicavel.",
+    "Alt. 3 (DL 11/2012, art. 22.º, n.º 1, al. c)): revoga o DL 262/88 com exceção do n.º 3 do art. 9.º e do art. 12.º — arts. 1.º a 8.º, 10.º, 11.º e 13.º revogados; no art. 9.º, n.os 1 e 2 revogados (o n.º 2 do art. 22.º difere o efeito destes dois números para o termo do PAEF, período já decorrido), n.º 3 mantém-se; art. 12.º mantém-se.",
+    "Alt. 4 (Lei 114/2017, art. 305.º): aditado o art. 12.º-A «Motoristas»."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "ronda_camada1": 115,
+  "ronda_camada1": 116,
   "problemas": [],
   "numeracao_aceite": [],
   "avisos": []

@@ -1,7 +1,7 @@
 # Os pedidos e as vistas regeneram-se com camada1.py e cegas_vista.py; ficam as entradas, as respostas e as saídas.
 pedidos*/**/pedido-*.md
 pedidos*/**/REGRAS.md
-verif115/vista-*.md
-verif115/notas-*.md
-nada/vista-*.md
-segunda/segunda-*.md
+verif1*/vista-*.md
+verif1*/notas-*.md
+nada*/vista-*.md
+segunda*/segunda-*.md

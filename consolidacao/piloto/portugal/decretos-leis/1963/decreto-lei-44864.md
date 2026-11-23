@@ -19,6 +19,9 @@ consolidacao:
   - id: pt:dre:508436:por
     title: Decreto-Lei n.º 46815
     publication_date: '1965-12-31'
+  - id: pt:dre:504547:por
+    title: Decreto-Lei n.º 47550
+    publication_date: '1967-02-22'
   titulos_normalizados: artigos em texto corrido no original, com título pelo parser
     da fase 3
 ---
@@ -169,61 +172,21 @@ d) Capelães, médicos, veterinários e enfermeiros equiparados a militares espe
 
 ###### Artigo 17.º
 
-O direito dos militares das forças terrestres, navais e aéreas ultramarinas ao soldo ou ordenado e ao vencimento de exercício, ou ao pré e seus aumentos por períodos de readmissão, por inteiro ou com redução, e a perda total desse direito regem-se pelas disposições legais que vigorarem na metrópole para o Exército, Marinha e Força Aérea.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 47550](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47550-1967-504547), publicado em 1967-02-22.
 
 ###### Artigo 18.º
 
-Para o efeito do direito dos militares das forças terrestres, navais e aéreas ultramarinas ao abono do vencimento complementar, esse vencimento fica sujeito a preceitos iguais aos que pelo artigo anterior regulam o direito ao soldo, ordenado ou pré.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 47550](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47550-1967-504547), publicado em 1967-02-22.
 
 ###### Artigo 19.º
 
-Durante as viagens por conta do Estado por qualquer via e durante os períodos em que aguardem transporte ou permaneçam fora da província ultramarina respectiva os vencimentos a abonar aos militares das forças terrestres, navais e aéreas das províncias ultramarinas e aos que a elas se destinem ou delas regressem são os seguintes:
+(Revogado.)
 
-1.º Quando em viagem dentro da província respectiva: os estabelecidos nos artigos 1.º, 2.º, 3.º e 4.º, nos quantitativos a que a sua situação militar lhes der direito;
-
-2.º Quando em viagem da metrópole para as províncias ultramarinas ou vice-versa ou de uma para a outra província por motivos diferentes dos mencionados nos n.os 3.º e 4.º: o vencimento-base a que a sua situação militar à data do embarque lhes der direito;
-
-3.º Quando em viagem das províncias para a metrópole para tratamento exigido por desastre ou ferimento em serviço: o vencimento-base e o vencimento complementar da sua patente ou posto;
-
-4.º Quando em viagem das províncias para a metrópole e vice-versa por motivo de chamada do Ministro do Exército, Ministro da Marinha e Secretário de Estado da Aeronáutica ou de missão eventual de serviço ou de uma para outra província ou para o estrangeiro e vice-versa por motivo também de missão eventual de serviço: o vencimento-base e o vencimento complementar da sua patente ou posto;
-
-5.º Quando em trânsito pela metrópole:
-
-a) Nas viagens mencionadas no n.º 2.º: o vencimento-base ali estabelecido;
-
-b) Nas viagens referidas na segunda parte do n.º 4.º: o vencimento-base e o vencimento complementar da sua patente ou posto durante os primeiros vinte dias, contados com princípio no dia do desembarque, e posteriormente o vencimento-base.
-
-6.º Quando a aguardar transporte por motivos que não sejam os de que trata o número antecedente:
-
-a) Da província onde estiverem colocados para outra ou para a metrópole: o vencimento-base e o vencimento complementar a que a sua situação militar lhes der direito;
-
-b) Da metrópole para as províncias ultramarinas: o soldo ou ordenado e o vencimento de exercício, ou pré e seu aumento por período de readmissão, que na metrópole competirem à respectiva patente ou posto.
-
-7.º Quando em permanência fora da província respectiva em missão eventual de serviço ou chamados pelo Ministro do Exército, Ministro da Marinha e Secretário de Estado da Aeronáutica:
-
-a) Na metrópole: o vencimento-base e o vencimento complementar da sua patente ou posto durante os primeiros 60 dias, contados com princípio no dia do desembarque, e durante a permanência posterior o vencimento-base.
-
-b) Noutra província ou no estrangeiro: o vencimento-base e o vencimento complementar da sua patente ou posto durante toda a permanência.
-
-8.º Quando em permanência noutra província ultramarina ou na metrópole, para onde tenham ido com passagem por conta do Estado para efeito de tratamento:
-
-a) Noutra província ultramarina: o vencimento-base e o vencimento complementar da respectiva patente ou posto nos quantitativos correspondentes à sua situação militar, mas o vencimento complementar será o da província onde permanecerem, se esse for menor que o daquela a que pertençam;
-
-b) Na metrópole: o vencimento-base e o vencimento complementar que competir à sua patente ou posto segundo a situação militar, no caso de tratamento por desastre ou ferimento em serviço;
-
-c) Os militares evacuados para a metrópole para efeito de tratamento serão presentes às juntas competentes no fim de 30 dias, se antes não tiverem tido alta, a fim de lhes ser arbitrado novo período de tratamento, findo o qual serão novamente presentes à junta.
-
-O período de tratamento não poderá ultrapassar 180 dias, findos os quais a junta deverá tomar sobre eles uma decisão definitiva. Exceptuam-se, porém, os casos de ferimento grave em combate, cuja recuperação se preveja que excede 180 dias, que, devidamente justificados, deverão ser objecto de decisão superior.
-
-No caso de serem considerados prontos para o serviço, regressam à anterior situação; se não reunirem as condições para, depois de restabelecidos, regressarem ao ultramar, passarão a ser abonados dos vencimentos normais da metrópole, sem qualquer redução.
-
-9.º Quando um militar for nomeado para prestar serviço numa determinada província ultramarina, se, antes de atingir o seu destino, for obrigado a apresentar-se noutra província para nela prestar serviço, em situação de diligência, durante um certo período, deverá ser processado de vencimentos pela província onde ficou prestando serviço, em diligência.
-
-10.º O pessoal militar que, estando a prestar serviço nas forças armadas das províncias ultramarinas, passe às situações de reserva ou de reforma, tem direito, enquanto permanecer na província aguardando embarque, ao vencimento correspondente à futura pensão de reserva ou reforma e ao vencimento complementar fixado para a sua patente, mas a soma da pensão e do vencimento complementar não poderão exceder o vencimento que vinha percebendo na situação anterior.
-
-§ único. Em todos os casos referidos neste artigo considera-se abrangido pela designação de vencimento-base o aumento de pré pela readmissão nas províncias constantes das tabelas n.os 7 e 8, anexas.
-
-> Alterado pelo/a [Decreto-Lei n.º 46290](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46290-1965-237444), publicado em 1965-04-24.
+> Revogado pelo/a [Decreto-Lei n.º 47550](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47550-1967-504547), publicado em 1967-02-22.
 
 ###### Artigo 20.º
 

@@ -1,0 +1,42 @@
+[
+ {
+  "id": "pt:dre:173758:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "Lei n.º 34/2015, art. 5.º, u) revoga o artigo 4.º do DL 189/2002; consolidado mantém epígrafe e '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "CAPÍTULO VII",
+    "veredicto": "errado",
+    "motivo": "Epígrafe 'Funções do IMT' certa (DL 110/2015, art. 3.º n.º 1 a)), mas a Base XXIV, presente no original, ficou com o texto antigo (IEP); o DL 110/2015, art. 1.º, dá-lhe nova redação (IMT) e o DL 44-G/2010 já a alterara.",
+    "texto_esperado": "Base XXIV\n\nIMT\n\nSem prejuízo dos poderes cometidos a outras entidades, sempre que no Contrato de Concessão se atribuam poderes ou se preveja o exercício de faculdades pelo Concedente, tais poderes e tal exercício são executados pelo IMT, salvo quando o contrário decorrer do Contrato de Concessão ou de disposição normativa."
+   },
+   {
+    "artigo": "CAPÍTULO X",
+    "veredicto": "errado",
+    "motivo": "Epígrafe final certa (DL 110/2015, art. 3.º n.º 1 b)), mas o corpo é igual ao original: bases XLV, XLVII, XLVIII, XLIX, L (presentes no original) não receberam as novas redações do DL 44-G/2010 e DL 110/2015 (art. 1.º) nem as revogações do art. 5.º do DL 110/2015 (base XLV n.os 6, 7, alíneas d) e l) do n.º 8; base XLVIII n.os 2 e 3; base L alínea f) do n.º 4 e n.º 5).",
+    "texto_esperado": "Corpo das bases XLV a L conforme a redação do DL 110/2015 (art. 1.º) com as revogações do art. 5.º; epígrafe como no consolidado."
+   }
+  ],
+  "instrucoes_em_falta": [
+   "DL 44-G/2010 art. 1.º e DL 110/2015 art. 1.º: nova redação das bases XXIV, XLV, XLVII, XLVIII, XLIX e L, que existem no original (capítulos VII e X) e não foram aplicadas",
+   "DL 110/2015 art. 5.º: revogação dos n.os 6 e 7 e alíneas d) e l) do n.º 8 da base XLV, n.os 2 e 3 da base XLVIII, alínea f) do n.º 4 e n.º 5 da base L (bases presentes no original)",
+   "DL 44-G/2010 art. 3.º n.º 1 b) (epígrafe cap. X 'Manutenção, exploração e conservação da Auto-Estrada'): efeito superado pelo DL 110/2015, sem erro",
+   "DL 19/2007 art. 2.º (bases I, II, V, XXVI) e art. 4.º (revogação al. f) n.º 1 base II): alvo incerto, as bases não são visíveis no original dos capítulos I-VI/VIII/IX (dados como iguais)",
+   "DL 44-G/2010 art. 1.º, 2.º (bases I, II, V, XXVI... e aditamentos XIX-A, LI-A, LVII-A a LVII-BB, LXV-A, LXXXVII-A), art. 3.º n.º 1 c) d) (capítulos XVII e XXI inexistentes), n.º 2 (capítulo X-A e secções): alvo incerto",
+   "DL 110/2015 art. 1.º, 2.º, 3.º n.os 2 a 4 (secções/subsecções do cap. X-A, cap. XXII-A) e art. 5.º (revogações nas bases I, VI, XXXIV, LI-A, LIV, LVII-D, LVII-P, LVII-S, LVII-U, LVII-X, LVII-AA, LXV-A): alvo incerto, bases não visíveis"
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Republicação com presente do indicativo (DL 44-G art. 6.º) e 'onde se lê InIR deve ler-se IMT' (DL 110/2015 art. 6.º n.º 2)",
+    "motivo": "regra de republicação, não textual"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

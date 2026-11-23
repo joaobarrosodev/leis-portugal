@@ -1,14 +1,335 @@
 {
   "id": "pt:dre:237461:por",
-  "substituicoes": [],
+  "substituicoes": [
+    {
+      "de": 9,
+      "ate": 20,
+      "texto": "Artigo 1.º (Revogado.)",
+      "alterador": 6
+    },
+    {
+      "de": 21,
+      "ate": 24,
+      "texto": "Art. 2.º (Revogado.)",
+      "alterador": 6
+    },
+    {
+      "de": 25,
+      "ate": 25,
+      "texto": "Art. 3.º (Revogado.)",
+      "alterador": 6
+    },
+    {
+      "de": 26,
+      "ate": 30,
+      "texto": "Art. 4.º (Revogado.)",
+      "alterador": 6
+    },
+    {
+      "de": 31,
+      "ate": 31,
+      "texto": "Art. 5.º (Revogado.)",
+      "alterador": 6
+    },
+    {
+      "de": 32,
+      "ate": 32,
+      "texto": "Art. 6.º (Revogado.)",
+      "alterador": 6
+    },
+    {
+      "de": 33,
+      "ate": 38,
+      "texto": "Art. 7.º (Revogado.)",
+      "alterador": 6
+    },
+    {
+      "de": 39,
+      "ate": 40,
+      "texto": "Art. 8.º (Revogado.)",
+      "alterador": 6
+    },
+    {
+      "de": 41,
+      "ate": 43,
+      "texto": "Art. 9.º (Revogado.)",
+      "alterador": 6
+    },
+    {
+      "de": 44,
+      "ate": 46,
+      "texto": "Art. 10.º (Revogado.)",
+      "alterador": 6
+    },
+    {
+      "de": 48,
+      "ate": 49,
+      "texto": "Art. 11.º (Revogado.)",
+      "alterador": 6
+    },
+    {
+      "de": 50,
+      "ate": 50,
+      "texto": "Art. 12.º (Revogado.)",
+      "alterador": 6
+    },
+    {
+      "de": 51,
+      "ate": 51,
+      "texto": "Art. 13.º (Revogado.)",
+      "alterador": 6
+    },
+    {
+      "de": 52,
+      "ate": 52,
+      "texto": "Art. 14.º (Revogado.)",
+      "alterador": 6
+    },
+    {
+      "de": 53,
+      "ate": 53,
+      "texto": "Art. 15.º (Revogado.)",
+      "alterador": 6
+    },
+    {
+      "de": 54,
+      "ate": 58,
+      "texto": "Art. 16.º (Revogado.)",
+      "alterador": 6
+    },
+    {
+      "de": 59,
+      "ate": 60,
+      "texto": "Art. 17.º (Revogado.)",
+      "alterador": 6
+    },
+    {
+      "de": 61,
+      "ate": 66,
+      "texto": "Art. 18.º (Revogado.)",
+      "alterador": 6
+    },
+    {
+      "de": 67,
+      "ate": 67,
+      "texto": "Art. 19.º (Revogado.)",
+      "alterador": 6
+    },
+    {
+      "de": 70,
+      "ate": 72,
+      "texto": "Art. 20.º (Revogado.)",
+      "alterador": 6
+    },
+    {
+      "de": 73,
+      "ate": 73,
+      "texto": "Art. 21.º (Revogado.)",
+      "alterador": 6
+    },
+    {
+      "de": 74,
+      "ate": 75,
+      "texto": "Art. 22.º (Revogado.)",
+      "alterador": 6
+    },
+    {
+      "de": 76,
+      "ate": 81,
+      "texto": "Art. 23.º (Revogado.)",
+      "alterador": 6
+    },
+    {
+      "de": 82,
+      "ate": 83,
+      "texto": "Art. 24.º (Revogado.)",
+      "alterador": 6
+    },
+    {
+      "de": 84,
+      "ate": 86,
+      "texto": "Art. 26.º (Revogado.)",
+      "alterador": 6
+    },
+    {
+      "de": 87,
+      "ate": 89,
+      "texto": "Art. 26.º (Revogado.)",
+      "alterador": 6
+    },
+    {
+      "de": 90,
+      "ate": 91,
+      "texto": "Art. 27.º (Revogado.)",
+      "alterador": 6
+    },
+    {
+      "de": 92,
+      "ate": 93,
+      "texto": "Art. 28.º (Revogado.)",
+      "alterador": 6
+    },
+    {
+      "de": 95,
+      "ate": 96,
+      "texto": "Art. 29.º (Revogado.)",
+      "alterador": 6
+    },
+    {
+      "de": 97,
+      "ate": 98,
+      "texto": "Art. 30.º (Revogado.)",
+      "alterador": 6
+    },
+    {
+      "de": 99,
+      "ate": 100,
+      "texto": "Art. 31.º (Revogado.)",
+      "alterador": 6
+    },
+    {
+      "de": 101,
+      "ate": 101,
+      "texto": "Art. 32.º (Revogado.)",
+      "alterador": 6
+    },
+    {
+      "de": 102,
+      "ate": 102,
+      "texto": "Art. 33.º (Revogado.)",
+      "alterador": 6
+    },
+    {
+      "de": 103,
+      "ate": 103,
+      "texto": "Art. 34.º (Revogado.)",
+      "alterador": 6
+    },
+    {
+      "de": 104,
+      "ate": 105,
+      "texto": "Art. 35.º (Revogado.)",
+      "alterador": 6
+    },
+    {
+      "de": 106,
+      "ate": 109,
+      "texto": "Art. 36.º (Revogado.)",
+      "alterador": 6
+    },
+    {
+      "de": 110,
+      "ate": 112,
+      "texto": "Art. 37.º (Revogado.)",
+      "alterador": 6
+    },
+    {
+      "de": 113,
+      "ate": 118,
+      "texto": "Art. 38.º (Revogado.)",
+      "alterador": 6
+    },
+    {
+      "de": 120,
+      "ate": 120,
+      "texto": "Art. 39.º (Revogado.)",
+      "alterador": 6
+    },
+    {
+      "de": 121,
+      "ate": 121,
+      "texto": "Art. 40.º (Revogado.)",
+      "alterador": 6
+    },
+    {
+      "de": 124,
+      "ate": 132,
+      "texto": "Art. 41.º (Revogado.)",
+      "alterador": 6
+    },
+    {
+      "de": 134,
+      "ate": 134,
+      "texto": "Art. 42.º (Revogado.)",
+      "alterador": 6
+    },
+    {
+      "de": 135,
+      "ate": 136,
+      "texto": "Art. 43.º (Revogado.)",
+      "alterador": 6
+    },
+    {
+      "de": 137,
+      "ate": 137,
+      "texto": "Art. 44.º (Revogado.)",
+      "alterador": 6
+    },
+    {
+      "de": 138,
+      "ate": 138,
+      "texto": "Art. 45.º (Revogado.)",
+      "alterador": 6
+    }
+  ],
   "insercoes": [],
-  "nao_aplicavel": "Alterador 3, art. 49.º, n.º 1, revoga o Decreto-Lei n.º 44699, de 17 de Novembro de 1962: revogação total do original, nada a devolver\nAlterador 1, artigo único, fixa para 1 de Março de 1963 a entrada em vigor prevista no art. 45.º: não se aplica, o original foi depois revogado por inteiro pelo alterador 3\nAlterador 2, arts. 3.º e 4.º, § único do art. 7.º passa a § 1.º, aditamento do § 2.º e nova redação dos arts. 8.º, 19.º, 20.º, 29.º, 33.º, 37.º, 41.º e 42.º: não se aplica, o original foi depois revogado por inteiro pelo alterador 3",
+  "nao_aplicavel": null,
   "instrucoes": [
-    "Alterador 1 (DL 44828, artigo único): fixa a entrada em vigor (art. 45.º) para 1 de Março de 1963; sem efeito no texto final porque o original foi revogado por inteiro.",
-    "Alterador 2 (DL 49306, arts. 3.º e 4.º): § único do art. 7.º passa a § 1.º e adita § 2.º; nova redação dos arts. 8.º, 19.º, 20.º, 29.º, 33.º, 37.º, 41.º e 42.º; os arts. 5.º e 7.º do alterador só referem o original noutros diplomas; sem efeito no texto final porque o original foi revogado por inteiro.",
-    "Alterador 3 (DL 227/83, art. 49.º, n.º 1): revoga o Decreto-Lei n.º 44699 por inteiro; nao_aplicavel e nada devolvido, conforme as regras."
+    "Alterador 6 (DL 227/83, art. 49.º, n.º 1): revoga o Decreto-Lei n.º 44699 por inteiro (a ressalva 'sem prejuízo dos n.os 2 e 3 do artigo 47.º' respeita aos DL 32078 e 32087, não ao original): cada artigo (1.º a 45.º, incluindo o segundo 'Art. 26.º' do texto) passa a '(Revogado.)'; ficam o preâmbulo, os títulos de capítulo e secção e o fecho.",
+    "Alterador 1 (DL 44828, artigo único): fixa em 1 de Março de 1963 a entrada em vigor do original (artigo 45.º); absorvido pela revogação total (art. 45.º revogado).",
+    "Alterador 2 (DL 47919, art. 4.º): revoga os §§ 2.º e 3.º do artigo 1.º; absorvido pela revogação total do artigo 1.º. Os arts. 1.º a 3.º do DL 47919 são normas próprias, não texto do original.",
+    "Alterador 3 (DL 48311, art. 2.º): revoga o artigo 26.º (exportação de moedas metálicas portuguesas) e §§ 1.º e 2.º; absorvido pela revogação total.",
+    "Alterador 4 (DL 49306, art. 3.º): o § único do artigo 7.º passa a § 1.º e é aditado o § 2.º; art. 4.º: novas redações dos artigos 8.º, 19.º, 20.º, 29.º, 33.º, 37.º, 41.º e 42.º; todas absorvidas pela revogação total do original pelo DL 227/83 (artigos revogados).",
+    "Alterador 5 (DL 747/76, art. 3.º): revoga os artigos 13.º, 14.º e 15.º; absorvido pela revogação total (ficam '(Revogado.)'). Arts. 1.º e 2.º são normas próprias."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",
-  "problemas": []
+  "problemas": [],
+  "numeracao_aceite": [
+    "substituição 9-20: parágrafo que não está no alterador nem no original: Artigo 1.º (Revogado.)",
+    "substituição 21-24: parágrafo que não está no alterador nem no original: Art. 2.º (Revogado.)",
+    "substituição 25-25: parágrafo que não está no alterador nem no original: Art. 3.º (Revogado.)",
+    "substituição 26-30: parágrafo que não está no alterador nem no original: Art. 4.º (Revogado.)",
+    "substituição 31-31: parágrafo que não está no alterador nem no original: Art. 5.º (Revogado.)",
+    "substituição 32-32: parágrafo que não está no alterador nem no original: Art. 6.º (Revogado.)",
+    "substituição 33-38: parágrafo que não está no alterador nem no original: Art. 7.º (Revogado.)",
+    "substituição 39-40: parágrafo que não está no alterador nem no original: Art. 8.º (Revogado.)",
+    "substituição 41-43: parágrafo que não está no alterador nem no original: Art. 9.º (Revogado.)",
+    "substituição 44-46: parágrafo que não está no alterador nem no original: Art. 10.º (Revogado.)",
+    "substituição 48-49: parágrafo que não está no alterador nem no original: Art. 11.º (Revogado.)",
+    "substituição 50-50: parágrafo que não está no alterador nem no original: Art. 12.º (Revogado.)",
+    "substituição 51-51: parágrafo que não está no alterador nem no original: Art. 13.º (Revogado.)",
+    "substituição 52-52: parágrafo que não está no alterador nem no original: Art. 14.º (Revogado.)",
+    "substituição 53-53: parágrafo que não está no alterador nem no original: Art. 15.º (Revogado.)",
+    "substituição 54-58: parágrafo que não está no alterador nem no original: Art. 16.º (Revogado.)",
+    "substituição 59-60: parágrafo que não está no alterador nem no original: Art. 17.º (Revogado.)",
+    "substituição 61-66: parágrafo que não está no alterador nem no original: Art. 18.º (Revogado.)",
+    "substituição 67-67: parágrafo que não está no alterador nem no original: Art. 19.º (Revogado.)",
+    "substituição 70-72: parágrafo que não está no alterador nem no original: Art. 20.º (Revogado.)",
+    "substituição 73-73: parágrafo que não está no alterador nem no original: Art. 21.º (Revogado.)",
+    "substituição 74-75: parágrafo que não está no alterador nem no original: Art. 22.º (Revogado.)",
+    "substituição 76-81: parágrafo que não está no alterador nem no original: Art. 23.º (Revogado.)",
+    "substituição 82-83: parágrafo que não está no alterador nem no original: Art. 24.º (Revogado.)",
+    "substituição 84-86: parágrafo que não está no alterador nem no original: Art. 26.º (Revogado.)",
+    "substituição 87-89: parágrafo que não está no alterador nem no original: Art. 26.º (Revogado.)",
+    "substituição 90-91: parágrafo que não está no alterador nem no original: Art. 27.º (Revogado.)",
+    "substituição 92-93: parágrafo que não está no alterador nem no original: Art. 28.º (Revogado.)",
+    "substituição 95-96: parágrafo que não está no alterador nem no original: Art. 29.º (Revogado.)",
+    "substituição 97-98: parágrafo que não está no alterador nem no original: Art. 30.º (Revogado.)",
+    "substituição 99-100: parágrafo que não está no alterador nem no original: Art. 31.º (Revogado.)",
+    "substituição 101-101: parágrafo que não está no alterador nem no original: Art. 32.º (Revogado.)",
+    "substituição 102-102: parágrafo que não está no alterador nem no original: Art. 33.º (Revogado.)",
+    "substituição 103-103: parágrafo que não está no alterador nem no original: Art. 34.º (Revogado.)",
+    "substituição 104-105: parágrafo que não está no alterador nem no original: Art. 35.º (Revogado.)",
+    "substituição 106-109: parágrafo que não está no alterador nem no original: Art. 36.º (Revogado.)",
+    "substituição 110-112: parágrafo que não está no alterador nem no original: Art. 37.º (Revogado.)",
+    "substituição 113-118: parágrafo que não está no alterador nem no original: Art. 38.º (Revogado.)",
+    "substituição 120-120: parágrafo que não está no alterador nem no original: Art. 39.º (Revogado.)",
+    "substituição 121-121: parágrafo que não está no alterador nem no original: Art. 40.º (Revogado.)",
+    "substituição 124-132: parágrafo que não está no alterador nem no original: Art. 41.º (Revogado.)",
+    "substituição 134-134: parágrafo que não está no alterador nem no original: Art. 42.º (Revogado.)",
+    "substituição 135-136: parágrafo que não está no alterador nem no original: Art. 43.º (Revogado.)",
+    "substituição 137-137: parágrafo que não está no alterador nem no original: Art. 44.º (Revogado.)",
+    "substituição 138-138: parágrafo que não está no alterador nem no original: Art. 45.º (Revogado.)"
+  ]
 }

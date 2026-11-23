@@ -1,0 +1,47 @@
+[
+ {
+  "id": "pt:dre:139722:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "DL 353-B/77: 'n.º 1 ...' mantém o corpo original como n.º 1 e acrescenta n.º 2 com o texto indicado"
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "DL 280/78 art. 1.º: n.º 3 com 'coluna (4)'; n.os 1 e 2 intactos"
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "DL 280/78 art. 1.º: n.º 2 substituído; n.os 1 e 3 intactos"
+   },
+   {
+    "artigo": "Artigo 6.º-A",
+    "veredicto": "certo",
+    "motivo": "Aditado pelo DL 280/78 art. 2.º, texto igual"
+   },
+   {
+    "artigo": "Artigo 6.º-B",
+    "veredicto": "certo",
+    "motivo": "Aditado pelo DL 280/78 art. 2.º, texto igual"
+   },
+   {
+    "artigo": "ANEXO",
+    "veredicto": "certo",
+    "motivo": "Regras 1, 2, 7 pelo DL 280/78 art. 3.º; regra 3 pelo DL 66/79 (versão final); regras 4,5,6 e assinaturas originais"
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 126/78, 20/79, 519-M2/79, 569/80, 72/84, 230/85 e 79/88: prorrogação do prazo dos n.os 1 e 2 do artigo 1.º",
+    "motivo": "Prorrogação de prazo (até 31/12 do ano indicado) dos n.os 1 e 2 do artigo 1.º: não é alteração textual; confirmado no artigo único do diploma"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

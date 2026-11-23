@@ -1,0 +1,71 @@
+[
+ {
+  "id": "pt:dre:592760:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "DLR 28-A/2001, art. 2.º: n.º 1 com a nova redação ('...acordos de colaboração nos termos do disposto no artigo 7.º da Lei n.º 42/98') e n.º 5 aditado; n.os 2 a 4 iguais.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 20.º do DLR 6/2005/M, que nomeia o art. 5.º do DLR 4-A/2001/M (a redação do DLR 28-A/2001 ficou assim superada). Os DLR que 'mantêm em vigor' o art. 5.º têm texto omitido na vista: não verificável se repristinam.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "Alínea e) aditada pelo DLR 28-A/2001, art. 4.º, igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 22.º",
+    "veredicto": "certo",
+    "motivo": "Retificação (DR 13-P/2001): 'dualidade' passa a 'qualidade'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 35.º-A",
+    "veredicto": "certo",
+    "motivo": "Artigo aditado pelo DLR 28-A/2001, art. 5.º, com epígrafe e corpo iguais.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 42.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 5.º do DLR 10/2016/M ('É revogado o artigo 42.º'); epígrafe mantida.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [
+   "Alteradores 29-A/2001, 30-A/2003, 3/2007, 2-A/2008, 45/2008, 34/2009, 2/2011, 5/2012, 42/2012, 31-A/2013, 18/2014 e 17/2015: texto omitido na vista (a triagem diz apenas 'mantêm em vigor o artigo 5.º', não textual); não confirmável, alvo art. 5.º (revogado pelo DLR 6/2005)."
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DR 13-P/2001: retificação do mapa I «Receitas da Região»",
+    "motivo": "Texto novo só em imagem (confirmado) e o consolidado não tem anexo com título (lista de artigos sem mapas) onde o pôr."
+   },
+   {
+    "instrucao": "DLR 28-A/2001, art. 1.º: mapas I a IX substituídos nas partes alteradas",
+    "motivo": "Mapas só em imagem (confirmado) e o consolidado não tem anexo com título onde os pôr."
+   },
+   {
+    "instrucao": "DLR 15/2007, art. 3.º: revoga normas que contrariem o diploma, especialmente as do art. 42.º do original",
+    "motivo": "Revogação condicional («todas as normas que contrariem... especialmente as que se incluam»); o art. 42.º ficou revogado pelo DLR 10/2016."
+   },
+   {
+    "instrucao": "DLR 15/2007, art. 1.º (Estatutos da VIALITORAL) e DLR 10/2016 (restantes artigos e republicação das Bases)",
+    "motivo": "Instruções de outro diploma (DLR 21-A/99/M)."
+   },
+   {
+    "instrucao": "DLR 6/2005, art. 21.º, n.º 2: empréstimos da linha de crédito do art. 5.º continuam a reger-se pelo regime dele",
+    "motivo": "Norma transitória não textual."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

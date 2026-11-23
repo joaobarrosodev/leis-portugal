@@ -1,0 +1,41 @@
+[
+ {
+  "id": "pt:dre:432798:por",
+  "artigos": [
+   {
+    "chave": "31.º",
+    "epigrafe": "(Receitas dos organismos de coordenação económica)",
+    "texto": "(Revogado.)",
+    "alterador": 1
+   }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [
+   {
+    "titulo": "## ANEXO I — Mapa das receitas do Estado, a que se refere o n.º 2 do artigo 1.º da Lei do Orçamento para 1979",
+    "texto": "[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/06/14402/00330049.pdf)\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/09/20701/00060008.pdf)",
+    "alterador": 1
+   },
+   {
+    "titulo": "## ANEXO II — Mapa das despesas, por Ministérios e Secretarias de Estado, a que se refere o n.º 2 do artigo 1.º da Lei do Orçamento para 1979",
+    "texto": "[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/06/14402/00330049.pdf)\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/09/20701/00060008.pdf)",
+    "alterador": 1
+   },
+   {
+    "titulo": "## ANEXO III — Mapa da classificação funcional das despesas públicas, a que se refere o n.º 2 do artigo 1.º da Lei do Orçamento para 1979",
+    "texto": "[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/06/14402/00330049.pdf)\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/09/20701/00060008.pdf)",
+    "alterador": 1
+   }
+  ],
+  "nao_aplicavel": "Alterador 1, art. 3.º (fixa em 121013 milhões de escudos o montante referido no n.º 1 do art. 5.º): não textual — fixa o montante sem dar nova redação ao n.º 1 do art. 5.º, que fala em «101 milhões de contos»; reescrever o número seria inventar a redação.\nAlterador 1, art. 4.º, al. a) (renova as autorizações dos arts. 18.º, als. e) e f), com redução do prazo de cinco para três anos, e 26.º, als. c) e h)): não textual — renovação de autorização legislativa; não dá nova redação às alíneas.\nAlterador 2, DL 519-H1/79 (taxas pautais, ao abrigo da al. e) do art. 24.º): não textual — usa a autorização do original sem o alterar.",
+  "instrucoes": [
+   "Alt. 1 (Lei 43/79), art. 1.º e anexos I a III: alterações das verbas dos anexos I a III, «na parte alterada», só em imagem — aplicado como alteração parcial de quadro em imagem: corpo atual + linha da imagem do alterador, em anexos.",
+   "Alt. 1, art. 3.º: novo montante do défice (n.º 1 do art. 5.º) — não textual, em nao_aplicavel; art. 5.º fica como está.",
+   "Alt. 1, art. 4.º, al. a): renovação das autorizações dos arts. 18.º e) e f) e 26.º c) e h) — não textual, em nao_aplicavel. Al. b): nova autorização própria, não altera o original.",
+   "Alt. 1, art. 5.º: regime do imposto de turismo, norma própria da Lei 43/79, não altera o texto do original.",
+   "Alt. 1, art. 6.º: revogada a autorização do art. 31.º — art. 31.º (Revogado.).",
+   "Alt. 2 (DL 519-H1/79): decreto autorizado ao abrigo do art. 24.º, al. e) — não altera o original; em nao_aplicavel."
+  ]
+ }
+]

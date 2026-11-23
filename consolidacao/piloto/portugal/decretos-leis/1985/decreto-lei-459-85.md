@@ -10,6 +10,9 @@ consolidacao:
   - id: pt:dre:353966:por
     title: Decreto-Lei n.º 97/2006
     publication_date: '2006-06-05'
+  - id: pt:dre:382184:por
+    title: Portaria n.º 282/97
+    publication_date: '1997-05-02'
   titulos_normalizados: artigos em texto corrido no original, com título pelo parser
     da fase 3
 ---
@@ -97,6 +100,46 @@ A Representação Permanente disporá, para além dos funcionários referidos no
 ###### Artigo 10.º
 
 O presente diploma entrará em vigor no dia imediato ao da sua publicação.
+
+Mapa do pessoal da Representação Permanente
+
+Um funcionário do quadro do serviço diplomático com a categoria de ministro plenipotenciário de 1.ª classe ou de 2.ª classe.
+
+Dez funcionários do quadro do pessoal do serviço diplomático de qualquer categoria.
+
+31 funcionários do quadro do pessoal especializado com a categoria de conselheiro técnico principal, conselheiro técnico e adido técnico;
+
+1 funcionário do quadro do pessoal especializado com a categoria de conselheiro ou de adido de imprensa;
+
+2 funcionários do quadro do pessoal especializado com a categoria de secretário privativo.
+
+Dois funcionários do quadro do pessoal administrativo do Ministério dos Negócios Estrangeiros.
+
+Três chanceleres;
+
+Três arquivistas;
+
+Onze assistentes tradutores;
+
+Três secretários de 1.ª classe;
+
+Seis secretários de 2.ª classe;
+
+Dois escriturários-dactilógrafos;
+
+Um telefonista;
+
+Três motoristas;
+
+Um porteiro;
+
+Três contínuos;
+
+Um guarda;
+
+Três auxiliares de serviço.
+
+> Alterado pelo/a [Portaria n.º 282/97](https://diariodarepublica.pt/dr/detalhe/portaria/282-1997-382184), publicado em 1997-05-02.
 
 Visto e aprovado em Conselho de Ministros de 20 de Setembro de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - Jaime José Matos da Gama - Ernâni Rodrigues Lopes - José Manuel San-Bento de Menezes.
 

@@ -7,9 +7,9 @@ consolidacao:
     sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
-  - id: pt:dre:608685:por
-    title: Decreto-Lei n.º 110/2009
-    publication_date: '2009-05-18'
+  - id: pt:dre:510857:por
+    title: Decreto-Lei n.º 44-A/2010
+    publication_date: '2010-05-05'
 ---
 
 # Decreto-Lei n.º 380/2007
@@ -116,7 +116,55 @@ O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 [(ver documento original)](https://files.diariodarepublica.pt/1s/2009/05/09500/0306103099.pdf)
 
-> Alterado pelo/a [Decreto-Lei n.º 110/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-2009-608685), publicado em 2009-05-18.
+Base 2
+
+[...]
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - ...
+
+5 - ...
+
+6 - ...
+
+7 - ...
+
+8 - ...
+
+9 - Compete ainda à concessionária o desenvolvimento da actividade de cobrança de taxas de portagem aos utilizadores na rede concessionada, quando essa actividade lhe seja expressamente atribuída nas bases de concessões integradas naquela rede e nos correspondentes contratos de concessão.
+
+10 - Sem prejuízo de as receitas e as despesas associadas à actividade referida no número anterior constituírem receitas e despesas próprias da concessionária, o respectivo saldo líquido é contabilizado para efeitos de obtenção de direitos sobre benefícios económicos futuros, nos termos do disposto no n.º 7.
+
+11 - (Anterior n.º 9.)
+
+12 - (Anterior n.º 10.)
+
+Base 3
+
+[...]
+
+A concessionária tem direito a receber:
+
+a) ...
+
+b) O valor das taxas de portagem devidas na rede concessionada, nos termos do n.º 9 da base anterior e do disposto nos respectivos contratos de concessão;
+
+c) [Anterior alínea b).]
+
+d) [Anterior alínea c).]
+
+e) [Anterior alínea d).]
+
+f) [Anterior alínea e).]
+
+g) [Anterior alínea f)].
+
+> Alterado pelo/a [Decreto-Lei n.º 44-A/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-a-2010-510857), publicado em 2010-05-05.
 
 ### CAPÍTULO I — Disposições gerais
 

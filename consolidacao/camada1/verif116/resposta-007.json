@@ -1,0 +1,71 @@
+[
+ {
+  "id": "pt:dre:223019:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "DL 46/2002 art. 5.º n.º 1 adita a alínea g) ao n.º 2; DL 44/2014 art. 13.º dá nova redação aos n.os 1 e 4 (n.os 2 e 3 mantidos). Consolidado coincide.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "certo",
+    "motivo": "DL 95/2010 art. 2.º: nova redação n.º 1, alíneas c) a cc) do n.º 3 e proémio («linha poligonal aberta»), n.º 4 revogado, n.º 2, 5 e alíneas a)/b) mantidos; DL 44/2014 art. 13.º adita n.º 6. Alíneas c) a cc) conferidas uma a uma com o alterador.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 7.º do DL 95/2010; corpo '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 12.º",
+    "veredicto": "certo",
+    "motivo": "DL 46/2002 art. 6.º n.º 1 b) revoga os n.os 2 e 3 do art. 12.º; consolidado '2 - (Revogado.) 3 - (Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "ANEXO I",
+    "veredicto": "certo",
+    "motivo": "DL 95/2010 art. 3.º substitui o anexo I pelo anexo I do alterador (imagem 2010/07/14600/0291202916.pdf); consolidado tem essa imagem sob o título ANEXO I.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 1.º #2",
+    "veredicto": "certo",
+    "motivo": "DL 44/2014 art. 14.º: nova redação do n.º 1 (denominação APS - Administração dos Portos de Sines e do Algarve, S.A.), n.º 2 mantido.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º #2",
+    "veredicto": "certo",
+    "motivo": "DL 44/2014 art. 14.º: nova redação do corpo do art. 3.º dos Estatutos; consolidado coincide (epígrafe mantida).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 9.º #2",
+    "veredicto": "certo",
+    "motivo": "DL 334/2001 art. 1.º n.º 3: n.º 1 passa a «O conselho de administração e composto por um presidente e dois vogais.» (grafia «e» do alterador); n.os 2 e 3 mantidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 10.º #2",
+    "veredicto": "certo",
+    "motivo": "DL 44/2014 art. 14.º: só a alínea l) alterada (zonas francas nos portos de Sines, de Faro e de Portimão); restante igual ao original.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 46/2002, art. 6.º n.º 1 alínea d) (revoga todos os preceitos que contrariem o diploma)",
+    "motivo": "Revogação condicional («que contrariem»), não se aplica ao texto."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações. Nota: os alteradores DL 251-A/2015, 169-B/2019 e 32/2022 vêm sem texto na vista e o DL 474-A/99 não refere o DL 337/98, pelo que nada se pôde verificar quanto a eles."
+ }
+]
