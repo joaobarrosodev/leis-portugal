@@ -105,6 +105,42 @@
      "title": "Decreto Regulamentar n.º 32/90",
      "published": "1990-09-24",
      "dre_path": "/dr/detalhe/decreto-regulamentar/32-1990-554867"
+    },
+    {
+     "id": "pt:dre:311007:por",
+     "title": "Decreto-Lei n.º 78/83",
+     "published": "1983-02-09",
+     "dre_path": "/dr/detalhe/decreto-lei/78-1983-311007"
+    },
+    {
+     "id": "pt:dre:666295:por",
+     "title": "Decreto Regulamentar n.º 27/87",
+     "published": "1987-04-15",
+     "dre_path": "/dr/detalhe/decreto-regulamentar/27-1987-666295"
+    },
+    {
+     "id": "pt:dre:442483:por",
+     "title": "Decreto-Lei n.º 34-A/89",
+     "published": "1989-01-31",
+     "dre_path": "/dr/detalhe/decreto-lei/34-a-1989-442483"
+    },
+    {
+     "id": "pt:dre:608477:por",
+     "title": "Decreto-Lei n.º 97/82",
+     "published": "1982-04-03",
+     "dre_path": "/dr/detalhe/decreto-lei/97-1982-608477"
+    },
+    {
+     "id": "pt:dre:374266:por",
+     "title": "Decreto-Lei n.º 366/82",
+     "published": "1982-09-09",
+     "dre_path": "/dr/detalhe/decreto-lei/366-1982-374266"
+    },
+    {
+     "id": "pt:dre:628060:por",
+     "title": "Decreto-Lei n.º 44-C/86",
+     "published": "1986-03-07",
+     "dre_path": "/dr/detalhe/decreto-lei/44-c-1986-628060"
     }
    ],
    "changes": [
@@ -127,7 +163,48 @@
     "Altera Artigo 113.º",
     "Altera Artigo 145.º",
     "Altera Artigo 162.º",
-    "Altera Artigo 163.º"
+    "Altera Artigo 163.º",
+    "Revoga Artigo 181",
+    "Revoga Artigo 31",
+    "Revoga Artigo 32",
+    "Revoga Artigo 33",
+    "Revoga Artigo 34",
+    "Revoga Artigo 81",
+    "Revoga Artigo 82",
+    "Revoga Artigo 83",
+    "Revoga Artigo 84",
+    "Revoga Artigo 85",
+    "Revoga Artigo 86",
+    "Revoga Artigo 87",
+    "Revoga Artigo 88",
+    "Revoga Artigo 89",
+    "Revoga Artigo 90",
+    "Revoga Artigo 140",
+    "Revoga Artigo 141",
+    "Revoga Artigo 143",
+    "Revoga Artigo 154",
+    "Revoga Artigo 92",
+    "Revoga Artigo 93",
+    "Revoga Artigo 94",
+    "Revoga Artigo 95",
+    "Revoga Artigo 96",
+    "Revoga Artigo 97",
+    "Revoga Artigo 98",
+    "Revoga Artigo 99",
+    "Revoga Artigo 2",
+    "Revoga Artigo 3",
+    "Revoga Artigo 4",
+    "Revoga anexo ou texto fora do articulado",
+    "Revoga Artigo 5",
+    "Revoga Artigo 6",
+    "Revoga Artigo 7",
+    "Revoga Artigo 8",
+    "Revoga Artigo 9",
+    "Revoga Artigo 10",
+    "Revoga Artigo 11",
+    "Revoga Artigo 12",
+    "Revoga Artigo 13",
+    "Revoga Artigo 14"
    ],
    "fragments": [
     "561ee5f7cad7bc9a",
@@ -136,22 +213,21 @@
     "0297744ff6f95089",
     "09fe68474b75f310",
     "aa739a565c5fa4d7",
-    "ba57d38fae414212",
+    "b70a51a68a1b441f",
     "c834512701501f27",
     "481724f1233f4597",
-    "1bd3d448331cb232",
-    "fec7b038a4fd894d",
-    "7046985987622aea",
-    "08437af14b998b08",
-    "4b61aa8e08efd723",
-    "09cf4d5f0cf7a1e7",
-    "f9aab363b73585bc",
-    "a136308afdd042b5",
-    "3a42f39051e47963",
-    "4ca230844edf8f71",
-    "addd6ab83c1bd010",
-    "5f51f89f167e968b",
-    "72d8b392cdd6f372",
+    "9fa34d12a6c24300",
+    "2bf36a738906b8ff",
+    "d2019c094bd25474",
+    "6ff2222baa81bab4",
+    "8dd690153acf884c",
+    "f858ab1832becf6a",
+    "4abd38930aa662c0",
+    "1ada4c3958c01930",
+    "2a56fec402f5072a",
+    "ad3518a08fc70630",
+    "df7e60016409deef",
+    "f70885165c8ffd46",
     "f8a46fa7ff41482b",
     "1a4fbb0c73afa0aa",
     "9f5e20e237741974",
@@ -172,10 +248,10 @@
     "e3f1d225c1a402fe",
     "41b4db7a3d0bf7f8",
     "23e0f12b33613201",
-    "b7521bbdcfcf1155",
-    "e145d9263ce4bab1",
-    "b743b4413feda4c5",
-    "6df9bf9fe16b7d50",
+    "63966ed483c381e2",
+    "f67674e4f4963c26",
+    "a0156539846947ca",
+    "9ac1a3b79a22d95c",
     "a50dae4fba82d627",
     "2a7c7d16ab349cc5",
     "e7a78faebd7bcf8d",
@@ -234,26 +310,26 @@
     "f6852e46b7be7f8c",
     "ff6e7009f670e3dc",
     "e759d517d600a46d",
-    "6b2fbd36c9a93dcc",
-    "b8b9341bff5d21e3",
-    "11ba497ff10b9d74",
-    "ea87d48735aeed6d",
-    "5c61075977dda4ff",
-    "678d79a4640b2fd7",
-    "59ede6c1fef397ad",
-    "69ea1feee989d0bd",
-    "98b8b209920ea2c1",
-    "5392127c628a5a69",
+    "332a875f11298a21",
+    "10d77f958fc37b3b",
+    "17680d805dc0402e",
+    "73395e9ebb165f6f",
+    "bee640fe66c86681",
+    "a54755bf92f6d15b",
+    "0d2948dc8682f19b",
+    "d1f4f5f4d7f16872",
+    "34c096b92e72dd15",
+    "5a705a9bd012d69d",
     "9a1a2e3897ec4caf",
     "8f312837168ec89c",
-    "38ee55ef512c8bfb",
-    "1651e8cc5bc6a0ca",
-    "8eed81cf6674fbc8",
-    "0fe4184c5c1d005b",
-    "7b5ea7207858c2b8",
-    "48be6535241a01bd",
-    "40990f3700559885",
-    "9d78c91e018d12d0",
+    "b049d15befda9f80",
+    "3f30761559ccfeb8",
+    "98304b305a929f18",
+    "9854e7b0faa9a37c",
+    "156ac985b468e11d",
+    "e1170bd3500b0f10",
+    "340d568e243a6e6c",
+    "a2e6d465675896b1",
     "22cc012dacf52752",
     "94b69388dfabb677",
     "c7f1198fe55b2b31",
@@ -304,10 +380,10 @@
     "c3c811f52dc8f75b",
     "0e1925a9e07da902",
     "d1a804c76a5b3b0e",
-    "c7655e8494891c43",
-    "68f0f4bf6d9b18f1",
+    "7a0a93bc26eca209",
+    "a08bef253181dce6",
     "d21b7ea3b3ec764a",
-    "289c32306589aa24",
+    "77e960fa42b68d04",
     "c8eaef1599fb94a7",
     "b8bdc2959eb32d77",
     "8d7181051844c679",
@@ -320,7 +396,7 @@
     "9eef0877353c7fe0",
     "3418d0271b759aaf",
     "4f2e4b8e787f92ae",
-    "ee6a3b7ad9ac2ff7",
+    "94d245be8243fcab",
     "357a58ac161c6068",
     "e0545cb5dcad3257",
     "ef715490efba227d",
@@ -355,7 +431,7 @@
     "bde016523f5996fd",
     "ba0fdd4d09a4a78d",
     "c75ebbaa3f54a2e9",
-    "411f842574538fc1",
+    "f29b9fa65c17c429",
     "14b6bf985c17a34a",
     "d0a6799fe33f82a4",
     "56a0389212778f64",
@@ -783,13 +859,15 @@
    "changed_by": [],
    "markdown": "###### Artigo 1.º\n\nA direcção da actividade internacional do Estado, atribuída constitucionalmente ao Presidente da República, é exercida por intermédio do Ministro dos Negócios Estrangeiros e executada pelos serviços que constituem o Ministério dos Negócios Estrangeiros."
   },
-  "ba57d38fae414212": {
+  "b70a51a68a1b441f": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 2.º",
-   "in_force_from": null,
-   "changed_by": [],
-   "markdown": "###### Artigo 2.º\n\nJunto do Ministro e por este livremente escolhido funcionará o Gabinete do Ministro, constituído nos termos da lei geral e com as atribuições que por aquele lhe forem conferidas."
+   "in_force_from": "1990-09-29",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 44-C/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-c-1986-628060), publicado em 1986-03-07, com efeitos a partir de 1986-03-08."
+   ],
+   "markdown": "###### Artigo 2.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 44-C/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-c-1986-628060), publicado em 1986-03-07, com efeitos a partir de 1986-03-08."
   },
   "481724f1233f4597": {
    "fragment_id": null,
@@ -799,109 +877,101 @@
    "changed_by": [],
    "markdown": "##### DIVISÃO I — Secretaria-Geral"
   },
-  "1bd3d448331cb232": {
+  "9fa34d12a6c24300": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 3.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 3.º\n\nA Secretaria de Estado é o órgão central da administração do serviço do Ministério e é constituída:\n\n1.º Pela Secretaria-Geral;\n\n2.º Pela Direcção-Geral dos Negócios Políticos;\n\n3.º Pela Direcção-Geral dos Negócios Económicos;\n\n4.º Pela Direcção-Geral dos Serviços Centrais."
+   "markdown": "###### Artigo 3.º\n\n(Revogado.)"
   },
-  "fec7b038a4fd894d": {
+  "2bf36a738906b8ff": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 4.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 4.º\n\nA Secretaria-Geral é dirigida pelo secretário-geral do Ministério e compreende os seguintes serviços:\n\nServiços Jurídicos e de Tratados;\n\nServiços de Informação e Imprensa;\n\nServiços do Protocolo;\n\nInspecção Diplomática e Consular;\n\nRepartição do Arquivo e Biblioteca;"
+   "markdown": "###### Artigo 4.º\n\n(Revogado.)"
   },
-  "7046985987622aea": {
-   "fragment_id": null,
-   "type": null,
-   "heading": "Secção da Cifra;",
-   "in_force_from": null,
-   "changed_by": [],
-   "markdown": "#### Secção da Cifra;\n\nSecção do Expediente."
-  },
-  "08437af14b998b08": {
+  "d2019c094bd25474": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 5.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 5.º\n\nO secretário-geral é o chefe da Secretaria de Estado e o órgão coordenador dos serviços do Ministério, competindo-lhe nessa qualidade:\n\n1.º Imprimir unidade e continuidade aos serviços, interpondo a sua autoridade sempre que o exijam a regularidade e a eficiência dos mesmos;\n\n2.º Representar o Ministério, no caso de ausência ou impedimento do Ministro, em actos e cerimónias oficiais de carácter diplomático realizados no País;\n\n3.º Receber e conferenciar com os membros do corpo diplomático em Lisboa e comunicar-lhes as respostas que obriguem o Governo;\n\n4.º Propor e dar unidade às instruções gerais que devam ser transmitidas aos funcionários diplomáticos que partem a ocupar postos no estrangeiro;\n\n5.º Dar posse aos directores-gerais, quando o Ministro a não der pessoalmente;\n\n6.º Transferir, dentro do quadro do pessoal da Secretaria de Estado e de um para outro serviço, os funcionários de categoria inferior a chefe de Repartição, e chamar a trabalhar transitòriamente em qualquer divisão da Secretaria de Estado funcionários colocados em outro serviço da mesma;\n\n7.º Fazer distribuir toda a correspondência da Secretaria de Estado pelos diferentes serviços, com o poder de decidir, em caso de dúvida, a qual dos serviços pertence;\n\n8.º Apresentar ao Ministro todos os diplomas que tenham de ser submetidos à assinatura presidencial;\n\n9.º Assinar, no impedimento ou por delegação do Ministro, a correspondência que a este competir;\n\n10.º Emitir parecer sobre os assuntos de maior importância pendentes do Ministério; avocar, fazendo por escrito a requisição daqueles que estejam a correr pelas direcções-gerais, os processos que entenda dever submeter por si a despacho do Ministro e despachar aqueles para que lhe tenha sido dada delegação;\n\n11.º Assistir ao despacho dos directores-gerais com o Ministro, sempre que pela natureza das questões o julgue conveniente ou o Ministro para isso o convoque.\n\n§ único. Será por intermédio do secretário-geral que o Ministro dos Negócios Estrangeiros transmitirá aos diferentes organismos do estado as indicações relativas à eventual actuação destes no estrangeiro, com o fim de assegurar unidade e maior eficiência à actividade internacional portuguesa nos seus diferentes aspectos."
+   "markdown": "###### Artigo 5.º\n\n(Revogado.)"
   },
-  "4b61aa8e08efd723": {
+  "6ff2222baa81bab4": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 6.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 6.º\n\nO secretário-geral deverá convocar em conferência, com a frequência que entender conveniente, os directores-gerais do Ministério para o efeito:\n\n1.º De reforçar a solidariedade que deve existir entre a actividade política e a actividade económica na vida internacional do Estado;\n\n2.º De tornar regular e metódico, entre os dirigentes dos serviços da Secretaria de Estado, o conhecimento dos negócios pendentes e de assegurar que estes sejam conduzidos com o espírito de unidade que deve orientar a actividade do Estado na ordem internacional;\n\n3.º De obter o melhor rendimento do pessoal em serviço na Secretaria de Estado pela sua equitativa distribuição entre as direcções-gerais."
+   "markdown": "###### Artigo 6.º\n\n(Revogado.)"
   },
-  "09cf4d5f0cf7a1e7": {
+  "8dd690153acf884c": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 7.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 7.º\n\nAos Serviços Jurídicos e de Tratados compete:\n\n1.º Estabelecer a forma e o processamento dos tratados e mais actos internacionais em que o Estado Português seja parte;\n\n2.º Estudar e auxiliar a condução das questões contenciosas de carácter internacional que interessem a Portugal;\n\n3.º Dar parecer sobre as questões jurídicas que interessem ao Ministério dos Negócios Estrangeiros quando lhe seja determinado;\n\n4.º Desempenhar as funções de consultor jurídico quanto à interpretação dos tratados e convenções internacionais que vinculem o Estado, dando parecer, naquelas matérias, aos outros serviços do Estado;\n\n5.º Estudar as questões de direito internacional privado suscitadas na esfera de acção do Ministério;\n\n6.º Estudar os problemas relativos à declaração de neutralidade e das questões dela derivadas;\n\n7.º Ocupar-se e auxiliar a condução das arbitragens internacionais;\n\n8.º Ocupar-se das questões e processos relativos a pescas marítimas;\n\n9.º Ocupar-se das questões de direito marítimo que não tenham carácter meramente consular;\n\n10.º Ocupar-se dos processos de nacionalidade;\n\n11.º Ocupar-se das questões relativas aos direitos e garantias individuais dos portugueses estabelecidos em país estrangeiro;\n\n12.º Ocupar-se dos processos de extradição e dos de expulsão de estrangeiros;\n\n13.º Ocupar-se da transmissão e recebimento de cartas rogatórias."
+   "markdown": "###### Artigo 7.º\n\n(Revogado.)"
   },
-  "f9aab363b73585bc": {
+  "f858ab1832becf6a": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 8.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 8.º\n\nCompete aos Serviços de Informação e Imprensa:\n\n1.º Manter as relações do Ministério com os órgãos de informação nacionais e estrangeiros em todos os assuntos que interessem às relações internacionais de Portugal;\n\n2.º Assegurar as relações do Ministério com os demais serviços do Estado competentes em matéria de imprensa e informação;\n\n3.º Organizar informações e relatórios, com as matérias metòdicamente classificadas, acerca do que for publicado, de interesse para Portugal, na imprensa e nos órgãos de informação nacionais e estrangeiros, procurando salientar as correntes de opinião em cada país sobre os problemas internacionais de momento e sobre a política interna e externa de Portugal;\n\n4.º Transmitir os textos assim elaborados aos serviços internos do Ministério e às entidades portuguesas que forem indicadas por despacho ministerial e enviar às embaixadas o resumo dos acontecimentos nacionais mais importantes.\n\n5.º Promover a publicação de artigos ou notícias que interessem às relações internacionais de Portugal;\n\n6.º Organizar e conservar o arquivo dos recortes da imprensa e o ficheiro dos nomes que interessem às matérias da competência dos Serviços;\n\n7.º Manter contacto permanente com os adidos de imprensa e com os representantes das agências telegráficas, de modo a assegurar aos serviços do Ministério o conhecimento das mais recentes informações;\n\n8.º Preparar a visita de entidades estrangeiras que, a convite do Ministério, se deslocarem ao País em missão de informação política."
+   "markdown": "###### Artigo 8.º\n\n(Revogado.)"
   },
-  "a136308afdd042b5": {
+  "4abd38930aa662c0": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 9.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 9.º\n\nAos Serviços do Protocolo compete:\n\n1.º A direcção dos serviços relativos às recepções e solenidades em que tomem parte o Presidente da República, o Presidente do Conselho, o Ministro dos Negócios Estrangeiros ou qualquer outro membro do Governo, especialmente quando àquelas assistirem membros do corpo diplomático ou de missões estrangeiras acreditadas permanente ou temporàriamente em Portugal;\n\n2.º O expediente das audiências dos membros do corpo diplomático;\n\n3.º As questões de cerimonial, etiqueta e precedências;\n\n4.º A expedição de passaportes diplomáticos e a fiscalização do serviço da expedição de passaportes diplomáticos pelas embaixadas de Portugal;\n\n5.º A vigilância do cumprimento das leis, convenções e usos internacionais relativos aos privilégios e imunidades diplomáticas e consulares;\n\n6.º A expedição de bilhetes de identidade aos membros do corpo diplomático acreditado em Lisboa;\n\n7.º A parte do expediente da concessão de condecorações portuguesas a estrangeiros e de condecorações estrangeiras a portugueses a cargo do Ministério dos Negócios Estrangeiros;\n\n8.º A publicação regular da lista do corpo diplomático acreditado em Lisboa;\n\n9.º O formulário dos diplomas ou documentos de carácter diplomático, tais como: cartas de ratificação, credenciais e recredencais, plenos poderes, cartas de gabinete, cartas-patentes e notas diplomáticas;\n\n10.º A vigilância pela boa ordem, arranjo e aspecto interno do Ministério dos Negócios Estrangeiros, no que respeita a mobiliário, ornamentação, indumentária e assuntos semelhantes;\n\n11.º O reconhecimento das assinaturas dos agentes diplomáticos portugueses;\n\n12.º As relações e obrigações sociais do Ministro quando este assim determinar."
+   "markdown": "###### Artigo 9.º\n\n(Revogado.)"
   },
-  "3a42f39051e47963": {
+  "1ada4c3958c01930": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 10.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 10.º\n\nOs serviços do protocolo da Presidência da República são da responsabilidade do Ministério dos Negócios Estrangeiros e neles superintenderá o chefe do protocolo.\n\n§ único. Ficam a cargo da Secretaria-Geral da Presidência da República as despesas de expediente e quaisquer outras resultantes do serviço do protocolo da Presidência."
+   "markdown": "###### Artigo 10.º\n\n(Revogado.)"
   },
-  "4ca230844edf8f71": {
+  "2a56fec402f5072a": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 11.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 11.º\n\nCompete à Inspecção Diplomática e Consular:\n\n1.º Verificar o cumprimento das leis, regulamentos e instruções administrativas superiores por parte da Secretaria de Estado, das missões diplomáticas e dos consulados;\n\n2.º Proceder a inspecções diplomáticas ou consulares sempre que o Ministro o determine;\n\n3.º Propor ao Ministro a inspecção a qualquer serviço externo ou interno, quando o julgar necessário ou conveniente;\n\n4.º Elaborar os pertinentes relatórios em consequência das inspecções realizadas;\n\n5.º Visitar e verificar o estado dos edifícios que pertençam ao património público, à guarda do Ministério dos Negócios Estrangeiros;\n\n6.º Dar parecer sobre a eventual aquisição de edifícios para instalação de serviços do Ministério dos Negócios Estrangeiros;\n\n7.º Pronunciar-se sobre a aquisição de mobiliário para as missões diplomáticas e consulados;\n\n8.º Verificar o cumprimento das obrigações que incumbem às missões diplomáticas em matéria de representação;\n\n9.º Informar-se sobre a assistência prestada pelos consulados aos portugueses residentes na área da respectiva jurisdição consular.\n\n§ único. Compete à Inspecção Diplomática e Consular assegurar os serviços de expediente e secretaria das comissões temporárias previstas no § 2.º do artigo 185.º, assim como secretariar o instrutor e organizar os processos disciplinares ou de inquérito mandados instaurar pelo Ministro."
+   "markdown": "###### Artigo 11.º\n\n(Revogado.)"
   },
-  "addd6ab83c1bd010": {
+  "ad3518a08fc70630": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 12.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 12.º\n\nCompete à Repartição do Arquivo e Biblioteca:\n\n1.º Conservar, classificar e catalogar toda a correspondência, registos e documentos do Ministério respeitantes a negócios findos;\n\n2.º Coligir em microfilmes os documentos de maior interesse e valor;\n\n3.º Classificar e inventariar as cartas geográficas, mapas, plantas e roteiros existentes no arquivo;\n\n4.º Promover a incorporação no arquivo, à medida que as circunstâncias o permitirem, da documentação das missões diplomáticas e dos consulados cuja conservação nos respectivos arquivos se julgue dispensável do ponto de vista político e administrativo;\n\n5.º Fornecer aos diferentes serviços do Ministério, mediante requisição, os processos e mais documentos necessários para consulta e todos os elementos de estudo que pelos mesmos lhe sejam solicitados;\n\n6.º Prestar toda a possível colaboração aos investigadores nacionais e estrangeiros que requeiram a consulta de documentos antigos para efeito de estudos históricos, tendo sempre presente que as colecções do arquivo são consideradas documentos diplomáticos sob a guarda exclusiva do Ministério e que só podem ser facultadas à leitura, em todos os casos, mediante autorização do secretário-geral;\n\n7.º Fornecer aos arquivistas das diferentes repartições e serviços do Ministério indicações técnicas sobre a forma como deverão executar os trabalhos a seu cargo;\n\n8.º Proceder à reorganização das colecções da biblioteca, classificando-as, arrumando-as e catalogando-as de harmonia com os modernos princípios de biblioteconomia;\n\n9.º Manter actualizado o recheio bibliográfico da biblioteca em assuntos de política internacional, economia política, direito internacional e história;\n\n10.º Promover a colaboração activa da biblioteca com as diferentes repartições e serviços do Ministério, de modo a torná-la um instrumento de trabalho à disposição de todos os funcionários;\n\n11.º Elaborar a sinopse dos tratados e fazer a compilação dos actos solenes de carácter internacional de que Portugal tenha sido parte originária ou a que tenha aderido, ou em que tenha interesse, e da legislação e das disposições de execução permanente sobre os serviços do Ministério, das resoluções dos tribunais superiores portugueses em matéria de direito internacional e das decisões dos tribunais internacionais que Portugal tenha reconhecido ou perante os quais tenha sido parte."
+   "markdown": "###### Artigo 12.º\n\n(Revogado.)"
   },
-  "5f51f89f167e968b": {
+  "df7e60016409deef": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 13.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 13.º\n\nCompete à Secção da Cifra:\n\n1.º A recepção, registo, cifração, decifração e distribuição dos telegramas aos serviços e repartições da Secretaria de Estado e a expedição dos telegramas emitidos por esta sob a responsabilidade do Ministro ou de funcionários cuja categoria mínima será a de chefe de secção do quadro diplomático;\n\n2.º A guarda, uso e elaboração dos dicionários e das chaves de cifra;\n\n3.º A fiscalização do cumprimento, pelas entidades dependentes do Ministério, das directrizes superiores em matéria de correspondência telegráfica e de comunicações telefónicas e das instruções que forem dadas quanto ao âmbito de conhecimento e grau de confidência das mesmas comunicações.\n\n§ único. Os funcionários colocados na Secção da Cifra consideram-se em serviço permanente."
+   "markdown": "###### Artigo 13.º\n\n(Revogado.)"
   },
-  "72d8b392cdd6f372": {
+  "f70885165c8ffd46": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 14.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 14.º\n\nÀ Secção do Expediente compete:\n\n1.º Dar entrada à correspondência do Ministério, registá-la e distribuí-la pelos serviços competentes;\n\n2.º Expedir a correspondência, que para esse fim lhe for entregue pelos diferentes serviços do Ministério;\n\n3.º Proceder à organização, encerramento e expedição de malas diplomáticas;\n\n4.º Cuidar dos veículos que estejam ao seu serviço para recepção e expedição de correio e malas diplomáticas;\n\n5.º Receber, abrir e distribuir a correspondência dirigida à Secretaria de Estado pelas missões em mala diplomática;\n\n6.º Fiscalizar o devido uso das malas diplomáticas, quer na sua expedição, quer na sua recepção;\n\n7.º Comunicar superiormente qualquer infracção às regras e determinações existentes sobre o uso das malas diplomáticas."
+   "markdown": "###### Artigo 14.º\n\n(Revogado.)"
   },
   "f8a46fa7ff41482b": {
    "fragment_id": null,
@@ -1063,17 +1133,18 @@
    "changed_by": [],
    "markdown": "##### DIVISÃO V — Conselhos e comissões que funcionam na Secretaria de Estado"
   },
-  "b7521bbdcfcf1155": {
+  "63966ed483c381e2": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 31.º",
    "in_force_from": "1990-09-29",
    "changed_by": [
-    "Alterado pelo/a [Decreto n.º 149/76](https://diariodarepublica.pt/dr/detalhe/decreto/149-1976-507591), publicado em 1976-02-20."
+    "Alterado pelo/a [Decreto n.º 149/76](https://diariodarepublica.pt/dr/detalhe/decreto/149-1976-507591), publicado em 1976-02-20.",
+    "Revogado pelo/a [Decreto Regulamentar n.º 27/87](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/27-1987-666295), publicado em 1987-04-15, com efeitos a partir de 1987-04-20."
    ],
-   "markdown": "###### Artigo 31.º\n\nO conselho do Ministério é presidido pelo secretário-geral e constituído pelos directores-gerais, pelo inspector diplomático e consular, por doze representantes dos funcionários do serviço diplomático, por doze representantes do pessoal do quadro administrativo, por seis representantes do quadro do pessoal auxiliar ou por seis representantes do restante pessoal, eleitos por um período de dezoito meses, que participarão nas reuniões de acordo com o estipulado nos parágrafos 6.º a 8.º deste artigo.\n\n§ 1.º Os doze representantes do pessoal do serviço diplomático serão um ministro plenipotenciário de 1.ª classe, dois ministros plenipotenciários de 2.ª classe, dois conselheiros de embaixada, dois primeiros-secretários, dois segundos-secretários e três terceiros-secretários ou adidos de embaixada, eleitos para o efeito, respectivamente, pelos funcionários de cada uma daquelas categorias.\n\n§ 2.º Os doze representantes do pessoal do quadro administrativo serão dois chefes de secção, dois primeiros-oficiais, dois segundos-oficiais e dois terceiros-oficiais, três escriturários-dactilógrafos e uma telefonista, eleitos para o efeito, respectivamente, pelos funcionários de cada uma daquelas categorias.\n\n§ 3.º Os seis representantes do quadro do pessoal auxiliar serão eleitos para o efeito pelos funcionários daquele quadro.\n\n§ 4.º Os seis representantes do restante pessoal serão eleitos, para o efeito, por aquele pessoal de entre os funcionários do sector, devendo dois deles, pelo menos, ser escolhidos de entre os funcionários dos quadros do pessoal adjunto e do pessoal especializado.\n\n§ 5.º Só serão elegíveis unidades do pessoal colocado na Secretaria de Estado, devendo os representantes do quadro do serviço diplomático, além de satisfazerem aquela condição, pertencer aos quadros.\n\n§ 6.º Os representantes dos funcionários do serviço diplomático participarão apenas nas reuniões do conselho convocadas para apreciação das matérias referidas nos n.os 1), 6), 7) e 9) do artigo seguinte ou dos assuntos mencionados nos restantes números do mesmo artigo quando respeitem a funcionários daquele serviço.\n\n§ 7.º Os representantes dos funcionários dos quadros administrativo e auxiliar participarão apenas nas reuniões do conselho convocadas para apreciação dos assuntos referidos nos n.os 2), 3), 4), 5), 7), 8) e 9) do artigo seguinte quando respeitem a funcionários do mesmo quadro ou a serviços em que eles participem directamente.\n\n§ 8.º Os representantes do restante pessoal participarão apenas nas reuniões do conselho convocadas para apreciação dos assuntos referidos nos n.os 4), 5) e 7) do artigo seguinte quando respeitem àquele mesmo pessoal.\n\n> Alterado pelo/a [Decreto n.º 149/76](https://diariodarepublica.pt/dr/detalhe/decreto/149-1976-507591), publicado em 1976-02-20."
+   "markdown": "###### Artigo 31.º\n\n(Revogado.)\n\n> Alterado pelo/a [Decreto n.º 149/76](https://diariodarepublica.pt/dr/detalhe/decreto/149-1976-507591), publicado em 1976-02-20.\n\n> Revogado pelo/a [Decreto Regulamentar n.º 27/87](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/27-1987-666295), publicado em 1987-04-15, com efeitos a partir de 1987-04-20."
   },
-  "e145d9263ce4bab1": {
+  "f67674e4f4963c26": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 32.º",
@@ -1081,9 +1152,9 @@
    "changed_by": [
     "Alterado pelo/a [Decreto Regulamentar n.º 59/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/59-1979-364903), publicado em 1979-10-13."
    ],
-   "markdown": "###### Artigo 32.º\n\nCompete ao conselho do Ministério:\n\n1) Apreciar a aptidão dos adidos de embaixada para efeitos de ingresso definitivo no serviço diplomático;\n\n2) Ordenar os funcionários do serviço diplomático até à categoria de ministro plenipotenciário de 2.ª classe, inclusive, e os funcionários dos quadros administrativos e auxiliares, sempre que se verifique alguma vaga a preencher por promoção não dependente de concurso;\n\n3) Propor a colocação e transferência dos funcionários do serviço diplomático, com excepção dos chefes de missão diplomática ou de postos consulares em países em que não haja representação diplomática, e dos titulares dos cargos de direcção na Secretaria de Estado, assim como dos funcionários dos quadros administrativo e auxiliar, atendendo para o efeito às suas aptidões pessoais e profissionais, aos períodos de serviço por eles prestados na Secretaria de Estado e nos serviços externos e ainda à sua passagem pelas diversas classes dos postos;\n\n4) (Revogado.)\n\n5) Examinar as reclamações dos funcionários que se julguem preteridos nos seus direitos e emitir sobre elas pareceres sujeitos a homologação do Ministro;\n\n6) Dar o seu parecer sobre a colocação de funcionários do serviço diplomático na situação de disponibilidade e sobre a sua eventual chamada a serviço;\n\n7) Reunir as informações sobre os diversos serviços do Ministério e propor medidas adequadas à melhoria do seu funcionamento;\n\n8) Propor e dar parecer sobre alterações à Lei Orgânica e ao Regulamento do Ministério e pronunciar-se sobre todos os assuntos submetidos à sua apreciação pelo Ministro, assim como sobre os requerimentos dos funcionários em matéria cuja resolução envolva ponto de doutrina acerca de interpretação da lei;\n\n9) (Revogado.)\n\n> Alterado pelo/a [Decreto Regulamentar n.º 59/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/59-1979-364903), publicado em 1979-10-13."
+   "markdown": "###### Artigo 32.º\n\n(Revogado.)\n\n> Alterado pelo/a [Decreto Regulamentar n.º 59/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/59-1979-364903), publicado em 1979-10-13."
   },
-  "b743b4413feda4c5": {
+  "a0156539846947ca": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 33.º",
@@ -1091,9 +1162,9 @@
    "changed_by": [
     "Alterado pelo/a [Decreto n.º 149/76](https://diariodarepublica.pt/dr/detalhe/decreto/149-1976-507591), publicado em 1976-02-20."
    ],
-   "markdown": "###### Artigo 33.º\n\nO conselho do Ministério deverá reunir-se ordinariamente uma vez por mês e extraordinariamente sempre que for convocado por determinação do Ministro ou do seu presidente, ou a pedido da maioria dos seus membros. Nestes últimos dois casos o Ministro será obrigatoriamente informado da data da reunião do conselho e da respectiva ordem do dia.\n\n> Alterado pelo/a [Decreto n.º 149/76](https://diariodarepublica.pt/dr/detalhe/decreto/149-1976-507591), publicado em 1976-02-20."
+   "markdown": "###### Artigo 33.º\n\n(Revogado.)\n\n> Alterado pelo/a [Decreto n.º 149/76](https://diariodarepublica.pt/dr/detalhe/decreto/149-1976-507591), publicado em 1976-02-20."
   },
-  "6df9bf9fe16b7d50": {
+  "9ac1a3b79a22d95c": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 34.º",
@@ -1101,7 +1172,7 @@
    "changed_by": [
     "Alterado pelo/a [Decreto n.º 149/76](https://diariodarepublica.pt/dr/detalhe/decreto/149-1976-507591), publicado em 1976-02-20."
    ],
-   "markdown": "###### Artigo 34.º\n\nO conselho só poderá reunir se estiver presente a maioria dos seus membros, devendo as deliberações ser tomadas pela maioria absoluta dos membros presentes, quando não for exigido número superior. As deliberações sobre o mérito dos candidatos ao ingresso definitivo no serviço diplomático, sobre o mérito dos funcionários para efeito de ordenação para promoção, assim como sobre colocações e transferências, carecem de aprovação por maioria de dois terços dos membros presentes, no primeiro escrutínio, e por maioria simples, no segundo.\n\n§ 1.º A participação nas reuniões do conselho é obrigatória e na falta ou impedimento de algum dos seus membros efectivos deverão os respectivos substitutos legais ou suplentes substituí-los.\n\n§ 2.º O voto não poderá ser secreto, excepto quando decidido e expressamente solicitado. É obrigatória a participação na votação, não é permitida a abstenção e os membros do conselho poderão fazer registar na acta as suas declarações de voto.\n\n§ 3.º Em caso de empate, o presidente terá voto de qualidade.\n\n§ 4.º As decisões do conselho constam de actas, que serão lidas e assinadas pelos membros presentes e de que serão fornecidas cópias ao Ministro e aos Secretários de Estado.\n\n> Alterado pelo/a [Decreto n.º 149/76](https://diariodarepublica.pt/dr/detalhe/decreto/149-1976-507591), publicado em 1976-02-20."
+   "markdown": "###### Artigo 34.º\n\n(Revogado.)\n\n> Alterado pelo/a [Decreto n.º 149/76](https://diariodarepublica.pt/dr/detalhe/decreto/149-1976-507591), publicado em 1976-02-20."
   },
   "a50dae4fba82d627": {
    "fragment_id": null,
@@ -1547,31 +1618,33 @@
    "changed_by": [],
    "markdown": "#### SECÇÃO I — Admissão e acesso ao quadro diplomático"
   },
-  "6b2fbd36c9a93dcc": {
+  "332a875f11298a21": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 81.º",
-   "in_force_from": null,
-   "changed_by": [],
-   "markdown": "###### Artigo 81.º\n\nA admissão no serviço diplomático depende da aprovação em concurso de provas públicas a que só poderão ser admitidos os cidadãos portugueses originários, do sexo masculino, licenciados em Direito, História, Filosofia, Economia, Finanças ou pelo Instituto Superior de Ciências Sociais e Política Ultramarina, ou ainda diplomados em cursos de escolas superiores estrangeiras que sejam declarados pelo Ministério da Educação Nacional equivalentes a qualquer das referidas licenciaturas e que, além dos requisitos gerais para o provimento em cargos do Estado, possuam condições de virem a pertencer ao serviço diplomático, e que serão apreciadas pelo conselho do Ministério numa prova de apresentação prévia à admissão ao concurso."
+   "in_force_from": "1990-09-29",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 34-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-a-1989-442483), publicado em 1989-01-31, com efeitos a partir de 1989-02-01."
+   ],
+   "markdown": "###### Artigo 81.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 34-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-a-1989-442483), publicado em 1989-01-31, com efeitos a partir de 1989-02-01."
   },
-  "b8b9341bff5d21e3": {
+  "10d77f958fc37b3b": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 82.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 82.º\n\nAs nomeações serão feitas pela ordem da classificação no concurso e segundo as vagas existentes de terceiro-secretário e os nomeados sê-lo-ão com carácter provisório, por dois anos, com o título de adidos de embaixada, contando-se o serviço assim prestado naquele período como sendo prestado para todos os feitos na categoria de terceiro secretário de embaixada. Todos prestarão serviço na Secretaria de Estado durante esses dois anos, repartidos, na medida do possível, pelos diferentes serviços."
+   "markdown": "###### Artigo 82.º\n\n(Revogado.)"
   },
-  "11ba497ff10b9d74": {
+  "17680d805dc0402e": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 83.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 83.º\n\nNo fim de dois anos de serviço efectivo, o conselho do Ministério apreciará as aptidões para o serviço diplomático reveladas pelos adidos de embaixada e proporá ao Ministro os que julgue aptos a ingressar naquele serviço e os que devem ser exonerados sem direito a indemnização. Após livre decisão do Ministro sobre a proposta, os julgados aptos a ingressar no serviço diplomático serão submetidos a exame de línguas francesa e inglesa (redacção e conversação) e se satisfizerem a este exame serão, com a categoria de terceiro-secretário de embaixada, nomeados definitivamente.\n\n§ único. A fim de facilitar o conhecimento de línguas estrangeiras poderá o Ministro autorizar que seja subsidiado o seu ensino."
+   "markdown": "###### Artigo 83.º\n\n(Revogado.)"
   },
-  "ea87d48735aeed6d": {
+  "73395e9ebb165f6f": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 84.º",
@@ -1579,9 +1652,9 @@
    "changed_by": [
     "Alterado pelo/a [Decreto Regulamentar n.º 59/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/59-1979-364903), publicado em 1979-10-13."
    ],
-   "markdown": "###### Artigo 84.º\n\nA partir do ingresso no serviço diplomático, as promoções até à categoria de primeiro-secretário de embaixada, inclusive, fazem-se, por mérito ou por antiguidade, de entre os funcionários com três anos de bom e efectivo serviço na categoria imediatamente inferior.\n\n> Alterado pelo/a [Decreto Regulamentar n.º 59/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/59-1979-364903), publicado em 1979-10-13."
+   "markdown": "###### Artigo 84.º\n\n(Revogado.)\n\n> Alterado pelo/a [Decreto Regulamentar n.º 59/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/59-1979-364903), publicado em 1979-10-13."
   },
-  "5c61075977dda4ff": {
+  "bee640fe66c86681": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 85.º",
@@ -1589,9 +1662,9 @@
    "changed_by": [
     "Alterado pelo/a [Decreto Regulamentar n.º 59/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/59-1979-364903), publicado em 1979-10-13."
    ],
-   "markdown": "###### Artigo 85.º\n\nAs promoções referidas no artigo anterior obedecem à ordem estabelecida pelo conselho do Ministério, nos termos seguintes:\n\na) O conselho do Ministério, ao elaborar as listas de promoção, deve, a seguir a cada três propostas de promoção por mérito, indicar para o mesmo efeito o funcionário mais antigo na categoria dos funcionários a promover;\n\nb) O Ministro não poderá deixar de obedecer à ordem estabelecida pelo conselho do Ministério sempre que a promoção for por antiguidade, mas, se pretender efectuar qualquer promoção por mérito não coincidente com a ordem proposta pelo conselho, deverá justificar e fundamentar a sua decisão.\n\n> Alterado pelo/a [Decreto Regulamentar n.º 59/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/59-1979-364903), publicado em 1979-10-13."
+   "markdown": "###### Artigo 85.º\n\n(Revogado.)\n\n> Alterado pelo/a [Decreto Regulamentar n.º 59/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/59-1979-364903), publicado em 1979-10-13."
   },
-  "678d79a4640b2fd7": {
+  "a54755bf92f6d15b": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 86.º",
@@ -1599,9 +1672,9 @@
    "changed_by": [
     "Alterado pelo/a [Decreto Regulamentar n.º 59/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/59-1979-364903), publicado em 1979-10-13."
    ],
-   "markdown": "###### Artigo 86.º\n\nAs promoções a conselheiro de embaixada e a ministro plenipotenciário de 2.ª classe obedecem à ordem estabelecida pelo conselho do Ministério e fazem-se por mérito de entre os funcionários com três anos de bom e efectivo serviço na categoria imediatamente inferior, dependendo ainda a promoção a conselheiro de embaixada da permanência do funcionário nos serviços externos por tempo não inferior a seis anos.\n\n> Alterado pelo/a [Decreto Regulamentar n.º 59/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/59-1979-364903), publicado em 1979-10-13."
+   "markdown": "###### Artigo 86.º\n\n(Revogado.)\n\n> Alterado pelo/a [Decreto Regulamentar n.º 59/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/59-1979-364903), publicado em 1979-10-13."
   },
-  "59ede6c1fef397ad": {
+  "0d2948dc8682f19b": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 87.º",
@@ -1609,17 +1682,17 @@
    "changed_by": [
     "Alterado pelo/a [Decreto Regulamentar n.º 59/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/59-1979-364903), publicado em 1979-10-13."
    ],
-   "markdown": "###### Artigo 87.º\n\nCaso o Ministro pretenda efectuar qualquer promoção não coincidente com a ordem constante das listas de promoção estabelecidas pelo conselho, nos termos do artigo anterior, deverá justificar e fundamentar a sua decisão.\n\n> Alterado pelo/a [Decreto Regulamentar n.º 59/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/59-1979-364903), publicado em 1979-10-13."
+   "markdown": "###### Artigo 87.º\n\n(Revogado.)\n\n> Alterado pelo/a [Decreto Regulamentar n.º 59/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/59-1979-364903), publicado em 1979-10-13."
   },
-  "69ea1feee989d0bd": {
+  "d1f4f5f4d7f16872": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 88.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 88.º\n\nOs ministros plenipotenciários de 1.ª classe são escolhidos pelo Ministro, na base da livre apreciação dos serviços prestados, entre os ministros plenipotenciários de 2.ª classe com três anos de bom e efectivo serviço nesta categoria."
+   "markdown": "###### Artigo 88.º\n\n(Revogado.)"
   },
-  "98b8b209920ea2c1": {
+  "34c096b92e72dd15": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 89.º",
@@ -1627,15 +1700,15 @@
    "changed_by": [
     "Alterado pelo/a [Decreto Regulamentar n.º 59/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/59-1979-364903), publicado em 1979-10-13."
    ],
-   "markdown": "###### Artigo 89.º\n\nNenhum funcionário do serviço diplomático poderá ser promovido duas vezes consecutivas no mesmo país.\n\n> Alterado pelo/a [Decreto Regulamentar n.º 59/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/59-1979-364903), publicado em 1979-10-13."
+   "markdown": "###### Artigo 89.º\n\n(Revogado.)\n\n> Alterado pelo/a [Decreto Regulamentar n.º 59/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/59-1979-364903), publicado em 1979-10-13."
   },
-  "5392127c628a5a69": {
+  "5a705a9bd012d69d": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 90.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 90.º\n\nOs embaixadores são nomeados, por livre escolha do Ministro, entre os ministros plenipotenciários de 1.ª classe, conforme as circunstâncias e atendendo aos méritos excepcionais do funcionário.\n\n§ único. A escolha de embaixadores pode igualmente ser feita de entre pessoas estranhas ao quadro do Ministério dos Negócios Estrangeiros que se hajam distinguido por sua capacidade e mérito, mas neste caso pertencerá ao Conselho de Ministros a nomeação."
+   "markdown": "###### Artigo 90.º\n\n(Revogado.)\n\n§ único. A escolha de embaixadores pode igualmente ser feita de entre pessoas estranhas ao quadro do Ministério dos Negócios Estrangeiros que se hajam distinguido por sua capacidade e mérito, mas neste caso pertencerá ao Conselho de Ministros a nomeação."
   },
   "9a1a2e3897ec4caf": {
    "fragment_id": null,
@@ -1653,63 +1726,65 @@
    "changed_by": [],
    "markdown": "#### SECÇÃO II — Admissão e acesso do pessoal administrativo da Secretaria de Estado"
   },
-  "38ee55ef512c8bfb": {
+  "b049d15befda9f80": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 92.º",
-   "in_force_from": null,
-   "changed_by": [],
-   "markdown": "###### Artigo 92.º\n\nOs funcionários do quadro burocrático da Secretaria de Estado serão contratados, mas os contratos serão dependentes da aprovação em concurso de provas práticas."
+   "in_force_from": "1990-09-29",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 366/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/366-1982-374266), publicado em 1982-09-09."
+   ],
+   "markdown": "###### Artigo 92.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 366/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/366-1982-374266), publicado em 1982-09-09."
   },
-  "1651e8cc5bc6a0ca": {
+  "3f30761559ccfeb8": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 93.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 93.º\n\nA admissão do pessoal burocrático é feita mediante concurso para dactilógrafo ou terceiro-oficial."
+   "markdown": "###### Artigo 93.º\n\n(Revogado.)"
   },
-  "8eed81cf6674fbc8": {
+  "98304b305a929f18": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 94.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 94.º\n\nA admissão ao concurso para dactilógrafo é aberta a todos os cidadãos portugueses originários, de ambos os sexos, maiores ou emancipados, que tenham menos de 35 anos de idade e possuam as habilitações mínimas do 1.º ciclo dos liceus ou equivalência concedida pelo Ministério da Educação Nacional."
+   "markdown": "###### Artigo 94.º\n\n(Revogado.)"
   },
-  "0fe4184c5c1d005b": {
+  "9854e7b0faa9a37c": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 95.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 95.º\n\nA admissão ao concurso para terceiro-oficial é aberta a todos os cidadãos portugueses originários, de ambos os sexos, maiores ou emancipados, que tenham menos de 35 anos de idade e possuam as habilitações mínimas do 2.º ciclo dos liceus ou equivalência concedida pelo Ministério da Educação Nacional.\n\n§ único. O concurso para terceiro-oficial incluirá uma prova facultativa de estenografia."
+   "markdown": "###### Artigo 95.º\n\n(Revogado.)"
   },
-  "7b5ea7207858c2b8": {
+  "156ac985b468e11d": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 96.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 96.º\n\nO limite de idade fixado em 35 anos nos artigos 93.º e 94.º não se aplica aos candidatos que sejam já funcionários públicos."
+   "markdown": "###### Artigo 96.º\n\n(Revogado.)"
   },
-  "48be6535241a01bd": {
+  "e1170bd3500b0f10": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 97.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 97.º\n\nAs nomeações para dactilógrafo e as promoções a terceiro-oficial serão feitas pela ordem de classificação no concurso."
+   "markdown": "###### Artigo 97.º\n\n(Revogado.)"
   },
-  "40990f3700559885": {
+  "340d568e243a6e6c": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 98.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 98.º\n\nAs promoções para os lugares de escriturário serão efectuadas à medida que se verificarem vagas no respectivo quadro e recairão, de harmonia com um critério de antiguidade, sobre os dactilógrafos considerados aptos pelo conselho do Ministério e que reunirem as condições de acesso previstas na lei geral."
+   "markdown": "###### Artigo 98.º\n\n(Revogado.)"
   },
-  "9d78c91e018d12d0": {
+  "a2e6d465675896b1": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 99.º",
@@ -1717,7 +1792,7 @@
    "changed_by": [
     "Alterado pelo/a [Decreto n.º 149/76](https://diariodarepublica.pt/dr/detalhe/decreto/149-1976-507591), publicado em 1976-02-20."
    ],
-   "markdown": "###### Artigo 99.º\n\nAs promoções para os lugares de segundo-oficial, primeiro-oficial e chefe de secção serão efectuadas à medida que se verificarem vagas no respectivo quadro, na proporção de três por mérito e uma por antiguidade.\n\n§ 1.º O conselho do Ministério, ao elaborar a lista de promoções por mérito, deverá ter em conta os serviços prestados e o conhecimento de línguas estrangeiras, para cuja aprendizagem poderá o Ministro autorizar a concessão de subsídios.\n\n§ 2.º Os funcionários do quadro administrativo não poderão ser promovidos mais de uma vez no mesmo país ou permanecer mais de cinco anos no mesmo posto.\n\n> Alterado pelo/a [Decreto n.º 149/76](https://diariodarepublica.pt/dr/detalhe/decreto/149-1976-507591), publicado em 1976-02-20."
+   "markdown": "###### Artigo 99.º\n\n(Revogado.)\n\n> Alterado pelo/a [Decreto n.º 149/76](https://diariodarepublica.pt/dr/detalhe/decreto/149-1976-507591), publicado em 1976-02-20."
   },
   "22cc012dacf52752": {
    "fragment_id": null,
@@ -2099,21 +2174,23 @@
    "changed_by": [],
    "markdown": "##### DIVISÃO III — Abonos para despesas de instalação individual"
   },
-  "c7655e8494891c43": {
+  "7a0a93bc26eca209": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 140.º",
-   "in_force_from": null,
-   "changed_by": [],
-   "markdown": "###### Artigo 140.º\n\nAos funcionários do serviço diplomático pela primeira vez nomeados com carácter definitivo, em relação a cada categoria, para o exercício de cargos no estrangeiro, serão abonadas para despesas de instalação as quantias fixas seguintes:\n\na) Aos terceiros-secretários, 40000$00;\n\nb) Aos segundos-secretários, 60000$00;\n\nc) Aos primeiros-secretários, 80000$00;\n\nd) Aos conselheiros, 100000$00;\n\ne) Aos ministros, 150000$00;\n\nf) Aos embaixadores, 180000$00.\n\n§ 1.º Nos abonos previstos no corpo deste artigo serão deduzidos 50 por cento do que o funcionário haja percebido nas categorias inferiores, excepto quando se verificar a primeira nomeação com carácter definitivo efectuada após a vigência do [Decreto-Lei n.º 47331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47331-1966-477374), de 23 de Novembro de 1966. Neste caso deduzir-se-ão no abono relativo à categoria do funcionário nomeado 50 por cento do total que a título de instalação lhe haja sido abonado ao abrigo do disposto no artigo 120.º do regulamento aprovado pelo [Decreto n.º 29970](https://diariodarepublica.pt/dr/detalhe/decreto/29970-1939-186275), de 13 de Outubro de 1939, e do artigo 9.º do [Decreto-Lei n.º 35985](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35985-1946-149417), de 23 de Novembro de 1946.\n\n§ 2.º As importâncias calculadas nos termos do parágrafo anterior serão reduzidas de 10 por cento quando o funcionário seja colocado em posto a que corresponda o direito a residir em casa mobilada e esta lhe seja fornecida pelo Estado."
+   "in_force_from": "1990-09-29",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 97/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-1982-608477), publicado em 1982-04-03."
+   ],
+   "markdown": "###### Artigo 140.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 97/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-1982-608477), publicado em 1982-04-03."
   },
-  "68f0f4bf6d9b18f1": {
+  "a08bef253181dce6": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 141.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 141.º\n\nOs funcionários com direito a abono para despesas de instalação poderão receber metade desse abono dentro dos quinze dias anteriores ao da portaria e a outra metade a seguir à posse efectiva do cargo.\n\n§ único. Os chefes de missão, que até seis meses depois de terem tomado posse do seu cargo no estrangeiro não estiverem instalados em casa própria perdem o direito a metade do abono para despesas de instalação, que será reposta por dedução nos abonos de representação a que tiverem direito."
+   "markdown": "###### Artigo 141.º\n\n(Revogado.)"
   },
   "d21b7ea3b3ec764a": {
    "fragment_id": null,
@@ -2123,7 +2200,7 @@
    "changed_by": [],
    "markdown": "###### Artigo 142.º\n\nOs funcionários do quadro administrativo da Secretaria de Estado colocados no estrangeiro terão direito a um abono para instalação correspondente a um duodécimo do vencimento e residência que lhes competir no lugar que vão ocupar."
   },
-  "289c32306589aa24": {
+  "77e960fa42b68d04": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 143.º",
@@ -2131,7 +2208,7 @@
    "changed_by": [
     "Alterado pelo/a [Decreto n.º 433/72](https://diariodarepublica.pt/dr/detalhe/decreto/433-1972-690465), publicado em 1972-11-03."
    ],
-   "markdown": "###### Artigo 143.º\n\nAos funcionários do serviço diplomático colocados com carácter definitivo no estrangeiro que sejam transferidos ou promovidos para a Secretaria de Estado, ou que regressem definitivamente a Portugal por força do disposto no artigo 181.º deste regulamento, serão abonados 50 por cento da verba para despesas de instalação correspondente à sua categoria.\n\n§ único. Idêntico abono para despesas de instalação será também atribuído aos funcionários do serviço diplomático que regressem ao País após três anos seguidos de exercício no estrangeiro, qualquer que tenha sido aí a situação. Nos casos em que o regresso do funcionário se dê por ter cessado a comissão de serviço por ele desempenhada no estrangeiro nos termos do artigo 152.º do Regulamento, o abono será processado logo que reassuma o exercício do seu cargo na Secretaria de Estado. Nos restantes casos, nomeadamente naqueles em que o regresso do funcionário se tenha dado em seguimento à sua exoneração ou à sua colocação na situação prevista no artigo 169.º deste Regulamento ou tenha resultado de qualquer facto de ordem política internacional, o abono será feito quando, por despacho ministerial, assim for julgado adequado.\n\n> Alterado pelo/a [Decreto n.º 433/72](https://diariodarepublica.pt/dr/detalhe/decreto/433-1972-690465), publicado em 1972-11-03."
+   "markdown": "###### Artigo 143.º\n\n(Revogado.)\n\n> Alterado pelo/a [Decreto n.º 433/72](https://diariodarepublica.pt/dr/detalhe/decreto/433-1972-690465), publicado em 1972-11-03."
   },
   "c8eaef1599fb94a7": {
    "fragment_id": null,
@@ -2231,13 +2308,13 @@
    "changed_by": [],
    "markdown": "###### Artigo 153.º\n\nAs remunerações e abonos para as missões e comissões de que trata o artigo anterior serão fixados, em cada caso, pelo Ministro dos Negócios Estrangeiros, segundo tabela estabelecida de acordo com o Ministro das Finanças.\n\n§ 1.º Exceptuam-se do disposto neste artigo as missões de serviço no estrangeiro quando se trate de simples substituições temporárias de outros funcionários ou do exercício temporário, em postos diplomáticos ou consulares de carreira, de funções correspondentes à categoria do funcionário nomeado, pois neste caso a fixação de remuneração será feita em despacho do Ministro dos Negócios Estrangeiros. Não poderá, porém, a remuneração mensal de tais comissões ser superior à que ao funcionário caberia se fosse colocado definitivamente no posto que vai ocupar, e não poderá ser atribuída ajuda de custo extraordinária por uma só vez superior a metade dessa remuneração.\n\n§ 2.º Aos funcionários do serviço diplomático mandados gerir consulados não de carreira, ao abrigo do disposto no § único do artigo 79.º deste regulamento, serão abonados o vencimento da sua categoria e o abono de representação que for fixado por despacho ministerial."
   },
-  "ee6a3b7ad9ac2ff7": {
+  "94d245be8243fcab": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 154.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 154.º\n\nAos funcionários do Ministério dos Negócios Estrangeiros encarregados de comissão no estrangeiro a que seja atribuída remuneração especial e a que não corresponda abono para instalação poderá ser antecipada, no máximo, a importância correspondente a 30 dias de remuneração, quando do diploma de nomeação se reconheça que a comissão deve exceder um mês.\n\n§ único. Se o prazo fixado ou previsto para a comissão for inferior a um mês, adiantar-se-á ao comissionado, por ocasião da sua partida para o estrangeiro, a importância correspondente ao prazo fixado ou previsto."
+   "markdown": "###### Artigo 154.º\n\n(Revogado.)"
   },
   "357a58ac161c6068": {
    "fragment_id": null,
@@ -2519,13 +2596,15 @@
    "changed_by": [],
    "markdown": "#### SECÇÃO VII — Limite de idade e aposentação"
   },
-  "411f842574538fc1": {
+  "f29b9fa65c17c429": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 181.º",
-   "in_force_from": null,
-   "changed_by": [],
-   "markdown": "###### Artigo 181.º\n\nÉ aplicável aos funcionários do Ministério dos Negócios Estrangeiros, para o serviço na Secretaria de Estado, o limite de idade estabelecida na lei geral. Para o serviço permanente no estrangeiro o limite de idade será de 65 anos.\n\n§ único. Os funcionários que atingirem o limite de idade para o serviço permanente no estrangeiro serão aposentados se tiverem 40 anos de serviço; no caso contrário, poderão ser colocados na Secretaria de Estado em lugar correspondente à sua categoria, se existir vaga, ou ser passados à disponibilidade."
+   "in_force_from": "1990-09-29",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 78/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-1983-311007), publicado em 1983-02-09."
+   ],
+   "markdown": "###### Artigo 181.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 78/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-1983-311007), publicado em 1983-02-09."
   },
   "14b6bf985c17a34a": {
    "fragment_id": null,

@@ -75,27 +75,44 @@
      "title": "Decreto-Lei n.º 4/2001",
      "published": "2001-01-10",
      "dre_path": "/dr/detalhe/decreto-lei/4-2001-239249"
+    },
+    {
+     "id": "pt:dre:322974:por",
+     "title": "Lei n.º 33/99",
+     "published": "1999-05-18",
+     "dre_path": "/dr/detalhe/lei/33-1999-322974"
     }
    ],
    "changes": [
     "Revoga Artigo 3.º",
-    "Revoga Artigo 7.º"
+    "Revoga Artigo 7.º",
+    "Revoga Artigo 1",
+    "Revoga Artigo 2",
+    "Revoga Artigo 3",
+    "Revoga Artigo 4",
+    "Revoga Artigo 5",
+    "Revoga Artigo 6",
+    "Revoga Artigo 8",
+    "Revoga Artigo 9",
+    "Revoga Artigo 10",
+    "Revoga Artigo 11",
+    "Revoga Artigo 12"
    ],
    "fragments": [
     "f24a4cf7019c12d0",
     "983f9cf2d2b7d6ee",
-    "bf06ad5dd2362423",
-    "65f3e85bc253f95f",
-    "1f84b3d612b31616",
-    "8579c7bfb4eadf16",
-    "cfc0050657d0df76",
-    "f767d4782908246c",
+    "25df16f984d914a1",
+    "600a4493373c04c0",
+    "4db819da258bbe43",
+    "a4eb3100444f1592",
+    "bd8961b3b6dcf03d",
+    "d68fc20c440b36db",
     "9e4d3558d36326ec",
-    "7ee66655f1b2eea4",
-    "4a3a16f3f602867f",
-    "20e3e8638794f044",
-    "2b1dbc1e50e00db5",
-    "346c349e73317197",
+    "d48906ad0b885c82",
+    "147f1ba0ed786ed2",
+    "16c44d581aa050dc",
+    "940a8569afacc39f",
+    "9511195f41017747",
     "5123815de71591f9",
     "008fb4a6003a9607",
     "32aa807601ad85b8",
@@ -563,7 +580,25 @@
    "changed_by": [],
    "markdown": "###### Artigo 45.º — Entrada em vigor. Norma revogatória\n\n1 - A presente lei entra em vigor com o decreto-lei que a regulamentar.\n\n2 - Ficam revogados, a partir da entrada em vigor do regulamento previsto no número anterior, os seguintes diplomas ou dispositivos legais:\n\na) Artigos 22.º, 23.º e 24.º do Decreto-Lei n.º 33725, de 21 de Junho de 1944;\n\nb) Decreto-Lei n.º 64/76, de 24 de Janeiro;\n\nc) Decreto-Lei n.º 408/76, de 27 de Maio;\n\nd) Decreto-Lei n.º 787/76, de 2 de Novembro;\n\ne) Artigo 2.º do Decreto-Lei n.º 851/76, de 17 de Dezembro;\n\nf) Decreto-Lei n.º 511/77, de 14 de Dezembro;\n\ng) Decreto-Lei n.º 29/79, de 22 de Fevereiro;\n\nh) Decreto-Lei n.º 295/81, de 24 de Outubro;\n\ni) Decreto-Lei n.º 39/83, de 25 de Janeiro;\n\nj) Decreto-Lei n.º 357/86, de 25 de Outubro;\n\nl) Artigos 3.º e 4.º do Decreto-Lei n.º 29/87, de 14 de Janeiro;\n\nm) Decreto-Lei n.º 60/87, de 2 de Fevereiro;\n\nn) Decreto-Lei n.º 102/87, de 6 de Março;\n\no) Decreto-Lei n.º 305/88, de 2 de Setembro;\n\np) Decreto-Lei n.º 325/89, de 26 de Setembro.\n\nAprovada em 2 de Abril de 1991.\n\nO Presidente da Assembleia da República, Vítor Pereira Crespo.\n\nPromulgada em 24 de Abril de 1991.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendada em 30 de Abril de 1991.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
   },
-  "1f84b3d612b31616": {
+  "25df16f984d914a1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2001-01-15",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 33/99](https://diariodarepublica.pt/dr/detalhe/lei/33-1999-322974), publicado em 1999-05-18, com efeitos a partir de 1999-05-23."
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 33/99](https://diariodarepublica.pt/dr/detalhe/lei/33-1999-322974), publicado em 1999-05-18, com efeitos a partir de 1999-05-23."
+  },
+  "600a4493373c04c0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Ficheiro central. Bilhete de identidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Ficheiro central. Bilhete de identidade\n\n(Revogado.)"
+  },
+  "4db819da258bbe43": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 3.º — Posse do bilhete de identidade",
@@ -571,7 +606,31 @@
    "changed_by": [
     "Revogado pelo/a Artigo 162.º do/a [Decreto-Lei n.º 4/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-2001-239249), publicado em 2001-01-10."
    ],
-   "markdown": "###### Artigo 3.º — Posse do bilhete de identidade\n\n1 - A posse do bilhete de identidade é obrigatória quando imposta por lei especial e ainda nos seguintes casos:\n\na) Para exercício de cargo público civil e admissão ao respectivo concurso;\n\nb) Para obtenção de passaportes, salvo os diplomáticos e especiais;\n\nc) Para obtenção de carta de caçador ou licença de caça ou licença de uso ou porte de arma;\n\nd) Para obtenção de carta ou licença de condução de veículos motorizados ou aeronaves;\n\ne) Para os obrigados a declarações fiscais ou sujeitos ao pagamento de contribuições e impostos;\n\nf) Para os nubentes, nos termos previstos na lei do registo civil;\n\ng) Para exame de admissão e matrícula em escola de ensino preparatório, secundário, médio ou superior;\n\nh) (Revogada.)\n\n2 - Quando os funcionários públicos não puderem obter o bilhete de identidade antes da investidura no cargo, esta ser-lhes-á conferida provisoriamente, cumprindo aos interessados apresentá-lo no prazo de 60 dias para que se converta em definitiva.\n\n3 - No caso de o bilhete de identidade não ser apresentado dentro do prazo indicado no número anterior, a investidura provisória considera-se sem efeito.\n\n4 - A não apresentação do bilhete de identidade não impede a matrícula a que se refere a alínea g) do n.º 1, com carácter provisório, e fica sem efeito se o interessado não apresentar o bilhete na secretaria da escola dentro do prazo de 60 dias.\n\n> Revogado pelo/a Artigo 162.º do/a [Decreto-Lei n.º 4/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-2001-239249), publicado em 2001-01-10."
+   "markdown": "###### Artigo 3.º — Posse do bilhete de identidade\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 162.º do/a [Decreto-Lei n.º 4/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-2001-239249), publicado em 2001-01-10."
+  },
+  "a4eb3100444f1592": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Elementos da identificação civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Elementos da identificação civil\n\n(Revogado.)"
+  },
+  "bd8961b3b6dcf03d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Filiação e impressão digital",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Filiação e impressão digital\n\n(Revogado.)"
+  },
+  "d68fc20c440b36db": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Número do bilhete de identidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Número do bilhete de identidade\n\n(Revogado.)"
   },
   "9e4d3558d36326ec": {
    "fragment_id": null,
@@ -582,6 +641,46 @@
     "Revogado pelo/a Artigo 162.º do/a [Decreto-Lei n.º 4/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-2001-239249), publicado em 2001-01-10."
    ],
    "markdown": "###### Artigo 7.º — Bilhete de identidade de estrangeiros\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 162.º do/a [Decreto-Lei n.º 4/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-2001-239249), publicado em 2001-01-10."
+  },
+  "d48906ad0b885c82": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Cidadãos brasileiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Cidadãos brasileiros\n\n(Revogado.)"
+  },
+  "147f1ba0ed786ed2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Acesso à informação sobre identificação civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Acesso à informação sobre identificação civil\n\n(Revogado.)"
+  },
+  "16c44d581aa050dc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Acesso de terceiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Acesso de terceiros\n\n(Revogado.)"
+  },
+  "940a8569afacc39f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Formas de acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Formas de acesso\n\n(Revogado.)"
+  },
+  "9511195f41017747": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Acesso directo à informação civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Acesso directo à informação civil\n\n(Revogado.)"
   }
  }
 }

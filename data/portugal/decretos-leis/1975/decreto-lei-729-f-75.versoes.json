@@ -46,6 +46,18 @@
      "title": "Decreto-Lei n.º 49/86",
      "published": "1986-03-14",
      "dre_path": "/dr/detalhe/decreto-lei/49-1986-196762"
+    },
+    {
+     "id": "pt:dre:468853:por",
+     "title": "Decreto-Lei n.º 2/78",
+     "published": "1978-01-09",
+     "dre_path": "/dr/detalhe/decreto-lei/2-1978-468853"
+    },
+    {
+     "id": "pt:dre:383377:por",
+     "title": "Decreto-Lei n.º 51/79",
+     "published": "1979-03-22",
+     "dre_path": "/dr/detalhe/decreto-lei/51-1979-383377"
     }
    ],
    "changes": [
@@ -55,7 +67,10 @@
     "Altera Artigo 29.º",
     "Altera Artigo 31.º",
     "Altera Artigo 10.º",
-    "Altera Artigo 16.º"
+    "Altera Artigo 16.º",
+    "Revoga Artigo 7",
+    "Revoga Artigo 8",
+    "Revoga Artigo 31"
    ],
    "fragments": [
     "46515ab7db766402",
@@ -69,8 +84,8 @@
     "e5a2a865a4280d7e",
     "a121735c48decde6",
     "5ecf5d954c78f606",
-    "57938ebf048d5322",
-    "3cc39c86571abc05",
+    "53b679e7c80b15c2",
+    "f858ab1832becf6a",
     "72e5953fde85d920",
     "e9fe672ddde1d8b6",
     "d72b1dcd825d21bc",
@@ -100,7 +115,7 @@
     "1035142a4fed7b47",
     "7ffc6c49cd8a5b15",
     "9ec3f7a2e0d216bf",
-    "a0223c1aa9d15fdf",
+    "45fb0bf9f25a2fd9",
     "7c858445a4e9bfb3",
     "043385cfdeb2bcfb",
     "50bbf741ff6b26ba"
@@ -288,21 +303,23 @@
    "changed_by": [],
    "markdown": "###### Artigo 6.º\n\n1. Os conselhos de gestão devem divulgar, explicitamente e por escrito, a política de pessoal e organizar os instrumentos adequados a essa mesma política.\n\n2. A política de pessoal será definida após audição dos órgãos institucionais de representação dos trabalhadores."
   },
-  "57938ebf048d5322": {
+  "53b679e7c80b15c2": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 7.º",
-   "in_force_from": null,
-   "changed_by": [],
-   "markdown": "###### Artigo 7.º\n\nOs membros dos conselhos de gestão, bem como os restantes trabalhadores, e, ainda, os membros das comissões de fiscalização não podem, nos termos da lei, revelar factos ou elementos cujo conhecimento lhes advenha do exercício das funções e exclusivamente por virtude desse exercício."
+   "in_force_from": "1986-03-19",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 2/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-1978-468853), publicado em 1978-01-09."
+   ],
+   "markdown": "###### Artigo 7.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 2/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-1978-468853), publicado em 1978-01-09."
   },
-  "3cc39c86571abc05": {
+  "f858ab1832becf6a": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 8.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 8.º\n\nOs membros dos conselhos de gestão, bem como os restantes trabalhadores, e, ainda, os membros das comissões de fiscalização não podem, do mesmo modo, depor ou prestar declarações em juízo ou fora dele sobre factos de que devam guardar segredo profissional."
+   "markdown": "###### Artigo 8.º\n\n(Revogado.)"
   },
   "e9fe672ddde1d8b6": {
    "fragment_id": null,
@@ -536,15 +553,16 @@
    "changed_by": [],
    "markdown": "###### Artigo 30.º\n\n1. As instituições de crédito nacionalizadas obrigam-se pela assinatura de dois membros do respectivo conselho de gestão.\n\n2. O conselho de gestão pode, em acta, delegar os poderes referidos no número anterior nos membros que o integram ou em outros trabalhadores da instituição, estabelecendo, em cada caso, os limites e condições."
   },
-  "a0223c1aa9d15fdf": {
+  "45fb0bf9f25a2fd9": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 31.º",
    "in_force_from": "1986-03-19",
    "changed_by": [
-    "Alterado pelo/a [Decreto-Lei n.º 513/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-1977-279593), publicado em 1977-12-14."
+    "Alterado pelo/a [Decreto-Lei n.º 513/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-1977-279593), publicado em 1977-12-14.",
+    "Revogado pelo/a [Decreto-Lei n.º 51/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-1979-383377), publicado em 1979-03-22."
    ],
-   "markdown": "###### Artigo 31.º\n\n1 - Salvo quando em representação da instituição, é vedado aos membros do conselho de gestão e da comissão de fiscalização, bem como a todos os demais trabalhadores, fazer parte dos corpos gerentes de outra instituição de crédito ou nesta exercer cumulativamente quaisquer funções.\n\n2 - Os membros do conselho de gestão não poderão exercer quaisquer funções profissionais remuneradas fora da instituição ou ser membros dos corpos sociais de qualquer sociedade.\n\n3 - Os membros do conselho de administração ou de gestão das instituições de crédito do sector público poderão optar, uma vez cessadas as suas funções, pela carreira de gestor público ou pela de trabalhador bancário, em lugar de responsabilidade directiva ou a esse equiparado, a exercer em qualquer daquelas instituições por designação do Ministro das Finanças.\n\n4 - Sempre que os membros dos órgãos de gestão referidos no número anterior optem pela qualidade de trabalhador bancário, será considerado o tempo de exercício de quaisquer funções no sector público ou no sistema bancário.\n\n5 - Os demais trabalhadores da instituição não poderão exercer funções profissionais remuneradas fora dela ou ser membros dos corpos sociais de qualquer sociedade, salvo autorização expressa do conselho de gestão, que deverá ser renovada anualmente.\n\n> Alterado pelo/a [Decreto-Lei n.º 513/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-1977-279593), publicado em 1977-12-14."
+   "markdown": "###### Artigo 31.º\n\n1 - Salvo quando em representação da instituição, é vedado aos membros do conselho de gestão e da comissão de fiscalização, bem como a todos os demais trabalhadores, fazer parte dos corpos gerentes de outra instituição de crédito ou nesta exercer cumulativamente quaisquer funções.\n\n2 - Os membros do conselho de gestão não poderão exercer quaisquer funções profissionais remuneradas fora da instituição ou ser membros dos corpos sociais de qualquer sociedade.\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\n5 - Os demais trabalhadores da instituição não poderão exercer funções profissionais remuneradas fora dela ou ser membros dos corpos sociais de qualquer sociedade, salvo autorização expressa do conselho de gestão, que deverá ser renovada anualmente.\n\n> Alterado pelo/a [Decreto-Lei n.º 513/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-1977-279593), publicado em 1977-12-14.\n\n> Revogado pelo/a [Decreto-Lei n.º 51/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-1979-383377), publicado em 1979-03-22."
   },
   "7c858445a4e9bfb3": {
    "fragment_id": null,

@@ -42,7 +42,7 @@ version:
   kind: consolidated
   label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: '1998-04-22'
+  consolidation_date: '2001-12-12'
 version_history:
   file: decreto-lei-283-89.versoes.json
   count: 2
@@ -52,9 +52,9 @@ version_history:
     amending: null
     amending_title: null
     changes: []
-  - date: '1998-04-22'
+  - date: '2001-12-12'
     amending: pt:dre:565255:por
-    amending_title: Decreto-Lei n.º 379/90; Decreto-Lei n.º 95/96; Decreto-Lei n.º 100/98
+    amending_title: Decreto-Lei n.º 379/90; Decreto-Lei n.º 95/96; Decreto-Lei n.º 100/98; Decreto-Lei n.º 309/2001
     changes:
     - Altera Artigo 14.º
     - Altera Artigo 15.º
@@ -62,6 +62,39 @@ version_history:
     - Altera Artigo 2.º
     - Altera Artigo 20.º
     - Altera Artigo 24.º
+    - Revoga Artigo 1
+    - Revoga Artigo 2
+    - Revoga Artigo 3
+    - Revoga Artigo 4
+    - Revoga Artigo 5
+    - Revoga Artigo 6
+    - Revoga Artigo 7
+    - Revoga Artigo 8
+    - Revoga Artigo 9
+    - Revoga Artigo 10
+    - Revoga Artigo 11
+    - Revoga Artigo 12
+    - Revoga Artigo 13
+    - Revoga Artigo 14
+    - Revoga Artigo 15
+    - Revoga Artigo 16
+    - Revoga Artigo 17
+    - Revoga Artigo 18
+    - Revoga Artigo 19
+    - Revoga Artigo 20
+    - Revoga Artigo 21
+    - Revoga Artigo 22
+    - Revoga Artigo 23
+    - Revoga Artigo 24
+    - Revoga Artigo 25
+    - Revoga Artigo 26
+    - Revoga Artigo 27
+    - Revoga Artigo 28
+    - Revoga Artigo 29
+    - Revoga Artigo 30
+    - Revoga Artigo 31
+    - Revoga Artigo 32
+    - Revoga Artigo 33
 identifiers:
   celex: null
   eli: null
@@ -88,7 +121,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T00:52:33Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 379/90; Decreto-Lei
-    n.º 95/96; Decreto-Lei n.º 100/98. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1989/decreto-lei-283-89.alteracoes.json'
+    n.º 95/96; Decreto-Lei n.º 100/98. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1989/decreto-lei-283-89.alteracoes.json.
+    Revogações registadas só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Decreto-Lei
+    n.º 309/2001.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -196,415 +231,169 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constitutição, o Govern
 
 ###### Artigo 1.º — Natureza e tutela
 
-1 - O Instituto das Comunicações de Portugal, abreviadamente designado por ICP, é uma pessoa colectiva de direito público, dotada de autonomia administrativa e financeira e de património próprio, e fica sujeito à tutela e superintendência do Ministro do Equipamento, do Planeamento e da Administração do Território.
-
-2 - O ICP tem por finalidade o apoio ao Governo na coordenação, tutela e planeamento do sector das comunicações de uso público, bem como a representação desse sector e a gestão do espectro radioeléctrico.
+(Revogado.)
 
 > Alterado pelo/a [Decreto-Lei n.º 100/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1998-175780), publicado em 1998-04-21.
 
+> Revogado pelo/a [Decreto-Lei n.º 309/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-2001-576886), publicado em 2001-12-07, com efeitos a partir de 2001-12-12.
+
 ###### Artigo 2.º — Regime
 
-1 - O ICP rege-se pelo disposto nos presentes Estatutos e, subsidiariamente, pelo regime jurídico aplicável às entidades que revistam natureza, forma e designação de empresa pública.
-
-2 - Os actos e contratos do ICP não estão sujeitos a visto do Tribunal de Contas, sendo, no entanto, obrigatória a apresentação do relatório e contas de gerência para efeitos de julgamento.
+(Revogado.)
 
 > Alterado pelo/a [Decreto-Lei n.º 100/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1998-175780), publicado em 1998-04-21.
 
 ###### Artigo 3.º — Sede e delegações
 
-1 - O ICP tem sede em Lisboa.
-
-2 - O ICP pode ter delegações, agências ou qualquer forma de representação em território nacional.
+(Revogado.)
 
 ###### Artigo 4.º — Competências
 
-Para prossecução das suas atribuições, compete, designadamente, ao ICP:
-
-a) Colaborar activamente na definição das medidas de política das comunicações em Portugal, designadamente:
-
-1.º Na definição do quadro legal do sector;
-
-2.º Na organização administrativa e empresarial do sector;
-
-3.º Na investigação e desenvolvimento tecnológico e científico relacionado com as comunicações;
-
-4.º Na concertação de acções com outros departamentos oficiais, organismos ou entidades públicas ou privadas, necessária à execução das medidas de política de comunicações;
-
-b) Assessorar o Governo no exercício das suas funções tutelares, devendo para tal, nomeadamente:
-
-1.º Submeter os projectos de legislação e regulamentação necessários ao funcionamento e protecção das comunicações, bem como dar parecer sobre projectos de legislação e regulamentação propostos por outros organismos ou entidades;
-
-2.º Fiscalizar a qualidade e o preço dos serviços prestados pelos operadores de comunicações de uso público;
-
-3.º Fiscalizar o cumprimento, por parte dos operadores de comunicações, do que nos respectivos estatutos, licenças ou contratos de concesão se contiver e, bem assim, a observância das disposições legais e regulamentares aplicáveis;
-
-c) Coordenar, no âmbito nacional, tudo quanto respeite à execução de tratados, convenções e acordos internacionais relacionados com as comunicações, bem como a representação do Estado Português nos correspondentes organismos internacionais, quando de outro modo não for determinado;
-
-d) Homologar materiais e equipamentos e proceder, em colaboração com outros organismos, à normalização e especificação técnica de materiais e equipamentos usados nas comunicações, com excepção dos utilizados nas redes privativas, nomeadamente das forças armadas, forças de segurança, protecção civil e bombeiros, e proceder a idênticos actos relativamente a emissores e receptores de radiocomunicações, nos termos do [Decreto-Lei n.º 147/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-1987-662331), de 24 de Março;
-
-e) Efectuar a gestão do espectro radioeléctrico, devendo para tal, nomeadamente:
-
-1.º Planificar, no quadro dos acordos internacionais, o espectro radioeléctrico nacional;
-
-2.º Consignar frequências;
-
-3.º Proceder ao licenciamento de todos os meios de comunicação radioeléctricos, nos termos do [Decreto-Lei n.º 147/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-1987-662331), de 24 de Março;
-
-4.º Fiscalizar as condições de utilização do espectro das actividades licenciadas, bem como controlar e fiscalizar utilizações abusivas e as interferências radioeléctricas, aplicando coimas quando for caso disso;
-
-f) Proceder ao licenciamento de operadores de comunicações de uso público, bem como dos prestadores de serviços de valor acrescentado;
-
-g) Preparar os estudos necessários à coordenação entre as comunicações civis, militares e paramilitares, bem como entre os operadores de comunicações de uso público e os operadores de comunicação social;
-
-h) Efectuar os estudos necessários à coordenação das infra-estruturas dos vários sistemas de telecomunicações civis, incluindo as de teledifusão.
+(Revogado.)
 
 ### CAPÍTULO II — Órgãos
 
 ###### Artigo 5.º — Órgãos
 
-São órgãos do ICP o conselho de administração, o conselho fiscal e o conselho consultivo.
+(Revogado.)
 
 #### SECÇÃO I — Conselho de administração
 
 ###### Artigo 6.º — Composição e regime
 
-1 - O conselho de administração é constitutído por um presidente e dois ou quatro vogais.
-
-2 - Os membros do conselho de administração são nomeados por resolução do Conselho de Ministros, sob proposta do ministro da tutela.
-
-3 - Os membros do conselho de administração ficam sujeitos ao estatuto do gestor público e têm remunerações e regalias idênticas às dos membros dos órgãos de gestão das empressa públicas do grupo A.
+(Revogado.)
 
 ###### Artigo 7.º — Competência
 
-1 - São competências do conselho de administração:
-
-a) Definir e acompanhar a orientação geral e as políticas de gestão do ICP;
-
-b) Submeter à aprovação dos Ministros das Finanças e da tutela os planos de actividades e financeiros plurianuais, o orçamento e o relatório anuais de actividades e as contas de gerência do ICP;
-
-c) Aprovar os regulamentos internos necessários à organização e funcionamento do ICP;
-
-d) Submeter à aprovação do ministro da tutela um regulamento interno contendo as normas aplicáveis ao pessoal do ICP;
-
-e) Representar o ICP em juízo ou fora dele;
-
-f) Constituir mandatários e designar representantes do ICP junto de outras entidades;
-
-g) Submeter à aprovação dos Ministros das Finanças e da tutela a participação do ICP no capital de empresas, bem como a sua associação com terceiros;
-
-h) Arrecadar receitas e autorizar a realização das despesas;
-
-i) Gerir o património do ICP, podendo adquirir, alienar ou onerar bens móveis e imóveis e aceitar donativos, heranças ou legados;
-
-j) Praticar todos os demais actos necessários ao desempenho das competências cometidas ao ICP.
-
-2 - O conselho de administração poderá delegar o exercício de parte da sua competência em qualquer dos seus membros.
+(Revogado.)
 
 ###### Artigo 8.º — Funcionamento
 
-O conselho de administração reúne ordinariamente uma vez por semana e extraordinariamente sempre que convocado pelo presidente, por iniciativa sua ou a solicitação de dois dos restantes membros.
+(Revogado.)
 
 ###### Artigo 9.º — Presidente
 
-1 - Compete, designadamente, ao presidente do ICP:
-
-a) Coordenar a actividade do conselho de administração e dos demais órgãos e serviços do ICP;
-
-b) Convocar e presidir ao conselho de administração e dirigir as suas reuniões;
-
-c) Representar o ICP, salvo quando a lei ou os Estatutos exijam outra forma de representação;
-
-d) Assegurar as relações do ICP com o Governo.
-
-2 - O presidente do conselho de administração poderá delegar o exercício de parte da sua competência em qualquer dos restantes membros do conselho.
-
-3 - Considera-se delegada no presidente a prática de actos que, pela sua natureza e urgência, não possam aguardar uma reunião, ordinária ou extraordinária, do órgão competente.
-
-4 - Os actos do presidente praticados ao abrigo do disposto no número anterior devem ser sujeitos a ratificação na primeira reunião do órgão competente para a sua prática.
-
-5 - O presidente, ou o seu substituto legal, poderá opor o seu veto a deliberações que repute contrárias à lei, aos Estatutos ou ao interesse do Estado, com a consequente suspensão da executoriedade da deliberação até que sobre esta se pronuncie o ministro da tutela.
-
-6 - Nas suas ausências ou impedimentos, o presidente é substituído pelo vogal mais antigo.
+(Revogado.)
 
 ###### Artigo 10.º — Vinculação
 
-1 - O ICP obriga-se através do seu conselho de administração pela assinatura conjunta de dois dos seus membros.
-
-2 - Sem prejuízo do disposto no número anterior, o Instituto pode-se ainda obrigar pela assinatura de mandatários no âmbito restrito dos poderes que lhes hajam sido conferidos.
+(Revogado.)
 
 #### SECÇÃO II — Conselho fiscal
 
 ###### Artigo 11.º — Composição
 
-1 - O conselho fiscal é constituído por um presidente e dois vogais, sendo um dos vogais revisor oficial de contas, todos designados pelo Ministro das Finanças.
-
-2 - Os membros do conselho fiscal têm direito a remuneração idêntica à fixada para os membros das comissões de fiscalização das empresas públicas do grupo A.
+(Revogado.)
 
 ###### Artigo 12.º — Competência
 
-Compete, designadamente, ao conselho fiscal:
-
-a) Examinar periodicamente a situação financeira e económica do ICP e verificar o cumprimento das normas reguladoras da sua actividade;
-
-b) Emitir parecer sobre a aquisição, oneração e alienação dos bens imóveis do ICP;
-
-c) Emitir parecer sobre o orçamento e sobre o relatório e contas do ICP;
-
-d) Emitir parecer sobre qualquer assunto que lhe seja submetido pelos órgãos do ICP;
-
-e) Participar às entidades competentes as irregularidades que detecte.
+(Revogado.)
 
 ###### Artigo 13.º — Funcionamento
 
-O conselho fiscal reúne ordinariamente uma vez por mês e extraordinariamente sempre que convocado pelo seu presidente, por sua iniciativa ou a solicitação de qualquer dos restantes membros.
+(Revogado.)
 
 #### SECÇÃO III — Conselho consultivo
 
 ###### Artigo 14.º — Composição
 
-1 - O conselho consultivo tem a seguinte composição:
-
-a) Um representante do Ministro da Defesa Nacional;
-
-b) Um representante do Ministro do Equipamento, do Planeamento e da Administração do Território;
-
-c) Um representante do Ministro da Administração Interna;
-
-d) Um representante do Ministro da Economia;
-
-e) Um representante do Ministro da Ciência e da Tecnologia;
-
-f) Um representante do ministro responsável pela área da comunicação social;
-
-g) Um representante de cada uma das Regiões Autónomas dos Açores e da Madeira;
-
-h) O presidente do conselho de administração do ICP;
-
-i) Um representante do operador de serviço público de correios, um representante da concessionária do serviço público de telecomunicações e outro da respectiva subconcessionária;
-
-j) Um representante dos operadores de cada um dos serviços de telecomunicações complementares móveis, a designar entre si;
-
-l) Um representante dos operadores dos serviços de telecomunicações complementares fixas, a designar entre si;
-
-m) Um representante dos prestadores de serviços de telecomunicações de valor acrescentado, a designar entre si;
-
-n) Um representante dos operadores de redes de distribuição de televisão por cabo, a designar entre si;
-
-o) Um representante dos utentes dos serviços de comunicações, a designar pelo conselho geral do Instituto do Consumidor;
-
-p) Um representante das associações privadas de consumidores, a designar entre si;
-
-q) Um representante da Associação Nacional de Municípios Portugueses;
-
-r) Três personalidades de reconhecido mérito, a designar pelo ministro com competência na área das comunicações.
-
-2 - A escolha dos representantes referidos nas alíneas j), l), m) e n) só pode recair sobre operadores que não disponham de participação directa ou indirecta no seu capital dos operadores de serviço público de correios e de telecomunicações.
-
-3 - Sempre que um determinado serviço seja prestado apenas por operadores com participação directa ou indirecta no seu capital dos operadores de serviço público de correios e telecomunicações, tais operadores não participarão no conselho consultivo.
-
-4 - A composição do conselho consultivo será alargada a representantes de operadores e de prestadores de novas categorias de serviços de telecomunicações de uso público que venham a ser licenciados ou autorizados, a designar entre si, nos termos do n.º 2.
-
-5 - O conselho consultivo será presidido pelo representante do ministro que tutele as comunicações.
-
-6 - Os restantes membros do conselho de administração e os do conselho fiscal poderão assistir às reuniões do conselho consultivo, podendo participar nos trabalhos, sem direito de voto.
-
-7 - As despesas de viagem e as ajudas de custo devidas pela deslocação dos membros do conselho consultivo, quando residam fora da localidade da reunião, serão suportadas pelo orçamento do ICP.
+(Revogado.)
 
 > Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 95/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-1996-413411), publicado em 1996-07-17.
 
 ###### Artigo 15.º — Competência
 
-Compete ao conselho consultivo dar parecer, designadamente, sobre:
-
-a) As linhas de actuação, o plano anual de actividades e o orçamento do ICP;
-
-b) O relatório anual de actividades e as contas de gerência do ICP;
-
-c) A fixação das participações a pagar pelos operadores de telecomunicações de uso público que constituem receita do ICP;
-
-d) A coordenação entre as comunicações civis, militares e das forças e serviços de segurança, bem como entre os operadores de comunicações de uso público e os operadores da comunicação social;
-
-e) Os padrões da qualidade dos serviços prestados pelos diferentes operadores da área das comunicações;
-
-f) A estratégia global de desenvolvimento das telecomunicações e as suas relações com a participação nacional na sociedade global de informação;
-
-g) Qualquer outro assunto que o conselho de administração, por iniciativa própria ou por iniciativa do Governo, submeter à sua apreciação.
+(Revogado.)
 
 > Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 95/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-1996-413411), publicado em 1996-07-17.
 
 ###### Artigo 16.º — Funcionamento
 
-1 - O conselho consultivo reúne ordinariamente, por convocação do seu presidente, duas vezes por ano, especialmente para efeitos do disposto nas alíneas a), b) e c) do artigo anterior, e extraordinariamente por iniciativa do presidente ou a pedido de, pelo menos, um terço dos seus membros ou do presidente do conselho de administração do ICP.
-
-2 - As reuniões serão convocadas pelo presidente com a antecedência mínima de dez dias, constando da convocatória a data, hora, local e agenda provisória da reunião.
-
-3 - Das reuniões do conselho consultivo serão lavradas actas, subscritas por todos os presentes.
+(Revogado.)
 
 #### SECÇÃO IV — Disposições comuns
 
 ###### Artigo 17.º — Mandatos
 
-1 - O mandato dos membros dos órgãos do ICP tem a duração de três anos, renovável, continuando os seus membros em exercício até à efectiva substituição ou declaração de cessação de funções.
-
-2 - Os órgãos do ICP consideram-se constituídos para todos os efeitos desde que se encontre nomeada a maioria dos seus membros.
+(Revogado.)
 
 ###### Artigo 18.º — Deliberações
 
-1 - Para que os órgãos do ICP deliberem validamente é indispensável a presença na reunião da maioria dos respectivos membros em exercício.
-
-2 - As deliberações serão tomadas por maioria dos votos expressos, tendo o presidente, ou quem o substitua, voto de qualidade.
-
-3 - Não é permitido o voto por procuração.
-
-4 - As deliberações constarão da acta da reunião, a subscrever por todos os presentes, em que foram tomadas e só por ela poderão ser provadas.
+(Revogado.)
 
 ###### Artigo 19.º — Convocações
 
-1 - Os órgãos do ICP reúnem por convocação do respectivo presidente, endereçada a cada um dos seus membros, sem prejuízo do disposto no número seguinte.
-
-2 - Consideram-se validamente convocadas as reuniões que se realizem periodicamente em local, dias e horas preestabelecidos e ainda as reuniões cuja realização tenha sido deliberada em reunião anterior, na presença ou com conhecimento de todos os membros do órgão convocado e com indicação do local, dia e hora.
+(Revogado.)
 
 ### CAPÍTULO III — Gestão patrimonial e financeira
 
 ###### Artigo 20.º — Gestão patrimonial e financeira
 
-1 - A gestão patrimonial e financeira do ICP rege-se pelo disposto no presente diploma e, subsidiariamente, pelo regime jurídico aplicável às entidades que revistam natureza, forma e designação de empresa pública.
-
-2 - O orçamento do ICP deve constar do Orçamento de Estado, sendo para tal efeito elaborado de acordo com o regime da contabilidade pública.
-
-3 - A contabilidade do ICP é elaborada de acordo com o Plano Oficial de Contabilidade, não lhe sendo aplicável o regime da contabilidade pública.
+(Revogado.)
 
 > Alterado pelo/a [Decreto-Lei n.º 100/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1998-175780), publicado em 1998-04-21.
 
 ###### Artigo 21.º — Património
 
-O património do ICP é constituído pela universalidade dos bens, direitos e obrigações que adquira ou contraia no desempenho das suas atribuições e por aqueles que lhe sejam atribuídos por lei.
+(Revogado.)
 
 ###### Artigo 22.º — Receitas
 
-1 - Constituem receitas do ICP:
-
-a) As taxas e outras receitas cobradas no âmbito da gestão do espectro radioeléctrico;
-
-b) As taxas e outras receitas cobradas no âmbito do licenciamento e fiscalização dos operadores e prestações de serviços de comunicações;
-
-c) O produto da aplicação de coimas;
-
-d) As taxas e outras receitas provenientes da homologação de materiais e equipamentos;
-
-e) Quaisquer outras receitas, rendimentos ou valores que provenham da sua actividade ou que por lei ou contrato lhe venham a pertencer ou a ser atribuídos, bem como quaisquer doações, subsídios ou outras formas de apoio financeiro;
-
-f) O produto da alienação de bens próprios e da constituição de direitos sobre eles;
-
-g) As participações fixadas aos operadores de telecomunicações de uso público.
-
-2 - As participações dos operadores de telecomunicações de uso público serão determinadas anual e antecipadamente, na sequência da proposta de orçamento apresentada pelo conselho de administração, após parecer do conselho consultivo, ao ministro da tutela, que, por despacho, as aprovará.
-
-3 - O montante proposto para as participações deverá assegurar a integral cobertura do diferencial entre o volume das receitas previstas nas alíneas a) a f) do n.º 1 e a despesa global, sendo dividido pelos operadores de telecomunicações de uso público proporcionalmente ao seu volume global de receitas no ano imediatamente anterior àquele em que é elaborada a proposta de orçamento.
-
-4 - As receitas resultantes das participações dos operadores serão pagas em regime de prestações trimestrais, antecipadamente no início de cada período.
-
-5 - O ICP não poderá contrair empréstimos sem prévio despacho conjunto de autorização dos Ministros das Finanças e das Obras Públicas, Transportes e Comunicações.
+(Revogado.)
 
 ###### Artigo 23.º — Despesas
 
-Constituem despesas do ICP:
-
-a) Os encargos resultantes do respectivo funcionamento e do exercício das atribuições e competências que lhe estão cometidas;
-
-b) Os cursos de aquisição, manutenção e conservação dos bens, equipamentos ou serviços que tenha de utilizar;
-
-c) Os encargos com estudos e investigação na área das comunicações, quer directos, quer sobre a forma de apoios a outras entidades do sector.
+(Revogado.)
 
 ### CAPÍTULO IV — Pessoal
 
 ###### Artigo 24.º — Estatuto do pessoal
 
-1 - O pessoal do ICP está sujeito ao Regime Jurídico do Contrato Individual de Trabalho, constando de regulamento interno, aprovado pelos Ministros da tutela das comunicações e das Finanças, a definição das suas condições de trabalho, com observância das normas imperativas daquele Regime.
-
-2 - Os trabalhadores do ICP que desempenhem funções de fiscalização, quando se encontrem no exercício das suas funções, são equiparados aos agentes de autoridade e têm as seguintes prerrogativas:
-
-a) Podem identificar, para posterior actuação, todos os indivíduos que infrinjam os regulamentos cuja observância devem fazer respeitar;
-
-b) Podem reclamar o auxílio das autoridades administrativas e judiciais, quando o julguem necessário ao desempenho das suas funções;
-
-c) Podem usar armas para defesa própria, dos objectos de serviço e das instalações e valores à sua guarda, quando devidamente autorizados.
-
-3 - Aos trabalhadores do ICP que desempenhem as funções a que se refere o número anterior serão atribuídos cartões de identificação, cujo modelo e condições de emissão serão objecto de portaria do membro do Governo com competências na área das comunicações.
+(Revogado.)
 
 > Alterado pelo/a [Decreto-Lei n.º 379/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/379-1990-565255), publicado em 1990-12-07.
 
 ###### Artigo 25.º — Segurança Social
 
-Os trabalhadores do ICP estão abrangidos pelo regime geral da Segurança Social, sem prejuízo do disposto no n.º 2 do artigo 28.º
+(Revogado.)
 
 ###### Artigo 26.º — Mobilidade
 
-O ICP poderá requisitar, nos termos da lei geral, pessoal pertencente aos quadros de empresas públicas ou privadas ou vinculado à função pública.
+(Revogado.)
 
 ### CAPÍTULO V — Disposições finais e transitórias
 
 ###### Artigo 27.º — Implementação do ICP
 
-1 - O ICP assumirá a plenitude das suas funções no prazo de seis meses a contar da data da publicação do presente diploma.
-
-2 - A transferência para o ICP das funções que lhe são atribuídas pelo presente e por outros diplomas, mas que actualmente estejam a ser exercidas por outras entidades, far-se-á por despacho do ministro da tutela, que fixará as datas, o faseamento e outros aspectos relevantes da transferência.
-
-3 - Até ao preenchimento do quadro de pessoal do ICP, as funções transferidas para o ICP serão desempenhadas por trabalhadores da empresa pública Correios e Telecomuniações de Portugal (CTT) em regime de requisição.
+(Revogado.)
 
 ###### Artigo 28.º — Integração de trabalhadores dos CTT
 
-1 - O conselho de administração convidará a integrar os quadros do ICP, após a aprovação do regulamento previsto no n.º 1 do artigo 24.º, e quando o julgue conveniente, trabalhadores dos Correios e Telecomunicações de Portugal (CTT), E. P., que estejam no Instituto em regime de requisição.
+1 - (Revogado.)
 
-2 - Aos trabalhadores previstos no número anterior que, convidados a integrar os quadros do ICP, o aceitem num prazo de quinze dias serão assegurados os seguintes direitos adquiridos naquela empresa pública:
-
-a) Antiguidade;
-
-b) Diuturnidades;
-
-c) Remuneração;
-
-d) Duração semanal do trabalho;
-
-e) Manutenção dos regimes de aposentação e de sobrevivência;
-
-f) Regalias de carácter social vigentes à data da integração.
+2 - (Revogado.)
 
 3 - O ICP suportará os encargos decorrentes da alínea e) do número anterior em regime idêntico ao que vinha sendo observado pelos Correios e Telecomunicações de Portugal (CTT), E. P., entregando esta empresa pública ao ICP, na data da integração, as importâncias devidas correspondentes ao período anterior à integração nos quadros do ICP.
 
 ###### Artigo 29.º — Transferência de bens
 
-1 - Os bens afectos e necessários ao exercício das funções cometidas à Direcção dos Serviços Radioeléctricos dos CTT que passam a ser exercidas pelo ICP serão integrados no património do Instituto na data da transferência dessas funções.
-
-2 - A indemnização que for devida aos CTT pela transferência dos bens referidos no número anterior bem como as condições do seu pagamento serão fixadas por despacho conjunto dos Ministros das Finanças e da tutela.
+(Revogado.)
 
 ###### Artigo 30.º — Fixação das participações dos operadores de uso público
 
-Para o presente ano económico, as participações dos operadores de uso público a que se refere a alínea g) do n.º 1 do artigo 22.º serão fixadas por despacho do ministro da tutela, sob proposta do conselho de administração.
+(Revogado.)
 
 ###### Artigo 31.º — Equiparação ao Estado
 
-Para o exercício das suas atribuições, o ICP assume os direitos e obrigações atribuídos ao Estado nas disposições legais e regulamentares aplicáveis, designadamente quanto:
-
-a) À cobrança coerciva de taxas, outros rendimentos do serviço e outros créditos;
-
-b) À protecção das suas instalações e do seu pessoal;
-
-c) Ao uso público dos serviços, à sua fiscalização, à definição de infracções respectivas e à aplicação das competentes penalidades;
-
-d) À fiscalização radioeléctrica e às intimações, aplicação de sanções e demais actos daquela resultantes;
-
-e) À responsabilidade civil extracontratual.
+(Revogado.)
 
 ###### Artigo 32.º — Disposições transitórias
 
-1 - É prorrogado até 30 de Setembro de 1989 o prazo previsto no n.º 1 do artigo 33.º do [Decreto Regulamentar n.º 70/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/70-1983-453797), de 20 de Julho, na redacção que lhe foi introduzida pelo [Decreto Regulamentar n.º 25/88](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/25-1988-371790), de 17 de Junho, objecto de posterior prorrogação pelo [Decreto Regulamentar n.º 4/89](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-1989-610410), de 1 de Fevereiro.
-
-2 - O disposto no número anterior produz efeitos desde 7 de Março de 1989.
+(Revogado.)
 
 ###### Artigo 33.º — Legislação revogada
 
-São revogados, com efeitos a partir de 30 de Setembro, os Decretos Regulamentares n.os [70/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/70-1983-453797), de 20 de Julho, e [25/88](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/25-1988-371790), de 17 de Junho.
+(Revogado.)
 
 Visto e aprovado em Conselho de Ministros de 13 de Abril de 1989. - Aníbal António Cavaco Silva - Vasco Joaquim Rocha Vieira - Lino Dias Miguel - Eurico Silva Teixeira de Melo - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira - José António da Silveira Godinho - Luís Fernando Mira Amaral - João Maria Leitão de Oliveira Martins.
 

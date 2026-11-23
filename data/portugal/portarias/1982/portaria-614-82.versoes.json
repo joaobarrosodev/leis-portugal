@@ -46,7 +46,7 @@
    ]
   },
   {
-   "date": "1984-01-17",
+   "date": "1994-05-18",
    "future": false,
    "acts": [
     {
@@ -54,45 +54,58 @@
      "title": "Portaria n.º 19/84",
      "published": "1984-01-12",
      "dre_path": "/dr/detalhe/portaria/19-1984-660290"
+    },
+    {
+     "id": "pt:dre:175318:por",
+     "title": "Portaria n.º 159/92",
+     "published": "1992-03-12",
+     "dre_path": "/dr/detalhe/portaria/159-1992-175318"
+    },
+    {
+     "id": "pt:dre:263886:por",
+     "title": "Portaria n.º 288/94",
+     "published": "1994-05-13",
+     "dre_path": "/dr/detalhe/portaria/288-1994-263886"
     }
    ],
    "changes": [
     "Altera Artigo unidades 16-16",
-    "Altera Artigo unidades 40-40"
+    "Altera Artigo unidades 40-40",
+    "Revoga anexo ou texto fora do articulado"
    ],
    "fragments": [
     "4fff2138f69d135c",
     "fac03bec043d4680",
-    "b210738a064d5902",
-    "8233843c7a3d2d7c",
-    "ec8f89f3feba78cd",
-    "58175579af2a3242",
-    "e51b9332bc24be73",
-    "8e09d669d6e8c046",
-    "eb2d0b75c7dfff38",
-    "bfcb6c9aad5efb5e",
-    "a1551a9b502d8c0f",
-    "0ecb325af1879ee0",
-    "7bf436f782d66b17",
-    "ca9db8ce41a08c47",
-    "b3a77aa4b3009bf4",
-    "e6123d7e405fb2a4",
-    "86da836e82793d1c",
-    "b48ed0aaf195d879",
+    "56a04845b98628e0",
+    "e34e59edbbe6ddb0",
+    "08ca1bb84f6afde9",
+    "eda3abc4c2757c6c",
+    "906581932820607d",
+    "5bd53ad918ea12b2",
+    "25f745d80d230419",
+    "92e3a051aead2596",
+    "b51e7edd9c9107de",
+    "700cba4c7c89f9af",
+    "6dc29d248d8836a0",
+    "5e7b31321e901c16",
+    "30d81d5c77f3e500",
+    "6bb5ecf19e8c3c4a",
+    "c6004714d5947dfd",
+    "e112d7a33daa2453",
     "ccbc9a4b2a622030",
-    "a9b1ecd7435270c6",
-    "fe9b50ff8b643d54",
-    "eb7cdca3bd641608",
-    "03498e6f6130c3d3",
-    "370ebb9142ad68ee",
-    "19287fa2f609c62e",
+    "e38f67f3ddfccbca",
+    "71ab68b5ff03ce7b",
+    "e736f6c0885c0eb4",
+    "93853c02904f0965",
+    "dccfdff11ff51c05",
+    "9736ab05b5423853",
     "35666aaf84b7bc36",
-    "19e89fcf5fdc8c2b",
-    "8a7ffce4ff5048bb",
-    "fecbd603603e5cc6",
-    "9f7e08b67fbbcf31",
-    "585d536e9c204f81",
-    "e69ca555641d2c3b"
+    "d8e121c7ac10b80e",
+    "cdbf67a845fe57ad",
+    "4da964e0ba2f3f9a",
+    "6ebe78a425fe5fc4",
+    "377a32e136014261",
+    "32221e6048b1327d"
    ]
   }
  ],
@@ -353,25 +366,237 @@
    "changed_by": [],
    "markdown": "### CAPÍTULO VI — Disposições transitórias\n\n31 - O preceituado nos n.os 7, 8, 9, 27 e 30 poderá, até 1986, ser alterado por despacho do director-geral de Protecção da Produção Agrícola, emitido sob proposta da DSCQS.\n\nMinistério da Agricultura, Comércio e Pescas, 26 de Abril de 1982. - O Ministro da Agricultura, Comércio e Pescas, Basílio Adolfo Mendonça Horta da Franca."
   },
-  "8233843c7a3d2d7c": {
+  "56a04845b98628e0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Disposições gerais",
+   "in_force_from": "1994-05-18",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 159/92](https://diariodarepublica.pt/dr/detalhe/portaria/159-1992-175318), publicado em 1992-03-12, com efeitos a partir de 1992-03-17."
+   ],
+   "markdown": "### CAPÍTULO I — Disposições gerais\n\n1 - (Revogado.)\n\n> Revogado pelo/a [Portaria n.º 159/92](https://diariodarepublica.pt/dr/detalhe/portaria/159-1992-175318), publicado em 1992-03-12, com efeitos a partir de 1992-03-17.\n\n2 - (Revogado.)"
+  },
+  "e34e59edbbe6ddb0": {
    "fragment_id": null,
    "type": null,
    "heading": "CAPÍTULO II — Variedades admitidas ao esquema",
-   "in_force_from": "1984-01-17",
+   "in_force_from": "1994-05-18",
    "changed_by": [
     "Alterado pelo/a [Portaria n.º 19/84](https://diariodarepublica.pt/dr/detalhe/portaria/19-1984-660290), publicado em 1984-01-12."
    ],
-   "markdown": "### CAPÍTULO II — Variedades admitidas ao esquema\n\n3 - São admitidas ao esquema as variedades:\n\na) Inscritas no Catálogo Nacional de Variedades (CNV);\n\nb) Em fase de inscrição no CNV, cuja admissão seja requerida pela entidade interessada à DGPPA;\n\nc) Inscritas em catálogos oficiais de outros países, se a semente a produzir for destinada exclusivamente a exportação.\n\n4 - São ainda admitidas ao esquema, até 1990, as variedades incluídas na lista nacional de variedades (LNV), desde que:\n\n> Alterado pelo/a [Portaria n.º 19/84](https://diariodarepublica.pt/dr/detalhe/portaria/19-1984-660290), publicado em 1984-01-12.\n\na) Tenham apresentado, em ensaios oficiais para avaliação dos valores agronómico e de utilização, resultados que justifiquem a certificação das respectivas sementes;\n\nb) Disponham de descrição dos caracteres morfológicos e fisiológicos essenciais à sua identificação."
+   "markdown": "### CAPÍTULO II — Variedades admitidas ao esquema\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\n> Alterado pelo/a [Portaria n.º 19/84](https://diariodarepublica.pt/dr/detalhe/portaria/19-1984-660290), publicado em 1984-01-12."
   },
-  "8e09d669d6e8c046": {
+  "08ca1bb84f6afde9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Categorias de sementes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Categorias de sementes\n\n5 - (Revogado.)\n\n6 - (Revogado.)\n\n7 - (Revogado.)"
+  },
+  "eda3abc4c2757c6c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Equivalências das categorias de sementes de outros países",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Equivalências das categorias de sementes de outros países\n\n8 - (Revogado.)"
+  },
+  "906581932820607d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO V — Admissão de entidades à produção de sementes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Admissão de entidades à produção de sementes\n\n9 - (Revogado.)"
+  },
+  "5bd53ad918ea12b2": {
    "fragment_id": null,
    "type": null,
    "heading": "CAPÍTULO VI — Produção de sementes",
-   "in_force_from": "1984-01-17",
+   "in_force_from": "1994-05-18",
    "changed_by": [
     "Alterado pelo/a [Portaria n.º 19/84](https://diariodarepublica.pt/dr/detalhe/portaria/19-1984-660290), publicado em 1984-01-12."
    ],
-   "markdown": "### CAPÍTULO VI — Produção de sementes\n\n10 - A produção de sementes das categorias pré-base e base é executada pelo obtentor ou sob a sua responsabilidade.\n\n11 - O obtentor de uma variedade detém todos os direitos de propriedade sobre a mesma, desde que não tenha cedido a sua posição a outra entidade.\n\n12 - Os produtores de semente base que desejem produzir semente de qualquer variedade do domínio público deverão comunicar nesse sentido à Direcção de Serviços de Ordenamento e Planeamento da DGPPA, a qual dará conhecimento da posição verificada à DSCQS.\n\n13 - A produção de semente da categoria certificada de uma variedade, inscrita no CNV, quando não efectuada pelo seu obtentor ou proprietário actual, só é permitida pela Direcção dos Serviços de Controle de Qualidade de Sementes se a entidade interessada fizer prova documental de que está autorizada pelo detentor dos direitos de propriedade dessa variedade a proceder à sua multiplicação.\n\n> Alterado pelo/a [Portaria n.º 19/84](https://diariodarepublica.pt/dr/detalhe/portaria/19-1984-660290), publicado em 1984-01-12."
+   "markdown": "### CAPÍTULO VI — Produção de sementes\n\n10 - (Revogado.)\n\n11 - (Revogado.)\n\n12 - (Revogado.)\n\n13 - (Revogado.)\n\n> Alterado pelo/a [Portaria n.º 19/84](https://diariodarepublica.pt/dr/detalhe/portaria/19-1984-660290), publicado em 1984-01-12."
+  },
+  "25f745d80d230419": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VII — Inscrição e controle dos campos de produção de sementes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VII — Inscrição e controle dos campos de produção de sementes\n\n14 - (Revogado.)\n\n15 - (Revogado.)\n\n16 - (Revogado.)\n\n17 - (Revogado.)\n\n18 - (Revogado.)\n\n19 - (Revogado.)\n\n20 - (Revogado.)\n\n21 - (Revogado.)\n\n22 - (Revogado.)\n\n23 - (Revogado.)"
+  },
+  "92e3a051aead2596": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VIII — Controle dos lotes produzidos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VIII — Controle dos lotes produzidos\n\n24 - (Revogado.)\n\n25 - (Revogado.)\n\n26 - (Revogado.)\n\n27 - (Revogado.)\n\n28 - (Revogado.)\n\n29 - (Revogado.)\n\n30 - (Revogado.)\n\n31 - (Revogado.)\n\n32 - (Revogado.)\n\n33 - (Revogado.)\n\n34 - (Revogado.)"
+  },
+  "b51e7edd9c9107de": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IX — Identificação da semente obtida",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IX — Identificação da semente obtida\n\n35 - (Revogado.)\n\n36 - (Revogado.)"
+  },
+  "700cba4c7c89f9af": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO X — Acondicionamento das sementes e emissão de certificados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO X — Acondicionamento das sementes e emissão de certificados\n\n37 - (Revogado.)\n\n38 - (Revogado.)\n\n39 - (Revogado.)\n\n40 - (Revogado.)\n\n41 - (Revogado.)\n\n42 - (Revogado.)\n\n43 - (Revogado.)\n\n44 - (Revogado.)\n\n45 - (Revogado.)\n\n46 - (Revogado.)\n\n47 - (Revogado.)"
+  },
+  "6dc29d248d8836a0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO XI — Identificação e gestão dos lotes certificados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO XI — Identificação e gestão dos lotes certificados\n\n48 - (Revogado.)\n\n49 - (Revogado.)\n\n50 - (Revogado.)"
+  },
+  "5e7b31321e901c16": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO XII — Controle dos lotes certificados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO XII — Controle dos lotes certificados\n\n51 - (Revogado.)\n\n52 - (Revogado.)\n\n53 - (Revogado.)\n\n54 - (Revogado.)"
+  },
+  "30d81d5c77f3e500": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO XIII — Fraccionamento e reacondicionamento de lotes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO XIII — Fraccionamento e reacondicionamento de lotes\n\n55 - (Revogado.)\n\n56 - (Revogado.)\n\n57 - (Revogado.)"
+  },
+  "6bb5ecf19e8c3c4a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO XIV — Lotes de sementes em reserva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO XIV — Lotes de sementes em reserva\n\n58 - (Revogado.)\n\n59 - (Revogado.)\n\n60 - (Revogado.)\n\n61 - (Revogado.)\n\n62 - (Revogado.)"
+  },
+  "c6004714d5947dfd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO XV — Sistema de organização de cooperação e desenvolvimento económico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO XV — Sistema de organização de cooperação e desenvolvimento económico\n\n63 - (Revogado.)"
+  },
+  "e112d7a33daa2453": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO XVI — Disposições diversas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO XVI — Disposições diversas\n\n64 - (Revogado.)\n\n65 - (Revogado.)\n\n66 - (Revogado.)\n\n67 - (Revogado.)"
+  },
+  "e38f67f3ddfccbca": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I",
+   "in_force_from": "1994-05-18",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 288/94](https://diariodarepublica.pt/dr/detalhe/portaria/288-1994-263886), publicado em 1994-05-13, com efeitos a partir de 1994-05-18."
+   ],
+   "markdown": "### CAPÍTULO I\n\n1 - (Revogado.)\n\n> Revogado pelo/a [Portaria n.º 288/94](https://diariodarepublica.pt/dr/detalhe/portaria/288-1994-263886), publicado em 1994-05-13, com efeitos a partir de 1994-05-18."
+  },
+  "71ab68b5ff03ce7b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Admissão e outros requisitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Admissão e outros requisitos\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\n4 - (Revogado.)"
+  },
+  "e736f6c0885c0eb4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Controle dos campos de multiplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Controle dos campos de multiplicação\n\n5 - (Revogado.)\n\n6 - (Revogado.)\n\n7 - (Revogado.)\n\n8 - (Revogado.)\n\n9 - (Revogado.)\n\n10 - (Revogado.)\n\n11 - (Revogado.)\n\n12 - (Revogado.)\n\n13 - (Revogado.)\n\n14 - (Revogado.)"
+  },
+  "93853c02904f0965": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Controle dos lotes de sementes produzidas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Controle dos lotes de sementes produzidas\n\n15 - (Revogado.)\n\n16 - (Revogado.)\n\n17 - (Revogado.)\n\n18 - (Revogado.)"
+  },
+  "dccfdff11ff51c05": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO V — Certificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Certificação\n\n19 - (Revogado.)"
+  },
+  "9736ab05b5423853": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VI — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VI — Disposições transitórias\n\n20 - (Revogado.)"
+  },
+  "d8e121c7ac10b80e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Variedades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Variedades\n\n1 - (Revogado.)\n\n2 - (Revogado.)"
+  },
+  "cdbf67a845fe57ad": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Categoria de sementes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Categoria de sementes\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\n5 - (Revogado.)"
+  },
+  "4da964e0ba2f3f9a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Admissão à produção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Admissão à produção\n\n6 - (Revogado.)\n\n7 - (Revogado.)\n\n8 - (Revogado.)"
+  },
+  "6ebe78a425fe5fc4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Controle dos campos de produção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Controle dos campos de produção\n\n9 - (Revogado.)\n\n10 - (Revogado.)\n\n11 - (Revogado.)\n\n12 - (Revogado.)\n\n13 - (Revogado.)\n\n14 - (Revogado.)\n\n15 - (Revogado.)\n\n16 - (Revogado.)\n\n17 - (Revogado.)\n\n18 - (Revogado.)\n\n19 - (Revogado.)\n\n20 - (Revogado.)\n\n21 - (Revogado.)\n\n22 - (Revogado.)\n\n23 - (Revogado.)\n\n24 - (Revogado.)\n\n25 - (Revogado.)\n\n26 - (Revogado.)"
+  },
+  "377a32e136014261": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO V — Controle dos lotes da semente produzidos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Controle dos lotes da semente produzidos\n\n27 - (Revogado.)\n\n28 - (Revogado.)\n\n29 - (Revogado.)\n\n30 - (Revogado.)"
+  },
+  "32221e6048b1327d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VI — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VI — Disposições transitórias\n\n31 - (Revogado.)\n\nMinistério da Agricultura, Comércio e Pescas, 26 de Abril de 1982. - O Ministro da Agricultura, Comércio e Pescas, Basílio Adolfo Mendonça Horta da Franca."
   }
  }
 }

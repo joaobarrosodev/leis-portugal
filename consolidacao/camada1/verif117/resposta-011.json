@@ -1,0 +1,873 @@
+[
+ {
+  "id": "pt:dre:560020:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 186-A/99, art. 74.º n.º 1 (revoga o DL 214/88 exceto o art. 25.º e o mapa VIII quanto aos TAF); consolidado '(Revogado.)' com epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 186-A/99, art. 74.º n.º 1 (revoga o DL 214/88 exceto o art. 25.º e o mapa VIII quanto aos TAF); consolidado '(Revogado.)' com epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 186-A/99, art. 74.º n.º 1 (revoga o DL 214/88 exceto o art. 25.º e o mapa VIII quanto aos TAF); consolidado '(Revogado.)' com epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 186-A/99, art. 74.º n.º 1 (revoga o DL 214/88 exceto o art. 25.º e o mapa VIII quanto aos TAF); consolidado '(Revogado.)' com epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º-A",
+    "veredicto": "certo",
+    "motivo": "Aditado por DL 206/91 art. 2.º e revogado pelo DL 186-A/99 art. 74.º n.º 1; consolidado '(Revogado.)' com epígrafe do aditamento.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 186-A/99, art. 74.º n.º 1 (revoga o DL 214/88 exceto o art. 25.º e o mapa VIII quanto aos TAF); consolidado '(Revogado.)' com epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 186-A/99, art. 74.º n.º 1 (revoga o DL 214/88 exceto o art. 25.º e o mapa VIII quanto aos TAF); consolidado '(Revogado.)' com epígrafe mantida. Epígrafe «Tribunais de círculo» do DL 206/91.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º-A",
+    "veredicto": "certo",
+    "motivo": "Aditado por DL 206/91 art. 2.º e revogado pelo DL 186-A/99 art. 74.º n.º 1; consolidado '(Revogado.)' com epígrafe do aditamento.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 186-A/99, art. 74.º n.º 1 (revoga o DL 214/88 exceto o art. 25.º e o mapa VIII quanto aos TAF); consolidado '(Revogado.)' com epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 186-A/99, art. 74.º n.º 1 (revoga o DL 214/88 exceto o art. 25.º e o mapa VIII quanto aos TAF); consolidado '(Revogado.)' com epígrafe mantida. Também revogado pelo DL 206/91, art. 5.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 186-A/99, art. 74.º n.º 1 (revoga o DL 214/88 exceto o art. 25.º e o mapa VIII quanto aos TAF); consolidado '(Revogado.)' com epígrafe mantida. Epígrafe do DL 206/91.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 10.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 186-A/99, art. 74.º n.º 1 (revoga o DL 214/88 exceto o art. 25.º e o mapa VIII quanto aos TAF); consolidado '(Revogado.)' com epígrafe mantida. Epígrafe do DL 206/91.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 11.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 186-A/99, art. 74.º n.º 1 (revoga o DL 214/88 exceto o art. 25.º e o mapa VIII quanto aos TAF); consolidado '(Revogado.)' com epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 12.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 186-A/99, art. 74.º n.º 1 (revoga o DL 214/88 exceto o art. 25.º e o mapa VIII quanto aos TAF); consolidado '(Revogado.)' com epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 13.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 186-A/99, art. 74.º n.º 1 (revoga o DL 214/88 exceto o art. 25.º e o mapa VIII quanto aos TAF); consolidado '(Revogado.)' com epígrafe mantida. Epígrafe «Deslocação dos tribunais» do DL 206/91.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 13.º-A",
+    "veredicto": "certo",
+    "motivo": "Aditado por DL 206/91 art. 2.º e revogado pelo DL 186-A/99 art. 74.º n.º 1; consolidado '(Revogado.)' com epígrafe do aditamento.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 14.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 186-A/99, art. 74.º n.º 1 (revoga o DL 214/88 exceto o art. 25.º e o mapa VIII quanto aos TAF); consolidado '(Revogado.)' com epígrafe mantida. Epígrafe do DL 206/91.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 14.º-A",
+    "veredicto": "certo",
+    "motivo": "Aditado por DL 206/91 art. 2.º e revogado pelo DL 186-A/99 art. 74.º n.º 1; consolidado '(Revogado.)' com epígrafe do aditamento.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 15.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 186-A/99, art. 74.º n.º 1 (revoga o DL 214/88 exceto o art. 25.º e o mapa VIII quanto aos TAF); consolidado '(Revogado.)' com epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 16.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 186-A/99, art. 74.º n.º 1 (revoga o DL 214/88 exceto o art. 25.º e o mapa VIII quanto aos TAF); consolidado '(Revogado.)' com epígrafe mantida. Epígrafe do DL 206/91.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 17.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 186-A/99, art. 74.º n.º 1 (revoga o DL 214/88 exceto o art. 25.º e o mapa VIII quanto aos TAF); consolidado '(Revogado.)' com epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 18.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 186-A/99, art. 74.º n.º 1 (revoga o DL 214/88 exceto o art. 25.º e o mapa VIII quanto aos TAF); consolidado '(Revogado.)' com epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 19.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 186-A/99, art. 74.º n.º 1 (revoga o DL 214/88 exceto o art. 25.º e o mapa VIII quanto aos TAF); consolidado '(Revogado.)' com epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 20.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 186-A/99, art. 74.º n.º 1 (revoga o DL 214/88 exceto o art. 25.º e o mapa VIII quanto aos TAF); consolidado '(Revogado.)' com epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 21.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 186-A/99, art. 74.º n.º 1 (revoga o DL 214/88 exceto o art. 25.º e o mapa VIII quanto aos TAF); consolidado '(Revogado.)' com epígrafe mantida. Epígrafe do DL 206/91.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 21.º-A",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 186-A/99, art. 74.º n.º 1 (revoga o DL 214/88 exceto o art. 25.º e o mapa VIII quanto aos TAF); consolidado '(Revogado.)' com epígrafe mantida. Artigo não existe no original e o seu texto não vem na vista (aditado pelo DL 312/93, fora da vista); a Lei 44/96, art. 5.º, e o DL 186-A/99 confirmam a revogação.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 22.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 186-A/99, art. 74.º n.º 1 (revoga o DL 214/88 exceto o art. 25.º e o mapa VIII quanto aos TAF); consolidado '(Revogado.)' com epígrafe mantida. Epígrafe «Turnos de férias judiciais» vem da Lei 44/96, art. 3.º n.º 1.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 22.º-A",
+    "veredicto": "certo",
+    "motivo": "Aditado por Lei 44/96 art. 3.º n.º 1 (redação do 22.º-A) e revogado pelo DL 186-A/99 art. 74.º n.º 1; consolidado '(Revogado.)' com epígrafe do aditamento.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 22.º-B",
+    "veredicto": "certo",
+    "motivo": "Aditado por Lei 44/96 art. 3.º n.º 2 e revogado pelo DL 186-A/99 art. 74.º n.º 1; consolidado '(Revogado.)' com epígrafe do aditamento.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 22.º-C",
+    "veredicto": "certo",
+    "motivo": "Aditado por Lei 44/96 art. 3.º n.º 2 e revogado pelo DL 186-A/99 art. 74.º n.º 1; consolidado '(Revogado.)' com epígrafe do aditamento.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 23.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 186-A/99, art. 74.º n.º 1 (revoga o DL 214/88 exceto o art. 25.º e o mapa VIII quanto aos TAF); consolidado '(Revogado.)' com epígrafe mantida. Epígrafe do DL 206/91.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 24.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 186-A/99, art. 74.º n.º 1 (revoga o DL 214/88 exceto o art. 25.º e o mapa VIII quanto aos TAF); consolidado '(Revogado.)' com epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 25.º",
+    "veredicto": "certo",
+    "motivo": "Não revogado (DL 186-A/99 art. 74.º n.º 1 exceta-o). n.º 2 e n.º 6 do DL 206/91; n.os 4 e 5 do DL 39/99 (até final de 1999, 'jurídicas'); n.os 1 e 3 do original. Confere letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 26.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 186-A/99, art. 74.º n.º 1 (revoga o DL 214/88 exceto o art. 25.º e o mapa VIII quanto aos TAF); consolidado '(Revogado.)' com epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 27.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 186-A/99, art. 74.º n.º 1 (revoga o DL 214/88 exceto o art. 25.º e o mapa VIII quanto aos TAF); consolidado '(Revogado.)' com epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 28.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 186-A/99, art. 74.º n.º 1 (revoga o DL 214/88 exceto o art. 25.º e o mapa VIII quanto aos TAF); consolidado '(Revogado.)' com epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 29.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 186-A/99, art. 74.º n.º 1 (revoga o DL 214/88 exceto o art. 25.º e o mapa VIII quanto aos TAF); consolidado '(Revogado.)' com epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 30.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 186-A/99, art. 74.º n.º 1 (revoga o DL 214/88 exceto o art. 25.º e o mapa VIII quanto aos TAF); consolidado '(Revogado.)' com epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 31.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 186-A/99, art. 74.º n.º 1 (revoga o DL 214/88 exceto o art. 25.º e o mapa VIII quanto aos TAF); consolidado '(Revogado.)' com epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 32.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 186-A/99, art. 74.º n.º 1 (revoga o DL 214/88 exceto o art. 25.º e o mapa VIII quanto aos TAF); consolidado '(Revogado.)' com epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 33.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 186-A/99, art. 74.º n.º 1 (revoga o DL 214/88 exceto o art. 25.º e o mapa VIII quanto aos TAF); consolidado '(Revogado.)' com epígrafe mantida. Epígrafe do DL 153/95 (art. 33.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 33.º-A",
+    "veredicto": "certo",
+    "motivo": "Aditado por DL 153/95 art. 2.º e revogado pelo DL 186-A/99 art. 74.º n.º 1; consolidado '(Revogado.)' com epígrafe do aditamento.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 34.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 186-A/99, art. 74.º n.º 1 (revoga o DL 214/88 exceto o art. 25.º e o mapa VIII quanto aos TAF); consolidado '(Revogado.)' com epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 35.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 186-A/99, art. 74.º n.º 1 (revoga o DL 214/88 exceto o art. 25.º e o mapa VIII quanto aos TAF); consolidado '(Revogado.)' com epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 36.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 186-A/99, art. 74.º n.º 1 (revoga o DL 214/88 exceto o art. 25.º e o mapa VIII quanto aos TAF); consolidado '(Revogado.)' com epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 37.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 186-A/99, art. 74.º n.º 1 (revoga o DL 214/88 exceto o art. 25.º e o mapa VIII quanto aos TAF); consolidado '(Revogado.)' com epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 37.º-A",
+    "veredicto": "certo",
+    "motivo": "Aditado por DL 206/91 art. 2.º e revogado pelo DL 186-A/99 art. 74.º n.º 1; consolidado '(Revogado.)' com epígrafe do aditamento.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 38.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 186-A/99, art. 74.º n.º 1 (revoga o DL 214/88 exceto o art. 25.º e o mapa VIII quanto aos TAF); consolidado '(Revogado.)' com epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 39.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 186-A/99, art. 74.º n.º 1 (revoga o DL 214/88 exceto o art. 25.º e o mapa VIII quanto aos TAF); consolidado '(Revogado.)' com epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 40.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 186-A/99, art. 74.º n.º 1 (revoga o DL 214/88 exceto o art. 25.º e o mapa VIII quanto aos TAF); consolidado '(Revogado.)' com epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 41.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 186-A/99, art. 74.º n.º 1 (revoga o DL 214/88 exceto o art. 25.º e o mapa VIII quanto aos TAF); consolidado '(Revogado.)' com epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 42.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 186-A/99, art. 74.º n.º 1 (revoga o DL 214/88 exceto o art. 25.º e o mapa VIII quanto aos TAF); consolidado '(Revogado.)' com epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 43.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 186-A/99, art. 74.º n.º 1 (revoga o DL 214/88 exceto o art. 25.º e o mapa VIII quanto aos TAF); consolidado '(Revogado.)' com epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 44.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 186-A/99, art. 74.º n.º 1 (revoga o DL 214/88 exceto o art. 25.º e o mapa VIII quanto aos TAF); consolidado '(Revogado.)' com epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 45.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 186-A/99, art. 74.º n.º 1 (revoga o DL 214/88 exceto o art. 25.º e o mapa VIII quanto aos TAF); consolidado '(Revogado.)' com epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 46.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 186-A/99, art. 74.º n.º 1 (revoga o DL 214/88 exceto o art. 25.º e o mapa VIII quanto aos TAF); consolidado '(Revogado.)' com epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 47.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 186-A/99, art. 74.º n.º 1 (revoga o DL 214/88 exceto o art. 25.º e o mapa VIII quanto aos TAF); consolidado '(Revogado.)' com epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 48.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 186-A/99, art. 74.º n.º 1 (revoga o DL 214/88 exceto o art. 25.º e o mapa VIII quanto aos TAF); consolidado '(Revogado.)' com epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 49.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 186-A/99, art. 74.º n.º 1 (revoga o DL 214/88 exceto o art. 25.º e o mapa VIII quanto aos TAF); consolidado '(Revogado.)' com epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 50.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 186-A/99, art. 74.º n.º 1 (revoga o DL 214/88 exceto o art. 25.º e o mapa VIII quanto aos TAF); consolidado '(Revogado.)' com epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 51.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 186-A/99, art. 74.º n.º 1 (revoga o DL 214/88 exceto o art. 25.º e o mapa VIII quanto aos TAF); consolidado '(Revogado.)' com epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 52.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 186-A/99, art. 74.º n.º 1 (revoga o DL 214/88 exceto o art. 25.º e o mapa VIII quanto aos TAF); consolidado '(Revogado.)' com epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 53.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 186-A/99, art. 74.º n.º 1 (revoga o DL 214/88 exceto o art. 25.º e o mapa VIII quanto aos TAF); consolidado '(Revogado.)' com epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 54.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 186-A/99, art. 74.º n.º 1 (revoga o DL 214/88 exceto o art. 25.º e o mapa VIII quanto aos TAF); consolidado '(Revogado.)' com epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 55.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 186-A/99, art. 74.º n.º 1 (revoga o DL 214/88 exceto o art. 25.º e o mapa VIII quanto aos TAF); consolidado '(Revogado.)' com epígrafe mantida. Epígrafe do DL 206/91.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 56.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 186-A/99, art. 74.º n.º 1 (revoga o DL 214/88 exceto o art. 25.º e o mapa VIII quanto aos TAF); consolidado '(Revogado.)' com epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 57.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 186-A/99, art. 74.º n.º 1 (revoga o DL 214/88 exceto o art. 25.º e o mapa VIII quanto aos TAF); consolidado '(Revogado.)' com epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 58.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 186-A/99, art. 74.º n.º 1 (revoga o DL 214/88 exceto o art. 25.º e o mapa VIII quanto aos TAF); consolidado '(Revogado.)' com epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 59.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 186-A/99, art. 74.º n.º 1 (revoga o DL 214/88 exceto o art. 25.º e o mapa VIII quanto aos TAF); consolidado '(Revogado.)' com epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 60.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 186-A/99, art. 74.º n.º 1 (revoga o DL 214/88 exceto o art. 25.º e o mapa VIII quanto aos TAF); consolidado '(Revogado.)' com epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 61.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 186-A/99, art. 74.º n.º 1 (revoga o DL 214/88 exceto o art. 25.º e o mapa VIII quanto aos TAF); consolidado '(Revogado.)' com epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 62.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 186-A/99, art. 74.º n.º 1 (revoga o DL 214/88 exceto o art. 25.º e o mapa VIII quanto aos TAF); consolidado '(Revogado.)' com epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 63.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 186-A/99, art. 74.º n.º 1 (revoga o DL 214/88 exceto o art. 25.º e o mapa VIII quanto aos TAF); consolidado '(Revogado.)' com epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 64.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 186-A/99, art. 74.º n.º 1 (revoga o DL 214/88 exceto o art. 25.º e o mapa VIII quanto aos TAF); consolidado '(Revogado.)' com epígrafe mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 65.º",
+    "veredicto": "errado",
+    "motivo": "O corpo («Encargos») está revogado, mas ficaram duas linhas soltas no topo, «3 Procuradores da República» e «1 Procurador da República». Vêm da Declaração (mapa VIII: STA «3 Procuradores da República»; Tribunal Tributário de 2.ª instância «1 Procurador da República» em vez de «1 Procurador-Geral da República»). Foram postas antes do «Visto e aprovado» e não no mapa VIII, onde o STA continua «Procuradores da República» e o TT 2.ª instância «1 Procurador-Geral da República». Além disso os mapas I a VII e IX, revogados pelo DL 186-A/99 art. 74.º n.º 1, e a parte do mapa VIII que não é dos tribunais administrativos e fiscais continuam no texto sem '(Revogado.)'.",
+    "texto_esperado": "###### Artigo 65.º — (Encargos)\n\n(Revogado.)\n\n(sem as duas linhas soltas; no mapa VIII, a parte mantida dos tribunais administrativos e fiscais com 'SUPREMO TRIBUNAL ADMINISTRATIVO / 3 Procuradores da República' e 'TRIBUNAL TRIBUTÁRIO DE 2a. INSTÂNCIA / 1 Procurador-Geral-Adjunto / 1 Procurador da República'; mapas I-VII e IX revogados)"
+   },
+   {
+    "artigo": "Artigo 1º",
+    "veredicto": "certo",
+    "motivo": "Não falta: existe no consolidado como «Artigo 1.º» (chave com grafia diferente); ver o veredicto desse artigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 2º",
+    "veredicto": "certo",
+    "motivo": "Não falta: existe no consolidado como «Artigo 2.º» (chave com grafia diferente); ver o veredicto desse artigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3º",
+    "veredicto": "certo",
+    "motivo": "Não falta: existe no consolidado como «Artigo 3.º» (chave com grafia diferente); ver o veredicto desse artigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4º",
+    "veredicto": "certo",
+    "motivo": "Não falta: existe no consolidado como «Artigo 4.º» (chave com grafia diferente); ver o veredicto desse artigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5º",
+    "veredicto": "certo",
+    "motivo": "Não falta: existe no consolidado como «Artigo 5.º» (chave com grafia diferente); ver o veredicto desse artigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "artigo 6º",
+    "veredicto": "certo",
+    "motivo": "Não falta: existe no consolidado como «Artigo 6.º» (chave com grafia diferente); ver o veredicto desse artigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 7º",
+    "veredicto": "certo",
+    "motivo": "Não falta: existe no consolidado como «Artigo 7.º» (chave com grafia diferente); ver o veredicto desse artigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 8º",
+    "veredicto": "certo",
+    "motivo": "Não falta: existe no consolidado como «Artigo 8.º» (chave com grafia diferente); ver o veredicto desse artigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 9º",
+    "veredicto": "certo",
+    "motivo": "Não falta: existe no consolidado como «Artigo 9.º» (chave com grafia diferente); ver o veredicto desse artigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 10º",
+    "veredicto": "certo",
+    "motivo": "Não falta: existe no consolidado como «Artigo 10.º» (chave com grafia diferente); ver o veredicto desse artigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 11º",
+    "veredicto": "certo",
+    "motivo": "Não falta: existe no consolidado como «Artigo 11.º» (chave com grafia diferente); ver o veredicto desse artigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 12º",
+    "veredicto": "certo",
+    "motivo": "Não falta: existe no consolidado como «Artigo 12.º» (chave com grafia diferente); ver o veredicto desse artigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 13º",
+    "veredicto": "certo",
+    "motivo": "Não falta: existe no consolidado como «Artigo 13.º» (chave com grafia diferente); ver o veredicto desse artigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 14º",
+    "veredicto": "certo",
+    "motivo": "Não falta: existe no consolidado como «Artigo 14.º» (chave com grafia diferente); ver o veredicto desse artigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 15º",
+    "veredicto": "certo",
+    "motivo": "Não falta: existe no consolidado como «Artigo 15.º» (chave com grafia diferente); ver o veredicto desse artigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 16º",
+    "veredicto": "certo",
+    "motivo": "Não falta: existe no consolidado como «Artigo 16.º» (chave com grafia diferente); ver o veredicto desse artigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 17º",
+    "veredicto": "certo",
+    "motivo": "Não falta: existe no consolidado como «Artigo 17.º» (chave com grafia diferente); ver o veredicto desse artigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 18º",
+    "veredicto": "certo",
+    "motivo": "Não falta: existe no consolidado como «Artigo 18.º» (chave com grafia diferente); ver o veredicto desse artigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 19º",
+    "veredicto": "certo",
+    "motivo": "Não falta: existe no consolidado como «Artigo 19.º» (chave com grafia diferente); ver o veredicto desse artigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 20º",
+    "veredicto": "certo",
+    "motivo": "Não falta: existe no consolidado como «Artigo 20.º» (chave com grafia diferente); ver o veredicto desse artigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 21º",
+    "veredicto": "certo",
+    "motivo": "Não falta: existe no consolidado como «Artigo 21.º» (chave com grafia diferente); ver o veredicto desse artigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 22º",
+    "veredicto": "certo",
+    "motivo": "Não falta: existe no consolidado como «Artigo 22.º» (chave com grafia diferente); ver o veredicto desse artigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 23º",
+    "veredicto": "certo",
+    "motivo": "Não falta: existe no consolidado como «Artigo 23.º» (chave com grafia diferente); ver o veredicto desse artigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 24º",
+    "veredicto": "certo",
+    "motivo": "Não falta: existe no consolidado como «Artigo 24.º» (chave com grafia diferente); ver o veredicto desse artigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 25º",
+    "veredicto": "certo",
+    "motivo": "Não falta: existe no consolidado como «Artigo 25.º» (chave com grafia diferente); ver o veredicto desse artigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 26º",
+    "veredicto": "certo",
+    "motivo": "Não falta: existe no consolidado como «Artigo 26.º» (chave com grafia diferente); ver o veredicto desse artigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 27º",
+    "veredicto": "certo",
+    "motivo": "Não falta: existe no consolidado como «Artigo 27.º» (chave com grafia diferente); ver o veredicto desse artigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 28º",
+    "veredicto": "certo",
+    "motivo": "Não falta: existe no consolidado como «Artigo 28.º» (chave com grafia diferente); ver o veredicto desse artigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 29º",
+    "veredicto": "certo",
+    "motivo": "Não falta: existe no consolidado como «Artigo 29.º» (chave com grafia diferente); ver o veredicto desse artigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 30º",
+    "veredicto": "certo",
+    "motivo": "Não falta: existe no consolidado como «Artigo 30.º» (chave com grafia diferente); ver o veredicto desse artigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 31º",
+    "veredicto": "certo",
+    "motivo": "Não falta: existe no consolidado como «Artigo 31.º» (chave com grafia diferente); ver o veredicto desse artigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 32º",
+    "veredicto": "certo",
+    "motivo": "Não falta: existe no consolidado como «Artigo 32.º» (chave com grafia diferente); ver o veredicto desse artigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 33º",
+    "veredicto": "certo",
+    "motivo": "Não falta: existe no consolidado como «Artigo 33.º» (chave com grafia diferente); ver o veredicto desse artigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 34º",
+    "veredicto": "certo",
+    "motivo": "Não falta: existe no consolidado como «Artigo 34.º» (chave com grafia diferente); ver o veredicto desse artigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 35º",
+    "veredicto": "certo",
+    "motivo": "Não falta: existe no consolidado como «Artigo 35.º» (chave com grafia diferente); ver o veredicto desse artigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 36º",
+    "veredicto": "certo",
+    "motivo": "Não falta: existe no consolidado como «Artigo 36.º» (chave com grafia diferente); ver o veredicto desse artigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 37º",
+    "veredicto": "certo",
+    "motivo": "Não falta: existe no consolidado como «Artigo 37.º» (chave com grafia diferente); ver o veredicto desse artigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 38º",
+    "veredicto": "certo",
+    "motivo": "Não falta: existe no consolidado como «Artigo 38.º» (chave com grafia diferente); ver o veredicto desse artigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 39º",
+    "veredicto": "certo",
+    "motivo": "Não falta: existe no consolidado como «Artigo 39.º» (chave com grafia diferente); ver o veredicto desse artigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 40º",
+    "veredicto": "certo",
+    "motivo": "Não falta: existe no consolidado como «Artigo 40.º» (chave com grafia diferente); ver o veredicto desse artigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 41º",
+    "veredicto": "certo",
+    "motivo": "Não falta: existe no consolidado como «Artigo 41.º» (chave com grafia diferente); ver o veredicto desse artigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 42º",
+    "veredicto": "certo",
+    "motivo": "Não falta: existe no consolidado como «Artigo 42.º» (chave com grafia diferente); ver o veredicto desse artigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 43º",
+    "veredicto": "certo",
+    "motivo": "Não falta: existe no consolidado como «Artigo 43.º» (chave com grafia diferente); ver o veredicto desse artigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 44º",
+    "veredicto": "certo",
+    "motivo": "Não falta: existe no consolidado como «Artigo 44.º» (chave com grafia diferente); ver o veredicto desse artigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 45º",
+    "veredicto": "certo",
+    "motivo": "Não falta: existe no consolidado como «Artigo 45.º» (chave com grafia diferente); ver o veredicto desse artigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 46º",
+    "veredicto": "certo",
+    "motivo": "Não falta: existe no consolidado como «Artigo 46.º» (chave com grafia diferente); ver o veredicto desse artigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 47º",
+    "veredicto": "certo",
+    "motivo": "Não falta: existe no consolidado como «Artigo 47.º» (chave com grafia diferente); ver o veredicto desse artigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 48º",
+    "veredicto": "certo",
+    "motivo": "Não falta: existe no consolidado como «Artigo 48.º» (chave com grafia diferente); ver o veredicto desse artigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 49º",
+    "veredicto": "certo",
+    "motivo": "Não falta: existe no consolidado como «Artigo 49.º» (chave com grafia diferente); ver o veredicto desse artigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 50º",
+    "veredicto": "certo",
+    "motivo": "Não falta: existe no consolidado como «Artigo 50.º» (chave com grafia diferente); ver o veredicto desse artigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 51º",
+    "veredicto": "certo",
+    "motivo": "Não falta: existe no consolidado como «Artigo 51.º» (chave com grafia diferente); ver o veredicto desse artigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 52º",
+    "veredicto": "certo",
+    "motivo": "Não falta: existe no consolidado como «Artigo 52.º» (chave com grafia diferente); ver o veredicto desse artigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 53º",
+    "veredicto": "certo",
+    "motivo": "Não falta: existe no consolidado como «Artigo 53.º» (chave com grafia diferente); ver o veredicto desse artigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 54º",
+    "veredicto": "certo",
+    "motivo": "Não falta: existe no consolidado como «Artigo 54.º» (chave com grafia diferente); ver o veredicto desse artigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 55º",
+    "veredicto": "certo",
+    "motivo": "Não falta: existe no consolidado como «Artigo 55.º» (chave com grafia diferente); ver o veredicto desse artigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 56º",
+    "veredicto": "certo",
+    "motivo": "Não falta: existe no consolidado como «Artigo 56.º» (chave com grafia diferente); ver o veredicto desse artigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 57º",
+    "veredicto": "certo",
+    "motivo": "Não falta: existe no consolidado como «Artigo 57.º» (chave com grafia diferente); ver o veredicto desse artigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 58º",
+    "veredicto": "certo",
+    "motivo": "Não falta: existe no consolidado como «Artigo 58.º» (chave com grafia diferente); ver o veredicto desse artigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 59º",
+    "veredicto": "certo",
+    "motivo": "Não falta: existe no consolidado como «Artigo 59.º» (chave com grafia diferente); ver o veredicto desse artigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 60º",
+    "veredicto": "certo",
+    "motivo": "Não falta: existe no consolidado como «Artigo 60.º» (chave com grafia diferente); ver o veredicto desse artigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 61º",
+    "veredicto": "certo",
+    "motivo": "Não falta: existe no consolidado como «Artigo 61.º» (chave com grafia diferente); ver o veredicto desse artigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 62º",
+    "veredicto": "certo",
+    "motivo": "Não falta: existe no consolidado como «Artigo 62.º» (chave com grafia diferente); ver o veredicto desse artigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 63º",
+    "veredicto": "certo",
+    "motivo": "Não falta: existe no consolidado como «Artigo 63.º» (chave com grafia diferente); ver o veredicto desse artigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 64º",
+    "veredicto": "certo",
+    "motivo": "Não falta: existe no consolidado como «Artigo 64.º» (chave com grafia diferente); ver o veredicto desse artigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 65º",
+    "veredicto": "errado",
+    "motivo": "Existe no consolidado como «Artigo 65.º» (chave com grafia 'º' sem ponto); ver o veredicto desse artigo: linhas soltas «3 Procuradores da República / 1 Procurador da República» e mapas revogados por manter.",
+    "texto_esperado": "Ver Artigo 65.º"
+   }
+  ],
+  "instrucoes_em_falta": [
+   "Declaração (retificação do formulário): «Decreto-Lei n.º 38/87» -> «Lei n.º 38/87» e «regime juridico estabelecido pelo» -> «pela»: alvo incerto (o preâmbulo vem como igual ao original e não o vejo na vista).",
+   "DL 186-A/99 art. 74.º n.º 1: revogação dos mapas I a VII e IX (e da parte do mapa VIII que não é dos tribunais administrativos e fiscais) não aplicada; o texto dos mapas continua integralmente dentro do Artigo 65.º sem '(Revogado.)'.",
+   "Declaração, mapa VIII: STA «3 Procuradores da República» e TT 2.ª instância «1 Procurador da República» aplicadas em sítio errado (linhas soltas no topo do Artigo 65.º); no mapa VIII ficou o texto antigo."
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Lei 44/96 (alterador 7), arts. 1.º, 2.º e 4.º, que alteram a Lei 38/87, a Lei 21/85 e o DL 376/87",
+    "motivo": "outro diploma (confirmado no texto)"
+   },
+   {
+    "instrucao": "DL 186-A/99 art. 74.º n.os 2 e 3 (manutenção até 15-9-1999 do mapa II e da área territorial; mapa X da Lei 44/96)",
+    "motivo": "não textual: prazo transitório; confirmado no texto"
+   },
+   {
+    "instrucao": "DL 301-A/99 art. 6.º n.º 1 (alterador 13) (mantêm-se os quadros dos procuradores-adjuntos nos tribunais administrativos de círculo do mapa VIII)",
+    "motivo": "não textual: manutenção sem nova redação; confirmado no texto"
+   },
+   {
+    "instrucao": "DL 25/2009 (alterações ao DL 186-A/99 e comarcas piloto)",
+    "motivo": "outro diploma: nenhuma instrução dirigida ao DL 214/88 (a menção a 214/88 não existe no texto)"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

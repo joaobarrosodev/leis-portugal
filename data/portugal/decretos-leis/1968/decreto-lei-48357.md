@@ -52,11 +52,14 @@ version_history:
     changes: []
   - date: '2009-09-28'
     amending: pt:dre:490426:por
-    amending_title: Decreto-Lei n.º 253/2009
+    amending_title: Decreto-Lei n.º 253/2009; Decreto-Lei n.º 7/77; Decreto-Lei n.º 301/79; Decreto-Lei n.º 284/99
     changes:
     - Altera Artigo 56.º
     - Revoga Artigo 83.º
     - Revoga Artigo 84.º
+    - Revoga Artigo 49
+    - Revoga Artigo 58
+    - Revoga Artigo 8
 identifiers:
   celex: null
   eli: null
@@ -83,7 +86,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:05:10Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 253/2009. Método
-    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1968/decreto-lei-48357.alteracoes.json'
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1968/decreto-lei-48357.alteracoes.json.
+    Revogações registadas só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Decreto-Lei
+    n.º 7/77; Decreto-Lei n.º 301/79; Decreto-Lei n.º 284/99.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -380,9 +385,9 @@ A criação, extinção ou transformação de estabelecimentos ou serviços hosp
 
 ###### Artigo 8.º
 
-1. Os estabelecimentos e serviços pertencentes ao Estado ou à mesma instituição podem constituir grupos ou centros hospitalares com administração central comum, atribuindo-se, em regulamento, a cada uma das unidades agrupadas ou integradas, quando se trate de serviços oficiais, a autonomia administrativa que for julgada conveniente.
+(Revogado.)
 
-2. O diploma orgânico do centro ou grupo deve indicar a forma de participação dos estabelecimentos e serviços na administração central e os poderes desta.
+> Revogado pelo/a [Decreto-Lei n.º 284/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/284-1999-353350), publicado em 1999-07-26, com efeitos a partir de 1999-07-27.
 
 ###### Artigo 9.º
 
@@ -762,11 +767,13 @@ O pessoal hospitalar exerce uma função de interesse público, só devendo ser 
 
 ###### Artigo 49.º
 
-1. O limite máximo de idade para admissão de pessoal médico, mesmo em lugares de acesso, nos estabelecimentos e serviços hospitalares é de 55 anos.
+1. (Revogado.)
 
-2. Para pessoal de enfermagem e técnico auxiliar este limite é de 40 anos.
+2. (Revogado.)
 
 3. Podem ser admitidos nos referidos estabelecimentos e serviços, nas categorias de pessoal oficinal, indivíduos com 18 anos completos. Este limite baixa para 16 anos em relação às categorias de aprendizes.
+
+> Revogado pelo/a [Decreto-Lei n.º 7/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-1977-492675), publicado em 1977-01-05.
 
 ###### Artigo 50.º
 
@@ -848,13 +855,15 @@ d) Exercício de mais de dois cargos médicos, farmacêuticos ou de enfermagem e
 
 ###### Artigo 58.º
 
-1. A fim de permitir a estruturação e funcionamento das carreiras hospitalares previstas na base XXV da [Lei n.º 2120](https://diariodarepublica.pt/dr/detalhe/lei/2120-1963-693016), de 19 de Julho de 1963, e a necessária intercomunicação entre os quadros dos estabelecimentos oficiais e dos pertencentes a Misericórdias e demais instituições de assistência particular, a aposentação, abono de família e demais regalias sociais relativas ao pessoal dos hospitais gerais e das maternidades oficiais abrangido pelas carreiras de que trata a secção II deste capítulo serão assegurados através da Caixa de Previdência dos Empregados da Assistência, nos termos a fixar em despacho conjunto dos Ministros das Corporações e Previdência Social e da Saúde e Assistência.
+1. (Revogado.)
 
 2. O disposto no número anterior não se aplica aos funcionários que actualmente se encontram inscritos na Caixa Geral de Aposentações. Quando estes funcionários sejam transferidos do quadro de um estabelecimento oficial para outro pertencente a uma Misericórdia ou outra instituição de assistência particular, continuarão a descontar para a Caixa Geral de Aposentações e a manter todos os seus direitos como se se mantivessem em funções oficiais.
 
 3. Pode ser efectuado um seguro especial para cobrir acidentes ocorridos em trabalho fora das hospitais, em locais de sinistro ou durante a assistência domiciliária, no que respeita ao pessoal não abrangido pelo disposto no [Decreto-Lei n.º 38523](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38523-1951-593352), de 23 de Novembro de 1951. Para efeitos do disposto neste número e no diploma referido, serão sempre considerados os vencimentos correspondentes ao tempo completo.
 
 4. O disposto neste artigo pode mandar ser aplicado aos médicos dos demais estabelecimentos e serviços abrangidos pelo presente diploma, mediante portaria conjunta dos Ministros das Finanças, das Corporações e Previdência Social e da Saúde e Assistência.
+
+> Revogado pelo/a [Decreto-Lei n.º 301/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/301-1979-378964), publicado em 1979-08-18, com efeitos a partir de 1979-09-17.
 
 ###### Artigo 59.º
 

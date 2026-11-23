@@ -46,7 +46,7 @@ version_history:
     amending_title: Decreto-Lei n.º 45400; Decreto-Lei n.º 49483; Decreto-Lei n.º 542/71; Lei n.º 40/77; Decreto-Lei n.º 390/77;
       Decreto-Lei n.º 239/79; Decreto-Lei n.º 183-E/80; Decreto-Lei n.º 139/81; Decreto-Lei n.º 155/82; Decreto-Lei n.º 197/82;
       Decreto-Lei n.º 119-E/83; Decreto-Lei n.º 178/84; Decreto-Lei n.º 92-B/85; Decreto-Lei n.º 110/86; Decreto-Lei n.º 121/87;
-      Decreto-Lei n.º 325/87; Decreto-Lei n.º 73/88
+      Decreto-Lei n.º 325/87; Decreto-Lei n.º 73/88; Decreto-Lei n.º 194/83
     changes:
     - Altera Artigo unidades 71-71
     - Altera Artigo unidades 72-72
@@ -117,7 +117,9 @@ provenance:
     n.º 49483; Decreto-Lei n.º 542/71; Lei n.º 40/77; Decreto-Lei n.º 390/77; Decreto-Lei n.º 239/79; Decreto-Lei n.º 183-E/80;
     Decreto-Lei n.º 139/81; Decreto-Lei n.º 155/82; Decreto-Lei n.º 197/82; Decreto-Lei n.º 119-E/83; Decreto-Lei n.º 178/84;
     Decreto-Lei n.º 92-B/85; Decreto-Lei n.º 110/86; Decreto-Lei n.º 121/87; Decreto-Lei n.º 325/87; Decreto-Lei n.º 73/88.
-    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1962/decreto-lei-44561.alteracoes.json'
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1962/decreto-lei-44561.alteracoes.json.
+    Revogações registadas só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Decreto-Lei
+    n.º 194/83.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -993,7 +995,9 @@ Art. 52.º Os notários são obrigados a enviar às repartições de finanças c
 
 > Alterado pelo/a [Decreto-Lei n.º 45400](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45400-1963-432797), publicado em 1963-11-30.
 
-§ único. Nesta relação serão incluídas as letras e livranças que não se encontrem na posse de instituições de crédito e em que os notários tenham feito reconhecimentos de assinaturas ou por qualquer outra forma hajam intervindo.
+§ único. (Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 194/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/194-1983-451218), publicado em 1983-05-17.
 
 Art. 53.º Os escrivães de direito são obrigados a enviar às repartições de finanças competentes para o mafesto, até ao dia 10 de cada mês, uma relação modelo n.º 3, em duplicado, dos inventários e demais processos a seu cargo, cujas decisões tenham transitado em julgado no mês anterior e dos quais se mostre haver fundamento para a exigência de imposto.
 

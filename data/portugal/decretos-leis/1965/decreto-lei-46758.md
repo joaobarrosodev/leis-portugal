@@ -43,9 +43,10 @@ version_history:
     changes: []
   - date: '1974-12-28'
     amending: pt:dre:595085:por
-    amending_title: Decreto-Lei n.º 752/74
+    amending_title: Decreto-Lei n.º 752/74; Decreto-Lei n.º 178/70
     changes:
     - Altera Artigo 28.º
+    - Revoga Artigo 67
 identifiers:
   celex: null
   eli: null
@@ -72,7 +73,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T21:55:34Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 752/74. Método e
-    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1965/decreto-lei-46758.alteracoes.json'
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1965/decreto-lei-46758.alteracoes.json.
+    Revogações registadas só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Decreto-Lei
+    n.º 178/70.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -830,7 +833,9 @@ Na falta de diplomados com o curso de conservador de museu poderá abrir-se conc
 
 ###### Artigo 67.º
 
-As disposições dos artigos anteriores são aplicáveis ao provimento dos lugares de conservador dos palácios e monumentos nacionais.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 178/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-1970-226022), publicado em 1970-04-23.
 
 ###### Artigo 68.º
 

@@ -44,10 +44,11 @@ version_history:
     changes: []
   - date: '1989-06-12'
     amending: pt:dre:611079:por
-    amending_title: Portaria n.º 344/89
+    amending_title: Portaria n.º 344/89; Decreto-Lei n.º 131/87
     changes:
     - Altera Artigo unidades 64-64
     - Altera Artigo unidades 80-80
+    - Revoga anexo ou texto fora do articulado
 identifiers:
   celex: null
   eli: null
@@ -74,7 +75,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:54:11Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 344/89. Método e verificação:
-    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1976/decreto-lei-446-76.alteracoes.json'
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1976/decreto-lei-446-76.alteracoes.json. Revogações
+    registadas só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Decreto-Lei
+    n.º 131/87.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -408,7 +411,9 @@ Art. 41.º - 1. Findos os trabalhos de estabelecimento de uma instalação eléc
 
 6. Se a instalação diferir do projecto aprovado e as alterações se relacionarem com a segurança da instalação ou colidirem com interesses de terceiros, deverá ser apresentado o projecto rectificativo, com antecedência necessária, para se proceder às formalidades previstas nos artigos 18.º e 19.º
 
-7. Os requerimentos de vistoria referentes a elevadores eléctricos, escadas e tapetes rolantes para transporte de pessoas ou semelhantes, endereçados à respectiva direcção de fiscalização eléctrica, serão acompanhados de peças escritas e desenhadas, indicando as características dos aparelhos e todas as disposições da sua montagem, bem como de uma declaração, passada pelo técnico responsável da entidade instaladora, em que expresse que a instalação está concluída e obedece aos regulamentos em vigor.
+7. (Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 131/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-1987-662150), publicado em 1987-03-17, com efeitos a partir de 1987-05-16.
 
 8. Os pedidos de vistoria relativos a instalações de tubos de descarga de tensão em vazio superior a 1 kV deverão ser dirigidos pelos proprietários aos distribuidores públicos de energia em baixa tensão juntamente com os desenhos, em duplicado, mostrando a disposição e ligação dos tubos, acompanhados de uma declaração de responsabilidade pela execução dos trabalhos passada pelo técnico responsável da entidade instaladora.
 

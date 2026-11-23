@@ -586,19 +586,15 @@
       "alterador": 15
     }
   ],
-  "nao_aplicavel": "Alterador 1, retificação do n.º 3 do preâmbulo («dados e que» → «dados ao que»): alvo incerto, o preâmbulo não está no texto atual (que só traz os artigos e os títulos de divisão).",
+  "nao_aplicavel": "Alterador 1, retificação do n.º 3 do preâmbulo («dados e que» -> «dados ao que»): alvo incerto: o preâmbulo não vem no texto atual, não há onde aplicar\nAlteradores 2 a 8, 11, 13 e 14, criação de lugares no quadro do mapa anexo: não textual: criam lugares sem dar texto novo ao mapa, que só existe em imagem e fica revogado pelo alterador 15\nAlteradores 9 e 10, alargamento da área de recrutamento para chefes de divisão: não textual: não alteram o texto do original\nAlterador 12, alteração parcial do mapa anexo (imagem): só em imagem: o mapa fica revogado pelo alterador 15, que prevalece\nAlterador 15, artigo 50.º (transição de pessoal): outro diploma: só menciona o quadro anexo ao original",
   "instrucoes": [
-    "Alterador 1 (declaração de retificação de 21/7/1980): retificações dos arts. 7.º, n.º 2, 10.º (título e corpo), 14.º (título), 21.º, n.º 1, 41.º, n.º 1, 66.º, 75.º, n.º 1, e 89.º, n.º 1, e do mapa anexo; os corpos ficam absorvidos pela revogação do alterador 15; aplicadas as epígrafes dos arts. 10.º («funcional ou da colaboração») e 14.º («Competências»), que se mantêm nos artigos revogados.",
-    "Alterador 1: «Secção IV» da p. 1076 passa a «SECÇÃO III» (secção dos serviços de apoio técnico à gestão do capítulo II).",
-    "Alterador 1: título da secção I do capítulo IV «Quadros e carreiras» passa a «Quadro e carreiras».",
-    "Alterador 1: retificação do n.º 3 do preâmbulo não aplicada (preâmbulo fora do texto atual).",
-    "Alteradores 2 a 14 (portarias): criam ou alteram lugares no mapa de pessoal anexo (em imagem); ficam sem efeito no texto, porque o anexo é revogado pelo alterador 15.",
-    "Alterador 15 (DL 339/83), art. 55.º: revogado o DL 138/80 com excepção dos n.os 3, 4 e 5 do art. 89.º: arts. 1.º a 88.º e 90.º a 94.º «(Revogado.)», n.os 1 e 2 do art. 89.º revogados, n.os 3 a 5 mantidos, mapa anexo revogado.",
-    "Alterador 15, art. 50.º: transição de pessoal do quadro anexo; não altera o texto."
+    "Alterador 1 (retificação): «Secção IV» -> «Secção III» aplicada ao título da secção IV do capítulo II; «Quadros e carreiras» -> «Quadro e carreiras» aplicada ao título da secção I do capítulo IV; epígrafes dos artigos 10.º («ou da colaboração técnica») e 14.º («Competências») retificadas; as retificações dos corpos dos artigos 7.º, 10.º, 21.º, 41.º, 66.º, 75.º, 89.º, n.º 1, e do mapa ficam sem efeito por recaírem em partes revogadas; a do preâmbulo não tem alvo no texto atual",
+    "Alteradores 2 a 14 (portarias sobre o quadro de pessoal): não mudam o texto; o mapa fica revogado",
+    "Alterador 15, artigo 55.º: revoga o DL 138/80 com excepção dos n.os 3, 4 e 5 do artigo 89.º: todos os artigos 1.º a 94.º com «(Revogado.)», o 89.º com os n.os 1 e 2 revogados e os n.os 3 a 5 intactos, e o corpo do anexo revogado"
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "ronda_camada1": 116,
+  "ronda_camada1": 117,
   "problemas": [],
   "numeracao_aceite": [],
   "avisos": []

@@ -1,0 +1,97 @@
+[
+ {
+  "id": "pt:dre:511670:por",
+  "artigos": [
+   {
+    "artigo": "ARTIGO: Artigo 7.º",
+    "veredicto": "certo",
+    "motivo": "DL 633/70 art. 1.º: nova redação, igual (substitui a do DL 47010)."
+   },
+   {
+    "artigo": "ARTIGO: Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "DL 633/70 art. 1.º: nova redação, igual (substitui a do DL 47010)."
+   },
+   {
+    "artigo": "ARTIGO: Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "DL 633/70 art. 1.º: nova redação, igual."
+   },
+   {
+    "artigo": "ARTIGO: Artigo 10.º",
+    "veredicto": "certo",
+    "motivo": "DL 633/70 art. 1.º: nova redação, igual."
+   },
+   {
+    "artigo": "ARTIGO: Artigo 11.º",
+    "veredicto": "certo",
+    "motivo": "DL 633/70 art. 1.º: nova redação, igual."
+   },
+   {
+    "artigo": "ARTIGO: Artigo 12.º",
+    "veredicto": "certo",
+    "motivo": "DL 633/70 art. 1.º: nova redação, igual (supera a eliminação do DL 47010 art. 5.º)."
+   },
+   {
+    "artigo": "ARTIGO: Artigo 13.º",
+    "veredicto": "certo",
+    "motivo": "DL 633/70 art. 1.º: nova redação com § único, igual."
+   },
+   {
+    "artigo": "ARTIGO: Artigo 19.º",
+    "veredicto": "certo",
+    "motivo": "DL 157/87 art. 1.º: nova redação, igual (incluindo «63.º 84.º»)."
+   },
+   {
+    "artigo": "ARTIGO: Artigo 22.º",
+    "veredicto": "certo",
+    "motivo": "DL 633/70 art. 2.º revoga o art. 22.º da tabela."
+   },
+   {
+    "artigo": "ARTIGO: Artigo 23.º",
+    "veredicto": "certo",
+    "motivo": "Lei 4/82 art. 1.º: nova redação n.os 1 a 6, igual."
+   },
+   {
+    "artigo": "ARTIGO: Artigo 24.º",
+    "veredicto": "certo",
+    "motivo": "DL 157/87 art. 1.º: nova redação, igual."
+   },
+   {
+    "artigo": "ARTIGO: Artigo 25.º",
+    "veredicto": "certo",
+    "motivo": "DL 47010 art. 2.º revoga o art. 25.º da tabela."
+   }
+  ],
+  "instrucoes_em_falta": [
+   "DL 47010 art. 2.º: revogação dos n.os 65.º e 66.º do artigo 1.º da tabela: alvo incerto (corpo do artigo 1.º da tabela, n.os 1.º a 89.º, não está no consolidado, só os títulos das secções).",
+   "DL 633/70 art. 1.º: nova redação dos n.os 1.º e 2.º do artigo 1.º da tabela: alvo incerto (corpo do artigo 1.º ausente).",
+   "DL 633/70 art. 1.º: nova redação do artigo 3.º da tabela (compensação pessoal de 30 por cento): o consolidado tem «ARTIGO 3.º» na lista dos iguais ao original; se for o artigo 3.º da tabela, a nova redação não foi aplicada (não verificável sem o texto original; alvo incerto).",
+   "DL 582/72: revogação do n.º 73.º do artigo 1.º da tabela: alvo incerto (corpo do artigo 1.º ausente).",
+   "DL 157/87 art. 1.º: nova redação do artigo 1.º da tabela (secções I a VII, n.os 1.º a 89.º): alvo incerto (só existem os títulos das secções).",
+   "DL 339/87: nova redação dos n.os 28.º e 29.º do artigo 1.º: alvo incerto (corpo do artigo 1.º ausente).",
+   "DL 84/89: nova redação dos n.os 4.º e 7.º do artigo 1.º: alvo incerto (corpo do artigo 1.º ausente)."
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 47010 art. 1.º (valores das estampilhas), art. 2.º (fim da declaração de carga, Regulamento Consular) e §§ 1.º e 2.º, art. 6.º (competência do director-geral)",
+    "motivo": "não são alterações textuais ao original (outro diploma / norma não textual)"
+   },
+   {
+    "instrucao": "DL 633/70 art. 2.º: revogação dos arts. 3.º, 4.º e 5.º do DL 47010",
+    "motivo": "instrução de outro diploma"
+   },
+   {
+    "instrucao": "Lei 4/82 arts. 2.º e 3.º (atualização e publicidade das taxas de câmbio)",
+    "motivo": "não textual"
+   },
+   {
+    "instrucao": "DL 157/87 art. 2.º, DL 339/87 art. 2.º, DL 84/89 art. 2.º (entrada em vigor)",
+    "motivo": "não textual"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

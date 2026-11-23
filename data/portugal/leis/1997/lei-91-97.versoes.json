@@ -57,44 +57,72 @@
      "title": "Decreto-Lei n.º 35/2014",
      "published": "2014-03-07",
      "dre_path": "/dr/detalhe/decreto-lei/35-2014-572419"
+    },
+    {
+     "id": "pt:dre:581061:por",
+     "title": "Lei n.º 5/2004",
+     "published": "2004-02-10",
+     "dre_path": "/dr/detalhe/lei/5-2004-581061"
     }
    ],
    "changes": [
     "Altera Artigo 8.º",
     "Altera Artigo 12.º",
     "Revoga Artigo 12.º",
-    "Revoga Artigo 12.º"
+    "Revoga Artigo 12.º",
+    "Revoga Artigo 1",
+    "Revoga Artigo 2",
+    "Revoga Artigo 3",
+    "Revoga Artigo 4",
+    "Revoga Artigo 5",
+    "Revoga Artigo 6",
+    "Revoga Artigo 7",
+    "Revoga Artigo 8",
+    "Revoga Artigo 9",
+    "Revoga Artigo 10",
+    "Revoga Artigo 11",
+    "Revoga Artigo 12",
+    "Revoga Artigo 13",
+    "Revoga Artigo 14",
+    "Revoga Artigo 15",
+    "Revoga Artigo 16",
+    "Revoga Artigo 17",
+    "Revoga Artigo 18",
+    "Revoga Artigo 19",
+    "Revoga Artigo 20",
+    "Revoga Artigo 21",
+    "Revoga Artigo 22"
    ],
    "fragments": [
     "9305084131330532",
     "23836370ae405d04",
-    "10c4c19f85ec4998",
-    "005f20cdbdf157d5",
-    "d0cd7889806fd2a7",
-    "68f8cd1ee9ae6537",
-    "d52ce26165b159e0",
-    "697b11c8af4498f6",
+    "b1355c360e29ea52",
+    "84068ed4702f5a4c",
+    "1c0a7ecc5057a4e1",
+    "aad3a718c8f9ce80",
+    "c9ef240336e87e3e",
+    "8dcf837493732670",
     "bf411d0efd2a6d46",
-    "939daf95feec76bc",
-    "1d559b65845ca29f",
-    "eafde24ba49f84f0",
-    "1807048c6a3cbf8d",
+    "2de8db252f57f739",
+    "68162396c965b5db",
+    "07ffd8611f1e94e5",
+    "42bcfd834bc604f5",
     "21c533194f3794cd",
-    "af06a97d94a2bc57",
-    "1577aef92aac229b",
-    "66e029fdea649349",
-    "49ec7d72bcf5cfb3",
+    "9c7b210a7f7c7dcf",
+    "3d8160f52edbb3e3",
+    "8d598e4967fa2973",
+    "aed88ea4d9279334",
     "9c9736e9795fa910",
-    "4f2c59b363ae592a",
+    "c7e55f54ba7c789d",
     "1793fa868ff9857f",
-    "8f08e0c8afd6f512",
-    "6e0b10dd198faad4",
-    "f34c59349dc23108",
-    "589e86726b918915",
+    "b00144d64fd43ee8",
+    "9a65e81d718eca64",
+    "f96845b5c1c144a8",
+    "ff5312939552b917",
     "6b050db80a929544",
-    "1de274fee6b25ae7",
-    "9a53aa7fab37d7d7",
-    "9018cdc2b19620fd"
+    "910a5c9fe13cad24",
+    "d5e76fec5bd42412",
+    "339c6ff1833cfc50"
    ]
   }
  ],
@@ -331,7 +359,65 @@
    "changed_by": [],
    "markdown": "###### Artigo 22.º — Norma revogatória\n\nÉ revogada a [Lei n.º 88/89](https://diariodarepublica.pt/dr/detalhe/lei/88-1989-547200), de 11 de Setembro.\n\nAprovada em 3 de Julho de 1997.\n\nO Presidente da Assembleia da República, António de Almeida Santos.\n\nPromulgada em 18 de Julho de 1997.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendada em 24 de Julho de 1997.\n\nO Primeiro-Ministro, em exercício, António Manuel de Carvalho Ferreira Vitorino."
   },
-  "1d559b65845ca29f": {
+  "b1355c360e29ea52": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objecto e âmbito",
+   "in_force_from": "2014-06-01",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 5/2004](https://diariodarepublica.pt/dr/detalhe/lei/5-2004-581061), publicado em 2004-02-10, com efeitos a partir de 2004-02-11."
+   ],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 5/2004](https://diariodarepublica.pt/dr/detalhe/lei/5-2004-581061), publicado em 2004-02-10, com efeitos a partir de 2004-02-11."
+  },
+  "84068ed4702f5a4c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Definições e classificações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições e classificações\n\n(Revogado.)"
+  },
+  "1c0a7ecc5057a4e1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Domínio público radioeléctrico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Domínio público radioeléctrico\n\n(Revogado.)"
+  },
+  "aad3a718c8f9ce80": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Expropriações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Expropriações\n\n(Revogado.)"
+  },
+  "c9ef240336e87e3e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Tutela das telecomunicações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Tutela das telecomunicações\n\n(Revogado.)"
+  },
+  "8dcf837493732670": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Coordenação das telecomunicações em situações de emergência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Coordenação das telecomunicações em situações de emergência\n\n(Revogado.)"
+  },
+  "2de8db252f57f739": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Serviços de telecomunicações de uso público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Serviços de telecomunicações de uso público\n\n(Revogado.)"
+  },
+  "68162396c965b5db": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 8.º — Serviço universal de telecomunicações",
@@ -339,9 +425,33 @@
    "changed_by": [
     "Alterado pelo/a Artigo 1.º do/a [Lei n.º 29/2002](https://diariodarepublica.pt/dr/detalhe/lei/29-2002-438049), publicado em 2002-12-06."
    ],
-   "markdown": "###### Artigo 8.º — Serviço universal de telecomunicações\n\n1 - Compete ao Estado assegurar a existência e disponibilidade do serviço universal de telecomunicações entendido como o conjunto de obrigações específicas inerentes à prestação de serviços de telecomunicações de uso público endereçadas, visando a satisfação de necessidades de comunicação da população e das actividades económicas e sociais no todo do território nacional, em termos de igualdade e continuidade e mediante condições de adequada remuneração, tendo em conta as exigências de um desenvolvimento económico e social harmónico e equilibrado.\n\n2 - Para efeitos do disposto do número anterior, é garantida a prestação, em termos de serviço universal, de um serviço fixo de telefone, o qual pode ser explorado:\n\na) Pelo Estado;\n\nb) Por pessoa colectiva de direito público;\n\nc) Por pessoa colectiva de direito privado, mediante contrato.\n\n3 - O contrato a que alude a alínea c) do número anterior reveste a forma de concessão quando inclua, também, o estabelecimento, gestão e exploração das infra-estruturas que constituam a rede básica de telecomunicações a que se refere o Artigo 12.º\n\n4 - A obrigação a que se refere o número anterior pode ainda incluir, nos termos da lei e do contrato de concessão, a prestação de um serviço comutado de transmissão de dados e de um serviço de circuitos alugados ou de outros serviços.\n\n5 - O conceito de serviço universal de telecomunicações deve evoluir por forma a acompanhar o progresso da tecnologia, o desenvolvimento do mercado e as modificações da procura por parte dos utilizadores, sendo o seu âmbito modificado sempre que tal evolução o justifique.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 29/2002](https://diariodarepublica.pt/dr/detalhe/lei/29-2002-438049), publicado em 2002-12-06."
+   "markdown": "###### Artigo 8.º — Serviço universal de telecomunicações\n\n(Revogado.)\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 29/2002](https://diariodarepublica.pt/dr/detalhe/lei/29-2002-438049), publicado em 2002-12-06."
   },
-  "1577aef92aac229b": {
+  "07ffd8611f1e94e5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Custos do serviço universal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Custos do serviço universal\n\n(Revogado.)"
+  },
+  "42bcfd834bc604f5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Numeração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Numeração\n\n(Revogado.)"
+  },
+  "9c7b210a7f7c7dcf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Redes públicas de telecomunicações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Redes públicas de telecomunicações\n\n(Revogado.)"
+  },
+  "3d8160f52edbb3e3": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 12.º — Rede básica de telecomunicações",
@@ -351,7 +461,87 @@
     "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 35/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2014-572419), publicado em 2014-03-07.",
     "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 35/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2014-572419), publicado em 2014-03-07."
    ],
-   "markdown": "###### Artigo 12.º — Rede básica de telecomunicações\n\n1 - Compete ao Estado assegurar a existência, disponibilidade e qualidade de uma rede pública de telecomunicações endereçadas, denominada «rede básica», que cubra as necessidades de comunicação dos cidadãos e das actividades económicas e sociais no conjunto do território nacional e assegure as ligações internacionais, tendo em conta as exigências de um desenvolvimento económico e social harmónico e equilibrado.\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\n4 - A rede básica de telecomunicações deve funcionar como uma rede aberta, servindo de suporte à transmissão da generalidade dos serviços, devendo ser assegurada a sua utilização por todos os operadores de telecomunicações em igualdade de condições de concorrência.\n\n5 - A rede básica de telecomunicações garante a prestação do serviço universal, devendo, para esse efeito, ser mantida a sua segurança, integridade e permanente operabilidade, no respeito pelo disposto no artigo 8.º\n\n6 - É garantido o desenvolvimento e a modernização da rede básica de telecomunicações em articulação com o plano de ordenamento do território e com as necessidades dos cidadãos em matéria de segurança e de protecção civil.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 29/2002](https://diariodarepublica.pt/dr/detalhe/lei/29-2002-438049), publicado em 2002-12-06.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 35/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2014-572419), publicado em 2014-03-07.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 35/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2014-572419), publicado em 2014-03-07."
+   "markdown": "###### Artigo 12.º — Rede básica de telecomunicações\n\n1 - (Revogado.)\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\n5 - (Revogado.)\n\n6 - (Revogado.)\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 29/2002](https://diariodarepublica.pt/dr/detalhe/lei/29-2002-438049), publicado em 2002-12-06.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 35/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2014-572419), publicado em 2014-03-07.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 35/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2014-572419), publicado em 2014-03-07."
+  },
+  "8d598e4967fa2973": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Isenção de taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Isenção de taxas\n\n(Revogado.)"
+  },
+  "aed88ea4d9279334": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Redes privativas de telecomunicações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Redes privativas de telecomunicações\n\n(Revogado.)"
+  },
+  "c7e55f54ba7c789d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Interligação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Interligação\n\n(Revogado.)"
+  },
+  "b00144d64fd43ee8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Defesa da concorrência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Defesa da concorrência\n\n(Revogado.)"
+  },
+  "9a65e81d718eca64": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Direito ao uso dos serviços de telecomunicações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Direito ao uso dos serviços de telecomunicações\n\n(Revogado.)"
+  },
+  "f96845b5c1c144a8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Equipamento terminal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Equipamento terminal\n\n(Revogado.)"
+  },
+  "ff5312939552b917": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Princípios gerais de fixação de tarifas e preços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Princípios gerais de fixação de tarifas e preços\n\n(Revogado.)"
+  },
+  "910a5c9fe13cad24": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Regime transitório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Regime transitório\n\n(Revogado.)"
+  },
+  "d5e76fec5bd42412": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Salvaguarda dos direitos adquiridos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Salvaguarda dos direitos adquiridos\n\n(Revogado.)"
+  },
+  "339c6ff1833cfc50": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Norma revogatória\n\n(Revogado.)\n\nAprovada em 3 de Julho de 1997.\n\nO Presidente da Assembleia da República, António de Almeida Santos.\n\nPromulgada em 18 de Julho de 1997.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendada em 24 de Julho de 1997.\n\nO Primeiro-Ministro, em exercício, António Manuel de Carvalho Ferreira Vitorino."
   }
  }
 }

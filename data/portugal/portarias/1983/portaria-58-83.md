@@ -44,9 +44,10 @@ version_history:
     changes: []
   - date: '1986-05-26'
     amending: pt:dre:227047:por
-    amending_title: Portaria n.º 231/86
+    amending_title: Portaria n.º 231/86; Portaria n.º 599/84
     changes:
     - Altera Artigo unidades 18-24
+    - Revoga anexo ou texto fora do articulado
 identifiers:
   celex: null
   eli: null
@@ -73,7 +74,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:43:37Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 231/86. Método e verificação:
-    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1983/portaria-58-83.alteracoes.json'
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1983/portaria-58-83.alteracoes.json. Revogações registadas
+    só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Portaria n.º 599/84.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -130,31 +132,19 @@ O Regulamento dos Concursos para os Graus e Lugares dos Quadros de Pessoal da Ca
 
 Manda o Governo da República Portuguesa, pelo Ministro dos Assuntos Sociais, aprovar as seguintes alterações à [Portaria n.º 1103/82](https://diariodarepublica.pt/dr/detalhe/portaria/1103-1982-380121), de 23 de Novembro:
 
-1.º O artigo 10.º do Regulamento dos Concursos para os Graus e Lugares do Quadro de Pessoal da Carreira Médica Hospitalar, aprovado pela [Portaria n.º 1103/82](https://diariodarepublica.pt/dr/detalhe/portaria/1103-1982-380121), de 23 de Novembro, passa a ter a seguinte redacção:
+1.º - (Revogado.)
 
-Art. 10.º Podem concorrer ao concurso referido no artigo 9.º:
+> Revogado pelo/a [Portaria n.º 599/84](https://diariodarepublica.pt/dr/detalhe/portaria/599-1984-382418), publicado em 1984-08-11, com efeitos a partir de 1984-08-12.
 
-a) Os médicos habilitados com o grau de assistente hospitalar;
+2.º - (Revogado.)
 
-b) Os médicos que, ocupando já um lugar de assistente hospitalar, o queiram fazer para fins curriculares;
+3.º - (Revogado.)
 
-c) Os médicos cujo currículo seja considerado equiparável ao grau de assistente hospitalar por despacho do Ministro dos Assuntos Sociais, sob parecer favorável de uma comissão técnica.
+4.º - (Revogado.)
 
-2.º É eliminado o n.º 2 do artigo 12.º do referido Regulamento.
+5.º - (Revogado.)
 
-3.º O n.º 2 do artigo 14.º passa a ter a seguinte redacção:
-
-2 - As decisões são tomadas por maioria.
-
-4.º A este mesmo artigo é acrescentado um n.º 4, com a seguinte redacção:
-
-4 - No caso de impossibilidade da constituição dos júris segundo o estipulado no n.º 1, a comissão inter-hospitalar da zona nomeará elementos estranhos ao estabelecimento sob proposta do seu director, obedecendo aos mesmos critérios.
-
-5.º O n.º 4 do artigo 16.º passa a ter a seguinte redacção:
-
-4 - Aplica-se a este concurso curricular o disposto no artigo 18.º deste Regulamento.
-
-6.º É revogado o n.º 8 do artigo 17.º
+6.º - (Revogado.)
 
 7.º - (Revogado.)
 

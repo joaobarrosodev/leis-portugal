@@ -44,9 +44,10 @@ version_history:
     changes: []
   - date: '1988-09-25'
     amending: pt:dre:355494:por
-    amending_title: Lei n.º 108/88
+    amending_title: Lei n.º 108/88; Decreto-Lei n.º 121/85
     changes:
     - Revoga Artigo 4.º
+    - Revoga Artigo 3
 identifiers:
   celex: null
   eli: null
@@ -73,7 +74,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T23:42:54Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Lei n.º 108/88. Método e verificação:
-    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1982/decreto-lei-188-82.alteracoes.json'
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1982/decreto-lei-188-82.alteracoes.json. Revogações
+    registadas só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Decreto-Lei
+    n.º 121/85.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -148,9 +151,11 @@ c) Arrendar directamente os edifícios indispensáveis à prossecução das suas
 
 ###### Artigo 3.º
 
-1 - Cada universidade e instituto universitário disporá de um conselho administrativo, constituído pelo reitor, que preside, pelo administrador e pelo director ou responsável dos serviços administrativos da universidade ou instituto universitário.
+1 - (Revogado.)
 
 2 - Em matéria de autorização de despesas e celebração de contratos os conselhos administrativos das universidades ou institutos universitários têm a competência atribuída na lei geral aos responsáveis dos serviços com autonomia administrativa e financeira.
+
+> Revogado pelo/a [Decreto-Lei n.º 121/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-1985-324315), publicado em 1985-04-22, com efeitos a partir de 1985-04-27.
 
 ###### Artigo 4.º
 

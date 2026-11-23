@@ -462,7 +462,7 @@ Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Const
 
 > Revogado pelo/a [Decreto-Lei n.º 192/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1993-283524), publicado em 1993-05-24.
 
-#### SECÇÃO IV — Divisão de Telecomunicações Meteorológicas e Geofísicas
+#### SECÇÃO IV — Departamento de Telecomunicações Meteorológicas
 
 ###### Artigo 61.º — (Coordenação do Departamento)
 
@@ -476,7 +476,7 @@ Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Const
 
 > Revogado pelo/a [Decreto-Lei n.º 192/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1993-283524), publicado em 1993-05-24.
 
-#### SECÇÃO V — Divisão de Informática
+#### SECÇÃO V — Departamento de Informática
 
 ###### Artigo 63.º — (Coordenação do departamento)
 

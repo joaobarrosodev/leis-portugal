@@ -56,9 +56,10 @@ version_history:
     changes: []
   - date: '2007-11-11'
     amending: pt:dre:629447:por
-    amending_title: Portaria n.º 1434/2007
+    amending_title: Portaria n.º 1434/2007; Portaria n.º 1426/2004
     changes:
     - Altera Artigo unidades 16-16
+    - Revoga anexo ou texto fora do articulado
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/982/2004/08/04/p/dre/pt/html
@@ -85,7 +86,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:02:25Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1434/2007. Método e
-    verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/2004/portaria-982-2004.alteracoes.json'
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/2004/portaria-982-2004.alteracoes.json. Revogações
+    registadas só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Portaria n.º
+    1426/2004.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -171,7 +174,9 @@ Assim:
 
 Manda o Governo, pela Ministra de Estado e das Finanças, ao abrigo do disposto no n.º 1 do artigo 13.º do [Decreto-Lei n.º 287/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/287-2003-447325), de 12 de Novembro, e nos termos do n.º 3 e das alíneas a) a d) do n.º 1 do artigo 62.º do CIMI, na sequência de proposta da Comissão Nacional de Avaliação de Prédios Urbanos (CNAPU), o seguinte:
 
-1.º São aprovados os coeficientes de localização mínimos e máximos a aplicar em cada município, previstos no artigo 42.º do CIMI, e publicados no anexo I à presente portaria.
+1.º - (Revogado.)
+
+> Revogado pelo/a [Portaria n.º 1426/2004](https://diariodarepublica.pt/dr/detalhe/portaria/1426-2004-534415), publicado em 2004-11-25, com efeitos a partir de 2004-11-26.
 
 2.º É aprovado o zonamento e os coeficientes de localização correspondentes a cada zona de valor homogéneo para os tipos de afectação à habitação, comércio, indústria e serviços, nos termos e para os efeitos do artigo 42.º do CIMI.
 

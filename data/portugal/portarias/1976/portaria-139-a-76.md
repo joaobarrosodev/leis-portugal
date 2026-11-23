@@ -43,11 +43,12 @@ version_history:
     changes: []
   - date: '1979-12-20'
     amending: pt:dre:365957:por
-    amending_title: Portaria n.º 697/79; Declaração
+    amending_title: Portaria n.º 697/79; Declaração; Portaria n.º 451/76
     changes:
     - Altera Artigo unidades 7-10
     - Altera Artigo unidades 20-20
     - Retifica texto
+    - Revoga anexo ou texto fora do articulado
 identifiers:
   celex: null
   eli: null
@@ -75,7 +76,8 @@ provenance:
   generated_at: '2026-10-23T04:57:17Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 697/79. Método e verificação:
     consolidacao/README.md e consolidacao/piloto/portugal/portarias/1976/portaria-139-a-76.alteracoes.json. Retificações aplicadas
-    com um LLM e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração.'
+    com um LLM e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração. Revogações registadas só como repealed_by,
+    aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Portaria n.º 451/76.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -239,7 +241,9 @@ c) Certidão de idade ou pública-forma do bilhete de identidade ou da cédula p
 
 12 - A falta de frequência além dos limites fixados para os cursos normais das escolas do magistério primário implica perda de ano.
 
-13 - No final do 2.º ano dos cursos especiais os alunos serão submetidos a um exame, que constará obrigatoriamente de provas escritas e orais, sobre as seguintes disciplinas: Pedagogia Geral, Introdução à Psicologia e Didáctica Geral.
+13 - (Revogado.)
+
+> Revogado pelo/a [Portaria n.º 451/76](https://diariodarepublica.pt/dr/detalhe/portaria/451-1976-430674), publicado em 1976-07-24.
 
 14 - Transitarão de ano os alunos que obtenham aproveitamento em todas as respectivas disciplinas, ou em todas menos uma, salvo se esta for a de Português.
 

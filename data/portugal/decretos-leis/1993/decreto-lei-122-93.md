@@ -53,7 +53,7 @@ version_history:
     changes: []
   - date: '2004-03-04'
     amending: pt:dre:434008:por
-    amending_title: Decreto-Lei n.º 334/99; Decreto-Lei n.º 186/2003; Decreto-Lei n.º 45/2004
+    amending_title: Decreto-Lei n.º 334/99; Decreto-Lei n.º 186/2003; Decreto-Lei n.º 45/2004; Decreto-Lei n.º 15/2004
     changes:
     - Altera Artigo 5.º
     - Revoga Artigo 1.º
@@ -94,6 +94,7 @@ version_history:
     - Revoga Artigo 37.º
     - Revoga Artigo 38.º
     - Altera Artigo 3.º
+    - Revoga Artigo 3
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/122/1993/04/16/p/dre/pt/html
@@ -120,7 +121,10 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:22:16Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 334/99; Decreto-Lei
-    n.º 186/2003; Decreto-Lei n.º 45/2004. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1993/decreto-lei-122-93.alteracoes.json'
+    n.º 186/2003; Decreto-Lei n.º 45/2004. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1993/decreto-lei-122-93.alteracoes.json.
+    Revogações registadas só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Decreto-Lei
+    n.º 15/2004. Texto antigo deixado a seguir à nova redação ou a «(Revogado.)» retirado por regra e verificado às cegas
+    (consolidacao/texto_antigo.py): arts. 23.º, 24.º.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -281,11 +285,11 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 São atribuições do IGM:
 
-a) Contribuir para a definição e implementação da política relativa ao conhecimento, preservação, aproveitamento e valorização dos recursos geológicos;
+a) (Revogada.)
 
-b) Propor a legislação reguladora da actividade extractiva e velar pelo seu cumprimento;
+b) (Revogada.)
 
-c) Conduzir a negociação e preparação dos contratos administrativos de outorga de direitos sobre recursos geológicos e acompanhar a respectiva execução;
+c) (Revogada.)
 
 d) (Revogada.)
 
@@ -301,9 +305,11 @@ i) (Revogada.)
 
 j) (Revogada.)
 
-l) Cooperar com os organismos e serviços competentes em matéria de ordenamento do território e preservação do ambiente na investigação e definição de formas de compatibilização com o aproveitamento dos recursos.
+l) (Revogada.)
 
 > Alterado pelo/a [Decreto-Lei n.º 45/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2004-551646), publicado em 2004-03-03.
+
+> Revogado pelo/a [Decreto-Lei n.º 15/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2004-603045), publicado em 2004-01-14, com efeitos a partir de 2004-01-15.
 
 ### CAPÍTULO II — Órgãos, serviços e sua competência
 
@@ -433,45 +439,19 @@ l) Cooperar com os organismos e serviços competentes em matéria de ordenamento
 
 > Revogado pelo/a [Decreto-Lei n.º 186/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2003-654681), publicado em 2003-08-20.
 
-###### Artigo 23.º
+###### Artigo 23.º — Divisão de Geofísica
 
 (Revogado.)
 
 > Revogado pelo/a [Decreto-Lei n.º 186/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2003-654681), publicado em 2003-08-20.
 
-##### Divisão de Geofísica
 
-A Divisão de Geofísica visa desenvolver e aplicar métodos geofísicos com vista à melhoria do conhecimento geológico de subsuperfície e à revelação de recursos geológicos, competindo-lhe:
-
-a) Executar trabalhos de geofísica em conformidade com projectos aprovados;
-
-b) Apreciar e dar parecer sobre projectos realizados por empresas, na área da sua competência;
-
-c) Proceder à observação e registo do campo magnético e à sua análise e interpretação;
-
-d) Promover estudos de variação secular e das causas das perturbações do campo geomagnético;
-
-e) Elaborar a cartografia geofísica.
-
-###### Artigo 24.º
+###### Artigo 24.º — Divisão de Sondagens
 
 (Revogado.)
 
 > Revogado pelo/a [Decreto-Lei n.º 186/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2003-654681), publicado em 2003-08-20.
 
-##### Divisão de Sondagens
-
-A Divisão de Sondagens visa realizar trabalhos de sondagem para a melhoria do conhecimento geológico da subsuperfície e para a descoberta e reconhecimento de jazidas e massas minerais, competindo-lhe:
-
-a) Informar projectos de sondagens sob o ponto de vista da execução;
-
-b) Executar trabalhos de sondagens em conformidade com projectos aprovados;
-
-c) Aplicar e desenvolver novas técnicas na execução de trabalhos de sondagem nos campos específicos dos recursos geológicos;
-
-d) Acompanhar a execução em regime de exclusivo de sondagens abrangidas por contratos de prospecção e pesquisa;
-
-e) Participar em projectos de apoio técnico do IGM, no domínio das suas competências.
 
 ### CAPÍTULO III — Funcionamento
 

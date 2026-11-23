@@ -37,16 +37,23 @@
      "title": "Declaração de Rectificação n.º 26-B/2002",
      "published": "2002-07-31",
      "dre_path": "/dr/detalhe/declaracao-rectificacao/26-b-2002-303623"
+    },
+    {
+     "id": "pt:dre:671656:por",
+     "title": "Despacho Normativo n.º 30/2003",
+     "published": "2003-07-14",
+     "dre_path": "/dr/detalhe/despacho-normativo/30-2003-671656"
     }
    ],
    "changes": [
     "Adita Artigo depois da unidade 45",
-    "Retifica texto"
+    "Retifica texto",
+    "Revoga anexo ou texto fora do articulado"
    ],
    "fragments": [
     "5875f47a0e035f48",
     "7aec659b148665e8",
-    "108e01ffc2983397",
+    "800a332cb45d7a64",
     "2fb2a8e188c8739f",
     "ee59d40d1369e337",
     "4eb436207c7bd6ae",
@@ -138,6 +145,16 @@
     "Retificado pelo/a [Declaração de Rectificação n.º 26-B/2002](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/26-b-2002-303623), publicado em 2002-07-31."
    ],
    "markdown": "O Regulamento (CE) n.º [2529/2001](http://data.europa.eu/eli/reg/2001/2529/oj?locale=pt), do Conselho, de 19 de Dezembro, que estabelece a organização comum de mercados no sector das carnes de ovino e caprinos, prevê, no artigo 11.º, a possibilidade de os Estados-Membros efectuarem anualmente pagamentos complementares aos produtores em função de critérios objectivos estabelecidos a nível nacional.\n\nO Regulamento (CE) n.º [2550/2001](http://data.europa.eu/eli/reg/2001/2550/oj?locale=pt), da Comissão, de 21 de Dezembro, estabelece as normas de execução daquele regulamento.\n\nCompete, agora, a cada Estado-Membro tomar as medidas necessárias e adequadas para assegurar a correcta aplicação do citado regulamento.\n\nPelo que importa agora estabelecer os critérios objectivos segundo os quais serão efectuados os pagamentos complementares aos produtores, bem como as respectivas regras de concessão.\n\nAssim:\n\nAo abrigo do disposto no artigo 19.º do Regulamento (CE) n.º 2550/2001, da Comissão, de 21 de Dezembro, determina-se o seguinte:\n\n> Retificado pelo/a [Declaração de Rectificação n.º 26-B/2002](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/26-b-2002-303623), publicado em 2002-07-31."
+  },
+  "800a332cb45d7a64": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Incentivo à inscrição de fêmeas no Livro de Adultos",
+   "in_force_from": "2004-07-25",
+   "changed_by": [
+    "Revogado pelo/a [Despacho Normativo n.º 30/2003](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/30-2003-671656), publicado em 2003-07-14, com efeitos a partir de 2003-07-15."
+   ],
+   "markdown": "### CAPÍTULO II — Incentivo à inscrição de fêmeas no Livro de Adultos\n\n3.º\n\nAos criadores das raças autóctones constantes do anexo I ao presente despacho normativo é atribuído um subsídio às fêmeas exploradas em linha pura, inscritas até 30 de Junho no Livro de Adultos (LA).\n\n4.º\n\n(Revogado.)\n\n> Revogado pelo/a [Despacho Normativo n.º 30/2003](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/30-2003-671656), publicado em 2003-07-14, com efeitos a partir de 2003-07-15.\n\n5.º\n\nOs montantes a atribuir variam na razão inversa da dimensão do efectivo da raça, conforme tabela constante do anexo II ao presente despacho normativo."
   },
   "ee59d40d1369e337": {
    "fragment_id": null,

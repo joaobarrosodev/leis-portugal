@@ -31,7 +31,7 @@ version:
   kind: consolidated
   label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: '1977-06-14'
+  consolidation_date: '1978-04-30'
 version_history:
   file: decreto-lei-406-a-75.versoes.json
   count: 2
@@ -41,12 +41,13 @@ version_history:
     amending: null
     amending_title: null
     changes: []
-  - date: '1977-06-14'
+  - date: '1978-04-30'
     amending: pt:dre:416472:por
-    amending_title: Decreto-Lei n.º 895/76; Portaria n.º 354/77
+    amending_title: Decreto-Lei n.º 895/76; Portaria n.º 354/77; Decreto-Lei n.º 81/78
     changes:
     - Altera Artigo 11.º
     - Altera anexo ou texto fora do articulado
+    - Revoga Artigo 3
 identifiers:
   celex: null
   eli: null
@@ -75,7 +76,8 @@ provenance:
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 895/76. Método e
     verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1975/decreto-lei-406-a-75.alteracoes.json.
     Anexos e quadros de alteradores triados «sem alteração textual», aplicados com um LLM e verificados às cegas (consolidacao/anexos_alteradores.py):
-    Portaria n.º 354/77.'
+    Portaria n.º 354/77. Revogações registadas só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py):
+    Decreto-Lei n.º 81/78.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -209,13 +211,9 @@ c) Não tenham já exercido o direito de reserva previsto em qualquer outro dipl
 
 ###### Artigo 3.º
 
-1. O direito de reserva previsto no artigo anterior caduca se não for exercido, através de declaração escrita enviada ao Instituto de Reorganização Agrária, no prazo de quinze dias a contar da notificação, para o efeito, do proprietário ou de quem o represente.
+(Revogado.)
 
-2. Independentemente da notificação referida no número anterior, o direito de reserva caduca no prazo de vinte dias a contar da afixação de editais nas juntas de freguesia e câmaras municipais em cuja área se situem os prédios expropriados.
-
-3. A declaração de exercício do direito de reserva deverá ser acompanhada, sob pena de ineficácia, de uma outra de que conste a relação dos prédios rústicos e urbanos de que o reservante é proprietário, tendo em conta o disposto nos artigos 15.º e 16.º deste diploma.
-
-4. Tanto a notificação referida no n.º 1 deste artigo como a declaração de exercício de direito de reserva serão efectuadas através de carta registada com aviso de recepção.
+> Revogado pelo/a [Decreto-Lei n.º 81/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1978-425528), publicado em 1978-04-29, com efeitos a partir de 1978-04-30.
 
 ###### Artigo 4.º
 

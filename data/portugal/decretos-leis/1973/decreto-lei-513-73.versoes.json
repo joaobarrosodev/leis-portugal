@@ -29,6 +29,12 @@
      "title": "Decreto-Lei n.º 338/78",
      "published": "1978-11-14",
      "dre_path": "/dr/detalhe/decreto-lei/338-1978-325920"
+    },
+    {
+     "id": "pt:dre:233694:por",
+     "title": "Decreto-Lei n.º 769-A/76",
+     "published": "1976-10-23",
+     "dre_path": "/dr/detalhe/decreto-lei/769-a-1976-233694"
     }
    ],
    "changes": [
@@ -37,19 +43,27 @@
     "Altera Artigo 34.º",
     "Altera Artigo 39.º",
     "Altera Artigo 47.º",
-    "Altera Artigo 50.º"
+    "Altera Artigo 50.º",
+    "Revoga Artigo 2",
+    "Revoga Artigo 3",
+    "Revoga Artigo 4",
+    "Revoga Artigo 5",
+    "Revoga Artigo 6",
+    "Revoga Artigo 7",
+    "Revoga Artigo 8",
+    "Revoga Artigo 9"
    ],
    "fragments": [
     "cc149c0b01b91dfa",
     "c34c8c40ffd1ffcf",
-    "7535111302be94b2",
-    "13a903cbfe5cb128",
-    "79510ab5058122b2",
-    "aee27603e8da23ad",
-    "885f5d6d084b8dec",
-    "df71307554d67d24",
-    "521c79c543f3eab0",
-    "8c088b5805c6225a",
+    "ecf87c7ecb7434dd",
+    "9fa34d12a6c24300",
+    "2bf36a738906b8ff",
+    "d2019c094bd25474",
+    "6ff2222baa81bab4",
+    "8dd690153acf884c",
+    "f858ab1832becf6a",
+    "889263475a7771b9",
     "c967eaa1a3f0242f",
     "0e1b946b991000ae",
     "9703480b911de975",
@@ -123,69 +137,71 @@
    "changed_by": [],
    "markdown": "###### Artigo 1.º\n\nOs estabelecimentos de ensino médio, secundário e preparatório e as escolas do magistério primário gozam de autonomia administrativa, sem prejuízo das disposições gerais sobre contabilidade pública e da superintendência a exercer pela Direcção-Geral da Administração Escolar."
   },
-  "7535111302be94b2": {
+  "ecf87c7ecb7434dd": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 2.º",
-   "in_force_from": null,
-   "changed_by": [],
-   "markdown": "###### Artigo 2.º\n\nSão órgãos de direcção administrativa dos estabelecimentos referidos no artigo anterior:\n\na) O director ou reitor;\n\nb) O conselho administrativo."
+   "in_force_from": "1978-11-14",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 769-A/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/769-a-1976-233694), publicado em 1976-10-23, com efeitos a partir de 1976-10-24."
+   ],
+   "markdown": "###### Artigo 2.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 769-A/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/769-a-1976-233694), publicado em 1976-10-23, com efeitos a partir de 1976-10-24."
   },
-  "13a903cbfe5cb128": {
+  "9fa34d12a6c24300": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 3.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 3.º\n\n1. Ao director ou reitor compete dirigir, orientar e coordenar todas as actividades do respectivo estabelecimento, imprimindo-lhes unidade, continuidade e eficiência, e, designadamente:\n\na) Representar o estabelecimento de ensino;\n\nb) Convocar e presidir às reuniões do conselho administrativo, orientando os seus trabalhos;\n\nc) Submeter à apreciação superior os assuntos que excedam a sua competência.\n\n2. O director ou reitor serão substituídos nas suas faltas ou impedimentos pelos subdirectores ou vice-reitores por si designados, nos quais poderão delegar, mediante autorização do director-geral da Administração Escolar, algumas das suas atribuições."
+   "markdown": "###### Artigo 3.º\n\n(Revogado.)"
   },
-  "79510ab5058122b2": {
+  "2bf36a738906b8ff": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 4.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 4.º\n\n1. O conselho administrativo é constituído por um presidente e dois vogais.\n\n2. O director ou reitor poderão delegar num subdirector ou vice-reitor o desempenho das funções da presidência do conselho administrativo, mas sem prejuízo da orientação superior que lhe cabe fixar.\n\n3. Um dos vogais será um professor do quadro, designado pelo director-geral da Administração Escolar, ouvido o director ou reitor.\n\n4. O segundo vogal será o chefe da secretaria, que exercerá as funções de secretário do conselho.\n\n5. Excepcionalmente, se a conveniência da administração do estabelecimento o exigir, pode ser designado para vogal qualquer dos agentes de ensino em exercício.\n\n6. Para substituir eventualmente um dos vogais pode ser designado um suplente, de acordo com o disposto nos números anteriores."
+   "markdown": "###### Artigo 4.º\n\n(Revogado.)"
   },
-  "aee27603e8da23ad": {
+  "d2019c094bd25474": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 5.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 5.º\n\nOs subdirectores ou vice-reitores das secções farão parte, como vogais, do conselho administrativo do respectivo estabelecimento, mas a sua presença só será obrigatória nas sessões em que forem aprovados o projecto de orçamento, a conta da gerência ou em que sejam tratados outros assuntos que digam respeito às respectivas secções."
+   "markdown": "###### Artigo 5.º\n\n(Revogado.)"
   },
-  "885f5d6d084b8dec": {
+  "6ff2222baa81bab4": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 6.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 6.º\n\n1. Compete ao conselho administrativo:\n\na) Estabelecer as regras a que deve obedecer a administração do estabelecimento, de acordo com as leis gerais da contabilidade pública e a orientação da Direcção-Geral da Administração Escolar;\n\nb) Aprovar os projectos de orçamento e a conta de gerência;\n\nc) Verificar a legalidade das despesas efectuadas e autorizar o respectivo pagamento;\n\nd) Fiscalizar a cobrança das receitas e dar balanço ao cofre a cargo do tesoureiro;\n\ne) Velar pela manutenção e conservação do património, promovendo a organização e permanente actualização do seu cadastro;\n\nf) Aceitar as liberalidades feitas a favor dos serviços ou estabelecimentos de ensino.\n\n2. As liberalidades referidas na alínea f) do número anterior, quando envolvam obrigações para os serviços ou estabelecimentos de ensino, carecem de autorização superior."
+   "markdown": "###### Artigo 6.º\n\n(Revogado.)"
   },
-  "df71307554d67d24": {
+  "8dd690153acf884c": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 7.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 7.º\n\n1. O conselho administrativo reunirá, pelo menos, uma vez em cada mês do ano civil, devendo estar presentes todos os seus componentes, sem prejuízo do disposto no artigo 5.º\n\n2. As sessões são convocadas pelo presidente com, pelo menos, quarenta e oito horas de antecedência, salvo casos de especial urgência.\n\n3. As sessões do conselho deverão realizar-se, em princípio, sem prejuízo da actividade docente.\n\n4. As deliberações serão tomadas por maioria de votos, tendo o presidente, em caso de empate, voto de qualidade."
+   "markdown": "###### Artigo 7.º\n\n(Revogado.)"
   },
-  "521c79c543f3eab0": {
+  "f858ab1832becf6a": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 8.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 8.º\n\n1. As deliberações e pareceres do conselho administrativo serão sempre exarados em acta.\n\n2. As deliberações do conselho administrativo só obrigam, para todos os efeitos, aqueles que as tenham votado, ficando isentos das respectivas responsabilidades civis e disciplinares os que não tenham concordado com as resoluções tomadas por maioria, desde que, para o efeito, tenham exarado a competente declaração de voto.\n\n3. Sem prejuízo do disposto no número anterior, os membros do conselho responderão solidariamente pela administração do estabelecimento de ensino."
+   "markdown": "###### Artigo 8.º\n\n(Revogado.)"
   },
-  "8c088b5805c6225a": {
+  "889263475a7771b9": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 9.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 9.º\n\n1. O presidente do conselho administrativo pode suspender a execução de qualquer deliberação do mesmo conselho, desde que a considere ilegal ou inconveniente.\n\n2. Quando usar deste direito, o presidente submeterá à apreciação do director-geral da Administração Escolar, dentro das quarenta e oito horas subsequentes, os motivos da suspensão.\n\n3. A decisão dos casos referidos no número anterior terá de ser proferida no prazo de quinze dias, contados a partir da data da suspensão.\n\n4. Se a decisão não for tomada dentro do prazo a que se refere o número antecedente, considera-se levantada a suspensão.\n\nII - Do funcionamento dos serviços administrativos"
+   "markdown": "###### Artigo 9.º\n\n(Revogado.)\n\nII - Do funcionamento dos serviços administrativos"
   },
   "c967eaa1a3f0242f": {
    "fragment_id": null,

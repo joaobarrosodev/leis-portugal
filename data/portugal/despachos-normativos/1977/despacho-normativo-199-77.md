@@ -27,7 +27,7 @@ end_of_validity_date: null
 legal_status: repealed
 legal_status_basis:
   source: prova_manual
-  dre_status: in_force
+  dre_status: repealed
   reason: 'Despacho Normativo n.º 199/77: revogação total pela norma revogatória do diploma Despacho Normativo n.º 325/81
     (n.º 7), lida no texto e verificada na amostra de 2026-11-13 (reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o como
     em vigor.'
@@ -42,7 +42,7 @@ version:
   kind: consolidated
   label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: '1980-03-15'
+  consolidation_date: '1981-11-02'
 version_history:
   file: despacho-normativo-199-77.versoes.json
   count: 2
@@ -52,11 +52,12 @@ version_history:
     amending: null
     amending_title: null
     changes: []
-  - date: '1980-03-15'
+  - date: '1981-11-02'
     amending: pt:dre:678064:por
-    amending_title: Despacho Normativo n.º 91/80
+    amending_title: Despacho Normativo n.º 91/80; Despacho Normativo n.º 325/81
     changes:
     - Altera Artigo unidades 10-10
+    - Revoga anexo ou texto fora do articulado
 identifiers:
   celex: null
   eli: null
@@ -83,7 +84,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:37:51Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 91/80. Método
-    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1977/despacho-normativo-199-77.alteracoes.json'
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1977/despacho-normativo-199-77.alteracoes.json.
+    Revogações registadas só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Despacho
+    Normativo n.º 325/81.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -142,58 +145,28 @@ Com efeito, as medidas de índole económica e financeira recentemente publicada
 
 Nestes termos, determina-se:
 
-1 - São consideradas pequenas e médias empresas industriais, nos termos e para os efeitos previsto no [Decreto-Lei n.º 51/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-1975-159907), de 7 de Fevereiro, todas as empresas que, exercendo actividades predominantemente extractivas ou transformadoras incluídas na lista anexa a este despacho, preencham cumulativamente os seguintes requisitos:
+1 - (Revogado.)
 
-1.1 - Empreguem mais de 5 e não mais de 400 pessoas;
-
-1.2 - Não ultrapassem os 225000 contos de vendas anuais.
+> Revogado pelo/a [Despacho Normativo n.º 325/81](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/325-1981-568892), publicado em 1981-11-02.
 
 > Alterado pelo/a [Despacho Normativo n.º 91/80](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/91-1980-678064), publicado em 1980-03-15.
 
-1.3 - Não possuam nem sejam possuídas em mais de 50% por outra empresa ou não sejam possuídas por accionista, sócio ou conjunto de sócios, que simultaneamente detenham mais de 50% do capital da empresa em causa e de outra empresa, salvo se, em ambos os casos, as empresas envolvidas, tomadas em conjunto, se enquadrem nas condições dos parágrafos 1.1 e 1.2.
+2 - (Revogado.)
 
-2 - Para efeito do disposto no n.º 1, entende-se:
+3 - (Revogado.)
 
-2.1 - Por actividade predominante aquela que represente 50% ou mais da facturação bruta total da empresa no exercício anterior, podendo, todavia, considerar-se o valor médio de facturação dos dois últimos exercícios sempre que a natureza das actividades da empresa o justifique;
+4 - (Revogado.)
 
-2.2 - Por pessoal empregado, além dos trabalhadores permanentes, os trabalhadores eventuais que tenham laborado pelo menos 50% dos dias úteis do ano anterior, bem como os sócios da empresa que nela exerçam a sua actividade a tempo completo, devendo essas situações ser comprovadas pela apresentação da folha de férias correspondente ao último mês de exercício transacto e ao mês imediatamente anterior ao de apresentação do pedido de apoio;
+5 - (Revogado.)
 
-2.3 - No caso de trabalho em turnos regulares poderá ser atingido o limite de 600 pessoas, mantendo-se o valor de vendas fixado em 1.2;
+6 - (Revogado.)
 
-2.4 - Por vendas anuais a facturação anual bruta da empresa, excluindo o imposto de transacções, se a ele houver lugar.
-
-3 - Podem ainda beneficiar do apoio do Instituto:
-
-3.1 - As empresas que, em resultado da assistência que lhes tenha sido facultada no âmbito de esquemas de reestruturação, deixem de reunir os requisitos que nos termos dos n.os 1 e 2 concorrem para a definição de PME;
-
-3.2 - Os agrupamentos complementares de empresas resultantes de acções colectivas, constituídos de acordo com a legislação em vigor;
-
-3.3 - As empresas com menos de 6 pessoas que entre si estabeleçam acordos de cooperação com vista à realização de finalidades de comum interesse, ou apontem projectos de expansão que venham a preencher os requisitos de PME;
-
-3.4 - As empresas que, não tendo como predominante a actividade industrial, satisfaçam os restantes requisitos caracterizadores de PME e façam prova de que o apoio pretendido se destina exclusivamente àquela actividade, para fins específicos;
-
-3.5 - Às empresas em organização que apresentem projectos viáveis, bem definidos, e nos termos do projecto venham a preencher os requisitos de PME.
-
-4 - Sem prejuízo dos critérios gerais antes enunciados, poderão ser fixados, mediante proposta fundamentada das associações representativas dos diversos sectores industriais ou por iniciativa dos serviços do Instituto, outros limites ou critérios definidores de PME que melhor se ajustem às características técnico-económicas desses sectores de actividade.
-
-5 - A qualidade de PME será comprovada mediante credencial a emitir pelo Instituto.
-
-5.1 - Cabe às empresas interessadas fazer prova dos requisitos indicados, podendo o Instituto recusar a credencial às empresas que não tenham adequados sistemas contabilísticos por forma a conhecer-se a sua estrutura económica e financeira.
-
-5.2 - Mediante solicitação das empresas interessadas, poderá o IAPMEI emitir informação adicional traduzida em indicadores que permitam avaliar da capacidade técnica e financeira da empresa para determinadas finalidades.
-
-5.3 - Em caso de falsas declarações, poderá o Instituto excluir temporariamente a empresa de quaisquer benefícios no âmbito das suas atribuições, independentemente de outras sanções que ao caso couberem.
-
-5.4 - Para os efeitos do n.º 3, poderá o Instituto emitir credenciais especiais.
-
-6 - Ficam revogados os despachos do Ministro da Indústria e Tecnologia de 24 de Outubro de 1975, publicado no Diário do Governo, de 7 de Novembro de 1975, e de 2 de Dezembro de 1975, publicado no Diário do Governo, de 22 de Dezembro de 1975.
-
-7 - As dúvidas suscitadas pela interpretação das disposições do presente diploma serão resolvidas por despacho do Ministro da Indústria e Tecnologia.
+7 - (Revogado.)
 
 Ministério da Indústria e Tecnologia, 22 de Setembro de 1977. - O Ministro da Indústria e Tecnologia, Alfredo Jorge Nobre da Costa.
 
 ## ANEXO — Indústrias extractivas e transformadoras conforme CAE 1964
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/10/23800/24902492.pdf)
+(Revogado.)
 
 O Ministro da Indústria e Tecnologia, Alfredo Jorge Nobre da Costa.

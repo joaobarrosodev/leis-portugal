@@ -1,0 +1,31 @@
+1|corrido/pedido-003.md|1129
+2|completo/pedido-001.md|770
+3|completo/pedido-049.md|713
+4|completo/pedido-071.md|684
+5|corrido/pedido-006.md|667
+6|corrido/pedido-004.md|558
+7|completo/pedido-019.md|531
+8|completo/pedido-028.md|508
+9|completo/pedido-002.md|494
+10|completo/pedido-013.md|479
+11|completo/pedido-009.md, completo/pedido-020.md|693
+12|corrido/pedido-002.md, completo/pedido-066.md|698
+13|completo/pedido-005.md, completo/pedido-055.md|686
+14|completo/pedido-017.md, completo/pedido-016.md|586
+15|completo/pedido-037.md, completo/pedido-064.md|497
+16|completo/pedido-027.md, corrido/pedido-001.md|476
+17|completo/pedido-021.md, completo/pedido-008.md|458
+18|completo/pedido-003.md, completo/pedido-022.md, completo/pedido-026.md|646
+19|completo/pedido-036.md, corrido/pedido-008.md, completo/pedido-012.md|591
+20|completo/pedido-018.md, corrido/pedido-005.md, completo/pedido-029.md|477
+21|completo/pedido-024.md, completo/pedido-048.md, completo/pedido-041.md, completo/pedido-010.md|593
+22|completo/pedido-039.md, completo/pedido-072.md, completo/pedido-007.md, completo/pedido-014.md|567
+23|corrido/pedido-007.md, completo/pedido-031.md, completo/pedido-030.md, completo/pedido-050.md|515
+24|completo/pedido-025.md, completo/pedido-004.md, completo/pedido-006.md, completo/pedido-042.md|467
+25|completo/pedido-032.md, completo/pedido-065.md, completo/pedido-054.md, completo/pedido-045.md, completo/pedido-062.md|492
+26|completo/pedido-052.md, completo/pedido-063.md, completo/pedido-061.md, completo/pedido-047.md, completo/pedido-043.md|384
+27|completo/pedido-056.md, completo/pedido-011.md, completo/pedido-040.md, completo/pedido-060.md, completo/pedido-046.md|326
+28|completo/pedido-038.md, completo/pedido-069.md, completo/pedido-068.md, completo/pedido-058.md, completo/pedido-053.md|261
+29|completo/pedido-044.md, completo/pedido-015.md, completo/pedido-073.md, completo/pedido-033.md, completo/pedido-051.md|214
+30|completo/pedido-023.md, completo/pedido-035.md, completo/pedido-070.md, completo/pedido-059.md, completo/pedido-067.md|141
+31|completo/pedido-034.md, completo/pedido-057.md|19

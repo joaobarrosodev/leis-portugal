@@ -1,0 +1,25 @@
+[
+ {
+  "id": "pt:dre:374825:por",
+  "artigos": [
+   {
+    "artigo": "ANEXO",
+    "veredicto": "dúvida",
+    "motivo": "Matemáticas Aplicadas (Portaria 662/93, anexo II, imagem 38123814) e Relações Internacionais (Portaria 1010/93, imagem 57285729) certos; Arquitectura: a Portaria 436/2000 (visível) substitui o plano de Lisboa pela imagem 32863287, mas o consolidado traz imagens 2001/05 31423143 (Portaria 539/2001), cujo texto está omitido na vista e não posso confirmar; Economia não consta do original (ok).",
+    "texto_esperado": "Se a Portaria 539/2001 substitui o plano de Arquitectura pelas imagens 31423143, o consolidado está certo; caso contrário o plano de Arquitectura seria o da Portaria 436/2000 (imagem 32863287)."
+   }
+  ],
+  "instrucoes_em_falta": [
+   "Portarias 1195/2000, 1196/2000, 1287/2001, 1296/2002 e 539/2001: texto omitido na vista (só descrição de triagem 'outro_diploma'); não verificável, a 539/2001 parece ter sido aplicada (Arquitectura, imagens 2001/05)"
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Portaria 662/93, n.º 1 e anexo I: novo plano do curso de Economia",
+    "motivo": "o plano de Economia foi publicado em anexo ao Despacho 135/MEC/86, não ao DL 166/88 (confirmado no n.º 1 da portaria): é de outro diploma"
+   }
+  ]
+ }
+]

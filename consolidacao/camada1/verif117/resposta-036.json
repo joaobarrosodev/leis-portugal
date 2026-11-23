@@ -1,0 +1,168 @@
+[
+ {
+  "id": "pt:dre:692200:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "Redação do DL 247/2001 art. 1.º (alíneas a) a t)), que substitui as anteriores."
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "n.os 1 e 2 do DL 247/2001; n.º 3 do DL 116/2001 (n.os 4 e 5 do art. 19.º); n.º 4 = anterior n.º 6 (DL 267-A/2000)."
+   },
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "errado",
+    "motivo": "O DL 267-A/2000 dá nova redação ao artigo («por ministro que não esteja ausente…»); o consolidado mantém depois o texto antigo («pelo Ministro de Estado ou pelo ministro…»).",
+    "texto_esperado": "O Primeiro-Ministro, salvo sua indicação em contrário, será substituído, nas suas ausências ou impedimentos, por ministro que não esteja ausente ou impedido, de acordo com a ordem estabelecida no artigo 2.º, sendo a substituição comunicada ao Presidente da República, nos termos do artigo 185.º, n.º 1, da Constituição."
+   },
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "n.º 2 conforme DL 247/2001; n.os 1 e 3 mantidos («...»)."
+   },
+   {
+    "artigo": "Artigo 10.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 267-A/2000 art. 3.º n.º 1."
+   },
+   {
+    "artigo": "Artigo 11.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 267-A/2000 art. 3.º n.º 1."
+   },
+   {
+    "artigo": "Artigo 12.º",
+    "veredicto": "certo",
+    "motivo": "Repristinado e com nova redação pelo DL 247/2001 art. 2.º; texto igual."
+   },
+   {
+    "artigo": "Artigo 14.º",
+    "veredicto": "certo",
+    "motivo": "n.º 2 conforme DL 116/2001; n.os 1, 3 e 4 mantidos («...»)."
+   },
+   {
+    "artigo": "Artigo 15.º",
+    "veredicto": "certo",
+    "motivo": "DL 247/2001: n.º 1 «(Revogado.)», n.º 2 mantido."
+   },
+   {
+    "artigo": "Artigo 16.º",
+    "veredicto": "certo",
+    "motivo": "n.º 1 conforme DL 267-A/2000; n.º 2 mantido."
+   },
+   {
+    "artigo": "Artigo 17.º",
+    "veredicto": "dúvida",
+    "motivo": "n.os 1 e 2 conformes ao DL 247/2001 (n.º 1 novo; n.º 2 «...»). O n.º 3 (Gabinete de Sines, DL 267-A/2000) mantém-se no consolidado, mas a redação do DL 247/2001 só tem n.os 1 e 2; se artigo reescrito com números omitidos implica a sua queda (como o n.º 9 do art. 37.º), o n.º 3 deveria sair; o diploma não o diz. Ambíguo.",
+    "texto_esperado": "Se o n.º 3 cair: n.os 1 e 2 apenas."
+   },
+   {
+    "artigo": "Artigo 18.º",
+    "veredicto": "certo",
+    "motivo": "n.º 1 conforme DL 247/2001; n.º 2 mantido."
+   },
+   {
+    "artigo": "Artigo 19.º",
+    "veredicto": "certo",
+    "motivo": "n.º 1 do DL 116/2001, n.os 2 e 3 originais, n.º 4 do DL 116/2001, n.º 5 do DL 247/2001."
+   },
+   {
+    "artigo": "Artigo 22.º",
+    "veredicto": "certo",
+    "motivo": "n.º 1 conforme DL 267-A/2000; n.º 2 mantido."
+   },
+   {
+    "artigo": "Artigo 23.º",
+    "veredicto": "certo",
+    "motivo": "n.º 1 conforme DL 247/2001; n.º 2 mantido."
+   },
+   {
+    "artigo": "Artigo 24.º",
+    "veredicto": "certo",
+    "motivo": "n.º 1 conforme DL 247/2001; n.º 2 mantido."
+   },
+   {
+    "artigo": "Artigo 25.º",
+    "veredicto": "certo",
+    "motivo": "n.os 2, 5 e 6 conforme DL 267-A/2000 (sem ponto final no n.º 2, como no diploma); n.os 1, 3 e 4 mantidos."
+   },
+   {
+    "artigo": "Artigo 26.º",
+    "veredicto": "certo",
+    "motivo": "n.os 1, 3 e 4 conforme DL 247/2001; n.º 2 mantido."
+   },
+   {
+    "artigo": "Artigo 28.º-A",
+    "veredicto": "certo",
+    "motivo": "Aditado pelo DL 267-A/2000; n.º 2 alterado pelo DL 116/2001."
+   },
+   {
+    "artigo": "CAPÍTULO II",
+    "veredicto": "certo",
+    "motivo": "DL 267-A/2000 art. 3.º n.º 2: passa a «Do Conselho de Ministros»."
+   },
+   {
+    "artigo": "Artigo 33.º",
+    "veredicto": "certo",
+    "motivo": "n.os 1 e 2 novos (DL 267-A/2000); n.os 3 e 4 mantidos («...»)."
+   },
+   {
+    "artigo": "Artigo 33.º-A",
+    "veredicto": "certo",
+    "motivo": "Aditado pelo DL 267-A/2000 art. 2.º; texto igual."
+   },
+   {
+    "artigo": "Artigo 34.º",
+    "veredicto": "certo",
+    "motivo": "n.os 1 e 2 novos (DL 267-A/2000); n.os 3 e 4 mantidos."
+   },
+   {
+    "artigo": "Artigo 35.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 267-A/2000 art. 3.º n.º 1."
+   },
+   {
+    "artigo": "Artigo 36.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 267-A/2000 art. 3.º n.º 1."
+   },
+   {
+    "artigo": "Artigo 37.º",
+    "veredicto": "certo",
+    "motivo": "n.º 4 novo (DL 267-A/2000, com «Reforrna» como no diploma); n.os 5 a 8 mantidos; n.º 9 = anterior n.º 10; anterior n.º 9 cai."
+   },
+   {
+    "artigo": "Artigo 37.º-A",
+    "veredicto": "certo",
+    "motivo": "Aditado pelo DL 24/2002; texto igual."
+   }
+  ],
+  "instrucoes_em_falta": [
+   "DL 267-A/2000 art. 8.º (n.os 1 e 2) e DL 116/2001 art. 8.º (corpo único «O Ministro de Estado exerce…»): o art. 8.º está na lista dos IGUAIS ao original, logo sem efeito; o texto do original não está visível mas a nova redação do DL 116/2001 (última) deveria constar do consolidado"
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 120/2002 art. 32.º n.º 1 (estrutura orgânica do original é substituída pela do novo diploma)",
+    "motivo": "substituição global da orgânica, sem indicar texto a alterar nem revogação expressa de artigos; não textual"
+   },
+   {
+    "instrucao": "DL 267-A/2000 art. 4.º n.º 9 (referências ao Ministro Adjunto em matéria de autarquias locais feitas ao Ministro do Ambiente)",
+    "motivo": "regra interpretativa de referências, não textual"
+   },
+   {
+    "instrucao": "DL 151/2019",
+    "motivo": "outro diploma: nenhuma instrução dirigida ao original (altera o RJSPTP)"
+   },
+   {
+    "instrucao": "Disposições orçamentais, transitórias e de produção de efeitos (DL 267-A/2000 art. 4.º e 5.º, DL 116/2001 arts. 2.º e 3.º, DL 247/2001 arts. 3.º e 4.º, DL 24/2002 art. 2.º)",
+    "motivo": "não textuais"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

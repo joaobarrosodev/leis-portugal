@@ -44,10 +44,11 @@ version_history:
     changes: []
   - date: '1974-02-28'
     amending: pt:dre:154454:por
-    amending_title: Decreto-Lei n.º 674/70; Decreto-Lei n.º 72/74
+    amending_title: Decreto-Lei n.º 674/70; Decreto-Lei n.º 72/74; Decreto-Lei n.º 183/70
     changes:
     - Altera Artigo 13.º
     - Altera Artigo 7.º
+    - Revoga Artigo 22
 identifiers:
   celex: null
   eli: null
@@ -74,7 +75,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:05:14Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 674/70; Decreto-Lei
-    n.º 72/74. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1968/decreto-lei-48369.alteracoes.json'
+    n.º 72/74. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1968/decreto-lei-48369.alteracoes.json.
+    Revogações registadas só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Decreto-Lei
+    n.º 183/70.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -396,7 +399,9 @@ As instituições de crédito e as instituições parabancárias ultramarinas, i
 
 ###### Artigo 22.º
 
-Para complemento dos elementos de informação respeitantes à balança geral de pagamentos internacionais, referidos no § 1.º do artigo 8.º do [Decreto-Lei n.º 44700](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44700-1962-237462), ficam as inspecções provinciais de crédito e seguros e as inspecções do comércio bancário autorizadas a solicitar de quaisquer entidades, e estas obrigadas a prestar-lhes, os elementos de informação necessários à elaboração periódica de um balanço das importações e exportações de capitais e à determinação do valor líquido do crédito ou endividamento externo de cada província ultramarina.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 183/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-1970-225988), publicado em 1970-04-28.
 
 ### CAPÍTULO V — Disposições especiais e transitórias
 

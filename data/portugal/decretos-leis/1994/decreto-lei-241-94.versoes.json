@@ -30,10 +30,17 @@
      "title": "Decreto-Lei n.º 365/97",
      "published": "1997-12-20",
      "dre_path": "/dr/detalhe/decreto-lei/365-1997-420407"
+    },
+    {
+     "id": "pt:dre:239580:por",
+     "title": "Decreto-Lei n.º 9/98",
+     "published": "1998-01-16",
+     "dre_path": "/dr/detalhe/decreto-lei/9-1998-239580"
     }
    ],
    "changes": [
-    "Altera Artigo 3.º"
+    "Altera Artigo 3.º",
+    "Revoga Artigo 5"
    ],
    "fragments": [
     "2bd4f26e76030805",
@@ -41,7 +48,7 @@
     "3e8fad452a2029f2",
     "cd343666239f3a1a",
     "aa119db830c71581",
-    "eb14a90ef5d45133",
+    "7fd0569a8550add7",
     "c42a9d1cac012b0b",
     "7195d76fe2d0167c"
    ]
@@ -121,6 +128,16 @@
     "Alterado pelo/a [Decreto-Lei n.º 365/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/365-1997-420407), publicado em 1997-12-20."
    ],
    "markdown": "###### Artigo 3.º — Transição do pessoal da área de psicologia clínica\n\n1 - O pessoal provido em lugares da carreira técnica superior ou técnica do regime geral e que, sendo possuidor de licenciatura em Psicologia Clínica, em Psicologia, em Filosofia ou em Ciências Histórico-Filosóficas, estas duas últimas obtidas até 1979, se encontre no exercício efectivo de funções próprias do ramo de psicologia clínica há, pelo menos, três anos, à data da publicação do presente diploma, comprovado por documento emitido pelo órgão máximo de gestão do estabelecimento, pode transitar para a carreira de técnico superior de saúde, ramo de psicologia clínica, após parecer favorável de uma comissão técnica a designar por despacho ministerial composta por três individualidades de reconhecida competência.\n\n2 - A transição a que se refere o número anterior efectua-se por listas de transição homologadas por despacho ministerial e publicadas no Diário da República.\n\n3 - O pessoal que vier a transitar nos termos do número anterior é posicionado em escalão a que corresponda remuneração igual à auferida ou imediatamente superior, se não houver coincidência, de acordo com as seguintes regras:\n\na) Os técnicos superiores de 2.ª classe e de 1.ª classe e os técnicos de 2.ª classe, de 1.ª classe, principais e especialistas para a categoria de assistente;\n\nb) Os técnicos superiores principais e técnicos especialistas principais para a categoria de assistente principal;\n\nc) Os assessores para a categoria de assessor;\n\nd) Os assessores principais para a categoria de assessor superior.\n\n4 - A antiguidade nas novas categorias decorrentes da transição prevista nos n.os 1 e 2, bem como o tempo de serviço a considerar para efeitos de progressão nas mesmas, é contada a partir da data da entrada em vigor do presente diploma.\n\n> Alterado pelo/a [Decreto-Lei n.º 365/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/365-1997-420407), publicado em 1997-12-20."
+  },
+  "7fd0569a8550add7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Salvaguarda de situações especiais",
+   "in_force_from": "1997-12-25",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 9/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-1998-239580), publicado em 1998-01-16, com efeitos a partir de 1996-09-27."
+   ],
+   "markdown": "###### Artigo 5.º — Salvaguarda de situações especiais\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 9/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-1998-239580), publicado em 1998-01-16, com efeitos a partir de 1996-09-27."
   }
  }
 }

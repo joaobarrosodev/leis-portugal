@@ -410,6 +410,73 @@ As renovações, as anexações e as desanexações de prédios publicam também
 
 O `acervo.py` guarda também estes registos (`retificados_por_regra` lê os três ficheiros de aplicados).
 
+### 12. Camada 1: onda 1, revogações parciais e a barreira do texto antigo (20 a 23/11/2026)
+
+A camada 1 consolida o que o inventário (`reports/inventario-camada-1.md`, tabela «Resumo») deixou por fechar: os alterados recentes nunca triados, as alterações por aplicar e os consolidados com alterador posterior. A onda 1 é a dos citados por 10 ou mais diplomas em vigor, mais os 7 centrais: 214 diplomas (`camada1/onda-1.jsonl`). O circuito é o do bloco 3 (`camada1.py`):
+
+1. triagem às cegas dos alteradores;
+2. pedido ao Opus, com a adenda `camada1/ADENDA-respondedor.md`;
+3. verificação letra a letra na importação;
+4. verificação às cegas (Sonnet), que vê o `nao_aplicavel` do respondedor como afirmação a confirmar;
+5. barreira mecânica (`texto_antigo.py`, abaixo);
+6. segunda leitura jurídica (Opus, `camada1/PROMPT-segunda-leitura.md`).
+
+O estado de cada diploma, com o motivo e a prova, está em `auditoria/camada1-estado.jsonl`.
+
+**Ronda 115.** 25 diplomas para o data/. A segunda leitura mostrou o que mais faltava nos recusados:
+- as retificações (`corrected_by`) e as revogações parciais (`repealed_by`), que não estavam na lista de alteradores;
+- as linhas de imagem que os respondedores perdiam.
+
+**Ronda 116** (`--ronda 116`, `camada1/pedidos-3`, `verif116`, `segunda-116`). Os 86 recusados foram repedidos. A seleção foi refeita com essas relações (`refazer-selecao`), e os reparos foram no início de cada pedido.
+- 36 respostas não passaram a verificação letra a letra. Era texto copiado dos reparos, palavras corrigidas sem fonte e títulos com «(Revogado.)».
+- 46 foram às cegas e 16 passaram.
+- A barreira mecânica tirou 1 (o DR 44/80), e a segunda leitura recusou 4.
+- **11 para o data/.**
+
+| Estado (214 diplomas) | Diplomas |
+|---|---:|
+| aplicar | 36 |
+| sem_alteracao_textual | 50 |
+| recusado_as_cegas | 37 |
+| resposta_recusada | 35 |
+| sem_alteracao_aplicavel | 22 |
+| so_em_imagem | 20 |
+| recusado_na_segunda_leitura | 8 |
+| sem_texto_do_alterador | 5 |
+| recusado_na_verificacao_mecanica | 1 |
+
+**Revogações registadas só como `repealed_by` (`revogacoes.py`).** São revogações parciais que os consolidados nossos serviam como texto em vigor: 397 pares (consolidado, diploma que revoga).
+- **Respondedor (Opus):** aplica «(Revogado.)» ao artigo, ao número ou à alínea, ou diz porque não se aplica. Os motivos são: já aplicada, revogação condicional, efeito adiado, outro diploma, sem texto.
+- **Verificação às cegas em duas passagens:**
+  - Na 1.ª passagem o verificador recebia os primeiros 40 000 caracteres do diploma que revoga. Muitas vezes a disposição não aparecia: 104 dúvidas em 258.
+  - A 2.ª passagem (`verificacao-v2`, `r2v`) dá-lhe o texto que o respondedor leu. Nos pares sem trocas, ou com «já aplicada», dá-lhe também as linhas do texto em vigor.
+- **A nota:** «> Revogado pelo/a …, publicado em …, com efeitos a partir de …». A data é a de efeitos própria. Sem ela, é a entrada em vigor do diploma que revoga, quando é posterior à publicação.
+- **Resultado** (`auditoria/revogacoes-estado.jsonl`):
+  - **170 pares aplicados em 134 consolidados**, com 989 artigos ou unidades revogados total ou parcialmente;
+  - 110 não se aplicam, com o motivo confirmado às cegas;
+  - 109 ficam sem confirmação às cegas e por isso não se aplicam: 67 sem trocas e 42 com trocas;
+  - 8 sem resposta.
+
+**A barreira do texto antigo (`texto_antigo.py`).** O erro que mais se repete é a nova redação, ou «(Revogado.)», com o corpo antigo do artigo a seguir. Às vezes o corpo antigo fica depois de um título de divisão interno («##### Divisão de Pessoal»). A verificação às cegas deixou passar o DR 44/80 na ronda 116. A barreira corre sem LLM e marca um artigo quando:
+- o corpo original inteiro fica no fim, depois de texto novo; ou
+- o artigo tem «(Revogado.)» e mantém parágrafos do corpo original.
+
+As fórmulas finais, as assinaturas e os anexos dentro do último artigo não contam. No `estado` da camada 1, um diploma marcado fica `recusado_na_verificacao_mecanica`.
+
+A varredura aos 2.795 consolidados do data/ (23/11/2026) marcou 157 artigos em 115 consolidados, numa primeira versão com mais regras:
+- **132 falsos positivos:**
+  - 54 fórmulas finais e assinaturas;
+  - 28 anexos no último artigo;
+  - 33 artigos que já repetiam os rótulos no original;
+  - 17 revistos à mão: artigos sem título debaixo da mesma chave, convenções num só artigo e redações citadas de outros diplomas.
+- **25 erros confirmados em 4 consolidados:**
+  - DL 106/97: 15 artigos;
+  - DL 143/96: 7 artigos;
+  - DL 122/93: 2 artigos;
+  - DL 99/94: 1 artigo.
+
+  24 são artigos revogados com o corpo antigo a seguir a um título de divisão. Estes 4 vão para a ronda seguinte.
+
 ### Verificação dos alvos das respostas do LLM (14/11/2026)
 
 A verificação letra a letra de `llm_completo.verificar_resposta` confirma que cada parágrafo de um artigo devolvido vem de um alterador **ou do original**. Deixava passar dois casos:

@@ -53,10 +53,11 @@ version_history:
     changes: []
   - date: '1981-07-16'
     amending: pt:dre:647322:por
-    amending_title: Decreto-Lei n.º 187-D/80; Decreto-Lei n.º 220/81
+    amending_title: Decreto-Lei n.º 187-D/80; Decreto-Lei n.º 220/81; Decreto-Lei n.º 80/80
     changes:
     - Revoga Artigo 19.º
     - Altera Artigo 4.º
+    - Revoga Artigo 15
 identifiers:
   celex: null
   eli: null
@@ -83,7 +84,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T23:26:01Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 187-D/80; Decreto-Lei
-    n.º 220/81. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1979/decreto-lei-538-79.alteracoes.json'
+    n.º 220/81. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1979/decreto-lei-538-79.alteracoes.json.
+    Revogações registadas só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Decreto-Lei
+    n.º 80/80.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -317,13 +320,11 @@ e) Obtenção de carta de condução.
 
 1 - dever de todos os cidadãos, e mais especificamente dos educadores de infância, dos professores e de todas as autoridades, actuar junto dos encarregados de educação que não dêem cumprimento às disposições relativas à escolaridade obrigatória, esclarecendo-os sobre os seus deveres e sensibilizando-os para o valor pessoal e social do cumprimento da escolaridade.
 
-2 - O cumprimento das obrigações que, nos termos do presente diploma, incumbem aos encarregados de educação constitui condição indispensável para a atribuição e processamento do abono de família.
+2 - (Revogado.)
 
-3 - Para efeitos do disposto neste artigo:
+3 - (Revogado.)
 
-a) Os encarregados de educação entregarão anualmente, na entidade ou serviço processador do abono de família, certificado comprovativo da matrícula dos menores sujeitos à escolaridade obrigatória ou da dispensa de frequência, no prazo do estabelecido em regulamento;
-
-b) As direcções de distrito escolar ou direcções escolares, os órgãos de gestão das escolas de ensino preparatório e os responsáveis pelos estabelecimentos de ensino particular ou cooperativo enviarão mensalmente às entidades ou serviços processadores de abono de família nota dos beneficiários cujos educandos tenham faltado, no mês anterior, mais de três dias, sem motivo devidamente justificado nos termos da legislação vigente.
+> Revogado pelo/a [Decreto-Lei n.º 80/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-1980-681622), publicado em 1980-04-19.
 
 ###### Artigo 16.º
 

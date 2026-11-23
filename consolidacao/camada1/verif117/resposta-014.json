@@ -1,0 +1,191 @@
+[
+ {
+  "id": "pt:dre:642527:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "Só difere nos n.os 2 e 3 do art. 43.º e no n.º 1 do art. 140.º do CRC citado, conforme os pontos 1 a 3 da Declaração de Rectificação n.º 107/2007; resto igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "N.º 1 do art. 3.º do DL 236/2001 conforme ponto 4 da Declaração de Rectificação 107/2007.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 13.º",
+    "veredicto": "certo",
+    "motivo": "N.º 4 conforme ponto 5 da Declaração de Rectificação 107/2007 (bases de dados; artigo 10.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 24.º",
+    "veredicto": "certo",
+    "motivo": "N.º 2 revogado pelo art. 46.º, alínea j), do DL 247-B/2008.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 1.º #2",
+    "veredicto": "certo",
+    "motivo": "Alínea i) nova e renumeração das alíneas (Lei 103/2009, art. 29.º) e n.º 3 novo (Lei 2/2016, art. 4.º); texto igual ao dos alteradores.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 43.º",
+    "veredicto": "certo",
+    "motivo": "N.os 2 e 3 conforme pontos 1 e 2 da Declaração de Rectificação 107/2007.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 49.º",
+    "veredicto": "certo",
+    "motivo": "N.º 8 conforme art. 2.º do DL 51/2018.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 69.º",
+    "veredicto": "certo",
+    "motivo": "Nova alínea h) e renumeração (Lei 103/2009, art. 29.º); n.º 3 com remissão para a alínea f) (DL 247-B/2008, art. 31.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 70.º",
+    "veredicto": "certo",
+    "motivo": "N.º 2 revogado pelo art. 46.º, alínea e), do DL 247-B/2008.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 78.º",
+    "veredicto": "certo",
+    "motivo": "N.º 2 (prazo de um dia) conforme Lei 103/2009, art. 29.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 95.º",
+    "veredicto": "certo",
+    "motivo": "N.º 2 (n.º 5 do artigo 92.º) conforme DL 247-B/2008, art. 31.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 103.º",
+    "veredicto": "certo",
+    "motivo": "N.º 3 passa a (Revogado.) conforme ponto 6 da Declaração de Rectificação 107/2007.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 112.º",
+    "veredicto": "certo",
+    "motivo": "N.º 3 novo conforme DL 51/2018, art. 2.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 118.º",
+    "veredicto": "certo",
+    "motivo": "N.º 3 novo conforme DL 51/2018, art. 2.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 126.º",
+    "veredicto": "certo",
+    "motivo": "Alínea b) do n.º 1 conforme DL 51/2018, art. 2.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 140.º",
+    "veredicto": "certo",
+    "motivo": "N.º 1 (alínea g)) conforme ponto 3 da Declaração de Rectificação 107/2007.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 163.º",
+    "veredicto": "certo",
+    "motivo": "N.º 2 conforme DL 247-B/2008, art. 31.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 207.º",
+    "veredicto": "certo",
+    "motivo": "N.º 4 novo conforme Lei 90/2015, artigo único.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 208.º",
+    "veredicto": "certo",
+    "motivo": "N.os 1 e 2 conforme Lei 90/2015, artigo único.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 210.º-A",
+    "veredicto": "certo",
+    "motivo": "Alínea b) do n.º 2, novo n.º 5 e renumeração do n.º 6 conforme DL 247-B/2008, art. 31.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 210.º-C",
+    "veredicto": "certo",
+    "motivo": "N.os 1 a 3 conforme DL 247-B/2008, art. 31.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 210.º-G",
+    "veredicto": "certo",
+    "motivo": "Epígrafe e n.os 1 a 4 conforme DL 247-B/2008, art. 31.º; n.º 5 revogado (art. 46.º, e)).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 210.º-H",
+    "veredicto": "certo",
+    "motivo": "N.os 1 a 3 conforme DL 247-B/2008, art. 31.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 215.º",
+    "veredicto": "certo",
+    "motivo": "N.º 1 conforme DL 247-B/2008, art. 31.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 270.º",
+    "veredicto": "certo",
+    "motivo": "Alínea c) do n.º 1 revogada pelo art. 46.º, e), do DL 247-B/2008.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 272.º",
+    "veredicto": "certo",
+    "motivo": "Alínea c) do n.º 1 e n.º 2 conforme Lei 61/2008, art. 5.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 272.º-A",
+    "veredicto": "certo",
+    "motivo": "N.os 1 a 8 conforme DL 247-B/2008, art. 31.º (renumeração dos anteriores n.os 4 e 5 para 6 e 8).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 272.º-C",
+    "veredicto": "certo",
+    "motivo": "Remissões conforme DL 247-B/2008, art. 31.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 299.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 29.º, alínea e), do DL 201/2015 (a redação do DL 209/2012 art. 16.º fica sem efeito).",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Lei n.º 29/2009, art. 81.º: nova redação dos arts. 202.º-A, 202.º-B e 210.º do Código do Registo Civil",
+    "motivo": "A vista traz a nota de que o artigo foi revogado pelo art. 6.º da Lei n.º 23/2013, em vigor desde 2013-09-02; efeito adiado para facto futuro, revogado antes de produzir efeitos; os artigos ficam com o texto original."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

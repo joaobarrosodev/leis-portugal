@@ -1,0 +1,107 @@
+[
+ {
+  "id": "pt:dre:237463:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "§§ 3.º a 5.º revogados pelo art. 4.º do DL 47919; consolidado com (Revogado.)",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "§ único com a nova redação do art. 6.º do DL 49306, letra a letra",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação integral do art. 6.º do DL 49306 (art. 6.º do DL 49306)",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 13.º",
+    "veredicto": "certo",
+    "motivo": "Alínea c) aditada ao § único (a) e b) mantidas); texto igual ao do DL 49306",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 24.º",
+    "veredicto": "certo",
+    "motivo": "§ único passa a § 1.º com nova redação e § 2.º aditado, igual ao DL 49306",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 25.º",
+    "veredicto": "certo",
+    "motivo": "§ único com nova redação, igual ao DL 49306",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 28.º",
+    "veredicto": "certo",
+    "motivo": "§ único com nova redação, igual ao DL 49306",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 29.º",
+    "veredicto": "certo",
+    "motivo": "§ único com nova redação, igual ao DL 49306",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 31.º-A",
+    "veredicto": "certo",
+    "motivo": "Aditado pelo art. 10.º do DL 49306, texto igual",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 31.º-B",
+    "veredicto": "certo",
+    "motivo": "Aditado pelo art. 10.º do DL 49306, texto igual",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 31.º-C",
+    "veredicto": "certo",
+    "motivo": "Aditado pelo art. 10.º do DL 49306, texto igual",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 32.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação do art. 32.º do DL 49306, igual",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [
+   "DL 49306, art. 10.º: título «SECÇÃO IV — Dos prémios e comissões de transferência e cobrança» (secção IV do capítulo II) a pôr antes do artigo 31.º-A, depois do 31.º; o consolidado só tem as secções I a III. O alvo é claro, não é justificação."
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 44828, artigo único: fixa para 1 de Março de 1963 a entrada em vigor prevista no artigo 34.º",
+    "motivo": "não textual: fixação/prorrogação da data de entrada em vigor, sem nova redação (art. 34.º não visível na vista)"
+   },
+   {
+    "instrucao": "DL 47919, arts. 1.º a 3.º (conceito de residente, residentes temporários)",
+    "motivo": "não textual: normas autónomas, sem nova redação de artigos do original"
+   },
+   {
+    "instrucao": "DL 47919, art. 4.º quanto aos DL 44699 e 44700",
+    "motivo": "outro diploma"
+   },
+   {
+    "instrucao": "DL 49306, arts. 1.º a 5.º (alteram os DL 44698, 44699, 44700 e 45296)",
+    "motivo": "outro diploma"
+   },
+   {
+    "instrucao": "DL 49306, arts. 7.º a 9.º (instruções sobre vales de correio, declarações, troca de notas)",
+    "motivo": "não textual: normas autónomas que não dão nova redação ao original"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "falta a epígrafe de divisão «SECÇÃO IV — Dos prémios e comissões de transferência e cobrança» antes do artigo 31.º-A; resto sem alterações"
+ }
+]

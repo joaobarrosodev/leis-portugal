@@ -44,7 +44,7 @@ version_history:
     changes: []
   - date: '1988-05-28'
     amending: pt:dre:285373:por
-    amending_title: Decreto-Lei n.º 150/88
+    amending_title: Decreto-Lei n.º 150/88; Decreto-Lei n.º 414/86
     changes:
     - Revoga Artigo 11.º
     - Revoga Artigo 12.º
@@ -54,6 +54,16 @@ version_history:
     - Revoga Artigo 16.º
     - Revoga Artigo 17.º
     - Revoga Artigo 18.º
+    - Revoga Artigo 1
+    - Revoga Artigo 2
+    - Revoga Artigo 3
+    - Revoga Artigo 4
+    - Revoga Artigo 5
+    - Revoga Artigo 6
+    - Revoga Artigo 7
+    - Revoga Artigo 8
+    - Revoga Artigo 9
+    - Revoga Artigo 10
 identifiers:
   celex: null
   eli: null
@@ -80,7 +90,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:21:13Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 150/88. Método e
-    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1971/decreto-lei-543-71.alteracoes.json'
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1971/decreto-lei-543-71.alteracoes.json.
+    Revogações registadas só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Decreto-Lei
+    n.º 414/86.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -166,83 +178,33 @@ Inscrição
 
 ###### Artigo 1.º
 
-1. O exercício da indústria de transportes marítimos por quem tenha domicílio profissional ou sede no continente ou ilhas adjacentes depende da inscrição na Direcção-Geral dos Serviços de Fomento Marítimo (D. G. S. F. M.) do Ministério da Marinha, autorizada por despacho do Ministro da Marinha.
+(Revogado.)
 
-2. Para os efeitos deste diploma, consideram-se como exercendo a indústria de transportes marítimos:
-
-a) Os que explorem essa actividade económica com navios de comércio de que sejam proprietários;
-
-b) Os que explorem a mesma actividade mediante o fretamento de navios de comércio, ainda que em casco nu;
-
-c) Aqueles a quem, por qualquer contrato e ainda que por período limitado, seja transmitida, total ou parcialmente, a posição de armador inscrito ou seja cedida, total ou parcialmente, a exploração de empresa destinada à mencionada actividade.
+> Revogado pelo/a [Decreto-Lei n.º 414/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1986-221306), publicado em 1986-12-15, com efeitos a partir de 1986-12-20.
 
 ###### Artigo 2.º
 
-1. O pedido de inscrição, que será apresentado na D. G. S. F. M., deverá mencionar as zonas de tráfego que o requerente pretende explorar e ser acompanhado dos seguintes elementos:
-
-a) Certidão da competente conservatória do registo comercial comprovativa de matrícula exclusivamente para a exploração da indústria de transportes marítimos;
-
-b) Documento comprovativo da existência do capital realizado e destinado àquela exploração.
-
-2. O pedido de inscrição deverá ainda ser acompanhado, conforme os casos:
-
-a) Se o requerente já for proprietário de um ou mais navios de comércio, dos documentos comprovativos da propriedade desses navios;
-
-b) Se o requerente for uma sociedade, certidão dos seus estatutos e, quando se trate de sociedade em nome colectivo ou por quotas, certidão donde constem os respectivos sócios, ambas passadas pela conservatória do registo comercial competente;
-
-c) Se o requerente for pessoa singular e casada, certidão, de narrativa completa ou de cópia integral, do respectivo casamento e, no caso de ter sido celebrada convenção antenupcial, certidão, de qualquer daquelas espécies, do registo da respectiva escritura.
-
-3. Nos casos previstos nas alíneas b) e c) do n.º 2 do artigo 1.º deverão ser apresentados, para além dos documentos exigidos nos números anteriores, os necessários para a prova dos factos que justifiquem a inscrição.
-
-4. Antes do despacho ministerial a que se refere o n.º 1 do artigo 1.º, deverá ser ouvida a Junta Nacional da Marinha Mercante e apreciada pela D. G. S. F. M. a regularidade formal do processo.
-
-5. O pedido poderá ser indeferido com fundamento na insuficiência, para a exploração pretendida, do capital realizado pelo requerente.
-
-6. Os despachos que autorizem a inscrição nos casos abrangidos pelas alíneas b) e c) do n.º 2 do artigo 1.º poderão dispensar o cumprimento de formalidades impostas pelo presente diploma, bem como impor outras exigências que se mostrem convenientes, em face da especialidade das situações previstas nas citadas alíneas.
+(Revogado.)
 
 ###### Artigo 3.º
 
-1. A inscrição será provisória se o requerente pretender exercer a indústria de transportes marítimos nos termos da alínea a) do n.º 2 do artigo 1.º e não provar ser já proprietário pelo menos de um navio de comércio.
-
-2. Tal inscrição converter-se-á em definitiva se, dentro do prazo de cento e oitenta dias, a contar da sua data, o requerente fizer prova da aquisição de, pelo menos, um navio de comércio.
-
-3. No caso contrário, caducará a inscrição provisória.
+(Revogado.)
 
 ###### Artigo 4.º
 
-1. Estão sujeitas a averbamento às respectivas inscrições as alterações aos elementos delas constantes e as alterações aos factos ou elementos a que se referem os documentos que instruíram os pedidos de inscrição.
-
-2. Aos pedidos de averbamento às inscrições e à sua autorização é aplicável, com as necessárias adaptações, o disposto no artigo 2.º, devendo os mesmos ser instruídos, porém, com os documentos que sejam necessários para a prova dos factos que os fundamentem.
-
-3. As alterações previstas no n.º 1 não produzem efeitos em relação ao condicionamento legal estabelecido pelo presente diploma enquanto não forem objecto do correspondente averbamento.
+(Revogado.)
 
 ###### Artigo 5.º
 
-1. A morte de pessoa que tenha domicílio profissional no continente ou ilhas adjacentes e exerça a indústria de transportes marítimos deve ser participada à D. G. S. F. M., dentro do prazo de trinta dias e com observância do disposto no n.º 4 do artigo 9.º
-
-2. A participação compete ao cabeça-de-casal e a todos os herdeiros, mas o cumprimento, desse dever por um dos obrigados desonera todos os restantes.
-
-3. No caso previsto no n.º 1, será a morte averbada à inscrição, passando esta, até à verificação de qualquer dos factos previstos no final do número seguinte, a referir-se aos herdeiros do falecido, na fórmula «F ... (herdeiros)».
-
-4. Aqueles que sucedam ao falecido na exploração da indústria devem requerer a sua inscrição no prazo de trinta dias, a contar, conforme os casos, da elaboração da escritura de partilha ou do trânsito em julgado da sentença que homologar a partilha judicial, ou, no caso de haver um só herdeiro, da escritura de habilitação.
+(Revogado.)
 
 ###### Artigo 6.º
 
-1. Será cancelada a inscrição quando o inscrito deixe de ser proprietário de navios de comércio, se, dentro do prazo de um ano, a contar da data do último cancelamento de registo de navio em seu nome, não adquirir outro navio de comércio ou contratar a sua construção, salvo se invocar factos que fundamentem a inscrição nos termos das alíneas b) ou c) do n.º 2 do artigo 1.º
-
-2. O cancelamento será autorizado por despacho do Ministro da Marinha, em processo organizado nos termos do n.º 4 do artigo 2.º
-
-3. O interessado será prèviamente ouvido no processo, sob pena de nulidade do cancelamento, salvo se a sua audiência não for possível, no caso de pessoa colectiva, por virtude de dissolução, ou, no caso de pessoa singular, por motivo da sua morte ou ausência ou do desconhecimento ou ausência dos seus herdeiros.
+(Revogado.)
 
 ###### Artigo 7.º
 
-1. As inscrições serão também canceladas quando, por qualquer causa, o armador inscrito transmita os seus direitos sobre a empresa ou a exploração da indústria cesse. Em ambos os casos, deverão os interessados requerer ao director-geral dos Serviços de Fomento Marítimo o cancelamento da inscrição.
-
-2. O cancelamento previsto no número anterior não depende da audiência ordenada no n.º 3 do artigo anterior.
-
-3. O disposto nos números anteriores é aplicável aos casos de falecimento de pessoa inscrita, depois de verificado qualquer dos factos a que se refere a parte final do n.º 4 do artigo 5.º
-
-4. Os factos que fundamentem o cancelamento devem ser comunicados pela D. G. S. F. M. à Junta Nacional da Marinha Mercante.
+(Revogado.)
 
 II
 
@@ -250,29 +212,15 @@ Armadores gerentes
 
 ###### Artigo 8.º
 
-Quem, com domicílio profissional ou sede no continente ou ilhas adjacentes, explore a indústria de transportes marítimos terá um armador gerente que o represente perante as instâncias oficiais.
+(Revogado.)
 
 ###### Artigo 9.º
 
-1. Em relação às pessoas colectivas, as funções de armador gerente serão exercidas por quem for indicado nos respectivos estatutos ou, nos casos de silêncio destes ou de impossibilidade do seu cumprimento, por quem for designado pela respectiva administração, direcção ou gerência.
-
-2. Em relação às pessoas singulares, as funções de armador gerente serão exercidas pela própria pessoa, salvo nos seguintes casos:
-
-a) No caso de menoridade, interdição ou ausência, pelo respectivo representante legal;
-
-b) Nos casos de inabilitação, pelo respectivo curador, quando o tribunal tenha confiado a este a administração do património do inabilitado ou quando a gerência da empresa pelo mesmo for incompatível com as restrições estabelecidas na sentença que decretar a inabilitação;
-
-c) Fora das hipóteses previstas nas alíneas anteriores, no caso de designação de representante capaz pelo próprio interessado.
-
-3. Nos casos de falência ou de falecimento da pessoa inscrita, as funções de armador gerente competem, respectivamente, ao administrador de falência ou ao cabeça-de-casal.
-
-4. Na participação do falecimento, ordenada no n.º 1 do artigo 5.º, deverá ser indicada a pessoa a quem compete o cabeçalato, para averbamento à inscrição, do exercício, por aquela, das funções de armador gerente.
+(Revogado.)
 
 ###### Artigo 10.º
 
-1. As designações e substituições dos armadores gerentes, bem como a cessação dos respectivos mandatos, serão comunicadas à D. G. S. F. M., no prazo de trinta dias, pelas entidades que a elas procedam ou pelos tribunais.
-
-2. No caso de pessoas colectivas, a designação do armador gerente deverá ser feita, sempre que possível, no próprio pedido de inscrição; na falta desta indicação, a D. G. S. F. M. notificará o requerente para o fazer no prazo de trinta dias, sob pena de proceder à designação entre os sócios, administradores, directores ou gerentes da pessoa colectiva.
+(Revogado.)
 
 III
 

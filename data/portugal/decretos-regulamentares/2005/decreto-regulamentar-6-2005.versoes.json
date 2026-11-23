@@ -44,12 +44,24 @@
      "title": "Decreto-Lei n.º 78/2015",
      "published": "2015-05-13",
      "dre_path": "/dr/detalhe/decreto-lei/78-2015-67198365"
+    },
+    {
+     "id": "pt:dre:439872:por",
+     "title": "Resolução do Conselho de Ministros n.º 175/2008",
+     "published": "2008-11-24",
+     "dre_path": "/dr/detalhe/resolucao-conselho-ministros/175-2008-439872"
     }
    ],
    "changes": [
     "Revoga Artigo 5.º",
     "Revoga Artigo 8.º",
-    "Revoga Artigo 9.º"
+    "Revoga Artigo 9.º",
+    "Revoga Artigo 10",
+    "Revoga Artigo 11",
+    "Revoga Artigo 12",
+    "Revoga Artigo 14",
+    "Revoga Artigo 15",
+    "Revoga Artigo 17"
    ],
    "fragments": [
     "2469727225ed6485",
@@ -62,14 +74,14 @@
     "8530b3c4c142ddb4",
     "a49cde62cdbefcb1",
     "fc5ff89e316b7286",
-    "dea2832e57a60ba8",
-    "9f33c13885e51184",
-    "8ee43d8ee59f049b",
+    "5aea73db035bf5e8",
+    "9113ba51fd100c64",
+    "049f599956a12fb1",
     "ddd5eb9198504189",
-    "67c995092858565f",
-    "c32887799aaba47b",
+    "dbc4721862c461ae",
+    "dbb3868d8af82e5a",
     "dc0d5d0383cad378",
-    "cb8a088a380276b9",
+    "e40938d3f24d8ee9",
     "addedcbe5465b3fe",
     "ba560f4f77b99fc1",
     "96aec897d3e9eac1",
@@ -283,6 +295,56 @@
     "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 78/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2015-67198365), publicado em 2015-05-13."
    ],
    "markdown": "###### Artigo 9.º — Competência do conselho consultivo\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 78/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2015-67198365), publicado em 2015-05-13."
+  },
+  "5aea73db035bf5e8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Actos e actividades interditos",
+   "in_force_from": "2015-05-18",
+   "changed_by": [
+    "Revogado pelo/a [Resolução do Conselho de Ministros n.º 175/2008](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/175-2008-439872), publicado em 2008-11-24."
+   ],
+   "markdown": "###### Artigo 10.º — Actos e actividades interditos\n\n(Revogado.)\n\n> Revogado pelo/a [Resolução do Conselho de Ministros n.º 175/2008](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/175-2008-439872), publicado em 2008-11-24."
+  },
+  "9113ba51fd100c64": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Actos e actividades sujeitos a autorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Actos e actividades sujeitos a autorização\n\n(Revogado.)"
+  },
+  "049f599956a12fb1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Contra-ordenações\n\n(Revogado.)"
+  },
+  "dbc4721862c461ae": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Pesca, apanha e aquicultura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Pesca, apanha e aquicultura\n\n(Revogado.)"
+  },
+  "dbb3868d8af82e5a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Fiscalização\n\n(Revogado.)"
+  },
+  "e40938d3f24d8ee9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Autorizações e pareceres vinculativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Autorizações e pareceres vinculativos\n\n(Revogado.)"
   }
  }
 }

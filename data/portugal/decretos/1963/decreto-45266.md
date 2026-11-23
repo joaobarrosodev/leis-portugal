@@ -31,7 +31,7 @@ version:
   kind: consolidated
   label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: '1988-03-01'
+  consolidation_date: '1993-05-01'
 version_history:
   file: decreto-45266.versoes.json
   count: 2
@@ -41,12 +41,13 @@ version_history:
     amending: null
     amending_title: null
     changes: []
-  - date: '1988-03-01'
+  - date: '1993-05-01'
     amending: pt:dre:142562:por
     amending_title: Decreto n.º 263/70; Decreto n.º 178/73; Decreto n.º 358/73; Decreto n.º 486/73; Decreto n.º 785/75; Decreto
       n.º 306/76; Decreto Regulamentar n.º 25/77; Decreto Regulamentar n.º 24/78; Decreto Regulamentar n.º 22/79; Decreto
       Regulamentar n.º 7/80; Decreto Regulamentar n.º 68/82; Decreto Regulamentar n.º 45/84; Decreto Regulamentar n.º 77/84;
-      Decreto Regulamentar n.º 36/87; Decreto Regulamentar n.º 7/88
+      Decreto Regulamentar n.º 36/87; Decreto Regulamentar n.º 7/88; Decreto Regulamentar n.º 12/83; Decreto-Lei n.º 64/89;
+      Decreto-Lei n.º 64/93
     changes:
     - Altera Artigo 18.º
     - Altera Artigo 24.º
@@ -69,6 +70,9 @@ version_history:
     - Altera Artigo 124.º
     - Altera Artigo 126.º
     - Altera Artigo 163.º
+    - Revoga Artigo 113
+    - Revoga Artigo 179
+    - Revoga Artigo 18
 identifiers:
   celex: null
   eli: null
@@ -98,7 +102,9 @@ provenance:
     Decreto n.º 358/73; Decreto n.º 486/73; Decreto n.º 785/75; Decreto n.º 306/76; Decreto Regulamentar n.º 25/77; Decreto
     Regulamentar n.º 24/78; Decreto Regulamentar n.º 22/79; Decreto Regulamentar n.º 7/80; Decreto Regulamentar n.º 68/82;
     Decreto Regulamentar n.º 45/84; Decreto Regulamentar n.º 77/84; Decreto Regulamentar n.º 36/87; Decreto Regulamentar n.º
-    7/88. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos/1963/decreto-45266.alteracoes.json'
+    7/88. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos/1963/decreto-45266.alteracoes.json.
+    Revogações registadas só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Decreto
+    Regulamentar n.º 12/83.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -958,17 +964,15 @@ b) Permitir ou ordenar a mudança de categoria de qualquer outra instituição e
 
 1. A obrigatoriedade de inscrição como beneficiários é extensiva aos sócios das empresas que, ao serviço destas, mediante remuneração e subordinados à sua administração exerçam profissões abrangidas pelas caixas.
 
-2. Continuam sujeitos às caixas sindicais de previdência os beneficiários que passem a exercer a sua profissão no estrangeiro, enquanto se mantiverem ao serviço das empresas contribuintes.
+2. (Revogado.)
 
-3 - Não são abrangidos pelas instituições de segurança social os trabalhadores que se encontrem a prestar serviço em Portugal por período determinado desde que se prove estarem obrigatoriamente abrangidos pela segurança social de outro país.
+3 - (Revogado.)
 
-4 - Deixam de estar sujeitos às instituições de segurança social os trabalhadores que exerçam a sua profissão no estrangeiro, mas ao serviço de empresas sediadas em Portugal:
-
-a) Quando a sua situação seja contemplada em convenção de segurança social que vincule internacionalmente o Estado Português;
-
-b) Quando, não existindo tal convenção, os trabalhadores requeiram a suspensão da sua inscrição em Portugal e provem, perante o Ministério do Trabalho e Segurança Social, que o seu esquema de segurança social no país onde trabalham é igual ou superior ao português.
+4 - (Revogado.)
 
 > Alterado pelo/a [Decreto Regulamentar n.º 45/84](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/45-1984-387296), publicado em 1984-06-25.
+
+> Revogado pelo/a [Decreto-Lei n.º 64/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-1993-626418), publicado em 1993-03-05, com efeitos a partir de 1993-05-01.
 
 ###### Artigo 19.º
 
@@ -1798,23 +1802,9 @@ Para efeito das realizações de acção social e de protecção na doença e na
 
 ###### Artigo 113.º
 
-Para os efeitos do artigo anterior, consideram-se como remunerações, ressalvado o que seja estabelecido por despacho do Ministro das Corporações e Previdência Social em relação a certas actividades:
+(Revogado.)
 
-a) A remuneração-base, que compreende a prestação pecuniária e prestações em géneros, alimentação ou habitação;
-
-b) As diuturnidades;
-
-c) Os subsídios de residência, de renda de casa e outros análogos;
-
-d) Os subsídios concedidos a título de compensação de alta do custo de vida ou por qualquer outro título;
-
-e) A remuneração durante o período de férias, incluindo os subsídios adicionais;
-
-f) Os abonos para falhas;
-
-g) Os salários relativos aos dias de trabalho garantidos aos trabalhadores por efeito de convenções colectivas ou despacho de regulamentação do trabalho;
-
-h) A indemnização por despedimento sem aviso prévio ou justa causa.
+> Revogado pelo/a [Decreto Regulamentar n.º 12/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1983-310855), publicado em 1983-02-12, com efeitos a partir de 1983-01-01.
 
 ###### Artigo 114.º
 
@@ -2428,23 +2418,9 @@ Quando sejam devidas contribuições pela mesma entidade à Caixa Nacional de Pe
 
 ###### Artigo 179.º
 
-1. Os beneficiários das caixas sindicais de previdência serão suspensos de benefícios:
+(Revogado.)
 
-a) Por 3 a 10 dias, os que, por palavras ou por escrito, ofenderem directamente, durante o exercício das suas funções, algum membro dos corpos directivos ou do pessoal ao serviço da caixa;
-
-b) Por 10 a 30 dias, os que, empregando violência ou ameaças, se opuserem a que alguma das pessoas referidas na alínea anterior exerça as suas funções;
-
-c) Por 1 a 6 meses, os que tentarem iludir, por actos ou omissões, os serviços da caixa, com o fim de obterem benefícios indevidos ou de se subtraírem às obrigações estatutárias;
-
-d) Por 2 meses a 1 ano, os que intencionalmente defraudarem os interesses da caixa, designadamente os que, estando com parte de doente, forem encontrados a trabalhar ou ausentes do domicílio, em contravenção de prescrição médica.
-
-2. A suspensão de benefícios tem por efeito a perda das prestações pecuniárias, bem como da assistência médica e medicamentosa, cujo direito se verifique após a sua aplicação, e não isenta do pagamento das contribuições estatutárias.
-
-3. A recusa injustificada por parte do beneficiário à assistência médica ou a tratamento de recuperação profissional envolve a perda do direito, respectivamente, ao subsídio de doença ou à pensão de invalidez pelo prazo máximo de um ano, enquanto se verificar a recusa.
-
-4. Na hipótese da alínea d) do n.º 1, o beneficiário deverá restituir o valor das prestações que indevidamente lhe houverem sido atribuídas, sob pena de a caixa o deduzir nos benefícios pecuniários futuros.
-
-5. A entidade patronal será solidàriamente responsável com o devedor pelo reembolso dos benefícios indevidamente concedidos por erros constantes das folhas de férias.
+> Revogado pelo/a [Decreto-Lei n.º 64/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-1989-612243), publicado em 1989-02-25, com efeitos a partir de 1989-05-01.
 
 ### CAPÍTULO XII — Disposições finais e transitórias
 

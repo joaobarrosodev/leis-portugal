@@ -29,11 +29,18 @@
      "title": "Decreto-Lei n.º 220/81",
      "published": "1981-07-16",
      "dre_path": "/dr/detalhe/decreto-lei/220-1981-579969"
+    },
+    {
+     "id": "pt:dre:681622:por",
+     "title": "Decreto-Lei n.º 80/80",
+     "published": "1980-04-19",
+     "dre_path": "/dr/detalhe/decreto-lei/80-1980-681622"
     }
    ],
    "changes": [
     "Revoga Artigo 19.º",
-    "Altera Artigo 4.º"
+    "Altera Artigo 4.º",
+    "Revoga Artigo 15"
    ],
    "fragments": [
     "fe1a1af1d1a1342a",
@@ -51,7 +58,7 @@
     "435f46d85cfacb6a",
     "3dc70e52fddd8c0f",
     "260fa471d34bee46",
-    "5aa81e48e5de40e8",
+    "f7cdac817785054e",
     "74c5bd32313d29c9",
     "925c457fab3edca5",
     "4670f215ec6234a2",
@@ -192,13 +199,15 @@
    "changed_by": [],
    "markdown": "###### Artigo 14.º\n\n1 - No prosseguimento do objectivo do presente decreto-lei, as autarquias locais procederão anualmente, com a colaboração das estruturas próprias do Ministério da Educação e demais serviços e órgãos interessados, ao recenseamento das crianças em idade escolar que se não encontrem matriculadas nos ensinos público, particular ou cooperativo.\n\n2 - O Governo regulamentará por diploma, no prazo de noventa dias, a forma de contrôle do cumprimento da escolaridade obrigatória por todos os menores em idade escolar não abrangidos na alínea b) do n.º 3 do artigo 15.º"
   },
-  "5aa81e48e5de40e8": {
+  "f7cdac817785054e": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 15.º",
-   "in_force_from": null,
-   "changed_by": [],
-   "markdown": "###### Artigo 15.º\n\n1 - dever de todos os cidadãos, e mais especificamente dos educadores de infância, dos professores e de todas as autoridades, actuar junto dos encarregados de educação que não dêem cumprimento às disposições relativas à escolaridade obrigatória, esclarecendo-os sobre os seus deveres e sensibilizando-os para o valor pessoal e social do cumprimento da escolaridade.\n\n2 - O cumprimento das obrigações que, nos termos do presente diploma, incumbem aos encarregados de educação constitui condição indispensável para a atribuição e processamento do abono de família.\n\n3 - Para efeitos do disposto neste artigo:\n\na) Os encarregados de educação entregarão anualmente, na entidade ou serviço processador do abono de família, certificado comprovativo da matrícula dos menores sujeitos à escolaridade obrigatória ou da dispensa de frequência, no prazo do estabelecido em regulamento;\n\nb) As direcções de distrito escolar ou direcções escolares, os órgãos de gestão das escolas de ensino preparatório e os responsáveis pelos estabelecimentos de ensino particular ou cooperativo enviarão mensalmente às entidades ou serviços processadores de abono de família nota dos beneficiários cujos educandos tenham faltado, no mês anterior, mais de três dias, sem motivo devidamente justificado nos termos da legislação vigente."
+   "in_force_from": "1981-07-16",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 80/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-1980-681622), publicado em 1980-04-19."
+   ],
+   "markdown": "###### Artigo 15.º\n\n1 - dever de todos os cidadãos, e mais especificamente dos educadores de infância, dos professores e de todas as autoridades, actuar junto dos encarregados de educação que não dêem cumprimento às disposições relativas à escolaridade obrigatória, esclarecendo-os sobre os seus deveres e sensibilizando-os para o valor pessoal e social do cumprimento da escolaridade.\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 80/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-1980-681622), publicado em 1980-04-19."
   },
   "74c5bd32313d29c9": {
    "fragment_id": null,

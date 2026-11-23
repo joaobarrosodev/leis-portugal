@@ -180,6 +180,24 @@
      "title": "Declaração",
      "published": "1977-11-28",
      "dre_path": "/dr/detalhe/declaracao/1977-281257"
+    },
+    {
+     "id": "pt:dre:404565:por",
+     "title": "Lei n.º 91/77",
+     "published": "1977-12-31",
+     "dre_path": "/dr/detalhe/lei/91-1977-404565"
+    },
+    {
+     "id": "pt:dre:547247:por",
+     "title": "Lei n.º 87/89",
+     "published": "1989-09-09",
+     "dre_path": "/dr/detalhe/lei/87-1989-547247"
+    },
+    {
+     "id": "pt:dre:661715:por",
+     "title": "Decreto-Lei n.º 100/84",
+     "published": "1984-03-29",
+     "dre_path": "/dr/detalhe/decreto-lei/100-1984-661715"
     }
    ],
    "changes": [
@@ -200,102 +218,205 @@
     "Revoga Artigo 88.º",
     "Revoga Artigo 89.º",
     "Revoga Artigo 90.º",
-    "Retifica Artigo 14"
+    "Retifica Artigo 14",
+    "Revoga Artigo 109",
+    "Revoga Artigo 91",
+    "Revoga Artigo 92",
+    "Revoga Artigo 93",
+    "Revoga Artigo 1",
+    "Revoga Artigo 2",
+    "Revoga Artigo 3",
+    "Revoga Artigo 4",
+    "Revoga Artigo 5",
+    "Revoga Artigo 6",
+    "Revoga Artigo 7",
+    "Revoga Artigo 8",
+    "Revoga Artigo 9",
+    "Revoga Artigo 10",
+    "Revoga Artigo 11",
+    "Revoga Artigo 12",
+    "Revoga Artigo 13",
+    "Revoga Artigo 14",
+    "Revoga Artigo 15",
+    "Revoga Artigo 16",
+    "Revoga Artigo 17",
+    "Revoga Artigo 18",
+    "Revoga Artigo 19",
+    "Revoga Artigo 20",
+    "Revoga Artigo 21",
+    "Revoga Artigo 22",
+    "Revoga Artigo 23",
+    "Revoga Artigo 24",
+    "Revoga Artigo 25",
+    "Revoga Artigo 26",
+    "Revoga Artigo 27",
+    "Revoga Artigo 28",
+    "Revoga Artigo 29",
+    "Revoga Artigo 30",
+    "Revoga Artigo 31",
+    "Revoga Artigo 32",
+    "Revoga Artigo 33",
+    "Revoga Artigo 34",
+    "Revoga Artigo 35",
+    "Revoga Artigo 36",
+    "Revoga Artigo 37",
+    "Revoga Artigo 38",
+    "Revoga Artigo 39",
+    "Revoga Artigo 40",
+    "Revoga Artigo 41",
+    "Revoga Artigo 42",
+    "Revoga Artigo 43",
+    "Revoga Artigo 44",
+    "Revoga Artigo 45",
+    "Revoga Artigo 46",
+    "Revoga Artigo 47",
+    "Revoga Artigo 48",
+    "Revoga Artigo 49",
+    "Revoga Artigo 50",
+    "Revoga Artigo 51",
+    "Revoga Artigo 52",
+    "Revoga Artigo 53",
+    "Revoga Artigo 54",
+    "Revoga Artigo 55",
+    "Revoga Artigo 56",
+    "Revoga Artigo 57",
+    "Revoga Artigo 58",
+    "Revoga Artigo 59",
+    "Revoga Artigo 60",
+    "Revoga Artigo 61",
+    "Revoga Artigo 62",
+    "Revoga Artigo 63",
+    "Revoga Artigo 64",
+    "Revoga Artigo 65",
+    "Revoga Artigo 66",
+    "Revoga Artigo 67",
+    "Revoga Artigo 68",
+    "Revoga Artigo 69",
+    "Revoga Artigo 70",
+    "Revoga Artigo 71",
+    "Revoga Artigo 72",
+    "Revoga Artigo 73",
+    "Revoga Artigo 74",
+    "Revoga Artigo 75",
+    "Revoga Artigo 76",
+    "Revoga Artigo 77",
+    "Revoga Artigo 78",
+    "Revoga Artigo 79",
+    "Revoga Artigo 80",
+    "Revoga Artigo 81",
+    "Revoga Artigo 97",
+    "Revoga Artigo 98",
+    "Revoga Artigo 99",
+    "Revoga Artigo 100",
+    "Revoga Artigo 101",
+    "Revoga Artigo 102",
+    "Revoga Artigo 103",
+    "Revoga Artigo 104",
+    "Revoga Artigo 105",
+    "Revoga Artigo 106",
+    "Revoga Artigo 107",
+    "Revoga Artigo 108",
+    "Revoga Artigo 110",
+    "Revoga Artigo 111",
+    "Revoga Artigo 112",
+    "Revoga Artigo 113",
+    "Revoga Artigo 114",
+    "Revoga Artigo 115"
    ],
    "fragments": [
     "2882d809857132d8",
     "dc08d6a0e9d4aaf2",
-    "ec10b8fe2324cc24",
-    "0f0199bd0f8419c8",
+    "54ae013e89abc190",
+    "317cea8864fa7112",
     "97268cba47d7c60c",
     "e9fe672ddde1d8b6",
-    "0205112f1f2a0e4e",
-    "5d6c41f044f070ae",
+    "61276aa5804d99a3",
+    "a8919e30dc95dcad",
     "05410b12b520989e",
-    "2724b232f788b5e3",
-    "2e93271a68fbee83",
-    "e1ffbc6c21a49ff7",
-    "c5d2ff186f446180",
-    "d115d4835fcf610b",
-    "046aab69dec1be10",
-    "b22274f5844b2087",
-    "e3b6977856c2f3e3",
-    "33b230cc702bc5e3",
-    "ab5088666dc29104",
-    "3409f4ff014f245c",
-    "7964f5ddfcf945a9",
-    "ae69d9f55f0c161d",
-    "683883bdd3f74a21",
-    "bea5f9402daab373",
-    "e225400bfe489d5f",
-    "4e926bb7756abf59",
+    "b59a482f39d76cf6",
+    "d6347b221e23e254",
+    "44fbbfd139b0c713",
+    "39b5c271b4f5955e",
+    "664fdc285a554ece",
+    "735b23dfe37b7f6e",
+    "80712af6677b5bbc",
+    "f1e79e6b6ebccbb2",
+    "9fa1b6460922ada7",
+    "0fd7a1e47c0489de",
+    "359515e8e4d84c3f",
+    "f1ad0d040c19ff6b",
+    "07d0d3c2f5f83b57",
+    "505cb741491a40d5",
+    "73d180da4b1efa4b",
+    "1443f1d3e12bd718",
+    "e88a443a33045237",
     "69d16444ba6bf8dc",
-    "87ede9dd2adebdfb",
-    "3cf13def07367688",
-    "171772c37fce4ea2",
-    "204c927591710c44",
-    "355583437b46b3ac",
+    "c44ab051dcf37d15",
+    "d7426e25bd1fe8ef",
+    "4448c7d32bc45b0d",
+    "c6753027498daa94",
+    "267d5d8f2e2c8600",
     "161ab41ea71961cf",
-    "08b6a35cd084780c",
-    "4a6a7eb54b957500",
-    "e1829cb0b5e17a38",
-    "00ecf6c5e7e6d954",
-    "ab070f11a9e4aeda",
-    "3b1ba6c1defa20cc",
-    "44254231fdb938a4",
-    "d0d6ccbe75b8df9f",
-    "3948f8f584897331",
-    "0aff13971a7ae27c",
-    "e5c13f044ec70997",
+    "f783d073f553d112",
+    "113a0f7042145eca",
+    "557248c7ee7e4739",
+    "ff8241bf81fa865e",
+    "9db2983dc242c7b5",
+    "a59f2655059c74fc",
+    "864553eb68c49db7",
+    "0cc013197ea59ecb",
+    "d5f88fe9afc58b1e",
+    "ec0c3794e896aaa7",
+    "d96023516954eac8",
     "cdb0b39df19f6163",
     "e9fe672ddde1d8b6",
-    "b64cb42ff17ff8d9",
-    "0f2ee64637752920",
+    "b92a746ffc566c5e",
+    "6f20af781dd0835b",
     "c474e57927e56d79",
-    "c2751a3224d047d0",
-    "977de4e8c23505cd",
-    "464281909699c753",
-    "5b6a0759a1be6fec",
-    "1f05941741e9e387",
-    "73e24ceb18c5cc92",
-    "11d64a349e900675",
-    "56d43d0c21131e88",
-    "1094009f66c71fdf",
-    "cef3f0b0a2d3384f",
-    "579ff451327e4ae2",
-    "4eaaa59d2d1d8c88",
-    "c24e15c9253e628a",
+    "543220178303a807",
+    "2307ee14f566fee9",
+    "fe018a34b294ea98",
+    "e058f289494d13c9",
+    "f1be8ca1845da32c",
+    "fae9ff79ae52f052",
+    "16538d92d5b4cdcb",
+    "22a9d8a23b465077",
+    "6c6dab2e79122c30",
+    "3a6d2f97d3ca0c79",
+    "773d4b0abe15cbae",
+    "938fed6c16ce5330",
+    "3e00816f6cb35add",
     "348f8945f2171589",
-    "29306d0f01f396a5",
-    "eeffea4a720a0574",
-    "39e670cfaaeeb1d8",
-    "9ab6ff6c5ce2b617",
-    "0819a7df0aba62c3",
-    "4bbb23a5e152ebc7",
-    "99e9474bc75e725b",
-    "0530489d541e9cae",
-    "49c59c59641a0f2d",
-    "79e748e71f7e1ac0",
-    "e4a60cea4acc20e2",
-    "a1abec4aff4a8b93",
-    "346000cacbef8900",
-    "15b97dc1f1ae6102",
-    "e594c1bde2f61b96",
+    "d9f8b739ac7b492b",
+    "55a6debe1af7f2bc",
+    "5466ac2bb3bace64",
+    "b1d64f5b43429297",
+    "997db89851732c24",
+    "f232a48f799119f1",
+    "cbe1bacf181ace18",
+    "e0c09f930cff926f",
+    "be59008485b5e690",
+    "d78dee4f70d5ea95",
+    "5e73c8bd0bb97f40",
+    "15060e59700497f9",
+    "db378bc3e7432a10",
+    "a6b5d56ed5ae00ff",
+    "af38a2bf0affcab3",
     "32393f0912033785",
-    "30ed784508173370",
-    "d03160b4bce7d39c",
-    "aba0e47ed3106036",
-    "87b56ec7e4322eb4",
-    "256717bb056c8ac2",
-    "6e6665f728c64431",
-    "7f0150af2d5c6e55",
-    "f932792ff6a33a6b",
-    "94867f9343c896ca",
-    "ab4d7147d375f616",
-    "20d94de11e2d8e0a",
-    "2f0ec6f0a70abd43",
-    "76521afdd608a42b",
-    "fbe4ef28cdebaf27",
+    "262def05f4e02fd0",
+    "294b67ec46dfd538",
+    "c3a1d1a4eb20f078",
+    "9d44a4f6ce3f3baa",
+    "4161d72658fdc229",
+    "403b1276bb5a2e1b",
+    "bfaf82ce11703255",
+    "c56bb5c82b0a5b0a",
+    "db985486b3852c24",
+    "b96e6efd44964bec",
+    "5bd49a587fb7f194",
+    "07aa6ddcb4a4cfae",
+    "1020e0a7dfb223e8",
+    "187c9b4fbc5bf473",
     "f70d3effba41fd94",
     "d14504708a18e21a",
     "e5e118209cf38023",
@@ -310,33 +431,33 @@
     "52ba110e6fa8eb45",
     "051cedaf7cd14e44",
     "7dc1f24c4abdfbf3",
-    "28fe0e5b373ebc75",
-    "7f06c52e9a3c4e33",
-    "b31f72531d036121",
+    "33c76f39209d256d",
+    "be2c4ca138ad2550",
+    "9aef6020d768ba25",
     "7abd624ad54ac71a",
     "c43c368a6bfe930e",
     "92c3e80445790191",
     "9da682ea925cd484",
-    "9c2469036fd4b227",
-    "ef351059ff9d8089",
-    "c7023e4e1d918508",
-    "a30edf50e4b69acb",
-    "1ca8ab2b5ce0f76b",
-    "e34438679db14eb4",
-    "07e2d7fa491ed5f6",
-    "ee15ec0d23d9e497",
-    "1a58ec13b2680abf",
-    "8a59e165963059eb",
-    "074f67a3d9400925",
-    "82a81391d51a0398",
-    "14e3bb3a15da5c13",
-    "8228b2feb1f34e29",
+    "1ea6387d7a0e6cf4",
+    "e5ce696a767b7c2d",
+    "85f42a76d49b4703",
+    "c508935bd8fa77ba",
+    "550e8051b9397a15",
+    "75e923b7dd0de0b4",
+    "4d9956126cde01c3",
+    "f146c3c7e6c0ad9d",
+    "3be5c523e59b7b49",
+    "62dd87d8d5267346",
+    "342af53584b5d664",
+    "49ffafb7e5146a15",
+    "3066826d59bc332f",
+    "7094ff2f98554769",
     "0e0c98fb78a64d06",
-    "d983c2fd92ad96a1",
-    "21c8174116779ea3",
-    "52ce3b6698ccafe1",
-    "f99b32a63d036a76",
-    "83633ade36f45d0e"
+    "539a486d2eb85cf5",
+    "c4a2e448c28ff317",
+    "a5a5364d963860ca",
+    "cb105e6a93519b43",
+    "3802bf083bf2ac52"
    ]
   }
  ],
@@ -1405,95 +1526,97 @@
    "changed_by": [],
    "markdown": "###### ARTIGO 115.º — (Entrada em vigor)\n\nEsta lei entra em vigor trinta dias após a sua publicação.\n\nAprovada em 29 de Julho de 1977.\n\nO Presidente da Assembleia da República, Vasco da Gama Fernandes.\n\nPromulgada em 10 de Setembro de 1977.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Mário Soares."
   },
-  "ec10b8fe2324cc24": {
+  "54ae013e89abc190": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 1.º — (Autarquias locais)",
-   "in_force_from": null,
-   "changed_by": [],
-   "markdown": "###### Artigo 1.º — (Autarquias locais)\n\n1. A organização democrática do Estado compreende a existência de autarquias locais.\n\n2. As autarquias locais são pessoas colectivas territoriais dotadas de órgãos representativos, que visam a prossecução de interesses próprios das populações respectivas."
+   "in_force_from": "1991-03-09",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 100/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1984-661715), publicado em 1984-03-29, com efeitos a partir de 1984-04-28."
+   ],
+   "markdown": "###### Artigo 1.º — (Autarquias locais)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 100/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1984-661715), publicado em 1984-03-29, com efeitos a partir de 1984-04-28."
   },
-  "0f0199bd0f8419c8": {
+  "317cea8864fa7112": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 2.º — (Atribuições)",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 2.º — (Atribuições)\n\nÉ atribuição das autarquias locais tudo o que diz respeito aos respectivos interesses e, designadamente:\n\na) De administração de bens próprios e sob sua jurisdição;\n\nb) De fomento;\n\nc) De abastecimento público;\n\nd) De cultura e assistência;\n\ne) De salubridade pública."
+   "markdown": "###### Artigo 2.º — (Atribuições)\n\n(Revogado.)"
   },
-  "0205112f1f2a0e4e": {
+  "61276aa5804d99a3": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 3.º — (Definição e fins)",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 3.º — (Definição e fins)\n\nA freguesia é a pessoa colectiva territorial, dotada de órgãos representativos, que visa a prossecução de interesses próprios da população na respectiva circunscrição."
+   "markdown": "###### Artigo 3.º — (Definição e fins)\n\n(Revogado.)"
   },
-  "5d6c41f044f070ae": {
+  "a8919e30dc95dcad": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 4.º — (Órgãos)",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 4.º — (Órgãos)\n\nOs órgãos representativos de freguesia são a assembleia de freguesia e a junta de freguesia."
+   "markdown": "###### Artigo 4.º — (Órgãos)\n\n(Revogado.)"
   },
-  "2724b232f788b5e3": {
+  "b59a482f39d76cf6": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 5.º — (Constituição)",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 5.º — (Constituição)\n\nA assembleia de freguesia é eleita por sufrágio universal, directo e secreto, dos cidadãos eleitores residentes na área da freguesia."
+   "markdown": "###### Artigo 5.º — (Constituição)\n\n(Revogado.)"
   },
-  "2e93271a68fbee83": {
+  "d6347b221e23e254": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 6.º — (Composição)",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 6.º — (Composição)\n\n1. A assembleia de freguesia é composta por 27 membros quando o número de eleitores for superior a 20000, por 19 membros quando for igual ou inferior a 20000 e superior a 5000, por 13 membros quando for igual ou inferior a 5000 e superior a 1000 e por 9 membros quando for igual ou inferior a 1000.\n\n2. Nas freguesias com mais de 30000 eleitores o número de membros atrás referido é aumentado de mais um por cada grupo completo de 5000 eleitores ou fracção."
+   "markdown": "###### Artigo 6.º — (Composição)\n\n(Revogado.)"
   },
-  "e1ffbc6c21a49ff7": {
+  "44fbbfd139b0c713": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 7.º — (Impossibilidade de constituição da assembleia)",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 7.º — (Impossibilidade de constituição da assembleia)\n\n1. Quando não tenha sido possível constituir a assembleia de freguesia por falta de apresentação de listas de candidatos, ou por estas terem sido rejeitadas, proceder-se-á da seguinte forma:\n\na) Verificando-se a falta de apresentação de listas de candidatos, será nomeada, pela câmara municipal, uma comissão administrativa, composta de três ou cinco membros;\n\nb) Ocorrendo a rejeição da totalidade das listas de candidatos apresentadas, a câmara municipal marcará novas eleições, a realizar no prazo máximo de trinta dias.\n\n2. Na nomeação prevista na alínea a) do número anterior a câmara municipal deverá ter em consideração, sempre que possível, os últimos resultados eleitorais verificados na freguesia nas mais recentes eleições para a Assembleia da República, para a assembleia regional ou para a assembleia municipal.\n\n3. A comissão administrativa, que substituirá todos os órgãos da freguesia, não poderá exercer as suas funções por prazo superior a seis meses.\n\n4. A câmara municipal deverá marcar novas eleições até quarenta e cinco dias antes do termo do prazo referido no número anterior.\n\n5. As eleições previstas na alínea b) do n.º 1 e no número anterior realizar-se-ão no domingo imediatamente anterior ao termo dos respectivos prazos."
+   "markdown": "###### Artigo 7.º — (Impossibilidade de constituição da assembleia)\n\n(Revogado.)"
   },
-  "c5d2ff186f446180": {
+  "39b5c271b4f5955e": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 8.º — (Instalação)",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 8.º — (Instalação)\n\n1. O presidente da assembleia municipal deverá proceder à instalação da assembleia de freguesia, no prazo máximo de trinta dias, a contar da resolução definitiva do apuramento dos resultados eleitorais.\n\n2. No acto de instalação, o presidente da assembleia municipal verificará a regularidade formal do processo e a identidade dos eleitos, lavrando-se acta avulsa da ocorrência, que será redigida pelo chefe da secretaria da câmara municipal e assinada pelo presidente da assembleia municipal e pelos eleitos.\n\n3. Compete ao cidadão que encabeça a lista mais votada convocar e presidir à primeira reunião de funcionamento da assembleia de freguesia, que se efectuará no prazo máximo de dez dias subsequentes ao acto de instalação, para efeitos de verificação de poderes dos candidatos proclamados eleitos, da eleição da junta de freguesia e, subsequentemente, da eleição da mesa da assembleia.\n\n4. A substituição dos membros da assembleia eleitos para a junta seguir-se-á imediatamente à eleição desta, procedendo-se, depois, à verificação de poderes dos substitutos.\n\n5. Após a verificação referida no número anterior, terá lugar a eleição da mesa e dar-se-á início imediato à discussão do regimento da assembleia.\n\n6. Terminada a votação para a mesa e verificando-se empate será declarado presidente o cidadão que tiver figurado em segundo lugar na lista mais votada na eleição para a assembleia de freguesia."
+   "markdown": "###### Artigo 8.º — (Instalação)\n\n(Revogado.)"
   },
-  "d115d4835fcf610b": {
+  "664fdc285a554ece": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 9.º — (Mesa)",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 9.º — (Mesa)\n\n1. A mesa, composta de um presidente e dois secretários, será eleita pela assembleia, de entre os seus membros, por escrutínio secreto.\n\n2. A mesa será eleita por um período de três anos, podendo os seus membros ser destituídos pela assembleia, em qualquer altura, por deliberação da maioria absoluta em efectividade de funções.\n\n3. O presidente será substituído, nas suas faltas e impedimentos, pelo 1.º secretário, e este, pelo 2.º secretário.\n\n4. Compete à mesa, com recurso do interessado para a assembleia, proceder à marcação de faltas e declarar a perda do mandato em resultado das mesmas."
+   "markdown": "###### Artigo 9.º — (Mesa)\n\n(Revogado.)"
   },
-  "046aab69dec1be10": {
+  "735b23dfe37b7f6e": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 10.º — (Alteração da composição da assembleia)",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 10.º — (Alteração da composição da assembleia)\n\n1. Quando algum dos membros deixar de fazer parte da assembleia, por morte, renúncia, perda de mandato, ou outra razão, será substituído pelo cidadão imediatamente a seguir na ordem da respectiva lista.\n\n2. Esgotada a possibilidade de substituição prevista no número anterior, e desde que não esteja em efectividade de funções a maioria legal dos membros da assembleia, o presidente comunicará o facto à câmara municipal para que esta marque, no prazo máximo de trinta dias, novas eleições.\n\n3. A nova assembleia completará o mandato da anterior."
+   "markdown": "###### Artigo 10.º — (Alteração da composição da assembleia)\n\n(Revogado.)"
   },
-  "b22274f5844b2087": {
+  "80712af6677b5bbc": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 11.º — (Participação dos membros da junta de freguesia na assembleia)",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 11.º — (Participação dos membros da junta de freguesia na assembleia)\n\n1. Os membros da junta de freguesia podem assistir às sessões da assembleia de freguesia e intervir nas discussões, mas sem direito a voto.\n\n2. A junta de freguesia far-se-á representar obrigatoriamente pelo seu presidente ou qualquer dos seus substitutos."
+   "markdown": "###### Artigo 11.º — (Participação dos membros da junta de freguesia na assembleia)\n\n(Revogado.)"
   },
-  "e3b6977856c2f3e3": {
+  "f1e79e6b6ebccbb2": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 12.º — (Sessões ordinárias)",
@@ -1501,17 +1624,17 @@
    "changed_by": [
     "Alterado pelo/a [Lei n.º 1/79](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), publicado em 1979-01-02."
    ],
-   "markdown": "###### Artigo 12.º — (Sessões ordinárias)\n\n1. A assembleia de freguesia terá, anualmente, quatro sessões ordinárias, em Março, Junho, Setembro e Novembro.\n\n2 - A quarta sessão das assembleias de freguesia destina-se à aprovação do relatório e contas do ano anterior e à aprovação do programa de actividades e orçamento para o ano seguinte.\n\n> Alterado pelo/a [Lei n.º 1/79](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), publicado em 1979-01-02."
+   "markdown": "###### Artigo 12.º — (Sessões ordinárias)\n\n(Revogado.)\n\n> Alterado pelo/a [Lei n.º 1/79](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), publicado em 1979-01-02."
   },
-  "33b230cc702bc5e3": {
+  "9fa1b6460922ada7": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 13.º — (Sessões extraordinárias)",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 13.º — (Sessões extraordinárias)\n\n1. A assembleia de freguesia pode reunir-se em sessões extraordinárias quando requeridas:\n\na) Pelo presidente da junta de freguesia, em execução de deliberação desta;\n\nb) Por um terço dos seus membros;\n\nc) Por um número de cidadãos eleitores inscritos no recenseamento eleitoral da freguesia equivalente a trinta vezes o número de elementos que compõem a assembleia, quando o número for igual ou inferior a 5000, e cinquenta vezes nos outros casos.\n\n2. O presidente da assembleia convocará as sessões extraordinárias que a respectiva mesa entender convocar.\n\n3. O presidente da assembleia terá de convocar a sessão no prazo de dez dias após a recepção do requerimento previsto no n.º 1."
+   "markdown": "###### Artigo 13.º — (Sessões extraordinárias)\n\n(Revogado.)"
   },
-  "ab5088666dc29104": {
+  "0fd7a1e47c0489de": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 14.º — (Direito a participação sem voto na assembleia)",
@@ -1519,25 +1642,25 @@
    "changed_by": [
     "Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1977-281257), publicado em 1977-11-28."
    ],
-   "markdown": "###### Artigo 14.º — (Direito a participação sem voto na assembleia)\n\n1. Têm direito a participar na assembleia de freguesia, sem voto, representantes de organizações populares de base territorial, constituídas na área da freguesia, nos termos da Constituição, e devidamente credenciados para esse acto pelas respectivas organizações populares.\n\n2. Nas sessões extraordinárias, convocadas nos termos da alínea c) do n.º 1 do artigo anterior, terão direito a participar, igualmente sem voto, dois representantes dos requerentes.\n\n> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1977-281257), publicado em 1977-11-28."
+   "markdown": "###### Artigo 14.º — (Direito a participação sem voto na assembleia)\n\n(Revogado.)\n\n> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1977-281257), publicado em 1977-11-28."
   },
-  "3409f4ff014f245c": {
+  "359515e8e4d84c3f": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 15.º — (Duração das sessões)",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 15.º — (Duração das sessões)\n\n1. Sem prejuízo do disposto no número seguinte, as reuniões das sessões ordinárias não podem exceder o período de cinco dias e as das sessões extraordinárias o período de um dia.\n\n2. As sessões ordinárias poderão ser prolongadas por um máximo de três dias e as sessões extraordinárias poderão ser prolongadas por um máximo de dois dias, mediante deliberação da assembleia."
+   "markdown": "###### Artigo 15.º — (Duração das sessões)\n\n(Revogado.)"
   },
-  "7964f5ddfcf945a9": {
+  "f1ad0d040c19ff6b": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 16.º — (Exercício do cargo)",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 16.º — (Exercício do cargo)\n\n1. As funções de membro da assembleia de freguesia são gratuitas.\n\n2. Os membros da assembleia são dispensados da comparência ao emprego ou serviço se as sessões se realizarem em horários incompatíveis com o daqueles."
+   "markdown": "###### Artigo 16.º — (Exercício do cargo)\n\n(Revogado.)"
   },
-  "ae69d9f55f0c161d": {
+  "07d0d3c2f5f83b57": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 17.º — (Competência)",
@@ -1545,161 +1668,161 @@
    "changed_by": [
     "Alterado pelo/a [Lei n.º 1/79](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), publicado em 1979-01-02."
    ],
-   "markdown": "###### Artigo 17.º — (Competência)\n\n1. Compete à assembleia de freguesia:\n\na) Eleger, por voto secreto, os vogais da junta de freguesia;\n\nb) Elaborar o regimento;\n\nc) Eleger, por voto secreto, o presidente e os secretários da mesa;\n\nd) Acompanhar e fiscalizar a actividade da junta de freguesia, sem prejudicar o exercício normal da sua competência;\n\ne) Solicitar e receber, através da mesa, informações sobre assuntos de interesse para a autarquia e sobre a execução de deliberações anteriores, o que poderá ser requerido por qualquer membro e em qualquer momento;\n\nf) Deliberar sobre a constituição de delegações, comissões ou grupos de trabalho, de entre os seus membros eleitos, para estudo dos problemas relacionados com o bem-estar da população da freguesia, no âmbito das suas atribuições e sem interferência na actividade normal da junta;\n\ng) Aprovar anualmente o plano de actividades e os orçamentos propostos pela junta de freguesia, bem como as contas e o relatório;\n\nh) Estabelecer as normas gerais de administração do património da freguesia ou sob sua jurisdição;\n\ni) Deliberar sobre a administração das águas públicas sob jurisdição da freguesia;\n\nj) Estabelecer taxas, sob proposta da junta;\n\nl) Deliberar, sob proposta da junta, quanto à criação de derramas destinadas à obtenção de fundos para a execução de melhoramentos urgentes;\n\nm) Conceder autorização à junta para aquisição, oneração ou alienação dos bens imóveis da freguesia, fixando as respectivas condições gerais;\n\nn) Aceitar doações e legados, e heranças a benefício de inventário;\n\no) Demarcar as áreas de actuação das organizações populares de base territorial, por sua iniciativa ou a requerimento das mesmas, e solucionar os eventuais conflitos daí resultantes;\n\np) Deliberar, sob proposta da junta, em matéria de criação, dotação e extinção de serviços ou instituições que prossigam na freguesia fins de interesse público, com obediência à lei geral;\n\nq) Aprovar posturas e regulamentos sob proposta da junta;\n\nr) Estabelecer, sob proposta da junta, os quadros de pessoal dos diferentes serviços da freguesia e fixar o respectivo regime jurídico e remunerações, nos termos do estatuto legalmente definido para a função pública e dentro do princípio da uniformidade interprofissional e inter-regional;\n\ns) Ratificar a aceitação por parte da junta da prática de actos da competência da câmara municipal;\n\nt) Pronunciar-se e deliberar sobre todos os assuntos de interesse para a autarquia, por sua iniciativa ou por solicitação da junta;\n\nu) Exercer os demais poderes conferidos por lei ou pelo regimento.\n\n2. As deliberações da assembleia de freguesia no uso da competência prevista nas alíneas j), l) e q) do número anterior devem ser aprovadas pela maioria absoluta dos membros em efectividade de funções.\n\n3 - (Revogado.)\n\n> Alterado pelo/a [Lei n.º 1/79](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), publicado em 1979-01-02."
+   "markdown": "###### Artigo 17.º — (Competência)\n\n(Revogado.)\n\n> Alterado pelo/a [Lei n.º 1/79](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), publicado em 1979-01-02."
   },
-  "683883bdd3f74a21": {
+  "505cb741491a40d5": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 18.º — (Criação de derramas)",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 18.º — (Criação de derramas)\n\nAs derramas a que alude a alínea l) do artigo 17.º só podem ser criadas depois de aprovados os planos de obras e melhoramentos que as mesmas visam financiar."
+   "markdown": "###### Artigo 18.º — (Criação de derramas)\n\n(Revogado.)"
   },
-  "bea5f9402daab373": {
+  "73d180da4b1efa4b": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 19.º — (Delegação de tarefas em organizações populares de base)",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 19.º — (Delegação de tarefas em organizações populares de base)\n\nA assembleia de freguesia pode delegar nas organizações populares de base territorial tarefas administrativas que não envolvam o exercício de poderes de autoridade."
+   "markdown": "###### Artigo 19.º — (Delegação de tarefas em organizações populares de base)\n\n(Revogado.)"
   },
-  "e225400bfe489d5f": {
+  "1443f1d3e12bd718": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 20.º — (Competência do presidente da assembleia)",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 20.º — (Competência do presidente da assembleia)\n\nCompete ao presidente da assembleia de freguesia:\n\na) Convocar as sessões ordinárias e extraordinárias;\n\nb) Dirigir os trabalhos e manter a disciplina das reuniões;\n\nc) Exercer os demais poderes que lhe sejam atribuídos por lei, pelo regimento ou pela assembleia."
+   "markdown": "###### Artigo 20.º — (Competência do presidente da assembleia)\n\n(Revogado.)"
   },
-  "4e926bb7756abf59": {
+  "e88a443a33045237": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 21.º — (Competência dos secretários)",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 21.º — (Competência dos secretários)\n\nCompete aos secretários lavrar e subscrever as actas das reuniões, que serão também assinadas pelo presidente, e assegurar o expediente."
+   "markdown": "###### Artigo 21.º — (Competência dos secretários)\n\n(Revogado.)"
   },
-  "87ede9dd2adebdfb": {
+  "c44ab051dcf37d15": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 22.º — (Composição do plenário)",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 22.º — (Composição do plenário)\n\nNas freguesias com 200 eleitores ou menos, a assembleia de freguesia será substituída pelo plenário dos cidadãos eleitores."
+   "markdown": "###### Artigo 22.º — (Composição do plenário)\n\n(Revogado.)"
   },
-  "3cf13def07367688": {
+  "d7426e25bd1fe8ef": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 23.º — (Competência)",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 23.º — (Competência)\n\nAo plenário dos cidadãos compete exercer as competências que nas demais freguesias cabem à assembleia."
+   "markdown": "###### Artigo 23.º — (Competência)\n\n(Revogado.)"
   },
-  "171772c37fce4ea2": {
+  "4448c7d32bc45b0d": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 24.º — (Presidência)",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 24.º — (Presidência)\n\nO plenário terá um presidente e dois secretários, eleitos por escrutínio secreto, a quem cabe exercer, pelo período de um ano, renovável, as funções que, nas demais assembleias, cabem ao presidente da mesa."
+   "markdown": "###### Artigo 24.º — (Presidência)\n\n(Revogado.)"
   },
-  "204c927591710c44": {
+  "c6753027498daa94": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 25.º — (Quórum)",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 25.º — (Quórum)\n\nO plenário não poderá deliberar sem que estejam presentes, pelo menos, 20% dos cidadãos eleitores."
+   "markdown": "###### Artigo 25.º — (Quórum)\n\n(Revogado.)"
   },
-  "355583437b46b3ac": {
+  "267d5d8f2e2c8600": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 26.º — (Omissões)",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 26.º — (Omissões)\n\nEm tudo o mais, reger-se-ão os plenários, com as necessárias adaptações, pelas regras estabelecidas para a assembleia de freguesia e por quaisquer outras que venham a ser fixadas por lei."
+   "markdown": "###### Artigo 26.º — (Omissões)\n\n(Revogado.)"
   },
-  "08b6a35cd084780c": {
+  "f783d073f553d112": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 27.º — (Constituição)",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 27.º — (Constituição)\n\nA junta de freguesia, constituída por um presidente e por vogais, é o órgão executivo da freguesia."
+   "markdown": "###### Artigo 27.º — (Constituição)\n\n(Revogado.)"
   },
-  "4a6a7eb54b957500": {
+  "113a0f7042145eca": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 28.º — (Substituições)",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 28.º — (Substituições)\n\nOs lugares deixados em aberto na assembleia de freguesia, em consequência da saída dos membros que vão constituir a junta, serão preenchidos, enquanto durar a incompatibilidade, pelos candidatos imediatamente a seguir na ordem das respectivas listas."
+   "markdown": "###### Artigo 28.º — (Substituições)\n\n(Revogado.)"
   },
-  "e1829cb0b5e17a38": {
+  "557248c7ee7e4739": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 29.º — (Composição)",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 29.º — (Composição)\n\n1. Nas freguesias com mais de 200 eleitores, o presidente da junta será o cidadão que encabeçar a lista mais votada na eleição para a assembleia de freguesia; nas restantes, será o cidadão eleito pelo plenário.\n\n2. Nas juntas de freguesia com menos de 5000 eleitores haverá dois vogais, que exercerão as funções, respectivamente, de secretário e de tesoureiro.\n\n3. Para além dos dois vogais que exercem as funções definidas no número anterior, haverá ainda:\n\na) 2 vogais, nas freguesias com 5000 eleitores ou mais;\n\nb) 4 vogais, nas freguesias com 20000 eleitores ou mais."
+   "markdown": "###### Artigo 29.º — (Composição)\n\n(Revogado.)"
   },
-  "00ecf6c5e7e6d954": {
+  "ff8241bf81fa865e": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 30.º — (Periodicidade das reuniões)",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 30.º — (Periodicidade das reuniões)\n\nA junta de freguesia reúne ordinariamente uma vez por mês e extraordinariamente sempre que necessário."
+   "markdown": "###### Artigo 30.º — (Periodicidade das reuniões)\n\n(Revogado.)"
   },
-  "ab070f11a9e4aeda": {
+  "9db2983dc242c7b5": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 31.º — (Convocatória das reuniões)",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 31.º — (Convocatória das reuniões)\n\n1. Compete ao presidente da junta convocar as reuniões ordinárias e extraordinárias.\n\n2. As reuniões extraordinárias podem ser convocadas por iniciativa do presidente ou a requerimento da maioria dos seus membros, não podendo, neste caso, ser recusada a convocatória pelo presidente.\n\n3. As reuniões extraordinárias serão convocadas com, pelo menos, dois dias de antecedência, por meio de edital e comunicação escrita aos membros da junta, com aviso de recepção ou através de protocolo."
+   "markdown": "###### Artigo 31.º — (Convocatória das reuniões)\n\n(Revogado.)"
   },
-  "3b1ba6c1defa20cc": {
+  "a59f2655059c74fc": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 32.º — (Falta de quórum)",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 32.º — (Falta de quórum)\n\nQuando a junta não puder reunir, por falta de quórum, o presidente designará outro dia para nova reunião, convocando-a nos termos previstos no n.º 3 do artigo anterior."
+   "markdown": "###### Artigo 32.º — (Falta de quórum)\n\n(Revogado.)"
   },
-  "44254231fdb938a4": {
+  "864553eb68c49db7": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 33.º — (Competência)",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 33.º — (Competência)\n\nCompete à junta de freguesia:\n\na) Executar os planos de actividade, os orçamentos e todas as deliberações da assembleia de freguesia ou do plenário, bem como fiscalizar o seu acatamento;\n\nb) Propor o plano de actividade e os orçamentos a submeter à aprovação da assembleia de freguesia ou do plenário;\n\nc) Administrar os serviços da freguesia, informando a assembleia ou o plenário do seu funcionamento e das irregularidades que se verifiquem;\n\nd) Elaborar, anualmente, o relatório de gerência e contas a submeter à aprovação da assembleia de freguesia ou do plenário;\n\ne) Instaurar pleitos e defender-se neles, podendo confessar, desistir ou transigir, se não houver ofensa de direitos de terceiros;\n\nf) Atestar a residência, vida e situação económica dos cidadãos da freguesia;\n\ng) Superintender na gestão e direcção do pessoal ao serviço da freguesia e, nomeadamente, recrutar aquele que for julgado necessário pela assembleia;\n\nh) Prover à administração corrente do património da freguesia e à sua conservação;\n\ni) Conceder terrenos nos cemitérios sob a administração da freguesia para os jazigos e sepulturas perpétuas;\n\nj) Declarar prescritos a favor da freguesia, após publicação de avisos, os jazigos, mausoléus ou outras obras instaladas nos cemitérios sob a administração da freguesia, quando não sejam conhecidos os seus proprietários ou relativamente aos quais se mostre, de forma inequívoca, desinteresse na sua conservação e manutenção;\n\nl) Executar, por administração directa ou empreitada, as obras que constem do plano de actividades aprovado pela assembleia de freguesia ou pelo plenário;\n\nm) Proceder à justificação das faltas dos seus membros;\n\nn) Prestar a outras entidades públicas a colaboração que lhe for solicitada, nomeadamente em matéria de estatística, fomento, saúde, acção social, cultura e bem-estar das populações;\n\no) Elaborar normas genéricas destinadas a fazer cumprir, na área da freguesia, as posturas e regulamentos municipais e a disciplina dos serviços da freguesia;\n\np) Lavrar termos de identidade, idoneidade e justificação administrativa e passar atestados de comportamento moral e civil;\n\nq) Executar as operações de recenseamento eleitoral que lhe forem deferidas por lei;\n\nr) Fazer propostas à assembleia da freguesia sobre as matérias constantes das alíneas j), l), p), q) e r) do artigo 17.º;\n\ns) Exercer os demais poderes que lhe sejam conferidos por lei ou por deliberação da assembleia."
+   "markdown": "###### Artigo 33.º — (Competência)\n\n(Revogado.)"
   },
-  "d0d6ccbe75b8df9f": {
+  "0cc013197ea59ecb": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 34.º — (Competência do presidente)",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 34.º — (Competência do presidente)\n\n1. Compete ao presidente da junta de freguesia:\n\na) Representar a freguesia em juízo e fora dele e perante os órgãos municipais e outras entidades públicas;\n\nb) Convocar as reuniões ordinárias e extraordinárias, dirigir os seus trabalhos e manter a disciplina interna;\n\nc) Representar a junta na assembleia de freguesia ou no plenário;\n\nd) Executar as deliberações da junta e coordenar a respectiva actividade;\n\ne) Dar cumprimento às deliberações da assembleia de freguesia ou do plenário, sempre que para a sua execução seja necessária a intervenção da junta;\n\nf) Submeter as contas à aprovação da assembleia de freguesia ou do plenário, e, de seguida, remetê-las ao Tribunal de Contas, por intermédio da câmara municipal respectiva;\n\ng) Assinar, em nome da junta de freguesia, toda a correspondência, bem como os atestados e certidões da competência daquela;\n\nh) Exercer os demais poderes conferidos por lei ou por deliberação da junta de freguesia.\n\n2. O presidente da junta de freguesia é substituído, nas suas faltas e impedimentos, pelo secretário, este, pelo tesoureiro, e este, por um dos vogais, quando os houver."
+   "markdown": "###### Artigo 34.º — (Competência do presidente)\n\n(Revogado.)"
   },
-  "3948f8f584897331": {
+  "d5f88fe9afc58b1e": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 35.º — (Competência dos vogais)",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 35.º — (Competência dos vogais)\n\n1. Ao secretário compete lavrar as actas das reuniões e exercer as demais funções que lhe forem confiadas pela junta de freguesia, designadamente a passagem de certidões, atestados e o despacho do expediente.\n\n2. Ao tesoureiro compete proceder à escrituração dos livros de receita e despesa e visar os respectivos documentos de cobrança de receitas e de realização de despesas, que serão assinados pelo presidente."
+   "markdown": "###### Artigo 35.º — (Competência dos vogais)\n\n(Revogado.)"
   },
-  "0aff13971a7ae27c": {
+  "ec0c3794e896aaa7": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 36.º — (Sede e serviços)",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 36.º — (Sede e serviços)\n\nAo Governo incumbe providenciar no sentido de dotar as freguesias de instalações próprias para funcionamento da sua sede e respectivos serviços, sem prejuízo das diligências que as freguesias e os municípios possam fazer nesse sentido."
+   "markdown": "###### Artigo 36.º — (Sede e serviços)\n\n(Revogado.)"
   },
-  "e5c13f044ec70997": {
+  "d96023516954eac8": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 37.º — (Exercício do cargo)",
@@ -1707,57 +1830,57 @@
    "changed_by": [
     "Alterado pelo/a [Lei n.º 9/81](https://diariodarepublica.pt/dr/detalhe/lei/9-1981-578374), publicado em 1981-06-26."
    ],
-   "markdown": "###### Artigo 37.º — (Exercício do cargo)\n\n1. As funções de presidente e vogal das juntas de freguesia são gratuitas.\n\n2 - (Revogado.)\n\n3. A assembleia de freguesia poderá igualmente deliberar sobre a concessão de ajudas de custo e subsídios de transporte aos membros da junta que tenham de se deslocar no exercício das suas funções.\n\n> Alterado pelo/a [Lei n.º 9/81](https://diariodarepublica.pt/dr/detalhe/lei/9-1981-578374), publicado em 1981-06-26."
+   "markdown": "###### Artigo 37.º — (Exercício do cargo)\n\n(Revogado.)\n\n> Alterado pelo/a [Lei n.º 9/81](https://diariodarepublica.pt/dr/detalhe/lei/9-1981-578374), publicado em 1981-06-26."
   },
-  "b64cb42ff17ff8d9": {
+  "b92a746ffc566c5e": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 38.º — (Definição e fins)",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 38.º — (Definição e fins)\n\nO município é a pessoa colectiva territorial, dotada de órgãos representativos, que visa a prossecução de interesses próprios da população na respectiva circunscrição."
+   "markdown": "###### Artigo 38.º — (Definição e fins)\n\n(Revogado.)"
   },
-  "0f2ee64637752920": {
+  "6f20af781dd0835b": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 39.º — (Órgãos)",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 39.º — (Órgãos)\n\nSão órgãos do município a assembleia municipal, a câmara municipal e o conselho municipal."
+   "markdown": "###### Artigo 39.º — (Órgãos)\n\n(Revogado.)"
   },
-  "c2751a3224d047d0": {
+  "543220178303a807": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 40.º — (Constituição e composição)",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 40.º — (Constituição e composição)\n\n1. A assembleia municipal é constituída pelos presidentes das juntas de freguesia e por membros eleitos pelo colégio eleitoral do município, em número igual ao daqueles mais um.\n\n2. O número de membros eleitos directamente não poderá, em qualquer caso, ser inferior ao quíntuplo do número de membros da respectiva câmara municipal."
+   "markdown": "###### Artigo 40.º — (Constituição e composição)\n\n(Revogado.)"
   },
-  "977de4e8c23505cd": {
+  "2307ee14f566fee9": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 41.º — (Instalação)",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 41.º — (Instalação)\n\n1. O presidente da assembleia municipal cessante procederá à instalação da nova assembleia, no prazo máximo de dez dias, a contar da resolução definitiva do apuramento dos resultados eleitorais.\n\n2. No acto da instalação verificar-se-á a regularidade formal do processo e a identidade dos eleitos, lavrando-se acta avulsa da ocorrência, que será redigida pelo chefe da secretaria da câmara municipal e assinada pelo presidente da assembleia municipal cessante e pelos eleitos.\n\n3. Compete ao cidadão que encabeça a lista mais votada convocar e presidir à primeira reunião de funcionamento da assembleia que se efectuará no prazo máximo de dez dias subsequentes ao acto da instalação, para efeitos de verificação de poderes dos candidatos proclamados eleitos e eleição da mesa da assembleia, dando-se início imediato à discussão do regimento.\n\n4. Terminada a votação para a mesa e verificando-se empate, será declarado presidente o cidadão a que se refere o número anterior."
+   "markdown": "###### Artigo 41.º — (Instalação)\n\n(Revogado.)"
   },
-  "464281909699c753": {
+  "fe018a34b294ea98": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 42.º — (Mesa)",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 42.º — (Mesa)\n\n1. A mesa, composta de um presidente e dois secretários, será eleita pela assembleia, de entre os seus membros, por escrutínio secreto.\n\n2. A mesa será eleita por um período de três anos, podendo os seus membros ser destituídos pela assembleia, em qualquer altura, por deliberação da maioria absoluta em efectividade de funções.\n\n3. O presidente será substituído, nas suas faltas e impedimentos, pelo 1.º secretário, e este, pelo 2.º secretário.\n\n4. Compete à mesa, com recurso do interessado para a assembleia, proceder à marcação de faltas e declarar a perda do mandato em resultado das mesmas."
+   "markdown": "###### Artigo 42.º — (Mesa)\n\n(Revogado.)"
   },
-  "5b6a0759a1be6fec": {
+  "e058f289494d13c9": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 43.º — (Alteração da composição da assembleia)",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 43.º — (Alteração da composição da assembleia)\n\n1. Quando algum dos membros deixar de fazer parte da assembleia, por morte, renúncia, perda do mandato ou por outra razão, será substituído pelo cidadão imediatamente a seguir na ordem da respectiva lista, ou pelo novo titular do cargo com direito de representação, conforme os casos.\n\n2. Esgotada a possibilidade de substituição prevista no número anterior, e desde que não esteja em efectividade de funções a maioria legal dos membros da assembleia, o presidente comunicará o facto ao presidente da assembleia distrital para que este marque, no prazo máximo de trinta dias, novas eleições.\n\n3. A nova assembleia completará o mandato da anterior"
+   "markdown": "###### Artigo 43.º — (Alteração da composição da assembleia)\n\n(Revogado.)"
   },
-  "1f05941741e9e387": {
+  "f1be8ca1845da32c": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 44.º — (Sessões ordinárias)",
@@ -1765,33 +1888,33 @@
    "changed_by": [
     "Alterado pelo/a [Lei n.º 1/79](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), publicado em 1979-01-02."
    ],
-   "markdown": "###### Artigo 44.º — (Sessões ordinárias)\n\n1. A assembleia municipal terá, anualmente, cinco sessões ordinárias, em Fevereiro, Abril, Junho, Setembro e Novembro.\n\n2 - A quinta sessão das assembleias municipais destina-se à aprovação do relatório e contas do ano anterior e à aprovação do programa de actividades e orçamento para o ano seguinte.\n\n> Alterado pelo/a [Lei n.º 1/79](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), publicado em 1979-01-02."
+   "markdown": "###### Artigo 44.º — (Sessões ordinárias)\n\n(Revogado.)\n\n> Alterado pelo/a [Lei n.º 1/79](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), publicado em 1979-01-02."
   },
-  "73e24ceb18c5cc92": {
+  "fae9ff79ae52f052": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 45.º — (Sessões extraordinárias)",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 45.º — (Sessões extraordinárias)\n\n1. A assembleia municipal pode reunir-se em sessões extraordinárias por iniciativa do presidente ou quando requeridas:\n\na) Pela câmara municipal;\n\nb) Por um terço dos seus membros;\n\nc) Por um vigésimo do número de cidadãos inscritos nos cadernos eleitorais da área do município.\n\n2. O presidente da assembleia terá de convocar a sessão no prazo de dez dias após a recepção do requerimento previsto no número anterior."
+   "markdown": "###### Artigo 45.º — (Sessões extraordinárias)\n\n(Revogado.)"
   },
-  "11d64a349e900675": {
+  "16538d92d5b4cdcb": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 46.º — (Duração das sessões)",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 46.º — (Duração das sessões)\n\n1. Sem prejuízo do disposto no número seguinte, as reuniões das sessões ordinárias não podem exceder o período de cinco dias e as das sessões extraordinárias o período de três dias.\n\n2. As sessões ordinárias e extraordinárias poderão ser prolongadas por novo período de, respectivamente, cinco e três dias, mediante deliberação da assembleia."
+   "markdown": "###### Artigo 46.º — (Duração das sessões)\n\n(Revogado.)"
   },
-  "56d43d0c21131e88": {
+  "22a9d8a23b465077": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 47.º — (Exercício do cargo)",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 47.º — (Exercício do cargo)\n\n1. As funções de membro da assembleia municipal são gratuitas.\n\n2. Os membros da assembleia são dispensados da comparência ao emprego ou serviço se as sessões se realizarem em horários incompatíveis com o daqueles."
+   "markdown": "###### Artigo 47.º — (Exercício do cargo)\n\n(Revogado.)"
   },
-  "1094009f66c71fdf": {
+  "6c6dab2e79122c30": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 48.º — (Competência)",
@@ -1799,9 +1922,9 @@
    "changed_by": [
     "Alterado pelo/a [Lei n.º 1/79](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), publicado em 1979-01-02."
    ],
-   "markdown": "###### Artigo 48.º — (Competência)\n\n1. Compete à assembleia municipal:\n\na) Eleger, por voto secreto, o presidente e os dois secretários;\n\nb) Elaborar o regimento;\n\nc) Acompanhar e fiscalizar a actividade da câmara municipal e dos serviços municipalizados e apreciar, em cada uma das sessões ordinárias, uma informação do presidente da câmara acerca da actividade municipal;\n\nd) Aprovar, sob proposta da câmara, posturas e regulamentos;\n\ne) Aprovar o plano anual de actividades e o orçamento, bem como as revisões a um e a outro, propostas pela câmara municipal.\n\nf) Aprovar anualmente o relatório, o balanço e as contas apresentados pela câmara;\n\ng) Estabelecer, sob proposta da câmara municipal, os quadros do pessoal dos diferentes serviços do município e fixar o respectivo regime jurídico e remunerações, nos termos do estatuto legalmente definido para a função pública e dentro do princípio da uniformidade interprofissional e inter-regional;\n\nh) Tomar posição perante os órgãos do Poder Central sobre assuntos de interesse para a autarquia;\n\ni) Deliberar sobre o plano director do município e, se necessário, ordenar a sua elaboração;\n\nj) Aprovar empréstimos nos termos do artigo seguinte;\n\nl) Autorizar a aquisição, oneração e alienação pela câmara de bens imóveis cujo valor for superior a 500 contos, exceptuando cessões para alinhamento, e de bens e valores artísticos do município, independentemente do seu valor;\n\nm) Municipalizar serviços;\n\nn) Autorizar a câmara a outorgar exclusivos e a exploração de obras e serviços em regime de concessão;\n\no) Autorizar o município a integrar-se em federações de municípios, a associar-se com entidades públicas, a participar em empresas regionais, ou a formar empresas municipais;\n\np) Fixar anualmente, sob proposta da câmara e nos termos da lei, os impostos e as taxas municipais;\n\nq) Solicitar e receber, através da mesa, informações sobre assuntos de interesse para a autarquia e sobre a execução de deliberações anteriores, o que poderá ser requerido por qualquer membro e em qualquer momento;\n\nr) Pronunciar-se e deliberar sobre todos os assuntos que visem a prossecução de interesses próprios da autarquia;\n\ns) Deliberar sobre a constituição de delegações, comissões ou grupos de trabalho, de entre os seus membros, para estudo dos problemas relacionados com os interesses próprios da autarquia, no âmbito das suas atribuições e sem interferência na actividade normal da câmara;\n\nt) Determinar, sob proposta da câmara, o número de vereadores em regime de permanência e o número de membros dos conselhos de administração dos serviços municipalizados;\n\nu) Autorizar, quando se presuma que disso resultará benefício para o interesse comum, a prática, por parte das juntas de freguesia, de actos da competência da câmara municipal;\n\nv) Deliberar, sob proposta da câmara, quanto à criação de derramas destinadas à obtenção de fundos para a execução de melhoramentos urgentes;\n\nx) Exercer os demais poderes conferidos por lei ou que sejam mera consequência das atribuições do município.\n\n2. As deliberações da assembleia municipal, no uso da competência prevista nas alíneas d), p) e v) do número anterior, devem ser aprovadas pela maioria absoluta dos membros em efectividade de funções.\n\n> Alterado pelo/a [Lei n.º 1/79](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), publicado em 1979-01-02."
+   "markdown": "###### Artigo 48.º — (Competência)\n\n(Revogado.)\n\n> Alterado pelo/a [Lei n.º 1/79](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), publicado em 1979-01-02."
   },
-  "cef3f0b0a2d3384f": {
+  "3a6d2f97d3ca0c79": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 49.º — (Empréstimos)",
@@ -1809,49 +1932,49 @@
    "changed_by": [
     "Alterado pelo/a [Lei n.º 1/79](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), publicado em 1979-01-02."
    ],
-   "markdown": "###### Artigo 49.º — (Empréstimos)\n\nA contratação e aplicação de empréstimos obedecerá às seguintes condições:\n\na) Nenhum empréstimo poderá ser contraído sem prévia aprovação dos projectos, orçamentos e planos de financiamento da obra ou serviço a que se destina;\n\nb) (Revogada.)\n\nc) Para pagamento de juros e amortizações, as respectivas verbas serão discriminadas em nota anexa ao orçamento;\n\nd) O produto dos empréstimos não poderá ter aplicação diferente daquela para que forem contraídos.\n\n> Alterado pelo/a [Lei n.º 1/79](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), publicado em 1979-01-02."
+   "markdown": "###### Artigo 49.º — (Empréstimos)\n\n(Revogado.)\n\n> Alterado pelo/a [Lei n.º 1/79](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), publicado em 1979-01-02."
   },
-  "579ff451327e4ae2": {
+  "773d4b0abe15cbae": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 50.º — (Concessões)",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 50.º — (Concessões)\n\nA concessão de exclusivos e de obras e serviços públicos não poderá ser feita por prazo superior a vinte anos, devendo sempre salvaguardar-se o direito de fiscalização da assembleia e da câmara municipal."
+   "markdown": "###### Artigo 50.º — (Concessões)\n\n(Revogado.)"
   },
-  "4eaaa59d2d1d8c88": {
+  "938fed6c16ce5330": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 51.º — (Pareceres)",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 51.º — (Pareceres)\n\nAs deliberações referentes às matérias constantes das alíneas e), f), i) e j) do artigo 48.º deverão ser precedidas de parecer do conselho municipal, que deverá acompanhar a respectiva proposta."
+   "markdown": "###### Artigo 51.º — (Pareceres)\n\n(Revogado.)"
   },
-  "c24e15c9253e628a": {
+  "3e00816f6cb35add": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 52.º — (Competência do presidente da assembleia)",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 52.º — (Competência do presidente da assembleia)\n\nCompete ao presidente da assembleia municipal:\n\na) Convocar as sessões ordinárias e extraordinárias;\n\nb) Dirigir os trabalhos e manter a disciplina das reuniões;\n\nc) Exercer os demais poderes que lhe sejam atribuídos por lei, pelo regimento ou pela assembleia."
+   "markdown": "###### Artigo 52.º — (Competência do presidente da assembleia)\n\n(Revogado.)"
   },
-  "29306d0f01f396a5": {
+  "d9f8b739ac7b492b": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 53.º — (Constituição)",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 53.º — (Constituição)\n\n1. A câmara municipal, constituída por um presidente e por vereadores, é o órgão executivo colegial do município eleito pelos cidadãos eleitores residentes na sua área.\n\n2. A eleição da câmara municipal é simultânea com a da assembleia municipal, salvo no caso de eleição suplementar."
+   "markdown": "###### Artigo 53.º — (Constituição)\n\n(Revogado.)"
   },
-  "eeffea4a720a0574": {
+  "55a6debe1af7f2bc": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 54.º — (Composição)",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 54.º — (Composição)\n\n1. Será presidente da câmara municipal o primeiro candidato da lista mais votada ou, no caso de vacatura do cargo, o que se lhe seguir na ordem da respectiva lista.\n\n2. O número de vereadores é de 16 em Lisboa, 12 no Porto, 10 nos municípios com mais de 100000 eleitores, 8 nos municípios de 50000 e até 100000 eleitores, 6 nos municípios com mais de 10000 e até 50000 eleitores e 4 nos municípios com 10000 ou menos eleitores.\n\n3. O presidente é substituído, nas suas faltas e impedimentos, por um dos vereadores por ele designado."
+   "markdown": "###### Artigo 54.º — (Composição)\n\n(Revogado.)"
   },
-  "39e670cfaaeeb1d8": {
+  "5466ac2bb3bace64": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 55.º — (Vereadores em regime de permanência)",
@@ -1859,9 +1982,9 @@
    "changed_by": [
     "Alterado pelo/a [Lei n.º 9/81](https://diariodarepublica.pt/dr/detalhe/lei/9-1981-578374), publicado em 1981-06-26."
    ],
-   "markdown": "###### Artigo 55.º — (Vereadores em regime de permanência)\n\n1. O número de vereadores em regime de permanência, poderá atingir os seguintes limites:\n\na) Até 4, em Lisboa e Porto;\n\nb) Até 3, nos municípios urbanos de 1.ª classe;\n\nc) Até 2, nos restantes municípios de 1.ª e 2.ª classes.\n\nd) 1 nos municípios de 3.ª classe.\n\n2. A assembleia municipal fixará o número de vereadores em regime de permanência, dentro dos limites máximos indicados no número anterior.\n\n3. Ao presidente da câmara cabe escolher os vereadores em regime de permanência, fixar a repartição das suas funções e bem assim a respectiva competência.\n\n> Alterado pelo/a [Lei n.º 9/81](https://diariodarepublica.pt/dr/detalhe/lei/9-1981-578374), publicado em 1981-06-26."
+   "markdown": "###### Artigo 55.º — (Vereadores em regime de permanência)\n\n(Revogado.)\n\n> Alterado pelo/a [Lei n.º 9/81](https://diariodarepublica.pt/dr/detalhe/lei/9-1981-578374), publicado em 1981-06-26."
   },
-  "9ab6ff6c5ce2b617": {
+  "b1d64f5b43429297": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 56.º — (Alteração da composição da câmara)",
@@ -1869,207 +1992,207 @@
    "changed_by": [
     "Alterado pelo/a [Lei n.º 24/78](https://diariodarepublica.pt/dr/detalhe/lei/24-1978-294734), publicado em 1978-06-05."
    ],
-   "markdown": "###### Artigo 56.º — (Alteração da composição da câmara)\n\n1 - Nos casos de morte, renúncia, suspensão ou perda de mandato de algum membro efectivo, será chamado a fazer parte da câmara municipal o cidadão imediatamente a seguir na ordem da respectiva lista.\n\n2 - Esgotada a possibilidade de substituição prevista no número anterior e não se encontrando em efectividade de funções a maioria legal dos membros da câmara municipal, o presidente comunicará o facto à assembleia municipal, ou, se não estiver em efectividade de funções a maioria legal dos seus membros, à assembleia distrital, para que, no prazo máximo de trinta dias, marque novas eleições.\n\n3 - As eleições realizar-se-ão no prazo de setenta a oitenta dias, a contar da data fixada nos termos do número anterior.\n\n4 - A nova câmara municipal completará o mandato da anterior.\n\n5 - Para assegurar o funcionamento da câmara municipal, quanto aos assuntos correntes, durante o período transitório, a assembleia municipal designará uma comissão administrativa de três ou cinco membros, da qual farão parte, se possível, os elementos da câmara que ainda se encontravam em exercício aquando da marcação de nova eleição.\n\n> Alterado pelo/a [Lei n.º 24/78](https://diariodarepublica.pt/dr/detalhe/lei/24-1978-294734), publicado em 1978-06-05."
+   "markdown": "###### Artigo 56.º — (Alteração da composição da câmara)\n\n(Revogado.)\n\n> Alterado pelo/a [Lei n.º 24/78](https://diariodarepublica.pt/dr/detalhe/lei/24-1978-294734), publicado em 1978-06-05."
   },
-  "0819a7df0aba62c3": {
+  "997db89851732c24": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 57.º — (Instalação)",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 57.º — (Instalação)\n\nA instalação da câmara municipal far-se-á nos termos do artigo 41.º deste diploma."
+   "markdown": "###### Artigo 57.º — (Instalação)\n\n(Revogado.)"
   },
-  "4bbb23a5e152ebc7": {
+  "f232a48f799119f1": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 58.º — (Periodicidade das reuniões ordinárias)",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 58.º — (Periodicidade das reuniões ordinárias)\n\n1. A câmara municipal terá uma reunião ordinária semanal, salvo se reconhecer a conveniência de que se efectue quinzenalmente.\n\n2. A câmara poderá estabelecer dia e hora certos para as reuniões ordinárias, devendo neste caso publicar editais, que dispensarão outras formas de convocação."
+   "markdown": "###### Artigo 58.º — (Periodicidade das reuniões ordinárias)\n\n(Revogado.)"
   },
-  "99e9474bc75e725b": {
+  "cbe1bacf181ace18": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 59.º — (Convocação das reuniões)",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 59.º — (Convocação das reuniões)\n\n1. Compete ao presidente convocar e dirigir as reuniões.\n\n2. As reuniões extraordinárias podem ser convocadas por iniciativa do presidente ou a requerimento da maioria dos vereadores, não podendo, neste caso, ser recusada a convocatória.\n\n3. As reuniões extraordinárias serão convocadas com, pelo menos, dois dias de antecedência, por meio de edital e comunicação escrita aos vereadores, com aviso de recepção ou através de protocolo."
+   "markdown": "###### Artigo 59.º — (Convocação das reuniões)\n\n(Revogado.)"
   },
-  "0530489d541e9cae": {
+  "e0c09f930cff926f": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 60.º — (Falta de quórum)",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 60.º — (Falta de quórum)\n\nQuando a câmara municipal não puder reunir, por falta de quórum, o presidente designará outro dia para nova reunião, convocando-a nos termos previstos no n.º 3 do artigo anterior."
+   "markdown": "###### Artigo 60.º — (Falta de quórum)\n\n(Revogado.)"
   },
-  "49c59c59641a0f2d": {
+  "be59008485b5e690": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 61.º — (Compensação pelo exercício do cargo)",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 61.º — (Compensação pelo exercício do cargo)\n\nO presidente da câmara e os vereadores serão remunerados nos termos fixados na lei."
+   "markdown": "###### Artigo 61.º — (Compensação pelo exercício do cargo)\n\n(Revogado.)"
   },
-  "79e748e71f7e1ac0": {
+  "d78dee4f70d5ea95": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 62.º — (Competência)",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 62.º — (Competência)\n\n1. Compete à câmara municipal:\n\na) Executar e velar pelo cumprimento das deliberações da assembleia municipal;\n\nb) Superintender na gestão e direcção do pessoal ao serviço do município;\n\nc) Modificar ou revogar os actos praticados pelos funcionários municipais;\n\nd) Promover todas as acções tendentes à administração corrente do património municipal e à sua conservação;\n\ne) Preparar e manter actualizado o cadastro dos bens móveis e imóveis do município;\n\nf) Adquirir os bens móveis necessários ao funcionamento regular dos serviços e alienar os que se tornem dispensáveis;\n\ng) Aceitar doações e legados e heranças a benefício de inventário;\n\nh) Deliberar sobre a administração das águas públicas sob sua jurisdição;\n\ni) Conceder terrenos nos cemitérios municipais para jazigos e sepulturas perpétuas;\n\nj) Declarar prescritos a favor do município, após publicação de avisos, os jazigos, mausoléus, ou outras obras instaladas nos cemitérios municipais, quando não sejam conhecidos os seus proprietários ou relativamente aos quais se mostre, de forma inequívoca, desinteresse na sua conservação e manutenção;\n\nl) Proceder aos registos que sejam da competência do município.\n\n2. Constitui também competência da câmara municipal:\n\na) Elaborar e propor à aprovação da assembleia municipal o programa anual de actividades e o orçamento, bem como as alterações a um e a outro e proceder à sua execução;\n\nb) Executar, por administração directa ou empreitada, as obras que constem dos planos aprovados pela assembleia municipal;\n\nc) Propor à assembleia municipal a criação de derramas com o objectivo de obtenção de fundos para a obtenção de melhoramentos urgentes;\n\nd) Solicitar ao Governo a declaração de utilidade pública para efeitos de expropriação;\n\ne) Conceder licenças para construção, edificação ou conservação, bem como aprovar os respectivos projectos, nos termos da lei;\n\nf) Conceder licenças para habitação ou outra utilização de prédios construídos de novo ou que tenham sofrido grandes modificações, precedendo verificação, por comissões apropriadas, das condições de habitabilidade e de conformidade com o projecto aprovado;\n\ng) Embargar e ordenar a demolição de quaisquer obras, construções ou edificações iniciadas por particulares ou pessoas colectivas, sem licença ou com inobservância das condições desta, dos regulamentos, posturas municipais ou planos de urbanização aprovados;\n\nh) Ordenar, precedendo vistoria, a demolição, total ou parcial, ou a beneficiação de construções que ameacem ruína ou constituam perigo para a saúde e segurança das pessoas;\n\ni) Ordenar o despejo sumário dos prédios cuja expropriação por utilidade pública tenha sido decretada ou cuja demolição ou beneficiação tenha sido deliberada nos termos das alíneas g) ou h), só podendo porém fazê-lo, na hipótese da alínea h), quando na vistoria se verifique haver risco iminente ou irremediável de desmonoramento ou que as obras se não podem realizar sem grave prejuízo para os ocupantes dos prédios.\n\n3. Constitui ainda competência da câmara municipal:\n\na) Elaborar as normas necessárias ao bom funcionamento dos serviços municipais;\n\nb) Estabelecer os contratos necessários ao funcionamento dos serviços e à execução dos planos de obras aprovados pela assembleia municipal;\n\nc) Efectuar contratos de seguro;\n\nd) Nomear o conselho de administração dos serviços municipalizados.\n\ne) Conceder licenças policiais ou fiscais, de harmonia com o disposto nas leis, regulamentos e posturas;\n\nf) Passar alvarás de licença para estabelecimentos insalubres, incómodos, perigosos ou tóxicos, nos termos da lei;\n\ng) Deliberar sobre as formas de apoio às freguesias e a outras entidades e organismos que prossigam no município fins de interesse público e se encontrem devidamente legalizados;\n\nh) Instaurar pleitos e defender-se neles, podendo confessar desistir ou transigir, se não houver ofensa de direitos de terceiros;\n\ni) Justificar as faltas dos seus membros e exercer os demais poderes que lhe sejam conferidos por lei ou por deliberação da assembleia municipal."
+   "markdown": "###### Artigo 62.º — (Competência)\n\n(Revogado.)"
   },
-  "e4a60cea4acc20e2": {
+  "5e73c8bd0bb97f40": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 63.º — (Delegação de competência)",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 63.º — (Delegação de competência)\n\n1. Considera-se tacitamente delegada no presidente da câmara a competência prevista nas alíneas b), c), d) e i) do n.º 1, nas alíneas b), f), g) e i) do n.º 2 e nas alíneas a), b), c), e) e h) do n.º 3 do artigo anterior.\n\n2. As competências referidas no número anterior poderão ser subdelegadas em qualquer dos vereadores.\n\n3. Das decisões tomadas pelo presidente da câmara municipal, no uso da competência prevista no número anterior, cabe reclamação para o plenário daquele órgão, sem prejuízo do recurso contencioso.\n\n4. A reclamação a que se refere o número anterior pode ter por fundamento a ilegalidade, inoportunidade ou inconveniência da decisão e será apreciada na primeira reunião da câmara municipal, após a sua recepção.\n\n5. Das decisões que houver proferido ao abrigo do n.º 1, o presidente da câmara informará esta na reunião imediatamente a seguir.\n\n6. Salvo quanto às matérias previstas nas alíneas g) e j) do n.º 1 e nas alíneas a), d) e h) do n.º 2 do artigo anterior, poderá ainda a câmara delegar no presidente ou em qualquer dos vereadores a sua competência, sem prejuízo da observância do preceituado nos números anteriores."
+   "markdown": "###### Artigo 63.º — (Delegação de competência)\n\n(Revogado.)"
   },
-  "a1abec4aff4a8b93": {
+  "15060e59700497f9": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 64.º — (Competência de presidente da câmara municipal)",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 64.º — (Competência de presidente da câmara municipal)\n\nCompete ao presidente da câmara municipal:\n\na) Convocar as reuniões ordinárias e extraordinárias e dirigir os respectivos trabalhos;\n\nb) Executar as deliberações da câmara municipal e coordenar a respectiva actividade;\n\nc) Autorizar o pagamento das despesas orçamentadas, de harmonia com as deliberações da câmara municipal;\n\nd) Submeter as contas a julgamento do Tribunal de Contas;\n\ne) Assinar ou visar a correspondência da câmara municipal com destino a quaisquer entidades ou organismos públicos;\n\nf) Assinar os termos de identidade e de justificação administrativa;\n\ng) Representar o município em juízo e fora dele;\n\nh) Representar a câmara municipal perante a assembleia, sem prejuízo da faculdade de ser acompanhado por outros membros;\n\ni) Exercer os demais poderes que lhe sejam conferidos por lei ou por deliberação da assembleia ou da câmara."
+   "markdown": "###### Artigo 64.º — (Competência de presidente da câmara municipal)\n\n(Revogado.)"
   },
-  "346000cacbef8900": {
+  "db378bc3e7432a10": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 65.º — (Competência excepcional do presidente da câmara)",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 65.º — (Competência excepcional do presidente da câmara)\n\nO presidente da câmara pode praticar quaisquer actos da competência desta, sempre que o exijam circunstâncias excepcionais e não seja possível reuni-la extraordinariamente, ficando, porém, os actos praticados sujeitos a subsequente ratificação da câmara."
+   "markdown": "###### Artigo 65.º — (Competência excepcional do presidente da câmara)\n\n(Revogado.)"
   },
-  "15b97dc1f1ae6102": {
+  "a6b5d56ed5ae00ff": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 66.º — (Pelouros)",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 66.º — (Pelouros)\n\n1. O presidente da câmara será coadjuvado pelos vereadores no exercício da sua comptência e da da própria câmara, podendo incumbi-los de tarefas específicas.\n\n2. Poderá ainda o presidente delegar o exercício da sua competência em qualquer dos vereadores.\n\n3. Nos casos previstos nos números anteriores, aqueles vereadores darão ao presidente informação detalhada sobre a realização das referidas tarefas e do exercício da competência delegada.\n\n4. O presidente da câmara pode delegar no chefe da secretaria a assinatura da correspondência de mero expediente."
+   "markdown": "###### Artigo 66.º — (Pelouros)\n\n(Revogado.)"
   },
-  "e594c1bde2f61b96": {
+  "af38a2bf0affcab3": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 67.º — (Superintendência nos serviços)",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 67.º — (Superintendência nos serviços)\n\nSem prejuízo dos poderes de fiscalização que competem aos vereadores da câmara municipal, nas matérias que lhes sejam especialmente atribuídas, compete ao presidente da câmara coordenar os serviços municipais no sentido de desenvolver a sua eficácia e assegurar o seu pleno aproveitamento."
+   "markdown": "###### Artigo 67.º — (Superintendência nos serviços)\n\n(Revogado.)"
   },
-  "30ed784508173370": {
+  "262def05f4e02fd0": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 68.º — (Natureza)",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 68.º — (Natureza)\n\nEm cada município haverá um órgão de natureza consultiva denominado conselho municipal."
+   "markdown": "###### Artigo 68.º — (Natureza)\n\n(Revogado.)"
   },
-  "d03160b4bce7d39c": {
+  "294b67ec46dfd538": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 69.º — (Composição)",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 69.º — (Composição)\n\n1. O conselho municipal será constituído pelos representantes das organizações económicas, sociais, culturais e profissionais, cujos fins sejam conformes com a Constituição e que tenham sede na circunscrição municipal, ou nela exerçam actividade, e pelos representantes dos trabalhadores do município.\n\n2. Nos anos em que deva proceder-se à designação dos membros do conselho municipal, a assembleia municipal deliberará, na primeira sessão ordinária, sobre a forma como será constituído aquele conselho, dentro dos limites estatuídos pelo presente diploma.\n\n3. O número de membros do conselho municipal deverá ser inferior ao número de membros eleitos da assembleia municipal, mas nunca inferior a dez, e não poderá ultrapassar o limite de dois membros por cada organização representada.\n\n4. Do conselho municipal farão parte obrigatoriamente um representante dos trabalhadores do município e um representante dos trabalhadores dos serviços municipalizados, a indicar pelos respectivos órgãos representativos, quando existirem, ou a eleger de entre os trabalhadores.\n\n5. O presidente da assembleia municipal convidará, no prazo de dez dias, as entidades com direito a participar no conselho municipal a que indiquem os seus representantes.\n\n6. As diligências para a constituição do conselho municipal não deverão exceder o prazo de trinta dias, após a correspondente deliberação da assembleia municipal.\n\n7. A falta de indicação, no prazo fixado, dos representantes das organizações referidas nos n.os 4 e 5 significará que aquelas entidades prescindem da sua representação no conselho, devendo, nesse caso, a assembleia municipal deliberar se deverão ser convidadas outras organizações ou se o conselho municipal ficará composto pelos membros já indicados."
+   "markdown": "###### Artigo 69.º — (Composição)\n\n(Revogado.)"
   },
-  "aba0e47ed3106036": {
+  "c3a1d1a4eb20f078": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 70.º — (Instalação)",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 70.º — (Instalação)\n\n1. Recebidas as comunicações finais, o presidente da assembleia municipal convocará uma reunião plenária do conselho para a sua instalação e para verificação dos poderes dos seus membros.\n\n2. A primeira reunião de funcionamento seguir-se-á imediatamente ao acto de instalação, sob a presidência do mais velho dos membros presentes, e terá por objecto a eleição da mesa do conselho municipal."
+   "markdown": "###### Artigo 70.º — (Instalação)\n\n(Revogado.)"
   },
-  "87b56ec7e4322eb4": {
+  "9d44a4f6ce3f3baa": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 71.º — (Mesa)",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 71.º — (Mesa)\n\n1. O conselho municipal elegerá, por escrutínio secreto, de entre os seus membros, um presidente e dois secretários.\n\n2. O presidente será substituído, nas suas faltas e impedimentos, pelo primeiro-secretário, e este, pelo segundo-secretário."
+   "markdown": "###### Artigo 71.º — (Mesa)\n\n(Revogado.)"
   },
-  "256717bb056c8ac2": {
+  "4161d72658fdc229": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 72.º — (Sessões ordinárias e extraordinárias)",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 72.º — (Sessões ordinárias e extraordinárias)\n\n1. Compete ao presidente do conselho municipal convocar as sessões ordinárias e extraordinárias.\n\n2. As sessões extraordinárias podem ser convocadas por iniciativa do presidente ou a requerimento quer da assembleia municipal, quer da câmara municipal."
+   "markdown": "###### Artigo 72.º — (Sessões ordinárias e extraordinárias)\n\n(Revogado.)"
   },
-  "6e6665f728c64431": {
+  "403b1276bb5a2e1b": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 73.º — (Periodicidade das sessões)",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 73.º — (Periodicidade das sessões)\n\nO conselho municipal reúne ordinariamente duas vezes por ano, para emissão do parecer sobre o plano anual de actividades e orçamento, bem como sobre o relatório e contas do município, e extraordinariamente sempre que for julgado necessário."
+   "markdown": "###### Artigo 73.º — (Periodicidade das sessões)\n\n(Revogado.)"
   },
-  "7f0150af2d5c6e55": {
+  "bfaf82ce11703255": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 74.º — (Duração das sessões)",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 74.º — (Duração das sessões)\n\nAs sessões ordinárias não poderão ter duração superior a três dias, e as extraordinárias, a dois dias."
+   "markdown": "###### Artigo 74.º — (Duração das sessões)\n\n(Revogado.)"
   },
-  "f932792ff6a33a6b": {
+  "c56bb5c82b0a5b0a": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 75.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 75.º\n\n1. O funcionamento do conselho municipal não está sujeito a regras especiais, salvo quanto à obrigatoriedade de actas, que resumirão o essencial do que se passar nas sessões.\n\n2. Os pareceres emitidos e as propostas formuladas pelo conselho municipal serão apresentados por escrito e assinados pelos membros presentes, mencionando-se na acta as respectivas conclusões."
+   "markdown": "###### Artigo 75.º\n\n(Revogado.)"
   },
-  "94867f9343c896ca": {
+  "db985486b3852c24": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 76.º — (Período do mandato)",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 76.º — (Período do mandato)\n\n1. O período do mandato dos membros do conselho municipal é de um ano, cessando, no entanto, as suas funções nos casos de dissolução da assembleia municipal.\n\n2. Os membros do conselho municipal cujo mandato tenha expirado continuarão em funções até à instalação de novo conselho."
+   "markdown": "###### Artigo 76.º — (Período do mandato)\n\n(Revogado.)"
   },
-  "ab4d7147d375f616": {
+  "b96e6efd44964bec": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 77.º — (Compensações)",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 77.º — (Compensações)\n\nOs membros do conselho municipal gozam das mesmas regalias dos membros da assembleia municipal."
+   "markdown": "###### Artigo 77.º — (Compensações)\n\n(Revogado.)"
   },
-  "20d94de11e2d8e0a": {
+  "5bd49a587fb7f194": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 78.º — (Competência)",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 78.º — (Competência)\n\n1. Compete ao conselho municipal:\n\na) Elaborar o seu regimento;\n\nb) Formular, a pedido de outros órgãos municipais, e no prazo por eles fixado, propostas e pareceres relativamente a quaisquer assuntos de interesse para o município;\n\nc) Pronunciar-se sobre o plano anual de actividades e sobre o relatório e contas a apresentar pela câmara à assembleia municipal;\n\nd) Emitir parecer sobre o plano director do município;\n\ne) Pronunciar-se sobre projectos de posturas e regulamentos;\n\nf) Exercer os demais poderes que lhe sejam conferidos por lei ou por deliberação da assembleia municipal.\n\n2. Os pareceres e propostas emitidos pelo conselho municipal não são vinculativos, mas é obrigatória a sua audiência sobre as matérias a que se referem as alíneas c) e d) do número anterior.\n\n3. Se o parecer não for emitido dentro do prazo que tenha sido fixado, e mesmo que se trate de matéria de audiência obrigatória do conselho municipal, o órgão que o tenha solicitado ficará desvinculado do dever de aguardar a respectiva recepção."
+   "markdown": "###### Artigo 78.º — (Competência)\n\n(Revogado.)"
   },
-  "2f0ec6f0a70abd43": {
+  "07aa6ddcb4a4cfae": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 79.º — (Secções ou grupos de trabalho)",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 79.º — (Secções ou grupos de trabalho)\n\n1. O conselho pode criar secções ou grupos de trabalho para o estudo de assuntos específicos e solicitar aos restantes órgãos do município a colaboração de técnicos ou de outros funcionários.\n\n2. As secções ou grupos de trabalho serão convocados pelo presidente do conselho municipal, por sua iniciativa ou a pedido quer da assembleia, quer da câmara municipal."
+   "markdown": "###### Artigo 79.º — (Secções ou grupos de trabalho)\n\n(Revogado.)"
   },
-  "76521afdd608a42b": {
+  "1020e0a7dfb223e8": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 80.º — (Deliberações)",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 80.º — (Deliberações)\n\n1. O conselho municipal pode funcionar por grupos ou secções, sempre que assim o entender.\n\n2. É obrigatória, contudo, a intervenção do plenário para emissão de parecer sobre o plano anual de actividades, relatório e contas da câmara municipal e sobre o plano director do município."
+   "markdown": "###### Artigo 80.º — (Deliberações)\n\n(Revogado.)"
   },
-  "fbe4ef28cdebaf27": {
+  "187c9b4fbc5bf473": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 81.º — (Competência do presidente do conselho municipal)",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 81.º — (Competência do presidente do conselho municipal)\n\nCompete ao presidente do conselho municipal:\n\na) Convocar as sessões e dirigir os trabalhos do plenário;\n\nb) Exercer os demais poderes que lhe sejam conferidos por lei, pelo regimento ou por deliberação do conselho."
+   "markdown": "###### Artigo 81.º — (Competência do presidente do conselho municipal)\n\n(Revogado.)"
   },
   "e5e118209cf38023": {
    "fragment_id": null,
@@ -2161,29 +2284,31 @@
    ],
    "markdown": "###### Artigo 90.º — (Reuniões)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 5/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-1991-693782), publicado em 1991-01-08."
   },
-  "28fe0e5b373ebc75": {
+  "33c76f39209d256d": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 91.º — (Tutela administrativa)",
-   "in_force_from": null,
-   "changed_by": [],
-   "markdown": "###### Artigo 91.º — (Tutela administrativa)\n\n1. Compete ao Governo o exercício da tutela administrativa, a qual, enquanto subsistir o distrito, será exercida através do governador civil na área da sua jurisdição.\n\n2. A tutela inspectiva é superintendida pelos Ministérios da Administração Interna e das Finanças e tem exclusivamente por objecto averiguar se são cumpridas as obrigações impostas por lei."
+   "in_force_from": "1991-03-09",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 87/89](https://diariodarepublica.pt/dr/detalhe/lei/87-1989-547247), publicado em 1989-09-09, com efeitos a partir de 1989-09-14."
+   ],
+   "markdown": "###### Artigo 91.º — (Tutela administrativa)\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 87/89](https://diariodarepublica.pt/dr/detalhe/lei/87-1989-547247), publicado em 1989-09-09, com efeitos a partir de 1989-09-14."
   },
-  "7f06c52e9a3c4e33": {
+  "be2c4ca138ad2550": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 92.º — (Competência da autoridade tutelar)",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 92.º — (Competência da autoridade tutelar)\n\nEnquanto autoridade tutelar, compete ao governador civil:\n\na) Velar pelo cumprimento das leis gerais do Estado por parte dos órgãos autárquicos;\n\nb) Promover a realização de inquéritos, se necessário através dos serviços da Administração Central, à actividade dos órgãos autárquicos e respectivos serviços, precedendo parecer do conselho distrital."
+   "markdown": "###### Artigo 92.º — (Competência da autoridade tutelar)\n\n(Revogado.)"
   },
-  "b31f72531d036121": {
+  "9aef6020d768ba25": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 93.º — (Dissolução dos órgãos autárquicos)",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 93.º — (Dissolução dos órgãos autárquicos)\n\n1. Os órgãos autárquicos podem ser dissolvidos pelo Governo:\n\na) Quando, após inquérito, se verifique que por eles foram cometidas graves ilegalidades;\n\nb) Quando obstem à realização de inquéritos às suas actividades;\n\nc) Quando se recusem a dar cumprimento às decisões definitivas dos tribunais;\n\nd) Quando não tenham os orçamentos aprovados de forma a entrarem em vigor no dia 1 de Janeiro de cada ano, por facto que lhes seja imputável, apurado em inquérito;\n\ne) Quando não apresentem a julgamento, nos prazos legais, as respectivas contas, por facto que lhes seja imputável, apurado em inquérito.\n\n2. A dissolução com base em qualquer das alíneas do número anterior será sempre precedida de parecer da assembleia distrital e é contenciosamente impugnável por qualquer dos membros do órgão dissolvido.\n\n3. A dissolução será ordenada por decreto fundamentado, no qual será designada a comissão administrativa que substituirá o órgão dissolvido até à posse dos novos membros eleitos, nos termos e prazos da presente lei.\n\n4. Nas Regiões dos Açores e da Madeira a dissolução será determinada por decreto do Governo Regional, ouvida a assembleia regional respectiva."
+   "markdown": "###### Artigo 93.º — (Dissolução dos órgãos autárquicos)\n\n(Revogado.)"
   },
   "c43c368a6bfe930e": {
    "fragment_id": null,
@@ -2209,157 +2334,159 @@
    "changed_by": [],
    "markdown": "###### Artigo 96.º — (Suspensão do mandato)\n\n1. Os membros dos órgãos das autarquias locais poderão solicitar a suspensão do respectivo mandato.\n\n2. O pedido de suspensão, devidamente fundamentado, deverá ser endereçado ao presidente e apreciado pelo plenário do órgão a que pertença, na reunião imediata à sua apresentação.\n\n3. Entre outros, são motivos de suspensão os seguintes:\n\na) Doença comprovada;\n\nb) Afastamento temporário da área da autarquia.\n\n4. A suspensão não poderá ultrapassar cento e oitenta dias no decurso do mandato, sob pena de se considerar como renúncia ao mesmo.\n\n5. Durante o seu impedimento, o membro do órgão representativo autárquico será substituído pelo representante do seu partido, coligação ou frente, que ocupe lugar imediato na lista e não esteja em exercício ou impedido.\n\n6. A convocação do membro substituto compete ao presidente do órgão respectivo e deverá ter lugar no período que medeie entre a autorização e a realização de uma nova reunião do órgão a que pertença."
   },
-  "9c2469036fd4b227": {
+  "1ea6387d7a0e6cf4": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 97.º — (Continuidade do mandato)",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 97.º — (Continuidade do mandato)\n\nOs órgãos das autarquias locais servem pelo período do mandato e mantêm-se em actividade até serem legalmente substituídos."
+   "markdown": "###### Artigo 97.º — (Continuidade do mandato)\n\n(Revogado.)"
   },
-  "ef351059ff9d8089": {
+  "e5ce696a767b7c2d": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 98.º — (Princípio da independência)",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 98.º — (Princípio da independência)\n\nOs órgãos das autarquias locais são independentes dentro do âmbito da sua competência e as suas deliberações só podem ser suspensas, modificadas, revogadas ou anuladas pela forma prevista na lei."
+   "markdown": "###### Artigo 98.º — (Princípio da independência)\n\n(Revogado.)"
   },
-  "c7023e4e1d918508": {
+  "85f42a76d49b4703": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 99.º — (Princípio da especialidade)",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 99.º — (Princípio da especialidade)\n\nOs órgãos do poder local só podem deliberar no âmbito da sua competência e para a realização das atribuições das respectivas autarquias."
+   "markdown": "###### Artigo 99.º — (Princípio da especialidade)\n\n(Revogado.)"
   },
-  "a30edf50e4b69acb": {
+  "c508935bd8fa77ba": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 100.º — (Publicidade)",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 100.º — (Publicidade)\n\n1. As reuniões dos órgãos deliberativos das autarquias são públicas.\n\n2. A câmara municipal e a junta de freguesia deverão realizar uma reunião pública mensal.\n\n3. A nenhum cidadão é permitido, sob qualquer pretexto, intrometer-se nas discussões e aplaudir ou reprovar as opiniões emitidas, as votações feitas e as deliberações tomadas, sob pena de multa até 5000$00, que será aplicável pelo juiz da comarca, sob participação do respectivo órgão.\n\n4. Encerrada a ordem de trabalhos, a junta de freguesia e a câmara municipal fixarão um período de intervenção aberto ao público, durante o qual lhe serão prestados os esclarecimentos que solicitar.\n\n5. Nos órgãos deliberativos, compete à mesa a faculdade de deliberar sobre a existência de um período de intervenção aberto ao público."
+   "markdown": "###### Artigo 100.º — (Publicidade)\n\n(Revogado.)"
   },
-  "1ca8ab2b5ce0f76b": {
+  "550e8051b9397a15": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 101.º — (Requisitos das reuniões e deliberações)",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 101.º — (Requisitos das reuniões e deliberações)\n\n1. As reuniões dos órgãos das autarquias locais não terão lugar quando não esteja presente a maioria do número legal dos seus membros.\n\n2. As deliberações são tomadas à pluralidade de votos, estando presente a maioria do número legal dos seus membros, tendo o presidente voto de qualidade, no caso de empate.\n\n3. Compete ao presidente decidir sobre a forma de votação, podendo qualquer membro propor que a mesma se faça nominalmente ou por escrutínio secreto.\n\n4. Sempre que se realizem eleições ou estejam em causa pessoas, a votação terá de ser feita por escrutínio secreto."
+   "markdown": "###### Artigo 101.º — (Requisitos das reuniões e deliberações)\n\n(Revogado.)"
   },
-  "e34438679db14eb4": {
+  "75e923b7dd0de0b4": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 102.º — (Discussão e votação)",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 102.º — (Discussão e votação)\n\n1. Nenhum membro dos órgãos das autarquias locais pode votar em matérias que lhe disserem respeito ou a membros de sua família.\n\n2. Os membros dos órgãos das autarquias locais não podem tomar parte ou interesse nos contratos por estes celebrados, salvo contratos tipo de adesão, sob pena de nulidade do contrato e perda do mandato."
+   "markdown": "###### Artigo 102.º — (Discussão e votação)\n\n(Revogado.)"
   },
-  "07e2d7fa491ed5f6": {
+  "4d9956126cde01c3": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 103.º — (Indeferimento tácito)",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 103.º — (Indeferimento tácito)\n\n1. Os órgãos executivos das autarquias são obrigados a deliberar sobre os assuntos ou petições da sua competência, requeridos por particulares, o mais tardar na primeira reunião que tenha lugar, decorrido o prazo de trinta dias, contado a partir da data da entrada do requerimento.\n\n2. Salvo os casos previstos em normas especiais, a falta de deliberação, dentro do prazo estabelecido no número anterior, equivale, para efeitos de recurso contencioso, ao indeferimento tácito do pedido."
+   "markdown": "###### Artigo 103.º — (Indeferimento tácito)\n\n(Revogado.)"
   },
-  "ee15ec0d23d9e497": {
+  "f146c3c7e6c0ad9d": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 104.º — (Fundamentação dos actos administrativos)",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 104.º — (Fundamentação dos actos administrativos)\n\nAs decisões ou deliberações que indefiram petições de particulares serão fundamentadas nos termos da lei geral."
+   "markdown": "###### Artigo 104.º — (Fundamentação dos actos administrativos)\n\n(Revogado.)"
   },
-  "1a58ec13b2680abf": {
+  "3be5c523e59b7b49": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 105.º — (Actas)",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 105.º — (Actas)\n\n1. De tudo o que ocorrer nas reuniões será lavrada acta.\n\n2. As actas serão elaboradas sob responsabilidade do secretário ou do chefe da secretaria, que as assinarão, juntamente com o presidente.\n\n3. Qualquer membro dos órgãos das autarquias locais pode justificar o seu voto, nos termos do respectivo regimento.\n\n4. As actas ou o texto das deliberações mais importantes podem ser aprovados em minuta, no final das reuniões, desde que tal seja decidido pela maioria dos membros presentes.\n\n5. As certidões das actas devem ser passadas, independentemente de despacho, pelo secretário ou chefe de secretaria ou por quem os substituir, dentro dos oito dias seguintes à entrada do respectivo requerimento, salvo se disser respeito a gerência finda há mais de cinco anos, em que o prazo será de quinze dias.\n\n6. As certidões podem ser substituídas por fotocópias autenticadas."
+   "markdown": "###### Artigo 105.º — (Actas)\n\n(Revogado.)"
   },
-  "8a59e165963059eb": {
+  "62dd87d8d5267346": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 106.º — (Executoriedade das deliberações)",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 106.º — (Executoriedade das deliberações)\n\n1. As deliberações dos órgãos das autarquias locais só se tornam executórias depois de aprovadas as actas donde constarem ou depois de assinadas as minutas, quando assim tenha sido deliberado.\n\n2. As actas ou minutas referidas no número anterior são documentos autênticos que fazem prova plena, nos termos da lei."
+   "markdown": "###### Artigo 106.º — (Executoriedade das deliberações)\n\n(Revogado.)"
   },
-  "074f67a3d9400925": {
+  "342af53584b5d664": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 107.º — (Alvarás)",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 107.º — (Alvarás)\n\nSalvo se a lei exigir forma especial, o título que integre decisão ou deliberação dos órgãos das autarquias locais que confira direitos aos particulares, investindo-os em situações jurídicas permanentes, será um alvará expedido pelo respectivo presidente."
+   "markdown": "###### Artigo 107.º — (Alvarás)\n\n(Revogado.)"
   },
-  "82a81391d51a0398": {
+  "49ffafb7e5146a15": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 108.º — (Formalidades dos requerimentos de convocação de sessões extraordinárias)",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 108.º — (Formalidades dos requerimentos de convocação de sessões extraordinárias)\n\n1. Os requerimentos a que se reportam a alínea c) do n.º 1 do artigo 13.º e a alínea c) do n.º 1 do artigo 45.º serão acompanhados de certidões comprovativas da qualidade de cidadão recenseado na área da respectiva autarquia.\n\n2. As certidões referidas no número anterior serão passadas no prazo de oito dias pela câmara municipal e são isentas, bem como os reconhecimentos notariais necessários, de quaisquer taxas, emolumentos e imposto do selo.\n\n3. A apresentação do pedido das certidões deverá ser acompanhada de uma lista contendo as assinaturas, notarialmente reconhecidas, dos cidadãos que pretendem requerer a convocação da sessão extraordinária."
+   "markdown": "###### Artigo 108.º — (Formalidades dos requerimentos de convocação de sessões extraordinárias)\n\n(Revogado.)"
   },
-  "14e3bb3a15da5c13": {
+  "3066826d59bc332f": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 109.º — (Baldios e outras coisas comuns)",
-   "in_force_from": null,
-   "changed_by": [],
-   "markdown": "###### Artigo 109.º — (Baldios e outras coisas comuns)\n\nA definição das coisas comuns, designadamente baldios e outros bens do logradouro comum, pertence à assembleia municipal ou à assembleia de freguesia, consoante se trate, respectivamente, de coisas municipais ou de coisas da freguesia, competindo a sua administração aos respectivos órgãos executivos autárquicos."
+   "in_force_from": "1991-03-09",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 91/77](https://diariodarepublica.pt/dr/detalhe/lei/91-1977-404565), publicado em 1977-12-31."
+   ],
+   "markdown": "###### Artigo 109.º — (Baldios e outras coisas comuns)\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 91/77](https://diariodarepublica.pt/dr/detalhe/lei/91-1977-404565), publicado em 1977-12-31."
   },
-  "8228b2feb1f34e29": {
+  "7094ff2f98554769": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 110.º — (Regiões Autónomas dos Açores e da Madeira)",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 110.º — (Regiões Autónomas dos Açores e da Madeira)\n\nAs funções atribuídas no presente diploma aos governadores civis serão, nas Regiões Autónomas dos Açores e da Madeira, desempenhadas pela entidade que o estatuto da região designar."
+   "markdown": "###### Artigo 110.º — (Regiões Autónomas dos Açores e da Madeira)\n\n(Revogado.)"
   },
-  "d983c2fd92ad96a1": {
+  "539a486d2eb85cf5": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 111.º — (Uniões de freguesias)",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 111.º — (Uniões de freguesias)\n\n1. Não será autorizada, de futuro, a constituição de uniões de freguesias.\n\n2. Ficam ressalvadas as uniões de freguesias existentes à data da promulgação da presente lei e constituídas ao abrigo do disposto nos artigos 266.º e seguintes do Código Administrativo, as quais continuarão a regular-se pelo estabelecido nas respectivas disposições legais."
+   "markdown": "###### Artigo 111.º — (Uniões de freguesias)\n\n(Revogado.)"
   },
-  "21c8174116779ea3": {
+  "c4a2e448c28ff317": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 112.º — (Municípios de Lisboa e Porto)",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 112.º — (Municípios de Lisboa e Porto)\n\nMantém-se em vigor a legislação especial aplicável aos Municípios de Lisboa e Porto."
+   "markdown": "###### Artigo 112.º — (Municípios de Lisboa e Porto)\n\n(Revogado.)"
   },
-  "52ce3b6698ccafe1": {
+  "a5a5364d963860ca": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 113.º — (Legislação subsidiária transitória)",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 113.º — (Legislação subsidiária transitória)\n\n1. O presente diploma será revisto até 31 de Dezembro de 1978.\n\n2. Será objecto de legislação própria, a publicar até à data referida no número anterior, toda a restante matéria, que continua transitoriamente a ser regulada pelo Código Administrativo e pelos Decretos-Leis n.os [701-A/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/701-a-1976-223432) e [701-B/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/701-b-1976-223433), de 29 de Setembro."
+   "markdown": "###### Artigo 113.º — (Legislação subsidiária transitória)\n\n(Revogado.)"
   },
-  "f99b32a63d036a76": {
+  "cb105e6a93519b43": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 114.º — (Norma revogatória)",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 114.º — (Norma revogatória)\n\n1. São expressamente revogados os seguintes artigos do Código Administrativo:\n\n15.º a 43.º, 51.º a 55.º, 58.º, 66.º a 82.º, 84.º a 98.º, 100.º, 101.º, 106.º, 107.º, 110.º a 116.º, 196.º a 252.º, 255.º, 258.º a 262.º, 266.º a 283.º, 285.º a 310.º, 316.º a 325.º, 328.º a 358.º, 372.º, 373.º, 375.º a 387.º, n.os 3.º, 7.º, 13.º e 14.º do artigo 407.º e artigo 412.º\n\n2. São expressamente revogados os seguintes artigos do [Decreto-Lei n.º 701-A/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/701-a-1976-223432):\n\n1.º, 3.º, 4.º, 6.º a 14.º, n.º 2 do artigo 15.º e artigos 16.º a 21.º, 23.º a 30.º, 32.º, 34.º a 41.º e 44.º a 51.º\n\n3. Ficam igualmente revogadas todas as disposições do Código Administrativo e de outra legislação ainda vigente contrárias à presente lei."
+   "markdown": "###### Artigo 114.º — (Norma revogatória)\n\n(Revogado.)"
   },
-  "83633ade36f45d0e": {
+  "3802bf083bf2ac52": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 115.º — (Entrada em vigor)",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 115.º — (Entrada em vigor)\n\nEsta lei entra em vigor trinta dias após a sua publicação.\n\nAprovada em 29 de Julho de 1977.\n\nO Presidente da Assembleia da República, Vasco da Gama Fernandes.\n\nPromulgada em 10 de Setembro de 1977.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Mário Soares."
+   "markdown": "###### Artigo 115.º — (Entrada em vigor)\n\n(Revogado.)\n\nAprovada em 29 de Julho de 1977.\n\nO Presidente da Assembleia da República, Vasco da Gama Fernandes.\n\nPromulgada em 10 de Setembro de 1977.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Mário Soares."
   }
  }
 }

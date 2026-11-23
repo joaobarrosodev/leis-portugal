@@ -56,7 +56,8 @@ version_history:
     changes: []
   - date: '2013-03-01'
     amending: pt:dre:638769:por
-    amending_title: Decreto-Lei n.º 225/2007; Decreto-Lei n.º 35/2013; Declaração de Rectificação n.º 29/2005
+    amending_title: Decreto-Lei n.º 225/2007; Decreto-Lei n.º 35/2013; Declaração de Rectificação n.º 29/2005; Decreto-Lei
+      n.º 215-B/2012
     changes:
     - Altera Artigo 4.º
     - Altera Artigo 5.º
@@ -65,6 +66,12 @@ version_history:
     - Altera Artigo 4.º
     - Retifica Artigo 2
     - Retifica texto
+    - Revoga Artigo 1
+    - Revoga Artigo 5
+    - Revoga Artigo 6
+    - Revoga Artigo 7
+    - Revoga Artigo 8
+    - Revoga Artigo 10
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/33-a/2005/02/16/p/dre/pt/html
@@ -93,7 +100,8 @@ provenance:
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 225/2007; Decreto-Lei
     n.º 35/2013. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2005/decreto-lei-33-a-2005.alteracoes.json.
     Retificações aplicadas com um LLM e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração de Rectificação
-    n.º 29/2005.'
+    n.º 29/2005. Revogações registadas só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py):
+    Decreto-Lei n.º 215-B/2012.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -198,7 +206,9 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 ###### Artigo 1.º — Siglas e definições
 
-Excepto quando outro significado lhes seja expressamente atribuído, as siglas e definições utilizadas no presente diploma são as constantes do artigo 3.º do Decreto-Lei n.º 312/2001, de 10 de Dezembro.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 215-B/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-b-2012-588861), publicado em 2012-10-08, com efeitos a partir de 2012-11-07.
 
 ###### Artigo 2.º — Alteração ao anexo II do Decreto-Lei n.º 189/88, de 27 de Maio
 
@@ -412,73 +422,23 @@ ii) Prevalência do disposto neste diploma, em caso de opção da autarquia, cas
 
 ###### Artigo 5.º — Prazo para obtenção de licença de estabelecimento
 
-1 - A licença de estabelecimento referida no Decreto-Lei n.º 312/2001, de 10 de Dezembro, e relativa a pontos de recepção atribuídos após a entrada em vigor do presente diploma, deve ser obtida pelo promotor no prazo de 12 meses contados da data em que lhe for atribuído o correspondente ponto de recepção, sob pena de caducidade do mesmo.
-
-2 - O membro do Governo responsável pela área da energia pode, a requerimento fundamentado do promotor dirigido à DGGE e nos casos em que o atraso não seja imputável ao promotor, prorrogar o prazo referido no número anterior por período não superior a 36 meses, no caso das centrais hídricas, ou por período não superior a 24 meses nos restantes casos.
+(Revogado.)
 
 > Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 225/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-2007-638769), publicado em 2007-05-31.
 
 ###### Artigo 6.º — Caducidade dos pontos de recepção de electricidade e da reserva de capacidade na rede
 
-1 - Os pontos de recepção de electricidade já atribuídos à data de entrada em vigor do presente diploma relativamente aos quais não seja obtida a respectiva licença de estabelecimento caducam no prazo de 12 meses contados da data de entrada em vigor do presente diploma, ou no prazo 24 meses contados a partir da mesma data, caso tenha sido autorizada a prorrogação mencionada no n.º 2 do artigo 4.º
-
-2 - Exceptuam-se do disposto no número anterior os casos em que o promotor efectuou reserva de capacidade nos termos do n.º 6 do artigo 12.º do Decreto-Lei n.º 312/2001, de 10 de Dezembro, ou em que a calendarização da disponibilidade da rede implique o não cumprimento do prazo do número anterior, situação em que o prazo de 12 meses referido no número anterior é contado da data em que a totalidade da capacidade se encontre disponível na rede.
-
-3 - O membro do Governo responsável pela área da energia pode, a requerimento fundamentado do promotor dirigido à DGGE, prorrogar os prazos referidos nos números anteriores por período adicional não superior a 12 meses, que no caso das centrais hídricas poderá ser concedido por período não superior a 36 meses.
-
-4 - No caso de ser atribuída, no âmbito de concurso público realizado nos termos do artigo 14.º do Decreto-Lei n.º 312/2001, de 10 de Dezembro, capacidade de injecção de potência na rede do Sistema Eléctrico de Serviço Público e esta não possa ser disponibilizada na respectiva zona de rede por motivos não imputáveis ao adjudicatário, pode este propor, até ao prazo limite em que a capacidade de injecção de potência lhe tenha sido reservada, a permuta dos pontos de recepção cuja identificação consta do contrato por outros com características idênticas e relativamente aos quais o promotor reúna todos os requisitos para atribuição.
-
-5 - A permuta referida no número anterior é autorizada pelo director-geral de Geologia e Energia desde que exista capacidade de injecção na rede do Sistema Eléctrico de Serviço Público, não resultem prejuízos para o interesse público e não prejudique interesses de terceiros já constituídos à data.
+(Revogado.)
 
 > Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 225/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-2007-638769), publicado em 2007-05-31.
 
 ###### Artigo 7.º — Custos de ligação à rede
 
-1 - No caso de divergência quanto ao montante a suportar pelos promotores pelas obras e instalações a efectuar nas subestações do sistema eléctrico nacional e pelas linhas eléctricas a construir pelos operadores das redes pode qualquer das partes solicitar a constituição de um tribunal arbitral que determine qual o valor a pagar.
-
-2 - O tribunal julgará tendo em conta os custos efectivamente incorridos e a remuneração devida pela actividade dos operadores das redes, com base nos valores de mercado para as actividades em causa.
-
-3 - No caso de desacordo quanto ao teor do compromisso arbitral observar-se-á o disposto na Lei n.º 31/86, de 29 de Agosto.
+(Revogado.)
 
 ###### Artigo 8.º — Alteração ao Decreto-Lei n.º 312/2001, de 10 de Dezembro
 
-É alterado o artigo 14.º do Decreto-Lei n.º 312/2001, de 10 de Dezembro, que passa a ter a seguinte redacção:
-
-«Artigo 14.º
-
-Atribuição de potência através de procedimento concursal
-
-1 - A potência disponível na rede do SEP e os pontos de recepção necessários para a sua ligação à rede poderão ser atribuídos mediante a realização de procedimento concursal, incluindo ajuste directo, nomeadamente nas seguintes situações:
-
-a) Prioridade na concretização de projectos inseridos em programas específicos aprovados pelo Governo no âmbito das opções da política energética nacional, com carácter de orientação para os mercados, designadamente em cumprimento de objectivos estabelecidos pela União Europeia;
-
-b) Optimização da utilização da capacidade de recepção disponível das redes do SEP.
-
-2 - O procedimento concursal pode incluir no seu objecto a atribuição de potência ainda não disponível mas cuja disponibilização seja previsível num período de tempo determinado.
-
-3 - A realização do procedimento é determinada por despacho do membro do Governo que tutele a Direcção-Geral de Geologia e Energia, sob proposta desta, e deve respeitar os princípios estabelecidos no n.º 1 do artigo 6.º
-
-4 - O procedimento de adjudicação é precedido de uma fase pública de apresentação de propostas sempre que tal se julgue adequado.
-
-5 - Caso o procedimento de adjudicação seja precedido de uma fase pública de apresentação de propostas, a adjudicação será efectuada nos termos de programa de procedimento elaborado pela Direcção-Geral de Geologia e Energia e aprovado pelo membro do Governo com a respectiva tutela.
-
-6 - O programa de procedimento referido no número anterior definirá os critérios de habilitação e qualificação dos candidatos, bem como os critérios de avaliação das propostas, que poderão incluir, entre outros, a ponderação do projecto associado à candidatura à potência, designadamente no que respeita:
-
-a) À qualidade do projecto, incluindo a tecnologia proposta e a transferência de conhecimento associado;
-
-b) O impacte sócio-económico do projecto, incluindo a geração de emprego, o investimento e o valor acrescentado bruto gerado na região de implantação e a capacidade de exportação;
-
-c) Ao impacte no sistema eléctrico, incluindo a necessidade de construção de novas ligações;
-
-d) A credibilidade e experiência do promotor;
-
-e) A redução do valor a pagar pelo SEP pela electricidade produzida.
-
-7 - O programa de procedimento poderá definir limites máximos de potência a atribuir a cada concorrente.
-
-8 - É admissível a realização de diversos procedimentos de adjudicação tendo por base uma mesma fase pública de apresentação de propostas, em termos a estabelecer no programa de procedimento.
-
-9 - Os compromissos assumidos pelo adjudicatário, incluindo prazos de execução, bem como as respectivas garantias, deverão ser contratualizados e o seu incumprimento poderá determinar a perda dos direitos decorrentes da adjudicação.»
+(Revogado.)
 
 ###### Artigo 9.º — Republicação
 
@@ -486,7 +446,7 @@ e) A redução do valor a pagar pelo SEP pela electricidade produzida.
 
 ###### Artigo 10.º — Entrada em vigor
 
-O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+(Revogado.)
 
 Visto e aprovado em Conselho de Ministros de 2 de Fevereiro de 2005. - Pedro Miguel de Santana Lopes - Álvaro Roque de Pinho Bissaya Barreto - António José de Castro Bagão Félix - Luís José de Mello e Castro Guedes.
 

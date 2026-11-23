@@ -45,10 +45,31 @@ version_history:
     changes: []
   - date: '1973-08-20'
     amending: pt:dre:419603:por
-    amending_title: Decreto-Lei n.º 412/73
+    amending_title: Decreto-Lei n.º 412/73; Decreto-Lei n.º 46909
     changes:
     - Altera Artigo 12.º
     - Altera Artigo 13.º
+    - Revoga Artigo 32
+    - Revoga Artigo 33
+    - Revoga Artigo 34
+    - Revoga Artigo 35
+    - Revoga Artigo 36
+    - Revoga Artigo 37
+    - Revoga Artigo 38
+    - Revoga Artigo 39
+    - Revoga Artigo 40
+    - Revoga Artigo 41
+    - Revoga Artigo 42
+    - Revoga Artigo 43
+    - Revoga Artigo 44
+    - Revoga Artigo 45
+    - Revoga Artigo 46
+    - Revoga Artigo 47
+    - Revoga Artigo 48
+    - Revoga Artigo 49
+    - Revoga Artigo 50
+    - Revoga Artigo 51
+    - Revoga Artigo 52
 identifiers:
   celex: null
   eli: null
@@ -75,7 +96,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T21:42:47Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 412/73. Método e
-    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1962/decreto-lei-44652.alteracoes.json'
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1962/decreto-lei-44652.alteracoes.json.
+    Revogações registadas só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Decreto-Lei
+    n.º 46909.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -432,217 +455,89 @@ As conclusões dos trabalhos de cada sessão da Comissão Consultiva de Polític
 
 ###### Artigo 32.º
 
-O Secretariado Técnico da Presidência do Conselho é o órgão destinado a prestar ao Conselho de Ministros para os Assuntos Económicos, pela coordenação e exame das informações dos serviços dos Ministérios competentes e pelos estudos próprios que realize, o conveniente apoio técnico para a fundamentação das decisões do Conselho e para a pronta e perfeita execução dessas decisões.
+(Revogado.)
 
-§ único. Para o cabal cumprimento das atribuições que ao Secretariado Técnico são cometidas, e sem prejuízo da sua directa dependência da Presidência do Conselho, os Gabinetes dos Ministros membros do Conselho de Ministros para os Assuntos Económicos poderão manter com o director-geral do Secretariado Técnico os contactos que considerem convenientes à pronta preparação e execução das deliberações do Conselho.
+> Revogado pelo/a [Decreto-Lei n.º 46909](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46909-1966-486774), publicado em 1966-03-19.
 
 ###### Artigo 33.º
 
-O Secretariado Técnico compreenderá:
-
-a) A Direcção de Serviços de Planeamento;
-
-b) A Direcção de Serviços da Integração Económica Nacional;
-
-c) A secretaria.
+(Revogado.)
 
 ###### Artigo 34.º
 
-Para o desempenho das atribuições definidas no artigo 32.º compete ao Secretariado Técnico, pela Direcção de Serviços de Planeamento, em colaboração com os serviços dos Ministérios competentes:
-
-1.º Promover a realização, segundo a orientação superiormente definida pelo Conselho de Ministros para os Assuntos Económicos, dos estudos respeitantes à determinação dos objectivos e instrumentos de uma política de desenvolvimento económico-social, tendo especialmente em conta o disposto nos artigos 4.º e 5.º do [Decreto-Lei n.º 44016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44016-1961-182232);
-
-2.º Preparar, para decisão do Conselho de Ministros para os Assuntos Económicos, os projectos dos planos de fomento nacionais e examinar, em função dos objectivos globais e com vista à sua harmonização e coordenação, os programas de desenvolvimento territoriais e regionais a incluir naqueles planos e que forem elaborados pelos serviços ou comissões, em cada território, competentes para a elaboração destes programas;
-
-3.º Recolher e coordenar os elementos destinados à preparação dos programas anuais de execução dos planos de fomento e dos planos regionais de desenvolvimento nele incluídos, para aprovação do Conselho de Ministros para os Assuntos Económicos;
-
-4.º Acompanhar a execução dos planos de fomento nacionais e dos planos regionais de desenvolvimento neles incluídos que estiverem em curso e elaborar, até 30 de Junho de cada ano, um relatório sobre a execução daqueles planos no ano anterior;
-
-5.º Informar das dificuldades que eventualmente surjam no processo do desenvolvimento económico nacional e propor as medidas de correcção julgadas convenientes;
-
-6.º Colaborar com o Instituto Nacional de Estatística e com os serviços competentes dos Ministérios das Finanças e do Ultramar no aperfeiçoamento dos métodos e desenvolvimento dos quadros da contabilidade nacional, tendo especialmente em vista a elaboração do orçamento económico do País;
-
-7.º Coordenar os programas da assistência técnica prestada por organismos internacionais a projectos que interessem ao desenvolvimento económico nacional e propor, ouvidos os serviços competentes, as modalidades a adoptar nesses programas.
+(Revogado.)
 
 ###### Artigo 35.º
 
-Compete ao Secretariado Técnico da Presidência do Conselho, pela Direcção de Serviços de Integração Económica Nacional, em colaboração com os serviços dos Ministérios competentes:
-
-1.º Propor ao Conselho de Ministros para os Assuntos Económicos as iniciativas destinadas a realizar a progressiva integração económica dos diversos territórios nacionais e a unificação dos mercados portugueses, elaborando os estudos e programas de acção que para esse fim se mostrem convenientes;
-
-2.º Zelar pelo cumprimento das disposições do [Decreto-Lei n.º 44016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44016-1961-182232) e propor ao Conselho de Ministros para os Assuntos Económicos, com a conveniente antecedência, as providências de regulamentação ou de adaptação consideradas necessárias;
-
-3.º Cooperar com os serviços dos Ministérios competentes no sentido de se evitar, em qualquer dos territórios, a adopção de medidas que dificultem ou contrariem os objectivos referidos na alínea anterior;
-
-4.º Apresentar ao Conselho de Ministros para os Assuntos Económicos um relatório anual sobre as providências tomadas em matéria de integração económica e, em especial, sobre as que forem adoptadas em cumprimento do disposto no [Decreto-Lei n.º 44016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44016-1961-182232), informando sobre as dificuldades encontradas e os resultados conseguidos.
+(Revogado.)
 
 ###### Artigo 36.º
 
-À secretaria incumbirão os serviços gerais de carácter administrativo e burocrático do Secretariado Técnico, designadamente os de expediente, pessoal, contabilidade e arquivo.
+(Revogado.)
 
 ###### Artigo 37.º
 
-O Secretariado Técnico assegurará o expediente do Conselho de Ministros para os Assuntos Económicos.
+(Revogado.)
 
 ###### Artigo 38.º
 
-Para o cumprimento das atribuições que lhe são conferidas poderá o Secretariado Técnico solicitar dos serviços públicos, corpos administrativos, organismos corporativos e entidades privadas as informações necessárias.
+(Revogado.)
 
 ###### Artigo 39.º
 
-O Secretariado Técnico será chefiado por um director-geral, que exercerá as funções de secretário sem voto do Conselho de Ministros para os Assuntos Económicos.
-
-§ 1.º O director-geral do Secretariado Técnico será coadjuvado no exercício das suas funções por dois directores de serviço, cada um dos quais chefiará uma das direcções de serviço do Secretariado Técnico. O director-geral e os dois directores de serviço serão vogais natos da Comissão Consultiva de Política Económica.
-
-§ 2.º Na sua ausência ou impedimento será o director-geral do Secretariado Técnico substituído pelo director de serviços mais antigo.
+(Revogado.)
 
 ###### Artigo 40.º
 
-A Comissão Interministerial do Plano de Fomento, criada na Presidência do Conselho pelo [Decreto-Lei n.º 42593](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42593-1959-440476), de 19 de Outubro de 1959, passa a designar-se por Comissão Interministerial de Planeamento e Integração Económica, com as atribuições e constituição definidas nos artigos seguintes.
+(Revogado.)
 
 ###### Artigo 41.º
 
-A Comissão Interministerial é um órgão de estudo, coordenação e consulta destinado a assegurar em matéria de planeamento e integração a ligação permanente entre o Secretariado Técnico da Presidência do Conselho, os diversos Ministérios e, por intermédio do Ministério do Ultramar, as províncias ultramarinas. É constituída pelos representantes dos diversos departamentos ministeriais, serviços e entidades aos quais incumbe executar, financiar ou fiscalizar directamente os empreendimentos inscritos nos planos de fomento nacionais e regionais e as medidas de integração económica do espaço português.
+(Revogado.)
 
 ###### Artigo 42.º
 
-A Comissão Interministerial é presidida pelo director-geral do Secretariado Técnico da Presidência do Conselho e, na sua falta ou impedimento, por quem o Conselho de Ministros para os Assuntos Económicos determinar.
+(Revogado.)
 
 ###### Artigo 43.º
 
-A Comissão Interministerial compreende o plenário e os grupos de trabalho.
+(Revogado.)
 
 ###### Artigo 44.º
 
-O plenário da Comissão Interministerial, que pode funcionar em reuniões conjuntas ou reuniões restritas, terá a seguinte constituição:
-
-O director-geral do Secretariado Técnico da Presidência do Conselho.
-
-Um vogal representante do Ministro das Finanças.
-
-Um vogal representante do Ministro da Marinha.
-
-Um vogal representante do Ministro dos Negócios Estrangeiros.
-
-Um vogal representante do Ministro das Obras Públicas.
-
-Um vogal representante do Ministro do Ultramar.
-
-Um vogal representante do Ministro da Educação Nacional.
-
-Um vogal representante do Ministro das Comunicações.
-
-Um vogal representante do Ministro das Corporações e Previdência Social.
-
-Um vogal representante do Secretário de Estado da Agricultura.
-
-Um vogal representante do Secretário de Estado da Indústria.
-
-Um vogal representante do Secretário de Estado do Comércio.
-
-Um vogal representante do Banco de Portugal.
-
-Um vogal representante do Instituto Nacional de Estatística.
-
-Os directores dos Serviços de Planeamento e de Integração Económica Nacional do Secretariado Técnico da Presidência do Conselho.
-
-§ 1.º As reuniões do plenário da Comissão Interministerial são convocadas pelo presidente, por sua iniciativa ou por proposta de algum dos vogais.
-
-§ 2.º Os vogais representantes dos Ministros e Secretários de Estado no plenário da Comissão Interministerial e respectivos suplentes serão designados por despacho do Presidente do Conselho, sobre proposta dos Ministros respectivos. A proposta para a designação do vogal representante do Banco de Portugal será feita pelo governo do Banco.
-
-§ 3.º Quando venha a reconhecer-se necessária a presença na Comissão Interministerial de representantes de outros departamentos governamentais, além dos indicados neste artigo, ou de representantes de províncias ultramarinas, poderá a sua inclusão ser determinada por despacho do Presidente do Conselho, ouvido o Ministro respectivo.
-
-§ 4.º Na falta ou impedimento de qualquer dos vogais efectivos da Comissão Interministerial intervirá nas reuniões o seu suplente.
+(Revogado.)
 
 ###### Artigo 45.º
 
-Compete especialmente aos vogais da Comissão Interministerial:
-
-1.º Transmitir à Comissão os pareceres e as sugestões dos seus Ministérios, bem como dar conta aos Ministros que representam dos estudos e mais trabalhos em curso na Comissão e da orientação que a mesma se propõe seguir na realização desses estudos e trabalhos;
-
-2.º Assegurar a ligação administrativa permanente entre o Secretariado Técnico da Presidência do Conselho e os serviços que, nos respectivos Ministérios, tenham a seu cargo a promoção, a execução, o financiamento ou a fiscalização de empreendimentos inscritos nos planos de fomento e a observância das resoluções destinadas a realizar a progressiva integração económica dos territórios e a unificação dos mercados nacionais.
+(Revogado.)
 
 ###### Artigo 46.º
 
-Os grupos de trabalho da Comissão Interministerial serão constituídos por representantes dos serviços e das entidades directamente interessadas e reunirão para estudo e informação dos problemas relativos às matérias de planeamento e de integração económica do respectivo âmbito, cuja apreciação compete ao Conselho de Ministros para os assuntos económicos.
+(Revogado.)
 
 ###### Artigo 47.º
 
-Os grupos de trabalho permanentes serão desde já os seguintes:
-
-A) Grupos de trabalho para o planeamento:
-
-Grupo de trabalho n.º 1 (agricultura, silvicultura e pecuária);
-
-Grupo de trabalho n.º 2 (indústria e energia);
-
-Grupo de trabalho n.º 3 (pesca);
-
-Grupo de trabalho n.º 4 (transportes e comunicações);
-
-Grupo de trabalho n.º 5 (investigação e ensino técnico);
-
-Grupo de trabalho n.º 6 (financiamento e equilíbrio monetário);
-
-Grupo de trabalho n.º 7 (mão-de-obra e aspectos sociais).
-
-B) Grupos de trabalho para integração económica nacional:
-
-Grupo de trabalho n.º 8 (ordenamento agrícola e condicionamento industrial);
-
-Grupo de trabalho n.º 9 (comércio inter-regional);
-
-Grupo de trabalho n.º 10 (regimes fiscais);
-
-Grupo de trabalho n.º 11 (pagamentos inter-regionais).
-
-§ 1.º Tendo em atenção a representação, pelos Ministérios competentes, dos interesses de todos os territórios, o Conselho de Ministros para os Assuntos Económicos determinará, por despacho, a composição e a presidência de cada grupo de trabalho e, quando lhe não definir também o seu mandato, será este estabelecido pelo presidente da Comissão Interministerial.
-
-§ 2.º A indicação dos representantes dos serviços que comparticipam nos diversos grupos de trabalho será feita por despacho do Ministro ou Secretário de Estado de que o serviço depende e comunicado ao presidente da Comissão Interministerial.
-
-§ 3.º Cada serviço ou entidade terá pelo menos um representante efectivo e um suplente. De preferência, a representação de um serviço em grupos de trabalho de que faça parte deve ser assegurada pelo mesmo funcionário, salvo quando se trate de serviço que oriente ou centralize diversos organismos corporativos ou de coordenação económica ligados a vários sectores de actividade, caso esse em que a sua representação em grupos de trabalho poderá variar consoante os problemas em estudo nas reuniões.
+(Revogado.)
 
 ###### Artigo 48.º
 
-Por iniciativa do presidente da Comissão Interministerial ou de qualquer dos seus vogais poderão constituir-se para o estudo de problemas específicos grupos de trabalho ad hoc, os quais se dissolverão no termo da tarefa que lhe for incumbida.
-
-§ único. Os presidentes dos grupos de trabalho ad hoc serão designados pelo presidente da Comissão Interministerial.
+(Revogado.)
 
 ###### Artigo 49.º
 
-As reuniões dos grupos de trabalho poderão ser convocadas pelo presidente da Comissão Interministerial ou pelo presidente do respectivo grupo.
-
-§ 1.º Para as reuniões dos grupos de trabalho poderão ser convocados todos os membros permanentes ou apenas aqueles que o respectivo presidente considere interessados nas matérias a tratar.
-
-§ 2.º Na falta ou impedimento do presidente de qualquer grupo de trabalho, assumirá as suas funções um dos directores de serviços do Secretariado Técnico da Presidência do Conselho, indicado pelo presidente da Comissão Interministerial.
-
-§ 3.º Cada grupo de trabalho será secretariado por um perito ou técnico do Secretariado Técnico.
+(Revogado.)
 
 ###### Artigo 50.º
 
-O presidente da Comissão Interministerial e os presidentes dos grupos de trabalho poderão chamar a colaborar nos respectivos grupos, a título transitório, mais de um delegado dos serviços representados, bem como representantes de entidades públicas ou privadas que neles não estejam permanentemente representadas, sempre que a sua presença seja julgada útil para o estudo de determinados assuntos.
-
-§ único. O Ministro do Ultramar, por sua iniciativa ou mediante proposta do presidente da Comissão Interministerial, poderá chamar a participar nas reuniões dos grupos de trabalho funcionários dos serviços provinciais de planeamento e integração económica e representantes dos serviços encarregados da promoção, execução ou financiamento de empreendimentos inscritos ou a inscrever nos planos de fomento e que sejam objecto de estudo nessas reuniões.
+(Revogado.)
 
 ###### Artigo 51.º
 
-Será criado pelo Ministério do Ultramar em cada uma das províncias ultramarinas, sob a dependência directa do respectivo governador, um serviço ou comissão de planeamento e de integração económica, ao qual incumbirá, em colaboração com os serviços territoriais competentes:
-
-1.º Preparar os projectos dos planos de fomento territoriais de acordo com a orientação que vier a ser definida pelo Conselho de Ministros para os Assuntos Económicos;
-
-2.º Coordenar e acompanhar a execução dos mesmos planos, centralizando as informações que lhe digam respeito, e propor as correcções que forem julgadas convenientes;
-
-3.º Propor a adopção de medidas destinadas a realizar, nos prazos superiormente fixados e para cada província ultramarina, a progressiva integração económica dos territórios e a unificação dos mercados nacionais.
-
-§ único. A ligação entre o serviço de planeamento e de integração económica de cada província ultramarina e o Secretariado Técnico da Presidência do Conselho será assegurada pelos serviços competentes do Ministério do Ultramar.
+(Revogado.)
 
 ###### Artigo 52.º
 
-Os quadros do pessoal do Secretariado Técnico da Presidência do Conselho, sua forma de provimento e remuneração e outras disposições relativas à orgânica e funcionamento deste serviço, a forma de remuneração do presidente, dos vogais e dos membros dos grupos de trabalho da Comissão Interministerial de Planeamento e Integração Económica e, ainda, a forma de cobertura dos encargos com o funcionamento da Comissão Consultiva de Política Económica serão fixados em diploma referendado pelo Presidente do Conselho e pelo Ministro das Finanças.
-
-§ 1.º O diploma previsto no corpo deste artigo determinará igualmente a data em que entrarão em funcionamento os órgãos e serviços nele referidos e se considerará extinta a Inspecção Superior do Plano de Fomento, e indicará bem assim os lugares a suprimir no quadro da Secretaria-Geral da Presidência do Conselho por virtude dessa extinção.
-
-§ 2.º Até à data que for fixada, nos termos do parágrafo anterior, serão desempenhadas pela Inspecção Superior do Plano de Fomento as atribuições cometidas por este decreto-lei ao Secretariado Técnico da Presidência do Conselho.
+(Revogado.)
 
 Publique-se e cumpra-se como nele se contém.
 

@@ -43,9 +43,15 @@ version_history:
     changes: []
   - date: '2011-01-01'
     amending: pt:dre:490249:por
-    amending_title: Lei n.º 110/2009
+    amending_title: Lei n.º 110/2009; Decreto-Lei n.º 251/83; Decreto-Lei n.º 141/91
     changes:
     - Revoga Artigo 19.º
+    - Revoga Artigo 12
+    - Revoga Artigo 13
+    - Revoga Artigo 14
+    - Revoga Artigo 15
+    - Revoga Artigo 6
+    - Revoga Artigo 8
 identifiers:
   celex: null
   eli: null
@@ -72,7 +78,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T23:24:33Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Lei n.º 110/2009. Método e verificação:
-    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1979/decreto-lei-513-m-79.alteracoes.json'
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1979/decreto-lei-513-m-79.alteracoes.json. Revogações
+    registadas só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Decreto-Lei
+    n.º 251/83; Decreto-Lei n.º 141/91.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -231,9 +239,9 @@ b) 500$00 ou a necessária para atingir um mínimo de 3600$00, para as de quanti
 
 ###### Artigo 6.º
 
-1 - Quando o beneficiário tenha direito a pensão de invalidez ou de velhice por mais do que um regime de previdência de inscrição obrigatória, incluindo o da Caixa Geral de Aposentações, o dos antigos funcionários ultramarinos, o esquema de previdência da regulamentação colectiva de trabalho dos bancários e os regimes de segurança social de outros países, ou pensão por incapacidade permanente resultante de acidente de trabalho ou doença profissional, a importância a somar ao respectivo quantitativo estatutário para obter a pensão regulamentar será determinada por aplicação dos artigos 4.º e 5.º, considerando, porém, como valor da pensão estatutária o que resultar da adição ao quantitativo estatutário do regime geral da Caixa Nacional de Pensões do total das restantes pensões atrás referidas, excluídas apenas as prestações complementares, designadamente o complemento por cônjuge a cargo e o suplemento aos grandes inválidos.
+(Revogado.)
 
-2 - Se, porém, a pensão regulamentar assim obtida for superior à que corresponderia exclusivamente à pensão estatutária da Caixa Nacional de Pensões, prevalece esta última pensão regulamentar.
+> Revogado pelo/a [Decreto-Lei n.º 141/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1991-616263), publicado em 1991-04-10, com efeitos a partir de 1991-07-01.
 
 ###### Artigo 7.º
 
@@ -243,7 +251,7 @@ b) 500$00 ou a necessária para atingir um mínimo de 3600$00, para as de quanti
 
 ###### Artigo 8.º
 
-Para a aplicação do n.º 1 do artigo precedente, considerar-se-á a pensão total quando o pensionista receba pensão de sobrevivência de mais do que um regime de previdência de inscrição obrigatória, incluindo o do Montepio dos Servidores do Estado, e dos antigos funcionários ultramarinos, o esquema de previdência da regulamentação colectiva de trabalho dos bancários e os regimes de segurança social de outros países ou pensão resultante de acidente de trabalho ou doença profissional.
+(Revogado.)
 
 ###### Artigo 9.º
 
@@ -267,43 +275,21 @@ e o artigo 2.º do [Decreto-Lei n.º 180-C/78](https://diariodarepublica.pt/dr/d
 
 ###### Artigo 12.º
 
-1 - A quotização mensal a que se refere o artigo 6.º do [Decreto n.º 174-B/75](https://diariodarepublica.pt/dr/detalhe/decreto/174-b-1975-344917), de 1 de Abril, é elevada para 150$00 ou, para trabalhadores menores de 18 anos, 120$00.
+(Revogado.)
 
-2 - As quotizações a que se referem o número anterior e o artigo 7.º do [Decreto n.º 174-B/75](https://diariodarepublica.pt/dr/detalhe/decreto/174-b-1975-344917) serão entregues nas caixas distritais, directamente ou por intermédio das Casas do Povo, para depósito à ordem do Instituto de Gestão Financeira da Segurança Social.
-
-3 - Nas caixas distritais serão contabilizadas as contas correntes de quotizações dos beneficiários e contribuintes a que se referem os números anteriores, bem como todas as despesas inerentes ao regime especial de previdência dos trabalhadores rurais.
+> Revogado pelo/a [Decreto-Lei n.º 251/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1983-451834), publicado em 1983-06-11, com efeitos a partir de 1983-10-01.
 
 ###### Artigo 13.º
 
-O artigo 7.º do Decreto-Lei n.º 174-B/75, de 1 de Abril, passa a ter a seguinte redacção:
-
-Art. 7.º - 1 - ...
-
-2 - ...
-
-3 - ...
-
-4 - ...
-
-5 - ...
-
-6 - ...
-
-7 - ...
-
-8 - As disposições constantes do presente artigo não são aplicáveis às entidades contribuintes que exploram a terra e que, por força da legislação vigente, se encontram abrangidas, relativamente à totalidade dos seus trabalhadores, pelo regime geral.
+(Revogado.)
 
 ###### Artigo 14.º
 
-É elevada para 7$00 a contribuição a que se refere o n.º 1 da base XXVI do despacho ministerial de 30 de Agosto de 1969.
+(Revogado.)
 
 ###### Artigo 15.º
 
-1 - A tabela anexa ao despacho de 21 de Abril de 1971 (extensão do regime especial de abono de família aos arrendatários cultivadores directos) é substituída pela seguinte:
-
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/29601/00080011.pdf)
-
-2 - São alteradas, em conformidade com a tabela anterior, as disposições constantes dos n.os 2 e 3 do despacho referido no número precedente.
+(Revogado.)
 
 ###### Artigo 16.º
 

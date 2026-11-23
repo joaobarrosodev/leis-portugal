@@ -53,9 +53,14 @@ version_history:
     changes: []
   - date: '2011-07-26'
     amending: pt:dre:669513:por
-    amending_title: Decreto-Lei n.º 90/2011
+    amending_title: Decreto-Lei n.º 90/2011; Decreto-Lei n.º 137-A/99; Decreto-Lei n.º 261-A/99
     changes:
     - Revoga Artigo 15.º
+    - Revoga Artigo 1
+    - Revoga Artigo 2
+    - Revoga Artigo 12
+    - Revoga Artigo 9
+    - Revoga Artigo 13
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/353/1991/09/20/p/dre/pt/html
@@ -82,7 +87,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:11:57Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 90/2011. Método e
-    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1991/decreto-lei-353-91.alteracoes.json'
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1991/decreto-lei-353-91.alteracoes.json.
+    Revogações registadas só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Decreto-Lei
+    n.º 137-A/99; Decreto-Lei n.º 261-A/99.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -158,19 +165,21 @@ No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 11/90](https:
 
 ###### Artigo 1.º
 
-1 - Nos termos e condições da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, e do presente diploma, é aprovada a redução, por fases, da participação do Estado no capital da sociedade Petróleos de Portugal - PETROGAL, S. A., até 10% do total, depois de aumentado em conformidade com o disposto nos artigos seguintes.
+1 - (Revogado.)
 
-2 - A redução aprovada pelo número anterior efectuar-se-á mediante aumentos de capital, em que o Estado não participará, e por alienação de acções pertencentes ao Estado.
+2 - (Revogado.)
 
 3 - A 1.ª fase é regulada pelo presente diploma e pela resolução do Conselho de Ministros prevista no artigo 11.º
+
+> Revogado pelo/a [Decreto-Lei n.º 137-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-a-1999-265085), publicado em 1999-04-22, com efeitos a partir de 1999-04-23.
 
 ###### Artigo 2.º
 
 1 - A 1.ª fase do processo de reprivatização da PETROGAL destina-se à reprivatização de 51% do respectivo capital social e será realizada por meio de uma operação conjunta, consistente num aumento do capital da sociedade em 19000000 de contos, através da emissão de igual número de acções, com valor nominal de 1000$00 cada uma, na alienação, pelo Estado, de 5000000 de acções e, ainda, na alienação diferida, dentro de determinado prazo, de 24960000 acções da sociedade.
 
-2 - No conjunto das fases da reprivatização será reservado para aquisição por trabalhadores, pequenos subscritores e, eventualmente, emigrantes um número de acções correspondentes ao máximo de 20% do capital da sociedade, no termo do processo de reprivatização.
+2 - (Revogado.)
 
-3 - Ressalvando o disposto no número anterior, as fases subsequentes deste processo de reprivatização efectuar-se-ão nas condições que vierem a ser estabelecidas mediante diplomas próprios, em condições e segundo qualquer das modalidades admitidas pela [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril.
+3 - (Revogado.)
 
 ###### Artigo 3.º
 
@@ -224,7 +233,9 @@ Exceptuam-se do regime de indisponibilidade estabelecido nos artigos 5.º e 6.º
 
 ###### Artigo 9.º
 
-Não são aplicáveis à SGPS os preceitos legais que exijam, em função do capital da PETROGAL por ela detido, o lançamento ou a realização de uma oferta pública de aquisição de valores mobiliários.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 261-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/261-a-1999-435052), publicado em 1999-07-07, com efeitos a partir de 1999-07-08.
 
 ###### Artigo 10.º
 
@@ -242,25 +253,11 @@ Compete ao Governo, em resolução do Conselho de Ministros, aprovar o caderno d
 
 ###### Artigo 12.º
 
-1 - No conjunto das fases do processo de reprivatização não podem ser adquiridas por entidades estrangeiras, nem averbadas ou inscritas a seu favor, acções representativas de mais de 40% do capital, com direito de voto da sociedade.
-
-2 - Para o cálculo da percentagem fixada no número anterior contar-se-ão não só as acções directamente adquiridas por entidades estrangeiras mas também as acções da PETROGAL possuídas por sociedades portuguesas em que participem entidades estrangeiras, na parte proporcional a esta participação.
-
-3 - Para efeitos dos números anteriores, o conselho de administração poderá solicitar ao requerente da inscrição ou do averbamento as informações e provas que considerar necessárias.
+(Revogado.)
 
 ###### Artigo 13.º
 
-1 - São nulos:
-
-a) Os acordos parassociais celebrados entre entidades portuguesas e entidades estrangeiras relativos a acções da PETROGAL, com excepção dos acordos preparatórios da constituição da SGPS;
-
-b) Os contratos-promessa, contratos de opção ou quaisquer outros pelos quais a uma entidade estrangeira, interveniente ou não no processo de reprivatização, for atribuído o direito de adquirir acções pertencentes a entidades portuguesas, desde que por esse facto seja excedido algum dos limites prescritos no n.º 1 do artigo anterior;
-
-c) Os acordos pelos quais entidades portuguesas adquiram acções da PETROGAL, em nome próprio mas por conta de entidades estrangeiras e as aquisições efectuadas por aquelas entidades nas referidas condições.
-
-2 - As nulidades cominadas no número anterior e, bem assim, as previstas no artigo 8.º podem ser judicialmente declaradas, a requerimento do Ministério Público, sem prejuízo da sua invocação, nos termos gerais de direito, por qualquer interessado, incluindo a sociedade.
-
-3 - Nas sociedades gestoras de participações sociais ou outras, em que participem entidades estrangeiras e que sejam titulares de acções da PETROGAL, nas deliberações sobre aquisição, alienação ou oneração destas acções e, bem assim, sobre o exercício do direito de voto em assembleias gerais da PETROGAL, não se aplicam as cláusulas dos contratos daquelas primeiras sociedades que subordinem a emissão ou o sentido do voto a qualquer requisito que não seja a maioria legalmente exigível para a tomada de deliberação do órgão interveniente.
+(Revogado.)
 
 ###### Artigo 14.º
 

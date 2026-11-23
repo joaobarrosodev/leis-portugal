@@ -54,10 +54,29 @@ version_history:
     changes: []
   - date: '2010-12-29'
     amending: pt:dre:666882:por
-    amending_title: Decreto-Lei n.º 138-C/2010
+    amending_title: Decreto-Lei n.º 138-C/2010; Decreto-Lei n.º 55/2009
     changes:
     - Revoga Artigo 25.º
     - Revoga Artigo 28.º
+    - Revoga Artigo 2
+    - Revoga Artigo 3
+    - Revoga Artigo 6
+    - Revoga Artigo 7
+    - Revoga Artigo 8
+    - Revoga Artigo 10
+    - Revoga Artigo 11
+    - Revoga Artigo 12
+    - Revoga Artigo 13
+    - Revoga Artigo 14
+    - Revoga Artigo 15
+    - Revoga Artigo 16
+    - Revoga Artigo 17
+    - Revoga Artigo 18
+    - Revoga Artigo 19
+    - Revoga Artigo 20
+    - Revoga Artigo 21
+    - Revoga Artigo 22
+    - Revoga Artigo 23
 identifiers:
   celex: null
   eli: null
@@ -84,7 +103,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:03:30Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 138-C/2010. Método
-    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1990/decreto-lei-35-90.alteracoes.json'
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1990/decreto-lei-35-90.alteracoes.json.
+    Revogações registadas só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Decreto-Lei
+    n.º 55/2009.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -188,21 +209,13 @@ O presente diploma aplica-se aos alunos que frequentam o ensino não superior em
 
 ###### Artigo 2.º — Cumprimento da escolaridade obrigatória
 
-1 - A frequência do ensino básico, com a duração de nove anos, é obrigatória para todas as crianças em idade escolar, nos termos do disposto no artigo 6.º da [Lei n.º 46/86](https://diariodarepublica.pt/dr/detalhe/lei/46-1986-222418), de 14 de Outubro (Lei de Bases do Sistema Educativo).
+(Revogado.)
 
-2 - Os alunos com necessidades educativas específicas, resultantes de deficiências físicas ou mentais, estão sujeitos ao cumprimento da escolaridade obrigatória, não podendo ser isentos da sua frequência.
-
-3 - A frequência a que se refere o número anterior processa-se em estabelecimentos regulares de ensino ou em instituições específicas de educação especial, quando comprovadamente o exijam o tipo e o grau de deficiência do aluno.
+> Revogado pelo/a [Decreto-Lei n.º 55/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-2009-604644), publicado em 2009-03-02, com efeitos a partir de 2009-03-07.
 
 ###### Artigo 3.º — Gratuitidade da escolaridade obrigatória
 
-1 - Durante o período da escolaridade obrigatória o ensino é gratuito.
-
-2 - A gratuitidade da escolaridade obrigatória consiste na isenção total de propinas, taxas e emolumentos relacionados com a matrícula, a frequência escolar e a certificação de aproveitamento.
-
-3 - Além do disposto no número anterior, a gratuitidade abrange ainda o seguro escolar e a faculdade de dispor, nos termos do presente diploma, de apoios complementares que favoreçam a igualdade de oportunidades no acesso e sucesso escolares.
-
-4 - O disposto nos números anteriores não prejudica a eventual existência de taxas ou outro modo de participação nos custos, decorrentes de acções de natureza extracurricular ou de ocupação de tempos livres, bem como de actividades extraordinárias, promovidas pelos estabelecimentos de ensino e organizadas por estes isoladamente ou em colaboração com associações de pais e encarregados de educação ou quaisquer outras entidades.
+(Revogado.)
 
 ###### Artigo 4.º — Apoios e complementos educativos
 
@@ -222,19 +235,15 @@ Os apoios e complementos educativos exercem-se nos domínios da orientação e p
 
 ###### Artigo 6.º — Prioridade por níveis de educação e ensino
 
-1 - A aplicação das diversas modalidades de apoios e complementos educativos aos diferentes níveis de ensino deve ter em conta a especificidade da acção educativa própria, os grupos etários envolvidos e a organização da rede nacional respectiva.
-
-2 - Sem prejuízo do disposto no número anterior, a política de apoios e complementos educativos, designadamente na afectação de recursos, deve atribuir prioridade ao ensino básico e às modalidades de educação especial.
+(Revogado.)
 
 ###### Artigo 7.º — Níveis de comparticipação
 
-1 - O acesso aos apoios e complementos educativos é gratuito ou comparticipado, consoante a situação sócio-económica dos alunos.
-
-2 - Os níveis de comparticipação são anualmente definidos tendo em consideração os factores pertinentes, designadamente o rendimento familiar, a composição da família, encargos especiais da família por doença, deficiência ou outro motivo atendível, sujeitos a critérios de equidade e de justiça social.
+(Revogado.)
 
 ###### Artigo 8.º — Referenciais de aplicação
 
-Para efeitos de definição do universo populacional abrangido pelas modalidades de aplicação restrita, em cada ano escolar são fixadas tabelas indicativas com base em referenciais sócio-económicos.
+(Revogado.)
 
 #### SECÇÃO I — Orientação e psicologia educacional
 
@@ -248,127 +257,59 @@ Para efeitos de definição do universo populacional abrangido pelas modalidades
 
 ###### Artigo 10.º — Apoios alimentares
 
-O apoio a prestar em matéria de alimentação abrange:
-
-a) A distribuição diária e gratuita de leite;
-
-b) A atribuição de refeições subsidiadas ou gratuitas;
-
-c) A promoção de acções no âmbito da educação e higiene alimentar.
+(Revogado.)
 
 ###### Artigo 11.º — Programa de leite escolar
 
-1 - O programa de leite escolar tem finalidades educativas e de saúde.
-
-2 - Os alunos do ensino básico recebem o leite escolar, diária e gratuitamente, ao longo de todo o ano lectivo.
-
-3 - Serão assegurados todos os cuidados necessários em matéria de higiene, conservação e garantia das boas condições em que o leite é distribuído.
-
-4 - Promover-se-á o consumo de leite e seus derivados junto dos alunos do ensino secundário, mediante a sua venda não lucrativa nos respectivos estabelecimentos escolares.
-
-5 - No caso da população referida no n.º 2 deste artigo, poderão ser associados ao leite escolar outros alimentos nutritivos, tendo em conta, designadamente, as necessidades alimentares dos alunos.
+(Revogado.)
 
 ###### Artigo 12.º — Refeitórios
 
-1 - Os estabelecimentos de ensino devem dispor de refeitórios escolares.
-
-2 - Nos casos em que o número de alunos não justifique a sua existência, o refeitório pode ser substituído pela utilização de refeitórios de estabelecimentos vizinhos ou outras formas de prestação de serviço.
-
-3 - Os refeitórios fornecerão o almoço e, quando funcionem por cursos nocturnos e o número de alunos o justifique, também o jantar.
-
-4 - As refeições são fornecidas sem fins lucrativos, não prejudicando o esquema de auxílios económicos previsto no presente diploma.
+(Revogado.)
 
 ###### Artigo 13.º — Bufetes
 
-1 - Para além dos refeitórios, os estabelecimento de ensino podem dispor de um serviço de bufete.
-
-2 - Nos casos em que os estabelecimentos não disponham de refeitório e os respectivos alunos não possam frequentar um refeitório localizado a distância razoável, o bufete terá uma função supletiva daquele, para o que será convenientemente apetrechado e dotado dos meios necessários.
+(Revogado.)
 
 ###### Artigo 14.º — Educação e higiene alimentar
 
-1 - As refeições devem contribuir para a melhoria dos níveis alimentar e de saúde dos alunos, considerados os hábitos alimentares das regiões.
-
-2 - As actividades escolares devem fomentar, com a participação activa dos alunos, uma alimentação saudável.
-
-3 - Os refeitórios e bufetes referidos nos artigos 12.º e 13.º do presente diploma são objecto de inspecções sanitárias periódicas, pelo menos uma vez por ano, da responsabilidade da autoridade sanitária da área, a fim de garantir o seu funcionamento em boas condições de higiene e de salubridade.
+(Revogado.)
 
 ###### Artigo 15.º — Transportes escolares
 
-1 - Aos alunos dos ensinos básico e secundário que residam em localidades que não disponham de estabelecimentos escolares acessíveis a pé, em termos de distância ou de tempo, nem de transportes públicos colectivos utilizáveis será facultado um esquema adequado de transportes escolares.
-
-2 - Será assegurado o transporte escolar dentro da área de residência aos alunos com dificuldades de locomoção ou que necessitem de se deslocar para frequência de modalidades de educação especial.
-
-3 - A utilização do esquema de transportes escolares será gratuita para os alunos do ensino básico e comparticipada para os do ensino secundário.
-
-4 - A organização e controlo do funcionamento dos transportes escolares é da competência dos municípios de residência dos alunos, nos termos do [Decreto-Lei n.º 299/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/299-1984-373662), de 5 de Setembro.
+(Revogado.)
 
 ###### Artigo 16.º — Alojamento
 
-1 - Com vista a garantir o cumprimento da escolaridade obrigatória e o acesso à escola por parte de alunos forçados a separarem-se da família durante o período de frequência da escola será organizado um esquema de apoio ao alojamento.
-
-2 - O apoio ao alojamento pode abranger as seguintes modalidades:
-
-a) Rede oficial de residências para estudantes;
-
-b) Colocações familiares;
-
-c) Acordos de cooperação com entidades privadas.
-
-3 - No apoio ao alojamento é atribuída primeira prioridade aos alunos com fracos recursos económicos que frequentem o ensino básico ou estruturas de educação especial.
-
-4 - Em qualquer das modalidades referidas no n.º 2, o custo suportado pelo aluno é comparticipado, sem prejuízo do esquema de apoios económicos previsto neste diploma.
+(Revogado.)
 
 ###### Artigo 17.º — Prevenção e seguro escolar
 
-1 - Nos estabelecimentos de ensino existirá um programa de prevenção de acidentes e seguro escolar.
-
-2 - O programa referido no número anterior consiste em acções educativas no campo da segurança e prevenção de acidentes nas actividades escolares e num esquema de seguro que garanta a cobertura financeira da assistência a prestar aos sinistrados, complementarmente aos apoios assegurados pelo sistema nacional de saúde.
+(Revogado.)
 
 ###### Artigo 18.º — Cedência de livros e material escolar
 
-1 - Os livros e material escolar são atribuídos em espécie.
-
-2 - Aos alunos com necessidades educativas especiais são atribuídas as ajudas técnicas, os livros e o material escolar adequados, de acordo com a avaliação dos serviços competentes.
+(Revogado.)
 
 ###### Artigo 19.º — Auxílios económicos
 
-1 - Os auxílios económicos directos são formas de apoio sócio-educativo destinados a alunos de mais fracos recursos, visando contribuir para que possam fazer face aos encargos directa ou indirectamente relacionados com as actividades escolares e circum-escolares.
-
-2 - Os auxílios económicos directos abrangem as seguintes modalidades:
-
-a) Isenção de propinas;
-
-b) Bolsa de estudo;
-
-c) Empréstimo.
+(Revogado.)
 
 ###### Artigo 20.º — Isenção de propinas
 
-A modalidade «isenção de propinas» aplica-se aos alunos do ensino secundário que, nos termos do disposto no artigo 8.º, se situem no respectivo referencial sócio-económico.
+(Revogado.)
 
 ###### Artigo 21.º — Bolsa de estudo
 
-1 - A modalidade «bolsa de estudo» tem carácter mensal durante o período do ano lectivo e aplica-se aos alunos do ensino secundário que, nos termos do disposto no artigo 8.º, se situem no respectivo referencial sócio-económico.
-
-2 - A fixação do montante das bolsas de estudo é estabelecida por despacho do Ministro da Educação, tendo em atenção o nível de ensino a que respeita, a condição sócio-económica do aluno e os encargos que visa satisfazer.
+(Revogado.)
 
 ###### Artigo 22.º — Empréstimo
 
-1 - A modalidade «empréstimo» destina-se a alunos do ensino secundário nas suas diferenciadas formas, bem como dos cursos organizados nos termos do artigo 19.º da Lei de Bases do Sistema Educativo, e visa proporcionar os meios necessários à respectiva frequência.
-
-2 - A modalidade «empréstimo» tem carácter supletivo ou complementar das restantes modalidades.
-
-3 - Os empréstimos serão concedidos por instituições de crédito que venham a criar esquemas adequados aos estudantes.
-
-4 - O empréstimo a conceder a estudantes menores será contratado entre os legais representantes destes e as instituições de crédito.
-
-5 - Deverão ser celebrados protocolos de cooperação entre os serviços especializados do Ministério da Educação e as instituições de crédito interessadas tendo em vista a comunicação de elementos estatísticos e a prestação de quaisquer outros apoios técnicos adequados à realização do objecto do presente artigo.
+(Revogado.)
 
 ###### Artigo 23.º — Serviços de acção social escolar
 
-1 - A acção social escolar desenvolve-se no âmbito da educação escolar e visa assegurar as condições que permitam, com sucesso, o efectivo cumprimento da escolaridade obrigatória e a frequência da escola após o ensino básico.
-
-2 - Os serviços de acção social escolar exercem a sua actividade nos estabelecimentos de ensino públicos.
+(Revogado.)
 
 ###### Artigo 24.º — Apoio da saúde escolar
 

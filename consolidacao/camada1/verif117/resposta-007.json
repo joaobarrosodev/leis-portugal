@@ -1,0 +1,2241 @@
+[
+ {
+  "id": "pt:dre:429270:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 331/98 art. 12.º n.º 1 a); a suspensão do DL 234-A/98 fica sem objecto. Corpo '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "Redacção do DL 143/97 (art. 1.º) depois revogado pelo DL 331/98 art. 12.º; corpo '(Revogado.)', epígrafe conforme.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "SECÇÃO I",
+    "veredicto": "certo",
+    "motivo": "Epígrafe da secção I da divisão II alterada para «Conselho directivo» pelo art. 2.º do DL 143/97; a secção não é revogada pelo 331/98.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 10.º",
+    "veredicto": "certo",
+    "motivo": "Redacção do DL 143/97 (art. 1.º) depois revogado pelo DL 331/98 art. 12.º; corpo '(Revogado.)', epígrafe conforme.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 11.º",
+    "veredicto": "certo",
+    "motivo": "Redacção do DL 143/97 (art. 1.º) depois revogado pelo DL 331/98 art. 12.º; corpo '(Revogado.)', epígrafe conforme.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 12.º",
+    "veredicto": "certo",
+    "motivo": "Redacção do DL 143/97 (art. 1.º) depois revogado pelo DL 331/98 art. 12.º; corpo '(Revogado.)', epígrafe conforme.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 13.º",
+    "veredicto": "certo",
+    "motivo": "Epígrafe «Competência do presidente» do art. 13.º dado pelo DL 143/97; artigo depois revogado pelo DL 331/98. Corpo '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 14.º",
+    "veredicto": "certo",
+    "motivo": "Redacção do DL 143/97 (art. 1.º) depois revogado pelo DL 331/98 art. 12.º; corpo '(Revogado.)', epígrafe conforme.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 15.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 3.º do DL 143/97 e pelo DL 331/98. Corpo '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 16.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 3.º do DL 143/97 e pelo DL 331/98. Corpo '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 17.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 3.º do DL 143/97 e pelo DL 331/98. Corpo '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 18.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 3.º do DL 143/97 e pelo DL 331/98. Corpo '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 19.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 3.º do DL 143/97 e pelo DL 331/98. Corpo '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 20.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 21.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 22.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 23.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 24.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 25.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 26.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 27.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 28.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 29.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 30.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 31.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 32.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 33.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 34.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 35.º",
+    "veredicto": "certo",
+    "motivo": "DL 188/89 art. 1.º (n.º 1 al. d), n.os 3 e 4 novos; n.os 1 corpo e 2 mantidos) e DL 331/98 art. 12.º n.º 1 a) (ressalva n.os 1 al. d), 2, 3 e 4): alíneas a), b), c) do n.º 1 revogadas, resto mantido. Confirmado letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 36.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 37.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 38.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 39.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 40.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 41.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 42.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 43.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 44.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 45.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 46.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 47.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 48.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 49.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 50.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 51.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 51.º-A",
+    "veredicto": "dúvida",
+    "motivo": "Aditado pelo art. 3.º do DL 188/89 (texto igual ao consolidado). O DL 331/98 art. 12.º n.º 1 a) não ressalva expressamente o art. 51.º-A (só n.º 35, 58, 59, 72), mas mantém em vigor 'as disposições constantes do DL 188/89'; ambíguo se isso abrange o aditamento ao art. 51.º-A.",
+    "texto_esperado": "Se o art. 51.º-A não estiver ressalvado: '###### Artigo 51.º-A — Limite de idade\n\n(Revogado.)'; se estiver, o texto actual está certo."
+   },
+   {
+    "artigo": "Artigo 52.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 53.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 54.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 55.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 56.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 57.º",
+    "veredicto": "certo",
+    "motivo": "Epígrafe «Quadros de pessoal» dada pelo art. 1.º do DL 403/93; artigo depois revogado pelo DL 331/98. Corpo '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 58.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 2.º n.º 1 do DL 403/93 (efeito adiado) e em definitivo pelo DL 331/98 art. 12.º n.º 1 a). Corpo '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 59.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 2.º n.º 1 do DL 403/93 (efeito adiado) e em definitivo pelo DL 331/98 art. 12.º n.º 1 a). Corpo '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 60.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 2.º n.º 1 do DL 403/93 (efeito adiado) e em definitivo pelo DL 331/98 art. 12.º n.º 1 a). Corpo '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 61.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 2.º n.º 1 do DL 403/93 (efeito adiado) e em definitivo pelo DL 331/98 art. 12.º n.º 1 a). Corpo '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 62.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 2.º n.º 1 do DL 403/93 (efeito adiado) e em definitivo pelo DL 331/98 art. 12.º n.º 1 a). Corpo '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 63.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 2.º n.º 1 do DL 403/93 (efeito adiado) e em definitivo pelo DL 331/98 art. 12.º n.º 1 a). Corpo '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 64.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 2.º n.º 1 do DL 403/93 (efeito adiado) e em definitivo pelo DL 331/98 art. 12.º n.º 1 a). Corpo '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 65.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 2.º n.º 1 do DL 403/93 (efeito adiado) e em definitivo pelo DL 331/98 art. 12.º n.º 1 a). Corpo '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 66.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 2.º n.º 1 do DL 403/93 (efeito adiado) e em definitivo pelo DL 331/98 art. 12.º n.º 1 a). Corpo '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 67.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 2.º n.º 1 do DL 403/93 (efeito adiado) e em definitivo pelo DL 331/98 art. 12.º n.º 1 a). Corpo '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 67.º-A",
+    "veredicto": "certo",
+    "motivo": "Aditado pela Portaria 273/79 (n.º 2) e revogado com o DL 361/78 pelo DL 331/98 art. 12.º; epígrafe mantida e '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 68.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 69.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 70.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 71.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 72.º",
+    "veredicto": "certo",
+    "motivo": "Redacção do art. 1.º do DL 188/89 ressalvada pelo DL 331/98; revogado pelo art. 2.º al. c) do DL 229/2005. Corpo '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 73.º",
+    "veredicto": "certo",
+    "motivo": "Redacção da Portaria 443/80, revogado pelo art. 4.º n.º 1 do DL 188/89 e pelo DL 331/98. Corpo '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 74.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 75.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 76.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 77.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 78.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 2.º n.º 2 do DL 403/93 e pelo DL 331/98. Corpo '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 79.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 2.º n.º 2 do DL 403/93 e pelo DL 331/98. Corpo '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 80.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 81.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 82.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 83.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 84.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 85.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 86.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 87.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 88.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 89.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 90.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo. Assinaturas finais mantidas (não são corpo do artigo).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 1.º #2",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo. Ressalva: art. 10.º n.º 2 do DL 331/98 mantém transitoriamente em vigor o estatuto do pessoal, mas a revogação do art. 12.º é 'sem prejuízo' das normas transitórias do próprio DL 331/98 e não adia o efeito no texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 2.º #2",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo. Ressalva: art. 10.º n.º 2 do DL 331/98 mantém transitoriamente em vigor o estatuto do pessoal, mas a revogação do art. 12.º é 'sem prejuízo' das normas transitórias do próprio DL 331/98 e não adia o efeito no texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º #2",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo. Ressalva: art. 10.º n.º 2 do DL 331/98 mantém transitoriamente em vigor o estatuto do pessoal, mas a revogação do art. 12.º é 'sem prejuízo' das normas transitórias do próprio DL 331/98 e não adia o efeito no texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º #2",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo. Ressalva: art. 10.º n.º 2 do DL 331/98 mantém transitoriamente em vigor o estatuto do pessoal, mas a revogação do art. 12.º é 'sem prejuízo' das normas transitórias do próprio DL 331/98 e não adia o efeito no texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º #2",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo. Ressalva: art. 10.º n.º 2 do DL 331/98 mantém transitoriamente em vigor o estatuto do pessoal, mas a revogação do art. 12.º é 'sem prejuízo' das normas transitórias do próprio DL 331/98 e não adia o efeito no texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º #2",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo. Ressalva: art. 10.º n.º 2 do DL 331/98 mantém transitoriamente em vigor o estatuto do pessoal, mas a revogação do art. 12.º é 'sem prejuízo' das normas transitórias do próprio DL 331/98 e não adia o efeito no texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 7.º #2",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo. Ressalva: art. 10.º n.º 2 do DL 331/98 mantém transitoriamente em vigor o estatuto do pessoal, mas a revogação do art. 12.º é 'sem prejuízo' das normas transitórias do próprio DL 331/98 e não adia o efeito no texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 8.º #2",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo. Ressalva: art. 10.º n.º 2 do DL 331/98 mantém transitoriamente em vigor o estatuto do pessoal, mas a revogação do art. 12.º é 'sem prejuízo' das normas transitórias do próprio DL 331/98 e não adia o efeito no texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 9.º #2",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo. Ressalva: art. 10.º n.º 2 do DL 331/98 mantém transitoriamente em vigor o estatuto do pessoal, mas a revogação do art. 12.º é 'sem prejuízo' das normas transitórias do próprio DL 331/98 e não adia o efeito no texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 10.º #2",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo. Ressalva: art. 10.º n.º 2 do DL 331/98 mantém transitoriamente em vigor o estatuto do pessoal, mas a revogação do art. 12.º é 'sem prejuízo' das normas transitórias do próprio DL 331/98 e não adia o efeito no texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 11.º #2",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo. Ressalva: art. 10.º n.º 2 do DL 331/98 mantém transitoriamente em vigor o estatuto do pessoal, mas a revogação do art. 12.º é 'sem prejuízo' das normas transitórias do próprio DL 331/98 e não adia o efeito no texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 12.º #2",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo. Ressalva: art. 10.º n.º 2 do DL 331/98 mantém transitoriamente em vigor o estatuto do pessoal, mas a revogação do art. 12.º é 'sem prejuízo' das normas transitórias do próprio DL 331/98 e não adia o efeito no texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 13.º #2",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo. Ressalva: art. 10.º n.º 2 do DL 331/98 mantém transitoriamente em vigor o estatuto do pessoal, mas a revogação do art. 12.º é 'sem prejuízo' das normas transitórias do próprio DL 331/98 e não adia o efeito no texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 14.º #2",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo. Ressalva: art. 10.º n.º 2 do DL 331/98 mantém transitoriamente em vigor o estatuto do pessoal, mas a revogação do art. 12.º é 'sem prejuízo' das normas transitórias do próprio DL 331/98 e não adia o efeito no texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 15.º #2",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo. Ressalva: art. 10.º n.º 2 do DL 331/98 mantém transitoriamente em vigor o estatuto do pessoal, mas a revogação do art. 12.º é 'sem prejuízo' das normas transitórias do próprio DL 331/98 e não adia o efeito no texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 16.º #2",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo. Ressalva: art. 10.º n.º 2 do DL 331/98 mantém transitoriamente em vigor o estatuto do pessoal, mas a revogação do art. 12.º é 'sem prejuízo' das normas transitórias do próprio DL 331/98 e não adia o efeito no texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 17.º #2",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo. Ressalva: art. 10.º n.º 2 do DL 331/98 mantém transitoriamente em vigor o estatuto do pessoal, mas a revogação do art. 12.º é 'sem prejuízo' das normas transitórias do próprio DL 331/98 e não adia o efeito no texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 18.º #2",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo. Ressalva: art. 10.º n.º 2 do DL 331/98 mantém transitoriamente em vigor o estatuto do pessoal, mas a revogação do art. 12.º é 'sem prejuízo' das normas transitórias do próprio DL 331/98 e não adia o efeito no texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 19.º #2",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo. Ressalva: art. 10.º n.º 2 do DL 331/98 mantém transitoriamente em vigor o estatuto do pessoal, mas a revogação do art. 12.º é 'sem prejuízo' das normas transitórias do próprio DL 331/98 e não adia o efeito no texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 20.º #2",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo. Ressalva: art. 10.º n.º 2 do DL 331/98 mantém transitoriamente em vigor o estatuto do pessoal, mas a revogação do art. 12.º é 'sem prejuízo' das normas transitórias do próprio DL 331/98 e não adia o efeito no texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 21.º #2",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo. Ressalva: art. 10.º n.º 2 do DL 331/98 mantém transitoriamente em vigor o estatuto do pessoal, mas a revogação do art. 12.º é 'sem prejuízo' das normas transitórias do próprio DL 331/98 e não adia o efeito no texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 22.º #2",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo. Ressalva: art. 10.º n.º 2 do DL 331/98 mantém transitoriamente em vigor o estatuto do pessoal, mas a revogação do art. 12.º é 'sem prejuízo' das normas transitórias do próprio DL 331/98 e não adia o efeito no texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 23.º #2",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo. Ressalva: art. 10.º n.º 2 do DL 331/98 mantém transitoriamente em vigor o estatuto do pessoal, mas a revogação do art. 12.º é 'sem prejuízo' das normas transitórias do próprio DL 331/98 e não adia o efeito no texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 24.º #2",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo. Ressalva: art. 10.º n.º 2 do DL 331/98 mantém transitoriamente em vigor o estatuto do pessoal, mas a revogação do art. 12.º é 'sem prejuízo' das normas transitórias do próprio DL 331/98 e não adia o efeito no texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 25.º #2",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo. Ressalva: art. 10.º n.º 2 do DL 331/98 mantém transitoriamente em vigor o estatuto do pessoal, mas a revogação do art. 12.º é 'sem prejuízo' das normas transitórias do próprio DL 331/98 e não adia o efeito no texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 26.º #2",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo. Ressalva: art. 10.º n.º 2 do DL 331/98 mantém transitoriamente em vigor o estatuto do pessoal, mas a revogação do art. 12.º é 'sem prejuízo' das normas transitórias do próprio DL 331/98 e não adia o efeito no texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 27.º #2",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo. Ressalva: art. 10.º n.º 2 do DL 331/98 mantém transitoriamente em vigor o estatuto do pessoal, mas a revogação do art. 12.º é 'sem prejuízo' das normas transitórias do próprio DL 331/98 e não adia o efeito no texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 28.º #2",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo. Ressalva: art. 10.º n.º 2 do DL 331/98 mantém transitoriamente em vigor o estatuto do pessoal, mas a revogação do art. 12.º é 'sem prejuízo' das normas transitórias do próprio DL 331/98 e não adia o efeito no texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 29.º #2",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo. Ressalva: art. 10.º n.º 2 do DL 331/98 mantém transitoriamente em vigor o estatuto do pessoal, mas a revogação do art. 12.º é 'sem prejuízo' das normas transitórias do próprio DL 331/98 e não adia o efeito no texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 30.º #2",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo. Ressalva: art. 10.º n.º 2 do DL 331/98 mantém transitoriamente em vigor o estatuto do pessoal, mas a revogação do art. 12.º é 'sem prejuízo' das normas transitórias do próprio DL 331/98 e não adia o efeito no texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 31.º #2",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo. Ressalva: art. 10.º n.º 2 do DL 331/98 mantém transitoriamente em vigor o estatuto do pessoal, mas a revogação do art. 12.º é 'sem prejuízo' das normas transitórias do próprio DL 331/98 e não adia o efeito no texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 32.º #2",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo. Ressalva: art. 10.º n.º 2 do DL 331/98 mantém transitoriamente em vigor o estatuto do pessoal, mas a revogação do art. 12.º é 'sem prejuízo' das normas transitórias do próprio DL 331/98 e não adia o efeito no texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 33.º #2",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo. Ressalva: art. 10.º n.º 2 do DL 331/98 mantém transitoriamente em vigor o estatuto do pessoal, mas a revogação do art. 12.º é 'sem prejuízo' das normas transitórias do próprio DL 331/98 e não adia o efeito no texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 34.º #2",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo. Ressalva: art. 10.º n.º 2 do DL 331/98 mantém transitoriamente em vigor o estatuto do pessoal, mas a revogação do art. 12.º é 'sem prejuízo' das normas transitórias do próprio DL 331/98 e não adia o efeito no texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 35.º #2",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo. Ressalva: art. 10.º n.º 2 do DL 331/98 mantém transitoriamente em vigor o estatuto do pessoal, mas a revogação do art. 12.º é 'sem prejuízo' das normas transitórias do próprio DL 331/98 e não adia o efeito no texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 36.º #2",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo. Ressalva: art. 10.º n.º 2 do DL 331/98 mantém transitoriamente em vigor o estatuto do pessoal, mas a revogação do art. 12.º é 'sem prejuízo' das normas transitórias do próprio DL 331/98 e não adia o efeito no texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 37.º #2",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo. Ressalva: art. 10.º n.º 2 do DL 331/98 mantém transitoriamente em vigor o estatuto do pessoal, mas a revogação do art. 12.º é 'sem prejuízo' das normas transitórias do próprio DL 331/98 e não adia o efeito no texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 38.º #2",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo. Ressalva: art. 10.º n.º 2 do DL 331/98 mantém transitoriamente em vigor o estatuto do pessoal, mas a revogação do art. 12.º é 'sem prejuízo' das normas transitórias do próprio DL 331/98 e não adia o efeito no texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 39.º #2",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo. Ressalva: art. 10.º n.º 2 do DL 331/98 mantém transitoriamente em vigor o estatuto do pessoal, mas a revogação do art. 12.º é 'sem prejuízo' das normas transitórias do próprio DL 331/98 e não adia o efeito no texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 40.º #2",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo. Ressalva: art. 10.º n.º 2 do DL 331/98 mantém transitoriamente em vigor o estatuto do pessoal, mas a revogação do art. 12.º é 'sem prejuízo' das normas transitórias do próprio DL 331/98 e não adia o efeito no texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 41.º #2",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo. Ressalva: art. 10.º n.º 2 do DL 331/98 mantém transitoriamente em vigor o estatuto do pessoal, mas a revogação do art. 12.º é 'sem prejuízo' das normas transitórias do próprio DL 331/98 e não adia o efeito no texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 42.º #2",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo. Ressalva: art. 10.º n.º 2 do DL 331/98 mantém transitoriamente em vigor o estatuto do pessoal, mas a revogação do art. 12.º é 'sem prejuízo' das normas transitórias do próprio DL 331/98 e não adia o efeito no texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 43.º #2",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo. Ressalva: art. 10.º n.º 2 do DL 331/98 mantém transitoriamente em vigor o estatuto do pessoal, mas a revogação do art. 12.º é 'sem prejuízo' das normas transitórias do próprio DL 331/98 e não adia o efeito no texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 44.º #2",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo. Ressalva: art. 10.º n.º 2 do DL 331/98 mantém transitoriamente em vigor o estatuto do pessoal, mas a revogação do art. 12.º é 'sem prejuízo' das normas transitórias do próprio DL 331/98 e não adia o efeito no texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 45.º #2",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo. Ressalva: art. 10.º n.º 2 do DL 331/98 mantém transitoriamente em vigor o estatuto do pessoal, mas a revogação do art. 12.º é 'sem prejuízo' das normas transitórias do próprio DL 331/98 e não adia o efeito no texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 46.º #2",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo. Ressalva: art. 10.º n.º 2 do DL 331/98 mantém transitoriamente em vigor o estatuto do pessoal, mas a revogação do art. 12.º é 'sem prejuízo' das normas transitórias do próprio DL 331/98 e não adia o efeito no texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 47.º #2",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo. Ressalva: art. 10.º n.º 2 do DL 331/98 mantém transitoriamente em vigor o estatuto do pessoal, mas a revogação do art. 12.º é 'sem prejuízo' das normas transitórias do próprio DL 331/98 e não adia o efeito no texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 48.º #2",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo. Ressalva: art. 10.º n.º 2 do DL 331/98 mantém transitoriamente em vigor o estatuto do pessoal, mas a revogação do art. 12.º é 'sem prejuízo' das normas transitórias do próprio DL 331/98 e não adia o efeito no texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 49.º #2",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo. Ressalva: art. 10.º n.º 2 do DL 331/98 mantém transitoriamente em vigor o estatuto do pessoal, mas a revogação do art. 12.º é 'sem prejuízo' das normas transitórias do próprio DL 331/98 e não adia o efeito no texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 50.º #2",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo. Ressalva: art. 10.º n.º 2 do DL 331/98 mantém transitoriamente em vigor o estatuto do pessoal, mas a revogação do art. 12.º é 'sem prejuízo' das normas transitórias do próprio DL 331/98 e não adia o efeito no texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 51.º #2",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo. Ressalva: art. 10.º n.º 2 do DL 331/98 mantém transitoriamente em vigor o estatuto do pessoal, mas a revogação do art. 12.º é 'sem prejuízo' das normas transitórias do próprio DL 331/98 e não adia o efeito no texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 52.º #2",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo. Ressalva: art. 10.º n.º 2 do DL 331/98 mantém transitoriamente em vigor o estatuto do pessoal, mas a revogação do art. 12.º é 'sem prejuízo' das normas transitórias do próprio DL 331/98 e não adia o efeito no texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 53.º #2",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo. Ressalva: art. 10.º n.º 2 do DL 331/98 mantém transitoriamente em vigor o estatuto do pessoal, mas a revogação do art. 12.º é 'sem prejuízo' das normas transitórias do próprio DL 331/98 e não adia o efeito no texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 54.º #2",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo. Ressalva: art. 10.º n.º 2 do DL 331/98 mantém transitoriamente em vigor o estatuto do pessoal, mas a revogação do art. 12.º é 'sem prejuízo' das normas transitórias do próprio DL 331/98 e não adia o efeito no texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 55.º #2",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo. Ressalva: art. 10.º n.º 2 do DL 331/98 mantém transitoriamente em vigor o estatuto do pessoal, mas a revogação do art. 12.º é 'sem prejuízo' das normas transitórias do próprio DL 331/98 e não adia o efeito no texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 56.º #2",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo. Ressalva: art. 10.º n.º 2 do DL 331/98 mantém transitoriamente em vigor o estatuto do pessoal, mas a revogação do art. 12.º é 'sem prejuízo' das normas transitórias do próprio DL 331/98 e não adia o efeito no texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 57.º #2",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo. Ressalva: art. 10.º n.º 2 do DL 331/98 mantém transitoriamente em vigor o estatuto do pessoal, mas a revogação do art. 12.º é 'sem prejuízo' das normas transitórias do próprio DL 331/98 e não adia o efeito no texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 58.º #2",
+    "veredicto": "certo",
+    "motivo": "Estatuto do Pessoal (anexo I), art. 58.º: nova redacção do art. 5.º do DL 188/89 (n.os 1-3, n.os 4 e 5 antigos eliminados), ressalvado pelo DL 331/98 art. 12.º n.º 1 a). Confirmado letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 59.º #2",
+    "veredicto": "certo",
+    "motivo": "Redacção do art. 5.º do DL 188/89, ressalvada pelo DL 331/98, mas revogado depois pelo DL 229/2005, art. 2.º ('todas as normas que estabelecem acréscimos de tempo de serviço'; só o art. 72.º é nomeado, o 59.º cai na cláusula geral). Corpo '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 60.º #2",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo. Ressalva: art. 10.º n.º 2 do DL 331/98 mantém transitoriamente em vigor o estatuto do pessoal, mas a revogação do art. 12.º é 'sem prejuízo' das normas transitórias do próprio DL 331/98 e não adia o efeito no texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 61.º #2",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo. Ressalva: art. 10.º n.º 2 do DL 331/98 mantém transitoriamente em vigor o estatuto do pessoal, mas a revogação do art. 12.º é 'sem prejuízo' das normas transitórias do próprio DL 331/98 e não adia o efeito no texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 62.º #2",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo. Ressalva: art. 10.º n.º 2 do DL 331/98 mantém transitoriamente em vigor o estatuto do pessoal, mas a revogação do art. 12.º é 'sem prejuízo' das normas transitórias do próprio DL 331/98 e não adia o efeito no texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 63.º #2",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo. Ressalva: art. 10.º n.º 2 do DL 331/98 mantém transitoriamente em vigor o estatuto do pessoal, mas a revogação do art. 12.º é 'sem prejuízo' das normas transitórias do próprio DL 331/98 e não adia o efeito no texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 64.º #2",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo. Ressalva: art. 10.º n.º 2 do DL 331/98 mantém transitoriamente em vigor o estatuto do pessoal, mas a revogação do art. 12.º é 'sem prejuízo' das normas transitórias do próprio DL 331/98 e não adia o efeito no texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 65.º #2",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo. Ressalva: art. 10.º n.º 2 do DL 331/98 mantém transitoriamente em vigor o estatuto do pessoal, mas a revogação do art. 12.º é 'sem prejuízo' das normas transitórias do próprio DL 331/98 e não adia o efeito no texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 66.º #2",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo. Ressalva: art. 10.º n.º 2 do DL 331/98 mantém transitoriamente em vigor o estatuto do pessoal, mas a revogação do art. 12.º é 'sem prejuízo' das normas transitórias do próprio DL 331/98 e não adia o efeito no texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 67.º #2",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo. Ressalva: art. 10.º n.º 2 do DL 331/98 mantém transitoriamente em vigor o estatuto do pessoal, mas a revogação do art. 12.º é 'sem prejuízo' das normas transitórias do próprio DL 331/98 e não adia o efeito no texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 68.º #2",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo. Ressalva: art. 10.º n.º 2 do DL 331/98 mantém transitoriamente em vigor o estatuto do pessoal, mas a revogação do art. 12.º é 'sem prejuízo' das normas transitórias do próprio DL 331/98 e não adia o efeito no texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 69.º #2",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo. Ressalva: art. 10.º n.º 2 do DL 331/98 mantém transitoriamente em vigor o estatuto do pessoal, mas a revogação do art. 12.º é 'sem prejuízo' das normas transitórias do próprio DL 331/98 e não adia o efeito no texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 70.º #2",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo. Ressalva: art. 10.º n.º 2 do DL 331/98 mantém transitoriamente em vigor o estatuto do pessoal, mas a revogação do art. 12.º é 'sem prejuízo' das normas transitórias do próprio DL 331/98 e não adia o efeito no texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 71.º #2",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo. Ressalva: art. 10.º n.º 2 do DL 331/98 mantém transitoriamente em vigor o estatuto do pessoal, mas a revogação do art. 12.º é 'sem prejuízo' das normas transitórias do próprio DL 331/98 e não adia o efeito no texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 72.º #2",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo. Ressalva: art. 10.º n.º 2 do DL 331/98 mantém transitoriamente em vigor o estatuto do pessoal, mas a revogação do art. 12.º é 'sem prejuízo' das normas transitórias do próprio DL 331/98 e não adia o efeito no texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 73.º #2",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo. Ressalva: art. 10.º n.º 2 do DL 331/98 mantém transitoriamente em vigor o estatuto do pessoal, mas a revogação do art. 12.º é 'sem prejuízo' das normas transitórias do próprio DL 331/98 e não adia o efeito no texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "ANEXO 1",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo. (anexo; título mantido e '(Revogado.)').",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "ANEXO II",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo. (anexo; título mantido e '(Revogado.)').",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 1.º #3",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 2.º #3",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º #3",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º #3",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º #3",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º #3",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 7.º #3",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 8.º #3",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 9.º #3",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 10.º #3",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 11.º #3",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 12.º #3",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 13.º #3",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 14.º #3",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 15.º #3",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 16.º #3",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 17.º #3",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 18.º #3",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 19.º #3",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 20.º #3",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 21.º #3",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 22.º #3",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 23.º #3",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 24.º #3",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 25.º #3",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 26.º #3",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 27.º #3",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 28.º #3",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 29.º #3",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 30.º #3",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 31.º #3",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 32.º #3",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 33.º #3",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 34.º #3",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 35.º #3",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 36.º #3",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 37.º #3",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 38.º #3",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 39.º #3",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 40.º #3",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 41.º #3",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 42.º #3",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 43.º #3",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 44.º #3",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 45.º #3",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 46.º #3",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 47.º #3",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 48.º #3",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 49.º #3",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 50.º #3",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 51.º #3",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 52.º #3",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 53.º #3",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 54.º #3",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 55.º #3",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 56.º #3",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 57.º #3",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 58.º #3",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 59.º #3",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 60.º #3",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 61.º #3",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 62.º #3",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 63.º #3",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 64.º #3",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 65.º #3",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 66.º #3",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 67.º #3",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 68.º #3",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 69.º #3",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 70.º #3",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 71.º #3",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 72.º #3",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 73.º #3",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 1.º #4",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 2.º #4",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º #4",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º #4",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º #4",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º #4",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 7.º #4",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 8.º #4",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 9.º #4",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 10.º #4",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 11.º #4",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 12.º #4",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 13.º #4",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 14.º #4",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 15.º #4",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 16.º #4",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 17.º #4",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 18.º #4",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 19.º #4",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 20.º #4",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 21.º #4",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 22.º #4",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 23.º #4",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 24.º #4",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 25.º #4",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 26.º #4",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 27.º #4",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 28.º #4",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 29.º #4",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 30.º #4",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 31.º #4",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 32.º #4",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 33.º #4",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 34.º #4",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 35.º #4",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 36.º #4",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 37.º #4",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 38.º #4",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 39.º #4",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 40.º #4",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 41.º #4",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 42.º #4",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 43.º #4",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 44.º #4",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 45.º #4",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 46.º #4",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 47.º #4",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 48.º #4",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 49.º #4",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 50.º #4",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 51.º #4",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 52.º #4",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 53.º #4",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 54.º #4",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 55.º #4",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 56.º #4",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 57.º #4",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 58.º #4",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 59.º #4",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 60.º #4",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 61.º #4",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 62.º #4",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 63.º #4",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "DIVISÃO V #3",
+    "veredicto": "certo",
+    "motivo": "Numeração das divisões do cap. III corrigida pela Portaria 240/79 (Divisão V - Lisboa).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 64.º #4",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 65.º #4",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 66.º #4",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 67.º #4",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 68.º #4",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 69.º #4",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 70.º #4",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 71.º #4",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 72.º #4",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 73.º #4",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "DIVISÃO VI #3",
+    "veredicto": "certo",
+    "motivo": "Renumeração das divisões do cap. III do Regulamento pela Portaria 240/79 (V Lisboa, VI Portimão, VII Setúbal, VIII Sines, IX Viana do Castelo, X Vila Real de Santo António).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 74.º #2",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 75.º #2",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 76.º #2",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 77.º #2",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 78.º #2",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 79.º #2",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "DIVISÃO VII #3",
+    "veredicto": "certo",
+    "motivo": "Renumeração das divisões do cap. III do Regulamento pela Portaria 240/79 (V Lisboa, VI Portimão, VII Setúbal, VIII Sines, IX Viana do Castelo, X Vila Real de Santo António).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 80.º #2",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 81.º #2",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 82.º #2",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 83.º #2",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 84.º #2",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 85.º #2",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "DIVISÃO VIII #2",
+    "veredicto": "certo",
+    "motivo": "Renumeração das divisões do cap. III do Regulamento pela Portaria 240/79 (V Lisboa, VI Portimão, VII Setúbal, VIII Sines, IX Viana do Castelo, X Vila Real de Santo António).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 86.º #2",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 87.º #2",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 88.º #2",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 89.º #2",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 90.º #2",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 91.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "DIVISÃO IX",
+    "veredicto": "certo",
+    "motivo": "Renumeração das divisões do cap. III do Regulamento pela Portaria 240/79 (V Lisboa, VI Portimão, VII Setúbal, VIII Sines, IX Viana do Castelo, X Vila Real de Santo António).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 92.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 93.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 94.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 95.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 96.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 97.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "DIVISÃO X",
+    "veredicto": "certo",
+    "motivo": "Renumeração das divisões do cap. III do Regulamento pela Portaria 240/79 (V Lisboa, VI Portimão, VII Setúbal, VIII Sines, IX Viana do Castelo, X Vila Real de Santo António).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 98.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 99.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 100.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 101.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 102.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 103.º",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 103.º-A",
+    "veredicto": "errado",
+    "motivo": "Artigo aditado pela Portaria 273/79 e revogado pelo DL 331/98: o corpo devia ser '(Revogado.)'; no consolidado o artigo fica sem corpo (o '(Revogado.)' foi parar ao título da divisão XI).",
+    "texto_esperado": "###### Artigo 103.º-A\n\n(Revogado.)"
+   },
+   {
+    "artigo": "DIVISÃO XI",
+    "veredicto": "errado",
+    "motivo": "Título correcto (Divisão XI - Funchal, Portaria 273/79 n.º 4), mas o consolidado acrescenta '(Revogado.)' sob o título da divisão, em vez de no art. 103.º-A (que fica sem corpo).",
+    "texto_esperado": "##### DIVISÃO XI — Funchal\n\nI - Pilotagem"
+   },
+   {
+    "artigo": "Artigo 103.º-B",
+    "veredicto": "certo",
+    "motivo": "Aditado pela Portaria 273/79 e revogado pelo DL 331/98; '(Revogado.)' correcto (a linha de subtítulo 'II - Requisições'/'III - Taxas' é só rótulo estrutural).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 103.º-C",
+    "veredicto": "certo",
+    "motivo": "Aditado pela Portaria 273/79 e revogado pelo DL 331/98; '(Revogado.)' correcto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 103.º-D",
+    "veredicto": "certo",
+    "motivo": "Aditado pela Portaria 273/79 e revogado pelo DL 331/98; '(Revogado.)' correcto (a linha de subtítulo 'II - Requisições'/'III - Taxas' é só rótulo estrutural).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 103.º-E",
+    "veredicto": "certo",
+    "motivo": "Aditado pela Portaria 273/79 e revogado pelo DL 331/98; '(Revogado.)' correcto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 103.º-F",
+    "veredicto": "certo",
+    "motivo": "Aditado pela Portaria 273/79 e revogado pelo DL 331/98; '(Revogado.)' correcto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "ANEXO I #2",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo. (anexo; título mantido e '(Revogado.)').",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "ANEXO II #2",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo. (anexo; título mantido e '(Revogado.)').",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "ANEXO III #2",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo. (anexo; título mantido e '(Revogado.)').",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "ANEXO IV #2",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo. (anexo; título mantido e '(Revogado.)').",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "ANEXO V",
+    "veredicto": "certo",
+    "motivo": "Revogado por DL 331/98, art. 12.º n.º 1 a) (não ressalvado); corpo '(Revogado.)' com epígrafe mantida; sem texto antigo. (anexo; título mantido e '(Revogado.)').",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Portaria 49/79: coeficientes das tabelas A, B e C",
+    "motivo": "não textual: fixação de coeficientes ao abrigo do n.º 3 do artigo 32.º, sem alterar texto"
+   },
+   {
+    "instrucao": "Portaria 240/79 n.º 1 da Portaria 273/79: classificação do Departamento de Pilotagem do Funchal na 2.ª categoria",
+    "motivo": "não textual: classificação para efeitos do art. 26.º, sem nova redacção"
+   },
+   {
+    "instrucao": "Portaria 366/83 n.º 1.º (coeficientes) e Portaria 143/85 n.º 1.º (coeficientes)",
+    "motivo": "não textual: fixação de coeficientes"
+   },
+   {
+    "instrucao": "Portaria 366/83 n.º 2.º e Portaria 143/85 n.º 2.º: novos valores da tabela D (anexo III do Regulamento)",
+    "motivo": "tabela e anexo revogados depois pelo DL 331/98 (corpo '(Revogado.)'), sem efeito no texto"
+   },
+   {
+    "instrucao": "DL 356/91 e repetição: artigo 11.º do Estatuto do Pessoal das Administrações dos Portos (DL 101/88)",
+    "motivo": "outro diploma"
+   },
+   {
+    "instrucao": "DL 188/89 art. 2.º (fundo inicial de 200000 contos) e art. 4.º n.os 2 a 8 (inscrição na CGA, encargos, pensões)",
+    "motivo": "não textual: normas autónomas do DL 188/89, não alteram o texto do DL 361/78"
+   },
+   {
+    "instrucao": "Portaria 280/93 e Portaria 500/95: percentagem do Fundo de Aposentações para 1993 e 1995",
+    "motivo": "não textual: fixação anual ao abrigo da al. a) do n.º 3 do art. 35.º"
+   },
+   {
+    "instrucao": "DL 403/93 art. 2.º n.º 1: revogação da Portaria 123/80",
+    "motivo": "outro diploma (portaria)"
+   },
+   {
+    "instrucao": "DL 403/93 art. 2.º n.º 3: efeito da revogação dos artigos 58.º a 67.º só na entrada em vigor da portaria dos quadros",
+    "motivo": "efeito adiado para facto futuro; os artigos ficam revogados pelo DL 331/98"
+   },
+   {
+    "instrucao": "Portaria 210/95 e Portaria 240/96: actualização de remunerações, senhas de presença, progressão",
+    "motivo": "não textual"
+   },
+   {
+    "instrucao": "DL 296-A/95 (Lei Orgânica do Governo): integração do INPP no ministério",
+    "motivo": "não textual: não altera o DL 361/78"
+   },
+   {
+    "instrucao": "DL 234-A/98: suspensão da aplicabilidade do artigo 5.º aos portos do continente",
+    "motivo": "não textual: suspensão; a al. a) do art. 15.º do Reg. Geral do Serviço de Pilotagem é de outro diploma"
+   },
+   {
+    "instrucao": "DL 331/98 art. 12.º n.º 1 als. b) e c)",
+    "motivo": "outro diploma"
+   },
+   {
+    "instrucao": "DL 229/2005 art. 2.º: alíneas que não a c) (outros diplomas)",
+    "motivo": "outro diploma"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

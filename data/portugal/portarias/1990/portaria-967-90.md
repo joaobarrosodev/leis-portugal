@@ -41,7 +41,7 @@ version:
   kind: consolidated
   label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: '1999-06-30'
+  consolidation_date: '2001-07-01'
 version_history:
   file: portaria-967-90.versoes.json
   count: 2
@@ -51,13 +51,14 @@ version_history:
     amending: null
     amending_title: null
     changes: []
-  - date: '1999-06-30'
+  - date: '2001-07-01'
     amending: pt:dre:393028:por
-    amending_title: Portaria n.º 465/99
+    amending_title: Portaria n.º 465/99; Portaria n.º 633/2001
     changes:
     - Altera Artigo unidades 7-9
     - Altera Artigo unidades 11-11
     - Altera Artigo unidades 12-12
+    - Revoga anexo ou texto fora do articulado
 identifiers:
   celex: null
   eli: null
@@ -84,7 +85,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T10:35:00Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 465/99. Método e verificação:
-    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1990/portaria-967-90.alteracoes.json'
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1990/portaria-967-90.alteracoes.json. Revogações registadas
+    só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Portaria n.º 633/2001.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -151,21 +153,21 @@ Ouvido o Conselho Nacional da Caça e da Conservação da Fauna:
 
 Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguinte:
 
-1.º É criada a Zona de Caça Social do Baceiro (processo n.º 382 da Direcção-Geral das Florestas), situada nas freguesias de Carragosa, Espinhosela e Parâmio, concelho de Bragança, com uma área total de 4150 ha, cujos limites constam da planta anexa, de que faz parte integrante.
+1.º - (Revogado.)
 
-2.º - 1 - A administração da zona de caça social do Baceiro, criada por tempo indeterminado pela [Portaria n.º 967/90](https://diariodarepublica.pt/dr/detalhe/portaria/967-1990-556068), de 10 de Outubro, é atribuída à Direcção Regional de Agricultura de Trás-os-Montes, sendo a sua gestão assegurada por uma comissão, designada por comissão de gestão da zona de caça social do Baceiro, criada por protocolo celebrado em 15 de Junho de 1998 e homologado por despacho do Secretário de Estado da Agricultura e do Desenvolvimento Rural em 31 de Julho de 1998.
+> Revogado pelo/a [Portaria n.º 633/2001](https://diariodarepublica.pt/dr/detalhe/portaria/633-2001-362080), publicado em 2001-06-26, com efeitos a partir de 2001-07-01.
 
-2 - A comissão de gestão referida no número anterior integra um representante da Direcção Regional de Agricultura de Trás-os-Montes, que preside, um representante do Parque Natural de Montesinho, um representante das juntas de freguesia que abrangem os terrenos integrados na zona de caça, um representante das comissões de compartes, um representante da Associação de Caça e Pesca da Gamoeda e ainda um representante dos gestores dos terrenos abrangidos pela zona de caça social do Baceiro.
+2.º - (Revogado.)
 
-3.º A comissão de gestão fica obrigada a cumprir e fazer cumprir o plano de ordenamento e exploração cinegético e as disposições legais e regulamentares do exercício da caça, sem prejuízo da responsabilidade pessoal dos infractores.
+3.º - (Revogado.)
 
-4.º O acesso dos caçadores a esta zona de caça, bem como as demais regras de funcionamento da mesma, obedecem ao disposto na [Portaria n.º 893/98](https://diariodarepublica.pt/dr/detalhe/portaria/893-1998-235558), de 10 de Outubro.
+4.º - (Revogado.)
 
 > Alterado pelo/a [Portaria n.º 465/99](https://diariodarepublica.pt/dr/detalhe/portaria/465-1999-393028), publicado em 1999-06-25.
 
-5.º A linha perimetral desta zona de caça é obrigatoriamente sinalizada com tabuletas do modelo n.º 2 definido na [Portaria n.º 697/88](https://diariodarepublica.pt/dr/detalhe/portaria/697-1988-354162), de 17 de Outubro, sendo aplicável em conjunto o disposto neste diploma legal e na [Portaria n.º 569/89](https://diariodarepublica.pt/dr/detalhe/portaria/569-1989-619925), de 22 de Julho.
+5.º - (Revogado.)
 
-6.º Os prédios que integram esta zona de caça consideram-se submetidos ao regime florestal, para efeitos de policiamento e fiscalização, obrigando-se a comissão de gestão referida no n.º 2.º, através da Associação de Caça e Pesca da Gamoeda, a requerer a nomeação de guardas florestais auxiliares se necessário para complemento da fiscalização efectuada por elementos do Corpo Nacional da Guarda Florestal.
+6.º - (Revogado.)
 
 > Alterado pelo/a [Portaria n.º 465/99](https://diariodarepublica.pt/dr/detalhe/portaria/465-1999-393028), publicado em 1999-06-25.
 

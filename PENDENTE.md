@@ -154,6 +154,7 @@ Os números estão no `rag/README.md`, em «Última milha nas reais: as peças q
   - B, A com as notas estáveis do reranker: 108 / 186 (4 ganhos, 11 perdas);
   - C, B com o reranker a ler as perguntas do artigo: **149 / 211** (50 ganhos, 16 perdas), com o artigo em 1.º em 173. «Sem resposta» respondidas: 7 de 80, contra 5;
   - D, C com o LLM a escrever a partir dos 8 primeiros artigos (limiar 1, quatro juízes): **231 / 241** (124 ganhos, 8 perdas). «Sem resposta» respondidas: 2;
+  - B com o LLM (medido a 23/11, sobre a pesquisa da B porque a da A não ficou gravada): **206 / 214** (97 ganhos, 6 perdas). Separa o efeito: o LLM leva de 115 para 206 e as perguntas no reranker de 206 para 231 (31 ganhos, 6 perdas);
   - D com a pergunta reescrita (`reescrita2`), como a aplicação faz com chave: **249 / 257** (144 ganhos, 10 perdas), com o artigo certo nos 8 primeiros em 263. «Sem resposta» respondidas: 4.
 - **Das 93 perguntas com o artigo certo do 2.º ao 8.º lugar,** ficam certas 35 na C, 85 na D e 86 na D com reescrita. Das 115 certas da A, perdem-se 16 na C, 8 na D e 10 na D com reescrita.
 - **Confirmado nas 1.298 perguntas:** a C dá 747 certas contra 619 da A (152 ganhos, 24 perdas). Reais 115 → 149, coloquiais 23 → 109 (inflacionado: partilham vocabulário com as perguntas dos artigos), e os outros tipos ficam iguais (7 ganhos e 5 perdas em 506).

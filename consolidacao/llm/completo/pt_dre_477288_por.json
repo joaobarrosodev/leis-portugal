@@ -47,24 +47,19 @@
   "removidos": [],
   "titulos": [],
   "anexos": [],
-  "nao_aplicavel": "Alterador 1, retificação 1) do n.º 1 do artigo 101 da Tabela Geral do Imposto do Selo (n.º 2 do artigo 33.º): só em imagem — o «onde se lê» e o «deve ler-se» são iguais no texto e a tabela das letras está só em imagem no texto atual; não há correção textual a aplicar.\nAlterador 2, Declaração n.º 6/96 publica os mapas I a VIII modificados: só em imagem — não há título de anexo no texto atual onde os pôr.\nAlterador 3, art. 1.º, substituição na parte respectiva dos mapas I a VIII e XI: só em imagem — os mapas só vêm em imagem e não há título de anexo no texto atual.\nAlterador 3, art. 3.º, informação à Assembleia da República: não textual — disposição autónoma, não altera o texto.\nAlteradores 4 a 7, Lei n.º 52-C/96 e Decretos-Leis n.os 257-B/96, 3/97 e 18/97: não textual — só referem o original ou usam as suas autorizações legislativas.\nAlterador 12, Decreto-Lei n.º 398/98 (revogação do artigo 14.º-A do CPT): outro diploma — cai sobre o Código de Processo Tributário, não sobre o texto desta lei; o alterador vem sem texto.\nAlteradores 13, 55 e 58, Leis n.os 87-B/98, 64-B/2011 e 66-B/2012: outro diploma — só citam a Lei n.º 10-B/96 na lista de alterações de outros diplomas.",
+  "nao_aplicavel": "Alterador 1, ponto 1) (art. 33.º, n.º 2, redação do n.º 1 do artigo 101 da Tabela Geral do Imposto do Selo): sem texto: o «onde se lê» e o «deve ler-se» são iguais no texto; a diferença estará na tabela das letras, que só existe em imagem.\nAlterador 2, Declaração n.º 6/96 (publica os mapas I a VIII modificados): só em imagem: os mapas só vêm em imagem e o texto atual não tem título de anexo para eles.\nAlterador 3, art. 1.º (substitui, na parte respectiva, os mapas I a VIII e XI): só em imagem: os mapas novos só vêm em imagem e o texto atual não tem título de anexo para eles.",
   "instrucoes": [
-    "Alt. 1 (Decl. Ret. 11/96), 1): n.º 1 do art. 101 da TGIS no art. 33.º — texto igual, tabela em imagem; não aplicado.",
-    "Alt. 1, 2): art. 34.º, n.º 4 do art. 15.º do CIVA — «Decreto-Lei n.º 43/86» passa a «Decreto-Lei n.º 143/86».",
-    "Alt. 1, 3): art. 41.º, art. 3.º do DL 123/94 — acrescentada a linha «c) ...» a seguir a «b) ...».",
-    "Alt. 1, 4): art. 45.º, art. 32.º do CCA — epígrafe «Reclamações das matrizes» e vírgula em «inscrições matriciais, na repartição de finanças».",
-    "Alt. 2: mapas I a VIII em imagem — não aplicado.",
-    "Alt. 3, art. 1.º: mapas I a VIII e XI em imagem — não aplicado.",
-    "Alt. 3, art. 2.º: art. 59.º, n.º 5 — nova al. b) e aditadas als. e) e f); resto mantido ('...').",
-    "Alt. 3, art. 2.º: art. 60.º — aditadas als. c) e d).",
-    "Alt. 3, art. 2.º: art. 62.º — nova al. i) (9,5 milhões de contos).",
-    "Alt. 3, art. 2.º: art. 68.º — novo n.º 1 (715 milhões de contos); n.º 2 mantido.",
-    "Alt. 3, art. 3.º: disposição autónoma — não altera o texto.",
-    "Alts. 4 a 63: não alteram o texto desta lei (não textuais, outro diploma ou sem menção)."
+    "Alterador 1, ponto 2): no art. 34.º, n.º 2 (n.º 4 do art. 15.º do CIVA), «Decreto-Lei n.º 43/86» passa a «Decreto-Lei n.º 143/86»: aplicado, resto do número copiado do texto atual.",
+    "Alterador 1, ponto 3): no art. 41.º, n.º 1 (art. 3.º do DL 123/94), acrescentada a linha «c) ...» a seguir a «b) ...»: aplicado.",
+    "Alterador 1, ponto 4): no art. 45.º, n.º 1 (art. 32.º do CCA), a epígrafe passa a «Reclamações das matrizes» e o n.º 1 leva a vírgula em «das inscrições matriciais, na repartição de finanças»: aplicado.",
+    "Alterador 1, ponto 1): sem diferença textual (ver nao_aplicavel).",
+    "Alterador 3, art. 2.º: art. 59.º (n.º 5, nova al. b) e aditadas als. e) e f); n.º 6 fica), art. 60.º (aditadas als. c) e d), «Ri-cardo» como no alterador), art. 62.º (nova al. i); o proémio e as als. a) a h) ficam) e art. 68.º (novo n.º 1): aplicados.",
+    "Alterador 3, art. 1.º (mapas) e Alterador 2 (mapas): só em imagem. Alterador 3, art. 3.º (informação à Assembleia): não muda o texto.",
+    "Alteradores 4 a 63: não trazem instrução dirigida ao texto desta lei (usam autorizações legislativas, alteram outros diplomas ou não a mencionam; o DL 398/98 revoga norma do CPT, não desta lei): nada a aplicar."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "ronda_camada1": 116,
+  "ronda_camada1": 117,
   "problemas": [
     "34.º: parágrafo que não está no alterador nem no original: 4 - Se os proprietários dos veículos adquiridos com a isenção conferida pelo núm",
     "45.º: parágrafo que não está no alterador nem no original: 1 - O sujeito passivo ou qualquer titular de um interesse directo, pessoal e leg"

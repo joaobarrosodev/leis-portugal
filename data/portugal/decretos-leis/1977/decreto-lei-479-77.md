@@ -43,11 +43,12 @@ version_history:
     changes: []
   - date: '2009-08-31'
     amending: pt:dre:283369:por
-    amending_title: Decreto-Lei n.º 11/88; Decreto-Lei n.º 200/2009
+    amending_title: Decreto-Lei n.º 11/88; Decreto-Lei n.º 200/2009; Decreto-Lei n.º 96/91
     changes:
     - Altera Artigo 2.º
     - Altera Artigo 4.º
     - Altera Artigo 6.º
+    - Revoga Artigo 3
 identifiers:
   celex: null
   eli: null
@@ -74,7 +75,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T23:07:55Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 11/88; Decreto-Lei
-    n.º 200/2009. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1977/decreto-lei-479-77.alteracoes.json'
+    n.º 200/2009. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1977/decreto-lei-479-77.alteracoes.json.
+    Revogações registadas só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Decreto-Lei
+    n.º 96/91.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -162,7 +165,9 @@ A importância destinada a prémios em cada lotaria não pode ser inferior a 50 
 
 ###### Artigo 3.º
 
-Em cada lotaria continuará a constituir receita extraordinária da Caixa de Previdência dos Empregados da Assistência a percentagem de 0,225 do capital emitido.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 96/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-1991-484417), publicado em 1991-02-26, com efeitos a partir de 1991-03-03.
 
 ###### Artigo 4.º
 

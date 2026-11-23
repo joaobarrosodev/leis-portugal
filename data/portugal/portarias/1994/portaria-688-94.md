@@ -54,12 +54,13 @@ version_history:
     changes: []
   - date: '1998-06-10'
     amending: pt:dre:584818:por
-    amending_title: Portaria n.º 745-O/96; Portaria n.º 345/98
+    amending_title: Portaria n.º 745-O/96; Portaria n.º 345/98; Portaria n.º 85/98
     changes:
     - Altera Artigo unidades 28-30
     - Altera Artigo unidades 31-39
     - Altera Artigo unidades 40-53
     - Altera Artigo unidades 54-89
+    - Revoga anexo ou texto fora do articulado
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/688/1994/07/22/p/dre/pt/html
@@ -86,7 +87,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:35:43Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 745-O/96; Portaria n.º
-    345/98. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1994/portaria-688-94.alteracoes.json'
+    345/98. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1994/portaria-688-94.alteracoes.json.
+    Revogações registadas só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Portaria
+    n.º 85/98.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -158,47 +161,15 @@ Assim, ao abrigo do n.º 2 do artigo 10.º do Decreto-Lei n.º 31/94, de 5 de Fe
 
 Manda o Governo, pelos Ministros da Agricultura e do Ambiente e Recursos Naturais, o seguinte:
 
-1.º
+1.º - (Revogado.)
 
-Objecto
+> Revogado pelo/a [Portaria n.º 85/98](https://diariodarepublica.pt/dr/detalhe/portaria/85-1998-209843), publicado em 1998-02-19, com efeitos a partir de 1998-02-24.
 
-O presente diploma estabelece o regime geral das ajudas a conceder no âmbito das medidas agro-ambientais instituídas pelo Regulamento (CEE) n.º [2078/92](https://data.europa.eu/eli/reg/1992/2078/oj?locale=pt), do Conselho, de 30 de Junho, e a estrutura orgânica relativa à sua gestão.
+2.º - (Revogado.)
 
-2.º
+3.º - (Revogado.)
 
-Enumeração das medidas
-
-1 - O presente regime de ajudas desenvolve-se através das seguintes medidas:
-
-a) Diminuição dos efeitos poluentes na agricultura;
-
-b) Extensificação e ou manutenção dos sistemas agrícolas tradicionais;
-
-c) Conservação dos recursos e da paisagem rural;
-
-d) Formação profissional.
-
-2 - Cada uma das medidas referidas no número anterior é regulamentada em diploma específico.
-
-3.º
-
-Incompatibilidade de acumulação de ajudas
-
-1 - Sem prejuízo do disposto nos diplomas referidos no n.º 2 do n.º 2.º, as ajudas a conceder às medidas previstas no presente diploma, quando respeitem à mesma parcela agrícola, não são cumuláveis nos seguintes casos:
-
-a) A medida referida na alínea a) do n.º 1 do n.º 2.º, quando respeite à produção e protecção integrada e à agricultura biológica, não é cumulável com as ajudas a conceder no âmbito das medidas referidas nas alíneas b) e c) do mesmo número;
-
-b) A medida referida na alínea c) do n.º 1 do n.º 2.º, quando respeite ao prémio à manutenção de terras agrícolas no interior de manchas florestais, não é cumulável com a medida prevista na alínea b) do mesmo número.
-
-2 - Para efeitos do disposto no número anterior, entende-se por parcela agrícola toda a área contínua de terreno cultivado com uma única cultura e por um único agricultor.
-
-4.º
-
-Limites das ajudas
-
-1 - Sem prejuízo do estabelecido no número anterior, as ajudas a conceder às medidas referidas nas alíneas a), b) e c) do n.º 1 do n.º 2.º são cumuláveis até ao montante máximo de 14000 ECU por beneficiário e por ano.
-
-2 - Só podem ser concedidas ajudas quando o respectivo encargo tiver cabimento na dotação orçamental do regime de ajudas instituído pelo presente diploma.
+4.º - (Revogado.)
 
 5.º - (Revogado.)
 

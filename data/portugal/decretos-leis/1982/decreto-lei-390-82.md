@@ -55,7 +55,7 @@ version_history:
     changes: []
   - date: '2008-07-29'
     amending: pt:dre:462032:por
-    amending_title: Lei n.º 22/95; Decreto-Lei n.º 18/2008
+    amending_title: Lei n.º 22/95; Decreto-Lei n.º 18/2008; Decreto-Lei n.º 55/95; Decreto-Lei n.º 197/99
     changes:
     - Altera Artigo 6.º
     - Revoga Artigo 10.º
@@ -64,6 +64,14 @@ version_history:
     - Revoga Artigo 13.º
     - Revoga Artigo 14.º
     - Revoga Artigo 15.º
+    - Revoga Artigo 2
+    - Revoga Artigo 3
+    - Revoga Artigo 4
+    - Revoga Artigo 5
+    - Revoga Artigo 7
+    - Revoga Artigo 8
+    - Revoga Artigo 9
+    - Revoga Artigo 6
 identifiers:
   celex: null
   eli: null
@@ -90,7 +98,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T23:46:10Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Lei n.º 22/95; Decreto-Lei n.º 18/2008.
-    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1982/decreto-lei-390-82.alteracoes.json'
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1982/decreto-lei-390-82.alteracoes.json.
+    Revogações registadas só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Decreto-Lei
+    n.º 55/95; Decreto-Lei n.º 197/99.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -192,113 +202,43 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ###### Artigo 2.º — (Concurso público)
 
-1 - Os órgãos deliberativos poderão fixar, sob proposta dos executivos, valor superior ao definido no número seguinte a partir do qual a execução das obras públicas a cargo das autarquias locais se realizará, obrigatoriamente, mediante concurso público, o qual não poderá ser alterado durante o período do mandato dos órgãos autárquicos.
+(Revogado.)
 
-2 - Enquanto não for estabelecido pela assembleia deliberativa o valor referido no número anterior, aplicar-se-á aos municípios o limite de competência para autorização de despesas com dispensa de concurso legalmente definido para os órgãos dirigentes dos serviços dotados de autonomia administrativa e financeira.
-
-3 - Os concursos públicos serão precedidos de deliberação, a publicitar por edital afixado, pelo menos, durante 20 dias, relativa à abertura do concurso e da aprovação dos respectivos programa, projecto e caderno de encargos, os quais serão patenteados a todos os interessados durante o prazo fixado no edital.
-
-4 - Se a adjudicação não for efectuada em resultado do primeiro concurso, abrir-se-á novo concurso com aumento não superior a 20% sobre a base de licitação primitiva, ou, se o órgão executivo assim o deliberar, recorrer-se-á a concurso limitado.
-
-5 - Sem prejuízo do disposto no número anterior, e sempre que a adjudicação se não efectue em virtude de o concurso ter ficado deserto, poderá o órgão executivo abrir novo concurso sem aumento do valor da base de licitação, ao qual poderão também ser admitidos empreiteiros inscritos não titulares do alvará exigido em função do valor da obra.
-
-6 - Os empreiteiros a admitir nos termos da parte final do número anterior deverão fazer prova da sua competência técnica, nomeadamente fazendo acompanhar a respectiva proposta de declaração da qual conste a relação do equipamento e do pessoal qualificado de que disponham para a execução da obra.
+> Revogado pelo/a [Decreto-Lei n.º 55/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-1995-173688), publicado em 1995-03-29, com efeitos a partir de 1995-05-28.
 
 ###### Artigo 3.º — (Concurso limitado)
 
-1 - Podem ser adjudicadas mediante concurso limitado:
-
-a) As obras de valor inferior ao limite estabelecido pela assembleia deliberativa, nos termos do n.º 1 do artigo anterior, ou ao valor previsto no n.º 2 do mesmo artigo, quando for caso disso;
-
-b) As obras, de qualquer valor, que não hajam sido adjudicadas em resultado de concurso público, quando o órgão executivo delibere no sentido do recurso a concurso limitado.
-
-2 - O número dos candidatos a consultar não pode ser inferior a 3.
+(Revogado.)
 
 ###### Artigo 4.º — (Ajuste directo)
 
-1 - Podem ser adjudicadas por ajuste directo:
-
-a) As obras de valor inferior a metade da importância fixada pela assembleia deliberativa ao abrigo do n.º 1 do artigo 2.º ou do limite referido no n.º 2 do mesmo artigo, quando for caso disso;
-
-b) As obras que só possam ser feitas convenientemente por determinada entidade ou que, pela sua importância ou urgência, haja interesse em não sujeitar à concorrência.
-
-2 - O recurso ao ajuste directo com base no disposto na alínea b) do número anterior será devidamente fundamentado pelo órgão executivo em proposta que carecerá da aprovação da assembleia deliberativa ou de ulterior confirmação por este órgão quando seja invocada a urgência de realização das obras.
-
-3 - O ajuste directo deverá ser precedido de consulta a, pelo menos, e sempre que possível, 3 entidades.
+(Revogado.)
 
 ###### Artigo 5.º — (Forma do contrato)
 
-1 - O contrato de empreitada será sempre reduzido a escrito.
-
-2 - O contrato de empreitada será obrigatoriamente celebrado por escritura pública quando o seu valor seja superior a 2500000$00.
+(Revogado.)
 
 ###### Artigo 6.º — (Administração directa)
 
-1 - Podem ser feitas por administração directa:
-
-a) As obras de valor inferior ao limite estabelecido pela assembleia deliberativa nos termos do n.º 1 do artigo 2.º ou ao estabelecido no n.º 2 do mesmo artigo, quando for caso disso;
-
-b) As obras de valor superior ao previsto na alínea a) cuja realização por administração directa haja sido expressamente autorizada pela assembleia deliberativa, na sequência de proposta do órgão executivo;
-
-c) As obras ou reparações imprevistas ou de carácter urgente;
-
-d) As obras que, postas a concurso nos termos da lei, não tenham sido licitadas ou não hajam sido adjudicadas.
-
-2 - Não poderão fazer-se desdobramentos de trabalhos da mesma obra cujo valor, no conjunto, atinja verba superior à estabelecida ao abrigo do artigo 2.º, quer se trate de administração ou ajuste directos, ou de concursos público ou limitado.
+(Revogado.)
 
 > Alterado pelo/a [Lei n.º 22/95](https://diariodarepublica.pt/dr/detalhe/lei/22-1995-462032), publicado em 1995-07-18.
+
+> Revogado pelo/a [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), publicado em 1999-06-08, com efeitos a partir de 1999-08-07.
 
 ### CAPÍTULO III — Fornecimentos
 
 ###### Artigo 7.º — (Concurso público)
 
-1 - O fornecimento de bens e serviços às autarquias locais e associações de municípios só pode ter lugar por concurso público, a realizar nos termos do disposto nos n.os 1, 2 e 3 do artigo 2.º
-
-2 - Poderá, porém, ser dispensado o concurso público nos casos e nos termos previstos no artigo seguinte.
+(Revogado.)
 
 ###### Artigo 8.º — (Concurso limitado e ajuste directo)
 
-1 - É dispensada a realização de concurso público relativamente:
-
-a) Aos contratos de fornecimento de valor inferior ao limite estabelecido pela assembleia deliberativa nos termos do n.º 1 do artigo 2.º ou nos termos do n.º 2 do mesmo artigo, se for caso disso;
-
-b) Aos contratos de fornecimento de artigo com preço tabelado pelas autoridades competentes;
-
-c) Aos fornecimentos de artigos cuja fabricação e comércio constituam exclusivo legal.
-
-2 - Pode ser dispensada a realização de concurso público relativamente:
-
-a) Aos fornecimentos avulsos de artigos de expediente ordinário dos serviços;
-
-b) Aos contratos que visem a encomenda ou obtenção de estudos e projectos;
-
-c) Aos contratos para aquisição de obras de arte, objectos e instrumentos, que só poderão ser fornecidos por artista ou técnico de valor comprovado;
-
-d) Aos contratos em que o último concurso público, aberto para o mesmo fim e realizado há menos de 1 ano, tenha ficado deserto ou em que só tenham sido recebidas propostas consideradas inaceitáveis;
-
-e) Aos contratos que, pela sua importância, se reconheça ser inconveniente sujeitar à concorrência;
-
-f) Aos fornecimentos que só possam ser feitos convenientemente por determinada entidade em consequência de aptidão especialmente comprovada em contratos anteriores de que os fornecimentos sejam complemento.
-
-3 - Se for dispensado o concurso público, deverá ser realizado concurso limitado, salvo se este também for dispensado.
-
-4 - A dispensa de concurso, público ou limitado, nos casos previstos no n.º 2 só poderá ser concedida pela assembleia deliberativa, mediante proposta fundamentada do executivo.
-
-5 - No concurso limitado o número de concorrentes convidados não pode ser inferior a 3.
-
-6 - O ajuste directo deverá, sempre que possível, ser precedido de consulta a, pelo menos, 3 entidades, salvo nos casos de tabelamento oficial de preços ou em que o interesse da administração se dirija ao fornecimento de bens ou serviços que constituam exclusivo legal ou por ela preferidos em razão de determinada qualidade.
+(Revogado.)
 
 ###### Artigo 9.º — (Forma do contrato)
 
-1 - O contrato de fornecimento deverá ser celebrado por escrito.
-
-2 - A celebração do contrato escrito é obrigatória quando:
-
-a) As aquisições de bens e serviços forem de importância superior a 400000$00, excepto quando se trate do fornecimento de artigos com tabelamento oficial de preço ou de artigos que estejam prontos a ser entregues imediatamente e as relações contratuais se extingam com a entrega;
-
-b) O fornecimento deva exceder 90 dias, salvo quando houver motivo imperioso que justifique a dispensa.
-
-3 - A dispensa de contrato escrito, nos casos em que esta forma não é obrigatória, compete à assembleia deliberativa, mediante proposta fundamentada do executivo.
+(Revogado.)
 
 ### CAPÍTULO IV — Concessões
 

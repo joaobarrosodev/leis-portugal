@@ -41,7 +41,7 @@ version:
   kind: consolidated
   label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: '1988-01-20'
+  consolidation_date: '1990-10-15'
 version_history:
   file: decreto-lei-13-86.versoes.json
   count: 2
@@ -51,13 +51,24 @@ version_history:
     amending: null
     amending_title: null
     changes: []
-  - date: '1988-01-20'
+  - date: '1990-10-15'
     amending: pt:dre:283366:por
-    amending_title: Decreto-Lei n.º 9/88; Declaração
+    amending_title: Decreto-Lei n.º 9/88; Declaração; Decreto-Lei n.º 321-B/90
     changes:
     - Altera Artigo 3.º
     - Retifica Artigo 4
     - Retifica Artigo 10
+    - Revoga Artigo 1
+    - Revoga Artigo 2
+    - Revoga Artigo 3
+    - Revoga Artigo 14
+    - Revoga Artigo 15
+    - Revoga Artigo 16
+    - Revoga Artigo 17
+    - Revoga Artigo 18
+    - Revoga Artigo 19
+    - Revoga Artigo 21
+    - Revoga Artigo 22
 identifiers:
   celex: null
   eli: null
@@ -85,7 +96,8 @@ provenance:
   generated_at: '2026-10-23T00:11:02Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 9/88. Método e verificação:
     consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1986/decreto-lei-13-86.alteracoes.json. Retificações
-    aplicadas por regra (consolidacao/retificacoes.py): Declaração.'
+    aplicadas por regra (consolidacao/retificacoes.py): Declaração. Revogações registadas só como repealed_by, aplicadas com
+    um LLM e verificadas às cegas (consolidacao/revogacoes.py): Decreto-Lei n.º 321-B/90.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -184,53 +196,17 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ###### Artigo 1.º — (Contrato de arrendamento)
 
-1 - O contrato de arrendamento para habitação será sempre reduzido a escrito.
+(Revogado.)
 
-2 - A falta de contrato escrito presume-se imputável ao senhorio e a respectiva nulidade só é invocável pelo arrendatário.
-
-3 - O arrendatário pode provar a existência do contrato por qualquer meio de prova admitido em direito, desde que não haja invocado a nulidade.
-
-4 - O disposto no número anterior é aplicável aos arrendamentos já existentes à data da entrada em vigor do presente diploma.
+> Revogado pelo/a [Decreto-Lei n.º 321-B/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-b-1990-667147), publicado em 1990-10-15.
 
 ###### Artigo 2.º — (Menções obrigatórias do contrato)
 
-1 - Os contratos de arrendamento para habitação mencionarão expressamente:
-
-a) Os sujeitos do contrato;
-
-b) A localização e identificação do prédio ou parte dele sujeita a arrendamento;
-
-c) A identificação dos locais e equipamentos de uso privativo do arrendatário, das partes dos equipamentos do imóvel para uso comum e dos anexos que forem arrendados com o objecto principal do contrato;
-
-d) A área útil, definida nos termos do Regulamento Geral das Edificações Urbanas, quando se trate de contrato celebrado no regime de renda condicionada;
-
-e) A data da licença de utilização, quando exigível, e o número de inscrição na matriz predial ou declaração de que o prédio se encontra omisso;
-
-f) O regime de renda;
-
-g) O prazo do contrato;
-
-h) A renda inicial do contrato, bem como eventuais alterações determinadas pela realização de obras de beneficiação, nos termos dos artigos 17.º e 18.º da [Lei n.º 46/85](https://diariodarepublica.pt/dr/detalhe/lei/46-1985-177451);
-
-i) A data do contrato.
-
-2 - No caso de as partes o terem livremente acordado, constarão igualmente do contrato outras condições especiais legalmente admissíveis, nomeadamente as previstas nos artigos 31.º e 37.º da [Lei n.º 46/85](https://diariodarepublica.pt/dr/detalhe/lei/46-1985-177451).
-
-3 - Deverá ainda ser anexado ao contrato um documento, assinado pelas partes, descrevendo detalhadamente o estado de conservação do fogo e suas dependências, bem como do prédio, aplicando-se, na sua falta ou em caso de omissão ou dúvida, o disposto no n.º 2 do artigo 1043.º do Código Civil.
-
-4 - Sempre que o arrendamento se transmita nos termos do artigo 1111.º do Código Civil, deverá ser feito um aditamento ao contrato mencionando este facto e o nome ou nomes do transmissário ou transmissários, devendo os recibos de renda ser obrigatoriamente emitidos em nome destes.
-
-5 - Será também feito aditamento ao contrato sempre que a renda seja ajustada por motivo da realização de obras de beneficiação.
-
-6 - Quando o contrato não contiver a menção referida na alínea f) do n.º 1, presume-se ser o regime de renda condicionada o regime aplicável, devendo o quantitativo da renda ser retroactivamente corrigido, se for caso disso. Esta presunção não é aplicável no caso de prédios sujeitos ao regime de renda apoiada.
-
-7 - Quando o contrato não contiver menção do prazo, presume-se que este é o indicado no artigo 1087.º do Código Civil.
+(Revogado.)
 
 ###### Artigo 3.º — Iniciativa da actualização ou correcção
 
-1 - Quando o senhorio pretender actualizar a renda, nos termos do artigo 6.º da [Lei n.º 46/85](https://diariodarepublica.pt/dr/detalhe/lei/46-1985-177451), comunicará ao arrendatário, com a antecedência mínima de 30 dias, por meio de carta registada com aviso de recepção, o montante da nova renda e o coeficiente utilizado no seu cálculo.
-
-2 - A correcção anual da renda, nos termos do artigo 12.º da referida lei, está sujeita a comunicação, com formalidades idênticas às mencionadas no número anterior.
+(Revogado.)
 
 > Alterado pelo/a [Decreto-Lei n.º 9/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-1988-283366), publicado em 1988-01-15.
 
@@ -342,31 +318,27 @@ Pc - O referido no n.º 2 do artigo 4.º
 
 ###### Artigo 14.º — (Obras urgentes)
 
-O disposto no artigo 21.º da [Lei n.º 46/85](https://diariodarepublica.pt/dr/detalhe/lei/46-1985-177451) não prejudica a possibilidade de o arrendatário usar da faculdade prevista no artigo 1036.º do Código Civil, quando se trate de obras urgentes.
+(Revogado.)
 
 ###### Artigo 15.º — (Juros das despesas)
 
-Os juros a que se referem os n.os 2 e 7 do artigo 21.º da [Lei n.º 46/85](https://diariodarepublica.pt/dr/detalhe/lei/46-1985-177451) são calculados aplicando-se as taxas de juro de:
-
-a) Empréstimo especial concedido no âmbito do Programa de Recuperação de Imóveis Degradados (PRID) ou de outra modalidade especial de crédito, se as obras forem financiadas ao abrigo deste programa ou modalidade de crédito;
-
-b) Depósitos a prazo superior a 1 ano, em todos os outros casos.
+(Revogado.)
 
 ###### Artigo 16.º — (Restituição de rendas)
 
-Sempre que tenha sido paga renda com actualização ou correcção extraordinária, nos casos em que as mesmas são proibidas por força do artigo 45.º da [Lei n.º 46/85](https://diariodarepublica.pt/dr/detalhe/lei/46-1985-177451), pode o arrendatário deduzir o excesso indevidamente pago nas rendas vincendas.
+(Revogado.)
 
 ###### Artigo 17.º — (Regulamentação)
 
-Os coeficientes de actualização e os factores anuais de correcção extraordinária das rendas previstos, respectivamente, no n.º 2 do artigo 6.º e no n.º 2 do artigo 12.º da [Lei n.º 46/85](https://diariodarepublica.pt/dr/detalhe/lei/46-1985-177451) serão fixados por portaria conjunta do Ministro das Finanças e do Ministro das Obras Públicas, Transportes e Comunicações, a publicar anualmente, no mês de Outubro, para vigorar no ano civil seguinte.
+(Revogado.)
 
 ###### Artigo 18.º — (Actualização de rendas condicionadas)
 
-No ano de 1985 mantém-se o coeficiente de actualização a aplicar às actualizações das rendas no regime de renda condicionada fixado ao abrigo da legislação anterior, bem como os valores do custo de construção por metro quadrado.
+(Revogado.)
 
 ###### Artigo 19.º — (Norma interpretativa)
 
-Para efeitos do artigo 44.º da [Lei n.º 46/85](https://diariodarepublica.pt/dr/detalhe/lei/46-1985-177451) poderão ser celebradas escrituras públicas, desde que se faça prova de que foi requerida a inscrição do prédio na matriz, sempre que o mesmo se encontre omisso.
+(Revogado.)
 
 ###### Artigo 20.º — (Disposição transitória)
 
@@ -374,11 +346,11 @@ O disposto nos artigos 10.º, 11.º e 12.º é aplicável às avaliações previ
 
 ###### Artigo 21.º — (Legislação revogada)
 
-São revogados o [Decreto-Lei n.º 188/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-1976-501577), de 12 de Março, e o artigo 5.º do [Decreto-Lei n.º 375/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/375-1974-401755), de 20 de Agosto.
+(Revogado.)
 
 ###### Artigo 22.º — (Entrada em vigor)
 
-O presente decreto-lei entra em vigor no dia imediato ao da sua publicação.
+(Revogado.)
 
 Visto e aprovado em Conselho de Ministros de 26 de Dezembro de 1985. - Aníbal António Cavaco Silva - Mário Ferreira Bastos Raposo - João Maria Leitão de Oliveira Martins.
 

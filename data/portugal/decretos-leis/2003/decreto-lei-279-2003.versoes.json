@@ -34,17 +34,24 @@
      "title": "Decreto-Lei n.º 107/2007",
      "published": "2007-04-10",
      "dre_path": "/dr/detalhe/decreto-lei/107-2007-519977"
+    },
+    {
+     "id": "pt:dre:376234:por",
+     "title": "Lei n.º 60-A/2005",
+     "published": "2005-12-30",
+     "dre_path": "/dr/detalhe/lei/60-a-2005-376234"
     }
    ],
    "changes": [
-    "Altera Artigo 5.º"
+    "Altera Artigo 5.º",
+    "Revoga Artigo 4"
    ],
    "fragments": [
     "c7463a06aed809c0",
     "85d0fd0f10646859",
     "7d733079e2e7aef9",
     "140cf3098641b4bd",
-    "25d220511eae7552",
+    "a54ec1f9300e7310",
     "14f6891623b90fff",
     "26cbf209353d798b",
     "f6ef472225f12c1f",
@@ -151,6 +158,16 @@
    "in_force_from": null,
    "changed_by": [],
    "markdown": "###### Artigo 11.º — Entrada em vigor\n\nO presente diploma entra em vigor 60 dias após a sua publicação.\n\nVisto e aprovado em Conselho de Ministros de 11 de Setembro de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - António Pedro de Nobre Carmona Rodrigues.\n\nPromulgado em 23 de Outubro de 2003.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 30 de Outubro de 2003.\n\nO Primeiro-Ministro, José Manuel Durão Barroso."
+  },
+  "a54ec1f9300e7310": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Transmissão de dados",
+   "in_force_from": "2007-06-01",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 60-A/2005](https://diariodarepublica.pt/dr/detalhe/lei/60-a-2005-376234), publicado em 2005-12-30, com efeitos a partir de 2006-01-01."
+   ],
+   "markdown": "###### Artigo 4.º — Transmissão de dados\n\n1 - A Direcção-Geral dos Impostos e a Inspecção-Geral de Finanças podem aceder aos dados previstos no presente diploma, nos termos e para os efeitos previstos nos n.os 1 e 3 do artigo 26.º-A do [Decreto-Lei n.º 349/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1998-234318), de 11 de Novembro, aditado pelo [Decreto-Lei n.º 137-B/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-b-1999-265086), de 22 de Abril.\n\n2 - (Revogado.)\n\n> Revogado pelo/a [Lei n.º 60-A/2005](https://diariodarepublica.pt/dr/detalhe/lei/60-a-2005-376234), publicado em 2005-12-30, com efeitos a partir de 2006-01-01."
   },
   "14f6891623b90fff": {
    "fragment_id": null,

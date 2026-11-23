@@ -23,12 +23,19 @@
      "title": "Decreto-Lei n.º 330/82",
      "published": "1982-08-18",
      "dre_path": "/dr/detalhe/decreto-lei/330-1982-397495"
+    },
+    {
+     "id": "pt:dre:378738:por",
+     "title": "Decreto-Lei n.º 322/79",
+     "published": "1979-08-23",
+     "dre_path": "/dr/detalhe/decreto-lei/322-1979-378738"
     }
    ],
    "changes": [
     "Revoga Artigo 6.º",
     "Revoga Artigo 7.º",
-    "Revoga Artigo 8.º"
+    "Revoga Artigo 8.º",
+    "Revoga Artigo 9"
    ],
    "fragments": [
     "aec542f5a0e5436c",
@@ -40,7 +47,7 @@
     "715c1798f48b4eb5",
     "501029dfa6b4f509",
     "f8181a0a23c5cc13",
-    "47fda95644a5c8f8",
+    "bdf04313cf44f659",
     "201542066c7ffc6a",
     "9d0f694697d514e7"
    ]
@@ -133,13 +140,15 @@
    ],
    "markdown": "###### Artigo 8.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 330/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/330-1982-397495), publicado em 1982-08-18."
   },
-  "47fda95644a5c8f8": {
+  "bdf04313cf44f659": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 9.º",
-   "in_force_from": null,
-   "changed_by": [],
-   "markdown": "###### Artigo 9.º\n\n1. Após a entrada em vigor deste decreto-lei, nenhuma entidade do sector público abrangida pelo artigo 1.º poderá adquirir novas participações no capital de sociedades sem que o IPE se tenha previamente pronunciado sobre tal aquisição, salvo tratando-se de participações em sociedades abrangidas pelo n.º 1 do artigo 4.º\n\n2 - O IPE terá o prazo máximo de trinta dias para se pronunciar sobre as aquisições previstas no número anterior, sob pena de se entender que dá o seu acordo à operação.\n\n3. As participações adquiridas nos termos do n.º 1 deverão ser transferidas, no prazo de seis meses, para o património do IPE, salvo se, por despacho conjunto dos Ministros referidos no artigo 8.º, for determinado que a titularidade ou a gestão de tais participações se mantenham nas entidades adquirentes ou tenham outro destino."
+   "in_force_from": "1982-08-18",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 322/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/322-1979-378738), publicado em 1979-08-23."
+   ],
+   "markdown": "###### Artigo 9.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 322/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/322-1979-378738), publicado em 1979-08-23."
   },
   "201542066c7ffc6a": {
    "fragment_id": null,

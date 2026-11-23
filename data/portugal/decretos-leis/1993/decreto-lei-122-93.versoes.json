@@ -84,6 +84,12 @@
      "title": "Decreto-Lei n.º 45/2004",
      "published": "2004-03-03",
      "dre_path": "/dr/detalhe/decreto-lei/45-2004-551646"
+    },
+    {
+     "id": "pt:dre:603045:por",
+     "title": "Decreto-Lei n.º 15/2004",
+     "published": "2004-01-14",
+     "dre_path": "/dr/detalhe/decreto-lei/15-2004-603045"
     }
    ],
    "changes": [
@@ -125,14 +131,15 @@
     "Revoga Artigo 36.º",
     "Revoga Artigo 37.º",
     "Revoga Artigo 38.º",
-    "Altera Artigo 3.º"
+    "Altera Artigo 3.º",
+    "Revoga Artigo 3"
    ],
    "fragments": [
     "33fdbf24b121d396",
     "7342f7b1dcac3873",
     "2c54c99abc3ae028",
     "7a30136d7b2422f5",
-    "8aad67b6a37dd73a",
+    "6655217a195175e0",
     "296f537c2fd5ce1c",
     "8827552efa296273",
     "bf83cf5b6d6becd6",
@@ -158,10 +165,8 @@
     "a0b8da722f1f6f97",
     "9df7adb0b90ccba2",
     "2ce35ef38539fdcd",
-    "1ceffe0cbd6d25c9",
-    "398f796716440acd",
-    "9bfe65bc9976080f",
-    "9e36982c4c00608a",
+    "cc8d63bffabc3de1",
+    "9a83d511a6bee78a",
     "d55f0b5b15103b0d",
     "e6ba783ed0ece13f",
     "7e460b3b01aac503",
@@ -602,15 +607,16 @@
    ],
    "markdown": "###### Artigo 2.º — Tutela\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 186/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2003-654681), publicado em 2003-08-20."
   },
-  "8aad67b6a37dd73a": {
+  "6655217a195175e0": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 3.º — Atribuições",
    "in_force_from": "2004-03-04",
    "changed_by": [
-    "Alterado pelo/a [Decreto-Lei n.º 45/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2004-551646), publicado em 2004-03-03."
+    "Alterado pelo/a [Decreto-Lei n.º 45/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2004-551646), publicado em 2004-03-03.",
+    "Revogado pelo/a [Decreto-Lei n.º 15/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2004-603045), publicado em 2004-01-14, com efeitos a partir de 2004-01-15."
    ],
-   "markdown": "###### Artigo 3.º — Atribuições\n\nSão atribuições do IGM:\n\na) Contribuir para a definição e implementação da política relativa ao conhecimento, preservação, aproveitamento e valorização dos recursos geológicos;\n\nb) Propor a legislação reguladora da actividade extractiva e velar pelo seu cumprimento;\n\nc) Conduzir a negociação e preparação dos contratos administrativos de outorga de direitos sobre recursos geológicos e acompanhar a respectiva execução;\n\nd) (Revogada.)\n\ne) (Revogada.)\n\nf) (Revogada.)\n\ng) (Revogada.)\n\nh) (Revogada.)\n\ni) (Revogada.)\n\nj) (Revogada.)\n\nl) Cooperar com os organismos e serviços competentes em matéria de ordenamento do território e preservação do ambiente na investigação e definição de formas de compatibilização com o aproveitamento dos recursos.\n\n> Alterado pelo/a [Decreto-Lei n.º 45/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2004-551646), publicado em 2004-03-03."
+   "markdown": "###### Artigo 3.º — Atribuições\n\nSão atribuições do IGM:\n\na) (Revogada.)\n\nb) (Revogada.)\n\nc) (Revogada.)\n\nd) (Revogada.)\n\ne) (Revogada.)\n\nf) (Revogada.)\n\ng) (Revogada.)\n\nh) (Revogada.)\n\ni) (Revogada.)\n\nj) (Revogada.)\n\nl) (Revogada.)\n\n> Alterado pelo/a [Decreto-Lei n.º 45/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2004-551646), publicado em 2004-03-03.\n\n> Revogado pelo/a [Decreto-Lei n.º 15/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2004-603045), publicado em 2004-01-14, com efeitos a partir de 2004-01-15."
   },
   "bf83cf5b6d6becd6": {
    "fragment_id": null,
@@ -803,25 +809,25 @@
    ],
    "markdown": "###### Artigo 22.º — Centro de Informação Científica e Técnica\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 186/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2003-654681), publicado em 2003-08-20."
   },
-  "1ceffe0cbd6d25c9": {
+  "cc8d63bffabc3de1": {
    "fragment_id": null,
    "type": null,
-   "heading": "Artigo 23.º",
+   "heading": "Artigo 23.º — Divisão de Geofísica",
    "in_force_from": "2004-03-04",
    "changed_by": [
     "Revogado pelo/a [Decreto-Lei n.º 186/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2003-654681), publicado em 2003-08-20."
    ],
-   "markdown": "###### Artigo 23.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 186/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2003-654681), publicado em 2003-08-20."
+   "markdown": "###### Artigo 23.º — Divisão de Geofísica\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 186/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2003-654681), publicado em 2003-08-20."
   },
-  "9bfe65bc9976080f": {
+  "9a83d511a6bee78a": {
    "fragment_id": null,
    "type": null,
-   "heading": "Artigo 24.º",
+   "heading": "Artigo 24.º — Divisão de Sondagens",
    "in_force_from": "2004-03-04",
    "changed_by": [
     "Revogado pelo/a [Decreto-Lei n.º 186/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2003-654681), publicado em 2003-08-20."
    ],
-   "markdown": "###### Artigo 24.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 186/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2003-654681), publicado em 2003-08-20."
+   "markdown": "###### Artigo 24.º — Divisão de Sondagens\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 186/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2003-654681), publicado em 2003-08-20."
   },
   "e6ba783ed0ece13f": {
    "fragment_id": null,

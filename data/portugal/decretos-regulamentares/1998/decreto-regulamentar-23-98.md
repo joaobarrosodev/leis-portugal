@@ -53,11 +53,15 @@ version_history:
     changes: []
   - date: '2015-05-18'
     amending: pt:dre:67198365:por
-    amending_title: Decreto-Lei n.º 78/2015
+    amending_title: Decreto-Lei n.º 78/2015; Resolução do Conselho de Ministros n.º 141/2005
     changes:
     - Revoga Artigo 5.º
     - Revoga Artigo 8.º
     - Revoga Artigo 9.º
+    - Revoga Artigo 10
+    - Revoga Artigo 11
+    - Revoga Artigo 12
+    - Revoga Artigo 15
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/decregul/23/1998/10/14/p/dre/pt/html
@@ -84,7 +88,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:25:21Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 78/2015. Método e
-    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-regulamentares/1998/decreto-regulamentar-23-98.alteracoes.json'
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-regulamentares/1998/decreto-regulamentar-23-98.alteracoes.json.
+    Revogações registadas só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Resolução
+    do Conselho de Ministros n.º 141/2005.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -313,77 +319,17 @@ g) Ordenar a imobilização das embarcações encontradas em infracção ao disp
 
 ###### Artigo 10.º — Interdições
 
-Na área do Parque Natural são interditos os seguintes actos e actividades:
+(Revogado.)
 
-a) A realização de obras de construção civil ou a alteração do uso actual dos terrenos ou da morfologia do solo para instalação de estabelecimentos industriais das classes A e B, segundo a classificação constante no quadro anexo ao Regulamento do Exercício da Actividade Industrial;
-
-b) A alteração do uso actual dos terrenos para estabelecimento de novas explorações mineiras ou de materiais inertes ou pela ampliação das explorações existentes;
-
-c) A remoção ou danificação de quaisquer substratos marinhos;
-
-d) Alterações da configuração e topologia das zonas marinhas;
-
-e) A alteração à morfologia do solo pela deposição de ferro-velho, de sucata, de veículos, de inertes ou de resíduos sólidos que causem impacte visual negativo ou poluam o solo, o ar ou a água, bem como o vazamento de lixos, detritos, entulhos ou sucatas fora dos locais para tal destinados;
-
-f) A colheita, corte, captura, abate ou detenção de exemplares de quaisquer espécies vegetais ou animais sujeitas a medidas de protecção, em qualquer fase do seu ciclo biológico, bem como a perturbação ou a destruição dos seus habitats com excepção das acções levadas a efeito pelo Parque Natural e das acções de âmbito científico devidamente autorizadas pelo mesmo;
-
-g) A introdução no estado selvagem de espécies zoológicas ou botânicas exóticas ou estranhas ao ambiente;
-
-h) A prática de actividades desportivas motorizadas fora das estradas, dos caminhos municipais ou florestais, dos arrifes ou aceiros, susceptíveis de provocarem poluição ou ruído ou de deteriorarem os factores naturais da área, onde se incluem passeios e raids organizados de veículos todo o terreno e o motocross;
-
-i) A prática de campismo ou caravanismo fora dos locais para tal destinados;
-
-j) A pesca e a caça nos termos do disposto nos artigos 13.º e 14.º
+> Revogado pelo/a [Resolução do Conselho de Ministros n.º 141/2005](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/141-2005-246128), publicado em 2005-08-23.
 
 ###### Artigo 11.º — Actos e actividades sujeitos a autorização
 
-Sem prejuízo dos restantes condicionalismos legais, ficam sujeitos a autorização do Parque Natural os seguintes actos e actividades:
-
-a) O fraccionamento ou parcelamento de terrenos rústicos que respeite as possibilidades e os limites estabelecidos por lei para as unidades de cultura, salvo se para efeitos de emparcelamento;
-
-b) A alteração da morfologia do solo, a alteração do uso actual dos terrenos de culturas permanentes para culturas anuais, ou vice-versa, ou a adaptação a regadio, quando abranjam uma área superior a 1 ha;
-
-c) A alteração do coberto vegetal através da realização de cortes rasos de povoamentos florestais, pelo corte de vegetação arbórea ou arbustiva ripícola destinado a acções de limpeza ou pela destruição das compartimentações existentes de sebes vivas, exceptuando-se as acções decorrentes do combate a incêndios e da normal actividade agrícola e florestal;
-
-d) O sobrevoo de aeronaves com motor abaixo dos 1000 pés, incluindo a utilização de locais de descolagem para actividades desportivas que têm como suporte o ar, excepto as acções de vigilância, combate a incêndios, operações de salvamento e trabalhos científicos autorizados pelo Parque Natural;
-
-e) A instalação, afixação, inscrição ou pintura mural de mensagens de publicidade ou propaganda, temporárias ou permanentes, de cariz comercial ou não, incluindo a colocação de meios amovíveis, fora do perímetro dos aglomerados urbanos, com excepção da sinalização específica do Parque Natural ou da respectiva câmara municipal;
-
-f) A criação de espécies zoológicas não autóctones, com excepção da decorrente da normal actividade agro-pecuária;
-
-g) A recolha de amostras geológicas;
-
-h) A remoção de quaisquer substratos marinhos para fins exclusivamente científicos;
-
-i) A utilização de aparelhagem de amplificação sonora, excepto dentro dos perímetros dos aglomerados urbanos, locais de festividade religiosa e recintos de feira;
-
-j) A venda ambulante de produtos de qualquer natureza, excepto dentro dos perímetros dos aglomerados urbanos, locais de festividade religiosa e recintos de feira, não carecendo de autorização os produtos extraídos ou manufacturados na área geográfica do Parque Natural;
-
-l) A realização de fogos controlados, efectuados ao abrigo da alínea d) do artigo 10.º do [Decreto Regulamentar n.º 55/81](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/55-1981-567043), de 18 de Dezembro, e a realização de queimadas ao abrigo do [Decreto-Lei n.º 316/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1995-626589), de 28 de Novembro.
+(Revogado.)
 
 ###### Artigo 12.º — Actos e actividades sujeitos a parecer vinculativo
 
-Sem prejuízo dos restantes condicionalismos legais, ficam sujeitos a parecer vinculativo do Parque Natural os seguintes actos e actividades:
-
-a) A realização de obras de construção civil, a alteração do uso actual ou da morfologia do solo, designadamente para edificações, instalação/ampliação de parques de campismo e caravanismo, empreendimentos turísticos, fora dos perímetros dos aglomerados urbanos como tal definidos nos planos municipais de ordenamento do território (PMOT), para explorações agro-pecuárias ou agro-industriais, açudes, projectos de irrigação ou de tratamento de águas residuais, estaleiros temporários ou permanentes, portos, ancoradouros e marinas;
-
-b) A realização de obras de construção civil ou a alteração do uso actual dos terrenos ou da morfologia do solo para instalação de estabelecimentos industriais das classes C e D, segundo a classificação constante no quadro anexo ao Regulamento do Exercício da Actividade e para o estabelecimento de áreas destinadas a indústrias transformadoras ou a parques industriais, fora do perímetro dos aglomerados urbanos;
-
-c) O licenciamento de loteamentos urbanos e industriais;
-
-d) A alteração à morfologia do solo por escavações ou aterros;
-
-e) A alteração à morfologia do solo, incluindo o enxugo ou a drenagem dos terrenos e a alteração da rede de drenagem natural, da qualidade das águas superficiais e subterrâneas e respectivo caudal, a abertura de poços, furos e captações, excepto para usos agrícolas;
-
-f) A abertura de novas estradas, caminhos ou acessos, o alargamento ou qualquer modificação dos existentes, bem como as obras de manutenção e conservação que impliquem a destruição do coberto vegetal;
-
-g) A instalação de infra-estruturas eléctricas e telefónicas aéreas ou subterrâneas, de telecomunicações, de gás natural, de saneamento básico e de aproveitamento de energias renováveis, fora dos perímetros dos aglomerados urbanos;
-
-h) A prática de actividades desportivas, nomeadamente o mergulho com escafandro autónomo e actividades turísticas susceptíveis de deteriorarem os valores naturais da área;
-
-i) A prática de actividades desportivas motorizadas susceptíveis de provocarem poluição, ruído ou deteriorarem os valores naturais da área, nomeadamente a motonáutica, a utilização de motos de água e similares, os raids de veículos todo o terreno e o enduro;
-
-j) A pesca nos termos do disposto no artigo 13.º
+(Revogado.)
 
 ###### Artigo 13.º — Pesca, apanha e aquicultura
 
@@ -403,15 +349,7 @@ A prática de actividades venatórias no Parque Natural está sujeita às regras
 
 ###### Artigo 15.º — Infracções
 
-1 - Constitui contra-ordenação a prática dos actos e actividades estabelecidos no artigo 10.º ou sem as autorizações e os pareceres vinculativos necessários previstos nos artigos 11.º e 12.º, respectivamente.
-
-2 - A punição e o processamento das contra-ordenações previstas no número anterior são feitos de acordo com os n.os 2 e 3 dos artigos 22.º e seguintes do [Decreto-Lei n.º 19/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-1993-584781), de 23 de Janeiro.
-
-3 - Acessoriamente à aplicação da respectiva coima, poderá ser determinada a apreensão, a favor do Parque Natural da Arrábida, do produto da infracção e dos objectos pertencentes ao agente que tenham sido utilizados como instrumento na prática da infracção ao disposto no presente diploma, sem prejuízo do disposto no artigo 23.º do [Decreto-Lei n.º 19/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-1993-584781), de 23 de Janeiro.
-
-4 - As infracções cometidas no exercício da actividade da pesca, apanha e aquicultura são processadas e punidas nos termos da legislação específica.
-
-5 - As infracções cometidas no exercício da actividade da caça são processadas e punidas nos termos da [Portaria n.º 833/93](https://diariodarepublica.pt/dr/detalhe/portaria/833-1993-626989), de 8 de Setembro.
+(Revogado.)
 
 ###### Artigo 16.º — Reposição da situação anterior à infracção
 

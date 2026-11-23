@@ -1,5 +1,19 @@
 [
   {
+    "artigo": "4.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 4.º\n\n1. O direito de reserva previsto no artigo anterior caduca se não for exercido no prazo de vinte dias a contar da notificação, para o efeito, do proprietário ou de quem o represente, através de declaração escrita, dirigida ao Instituto de Reorganização Agrária.\n\n2. Independentemente da notificação referida no número anterior, o direito de reserva caduca no prazo de trinta dias a contar da afixação de editais na sede da associação de regantes e beneficiários do aproveitamento hidroagrícola de que beneficiem os prédios nacionalizados.\n\n3. A declaração de exercício do direito de reserva deverá ser acompanhada, sob pena de ineficácia, de uma outra em que o reservante declare quais os prédios, rústicos e urbanos, de que é proprietário, tomando em consideração o disposto nos artigos 13.º e 14.º deste diploma.\n\n4. Tanto a notificação referida no n.º 1 deste artigo como a declaração de exercício do direito de reserva serão efectuadas mediante carta registada com aviso de recepção.",
+    "depois": "###### Artigo 4.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 81/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1978-425528), publicado em 1978-04-29.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:668330:por",
+    "alterador": "pt:dre:425528:por;pt:dre:416472:por"
+  },
+  {
     "artigo": "9.º",
     "operacao": "substituir",
     "regra": "llm",
@@ -11,6 +25,6 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:668330:por",
-    "alterador": "pt:dre:416472:por"
+    "alterador": "pt:dre:425528:por;pt:dre:416472:por"
   }
 ]

@@ -43,9 +43,10 @@ version_history:
     changes: []
   - date: '1980-02-27'
     amending: pt:dre:679620:por
-    amending_title: Decreto-Lei n.º 16/80
+    amending_title: Decreto-Lei n.º 16/80; Decreto-Lei n.º 422/78
     changes:
     - Altera Artigo 3.º
+    - Revoga Artigo 7
 identifiers:
   celex: null
   eli: null
@@ -72,7 +73,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T23:11:42Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 16/80. Método e verificação:
-    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1978/decreto-lei-171-78.alteracoes.json'
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1978/decreto-lei-171-78.alteracoes.json. Revogações
+    registadas só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Decreto-Lei
+    n.º 422/78.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -168,7 +171,9 @@ O bilhete de identidade é emitido pelo Comando-Geral da Polícia de Segurança 
 
 ###### Artigo 7.º
 
-O bilhete de identidade é de uso obrigatório noventa dias após a entrada em vigor do presente diploma.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 422/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/422-1978-325150), publicado em 1978-12-22.
 
 ###### Artigo 8.º
 

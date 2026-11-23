@@ -149,21 +149,22 @@
     }
   ],
   "anexos": [],
-  "nao_aplicavel": "Alterador 5, art. 32.º, n.º 1 (a estrutura orgânica do original é substituída pela do DL 120/2002): não textual — não revoga nem dá nova redação a artigos do original; substitui a orgânica do Governo sem instrução sobre o texto.\nAlterador 6, DL 151/2019 (intermunicipalização da STCP): sem texto — não traz nenhuma instrução dirigida ao original (a norma revogatória visa os DL 202/94, 379/98 e 82/2016).",
+  "nao_aplicavel": "Alterador 5, art. 32.º, n.º 1 (a estrutura orgânica do original é substituída pela do DL 120/2002): não textual (substituição global da orgânica, sem revogação expressa nem nova redação de artigos do original)\nAlterador 6, DL 151/2019: outro diploma (as alterações visam o RJSPTP e outros diplomas; nenhuma instrução dirigida ao original)",
   "instrucoes": [
-    "Alt. 1 (DL 267-A/2000), art. 1.º: nova redação dos arts. 2.º, 6.º (n.º 1 e 2 com as alíneas novas, sem as antigas d)-e) e f)-g); n.º 3 novo; n.º 4 = anterior n.º 6, caem os n.os 4 e 5), 7.º (reparo confirmado: só a nova redação), 8.º, 9.º n.º 2, 15.º n.º 1, 16.º n.º 1, 17.º n.os 1 e 3, 18.º n.º 1, 19.º n.º 4, 22.º n.º 1, 25.º n.os 2, 5 e 6, 33.º e 34.º n.os 1 e 2, 37.º n.º 4 e n.º 9 = anterior n.º 10 (cai o antigo n.º 9). Aplicado, com as alterações seguintes por cima.",
-    "Alt. 1, art. 2.º: aditados os arts. 28.º-A e 33.º-A (já no texto atual, iguais; 33.º-A fica como está).",
-    "Alt. 1, art. 3.º, n.º 1: revogados os arts. 10.º, 11.º (já revogados no texto atual), 12.º (depois repristinado pelo alt. 3), 35.º e 36.º.",
-    "Alt. 1, art. 3.º, n.º 2: capítulo II passa a designar-se «Do Conselho de Ministros» — em titulos.",
-    "Alt. 2 (DL 116/2001): nova redação dos arts. 2.º, 6.º (n.os 1-3), 8.º (volta a ter um só parágrafo, igual ao texto atual, por isso não muda), 14.º n.º 2, 19.º n.os 1, 4 e 5, 28.º-A n.º 2. Aplicado.",
-    "Alt. 3 (DL 247/2001): nova redação dos arts. 2.º, 6.º (n.os 1 e 2; 3 e 4 ficam), 9.º n.º 2, 15.º n.º 1 revogado, 17.º n.º 1 (n.º 3 do alt. 1 mantém-se), 18.º n.º 1, 19.º n.º 5, 23.º n.º 1, 24.º n.º 1, 26.º n.os 1, 3 e 4; art. 2.º repristina o art. 12.º com nova redação. Aplicado.",
-    "Alt. 4 (DL 24/2002): aditado o art. 37.º-A.",
-    "Alt. 5 (DL 120/2002), art. 32.º: substituição da estrutura orgânica, não textual — nao_aplicavel.",
-    "Alt. 6 (DL 151/2019): nenhuma instrução dirigida ao original — nao_aplicavel."
+    "Alterador 1, art. 1.º: nova redação dos arts. 2.º, 6.º, 7.º, 8.º, 9.º, 15.º, 16.º, 17.º, 18.º, 19.º, 22.º, 25.º, 33.º, 34.º e 37.º; aplicada (os arts. 2.º, 6.º, 8.º, 9.º, 15.º, 17.º, 18.º e 19.º voltam a ser alterados depois). Art. 7.º: um só parágrafo, a nova redação. Art. 37.º: n.º 4 novo, antigo n.º 10 passa a n.º 9 (antigo n.º 9 desaparece).",
+    "Alterador 1, art. 2.º: adita os arts. 28.º-A e 33.º-A (33.º-A já estava certo; 28.º-A volta a mudar no alterador 2).",
+    "Alterador 1, art. 3.º, n.º 1: revoga os arts. 10.º, 11.º, 12.º, 35.º e 36.º (10.º e 11.º já estavam revogados; 35.º e 36.º passam a «(Revogado.)»; o 12.º é depois repristinado pelo alterador 3).",
+    "Alterador 1, art. 3.º, n.º 2: o capítulo II passa a ser designado «Do Conselho de Ministros»; em titulos.",
+    "Alterador 2, art. 1.º: nova redação dos arts. 2.º, 6.º, 8.º, 14.º, 19.º e 28.º-A; aplicada (art. 8.º volta ao texto original, por isso não muda em relação ao texto atual; 14.º n.º 2 e 28.º-A n.º 2 ficam com a redação do alterador 2).",
+    "Alterador 3, art. 1.º: nova redação dos arts. 2.º, 6.º, 9.º, 15.º (n.º 1 revogado), 17.º, 18.º, 19.º (n.º 5), 23.º, 24.º e 26.º (n.os 1, 3 e 4); aplicada. Art. 6.º: n.os 1 e 2 do alterador 3, n.º 3 do alterador 2, n.º 4 = antigo n.º 6. Art. 17.º: mantém o n.º 3 aditado pelo alterador 1.",
+    "Alterador 3, art. 2.º: repristina o art. 12.º com nova redação; aplicada.",
+    "Alterador 4, art. 1.º: adita o art. 37.º-A; aplicado.",
+    "Alterador 5: substitui a orgânica do Governo (não textual); nao_aplicavel.",
+    "Alterador 6: sem instruções dirigidas ao original; nao_aplicavel."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "ronda_camada1": 116,
+  "ronda_camada1": 117,
   "problemas": [],
   "numeracao_aceite": [],
   "avisos": [

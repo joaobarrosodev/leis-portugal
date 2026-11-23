@@ -87,12 +87,19 @@
      "title": "Decreto Regulamentar Regional n.º 6/2009/A",
      "published": "2009-06-05",
      "dre_path": "/dr/detalhe/decreto-regulamentar-regional/6-2009-494223"
+    },
+    {
+     "id": "pt:dre:178832:por",
+     "title": "Decreto Regulamentar Regional n.º 16/2012/A",
+     "published": "2012-06-19",
+     "dre_path": "/dr/detalhe/decreto-regulamentar-regional/16-2012-178832"
     }
    ],
    "changes": [
     "Revoga Artigo 42.º",
     "Revoga Artigo 40.º",
-    "Altera anexo ou texto fora do articulado"
+    "Altera anexo ou texto fora do articulado",
+    "Revoga Artigo 19"
    ],
    "fragments": [
     "4cbc53550ee348e1",
@@ -116,7 +123,7 @@
     "87a7f2243bdefde6",
     "fea69e75351d68fb",
     "5e78263f47114940",
-    "504a8926a6c7353e",
+    "4c7f3b2a4f79bc7a",
     "5b1d9ba9c8479f3b",
     "d554b4de68156d95",
     "dd49c408ecd9fa01",
@@ -575,6 +582,16 @@
    "in_force_from": null,
    "changed_by": [],
    "markdown": "###### Artigo 44.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia imediato ao da sua publicação.\n\nAprovado em Conselho do Governo Regional, em Ponta Delgada, em 21 de Maio de 2007.\n\nO Presidente do Governo Regional, Carlos Manuel Martins do Vale César.\n\nAssinado em Angra do Heroísmo em 18 de Junho de 2007.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma dos Açores, José António Mesquita.\n\nDo ANEXO I ao ANEXO XXXIX\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/07/13400/44414474.pdf)"
+  },
+  "4c7f3b2a4f79bc7a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Escola Básica Integrada Mouzinho da Silveira",
+   "in_force_from": "2022-07-27",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar Regional n.º 16/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/16-2012-178832), publicado em 2012-06-19, com efeitos a partir de 2012-06-20."
+   ],
+   "markdown": "###### Artigo 19.º — Escola Básica Integrada Mouzinho da Silveira\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar Regional n.º 16/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/16-2012-178832), publicado em 2012-06-19, com efeitos a partir de 2012-06-20."
   },
   "c8efa1ab8e146c64": {
    "fragment_id": null,

@@ -23,14 +23,21 @@
      "title": "Decreto-Lei n.º 69/76",
      "published": "1976-01-26",
      "dre_path": "/dr/detalhe/decreto-lei/69-1976-506831"
+    },
+    {
+     "id": "pt:dre:672145:por",
+     "title": "Decreto-Lei n.º 498-E/74",
+     "published": "1974-09-30",
+     "dre_path": "/dr/detalhe/decreto-lei/498-e-1974-672145"
     }
    ],
    "changes": [
-    "Revoga Artigo 6.º"
+    "Revoga Artigo 6.º",
+    "Revoga Artigo 1"
    ],
    "fragments": [
     "b8f2860b37d39d7b",
-    "584c90703685ae1a",
+    "16e1e49e5f7e4c31",
     "e8cd72d47bc84d76",
     "b85f2d5682834627",
     "c79df4984ae32046",
@@ -63,13 +70,15 @@
    "changed_by": [],
    "markdown": "de 31 de Dezembro\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:"
   },
-  "584c90703685ae1a": {
+  "16e1e49e5f7e4c31": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 1.º",
-   "in_force_from": null,
-   "changed_by": [],
-   "markdown": "###### Artigo 1.º\n\n1. Os soldos a abonar mensalmente aos oficiais dos quadros permanentes dos três ramos das forças armadas serão os seguintes:\n\nExército\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/12/30200/25192520.pdf)\n\nArmada\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/12/30200/25192520.pdf)\n\nForça Aérea\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/12/30200/25192520.pdf)\n\n2. Os soldos constantes das tabelas do número anterior são acrescidos das importâncias adiante indicadas para os seguintes oficiais:\n\na) Oficiais com o curso complementar de estado-maior: 800$00 nos postos de coronel e de tenente-coronel, 700$00 no posto de major e 600$00 no posto de capitão;\n\nb) Oficiais do Exército com o curso geral de estado-maior, oficiais engenheiros das armas de engenharia e de transmissões, oficiais de artilharia (cursos até 1947), oficiais da Armada das classes de engenheiros construtores navais e de engenheiros de material naval e oficiais engenheiros da Força Aérea e pilotos aviadores com o curso geral de estado-maior: 300$00, até aos postos de coronel ou capitão-de-mar-e-guerra, inclusive.\n\n3. Aos sargentos dos quadros permanentes dos três ramos das forças armadas serão abonados os seguintes ordenados mensais:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/12/30200/25192520.pdf)\n\n4. Às praças da Armada serão abonados os seguintes prés mensais:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/12/30200/25192520.pdf)\n\n5. A tabela constante do n.º 1 do artigo 6.º do [Decreto-Lei n.º 49411](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49411-1969-176302), alterada pelo artigo 3.º do [Decreto-Lei n.º 298/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-1972-605811), de 14 de Agosto, é substituída pela seguinte:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/12/30200/25192520.pdf)\n\nO somatório dos quantitativos mensais dos aumentos de pré e dos prés das praças readmitidas será arredondado para a centena de escudos superior.\n\n6. As remunerações constantes dos n.os 1 e 2 do artigo 2.º e do artigo 4.º do [Decreto-Lei n.º 49411](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49411-1969-176302) são substituídas, respectivamente, pelas de 4600$00,\n\n3400$00 e 3400$00."
+   "in_force_from": "1976-01-26",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 498-E/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-e-1974-672145), publicado em 1974-09-30."
+   ],
+   "markdown": "###### Artigo 1.º\n\n1. Os soldos a abonar mensalmente aos oficiais dos quadros permanentes dos três ramos das forças armadas serão os seguintes:\n\nExército\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/12/30200/25192520.pdf)\n\nArmada\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/12/30200/25192520.pdf)\n\nForça Aérea\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/12/30200/25192520.pdf)\n\n2. Os soldos constantes das tabelas do número anterior são acrescidos das importâncias adiante indicadas para os seguintes oficiais:\n\na) Oficiais com o curso complementar de estado-maior: 800$00 nos postos de coronel e de tenente-coronel, 700$00 no posto de major e 600$00 no posto de capitão;\n\nb) Oficiais do Exército com o curso geral de estado-maior, oficiais engenheiros das armas de engenharia e de transmissões, oficiais de artilharia (cursos até 1947), oficiais da Armada das classes de engenheiros construtores navais e de engenheiros de material naval e oficiais engenheiros da Força Aérea e pilotos aviadores com o curso geral de estado-maior: 300$00, até aos postos de coronel ou capitão-de-mar-e-guerra, inclusive.\n\n3. Aos sargentos dos quadros permanentes dos três ramos das forças armadas serão abonados os seguintes ordenados mensais:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/12/30200/25192520.pdf)\n\n4. Às praças da Armada serão abonados os seguintes prés mensais:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/12/30200/25192520.pdf)\n\n5. A tabela constante do n.º 1 do artigo 6.º do [Decreto-Lei n.º 49411](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49411-1969-176302), alterada pelo artigo 3.º do [Decreto-Lei n.º 298/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-1972-605811), de 14 de Agosto, é substituída pela seguinte:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/12/30200/25192520.pdf)\n\n6. As remunerações constantes dos n.os 1 e 2 do artigo 2.º e do artigo 4.º do [Decreto-Lei n.º 49411](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49411-1969-176302) são substituídas, respectivamente, pelas de 4600$00,\n\n3400$00 e 3400$00.\n\n> Revogado pelo/a [Decreto-Lei n.º 498-E/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-e-1974-672145), publicado em 1974-09-30."
   },
   "e8cd72d47bc84d76": {
    "fragment_id": null,

@@ -25,10 +25,28 @@
      "title": "Lei n.º 110/2009",
      "published": "2009-09-16",
      "dre_path": "/dr/detalhe/lei/110-2009-490249"
+    },
+    {
+     "id": "pt:dre:451834:por",
+     "title": "Decreto-Lei n.º 251/83",
+     "published": "1983-06-11",
+     "dre_path": "/dr/detalhe/decreto-lei/251-1983-451834"
+    },
+    {
+     "id": "pt:dre:616263:por",
+     "title": "Decreto-Lei n.º 141/91",
+     "published": "1991-04-10",
+     "dre_path": "/dr/detalhe/decreto-lei/141-1991-616263"
     }
    ],
    "changes": [
-    "Revoga Artigo 19.º"
+    "Revoga Artigo 19.º",
+    "Revoga Artigo 12",
+    "Revoga Artigo 13",
+    "Revoga Artigo 14",
+    "Revoga Artigo 15",
+    "Revoga Artigo 6",
+    "Revoga Artigo 8"
    ],
    "fragments": [
     "7c67f6c8c28d9d31",
@@ -38,17 +56,17 @@
     "9ad11f19b510b4b1",
     "dcddc69d3c075e80",
     "a0ffe10698b4bf78",
-    "721d8c126f58898c",
+    "fff866009ae590b1",
     "01d27ca5af0df7b1",
-    "81fc4f7e65719ebf",
+    "f858ab1832becf6a",
     "ebf66b752feda028",
     "73ed834eccb023b4",
     "8c6965d3b4ca5653",
     "6e7e2360aeb90857",
-    "71775271850fba5d",
-    "df5ba2f922e1808a",
-    "c57a75823b8831ae",
-    "f36ae0bed18c397e",
+    "853c11e8590f2e48",
+    "df7e60016409deef",
+    "f70885165c8ffd46",
+    "ade91ec3fe8fde06",
     "b8d597914e511bcc",
     "5d061f164cfdb2dd",
     "1505741d1e4af06d",
@@ -134,13 +152,15 @@
    "changed_by": [],
    "markdown": "###### Artigo 5.º\n\nAs pensões de invalidez e de velhice iniciadas a partir de 1 de Janeiro de 1979 serão fixadas nos valores que resultam de somar ao respectivo quantitativo estatutário as seguintes importâncias:\n\na) A necessária para atingir 3100$00, para as de quantitativo estatutário não superior a 500$00;\n\nb) 500$00 ou a necessária para atingir um mínimo de 3600$00, para as de quantitativo estatutário superior a 500$00."
   },
-  "721d8c126f58898c": {
+  "fff866009ae590b1": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 6.º",
-   "in_force_from": null,
-   "changed_by": [],
-   "markdown": "###### Artigo 6.º\n\n1 - Quando o beneficiário tenha direito a pensão de invalidez ou de velhice por mais do que um regime de previdência de inscrição obrigatória, incluindo o da Caixa Geral de Aposentações, o dos antigos funcionários ultramarinos, o esquema de previdência da regulamentação colectiva de trabalho dos bancários e os regimes de segurança social de outros países, ou pensão por incapacidade permanente resultante de acidente de trabalho ou doença profissional, a importância a somar ao respectivo quantitativo estatutário para obter a pensão regulamentar será determinada por aplicação dos artigos 4.º e 5.º, considerando, porém, como valor da pensão estatutária o que resultar da adição ao quantitativo estatutário do regime geral da Caixa Nacional de Pensões do total das restantes pensões atrás referidas, excluídas apenas as prestações complementares, designadamente o complemento por cônjuge a cargo e o suplemento aos grandes inválidos.\n\n2 - Se, porém, a pensão regulamentar assim obtida for superior à que corresponderia exclusivamente à pensão estatutária da Caixa Nacional de Pensões, prevalece esta última pensão regulamentar."
+   "in_force_from": "2011-01-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 141/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1991-616263), publicado em 1991-04-10, com efeitos a partir de 1991-07-01."
+   ],
+   "markdown": "###### Artigo 6.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 141/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1991-616263), publicado em 1991-04-10, com efeitos a partir de 1991-07-01."
   },
   "01d27ca5af0df7b1": {
    "fragment_id": null,
@@ -150,13 +170,13 @@
    "changed_by": [],
    "markdown": "###### Artigo 7.º\n\n1 - Nenhuma pensão de sobrevivência poderá ter valor inferior ao que resulta da aplicação da respectiva percentagem regulamentar à pensão mínima de invalidez ou de velhice, estabelecida no artigo 3.º\n\n2 - Ressalvam-se, no entanto, as excepções previstas na alínea a) do artigo 5.º e nos artigos 6.º, 8.º e 9."
   },
-  "81fc4f7e65719ebf": {
+  "f858ab1832becf6a": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 8.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 8.º\n\nPara a aplicação do n.º 1 do artigo precedente, considerar-se-á a pensão total quando o pensionista receba pensão de sobrevivência de mais do que um regime de previdência de inscrição obrigatória, incluindo o do Montepio dos Servidores do Estado, e dos antigos funcionários ultramarinos, o esquema de previdência da regulamentação colectiva de trabalho dos bancários e os regimes de segurança social de outros países ou pensão resultante de acidente de trabalho ou doença profissional."
+   "markdown": "###### Artigo 8.º\n\n(Revogado.)"
   },
   "ebf66b752feda028": {
    "fragment_id": null,
@@ -190,37 +210,39 @@
    "changed_by": [],
    "markdown": "###### Artigo 11.º\n\nSão fixadas em 8% e 20,5% das retribuições as taxas de contribuições a que se referem o artigo 1.º do [Decreto-Lei n.º 29/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-1977-138162), de 20 de Janeiro,\n\ne o artigo 2.º do [Decreto-Lei n.º 180-C/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-c-1978-434603), de 15 de Julho."
   },
-  "71775271850fba5d": {
+  "853c11e8590f2e48": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 12.º",
-   "in_force_from": null,
-   "changed_by": [],
-   "markdown": "###### Artigo 12.º\n\n1 - A quotização mensal a que se refere o artigo 6.º do [Decreto n.º 174-B/75](https://diariodarepublica.pt/dr/detalhe/decreto/174-b-1975-344917), de 1 de Abril, é elevada para 150$00 ou, para trabalhadores menores de 18 anos, 120$00.\n\n2 - As quotizações a que se referem o número anterior e o artigo 7.º do [Decreto n.º 174-B/75](https://diariodarepublica.pt/dr/detalhe/decreto/174-b-1975-344917) serão entregues nas caixas distritais, directamente ou por intermédio das Casas do Povo, para depósito à ordem do Instituto de Gestão Financeira da Segurança Social.\n\n3 - Nas caixas distritais serão contabilizadas as contas correntes de quotizações dos beneficiários e contribuintes a que se referem os números anteriores, bem como todas as despesas inerentes ao regime especial de previdência dos trabalhadores rurais."
+   "in_force_from": "2011-01-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 251/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1983-451834), publicado em 1983-06-11, com efeitos a partir de 1983-10-01."
+   ],
+   "markdown": "###### Artigo 12.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 251/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1983-451834), publicado em 1983-06-11, com efeitos a partir de 1983-10-01."
   },
-  "df5ba2f922e1808a": {
+  "df7e60016409deef": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 13.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 13.º\n\nO artigo 7.º do Decreto-Lei n.º 174-B/75, de 1 de Abril, passa a ter a seguinte redacção:\n\nArt. 7.º - 1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\n5 - ...\n\n6 - ...\n\n7 - ...\n\n8 - As disposições constantes do presente artigo não são aplicáveis às entidades contribuintes que exploram a terra e que, por força da legislação vigente, se encontram abrangidas, relativamente à totalidade dos seus trabalhadores, pelo regime geral."
+   "markdown": "###### Artigo 13.º\n\n(Revogado.)"
   },
-  "c57a75823b8831ae": {
+  "f70885165c8ffd46": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 14.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 14.º\n\nÉ elevada para 7$00 a contribuição a que se refere o n.º 1 da base XXVI do despacho ministerial de 30 de Agosto de 1969."
+   "markdown": "###### Artigo 14.º\n\n(Revogado.)"
   },
-  "f36ae0bed18c397e": {
+  "ade91ec3fe8fde06": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 15.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 15.º\n\n1 - A tabela anexa ao despacho de 21 de Abril de 1971 (extensão do regime especial de abono de família aos arrendatários cultivadores directos) é substituída pela seguinte:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/29601/00080011.pdf)\n\n2 - São alteradas, em conformidade com a tabela anterior, as disposições constantes dos n.os 2 e 3 do despacho referido no número precedente."
+   "markdown": "###### Artigo 15.º\n\n(Revogado.)"
   },
   "b8d597914e511bcc": {
    "fragment_id": null,

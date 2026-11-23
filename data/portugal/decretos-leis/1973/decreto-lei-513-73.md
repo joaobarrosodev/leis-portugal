@@ -44,7 +44,7 @@ version_history:
     changes: []
   - date: '1978-11-14'
     amending: pt:dre:314898:por
-    amending_title: Decreto-Lei n.º 459/75; Decreto-Lei n.º 338/78
+    amending_title: Decreto-Lei n.º 459/75; Decreto-Lei n.º 338/78; Decreto-Lei n.º 769-A/76
     changes:
     - Altera Artigo 14.º
     - Altera Artigo 18.º
@@ -52,6 +52,14 @@ version_history:
     - Altera Artigo 39.º
     - Altera Artigo 47.º
     - Altera Artigo 50.º
+    - Revoga Artigo 2
+    - Revoga Artigo 3
+    - Revoga Artigo 4
+    - Revoga Artigo 5
+    - Revoga Artigo 6
+    - Revoga Artigo 7
+    - Revoga Artigo 8
+    - Revoga Artigo 9
 identifiers:
   celex: null
   eli: null
@@ -78,7 +86,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:28:33Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 459/75; Decreto-Lei
-    n.º 338/78. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1973/decreto-lei-513-73.alteracoes.json'
+    n.º 338/78. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1973/decreto-lei-513-73.alteracoes.json.
+    Revogações registadas só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Decreto-Lei
+    n.º 769-A/76.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -187,87 +197,37 @@ Os estabelecimentos de ensino médio, secundário e preparatório e as escolas d
 
 ###### Artigo 2.º
 
-São órgãos de direcção administrativa dos estabelecimentos referidos no artigo anterior:
+(Revogado.)
 
-a) O director ou reitor;
-
-b) O conselho administrativo.
+> Revogado pelo/a [Decreto-Lei n.º 769-A/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/769-a-1976-233694), publicado em 1976-10-23, com efeitos a partir de 1976-10-24.
 
 ###### Artigo 3.º
 
-1. Ao director ou reitor compete dirigir, orientar e coordenar todas as actividades do respectivo estabelecimento, imprimindo-lhes unidade, continuidade e eficiência, e, designadamente:
-
-a) Representar o estabelecimento de ensino;
-
-b) Convocar e presidir às reuniões do conselho administrativo, orientando os seus trabalhos;
-
-c) Submeter à apreciação superior os assuntos que excedam a sua competência.
-
-2. O director ou reitor serão substituídos nas suas faltas ou impedimentos pelos subdirectores ou vice-reitores por si designados, nos quais poderão delegar, mediante autorização do director-geral da Administração Escolar, algumas das suas atribuições.
+(Revogado.)
 
 ###### Artigo 4.º
 
-1. O conselho administrativo é constituído por um presidente e dois vogais.
-
-2. O director ou reitor poderão delegar num subdirector ou vice-reitor o desempenho das funções da presidência do conselho administrativo, mas sem prejuízo da orientação superior que lhe cabe fixar.
-
-3. Um dos vogais será um professor do quadro, designado pelo director-geral da Administração Escolar, ouvido o director ou reitor.
-
-4. O segundo vogal será o chefe da secretaria, que exercerá as funções de secretário do conselho.
-
-5. Excepcionalmente, se a conveniência da administração do estabelecimento o exigir, pode ser designado para vogal qualquer dos agentes de ensino em exercício.
-
-6. Para substituir eventualmente um dos vogais pode ser designado um suplente, de acordo com o disposto nos números anteriores.
+(Revogado.)
 
 ###### Artigo 5.º
 
-Os subdirectores ou vice-reitores das secções farão parte, como vogais, do conselho administrativo do respectivo estabelecimento, mas a sua presença só será obrigatória nas sessões em que forem aprovados o projecto de orçamento, a conta da gerência ou em que sejam tratados outros assuntos que digam respeito às respectivas secções.
+(Revogado.)
 
 ###### Artigo 6.º
 
-1. Compete ao conselho administrativo:
-
-a) Estabelecer as regras a que deve obedecer a administração do estabelecimento, de acordo com as leis gerais da contabilidade pública e a orientação da Direcção-Geral da Administração Escolar;
-
-b) Aprovar os projectos de orçamento e a conta de gerência;
-
-c) Verificar a legalidade das despesas efectuadas e autorizar o respectivo pagamento;
-
-d) Fiscalizar a cobrança das receitas e dar balanço ao cofre a cargo do tesoureiro;
-
-e) Velar pela manutenção e conservação do património, promovendo a organização e permanente actualização do seu cadastro;
-
-f) Aceitar as liberalidades feitas a favor dos serviços ou estabelecimentos de ensino.
-
-2. As liberalidades referidas na alínea f) do número anterior, quando envolvam obrigações para os serviços ou estabelecimentos de ensino, carecem de autorização superior.
+(Revogado.)
 
 ###### Artigo 7.º
 
-1. O conselho administrativo reunirá, pelo menos, uma vez em cada mês do ano civil, devendo estar presentes todos os seus componentes, sem prejuízo do disposto no artigo 5.º
-
-2. As sessões são convocadas pelo presidente com, pelo menos, quarenta e oito horas de antecedência, salvo casos de especial urgência.
-
-3. As sessões do conselho deverão realizar-se, em princípio, sem prejuízo da actividade docente.
-
-4. As deliberações serão tomadas por maioria de votos, tendo o presidente, em caso de empate, voto de qualidade.
+(Revogado.)
 
 ###### Artigo 8.º
 
-1. As deliberações e pareceres do conselho administrativo serão sempre exarados em acta.
-
-2. As deliberações do conselho administrativo só obrigam, para todos os efeitos, aqueles que as tenham votado, ficando isentos das respectivas responsabilidades civis e disciplinares os que não tenham concordado com as resoluções tomadas por maioria, desde que, para o efeito, tenham exarado a competente declaração de voto.
-
-3. Sem prejuízo do disposto no número anterior, os membros do conselho responderão solidariamente pela administração do estabelecimento de ensino.
+(Revogado.)
 
 ###### Artigo 9.º
 
-1. O presidente do conselho administrativo pode suspender a execução de qualquer deliberação do mesmo conselho, desde que a considere ilegal ou inconveniente.
-
-2. Quando usar deste direito, o presidente submeterá à apreciação do director-geral da Administração Escolar, dentro das quarenta e oito horas subsequentes, os motivos da suspensão.
-
-3. A decisão dos casos referidos no número anterior terá de ser proferida no prazo de quinze dias, contados a partir da data da suspensão.
-
-4. Se a decisão não for tomada dentro do prazo a que se refere o número antecedente, considera-se levantada a suspensão.
+(Revogado.)
 
 II - Do funcionamento dos serviços administrativos
 

@@ -31,7 +31,7 @@ version:
   kind: consolidated
   label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: '1973-12-21'
+  consolidation_date: '1974-12-21'
 version_history:
   file: portaria-747-72.versoes.json
   count: 2
@@ -41,11 +41,12 @@ version_history:
     amending: null
     amending_title: null
     changes: []
-  - date: '1973-12-21'
+  - date: '1974-12-21'
     amending: pt:dre:195460:por
-    amending_title: Portaria n.º 911/73
+    amending_title: Portaria n.º 911/73; Portaria n.º 830-A/74
     changes:
     - Altera Artigo unidades 53-57
+    - Revoga anexo ou texto fora do articulado
 identifiers:
   celex: null
   eli: null
@@ -72,7 +73,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T03:56:45Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 911/73. Método e verificação:
-    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1972/portaria-747-72.alteracoes.json'
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1972/portaria-747-72.alteracoes.json. Revogações registadas
+    só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Portaria n.º 830-A/74.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -219,17 +221,9 @@ e) O valor das entregas suplementares relativas a cada ano contratual não será
 
 (Juro)
 
-1. Os depósitos de poupança vencerão juros de taxa progressiva, com os seguintes limites máximos:
+1. (Revogado.)
 
-a) 6,5%, no primeiro ano de duração do depósito;
-
-b) 6,75%, no segundo ano;
-
-c) 7%, no terceiro ano:
-
-d) 7,25%, no quarto e quinto anos;
-
-e) 7,5%, nos anos subsequentes.
+> Revogado pelo/a [Portaria n.º 830-A/74](https://diariodarepublica.pt/dr/detalhe/portaria/830-a-1974-251988), publicado em 1974-12-21.
 
 > Alterado pelo/a [Portaria n.º 911/73](https://diariodarepublica.pt/dr/detalhe/portaria/911-1973-195460), publicado em 1973-12-21.
 

@@ -31,7 +31,7 @@ version:
   kind: consolidated
   label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: '1998-04-27'
+  consolidation_date: '2001-09-11'
 version_history:
   file: decreto-regulamentar-regional-3-86-a.versoes.json
   count: 2
@@ -41,9 +41,10 @@ version_history:
     amending: null
     amending_title: null
     changes: []
-  - date: '1998-04-27'
+  - date: '2001-09-11'
     amending: pt:dre:332945:por
-    amending_title: Decreto Regulamentar Regional n.º 6/90/A; Decreto Regulamentar Regional n.º 8/98/A; Declaração
+    amending_title: Decreto Regulamentar Regional n.º 6/90/A; Decreto Regulamentar Regional n.º 8/98/A; Declaração; Decreto
+      Regulamentar Regional n.º 11/2001/A
     changes:
     - Altera Artigo 18.º
     - Altera Artigo 37.º
@@ -54,6 +55,7 @@ version_history:
     - Retifica Artigo 2
     - Retifica Artigo 44
     - Retifica Artigo 79
+    - Revoga Artigo 33
 identifiers:
   celex: null
   eli: null
@@ -81,7 +83,9 @@ provenance:
   generated_at: '2026-10-23T15:26:36Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Regulamentar Regional n.º
     6/90/A; Decreto Regulamentar Regional n.º 8/98/A. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/acores/decretos-regulamentares-regionais/1986/decreto-regulamentar-regional-3-86-a.alteracoes.json.
-    Retificações aplicadas com um LLM e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração.'
+    Retificações aplicadas com um LLM e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração. Revogações registadas
+    só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Decreto Regulamentar Regional
+    n.º 11/2001/A.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -588,73 +592,9 @@ c) Fomentar a participação da comunidade na prossecução dos objectivos da po
 
 ###### Artigo 33.º — (Autoridade sanitária)
 
-1 - Os profissionais do centro de saúde investidos nas funções de autoridade sanitária, nos termos de diploma próprio, asseguram o exercício da respectiva actividade nos seguintes domínios:
+(Revogado.)
 
-A) No âmbito específico do sector da saúde compete-lhes, nomeadamente:
-
-a) Fiscalizar, de acordo com a legislação aplicável, o cumprimento das disposições relativas ao uso do boletim de sanidade;
-
-b) Promover o combate às doenças transmissíveis;
-
-c) Assegurar a aplicação sistemática do plano de vacinações;
-
-d) Proceder à realização de inquéritos epidemiológicos e tratar os dados obtidos em relação às doenças de carácter endémico ou epidémico e adoptar as medidas aconselháveis para as debelar ou atenuar os seus efeitos;
-
-e) Promover o exame preventivo dos suspeitos de doenças transmissíveis, quer directamente quer por intermédio de serviços hospitalares;
-
-f) Assegurar o internamento compulsivo de doentes ou suspeitos sempre que a natureza da doença transmissível o justifique e desde que o isolamento do domicílio não ofereça garantias ou não sejam respeitadas as medidas preventivas definidas pelo médico;
-
-g) Propor a obrigatoriedade de vacinação contra doenças transmissíveis quando as circunstâncias o justificarem;
-
-h) Assegurar, de harmonia com as disposições do Regulamento Sanitário Internacional, a defesa sanitária dos portos marítimos e aéreos, executando as medidas necessárias para prevenir a importação ou exportação de doenças quarentenárias e enfrentar a ameaça da expansão de doenças epidémicas;
-
-i) Fazer cumprir o determinado quanto à notificação obrigatória de certas doenças;
-
-j) Organizar as acções a desenvolver em caso de epidemia e pandemia;
-
-l) Preparar e coordenar planos de actuação contra doenças evitáveis de alta incidência e elevados encargos sociais, tais como doenças crónico-degenerativas e mal-formações evitáveis, bem como doenças hereditárias, congénitas ou adquiridas;
-
-m) Assegurar actividades de visitação domiciliária sempre que se justifique o seguimento de «situações de alto risco» ou na sequência de notificação de doenças transmissíveis justificando inquérito epidemiológico ou actuação imediata;
-
-n) Colaborar com outras entidades na verificação da aplicação das normas sobre higiene e segurança no trabalho nos locais de trabalho;
-
-o) Tomar conhecimento dos casos de «doenças profissionais de notificação obrigatória»;
-
-p) Determinar a suspensão do trabalho e encerramento dos respectivos locais, no todo ou em parte, quando houver grave risco para a saúde dos trabalhadores ou da população;
-
-q) Cooperar com os organismos que se ocupam da saúde mental no estudo da problemática relacionada com as condições económico-sociais e de trabalho, bem como dos factores sanitários que influem no aparecimento e difusão das doenças mentais e de toxicomanias;
-
-r) Colaborar com os estabelecimentos psiquiátricos na elaboração de planos de actuação na área da saúde mental e no estudo da acção a desenvolver por esses serviços;
-
-s) Considerar os elementos estatísticos relativos à actividade dos estabelecimentos oficiais e particulares de saúde mental;
-
-B) No âmbito da salubridade compete-lhes, em colaboração com outras entidades, por iniciativa própria ou a solicitação de terceiros, desenvolver as acções que lhes estão conferidas na legislação aplicável, tais como:
-
-a) Zelar pelo cumprimento das normas relativas à higiene da habitação;
-
-b) Superintender no processo de verificação e acompanhamento das condições médico-sanitárias dos equipamentos colectivos;
-
-c) Promover a fiscalização de instalações comerciais e industriais ou outras de utilização pública, com vista à preservação das respectivas condições de higiene;
-
-d) Dar parecer sobre o licenciamento de indústrias consideradas insalubres, incómodas, perigosas ou tóxicas;
-
-e) Verificar as condições de salubridade nos transportes públicos;
-
-f) Tomar medidas visando a prevenção e a luta contra a poluição do ar, do solo e das águas;
-
-g) Informar-se sobre o estado sanitário das águas e dos esgotos de utilização pública, em cooperação com as autarquias locais;
-
-h) Proceder ao controle de reservatórios e vectores de agentes patogénicos;
-
-i) Atender à importância de outros aspectos influentes quanto à preservação da higiene do meio ambiente, nomeadamente os que se relacionam com a remoção de focos de insalubridade;
-
-j) Assegurar a higiene dos alimentos, através do acompanhamento do circuito de produção, industrialização, armazenagem, comercialização e utilização ou consumo;
-
-l) Promover o controle de substâncias ou produtos relacionados com a produção de alimentos, designadamente aditivos, antibióticos e similares;
-
-C) Nas acções conferidas à autoridade sanitária por regulamentação própria de outros sectores.
-
-2 - Os profissionais a que se refere o número anterior asseguram o exercício das funções que lhes estão conferidas através dos vários sectores por que se organiza o centro de saúde.
+> Revogado pelo/a [Decreto Regulamentar Regional n.º 11/2001/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2001-644159), publicado em 2001-09-10, com efeitos a partir de 2001-09-11.
 
 ##### SUBSECÇÃO I — Ambulatório
 

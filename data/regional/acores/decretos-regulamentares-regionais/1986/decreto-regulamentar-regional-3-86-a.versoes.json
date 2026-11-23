@@ -124,7 +124,7 @@
    ]
   },
   {
-   "date": "1998-04-27",
+   "date": "2001-09-11",
    "future": false,
    "acts": [
     {
@@ -144,6 +144,12 @@
      "title": "Declaração",
      "published": "1986-03-31",
      "dre_path": "/dr/detalhe/declaracao/1986-301856"
+    },
+    {
+     "id": "pt:dre:644159:por",
+     "title": "Decreto Regulamentar Regional n.º 11/2001/A",
+     "published": "2001-09-10",
+     "dre_path": "/dr/detalhe/decreto-regulamentar-regional/11-2001-644159"
     }
    ],
    "changes": [
@@ -155,7 +161,8 @@
     "Retifica texto",
     "Retifica Artigo 2",
     "Retifica Artigo 44",
-    "Retifica Artigo 79"
+    "Retifica Artigo 79",
+    "Revoga Artigo 33"
    ],
    "fragments": [
     "930a5d2415aedbe0",
@@ -201,7 +208,7 @@
     "a84d243f48859462",
     "5df410863aec4d7b",
     "0d2500fd1c158561",
-    "53759b8cae714d46",
+    "c2c2be3a88c69f51",
     "53d531405dbac7bb",
     "1ec1fb72a073eb52",
     "e5e2f83694fa9846",
@@ -1156,7 +1163,7 @@
    "fragment_id": null,
    "type": null,
    "heading": null,
-   "in_force_from": "1998-04-27",
+   "in_force_from": "2001-09-11",
    "changed_by": [
     "Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1986-301856), publicado em 1986-03-31."
    ],
@@ -1174,17 +1181,27 @@
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 18.º — Composição",
-   "in_force_from": "1998-04-27",
+   "in_force_from": "2001-09-11",
    "changed_by": [
     "Alterado pelo/a [Decreto Regulamentar Regional n.º 8/98/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-1998-176359), publicado em 1998-04-27."
    ],
    "markdown": "###### Artigo 18.º — Composição\n\n1 - O conselho de administração é composto por três elementos, nomeados, em comissão de serviço, por despacho do Secretário Regional da Saúde e Segurança Social, sob proposta do director regional de Saúde.\n\n2 - A presidência do conselho de administração é confiada a um médico, a quem é conferida a designação de director do centro de saúde.\n\n3 - Os restantes membros do conselho de administração são um vogal administrativo, nomeado de entre indivíduos vinculados ou não à Administração Pública, de preferência com licenciatura adequada, designadamente na área da gestão, e um vogal enfermeiro, nomeado de entre profissionais integrados na carreira de enfermagem.\n\n4 - A duração e a cessação da comissão de serviço obedecem ao disposto nos artigo 5.º e 7.º, nomeadamente no seu n.º 2, alínea a), do [Decreto-Lei n.º 323/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-1989-548210), de 26 de Setembro.\n\n> Alterado pelo/a [Decreto Regulamentar Regional n.º 8/98/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-1998-176359), publicado em 1998-04-27."
   },
+  "c2c2be3a88c69f51": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 33.º — (Autoridade sanitária)",
+   "in_force_from": "2001-09-11",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar Regional n.º 11/2001/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2001-644159), publicado em 2001-09-10, com efeitos a partir de 2001-09-11."
+   ],
+   "markdown": "###### Artigo 33.º — (Autoridade sanitária)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar Regional n.º 11/2001/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2001-644159), publicado em 2001-09-10, com efeitos a partir de 2001-09-11."
+  },
   "e0470b23124d11bf": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 37.º — Caracterização e competência",
-   "in_force_from": "1998-04-27",
+   "in_force_from": "2001-09-11",
    "changed_by": [
     "Alterado pelo/a [Decreto Regulamentar Regional n.º 6/90/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-1990-332945), publicado em 1990-02-24."
    ],
@@ -1202,7 +1219,7 @@
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 60.º — (Regime de alerta)",
-   "in_force_from": "1998-04-27",
+   "in_force_from": "2001-09-11",
    "changed_by": [
     "Revogado pelo/a [Decreto Regulamentar Regional n.º 6/90/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-1990-332945), publicado em 1990-02-24."
    ],
@@ -1212,7 +1229,7 @@
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 62.º — Remuneração dos cargos",
-   "in_force_from": "1998-04-27",
+   "in_force_from": "2001-09-11",
    "changed_by": [
     "Alterado pelo/a [Decreto Regulamentar Regional n.º 6/90/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-1990-332945), publicado em 1990-02-24."
    ],
@@ -1222,7 +1239,7 @@
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 67.º — (Remuneração do regime de alerta)",
-   "in_force_from": "1998-04-27",
+   "in_force_from": "2001-09-11",
    "changed_by": [
     "Revogado pelo/a [Decreto Regulamentar Regional n.º 6/90/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-1990-332945), publicado em 1990-02-24."
    ],

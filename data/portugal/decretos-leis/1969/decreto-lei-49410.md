@@ -39,10 +39,29 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1989-01-24'
+version_history:
+  file: decreto-lei-49410.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1969-11-24'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1989-01-24'
+    amending: pt:dre:507194:por
+    amending_title: Decreto-Lei n.º 103/76; Decreto-Lei n.º 191-A/79; Decreto-Lei n.º 192/84; Decreto-Lei n.º 19/89
+    changes:
+    - Altera Artigo 8.º
+    - Revoga Artigo 16.º
+    - Revoga Artigo 17.º
+    - Altera Artigo 18.º
+    - Altera Artigo 27.º
+    - Altera Artigo 46.º
 identifiers:
   celex: null
   eli: null
@@ -68,7 +87,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:11:56Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 103/76; Decreto-Lei
+    n.º 191-A/79; Decreto-Lei n.º 192/84; Decreto-Lei n.º 19/89. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1969/decreto-lei-49410.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -253,9 +273,13 @@ Disposições sobre vencimentos
 
 Disposições gerais
 
-Artigo 1.º Para efeitos de vencimentos, o pessoal civil inscrito no Orçamento Geral do Estado é distribuído por categorias, conforme os mapas anexos ao presente diploma.
+###### Artigo 1.º
 
-Art. 2.º - 1. Ao pessoal compreendido nos mapas a que se refere o artigo anterior são atribuídos os seguintes ordenados mensais, de harmonia com as respectivas categorias:
+Para efeitos de vencimentos, o pessoal civil inscrito no Orçamento Geral do Estado é distribuído por categorias, conforme os mapas anexos ao presente diploma.
+
+###### Artigo 2.º
+
+1. Ao pessoal compreendido nos mapas a que se refere o artigo anterior são atribuídos os seguintes ordenados mensais, de harmonia com as respectivas categorias:
 
 A - 16000$00
 
@@ -307,13 +331,17 @@ Y - 1900$00
 
 2. Os honorários e vencimentos que em 1958 estavam fixados em quantia superior à então estabelecida para a categoria A serão acrescidos de 45 por cento da importância respectiva.
 
-Art. 3.º - 1. Os ordenados serão atribuídos ao pessoal que desempenhe funções em regime de tempo completo.
+###### Artigo 3.º
+
+1. Os ordenados serão atribuídos ao pessoal que desempenhe funções em regime de tempo completo.
 
 2. Quando as funções forem exercidas em regime de tempo parcial, nos termos das disposições regulamentares dos respectivos serviços, a remuneração será considerada gratificação e o seu quantitativo proporcional ao número de horas semanais de serviço exigido.
 
 3. Os regulamentos dos serviços determinarão os cargos que possam ser exercidos em regime de tempo parcial.
 
-Art. 4.º - 1. A partir de 1 de Janeiro de 1970, a fixação dos quantitativos de ordenados, gratificações e salários deverá obedecer às seguintes regras:
+###### Artigo 4.º
+
+1. A partir de 1 de Janeiro de 1970, a fixação dos quantitativos de ordenados, gratificações e salários deverá obedecer às seguintes regras:
 
 a) Se os quantitativos mensais não forem inferiores ao da letra Y, deverão corresponder a qualquer dos previstos no n.º 1 do artigo 2.º;
 
@@ -321,7 +349,9 @@ b) Se os quantitativos mensais forem inferiores ao da letra Y, deverão correspo
 
 2. O disposto no número anterior não é aplicável aos salários do pessoal eventual, a fixar nos termos do n.º 3 do artigo 9.º
 
-Art. 5.º - 1. Os quantitativos dos ordenados estabelecidos anteriormente a 1 de Janeiro de 1970, para pessoal não compreendido nos mapas anexos a este diploma, são actualizados nos termos seguintes:
+###### Artigo 5.º
+
+1. Os quantitativos dos ordenados estabelecidos anteriormente a 1 de Janeiro de 1970, para pessoal não compreendido nos mapas anexos a este diploma, são actualizados nos termos seguintes:
 
 a) Se o quantitativo corresponder a qualquer dos previstos no artigo 1.º do [Decreto-Lei n.º 42046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42046-1958-198100), de 23 de Dezembro de 1958, passará a ser o atribuído à mesma categoria pelo n.º 1 do artigo 2.º do presente diploma;
 
@@ -331,9 +361,13 @@ c) Se o quantitativo for inferior ao atribuído à letra Y, será acrescido de 5
 
 2. Na execução do disposto nas alíneas b) e c) do número anterior, observar-se-ão, na parte aplicável, as regras do artigo 7.º
 
-Art. 6.º Os salários do pessoal dos quadros serão actualizados de harmonia com os princípios respeitantes a ordenados, definidos no presente diploma.
+###### Artigo 6.º
 
-Art. 7.º - 1. Sempre que a aplicação de quaisquer normas conduza a quantitativos mensais de ordenados ou salários que não coincidam com os resultantes do disposto no n.º 1 do artigo 4.º, deverá proceder-se ao seu ajustamento, nos termos seguintes:
+Os salários do pessoal dos quadros serão actualizados de harmonia com os princípios respeitantes a ordenados, definidos no presente diploma.
+
+###### Artigo 7.º
+
+1. Sempre que a aplicação de quaisquer normas conduza a quantitativos mensais de ordenados ou salários que não coincidam com os resultantes do disposto no n.º 1 do artigo 4.º, deverá proceder-se ao seu ajustamento, nos termos seguintes:
 
 a) Se forem superiores ao correspondente à letra Y, o ajustamento será feito para o da categoria mais próxima;
 
@@ -343,43 +377,61 @@ b) Se forem inferiores, o ajustamento far-se-á para o mais próximo múltiplo d
 
 3. O disposto no presente artigo não é aplicável aos salários do pessoal eventual.
 
-Art. 8.º - 1. Os servidores do Estado não podem receber:
+###### Artigo 8.º
+
+1. Os servidores do Estado não podem receber:
 
 a) Pelo exercício de cargos públicos, pagos pelo Orçamento Geral do Estado, ainda que em regime de acumulação, importância total superior ao ordenado correspondente à letra A, acrescido de 25 por cento;
 
-b) Pelo exercício do respectivo cargo, mais de 95 por cento do ordenado correspondente à categoria imediatamente superior do mesmo quadro.
+b) Pelo exercício do respectivo cargo, mais de 95% da totalidade das remunerações atribuídas à categoria imediatamente superior do mesmo quadro.
 
-2. Para efeitos dos limites estabelecidos no número anterior, não serão considerados a remuneração por trabalho extraordinário, a participação em multas, as ajudas de custo, os subsídios de campo, viagem e residência, os abonos para falhas, os prémios por sugestões, o abono de família, as despesas de representação e outras que constituam simples compensação de despesas feitas por motivo de serviço.
+2 - Para efeitos dos limites estabelecidos no número anterior, não serão considerados a participação em multas, as ajudas de custo, os subsídios de campo, viagem e residência, os abonos para falhas, os prémios por sugestões, o abono de família, as despesas de representação e outras que constituam simples compensação de despesas feitas por motivo de serviço.
 
 3. A inobservância dos limites fixados neste artigo obriga à reposição das quantias indevidamente recebidas.
 
 4. Ficam revogadas as disposições especiais que permitam a percepção, pelo Orçamento Geral do Estado, de ordenados ou gratificações superiores aos limites máximos fixados neste artigo.
 
-5. Com excepção dos abonos previstos no n.º 2 do presente artigo, não beneficiam do regime estabelecido pelo artigo 3.º do [Decreto-Lei n.º 45399](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45399-1963-432796), de 30 de Novembro de 1963, as importâncias que os servidores do Estado recebam pelo exercício de funções públicas, além do quantitativo correspondente ao ordenado fixado para a letra A, ainda que as mesmas não sejam pagas pelo Orçamento Geral do Estado.
+5 - Com excepção dos abonos previstos no n.º 2 do presente artigo, não beneficiam do regime estabelecido pelo artigo 3.º do [Decreto-Lei n.º 45399](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45399-1963-432796), de 30 de Novembro de 1963, as importâncias que os servidores do Estado recebam pelo exercício de funções públicas, além do quantitativo correspondente ao vencimento de director-geral ou equiparado.
 
-Art. 9.º - 1. Os vencimentos certos do pessoal contratado ou assalariado não pertencente aos quadros não poderão, de futuro, ser superiores aos do pessoal de correspondente categoria dos quadros dos mesmos serviços, salvo quando se trate de especialistas ou técnicos de rara competência, reconhecida em Conselho de Ministros.
+> Alterado pelo/a [Decreto-Lei n.º 192/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1984-143302), publicado em 1984-06-11.
+
+###### Artigo 9.º
+
+1. Os vencimentos certos do pessoal contratado ou assalariado não pertencente aos quadros não poderão, de futuro, ser superiores aos do pessoal de correspondente categoria dos quadros dos mesmos serviços, salvo quando se trate de especialistas ou técnicos de rara competência, reconhecida em Conselho de Ministros.
 
 2. O pessoal a que se refere a primeira parte do número anterior não poderá ser recrutado com vencimentos inferiores aos percebidos no mesmo organismo por pessoal de igual categoria e prestando serviço nas mesmas condições.
 
 3. A remuneração do pessoal assalariado eventual será fixada, tanto quanto possível, de harmonia com os salários correntes na região.
 
-Art. 10.º É reduzido para quinze o prazo de vinte dias a que se refere o § 1.º do artigo 8.º do [Decreto-Lei n.º 26116](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26116-1935-636886), de 23 de Novembro de 1935.
+###### Artigo 10.º
 
-Art. 11.º O pagamento dos vencimentos poderá efectuar-se por crédito em conta de depósito bancário à ordem dos servidores do Estado, nas condições que forem estabelecidas por despacho do Ministro das Finanças.
+É reduzido para quinze o prazo de vinte dias a que se refere o § 1.º do artigo 8.º do [Decreto-Lei n.º 26116](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26116-1935-636886), de 23 de Novembro de 1935.
 
-Art. 12.º O montante das senhas de presença passa a ser de 150$00 por cada reunião.
+###### Artigo 11.º
 
-Art. 13.º Sempre que os abonos a pessoal se encontrem apenas sujeitos a imposto do selo, o Ministro das Finanças pode autorizar, por despacho, que o respectivo pagamento se efectue por meio de estampilha fiscal, colada e inutilizada nos recibos ou folhas de pagamento.
+O pagamento dos vencimentos poderá efectuar-se por crédito em conta de depósito bancário à ordem dos servidores do Estado, nas condições que forem estabelecidas por despacho do Ministro das Finanças.
+
+###### Artigo 12.º
+
+O montante das senhas de presença passa a ser de 150$00 por cada reunião.
+
+###### Artigo 13.º
+
+Sempre que os abonos a pessoal se encontrem apenas sujeitos a imposto do selo, o Ministro das Finanças pode autorizar, por despacho, que o respectivo pagamento se efectue por meio de estampilha fiscal, colada e inutilizada nos recibos ou folhas de pagamento.
 
 Remuneração por trabalho extraordinário
 
-Art. 14.º A remuneração por trabalhos extraordinários só pode ser autorizada nos seguintes casos:
+###### Artigo 14.º
+
+A remuneração por trabalhos extraordinários só pode ser autorizada nos seguintes casos:
 
 a) Serviços especiais que disposição expressa de lei permita remunerar extraordinàriamente ou mande executar fora das horas normais de trabalho;
 
 b) Serviços prestados por telefonistas e pessoal auxiliar ou assalariado, para além do horário normal de trabalho.
 
-Art. 15.º - 1. Na falta de disposição especial, a remuneração por trabalho extraordinário será, por cada hora:
+###### Artigo 15.º
+
+1. Na falta de disposição especial, a remuneração por trabalho extraordinário será, por cada hora:
 
 a) Para pessoal não assalariado, 1/6 do vencimento diário;
 
@@ -393,39 +445,39 @@ Disposições sobre regalias económico-sociais
 
 Prémios por sugestões
 
-Art. 16.º Aos servidores do Estado que apresentem estudos ou sugestões que se julgue assegurarem aumento de eficiência e de economia na Administração podem ser atribuídos prémios pecuniários, louvores públicos, bolsas de estudo ou licenças para frequência, no País ou no estrangeiro, de cursos de especialização ou aperfeiçoamento dos seus conhecimentos profissionais.
+###### Artigo 16.º
 
-Art. 17.º - 1. Os estudos ou sugestões deverão ser apresentados ao Secretariado da Reforma Administrativa, sob anonimato, e acompanhados de sobrescrito lacrado donde conste a identificação do seu autor.
+(Revogado.)
 
-2. Os estudos ou sugestões serão apreciados por uma comissão constituída nos seguintes termos:
+> Revogado pelo/a [Decreto-Lei n.º 19/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-1989-609331), publicado em 1989-01-19.
 
-a) Um representante do Secretariado da Reforma Administrativa, que presidirá, com voto de qualidade;
+###### Artigo 17.º
 
-b) Um representante do Conselho Coordenador para a Reforma Administrativa;
+(Revogado.)
 
-c) Um representante da Direcção-Geral da Contabilidade Pública;
+> Revogado pelo/a [Decreto-Lei n.º 19/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-1989-609331), publicado em 1989-01-19.
 
-d) Um representante do Instituto Nacional de Investigação Industrial;
+###### Artigo 18.º
 
-e) O dirigente do serviço a que especialmente respeite o estudo ou sugestão, ou um seu representante.
-
-3. Quando o julgue conveniente, a comissão poderá agregar peritos para que se pronunciem sobre o mérito da sugestão.
-
-Art. 18.º - 1. O parecer da comissão a que se refere o artigo anterior será directamente enviado, para decisão final, ao Presidente do Conselho ou ao Ministro competente, consoante o estudo ou sugestão interesse a mais do que um Ministério ou a um só.
-
-2. O sobrescrito apenas poderá ser aberto para identificação do autor do estudo ou sugestão, se tiver sido concedido qualquer dos prémios previstos no artigo 16.º
-
-3. A fixação da importância do prémio depende de aprovação do Ministro das Finanças.
+(Revogado.)
 
 Serviços sociais
 
-Art. 19.º - 1. Deverão ser criados serviços sociais com o fim de auxiliar a satisfação das necessidades dos servidores do Estado nos aspectos económicos, sociais e culturais e desenvolver os laços de solidariedade entre eles.
+> Alterado pelo/a [Decreto-Lei n.º 19/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-1989-609331), publicado em 1989-01-19.
+
+###### Artigo 19.º
+
+1. Deverão ser criados serviços sociais com o fim de auxiliar a satisfação das necessidades dos servidores do Estado nos aspectos económicos, sociais e culturais e desenvolver os laços de solidariedade entre eles.
 
 2. Os serviços sociais, dotados de personalidade jurídica e autonomia administrativa e financeira, estão isentos de custas e selos nos processos em que intervenham, bem como de emolumentos, taxas, contribuições ou impostos, e beneficiam ainda de todas as regalias conferidas por lei às instituições oficiais de assistência.
 
-Art. 20.º Na medida do possível, deverá promover-se a fusão ou união dos serviços sociais existentes e o alargamento da sua acção aos servidores do Estado que deles ainda não beneficiem.
+###### Artigo 20.º
 
-Art. 21.º - 1. No exercício da sua actividade, os serviços sociais deverão atribuir prioridade à organização de refeitórios, cantinas ou outros meios destinados a proporcionar refeições a preços acessíveis, variáveis consoante a categoria dos beneficiários.
+Na medida do possível, deverá promover-se a fusão ou união dos serviços sociais existentes e o alargamento da sua acção aos servidores do Estado que deles ainda não beneficiem.
+
+###### Artigo 21.º
+
+1. No exercício da sua actividade, os serviços sociais deverão atribuir prioridade à organização de refeitórios, cantinas ou outros meios destinados a proporcionar refeições a preços acessíveis, variáveis consoante a categoria dos beneficiários.
 
 2. Sob proposta fundamentada dos serviços, pode o Ministro respectivo, com o acordo do Ministro das Finanças, fixar subsídios anuais para os efeitos do disposto no número anterior.
 
@@ -433,13 +485,17 @@ III
 
 Disposições sobre quadros e categorias
 
-Art. 22.º - 1. As necessidades normais dos serviços devem ser asseguradas pelo pessoal permanente, previsto nos quadros.
+###### Artigo 22.º
+
+1. As necessidades normais dos serviços devem ser asseguradas pelo pessoal permanente, previsto nos quadros.
 
 2. As necessidades transitórias, quando não possam ser asseguradas pelo pessoal permanente, serão satisfeitas por pessoal eventual, a contratar ou a assalariar além dos quadros, nos termos das respectivas leis orgânicas.
 
 3. Na criação e reorganização de quadros deverão observar-se os critérios estabelecidos nos números antecedentes.
 
-Art. 23.º - 1. Os quadros discriminarão as categorias de pessoal permanente e o número de lugares, agrupando o pessoal de harmonia com a natureza das respectivas funções.
+###### Artigo 23.º
+
+1. Os quadros discriminarão as categorias de pessoal permanente e o número de lugares, agrupando o pessoal de harmonia com a natureza das respectivas funções.
 
 2. O pessoal deverá ser agrupado, em regra, de acordo com a seguinte classificação:
 
@@ -453,13 +509,17 @@ d) Pessoal auxiliar.
 
 3. Pertencem ao pessoal auxiliar as categorias de motorista, correio, porteiro, contínuo, guarda, guarda-nocturno, servente e paquete.
 
-Art. 24.º - 1. Em cada Ministério deverão ser organizados quadros únicos para cada uma das categorias gerais de escriturário-dactilógrafo, telefonista, servente e paquete, e bem assim quadros únicos que abranjam simultâneamente os contínuos e os porteiros.
+###### Artigo 24.º
+
+1. Em cada Ministério deverão ser organizados quadros únicos para cada uma das categorias gerais de escriturário-dactilógrafo, telefonista, servente e paquete, e bem assim quadros únicos que abranjam simultâneamente os contínuos e os porteiros.
 
 2. Poderão ser organizados quadros únicos para categorias não indicadas no número anterior, sempre que tal se mostre conveniente.
 
 3. O recrutamento e a colocação do pessoal dos quadros únicos serão feitos através da Secretaria-Geral, que atribuirá a cada serviço o número de unidades fixado nas suas leis orgânicas, independentemente da respectiva classe.
 
-Art. 25.º - 1. Para provimento em cargos públicos são exigíveis as seguintes habilitações mínimas:
+###### Artigo 25.º
+
+1. Para provimento em cargos públicos são exigíveis as seguintes habilitações mínimas:
 
 a) Até à categoria S, as correspondentes à escolaridade obrigatória segundo a idade do concorrente;
 
@@ -469,23 +529,35 @@ b) Para as categorias iguais ou superiores à letra R, exceptuados os casos prev
 
 3. Quando se verifique a impossibilidade de recrutar pessoal operário com as habilitações mínimas exigidas pela alínea b) do n.º 1, poderá o provimento recair em indivíduos que demonstrem, mediante provas práticas, aptidão para o exercício das respectivas funções.
 
-Art. 26.º O provimento dos lugares de categoria igual ou inferior à letra S será feito por contrato ou assalariamento.
+###### Artigo 26.º
 
-Art. 27.º - 1. O recrutamento de terceiros-oficiais será feito por concurso de prestação de provas, a que serão admitidos:
+O provimento dos lugares de categoria igual ou inferior à letra S será feito por contrato ou assalariamento.
 
-a) Indivíduos que possuam a habilitação do 2.º ciclo do ensino liceal ou equiparada;
+###### Artigo 27.º
 
-b) Escriturários-dactilógrafos de 1.ª classe, do respectivo quadro, que possuam a habilitação do ciclo preparatório do ensino secundário ou equiparada, desde que tenham, pelo menos, seis anos de bom e efectivo serviço nessa categoria.
+1. O recrutamento de terceiros-oficiais será feito por concurso de prestação de provas, a que serão admitidos:
+
+a) Indivíduos que possuam a habilitação do curso geral dos liceus ou equiparado;
+
+b) Escriturários-dactilógrafos do respectivo quadro que possuam a escolaridade obrigatória, desde que tenham, pelo menos, 3 anos de bom e efectivo serviço nessa categoria.
 
 2. Os escriturários-dactilógrafos que ingressem na categoria de terceiro-oficial sem a habilitação exigida pela alínea a) do número anterior não poderão ascender a categoria superior à de segundo-oficial enquanto não possuírem a mesma habilitação.
 
-Art. 28.º - 1. O recrutamento dos escriturários-dactilógrafos de 1.ª classe far-se-á, por concurso de prestação de provas, entre escriturários-dactilógrafos de 2.ª classe do respectivo quadro.
+> Alterado pelo/a [Decreto-Lei n.º 103/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-1976-507194), publicado em 1976-02-04.
+
+###### Artigo 28.º
+
+1. O recrutamento dos escriturários-dactilógrafos de 1.ª classe far-se-á, por concurso de prestação de provas, entre escriturários-dactilógrafos de 2.ª classe do respectivo quadro.
 
 2. Os escriturários-dactilógrafos de 2.ª classe serão recrutados, mediante concurso de prestação de provas, entre indivíduos com habilitação correspondente à escolaridade obrigatória.
 
-Art. 29.º Os lugares de porteiro, contínuo e guarda de 1.ª classe serão providos, por ordem de antiguidade no respectivo quadro, de entre os porteiros, contínuos ou guardas de 2.ª classe que tenham boas informações de serviço.
+###### Artigo 29.º
 
-Art. 30.º - 1. O recrutamento de porteiros e contínuos de 2.ª classe será feito por escolha, devendo esta, na medida do possível, recair em indivíduos que se encontrem em qualquer das seguintes situações:
+Os lugares de porteiro, contínuo e guarda de 1.ª classe serão providos, por ordem de antiguidade no respectivo quadro, de entre os porteiros, contínuos ou guardas de 2.ª classe que tenham boas informações de serviço.
+
+###### Artigo 30.º
+
+1. O recrutamento de porteiros e contínuos de 2.ª classe será feito por escolha, devendo esta, na medida do possível, recair em indivíduos que se encontrem em qualquer das seguintes situações:
 
 a) Serem portadores de diminuições físicas, especialmente as sofridas em serviço militar, desde que tais diminuições não impeçam o exercício regular da função;
 
@@ -499,9 +571,13 @@ d) Serem praças ou agentes das corporações indicadas na alínea anterior, em 
 
 3. No caso previsto na alínea c) do n.º 1, é dispensada a autorização a que alude o artigo 9.º do [Decreto-Lei n.º 39843](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39843-1954-678604), de 7 de Outubro de 1954, e os reformados ou reservistas continuarão a perceber a pensão na totalidade, acrescida de 2/3 do ordenado do cargo em que forem providos.
 
-Art. 31.º Os lugares de motoristas de 1.ª classe serão providos, por escolha, de entre os motoristas de 2.ª classe com boas informações de serviço.
+###### Artigo 31.º
 
-Art. 32.º - 1. O recrutamento de paquetes será feito por escolha entre indivíduos do sexo masculino, com idade não inferior a 14 anos.
+Os lugares de motoristas de 1.ª classe serão providos, por escolha, de entre os motoristas de 2.ª classe com boas informações de serviço.
+
+###### Artigo 32.º
+
+1. O recrutamento de paquetes será feito por escolha entre indivíduos do sexo masculino, com idade não inferior a 14 anos.
 
 2. Os paquetes cessam obrigatòriamente funções quando completarem 18 anos de idade.
 
@@ -509,17 +585,27 @@ IV
 
 Disposições finais e transitórias
 
-Art. 33.º Os vencimentos mensais do pessoal militar das forças armadas e das corporações da Guarda Fiscal, da Guarda Nacional Republicana e da Polícia de Segurança Pública serão actualizados a partir de 1 de Janeiro de 1970, de acordo com os princípios estabelecidos no presente decreto-lei.
+###### Artigo 33.º
 
-Art. 34.º Os ordenados e salários do pessoal dos serviços públicos dotados de autonomia, quer os que recebam importâncias do Estado em conta de verbas inscritas no orçamento, quer os que satisfaçam totalmente as suas despesas com o produto de receitas próprias, serão actualizados nos respectivos orçamentos para 1970, de harmonia com os princípios estabelecidos no presente decreto-lei.
+Os vencimentos mensais do pessoal militar das forças armadas e das corporações da Guarda Fiscal, da Guarda Nacional Republicana e da Polícia de Segurança Pública serão actualizados a partir de 1 de Janeiro de 1970, de acordo com os princípios estabelecidos no presente decreto-lei.
 
-Art. 35.º O Ministério do Interior promoverá a actualização dos vencimentos do pessoal das autarquias locais e das administrações de bairro de Lisboa e Porto.
+###### Artigo 34.º
 
-Art. 36.º - 1. É aplicável ao pessoal das autarquias locais, com as necessárias adaptações, o disposto nos artigos 4.º, 8.º, 9.º, 11.º, 13.º a 18.º, 25.º, 29.º, 30.º, 32.º, 41.º, n.º 1, 42.º, 45.º e 46.º deste diploma.
+Os ordenados e salários do pessoal dos serviços públicos dotados de autonomia, quer os que recebam importâncias do Estado em conta de verbas inscritas no orçamento, quer os que satisfaçam totalmente as suas despesas com o produto de receitas próprias, serão actualizados nos respectivos orçamentos para 1970, de harmonia com os princípios estabelecidos no presente decreto-lei.
+
+###### Artigo 35.º
+
+O Ministério do Interior promoverá a actualização dos vencimentos do pessoal das autarquias locais e das administrações de bairro de Lisboa e Porto.
+
+###### Artigo 36.º
+
+1. É aplicável ao pessoal das autarquias locais, com as necessárias adaptações, o disposto nos artigos 4.º, 8.º, 9.º, 11.º, 13.º a 18.º, 25.º, 29.º, 30.º, 32.º, 41.º, n.º 1, 42.º, 45.º e 46.º deste diploma.
 
 2. Mantém-se em vigor o disposto no Código Administrativo quanto ao recrutamento e provimento de lugares dos quadros do pessoal maior das secretarias e tesourarias.
 
-Art. 37.º As despesas de representação a abonar mensalmente ao Chefe de Estado e aos membros do Governo passam a ser as seguintes:
+###### Artigo 37.º
+
+As despesas de representação a abonar mensalmente ao Chefe de Estado e aos membros do Governo passam a ser as seguintes:
 
 Presidente da República ... 24000$00
 
@@ -529,49 +615,75 @@ Ministro dos Negócios Estrangeiros ... 10000$00
 
 Outros membros do Governo ... 8000$00
 
-Art. 38.º É abolido o subsídio eventual de custo de vida a que se refere o [Decreto-Lei n.º 47137](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47137-1966-474544), de 5 de Agosto de 1966.
+###### Artigo 38.º
 
-Art. 39.º Na liquidação do imposto complementar, continua a observar-se o regime estabelecido no artigo 3.º do [Decreto-Lei n.º 45399](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45399-1963-432796), de 30 de Novembro de 1963, salvo o disposto no n.º 5 do artigo 8.º deste decreto-lei.
+É abolido o subsídio eventual de custo de vida a que se refere o [Decreto-Lei n.º 47137](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47137-1966-474544), de 5 de Agosto de 1966.
 
-Art. 40.º Os saldos referidos no artigo 36.º do [Decreto-Lei n.º 48359](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48359-1968-274641), de 27 de Abril de 1968, passam a constituir receita da Assistência na Doença aos Servidores Civis do Estado.
+###### Artigo 39.º
 
-Art. 41.º - 1. Até à revisão legal dos respectivos regimes, mantêm-se em vigor as actuais disposições de lei sobre emolumentos, diuturnidades e gratificações.
+Na liquidação do imposto complementar, continua a observar-se o regime estabelecido no artigo 3.º do [Decreto-Lei n.º 45399](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45399-1963-432796), de 30 de Novembro de 1963, salvo o disposto no n.º 5 do artigo 8.º deste decreto-lei.
+
+###### Artigo 40.º
+
+Os saldos referidos no artigo 36.º do [Decreto-Lei n.º 48359](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48359-1968-274641), de 27 de Abril de 1968, passam a constituir receita da Assistência na Doença aos Servidores Civis do Estado.
+
+###### Artigo 41.º
+
+1. Até à revisão legal dos respectivos regimes, mantêm-se em vigor as actuais disposições de lei sobre emolumentos, diuturnidades e gratificações.
 
 2. Fica abolido o regime de diuturnidades dos secretários das Universidades.
 
 3. As gratificações a que se refere o artigo 10.º do [Decreto-Lei n.º 42046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42046-1958-198100), de 23 de Dezembro de 1958, são aumentadas de 50 por cento.
 
-Art. 42.º - 1. O ordenado dos paquetes é fixado em 1000$00.
+###### Artigo 42.º
+
+1. O ordenado dos paquetes é fixado em 1000$00.
 
 2. O disposto no número anterior não abrange os paquetes em exercício de funções à data do início da vigência do presente diploma.
 
-Art. 43.º Os quadros únicos a que se refere o n.º 1 do artigo 24.º serão constituídos durante o ano de 1970.
+###### Artigo 43.º
 
-Art. 44.º À medida que vagarem, serão extintos os lugares de telefonista, a que corresponda a letra T.
+Os quadros únicos a que se refere o n.º 1 do artigo 24.º serão constituídos durante o ano de 1970.
 
-Art. 45.º - 1. Nas aposentações requeridas ou impostas posteriormente a 1 de Janeiro de 1970 servirão de base para o cálculo da respectiva pensão os vencimentos fixados pelo presente decreto-lei.
+###### Artigo 44.º
+
+À medida que vagarem, serão extintos os lugares de telefonista, a que corresponda a letra T.
+
+###### Artigo 45.º
+
+1. Nas aposentações requeridas ou impostas posteriormente a 1 de Janeiro de 1970 servirão de base para o cálculo da respectiva pensão os vencimentos fixados pelo presente decreto-lei.
 
 2. Para os servidores mandados aposentar ou reformar obrigatòriamente até 31 de Dezembro de 1969 e para os que tenham requerido a sua aposentação ou reforma até à mesma data, continuará a atender-se, para o cômputo da pensão, aos vencimentos actualmente em vigor, com exclusão do subsídio eventual de custo de vida.
 
 3. Não é permitida a desistência nos processos de aposentação ou reforma voluntária a que se refere o número antecedente, mas o servidor ficará exceptuado do que nele se dispõe desde que a sua aposentação ou reforma não possa efectuar-se por falta de outro requisito legal
 
-Art. 46.º - 1. Para o efeito do disposto no artigo anterior, os subscritores da Caixa Geral de Aposentações, ao passarem à situação de aposentados ou reformados, indemnizarão a mesma Caixa da importância correspondente a 1 por cento do vencimento anual que competir ao cargo exercido em 1 de Janeiro de 1970, relativamente aos anos de serviço prestado até à mesma data que aproveitem para o cálculo da respectiva pensão.
+###### Artigo 46.º
 
-2. Não será considerado, para o cômputo da referida indemnização, o tempo de serviço que venha a ser objecto de contagem com base nos vencimentos estabelecidos no presente decreto-lei.
+1 - (Revogado.)
 
-3. O pagamento da indemnização será feito em cento e vinte prestações mensais, a descontar nas pensões fixadas.
+2 - (Revogado.)
 
-4. Aos subscritores que tenham pago ou se encontrem a pagar indemnizações calculadas de acordo com o artigo 12.º do [Decreto-Lei n.º 42046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42046-1958-198100), serão levadas em linha de conta, no apuramento da indemnização devida nos termos do presente artigo, as importâncias já satisfeitas.
+3 - (Revogado.)
+
+4 - (Revogado.)
 
 5. São revogados o artigo 33.º do [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), de 23 de Novembro de 1935, o artigo. 18.º do [Decreto-Lei n.º 26503](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26503-1936-690220), de 6 de Abril de 1936, e o artigo 12.º do [Decreto-Lei n.º 42046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42046-1958-198100), de 23 de Dezembro de 1958.
 
-Art. 47.º O presente diploma revoga as leis especiais anteriores que estabeleçam regimes diferentes, salvo se nele se fizer ressalva expressa.
+> Alterado pelo/a [Decreto-Lei n.º 191-A/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-a-1979-432671), publicado em 1979-06-25.
 
-Art. 48.º - 1. As dúvidas que se suscitem na execução deste decreto-lei serão esclarecidas por despacho do Presidente do Conselho, ouvido o Secretariado da Reforma Administrativa.
+###### Artigo 47.º
+
+O presente diploma revoga as leis especiais anteriores que estabeleçam regimes diferentes, salvo se nele se fizer ressalva expressa.
+
+###### Artigo 48.º
+
+1. As dúvidas que se suscitem na execução deste decreto-lei serão esclarecidas por despacho do Presidente do Conselho, ouvido o Secretariado da Reforma Administrativa.
 
 2. A formulação de cada dúvida será objecto de informação autónoma e completa do serviço consulente, na qual se transcreverão as disposições aplicáveis e se emitirá parecer.
 
-Art. 49.º O presente diploma entra em vigor no dia 1 de Janeiro de 1970.
+###### Artigo 49.º
+
+O presente diploma entra em vigor no dia 1 de Janeiro de 1970.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas.
 

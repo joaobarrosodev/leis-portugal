@@ -46,10 +46,17 @@
      "title": "Decreto-Lei n.º 48/94",
      "published": "1994-02-24",
      "dre_path": "/dr/detalhe/decreto-lei/48-1994-515471"
+    },
+    {
+     "id": "pt:dre:571232:por",
+     "title": "Decreto-Lei n.º 146/90",
+     "published": "1990-05-08",
+     "dre_path": "/dr/detalhe/decreto-lei/146-1990-571232"
     }
    ],
    "changes": [
-    "Revoga Artigo 16.º"
+    "Revoga Artigo 16.º",
+    "Revoga Artigo 11"
    ],
    "fragments": [
     "68a4bdb3634d4950",
@@ -66,7 +73,7 @@
     "e0e144749a7ea650",
     "7b30fbb99875d6ef",
     "5b830262d07a5c66",
-    "f86d6b64ff05075e",
+    "0f9305f0729a5740",
     "dc1f32b86ad05afc",
     "c60188d8f312217d",
     "dac858f2bdd41abc",
@@ -271,6 +278,16 @@
    "in_force_from": null,
    "changed_by": [],
    "markdown": "###### Artigo 19.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação.\n\nVisto e aprovado em Conselho de Ministros de 15 de Setembro de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - João de Deus Rogado Salvador Pinheiro.\n\nPromulgado em 27 de Janeiro de 1989.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 30 de Janeiro de 1989.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "0f9305f0729a5740": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Acesso às categorias de ministro plenipotenciário e de embaixador",
+   "in_force_from": "1994-03-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 146/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-1990-571232), publicado em 1990-05-08, com efeitos a partir de 1990-05-09."
+   ],
+   "markdown": "###### Artigo 11.º — Acesso às categorias de ministro plenipotenciário e de embaixador\n\n1 - O acesso à categoria de ministro plenipotenciário de 2.ª classe será aberto a todos os conselheiros de embaixada com três anos de bom e efectivo serviço na categoria, no quadro, em comissão de serviço fora do quadro ou na disponibilidade em serviço.\n\n2 - O acesso à categoria de ministro plenipotenciário de 1.ª classe será aberto a todos os ministros plenipotenciários de 2.ª classe com um ano de bom e efectivo serviço na categoria, no quadro, em comissão de serviço fora do quadro ou na disponibilidade em serviço.\n\n3 - O acesso à categoria de embaixador será aberto a todos os ministros plenipotenciários de 1.ª classe com um ano de bom e efectivo serviço na categoria, no quadro, em comissão de serviço fora do quadro ou na disponibilidade em serviço.\n\n4 - (Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 146/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-1990-571232), publicado em 1990-05-08, com efeitos a partir de 1990-05-09."
   },
   "c2edde87c9b6dcec": {
    "fragment_id": null,

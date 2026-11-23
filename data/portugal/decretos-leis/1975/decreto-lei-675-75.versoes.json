@@ -15,7 +15,7 @@
    ]
   },
   {
-   "date": "1985-10-21",
+   "date": "1986-09-04",
    "future": false,
    "acts": [
     {
@@ -23,10 +23,19 @@
      "title": "Decreto-Lei n.º 411/85",
      "published": "1985-10-16",
      "dre_path": "/dr/detalhe/decreto-lei/411-1985-178334"
+    },
+    {
+     "id": "pt:dre:220101:por",
+     "title": "Decreto-Lei n.º 269/86",
+     "published": "1986-09-03",
+     "dre_path": "/dr/detalhe/decreto-lei/269-1986-220101"
     }
    ],
    "changes": [
-    "Altera Artigo 21.º"
+    "Altera Artigo 21.º",
+    "Revoga Artigo 6",
+    "Revoga Artigo 7",
+    "Revoga Artigo 8"
    ],
    "fragments": [
     "8e63dcd9a90b1da8",
@@ -35,9 +44,9 @@
     "7299f21fbc596604",
     "fe71098cc4a7d6cb",
     "cd9c290f78eacb99",
-    "d1b5322bbaabf1cc",
-    "9aa2c5705fab81ce",
-    "72e32d66d1ca5d49",
+    "c55df92845599aa5",
+    "8dd690153acf884c",
+    "f858ab1832becf6a",
     "304bf21b613c87be",
     "495dc27b5e389aee",
     "91d9dd28216f2026",
@@ -119,29 +128,31 @@
    "changed_by": [],
    "markdown": "###### Artigo 5.º\n\n1. Serão fixadas por portaria do Ministro da Educação e Investigação Científica as habilitações académicas ou outras de nível equiparado ao destas que dêem acesso aos Institutos Superiores de Educação Física.\n\n2. O Ministro da Educação e Investigação Científica poderá, mediante portaria, definir condições mínimas, a verificar através de exame médico e testes apropriados, para a admissão aos cursos dos Institutos Superiores de Educação Física."
   },
-  "d1b5322bbaabf1cc": {
+  "c55df92845599aa5": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 6.º",
-   "in_force_from": null,
-   "changed_by": [],
-   "markdown": "###### Artigo 6.º\n\nOs cursos professados nos Institutos Superiores de Educação Física conferem os graus de bacharel e de licenciado."
+   "in_force_from": "1986-09-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 269/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-1986-220101), publicado em 1986-09-03, com efeitos a partir de 1986-09-04."
+   ],
+   "markdown": "###### Artigo 6.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 269/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-1986-220101), publicado em 1986-09-03, com efeitos a partir de 1986-09-04."
   },
-  "9aa2c5705fab81ce": {
+  "8dd690153acf884c": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 7.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 7.º\n\nO grau de bacharel obtém-se pela aprovação em todas as disciplinas dos três primeiros anos ou dos seis primeiros semestres do respectivo currículo, segundo o plano de estudos elaborado por cada Instituto e homologado pelo Secretário de Estado do Ensino Superior e Investigação Científica."
+   "markdown": "###### Artigo 7.º\n\n(Revogado.)"
   },
-  "72e32d66d1ca5d49": {
+  "f858ab1832becf6a": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 8.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 8.º\n\nO Ministro da Educação e Investigação Científica definirá, em portaria, sobre proposta de cada um dos Institutos, o elenco de especialidades em que se deverá organizar a respectiva licenciatura, cujos planos de estudos serão elaborados e homologados nos termos do artigo anterior."
+   "markdown": "###### Artigo 8.º\n\n(Revogado.)"
   },
   "304bf21b613c87be": {
    "fragment_id": null,
@@ -243,7 +254,7 @@
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 21.º",
-   "in_force_from": "1985-10-21",
+   "in_force_from": "1986-09-04",
    "changed_by": [
     "Alterado pelo/a [Decreto-Lei n.º 411/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/411-1985-178334), publicado em 1985-10-16."
    ],

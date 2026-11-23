@@ -38,10 +38,24 @@
      "title": "Decreto Legislativo Regional n.º 15/2006/A",
      "published": "2006-04-07",
      "dre_path": "/dr/detalhe/decreto-legislativo-regional/15-2006-652897"
+    },
+    {
+     "id": "pt:dre:241856:por",
+     "title": "Decreto Legislativo Regional n.º 22/2005/A",
+     "published": "2005-08-05",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/22-2005-241856"
+    },
+    {
+     "id": "pt:dre:489560:por",
+     "title": "Decreto Legislativo Regional n.º 29/2005/A",
+     "published": "2005-12-06",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/29-2005-489560"
     }
    ],
    "changes": [
-    "Revoga Artigo 7.º"
+    "Revoga Artigo 7.º",
+    "Revoga Artigo 8",
+    "Revoga Artigo 11"
    ],
    "fragments": [
     "436290139c46fc6e",
@@ -52,10 +66,10 @@
     "5cfeeb2d5bdfb9f1",
     "183d0c86962e4df7",
     "7e500ac0af5e3366",
-    "621d4e1f67f83ef3",
+    "f4da1c4c1fd76f56",
     "c591cb0ae74ef615",
     "fe38008e85bd49df",
-    "055d2ba0a0d105d0",
+    "2ca7dd6f25286e41",
     "792a1659df4353c7",
     "5b860ad85690b984",
     "13c3447a03bf6c01",
@@ -201,6 +215,26 @@
     "Revogado pelo/a Artigo 44.º do/a [Decreto Legislativo Regional n.º 15/2006/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2006-652897), publicado em 2006-04-07."
    ],
    "markdown": "###### Artigo 7.º — Educação especial\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 44.º do/a [Decreto Legislativo Regional n.º 15/2006/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2006-652897), publicado em 2006-04-07."
+  },
+  "f4da1c4c1fd76f56": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Matrícula e controlo da assiduidade",
+   "in_force_from": "2006-04-07",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Legislativo Regional n.º 22/2005/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2005-241856), publicado em 2005-08-05."
+   ],
+   "markdown": "###### Artigo 8.º — Matrícula e controlo da assiduidade\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Legislativo Regional n.º 22/2005/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2005-241856), publicado em 2005-08-05."
+  },
+  "2ca7dd6f25286e41": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Provas de aferição e avaliação da qualidade",
+   "in_force_from": "2006-04-07",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Legislativo Regional n.º 29/2005/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2005-489560), publicado em 2005-12-06, com efeitos a partir de 2005-12-07."
+   ],
+   "markdown": "###### Artigo 11.º — Provas de aferição e avaliação da qualidade\n\n1 - Para além das provas de aferição nacionais, poderão ser criadas provas de índole regional destinadas a avaliar o desenvolvimento do currículo regional.\n\n2 - As provas a que se refere o número anterior, bem como o enquadramento do processo de realização das provas nacionais, serão regulamentadas por portaria do secretário regional competente em matéria de educação.\n\n3 - (Revogado.)\n\n> Revogado pelo/a [Decreto Legislativo Regional n.º 29/2005/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2005-489560), publicado em 2005-12-06, com efeitos a partir de 2005-12-07."
   }
  }
 }

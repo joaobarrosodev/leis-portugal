@@ -29,10 +29,47 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1973-07-31'
+version_history:
+  file: decreto-lei-45296.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1963-10-08'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1973-07-31'
+    amending: pt:dre:238615:por
+    amending_title: Decreto-Lei n.º 46243; Decreto-Lei n.º 46380; Decreto-Lei n.º 48369; Decreto-Lei n.º 49003; Decreto-Lei
+      n.º 49306; Decreto-Lei n.º 23/73; Decreto-Lei n.º 279/73; Decreto-Lei n.º 387/73
+    changes:
+    - Altera Artigo 17.º
+    - Altera Artigo 101.º
+    - Altera Artigo 112.º
+    - Altera Artigo 115.º
+    - Altera Artigo 117.º
+    - Revoga Artigo 41.º
+    - Revoga Artigo 42.º
+    - Revoga Artigo 43.º
+    - Revoga Artigo 51.º
+    - Revoga Artigo 72.º
+    - Revoga Artigo 73.º
+    - Revoga Artigo 74.º
+    - Revoga Artigo 75.º
+    - Revoga Artigo 76.º
+    - Revoga Artigo 77.º
+    - Revoga Artigo 78.º
+    - Revoga Artigo 80.º
+    - Altera Artigo 68.º
+    - Altera Artigo 70.º
+    - Altera Artigo 69.º
+    - Altera Artigo 98.º
+    - Altera Artigo 111.º
+    - Altera Artigo 122.º
 identifiers:
   celex: null
   eli: null
@@ -58,7 +95,9 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T21:46:39Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 46243; Decreto-Lei
+    n.º 46380; Decreto-Lei n.º 48369; Decreto-Lei n.º 49003; Decreto-Lei n.º 49306; Decreto-Lei n.º 23/73; Decreto-Lei n.º
+    279/73; Decreto-Lei n.º 387/73. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1963/decreto-lei-45296.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -177,11 +216,17 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 #### SECÇÃO I — Do exercício das funções de crédito
 
-Artigo 1.º O exercício das funções de crédito e a prática dos demais actos inerentes à actividade bancária nas províncias ultramarinas são regulados pelo presente decreto-lei.
+###### Artigo 1.º
 
-Art. 2.º Além do Estado, só as instituições de crédito podem normalmente exercer nas províncias ultramarinas as funções e praticar os actos a que se refere o artigo anterior.
+O exercício das funções de crédito e a prática dos demais actos inerentes à actividade bancária nas províncias ultramarinas são regulados pelo presente decreto-lei.
 
-Art. 3.º São consideradas instituições de crédito:
+###### Artigo 2.º
+
+Além do Estado, só as instituições de crédito podem normalmente exercer nas províncias ultramarinas as funções e praticar os actos a que se refere o artigo anterior.
+
+###### Artigo 3.º
+
+São consideradas instituições de crédito:
 
 a) Os institutos de crédito do Estado;
 
@@ -195,35 +240,53 @@ d) Os estabelecimentos especiais de crédito.
 
 § 2.º Os estabelecimentos especiais de crédito abrangem, designadamente, os bancos de investimento, as caixas económicas e as cooperativas de crédito.
 
-Art. 4.º Exercem funções auxiliares de crédito:
+###### Artigo 4.º
+
+Exercem funções auxiliares de crédito:
 
 a) As bolsas e os corretores de fundos e câmbios;
 
 b) As casas de câmbio.
 
-Art. 5.º Poderá ser permitido, com as necessárias restrições a fixar em diploma regulamentar, conforme o previsto no § único do artigo 17.º do [Decreto-Lei n.º 44652](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44652-1962-673217), de 27 de Outubro de 1962, o exercício de funções de crédito a pessoas singulares ou colectivas não compreendidas na enumeração do artigo 3.º do presente decreto-lei.
+###### Artigo 5.º
 
-Art. 6.º Os bancos comerciais e os estabelecimentos especiais de crédito terão por exclusivo objecto o exercício da actividade bancária, por forma geral ou restrita, nomeadamente o exercício de funções de crédito.
+Poderá ser permitido, com as necessárias restrições a fixar em diploma regulamentar, conforme o previsto no § único do artigo 17.º do [Decreto-Lei n.º 44652](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44652-1962-673217), de 27 de Outubro de 1962, o exercício de funções de crédito a pessoas singulares ou colectivas não compreendidas na enumeração do artigo 3.º do presente decreto-lei.
 
-Art. 7.º Os institutos de crédito do Estado só poderão exercer, para além das funções indicadas no artigo anterior, aquelas funções que lhes forem expressamente atribuídas em diploma especial.
+###### Artigo 6.º
 
-Art. 8.º Os bancos comerciais, os estabelecimentos especiais de crédito e as pessoas singulares ou colectivas referidas no artigo 5.º são obrigados a satisfazer a requisitos, variáveis com a sua natureza, relativamente a capital social, fundos de reserva, categorias de operações, aplicação de fundos e garantias, limites de crédito, administração, gerência e contabilidade.
+Os bancos comerciais e os estabelecimentos especiais de crédito terão por exclusivo objecto o exercício da actividade bancária, por forma geral ou restrita, nomeadamente o exercício de funções de crédito.
+
+###### Artigo 7.º
+
+Os institutos de crédito do Estado só poderão exercer, para além das funções indicadas no artigo anterior, aquelas funções que lhes forem expressamente atribuídas em diploma especial.
+
+###### Artigo 8.º
+
+Os bancos comerciais, os estabelecimentos especiais de crédito e as pessoas singulares ou colectivas referidas no artigo 5.º são obrigados a satisfazer a requisitos, variáveis com a sua natureza, relativamente a capital social, fundos de reserva, categorias de operações, aplicação de fundos e garantias, limites de crédito, administração, gerência e contabilidade.
 
 #### SECÇÃO II — Da constituição, transformação e liquidação das instituições de crédito
 
-Art. 9.º A constituição nas províncias ultramarinas de bancos comerciais e de estabelecimentos especiais de crédito, exceptuados os bancos de investimento, depende de autorização conjunta dos Ministros das Finanças e do Ultramar, sob parecer do governo da província onde a instituição de crédito irá exercer a sua actividade e ouvido o Conselho Nacional de Crédito.
+###### Artigo 9.º
+
+A constituição nas províncias ultramarinas de bancos comerciais e de estabelecimentos especiais de crédito, exceptuados os bancos de investimento, depende de autorização conjunta dos Ministros das Finanças e do Ultramar, sob parecer do governo da província onde a instituição de crédito irá exercer a sua actividade e ouvido o Conselho Nacional de Crédito.
 
 § 1.º Quando o capital da instituição de crédito a constituir for igual ou superior a 50 milhões de escudos, a autorização de constituição dependerá de prévio parecer favorável do Conselho de Ministros para os Assuntos Económicos, nos termos do artigo 13.º do [Decreto-Lei n.º 44652](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44652-1962-673217).
 
 § 2.º Dependerão igualmente do prévio parecer favorável do Conselho de Ministros para os Assuntos Económicos, por força do disposto no artigo 12.º do [Decreto-Lei n.º 44652](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44652-1962-673217), as emissões de acções por quaisquer instituições de crédito, quando a seu valor exceder, no período de um ano, a importância de 10 milhões de escudos.
 
-Art. 10.º A constituição nas províncias ultramarinas de bancos de investimento depende de autorização do Conselho de Ministros para os Assuntos Económicos, sob parecer favorável do Ministro do Ultramar, ouvido o governo da província em causa.
+###### Artigo 10.º
 
-Art. 11.º A autorização para a constituição nas províncias ultramarinas de bancos comerciais e de estabelecimentos especiais de crédito é concedida por meio de decreto.
+A constituição nas províncias ultramarinas de bancos de investimento depende de autorização do Conselho de Ministros para os Assuntos Económicos, sob parecer favorável do Ministro do Ultramar, ouvido o governo da província em causa.
+
+###### Artigo 11.º
+
+A autorização para a constituição nas províncias ultramarinas de bancos comerciais e de estabelecimentos especiais de crédito é concedida por meio de decreto.
 
 § único. As instituições de crédito referidas no presente artigo submeterão os seus estatutos, por intermédio do governo da província em causa, à aprovação dos Ministros das Finanças e do Ultramar, que deverão também autorizar quaisquer modificações estatutárias, mudança de denominação ou de sede, alterações de capital ou fusão com outras instituições de crédito
 
-Art. 12.º As entidades que pretendam constituir qualquer das instituições mencionadas no artigo 9.º deverão requerer a autorização ao Ministro do Ultramar, através do governo da província onde pretendam exercer a sua actividade.
+###### Artigo 12.º
+
+As entidades que pretendam constituir qualquer das instituições mencionadas no artigo 9.º deverão requerer a autorização ao Ministro do Ultramar, através do governo da província onde pretendam exercer a sua actividade.
 
 § 1.º O requerimento será sempre acompanhado dos elementos seguintes:
 
@@ -239,9 +302,13 @@ Art. 12.º As entidades que pretendam constituir qualquer das instituições men
 
 § 4.º Nenhuma sociedade comercial constituída nas províncias ultramarinas sem a autorização a que se refere o presente artigo poderá incluir na sua denominação as palavras «banco», «banqueiro» ou «bancária», ou outra que sugira a ideia do exercício da actividade bancária.
 
-Art. 13.º Terão preferência, quanto à constituição numa província ultramarina, as instituições de crédito que, satisfazendo aos requisitos exigidos no presente diploma e na lei geral, sejam constituídas com uma comparticipação, em pelo menos 50 por cento do seu capital, de instituições de crédito portuguesas.
+###### Artigo 13.º
 
-Art. 14.º As instituições de crédito, com excepção dos institutos de crédito do Estado, dos bancos emissores, das caixas económicas e das cooperativas de crédito, ficam sujeitas ao pagamento de uma quota de fiscalização, que é calculada sobre o capital e fundos de reserva e que não poderá exceder 0,05 por cento para os bancos de investimento e 0,2 por cento para as restantes instituições.
+Terão preferência, quanto à constituição numa província ultramarina, as instituições de crédito que, satisfazendo aos requisitos exigidos no presente diploma e na lei geral, sejam constituídas com uma comparticipação, em pelo menos 50 por cento do seu capital, de instituições de crédito portuguesas.
+
+###### Artigo 14.º
+
+As instituições de crédito, com excepção dos institutos de crédito do Estado, dos bancos emissores, das caixas económicas e das cooperativas de crédito, ficam sujeitas ao pagamento de uma quota de fiscalização, que é calculada sobre o capital e fundos de reserva e que não poderá exceder 0,05 por cento para os bancos de investimento e 0,2 por cento para as restantes instituições.
 
 § 1.º As percentagens, relativas a cada ano, que incidirão sobre o capital e fundos de reserva existentes em 31 de Dezembro desse mesmo ano serão fixadas pelo Ministro do Ultramar, em portaria a publicar no Boletim Oficial de cada província até ao dia 1 de Março seguinte, e a sua liquidação e cobrança serão efectuadas pelas inspecções de crédito e seguros ou do comércio bancário durante o referido mês de Março.
 
@@ -251,13 +318,19 @@ Art. 14.º As instituições de crédito, com excepção dos institutos de créd
 
 § 4.º Para efeitos do disposto no presente diploma, consideram-se fundos de reserva das instituições de crédito, além do fundo de reserva legal, quaisquer outros que não estejam afectos a responsabilidades, riscos ou depreciações determinados.
 
-Art. 15.º O Governo poderá permitir, em condições especiais, a fusão ou a transformação de bancos comerciais e de estabelecimentos especiais de crédito e isentá-las, bem como os actos que com as mesmas se relacionem, de qualquer encargo fiscal, dispensando, na parte aplicável, o cumprimento do disposto nos artigos 124.º a 127.º e 195.º a 198.º do Código Comercial.
+###### Artigo 15.º
 
-Art. 16.º Serão aplicadas ao processo de liquidação de instituições de crédito domiciliadas nas províncias ultramarinas as normas estabelecidas pelo [Decreto-Lei n.º 30689](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30689-1940-192786), de 27 de Agosto de 1940, entendendo-se que os poderes conferidos neste diploma ao Ministro das Finanças no caso de instituições domiciliadas no continente e ilhas adjacentes caberão ao Ministro do Ultramar e que à intervenção da Inspecção-Geral de Crédito e Seguros se substituirá a da inspecção de crédito e seguros ou do comércio bancário da respectiva província.
+O Governo poderá permitir, em condições especiais, a fusão ou a transformação de bancos comerciais e de estabelecimentos especiais de crédito e isentá-las, bem como os actos que com as mesmas se relacionem, de qualquer encargo fiscal, dispensando, na parte aplicável, o cumprimento do disposto nos artigos 124.º a 127.º e 195.º a 198.º do Código Comercial.
+
+###### Artigo 16.º
+
+Serão aplicadas ao processo de liquidação de instituições de crédito domiciliadas nas províncias ultramarinas as normas estabelecidas pelo [Decreto-Lei n.º 30689](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30689-1940-192786), de 27 de Agosto de 1940, entendendo-se que os poderes conferidos neste diploma ao Ministro das Finanças no caso de instituições domiciliadas no continente e ilhas adjacentes caberão ao Ministro do Ultramar e que à intervenção da Inspecção-Geral de Crédito e Seguros se substituirá a da inspecção de crédito e seguros ou do comércio bancário da respectiva província.
 
 #### SECÇÃO III — Das sucursais e correspondentes das instituições de crédito
 
-Art. 17.º A abertura, numa província ultramarina, de filiais, agências ou quaisquer outras sucursais dos bancos comerciais e dos estabelecimentos especiais de crédito domiciliados nessa província carece de autorização especial e prévia do governo da mesma província.
+###### Artigo 17.º
+
+A abertura, numa província ultramarina, de filiais, agências ou quaisquer outras sucursais dos bancos comerciais e dos estabelecimentos especiais de crédito domiciliados nessa província carece de autorização especial e prévia do governo da mesma província.
 
 § 1.º O pedido de autorização será apresentado na inspecção de crédito e seguros ou do comércio bancário da província em causa, acompanhado de memória justificativa, da qual constem os indicadores económicos do local onde se pretende instalar a sucursal, nomeadamente os relativos a actividade agrícola e pecuária, pesca, indústria extractiva e transformadora e actividade comercial, ou quaisquer outros que a inspecção de crédito e seguros ou do comércio bancário julgue indispensáveis para a apreciação do desenvolvimento económico da localidade, bem como o volume de operações que a instituição requerente já aí realize, directa ou indirectamente.
 
@@ -269,7 +342,7 @@ Art. 17.º A abertura, numa província ultramarina, de filiais, agências ou qua
 
 3.º O número e natureza das instituições de crédito já estabelecidas na localidade.
 
-§ 3.º Para que aos bancos comerciais e estabelecimentos especiais de crédito possa ser reconhecida a capacidade financeira para este efeito é necessário que a soma do seu capital e fundos de reserva exceda o capital mínimo, exigido nos termos do presente diploma, na importância bastante para atribuir a cada sucursal que possuam um capital correspondente ao capital mínimo exigido às casas bancárias na mesma localidade, se se tratar de cidades, e metade do mesmo capital nos restantes casos, não se contando para o efeito mais de uma sucursal por cada concelho ou circunscrição administrativa.
+§ 3.º Para que aos bancos comerciais e estabelecimentos especiais de crédito possa ser reconhecida a capacidade financeira para este efeito é necessário que a soma do seu capital e fundos de reserva exceda o capital mínimo, exigido nos termos do presente diploma, na importância bastante para atribuir a cada sucursal que possuam nas cidades indicadas no artigo 48.º, noutras cidades e noutras localidades, o capital de 10000000$00, 5000000$00 e 2500000$00, respectivamente, não se contando para o efeito mais de uma sucursal por cada concelho ou circunscrição administrativa.
 
 § 4.º Na apreciação do interesse da economia local considerar-se-á, especialmente, a situação económica da região onde a localidade se situa, o número de instituições de crédito ou suas sucursais já existentes nessa localidade e a relação entre o volume de depósitos e o crédito pelas mesmas concedido.
 
@@ -279,7 +352,11 @@ Art. 17.º A abertura, numa província ultramarina, de filiais, agências ou qua
 
 § 7.º A autorização que não for utilizada no prazo concedido considerar-se-á caduca, revertendo a favor do governo da província a importância da respectiva caução.
 
-Art. 18.º Nenhuma instituição de crédito poderá, sem prévia autorização do governo da província, conferir aos seus correspondentes poderes para a realização de operações bancárias que não sejam as de simples cobrança de valores e pagamento de ordens.
+> Alterado pelo/a [Decreto-Lei n.º 46243](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46243-1965-238615), publicado em 1965-03-19.
+
+###### Artigo 18.º
+
+Nenhuma instituição de crédito poderá, sem prévia autorização do governo da província, conferir aos seus correspondentes poderes para a realização de operações bancárias que não sejam as de simples cobrança de valores e pagamento de ordens.
 
 § 1.º Os pedidos de autorização serão feitos através da inspecção de crédito e seguros ou do comércio bancário da província e deles deverão constar, além do nome, domicílio e profissão do correspondente, as operações que por intermédio deste a instituição pretende realizar.
 
@@ -289,7 +366,9 @@ Art. 18.º Nenhuma instituição de crédito poderá, sem prévia autorização 
 
 #### SECÇÃO IV — Do registo das instituições de crédito e da publicação dos seus relatórios e contas
 
-Art. 19.º As instituições de crédito, com excepção das instituições de crédito do Estado, ficam sujeitas a registo especial na inspecção de crédito e seguros ou do comércio bancário da província em que tiverem o seu domicílio. Desse registo constarão os elementos seguintes:
+###### Artigo 19.º
+
+As instituições de crédito, com excepção das instituições de crédito do Estado, ficam sujeitas a registo especial na inspecção de crédito e seguros ou do comércio bancário da província em que tiverem o seu domicílio. Desse registo constarão os elementos seguintes:
 
 1.º A denominação da instituição;
 
@@ -327,17 +406,23 @@ Art. 19.º As instituições de crédito, com excepção das instituições de c
 
 § 2.º Os bancos emissores ultramarinos são dispensados de prestar a indicação a que se refere o n.º 5.º do parágrafo anterior.
 
-Art. 20.º O registo deve ser requerido no prazo de quinze dias, a contar da data da constituição definitiva da instituição de crédito ou da autorização para se estabelecer na província ultramarina, conforme o caso, mas sempre antes do início da actividade.
+###### Artigo 20.º
+
+O registo deve ser requerido no prazo de quinze dias, a contar da data da constituição definitiva da instituição de crédito ou da autorização para se estabelecer na província ultramarina, conforme o caso, mas sempre antes do início da actividade.
 
 § 1.º O averbamento das alterações ao registo deve ser requerido no prazo de dez dias, a contar da data em que elas se verificarem.
 
 § 2.º Do registo e das suas alterações serão passadas certidões sumárias aos que as requererem.
 
-Art. 21.º Pelo registo das instituições de crédito é devida a taxa de 1500$00 e pelo averbamento das suas alterações a de 300$00, salvo tratando-se de caixas económicas ou cooperativas de crédito, para as quais estas taxas são reduzidas a metade.
+###### Artigo 21.º
+
+Pelo registo das instituições de crédito é devida a taxa de 1500$00 e pelo averbamento das suas alterações a de 300$00, salvo tratando-se de caixas económicas ou cooperativas de crédito, para as quais estas taxas são reduzidas a metade.
 
 § único. As taxas serão pagas por meio de guias passadas pela inspecção de crédito e seguros ou do comércio bancário, aplicando-se-lhes o disposto no § 2.º do artigo 14.º do presente decreto-lei e efectuando-se o correspondente depósito nos termos e na conta referidos no § 3.º do mesmo artigo.
 
-Art. 22.º Os bancos comerciais e os estabelecimentos especiais de crédito publicarão no Boletim Oficial da respectiva província os seus balancetes trimestrais e no Boletim Oficial, no Boletim de Crédito da Inspecção-Geral de Crédito e Seguros e num dos jornais mais lidos da localidade da sua sede os seus balanços e contas de lucros e perdas anuais, acompanhados dos respectivos relatórios da administração, bem como, havendo-o, do parecer do conselho fiscal.
+###### Artigo 22.º
+
+Os bancos comerciais e os estabelecimentos especiais de crédito publicarão no Boletim Oficial da respectiva província os seus balancetes trimestrais e no Boletim Oficial, no Boletim de Crédito da Inspecção-Geral de Crédito e Seguros e num dos jornais mais lidos da localidade da sua sede os seus balanços e contas de lucros e perdas anuais, acompanhados dos respectivos relatórios da administração, bem como, havendo-o, do parecer do conselho fiscal.
 
 § 1.º Os balancetes, balanços e contas de lucros e perdas deverão obedecer aos modelos oficiais a fixar pela Direcção-Geral de Economia do Ministério do Ultramar, ouvida a Inspecção-Geral de Crédito e Seguros.
 
@@ -345,11 +430,17 @@ Art. 22.º Os bancos comerciais e os estabelecimentos especiais de crédito publ
 
 ### CAPÍTULO II — Da defesa do crédito
 
-Art. 23.º A superintendência e coordenação da actividade nas províncias ultramarinas das instituições de crédito, das entidades referidas no artigo 4.º e das pessoas singulares ou colectivas que exerçam funções de crédito nos termos do artigo 5.º são da competência conjunta dos Ministros das Finanças e do Ultramar, excepto na parte em que esta competência seja por lei cometida a outra entidade.
+###### Artigo 23.º
 
-Art. 24.º A fiscalização da actividade nas províncias ultramarinas, das instituições de crédito, das entidades referidas no artigo 4.º e das pessoas singulares ou colectivas que exerçam funções de crédito nos termos do artigo 5.º, salvo quanto aos bancos emissores ultramarinos será exercida por intermédio dos governadores das províncias.
+A superintendência e coordenação da actividade nas províncias ultramarinas das instituições de crédito, das entidades referidas no artigo 4.º e das pessoas singulares ou colectivas que exerçam funções de crédito nos termos do artigo 5.º são da competência conjunta dos Ministros das Finanças e do Ultramar, excepto na parte em que esta competência seja por lei cometida a outra entidade.
 
-Art. 25.º No uso das atribuições mencionadas no artigo 23.º, cabe em especial aos Ministros das Finanças e do Ultramar fixar directivas ou adoptar providências tendentes a:
+###### Artigo 24.º
+
+A fiscalização da actividade nas províncias ultramarinas, das instituições de crédito, das entidades referidas no artigo 4.º e das pessoas singulares ou colectivas que exerçam funções de crédito nos termos do artigo 5.º, salvo quanto aos bancos emissores ultramarinos será exercida por intermédio dos governadores das províncias.
+
+###### Artigo 25.º
+
+No uso das atribuições mencionadas no artigo 23.º, cabe em especial aos Ministros das Finanças e do Ultramar fixar directivas ou adoptar providências tendentes a:
 
 a) Promover a coordenação do volume global do crédito com o ritmo da actividade económica em cada uma das províncias ultramarinas;
 
@@ -375,15 +466,21 @@ e) Actuar como prestamista dos sistemas bancários das mesmas províncias ultram
 
 § 3.º Os bancos emissores ultramarinos, nesta qualidade e também em relação às províncias em que tenham o privilégio de emissão de notas, prestarão ao Ministro do Ultramar e aos governos das províncias as informações e os pareceres sobre questões de ordem monetária, creditória e financeira que lhes forem solicitados ou considerarem convenientes.
 
-Art. 26.º A fiscalização nas províncias ultramarinas dos bancos comerciais e estabelecimentos especiais de crédito, bem como das instituições auxiliares de crédito e das pessoas singulares ou colectivas mencionadas no artigo 5.º, será exercida pelas inspecções de crédito e seguros ou do comércio bancário, criadas pelo [Decreto-Lei n.º 44702](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44702-1962-237464), e poderá ser feita nos próprios estabelecimentos.
+###### Artigo 26.º
+
+A fiscalização nas províncias ultramarinas dos bancos comerciais e estabelecimentos especiais de crédito, bem como das instituições auxiliares de crédito e das pessoas singulares ou colectivas mencionadas no artigo 5.º, será exercida pelas inspecções de crédito e seguros ou do comércio bancário, criadas pelo [Decreto-Lei n.º 44702](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44702-1962-237464), e poderá ser feita nos próprios estabelecimentos.
 
 § único. Para os efeitos do presente artigo, as instituições e entidades mencionadas são obrigadas a apresentar balancetes mensais, balanços, contas de ganhos e perdas, inventário da carteira de títulos, além de quaisquqer outros elementos de informação julgados necessários.
 
-Art. 27.º As informações sobre matéria financeira e monetária, dadas em boletins ou relatórios dos bancos comerciais, dos estabelecimentos especiais de crédito, das instituições auxiliares de crédito e das pessoas singulares ou colectivas mencionadas no artigo 5.º, ficam sujeitas a regras especiais a fixar pelo Ministro do Ultramar, cujo cumprimento será fiscalizado pelos governadores das províncias por intermédio das inspecções de crédito e seguros ou do comércio bancário.
+###### Artigo 27.º
+
+As informações sobre matéria financeira e monetária, dadas em boletins ou relatórios dos bancos comerciais, dos estabelecimentos especiais de crédito, das instituições auxiliares de crédito e das pessoas singulares ou colectivas mencionadas no artigo 5.º, ficam sujeitas a regras especiais a fixar pelo Ministro do Ultramar, cujo cumprimento será fiscalizado pelos governadores das províncias por intermédio das inspecções de crédito e seguros ou do comércio bancário.
 
 § único. São proibidas as agências não oficiais de informações financeiras.
 
-Art. 28.º É vedado aos bancos comerciais, aos estabelecimentos especiais de crédito, às instituições auxiliares de crédito e, bem assim, às pessoas singulares ou colectivas referidas no artigo 5.º:
+###### Artigo 28.º
+
+É vedado aos bancos comerciais, aos estabelecimentos especiais de crédito, às instituições auxiliares de crédito e, bem assim, às pessoas singulares ou colectivas referidas no artigo 5.º:
 
 1.º Celebrar entre si contratos ou acordos de qualquer natureza tendentes a assegurar uma situação de domínio sobre os mercados monetários e financeiros das províncias ou a provocar alteração nas condições normais do seu funcionamento;
 
@@ -401,11 +498,15 @@ d) Reembolso de crédito próprio por qualquer meio legal de aquisição, inclui
 
 § 2.º É facultado, todavia, às instituições e entidades mencionadas conservar em carteira as acções do Banco de Portugal e dos bancos emissores ultramarinos que possuam à data de publicação deste decreto-lei.
 
-Art. 29.º São puníveis, nos termos do presente diploma, todos os actos que perturbem ou tendam a perturbar o sistema de crédito nas províncias ultramarinas ou a falsear as condições normais do funcionamento dos respectivos mercados monetários e financeiros.
+###### Artigo 29.º
+
+São puníveis, nos termos do presente diploma, todos os actos que perturbem ou tendam a perturbar o sistema de crédito nas províncias ultramarinas ou a falsear as condições normais do funcionamento dos respectivos mercados monetários e financeiros.
 
 ### CAPÍTULO III — Da administração das instituições de crédito
 
-Art. 30.º É vedado às instituições de crédito de uma província ultramarina fazer parte dos corpos gerentes de outras instituições de crédito.
+###### Artigo 30.º
+
+É vedado às instituições de crédito de uma província ultramarina fazer parte dos corpos gerentes de outras instituições de crédito.
 
 § único. Exceptuam-se do disposto neste artigo:
 
@@ -413,25 +514,43 @@ a) Os organismos bancários constituídos noutros territórios nacionais, de cuj
 
 b) Os bancos de investimento, em cada um de cujos corpos gerentes poderão participar, em proporção até 2/3, instituições de crédito de diferente natureza.
 
-Art. 31.º Os administradores, directores, gerentes, membros do conselho fiscal ou presidentes das mesas da assembleia geral, advogados privativos, auditores, consultores especiais, chefes de serviço, inspectores, bem como técnicos de qualquer natureza de uma instituição de crédito, não podem fazer parte dos corpos gerentes de outra instituição de crédito nem exercer nela quaisquer funções, salvo quando em representação nos casos previstos no § único do artigo anterior.
+###### Artigo 31.º
 
-Art. 32.º Os responsáveis pela falência de empresas singulares ou colectivas e, bem assim, os condenados por furto, roubo, burla, abuso de confiança ou falsidade ficam inibidos de desempenhar nas instituições de crédito as funções mencionadas no artigo anterior.
+Os administradores, directores, gerentes, membros do conselho fiscal ou presidentes das mesas da assembleia geral, advogados privativos, auditores, consultores especiais, chefes de serviço, inspectores, bem como técnicos de qualquer natureza de uma instituição de crédito, não podem fazer parte dos corpos gerentes de outra instituição de crédito nem exercer nela quaisquer funções, salvo quando em representação nos casos previstos no § único do artigo anterior.
 
-Art. 33.º Não podem fazer parte dos conselhos de administração ou fiscal ou da gerência de uma instituição de crédito os que pertençam aos corpos gerentes de uma mesma sociedade anónima ou sejam associados em sociedades de outras espécies, nem mais de dois parentes consanguíneos ou afins até, respectivamente, o 3.º e 2.º grau, inclusive.
+###### Artigo 32.º
 
-Art. 34.º Os vogais ou membros do conselho de administração ou fiscal e os gerentes das instituições de crédito não podem receber, sob qualquer forma, crédito da instituição em que exerçam aquelas funções.
+Os responsáveis pela falência de empresas singulares ou colectivas e, bem assim, os condenados por furto, roubo, burla, abuso de confiança ou falsidade ficam inibidos de desempenhar nas instituições de crédito as funções mencionadas no artigo anterior.
 
-Art. 35.º As entidades a que alude o artigo anterior estão inibidas de participar na discussão e votação de propostas relativas a operações em que intervenha qualquer sociedade de que sejam sócios ou a cujos corpos gerentes pertençam, tratando-se, neste último caso, de sociedades anónimas.
+###### Artigo 33.º
+
+Não podem fazer parte dos conselhos de administração ou fiscal ou da gerência de uma instituição de crédito os que pertençam aos corpos gerentes de uma mesma sociedade anónima ou sejam associados em sociedades de outras espécies, nem mais de dois parentes consanguíneos ou afins até, respectivamente, o 3.º e 2.º grau, inclusive.
+
+###### Artigo 34.º
+
+Os vogais ou membros do conselho de administração ou fiscal e os gerentes das instituições de crédito não podem receber, sob qualquer forma, crédito da instituição em que exerçam aquelas funções.
+
+###### Artigo 35.º
+
+As entidades a que alude o artigo anterior estão inibidas de participar na discussão e votação de propostas relativas a operações em que intervenha qualquer sociedade de que sejam sócios ou a cujos corpos gerentes pertençam, tratando-se, neste último caso, de sociedades anónimas.
 
 § único. As propostas referidas no corpo do presente artigo só podem ser aceites se forem aprovadas pela totalidade dos vogais, membros ou gerentes não abrangidos pela inibição aí consignada.
 
-Art. 36.º Os membros do conselho de administração são solidàriamente responsáveis por todos os actos das respectivas instituições de crédito contrários à lei e aos estatutos, nos quais tenham participado sem manifestar a sua oposição ou discordância.
+###### Artigo 36.º
 
-Art. 37.º Os empregados das instituições de crédito não podem, por si ou por interposta pessoa, tomar parte nas respectivas assembleias gerais.
+Os membros do conselho de administração são solidàriamente responsáveis por todos os actos das respectivas instituições de crédito contrários à lei e aos estatutos, nos quais tenham participado sem manifestar a sua oposição ou discordância.
 
-Art. 38.º Sem prejuízo do disposto no § 3.º do artigo 183.º do Código Comercial, a cada accionista de um banco caberá um número de votos igual à parte inteira do quociente que resultar da divisão do número de acções que possuir ou representar pelo número mínimo de acções que, nos termos dos estatutos do banco, for exigido para atribuição do voto em assembleia.
+###### Artigo 37.º
 
-Art. 39.º A assembleia geral dos bancos não pode ser constituída por mais de 300 accionistas.
+Os empregados das instituições de crédito não podem, por si ou por interposta pessoa, tomar parte nas respectivas assembleias gerais.
+
+###### Artigo 38.º
+
+Sem prejuízo do disposto no § 3.º do artigo 183.º do Código Comercial, a cada accionista de um banco caberá um número de votos igual à parte inteira do quociente que resultar da divisão do número de acções que possuir ou representar pelo número mínimo de acções que, nos termos dos estatutos do banco, for exigido para atribuição do voto em assembleia.
+
+###### Artigo 39.º
+
+A assembleia geral dos bancos não pode ser constituída por mais de 300 accionistas.
 
 § 1.º Feito o depósito das acções dentro do prazo estabelecido para tomar parte numa assembleia geral, o presidente desta, ou o conselho de administração no caso de aquele não estar ainda eleito, verificará se o número de accionistas inscritos para aquele efeito excede 300 e, excedendo, organizará uma lista dos depositantes com a indicação do número de votos que cabe a cada um.
 
@@ -443,31 +562,43 @@ Art. 39.º A assembleia geral dos bancos não pode ser constituída por mais de 
 
 § 5.º As procurações passadas para os fins do § 3.º serão apresentadas na sede do banco até ao último dia útil antes daquele em que a assembleia houver de reunir-se.
 
-Art. 40.º Os accionistas dos bancos nacionais com sede numa província ultramarina que sejam residentes em qualquer outro território nacional beneficiam de direitos iguais aos garantidos pelo artigo 187.º do Código Comercial aos accionistas residentes no estrangeiro.
+###### Artigo 40.º
+
+Os accionistas dos bancos nacionais com sede numa província ultramarina que sejam residentes em qualquer outro território nacional beneficiam de direitos iguais aos garantidos pelo artigo 187.º do Código Comercial aos accionistas residentes no estrangeiro.
 
 ### CAPÍTULO IV — Do Estado e dos seus institutos de crédito
 
-Art. 41.º Fica o Governo autorizado a emitir no ultramar, por intermédio do Ministério das Finanças e nos termos a estabelecer, títulos de obrigação denominados «promissórias de fomento ultramarino», reembolsáveis a prazos de um a cinco anos e cujo produto se destinará, exclusivamente, ao financiamento, nas províncias ultramarinas de investimentos previstos em planos aprovados pelo Conselho de Ministros para os Assuntos Económicos.
+###### Artigo 41.º
 
-§ 1.º As promissórias serão títulos nominativos, liberados em moeda nacional com curso legal nas províncias ultramarinas e averbáveis ùnicamente a favor da Fazenda Nacional e das instituições de crédito referidas no artigo 3.º deste diploma.
+(Revogado.)
 
-§ 2.º O valor de cada título não será inferior a 1000000$00 nem excederá 10000000$00.
+> Revogado pelo/a [Decreto-Lei n.º 46380](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46380-1965-296233), publicado em 1965-06-11.
 
-§ 3.º As promissórias vencerão juro de taxa anual não superior a 2 por cento, pagável no fim de cada semestre, e serão transmissíveis por todos os modos admitidos em direito, mas as transmissões a título oneroso efectuar-se-ão sempre pelo capital nominal.
+###### Artigo 42.º
 
-§ 4.º A importância total das promissórias em circulação não poderá exceder o limite que for acordado, para determinado período e sobre parecer do Ministro do Ultramar, entre o Estado, representado pelo Ministro das Finanças, e os bancos emissores ultramarinos.
+(Revogado.)
 
-Art. 42.º O produto da emissão das promissórias de fomento ultramarino será colocado à disposição do Fundo de Fomento Económico, nos termos da alínea f) do artigo 10.º do [Decreto-Lei n.º 44652](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44652-1962-673217), mediante depósito em conta corrente à ordem no banco emissor da respectiva província ultramarina.
+> Revogado pelo/a [Decreto-Lei n.º 46380](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46380-1965-296233), publicado em 1965-06-11.
 
-Art. 43.º O produto da emissão das promissórias de fomento ultramarino poderá ser objecto, no todo ou em parte, de empréstimos ou suprimentos a conceder pelo Estado a bancos de investimentos ou aos fundos de fomento das províncias ultramarinas referidos no artigo 11.º do [Decreto-Lei n.º 44652](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44652-1962-673217), para ser por eles utilizado de harmonia com as aplicações indicadas nos planos de emissão dos títulos.
+###### Artigo 43.º
 
-Art. 44.º A Caixa Nacional de Crédito abrirá filiais ou outras sucursais nas províncias ultramarinas, à medida que as circunstâncias o justifiquem e de modo a poder assegurar a conveniente assistência financeira aos sectores de actividade económica junto dos quais deverá exercer a sua acção.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 46380](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46380-1965-296233), publicado em 1965-06-11.
+
+###### Artigo 44.º
+
+A Caixa Nacional de Crédito abrirá filiais ou outras sucursais nas províncias ultramarinas, à medida que as circunstâncias o justifiquem e de modo a poder assegurar a conveniente assistência financeira aos sectores de actividade económica junto dos quais deverá exercer a sua acção.
 
 ### CAPÍTULO V — Dos bancos emissores ultramarinos
 
-Art. 45.º Os bancos emissores ultramarinos continuam a regular-se pela respectiva legislação, salvas as disposições deste diploma que expressamente lhes digam respeito.
+###### Artigo 45.º
 
-Art. 46.º Os bancos emissores ultramarinos serão equiparados a bancos comerciais quanto à actividade bancária e funções de crédito que venham a exercer nos termos dos seus estatutos e que não sejam dependentes ou resultantes da sua actividade como bancos emissores.
+Os bancos emissores ultramarinos continuam a regular-se pela respectiva legislação, salvas as disposições deste diploma que expressamente lhes digam respeito.
+
+###### Artigo 46.º
+
+Os bancos emissores ultramarinos serão equiparados a bancos comerciais quanto à actividade bancária e funções de crédito que venham a exercer nos termos dos seus estatutos e que não sejam dependentes ou resultantes da sua actividade como bancos emissores.
 
 § único. É aplicável aos bancos emissores ultramarinos designadamente o disposto no artigo 61.º do presente diploma.
 
@@ -475,55 +606,69 @@ Art. 46.º Os bancos emissores ultramarinos serão equiparados a bancos comercia
 
 #### SECÇÃO I — Do objecto e do capital mínimo
 
-Art. 47.º São considerados bancos comerciais nas províncias ultramarinas as pessoas singulares ou colectivas de direito privado que, nos termos do artigo 6.º do presente diploma, tiverem por objecto exclusivo o exercício com fins lucrativos da actividade bancária e das funções de crédito, nomeadamente a recepção, sob a forma de depósitos ou outras análogas, de disponibilidades monetárias que empreguem por sua própria conta e risco em operações activas de crédito a curto prazo ou outras que lhes sejam autorizadas por lei, o exercício do comércio de câmbios e a realização de operações de pagamentos interterritoriais nos termos da legislação respectiva, bem como a prestação dos serviços de transferências de fundos, de guarda de valores e de intermediários nos pagamentos internos das províncias e na colocação ou administração de capitais e a de outros serviços de natureza análoga que a lei lhes não proíba.
+###### Artigo 47.º
 
-Art. 48.º Os bancos comerciais não poderão constituir-se nas províncias ultramarinas com capital social inferior a 50000000$00, se tiverem a sua sede nas cidades de Luanda, Lobito, Benguela, Nova Lisboa, Lourenço Marques e Beira, e a 20000000$00, se a tiverem noutra localidade.
+São considerados bancos comerciais nas províncias ultramarinas as pessoas singulares ou colectivas de direito privado que, nos termos do artigo 6.º do presente diploma, tiverem por objecto exclusivo o exercício com fins lucrativos da actividade bancária e das funções de crédito, nomeadamente a recepção, sob a forma de depósitos ou outras análogas, de disponibilidades monetárias que empreguem por sua própria conta e risco em operações activas de crédito a curto prazo ou outras que lhes sejam autorizadas por lei, o exercício do comércio de câmbios e a realização de operações de pagamentos interterritoriais nos termos da legislação respectiva, bem como a prestação dos serviços de transferências de fundos, de guarda de valores e de intermediários nos pagamentos internos das províncias e na colocação ou administração de capitais e a de outros serviços de natureza análoga que a lei lhes não proíba.
+
+###### Artigo 48.º
+
+Os bancos comerciais não poderão constituir-se nas províncias ultramarinas com capital social inferior a 50000000$00, se tiverem a sua sede nas cidades de Luanda, Lobito, Benguela, Nova Lisboa, Lourenço Marques e Beira, e a 20000000$00, se a tiverem noutra localidade.
 
 § único. Para os efeitos do presente artigo são equiparados aos bancos comerciais com sede nas cidades mencionadas os que tenham filial, agência ou outra sucursal em qualquer dessas cidades.
 
-Art. 49.º O capital mínimo com que as casas bancárias podem constituir-se ou funcionar será de 25000000$00 e 15000000$00, consoante tenham a sua sede nas cidades mencionadas no artigo anterior ou em localidade diferente, considerando-se equiparadas às primeiras as casas bancárias que possuam filial, agência ou outra sucursal em qualquer daquelas cidades.
+###### Artigo 49.º
 
-Art. 50.º Quando o desenvolvimento económico-social dos agregados urbanos nas províncias ultramarinas o justificar, poderá o Ministro do Ultramar determinar, por decreto, a aplicação do princípio estabelecido nos artigos 48.º e 49.º anteriores aos bancos comerciais e casas bancárias com sede ou sucursais em cidades diferentes das enumeradas no artigo 48.º
+O capital mínimo com que as casas bancárias podem constituir-se ou funcionar será de 25000000$00 e 15000000$00, consoante tenham a sua sede nas cidades mencionadas no artigo anterior ou em localidade diferente, considerando-se equiparadas às primeiras as casas bancárias que possuam filial, agência ou outra sucursal em qualquer daquelas cidades.
+
+###### Artigo 50.º
+
+Quando o desenvolvimento económico-social dos agregados urbanos nas províncias ultramarinas o justificar, poderá o Ministro do Ultramar determinar, por decreto, a aplicação do princípio estabelecido nos artigos 48.º e 49.º anteriores aos bancos comerciais e casas bancárias com sede ou sucursais em cidades diferentes das enumeradas no artigo 48.º
 
 #### SECÇÃO II — Dos depósitos de numerário
 
-Art. 51.º Os depósitos de disponibilidades monetárias a que se refere o artigo 47.º revestirão uma das formas seguintes:
+###### Artigo 51.º
 
-1.º Depósito à ordem;
+(Revogado.)
 
-2.º Depósito a prazo.
+> Revogado pelo/a [Decreto-Lei n.º 48369](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48369-1968-274851), publicado em 1968-05-06.
 
-§ 1.º Os depósitos referidos no n.º 1.º são imediatamente exigíveis, podendo, todavia, os depositários acordar com os depositantes que os levantamentos, quando excedam determinada importância, dependam de aviso dado com a antecedência de um certo número de dias.
+###### Artigo 52.º
 
-§ 2.º Os depósitos a que respeita o n.º 2.º só são exigíveis findo o prazo por que foram efectuados, prazo que não poderá exceder um ano e se considera prorrogado por um período igual, no caso de falta de declaração em contrário feita pelo depositante até à data do vencimento.
-
-§ 3.º Os depósitos a prazo podem incluir a cláusula de pré-aviso, destinada a torná-los exigíveis antes do prazo estipulado.
-
-§ 4.º Os depósitos a prazo com cláusula de pré-aviso só serão exigíveis depois de prevenido o depositário com a antecipação fixada nesta cláusula, a qual nunca poderá ser superior a 90 dias.
-
-Art. 52.º O depositante a prazo pode exigir que lhe seja entregue uma livrança representativa da quantia depositada.
+O depositante a prazo pode exigir que lhe seja entregue uma livrança representativa da quantia depositada.
 
 #### SECÇÃO III — Dos valores à guarda e em penhor
 
-Art. 53.º Os bancos comerciais são obrigados a conservar em ordem os papéis de crédito, o ouro amoedado ou em barra, as jóias e outros objectos ou valores depositados ou entregues em penhor e a escriturá-los, em livro especial, com a designação dos seus proprietários e demais elementos de identificação, incluindo os números dos títulos.
+###### Artigo 53.º
+
+Os bancos comerciais são obrigados a conservar em ordem os papéis de crédito, o ouro amoedado ou em barra, as jóias e outros objectos ou valores depositados ou entregues em penhor e a escriturá-los, em livro especial, com a designação dos seus proprietários e demais elementos de identificação, incluindo os números dos títulos.
 
 § único. Só mediante prévia declaração escrita passada pelos proprietários, podem os bancos comerciais entregar-lhes, em vez dos valores depositados ou recebidos em penhor, outros similares ou equivalentes, ou dispor deles.
 
-Art. 54.º Se um banco comercial depositar títulos alheios noutra instituição de crédito nacional ou estrangeira, não poderá contrair sobre eles qualquer encargo ou aliená-los, salvo se for autorizado pelos respectivos proprietários a dispor desses títulos nos termos do § único do artigo anterior.
+###### Artigo 54.º
+
+Se um banco comercial depositar títulos alheios noutra instituição de crédito nacional ou estrangeira, não poderá contrair sobre eles qualquer encargo ou aliená-los, salvo se for autorizado pelos respectivos proprietários a dispor desses títulos nos termos do § único do artigo anterior.
 
 #### SECÇÃO IV — Das comissões de confiança
 
-Art. 55.º São comissões de confiança dos bancos comerciais as funções que estes exerçam por conta de outrem, tais como as de meros depositários nos termos da lei geral, administradores ou liquidatários de bens alheios, cobranças de créditos, compra ou venda de títulos e mais valores mobiliários, recebimento de juros, dividendos ou rendas e representação de proprietários de títulos e outros bens.
+###### Artigo 55.º
 
-Art. 56.º Os capitais que forem objecto de comissões de confiança ou que delas resultarem só poderão ser aplicados conforme as instruções recebidas ou, na falta destas, em depósitos sem juro à simples guarda.
+São comissões de confiança dos bancos comerciais as funções que estes exerçam por conta de outrem, tais como as de meros depositários nos termos da lei geral, administradores ou liquidatários de bens alheios, cobranças de créditos, compra ou venda de títulos e mais valores mobiliários, recebimento de juros, dividendos ou rendas e representação de proprietários de títulos e outros bens.
+
+###### Artigo 56.º
+
+Os capitais que forem objecto de comissões de confiança ou que delas resultarem só poderão ser aplicados conforme as instruções recebidas ou, na falta destas, em depósitos sem juro à simples guarda.
 
 § único. Os capitais a que se refere o presente artigo e as correspondentes responsabilidades serão estruturados no balanço do banco, separadamente, em simples contas de ordem.
 
-Art. 57.º No caso de suspensão de pagamentos ou de liquidação do banco comissionário, as suas comissões de confiança podem ser transferidas pela inspecção de crédito e seguros ou do comércio bancário da província para o banco emissor da mesma província.
+###### Artigo 57.º
+
+No caso de suspensão de pagamentos ou de liquidação do banco comissionário, as suas comissões de confiança podem ser transferidas pela inspecção de crédito e seguros ou do comércio bancário da província para o banco emissor da mesma província.
 
 #### SECÇÃO V — Das operações de crédito e financeiras
 
-Art. 58.º Os bancos comerciais não poderão conceder a uma só entidade crédito superior a 10 por cento do capital e fundos de reserva dos mesmos bancos.
+###### Artigo 58.º
+
+Os bancos comerciais não poderão conceder a uma só entidade crédito superior a 10 por cento do capital e fundos de reserva dos mesmos bancos.
 
 § 1.º Este limite é elevado a 30 por cento se os créditos forem caucionados por títulos da divída pública ou disserem respeito a transacções reais ou efectivas de mercadorias, de interesse para a economia da província ultramarina em causa e efectuadas por entidades de reconhecida idoneidade, devendo neste caso os créditos ser garantidos por título de propriedade das mercadorias ou representados por letras, livranças ou warrants.
 
@@ -531,7 +676,9 @@ Art. 58.º Os bancos comerciais não poderão conceder a uma só entidade crédi
 
 § 3.º Para efeitos do disposto no presente artigo, as responsabilidades das sociedades em nome colectivo ou em comandita simples somam-se às dos seus sócios de responsabilidade ilimitada; e às de determinada pessoa que seja sócio de responsabilidade ilimitada de quaisquer das ditas sociedades somam-se as responsabilidades destas.
 
-Art. 59.º Nas operações de empréstimos caucionados, os bancos comerciais não poderão conceder crédito superior a:
+###### Artigo 59.º
+
+Nas operações de empréstimos caucionados, os bancos comerciais não poderão conceder crédito superior a:
 
 a) 90 por cento do valor dos títulos do Estado ou garantidos por ele;
 
@@ -553,49 +700,81 @@ g) 60 por cento do valor dos imóveis que for determinado por perito qualificado
 
 § 3.º As margens mínimas de segurança estabelecidas neste artigo deverão ser sempre mantidas até à liquidação dos empréstimos.
 
-Art. 60.º Os bancos comerciais não podem aplicar em empréstimos sobre penhor das suas próprias acções importância total superior a 15 por cento dos seus fundos de reserva.
+###### Artigo 60.º
 
-Art. 61.º Nas operações de empréstimos sobre penhor dos bancos comerciais será aplicável o disposto pelo [Decreto-Lei n.º 32032](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32032-1942-314423), de 22 de Maio de 1942.
+Os bancos comerciais não podem aplicar em empréstimos sobre penhor das suas próprias acções importância total superior a 15 por cento dos seus fundos de reserva.
 
-Art. 62.º É permitido aos bancos comerciais nas províncias ultramarinas tomar firme a emissão de acções e obrigações de outras instituições de crédito ou de empresas de qualquer natureza a fim de serem colocadas mediante subscrição pública nas mesmas províncias.
+###### Artigo 61.º
+
+Nas operações de empréstimos sobre penhor dos bancos comerciais será aplicável o disposto pelo [Decreto-Lei n.º 32032](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32032-1942-314423), de 22 de Maio de 1942.
+
+###### Artigo 62.º
+
+É permitido aos bancos comerciais nas províncias ultramarinas tomar firme a emissão de acções e obrigações de outras instituições de crédito ou de empresas de qualquer natureza a fim de serem colocadas mediante subscrição pública nas mesmas províncias.
 
 § 1.º Os bancos comerciais só podem participar nas operações referidas no presente artigo até ao dobro do excesso da soma dos fundos de reserva e da quinta parte do seu capital realizado sobre as aplicações que tenham efectuado nos termos do artigo 64.º deste diploma.
 
 § 2.º Os bancos comerciais terão o prazo de dezoito meses, a contar da data de cada subscrição, para alienar a totalidade dos valores subscritos, no caso de se tratar de títulos cuja aquisição lhes é vedada por força do disposto no n.º 2.º do artigo 28.º, ou reduzir os mesmos valores ao limite fixado no parágrafo precedente, nos restantes casos.
 
-Art. 63.º Os bancos comerciais podem tomar firme as emissões, nas províncias ultramarinas, de títulos do Estado ou de obrigações por ele garantidas, desde que não excedam relativamente a cada emissão a importância do seu capital realizado e fundos de reserva.
+###### Artigo 63.º
 
-Art. 64.º Os bancos comerciais, nas províncias ultramarinas, só podem participar no capital de qualquer sociedade ou adquirir obrigações não garantidas pelo Estado até à concorrência da soma dos seus fundos de reserva e da quinta parte do seu capital realizado, e desde que as correspondentes aplicações não excedam, respectivamente, um quinto do capital realizado das empresas e um terço da importância total das obrigações emitidas, salvo no caso previsto na alínea d) do n.º 2.º do artigo 28.º deste diploma.
+Os bancos comerciais podem tomar firme as emissões, nas províncias ultramarinas, de títulos do Estado ou de obrigações por ele garantidas, desde que não excedam relativamente a cada emissão a importância do seu capital realizado e fundos de reserva.
 
-Art. 65.º Os bancos comerciais podem adquirir obrigações com garantia do Estado até ao limite de 50 por cento da importância total de cada emissão.
+###### Artigo 64.º
 
-Art. 66.º Mediante autorização conjunta dos Ministros das Finanças e do Ultramar, concedida por decreto e ouvido o Conselho Nacional de Crédito, o exercício de funções de crédito pelos bancos comerciais poderá compreender, nas províncias ultramarinas, a realização continuada e regular de operações de crédito a médio e longo prazos, designadamente de operações de crédito agrícola e pecuário, de crédito industrial e crédito predial, que serão objecto exclusivo de departamentos financeiros dos mesmos bancos, constituídos de conformidade com o disposto no presente diploma.
+Os bancos comerciais, nas províncias ultramarinas, só podem participar no capital de qualquer sociedade ou adquirir obrigações não garantidas pelo Estado até à concorrência da soma dos seus fundos de reserva e da quinta parte do seu capital realizado, e desde que as correspondentes aplicações não excedam, respectivamente, um quinto do capital realizado das empresas e um terço da importância total das obrigações emitidas, salvo no caso previsto na alínea d) do n.º 2.º do artigo 28.º deste diploma.
+
+###### Artigo 65.º
+
+Os bancos comerciais podem adquirir obrigações com garantia do Estado até ao limite de 50 por cento da importância total de cada emissão.
+
+###### Artigo 66.º
+
+Mediante autorização conjunta dos Ministros das Finanças e do Ultramar, concedida por decreto e ouvido o Conselho Nacional de Crédito, o exercício de funções de crédito pelos bancos comerciais poderá compreender, nas províncias ultramarinas, a realização continuada e regular de operações de crédito a médio e longo prazos, designadamente de operações de crédito agrícola e pecuário, de crédito industrial e crédito predial, que serão objecto exclusivo de departamentos financeiros dos mesmos bancos, constituídos de conformidade com o disposto no presente diploma.
 
 § 1.º Quando não possuam os referidos departamentos financeiros, os bancos comerciais só poderão realizar operações de crédito a médio e longo prazos pela mobilização adequada dos seus próprios capitais.
 
 § 2.º As casas bancárias não poderão em qualquer caso constituir departamentos financeiros.
 
-Art. 67.º Os departamentos financeiros dos bancos comerciais constituirão um serviço especializado e autónomo na actividade dos mesmos bancos, para os quais será organizada uma contabilidade própria que permita, em qualquer momento, a determinação perfeita dos activos e passivos desses departamentos.
+###### Artigo 67.º
+
+Os departamentos financeiros dos bancos comerciais constituirão um serviço especializado e autónomo na actividade dos mesmos bancos, para os quais será organizada uma contabilidade própria que permita, em qualquer momento, a determinação perfeita dos activos e passivos desses departamentos.
 
 § único. Os balancetes trimestrais, os balanços anuais e contas de lucros e perdas dos departamentos financeiros terão a publicidade determinada no artigo 22.º, a par dos balancetes, balanços e contas de lucros e perdas referentes à actividade geral dos bancos comerciais nesta qualidade.
 
-Art. 68.º As operações de crédito a médio e longo prazos dos departamentos financeiros dos bancos comerciais conformar-se-ão com o regime geral que vier a ser estabelecido no diploma previsto pelo artigo 17.º do [Decreto-Lei n.º 44652](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44652-1962-673217) e, bem assim, com as regras especiais que no decreto de autorização a que se refere o artigo 66.º forem estabelecidas.
+###### Artigo 68.º
 
-Art. 69.º Os recursos dos departamentos financeiros dos bancos comerciais serão constituídos:
+As operações de crédito a médio e longo prazo dos departamentos financeiros dos bancos comerciais conformar-se-ão com o regime que vier a ser estabelecido em diploma regulamentar e, bem assim, com as regras especiais que forem fixadas no decreto de autorização.
 
-1.º Pela parte do capital social e fundos de reserva dos bancos a eles consignada pelas assembleias gerais, que não poderá ser inferior a 20 por cento nem superior a 40 por cento do montante do capital realizado e dos fundos de reserva;
+> Alterado pelo/a [Decreto-Lei n.º 49003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49003-1969-201236), publicado em 1969-05-10.
+
+###### Artigo 69.º
+
+Os recursos dos departamentos financeiros dos bancos comerciais serão constituídos:
+
+1.º Pela parte do capital social e fundos de reserva dos bancos a eles consignada pelas assembleias gerais, que não poderá ser inferior a:
+
+a) 25000000$00 para os departamentos a constituir numa província de governo simples;
+
+b) 100000000$00 para os departamentos a constituir numa província de governo-geral;
 
 2.º Pelos fundos de reserva próprios dos departamentos;
 
-3.º Pelo produto da emissão de títulos de obrigação a médio e longo prazos;
+3.º Pelo produto da emissão de títulos de obrigação a médio e a longo prazos;
 
 4.º Por depósitos a prazo superior a um ano;
 
 5.º Por fundos provenientes de empréstimos a médio ou longo prazos concedidos por instituições de crédito ou por quaisquer outras pessoas singulares ou colectivas.
 
-§ único. A emissão de obrigações pelos bancos comerciais nas províncias ultramarinas só será autorizada, nos termos da legislação vigente, quando o seu produto se destinar à constituição de recursos dos respectivos departamentos financeiros ou quando, na falta destes departamentos, se destine a aplicações reprodutivas previstas em planos aprovados em Conselho de Ministros para os Assuntos Económicos.
+§ 1.º Os valores mínimos indicados nas alíneas a) e b) do n.º 1.º serão acrescidos de montante não inferior a 25000000$00 ou 40000000$00, respectivamente, por cada província de governo simples ou de governo-geral a que os bancos pretendam estender o campo de actuação dos seus departamentos financeiros.
 
-Art. 70.º Os departamentos financeiros dos bancos comerciais constituirão os seguintes fundos:
+§ 2.º A emissão de obrigações pelos bancos comerciais nas províncias ultramarinas só será autorizada, nos termos da legislação vigente, quando o seu produto se destinar à constituição de recursos dos respectivos departamentos financeiros ou quando, na falta destes departamentos, se destine a aplicações reprodutivas previstas em planos aprovados em Conselho de Ministros para os Assuntos Económicos.
+
+> Alterado pelo/a [Decreto-Lei n.º 23/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-1973-683468), publicado em 1973-01-23.
+
+###### Artigo 70.º
+
+Os departamentos financeiros dos bancos comerciais constituirão os seguintes fundos:
 
 1.º Fundo de reserva geral, formado por 10 por cento dos lucros anuais do próprio departamento;
 
@@ -603,11 +782,15 @@ Art. 70.º Os departamentos financeiros dos bancos comerciais constituirão os s
 
 3.º Fundo de garantia, formado por uma percentagem de todos os juros e comissões cobrados pelo departamento financeiro que a administração do banco determinará, mas que nunca poderá ser inferior a 5 por cento do valor desses juros e comissões, bem como pelas importâncias que lhe forem atribuídas pela assembleia geral do banco e pelos rendimentos próprios do fundo.
 
-§ 1.º Os fundos de garantia dos departamentos financeiros serão exclusivamente destinados a suportar prejuízos das operações desses departamentos decorrentes de dívidas incobráveis e serão aplicados em títulos de obrigação emitidos ou garantidos pelo Estado.
+§ 1.º Os fundos de garantia dos departamentos financeiros serão exclusivamente destinados a suportar prejuízos das operações desses departamentos decorrentes de dívidas incobráveis e serão aplicados em títulos de obrigação emitidos ou garantidos pelo Estado ou pelas províncias ultramarinas.
 
 § 2.º Os prejuízos dos departamentos financeiros que não puderem ser suportados pelos seus fundos próprios constituirão responsabilidade dos bancos comerciais que criarem esses departamentos.
 
-Art. 71.º Os lucros anuais dos departamentos financeiros dos bancos comerciais terão a distribuição seguinte:
+> Alterado pelo/a [Decreto-Lei n.º 49003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49003-1969-201236), publicado em 1969-05-10.
+
+###### Artigo 71.º
+
+Os lucros anuais dos departamentos financeiros dos bancos comerciais terão a distribuição seguinte:
 
 1.º 10 por cento para o fundo de reserva geral;
 
@@ -619,53 +802,53 @@ Art. 71.º Os lucros anuais dos departamentos financeiros dos bancos comerciais 
 
 #### SECÇÃO VI — Das taxas de juro
 
-Art. 72.º O juro atribuído pelos bancos comerciais nas províncias ultramarinas aos depósitos à ordem não poderá exceder metade da taxa média de desconto do banco emissor da respectiva província durante o semestre anterior à liquidação do mesmo juro e o juro atribuído aos depósitos a prazo até um ano não excederá o valor da taxa média de desconto do dito banco emissor, durante os prazos que precederem a liquidação dos juros, acrescida de 0,5 por cento.
+###### Artigo 72.º
 
-Art. 73.º Os bancos comerciais não cobrarão, pelo desconto de efeitos comerciais ou por quaisquer outras operações de crédito a curto prazo, juros de taxa superior à do desconto do banco emissor da respectiva província, acrescida de 2 por cento.
+(Revogado.)
 
-§ 1.º Sendo cobradas quaisquer comissões, estas serão consideradas como juro para efeito do limite fixado no presente artigo. Não serão, porém, considerados para o mesmo efeito os prémios de transferência referentes a letras ou outros efeitos pagáveis em praça diferente daquela onde tiver lugar o desconto e o reembolso de despesas efectuadas.
+> Revogado pelo/a [Decreto-Lei n.º 48369](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48369-1968-274851), publicado em 1968-05-06.
 
-§ 2.º As taxas de juro aplicadas em conformidade com o presente artigo não têm de ser diminuídas, nem podem ser aumentadas, em virtude de alteração da taxa de desconto do banco emissor da província durante o prazo por que as operações forem feitas.
+###### Artigo 73.º
 
-Art. 74.º Os Ministros das Finanças e do Ultramar, ouvidos o Conselho Nacional de Crédito e os governos das províncias ultramarinas interessadas, ou por propostas destas ou daquele Conselho, poderão alterar por portaria, em relação a uma ou mais províncias, os limites estabelecidos nos artigos 72.º e 73.º anteriores, bem como fixar os limites de juro de quaisquer outras operações bancárias, nomeadamente das operações de crédito a médio e longo prazos.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 48369](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48369-1968-274851), publicado em 1968-05-06.
+
+###### Artigo 74.º
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 48369](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48369-1968-274851), publicado em 1968-05-06.
 
 #### SECÇÃO VII — Das garantias de liquidez e solvabilidade
 
-Art. 75.º A importância das disponibilidades de caixa dos bancos comerciais, constituídas por dinheiro em cofre, depósitos à ordem no banco emissor da respectiva província ultramarina e promissórias de fomento ultramarino, deverá ser equivalente a 20 por cento, pelo menos, das suas responsabilidades à vista e moeda nacional com curso legal na província.
+###### Artigo 75.º
 
-§ 1.º Os vales de correio e os cheques à vista emitidos por entidades de reconhecida idoneidade sobre instituições de crédito domiciliadas na província poderão ser considerados como dinheiro em cofre, mas apenas pelo tempo estritamente indispensável à sua cobrança ou compensação, o qual nunca poderá exceder cinco dias.
+(Revogado.)
 
-§ 2.º Além dos depósitos à ordem e das demais responsabilidades imediatamente exigíveis, são considerados como responsabilidades à vista, para efeito do disposto no corpo do presente artigo, os depósitos a prazo ou com pré-aviso inferiores a 30 dias.
+> Revogado pelo/a [Decreto-Lei n.º 48369](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48369-1968-274851), publicado em 1968-05-06.
 
-Art. 76.º Os bancos comerciais são obrigados a ter disponibilidades de caixa com a constituição referida no artigo anterior, numa importância de 5 por cento, pelo menos, do total das suas responsabilidades, em moeda nacional com curso legal na província, por depósitos a prazo ou com pré-aviso não inferiores a 30 dias.
+###### Artigo 76.º
 
-Art. 77.º O Ministro do Ultramar fica com a faculdade de, ouvido o Conselho Nacional de Crédito, alterar por portaria, de acordo com a evolução dos mercados monetários das províncias ultramarinas, as percentagens das disponibilidades de caixa estabelecidas nos artigos 75.º e 76.º, bem como a fixar a participação que nelas poderão atingir as promissórias de fomento ultramarino referidas no artigo 41.º do presente diploma.
+(Revogado.)
 
-§ único. As alterações das percentagens das disponibilidades de caixa poderão não ser idênticas para todas as províncias ultramarinas e a participação nessas disponibilidades das promissórias de fomento ultramarino poderá igualmente variar de província para província.
+> Revogado pelo/a [Decreto-Lei n.º 48369](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48369-1968-274851), publicado em 1968-05-06.
 
-Art. 78.º A parte do valor das responsabilidades à vista e dos depósitos a prazo ou com pré-aviso não inferiores a 30 dias dos bancos comerciais, em moeda nacional com curso legal na província onde os bancos estiverem domiciliados, que exceda a importância das disponibilidades de caixa referidas nos artigos 75.º e 76.º deverá estar garantida por:
+###### Artigo 77.º
 
-a) Disponibilidades em ouro e moedas estrangeiras, deduzidas as responsabilidades totais em moedas estrangeiras exigíveis a prazo não superior a 180 dias, que os bancos comerciais tenham constituído ao abrigo da legislação sobre o exercício de comércio de câmbios nas províncias ultramarinas;
+(Revogado.)
 
-b) Disponibilidades em moeda nacional com curso legal noutros territórios portugueses, que os bancos comerciais tenham constituído ao abrigo da legislação sobre a realização de operações de pagamentos interterritoriais;
+> Revogado pelo/a [Decreto-Lei n.º 48369](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48369-1968-274851), publicado em 1968-05-06.
 
-c) Saldos em outras instituições de crédito domiciliadas na mesma província ultramarina, pagáveis à vista ou a prazos não superiores a 90 dias, e cheques à vista e ordens de pagamento emitidas por entidades de reconhecido crédito sobre essas instituições;
+###### Artigo 78.º
 
-d) Títulos da dívida pública portuguesa, incluindo as promissórias de fomento ultramarino não contadas para os efeitos do artigo 75.º, e obrigações com garantia do Estado emitidas por quaisquer empresas;
+(Revogado.)
 
-e) Acções e obrigações não garantidas pelo Estado, cotadas na bolsa;
+> Revogado pelo/a [Decreto-Lei n.º 48369](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48369-1968-274851), publicado em 1968-05-06.
 
-f) Valores da carteira comercial a prazo não superior a seis meses, representados por letras, livranças, extractos de facturas e warrants descontados;
+###### Artigo 79.º
 
-g) Disponibilidades e valores realizáveis até 180 dias em posse de correspondentes na província;
-
-h) Empréstimos ou contas correntes a prazo não superior a um ano, caucionados por hipoteca ou pelo penhor de títulos da dívida pública, de títulos de acções e obrigações de empresas, de metais preciosos amoedados ou não, de mercadorias ou dos respectivos conhecimentos que, para esse efeito, as representem, e por warrants.
-
-§ 1.º Nas disponibilidades em moedas estrangeiras, a que se refere a alínea a) do presente artigo, contar-se-ão, além dos saldos das contas abertas nos termos da legislação vigente sobre o exercício do comércio de câmbios nas províncias ultramarinas, as letras em carteira aceites por bancos domiciliados no estrangeiro, os cheques à vista e ordens de pagamento passados por entidades de reconhecido crédito sobre esses bancos e, bem assim, quaisquer outros valores em moeda estrangeira que os bancos comerciais hajam adquirido ao abrigo daquela legislação.
-
-§ 2.º Nas disponibilidades em moeda nacional com curso legal noutros territórios portugueses, referidas na alínea b) do presente artigo, contar-se-ão, além dos saldos das contas abertas nos termos da legislação vigente sobre as operações de pagamentos interterritoriais, as letras em carteira aceites por instituições de crédito domiciliadas naqueles territórios nacionais, os cheques à vista e ordens de pagamento passados por entidades de reconhecido crédito sobre essas instituições e, bem assim, quaisquer outros valores em moeda nacional que os bancos comerciais hajam adquirido ao abrigo da citada legislação.
-
-Art. 79.º Para efeitos do disposto no artigo anterior, os valores nele mencionados deverão contar-se pela forma seguinte:
+Para efeitos do disposto no artigo anterior, os valores nele mencionados deverão contar-se pela forma seguinte:
 
 1.º O ouro amoedado ou não, pelo peso em ouro fino à paridade do escudo acordada entre o Estado e o Fundo Monetário Internacional;
 
@@ -681,57 +864,71 @@ Art. 79.º Para efeitos do disposto no artigo anterior, os valores nele menciona
 
 7.º Os restantes valores, pelos respectivos valores nominais.
 
-Art. 80.º O Ministro do Ultramar, atenta a conjuntura monetária e financeira das províncias ultramarinas e ouvido o Conselho Nacional de Crédito, poderá fixar por portaria:
+###### Artigo 80.º
 
-a) A participação dos títulos de dívida pública nas garantias a que se refere o artigo 78.º;
+(Revogado.)
 
-b) O limite máximo de representação nas mesmas garantias, de acções e obrigações, incluindo as obrigações garantidas pelo Estado, dos valores de carteira comercial a prazo superior a 90 dias dos empréstimos e contas correntes caucionados por outra forma que não seja a do penhor de títulos de dívida pública;
+> Revogado pelo/a [Decreto-Lei n.º 48369](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48369-1968-274851), publicado em 1968-05-06.
 
-c) As condições a que devem obedecer as acções e as obrigações não garantidas pelo Estado para que estes títulos, ou os empréstimos ou contas correntes por eles caucionados, possam ser considerados nas ditas garantias;
+###### Artigo 81.º
 
-d) As condições em que valores não indicados nas alíneas a) a h) do artigo 78.º, ou aí referidos mas a prazos superiores aos estabelecidos nas mesmas alíneas, poderão ser contados como garantias para efeitos do disposto nesse artigo;
+Os bancos comerciais não poderão adquirir imóveis que não sejam os indispensáveis à sua instalação e funcionamento, salvo se a aquisição tiver por fim o reembolso de um crédito próprio, devendo em tal caso aliená-los dentro do prazo de cinco anos.
 
-e) O limite mínimo da relação entre o montante do capital e fundos de reserva dos bancos comerciais, por um lado, e, por outro, o montante dos depósitos e outras responsabilidades efectivas destes bancos para com terceiros, bem como da relação entre aquele montante do capital e fundos de reserva e o das responsabilidades dos bancos por aceites, avales e garantias concedidas.
+###### Artigo 82.º
 
-§ único. Os limites e condições a estabelecer pelo Ministro do Ultramar nos termos do presente artigo poderão variar de província para província ou, na mesma província ultramarina, com a evolução da sua conjuntura monetária e financeira.
-
-Art. 81.º Os bancos comerciais não poderão adquirir imóveis que não sejam os indispensáveis à sua instalação e funcionamento, salvo se a aquisição tiver por fim o reembolso de um crédito próprio, devendo em tal caso aliená-los dentro do prazo de cinco anos.
-
-Art. 82.º Os imóveis indispensáveis ao funcionamento dos bancos comerciais, o mobiliário e o material de escritório e as despesas de instalação e de traspasse não poderão representar no seu conjunto, deduzidas as respectivas amortizações, mais de 50 por cento do capital realizado.
+Os imóveis indispensáveis ao funcionamento dos bancos comerciais, o mobiliário e o material de escritório e as despesas de instalação e de traspasse não poderão representar no seu conjunto, deduzidas as respectivas amortizações, mais de 50 por cento do capital realizado.
 
 § único. Os imóveis, o mobiliário e o material de escritório serão amortizados, obrigatòriamente, na proporção do seu desgaste e as despesas de instalação e de traspasse deverão ser totalmente amortizadas nos três exercícios posteriores ao da sua realização.
 
-Art. 83.º Dos lucros líquidos dos bancos comerciais, uma fracção, não inferir a um décimo, será destinada à formação do fundo de reserva legal, até que este represente 50 por cento, pelo menos, do capital social.
+###### Artigo 83.º
+
+Dos lucros líquidos dos bancos comerciais, uma fracção, não inferir a um décimo, será destinada à formação do fundo de reserva legal, até que este represente 50 por cento, pelo menos, do capital social.
 
 § único. Os bancos comerciais não poderão distribuir pelos accionistas ou sócios, como dividendo ou a qualquer outro título, importâncias que reduzam de qualquer forma a importância do respectivo capital ou a do fundo de reserva legal abaixo do mínimo fixado para este fundo no presente artigo.
 
-Art. 84.º Além das provisões para créditos de cobrança duvidosa e para outras depreciações do activo, devem os bancos comerciais constituir, independentemente do fundo de reserva legal, as provisões que prudentemente se considerem necessárias para fazer face aos riscos de depreciação ou prejuízo a que determinadas espécies de valores ou operações estão especialmente sujeitas.
+###### Artigo 84.º
+
+Além das provisões para créditos de cobrança duvidosa e para outras depreciações do activo, devem os bancos comerciais constituir, independentemente do fundo de reserva legal, as provisões que prudentemente se considerem necessárias para fazer face aos riscos de depreciação ou prejuízo a que determinadas espécies de valores ou operações estão especialmente sujeitas.
 
 #### SECÇÃO VIII — Das contas e balanços
 
-Art. 85.º A contabilidade dos bancos comerciais deverá ser organizada, bem como a dos seus departamentos financeiros, de acordo com a classificação e nomenclatura de contas a fixar pela Direcção-Geral de Economia, do Ministério do Ultramar, tendo em consideração as instruções que vigorarem para os bancos comerciais no continente e ilhas adjacentes.
+###### Artigo 85.º
+
+A contabilidade dos bancos comerciais deverá ser organizada, bem como a dos seus departamentos financeiros, de acordo com a classificação e nomenclatura de contas a fixar pela Direcção-Geral de Economia, do Ministério do Ultramar, tendo em consideração as instruções que vigorarem para os bancos comerciais no continente e ilhas adjacentes.
 
 § único. A organização dos balanços anuais e os critérios a adoptar na valorização dos diversos elementos patrimoniais deverão obedecer às instruções que a referida Direcção-Geral expedir.
 
-Art. 86.º Os bancos comerciais são obrigados a enviar à inspecção de crédito e seguros ou do comércio bancário da respectiva província, elaborados segundo a classificação de contas a que se refere o artigo precedente e assinados por um administrador e pelo chefe da contabilidade:
+###### Artigo 86.º
+
+Os bancos comerciais são obrigados a enviar à inspecção de crédito e seguros ou do comércio bancário da respectiva província, elaborados segundo a classificação de contas a que se refere o artigo precedente e assinados por um administrador e pelo chefe da contabilidade:
 
 1.º Até ao dia 15 de cada mês, o balancete do Razão referido ao último dia do mês anterior, acompanhado dos desdobramentos de contas que se mostrarem necessários;
 
 2.º Logo após o encerramento das contas do exercício, o balanço, o desenvolvimento da conta de lucros e perdas e o inventário da carteira de títulos.
 
-Art. 87.º Os bancos comerciais enviarão também à inspecção de crédito e seguros ou do comércio bancário da respectiva província, logo que a assembleia geral tenha aprovado as contas do exercício, a lista dos accionistas ou sócios presentes e um extracto da acta da referida assembleia na parte relativa à discussão de contas, à respectiva aprovação e à aplicação dos lucros.
+###### Artigo 87.º
+
+Os bancos comerciais enviarão também à inspecção de crédito e seguros ou do comércio bancário da respectiva província, logo que a assembleia geral tenha aprovado as contas do exercício, a lista dos accionistas ou sócios presentes e um extracto da acta da referida assembleia na parte relativa à discussão de contas, à respectiva aprovação e à aplicação dos lucros.
 
 ### CAPÍTULO VII — Dos bancos de investimento
 
-Art. 88.º São bancos de investimento as sociedades anónimas constituídas nas condições previstas no artigo 10.º do presente diploma que, nos termos do artigo 6.º, exercem, por objecto exclusivo e com fins lucrativos, funções bancárias e financeiras, nomeadamente a emissão de empréstimos por obrigações e a recepção de fundos por meio de depósitos a prazo superior a um ano e outras operações devidamente autorizadas e, bem assim, a colocação dos capitais próprios ou alheios, por sua conta e risco, em participações no capital de empresas, em operações activas de crédito a médio e longo prazos e em outras que a lei expressamente lhes não proíba, podendo ainda prestar os serviços de colocação e administração de capitais e outros análogos que interessem a actividade económica das províncias ultramarinas em que se encontrem instalados e lhes não sejam legalmente vedados.
+###### Artigo 88.º
+
+São bancos de investimento as sociedades anónimas constituídas nas condições previstas no artigo 10.º do presente diploma que, nos termos do artigo 6.º, exercem, por objecto exclusivo e com fins lucrativos, funções bancárias e financeiras, nomeadamente a emissão de empréstimos por obrigações e a recepção de fundos por meio de depósitos a prazo superior a um ano e outras operações devidamente autorizadas e, bem assim, a colocação dos capitais próprios ou alheios, por sua conta e risco, em participações no capital de empresas, em operações activas de crédito a médio e longo prazos e em outras que a lei expressamente lhes não proíba, podendo ainda prestar os serviços de colocação e administração de capitais e outros análogos que interessem a actividade económica das províncias ultramarinas em que se encontrem instalados e lhes não sejam legalmente vedados.
 
 § único. Para a constituição de bancos de investimento aplicar-se-á o disposto no artigo 12.º do presente diploma.
 
-Art. 89.º Os bancos de investimento não poderão constituir-se nas províncias de Angola e Moçambique com capital inferior a 200 milhões de escudos e nas restantes províncias com capital inferior a 50 milhões e terão 60 por cento, pelo menos, do seu capital representado por acções nominativas averbadas a pessoas nacionais nos termos da base II da [Lei n.º 1994](https://diariodarepublica.pt/dr/detalhe/lei/1994-1943-596521), de 13 de Abril de 1943. § único. O Estado e os seus institutos de crédito poderão participar no capital dos bancos de investimento.
+###### Artigo 89.º
 
-Art. 90.º Da administração dos bancos de investimento farão sempre parte administradores nomeados pelo Ministro do Ultramar, cujo número será fixado nos decretos da sua constituição.
+Os bancos de investimento não poderão constituir-se nas províncias de Angola e Moçambique com capital inferior a 200 milhões de escudos e nas restantes províncias com capital inferior a 50 milhões e terão 60 por cento, pelo menos, do seu capital representado por acções nominativas averbadas a pessoas nacionais nos termos da base II da [Lei n.º 1994](https://diariodarepublica.pt/dr/detalhe/lei/1994-1943-596521), de 13 de Abril de 1943. § único. O Estado e os seus institutos de crédito poderão participar no capital dos bancos de investimento.
 
-Art. 91.º Os bancos de investimento financiarão as suas operações com o capital social, fundos de reserva e ainda com os recursos provenientes de:
+###### Artigo 90.º
+
+Da administração dos bancos de investimento farão sempre parte administradores nomeados pelo Ministro do Ultramar, cujo número será fixado nos decretos da sua constituição.
+
+###### Artigo 91.º
+
+Os bancos de investimento financiarão as suas operações com o capital social, fundos de reserva e ainda com os recursos provenientes de:
 
 a) Emissão de títulos de obrigação a médio e longo prazos;
 
@@ -743,49 +940,83 @@ c) Fundos obtidos por contratos ou quaisquer operações com instituições fina
 
 § 2.º Os contratos com instituições financeiras ou de crédito estrangeiras ou internacionais a que alude a alínea c) do corpo deste artigo estão sujeitos à autorização prévia do Conselho de Ministros para os Assuntoso Económicos, sob parecer favorável dos Ministros das Finanças e do Ultramar.
 
-Art. 92.º Além dos recursos indicados no artigo precedente, os bancos de investimento poderão ainda, em casos especiais que serão considerados nos respectivos diplomas de exercício:
+###### Artigo 92.º
+
+Além dos recursos indicados no artigo precedente, os bancos de investimento poderão ainda, em casos especiais que serão considerados nos respectivos diplomas de exercício:
 
 a) Receber do Estado para fins específicos de fomento, nas condições que forem acordadas com os Ministros das Finanças e do Ultramar, empréstimos e suprimentos em aplicação do produto da emissão de obrigações de dívida pública, de promissórias de fomento ultramarino ou de outras disponibilidades da tesouraria;
 
 b) Utilizar fundos provenientes de empréstimos em conta corrente concedidos pelos bancos emissores ultramarinos, nas condições a estipular com os mesmos bancos.
 
-Art. 93.º Aos valores à guarda e em penhor e às comissões de confiança dos bancos de investimento será aplicável o disposto, respectivamente, nos artigos 53.º e 54.º e nos artigos 55.º a 57.º do presente diploma.
+###### Artigo 93.º
 
-Art. 94.º As disposições dos artigos 58.º a 65.º do presente diploma são aplicáveis às operações de idêntica natureza a realizar por bancos de investimento.
+Aos valores à guarda e em penhor e às comissões de confiança dos bancos de investimento será aplicável o disposto, respectivamente, nos artigos 53.º e 54.º e nos artigos 55.º a 57.º do presente diploma.
+
+###### Artigo 94.º
+
+As disposições dos artigos 58.º a 65.º do presente diploma são aplicáveis às operações de idêntica natureza a realizar por bancos de investimento.
 
 § 1.º Nos diplomas de exercício dos bancos de investimento poderão estabelecer-se limites diferentes dos indicados nos artigos 58.º, 60.º, 62.º, 63.º, 64.º e 65.º
 
 § 2.º As operações de crédito a médio e longo prazos dos bancos de investimento conformar-se-ão com o regime geral que vier a ser estabelecido no diploma previsto pelo artigo 17.º do [Decreto-Lei n.º 44652](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44652-1962-673217) e, bem assim, com as regras especiais que forem definidas nos diplomas de exercício dos mesmos bancos.
 
-Art. 95.º Os bancos de investimento constituirão fundos de reserva e de garantia por forma idêntica e para os mesmos fins indicados no artigo 70.º deste decreto-lei.
+###### Artigo 95.º
 
-Art. 96.º Os bancos de investimento praticarão, nas suas operações, taxas de juro conformes com os limites que vierem a ser fixados nos termos do artigo 74.º
+Os bancos de investimento constituirão fundos de reserva e de garantia por forma idêntica e para os mesmos fins indicados no artigo 70.º deste decreto-lei.
 
-Art. 97.º Aos bancos de investimento é ainda aplicável o disposto nos artigos 81.º a 87.º do presente diploma.
+###### Artigo 96.º
+
+Os bancos de investimento praticarão, nas suas operações, taxas de juro conformes com os limites que vierem a ser fixados nos termos do artigo 74.º
+
+###### Artigo 97.º
+
+Aos bancos de investimento é ainda aplicável o disposto nos artigos 81.º a 87.º do presente diploma.
 
 ### CAPÍTULO VIII — Das caixas económicas e cooperativas de crédito
 
-Art. 98.º As caixas económicas são pessoas colectivas de direito privado, constituídas nas condições previstas no artigo 9.º do presente diploma e que exercem, nos termos do artigo 6.º, uma actividade bancária restrita, nomeadamente recebendo, sob forma de depósitos à ordem e de depósitos a prazo até um ano, disponibilidades monetárias que empregam, por sua própria conta e risco, em empréstimos e outras operações activas de crédito a curto e médio prazos que lhes sejam facultadas por lei e prestando, por outro lado, os serviços bancários compatíveis com a sua natureza e que a lei expressamente lhes não proíba.
+###### Artigo 98.º
 
-§ único. Os montepios e mutualidades, na parte em que funcionem como instituições de depósito e de crédito, são equiparados às caixas económicas.
+As caixas económicas são pessoas colectivas de direito privado, constituídas nas condições previstas no artigo 9.º do presente diploma e que exercem, nos termos do artigo 6.º, uma actividade bancária restrita, nomeadamente recebendo, sob forma de depósitos à ordem e de depósitos a prazo até um ano, disponibilidades monetárias que empregam, por sua própria conta e risco, em empréstimos e outras operações activas de crédito a curto e médio prazos que lhes sejam facultadas por lei e prestando, por outro lado, os serviços bancários compatíveis com a sua natureza e que a lei expressamente lhes não proíba.
 
-Art. 99.º As caixas económicas obedecerão a requisitos especiais consignados em diploma regulamentar e relativos ao capital e fundos de reserva, grau de liquidez, composição da cobertura das suas responsabilidades e taxas de juro a aplicar nas suas operações activas e passivas de crédito.
+§ 1.º Os montepios e mutualidades, na parte em que funcionem como instituições de depósito e de crédito, são equiparados às caixas económicas.
 
-Art. 100.º Às caixas económicas são aplicáveis as disposições dos artigos 51.º a 57.º do presente diploma, bem como as dos artigos 58.º a 61.º, 81.º, 82.º, 84.º e 85.º a 87.º
+§ 2.º Em casos excepcionais, os Governadores das províncias poderão, por portaria, e ouvida a competente inspecção de crédito e seguros ou do comércio bancário, autorizar alguma ou algumas caixas económicas a receber depósitos a mais de um ano e a realizar operações de crédito a longo prazo.
 
-Art. 101.º É vedada às caixas económicas a realização das operações indicadas nos artigos 62.º a 65.º, não podendo também estabelecer departamentos especializados de natureza e fins análogos aos dos departamentos financeiros referidos no artigo 66.º
+> Alterado pelo/a [Decreto-Lei n.º 387/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/387-1973-421979), publicado em 1973-07-31.
 
-Art. 102.º São, cooperativas de crédito as sociedades cooperativas constituídas nos termos das leis vigentes e nas condições previstas no artigo 9.º do presente diploma e que tenham por objecto, de harmonia com o disposto no artigo 6.º, o exercício de uma actividade bancária restrita, em benefício exclusivo dos seus associados.
+###### Artigo 99.º
 
-Art. 103.º As cooperativas de crédito obedecerão a requisitos especiais consignados em diploma regulamentar e relativos ao capital e fundos de reserva, grau de liquidez, composição da cobertura das suas responsabilidades e taxas de juro a aplicar nas suas operações activas e passivas de crédito.
+As caixas económicas obedecerão a requisitos especiais consignados em diploma regulamentar e relativos ao capital e fundos de reserva, grau de liquidez, composição da cobertura das suas responsabilidades e taxas de juro a aplicar nas suas operações activas e passivas de crédito.
 
-Art. 104.º Às cooperativas de crédito são aplicáveis as disposições dos artigos 51.º, 52.º, 59.º, 81.º, 82.º, 84.º e 85.º a 87.º do presente diploma, bem como a do artigo 101.º
+###### Artigo 100.º
+
+Às caixas económicas são aplicáveis as disposições dos artigos 51.º a 57.º do presente diploma, bem como as dos artigos 58.º a 61.º, 81.º, 82.º, 84.º e 85.º a 87.º
+
+###### Artigo 101.º
+
+As caixas económicas não poderão estabelecer departamentos especializados de natureza e fins análogos aos dos departamentos financeiros referidos no artigo 66.º
+
+> Alterado pelo/a [Decreto-Lei n.º 46243](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46243-1965-238615), publicado em 1965-03-19.
+
+###### Artigo 102.º
+
+São, cooperativas de crédito as sociedades cooperativas constituídas nos termos das leis vigentes e nas condições previstas no artigo 9.º do presente diploma e que tenham por objecto, de harmonia com o disposto no artigo 6.º, o exercício de uma actividade bancária restrita, em benefício exclusivo dos seus associados.
+
+###### Artigo 103.º
+
+As cooperativas de crédito obedecerão a requisitos especiais consignados em diploma regulamentar e relativos ao capital e fundos de reserva, grau de liquidez, composição da cobertura das suas responsabilidades e taxas de juro a aplicar nas suas operações activas e passivas de crédito.
+
+###### Artigo 104.º
+
+Às cooperativas de crédito são aplicáveis as disposições dos artigos 51.º, 52.º, 59.º, 81.º, 82.º, 84.º e 85.º a 87.º do presente diploma, bem como a do artigo 101.º
 
 § único. As cooperativas de crédito não poderão conceder a qualquer associado crédito superior a 5 por cento do capital e fundos de reserva das mesmas cooperativas.
 
 ### CAPÍTULO IX — Das instituições auxiliares de crédito
 
-Art. 105.º Serão criadas bolsas de fundos em Luanda e Lourenço Marques, nos termos do artigo 15.º do [Decreto-Lei n.º 44652](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44652-1962-673217), bem como noutras cidades das províncias ultramarinas, quando o desenvolvimento dos mercados financeiros regionais o justifique.
+###### Artigo 105.º
+
+Serão criadas bolsas de fundos em Luanda e Lourenço Marques, nos termos do artigo 15.º do [Decreto-Lei n.º 44652](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44652-1962-673217), bem como noutras cidades das províncias ultramarinas, quando o desenvolvimento dos mercados financeiros regionais o justifique.
 
 § 1.º A criação de bolsas de fundos nas províncias ultramarinas será determinada por decreto dos Ministros das Finanças e do Ultramar, ouvido o Conselho Nacional de Crédito, não podendo, todavia, existir mais de uma bolsa nas províncias de governo simples e de duas bolsas nas províncias de governo-geral.
 
@@ -793,15 +1024,25 @@ Art. 105.º Serão criadas bolsas de fundos em Luanda e Lourenço Marques, nos t
 
 § 3.º No decreto referido no § 1.º será estabelecido o número de corretores de fundos.
 
-Art. 106.º Os corretores de fundos serão sujeitos, na parte aplicável, ao disposto nos artigos 32.º e 36.º do presente diploma e só poderão realizar as operações taxativamente fixadas na lei e pela forma nela expressa.
+###### Artigo 106.º
 
-Art. 107.º As casas de câmbio não poderão funcionar com capital inferior a 200000$00, se tiverem a sua sede nas cidades enumeradas no artigo 48.º deste diploma, e a 100000$00, se a tiverem noutra localidade.
+Os corretores de fundos serão sujeitos, na parte aplicável, ao disposto nos artigos 32.º e 36.º do presente diploma e só poderão realizar as operações taxativamente fixadas na lei e pela forma nela expressa.
 
-Art. 108.º Às caixas de câmbio é aplicável o disposto no corpo e §§ 1.º a 3.º do artigo 12.º, sendo do governo da província a competência para autorizar quer a constituição das casas de câmbios, quer as modificações estatutárias, as mudanças de denominação ou de sede, as alterações de capital e a fusão com outras casas de câmbio.
+###### Artigo 107.º
 
-Art. 109.º As casas de câmbio ficam sujeitas, nas províncias ultramarinas, à quota de fiscalização referida no artigo 14.º e cuja importância não poderá exceder 1 por cento do valor do capital e fundos de reserva.
+As casas de câmbio não poderão funcionar com capital inferior a 200000$00, se tiverem a sua sede nas cidades enumeradas no artigo 48.º deste diploma, e a 100000$00, se a tiverem noutra localidade.
 
-Art. 110.º As casas de câmbio estão sujeitas, na parte aplicável, ao disposto nos artigos 19.º a 21.º, 32.º, 36.º e 86.º do presente diploma.
+###### Artigo 108.º
+
+Às caixas de câmbio é aplicável o disposto no corpo e §§ 1.º a 3.º do artigo 12.º, sendo do governo da província a competência para autorizar quer a constituição das casas de câmbios, quer as modificações estatutárias, as mudanças de denominação ou de sede, as alterações de capital e a fusão com outras casas de câmbio.
+
+###### Artigo 109.º
+
+As casas de câmbio ficam sujeitas, nas províncias ultramarinas, à quota de fiscalização referida no artigo 14.º e cuja importância não poderá exceder 1 por cento do valor do capital e fundos de reserva.
+
+###### Artigo 110.º
+
+As casas de câmbio estão sujeitas, na parte aplicável, ao disposto nos artigos 19.º a 21.º, 32.º, 36.º e 86.º do presente diploma.
 
 § único. As taxas de registo referidas no artigo 21.º são reduzidas para as casas de câmbio a metade das importâncias indicadas no mesmo artigo.
 
@@ -809,29 +1050,77 @@ Art. 110.º As casas de câmbio estão sujeitas, na parte aplicável, ao dispost
 
 #### SECÇÃO I — Das instituições de crédito nacionais
 
-Art. 111.º Nenhuma instituição de crédito nacional que não seja banco comercial ou de investimento poderá estabelecer dependências numa província ultramarina. Para estabelecer essas dependências, a instituição de crédito, obtida a autorização no território onde tenha a sua sede, nos termos da legislação respectiva e da que regular as operações de pagamentos interterritoriais, deverá conformar-se, na parte aplicável, com o disposto no presente diploma, designadamente nos artigos 6.º, 9.º, 10.º, 12.º, 14.º, 16.º, 18.º, 19.º a 22.º, 28.º, 31.º a 36.º, 48.º, 58.º a 65.º, 72.º, 73.º, 75.º a 87.º, 89.º e 91.º a 97.º
+###### Artigo 111.º
 
-§ único. As dependências nas províncias ultramarinas dos bancos comerciais não poderão constituir departamentos financeiros especializados como os referidos no artigo 66.º do presente diploma.
+Nenhuma instituição de crédito nacional que não seja banco comercial ou de investimento poderá estabelecer dependências numa província ultramarina. Para estabelecer essas dependências, a instituição de crédito deverá:
 
-Art. 112.º Todo o activo das instituições de crédito com dependências nas províncias ultramarinas responde pelas obrigações contraídas por elas, mas os activos que possuírem em qualquer província, incluindo o que representar o capital e fundos de reserva, responderá em primeiro lugar pelas obrigações contraídas na mesma província e só poderá responder por outras depois de solvidas aquelas.
+a) Tratando-se da sua primeira dependência nessa província ultramarina, que será considerada seu estabelecimento principal na mesma província, obter prévia autorização conjunta dos Ministros das Finanças e do Ultramar e afectar a essa dependência, por transferência do território da sua sede, um capital não inferior ao capital mínimo exigido pelos artigos 48.º e 89.º do presente diploma, conforme se trate, respectivamente, de um banco comercial ou de um banco de investimento.
 
-Art. 113.º As instituições de crédito com dependências nas províncias ultramarinas terão sempre aí um representante idóneo, com poderes bastantes para responder perante as autoridades e os particulares pelos actos praticados pelas referidas dependências no respectivo território, sem limitação ou reserva.
+b) Tratando-se de outras dependências, que serão consideradas como filiais, agências ou sucursais do seu estabelecimento principal na província, obter previamente parecer favorável da entidade a quem competir a fiscalização da sua sede, bem como autorização do governo da respectiva província, e dotar o estabelecimento principal, se este não possuir para tanto os necessários fundos, com um capital excedente ao mínimo referido na alínea anterior que permita atribuir às outras dependências o capital mínimo exigido, nos termos do § 3.º do artigo 17.º, às instituições de crédito que pretendam abrir sucursais na província onde se encontram domiciliadas.
+
+§ 1.º O requerimento em que se solicita a autorização referida na alínea a) do corpo deste artigo deverá ser acompanhado dos elementos seguintes:
+
+1.º Exposição pormenorizada das necessidades de ordem económica e financeira que justifiquem a criação de dependência na província ultramarina.
+
+2.º Declaração de compromisso de que, no prazo de 30 dias, a contar da data em que o despacho de autorização for notificado à instituição de crédito requerente, serão depositados na instituição de crédito a indicar pelo governo da província 50 por cento dos fundos afectados à dependência.
+
+§ 2.º A autorização referida na mesma alínea a) caducará se não for efectuado o depósito previsto no parágrafo anterior ou se a instituição de crédito não realizar a abertura ao público da dependência no prazo de seis meses, a contar da data da notificação do despacho de autorização, salvo se o Ministro do Ultramar, por motivo devidamente justificado, prorrogar esse prazo, prorrogação que não poderá ir além de um ano.
+
+§ 3.º O pedido de autorização do Governo da província referido na alínea b) do corpo deste artigo seguirá os termos previstos nos §§ 1.º e seguintes do artigo 17.º do presente diploma, mas o respectivo requerimento, além da memória justificativa indicada no § 1.º do mesmo artigo, deverá ser acompanhado do documento comprovativo de prévio parecer favorável da entidade a quem couber exercer a fiscalização das instituições de crédito no território da sede da requerente.
+
+§ 4.º As dependências de que trata este artigo ficam sujeitas, na parte aplicável, ao disposto no presente diploma e no [Decreto-Lei n.º 48369](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48369-1968-274851), de 6 de Maio de 1968.
+
+§ 5.º Um banco comercial, estabelecido em qualquer outra parcela do território nacional, poderá requerer, nos termos do artigo 66.º, autorização para constituir um departamento financeiro numa província ultramarina, desde que haja obtido para tanto autorização no território onde tiver a sua sede nos termos da legislação respectiva, nomeadamente da que regular as operações de pagamentos interterritoriais.
+
+§ 6.º Para o efeito do disposto na alínea b) do corpo deste artigo, ter-se-á sempre em consideração o capital mínimo exigido nos termos da alínea a) do mesmo, à data do estabelecimento da primeira dependência na província.
+
+> Alterado pelo/a [Decreto-Lei n.º 279/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/279-1973-422390), publicado em 1973-06-01.
+
+###### Artigo 112.º
+
+Todo o activo das instituições de crédito com dependências nas províncias ultramarinas responde pelas obrigações contraídas por elas, mas os activos que possuírem em qualquer província, incluindo o que representar o capital e fundos de reserva, responderá em primeiro lugar pelas obrigações contraídas na mesma província e só poderá responder por outras depois de solvidas aquelas.
+
+§ único. As referidas dependências são obrigadas a aplicar nas províncias ultramarinas onde se acharem localizadas a importância do capital que lhes esteja afectado, bem como as reservas constituídas e os depósitos recebidos nas mesmas províncias, podendo, todavia, ter como saldo credor na sede e sucursais noutra parcela do território nacional importância total não superior a 10 por cento do mesmo capital.
+
+> Alterado pelo/a [Decreto-Lei n.º 46243](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46243-1965-238615), publicado em 1965-03-19.
+
+###### Artigo 113.º
+
+As instituições de crédito com dependências nas províncias ultramarinas terão sempre aí um representante idóneo, com poderes bastantes para responder perante as autoridades e os particulares pelos actos praticados pelas referidas dependências no respectivo território, sem limitação ou reserva.
 
 #### SECÇÃO II — Das instituições de crédito estrangeiras
 
-Art. 114.º As instituições de crédito estrangeiras estão sujeitas à legislação portuguesa e à jurisdição dos tribunais portugueses no tocante a todas as operações respeitantes às províncias ultramarinas e são-lhes aplicáveis as disposições deste diploma, salvo o que para elas for expressamente preceituado.
+###### Artigo 114.º
+
+As instituições de crédito estrangeiras estão sujeitas à legislação portuguesa e à jurisdição dos tribunais portugueses no tocante a todas as operações respeitantes às províncias ultramarinas e são-lhes aplicáveis as disposições deste diploma, salvo o que para elas for expressamente preceituado.
 
 § único. Não estão autorizadas a funcionar nas províncias ultramarinas as instituições de crédito estrangeiras cujos estatutos ou pactos sociais contenham disposições contrárias ao interesse público ou à lei portuguesa.
 
-Art. 115.º Nenhuma instituição de crédito estrangeira poderá funcionar numa província ultramarina sem que o seu estabelecimento principal na província disponha de um capital não inferior ao fixado no artigo 48.º deste diploma e especialmente afecto às operações a realizar na mesma província.
+###### Artigo 115.º
 
-Art. 116.º A gerência dos estabelecimentos nas províncias ultramarinas das instituições de crédito estrangeiras deverá ser confiada a uma direcção com poderes plenos e ilimitados para tratar e resolver definitivamente com o Estado e com os particulares nas províncias.
+Nenhuma instituição de crédito estrangeira poderá funcionar numa província ultramarina sem que o seu estabelecimento principal na província disponha de um capital não inferior a metade do capital mínimo exigido pelo artigo 48.º do presente diploma e especialmente afecto às operações a realizar na mesma província.
+
+§ único. Às instituições de crédito estrangeiras aplica-se o disposto no artigo 111.º e § 3.º do artigo 17.º deste diploma.
+
+> Alterado pelo/a [Decreto-Lei n.º 46243](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46243-1965-238615), publicado em 1965-03-19.
+
+###### Artigo 116.º
+
+A gerência dos estabelecimentos nas províncias ultramarinas das instituições de crédito estrangeiras deverá ser confiada a uma direcção com poderes plenos e ilimitados para tratar e resolver definitivamente com o Estado e com os particulares nas províncias.
 
 § único. Metade, pelo menos, dos membros da direcção deverá ter nacionalidade portuguesa.
 
-Art. 117.º Os estabelecimentos nas províncias ultramarinas das instituições de crédito estrangeiras são obrigados a ter empregados de nacionalidade portuguesa em número não inferior a 80 por cento do total dos seus empregados em cada categoria, com excepção dos gerentes.
+###### Artigo 117.º
 
-Art. 118.º O funcionamento nas províncias ultramarinas de instituições de crédito estrangeiras depende de autorização, conforme o preceituado nos artigos 9.º e 11.º do presente diploma.
+Os estabelecimentos nas províncias ultramarinas das instituições de crédito estrangeiras são obrigados a ter empregados de nacionalidade portuguesa em número não inferior a 80 por cento do total dos seus empregados classificados profissionalmente dentro do ramo bancário, excluindo-se o pessoal auxiliar - contínuos, serventes e respectivos chefes, quando existam -, que terá de ter, na sua totalidade, a nacionalidade portuguesa.
+
+§ único. Os mesmos estabelecimentos deverão assegurar a todos os elementos do seu pessoal, sem qualquer discriminação, idênticas oportunidades de acesso a lugares superiores ou de chefia.
+
+> Alterado pelo/a [Decreto-Lei n.º 46243](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46243-1965-238615), publicado em 1965-03-19.
+
+###### Artigo 118.º
+
+O funcionamento nas províncias ultramarinas de instituições de crédito estrangeiras depende de autorização, conforme o preceituado nos artigos 9.º e 11.º do presente diploma.
 
 § 1.º O requerimento deverá ser acompanhado dos elementos seguintes:
 
@@ -847,7 +1136,9 @@ Art. 118.º O funcionamento nas províncias ultramarinas de instituições de cr
 
 § 2.º Todos os documentos serão apresentados autênticamente na língua original, acompanhados da respectiva tradução, em duplicado, feita pelo notário ou devidamente autenticada nos termos do artigo 140.º do Código de Processo Civil.
 
-Art. 119.º O capital da instituição de crédito estrangeira responde pelas operações que esta realizar através dos seus estabelecimentos nas províncias ultramarinas.
+###### Artigo 119.º
+
+O capital da instituição de crédito estrangeira responde pelas operações que esta realizar através dos seus estabelecimentos nas províncias ultramarinas.
 
 § 1.º O activo destes estabelecimentos aplicado nas províncias ultramarinas só responde pelas obrigações assumidas em outros países pela sede ou agências da instituição principal depois de satisfeitas todas as obrigações contraídas nas mesmas províncias.
 
@@ -857,27 +1148,43 @@ Art. 119.º O capital da instituição de crédito estrangeira responde pelas op
 
 § 4.º A sentença estrangeira que decretar a falência ou a liquidação de uma instituição de crédito domiciliada no estrangeiro só poderá aplicar-se aos estabelecimentos que ela tenha nas províncias ultramarinas, mesmo quando revista pelos tribunais portugueses competentes, depois de cumprido o disposto na parte final do § 1.º deste artigo.
 
-Art. 120.º Os estabelecimentos nas províncias ultramarinas das instituições de crédito estrangeiras são obrigados ao uso da língua portuguesa na escrituração dos livros da sua contabilidade, nas contas e avisos patenteados ao público e na correspondência com clientes residentes em território português.
+###### Artigo 120.º
 
-Art. 121.º Em regime de reciprocidade, os Ministros das Finanças e do Ultramar podem estabelecer para as instituições de crédito estrangeiras condições especiais de carácter jurídico, inclusivamente fiscal, as quais, porém, não poderão ser mais vantajosas do que as que se encontrem em vigor para as instituições de crédito nacionais.
+Os estabelecimentos nas províncias ultramarinas das instituições de crédito estrangeiras são obrigados ao uso da língua portuguesa na escrituração dos livros da sua contabilidade, nas contas e avisos patenteados ao público e na correspondência com clientes residentes em território português.
+
+###### Artigo 121.º
+
+Em regime de reciprocidade, os Ministros das Finanças e do Ultramar podem estabelecer para as instituições de crédito estrangeiras condições especiais de carácter jurídico, inclusivamente fiscal, as quais, porém, não poderão ser mais vantajosas do que as que se encontrem em vigor para as instituições de crédito nacionais.
 
 ### CAPÍTULO XI — Das sanções
 
-Art. 122.º As transgressões ao disposto no presente decreto-lei, bem como aos diplomas regulamentares por ele previstos, serão punidas de conformidade com o disposto nos artigos 89.º a 98.º do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968), tendo em conta, na parte aplicável, o estatuído nos §§ 1.º a 3.º do artigo 31.º e no artigo 32.º do [Decreto-Lei n.º 44698](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44698-1962-237460).
+###### Artigo 122.º
 
-Art. 123.º Os bancos emissores ultramarinos, para efeito da aplicação das sanções previstas no artigo anterior, participarão às competentes inspecções de crédito e seguros ou do comércio bancário das províncias as transgressões de que tiverem conhecimento.
+As transgressões ao disposto no presente decreto-lei, bem como aos diplomas regulamentares por ele previstos, serão punidas de conformidade com o disposto nos artigos 89.º a 98.º do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968), tendo em conta, na parte aplicável, o estatuído no [Decreto-Lei n.º 47918](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47918-1967-390781), de 8 de Setembro de 1967.
+
+> Alterado pelo/a [Decreto-Lei n.º 49306](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49306-1969-216291), publicado em 1969-10-16.
+
+###### Artigo 123.º
+
+Os bancos emissores ultramarinos, para efeito da aplicação das sanções previstas no artigo anterior, participarão às competentes inspecções de crédito e seguros ou do comércio bancário das províncias as transgressões de que tiverem conhecimento.
 
 ### CAPÍTULO XII — Disposições especiais
 
-Art. 124.º Quando o desenvolvimento do mercado monetário de uma província ultramarina o justificar, o Ministro do Ultramar determinará por decreto a criação nessa província de uma ou mais câmaras de compensação, que terão por objecto exclusivo realizar obrigatòriamente, por encontro ou compensação, a liquidação diária dos cheques que, uns sobre os outros, possuírem o banco emissor e os bancos comerciais associados nessas câmaras.
+###### Artigo 124.º
+
+Quando o desenvolvimento do mercado monetário de uma província ultramarina o justificar, o Ministro do Ultramar determinará por decreto a criação nessa província de uma ou mais câmaras de compensação, que terão por objecto exclusivo realizar obrigatòriamente, por encontro ou compensação, a liquidação diária dos cheques que, uns sobre os outros, possuírem o banco emissor e os bancos comerciais associados nessas câmaras.
 
 § único. No decreto referido no presente artigo serão estabelecidas as condições de funcionamento das câmaras de compensação.
 
-Art. 125.º Quando a situação financeira de uma instituição de crédito tornar aconselhável a redução do seu capital, poderá o Ministro do Ultramar impô-la ou autorizá-la com dispensa do disposto nos artigos 1539.º a 1541.º do Código de Processo Civil.
+###### Artigo 125.º
+
+Quando a situação financeira de uma instituição de crédito tornar aconselhável a redução do seu capital, poderá o Ministro do Ultramar impô-la ou autorizá-la com dispensa do disposto nos artigos 1539.º a 1541.º do Código de Processo Civil.
 
 § único. Se da redução resultar um capital inferior ao mínimo legal, terá o capital de ser elevado até esse mínimo.
 
-Art. 126.º Compete ao Ministro do Ultramar autorizar a emissão, nas províncias ultramarinas, de obrigações de quaisquer sociedades.
+###### Artigo 126.º
+
+Compete ao Ministro do Ultramar autorizar a emissão, nas províncias ultramarinas, de obrigações de quaisquer sociedades.
 
 § 1.º O Ministro do Ultramar poderá delegar nos governadores das províncias a competência referida no presente artigo, quando o valor da emissão das obrigações não exceda, no período de um ano, a importância de 5 milhões de escudos.
 
@@ -885,7 +1192,9 @@ Art. 126.º Compete ao Ministro do Ultramar autorizar a emissão, nas província
 
 ### CAPÍTULO XIII — Disposições transitórias
 
-Art. 127.º As instituições de crédito que actualmente exercem funções de crédito nas províncias ultramarinas deverão harmonizar as suas condições de funcionamento com as disposições deste diploma, para o que lhes são fixados, a partir da data da sua publicação no Boletim Oficial da respectiva província, os prazos de:
+###### Artigo 127.º
+
+As instituições de crédito que actualmente exercem funções de crédito nas províncias ultramarinas deverão harmonizar as suas condições de funcionamento com as disposições deste diploma, para o que lhes são fixados, a partir da data da sua publicação no Boletim Oficial da respectiva província, os prazos de:
 
 a) 60 dias, quanto ao artigo 19.º;
 
@@ -893,9 +1202,13 @@ b) Um ano, pelo que respeita aos artigos 6.º, 30.º, 31.º e 33.º;
 
 c) Dois anos, no que se refere aos artigos 48.º, 49.º e 64.º
 
-Art. 128.º Os estabelecimentos nas províncias ultramarinas de instituições de crédito estrangeiras terão o prazo de um ano, a contar da data da publicação do presente diploma no Boletim Oficial da respectiva província, para se colocarem de acordo com o que dispõem os artigos 115.º, 116.º, 117.º, 119.º, § 2.º, e 120.º
+###### Artigo 128.º
 
-Art. 129.º As casas de câmbio cujo capital não atinja o mínimo estabelecido no artigo 107.º deverão elevá-lo até esse montante no prazo de um ano, também a contar da data da publicação deste diploma no Boletim Oficial da respectiva província ultramarina.
+Os estabelecimentos nas províncias ultramarinas de instituições de crédito estrangeiras terão o prazo de um ano, a contar da data da publicação do presente diploma no Boletim Oficial da respectiva província, para se colocarem de acordo com o que dispõem os artigos 115.º, 116.º, 117.º, 119.º, § 2.º, e 120.º
+
+###### Artigo 129.º
+
+As casas de câmbio cujo capital não atinja o mínimo estabelecido no artigo 107.º deverão elevá-lo até esse montante no prazo de um ano, também a contar da data da publicação deste diploma no Boletim Oficial da respectiva província ultramarina.
 
 Publique-se e cumpra-se como nele se contém.
 

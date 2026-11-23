@@ -1,0 +1,2567 @@
+[
+ {
+  "id": "pt:dre:398139:por",
+  "artigos": [
+   {
+    "artigo": "Trecho 1",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Art. 3.º Os distritos judiciais têm as sedes em Lisboa, Porto, Coimbra e Évora e abrangem as comarcas constant».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 2",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «2. São considerados da classe da respectiva comarca todos os cargos nela existentes que devam ser providos em ».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 3",
+    "veredicto": "dúvida",
+    "motivo": "1 de 3 parágrafos novos coincidem com diplomas na vista; os restantes não constam de nenhum texto visível (provável DL 202/73 ou 414/73, sem texto na vista), p. ex. «2. Nas comarcas de Lisboa e Porto há um tribunal cível, um tribunal criminal, um tribunal de família e juízos ».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 4",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «2. O Tribunal de Execução das Penas de Lisboa compõe-se de três juízos e exerce jurisdição na área dos distrit».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 5",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Art. 11.º - 1. O Supremo Tribunal de Justiça, composto de duas secções cíveis e uma secção criminal, tem o núm».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 6",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «2. Nas suas faltas ou impedimentos é o presidente substituído pelo vice-presidente; na falta ou impedimento de».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 7",
+    "veredicto": "certo",
+    "motivo": "Todo o texto novo coincide letra a letra com DL 47691 (diploma alterador na vista); o resto é igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 8",
+    "veredicto": "certo",
+    "motivo": "Todo o texto novo coincide letra a letra com DL 696/73 (diploma alterador na vista); o resto é igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 9",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «3. É aplicável às Relações o disposto nos n.os 2 e 3 do artigo 11.º A nomeação dos juízes além do quadro será ».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 10",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «2. Na falta ou impedimento do presidente, são as suas atribuições desempenhadas pelo mais antigo dos juízes em».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 11",
+    "veredicto": "certo",
+    "motivo": "Todo o texto novo coincide letra a letra com DL 696/73 (diploma alterador na vista); o resto é igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 12",
+    "veredicto": "certo",
+    "motivo": "Todo o texto novo coincide letra a letra com DL 47691 (diploma alterador na vista); o resto é igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 13",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Art. 26.º - 1. Em cada comarca há um juiz de direito; mas se o tribunal compreender mais de um juízo, haverá t».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 14",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «2. A composição de cada tribunal colectivo, no que respeita ao 2.º vogal, pode ser alterada, sob proposta do C».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 15",
+    "veredicto": "dúvida",
+    "motivo": "6 de 13 parágrafos novos coincidem com diplomas na vista; os restantes não constam de nenhum texto visível (provável DL 202/73 ou 414/73, sem texto na vista), p. ex. «Art. 31.º - 1. O tribunal colectivo das varas cíveis é constituído pelo presidente da vara por onde corre o pr».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 16",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «a) Como juízes de instrução criminal, exercer as funções jurisdicionais durante a instrução dos processos, com».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 17",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «f) Dar posse, sem prejuízo do especialmente disposto sobre a matéria, aos magistrados do Ministério Público e ».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 18",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «e) Suprir as omissões das sentenças por ele proferidas, esclarecê-las ou reformá-las e, em caso de recurso, su».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 19",
+    "veredicto": "certo",
+    "motivo": "Todo o texto novo coincide letra a letra com DL 47691 (diploma alterador na vista); o resto é igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 20",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «2. Independentemente da repartição do serviço de preparação dos processos entrados na vara pelos corregedores ».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 21",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «5. É da competência exclusiva dos tribunais de família a instrução e julgamento, em colectivo ou em juízo sing».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 22",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Art. 38.º - 1. O plenário do Tribunal Criminal de Lisboa exerce jurisdição na área dos distritos judiciais de ».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 23",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Art. 42.º - 1. No tribunal criminal das comarcas de Lisboa e Porto, compete:».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 24",
+    "veredicto": "dúvida",
+    "motivo": "6 de 7 parágrafos novos coincidem com diplomas na vista; os restantes não constam de nenhum texto visível (provável DL 202/73 ou 414/73, sem texto na vista), p. ex. «3. Os turnos são suspensos durante as férias judiciais de Verão; nestas férias são distribuídos, em Lisboa e n».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 25",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «3. Para o efeito da organização dos turnos nas férias de Verão, considera-se como fazendo parte do tribunal cr».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 26",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «a) Ao juiz do outro juízo ou ao juiz auxiliar, quando o haja;».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 27",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «b) Os corregedores de cada vara substituem-se reciprocamente; não sendo essa substituição possível ou suficien».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 28",
+    "veredicto": "dúvida",
+    "motivo": "1 de 3 parágrafos novos coincidem com diplomas na vista; os restantes não constam de nenhum texto visível (provável DL 202/73 ou 414/73, sem texto na vista), p. ex. «d) Como presidente do tribunal colectivo, os juízes dos juízos cíveis são substituídos pela forma estabelecida».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 29",
+    "veredicto": "dúvida",
+    "motivo": "1 de 8 parágrafos novos coincidem com diplomas na vista; os restantes não constam de nenhum texto visível (provável DL 202/73 ou 414/73, sem texto na vista), p. ex. «b) Os corregedores dos juízos criminais e os juízes dos juízos correccionais são substituídos conforme o dispo».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 30",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Art. 51.º - 1. Verificando-se em algum caso concreto inconveniente grave na aplicação das regras de substituiç».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 31",
+    "veredicto": "certo",
+    "motivo": "Todo o texto novo coincide letra a letra com DL 47691 (diploma alterador na vista); o resto é igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 32",
+    "veredicto": "certo",
+    "motivo": "Todo o texto novo coincide letra a letra com DL 47691 (diploma alterador na vista); o resto é igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 33",
+    "veredicto": "certo",
+    "motivo": "Todo o texto novo coincide letra a letra com DL 47691 (diploma alterador na vista); o resto é igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 34",
+    "veredicto": "certo",
+    "motivo": "Todo o texto novo coincide letra a letra com DL 47691 (diploma alterador na vista); o resto é igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 35",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «2. Logo que seja concluída a instrução, os processos referidos na alínea b) do número anterior sobem oficiosam».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 36",
+    "veredicto": "certo",
+    "motivo": "Todo o texto novo coincide letra a letra com DL 281/71 (diploma alterador na vista); o resto é igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 37",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «a) Os secretários são escolhidos de entre diplomados com curso superior adequado ou o arquivista-caixa da câma».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 38",
+    "veredicto": "dúvida",
+    "motivo": "1 de 2 parágrafos novos coincidem com diplomas na vista; os restantes não constam de nenhum texto visível (provável DL 202/73 ou 414/73, sem texto na vista), p. ex. «c) O arquivista-caixa, de entre os indivíduos habilitados com o curso geral dos liceus e os escriturários-dact».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 39",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Art. 96.º - 1. Aos agentes orientadores do tribunal de execução das penas incumbe a realização de inquéritos o».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 40",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «2. Nos juízos de polícia e nos juízos de instrução criminal não há férias judiciais, sem prejuízo do direito a».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 41",
+    "veredicto": "certo",
+    "motivo": "Todo o texto novo coincide letra a letra com DL 47691 (diploma alterador na vista); o resto é igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 42",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «2. Os juízes do Supremo têm o título de conselheiro, os das Relações o de desembargador e os juízes de direito».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 43",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «4. Aos juízes na situação de licença ilimitada não é permitido invocar ou usar essa qualidade em quaisquer mei».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 44",
+    "veredicto": "certo",
+    "motivo": "Todo o texto novo coincide letra a letra com DL 46140 (diploma alterador na vista); o resto é igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 45",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «4. Os juízes das Relações, quando transferidos ou reassumam funções no termo de comissão de serviço, receberão».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 46",
+    "veredicto": "certo",
+    "motivo": "Todo o texto novo coincide letra a letra com DL 281/71 (diploma alterador na vista); o resto é igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 47",
+    "veredicto": "certo",
+    "motivo": "Todo o texto novo coincide letra a letra com DL 633/75 (diploma alterador na vista); o resto é igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 48",
+    "veredicto": "certo",
+    "motivo": "Todo o texto novo coincide letra a letra com DL 633/75 (diploma alterador na vista); o resto é igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 49",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Art. 133.º Além das incompatibilidades e inibições fixadas na legislação geral, os juízes na efectividade de s».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 50",
+    "veredicto": "certo",
+    "motivo": "Todo o texto novo coincide letra a letra com DL 281/71 (diploma alterador na vista); o resto é igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 51",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «a) Residir fora da sua circunscrição judicial, podendo fazê-lo em qualquer ponto dentro da área da comarca que».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 52",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «h) Exercer funções arbitrais que lhes não caibam por disposição legal, salvo tendo sido previamente autorizado».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 53",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «3. No caso de um juiz ser nomeado para um grupo de comarcas, nos termos do n.º 3 do artigo 26.º, ao Conselho S».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 54",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «2. Quando a urgência não permita a obtenção prévia de autorização, cumpre aos magistrados comunicá-la imediata».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 55",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «2. Os juízes que perfaçam dez anos de bom e efectivo serviço na mesma classe da 1.ª instância ou na 2.ª instân».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 56",
+    "veredicto": "certo",
+    "motivo": "Todo o texto novo coincide letra a letra com DL 281/71 (diploma alterador na vista); o resto é igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 57",
+    "veredicto": "certo",
+    "motivo": "Todo o texto novo coincide letra a letra com DL 281/71 (diploma alterador na vista); o resto é igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 58",
+    "veredicto": "certo",
+    "motivo": "Todo o texto novo coincide letra a letra com DL 281/71 (diploma alterador na vista); o resto é igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 59",
+    "veredicto": "certo",
+    "motivo": "Todo o texto novo coincide letra a letra com DL 281/71 (diploma alterador na vista); o resto é igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 60",
+    "veredicto": "certo",
+    "motivo": "Todo o texto novo coincide letra a letra com DL 281/71 (diploma alterador na vista); o resto é igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 61",
+    "veredicto": "certo",
+    "motivo": "Todo o texto novo coincide letra a letra com DL 281/71 (diploma alterador na vista); o resto é igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 62",
+    "veredicto": "certo",
+    "motivo": "Todo o texto novo coincide letra a letra com DL 281/71 (diploma alterador na vista); o resto é igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 63",
+    "veredicto": "certo",
+    "motivo": "Todo o texto novo coincide letra a letra com DL 281/71 (diploma alterador na vista); o resto é igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 64",
+    "veredicto": "certo",
+    "motivo": "Todo o texto novo coincide letra a letra com DL 44959 (diploma alterador na vista); o resto é igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 65",
+    "veredicto": "certo",
+    "motivo": "Todo o texto novo coincide letra a letra com DL 281/71 (diploma alterador na vista); o resto é igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 66",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Art. 167.º - 1. Enquanto o Ministério da Justiça, através dos serviços competentes, não construir casas de ren».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 67",
+    "veredicto": "dúvida",
+    "motivo": "2 de 3 parágrafos novos coincidem com diplomas na vista; os restantes não constam de nenhum texto visível (provável DL 202/73 ou 414/73, sem texto na vista), p. ex. «3. As dúvidas que se suscitem sobre o quantitativo das rendas e as condições de habitabilidade das casas e suf».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 68",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Art. 169.º - 1. Logo que o magistrado for habitar a casa receberá por inventário, de um representante da câmar».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 69",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «d) Autorizar o Ministério Público a confessar, transigir ou desistir, mesmo da instância, nas causas cíveis em».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 70",
+    "veredicto": "certo",
+    "motivo": "Todo o texto novo coincide letra a letra com DL 47691 (diploma alterador na vista); o resto é igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 71",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «a) No Supremo Tribunal de Justiça, pelo procurador-geral da República ou pelo seu ajudante que for designado;».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 72",
+    "veredicto": "dúvida",
+    "motivo": "1 de 5 parágrafos novos coincidem com diplomas na vista; os restantes não constam de nenhum texto visível (provável DL 202/73 ou 414/73, sem texto na vista), p. ex. «Art. 178.º - 1. Nos tribunais de comarca haverá um delegado do procurador da República por cada juízo.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 73",
+    "veredicto": "dúvida",
+    "motivo": "1 de 2 parágrafos novos coincidem com diplomas na vista; os restantes não constam de nenhum texto visível (provável DL 202/73 ou 414/73, sem texto na vista), p. ex. «Art. 183.º - 1. Junto dos círculos judiciais, a substituição do adjunto do procurador da República compete ao ».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 74",
+    "veredicto": "certo",
+    "motivo": "Todo o texto novo coincide letra a letra com DL 281/71 (diploma alterador na vista); o resto é igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 75",
+    "veredicto": "dúvida",
+    "motivo": "2 de 3 parágrafos novos coincidem com diplomas na vista; os restantes não constam de nenhum texto visível (provável DL 202/73 ou 414/73, sem texto na vista), p. ex. «5. Na falta de delegado, ou no caso de impedimento superior a trinta dias, pode o lugar ser provido interiname».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 76",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «l) A instauração das acções necessárias à declaração da inexistência ou à dissolução das sociedades que se ten».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 77",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «e) Quando entenda dever intentar acções, assumir a representação de incapazes ou equiparados em quaisquer proc».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 78",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «3. Quando intervier como parte principal ou acessória, o Ministério Público tem sempre vista nos processos em ».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 79",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «2. Se a lei não regular expressamente a forma e os termos da intervenção, o Ministério Público deve, na 1.ª in».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 80",
+    "veredicto": "dúvida",
+    "motivo": "2 de 5 parágrafos novos coincidem com diplomas na vista; os restantes não constam de nenhum texto visível (provável DL 202/73 ou 414/73, sem texto na vista), p. ex. «Art. 190.º - 1. Logo que estejam empossados, os magistrados do Ministério Público remeterão um exemplar do ter».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 81",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «3. Para o bom desempenho das funções consultivas serão organizados na Procuradoria-Geral os convenientes regis».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 82",
+    "veredicto": "dúvida",
+    "motivo": "1 de 2 parágrafos novos coincidem com diplomas na vista; os restantes não constam de nenhum texto visível (provável DL 202/73 ou 414/73, sem texto na vista), p. ex. «6. A Imprensa Nacional-Casa da Moeda fornecerá gratuitamente à Procuradoria-Geral da República um exemplar das».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 83",
+    "veredicto": "certo",
+    "motivo": "Todo o texto novo coincide letra a letra com DL 47691 (diploma alterador na vista); o resto é igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 84",
+    "veredicto": "certo",
+    "motivo": "Todo o texto novo coincide letra a letra com DL 369-A/75 (diploma alterador na vista); o resto é igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 85",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «b) Quatro são os procuradores da República junto das Relações;».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 86",
+    "veredicto": "certo",
+    "motivo": "Todo o texto novo coincide letra a letra com DL 369-A/75, DL 281/71 (diploma alterador na vista); o resto é igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 87",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «3. Quando se trate de magistrados judiciais, a comissão poderá manter-se, não obstante a sua promoção a juízes».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 88",
+    "veredicto": "certo",
+    "motivo": "Todo o texto novo coincide letra a letra com DL 609/74 (diploma alterador na vista); o resto é igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 89",
+    "veredicto": "certo",
+    "motivo": "Todo o texto novo coincide letra a letra com DL 369-A/75 (diploma alterador na vista); o resto é igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 90",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «4. Quando as necessidades de serviço o exijam, pode o Ministro da Justiça, sob proposta do procurador-geral, r».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 91",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Art. 218.º Para a execução dos serviços a que se acha adstrita, compete à secretaria:».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 92",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «d) Registar e arquivar as consultas, resoluções e mais trabalhos que devam ser expedidos ou que para o seu exp».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 93",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «f) Organizar e manter o arquivo e a biblioteca da Procuradoria-Geral, sob a orientação técnica do bibliotecári».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 94",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Art. 219.º - 1. A secretaria enviará à Secretaria-Geral do Ministério da Justiça, a fim de serem integrados na».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 95",
+    "veredicto": "certo",
+    "motivo": "Todo o texto novo coincide letra a letra com DL 369-A/75 (diploma alterador na vista); o resto é igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 96",
+    "veredicto": "certo",
+    "motivo": "Todo o texto novo coincide letra a letra com DL 369-A/75 (diploma alterador na vista); o resto é igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 97",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Art. 224.º - 1. As procuradorias da República junto das Relações são dirigidas por um ajudante do procurador-g».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 98",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «f) Fornecer à Procuradoria-Geral, a respeito dos seus adjuntos, delegados e subdelegados, informações anuais d».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 99",
+    "veredicto": "dúvida",
+    "motivo": "2 de 6 parágrafos novos coincidem com diplomas na vista; os restantes não constam de nenhum texto visível (provável DL 202/73 ou 414/73, sem texto na vista), p. ex. «h) Dar posse aos seus adjuntos e aos delegados e subdelegados da comarca sede da Relação.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 100",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «b) Assumir, sempre que o entenda conveniente e com a anuência do procurador da República, a representação do M».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 101",
+    "veredicto": "certo",
+    "motivo": "Todo o texto novo coincide letra a letra com DL 46140 (diploma alterador na vista); o resto é igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 102",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «h) Prestar serviço de turno na procuradoria de que dependam e assegurar a substituição do respectivo procurado».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 103",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Art. 229.º Nos círculos judiciais onde prestam serviço compete aos adjuntos as funções discriminadas nas alíne».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 104",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «3. Para coadjuvar os delegados do procurador da República no desempenho das atribuições referidas no n.º 1 pod».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 105",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Art. 233.º - 1. Os delegados são nomeados de entre os indivíduos que não tenham ainda completado 35 anos de id».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 106",
+    "veredicto": "certo",
+    "motivo": "Todo o texto novo coincide letra a letra com DL 46140 (diploma alterador na vista); o resto é igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 107",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Art. 239.º Sob proposta do procurador-geral da República, o Ministro da Justiça determinará quais os registos ».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 108",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «2. Quando hajam de ser vendidos bens móveis ou imóveis em processos nos quais sejam exequentes ou tenham recla».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 109",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Art. 247.º - 1. Os subdelegados são nomeados de preferência entre licenciados em Direito ou alunos dos cursos ».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 110",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «3. Nas comarcas de Lisboa e Porto, o número de subdelegados é o constante do mapa anexo a este diploma, compet».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 111",
+    "veredicto": "certo",
+    "motivo": "Todo o texto novo coincide letra a letra com DL 281/71 (diploma alterador na vista); o resto é igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 112",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «2. Quando seja de prever que o impedimento se prolongue, abrir-se-á concurso para provimento interino. Mas, se».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 113",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «3. A licença para férias dos funcionários das secretarias dos tribunais só pode ser utilizada, embora interpol».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 114",
+    "veredicto": "certo",
+    "motivo": "Todo o texto novo coincide letra a letra com DL 47139 (diploma alterador na vista); o resto é igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 115",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «b) Velar pelo cumprimento dos deveres dos funcionários, superintender nos serviços de conservação, arrumação, ».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 116",
+    "veredicto": "certo",
+    "motivo": "Todo o texto novo coincide letra a letra com DL 281/71 (diploma alterador na vista); o resto é igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 117",
+    "veredicto": "certo",
+    "motivo": "Todo o texto novo coincide letra a letra com DL 281/71 (diploma alterador na vista); o resto é igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 118",
+    "veredicto": "certo",
+    "motivo": "Todo o texto novo coincide letra a letra com DL 281/71 (diploma alterador na vista); o resto é igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 119",
+    "veredicto": "certo",
+    "motivo": "Todo o texto novo coincide letra a letra com DL 281/71 (diploma alterador na vista); o resto é igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 120",
+    "veredicto": "certo",
+    "motivo": "Todo o texto novo coincide letra a letra com DL 31/77 (diploma alterador na vista); o resto é igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 121",
+    "veredicto": "dúvida",
+    "motivo": "11 de 13 parágrafos novos coincidem com diplomas na vista; os restantes não constam de nenhum texto visível (provável DL 202/73 ou 414/73, sem texto na vista), p. ex. «e) Organizar os trabalhos de estatística que hajam de ser efectuados pela repartição administrativa;».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 122",
+    "veredicto": "certo",
+    "motivo": "Todo o texto novo coincide letra a letra com DL 31/77, DL 281/71 (diploma alterador na vista); o resto é igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 123",
+    "veredicto": "certo",
+    "motivo": "Todo o texto novo coincide letra a letra com DL 281/71 (diploma alterador na vista); o resto é igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 124",
+    "veredicto": "certo",
+    "motivo": "Todo o texto novo coincide letra a letra com DL 281/71 (diploma alterador na vista); o resto é igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 125",
+    "veredicto": "certo",
+    "motivo": "Todo o texto novo coincide letra a letra com DL 281/71 (diploma alterador na vista); o resto é igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 126",
+    "veredicto": "certo",
+    "motivo": "Todo o texto novo coincide letra a letra com DL 281/71 (diploma alterador na vista); o resto é igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 127",
+    "veredicto": "certo",
+    "motivo": "Todo o texto novo coincide letra a letra com DL 281/71 (diploma alterador na vista); o resto é igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 128",
+    "veredicto": "certo",
+    "motivo": "Todo o texto novo coincide letra a letra com DL 281/71 (diploma alterador na vista); o resto é igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 129",
+    "veredicto": "certo",
+    "motivo": "Todo o texto novo coincide letra a letra com DL 281/71 (diploma alterador na vista); o resto é igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 130",
+    "veredicto": "certo",
+    "motivo": "Todo o texto novo coincide letra a letra com DL 281/71 (diploma alterador na vista); o resto é igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 131",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Art. 317.º - 1. Aos chefes de secretaria dos juízos dos tribunais criminais compete também a movimentação dos ».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 132",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «3. A distribuição dos serviços referida no n.º 1 poderá ser alterada pelo presidente do tribunal criminal.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 133",
+    "veredicto": "certo",
+    "motivo": "Todo o texto novo coincide letra a letra com DL 281/71 (diploma alterador na vista); o resto é igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 134",
+    "veredicto": "certo",
+    "motivo": "Todo o texto novo coincide letra a letra com DL 281/71 (diploma alterador na vista); o resto é igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 135",
+    "veredicto": "certo",
+    "motivo": "Todo o texto novo coincide letra a letra com DL 281/71 (diploma alterador na vista); o resto é igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 136",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Art. 331.º - 1. Além das incompatibilidades e inibições fixadas na lei geral, os lugares das secretarias judic».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 137",
+    "veredicto": "certo",
+    "motivo": "Todo o texto novo coincide letra a letra com DL 47691 (diploma alterador na vista); o resto é igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 138",
+    "veredicto": "dúvida",
+    "motivo": "1 de 4 parágrafos novos coincidem com diplomas na vista; os restantes não constam de nenhum texto visível (provável DL 202/73 ou 414/73, sem texto na vista), p. ex. «Art. 337.º - 1. Os lugares de contador e de escrivão do Supremo e das Relações são providos em chefes de secre».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 139",
+    "veredicto": "certo",
+    "motivo": "Todo o texto novo coincide letra a letra com DL 281/71 (diploma alterador na vista); o resto é igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 140",
+    "veredicto": "certo",
+    "motivo": "Todo o texto novo coincide letra a letra com DL 45/77, DL 201/76, DL 281/71 (diploma alterador na vista); o resto é igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 141",
+    "veredicto": "dúvida",
+    "motivo": "1 de 2 parágrafos novos coincidem com diplomas na vista; os restantes não constam de nenhum texto visível (provável DL 202/73 ou 414/73, sem texto na vista), p. ex. «Art. 346.º O provimento dos lugares de escriturário-dactilógrafo, telefonista, contínuo, correio, oficial port».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 142",
+    "veredicto": "certo",
+    "motivo": "Todo o texto novo coincide letra a letra com DL 281/71 (diploma alterador na vista); o resto é igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 143",
+    "veredicto": "certo",
+    "motivo": "Todo o texto novo coincide letra a letra com DL 281/71 (diploma alterador na vista); o resto é igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 144",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «2. Os funcionários de justiça podem ser destacados para a Polícia Judiciária, em comissão e além do quadro, po».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 145",
+    "veredicto": "certo",
+    "motivo": "Todo o texto novo coincide letra a letra com DL 47691 (diploma alterador na vista); o resto é igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 146",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «e) Ter efectuado o depósito a que se refere o artigo seguinte.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 147",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «3. O disposto no n.º 1 entende-se sem prejuízo do regime constante dos artigos 1.º e 2.º do [Decreto-Lei n.º 4».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 148",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Art. 370.º - 1. Os membros do júri têm direito à gratificação, livre de descontos, que for fixada por despacho».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 149",
+    "veredicto": "certo",
+    "motivo": "Todo o texto novo coincide letra a letra com DL 130/75 (diploma alterador na vista); o resto é igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 150",
+    "veredicto": "certo",
+    "motivo": "Todo o texto novo coincide letra a letra com DL 130/75 (diploma alterador na vista); o resto é igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 151",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «3. O concurso para escrivão de direito pode ser antecipado logo que estejam colocados todos os concorrentes ap».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 152",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «2. São também admitidos como concorrentes voluntários os diplomados em Direito com informação final universitá».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 153",
+    "veredicto": "certo",
+    "motivo": "Todo o texto novo coincide letra a letra com DL 575/74 (diploma alterador na vista); o resto é igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 154",
+    "veredicto": "certo",
+    "motivo": "Todo o texto novo coincide letra a letra com DL 130/75 (diploma alterador na vista); o resto é igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 155",
+    "veredicto": "certo",
+    "motivo": "Todo o texto novo coincide letra a letra com DL 130/75 (diploma alterador na vista); o resto é igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 156",
+    "veredicto": "certo",
+    "motivo": "Todo o texto novo coincide letra a letra com DL 130/75 (diploma alterador na vista); o resto é igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 157",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «2. O júri, quando reconheça especiais qualidades em algum candidato excluído, poderá recomendar a sua manutenç».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 158",
+    "veredicto": "certo",
+    "motivo": "Todo o texto novo coincide letra a letra com DL 575/74, DL 130/75, DL 281/71 (diploma alterador na vista); o resto é igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 159",
+    "veredicto": "certo",
+    "motivo": "Todo o texto novo coincide letra a letra com DL 281/71 (diploma alterador na vista); o resto é igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 160",
+    "veredicto": "certo",
+    "motivo": "Todo o texto novo coincide letra a letra com DL 281/71 (diploma alterador na vista); o resto é igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 161",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Art. 396.º - 1. Aos concursos para solicitador encartado são admitidos os requerentes que satisfaçam os requis».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 162",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «b) Ter tirocinado com um solicitador que exerça a profissão há mais de cinco anos, com bom aproveitamento e as».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 163",
+    "veredicto": "dúvida",
+    "motivo": "1 de 2 parágrafos novos coincidem com diplomas na vista; os restantes não constam de nenhum texto visível (provável DL 202/73 ou 414/73, sem texto na vista), p. ex. «3. Podem também ser admitidos os requerentes que, não satisfazendo aos requisitos das alíneas a) e b) do n.º 1».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 164",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Art. 400.º - 1. O Conselho Superior Judiciário é constituído por um presidente, que é o presidente do Supremo ».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 165",
+    "veredicto": "certo",
+    "motivo": "Todo o texto novo coincide letra a letra com DL 353/75 (diploma alterador na vista); o resto é igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 166",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «c) Fixar os critérios gerais a que devem obedecer as inspecções, inquéritos e sindicâncias, expedir as instruç».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 167",
+    "veredicto": "certo",
+    "motivo": "Todo o texto novo coincide letra a letra com DL 201/76 (diploma alterador na vista); o resto é igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 168",
+    "veredicto": "certo",
+    "motivo": "Todo o texto novo coincide letra a letra com DL 201/76 (diploma alterador na vista); o resto é igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 169",
+    "veredicto": "certo",
+    "motivo": "Todo o texto novo coincide letra a letra com DL 201/76 (diploma alterador na vista); o resto é igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 170",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «i) Promover reuniões de inspectores, a fim de se assentar em critérios uniformes e objectivos de apreciação e ».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 171",
+    "veredicto": "certo",
+    "motivo": "Todo o texto novo coincide letra a letra com DL 281/71 (diploma alterador na vista); o resto é igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 172",
+    "veredicto": "dúvida",
+    "motivo": "1 de 2 parágrafos novos coincidem com diplomas na vista; os restantes não constam de nenhum texto visível (provável DL 202/73 ou 414/73, sem texto na vista), p. ex. «3. Quando as necessidades do serviço o exijam, pode o Conselho contratar, para além do quadro, o pessoal indis».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 173",
+    "veredicto": "certo",
+    "motivo": "Todo o texto novo coincide letra a letra com DL 47139 (diploma alterador na vista); o resto é igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 174",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «6. Os candidatos aos concursos de habilitação para juiz de direito, ao comparecerem à primeira das provas prát».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 175",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «c) Dos fardamentos e transportes, incluindo bilhetes de assinatura em transportes colectivos, aos contínuos;».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 176",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «2. Os magistrados em serviço nas ilhas adjacentes há mais de dezoito meses têm preferência para a colocação no».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 177",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «a) Se encontrem no quinto superior da escala de antiguidade da respectiva classe;».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 178",
+    "veredicto": "dúvida",
+    "motivo": "1 de 6 parágrafos novos coincidem com diplomas na vista; os restantes não constam de nenhum texto visível (provável DL 202/73 ou 414/73, sem texto na vista), p. ex. «Art. 433.º - 1. Os corregedores e os juízes de quaisquer círculos, tribunais, varas ou juízos, os adjuntos do ».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 179",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «r) Instalação, arrumação e estado de asseio, conservação e segurança do tribunal e das casas dos magistrados;».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 180",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Art. 446.º - 1. Os inspectores devem ouvir os magistrados e funcionários sobre todas as faltas ou procedimento».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 181",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «5. O quarto capítulo, subdividido em três secções, versará os méritos e deméritos dos juízes, magistrados do M».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 182",
+    "veredicto": "certo",
+    "motivo": "Todo o texto novo coincide letra a letra com DL 201/76 (diploma alterador na vista); o resto é igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 183",
+    "veredicto": "certo",
+    "motivo": "Todo o texto novo coincide letra a letra com DL 487/70 (diploma alterador na vista); o resto é igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 184",
+    "veredicto": "certo",
+    "motivo": "Todo o texto novo coincide letra a letra com DL 201/76 (diploma alterador na vista); o resto é igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 185",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «4. Multa de 100$00 a 10000$00;».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 186",
+    "veredicto": "certo",
+    "motivo": "Todo o texto novo coincide letra a letra com DL 201/76 (diploma alterador na vista); o resto é igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 187",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «2. As penas específicas de multa por infracções cometidas simultaneamente ou sucessivamente são acumuláveis, m».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 188",
+    "veredicto": "certo",
+    "motivo": "Todo o texto novo coincide letra a letra com DL 201/76 (diploma alterador na vista); o resto é igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 189",
+    "veredicto": "dúvida",
+    "motivo": "2 de 3 parágrafos novos coincidem com diplomas na vista; os restantes não constam de nenhum texto visível (provável DL 202/73 ou 414/73, sem texto na vista), p. ex. «2. O Supremo Conselho Disciplinar é constituído por todos os membros do Conselho Superior Judiciário e pelos c».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 190",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «5. Não estão compreendidos nas proibições dos números anteriores:».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 191",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Art. 614.º - 1. O Conselho Geral tem a sede em Lisboa e é constituído pelo presidente e onze membros, dos quai».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 192",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Art. 616.º - 1. São quatro os conselho distritais e correspondem a outros tantos distritos forenses: o de Lisb».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 193",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Art. 672.º - 1. Na primeira semana de cada trimestre devem as secretarias dos conselhos disciplinares da Ordem».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 194",
+    "veredicto": "dúvida",
+    "motivo": "2 de 4 parágrafos novos coincidem com diplomas na vista; os restantes não constam de nenhum texto visível (provável DL 202/73 ou 414/73, sem texto na vista), p. ex. «2. O quadro de solicitadores nas comarcas do continente e ilhas adjacentes é de quatro nas comarcas de 1.ª cla».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 195",
+    "veredicto": "certo",
+    "motivo": "Todo o texto novo coincide letra a letra com DL 47139 (diploma alterador na vista); o resto é igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 196",
+    "veredicto": "dúvida",
+    "motivo": "1 de 2 parágrafos novos coincidem com diplomas na vista; os restantes não constam de nenhum texto visível (provável DL 202/73 ou 414/73, sem texto na vista), p. ex. «Art. 688.º - 1. É permitida a permuta entre solicitadores encartados e bem assim a sua transferência de uma co».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 197",
+    "veredicto": "dúvida",
+    "motivo": "1 de 4 parágrafos novos coincidem com diplomas na vista; os restantes não constam de nenhum texto visível (provável DL 202/73 ou 414/73, sem texto na vista), p. ex. «Art. 691.º - 1. Nas comarcas. onde não esteja completo, pode o quadro de solicitadores ser completado com soli».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 198",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Art. 693.º - 1. Podem ser nomeados definitivamente, preenchendo vaga, os solicitadores provisionários cuja nom».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 199",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Art. 721.º - 1. A câmara tem uma secção na sede de cada um dos distritos judiciais do Porto, Coimbra e Évora, ».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 200",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Art. 723.º As secções usarão a denominação de Câmara dos Solicitadores, Secção de ... (Porto, Coimbra ou Évora».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 201",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Presidente e 18 juízes conselheiros.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 202",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Presidente e 24 juízes desembargadores.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 203",
+    "veredicto": "dúvida",
+    "motivo": "1 de 5 parágrafos novos coincidem com diplomas na vista; os restantes não constam de nenhum texto visível (provável DL 202/73 ou 414/73, sem texto na vista), p. ex. «Presidente e 18 juízes desembargadores.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 204",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «[Artigos 175.º, n.os 1, alíneas c), d) e f) 2 e 3 178.º, n.º 2, 224.º, n.º 1, e 247.º, n.º 3]».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 205",
+    "veredicto": "dúvida",
+    "motivo": "Só há remoção ou mudança de maiúsculas/grafia; nenhum diploma com texto na vista dá a instrução (provável DL 202/73 ou 414/73, sem texto na vista).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 206",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «De 1.ª classe: Almada, Caldas da Rainha, Cascais, Funchal, Lisboa, Oeiras, Ponta Delgada, Santarém, Sintra, To».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 207",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «De 1.ª classe: Barcelos, Braga, Bragança, Guimarães, Oliveira de Azeméis, Ovar, Porto, Santo Tirso, Viana do C».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 208",
+    "veredicto": "dúvida",
+    "motivo": "1 de 9 parágrafos novos coincidem com diplomas na vista; os restantes não constam de nenhum texto visível (provável DL 202/73 ou 414/73, sem texto na vista), p. ex. «De 1.ª classe: Aveiro, Coimbra, Covilhã, Figueira da Foz, Guarda, Leiria, Pombal e Viseu.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 209",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «(Artigo 2.ª, n.º 4)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 210",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Comarcas: Almada e Seixal.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 211",
+    "veredicto": "dúvida",
+    "motivo": "2 de 7 parágrafos novos coincidem com diplomas na vista; os restantes não constam de nenhum texto visível (provável DL 202/73 ou 414/73, sem texto na vista), p. ex. «Comarcas: Águeda, Anadia, Aveiro e Vagos.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 212",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Comarcas: Beja, Cuba, Ferreira do Alentejo, Mértola, Moura,».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 213",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Comarcas: Amares, Braga, Póvoa de Lanhoso, Vieira do Minho, Vila Nova de Famalicão e Vila Verde.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 214",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Comarcas: Bragança, Carrazeda de Ansiães, Macedo de Cavaleiros, Miranda do Douro, Mirandela, Mogadouro, Moncor».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 215",
+    "veredicto": "dúvida",
+    "motivo": "1 de 2 parágrafos novos coincidem com diplomas na vista; os restantes não constam de nenhum texto visível (provável DL 202/73 ou 414/73, sem texto na vista), p. ex. «Comarcas: Caldas da Rainha, Lourinhã, Rio Maior e Torres Vedras.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 216",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Comarcas: Castelo Branco, Covilhã, Fundão, Idanha-a-Nova e Sertã.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 217",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Comarcas: Arganil, Coimbra, Condeixa-a-Nova, Lousa, Oliveira do Hospital, Penacova e Tábua.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 218",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Comarcas: Arraiolos, Coruche, Estremoz, Évora, Montemor-o-Novo, Redondo, Reguengos de Monsaraz e Vila Viçosa.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 219",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Comarcas: Faro, Loulé, Olhão, Tavira e Vila Real de Santo António.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 220",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Comarcas: Ansião, Cantanhede, Figueira da Foz, Montemor-o-Velho, Pombal e Soure.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 221",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Comarcas: Funchal, Ponta do Sol, Santa Cruz e S. Vicente.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 222",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Comarcas: Almeida, Celorico da Beira, Figueira de Castelo Rodrigo, Gouveia, Guarda, Meda, Pinhel, Sabugal, Sei».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 223",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Comarcas: Amarante, Cabeceiras de Basto, Celorico de Basto, Fafe, Felgueiras, Guimarães e Lousada.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 224",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Comarcas: Armamar, Baião, Cinfães, Lamego, Marco de Canaveses, Moimenta da Beira, Penafiel, Peso da Régua, Res».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 225",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Comarcas: Alcobaça, Leiria, Marinha Grande e Porto de Mós.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 226",
+    "veredicto": "dúvida",
+    "motivo": "3 de 10 parágrafos novos coincidem com diplomas na vista; os restantes não constam de nenhum texto visível (provável DL 202/73 ou 414/73, sem texto na vista), p. ex. «Comarcas: Cascais e Oeiras.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 227",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Sede em Ponta Delgada».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 228",
+    "veredicto": "dúvida",
+    "motivo": "1 de 4 parágrafos novos coincidem com diplomas na vista; os restantes não constam de nenhum texto visível (provável DL 202/73 ou 414/73, sem texto na vista), p. ex. «Comarcas: Abrantes, Castelo de Vide, Elvas, Fronteira, Mação, Nisa, Ponte de Sor e Portalegre.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 229",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Comarcas: Matosinhos, Paços de Ferreira, Paredes e Santo Tirso.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 230",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Comarcas: Benavente, Cartaxo e Santarém.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 231",
+    "veredicto": "dúvida",
+    "motivo": "1 de 4 parágrafos novos coincidem com diplomas na vista; os restantes não constam de nenhum texto visível (provável DL 202/73 ou 414/73, sem texto na vista), p. ex. «Comarcas: Alcácer do Sal, Grândola e Setúbal.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 232",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Comarcas: Arcos de Valdevez, Caminha, Melgaço, Monção, Paredes de Coura, Ponte da Barca, Ponte de Lima, Valenç».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 233",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Comarcas: Espinho, Ovar, Vila da Feira e Vila Nova de Gaia.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 234",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Comarcas: Alijó, Boticas, Chaves, Montalegre, Murça, Valpaços, Vila Pouca de Aguiar e Vila Real.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 235",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Comarcas: Castro Daire, Mangualde, Oliveira de Frades, Santa Comba Dão, S. Pedro do Sul, Sátão, Tondela, Viseu».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 236",
+    "veredicto": "certo",
+    "motivo": "Todo o texto novo coincide letra a letra com DL 325/74 (diploma alterador na vista); o resto é igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 237",
+    "veredicto": "dúvida",
+    "motivo": "35 de 78 parágrafos novos coincidem com diplomas na vista; os restantes não constam de nenhum texto visível (provável DL 202/73 ou 414/73, sem texto na vista), p. ex. «A) Segundo-vogal dos tribunais colectivos nas comarcas dos círculos judiciais».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 238",
+    "veredicto": "dúvida",
+    "motivo": "7 de 11 parágrafos novos coincidem com diplomas na vista; os restantes não constam de nenhum texto visível (provável DL 202/73 ou 414/73, sem texto na vista), p. ex. «10.º Juízo - os juízes dos 11.º e 12.º Juízos.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 239",
+    "veredicto": "dúvida",
+    "motivo": "5 de 29 parágrafos novos coincidem com diplomas na vista; os restantes não constam de nenhum texto visível (provável DL 202/73 ou 414/73, sem texto na vista), p. ex. «7.º Juízo - os juízes do Tribunal de Execução das Penas e do Tribunal de Recurso das Avaliações.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 240",
+    "veredicto": "dúvida",
+    "motivo": "3 de 5 parágrafos novos coincidem com diplomas na vista; os restantes não constam de nenhum texto visível (provável DL 202/73 ou 414/73, sem texto na vista), p. ex. «Com três juízos: Coimbra e Funchal.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 241",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «(Artigo 6.º, n.º 2)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 242",
+    "veredicto": "dúvida",
+    "motivo": "1 de 4 parágrafos novos coincidem com diplomas na vista; os restantes não constam de nenhum texto visível (provável DL 202/73 ou 414/73, sem texto na vista), p. ex. «6 varas cíveis e 13 juízos cíveis.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 243",
+    "veredicto": "dúvida",
+    "motivo": "Só há remoção ou mudança de maiúsculas/grafia; nenhum diploma com texto na vista dá a instrução (provável DL 202/73 ou 414/73, sem texto na vista).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 244",
+    "veredicto": "dúvida",
+    "motivo": "1 de 3 parágrafos novos coincidem com diplomas na vista; os restantes não constam de nenhum texto visível (provável DL 202/73 ou 414/73, sem texto na vista), p. ex. «2 juízos criminais, 5 juízos correccionais, 2 juízos de polícia e 4 juízos de instrução criminal.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 245",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «A) Comarcas».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 246",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Distrito judicial - Évora.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 247",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Gavião.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 248",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Círculo judicial - Oliveira de Azeméis.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 249",
+    "veredicto": "dúvida",
+    "motivo": "1 de 7 parágrafos novos coincidem com diplomas na vista; os restantes não constam de nenhum texto visível (provável DL 202/73 ou 414/73, sem texto na vista), p. ex. «Albufeira (3.ª classe):».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 250",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Distrito judicial - Évora.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 251",
+    "veredicto": "dúvida",
+    "motivo": "Só há remoção ou mudança de maiúsculas/grafia; nenhum diploma com texto na vista dá a instrução (provável DL 202/73 ou 414/73, sem texto na vista).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 252",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Alenquer (2.ª classe):».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 253",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Círculo judicial - Lisboa (3.º círculo).».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 254",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Almada (1.ª classe):».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 255",
+    "veredicto": "dúvida",
+    "motivo": "3 de 15 parágrafos novos coincidem com diplomas na vista; os restantes não constam de nenhum texto visível (provável DL 202/73 ou 414/73, sem texto na vista), p. ex. «Almeida (3.ª classe):».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 256",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Círculo judicial - Aveiro.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 257",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Antes, Barcouço, Casal Comba, Luso, Mealhada, Pampilhosa, Vacariça e Ventosa do Bairro.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 258",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Círculo judicial - Figueira da Foz.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 259",
+    "veredicto": "dúvida",
+    "motivo": "Só há remoção ou mudança de maiúsculas/grafia; nenhum diploma com texto na vista dá a instrução (provável DL 202/73 ou 414/73, sem texto na vista).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 260",
+    "veredicto": "dúvida",
+    "motivo": "Só há remoção ou mudança de maiúsculas/grafia; nenhum diploma com texto na vista dá a instrução (provável DL 202/73 ou 414/73, sem texto na vista).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 261",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Anceriz, Arganil, Barril de Alva, Benfeita, Celavisa, Cepos, Cerdeira, Coja, Folques, Moura da Serra, Piódão, ».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 262",
+    "veredicto": "dúvida",
+    "motivo": "1 de 9 parágrafos novos coincidem com diplomas na vista; os restantes não constam de nenhum texto visível (provável DL 202/73 ou 414/73, sem texto na vista), p. ex. «Armamar (3.ª classe):».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 263",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Círculo judicial - Oliveira de Azeméis.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 264",
+    "veredicto": "dúvida",
+    "motivo": "Só há remoção ou mudança de maiúsculas/grafia; nenhum diploma com texto na vista dá a instrução (provável DL 202/73 ou 414/73, sem texto na vista).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 265",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Distrito judicial - Évora.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 266",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Arada, Cacia, Eirol, Eixo, Esgueira, Glória, Nariz, Oliveirinha, Requeixo, S. Bernardo, S. Jacinto e Vera Cruz».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 267",
+    "veredicto": "dúvida",
+    "motivo": "Só há remoção ou mudança de maiúsculas/grafia; nenhum diploma com texto na vista dá a instrução (provável DL 202/73 ou 414/73, sem texto na vista).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 268",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Círculo judicial - Barcelos.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 269",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Beja (1.ª classe):».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 270",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Distrito judicial - Évora.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 271",
+    "veredicto": "dúvida",
+    "motivo": "7 de 17 parágrafos novos coincidem com diplomas na vista; os restantes não constam de nenhum texto visível (provável DL 202/73 ou 414/73, sem texto na vista), p. ex. «Aljustrel e Ervidel.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 272",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Bragança (1.ª classe):».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 273",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Âncora, Arga de Baixo e Arga de Cima, Arga de S. João, Argela, Azevedo, Caminha (Matriz), Cristelo, Dem, Gonda».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 274",
+    "veredicto": "dúvida",
+    "motivo": "1 de 8 parágrafos novos coincidem com diplomas na vista; os restantes não constam de nenhum texto visível (provável DL 202/73 ou 414/73, sem texto na vista), p. ex. «Carrazeda de Ansiães (3.ª classe):».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 275",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Castelo Branco (1.ª classe):».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 276",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Distrito judicial - Évora.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 277",
+    "veredicto": "dúvida",
+    "motivo": "1 de 7 parágrafos novos coincidem com diplomas na vista; os restantes não constam de nenhum texto visível (provável DL 202/73 ou 414/73, sem texto na vista), p. ex. «Castelo de Paiva (3.ª classe):».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 278",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Distrito judicial - Évora.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 279",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Águas Frias, Anelhe, Arcossó, Bobadela, Bustelo, Calvão, Cela, Chaves, Cimo de Vila da Castanheira, Curalha, E».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 280",
+    "veredicto": "dúvida",
+    "motivo": "1 de 7 parágrafos novos coincidem com diplomas na vista; os restantes não constam de nenhum texto visível (provável DL 202/73 ou 414/73, sem texto na vista), p. ex. «Condeixa-a-Nova (3.ª classe):».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 281",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Distrito judicial - Évora.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 282",
+    "veredicto": "dúvida",
+    "motivo": "2 de 3 parágrafos novos coincidem com diplomas na vista; os restantes não constam de nenhum texto visível (provável DL 202/73 ou 414/73, sem texto na vista), p. ex. «Covilhã (1.ª classe):».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 283",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Aldeia do Carvalho, Aldeia de S. Francisco de Assis, Aldeia do Souto, Barco, Boidobra, Casegas, Cortes do Meio».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 284",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Distrito judicial - Évora.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 285",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Elvas (2.ª classe):».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 286",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Distrito judicial - Évora.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 287",
+    "veredicto": "dúvida",
+    "motivo": "1 de 7 parágrafos novos coincidem com diplomas na vista; os restantes não constam de nenhum texto visível (provável DL 202/73 ou 414/73, sem texto na vista), p. ex. «Espinho (3.ª classe):».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 288",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Círculo judicial - Barcelos.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 289",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Estarreja (2.ª classe):».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 290",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Distrito judicial - Coimbra.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 291",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Évora (1.ª classe):».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 292",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Distrito judicial - Évora.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 293",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Faro (1.ª classe):».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 294",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Distrito judicial - Évora.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 295",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Felgueiras (2.ª classe):».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 296",
+    "veredicto": "dúvida",
+    "motivo": "2 de 16 parágrafos novos coincidem com diplomas na vista; os restantes não constam de nenhum texto visível (provável DL 202/73 ou 414/73, sem texto na vista), p. ex. «Ferreira do Alentejo (3.ª classe):».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 297",
+    "veredicto": "dúvida",
+    "motivo": "Só há remoção ou mudança de maiúsculas/grafia; nenhum diploma com texto na vista dá a instrução (provável DL 202/73 ou 414/73, sem texto na vista).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 298",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Círculo judicial - Tomar.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 299",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Distrito judicial - Évora.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 300",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Distrito judicial - Évora.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 301",
+    "veredicto": "dúvida",
+    "motivo": "1 de 8 parágrafos novos coincidem com diplomas na vista; os restantes não constam de nenhum texto visível (provável DL 202/73 ou 414/73, sem texto na vista), p. ex. «Grândola (3.ª classe):».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 302",
+    "veredicto": "dúvida",
+    "motivo": "Só há remoção ou mudança de maiúsculas/grafia; nenhum diploma com texto na vista dá a instrução (provável DL 202/73 ou 414/73, sem texto na vista).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 303",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Distrito judicial - Évora.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 304",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Distrito judicial - Évora.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 305",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Distrito judicial - Coimbra.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 306",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Dálvares, Gouviães, Tarouca e Várzea da Serra.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 307",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Amor, Arrabal, Azoia, Bajouca, Barosa, Barreira, Boa Vista, Caranguejeira, Carvide, Coimbrão, Colmeias, Cortes».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 308",
+    "veredicto": "dúvida",
+    "motivo": "Só há remoção ou mudança de maiúsculas/grafia; nenhum diploma com texto na vista dá a instrução (provável DL 202/73 ou 414/73, sem texto na vista).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 309",
+    "veredicto": "certo",
+    "motivo": "Todo o texto novo coincide letra a letra com DL 47691 (diploma alterador na vista); o resto é igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 310",
+    "veredicto": "certo",
+    "motivo": "Todo o texto novo coincide letra a letra com DL 47691 (diploma alterador na vista); o resto é igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 311",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Distrito judicial - Évora.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 312",
+    "veredicto": "dúvida",
+    "motivo": "6 de 7 parágrafos novos coincidem com diplomas na vista; os restantes não constam de nenhum texto visível (provável DL 202/73 ou 414/73, sem texto na vista), p. ex. «Círculo judicial - Lisboa (2.º círculo).».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 313",
+    "veredicto": "dúvida",
+    "motivo": "1 de 11 parágrafos novos coincidem com diplomas na vista; os restantes não constam de nenhum texto visível (provável DL 202/73 ou 414/73, sem texto na vista), p. ex. «Mação (3.ª classe):».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 314",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Mafra (2.ª classe):».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 315",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Circulo judicial - Lisboa (2.º círculo).».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 316",
+    "veredicto": "dúvida",
+    "motivo": "2 de 14 parágrafos novos coincidem com diplomas na vista; os restantes não constam de nenhum texto visível (provável DL 202/73 ou 414/73, sem texto na vista), p. ex. «Marinha Grande (3.ª classe):».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 317",
+    "veredicto": "dúvida",
+    "motivo": "Só há remoção ou mudança de maiúsculas/grafia; nenhum diploma com texto na vista dá a instrução (provável DL 202/73 ou 414/73, sem texto na vista).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 318",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Distrito judicial - Évora.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 319",
+    "veredicto": "dúvida",
+    "motivo": "Só há remoção ou mudança de maiúsculas/grafia; nenhum diploma com texto na vista dá a instrução (provável DL 202/73 ou 414/73, sem texto na vista).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 320",
+    "veredicto": "dúvida",
+    "motivo": "1 de 7 parágrafos novos coincidem com diplomas na vista; os restantes não constam de nenhum texto visível (provável DL 202/73 ou 414/73, sem texto na vista), p. ex. «Moita (3.ª classe):».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 321",
+    "veredicto": "dúvida",
+    "motivo": "Só há remoção ou mudança de maiúsculas/grafia; nenhum diploma com texto na vista dá a instrução (provável DL 202/73 ou 414/73, sem texto na vista).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 322",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Distrito judicial - Évora.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 323",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Do concelho de Vendas Novas:».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 324",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Distrito judicial - Évora.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 325",
+    "veredicto": "dúvida",
+    "motivo": "Só há remoção ou mudança de maiúsculas/grafia; nenhum diploma com texto na vista dá a instrução (provável DL 202/73 ou 414/73, sem texto na vista).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 326",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Distrito judicial - Évora.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 327",
+    "veredicto": "dúvida",
+    "motivo": "1 de 7 parágrafos novos coincidem com diplomas na vista; os restantes não constam de nenhum texto visível (provável DL 202/73 ou 414/73, sem texto na vista), p. ex. «Murça (3.ª classe):».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 328",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Distrito judicial - Évora.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 329",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Distrito judicial - Évora.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 330",
+    "veredicto": "dúvida",
+    "motivo": "5 de 7 parágrafos novos coincidem com diplomas na vista; os restantes não constam de nenhum texto visível (provável DL 202/73 ou 414/73, sem texto na vista), p. ex. «Oeiras (1.ª classe):».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 331",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Distrito judicial - Évora.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 332",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Oliveira de Azeméis (1.ª classe):».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 333",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Círculo judicial - Oliveira de Azeméis.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 334",
+    "veredicto": "dúvida",
+    "motivo": "Só há remoção ou mudança de maiúsculas/grafia; nenhum diploma com texto na vista dá a instrução (provável DL 202/73 ou 414/73, sem texto na vista).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 335",
+    "veredicto": "dúvida",
+    "motivo": "Só há remoção ou mudança de maiúsculas/grafia; nenhum diploma com texto na vista dá a instrução (provável DL 202/73 ou 414/73, sem texto na vista).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 336",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Círculo judicial - Coimbra.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 337",
+    "veredicto": "dúvida",
+    "motivo": "Só há remoção ou mudança de maiúsculas/grafia; nenhum diploma com texto na vista dá a instrução (provável DL 202/73 ou 414/73, sem texto na vista).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 338",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Distrito judicial - Évora.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 339",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Ovar (1.ª classe):».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 340",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Círculo judicial - Vila da Feira.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 341",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Paredes (2.ª classe):».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 342",
+    "veredicto": "dúvida",
+    "motivo": "1 de 9 parágrafos novos coincidem com diplomas na vista; os restantes não constam de nenhum texto visível (provável DL 202/73 ou 414/73, sem texto na vista), p. ex. «Penacova (3.ª classe):».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 343",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Pombal (1.ª classe):».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 344",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Arrifes, Bretanha, Candelária, Capelas, Fajã de Baixo, Fajã de Cima, Fenais da Luz, Feteiras, Ginetes, Mosteir».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 345",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Lagoa (Nossa Senhora do Rosário), Lagoa (Santa Cruz) e Ribeira Chã.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 346",
+    "veredicto": "dúvida",
+    "motivo": "1 de 7 parágrafos novos coincidem com diplomas na vista; os restantes não constam de nenhum texto visível (provável DL 202/73 ou 414/73, sem texto na vista), p. ex. «Ponte da Barca (3.ª classe):».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 347",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Distrito judicial - Évora.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 348",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Portalegre (1.ª classe):».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 349",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Distrito judicial - Évora.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 350",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Distrito judicial - Évora.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 351",
+    "veredicto": "dúvida",
+    "motivo": "Só há remoção ou mudança de maiúsculas/grafia; nenhum diploma com texto na vista dá a instrução (provável DL 202/73 ou 414/73, sem texto na vista).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 352",
+    "veredicto": "dúvida",
+    "motivo": "Só há remoção ou mudança de maiúsculas/grafia; nenhum diploma com texto na vista dá a instrução (provável DL 202/73 ou 414/73, sem texto na vista).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 353",
+    "veredicto": "dúvida",
+    "motivo": "Só há remoção ou mudança de maiúsculas/grafia; nenhum diploma com texto na vista dá a instrução (provável DL 202/73 ou 414/73, sem texto na vista).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 354",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Círculo judicial - Barcelos.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 355",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Distrito judicial - Évora.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 356",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Distrito judicial - Évora.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 357",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Distrito judicial - Coimbra.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 358",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Calhetas, Fenais da Ajuda, Lomba da Maia, Maia, Pico da Pedra, Porto Formoso, Rabo de Peixe, Ribeira Grande (C».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 359",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Rio Maior (2.ª classe):».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 360",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Santiago do Cacém (2.ª classe):».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 361",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Distrito judicial - Évora.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 362",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Santo Tirso (1.ª classe):».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 363",
+    "veredicto": "dúvida",
+    "motivo": "1 de 7 parágrafos novos coincidem com diplomas na vista; os restantes não constam de nenhum texto visível (provável DL 202/73 ou 414/73, sem texto na vista), p. ex. «S. João da Madeira (3.ª classe):».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 364",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Distrito judicial - Coimbra.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 365",
+    "veredicto": "dúvida",
+    "motivo": "Só há remoção ou mudança de maiúsculas/grafia; nenhum diploma com texto na vista dá a instrução (provável DL 202/73 ou 414/73, sem texto na vista).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 366",
+    "veredicto": "dúvida",
+    "motivo": "Só há remoção ou mudança de maiúsculas/grafia; nenhum diploma com texto na vista dá a instrução (provável DL 202/73 ou 414/73, sem texto na vista).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 367",
+    "veredicto": "dúvida",
+    "motivo": "1 de 9 parágrafos novos coincidem com diplomas na vista; os restantes não constam de nenhum texto visível (provável DL 202/73 ou 414/73, sem texto na vista), p. ex. «Sátão (3.ª classe):».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 368",
+    "veredicto": "dúvida",
+    "motivo": "8 de 9 parágrafos novos coincidem com diplomas na vista; os restantes não constam de nenhum texto visível (provável DL 202/73 ou 414/73, sem texto na vista), p. ex. «Seixal (2.ª classe):».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 369",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Distrito judicial - Évora.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 370",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Alvito da Beira, Montes da Senhora, Peral, Proença-a-Nova e Sobreira Formosa.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 371",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Distrito judicial - Évora.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 372",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Distrito judicial - Évora.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 373",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Sintra (1.ª classe):».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 374",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Círculo judicial - Lisboa (2.º círculo).».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 375",
+    "veredicto": "dúvida",
+    "motivo": "1 de 7 parágrafos novos coincidem com diplomas na vista; os restantes não constam de nenhum texto visível (provável DL 202/73 ou 414/73, sem texto na vista), p. ex. «Tábua (3.ª classe):».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 376",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Distrito judicial - Coimbra.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 377",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Distrito judicial - Évora.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 378",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Círculo judicial - Tomar.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 379",
+    "veredicto": "dúvida",
+    "motivo": "Só há remoção ou mudança de maiúsculas/grafia; nenhum diploma com texto na vista dá a instrução (provável DL 202/73 ou 414/73, sem texto na vista).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 380",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Barreiro de Besteiros, Campo de Besteiros, Canas de Santa Maria, Caparrosa, Castelões, Dardavaz, Ferreirós do ».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 381",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Círculo judicial - Tomar.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 382",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Calvão, Covão do Lobo, Fonte de Angeão, Gafanha da Boa Hora, Ouca e Ponte de Vagos.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 383",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Do concelho de Oliveira do Bairro:».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 384",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Afife, Alvarães, Amonde, Anha, Areosa, Barroselas, Cardielos, Carreço, Carvoeiro, Castelo do Neiva, Darque, De».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 385",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Do concelho da Vila da Feira:».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 386",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Círculo judicial - Barcelos.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 387",
+    "veredicto": "dúvida",
+    "motivo": "Só há remoção ou mudança de maiúsculas/grafia; nenhum diploma com texto na vista dá a instrução (provável DL 202/73 ou 414/73, sem texto na vista).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 388",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Vila Franca de Xira (1.ª classe):».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 389",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Círculo judicial - Lisboa (3.º círculo).».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 390",
+    "veredicto": "certo",
+    "motivo": "Todo o texto novo coincide letra a letra com DL 46140 (diploma alterador na vista); o resto é igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 391",
+    "veredicto": "certo",
+    "motivo": "Todo o texto novo coincide letra a letra com DL 46140 (diploma alterador na vista); o resto é igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 392",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Círculo judicial - Braga.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 393",
+    "veredicto": "dúvida",
+    "motivo": "2 de 14 parágrafos novos coincidem com diplomas na vista; os restantes não constam de nenhum texto visível (provável DL 202/73 ou 414/73, sem texto na vista), p. ex. «Vila Nova de Foz Côa (3.ª classe).:».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 394",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Círculo judicial - Tomar.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 395",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Alburitel, Atouguia, Casal dos Bernardos, Caxarias, Espite, Fátima, Formigais, Freixianda, Gondemaria, Olival,».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 396",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Distrito judicial - Évora.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 397",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Distrito judicial - Évora.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 398",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Vouzela (3.ª classe):».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 399",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Do concelho de Vouzela:».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 400",
+    "veredicto": "dúvida",
+    "motivo": "Só há remoção ou mudança de maiúsculas/grafia; nenhum diploma com texto na vista dá a instrução (provável DL 202/73 ou 414/73, sem texto na vista).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 401",
+    "veredicto": "dúvida",
+    "motivo": "Só há remoção ou mudança de maiúsculas/grafia; nenhum diploma com texto na vista dá a instrução (provável DL 202/73 ou 414/73, sem texto na vista).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 402",
+    "veredicto": "dúvida",
+    "motivo": "Só há remoção ou mudança de maiúsculas/grafia; nenhum diploma com texto na vista dá a instrução (provável DL 202/73 ou 414/73, sem texto na vista).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 403",
+    "veredicto": "dúvida",
+    "motivo": "Só há remoção ou mudança de maiúsculas/grafia; nenhum diploma com texto na vista dá a instrução (provável DL 202/73 ou 414/73, sem texto na vista).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 404",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Nordeste:».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 405",
+    "veredicto": "dúvida",
+    "motivo": "O texto novo não consta de nenhum diploma com texto na vista (provável DL 202/73 ou 414/73, sem texto), p. ex. «Achada, Achadinha, Lomba da Fazenda, Nordeste, Nordestinho e Santana.».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 406",
+    "veredicto": "dúvida",
+    "motivo": "Só há remoção ou mudança de maiúsculas/grafia; nenhum diploma com texto na vista dá a instrução (provável DL 202/73 ou 414/73, sem texto na vista).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 407",
+    "veredicto": "dúvida",
+    "motivo": "Só há remoção ou mudança de maiúsculas/grafia; nenhum diploma com texto na vista dá a instrução (provável DL 202/73 ou 414/73, sem texto na vista).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 408",
+    "veredicto": "dúvida",
+    "motivo": "1 de 5 parágrafos novos coincidem com diplomas na vista; os restantes não constam de nenhum texto visível (provável DL 202/73 ou 414/73, sem texto na vista), p. ex. «Porto Santo:».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 409",
+    "veredicto": "dúvida",
+    "motivo": "Só há remoção ou mudança de maiúsculas/grafia; nenhum diploma com texto na vista dá a instrução (provável DL 202/73 ou 414/73, sem texto na vista).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 410",
+    "veredicto": "dúvida",
+    "motivo": "Só há remoção ou mudança de maiúsculas/grafia; nenhum diploma com texto na vista dá a instrução (provável DL 202/73 ou 414/73, sem texto na vista).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 411",
+    "veredicto": "certo",
+    "motivo": "Todo o texto novo coincide letra a letra com DL 281/71 (diploma alterador na vista); o resto é igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 412",
+    "veredicto": "certo",
+    "motivo": "Todo o texto novo coincide letra a letra com DL 281/71, DL 369-A/75, DL 31/77 (diploma alterador na vista); o resto é igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 413",
+    "veredicto": "certo",
+    "motivo": "Todo o texto novo coincide letra a letra com DL 281/71 (diploma alterador na vista); o resto é igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 414",
+    "veredicto": "certo",
+    "motivo": "Todo o texto novo coincide letra a letra com DL 281/71, DL 31/77 (diploma alterador na vista); o resto é igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 415",
+    "veredicto": "certo",
+    "motivo": "Todo o texto novo coincide letra a letra com DL 281/71 (diploma alterador na vista); o resto é igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 416",
+    "veredicto": "certo",
+    "motivo": "Todo o texto novo coincide letra a letra com DL 281/71 (diploma alterador na vista); o resto é igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 417",
+    "veredicto": "certo",
+    "motivo": "Todo o texto novo coincide letra a letra com DL 281/71 (diploma alterador na vista); o resto é igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 418",
+    "veredicto": "certo",
+    "motivo": "Todo o texto novo coincide letra a letra com DL 281/71 (diploma alterador na vista); o resto é igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 419",
+    "veredicto": "certo",
+    "motivo": "Todo o texto novo coincide letra a letra com DL 281/71 (diploma alterador na vista); o resto é igual ao original.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [
+   "DL 487/70, art. 2.º (art. 20.º, n.os 3 e 4 do Estatuto: juízes além do quadro nas Relações, comissão de um ano e colocação final como inspector judicial): o n.º 4 não existe no consolidado e o n.º 3 do consolidado (Trecho 9) tem redação diferente da do diploma (quinto em vez de terço superior); não se confirma por nenhum diploma com texto na vista.",
+   "DL 487/70, art. 5.º, mapa VIII, comarca de Cascais (2.ª classe), círculo judicial - 1.º círculo de Lisboa: alvo incerto; o consolidado não tem entrada de Cascais no mapa VIII (só tem Cascais nos mapas III, IV, V, VI e IX).",
+   "Não verificável: cerca de 190 alteradores (portarias de aumento de quadros ao abrigo dos arts. 251.º, n.º 2, e 318.º, DL 217/77, Portaria 1054/81) vêm com o texto omitido na vista, só com uma nota de triagem prévia; não se pode confirmar que não alterem o texto."
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 202/73 (revisão da organização judiciária), DL 414/73 e Rectificação ao DL 202/73 (art. 7.º, n.º 1; art. 19.º/art. 616.º, n.º 1; mapa VIII Murça, Ponte da Barca, Vagos)",
+    "motivo": "O diploma que altera não traz o texto na vista (DL 202/73 e 414/73 sem artigos); a rectificação visa a redação do DL 202/73, não o original."
+   },
+   {
+    "instrucao": "DL 44959, art. 2.º (art. 2.º do DL 30545)",
+    "motivo": "Instrução de outro diploma; confirmado no texto do art. 2.º do DL 44959."
+   },
+   {
+    "instrucao": "DL 47139, arts. 4.º a 8.º (quadro de inspectores da PJ, Regulamento dos Serviços de Identificação, DL 38386, quadro de telefonistas)",
+    "motivo": "Dirigidas a outros diplomas ou disposições próprias; confirmado no texto do DL 47139."
+   },
+   {
+    "instrucao": "DL 696/73, arts. 4.º a 6.º (art. 8.º do Código das Custas Judiciais, isenção de preparos, fiança)",
+    "motivo": "Instrução de outro diploma; confirmado no texto do DL 696/73."
+   },
+   {
+    "instrucao": "DL 609/74, art. 1.º (arts. 7.º, 8.º e 11.º do DL 40768) e arts. 2.º a 4.º, 6.º, 7.º",
+    "motivo": "Instrução de outro diploma ou disposição própria; confirmado no texto do DL 609/74."
+   },
+   {
+    "instrucao": "DL 201/76, arts. 2.º a 4.º (art. 23.º do DL 35007, revogação do art. 28.º do DL 35007, art. 51.º do CPC)",
+    "motivo": "Instrução de outro diploma; confirmado no texto do DL 201/76."
+   },
+   {
+    "instrucao": "DL 281/71, art. 9.º, mapa anexo ao DL 44288",
+    "motivo": "Instrução de outro diploma; confirmado no texto do art. 9.º do DL 281/71."
+   },
+   {
+    "instrucao": "DL 31/77, art. 2.º, mapa IX, Relação de Évora, Repartição Judicial ('...')",
+    "motivo": "O diploma que altera não traz o texto da alteração (reticências); a Repartição Administrativa de Évora foi aplicada."
+   },
+   {
+    "instrucao": "DL 25/2009 (comarcas piloto)",
+    "motivo": "Outro diploma: o texto na vista não menciona o Estatuto Judiciário nem o DL 44278."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "Epígrafe do Capítulo IV do Título III passou a «Disposições especiais relativas aos concursos para escrivão de direito» (confirmado no DL 281/71); mais nada fora dos artigos verificado."
+ }
+]

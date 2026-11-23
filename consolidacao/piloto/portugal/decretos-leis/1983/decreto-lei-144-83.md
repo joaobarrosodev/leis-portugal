@@ -7,15 +7,21 @@ consolidacao:
     sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
-  - id: pt:dre:328376:por
-    title: Decreto-Lei n.º 32/85
-    publication_date: '1985-01-28'
+  - id: pt:dre:326170:por
+    title: Declaração
+    publication_date: '1983-04-30'
+  - id: pt:dre:522842:por
+    title: Decreto-Lei n.º 129/98
+    publication_date: '1998-05-13'
+  - id: pt:dre:610474:por
+    title: Decreto-Lei n.º 42/89
+    publication_date: '1989-02-03'
+  - id: pt:dre:443133:por
+    title: Decreto-Lei n.º 425/83
+    publication_date: '1983-12-06'
   - id: pt:dre:245342:por
     title: Decreto-Lei n.º 235-A/83
     publication_date: '1983-06-01'
-  - id: pt:dre:443147:por
-    title: Decreto-Lei n.º 433/83
-    publication_date: '1983-12-17'
   titulos_normalizados: artigos em texto corrido no original, com título pelo parser
     da fase 3
 ---
@@ -60,63 +66,27 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ###### Artigo 1.º
 
-O Registo Nacional de Pessoas Colectivas é um instituto dotado de personalidade jurídica que tem como principais atribuições identificar as pessoas colectivas e entidades equiparadas, inscrever a sua constituição, modificação e dissolução no ficheiro central de pessoas colectivas e providenciar pelo respeito dos princípios da exclusividade, verdade e unidade das respectivas firmas e denominações.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 129/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-1998-522842), publicado em 1998-05-13.
 
 ###### Artigo 2.º
 
-Para os efeitos do presente diploma, consideram-se entidades equiparadas a pessoas colectivas.
+(Revogado.)
 
-a) As entidades que, prosseguindo objectivos próprios e actividades diferenciadas das dos seus sócios ou membros, não sejam dotadas de personalidade jurídica;
-
-b) As entidades a que a lei confira personalidade jurídica após o respectivo processo de formação, entre o momento em que tiverem iniciado esse processo e aquele em que o houverem terminado;
-
-c) Os organismos e serviços da Administração Pública não personalizados que constituam uma unidade organizativa e funcional;
-
-d) As heranças jacentes e as indivisas, quando o autor da sucessão fosse empresário em nome individual;
-
-e) Os empresários em nome individual.
-
-> Alterado pelo/a [Decreto-Lei n.º 32/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-1985-328376), publicado em 1985-01-28.
+> Revogado pelo/a [Decreto-Lei n.º 42/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1989-610474), publicado em 1989-02-03.
 
 ###### Artigo 3.º
 
-São considerados empresários em nome individual:
+(Revogado.)
 
-a) Os empresários singulares nos termos da legislação comercial;
-
-b) Os industriais por contra própria;
-
-c) Os produtores que, por contra própria e com fim lucrativo, estabeleçam e mantenham explorações agrícolas, silvícolas ou pecuárias;
-
-d) Os agentes que desenvolvam uma actividade económica intermédia entre a produção e o consumo, organizada com fim lucrativo, sem vínculo de subordinação jurídica.
+> Revogado pelo/a [Decreto-Lei n.º 42/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1989-610474), publicado em 1989-02-03.
 
 ###### Artigo 4.º
 
-1 - Para o exercício das suas atribuições compete ao Registo Nacional de Pessoas Colectivas, designadamente:
+(Revogado.)
 
-a) Estudar, planear e coordenar as tarefas necessárias à identificação das pessoas colectivas e entidades equiparadas e dos estabelecimentos económicos;
-
-b) Organizar, manter e explorar o ficheiro central de pessoas colectivas;
-
-c) Velar pela exactidão e actualidade da informação contida no ficheiro central de pessoas colectivas, promovendo as necessárias acções de correcção;
-
-d) Promover a anotação no ficheiro central de pessoas colectivas dos actos de constituição, modificação e dissolução das pessoas colectivas e, na medida do aplicável, das entidades equiparadas;
-
-e) Emitir cartões de identificação de pessoas colectivas, de entidades equiparadas e de estabelecimentos;
-
-f) Velar pelo respeito da exclusividade e verdade das firmas e denominações, bem como das demais formas de individualizar as pessoas colectivas e as entidades equiparadas;
-
-g) Emitir certidões comprovativas da admissibilidade dos distintivos referidos na alínea anterior;
-
-h) Propor e promover, em coordenação com as demais entidades competentes, a manutenção e desenvolvimento de uma concorrência leal no que esta depender do registo e uso de firmas ou denominações e nomes dos estabelecimentos;
-
-i) Aplicar sanções ou promover o procedimento adequado nos termos das disposições legais aplicáveis;
-
-j) Promover as acções necessárias à coordenação dos ficheiros automatizados de pessoas colectivas, entidades equiparadas e estabelecimentos a cargo do sector público administrativo, em termos de se evitarem duplicações de esforços;
-
-l) Assegurar, em coordenação com as demais entidades competentes, a participação portuguesa em reuniões internacionais sobre matérias da sua competência.
-
-2 - A identificação de pessoas colectivas e entidades equiparadas compete em exclusivo ao Registo Nacional de Pessoas Colectivas.
+> Revogado pelo/a [Decreto-Lei n.º 129/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-1998-522842), publicado em 1998-05-13.
 
 ### CAPÍTULO II — Do ficheiro central de pessoas colectivas
 
@@ -124,709 +94,545 @@ l) Assegurar, em coordenação com as demais entidades competentes, a participa�
 
 ###### Artigo 5.º
 
-1 - O ficheiro central de pessoas colectivas abrange:
+(Revogado.)
 
-a) As associações, fundações, sociedades, agrupamentos complementares de empresas, cooperativas, empresas públicas e quaisquer outros entes colectivos personalizados, nacionais, internacionais ou estrangeiros, que exerçam actividade em Portugal;
-
-b) As representações de entes colectivos personalizados internacionais ou estrangeiros que, exerçam actividade em Portugal;
-
-c) As entidades equiparadas a pessoas colectivas como tal definidas no artigo 2.º do presente diploma;
-
-d) As entidades, organismos e serviços cuja inclusão se mostre de interesse, designadamente para efeitos de planeamento económico e social;
-
-e) Os estabelecimentos económicos.
-
-2 - Para efeitos do presente diploma entende-se por estabelecimento a estrutura económica organizativa e funcional que não goze de personalidade jurídica, nomeadamente sucursais, filiais, delegações ou agências, bem como a unidade económica que goze de certa autonomia em relação à sede, nomeadamente mantendo escrita ou clientela próprias.
-
-3 - Não são passíveis de inscrição no ficheiro central de pessoas colectivas pessoas singulares, salvo na qualidade de empresários em nome individual.
+> Revogado pelo/a [Decreto-Lei n.º 42/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1989-610474), publicado em 1989-02-03.
 
 ###### Artigo 6.º
 
-1 - O registo de cada pessoa colectiva deve conter informação sobre:
+(Revogado.)
 
-a) O número de identificação;
-
-b) A firma ou denominação;
-
-c) A localização da sede e o endereço postal;
-
-d) A caracterização jurídica;
-
-e) A actividade principal;
-
-f) A data de constituição e, quando aplicável, da publicação no Diário da República do instrumento de constituição.
-
-2 - Pode ainda ser incluída no registo informação sobre alterações ao instrumento de constituição, actividades económicas acessórias, estabelecimentos, capital social, pessoal ao serviço, datas da escritura notarial e do registo, datas de emissão e validade do cartão de identificação, bem como a referência das fontes em que os diversos elementos foram colhidos.
-
-3 - A falta de algum dos elementos de informação referidos na alínea f) do n.º 1 pode ser dispensada para efeitos de inscrição provisória ou para efeitos de inscrição definitiva, no caso de se mostrar impossível ou inviável a sua obtenção.
+> Revogado pelo/a [Decreto-Lei n.º 42/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1989-610474), publicado em 1989-02-03.
 
 ###### Artigo 7.º
 
-1 - O registo das entidades equiparadas a pessoas colectivas deve conter informação sobre os elementos referidos no artigo anterior na medida do aplicável a cada tipo de entidade.
+(Revogado.)
 
-2 - As datas de constituição e de publicação são substituídas, no caso dos empresários em nome individual, pela indicação do número do bilhete de identidade e da data de nascimento.
-
-3 - No caso das sociedades irregulares e das associações de facto, o registo conterá a indicação do nome e do número do bilhete de identidade dos sócios ou membros, até ao máximo de 5.
+> Revogado pelo/a [Decreto-Lei n.º 42/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1989-610474), publicado em 1989-02-03.
 
 ###### Artigo 8.º
 
-1 - O registo de estabelecimento deve conter informação sobre:
+(Revogado.)
 
-a) O número de identificação;
-
-b) O nome do estabelecimento;
-
-c) A localização e o endereço postal;
-
-d) A actividade económica;
-
-e) O titular do estabelecimento.
-
-2 - Podem ser incluídos no registo elementos relativos a alterações ao nome do estabelecimento, ao titular do mesmo, à validade do cartão de identificação e outros dados que tenham carácter público e ofereçam interesse estatístico ou de planeamento económico, bem como a referência das fontes em que os elementos foram colhidos.
+> Revogado pelo/a [Decreto-Lei n.º 42/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1989-610474), publicado em 1989-02-03.
 
 #### SECÇÃO II — Número de identificação
 
 ###### Artigo 9.º
 
-A cada pessoa colectiva ou entidade equiparada inscrita no ficheiro central de pessoas colectivas é atribuído um número de identificação próprio.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 42/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1989-610474), publicado em 1989-02-03.
 
 ###### Artigo 10.º
 
-1 - O número de identificação das pessoas colectivas e entidades equiparadas é um número sequencial de 9 dígitos; o primeiro deles é diferente para as pessoas colectivas e para as entidades equiparadas e o último representa o dígito de controle de exactidão do número.
+(Revogado.)
 
-2 - O primeiro dígito do número de identificação das entidades equiparadas varia consoante se trate de empresários em nome individual, de organismos da Administração Pública ou de outras entidades equiparadas a pessoas colectivas.
-
-3 - Podem ser usadas faixas numéricas diferentes, correspondentes à área de localização geográfica da sede do titular do registo ou à sua natureza jurídica.
-
-4 - O significado dos dígitos não sequenciais, bem como as faixas numéricas correspondentes a áreas geográficas ou a naturezas jurídicas distintas serão obrigatoriamente objecto de divulgação em portaria do Ministro da Justiça.
+> Revogado pelo/a [Decreto-Lei n.º 42/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1989-610474), publicado em 1989-02-03.
 
 ###### Artigo 11.º
 
-Não podem ser recebidos em organismos da Administração Pública declarações ou requerimentos de pessoas colectivas e de entidades equiparadas, designadamente para efeitos fiscais, estatísticos ou obtenção de quaisquer licenças ou autorizações, sem que deles conste o respectivo número de identificação.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 42/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1989-610474), publicado em 1989-02-03.
 
 ###### Artigo 12.º
 
-1 - Não é permitida a atribuição a pessoa colectiva ou entidade equiparada, por qualquer organismo do sector público, de números susceptíveis de confusão com o número de identificação a que se referem os artigos 9.º e 10.º, designadamente de números, com estrutura ou composição idênticas, quando iniciados pelos dígitos 5 a 9.
+(Revogado.)
 
-2 - Não é permitido o uso de designações tais como número de identificação de pessoa colectiva, número de empresa, número de estabelecimento, ou outra semelhante com carácter de generalidade, para designar número atribuído a pessoas colectivas ou entidades equiparadas por outras entidades que não o Registo Nacional de Pessoas Colectivas.
+> Revogado pelo/a [Decreto-Lei n.º 42/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1989-610474), publicado em 1989-02-03.
 
 ###### Artigo 13.º
 
-1 - À inscrição provisória no ficheiro central de pessoas colectivas corresponde a atribuição de um número provisório de identificação.
+(Revogado.)
 
-2 - Ao número provisório, que não pode manter-se após a inscrição definitiva, deve corresponder uma sequência numérica própria que se não confunda com as reservadas aos números definitivos.
+> Revogado pelo/a [Decreto-Lei n.º 42/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1989-610474), publicado em 1989-02-03.
 
 ###### Artigo 14.º
 
-O número de identificação do estabelecimento corresponde ao número de identificação do respectivo titular, acrescido de 4 dígitos sequenciais.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 42/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1989-610474), publicado em 1989-02-03.
 
 #### SECÇÃO III — Acesso à informação e seu valor
 
 ###### Artigo 15.º
 
-1 - As pessoas colectivas e entidades equiparadas é reconhecido o direito de acesso às informações sobre elas registadas no ficheiro central de pessoas colectivas.
+(Revogado.)
 
-2 - O direito consagrado no número anterior só pode ser exercido:
-
-a) Pelos corpos gerentes da pessoa colectiva;
-
-b) Pelos próprios titulares do registo, no caso de empresários em nome individual;
-
-c) Pelos responsáveis pela direcção e gestão, no caso de outras entidades, organismos ou serviços públicos.
-
-3 - As pessoas singulares têm direito de acesso, nos termos da lei geral, aos dados de carácter pessoal que lhes respeitem.
-
-4 - As condições de acesso serão estabelecidas em portaria do Ministro da Justiça.
+> Revogado pelo/a [Decreto-Lei n.º 42/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1989-610474), publicado em 1989-02-03.
 
 ###### Artigo 16.º
 
-1 - O titular do registo tem o direito de exigir a correcção das informações inexactas e o complemento das total ou parcialmente omissas.
+(Revogado.)
 
-2 - A prova da inexactidão cabe ao titular do registo quando a informação tiver sido fornecida por ele próprio ou com seu consentimento, bem como se não tiver cumprido a obrigação legal de comunicar a alteração.
-
-3 - À correcção ou complemento das informações é aplicável o disposto no n.º 4 do artigo anterior.
+> Revogado pelo/a [Decreto-Lei n.º 42/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1989-610474), publicado em 1989-02-03.
 
 ###### Artigo 17.º
 
-Nas situações previstas no artigo anterior, deve o Registo Nacional de Pessoas Colectivas dar satisfação ao titular do registo ou à pessoa que exerceu o direito de acesso ou comunicar-lhe o que tiver por conveniente no prazo de 30 dias.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 42/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1989-610474), publicado em 1989-02-03.
 
 ###### Artigo 18.º
 
-Têm acesso à informação individualizada contida no ficheiro central de pessoas colectivas:
+(Revogado.)
 
-a) Os magistrados judiciais e do ministério público e as entidades com competência para a acção penal ou de contra-ordenação, desde que os elementos se mostrem necessários à instrução de processos pendentes e não possam ou não devam ser obtidos das pessoas a que respeitam;
-
-b) Os serviços públicos, na medida do necessário para a prossecução das atribuições que lhes forem conferidas por diploma legal.
+> Revogado pelo/a [Decreto-Lei n.º 42/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1989-610474), publicado em 1989-02-03.
 
 ###### Artigo 19.º
 
-1 - Podem ser fornecidas cópias totais ou parcelares do ficheiro central de pessoas colectivas em suporte magnético ou papel, nomeadamente a serviços públicos e a entidades ou organizações sem fim lucrativo, desde que se mostre a sua necessidade para prossecução das suas atribuições legais ou estatutárias ou para efeitos de planeamento económico ou social.
+(Revogado.)
 
-2 - As entidades a quem forem fornecidas cópias totais ou parcelares do ficheiro central de pessoas colectivas, independentemente do suporte utilizado, não as podem ceder directa ou indirectamente a terceiros sem autorização escrita do Registo Nacional de Pessoas Colectivas.
-
-3 - No caso do número anterior, o Registo Nacional de Pessoas Colectivas poderá fixar condições jurídicas ou financeiras de cedência.
-
-4 - O fornecimento de cópias do ficheiro deverá ser recusado, no caso de envolver transmissão de dados pessoais não públicos ou outros legalmente protegidos, se não se mostrar devidamente salvaguardado o respeito pelos princípios legais.
+> Revogado pelo/a [Decreto-Lei n.º 42/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1989-610474), publicado em 1989-02-03.
 
 ###### Artigo 20.º
 
-As informações referidas nos números anteriores são solicitadas em impresso próprio e são fornecidas gratuitamente no caso previsto na alínea a) do n.º 1 do artigo 18.º; nos restantes casos serão fornecidas mediante pagamento de importância proporcional ao custo da sua obtenção.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 42/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1989-610474), publicado em 1989-02-03.
 
 ###### Artigo 21.º
 
-As cópias dos registos informáticos emanadas do Registo Nacional de Pessoas Colectivas é conferido, quando devidamente autenticadas, o valor jurídico que a lei atribui às certidões.
+(Revogado.)
 
-> Alterado pelo/a [Decreto-Lei n.º 32/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-1985-328376), publicado em 1985-01-28.
+> Revogado pelo/a [Decreto-Lei n.º 42/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1989-610474), publicado em 1989-02-03.
 
 ###### Artigo 22.º
 
-1 - As pessoas que a qualquer título prestem serviço no Registo Nacional de Pessoas Colectivas ficam obrigadas a guardar segredo de toda a informação não pública de que tiverem conhecimento por força do exercício das suas funções.
+(Revogado.)
 
-2 - O disposto no número anterior não prejudica a obrigação de serem fornecidas informações nos termos legais.
+> Revogado pelo/a [Decreto-Lei n.º 42/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1989-610474), publicado em 1989-02-03.
 
 ### CAPÍTULO III — Da inscrição no Registo Nacional de Pessoas Colectivas
 
 ###### Artigo 23.º
 
-1 - Estão obrigadas a requerer a sua inscrição no Registo Nacional de Pessoas Colectivas as entidades referidas no artigo 5.º do presente diploma.
+(Revogado.)
 
-2 - O pedido de inscrição das entidades sujeitas a registo comercial efectua-se em simultâneo com o requerimento deste, mediante o preenchimento do modelo de impresso aprovado nos termos do artigo 74.º
-
-> Alterado pelo/a [Decreto-Lei n.º 32/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-1985-328376), publicado em 1985-01-28.
+> Revogado pelo/a [Decreto-Lei n.º 42/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1989-610474), publicado em 1989-02-03.
 
 ###### Artigo 24.º
 
-As pessoas colectivas devem fazer inscrever no Registo Nacional de Pessoas Colectivas os actos e factos seguintes:
+(Revogado.)
 
-a) Constituição;
-
-b) Cisão, fusão ou transformação;
-
-c) Modificação de denominação ou firma;
-
-d) Alteração do objecto ou do capital social;
-
-e) Mudança de localização da sede ou de endereço postal;
-
-f) Cessação de actividade;
-
-g) Dissolução.
+> Revogado pelo/a [Decreto-Lei n.º 42/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1989-610474), publicado em 1989-02-03.
 
 ###### Artigo 25.º
 
-1 - As entidades equiparadas referidas nas alíneas a), b), d), e) e f) do artigo 2.º devem fazer inscrever no Registo Nacional de Pessoas Colectivas, na medida do aplicável, os actos e factos previstos no artigo 24.º
+(Revogado.)
 
-2 - No caso de heranças jacentes ou indivisas deve ficar inscrito, para além da identificação do de cujus, os nomes e os números do bilhete de identidade dos herdeiros ou, tratando-se de herança jacente, daqueles que gozam da prioridade na hierarquia dos sucessíveis.
-
-3 - As sociedades irregulares, as associações de condóminos e quaisquer associações de facto devem fazer inscrever também os nomes e os números do bilhete de identidade dos sócios ou membros.
-
-4 - A inscrição de elementos nos termos dos n.os 2 e 3 pode ser limitada pelo Registo Nacional de Pessoas Colectivas a 5 pessoas.
+> Revogado pelo/a [Decreto-Lei n.º 42/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1989-610474), publicado em 1989-02-03.
 
 ###### Artigo 26.º
 
-As entidades equiparadas referidas na alínea c) do artigo 2.º devem fazer inscrever provisoriamente no Registo Nacional informação sobre a firma ou denominação, o objecto, a caracterização jurídica, o capital social, a localização da sede e o endereço postal.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 42/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1989-610474), publicado em 1989-02-03.
 
 ###### Artigo 27.º
 
-Os empresários em nome individual devem fazer inscrever no Registo Nacional de Pessoas Colectivas a firma, a localização da sede e o endereço postal, as actividades económicas principal e acessórias, o número do bilhete de identidade, bem como as datas de início e cessação de actividades.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 42/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1989-610474), publicado em 1989-02-03.
 
 ###### Artigo 28.º
 
-1 - Os organismos e serviços da Administração Pública a que se refere a alínea d) do artigo 2.º devem fazer inscrever no Registo Nacional de Pessoas Colectivas informação sobre o nome, o endereço postal, as referências do diploma de criação, o tipo de actividade, a inserção hierárquica e a autonomia administrativa ou financeira.
+(Revogado.)
 
-2 - Os organismos e serviços que não constituam uma unidade organizativa e funcional não são passíveis de inscrição no Registo Nacional de Pessoas Colectivas.
+> Revogado pelo/a [Decreto-Lei n.º 42/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1989-610474), publicado em 1989-02-03.
 
 ###### Artigo 29.º
 
-As representações de entes colectivos personalizados internacionais ou estrangeiros que exerçam actividade em Portugal devem fazer inscrever no Registo Nacional de Pessoas Colectivas informação sobre o nome, o endereço postal, o tipo de actividade e a caracterização jurídica, bem como o nome e localização do ente colectivo que representam.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 42/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1989-610474), publicado em 1989-02-03.
 
 ###### Artigo 30.º
 
-Os titulares de estabelecimentos, tal como definidos no n.º 2 do artigo 5.º do presente diploma, devem fazer inscrever no Registo Nacional de Pessoas Colectivas o nome do estabelecimento, a sua localização e endereço postal, a actividade económica, bem como o número de identificação e a firma do titular do estabelecimento.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 42/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1989-610474), publicado em 1989-02-03.
 
 ###### Artigo 31.º
 
-1 - As pessoas colectivas devem inscrever-se definitivamente no Registo Nacional de Pessoas Colectivas no prazo de 3 meses após o completamento das formalidades legais de constituição, salvo o disposto no n.º 2 do artigo 23.º do presente diploma.
+(Revogado.)
 
-2 - As entidades equiparadas referidas nas alíneas a), b) e e) a g) do artigo 2.º do presente diploma devem inscrever-se no Registo Nacional de Pessoas Colectivas no prazo de 30 dias após o início de actividades.
-
-3 - As entidades equiparadas a que se refere a alínea c) do citado artigo 2.º devem inscrever-se provisoriamente no Registo Nacional de Pessoas Colectivas no prazo de 30 dias a contar da data de emissão da certidão de admissibilidade da firma ou denominação.
-
-4 - Os organismos e serviços da Administração Pública devem fazer a sua inscrição no Registo Nacional de Pessoas Colectivas no prazo de 30 dias após a publicação do diploma que os tenha criado.
-
-5 - As representações de entidades estrangeiras ou internacionais devem inscrever-se no prazo de 3 meses após o início das suas actividades em Portugal, ressalvados os casos abrangidos pelo n.º 2 do artigo 23.º do presente decreto-lei.
-
-> Alterado pelo/a [Decreto-Lei n.º 32/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-1985-328376), publicado em 1985-01-28.
+> Revogado pelo/a [Decreto-Lei n.º 42/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1989-610474), publicado em 1989-02-03.
 
 ###### Artigo 32.º
 
-1 - A inscrição no Registo Nacional de Pessoas Colectivas deve ser solicitada em impresso próprio, acompanhado dos documentos de prova necessários.
+(Revogado.)
 
-2 - A definição dos documentos de prova necessários a cada entidade constará de portaria do Ministro da Justiça.
+> Revogado pelo/a [Decreto-Lei n.º 42/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1989-610474), publicado em 1989-02-03.
 
 ###### Artigo 33.º
 
-Em favor de cada entidade inscrita a seu pedido no Registo Nacional de Pessoas Colectivas será emitido um cartão de identificação, nos termos dos artigos 55.º e seguintes, de que constará o correspondente número de identificação.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 42/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1989-610474), publicado em 1989-02-03.
 
 ###### Artigo 34.º
 
-1 - Os serviços públicos por onde corra o expediente relativo à aprovação dos estatutos de pessoas colectivas a quem caiba receber a participação escrita da constituição de pessoas colectivas religiosas ou proceder ao registo de quaisquer pessoas colectivas são obrigados a comunicar ao Registo Nacional de Pessoas Colectivas, no prazo de 30 dias, os actos respeitantes à constituição, cisão, fusão, transformação, modificação ou dissolução de pessoas colectivas.
+(Revogado.)
 
-2 - A mesma obrigação incumbe aos serviços públicos por onde corra o expediente relativo à aprovação dos estatutos das fundações, a quem caiba receber a participação escrita da constituição de pessoas colectivas religiosas ou proceder ao registo de quaisquer pessoas colectivas.
-
-3 - As comunicações referidas nos números anteriores são efectuadas em impresso próprio.
-
-> Alterado pelo/a [Decreto-Lei n.º 32/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-1985-328376), publicado em 1985-01-28.
+> Revogado pelo/a [Decreto-Lei n.º 42/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1989-610474), publicado em 1989-02-03.
 
 ###### Artigo 35.º
 
-1 - Podem ser oficiosamente inscritas no Registo Nacional de Pessoas Colectivas as entidades que não tenham cumprido a obrigação legal de requerer a inscrição e cuja identificação esteja claramente estabelecida.
+(Revogado.)
 
-2 - No caso previsto no número anterior, haverá lugar a atribuição de número de identificação mas não do correspondente cartão.
-
-3 - Após a inscrição oficiosa deve ser promovido o procedimento legal que no caso couber.
+> Revogado pelo/a [Decreto-Lei n.º 42/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1989-610474), publicado em 1989-02-03.
 
 ### CAPÍTULO IV — Do certificado de admissibilidade de firmas e denominações
 
 ###### Artigo 36.º
 
-As firmas e denominações de pessoas colectivas e entidades equiparadas devem respeitar os princípios da exclusividade, da verdade e da unidade, bem como as disposições legais aplicáveis a cada espécie de pessoa colectiva ou entidade equiparada.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 425/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/425-1983-443133), publicado em 1983-12-06.
 
 ###### Artigo 37.º
 
-1 - Não podem ser lavradas escrituras de constituição de pessoas colectivas ou de entidades equiparadas sem a exibição pelos interessados de certificado emitido pelo Registo Nacional de Pessoas Colectivas comprovativo da admissibilidade da respectiva firma ou denominação.
+(Revogado.)
 
-2 - Igualmente não podem ser celebradas escrituras de modificação de firmas ou denominações sem a apresentação do certificado referido no número anterior.
+> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1983-326170), publicado em 1983-04-30.
 
-3 - A alteração do pacto social que determine a alteração do objecto tem de ser sempre acompanhada de certidão comprovativa de admissibilidade da firma ou denominação em atenção ao novo projecto.
-
-4 - O disposto no número anterior não tem aplicação quando a firma seja exclusivamente firma-nome.
-
-> Alterado pelo/a [Decreto-Lei n.º 235-A/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/235-a-1983-245342), publicado em 1983-06-01.
+> Revogado pelo/a [Decreto-Lei n.º 425/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/425-1983-443133), publicado em 1983-12-06.
 
 ###### Artigo 38.º
 
-1 - Não podem ser realizados ou modificados registos provisórios ou definitivos de pessoas colectivas sem a apresentação pelos interessados de certificado emitido pelo Registo Nacional de Pessoas Colectivas comprovativo da admissibilidade da respectiva firma ou denominação.
+(Revogado.)
 
-2 - Não podem igualmente ser recebidos instrumentos ou estatutos em depósito sem a apresentação do certificado referido no número anterior.
+> Revogado pelo/a [Decreto-Lei n.º 425/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/425-1983-443133), publicado em 1983-12-06.
 
 ###### Artigo 39.º
 
-1 - O Estado e outros entes públicos personalizados devem, antes de criar entidades de tipo associativo ou institucional, obter do Registo Nacional de Pessoas Colectivas certidão comprovativa de admissibilidade das respectivas firmas ou denominações.
+(Revogado.)
 
-2 - Em caso de não cumprimento do disposto no número anterior, o Registo Nacional de Pessoas Colectivas inscreverá a respectiva firma ou denominação se for admissível; no caso contrário, comunicará oficiosamente o ocorrido ao Ministro da Justiça, instruindo o processo com justificação da não admissibilidade da firma ou denominação e com as razões que estão na base da necessidade da sua anulação.
+> Revogado pelo/a [Decreto-Lei n.º 425/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/425-1983-443133), publicado em 1983-12-06.
 
 ###### Artigo 40.º
 
-Não poderão igualmente ser celebradas escrituras de transmissão de estabelecimentos ocorridas com a transmissão da firma sem certificado prévio do Registo Nacional de Pessoas Colectivas.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 425/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/425-1983-443133), publicado em 1983-12-06.
 
 ###### Artigo 41.º
 
-1 - Os empresários em nome individual que indiquem na firma o objecto da sua actividade não poderão ser matriculados no registo comercial nem inscritos no Registo Nacional de Pessoas sem prévia apresentação de certificado de Colectivas sem prévia admissibilidade da firma.
+(Revogado.)
 
-2 - A apresentação do certificado referido no número anterior é igualmente acto prévio em relação à emissão de cartão de identificação.
+> Revogado pelo/a [Decreto-Lei n.º 425/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/425-1983-443133), publicado em 1983-12-06.
 
 ###### Artigo 42.º
 
-1 - Não pode ser efectuado registo de nome de estabelecimento sem a apresentação pelos interessados de certificado emitido pelo Registo Nacional de Pessoas Colectivas comprovativo de que não existe registo de firma ou denominação idêntica ou por tal forma semelhante que seja susceptível de confusão ou possa induzir em erro.
+(Revogado.)
 
-2 - Exceptua-se do disposto no número anterior o caso de o proprietário do estabelecimento provar a legitimidade do uso de uma firma ou denominação como nome do estabelecimento ou seu componente.
+> Revogado pelo/a [Decreto-Lei n.º 425/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/425-1983-443133), publicado em 1983-12-06.
 
 ###### Artigo 43.º
 
-1 - A emissão pelo Registo Nacional de Pessoas Colectivas de certificado de admissibilidade de denominação ou firma está condicionada à prévia verificação de que a firma ou denominação:
+(Revogado.)
 
-a) Não é idêntica a outra já registada ou por tal forma semelhante que seja susceptível de confusão ou possa induzir em erro;
-
-b) Respeita ou reflecte adequadamente o objecto da pessoa colectiva ou entidade equiparada nos casos em que tal for exigido por lei ou, nos outros casos, quando não seja enganadora ou susceptível de induzir em erro;
-
-c) Não se destine a ser adoptada por entidade já titular de outra firma ou denominação.
-
-2 - No juízo sobre a admissibilidade das firmas ou denominações, o Registo Nacional de Pessoas Colectivas tomará em consideração o prejuízo que possa eventualmente resultar dessa admissibilidade para os titulares de nome de estabelecimento, de firma ou denominação iguais ou de tal forma semelhantes que possam induzir em erro.
+> Revogado pelo/a [Decreto-Lei n.º 425/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/425-1983-443133), publicado em 1983-12-06.
 
 ###### Artigo 44.º
 
-A emissão de certificado de admissibilidade pode também ser recusada quando o Registo Nacional de Pessoas Colectivas verifique que a firma não dá a conhecer como devia o nome ou nomes de algum ou alguns dos associados, sócios ou membros da pessoa colectiva ou entidade equiparada.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 425/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/425-1983-443133), publicado em 1983-12-06.
 
 ###### Artigo 45.º
 
-Aos critérios relativos à avaliação da identidade e semelhança de firmas e denominações, da susceptibilidade de confusão ou indução em erro, bem como da adequação ao objecto, será dada publicidade em portaria do Ministro da Justiça.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 425/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/425-1983-443133), publicado em 1983-12-06.
 
 ###### Artigo 46.º
 
-1 - O âmbito territorial de aferição da exclusividade das firmas ou denominações é o espaço nacional.
+(Revogado.)
 
-2 - Exceptuam-se do disposto no número anterior as firmas dos empresários em nome individual que não dêem a conhecer a actividade exercida, cujo âmbito territorial é a região administrativa, a não ser que a natureza da actividade exercida e a dimensão da mesma justifiquem um âmbito de aferição superior.
-
-3 - Quando as pessoas colectivas e entidades equiparadas desenvolvam a sua actividade em âmbito territorial circunscrito e não haja probabilidade séria de alargamento do mesmo, o Registo Nacional de Pessoas Colectivas pode, a requerimento da interessada, aferir a exclusividade da firma ou denominação em relação à região administrativa.
+> Revogado pelo/a [Decreto-Lei n.º 425/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/425-1983-443133), publicado em 1983-12-06.
 
 ###### Artigo 47.º
 
-1 - O direito ao uso da firma ou denominação caduca quando a pessoa colectiva ou entidade equiparada modifique o objecto da sua actividade.
+(Revogado.)
 
-2 - O disposto no número anterior não tem aplicação aos empresários em nome individual que utilizem simplesmente firmas-nome.
+> Revogado pelo/a [Decreto-Lei n.º 425/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/425-1983-443133), publicado em 1983-12-06.
 
 ###### Artigo 48.º
 
-Da recusa pelo Registo Nacional de Pessoas Colectivas da emissão de certificado de admissibilidade da firma ou denominação cabe recurso para o tribunal da comarca de Lisboa.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 425/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/425-1983-443133), publicado em 1983-12-06.
 
 #### SECÇÃO II — Processo de emissão de certificado de admissibilidade das firmas e denominações
 
 ###### Artigo 49.º
 
-O certificado de admissibilidade da firma ou denominação deve ser requerido em impresso próprio de que deve constar:
+(Revogado.)
 
-a) No caso da pessoa colectiva ou entidade equiparada de tipo associativo, o nome dos sócios ou membros, até ao máximo de 5; no caso de pessoa colectiva ou entidade equiparada de tipo institucional, o nome dos fundadores ou seus herdeiros ou legatários, até ao máximo de 5;
-
-b) A declaração do objecto;
-
-c) As firmas ou denominações pretendidas em alternativas e por ordem de preferência, até ao máximo de 3;
-
-d) A declaração de que os mesmos sócios ou membros não são no conjunto titulares de outra firma ou denominação.
+> Revogado pelo/a [Decreto-Lei n.º 425/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/425-1983-443133), publicado em 1983-12-06.
 
 ###### Artigo 50.º
 
-1 - O certificado caduca decorridos 120 dias sobre a data da sua emissão.
+(Revogado.)
 
-2 - O certificado pode ser renovado por uma só vez se, até 5 dias antes do termo do prazo de validade, os requerentes provarem ter sido efectuado o registo provisório ou lavrada a escritura de constituição.
-
-3 - A renovação a que se refere o artigo anterior pode ainda ser excepcionalmente concedida no caso de os requerentes provarem documentalmente, no mesmo prazo, que lhes não foi possível obter o registo provisório ou lavrar a escritura e não se verificou negligência da sua parte no requerimento ou marcação daqueles actos.
+> Revogado pelo/a [Decreto-Lei n.º 425/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/425-1983-443133), publicado em 1983-12-06.
 
 ###### Artigo 51.º
 
-O certificado de admissibilidade da firma ou denominação é válido apenas para efeitos de constituição ou modificação de pessoa colectiva ou entidade equiparada com o objecto nele declarado.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 425/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/425-1983-443133), publicado em 1983-12-06.
 
 ###### Artigo 52.º
 
-1 - A validade e eficácia do certificado de admissibilidade da firma ou denominação requerido por menos de 5 pessoas está dependente do facto de todas elas, e só elas, fazerem parte como sócios ou membros da pessoa colectiva ou entidade equiparada a constituir ou modificar.
+(Revogado.)
 
-2 - A validade e eficácia do certificado de admissibilidade da firma ou denominação requerido por 5 pessoas está dependente do facto de todas elas fazerem parte da pessoa colectiva ou entidade equiparada a constituir ou a modificar.
+> Revogado pelo/a [Decreto-Lei n.º 425/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/425-1983-443133), publicado em 1983-12-06.
 
 ###### Artigo 53.º
 
-Os requerentes do certificado de admissibilidade da firma ou denominação podem solicitar a sua invalidade antes de decorrido o prazo indicado no n.º 1 do artigo 50.º quando demonstrem ter ocorrido factos supervenientes que obstem à sua utilização.
+(Revogado.)
 
-2 - A anulação do certificado poderá ser recusada pelo Registo Nacional de Pessoas Colectivas quando não considere suficientemente fundamentados os motivos invocados.
-
-3 - Em conjunto com o pedido de anulação pode ser requerido certificado de admissibilidade da mesma firma ou denominação com modificação do objecto ou de parte dos sócios ou membros desde que, pelo menos, metade deles se mantenha.
-
-4 - A entrega do original do certificado é condição da sua anulação.
+> Revogado pelo/a [Decreto-Lei n.º 425/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/425-1983-443133), publicado em 1983-12-06.
 
 ###### Artigo 54.º
 
-A garantia de exclusividade da firma ou denominação só se radica em definitivo na esfera da pessoa colectiva aquando da sua inscrição definitiva no Registo Nacional de Pessoas Colectivas, comprovada pelo respectivo cartão de identificação.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 425/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/425-1983-443133), publicado em 1983-12-06.
 
 ### CAPÍTULO V — Do cartão de identificação de pessoa colectiva ou entidade equiparada
 
 ###### Artigo 55.º
 
-1 - As pessoas colectivas e entidades equiparadas estão obrigadas à posse de cartão de identificação válido.
+(Revogado.)
 
-2 - Não podem ser efectuados registos definitivos referentes a pessoas colectivas ou entidades equiparadas, requeridos pelos próprios, sem a apresentação de cartão de identificação, ainda que provisório.
-
-3 - A matrícula de comerciantes em nome individual e de sociedades pode tornar-se definitiva sem necessidade de exibição de cartão de identificação, mas apenas depois de recebida do Registo Nacional de Pessoas Colectivas a correspondente via do pedido de inscrição com a declaração de esta ter sido aceite.
-
-> Alterado pelo/a [Decreto-Lei n.º 32/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-1985-328376), publicado em 1985-01-28.
+> Revogado pelo/a [Decreto-Lei n.º 42/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1989-610474), publicado em 1989-02-03.
 
 ###### Artigo 56.º
 
-1 - A emissão de cartão de identificação é condicionada à inscrição, ainda que provisória, no Registo Nacional de Pessoas Colectivas e, quando aplicável, à prévia emissão de certificado de admissibilidade de firma ou denominação.
+(Revogado.)
 
-2 - O carácter provisório ou definitivo da inscrição no Registo Nacional de Pessoas Colectivas determina o carácter provisório ou definitivo do cartão de identificação.
+> Revogado pelo/a [Decreto-Lei n.º 42/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1989-610474), publicado em 1989-02-03.
 
 ###### Artigo 57.º
 
-1 - O cartão de identificação é requerido em conjunto com a inscrição no Registo Nacional de Pessoas Colectivas mediante impresso próprio acompanhado dos documentos de prova aplicáveis a cada caso.
+(Revogado.)
 
-2 - A atribuição de cartão de identificação a entidades sujeitas a registo comercial é requerida no modelo de impresso previsto no n.º 2 do artigo 23.º
-
-> Alterado pelo/a [Decreto-Lei n.º 32/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-1985-328376), publicado em 1985-01-28.
+> Revogado pelo/a [Decreto-Lei n.º 42/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1989-610474), publicado em 1989-02-03.
 
 ###### Artigo 58.º
 
-1 - O cartão de identificação de pessoa colectiva ou entidade equiparada deve conter a indicação do número de identificação, da denominação ou firma, da sede, da caracterização jurídica, da actividade principal e do prazo de validade.
+(Revogado.)
 
-2 - Os modelos de cartão de identificação devem ser diferentes para as pessoas colectivas, para os empresários em nome individual e para outras entidades equiparadas.
+> Revogado pelo/a [Decreto-Lei n.º 42/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1989-610474), publicado em 1989-02-03.
 
 ###### Artigo 59.º
 
-O cartão de identificação deve ainda conter a indicação:
+(Revogado.)
 
-a) No caso das pessoas colectivas, da data de constituição e da publicação no Diário da República do instrumento de constituição;
-
-b) No caso dos empresários em nome individual, do número do bilhete de identidade e da data de nascimento;
-
-c) No caso de outras entidades equiparadas a pessoa colectiva, da data de constituição e de publicação no Diário da República do instrumento ou diploma de constituição, se existirem.
+> Revogado pelo/a [Decreto-Lei n.º 42/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1989-610474), publicado em 1989-02-03.
 
 ###### Artigo 60.º
 
-1 - O cartão de identificação de pessoa colectiva ou entidade equiparada é válido por 3 anos, podendo, no entanto, para melhor distribuição, o prazo de validade ser alongado por período não superior a 11 meses.
+(Revogado.)
 
-2 - O cartão de identificação deve ser renovado quando expirar o prazo de validade ou se verificar alteração dos elementos nele constantes, bem como nos casos de mau estado de conservação, perda, destruição ou extravio.
-
-3 - A renovação dos cartões de identificação deve ser pedida em impresso próprio ao Registo Nacional de Pessoas Colectivas.
+> Revogado pelo/a [Decreto-Lei n.º 42/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1989-610474), publicado em 1989-02-03.
 
 ###### Artigo 61.º
 
-1 - As entidades que iniciaram o processo de constituição como pessoas colectivas ou entidades equiparadas mas que ainda não tenham completado as formalidades legais para a sua constituição ou regularização poderá ser passado, a seu requerimento, um cartão provisório de identificação.
+(Revogado.)
 
-2 - A emissão do cartão provisório de identificação está condicionada à prova, por parte do requerente, de terem sido accionados os mecanismos de constituição ou regularização da pessoa colectiva ou entidade equiparada objecto de identificação provisória.
-
-3 - No cartão provisório de identificação deve, pelo menos, constar o número provisório de identificação, o nome ou designação social do titular, a sede, a actividade económica e a data de validade.
-
-4 - O cartão provisório de identificação caduca decorridos 6 meses após a sua emissão.
-
-5 - A devolução do cartão provisório anterior é condição da passagem de novo cartão provisório ou de cartão definitivo.
-
-> Alterado pelo/a [Decreto-Lei n.º 32/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-1985-328376), publicado em 1985-01-28.
+> Revogado pelo/a [Decreto-Lei n.º 42/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1989-610474), publicado em 1989-02-03.
 
 ###### Artigo 62.º
 
-1 - A emissão de cartão de identificação pode ser recusada ou suspensa quando se verificar a existência de irregularidades graves no processo legal de constituição da pessoa colectiva ou entidade equiparada.
+(Revogado.)
 
-2 - No caso previsto no número anterior deverá ser emitido cartão provisório de identificação que poderá ser renovado enquanto se mantiver o motivo da recusa ou suspensão, mediante pedido efectuado nos termos do n.º 3 do artigo 60.º
+> Revogado pelo/a [Decreto-Lei n.º 42/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1989-610474), publicado em 1989-02-03.
 
 ###### Artigo 63.º
 
-1 - Pode ser emitido cartão de identificação de estabelecimento desde que tanto este como o respectivo proprietário se encontrem definitivamente inscritos no Registo Nacional de Pessoas Colectivas.
+(Revogado.)
 
-2 - O cartão de identificação de estabelecimento deve conter a indicação do número de identificação, do nome, da localização, da actividade, do prazo de validade e da firma ou denominação do seu proprietário.
-
-3 - Ao requerimento e emissão de cartão de estabelecimento é aplicável, com as necessárias adaptações, o disposto nos artigos anteriores.
+> Revogado pelo/a [Decreto-Lei n.º 42/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1989-610474), publicado em 1989-02-03.
 
 ###### Artigo 64.º
 
-1 - São nulos e não poderão ser usados para qualquer efeito os cartões de identificação, cujo prazo de validade esteja ultrapassado, que contiverem elementos desactualizados ou se encontrem em mau estado de conservação.
+(Revogado.)
 
-2 - Qualquer entidade perante a qual sejam usados os cartões de identificação nulos deve apreendê-los e remetê-los ao Registo Nacional de Pessoas Colectivas, onde aguardarão que os interessados requeiram a respectiva actualização ou substituição.
+> Revogado pelo/a [Decreto-Lei n.º 42/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1989-610474), publicado em 1989-02-03.
 
 ### CAPÍTULO VI — Sanções
 
 ###### Artigo 65.º
 
-1 - Os factos praticados com dolo ou negligência em violação das obrigações impostas pelo presente diploma são considerados contra-ordenações e cominados com coimas nos termos da legislação respectiva e das disposições seguintes.
+(Revogado.)
 
-2 - O disposto no número anterior não prejudica a aplicação de outras sanções que ao caso couberem.
+> Revogado pelo/a [Decreto-Lei n.º 42/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1989-610474), publicado em 1989-02-03.
 
 ###### Artigo 66.º
 
-As entidades a quem forem fornecidas cópias do ficheiro central de pessoas colectivas nos termos do artigo 19.º do presente diploma e que, sem autorização escrita do Registo Nacional de Pessoas Colectivas, as cedam directa ou indirectamente a terceiros, ou o façam com inobservância das condições por aquele fixadas, incorrem nas coimas seguintes:
+(Revogado.)
 
-a) Tratando-se de pessoa singular, no mínimo de 50000$00 e no máximo de 200000$00;
-
-b) Tratando-se de pessoa colectiva, no mínimo de 200000$00 e no máximo de 3000000$00 em caso de dolo e 1500000$00 em caso de negligência.
+> Revogado pelo/a [Decreto-Lei n.º 42/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1989-610474), publicado em 1989-02-03.
 
 ###### Artigo 67.º
 
-1 - É punido com coima nos termos da legislação respectiva quem, prestando a qualquer título serviço no Registo Nacional de Pessoas Colectivas, não guarde segredo da informação não pública de que tenha conhecimento.
+(Revogado.)
 
-2 - O disposto no número anterior não prejudica a responsabilidade civil ou disciplinar a que houver lugar.
+> Revogado pelo/a [Decreto-Lei n.º 42/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1989-610474), publicado em 1989-02-03.
 
 ###### Artigo 68.º
 
-1 - Estão sujeitas a coima nos termos da legislação respectiva as pessoas colectivas e entidades equiparadas que:
+(Revogado.)
 
-a) Por qualquer forma, e com intuito fraudulento ou com ânimo de prejudicar terceiro, falsifiquem ou utilizem indevidamente documentos emanados do Registo Nacional de Pessoas Colectivas;
-
-b) Não cumpram a obrigação de inscrição no Registo Nacional de Pessoas Colectivas ou o não façam nos prazos ou nas condições fixados no presente diploma;
-
-c) Prestem declarações falsas ou inexactas ou omitam informações que deveriam prestar na instrução dos pedidos de certificado de admissibilidade, de inscrição no Registo Nacional de Pessoas Colectivas ou de cartão de identificação;
-
-d) Declarem para quaisquer efeitos falsos números de identificação de pessoa colectiva ou entidade equiparada;
-
-e) Usem para qualquer efeito cartões de identificação cujo prazo de validade esteja ultrapassado, que contiverem elementos desactualizados ou se encontrem em mau estado de conservação.
-
-2 - O disposto no número anterior não prejudica o procedimento criminal se a ele houver lugar.
+> Revogado pelo/a [Decreto-Lei n.º 42/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1989-610474), publicado em 1989-02-03.
 
 ###### Artigo 69.º
 
-1 - Está sujeito a coimas nos termos da legislação respectiva quem:
+(Revogado.)
 
-a) Requeira ou detenha em carteira documentos emanados do Registo Nacional de Pessoas Colectivas para ceder a terceiros;
-
-b) Forneça informações inexactas ao Registo Nacional de Pessoas Colectivas;
-
-c) Não cumpra ou infrinja o disposto nos artigos 11.º e 12.º do presente diploma;
-
-d) Não efectue as comunicações previstas no presente diploma ou o fizer fora do prazo ou das condições estatuídas;
-
-e) Falsifique, pratique contrafacção, reproduza, proceda à revenda não autorizada ou por qualquer forma fizer uso ilegítimo dos impressos exclusivos do Registo Nacional de Pessoas Colectivas.
-
-2 - O disposto no número anterior não prejudica o procedimento criminal a que houver lugar.
+> Revogado pelo/a [Decreto-Lei n.º 42/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1989-610474), publicado em 1989-02-03.
 
 ###### Artigo 70.º
 
-1 - A aplicação das coimas a que se referem os artigos anteriores, nos termos da legislação respectiva, compete ao director-geral do Registo Nacional de Pessoas Colectivas.
+(Revogado.)
 
-2 - As receitas provenientes da aplicação das coimas reverterão para o Cofre dos Conservadores, Notários e Funcionários de Justiça.
-
-> Alterado pelo/a [Decreto-Lei n.º 235-A/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/235-a-1983-245342), publicado em 1983-06-01.
+> Revogado pelo/a [Decreto-Lei n.º 42/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1989-610474), publicado em 1989-02-03.
 
 ### CAPÍTULO VII — Organização do Registo Nacional de Pessoas Colectivas
 
 ###### Artigo 71.º
 
-O apoio técnico e administrativo necessário ao funcionamento do Registo Nacional de Pessoas Colectivas é assegurado pelo Gabinete de Estudos e Planeamento do Ministério da Justiça, através da Direcção de Serviços do Registo Nacional de Pessoas Colectivas.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 129/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-1998-522842), publicado em 1998-05-13.
 
 ###### Artigo 72.º
 
-1 - São órgãos do Registo Nacional de Pessoas Colectivas:
+(Revogado.)
 
-1.º O director-geral;
-
-2.º A Direcção de Serviços do Registo Nacional de Pessoas Colectivas;
-
-3.º O Conselho Consultivo do Registo Nacional de Pessoas Colectivas.
-
-2 - O cargo de director-geral do Registo Nacional de Pessoas Colectivas é desempenhado, por inerência, pelo director-geral do Gabinete de Estudos e Planeamento do Ministério da Justiça.
+> Revogado pelo/a [Decreto-Lei n.º 129/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-1998-522842), publicado em 1998-05-13.
 
 ###### Artigo 73.º
 
-1 - Pela inscrição no Registo Nacional de Pessoas Colectivas e pela emissão dos certificados de admissibilidade das firmas e denominações serão cobradas as taxas fixadas em portaria do Ministro da Justiça.
+(Revogado.)
 
-2 - As taxas a que se refere o número anterior constituem receita do Cofre dos Conservadores, Notários e Funcionários de Justiça, que suportará igualmente as despesas de instalação e funcionamento do Registo Nacional de Pessoas Colectivas.
+> Revogado pelo/a [Decreto-Lei n.º 129/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-1998-522842), publicado em 1998-05-13.
 
 ###### Artigo 74.º
 
-1 - Constituem exclusivos do Registo Nacional de Pessoas Colectivas os impressos a que se referem os artigos 20.º, 32.º, 34.º, 49.º, 53.º e 86.º, bem como os de certificado de admissibilidade e de cartão de identificação.
+(Revogado.)
 
-2 - Os modelos de impressos serão aprovados por portaria do Ministro da Justiça.
-
-3 - Serão fixados por despacho do Ministro da Justiça o preço dos impressos, bem como os montantes devidos como encargos de porte e expedição e despesas de emissão dos cartões de identificação e das cópias do ficheiro central de pessoas colectivas.
-
-4 - As despesas resultantes da execução ou emissão e remessa dos documentos e cópias referidos no número anterior serão suportadas pelas importâncias cobradas nos termos do mesmo número, cuja aplicação será regulamentada por normas aprovadas pelo Ministro da Justiça.
+> Revogado pelo/a [Decreto-Lei n.º 129/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-1998-522842), publicado em 1998-05-13.
 
 ###### Artigo 75.º
 
-O apoio informático à organização, manutenção e exploração do ficheiro central de pessoas colectivas será definido em protocolo celebrado entre e Registo Nacional de Pessoas Colectivas e os serviços de informática do Ministério da Justiça.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 129/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-1998-522842), publicado em 1998-05-13.
 
 ### CAPÍTULO VIII — Disposições finais e transitórias
 
 ###### Artigo 76.º
 
-1 - Por força do disposto no artigo 71.º, o quadro do Gabinete de Estudos e Planeamento do Ministério da Justiça passa a ser o anexo ao presente diploma.
+(Revogado.)
 
-2 - As alterações de estrutura, atribuições, competências e regime de pessoal do Gabinete de Estudos e Planeamento do Ministério da Justiça, bem como a composição, atribuições e competência do Conselho Consultivo do Registo Nacional, serão objecto de decreto regulamentar do Ministro de Estado e das Finanças e do Plano e dos Ministros da Justiça e da Reforma Administrativa, que deverá ser publicado no prazo de 90 dias após a entrada em vigor do presente diploma.
-
-3 - Enquanto não for publicado o diploma referido no número anterior fica o Ministro da Justiça autorizado a definir por despacho o respectivo regime provisório.
+> Revogado pelo/a [Decreto-Lei n.º 129/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-1998-522842), publicado em 1998-05-13.
 
 ###### Artigo 77.º
 
-1 - A Direcção de Serviços do Registo Nacional de Pessoas Colectivas fica sujeita a regime de instalação pelo período de 3 anos, prorrogável por despacho do Ministro da Justiça por períodos de 1 ano.
+(Revogado.)
 
-2 - Durante o período de instalação o Ministro da Justiça poderá autorizar a admissão do pessoal indispensável ao funcionamento dos serviços, nos termos previstos no artigo 82.º do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro, mandando sempre proceder primeiro a um concurso interno e só abrindo concurso externo para as vagas que subsistirem.
-
-3 - É de instalação e balancete o regime previsto no n.º 1.
-
-> Alterado pelo/a [Decreto-Lei n.º 433/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1983-443147), publicado em 1983-12-17.
+> Revogado pelo/a [Decreto-Lei n.º 129/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-1998-522842), publicado em 1998-05-13.
 
 ###### Artigo 78.º
 
-1 - Ao pessoal do Gabinete de Estudos e Planeamento do Ministério da Justiça é aplicável o disposto no artigo 61.º do [Decreto-Lei n.º 519-F2/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-f2-1979-157050), de 29 de Dezembro.
+(Revogado.)
 
-2 - Ao director-geral do Registo Nacional de Pessoas Colectivas é aplicável o disposto no n.º 1 do artigo 4.º do [Decreto-Lei n.º 171/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-1981-578336), de 24 de Junho.
-
-3 - Para efeitos do disposto no n.º 1, o Ministro da Justiça autorizará o encargo até ao limite máximo de 30%, tomando em consideração as disponibilidades de conta.
-
-4 - A execução do disposto no n.º 3 será regulada em portaria.
-
-> Alterado pelo/a [Decreto-Lei n.º 235-A/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/235-a-1983-245342), publicado em 1983-06-01.
+> Revogado pelo/a [Decreto-Lei n.º 129/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-1998-522842), publicado em 1998-05-13.
 
 ###### Artigo 79.º
 
-1 - Aos funcionários do Gabinete de Estudos e Planeamento do Ministério da Justiça são abonados prémios de produtividade em função do trabalho desenvolvido, não podendo o seu montante exceder 30% do respectivo vencimento.
+(Revogado.)
 
-2 - Os prémios de produtividade terão natureza individual, devendo a sua atribuição ser precedida, caso a caso, de avaliação, segundo critérios de optimização de resultados, de redução de custos e de prazos de trabalho executado.
-
-3 - Para efeitos de graduação dos abonos a conceder, os funcionários são ordenados em escalões, cujos níveis percentuais deverão ser sujeitos à aprovação do Ministro da Justiça.
+> Revogado pelo/a [Decreto-Lei n.º 129/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-1998-522842), publicado em 1998-05-13.
 
 ###### Artigo 80.º
 
-Sem prejuízo das normas gerais vigentes, poderá ser contratado além do quadro o pessoal indispensável à manutenção das condições mínimas de funcionamento dos serviços.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 129/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-1998-522842), publicado em 1998-05-13.
 
 ###### Artigo 81.º
 
-1 - Para a realização de tarefas que não possam ser asseguradas por pessoal provido em lugar de quadro poderá ser requisitado pessoal a outros organismos e serviços, com o acordo prévio do funcionário ou agente a requisitar e a anuência do membro do Governo de que dependem.
+(Revogado.)
 
-2 - O período de requisição não poderá exceder a duração de 1 ano, prorrogável por uma só vez.
-
-3 - A requisição não depende da existência de vagas no quadro do pessoal do serviço requisitante, devendo o respectivo despacho, sujeito a visto ou a anotação do Tribunal de Contas, consoante for para a mesma categoria ou superior, e a publicação no Diário da República, fixar desde logo o vencimento correspondente, a satisfazer por conta de qualquer das dotações de pagamento a pessoal inscritas no respectivo orçamento.
-
-4 - Os lugares nos quadros de origem dos funcionários requisitados poderão ser providos interinamente enquanto se mantiver a requisição, relevando para todos os efeitos legais, designadamente os de aposentação e progressão na carreira, o tempo de serviço assim prestado.
+> Revogado pelo/a [Decreto-Lei n.º 129/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-1998-522842), publicado em 1998-05-13.
 
 ###### Artigo 82.º
 
-Para o estudo dos problemas específicos poderão ser constituídas comissões ou grupos de trabalho, cujo mandato, composição e funcionamento serão estabelecidos em despacho do Ministro da Justiça.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 129/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-1998-522842), publicado em 1998-05-13.
 
 ###### Artigo 83.º
 
-A formação permanente do pessoal deverá ser garantida mediante a realização de:
+(Revogado.)
 
-a) Cursos de formação inicial ou prévia;
-
-b) Cursos de formação para efeitos de promoção;
-
-c) Cursos de aperfeiçoamento profissional;
-
-d) Estágios, cursos e visitas de estudo organizados por entidades nacionais ou estrangeiras.
+> Revogado pelo/a [Decreto-Lei n.º 129/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-1998-522842), publicado em 1998-05-13.
 
 ###### Artigo 84.º
 
-1 - O pessoal actualmente afecto à extinta Repartição do Comércio pode ser destacado pelo prazo máximo de 1 ano para o Gabinete de Estudos e Planeamento do Ministério da Justiça.
+(Revogado.)
 
-2 - O destacamento previsto no número anterior fica apenas sujeito a comunicação pelo Registo Nacional de Pessoas Colectivas à Direcção-Geral de Organização e Recursos Humanos, do Ministério da Agricultura, Comércio e Pescas; para o efeito e dentro de 10 dias a contar da entrada em vigor do presente diploma, a Direcção-Geral do Comércio remeterá a ambos os organismos a relação desse pessoal.
-
-3 - O pessoal destacado poderá ser integrado no quadro do Gabinete de Estudos e Planeamento do Ministério da Justiça na mesma categoria ou, não havendo correspondência, na categoria a que corresponda letra de vencimento igual ou imediatamente superior.
-
-4 - O destacamento do pessoal pode cessar a qualquer momento mediante a comunicação correspondente à prevista no n.º 2 do presente artigo e cessa automaticamente decorrido o prazo de 1 ano se entretanto se não tiver verificado a integração do destacado no quadro do Gabinete de Estudos e Planeamento do Ministério da Justiça.
-
-5 - A integração no quadro será efectuada por despacho do Ministro da Justiça, visado ou anotado pelo Tribunal de Contas, consoante haja ou não mudança de categoria, e publicado no Diário da República.
-
-6 - Os actuais chefes de repartição da extinta Repartição do Comércio e do Gabinete de Estudos e Planeamento do Ministério da Justiça poderão ser integrados nos lugares de técnico superior de 1.ª classe, nos termos do número anterior.
+> Revogado pelo/a [Decreto-Lei n.º 129/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-1998-522842), publicado em 1998-05-13.
 
 ###### Artigo 85.º
 
-1 - As pessoas colectivas existentes na data de entrada em vigor do presente diploma, bem como as entidades equiparadas que na mesma data exerçam actividade, estão obrigadas à posse de cartão de identificação válido a partir do 90.º dia posterior à publicação do presente diploma.
+(Revogado.)
 
-2 - O Registo Nacional de Pessoas Colectivas deve recusar a emissão de cartão definitivo quando verificar não ter sido respeitada a exclusividade de denominações ou a adequação entre o objecto da pessoa colectiva ou entidade equiparada e a denominação, nos termos da legislação vigente ao tempo da constituição da pessoa colectiva.
-
-3 - No caso do número anterior, notificará os interessados para promoverem as necessárias alterações no prazo de 6 meses.
-
-4 - No caso de recusa ou de não modificação da denominação dentro do prazo previsto no número anterior, o Registo Nacional de Pessoas Colectivas comunicará o facto ao ministério público para efeitos de procedimento legal que no caso couber.
+> Revogado pelo/a [Decreto-Lei n.º 129/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-1998-522842), publicado em 1998-05-13.
 
 ###### Artigo 86.º
 
-Os entes colectivos públicos personalizados, bem como os organismos e serviços da Administração Pública que constituam uma unidade organizativa e funcional, devem, no prazo de 30 dias a partir da entrada em vigor deste diploma, comunicar ao Registo Nacional de Pessoas Colectivas a sua existência, mediante o preenchimento de impresso próprio, acompanhado de cópia do diploma de criação.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 129/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-1998-522842), publicado em 1998-05-13.
 
 ###### Artigo 87.º
 
-1 - O Registo Nacional de Pessoas Colectivas, em coordenação com a Direcção-Geral dos Registos e do Notariado, deverá propor, no prazo de 1 ano, as providências necessárias à efectivação do registo das associações, bem como à regularização das sociedades irregulares.
+(Revogado.)
 
-2 - O Registo Nacional de Pessoas Colectivas deverá propor, no prazo referido no número anterior, as providências necessárias à regularização das denominações não exclusivas ou que possam induzir em erro.
+> Revogado pelo/a [Decreto-Lei n.º 129/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-1998-522842), publicado em 1998-05-13.
 
 ###### Artigo 88.º
 
-A data a partir da qual é admitida a inscrição de estabelecimentos no Registo Nacional de Pessoas Colectivas será fixada por portaria do Ministro da Justiça.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 129/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-1998-522842), publicado em 1998-05-13.
 
 ###### Artigo 89.º
 
-O Registo Nacional de Pessoas Colectivas, em coordenação com a Direcção-Geral dos Registos e do Notariado e o Instituto Nacional de Estatística, tomará as providências necessárias para que as comunicações e demais instrumentos de notação a preencher pelos notários e conservadores do registo comercial constituam, na medida do possível, um só modelo de impresso, a remeter em vias diferentes para cada um dos organismos interessados.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 129/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-1998-522842), publicado em 1998-05-13.
 
 ###### Artigo 90.º
 
-1 - Todo o património afecto, na data da sua extinção, à Repartição do Comércio, incluindo equipamento, fichas, processos administrativos e outra documentação, considera-se automaticamente transmitido para o Registo Nacional de Pessoas Colectivas na data da entrada em vigor do presente diploma.
+(Revogado.)
 
-2 - O Registo Nacional de Pessoas Colectivas substitui-se nos seus direitos à extinta Repartição do Comércio e poderá ocupar, durante 1 ano, as instalações que a esta estavam afectas.
+> Revogado pelo/a [Decreto-Lei n.º 129/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-1998-522842), publicado em 1998-05-13.
 
 ###### Artigo 91.º
 
-1 - Os encargos resultantes da execução deste diploma são suportados, consoante a sua natureza, pelo Cofre dos Conservadores, Notários e Funcionários de Justiça ou pelo Cofre Geral dos Tribunais, na parte excedente à dotação para o efeito inscrita no Orçamento do Estado.
+(Revogado.)
 
-2 - É aplicável ao Gabinete de Estudos e Planeamento do Ministério da Justiça o disposto no artigo 254.º do Código das Custas Judiciais.
-
-3 - A execução do disposto no número anterior terá lugar em data a fixar no despacho que regular o regime de financiamento e de autorização de despesas para o ano em curso.
-
-> Alterado pelo/a [Decreto-Lei n.º 235-A/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/235-a-1983-245342), publicado em 1983-06-01.
+> Revogado pelo/a [Decreto-Lei n.º 129/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-1998-522842), publicado em 1998-05-13.
 
 ###### Artigo 92.º
 

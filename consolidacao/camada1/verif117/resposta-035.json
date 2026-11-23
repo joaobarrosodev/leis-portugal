@@ -1,0 +1,49 @@
+[
+ {
+  "id": "pt:dre:659563:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "Lei 87/98, art. 2.º: n.º 29) substituído e aditados 34) a 42); os demais números ficam (reticências). Consolidado confere letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 39.º",
+    "veredicto": "errado",
+    "motivo": "A Lei 87/98 art. 3.º só substitui o texto do art. 70.º (12 -> 17 milhões de contos; aplicado), mas o consolidado apagou 4 das 5 ligações de imagem '[(ver documento original)](...00980495.pdf)' do original (a seguir a «TABELA I», a «TABELA III e IV», ao n.º 2.º do art. 33.º do Código da Sisa e a seguir ao n.º 5 do art. 23.º do Código da Contribuição Autárquica), perdendo os quadros; nenhuma instrução o justifica.",
+    "texto_esperado": "Texto original do artigo 39.º (incluindo os capítulos e artigos 40.º a 75.º nele contidos), com o artigo 70.º alterado para 17 milhões de contos (Madeira e Açores) e mantidas as cinco ligações de imagem do original."
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Lei 87/98, art. 1.º: substituição dos mapas I a IV e XI",
+    "motivo": "os mapas só vêm em imagem e o consolidado não tem anexo com título onde os pôr"
+   },
+   {
+    "instrucao": "Declaração 5/99: mapa IX alterado na parte respectiva",
+    "motivo": "o mapa só vem em imagem e o consolidado não tem anexo com título onde o pôr"
+   },
+   {
+    "instrucao": "Declaração de Rectificação n.º 7/98",
+    "motivo": "o DRE não tem o texto deste diploma (só metadados): o diploma que altera não traz o texto da alteração"
+   },
+   {
+    "instrucao": "DL 191/99 art. 51.º c): revoga o DL 275-A/93 com as alterações da Lei 127-B/97",
+    "motivo": "a instrução é de outro diploma (o DL 275-A/93)"
+   },
+   {
+    "instrucao": "DL 71/2013 art. 7.º b): revoga o regime do DL 204/97 alterado pela Lei 127-B/97",
+    "motivo": "a instrução é de outro diploma (o DL 204/97)"
+   },
+   {
+    "instrucao": "Lei 75-A/2014 art. 30.º c): revoga alíneas do n.º 2 do art. 3.º do DL 453/88, alterado pela Lei 127-B/97",
+    "motivo": "a instrução é de outro diploma (o DL 453/88)"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

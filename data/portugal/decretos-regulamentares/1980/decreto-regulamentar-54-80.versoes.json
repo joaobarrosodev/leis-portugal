@@ -115,6 +115,12 @@
      "title": "Decreto-Lei n.º 132/2019",
      "published": "2019-08-30",
      "dre_path": "/dr/detalhe/decreto-lei/132-2019-124324704"
+    },
+    {
+     "id": "pt:dre:533376:por",
+     "title": "Decreto-Lei n.º 408/93",
+     "published": "1993-12-14",
+     "dre_path": "/dr/detalhe/decreto-lei/408-1993-533376"
     }
    ],
    "changes": [
@@ -124,57 +130,100 @@
     "Revoga Artigo 36.º",
     "Revoga Artigo 37.º",
     "Revoga Artigo 38.º",
-    "Revoga Artigo 39.º"
+    "Revoga Artigo 39.º",
+    "Revoga Artigo 1",
+    "Revoga Artigo 2",
+    "Revoga Artigo 3",
+    "Revoga Artigo 4",
+    "Revoga Artigo 5",
+    "Revoga Artigo 6",
+    "Revoga Artigo 7",
+    "Revoga Artigo 8",
+    "Revoga Artigo 9",
+    "Revoga Artigo 10",
+    "Revoga Artigo 11",
+    "Revoga Artigo 12",
+    "Revoga Artigo 13",
+    "Revoga Artigo 14",
+    "Revoga Artigo 15",
+    "Revoga Artigo 16",
+    "Revoga Artigo 17",
+    "Revoga Artigo 18",
+    "Revoga Artigo 19",
+    "Revoga Artigo 20",
+    "Revoga Artigo 21",
+    "Revoga Artigo 22",
+    "Revoga Artigo 23",
+    "Revoga Artigo 24",
+    "Revoga Artigo 25",
+    "Revoga Artigo 26",
+    "Revoga Artigo 27",
+    "Revoga Artigo 28",
+    "Revoga Artigo 29",
+    "Revoga Artigo 30",
+    "Revoga Artigo 31",
+    "Revoga Artigo 32",
+    "Revoga Artigo 41",
+    "Revoga Artigo 42",
+    "Revoga Artigo 43",
+    "Revoga Artigo 44",
+    "Revoga Artigo 45",
+    "Revoga Artigo 46",
+    "Revoga Artigo 47",
+    "Revoga Artigo 48",
+    "Revoga Artigo 49",
+    "Revoga Artigo 50",
+    "Revoga Artigo 51"
    ],
    "fragments": [
     "1dd18e51422f19da",
     "b947dd4f8dd53dd1",
-    "3199dcad228984e3",
+    "35af2c4cd06aa7fa",
     "c172cc2fd2fafe36",
-    "699095c026dc24f0",
+    "c0d9c36173d02b66",
     "f0d1bfbf6fa55b86",
-    "92bdf84eb74023d9",
-    "48985ca1c219120c",
-    "3f4d492c09009e88",
-    "fbb9965c3e4547cb",
+    "ff01684f574a5e9b",
+    "c377ef0828555a36",
+    "86987747bd2751c9",
+    "af498a6fee25838d",
     "4ef913884ef227c4",
-    "573d25937501e7aa",
-    "10844f23192bf126",
-    "e72edf4d5ea2d71b",
+    "c26a04fa33f5836f",
+    "68864b21c1db256d",
+    "8f106dda4d1b188b",
     "c8af8c55d54a7346",
-    "4cb1597d76c00b51",
+    "ca88b277f57bffa0",
     "17613a474f563637",
-    "c91b1399a170ddb7",
-    "472eb7e23b3c3643",
-    "018a14b15576b288",
+    "f403f950c470d823",
+    "a82275c8735bd90b",
+    "7824e0d39e63c567",
     "08cdc5d1e8455047",
     "758d6459aa5f4542",
-    "4dde9548d9f313e4",
+    "65dca7aa6247d765",
     "ab03d49f9d8ff2db",
-    "3c65b82d1033f828",
-    "ce308ae5386b4233",
-    "53862713710e7025",
-    "3da52cc1fc2c6734",
-    "8ee634238ad19fa5",
+    "c1cd23e5985b1a0d",
+    "de998b0af1629249",
+    "28436a01f38325b3",
+    "45dd2cdc8b0d56f1",
+    "e11aadec18d43d75",
     "ff5369706dd006b4",
-    "ea8776f713dbeec8",
+    "fd3cd469a4ec7617",
     "c6af8f2266e19040",
-    "193aae89c166abc8",
-    "780d945c139a8194",
+    "d1be11551d69762e",
+    "8047886acc3cc575",
     "566513912f9bdcf6",
-    "ed46d6096a06dba0",
+    "5d503e2d5f621637",
     "7639dfba50c7696e",
-    "78220dbabd8babdb",
+    "47cd7b1152390293",
     "a16e41baf278584c",
-    "bc85d7e0be7b364b",
-    "342b412a56c7b1db",
-    "469f3df63704d310",
+    "39ef5df35628555a",
+    "701ec4a6feb87e94",
+    "c5113089ff1413dc",
     "d89404c315c7c891",
-    "76c8ade064bf5a95",
-    "cead5415b1f0340e",
-    "f5e3c1f8e369a7c6",
-    "687815ce1755bac2",
-    "7932f8e18bb1a30f",
+    "1c282099d5650038",
+    "0667f913b0e331bb",
+    "67ae64d22a284500",
+    "d31461c108db451a",
+    "5eff4a76fbf8b343",
     "16f4e24c8c5226b5",
     "efb4b431bca1a43c",
     "41afb02b977e1649",
@@ -184,17 +233,17 @@
     "e03970115da3ed59",
     "362f06d10fff6962",
     "881665c835342cc1",
-    "8adc7edabc232a7b",
-    "6d5eb71d0f6f2ef3",
-    "99983bbdb8126e6f",
-    "5f34b795d3028b7d",
-    "e6ba08c2212e907c",
-    "a8c91ce6b34c5c2f",
-    "087b0a9e3612db83",
-    "bfeeb0ac3acf7315",
-    "af61de7273ee6571",
-    "a3b4329726f3bcbc",
-    "e36d4d2a22c62851",
+    "04e8235aa8e1f2a1",
+    "1733f4fca54159a2",
+    "17da52fbf57e2321",
+    "7468823c87e15297",
+    "a8553a49cbb8b56d",
+    "828aece32d8345d4",
+    "e48a24ee4aaaabac",
+    "cbc790286ba3228b",
+    "22c16900608b3a5b",
+    "dc2ea430508d095a",
+    "fbb1aa810fdc1568",
     "6cbd6258c21800e6",
     "647c0cd36a8d4973",
     "625e7bc581f01c16",
@@ -914,6 +963,264 @@
    "changed_by": [],
    "markdown": "###### Artigo 54.º — (Entrada em vigor)\n\nO presente diploma entra em vigor no dia imediato ao da sua publicação, salvo quanto às remunerações acessórias e subsídios de residência, cuja vigência será reportada ao dia 1 de Setembro de 1980.\n\nDiogo Pinto de Freitas do Amaral. - Aníbal António Cavaco Silva.\n\nPromulgado em 19 de Setembro de 1980.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES."
   },
+  "35af2c4cd06aa7fa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 408/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1993-533376), publicado em 1993-12-14, com efeitos a partir de 1993-12-19."
+   ],
+   "markdown": "###### Artigo 1.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 408/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1993-533376), publicado em 1993-12-14, com efeitos a partir de 1993-12-19."
+  },
+  "c0d9c36173d02b66": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — (Estrutura)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — (Estrutura)\n\n(Revogado.)"
+  },
+  "ff01684f574a5e9b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — (Atribuições)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — (Atribuições)\n\n(Revogado.)"
+  },
+  "c377ef0828555a36": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — (Dos Departamentos dos Serviços Distritais de Gestão Fiscal da Direcção Distrital de Finanças de Lisboa - Estrutura.)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — (Dos Departamentos dos Serviços Distritais de Gestão Fiscal da Direcção Distrital de Finanças de Lisboa - Estrutura.)\n\n(Revogado.)"
+  },
+  "86987747bd2751c9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — (Do Departamento dos Serviços Distritais de Gestão Fiscal da Direcção Distrital de Finanças do Porto - Estrutura)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — (Do Departamento dos Serviços Distritais de Gestão Fiscal da Direcção Distrital de Finanças do Porto - Estrutura)\n\n(Revogado.)"
+  },
+  "af498a6fee25838d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — (Atribuições dos serviços de gestão fiscal)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — (Atribuições dos serviços de gestão fiscal)\n\n(Revogado.)"
+  },
+  "c26a04fa33f5836f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — (Atribuições genéricas e estrutura)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — (Atribuições genéricas e estrutura)\n\n(Revogado.)"
+  },
+  "68864b21c1db256d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — (Atribuições específicas dos serviços de fiscalização tributária)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — (Atribuições específicas dos serviços de fiscalização tributária)\n\n(Revogado.)"
+  },
+  "8f106dda4d1b188b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — (Atribuições dos serviços de expediente)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — (Atribuições dos serviços de expediente)\n\n(Revogado.)"
+  },
+  "ca88b277f57bffa0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — (Atribuições genéricas - Estrutura)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — (Atribuições genéricas - Estrutura)\n\n(Revogado.)"
+  },
+  "f403f950c470d823": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — (Atribuições gerais - Estrutura)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — (Atribuições gerais - Estrutura)\n\n(Revogado.)"
+  },
+  "a82275c8735bd90b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — (Atribuições específicas dos serviços de administração geral)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — (Atribuições específicas dos serviços de administração geral)\n\n(Revogado.)"
+  },
+  "7824e0d39e63c567": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — (Representantes da Fazenda Nacional nos tribunais das contribuições e impostos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — (Representantes da Fazenda Nacional nos tribunais das contribuições e impostos)\n\n1 - As funções de representante da Fazenda Nacional nos Tribunais das Contribuições e Impostos de 1.ª Instância de Lisboa e do Porto serão exercidas por directores de finanças, por delegação.\n\n2 - (Revogado.)"
+  },
+  "65dca7aa6247d765": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — (Serviços)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — (Serviços)\n\n(Revogado.)"
+  },
+  "c1cd23e5985b1a0d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — (Serviços de gestão fiscal)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — (Serviços de gestão fiscal)\n\n(Revogado.)"
+  },
+  "de998b0af1629249": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — (Serviços de fiscalização tributária)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — (Serviços de fiscalização tributária)\n\n(Revogado.)"
+  },
+  "28436a01f38325b3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — (Serviços de justiça fiscal)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — (Serviços de justiça fiscal)\n\n(Revogado.)"
+  },
+  "45dd2cdc8b0d56f1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — (Serviços não tributários)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — (Serviços não tributários)\n\n(Revogado.)"
+  },
+  "e11aadec18d43d75": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — (Serviços de administração geral)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — (Serviços de administração geral)\n\n(Revogado.)"
+  },
+  "fd3cd469a4ec7617": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\n(Revogado.)"
+  },
+  "d1be11551d69762e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — (Estrutura)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — (Estrutura)\n\n(Revogado.)"
+  },
+  "8047886acc3cc575": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — (Atribuições das secções e dos sectores de apoio instrumental)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — (Atribuições das secções e dos sectores de apoio instrumental)\n\n(Revogado.)"
+  },
+  "5d503e2d5f621637": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — (Estrutura e atribuições)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — (Estrutura e atribuições)\n\n(Revogado.)"
+  },
+  "47cd7b1152390293": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — (Estrutura)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — (Estrutura)\n\n(Revogado.)"
+  },
+  "39ef5df35628555a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — (Inserção orgânica: orientação e chefia)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — (Inserção orgânica: orientação e chefia)\n\n(Revogado.)"
+  },
+  "701ec4a6feb87e94": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — (Atribuições)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — (Atribuições)\n\n(Revogado.)"
+  },
+  "c5113089ff1413dc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º — (Delimitação das funções do pessoal técnico de fiscalização tributária)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — (Delimitação das funções do pessoal técnico de fiscalização tributária)\n\n(Revogado.)"
+  },
+  "1c282099d5650038": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º — (Direcção por objectivos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — (Direcção por objectivos)\n\n(Revogado.)"
+  },
+  "0667f913b0e331bb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º — (Rotação de funções)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — (Rotação de funções)\n\n(Revogado.)"
+  },
+  "67ae64d22a284500": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º — (Reuniões com os dirigentes dos serviços locais)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — (Reuniões com os dirigentes dos serviços locais)\n\n(Revogado.)"
+  },
+  "d31461c108db451a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º — (Relatórios de actividades)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — (Relatórios de actividades)\n\n(Revogado.)"
+  },
+  "5eff4a76fbf8b343": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º — (Consultas ou esclarecimentos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — (Consultas ou esclarecimentos)\n\n(Revogado.)"
+  },
   "41afb02b977e1649": {
    "fragment_id": null,
    "type": null,
@@ -974,6 +1281,94 @@
     "Revogado pelo/a Artigo 50.º do/a [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30."
    ],
    "markdown": "###### Artigo 39.º — (Concessão do subsídio de residência)\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 50.º do/a [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30."
+  },
+  "04e8235aa8e1f2a1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 41.º — (Substituições)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — (Substituições)\n\n(Revogado.)"
+  },
+  "1733f4fca54159a2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 42.º — (Serviços de informações fiscais)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — (Serviços de informações fiscais)\n\n(Revogado.)"
+  },
+  "17da52fbf57e2321": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 43.º — (Regime e situação do pessoal dirigente)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — (Regime e situação do pessoal dirigente)\n\n(Revogado.)"
+  },
+  "7468823c87e15297": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 44.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º\n\n(Colocação de funcionários pertencentes à carreira do pessoal técnico de fiscalização tributária ou à carreira do pessoal técnico judicial em lugares de perito tributário)\n\n(Revogado.)"
+  },
+  "a8553a49cbb8b56d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 45.º — (Promoções para categorias integradas em quadros circulares: promoção de técnicos economistas, técnicos juristas, técnicos, engenheiros e engenheiros técnicos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — (Promoções para categorias integradas em quadros circulares: promoção de técnicos economistas, técnicos juristas, técnicos, engenheiros e engenheiros técnicos)\n\n(Revogado.)"
+  },
+  "828aece32d8345d4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 46.º — (Primeiras provas de selecção para provimento de lugares dos quadros)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — (Primeiras provas de selecção para provimento de lugares dos quadros)\n\n(Revogado.)"
+  },
+  "e48a24ee4aaaabac": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 47.º — (Transição dos Secretários de Finanças de 3.ª classe)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — (Transição dos Secretários de Finanças de 3.ª classe)\n\n(Revogado.)"
+  },
+  "cbc790286ba3228b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 48.º — (Mudança de designação de categorias funcionais; pessoal técnico de fiscalização tributária nos serviços locais)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — (Mudança de designação de categorias funcionais; pessoal técnico de fiscalização tributária nos serviços locais)\n\n(Revogado.)"
+  },
+  "22c16900608b3a5b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 49.º — (Encargos com o subsídio de residência)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — (Encargos com o subsídio de residência)\n\n(Revogado.)"
+  },
+  "dc2ea430508d095a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 50.º — (Integração dos adidos nos quadros da Direcção-Geral das Contribuições e Impostos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — (Integração dos adidos nos quadros da Direcção-Geral das Contribuições e Impostos)\n\n(Revogado.)"
+  },
+  "fbb1aa810fdc1568": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 51.º — (Transferências entre carreiras)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — (Transferências entre carreiras)\n\n(Revogado.)"
   }
  }
 }

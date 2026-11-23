@@ -41,10 +41,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2007-09-27'
+version_history:
+  file: decreto-lei-145-85.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1985-05-08'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-09-27'
+    amending: pt:dre:610474:por
+    amending_title: Decreto-Lei n.º 42/89; Decreto-Lei n.º 40/94; Decreto-Lei n.º 318/2007
+    changes:
+    - Revoga Artigo 4.º
+    - Revoga Artigo 2.º
+    - Altera Artigo 3.º
 identifiers:
   celex: null
   eli: null
@@ -70,7 +86,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T00:03:14Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 42/89; Decreto-Lei
+    n.º 40/94; Decreto-Lei n.º 318/2007. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1985/decreto-lei-145-85.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -157,29 +174,41 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-Artigo 1.º - 1 - Os actos de registo e notariado são praticados nas repartições competentes dentro das horas regulamentares de serviço, salvo nos casos expressamente previstos na lei ou autorizados pelo director-geral dos Registos e do Notariado.
+###### Artigo 1.º
+
+1 - Os actos de registo e notariado são praticados nas repartições competentes dentro das horas regulamentares de serviço, salvo nos casos expressamente previstos na lei ou autorizados pelo director-geral dos Registos e do Notariado.
 
 2 - Cabe ao Ministro da Justiça fixar o horário dos serviços dos registos e do notariado, bem como o correspondente período de abertura ao público.
 
 3 - O director-geral dos Registos e do Notariado pode fazer condicionar ou vedar a determinados serviços ou funcionários a realização de actos fora da repartição ou das horas regulamentares de serviço.
 
-Art. 2.º - 1 - Os vogais do conselho técnico dos registos e do notariado podem ser autorizados a desempenhar as suas funções, em comissão de serviço, nos termos do artigo 35.º do [Decreto-Lei n.º 519-F2/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-f2-1979-157050), de 29 de Dezembro, e do artigo 1.º do [Decreto-Lei n.º 475/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/475-1980-462065), de 15 de Outubro.
+###### Artigo 2.º
 
-2 - Aos vogais a que se refere o número anterior pode ser atribuída a orientação, supervisão ou inspecção dos serviços dos registos e do notariado em determinadas circunscrições geográficas.
+(Revogado.)
 
-3 - O número e espécie de secções, bem como o número de vogais e as normas de funcionamento do conselho técnico, constam de regulamento aprovado por portaria do Ministro da Justiça.
+> Revogado pelo/a [Decreto-Lei n.º 40/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-1994-524225), publicado em 1994-02-11.
 
-Art. 3.º - 1 - As tabelas de emolumentos devidos pelos actos praticados nos serviços dos registos e do notariado são aprovadas por portaria do Ministro da Justiça e revistas anualmente.
+###### Artigo 3.º
 
-2 - Os impressos usados pelos serviços dos registos e do notariado são aprovados por portaria do Ministro da Justiça e constituem exclusivo da respectiva Direcção-Geral, aplicando-se-lhes o regime previsto no artigo 74.º do [Decreto-Lei n.º 144/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-1983-312427), de 31 de Março.
+1 - Os emolumentos e taxas devidos pela prestação dos serviços de registo e de identificação civil são fixados por portaria do membro do Governo responsável pela área da justiça.
 
-3 - Os conservadores e notários devem remeter mensalmente à Direcção-Geral dos Registos e do Notariado, de harmonia com as instruções por esta emitidas, nota detalhada de todas as importâncias arrecadadas, despesas efectuadas e saldos depositados.
+2 - Os preços de venda de bens conexos com a prestação de serviços no âmbito dos registos e da identificação civil são fixados por despacho do presidente do Instituto dos Registos e do Notariado, I. P.
 
-Art. 4.º - 1 - São admitidas apenas como provisórias as inscrições de factos referentes a quaisquer entidades sujeitas a inscrição no registo nacional de pessoas colectivas de que se não comprove a aceitação neste da inscrição definitiva.
+3 - Os impressos usados pelos serviços dos registos e do notariado são aprovados por portaria do Ministro da Justiça.
 
-2 - A aceitação da inscrição definitiva de actos ou factos jurídicos sujeitos a Registo Comercial será oficiosamente comunicada pelo registo nacional de pessoas colectivas à conservatória do registo comercial competente, que converterá, oficiosa e gratuitamente, a correspondente inscrição provisória.
+4 - Os conservadores e notários devem remeter mensalmente à Direcção-Geral dos Registos e do Notariado, de harmonia com as instruções por esta emitidas, nota detalhada de todas as importâncias arrecadadas, despesas efectuadas e saldos depositados.
 
-Art. 5.º São revogados:
+> Alterado pelo/a [Decreto-Lei n.º 318/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-2007-642051), publicado em 2007-09-26.
+
+###### Artigo 4.º
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 42/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1989-610474), publicado em 1989-02-03.
+
+###### Artigo 5.º
+
+São revogados:
 
 a) Os artigos 10.º a 12.º do [Decreto n.º 198/73](https://diariodarepublica.pt/dr/detalhe/decreto/198-1973-422013), de 3 de Maio;
 

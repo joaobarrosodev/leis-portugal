@@ -53,10 +53,13 @@ version_history:
     changes: []
   - date: '2001-03-18'
     amending: pt:dre:258994:por
-    amending_title: Decreto-Lei n.º 87/94; Decreto-Lei n.º 87/2001
+    amending_title: Decreto-Lei n.º 87/94; Decreto-Lei n.º 87/2001; Lei n.º 33/99; Decreto-Lei n.º 173/94
     changes:
     - Altera Artigo 5.º
     - Revoga Artigo 2.º
+    - Revoga Artigo 4
+    - Revoga Artigo 5
+    - Revoga Artigo 3
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/148/1993/05/03/p/dre/pt/html
@@ -83,7 +86,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:22:47Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 87/94; Decreto-Lei
-    n.º 87/2001. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1993/decreto-lei-148-93.alteracoes.json'
+    n.º 87/2001. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1993/decreto-lei-148-93.alteracoes.json.
+    Revogações registadas só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Lei
+    n.º 33/99.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -210,45 +215,19 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 ###### Artigo 3.º
 
-1 - É criada na Direcção-Geral dos Serviços Judiciários a Direcção de Serviços de Identificação Criminal, de Contumazes e Objectores de Consciência.
+(Revogado.)
 
-2 - Compete à Direcção de Serviços de Identificação Criminal, de Contumazes e Objectores de Consciência:
-
-a) Recolher, tratar e conservar, nos termos da lei, extractos das decisões criminais proferidas por tribunais portugueses contra os indivíduos neles acusados ou por tibunais estrangeiros contra cidadãos portugueses;
-
-b) Recolher, classificar e arquivar, nos termos da lei, as impressões digitais dos arguidos condenados nos tribunais portugueses;
-
-c) Registar, nos termos da lei, as decisões dos tribunais de menores ou de família e menores que apliquem ou alterem medidas de colocação em instituto médico-psicológico ou internamento em estabelecimentos de educação;
-
-d) Registar, nos termos da lei, as decisões dos tribunais que, de acordo com as normas de processo penal, declarem a contumácia, alterem essa declaração ou a façam cessar;
-
-e) Assegurar, nos termos da lei, a emissão de certificados e a prestação de informações em matéria de identificação criminal e de contumazes;
-
-f) Assegurar a identificação dos objectores de consciência e a emissão dos documentos que lhe forem solicitados pelas entidades competentes, nos termos da lei.
-
-3 - A Direcção de Serviços de Identificação Criminal, de Contumazes e Objectores de Consciência compreende:
-
-a) A Divisão de Identificação Criminal, a quem cabe exercer as competências previstas nas alíneas a), b) e c) e, na parte referente à identificação criminal, na alínea e) do número anterior;
-
-b) A Divisão de Contumazes e Objectores de Consciência, a quem cabe exercer as competências previstas nas alíneas d) e e), na parte referente à identificação de contumazes, e na alínea f) do número anterior.
-
-4 - O funcionamento da Direcção de Serviços de Identificação Criminal, de Contumazes e Objectores de Consciência é apoiado pelos serviços administrativos da Direcção-Geral dos Serviços Judiciários no que respeita à gestão do pessoal, à administração financeira e patrimonial e às actividades inerentes ao expediente, arquivo e impressos.
+> Revogado pelo/a [Decreto-Lei n.º 173/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1994-305592), publicado em 1994-06-25, com efeitos a partir de 1994-06-30.
 
 ###### Artigo 4.º
 
-1 - São garantidos na identificação civil os princípios da autenticidade, veracidade, univocidade e segurança dos elementos identificadores.
+(Revogado.)
 
-2 - O disposto no número anterior é também aplicável à identificação criminal, de contumazes e de objectores de consciência, com as necessárias adaptações.
+> Revogado pelo/a [Lei n.º 33/99](https://diariodarepublica.pt/dr/detalhe/lei/33-1999-322974), publicado em 1999-05-18, com efeitos a partir de 1999-05-23.
 
 ###### Artigo 5.º
 
-Para efeitos de emissão de bilhetes de identidade e de certificados de registo criminal, articulam-se com as Direcções de Serviços previstas no n.º 1 do artigo 2.º e no n.º 1 do artigo 3.º, respectivamente, os seguintes serviços:
-
-a) As conservatórias do registo civil, para os pedidos de bilhete de identidade, podendo ainda as sediadas nas capitais de distrito, ou no Funchal, em Angra do Heroísmo e em Ponta Delgada, proceder à sua emissão para os residentes nos concelhos do distrito ou das Regiões Autónomas, respectivamente;
-
-b) As secretarias judiciais ou as secretarias das câmaras municipais nas autarquias que não sejam sede de comarca, para os pedidos de certificado de registo criminal, podendo, ainda, as primeiras emitir os referidos certificados negativos;
-
-c) As representações diplomáticas e consulares portuguesas, para os pedidos referidos nas alíneas anteriores, quando os interessados residam no estrangeiro.
+(Revogado.)
 
 > Alterado pelo/a [Decreto-Lei n.º 87/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-1994-258994), publicado em 1994-03-30.
 

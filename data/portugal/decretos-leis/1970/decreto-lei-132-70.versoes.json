@@ -15,7 +15,7 @@
    ]
   },
   {
-   "date": "1975-05-24",
+   "date": "1978-07-15",
    "future": false,
    "acts": [
     {
@@ -29,6 +29,12 @@
      "title": "Decreto-Lei n.º 255/75",
      "published": "1975-05-24",
      "dre_path": "/dr/detalhe/decreto-lei/255-1975-335971"
+    },
+    {
+     "id": "pt:dre:434582:por",
+     "title": "Decreto-Lei n.º 180-B/78",
+     "published": "1978-07-15",
+     "dre_path": "/dr/detalhe/decreto-lei/180-b-1978-434582"
     }
    ],
    "changes": [
@@ -40,7 +46,9 @@
     "Altera Artigo 55.º",
     "Altera Artigo 57.º",
     "Altera Artigo 58.º",
-    "Altera Artigo 6.º"
+    "Altera Artigo 6.º",
+    "Revoga Artigo 24",
+    "Revoga Artigo 25"
    ],
    "fragments": [
     "9dc3aff66c90c055",
@@ -67,8 +75,8 @@
     "0ccdf28c7d916c57",
     "f2f59cbf56244087",
     "d2985e1e9f38a58e",
-    "34bf0f41fa567b2a",
-    "d9b698ac2671bb1d",
+    "67422e2b05ff1339",
+    "95bc3249cb1714bc",
     "f13348e7401932be",
     "815451890f8e8d30",
     "2828c295a031fd92",
@@ -155,7 +163,7 @@
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 4.º — Grau de doutor e título de agregado",
-   "in_force_from": "1975-05-24",
+   "in_force_from": "1978-07-15",
    "changed_by": [
     "Alterado pelo/a [Decreto-Lei n.º 637/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/637-1970-146056), publicado em 1970-12-22."
    ],
@@ -173,7 +181,7 @@
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 6.º — Assistentes e assistentes eventuais",
-   "in_force_from": "1975-05-24",
+   "in_force_from": "1978-07-15",
    "changed_by": [
     "Alterado pelo/a [Decreto-Lei n.º 255/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/255-1975-335971), publicado em 1975-05-24."
    ],
@@ -271,7 +279,7 @@
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 18.º — Especial latitude de recrutamento de certas categorias do pessoal docente",
-   "in_force_from": "1975-05-24",
+   "in_force_from": "1978-07-15",
    "changed_by": [
     "Alterado pelo/a [Decreto-Lei n.º 637/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/637-1970-146056), publicado em 1970-12-22."
    ],
@@ -281,7 +289,7 @@
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 19.º — Comissões de serviço para o exercício das funções de assistente",
-   "in_force_from": "1975-05-24",
+   "in_force_from": "1978-07-15",
    "changed_by": [
     "Alterado pelo/a [Decreto-Lei n.º 637/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/637-1970-146056), publicado em 1970-12-22."
    ],
@@ -291,7 +299,7 @@
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 20.º — Denúncia e rescisão de contratos",
-   "in_force_from": "1975-05-24",
+   "in_force_from": "1978-07-15",
    "changed_by": [
     "Alterado pelo/a [Decreto-Lei n.º 637/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/637-1970-146056), publicado em 1970-12-22."
    ],
@@ -321,21 +329,23 @@
    "changed_by": [],
    "markdown": "###### Artigo 23.º\n\n1. Os professores extraordinários são recrutados mediante concurso de provas públicas.\n\n2. Ao concurso serão admitidos:\n\na) Os professores extraordinários do mesmo grupo de outra Universidade ou de grupo análogo de outra escola da mesma ou de diferente Universidade;\n\nb) Os professores auxiliares;\n\nc) Os agregados;\n\nd) Os doutores por Universidades portuguesas ou equiparados;\n\ne) Os professores contratados equiparados a professores extraordinários.\n\n3. Poderão ainda ser admitidas individualidades de cujo e curriculum vitae constem trabalhos profissionais ou estudos científicos sobre matérias do grupo considerados de grande mérito por deliberação de 2/3 do conselho escolar, baseada em relatório de professores, nacionais ou estrangeiros, da especialidade.\n\n4. A organização das provas do concurso constará de regulamento.\n\nRecrutamento dos professores catedráticos"
   },
-  "34bf0f41fa567b2a": {
+  "67422e2b05ff1339": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 24.º",
-   "in_force_from": null,
-   "changed_by": [],
-   "markdown": "###### Artigo 24.º\n\nO recrutamento dos professores catedráticos poderá realizar-se:\n\na) Por convite;\n\nb) Por transferência;\n\nc) Por concurso de provas públicas.\n\nRecrutamento por convite"
+   "in_force_from": "1978-07-15",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 180-B/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-b-1978-434582), publicado em 1978-07-15."
+   ],
+   "markdown": "###### Artigo 24.º\n\nO recrutamento dos professores catedráticos poderá realizar-se:\n\na) (Revogada.)\n\nb) Por transferência;\n\nc) Por concurso de provas públicas.\n\nRecrutamento por convite\n\n> Revogado pelo/a [Decreto-Lei n.º 180-B/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-b-1978-434582), publicado em 1978-07-15."
   },
-  "d9b698ac2671bb1d": {
+  "95bc3249cb1714bc": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 25.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 25.º\n\n1. O convite só poderá ser dirigido a individualidades cujo mérito esteja comprovado por valiosa obra científica no domínio da disciplina ou do grupo de disciplinas em causa.\n\n2. O convite fundamentar-se-á em relatório subscrito pelo mínimo de dois professores catedráticos, apresentado ao conselho escolar em sessão expressamente convocada para esse fim, com indicação do nome de individualidade a convidar, e aprovado por 4/5 do conselho escolar.\n\n3. Se o Ministro da Educação Nacional aprovar o convite, o relatório a que se refere o número anterior será publicado no Diário do Governo com o despacho de nomeação.\n\nRecrutamento por transferência"
+   "markdown": "###### Artigo 25.º\n\n(Revogado.)\n\nRecrutamento por transferência"
   },
   "f13348e7401932be": {
    "fragment_id": null,
@@ -541,7 +551,7 @@
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 51.º — Número de horas de aulas por docente",
-   "in_force_from": "1975-05-24",
+   "in_force_from": "1978-07-15",
    "changed_by": [
     "Alterado pelo/a [Decreto-Lei n.º 637/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/637-1970-146056), publicado em 1970-12-22."
    ],
@@ -575,7 +585,7 @@
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 55.º — Gratificação de regências de cursos teóricos e de direcção de seminários",
-   "in_force_from": "1975-05-24",
+   "in_force_from": "1978-07-15",
    "changed_by": [
     "Alterado pelo/a [Decreto-Lei n.º 637/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/637-1970-146056), publicado em 1970-12-22."
    ],
@@ -593,7 +603,7 @@
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 57.º — Gratificação de horas extraordinárias",
-   "in_force_from": "1975-05-24",
+   "in_force_from": "1978-07-15",
    "changed_by": [
     "Alterado pelo/a [Decreto-Lei n.º 637/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/637-1970-146056), publicado em 1970-12-22."
    ],
@@ -603,7 +613,7 @@
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 58.º — Disposições transitórias",
-   "in_force_from": "1975-05-24",
+   "in_force_from": "1978-07-15",
    "changed_by": [
     "Alterado pelo/a [Decreto-Lei n.º 637/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/637-1970-146056), publicado em 1970-12-22."
    ],

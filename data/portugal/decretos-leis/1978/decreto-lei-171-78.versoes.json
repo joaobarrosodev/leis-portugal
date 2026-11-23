@@ -23,10 +23,17 @@
      "title": "Decreto-Lei n.º 16/80",
      "published": "1980-02-27",
      "dre_path": "/dr/detalhe/decreto-lei/16-1980-679620"
+    },
+    {
+     "id": "pt:dre:325150:por",
+     "title": "Decreto-Lei n.º 422/78",
+     "published": "1978-12-22",
+     "dre_path": "/dr/detalhe/decreto-lei/422-1978-325150"
     }
    ],
    "changes": [
-    "Altera Artigo 3.º"
+    "Altera Artigo 3.º",
+    "Revoga Artigo 7"
    ],
    "fragments": [
     "98d14e49bd54f46d",
@@ -36,7 +43,7 @@
     "cd9f2c7622586efe",
     "7beef70e9b610949",
     "bc328cf6a46e1401",
-    "4bfae387b34a9b21",
+    "ea113adb0834aeda",
     "7ce8c9fd0be3a2d8",
     "e241f17ce582269d"
    ]
@@ -109,13 +116,15 @@
    "changed_by": [],
    "markdown": "###### Artigo 6.º\n\n1 - O bilhete de identidade de que trata o presente diploma é renovado em termos idênticos aos estabelecidos na lei para o bilhete de identidade civil, condicionado pela ocorrência de promoção ou mudança de situação do respectivo titular que não implique perda de condição de elemento militarizado dos quadros da Polícia de Segurança Pública.\n\n2 - Quando se verifique renovação do bilhete de identidade, o novo bilhete será atribuído contra entrega, na Repartição de Pessoal do Comando-Geral ia Polícia de Segurança Pública, do bilhete caducado."
   },
-  "4bfae387b34a9b21": {
+  "ea113adb0834aeda": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 7.º",
-   "in_force_from": null,
-   "changed_by": [],
-   "markdown": "###### Artigo 7.º\n\nO bilhete de identidade é de uso obrigatório noventa dias após a entrada em vigor do presente diploma."
+   "in_force_from": "1980-02-27",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 422/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/422-1978-325150), publicado em 1978-12-22."
+   ],
+   "markdown": "###### Artigo 7.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 422/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/422-1978-325150), publicado em 1978-12-22."
   },
   "7ce8c9fd0be3a2d8": {
    "fragment_id": null,

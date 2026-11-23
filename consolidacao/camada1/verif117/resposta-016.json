@@ -1,0 +1,33 @@
+[
+ {
+  "id": "pt:dre:668330:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "O artigo 40.º do Decreto-Lei n.º 81/78 revoga o artigo 4.º do Decreto-Lei n.º 407-A/75; o consolidado mantém a epígrafe e o corpo (Revogado.).",
+    "texto_esperado": "(Revogado.)"
+   },
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "O artigo 2.º do Decreto-Lei n.º 895/76 dá ao artigo 9.º a nova redação; o consolidado é igual letra a letra.",
+    "texto_esperado": "O Secretário de Estado da Estruturação Agrária poderá requisitar aos proprietários e demais afectados por medidas de expropriação o equipamento mecânico e de indústria agrícola e outros componentes das respectivas explorações."
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Lei n.º 77/77, artigo 76.º: revoga o Decreto-Lei n.º 407-A/75 «sem prejuízo do disposto nos artigos 60.º a 70.º»",
+    "motivo": "Revogação condicional: ressalva os artigos 60.º a 70.º, que mantêm em vigor o artigo 4.º (art. 62.º) e os artigos 10.º a 12.º (art. 68.º) até regulamentação futura; o alcance depende de facto futuro. Confirmado no texto da Lei. (Juízo discutível: o resto do diploma ficaria revogado.)"
+   },
+   {
+    "instrucao": "Portarias n.º 215/79, 476/81, 576/81 e 1219/82 (desanexação de parcelas de prédios nacionalizados)",
+    "motivo": "Não textuais: o diploma que altera não traz texto de alteração ao original (texto omitido, atos de execução)."
+   }
+  ]
+ }
+]

@@ -34,10 +34,18 @@
      "title": "Decreto-Lei n.º 49235",
      "published": "1969-09-11",
      "dre_path": "/dr/detalhe/decreto-lei/49235-1969-214068"
+    },
+    {
+     "id": "pt:dre:537045:por",
+     "title": "Decreto-Lei n.º 45988",
+     "published": "1964-10-22",
+     "dre_path": "/dr/detalhe/decreto-lei/45988-1964-537045"
     }
    ],
    "changes": [
-    "Altera Artigo 11.º"
+    "Altera Artigo 11.º",
+    "Revoga Artigo 33",
+    "Revoga Artigo 34"
    ],
    "fragments": [
     "4a2bfd04300587f6",
@@ -83,8 +91,8 @@
     "f1316f6962327adc",
     "b423071b7b32cf28",
     "2f846e58a8310036",
-    "b68173dc6992a7c8",
-    "b4ce05fccf0790ab",
+    "ba136139b848b1d2",
+    "153f4060f8fa846a",
     "906717f4d4dc87be",
     "477b208b633f9c4b",
     "1f55999772396b28"
@@ -518,21 +526,23 @@
    "changed_by": [],
    "markdown": "###### Artigo 32.º\n\nAo Centro de Saúde e Assistência Materno-Infantil do Doutor Bissaia Barreto é aplicável o disposto no [Decreto-Lei n.º 39805](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39805-1954-639290), de 4 de Setembro de 1954, para os Hospitais centrais."
   },
-  "b68173dc6992a7c8": {
+  "ba136139b848b1d2": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 33.º",
-   "in_force_from": null,
-   "changed_by": [],
-   "markdown": "###### Artigo 33.º\n\nDurante os primeiros cinco anos de funcionamento, a contar da data da publicação deste diploma, o conselho administrativo do Centro de Saúde e Assistência Materno-Infantil do Doutor Bissaia Barreto será presidido pelo presidente da Comissão Instaladora do Conjunto Assistencial da Quinta da Rainha, que desempenhará essas funções a título gratuito e poderá também exercer a faculdade que é conferida ao director no artigo 19.º do presente diploma.\n\nFindo o prazo de cinco anos referido neste artigo, pode o mesmo ser prorrogado por mais dois anos, por despacho do Ministro da Saúde e Assistência."
+   "in_force_from": "1969-09-11",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 45988](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45988-1964-537045), publicado em 1964-10-22."
+   ],
+   "markdown": "###### Artigo 33.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 45988](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45988-1964-537045), publicado em 1964-10-22."
   },
-  "b4ce05fccf0790ab": {
+  "153f4060f8fa846a": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 34.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 34.º\n\nEnquanto durar a situação transitória a que se refere o artigo anterior, o director exercerá as funções de vice-presidente do conselho administrativo e poderá tornar a iniciativa da sua convocação, nos termos do disposto no artigo 13.º"
+   "markdown": "###### Artigo 34.º\n\n(Revogado.)"
   },
   "906717f4d4dc87be": {
    "fragment_id": null,

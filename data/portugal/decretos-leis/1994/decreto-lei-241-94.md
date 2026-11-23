@@ -54,9 +54,10 @@ version_history:
     changes: []
   - date: '1997-12-25'
     amending: pt:dre:420407:por
-    amending_title: Decreto-Lei n.º 365/97
+    amending_title: Decreto-Lei n.º 365/97; Decreto-Lei n.º 9/98
     changes:
     - Altera Artigo 3.º
+    - Revoga Artigo 5
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/241/1994/09/22/p/dre/pt/html
@@ -83,7 +84,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:33:08Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 365/97. Método e
-    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1994/decreto-lei-241-94.alteracoes.json'
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1994/decreto-lei-241-94.alteracoes.json.
+    Revogações registadas só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Decreto-Lei
+    n.º 9/98.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -270,11 +273,9 @@ Aos actuais técnicos superiores de saúde que, por força da aplicação da reg
 
 ###### Artigo 5.º — Salvaguarda de situações especiais
 
-1 - Nos dois anos subsequentes à entrada em vigor do presente diploma, os estagiários aprovados nos estágios referidos no n.º 1 do artigo 35.º do [Decreto-Lei n.º 414/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1991-344424), de 22 de Outubro, podem candidatar-se a concursos de provimento em lugares de assistente.
+(Revogado.)
 
-2 - O disposto no número anterior é aplicável aos titulares de equiparação ao estágio obtido ao abrigo do n.º 14.1 do regulamento aprovado pela [Portaria n.º 605/84](https://diariodarepublica.pt/dr/detalhe/portaria/605-1984-382210), de 16 de Agosto, na nova redacção que lhe foi dada pelo n.º 4.º da [Portaria n.º 552/88](https://diariodarepublica.pt/dr/detalhe/portaria/552-1988-376816), de 16 de Agosto, e do despacho ministerial n.º 34/86, de 22 de Agosto de 1986, publicado no Diário da República, 2.ª série, de 10 de Setembro de 1986.
-
-3 - Nos casos em que a preparação profissional relevante para efeitos de equiparação ao estágio teve início até à entrada em vigor do presente diploma, os requerimentos de equiparação devem ser apresentados dentro do prazo de seis meses contado a partir da conclusão daquela preparação, sendo de dois anos o período transitório durante o qual se poderão candidatar a concursos para provimento em lugares de assistente, os quais se contam a partir da data em que for proferida a decisão no processo de equiparação.
+> Revogado pelo/a [Decreto-Lei n.º 9/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-1998-239580), publicado em 1998-01-16, com efeitos a partir de 1996-09-27.
 
 ###### Artigo 6.º
 

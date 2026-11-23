@@ -1,0 +1,485 @@
+[
+ {
+  "id": "pt:dre:193229:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "certo",
+    "motivo": "§ 3.º com a redação do DL 46746 (art. único), letra a letra; restante igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 12.º",
+    "veredicto": "certo",
+    "motivo": "Redação do DL 47114, art. 2.º (corpo e § único), igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 13.º",
+    "veredicto": "certo",
+    "motivo": "Redação do DL 46290, art. 2.º, igual (forças terrestres, navais e aéreas).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 16.º",
+    "veredicto": "certo",
+    "motivo": "Redação do DL 46815, art. 1.º (corpo, alíneas a) a d) e § único) igual; «horários clínicos» como no alterador.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 17.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 18.º do DL 47550; epígrafe não existe; corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 18.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 18.º do DL 47550.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 19.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 18.º do DL 47550 (prevalece sobre os aditamentos/alteração do DL 46290); sem texto antigo a seguir.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 43.º",
+    "veredicto": "certo",
+    "motivo": "Redação do DL 46290, art. 2.º, igual.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 46290, art. 3.º: modificação/inclusão de gratificações nas tabelas n.os 10 e 11",
+    "motivo": "As tabelas só existem em imagem; sem título de anexo onde as pôr."
+   },
+   {
+    "instrucao": "DL 46815, art. 2.º: substituição da tabela n.º 17 por nova tabela anexa",
+    "motivo": "Tabela só em imagem no alterador; sem título de anexo no consolidado."
+   },
+   {
+    "instrucao": "DL 47114, art. 1.º: vencimentos de Cabo Verde passam a ser os da Guiné e S. Tomé e Príncipe",
+    "motivo": "Não textual: não altera texto do original, remete para tabelas."
+   },
+   {
+    "instrucao": "DL 47501, art. único e § único: gratificação de «comando»; especialidade aditada às tabelas n.os 10 e 13",
+    "motivo": "Tabelas só em imagem, sem título de anexo; o resto não altera o texto do original."
+   },
+   {
+    "instrucao": "DL 47756, art. único: aditamento de quantitativos à tabela n.º 7",
+    "motivo": "Tabela alvo só em imagem no consolidado, sem título de anexo onde pôr os quantitativos."
+   },
+   {
+    "instrucao": "DL 47795, art. único: substituição da tabela n.º 17",
+    "motivo": "Tabela só em imagem no alterador; sem título de anexo."
+   },
+   {
+    "instrucao": "DL 48793, art. 1.º: gratificação de 2250$00 na tabela n.º 10 (Macau)",
+    "motivo": "Tabela alvo só em imagem, sem título de anexo."
+   },
+   {
+    "instrucao": "DL 266/70, art. 1.º: substituição das tabelas n.os 1 a 9",
+    "motivo": "Tabelas só em imagem no alterador; sem título de anexo."
+   },
+   {
+    "instrucao": "DL 133/72, art. 2.º: gratificação de pisteiro de combate aditada às tabelas n.os 10 a 16",
+    "motivo": "O alterador não traz o texto a pôr nas tabelas; tabelas só em imagem."
+   },
+   {
+    "instrucao": "DL 228/72, art. 1.º: gratificação de 2250$00 na tabela n.º 10 (Timor)",
+    "motivo": "Tabela alvo só em imagem, sem título de anexo."
+   },
+   {
+    "instrucao": "DL 233/74, art. 2.º, n.º 2 (reajustamento da tabela 8) e art. 3.º (abolição da classificação 1.ª/2.ª)",
+    "motivo": "Não textual: não traz texto novo para o original; tabela em imagem."
+   },
+   {
+    "instrucao": "DL 47550, art. 18.º: revogação do art. 1.º do DL 46290",
+    "motivo": "Instrução dirigida a outro diploma (DL 46290); o seu efeito sobre o original (aditados n.os 9 e 10 ao art. 19.º) fica coberto pela revogação do art. 19.º."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:226629:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "Art. 1.º não está entre os mantidos (art. 70.º, n.º 1): revogado.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "Art. 70.º, n.º 1 mantém só n.os 1 e 2 do art. 3.º; n.os 3, 4 e 5 revogados.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 70.º, n.º 1 do DL 124/99 (fora da lista dos mantidos: art. 2.º, 3.º n.os 1-2, 6.º, 10.º n.º 2 em parte, 11.º a 21.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 70.º, n.º 1 do DL 124/99 (fora da lista dos mantidos: art. 2.º, 3.º n.os 1-2, 6.º, 10.º n.º 2 em parte, 11.º a 21.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 70.º, n.º 1 do DL 124/99 (fora da lista dos mantidos: art. 2.º, 3.º n.os 1-2, 6.º, 10.º n.º 2 em parte, 11.º a 21.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 70.º, n.º 1 do DL 124/99 (fora da lista dos mantidos: art. 2.º, 3.º n.os 1-2, 6.º, 10.º n.º 2 em parte, 11.º a 21.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 70.º, n.º 1 do DL 124/99 (fora da lista dos mantidos: art. 2.º, 3.º n.os 1-2, 6.º, 10.º n.º 2 em parte, 11.º a 21.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 10.º",
+    "veredicto": "dúvida",
+    "motivo": "Art. 70.º, n.º 1 do DL 124/99 revoga o DL 219/92 mantendo «a parte inicial das alíneas b) e c) e a alínea d) do n.º 2 do artigo 10.º». Consolidado: revogou n.º 1, a), 3 e 4 e manteve proémio do n.º 2 e b), c), d) inteiras; não se sabe onde acaba a «parte inicial» de b) e c) (alvo incerto).",
+    "texto_esperado": "n.º 1 (Revogado.); n.º 2 proémio; a) (Revogada.); b) e c) só na parte inicial (limite incerto); d) inteira; 3 (Revogado.); 4 (Revogado.)"
+   },
+   {
+    "artigo": "Artigo 12.º",
+    "veredicto": "certo",
+    "motivo": "n.º 4 com a redação do art. 62.º, n.º 3 do DL 124/99 (ou obtido o doutoramento...), letra a letra; n.os 1 a 3 iguais (art. 12.º é mantido: arts. 11.º a 21.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 22.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 70.º, n.º 1 do DL 124/99 (fora da lista dos mantidos: art. 2.º, 3.º n.os 1-2, 6.º, 10.º n.º 2 em parte, 11.º a 21.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 23.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 70.º, n.º 1 do DL 124/99 (fora da lista dos mantidos: art. 2.º, 3.º n.os 1-2, 6.º, 10.º n.º 2 em parte, 11.º a 21.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 24.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 70.º, n.º 1 do DL 124/99 (fora da lista dos mantidos: art. 2.º, 3.º n.os 1-2, 6.º, 10.º n.º 2 em parte, 11.º a 21.º). Cabeçalho de capítulo a seguir não é texto antigo do artigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 25.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 70.º, n.º 1 do DL 124/99 (fora da lista dos mantidos: art. 2.º, 3.º n.os 1-2, 6.º, 10.º n.º 2 em parte, 11.º a 21.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 26.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 70.º, n.º 1 do DL 124/99 (fora da lista dos mantidos: art. 2.º, 3.º n.os 1-2, 6.º, 10.º n.º 2 em parte, 11.º a 21.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 27.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 70.º, n.º 1 do DL 124/99 (fora da lista dos mantidos: art. 2.º, 3.º n.os 1-2, 6.º, 10.º n.º 2 em parte, 11.º a 21.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 28.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 70.º, n.º 1 do DL 124/99 (fora da lista dos mantidos: art. 2.º, 3.º n.os 1-2, 6.º, 10.º n.º 2 em parte, 11.º a 21.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 29.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 70.º, n.º 1 do DL 124/99 (fora da lista dos mantidos: art. 2.º, 3.º n.os 1-2, 6.º, 10.º n.º 2 em parte, 11.º a 21.º). Cabeçalho de capítulo a seguir não é texto antigo do artigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 30.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 70.º, n.º 1 do DL 124/99 (fora da lista dos mantidos: art. 2.º, 3.º n.os 1-2, 6.º, 10.º n.º 2 em parte, 11.º a 21.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 31.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 70.º, n.º 1 do DL 124/99 (fora da lista dos mantidos: art. 2.º, 3.º n.os 1-2, 6.º, 10.º n.º 2 em parte, 11.º a 21.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 32.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 70.º, n.º 1 do DL 124/99 (fora da lista dos mantidos: art. 2.º, 3.º n.os 1-2, 6.º, 10.º n.º 2 em parte, 11.º a 21.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 33.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 70.º, n.º 1 do DL 124/99 (fora da lista dos mantidos: art. 2.º, 3.º n.os 1-2, 6.º, 10.º n.º 2 em parte, 11.º a 21.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 34.º",
+    "veredicto": "certo",
+    "motivo": "Revogado (não mantido); o fecho do diploma (visto, promulgação, referenda) não é texto do artigo e fica.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [
+   "Art. 70.º, n.º 1: «parte inicial das alíneas b) e c)» do n.º 2 do art. 10.º: alvo incerto (consolidado manteve b) e c) inteiras; o resto de b) e c) não foi revogado)"
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Art. 62.º, n.os 1 e 2: manutenção transitória do regime do DL 219/92 e regime de nomeação definitiva",
+    "motivo": "Não textual: manutenção/transição, não altera o texto."
+   },
+   {
+    "instrucao": "Art. 62.º, n.º 4: referências ao CRAF consideram-se feitas ao conselho científico",
+    "motivo": "Mudança de designação sem nova redação."
+   },
+   {
+    "instrucao": "Art. 70.º, n.º 2: revogação do DL 365/86",
+    "motivo": "Instrução dirigida a outro diploma."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:281452:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 33.º do DL 583/72 («artigos 3.º e seguintes»), que prevalece sobre as alterações anteriores (DL 48946, 217/70).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 33.º do DL 583/72 («artigos 3.º e seguintes»), que prevalece sobre as alterações anteriores (DL 48946, 217/70).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 33.º do DL 583/72 («artigos 3.º e seguintes»), que prevalece sobre as alterações anteriores (DL 48946, 217/70).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 33.º do DL 583/72 («artigos 3.º e seguintes»), que prevalece sobre as alterações anteriores (DL 48946, 217/70).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 33.º do DL 583/72 («artigos 3.º e seguintes»), que prevalece sobre as alterações anteriores (DL 48946, 217/70).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 33.º do DL 583/72 («artigos 3.º e seguintes»), que prevalece sobre as alterações anteriores (DL 48946, 217/70).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 33.º do DL 583/72 («artigos 3.º e seguintes»), que prevalece sobre as alterações anteriores (DL 48946, 217/70).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 10.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 33.º do DL 583/72 («artigos 3.º e seguintes»), que prevalece sobre as alterações anteriores (DL 48946, 217/70).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 11.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 33.º do DL 583/72 («artigos 3.º e seguintes»), que prevalece sobre as alterações anteriores (DL 48946, 217/70).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 12.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 33.º do DL 583/72 («artigos 3.º e seguintes»), que prevalece sobre as alterações anteriores (DL 48946, 217/70).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 13.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 33.º do DL 583/72 («artigos 3.º e seguintes»), que prevalece sobre as alterações anteriores (DL 48946, 217/70).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 14.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 33.º do DL 583/72 («artigos 3.º e seguintes»), que prevalece sobre as alterações anteriores (DL 48946, 217/70).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 15.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 33.º do DL 583/72 («artigos 3.º e seguintes»), que prevalece sobre as alterações anteriores (DL 48946, 217/70).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 16.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 33.º do DL 583/72 («artigos 3.º e seguintes»), que prevalece sobre as alterações anteriores (DL 48946, 217/70).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 17.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 33.º do DL 583/72 («artigos 3.º e seguintes»), que prevalece sobre as alterações anteriores (DL 48946, 217/70).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 18.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 33.º do DL 583/72 («artigos 3.º e seguintes»), que prevalece sobre as alterações anteriores (DL 48946, 217/70).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 19.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 33.º do DL 583/72 («artigos 3.º e seguintes»), que prevalece sobre as alterações anteriores (DL 48946, 217/70).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 20.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 33.º do DL 583/72 («artigos 3.º e seguintes»), que prevalece sobre as alterações anteriores (DL 48946, 217/70).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 21.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 33.º do DL 583/72 («artigos 3.º e seguintes»), que prevalece sobre as alterações anteriores (DL 48946, 217/70).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 22.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 33.º do DL 583/72 («artigos 3.º e seguintes»), que prevalece sobre as alterações anteriores (DL 48946, 217/70).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 23.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 33.º do DL 583/72 («artigos 3.º e seguintes»), que prevalece sobre as alterações anteriores (DL 48946, 217/70).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 24.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 33.º do DL 583/72 («artigos 3.º e seguintes»), que prevalece sobre as alterações anteriores (DL 48946, 217/70). Epígrafe/cabeçalho de capítulo a seguir não é texto antigo do artigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 25.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 33.º do DL 583/72 («artigos 3.º e seguintes»), que prevalece sobre as alterações anteriores (DL 48946, 217/70).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 26.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 33.º do DL 583/72 («artigos 3.º e seguintes»), que prevalece sobre as alterações anteriores (DL 48946, 217/70).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 27.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 33.º do DL 583/72 («artigos 3.º e seguintes»), que prevalece sobre as alterações anteriores (DL 48946, 217/70).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 28.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 33.º do DL 583/72 («artigos 3.º e seguintes»), que prevalece sobre as alterações anteriores (DL 48946, 217/70).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 29.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 33.º do DL 583/72 («artigos 3.º e seguintes»), que prevalece sobre as alterações anteriores (DL 48946, 217/70). Epígrafe/cabeçalho de capítulo a seguir não é texto antigo do artigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 30.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 33.º do DL 583/72 («artigos 3.º e seguintes»), que prevalece sobre as alterações anteriores (DL 48946, 217/70).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 31.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 33.º do DL 583/72 («artigos 3.º e seguintes»), que prevalece sobre as alterações anteriores (DL 48946, 217/70).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 32.º",
+    "veredicto": "dúvida",
+    "motivo": "O art. 33.º do DL 583/72 revoga os artigos 3.º e seguintes (em vigor desde 1/1/1973) e o consolidado deixa o art. 32.º «(Revogado.)». Mas o DL 7/85 dá nova redação ao § único do art. 32.º, o que sugere vigência; o alterador não repõe expressamente o artigo (alvo incerto).",
+    "texto_esperado": "Alternativa se o DL 7/85 se aplicar: corpo (a e b) + § único: «A revisão das condições financeiras consistirá no cálculo de uma nova renda, ou da prestação de amortização, a partir da data da modificação da situação do funcionário, utilizando-se no novo cálculo as taxas de 15,5% no caso de exoneração e de 14,5% no caso de passagem à licença ilimitada.»"
+   },
+   {
+    "artigo": "Artigo 33.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 33.º do DL 583/72 («artigos 3.º e seguintes»), que prevalece sobre as alterações anteriores (DL 48946, 217/70).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 34.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 33.º do DL 583/72 («artigos 3.º e seguintes»), que prevalece sobre as alterações anteriores (DL 48946, 217/70).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 35.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 33.º do DL 583/72 («artigos 3.º e seguintes»), que prevalece sobre as alterações anteriores (DL 48946, 217/70). Fecho do diploma não é texto do artigo.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [
+   "DL 7/85, art. único: nova redação do § único do art. 32.º: alvo incerto (art. 32.º revogado por DL 583/72, art. 33.º)"
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 217/70, art. 2.º: registo da propriedade horizontal de prédios da Caixa",
+    "motivo": "Norma própria do DL 217/70; não altera o texto do original."
+   },
+   {
+    "instrucao": "DL 583/72, art. 5.º: capitais do Fundo Permanente postos à disposição do Fundo de Fomento da Habitação",
+    "motivo": "Não textual."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

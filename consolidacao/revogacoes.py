@@ -137,6 +137,72 @@ def entrada() -> None:
     print(f"{len(itens)} consolidados, {sum(len(x['alteradores_candidatos']) for x in itens)} alteradores, {len(lotes)} lotes")
 
 
+MAX_ALTERADOR_R3 = 100_000
+MAX_EM_VIGOR_R3 = 150_000
+
+
+def entrada_r3() -> None:
+    """Ronda r3: os pares que ainda não estão aplicados nem confirmados às cegas como «não se aplica», com o
+    motivo do último verificador como reparo. O diploma que revoga vai até 100 000 caracteres (os artigos que
+    mencionam o consolidado, quando é maior), e o texto em vigor vai inteiro até 150 000."""
+    vered = _veredictos()
+    itens = []
+    for id_, c in sorted(candidatos().items()):
+        pendentes = [alt for alt in _ordem(c) if vered.get((id_, alt), {}).get("veredicto") != "certo"]
+        if not pendentes:
+            continue
+        caminho = RAIZ / c["caminho"]
+        texto = caminho.read_text(encoding="utf-8")
+        meta = front_matter(texto)
+        linhas = corpo(texto).split("\n")
+        alteradores = []
+        for alt in pendentes:
+            a = c["alteradores"][alt]
+            ta = corpo((RAIZ / a["path"]).read_text(encoding="utf-8")).strip() if a.get("path") else "(o acervo não tem o texto deste diploma: só o rótulo do DRE)"
+            if len(ta) > MAX_ALTERADOR_R3:
+                arts = artigos_alteradores(ta, meta.get("title") or "")
+                ta = "\n\n".join("\n".join(x.linhas).strip() for x in arts) or ta
+            v = vered.get((id_, alt))
+            alteradores.append({"id": a["id"], "titulo": a["title"], "publicacao": a.get("publication_date"),
+                                "rotulos_dre": a.get("rotulos_dre") or [], "data_dre": a.get("data_dre"),
+                                "texto": ta[:MAX_ALTERADOR_R3], "texto_cortado": len(ta) > MAX_ALTERADOR_R3,
+                                "reparo": (f"Uma verificação às cegas da resposta anterior deu «{v['veredicto']}»: {v.get('motivo', '')}" if v
+                                           else "Não houve resposta anterior para este par.")})
+        completo = "\n".join(f"L{i}: {l}" for i, l in enumerate(linhas) if l.strip())
+        if len(completo) <= MAX_EM_VIGOR_R3:
+            em_vigor_txt, parcial = completo, False
+        else:
+            mostradas = rl.linhas_relevantes(linhas, [sem_ligacoes(x["texto"]) for x in alteradores] + [" ".join(x["rotulos_dre"]) for x in alteradores])
+            fim = [i for i in range(max(0, len(linhas) - 120), len(linhas)) if linhas[i].strip()]
+            em_vigor_txt, parcial = "\n".join(f"L{i}: {linhas[i]}" for i in sorted(set(mostradas) | set(fim))), True
+        itens.append({"id": id_, "titulo": meta.get("title"), "caminho": c["caminho"], "texto_parcial": parcial,
+                      "texto_em_vigor": em_vigor_txt, "alteradores_candidatos": alteradores, "outros_alteradores": []})
+    for f in LLM.glob("entrada-r3-*.jsonl"):
+        f.unlink()
+    lotes: list[list[dict]] = [[]]
+    for x in itens:
+        tamanho = len(json.dumps(x, ensure_ascii=False))
+        if lotes[-1] and (sum(len(json.dumps(y, ensure_ascii=False)) for y in lotes[-1]) + tamanho > 250_000 or len(lotes[-1]) >= 4):
+            lotes.append([])
+        lotes[-1].append(x)
+    for n, lote in enumerate(lotes, 1):
+        (LLM / f"entrada-r3-{n:02d}.jsonl").write_text("".join(json.dumps(x, ensure_ascii=False) + "\n" for x in lote), encoding="utf-8")
+    print(f"r3: {len(itens)} consolidados, {sum(len(x['alteradores_candidatos']) for x in itens)} pares, {len(lotes)} lotes")
+
+
+def _vistos() -> dict[str, dict]:
+    """O que o respondedor leu, por consolidado: a entrada da ronda mais recente que o trouxe."""
+    vistos = {}
+    for f in sorted(LLM.glob("entrada-*.jsonl"), key=lambda f: (f.stem.count("-r"), f.name)):
+        for l in f.read_text(encoding="utf-8").splitlines():
+            if l.strip():
+                d = json.loads(l)
+                vistos.setdefault(d["id"], {}).update({"texto_em_vigor": d["texto_em_vigor"], "texto_parcial": d.get("texto_parcial")})
+                for a in d["alteradores_candidatos"]:
+                    vistos[d["id"]][a["id"]] = a
+    return vistos
+
+
 def respostas() -> dict[tuple[str, str], dict]:
     """(consolidado, alterador) → resposta, de todos os `resposta-NN.jsonl`."""
     resultado = {}
@@ -247,6 +313,19 @@ def verificacao(ronda: str | None = None) -> None:
                 "nao_aplicadas": r.get("nao_aplicadas", []),
             })
             linhas = copia
+    if ronda:
+        # o verificador lê o que o respondedor leu (como na 2.ª passagem), e não os primeiros 40 000 caracteres
+        vistos = _vistos()
+        for x in itens:
+            v = vistos.get(x["id"], {})
+            a = v.get(x["alterador_id"])
+            if a is not None:
+                x["texto_do_alterador"] = a["texto"]
+                x["texto_do_alterador_cortado"] = bool(a.get("texto_cortado"))
+            ja = any("já aplicad" in str(n.get("motivo", "")).lower() for n in x.get("nao_aplicadas") or [])
+            if not x["alteracoes_feitas"] or ja:
+                x["texto_em_vigor"] = v.get("texto_em_vigor", "")
+                x["texto_em_vigor_parcial"] = bool(v.get("texto_parcial"))
     (LLM / (f"verificacao-entrada-{ronda}.jsonl" if ronda else "verificacao-entrada.jsonl")).write_text("".join(json.dumps(x, ensure_ascii=False) + "\n" for x in itens), encoding="utf-8")
     print(f"{len(itens)} pares com trocas para a verificação às cegas")
 
@@ -480,7 +559,7 @@ def estado() -> None:
 
 def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(description=__doc__.split("\n")[0])
-    parser.add_argument("passo", choices=["entrada", "verificacao", "juntar-saidas", "verificacao-v2", "aplicar", "estado"])
+    parser.add_argument("passo", choices=["entrada", "entrada-r3", "verificacao", "juntar-saidas", "verificacao-v2", "aplicar", "estado"])
     parser.add_argument("--dry-run", action="store_true")
     parser.add_argument("--ronda", help="com verificacao: só os pares respondidos nessa ronda (r2, …)")
     args = parser.parse_args(argv)
@@ -488,6 +567,8 @@ def main(argv: list[str] | None = None) -> int:
         entrada()
     elif args.passo == "verificacao":
         verificacao(args.ronda)
+    elif args.passo == "entrada-r3":
+        entrada_r3()
     elif args.passo == "juntar-saidas":
         juntar_saidas()
     elif args.passo == "verificacao-v2":

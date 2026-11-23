@@ -25,14 +25,14 @@
   "anexos": [],
   "nao_aplicavel": null,
   "instrucoes": [
-    "Alterador 1 (Decl. Rect. 236/91), art. 3.º n.º 1: «resultados» -> «resultantes»; aplicado.",
+    "Alterador 1 (Rect. 236/91), art. 3.º n.º 1: «entre os resultados» -> «entre os resultantes»; aplicado.",
     "Alterador 1, art. 7.º n.º 1: «adoptar-se-á à fórmula geral:» -> «adoptar-se-á a fórmula geral:»; aplicado.",
-    "Alterador 1, art. 9.º n.º 1: «os titulares do direito a indemnização» -> «à indemnização»; aplicado (só no n.º 1).",
-    "Alterador 1, art. 9.º n.º 2 a): «pelos titulares do direito a indemnização,» -> «à indemnização,»; aplicado."
+    "Alterador 1, art. 9.º n.º 1: «os titulares do direito a indemnização» -> «os titulares do direito à indemnização»; aplicado só no n.º 1.",
+    "Alterador 1, art. 9.º n.º 2 a): «pelos titulares do direito a indemnização,» -> «pelos titulares do direito à indemnização,»; aplicado só na alínea a)."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "ronda_camada1": 116,
+  "ronda_camada1": 117,
   "problemas": [
     "3.º: parágrafo que não está no alterador nem no original: 1 - O valor a atribuir às participações financeiras detidas pelas empresas nacio",
     "7.º: parágrafo que não está no alterador nem no original: 1 - Para o cálculo do valor da indemnização a atribuir por cada acção ou parte d",

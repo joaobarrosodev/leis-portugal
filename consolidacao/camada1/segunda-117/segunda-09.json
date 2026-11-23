@@ -1,0 +1,17 @@
+[
+ {
+  "id": "pt:dre:668330:por",
+  "veredicto": "reparos",
+  "problemas": [
+   "Alteração em falta: o Decreto-Lei n.º 248/76, de 7 de Abril (pt:dre:502814:por, no acervo em data/portugal/decretos-leis/1976/decreto-lei-248-76.md), artigo 1.º, dá nova redação aos artigos 1.º, 3.º, 4.º e 8.º, n.º 3, do Decreto-Lei n.º 407-A/75. Não está entre os alteradores nem nas relationships do original (só aparece como 'cites'), e é anterior à Lei n.º 77/77 e ao DL 895/76, portanto devia estar aplicado. Os artigos 1.º, 3.º e 8.º do consolidado continuam iguais ao original.",
+   "Artigo 1.º: deve ter a redação do DL 248/76, com 4 números. N.º 1 «São nacionalizados os prédios rústicos beneficiados [...] de uma área beneficiada superior a 30 ha, e que, mediante aplicação da tabela anexa ao Decreto-Lei n.º 406-A/75, de 29 de Julho, se verifique corresponder a mais de 50000 pontos.» Novos n.ºs 2 (melhoramentos posteriores a 30 de Julho de 1975 não contam), 3 (prédios de produtores autónomos não são nacionalizáveis) e 4 (definição de produtor autónomo). O consolidado tem o parágrafo único original, sem «superior a 30 ha».",
+   "Artigo 3.º: deve ter a redação do DL 248/76, com 7 números. N.º 1 «É garantido [...] até ao limite equivalente a 50000 pontos, de harmonia com a tabela anexa ao Decreto-Lei n.º 406-A/75, de 29 de Julho, mas nunca inferior a 30 ha, independentemente da pontuação, desde que aqueles não mantenham terras incultas ou não alcancem os níveis mínimos de aproveitamento a estabelecer por decreto proposto pelo Ministro da Agricultura e Pescas.» N.º 2 «O desaparecimento superveniente dos requisitos [...]». N.º 3 é novo (preferência das cooperativas no arrendamento). N.º 4 é novo (reserva já exercida noutro diploma). N.º 5 «Não gozam do direito de reserva as pessoas colectivas de direito privado, incluindo as sociedades, ainda que de utilidade pública.» N.º 6 «[...] por sucessão a favor de herdeiros legítimos ou do Estado ou, mediante negócio inter vivos, a favor do Estado.» N.º 7 proíbe a divisão. O consolidado tem os 5 números originais, com as alíneas a) a c) do n.º 1.",
+   "Artigo 8.º, n.º 3: deve ter a redação do DL 248/76, que remete para «da consequência prevista através do n.º 1 do artigo 3.º» em vez de «da alínea c) do n.º 1 do artigo 3.º do presente diploma». Os n.ºs 1 e 2 mantêm-se. O consolidado tem o n.º 3 original.",
+   "Artigo 4.º: o DL 248/76 também lhe deu nova redação, mas o DL 81/78 (art. 40.º) revogou-o depois sem condições, e por isso o «(Revogado.)» está certo. Não há reparo, fica só o registo."
+  ],
+  "vigencia": {
+   "conclusao": "revogado",
+   "prova": "Lei n.º 77/77, art. 76.º: «Sem prejuízo do disposto nos artigos 60.º a 70.º, são revogados os Decretos-Leis [...] 407-A/75». Ficaram transitoriamente em vigor o art. 4.º (art. 62.º da Lei, até à regulação do processo de reserva; revogado depois pelo DL 81/78, art. 40.º) e os arts. 10.º a 12.º (art. 68.º da Lei, até à regulação da gestão dos prédios nacionalizados). A revogação condicional não foi aplicada ao texto, o que é questão de vigência e não de texto."
+  }
+ }
+]

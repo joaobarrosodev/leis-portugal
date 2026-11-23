@@ -118,7 +118,7 @@
    ]
   },
   {
-   "date": "1993-09-06",
+   "date": "1994-01-01",
    "future": false,
    "acts": [
     {
@@ -150,6 +150,24 @@
      "title": "Decreto-Lei n.º 304/93",
      "published": "1993-09-01",
      "dre_path": "/dr/detalhe/decreto-lei/304-1993-633541"
+    },
+    {
+     "id": "pt:dre:553389:por",
+     "title": "Decreto-Lei n.º 2/82",
+     "published": "1982-01-05",
+     "dre_path": "/dr/detalhe/decreto-lei/2-1982-553389"
+    },
+    {
+     "id": "pt:dre:354117:por",
+     "title": "Decreto-Lei n.º 381/88",
+     "published": "1988-10-25",
+     "dre_path": "/dr/detalhe/decreto-lei/381-1988-354117"
+    },
+    {
+     "id": "pt:dre:668521:por",
+     "title": "Decreto-Lei n.º 362/93",
+     "published": "1993-10-15",
+     "dre_path": "/dr/detalhe/decreto-lei/362-1993-668521"
     }
    ],
    "changes": [
@@ -157,7 +175,10 @@
     "Altera Artigo 64.º",
     "Altera Artigo 65.º",
     "Altera Artigo 70.º",
-    "Altera Artigo 74.º"
+    "Altera Artigo 74.º",
+    "Revoga Artigo 24",
+    "Revoga Artigo 66",
+    "Revoga Artigo 19"
    ],
    "fragments": [
     "9bf01daef05cae99",
@@ -183,12 +204,12 @@
     "66eba60d6fd76201",
     "1133ddfa3b2acb6c",
     "84c372d09bf0e109",
-    "764e6a09e84a1420",
+    "439625a4e733bd8e",
     "43df9cb740a78446",
     "5d451b233e96ba9c",
     "0b1a25801f706d20",
     "0549e00e1cc9adac",
-    "145ea113ff397894",
+    "c69a5c12f08f348d",
     "33ca5c354cdf7204",
     "8b8f850c290a85d2",
     "f346b0fe9b8576ef",
@@ -235,7 +256,7 @@
     "4345be731da35e68",
     "1fda83f15dc6df96",
     "0637b808815de2c4",
-    "c9309824471156d9",
+    "4795030f06196e18",
     "096e939c1e9410b6",
     "6844c529fe663144",
     "d2fe56ac17393355",
@@ -1100,11 +1121,31 @@
    "changed_by": [],
    "markdown": "###### Artigo 88.º — (Resolução de dúvidas)\n\nAs dúvidas suscitadas na execução do presente regulamento serão resolvidas por despacho do Ministro das Corporações e Previdência Social, ouvido o Conselho Superior da Acção Social.\n\nMarcello Caetano - Baltasar Leite Rebelo de Sousa - Joaquim Dias da Silva Pinto.\n\nPromulgado em 9 de Agosto de 1971.\n\nPublique-se.\n\nO Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ."
   },
+  "439625a4e733bd8e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — (Mapas de acidentes)",
+   "in_force_from": "1994-01-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 362/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/362-1993-668521), publicado em 1993-10-15, com efeitos a partir de 1994-01-01."
+   ],
+   "markdown": "###### Artigo 19.º — (Mapas de acidentes)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 362/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/362-1993-668521), publicado em 1993-10-15, com efeitos a partir de 1994-01-01."
+  },
+  "c69a5c12f08f348d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — (Doenças profissionais)",
+   "in_force_from": "1994-01-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 2/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-1982-553389), publicado em 1982-01-05."
+   ],
+   "markdown": "###### Artigo 24.º — (Doenças profissionais)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 2/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-1982-553389), publicado em 1982-01-05."
+  },
   "f357d7100ffc1f5a": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 50.º — Limites da retribuição-base",
-   "in_force_from": "1993-09-06",
+   "in_force_from": "1994-01-01",
    "changed_by": [
     "Alterado pelo/a [Decreto-Lei n.º 459/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/459-1979-367047), publicado em 1979-11-23."
    ],
@@ -1114,7 +1155,7 @@
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 64.º — Condições de remição",
-   "in_force_from": "1993-09-06",
+   "in_force_from": "1994-01-01",
    "changed_by": [
     "Alterado pelo/a [Decreto-Lei n.º 459/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/459-1979-367047), publicado em 1979-11-23."
    ],
@@ -1124,17 +1165,27 @@
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 65.º — Capital",
-   "in_force_from": "1993-09-06",
+   "in_force_from": "1994-01-01",
    "changed_by": [
     "Alterado pelo/a [Decreto-Lei n.º 304/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/304-1993-633541), publicado em 1993-09-01."
    ],
    "markdown": "###### Artigo 65.º — Capital\n\n1 - O capital de remição de uma pensão será igual a 95% do valor correspondente ao montante da respectiva provisão matemática, calculada de acordo com as tabelas em vigor para o cálculo das provisões matemáticas das empresas de seguros.\n\n2 - No cálculo da provisão matemática para os efeitos do disposto no número anterior não serão, no caso de a pensão ser da responsabilidade de empresas de seguros, consideradas as alterações verificadas em pensões fixadas anteriormente a 1 de Outubro de 1979, em consequência da aplicação do artigo 50.º do presente diploma, na redacção que lhe foi dada pelo [Decreto-Lei n.º 459/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/459-1979-367047), de 23 de Novembro, nem tão-pouco a atribuição de prestações suplementares pagáveis no mês de Dezembro de cada ano.\n\n> Alterado pelo/a [Decreto-Lei n.º 304/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/304-1993-633541), publicado em 1993-09-01."
   },
+  "4795030f06196e18": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 66.º — (Impenhorabilidade e inalienabilidade dos imóveis)",
+   "in_force_from": "1994-01-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 381/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/381-1988-354117), publicado em 1988-10-25, com efeitos a partir de 1988-10-30."
+   ],
+   "markdown": "###### Artigo 66.º — (Impenhorabilidade e inalienabilidade dos imóveis)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 381/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/381-1988-354117), publicado em 1988-10-25, com efeitos a partir de 1988-10-30."
+  },
   "583c7bbbd79eda32": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 70.º — Obrigação do caucionamento",
-   "in_force_from": "1993-09-06",
+   "in_force_from": "1994-01-01",
    "changed_by": [
     "Alterado pelo/a [Decreto-Lei n.º 283/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-1992-623854), publicado em 1992-12-19."
    ],
@@ -1144,7 +1195,7 @@
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 74.º — Representantes das responsáveis",
-   "in_force_from": "1993-09-06",
+   "in_force_from": "1994-01-01",
    "changed_by": [
     "Alterado pelo/a [Decreto-Lei n.º 19/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-1991-694039), publicado em 1991-01-10."
    ],

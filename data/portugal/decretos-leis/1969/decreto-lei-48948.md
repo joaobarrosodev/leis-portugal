@@ -33,7 +33,7 @@ version:
   kind: consolidated
   label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: '1970-05-08'
+  consolidation_date: '1977-09-13'
 version_history:
   file: decreto-lei-48948.versoes.json
   count: 2
@@ -43,12 +43,14 @@ version_history:
     amending: null
     amending_title: null
     changes: []
-  - date: '1970-05-08'
+  - date: '1977-09-13'
     amending: pt:dre:226036:por
-    amending_title: Decreto-Lei n.º 180/70; Decreto-Lei n.º 199/70
+    amending_title: Decreto-Lei n.º 180/70; Decreto-Lei n.º 199/70; Decreto-Lei n.º 385/77
     changes:
     - Altera Artigo 6.º
     - Altera Artigo 16.º
+    - Revoga Artigo 15
+    - Revoga Artigo 16
 identifiers:
   celex: null
   eli: null
@@ -75,7 +77,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:08:59Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 180/70; Decreto-Lei
-    n.º 199/70. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1969/decreto-lei-48948.alteracoes.json'
+    n.º 199/70. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1969/decreto-lei-48948.alteracoes.json.
+    Revogações registadas só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Decreto-Lei
+    n.º 385/77.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -304,41 +308,13 @@ Das garantias de liquidez e solvabilidade dos bancos comerciais
 
 ###### Artigo 15.º
 
-1. São consideradas disponibilidades de caixa dos bancos comerciais:
+(Revogado.)
 
-a) O dinheiro em cofre;
-
-b) Os depósitos à ordem no banco emissor do continente e ilhas adjacentes;
-
-c) As promissórias do fomento nacional.
-
-2. Os vales do correio e os cheques emitidos por entidades de reconhecida idoneidade sobre instituições de crédito domiciliadas no País poderão ser considerados como dinheiro em cofre, pelo período máximo de três dias.
-
-3. Os cheques emitidos por bancos comerciais, quer sobre as suas sucursais, ou vice-versa, quer sobre outras instituições de crédito, não poderão ser considerados como dinheiro em cofre.
+> Revogado pelo/a [Decreto-Lei n.º 385/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/385-1977-285947), publicado em 1977-09-13.
 
 ###### Artigo 16.º
 
-1. O Ministro das Finanças, ouvido o Banco de Portugal, fixará, por portaria, a participação que, nas disponibilidades de caixa, poderão atingir as promissórias de fomento nacional.
-
-2. Compete ao Banco de Portugal, em conformidade com o disposto no § 2.º do artigo 14.º do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968), de 12 de Novembro de 1959, determinar:
-
-a) A fracção das disponibilidades de caixa que pode estar representada por cheques e vales do correio, quando considerados dinheiro em cofre;
-
-b) As percentagens, respectivamente, de responsabilidades à vista e de depósitos a prazo, igual ou superior a trinta dias, em moeda nacional, que devem estar cobertas por disponibilidades de caixa;
-
-c) Os valores que podem servir de cobertura, para as citadas responsabilidades à vista e depósitos a prazo, na parte em que as importâncias totais, dessas responsabilidades e destes depósitos, excedam as percentagens referidas na alínea anterior;
-
-d) As regras a observar pelos bancos comerciais na contabilização dos indicados valores.
-
-3. O Banco de Portugal, ao determinar quer as percentagens, quer os valores mencionados nas alíneas b) e c) do n.º 2, poderá classificar os depósitos a prazo em grupos diferentes, de acordo com a duração do dito prazo.
-
-4. Para efeito do presente artigo:
-
-a) Os depósitos com pré-aviso inferior a trinta dias são havidos como responsabilidades à vista;
-
-b) Os depósitos com pré-aviso igual ou superior a trinta dias são equiparados aos depósitos a prazo igual ao pré-aviso estipulado.
-
-5. As determinações tomadas pelo Banco de Portugal no exercício da competência que lhe é atribuída nos n.os 2 e 3 do presente artigo serão comunicadas à Inspecção-Geral de Crédito e Seguros, que as fará publicar na 1.ª série do Diário do Governo.
+(Revogado.)
 
 > Alterado pelo/a [Decreto-Lei n.º 180/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-1970-226036), publicado em 1970-04-25.
 

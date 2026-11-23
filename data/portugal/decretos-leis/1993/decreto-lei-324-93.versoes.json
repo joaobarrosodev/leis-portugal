@@ -142,6 +142,24 @@
      "title": "Portaria n.º 1279/97",
      "published": "1997-12-31",
      "dre_path": "/dr/detalhe/portaria/1279-1997-321679"
+    },
+    {
+     "id": "pt:dre:520466:por",
+     "title": "Decreto-Lei n.º 82/2007",
+     "published": "2007-03-29",
+     "dre_path": "/dr/detalhe/decreto-lei/82-2007-520466"
+    },
+    {
+     "id": "pt:dre:354699:por",
+     "title": "Decreto-Lei n.º 273/99",
+     "published": "1999-07-22",
+     "dre_path": "/dr/detalhe/decreto-lei/273-1999-354699"
+    },
+    {
+     "id": "pt:dre:570293:por",
+     "title": "Decreto-Lei n.º 360/99",
+     "published": "1999-09-16",
+     "dre_path": "/dr/detalhe/decreto-lei/360-1999-570293"
     }
    ],
    "changes": [
@@ -157,24 +175,35 @@
     "Revoga Artigo 60.º",
     "Revoga Artigo 61.º",
     "Retifica texto",
-    "Altera anexo ou texto fora do articulado"
+    "Altera anexo ou texto fora do articulado",
+    "Revoga Artigo 53",
+    "Revoga Artigo 69",
+    "Revoga Artigo 70",
+    "Revoga Artigo 64",
+    "Revoga Artigo 65",
+    "Revoga Artigo 66",
+    "Revoga Artigo 1",
+    "Revoga Artigo 2",
+    "Revoga Artigo 5",
+    "Revoga Artigo 8",
+    "Revoga anexo ou texto fora do articulado"
    ],
    "fragments": [
     "dc688c3122aea0ce",
-    "d0362ae5e44f3606",
-    "9a2f35c171c9e472",
+    "8a7930ba1cbf1d08",
+    "5fabca0ca066e754",
     "481b4bfbf91cdbe6",
     "31d4546644320d24",
-    "b4a32b0d9c0e1d10",
+    "fa2f0df3e8cacb22",
     "8b8a14d6231c2582",
     "b52de62f6995a3e0",
-    "1d9f00c9267945cf",
+    "9ddbf7620362f996",
     "bc7ef6260259077b",
     "697158e7326a9662",
     "36f3030c5d1c51b6",
     "a848c39666df1b8d",
     "3f63b74c9f1441de",
-    "7767e5bb6f650e0a",
+    "cd68512948a39d2c",
     "5392e80f6473ff3b",
     "0f74e4e2fbe27140",
     "5e6b1ab89a44ae0f",
@@ -231,7 +260,7 @@
     "85a9db28b6e2c747",
     "8d3035610a76c22e",
     "6c02e89a2ba6ae9a",
-    "0b203dc2c06b4d74",
+    "5fcfa7e351a1365d",
     "7f6d02ca5e5499b0",
     "06453deabcd56155",
     "d6c1df3851fb0e26",
@@ -242,13 +271,13 @@
     "59a209fd5d11161b",
     "785a2800e78cd6f7",
     "16f1234abe0565aa",
-    "fef2a86a0ed09344",
-    "0b311fa18eb83af7",
-    "eb1db764d7e61623",
+    "a505c7faf5a4bc86",
+    "b98926626d3db479",
+    "04bab95b6ea97035",
     "b751219130ef095c",
     "1cc26143379eec60",
-    "abe72d2dc7113161",
-    "fb721b67d33c0b49",
+    "16fa214cb6308d40",
+    "26182d94b532ef48",
     "e487e014dc36ca2d"
    ]
   }
@@ -974,7 +1003,49 @@
    "changed_by": [],
    "markdown": "###### Artigo 71.º — Legislação revogada\n\n1 - São revogados pelo presente diploma os capítulos I e II, os artigos 44.º, 46.º a 48.º, os n.os 1, 2 e 4 a 9 do artigo 49.º, os n.os 1, 2 e 4 do artigo 50.º, a alínea c) do n.º 1 e os n.os 2 e 4 a 6 do artigo 51.º, os artigos 52.º a 54.º, os artigos 56.º a 66.º, a remissão para o n.º 1 do artigo 68.º constante da alínea a) do n.º 2 do artigo 67.º, o n.º 1 do artigo 68.º, os artigos 70.º e 73.º, os artigos 78.º a 81.º, os artigos 83.º a 89.º, o artigo 92.º, os artigos 95.º a 100.º, os artigos 106.º a 110.º, os artigos 119.º e 120.º, os n.os 1 a 4 do artigo 121.º e os artigos 122.º a 125.º do capítulo III e os artigos 127.º a 147.º e os artigos 149.º a 157.º do capítulo IV do [Decreto-Lei n.º 252-A/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/252-a-1982-306028), de 28 de Junho.\n\n2 - São ainda revogados os Decretos-Leis n.os [49/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-1988-283118), de 17 de Fevereiro, e [273/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-1990-556665), de 7 de Setembro.\n\nVisto e aprovado em Conselho de Ministros de 20 de Maio de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo.\n\nPromulgado em 21 de Junho de 1993.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 23 de Junho de 1993.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.\n\nAnexo I a que se refere o artigo 40.º\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/226a00/53365352.pdf)\n\nAnexo II a que se refere o artigo 41.º\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/226a00/53365352.pdf)\n\nAnexo III a que se refere o artigo 63.º\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/226a00/53365352.pdf)\n\nAnexo IV a que se refere o artigo 65.º\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/226a00/53365352.pdf)\n\nAnexo V a que se refere o n.º 3 do artigo 66.º\n\nConteúdo funcional\n\nAgente fiscal. - O agente fiscal desenvolve funções de natureza executiva de aplicação técnica que se enquadram em directivas gerais técnico-administrativas relativas ao controlo técnico e fiscal das mercadorias sujeitas ao regime dos tabacos, competindo-lhe, nomeadamente:\n\nControlo físico, nas entradas e saídas dos estabelecimentos fabris, de pessoas e equipamentos;\n\nControlo e fiscalização dos produtos em armazém;\n\nRegisto e preenchimento de guias necessárias ao controlo contabilístico da saída e trânsito dos tabacos;\n\nAcompanhamento do transporte dos tabacos para os portos, aeroportos e entrepostos aduaneiros."
   },
-  "0b203dc2c06b4d74": {
+  "8a7930ba1cbf1d08": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 360/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/360-1999-570293), publicado em 1999-09-16, com efeitos a partir de 2000-01-01."
+   ],
+   "markdown": "###### Artigo 1.º — Natureza\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 360/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/360-1999-570293), publicado em 1999-09-16, com efeitos a partir de 2000-01-01."
+  },
+  "5fabca0ca066e754": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Atribuições\n\n(Revogado.)"
+  },
+  "fa2f0df3e8cacb22": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Director-geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Director-geral\n\n(Revogado.)"
+  },
+  "9ddbf7620362f996": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Gabinete de Auditoria Interna",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Gabinete de Auditoria Interna\n\n(Revogado.)"
+  },
+  "cd68512948a39d2c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Divisão de Formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Divisão de Formação\n\n(Revogado.)"
+  },
+  "5fcfa7e351a1365d": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 53.º — Provimento do pessoal dirigente e de chefia",
@@ -982,9 +1053,10 @@
    "changed_by": [
     "Revogado pelo/a Artigo 50.º do/a [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30.",
     "Revogado pelo/a Artigo 50.º do/a [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30.",
-    "Revogado pelo/a Artigo 50.º do/a [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30."
+    "Revogado pelo/a Artigo 50.º do/a [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30.",
+    "Revogado pelo/a [Decreto-Lei n.º 82/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2007-520466), publicado em 2007-03-29, com efeitos a partir de 2007-04-01."
    ],
-   "markdown": "###### Artigo 53.º — Provimento do pessoal dirigente e de chefia\n\n1 - (Revogado.)\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\n4 - O lugar de chefe de delegação é provido por despacho do director-geral, em comissão de serviço pelo período de um ano, renovável por igual período, de entre funcionários com categoria não inferior a primeiro-verificador superior, segundo-verificador superior com pelo menos dois anos de serviço efectivo ou técnico verificador especialista com reconhecida competência para o exercício das funções.\n\n5 - A comissão de serviço referida no número anterior considera-se automaticamente renovada se até 30 dias antes do seu termo não tiver sido manifestada, expressamente, pelo director-geral ou pelo funcionário a intenção de a fazer cessar.\n\n> Revogado pelo/a Artigo 50.º do/a [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30.\n\n> Revogado pelo/a Artigo 50.º do/a [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30.\n\n> Revogado pelo/a Artigo 50.º do/a [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30."
+   "markdown": "###### Artigo 53.º — Provimento do pessoal dirigente e de chefia\n\n1 - (Revogado.)\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\n5 - (Revogado.)\n\n> Revogado pelo/a Artigo 50.º do/a [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30.\n\n> Revogado pelo/a Artigo 50.º do/a [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30.\n\n> Revogado pelo/a Artigo 50.º do/a [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30.\n\n> Revogado pelo/a [Decreto-Lei n.º 82/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2007-520466), publicado em 2007-03-29, com efeitos a partir de 2007-04-01."
   },
   "7f6d02ca5e5499b0": {
    "fragment_id": null,
@@ -1065,6 +1137,48 @@
     "Revogado pelo/a Artigo 50.º do/a [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30."
    ],
    "markdown": "###### Artigo 61.º — Residência oficial\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 50.º do/a [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30."
+  },
+  "a505c7faf5a4bc86": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 64.º — Transição do pessoal de fiscalização dos tabacos",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 273/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-1999-354699), publicado em 1999-07-22, com efeitos a partir de 1999-04-01."
+   ],
+   "markdown": "###### Artigo 64.º — Transição do pessoal de fiscalização dos tabacos\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 273/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-1999-354699), publicado em 1999-07-22, com efeitos a partir de 1999-04-01."
+  },
+  "b98926626d3db479": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 65.º — Criação de lugares da carreira de fiscalização de tabacos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 65.º — Criação de lugares da carreira de fiscalização de tabacos\n\n(Revogado.)"
+  },
+  "04bab95b6ea97035": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 66.º — Provimento do pessoal de fiscalização dos tabacos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 66.º — Provimento do pessoal de fiscalização dos tabacos\n\n(Revogado.)"
+  },
+  "16fa214cb6308d40": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 69.º — Prestação de serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 69.º — Prestação de serviços\n\n(Revogado.)"
+  },
+  "26182d94b532ef48": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 70.º — Receitas da DGA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 70.º — Receitas da DGA\n\n(Revogado.)"
   },
   "e487e014dc36ca2d": {
    "fragment_id": null,

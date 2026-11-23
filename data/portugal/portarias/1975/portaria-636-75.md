@@ -44,13 +44,14 @@ version_history:
     changes: []
   - date: '1987-09-30'
     amending: pt:dre:403331:por
-    amending_title: Portaria n.º 527/79; Portaria n.º 1112-A/81; Portaria n.º 812/87
+    amending_title: Portaria n.º 527/79; Portaria n.º 1112-A/81; Portaria n.º 812/87; Portaria n.º 601/77
     changes:
     - Altera Artigo unidades 73-73
     - Altera Artigo unidades 82-85
     - Altera Artigo unidades 89-89
     - Altera Artigo unidades 91-96
     - Altera Artigo unidades 106-119
+    - Revoga anexo ou texto fora do articulado
 identifiers:
   celex: null
   eli: null
@@ -77,7 +78,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T04:51:37Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 527/79; Portaria n.º
-    1112-A/81; Portaria n.º 812/87. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1975/portaria-636-75.alteracoes.json'
+    1112-A/81; Portaria n.º 812/87. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1975/portaria-636-75.alteracoes.json.
+    Revogações registadas só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Portaria
+    n.º 601/77.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -358,23 +361,9 @@ Tarifa especial de detalhe - volumes de peso até 50 kg.
 
 4.º Mantêm-se, transitoriamente, até ao fim do corrente ano os preços de transporte dos diplomas tarifários anulados relativamente aos produtos cujos preços de venda se encontram congelados, por resolução do Conselho de Ministros de 15 de Abril de 1975.
 
-5.º Mantêm-se, também transitoriamente, os preços de transporte da tarifa n.º 8/108, em vigor até ao presente, nos acordos existentes e a efectuar com entidades dos sectores económicos abrangidos que façam pelo menos dois despachos diários em média, para as seguintes categorias de produtos:
+5.º - (Revogado.)
 
-Artigos de plástico;
-
-Calçado;
-
-Chapelaria;
-
-Lanifícios;
-
-Malhas e confecções;
-
-Tecidos;
-
-Têxteis;
-
-Produtos farmacêuticos.
+> Revogado pelo/a [Portaria n.º 601/77](https://diariodarepublica.pt/dr/detalhe/portaria/601-1977-285759), publicado em 1977-09-21.
 
 6.º A nova tarifa geral de transportes (parte II - Mercadorias) e as restantes alterações tarifárias entram em vigor em 1 de Dezembro de 1975.
 

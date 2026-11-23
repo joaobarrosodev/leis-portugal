@@ -54,7 +54,7 @@ version_history:
     changes: []
   - date: '2020-01-01'
     amending: pt:dre:654501:por
-    amending_title: Decreto Regulamentar n.º 29/99; Decreto-Lei n.º 132/2019
+    amending_title: Decreto Regulamentar n.º 29/99; Decreto-Lei n.º 132/2019; Decreto-Lei n.º 408/93
     changes:
     - Altera Artigo 34.º
     - Revoga Artigo 34.º
@@ -63,6 +63,39 @@ version_history:
     - Revoga Artigo 37.º
     - Revoga Artigo 38.º
     - Revoga Artigo 39.º
+    - Revoga Artigo 1
+    - Revoga Artigo 2
+    - Revoga Artigo 3
+    - Revoga Artigo 4
+    - Revoga Artigo 5
+    - Revoga Artigo 6
+    - Revoga Artigo 7
+    - Revoga Artigo 8
+    - Revoga Artigo 9
+    - Revoga Artigo 10
+    - Revoga Artigo 11
+    - Revoga Artigo 12
+    - Revoga Artigo 13
+    - Revoga Artigo 14
+    - Revoga Artigo 15
+    - Revoga Artigo 16
+    - Revoga Artigo 17
+    - Revoga Artigo 18
+    - Revoga Artigo 19
+    - Revoga Artigo 20
+    - Revoga Artigo 21
+    - Revoga Artigo 22
+    - Revoga Artigo 23
+    - Revoga Artigo 24
+    - Revoga Artigo 25
+    - Revoga Artigo 26
+    - Revoga Artigo 27
+    - Revoga Artigo 28
+    - Revoga Artigo 29
+    - Revoga Artigo 30
+    - Revoga Artigo 31
+    - Revoga Artigo 32
+    - Revoga Artigo 41
 identifiers:
   celex: null
   eli: null
@@ -89,7 +122,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:02:45Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Regulamentar n.º 29/99; Decreto-Lei
-    n.º 132/2019. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-regulamentares/1980/decreto-regulamentar-54-80.alteracoes.json'
+    n.º 132/2019. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-regulamentares/1980/decreto-regulamentar-54-80.alteracoes.json.
+    Revogações registadas só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Decreto-Lei
+    n.º 408/93.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -178,271 +213,69 @@ O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, 
 
 ###### Artigo 1.º
 
-Os serviços distritais da Direcção-Geral das Contribuições e Impostos, adiante designados por direcções distritais de finanças, previstos nos artigos 6.º e 11.º do [Decreto-Lei n.º 363/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-1978-326736), de 28 de Novembro, têm a estrutura e as atribuições indicadas nos artigos seguintes.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 408/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1993-533376), publicado em 1993-12-14, com efeitos a partir de 1993-12-19.
 
 #### SECÇÃO I — Das Direcções Distritais de Finanças de Lisboa e do Porto
 
 ###### Artigo 2.º — (Estrutura)
 
-1 - A Direcção Distrital de Finanças de Lisboa dispõe dos seguintes serviços:
-
-a) 1.º Departamento dos Serviços Distritais de Gestão Fiscal;
-
-b) 2.º Departamento dos Serviços Distritais de Gestão Fiscal;
-
-c) Departamento dos Serviços Distritais de Fiscalização Tributária;
-
-d) Departamento dos Serviços Distritais de Serviços não Tributários;
-
-e) Serviço de Administração Geral.
-
-2 - A Direcção Distrital de Finanças do Porto dispõe dos seguintes serviços:
-
-a) Departamento dos Serviços Distritais de Gestão Fiscal;
-
-b) Departamento dos Serviços Distritais de Fiscalização Tributária;
-
-c) Departamento dos Serviços Distritais de Serviços não Tributários;
-
-d) Serviço de Administração Geral.
-
-3 - Junto dos directores distritais de finanças funcionará uma unidade de apoio administrativo, à qual incumbe, designadamente, assegurar o serviço de recepção, expedição e distribuição de correspondência, preparar o expediente que deva ser submetido à apreciação ou despacho dos referidos dirigentes e, bem assim, assegurar o serviço de reprografia.
-
-4 - Os departamentos dos serviços distritais serão dirigidos por directores de finanças directamente subordinados aos directores distritais de finanças.
+(Revogado.)
 
 ##### SUBSECÇÃO I — Dos departamentos dos serviços distritais de gestão fiscal
 
 ###### Artigo 3.º — (Atribuições)
 
-Os departamentos dos serviços distritais de gestão fiscal são unidades orgânicas às quais incumbe orientar, coordenar, controlar e apoiar a acção dos serviços locais respeitantes à gestão fiscal e, bem assim, executar, através dos respectivos serviços, as tarefas relacionadas com a administração dos impostos que lhes estejam afectos, de acordo com o disposto na lei ou com o que for superiormente determinado, de harmonia com as directivas dos directores distritais de finanças.
+(Revogado.)
 
 ###### Artigo 4.º — (Dos Departamentos dos Serviços Distritais de Gestão Fiscal da Direcção Distrital de Finanças de Lisboa - Estrutura.)
 
-1 - O departamento de serviços distritais mencionado na alínea a) do n.º 1 do artigo 2.º compreende dois serviços, aos quais ficam afectos os impostos a seguir indicados:
-
-1.º Serviço: contribuição predial; imposto sobre a indústria agrícola, contribuição industrial e correspondente imposto de mais-valias; processos instaurados para efeitos de avaliação, incluindo aqueles em que o Estado seja parte como senhorio ou inquilino;
-
-2.º Serviço: imposto profissional; imposto complementar; imposto de capitais.
-
-2 - O departamento dos serviços distritais mencionado na alínea b) do n.º 1 do artigo 2.º compreende dois serviços, aos quais ficam afectos os impostos a seguir indicados:
-
-1.º Serviço: sisa; imposto de mais-valias; imposto sobre as sucessões e doações;
-
-2.º Serviço: imposto de transacções; imposto do selo; imposto sobre veículos; imposto rodoviário; imposto de turismo e taxa militar.
-
-3 - Compete ao director distrital de finanças a afectação de impostos não especificados aos serviços mencionados nos números anteriores, bem como a distribuição pelos mesmos de tarefas relacionadas com a gestão fiscal não previstas expressamente no presente diploma e ainda a redistribuição dos impostos indicados neste artigo, sempre que tal se revele necessário por razões funcionais.
+(Revogado.)
 
 ###### Artigo 5.º — (Do Departamento dos Serviços Distritais de Gestão Fiscal da Direcção Distrital de Finanças do Porto - Estrutura)
 
-1 - O departamento dos serviços distritais mencionado na alínea a) do n.º 2 do artigo 2.º compreende dois serviços, aos quais ficam afectos os impostos a seguir indicados:
-
-1.º Serviço: contribuição predial; imposto sobre a indústria agrícola, contribuição industrial e correspondente imposto de mais-valias; imposto profissional; imposto complementar; imposto de capitais; processos instaurados para efeitos de avaliações, incluindo aqueles em que o Estado seja parte como senhorio ou inquilino;
-
-2.º Serviço: sisa; imposto de mais-valias; imposto sobre as sucessões e doações; imposto de transações, imposto sobre veículos; impostos rodoviários; imposto de turismo e taxa militar.
-
-2 - Compete ao director distrital de finanças a afectação de impostos não especificados aos serviços mencionados no número anterior, bem como a distribuição pelos mesmos de tarefas relacionadas com a gestão fiscal não previstas expressamente no presente diploma e ainda a redistribuição dos impostos indicados neste artigo, sempre que tal se revele necessário por razões funcionais.
+(Revogado.)
 
 ###### Artigo 6.º — (Atribuições dos serviços de gestão fiscal)
 
-1 - Incumbe especialmente aos serviços mencionados nos artigos 4.º e 5.º:
-
-a) Elaborar informações sobre a aplicação da lei fiscal aos casos concretos;
-
-b) Proceder à conferência dos elementos constantes dos processos respeitantes à liquidação e cobrança dos impostos e propor as alterações dos despachos dos chefes das repartições de finanças quando for caso disso;
-
-c) Executar as tarefas referidas na parte final do artigo 3.º;
-
-d) Reunir e tratar os elementos necessários ao adequado contrôle do andamento dos processos respeitantes à liquidação e cobrança dos impostos e submetê-los à apreciação dos directores dos serviços distritais;
-
-e) Reunir e tratar os dados referentes à elaboração dos mapas estatísticos próprios da Direcção-Geral das Contribuições e Impostos ou dos que devam ser cometidos ao Instituto Nacional de Estatística.
-
-2 - Os serviços a que se refere o presente artigo serão chefiados por subdirectores tributários.
+(Revogado.)
 
 ##### SUBSECÇÃO II — Dos departamentos dos serviços distritais de fiscalização tributária
 
 ###### Artigo 7.º — (Atribuições genéricas e estrutura)
 
-1 - Os departamentos dos serviços distritais de fiscalização tributária são unidades orgânicas às quais incumbe exercer a acção de fiscalização no âmbito da área de actuação das correspondentes direcções distritais de finanças, cabendo-lhes, designadamente, através dos respectivos serviços:
-
-a) Dinamizar, orientar, coordenar e controlar, pelos meios adequados, a acção dos serviços locais respeitante à fiscalização tributária, sem prejuízo das directivas emanadas dos serviços centrais;
-
-b) Prestar aos serviços locais o apoio técnico que se mostrar necessário, em complemento e sem prejuízo do prestado pelos serviços centrais;
-
-c) Elaborar e assegurar a execução de programas de actuação da fiscalização a nível distrital, de harmonia e em complemento dos programas estabelecidos nos serviços centrais;
-
-d) Analisar e controlar os resultados obtidos na execução dos programas e, quando necessário, propor ou efectuar os adequados reajustamentos;
-
-e) Preparar instruções sobre matérias do domínio específico da acção fiscalizadora e esclarecer as dúvidas surgidas no exercício dessa actividade, tendo em vista a melhoria da eficiência e da eficácia dos serviços em complemento e em conformidade com as instruções emanadas dos serviços centrais;
-
-f) Promover as diligências necessárias à repressão das infracções fiscais e intervir em processos judiciais, graciosos e administrativos, informando a matéria de facto pertinente à apreciação das questões suscitadas;
-
-g) Exercer adequada acção complementar de informações e esclarecimento dos contribuintes.
-
-2 - O Departamento dos Serviços Distritais de Fiscalização Tributária de Lisboa compreende os seguintes serviços:
-
-a) 1.º Serviço de Fiscalização de Empresas;
-
-b) 2.º Serviço de Fiscalização de Empresas;
-
-c) 1.º Serviço de Fiscalização Geral;
-
-d) 2.º Serviço de Fiscalização Geral;
-
-e) Serviço de Expediente.
-
-3 - O Departamento dos Serviços Distritais de Fiscalização Tributária do Porto compreende os seguintes serviços:
-
-a) Serviço de Fiscalização de Empresas;
-
-b) Serviço de Fiscalização Geral;
-
-c) Serviço de Expediente.
+(Revogado.)
 
 ###### Artigo 8.º — (Atribuições específicas dos serviços de fiscalização tributária)
 
-1 - Incumbe especialmente aos serviços de fiscalização de empresas:
-
-a) Analisar, através de elementos declarados ou colhidos para o efeito, a situação tributária das empresas sujeitas a contribuição industrial do grupo A, cuja fiscalização não caiba especificamente no âmbito de acção dos serviços centrais;
-
-b) Efectuar exames e verificações às escritas das empresas referidas na alínea anterior;
-
-c) Elaborar, no âmbito da respectiva esfera da acção fiscalizadora, informações sobre a aplicação da lei fiscal aos casos concretos e, bem assim, prestar as informações necessárias à resolução ou ao esclarecimento de petições ou exposições apresentadas pelos obrigados fiscais.
-
-2 - Incumbe especialmente aos serviços de fiscalização geral:
-
-a) Observar as realidades e quaisquer elementos que se mostrem susceptíveis de interesse fiscal;
-
-b) Verificar as declarações, participações, comunicações e demais documentos apresentados pelos contribuintes e, bem assim, todos os elementos a eles respeitantes existentes nos serviços da Direcção-Geral e noutras entidades públicas ou privadas, em ordem ao contrôle da matéria colectável ou imposto liquidado;
-
-c) Efectuar as averiguações necessárias ao apuramento da matéria colectável quando os contribuintes não disponham de elementos de escrituração;
-
-d) Proceder à verificação de livros, documentos e de quaisquer elementos susceptíveis de revelar a situação real dos contribuintes;
-
-e) Promover o correcto cumprimento das obrigações tributárias acessórias por parte dos contribuintes;
-
-f) Elaborar, no âmbito da respectiva esfera de acção fiscalizadora, informações sobre a aplicação da lei fiscal aos casos concretos e, bem assim, prestar as informações necessárias à resolução ou ao esclarecimento de petições ou exposições apresentadas pelos obrigados fiscais.
-
-3 - Os serviços de fiscalização de empresas e os serviços de fiscalização geral são dirigidos, respectivamente, por técnicos economistas assessores e por supervisores tributários, nomeados por despacho do Secretário de Estado do Orçamento, mediante proposta do director-geral.
+(Revogado.)
 
 ###### Artigo 9.º — (Atribuições dos serviços de expediente)
 
-1 - Incumbe especialmente aos serviços de expediente:
-
-a) Elaborar os mapas necessários ao contrôle do serviço externo efectuado pelo pessoal afecto à fiscalização tributária;
-
-b) Organizar e proceder ao encaminhamento do expediente relacionado com a actividade do pessoal afecto à fiscalização tributária;
-
-c) Colaborar com os competentes serviços na administração do pessoal e do material e, bem assim, nas tarefas relacionadas com a contabilidade;
-
-d) Assegurar os serviços de recepção, expediente e distribuição da correspondência;
-
-e) Executar o expediente e organizar e manter em funcionamento os arquivos;
-
-f) Assegurar o serviço de dactilografia e de reprografia;
-
-g) Realizar quaisquer outras tarefas de natureza administrativa que lhes sejam cometidas pelo director de serviços.
-
-2 - Os serviços de expediente serão chefiados por peritos tributários a designar pelos directores distritais de finanças.
+(Revogado.)
 
 ##### SUBSECÇÃO III — Dos departamentos dos serviços distritais não tributários
 
 ###### Artigo 10.º — (Atribuições genéricas - Estrutura)
 
-1 - Os departamentos dos serviços distritais não tributários são unidades orgânicas às quais incumbe exercer as actividades que, não cabendo especificamente no âmbito das atribuições próprias da Direcção-Geral das Contribuições e Impostos, são cometidas por lei ou determinação superior às direcções distritais de finanças.
-
-2 - Os departamentos dos serviços distritais não tributários compreendem três serviços, aos quais ficam afectas as actividades a seguir indicadas:
-
-1.º serviço - actividades relacionadas com os serviços dos Correios e Telecomunicações, Caixa Geral de Depósitos, Junta do Crédito Público, Direcção-Geral do Património do Estado e Direcção-Geral do Tesouro;
-
-2.º serviço - actividades relacionadas com os serviços da Direcção-Geral da Contabilidade Pública;
-
-3.º serviço - actividades relacionadas com os serviços do Banco de Portugal como caixa geral do Tesouro.
-
-3 - Os serviços referidos no número anterior são dirigidos por subdirectores tributários.
-
-4 - O 2.º serviço mencionado no n.º 2 deste artigo divide-se em três sectores, coordenados por peritos tributários, a designar pelos directores distritais de finanças, aos quais incumbem, respectivamente, as actividades próprias daquele serviço correspondente aos bairros fiscais, às repartições de finanças periféricas e à organização da conta de despesa.
+(Revogado.)
 
 ##### SUBSECÇÃO IV — Dos serviços de administração geral
 
 ###### Artigo 11.º — (Atribuições gerais - Estrutura)
 
-1 - Os serviços de administração geral são unidades orgânicas de apoio instrumental, cuja acção se enquadra no domínio da administração dos recursos humanos, financeiros e materiais, e têm a seguinte estrutura:
-
-a) Secção Administrativa do Pessoal;
-
-b) Secção de Contabilidade;
-
-c) Secção de Administração do Material;
-
-d) Serviço de Arquivo.
-
-2 - Os serviços de administração geral são chefiados por subdirectores tributários e as respectivas secções por peritos tributários ou chefes de secção.
+(Revogado.)
 
 ###### Artigo 12.º — (Atribuições específicas dos serviços de administração geral)
 
-1 - Incumbe especialmente às secções de administração do pessoal:
-
-a) Assegurar o preenchimento e conferir as fichas de admissão de novos funcionários colocados nos serviços distritais ou locais;
-
-b) Elaborar e enviar para os serviços centrais os termos de posse dos funcionários colocados nos serviços distritais;
-
-c) Conferir os termos de posse dos funcionários colocados nos serviços locais e remetê-los aos serviços centrais;
-
-d) Organizar e manter actualizado o registo do pessoal dos serviços distritais e locais;
-
-e) Reunir os pedidos de transferência dos funcionários colocados nos serviços distritais dentro dos prazos fixados e remetê-los aos serviços centrais;
-
-f) Coligir e fornecer aos serviços centrais os elementos necessários ao adequado encaminhamento dos processos de aposentação e passagem à situação de assistência;
-
-g) Elaborar as relações mensais das faltas e licenças dos funcionários colocados nos serviços distritais;
-
-h) Conferir as relações anuais das faltas e licenças dos funcionários colocados nos serviços locais;
-
-i) Assegurar o envio para os serviços centrais das relações das faltas e licenças dos funcionários colocados nos serviços distritais e locais, acompanhada dos documentos justificativos;
-
-j) Informar os pedidos de licença e assegurar o envio dos que devam ser submetidos a despacho do director-geral;
-
-l) Assegurar o expediente relacionado com a assistência na doença e com os serviços sociais do Ministério;
-
-m) Assegurar quaisquer outros procedimentos administrativos relacionados com a administração do pessoal.
-
-2 - Incumbe especialmente às secções de contabilidade:
-
-a) Executar as tarefas e assegurar o expediente relacionado com o pagamento do vencimento e de outros abonos devidos aos funcionários ou com as respectivas alterações;
-
-b) Executar as tarefas e assegurar o expediente relativo ao pagamento das pensões;
-
-c) Elaborar as folhas de processamento de ajudas de custo e horas extraordinárias;
-
-d) Assegurar o expediente necessário ao pagamento das remunerações acessórias, de acordo com as instruções dos serviços centrais;
-
-e) Elaborar o expediente necessário ao funcionamento de elementos respeitantes aos funcionários, para efeitos de liquidação do imposto complementar;
-
-f) Propor a constituição e reconstituição de fundos permanentes e assegurar a respectiva movimentação;
-
-g) Propor, realizar e processar as despesas de acordo com as veras atribuídas às direcções distritais de finanças, de harmonia com as normas gerais referentes à contabilidade pública;
-
-h) Assegurar quaisquer outros procedimentos administrativos relacionados com a contabilidade.
-
-3 - Incumbe especialmente às secções de administração do material:
-
-a) Manter actualizado o inventário dos serviços distritais e locais, de acordo com as instruções dos serviços distritais;
-
-b) Gerir o material necessário aos serviços distritais e assegurar a distribuição, pelos serviços locais, do material a fornecer pelos serviços distritais ou centrais;
-
-c) Velar pela guarda e manutenção do material necessário ao funcionamento dos serviços distritais ou do que deva permanecer em depósito nos referidos serviços;
-
-d) Assegurar quaisquer outros procedimentos administrativos relacionados com a administração do material.
-
-4 - Aos serviços do arquivo incumbe assegurar a organização e a manutenção do arquivo das direcções distritais de finanças.
-
-5 - Os serviços referidos no número anterior funcionam na dependência do chefe dos serviços de administração geral e são chefiados por um arquivista de 1.ª classe ou pelo arquivista mais antigo na categoria no caso de só existirem funcionários da mesma classe.
+(Revogado.)
 
 ###### Artigo 13.º — (Representantes da Fazenda Nacional nos tribunais das contribuições e impostos)
 
 1 - As funções de representante da Fazenda Nacional nos Tribunais das Contribuições e Impostos de 1.ª Instância de Lisboa e do Porto serão exercidas por directores de finanças, por delegação.
 
-2 - Nas direcções distritais de finanças referidas no número anterior existirá ainda um director de finanças, com funções de apoio aos directores dos serviços distritais de fiscalização tributária.
+2 - (Revogado.)
 
 #### SECÇÃO II — Das restantes direcções distritais de finanças
 
@@ -450,189 +283,93 @@ d) Assegurar quaisquer outros procedimentos administrativos relacionados com a a
 
 ###### Artigo 14.º — (Serviços)
 
-1 - As direcções distritais de finanças não mencionadas nos n.os 1 e 2 do artigo 2.º do presente diploma dispõem dos seguintes serviços:
-
-1.º Serviço - Gestão Fiscal;
-
-2.º Serviço - Fiscalização Tributária;
-
-3.º Serviço - Justiça Fiscal;
-
-4.º Serviço - Serviços não Tributários;
-
-5.º Serviço - Serviço de Administração Geral.
-
-2 - Quando se revele necessário, o Secretário de Estado do Orçamento poderá determinar, por despacho, mediante proposta do director-geral, a criação de secções do Tesouro junto do Banco de Portugal, que funcionarão no âmbito do 4.º serviço e serão chefiadas por técnicos tributários de 1.ª classe, a designar pelos directores distritais de finanças.
-
-3 - Nas direcções distritais de finanças relativamente às quais for desconcentrada a fiscalização dos contribuintes do grupo A da contribuição industrial serão criados, por despacho do Secretário de Estado de Orçamento, mediante proposta do director-geral, núcleos de fiscalização de empresas, que funcionarão na directa dependência dos directores distritais de finanças, sem prejuízo de adequada articulação com o 2.º serviço.
-
-4 - Os núcleos referidos no número anterior são chefiados por técnicos economistas assessores ou principais nomeados por despacho do Secretário de Estado do Orçamento, mediante proposta do director-geral, e terão as atribuições previstas para os serviços de fiscalização de empresas no n.º 1 do artigo 8.º deste decreto.
+(Revogado.)
 
 ##### SUBSECÇÃO II — Das atribuições dos serviços
 
 ###### Artigo 15.º — (Serviços de gestão fiscal)
 
-Incumbe ao 1.º serviço executar as tarefas relacionadas com a administração dos diversos impostos que por lei ou determinação superior sejam cometidos às direcções distritais de finanças, e ainda:
-
-a) Elaborar informações sobre a aplicação da lei fiscal aos casos concretos;
-
-b) Proceder à conferência dos elementos constantes dos processos respeitantes à liquidação e cobrança dos impostos cujo contrôle deva ser efectuado pelas direcções distritais de finanças e propor as alterações aos despachos dos chefes das repartições de finanças quando for caso disso;
-
-c) Reunir e tratar os elementos necessários ao adequado contrôle do andamento dos processos respeitantes à liquidação e cobrança dos impostos e submetê-los à apreciação do director distrital de finanças, tendo em vista a obtenção de directivas para a melhoria da eficiência dos serviços locais sempre que se torne necessário;
-
-d) Reunir e tratar os dados referentes à elaboração dos mapas estatísticos próprios da Direcção-Geral ou dos que devam ser submetidos ao Instituto Nacional de Estatística.
+(Revogado.)
 
 ###### Artigo 16.º — (Serviços de fiscalização tributária)
 
-1 - Incumbe ao 2.º serviço exercer, no âmbito da área de actuação da respectiva direcção distrital de finanças, as atribuições previstas para as direcções de serviços distritais de fiscalização tributária e para os serviços de fiscalização geral, respectivamente, no n.º 1 do artigo 7.º e no n.º 2 do artigo 8.º do presente decreto.
-
-2 - O 2.º serviço é chefiado por um supervisor tributário, directamente dependente do director distrital de finanças, e dispõe de um serviço interno de apoio técnico e administrativo à acção fiscalizadora, chefiado por um chefe de serviços técnicos, na dependência do supervisor tributário.
+(Revogado.)
 
 ###### Artigo 17.º — (Serviços de justiça fiscal)
 
-Ao 3.º serviço incumbe assegurar o expediente e a movimentação dos processos graciosos, de impugnação judicial, de transgressão, de execução e, bem assim, dos processos diversos sobre matérias da competência dos tribunais das contribuições e impostos, e ainda:
-
-a) Assegurar o serviço de contabilidade dos tribunais de 1.ª instância;
-
-b) Assegurar a escrituração das custas e dos emolumentos contados nos tribunais de 1.ª instância;
-
-c) Assegurar o expediente dos assuntos próprios dos tribunais de 1.ª instância das Contribuições e Impostos e do Ministério Público;
-
-d) Executar outras tarefas que lhe forem atribuídas pelo director distrital de finanças.
+(Revogado.)
 
 ###### Artigo 18.º — (Serviços não tributários)
 
-Incumbe ao 4.º serviço exercer as actividades que, não cabendo especificamente no âmbito das atribuições próprias da Direcção-Geral das Contribuições e Impostos, são cometidas por lei ou determinação superior às direcções distritais de finanças, designadamente as que se relacionem com os serviços dos Correios e Telecomunicações, Caixa Geral de Depósitos, Junta do Crédito Público, Direcção-Geral do Património do Estado, Direcção-Geral do Tesouro e Direcção-Geral da Contabilidade Pública.
+(Revogado.)
 
 ###### Artigo 19.º — (Serviços de administração geral)
 
-1 - Incumbe ao serviço de administração geral exercer as atribuições relacionadas com o pessoal que deva ser administrado pelas direcções distritais de finanças, bem como as relativas à contabilidade e à administração do material previstas no artigo 11.º deste diploma, e, bem assim, assegurar o serviço de recepção, expedição e distribuição da correspondência e ainda o serviço de arquivo das direcções distritais de finanças.
-
-2 - O serviço mencionado no número anterior é dirigido por um chefe de serviços e desdobra-se em dois sectores, a cargo de técnicos tributários designados pelo director distrital de finanças, aos quais correspondem, respectivamente, as actividades relacionadas com a administração do pessoal e com a contabilidade e administração do material.
+(Revogado.)
 
 ### CAPÍTULO II — Da estrutura e atribuições dos serviços locais da Direcção-Geral das Contribuições e Impostos
 
 ###### Artigo 20.º
 
-Os serviços locais da Direcção-Geral das Contribuições e Impostos, adiante designados por repartições de finanças, previstos nos artigos 6.º e 12.º do [Decreto Regulamentar n.º 12/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1979-382439), de 16 de Abril, têm a estrutura e as atribuições indicadas nos artigos seguintes.
+(Revogado.)
 
 #### SECÇÃO I — Das repartições definanças de 1.ª classe
 
 ###### Artigo 21.º — (Estrutura)
 
-1 - As repartições de finanças de 1.ª classe e os bairros fiscais de Lisboa e do Porto dividem-se em secções, até três, podendo ainda dispor de um sector de apoio instrumental, de harmonia com o seu movimento, conforme o que for determinado pelo director-geral, mediante proposta dos directores distritais de finanças.
-
-2 - As secções a que se refere o número anterior serão chefiadas por adjuntos de chefes de repartição, aos quais incumbe assegurar o cumprimento da globalidade das atribuições cometidas às respectivas secções e, bem assim, a adequada disciplina sobre os funcionários, sob a orientação e supervisão dos chefes de repartição.
-
-3 - O sector de apoio instrumental ficará a cargo de um técnico tributário, a designar pelos chefes de repartição.
-
-4 - Compete aos chefes de repartição a distribuição do pessoal pelas unidades de trabalho mencionadas no n.º 1 do presente artigo, ouvidos os respectivos adjuntos.
-
-5 - As disposições do presente diploma aplicam-se à Repartição Central do Imposto Complementar.
+(Revogado.)
 
 ###### Artigo 22.º — (Atribuições das secções e dos sectores de apoio instrumental)
 
-1 - Através das secções referidas no n.º 1 do artigo anterior serão desempenhadas as atribuições que cabem no âmbito das repartições de finanças, designadamente:
-
-a) Execução das tarefas de natureza técnico-tributária relacionadas com o lançamento, liquidação e cobrança dos diferentes impostos, incluindo os procedimentos administrativos ou preparatórios das mesmas;
-
-b) Execução das tarefas relacionadas com a secção de fiscalização interna;
-
-c) Execução das tarefas relacionadas com a acção de justiça fiscal que por lei ou determinação superior estejam afectas aos serviços locais de administração fiscal;
-
-d) Execução dos serviços próprios de departamentos estranhos à Direcção-Geral das Contribuições e Impostos, nos termos da lei ou de determinações superiores.
-
-2 - Aos sectores referidos na parte final do artigo 21.º incumbe executar as tarefas de apoio instrumental que lhes forem cometidas pelos chefes de repartição e, designadamente:
-
-a) Assegurar a recepção e o registo de declarações e de documentos vários apresentados pelos contribuintes ou pelos administradores em geral;
-
-b) Organizar os processos individuais dos contribuintes;
-
-c) Organizar e manter em funcionamento o arquivo das repartições de finanças;
-
-d) Assegurar a execução das tarefas relacionadas com a administração do pessoal colocado nas repartições de finanças, incluindo o expediente relacionado com o pagamento das remunerações acessórias a distribuir no âmbito das referidas repartições;
-
-e) Executar o expediente, designadamente o relacionado com a passagem de certidões, e assegurar os serviços de recepção, expedição e distribuição de correspondência;
-
-f) Assegurar os serviços de contabilidade das repartições de finanças, bem como a elaboração dos mapas de elementos estatísticos que devam ser fornecidos pelas referidas repartições.
-
-3 - A distribuição das atribuições referidas no n.º 1 do presente artigo pelas secções em que se dividem as repartições de finanças de 1.ª classe e os bairros fiscais de Lisboa e do Porto será efectuada por despacho dos directores distritais de finanças, mediante proposta dos respectivos chefes, segundo critérios de adequada divisão técnica do trabalho e de funcionalidade, sem prejuízo das determinações do director-geral, mediante recomendação dos competentes serviços centrais de apoio técnico.
+(Revogado.)
 
 #### SECÇÃO II — Das repartições de finanças de 2.ª classe
 
 ###### Artigo 23.º — (Estrutura e atribuições)
 
-1 - As repartições de finanças de 2.ª classe dividem-se em secções, até duas, podendo ainda dispor de um sector de apoio instrumental, de harmonia com o seu movimento, conforme o que for determinado pelo director-geral, mediante proposta dos directores distritais de finanças.
-
-2 - Aplica-se às repartições a que se refere o presente artigo o disposto nos n.os 2 a 4 do artigo 21.º e no artigo 22.º do presente diploma.
+(Revogado.)
 
 #### SECÇÃO III — Das repartições de finanças de 3.ª classe
 
 ###### Artigo 24.º — (Estrutura)
 
-As repartições de finanças de 3.ª classe funcionam como uma única unidade, sendo a distribuição de serviços pelos funcionários efectuada pelos respectivos chefes, os quais deverão, tanto quanto possível, proceder a uma repartição funcional de tarefas.
+(Revogado.)
 
 #### SECÇÃO IV — Dos serviços locais de fiscalização tributária
 
 ###### Artigo 25.º — (Inserção orgânica: orientação e chefia)
 
-1 - Os serviços locais de fiscalização tributária funcionarão no âmbito das repartições de finanças, sob a responsabilidade, orientação e chefia dos respectivos chefes.
-
-2 - Nas repartições de finanças em cujos quadros de pessoal estejam previstos mais de um lugar de técnico verificador tributário, a chefia directa dos serviços mencionados no número anterior será exercida pelo de maior categoria ou pelo mais antigo, quando a categoria for a mesma, mas sempre na dependência hierárquica do chefe da repartição.
+(Revogado.)
 
 ###### Artigo 26.º — (Atribuições)
 
-1 - Incumbe especialmente aos serviços locais de fiscalização tributária realizar a acção fiscalizadora na circunscrição fiscal das respectivas repartições de finanças, designadamente:
-
-a) Efectuar a prospecção das actividades, factos ou situações susceptíveis de interesse fiscal e registar os dados resultantes da observação;
-
-b) Proceder à verificação das declarações, participações, comunicações, notas e demais documentos apresentados pelos contribuintes, tendo em vista o contrôle da matéria colectável ou do imposto liquidado;
-
-c) Proceder à verificação ou exame dos livros de escrita ou de quaisquer outros documentos dos contribuintes, atendendo à qualificação técnica dos agentes locais;
-
-d) Prestar informações em processos judiciais e graciosos ou administrativos;
-
-e) Informar requerimentos, exposições ou documentos apresentados pelos contribuintes;
-
-f) Exercer adequada acção complementar de informações fiscais.
-
-2 - A acção de fiscalização tributária a cargo dos serviços locais será exercida em coordenação com a acção dos serviços distritais, devendo atender-se na distribuição das atribuições aos efectivos dos quadros locais e à qualificação técnica dos respectivos funcionários.
+(Revogado.)
 
 ###### Artigo 27.º — (Delimitação das funções do pessoal técnico de fiscalização tributária)
 
-1 - É vedado aos chefes das repartições de finanças atribuir aos funcionários do quadro técnico de fiscalização tributária quaisquer tarefas que não sejam próprias da acção específica dos serviços de fiscalização tributária.
-
-2 - Sempre que os chefes das repartições de finanças verifiquem a impossibilidade de os funcionários mencionados no número anterior realizarem com eficiência toda a acção fiscalizadora a tempo de serem utilizados com utilidade os seus resultados, deverão as insuficiências do pessoal ser supridas através dos funcionários dos serviços distritais.
+(Revogado.)
 
 ### CAPÍTULO III — Do funcionamento dos serviços
 
 ###### Artigo 28.º — (Direcção por objectivos)
 
-O funcionamento dos serviços distritais e locais subordinar-se-á a critérios de direcção por objectivos, nos termos previstos no artigo 15.º do [Decreto-Lei n.º 363/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-1978-326736), de 28 de Novembro.
+(Revogado.)
 
 ###### Artigo 29.º — (Rotação de funções)
 
-1 - Tendo em vista contribuir para o desenvolvimento dos recursos humanos, os dirigentes dos serviços distritais e locais devem providenciar no sentido de o pessoal técnico executivo, especialmente do que estiver afecto às repartições de finanças, efectuar adequada rotação de funções.
-
-2 - Para efeitos do disposto no número anterior, nas repartições de finanças o pessoal técnico executivo não poderá, em princípio, permanecer no exercício das mesmas funções por período superior a dois anos.
+(Revogado.)
 
 ###### Artigo 30.º — (Reuniões com os dirigentes dos serviços locais)
 
-1 - Os directores distritais de finanças devem promover reuniões periódicas e regulares com os chefes das repartições de finanças, tendo em vista, designadamente, o estudo e a detecção dos problemas comuns e o adequado esclarecimento sobre a execução das leis fiscais e das instruções emanadas dos serviços centrais e distritais, em ordem à uniformidade de actuação dos serviços.
-
-2 - Será definido por despacho do director-geral o número de reuniões anuais que deverão efectuar-se.
-
-3 - De todas as reuniões serão lavradas actas, as quais serão remetidas para apreciação do director-geral.
+(Revogado.)
 
 ###### Artigo 31.º — (Relatórios de actividades)
 
-1 - Os directores distritais de finanças apresentarão ao director-geral, até 30 de Abril de cada ano, um relatório sobre as actividades dos serviços fiscais referentes ao ano anterior, no qual serão salientados os problemas que afectarem as referidas actividades, o estado e o funcionamento dos serviços, com particular relevo para os atrasos verificados, suas causas e providências a tomar.
-
-2 - Os chefes de repartição de finanças apresentarão ao director distrital de finanças, até 31 de Março de cada ano, um relatório sobre as actividades dos respectivos serviços, no qual sejam referenciados os elementos indicados no número anterior.
+(Revogado.)
 
 ###### Artigo 32.º — (Consultas ou esclarecimentos)
 
-As consultas ou pedidos de esclarecimentos feitos pelas repartições de finanças às direcções distritais de finanças ou destas aos serviços centrais devem ser sempre acompanhados dos pareceres dos respectivos chefes ou dos directores distritais de finanças.
+(Revogado.)
 
 ### CAPÍTULO IV — Disposições gerais e transitórias
 
@@ -706,83 +443,49 @@ f) Serviços de transportes.
 
 ###### Artigo 41.º — (Substituições)
 
-1 - Quando ocorrerem substituições de pessoal, nos termos previstos no artigo 96.º do [Decreto Regulamentar n.º 12/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1979-382439), de 16 de Abril, os substitutos terão direito à totalidade dos vencimentos e demais remunerações atribuídas pelo exercício do cargo dos substituídos, independentemente da libertação das respectivas verbas por estes, sendo os adequados encargos suportados pelas correspondentes dotações referentes ao abono do pessoal.
-
-2 - O disposto no número anterior não se aplica quando as substituições se verificarem por motivo de licença para férias ou por períodos de tempo inferiores a sessenta dias.
+(Revogado.)
 
 ###### Artigo 42.º — (Serviços de informações fiscais)
 
-1 - Os serviços de informações fiscais previstos no artigo 13.º do [Decreto-Lei n.º 363/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-1978-326736), de 28 de Novembro, dependem directamente das direcções distritais de finanças do respectivo distrito, excepto os de Lisboa, que funcionam na directa dependência da Direcção de Serviços de Informações e Relações Públicas.
-
-2 - As delegações regionais de informações fiscais que forem criadas nos termos da disposição referida no número anterior dependem directamente das direcções distritais de finanças dos respectivos distritos.
-
-3 - Nas repartições de finanças de 1.ª e de 2.ª classe poderá ser criada por despacho do director-geral uma secção de informações fiscais.
+(Revogado.)
 
 ###### Artigo 43.º — (Regime e situação do pessoal dirigente)
 
-1 - Aos funcionários pertencentes ao quadro do pessoal dirigente superior que possuam a qualificação prevista no artigo 74.º do [Decreto Regulamentar n.º 12/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1979-382439), de 16 de Abril, e a quem sejam dadas por findas as comissões de serviço, é assegurado o provimento definitivo na categoria de administrador tributário.
-
-2 - Para efeitos do número anterior, consideram-se acrescentados ao quadro do pessoal dirigente superior aprovado pelo [Decreto Regulamentar n.º 12/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1979-382439), de 16 de Abril, seis lugares de administrador tributário, os quais serão remunerados pelas letras B ou C, consoante os funcionários a prover, nos termos do número anterior, provenham, respectivamente, do cargo de subdirector-geral ou do cargo de director de serviços ou equiparado.
-
-3 - No caso de as comissões serem dadas por findas por decisão da Administração, nos termos previstos no artigo 20.º do diploma mencionado na alínea anterior, e não existirem vagas no contingente de administradores tributários, ficarão os funcionários na situação de supranumerários, sendo providos nas primeiras vagas que ocorrerem.
+(Revogado.)
 
 ###### Artigo 44.º
 
 (Colocação de funcionários pertencentes à carreira do pessoal técnico de fiscalização tributária ou à carreira do pessoal técnico judicial em lugares de perito tributário)
 
-1 - Os peritos de fiscalização tributária e os peritos do contencioso tributário com condições para serem providos em lugares de chefe de repartição de finanças de 1.ª classe, nos termos da alínea a) do artigo 63.º do [Decreto Regulamentar n.º 12/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1979-382439), de 16 de Abril, podem solicitar colocação em lugares de perito tributário.
-
-2 - Aos funcionários referidos no número anterior é contada, para efeitos de promoção à categoria de perito tributário de 1.ª classe, nos termos da alínea f) do artigo 36.º do [Decreto Regulamentar n.º 12/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1979-382439), de 16 de Abril, a antiguidade referida às categorias de perito de fiscalização de 2.ª classe e de perito do contencioso tributário de 2.ª classe.
+(Revogado.)
 
 ###### Artigo 45.º — (Promoções para categorias integradas em quadros circulares: promoção de técnicos economistas, técnicos juristas, técnicos, engenheiros e engenheiros técnicos)
 
-1 - As promoções para categorias integradas em quadros circulares previstos no mapa I anexo ao [Decreto Regulamentar n.º 12/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1979-382439), de 16 de Abril, produzirão efeitos a partir da data em que os funcionários perfaçam o tempo de serviço exigido nas adequadas disposições legais, sem prejuízo do visto do Tribunal de Contas e publicação dos despachos de provimento no Diário da República.
-
-2 - A promoção de técnicos economistas, técnicos juristas, técnicos, arquitectos, engenheiros civis, engenheiros agrónomos e engenheiros técnicos de 2.ª classe à categoria imediata far-se-á nos termos previstos no artigo 71.º do [Decreto Regulamentar n.º 12/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1979-382439), de 16 de Abril, desde que os funcionários reúnam os adequados requisitos previstos naquele diploma.
+(Revogado.)
 
 ###### Artigo 46.º — (Primeiras provas de selecção para provimento de lugares dos quadros)
 
-1 - O Ministro das Finanças e do Plano poderá determinar, mediante proposta do director-geral, que às primeiras provas de selecção que se realizarem após a publicação do presente diploma para o provimento de lugares de ingresso das carreiras de técnico economista sejam concorrentes apenas os funcionários da Direcção-Geral com as habilitações exigidas, bem como os técnicos economistas contratados ao abrigo da [Portaria n.º 608/76](https://diariodarepublica.pt/dr/detalhe/portaria/608-1976-409556), de 15 de Outubro.
-
-2 - Os agentes referidos na parte final do número anterior que tenham, pelo menos, seis meses de serviço na Direcção-Geral serão submetidos unicamente à prova final a que se refere o artigo 47.º do [Decreto Regulamentar n.º 12/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1979-382439), de 16 de Abril, contando-se o período prestado na situação de contratados e a respectiva informação de serviço para efeitos do estágio a que se refere o n.º 4 do artigo 46.º do mesmo diploma.
-
-3 - O disposto no n.º 1 do presente artigo poderá aplicar-se às provas de selecção para provimento dos lugares de ingresso nas carreiras do pessoal técnico superior, de pessoal técnico, do pessoal técnico profissional e do pessoal administrativo previstas no [Decreto Regulamentar n.º 12/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1979-382439), de 16 de Abril.
-
-4 - Às primeiras provas de selecção que se realizarem após a publicação do presente diploma para o provimento de lugares de técnico orientador podem concorrer peritos tributários de 1.ª classe, peritos de fiscalização tributária de 1.ª classe e peritos de contencioso tributário de 1.ª classe com, pelo menos, dois anos de serviço na categoria.
+(Revogado.)
 
 ###### Artigo 47.º — (Transição dos Secretários de Finanças de 3.ª classe)
 
-1 - Os funcionários a que se referem os n.os 1 e 2 do artigo 109.º do [Decreto Regulamentar n.º 12/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1979-382439), de 16 de Abril, têm o prazo de trinta dias a contar da entrada em vigor deste decreto para requererem a nomeação para os lugares previstos no n.º 5 da referida disposição, contando-se-lhes, para efeitos de nomeação e mudança de classe, o tempo de serviço prestado na categoria de secretário de finanças de 3.ª classe.
-
-2 - O disposto na parte final do número anterior aplica-se aos funcionários a que se refere o n.º 4 do artigo indicado no número anterior.
+(Revogado.)
 
 ###### Artigo 48.º — (Mudança de designação de categorias funcionais; pessoal técnico de fiscalização tributária nos serviços locais)
 
-1 - Os técnicos verificadores tributários de 1.ª e de 2.ª classe e os técnicos verificadores auxiliares de 1.ª e de 2.ª classe referidos no [Decreto Regulamentar n.º 12/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1979-382439), de 16 de Abril, passam a designar-se, respectivamente, peritos de fiscalização tributária de 1.ª e de 2.ª classe e técnicos verificadores tributários de 1.ª e de 2.ª classe.
-
-2 - Os cargos de chefe dos serviços de administração interna das direcções distritais de finanças referidos no [Decreto Regulamentar n.º 12/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1979-382439), de 16 de Abril, passam a designar-se chefe dos serviços de administração geral das direcções distritais de finanças.
-
-3 - Nas repartições de finanças só podem ser colocados técnicos verificadores tributários.
-
-4 - Nas repartições de finanças em cujos quadros haja peritos de fiscalização tributária, o respectivo número acresce ao dos técnicos verificadores.
-
-5 - Os peritos de fiscalização tributária que estejam colocados nas repartições de finanças são transferidos para os quadros do pessoal técnico de fiscalização tributária das respectivas direcções distritais de finanças.
-
-6 - Os lugares de perito de fiscalização tributária das direcções distritais de finanças que aumentem por força do n.º 4 diminuem na mesma proporção os lugares de técnico verificador tributário.
+(Revogado.)
 
 ###### Artigo 49.º — (Encargos com o subsídio de residência)
 
-Os encargos resultantes da atribuição de subsídios de residência no corrente ano que não puderem ser suportados com a parte sobrante do prémio de cobrança dos emolumentos, custas e multas, nos termos da alínea 7) do artigo 101.º do [Decreto Regulamentar n.º 12/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1979-382439), de 16 de Abril, serão satisfeitos pelas disponibilidades das verbas consignadas à despesa com o pessoal.
+(Revogado.)
 
 ###### Artigo 50.º — (Integração dos adidos nos quadros da Direcção-Geral das Contribuições e Impostos)
 
-1 - Os funcionários pertencentes ao quadro geral de adidos com as categorias constantes dos mapas I e II anexos à [Portaria n.º 768/77](https://diariodarepublica.pt/dr/detalhe/portaria/768-1977-280241), de 21 de Dezembro, são integrados nos quadros da Direcção-Geral das Contribuições e Impostos nos termos previstos na citada portaria e no [Decreto Regulamentar n.º 12/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1979-382439), de 16 de Abril.
-
-2 - Os funcionários pertencentes ao quadro geral de adidos não mencionados no n.º 1 do presente artigo e que se encontrem requisitados na Direcção-Geral das Contribuições e Impostos até à data da publicação do presente decreto são integrados nos termos previstos nos diplomas mencionados no número anterior.
+(Revogado.)
 
 ###### Artigo 51.º — (Transferências entre carreiras)
 
-Quando por virtude das disposições referentes à dinâmica das carreiras os funcionários de uma carreira específica transitem para outra, considera-se automática a abertura da vaga no lugar e carreira de origem sem necessidade de pedido de exoneração.
+(Revogado.)
 
 ###### Artigo 52.º — (Alterações ao [Decreto Regulamentar n.º 12/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1979-382439), de 16 de Abril)
 

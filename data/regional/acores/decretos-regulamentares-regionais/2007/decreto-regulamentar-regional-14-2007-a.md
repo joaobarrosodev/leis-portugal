@@ -54,11 +54,12 @@ version_history:
   - date: '2022-07-27'
     amending: pt:dre:669860:por
     amending_title: Decreto Regulamentar Regional n.º 18/2011/A; Decreto Regulamentar Regional n.º 11/2022/A; Decreto Regulamentar
-      Regional n.º 6/2009/A
+      Regional n.º 6/2009/A; Decreto Regulamentar Regional n.º 16/2012/A
     changes:
     - Revoga Artigo 42.º
     - Revoga Artigo 40.º
     - Altera anexo ou texto fora do articulado
+    - Revoga Artigo 19
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/decregulreg/14/2007/07/13/a/dre/pt/html
@@ -87,7 +88,8 @@ provenance:
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Regulamentar Regional n.º
     18/2011/A; Decreto Regulamentar Regional n.º 11/2022/A. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/acores/decretos-regulamentares-regionais/2007/decreto-regulamentar-regional-14-2007-a.alteracoes.json.
     Anexos e quadros de alteradores triados «sem alteração textual», aplicados com um LLM e verificados às cegas (consolidacao/anexos_alteradores.py):
-    Decreto Regulamentar Regional n.º 6/2009/A.'
+    Decreto Regulamentar Regional n.º 6/2009/A. Revogações registadas só como repealed_by, aplicadas com um LLM e verificadas
+    às cegas (consolidacao/revogacoes.py): Decreto Regulamentar Regional n.º 16/2012/A.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -570,7 +572,9 @@ A Escola Básica Integrada da Horta integra todos os estabelecimentos de educaç
 
 ###### Artigo 19.º — Escola Básica Integrada Mouzinho da Silveira
 
-A Escola Básica Integrada Mouzinho da Silveira integra todos os estabelecimentos de educação pré-escolar e do ensino básico da rede pública localizados na ilha do Corvo.
+(Revogado.)
+
+> Revogado pelo/a [Decreto Regulamentar Regional n.º 16/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/16-2012-178832), publicado em 2012-06-19, com efeitos a partir de 2012-06-20.
 
 ### CAPÍTULO III — Escolas básicas e secundárias
 

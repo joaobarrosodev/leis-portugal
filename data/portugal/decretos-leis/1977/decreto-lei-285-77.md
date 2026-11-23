@@ -44,11 +44,12 @@ version_history:
     changes: []
   - date: '1982-08-18'
     amending: pt:dre:397495:por
-    amending_title: Decreto-Lei n.º 330/82
+    amending_title: Decreto-Lei n.º 330/82; Decreto-Lei n.º 322/79
     changes:
     - Revoga Artigo 6.º
     - Revoga Artigo 7.º
     - Revoga Artigo 8.º
+    - Revoga Artigo 9
 identifiers:
   celex: null
   eli: null
@@ -75,7 +76,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T23:04:19Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 330/82. Método e
-    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1977/decreto-lei-285-77.alteracoes.json'
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1977/decreto-lei-285-77.alteracoes.json.
+    Revogações registadas só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Decreto-Lei
+    n.º 322/79.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -198,11 +201,9 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ###### Artigo 9.º
 
-1. Após a entrada em vigor deste decreto-lei, nenhuma entidade do sector público abrangida pelo artigo 1.º poderá adquirir novas participações no capital de sociedades sem que o IPE se tenha previamente pronunciado sobre tal aquisição, salvo tratando-se de participações em sociedades abrangidas pelo n.º 1 do artigo 4.º
+(Revogado.)
 
-2 - O IPE terá o prazo máximo de trinta dias para se pronunciar sobre as aquisições previstas no número anterior, sob pena de se entender que dá o seu acordo à operação.
-
-3. As participações adquiridas nos termos do n.º 1 deverão ser transferidas, no prazo de seis meses, para o património do IPE, salvo se, por despacho conjunto dos Ministros referidos no artigo 8.º, for determinado que a titularidade ou a gestão de tais participações se mantenham nas entidades adquirentes ou tenham outro destino.
+> Revogado pelo/a [Decreto-Lei n.º 322/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/322-1979-378738), publicado em 1979-08-23.
 
 ###### Artigo 10.º
 

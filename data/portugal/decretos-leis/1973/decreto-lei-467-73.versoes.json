@@ -23,17 +23,24 @@
      "title": "Decreto-Lei n.º 400/78",
      "published": "1978-12-15",
      "dre_path": "/dr/detalhe/decreto-lei/400-1978-324885"
+    },
+    {
+     "id": "pt:dre:502793:por",
+     "title": "Decreto n.º 242/76",
+     "published": "1976-04-07",
+     "dre_path": "/dr/detalhe/decreto/242-1976-502793"
     }
    ],
    "changes": [
-    "Altera Artigo 5.º"
+    "Altera Artigo 5.º",
+    "Revoga Artigo 4"
    ],
    "fragments": [
     "72e2760bc6fb5cb8",
     "0e0caa5108a32a70",
     "49fd76d02ab663c6",
     "3acbe094279945e6",
-    "c728b8481e7486bb",
+    "9047d9a5f26b134c",
     "bca6a19501064ea1",
     "493c2ec5032e9319",
     "f5b50353466919f3",
@@ -83,13 +90,15 @@
    "changed_by": [],
    "markdown": "###### Artigo 3.º\n\n1. A contagem do tempo de serviço para atribuição da 1.ª diuturnidade é feita a partir da data da passagem a pronto da escola de alistados ou do aumento ao efectivo das corporações, no caso de aquela habilitação ser dispensada.\n\n2. A contagem do tempo de serviço para atribuição da 2.ª diuturnidade e seguintes é feita a partir do dia em que foi concedida a diuturnidade imediatamente anterior.\n\n3. Nas contagens a que se referem os números anteriores não se considera:\n\na) Os anos perdidos pelo sargento, chefe ou sub-chefe na frequência obrigatória dos cursos de acesso a oficial para o primeiro ou de promoção para os segundos;\n\nb) O tempo de permanência em classe de comportamento inferior à segunda."
   },
-  "c728b8481e7486bb": {
+  "9047d9a5f26b134c": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 4.º",
-   "in_force_from": null,
-   "changed_by": [],
-   "markdown": "###### Artigo 4.º\n\n1. Os militares abrangidos pelo presente decreto-lei promovidos a alferes e tenente terão direito ao vencimento correspondente ao posto a que ascenderem, acrescido da quantia necessária para perfazer a importância que antes venciam, quando superior, e mais o equivalente a uma diuturnidade de valor igual à que vinham recebendo.\n\n2. O vencimento, calculado nos termos dos artigos anteriores, não pode exceder o limite de 95% do vencimento correspondente ao posto de capitão ou de comissário principal."
+   "in_force_from": "1978-12-15",
+   "changed_by": [
+    "Revogado pelo/a [Decreto n.º 242/76](https://diariodarepublica.pt/dr/detalhe/decreto/242-1976-502793), publicado em 1976-04-07, com efeitos a partir de 1976-01-01."
+   ],
+   "markdown": "###### Artigo 4.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto n.º 242/76](https://diariodarepublica.pt/dr/detalhe/decreto/242-1976-502793), publicado em 1976-04-07, com efeitos a partir de 1976-01-01."
   },
   "bca6a19501064ea1": {
    "fragment_id": null,

@@ -54,11 +54,17 @@ version_history:
     changes: []
   - date: '2015-05-18'
     amending: pt:dre:67198365:por
-    amending_title: Decreto-Lei n.º 78/2015
+    amending_title: Decreto-Lei n.º 78/2015; Resolução do Conselho de Ministros n.º 175/2008
     changes:
     - Revoga Artigo 5.º
     - Revoga Artigo 8.º
     - Revoga Artigo 9.º
+    - Revoga Artigo 10
+    - Revoga Artigo 11
+    - Revoga Artigo 12
+    - Revoga Artigo 14
+    - Revoga Artigo 15
+    - Revoga Artigo 17
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/decregul/6/2005/07/21/p/dre/pt/html
@@ -85,7 +91,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:29:23Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 78/2015. Método e
-    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-regulamentares/2005/decreto-regulamentar-6-2005.alteracoes.json'
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-regulamentares/2005/decreto-regulamentar-6-2005.alteracoes.json.
+    Revogações registadas só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Resolução
+    do Conselho de Ministros n.º 175/2008.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -287,71 +295,17 @@ A comissão directiva e o seu presidente dispõem das competências atribuídas 
 
 ###### Artigo 10.º — Actos e actividades interditos
 
-Na área do Parque Natural são interditos os seguintes actos e actividades:
+(Revogado.)
 
-a) A alteração à morfologia do solo pela modificação do coberto vegetal através do corte de vegetação arbórea e arbustiva, excepto para acções de limpeza e para as decorrentes da normal actividade agrícola e florestal;
-
-b) A alteração do uso e da morfologia do solo pela instalação ou ampliação de depósitos de ferro-velho, de sucata, de veículos, de areias ou de outros resíduos sólidos que causem impacte visual negativo ou poluam o solo, o ar ou a água, bem como pelo vazamento de lixos, detritos, entulhos ou sucatas fora dos locais para tal destinados;
-
-c) A realização de obras de construção civil fora dos perímetros urbanos, com excepção das referidas nas alíneas a) e d) do artigo 11.º;
-
-d) O lançamento de águas residuais ou de uso doméstico na água, no solo ou no subsolo susceptíveis de causarem poluição;
-
-e) A colheita, captura, abate ou detenção de exemplares de quaisquer espécies vegetais ou animais, em qualquer fase do seu ciclo biológico, sujeitos a medidas de protecção, incluindo a destruição de ninhos e a apanha de ovos, a perturbação ou a destruição dos seus habitats, com excepção das acções levadas a efeito pelo Parque Natural e das acções de âmbito científico devidamente autorizadas pelo mesmo;
-
-f) A introdução de espécies não indígenas, da flora ou da fauna, de acordo com a legislação em vigor;
-
-g) A prática de actividades desportivas motorizadas fora das estradas, dos caminhos municipais ou florestais, dos arrifes ou aceiros susceptíveis de provocarem poluição ou ruído ou de deteriorarem os factores naturais da área;
-
-h) O sobrevoo de aeronaves com motor abaixo de 1000 pés, salvo por razões de vigilância e combate a incêndios, operações de salvamento e trabalhos científicos autorizados pelo Parque Natural;
-
-i) A destruição ou delapidação dos bens culturais;
-
-j) A realização de queimadas e a prática de foguear durante o período crítico de ocorrência de fogos florestais, excepto nas áreas com infra-estruturas destinadas a esse fim ou para prevenção de fogos (contrafogos);
-
-l) A prática de campismo ou caravanismo fora dos locais para tal destinados;
-
-m) A instalação, afixação, inscrição ou pintura mural de mensagens de publicidade ou propaganda, temporárias ou permanentes, de cariz comercial ou não, incluindo a colocação de meios amovíveis, fora do perímetro dos aglomerados urbanos, com excepção da sinalização específica do Parque Natural ou da respectiva Câmara Municipal.
+> Revogado pelo/a [Resolução do Conselho de Ministros n.º 175/2008](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/175-2008-439872), publicado em 2008-11-24.
 
 ###### Artigo 11.º — Actos e actividades sujeitos a autorização
 
-Sem prejuízo dos restantes condicionalismos legais, ficam sujeitos a autorização prévia do Parque Natural os seguintes actos e actividades:
-
-a) A realização de obras de construção civil para reconstrução ou demolição de edificações, exceptuando as obras de simples conservação, restauro, reparação ou limpeza;
-
-b) A alteração do uso actual dos terrenos ou da morfologia do solo por novos povoamentos florestais ou sua reconversão;
-
-c) A alteração do coberto vegetal através da realização de cortes rasos de povoamentos florestais, pelo corte de vegetação arbórea ou arbustiva destinado a acções de limpeza ou pela destruição das compartimentações existentes de sebes vivas, exceptuando-se as acções decorrentes do combate a incêndios e da normal actividade agrícola e florestal;
-
-d) A realização de obras de construção civil para instalação e ampliação de parques de campismo e caravanismo, equipamentos turísticos de lazer e recreio, explorações agro-pecuárias e agro-industriais, projectos de irrigação ou tratamento de águas residuais, estaleiros temporários ou permanentes fora dos perímetros urbanos e espaços predominantemente urbanos, como tal definidos no plano director municipal;
-
-e) A alteração à morfologia do solo, modificação do relevo ou remoção da camada superficial do solo arável;
-
-f) A abertura de novas estradas, caminhos ou acessos e o alargamento ou qualquer modificação das vias existentes, bem como obras de manutenção e conservação que impliquem a destruição significativa do coberto vegetal;
-
-g) A alteração à morfologia do solo pela instalação ou ampliação de depósitos de produtos explosivos ou inflamáveis por grosso e de combustíveis sólidos, líquidos e gasosos, incluindo postos de combustível;
-
-h) A instalação de infra-estruturas eléctricas e telefónicas, aéreas e subterrâneas, de telecomunicações, de transporte de gás natural, de saneamento básico e de aproveitamento de energias renováveis fora dos perímetros urbanos;
-
-i) A alteração à morfologia do solo pela abertura de poços, furos e captações.
+(Revogado.)
 
 ###### Artigo 12.º — Contra-ordenações
 
-1 - Constitui contra-ordenação a prática dos actos e actividades previstos no artigo 10.º ou, sem as autorizações necessárias, no artigo 11.º
-
-2 - As contra-ordenações previstas no número anterior são punidas com coimas de:
-
-a) (euro) 25 a (euro) 2500, no caso de pessoas singulares;
-
-b) (euro) 1000 a (euro) 30000, no caso de pessoas colectivas.
-
-3 - A tentativa e a negligência são puníveis.
-
-4 - As contra-ordenações previstas no n.º 1 podem ainda determinar a aplicação das sanções acessórias previstas no artigo 23.º do [Decreto-Lei n.º 19/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-1993-584781), de 23 de Janeiro.
-
-5 - O processamento das contra-ordenações e a aplicação das coimas são feitos de acordo com o artigo 24.º do [Decreto-Lei n.º 19/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-1993-584781), de 23 de Janeiro.
-
-6 - A comissão directiva do Parque Natural pode ordenar que se proceda à reposição da situação anterior à infracção, nos termos do artigo 25.º do [Decreto-Lei n.º 19/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-1993-584781), de 23 de Janeiro.
+(Revogado.)
 
 ###### Artigo 13.º — Caça
 
@@ -359,21 +313,11 @@ As áreas de interdição à caça encontram-se definidas na [Portaria n.º 873/
 
 ###### Artigo 14.º — Pesca, apanha e aquicultura
 
-1 - A prática de actividades ligadas à pesca, apanha e aquicultura na área do Parque Natural está sujeita à legislação específica daquelas actividades.
-
-2 - Por despacho conjunto dos Ministros do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional e da Agricultura, do Desenvolvimento Rural e das Pescas podem ser estabelecidos condicionalismos específicos ao exercício da pesca profissional e lúdica, incluindo a fixação de um número máximo de embarcações a operar na área do Parque Natural.
-
-3 - Se dos condicionalismos previstos no número anterior resultar a restrição do acesso às actividades aí mencionadas, pode ser dada prioridade às comunidades locais dependentes da pequena pesca.
-
-4 - Está sujeito a parecer vinculativo do Parque Natural o licenciamento para as actividades de apanha de organismos marinhos na área do Parque Natural, bem como para a instalação de estabelecimentos de culturas marinhas.
-
-5 - O parecer referido no número anterior quanto ao licenciamento para as actividades de apanha de organismos marinhos é emitido no prazo máximo de 20 dias úteis, findo o qual se considera favorável.
-
-6 - Na área do Parque Natural é proibida a pesca com ganchorra e a apanha de bivalves com escafandro autónomo.
+(Revogado.)
 
 ###### Artigo 15.º — Fiscalização
 
-As funções de fiscalização, para efeitos do disposto no presente diploma e legislação complementar aplicável no Parque Natural, competem ao ICN, às autarquias locais, à autoridade marítima e demais entidades competentes, nos termos da legislação em vigor.
+(Revogado.)
 
 ###### Artigo 16.º — Plano de ordenamento e regulamento
 
@@ -383,15 +327,7 @@ As funções de fiscalização, para efeitos do disposto no presente diploma e l
 
 ###### Artigo 17.º — Autorizações e pareceres vinculativos
 
-1 - Salvo disposição em contrário, as autorizações emitidas pela comissão directiva do Parque Natural são sempre vinculativas e não dispensam outros pareceres, autorizações ou licenças que legalmente forem devidos.
-
-2 - Na falta de disposição especial aplicável, o prazo para a emissão das autorizações e pareceres pela comissão directiva do Parque Natural é de 60 dias.
-
-3 - As autorizações e pareceres emitidos pela comissão directiva do Parque Natural ao abrigo do presente diploma caducam decorridos dois anos sobre a data da sua emissão, salvo se nesse prazo as entidades competentes tiverem procedido ao respectivo licenciamento.
-
-4 - A comissão directiva, mediante parecer do conselho consultivo, pode fazer depender de uma avaliação de impacte ambiental, como formalidade essencial, nos termos do [Decreto-Lei n.º 69/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2000-281589), de 3 de Maio, a autorização para os actos e actividades referidos no artigo 11.º
-
-5 - São nulas e de nenhum efeito as licenças municipais ou outras concedidas com violação do regime instituído neste diploma.
+(Revogado.)
 
 ###### Artigo 18.º — Direito de preferência
 

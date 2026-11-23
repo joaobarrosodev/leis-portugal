@@ -41,7 +41,7 @@ version:
   kind: consolidated
   label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: '1999-03-28'
+  consolidation_date: '2006-03-25'
 version_history:
   file: decreto-lei-16-94.versoes.json
   count: 2
@@ -51,9 +51,9 @@ version_history:
     amending: null
     amending_title: null
     changes: []
-  - date: '1999-03-28'
+  - date: '2006-03-25'
     amending: pt:dre:533820:por
-    amending_title: Lei n.º 37/94; Decreto-Lei n.º 94/99
+    amending_title: Lei n.º 37/94; Decreto-Lei n.º 94/99; Decreto-Lei n.º 74/2006
     changes:
     - Adita Artigo ANEXO — Estatuto do Ensino Superior Particular e Cooperativo::56.º-A
     - Altera Artigo ANEXO — Estatuto do Ensino Superior Particular e Cooperativo::5.º
@@ -65,6 +65,14 @@ version_history:
     - Altera Artigo ANEXO — Estatuto do Ensino Superior Particular e Cooperativo::66.º
     - Altera Artigo ANEXO — Estatuto do Ensino Superior Particular e Cooperativo::72.º
     - Altera Artigo ANEXO — Estatuto do Ensino Superior Particular e Cooperativo::34.º
+    - Revoga Artigo 39
+    - Revoga Artigo 53
+    - Revoga Artigo 57
+    - Revoga Artigo 58
+    - Revoga Artigo 59
+    - Revoga Artigo 60
+    - Revoga Artigo 64
+    - Revoga Artigo 67
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/16/1994/01/22/p/dre/pt/html
@@ -91,7 +99,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:31:29Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Lei n.º 37/94; Decreto-Lei n.º 94/99.
-    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1994/decreto-lei-16-94.alteracoes.json'
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1994/decreto-lei-16-94.alteracoes.json.
+    Revogações registadas só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Decreto-Lei
+    n.º 74/2006.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -665,13 +675,15 @@ c) Até 31 de Dezembro de cada ano, o relatório das actividades escolares do an
 
 ###### Artigo 39.º — Concessão dos graus de mestre e doutor
 
-1 - Os estabelecimentos de ensino de interesse público podem requerer autorização para conceder o grau de mestre decorridos que estejam cinco anos de funcionamento do curso a que dizem respeito.
+1 - (Revogado.)
 
-2 - Os estabelecimentos de ensino de interesse público podem requerer autorização para conceder o grau de doutor decorridos que estejam oito anos de funcionamento do curso na área de especialidade a que dizem respeito.
+2 - (Revogado.)
 
 3 - O regime aplicável à atribuição dos graus de mestre e doutor é o previsto para os estabelecimentos de ensino superior público.
 
-4 - Para efeitos do disposto nos n.os 1 e 2 não é contado o período de instalação.
+4 - (Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 74/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2006-671387), publicado em 2006-03-24, com efeitos a partir de 2006-03-25.
 
 #### SECÇÃO VI — Extensões
 
@@ -829,7 +841,7 @@ d) Existência de estruturas e formas de apoio social aos alunos carenciados.
 
 4 - No caso de não haver resposta ao requerimento previsto no número anterior, no prazo de 30 dias após a entrada do mesmo no Ministério da Educação, poderá o requerente renovar imediatamente o pedido.
 
-5 - A decisão sobre o pedido de alteração de um curso prevista no artigo 67.º será igualmente proferida no prazo máximo de seis meses, após a entrada do respectivo processo, devidamente instruído, no Ministério da Educação, considerando-se, neste caso, automaticamente deferido o pedido da alteração caso o Ministério não se pronuncie no prazo referido.
+5 - (Revogado.)
 
 > Alterado pelo/a [Lei n.º 37/94](https://diariodarepublica.pt/dr/detalhe/lei/37-1994-533820), publicado em 1994-11-11.
 
@@ -877,45 +889,21 @@ b) O encerramento do estabelecimento.
 
 ###### Artigo 57.º — Requerimento para o funcionamento de cursos
 
-1 - O requerimento de autorização de funcionamento de cursos deve ser, pela entidade instituidora, instruído com os seguintes elementos:
-
-a) Plano de estudos e programa sumário das unidades curriculares do curso ou cursos, respectiva carga horária, e regime de precedências;
-
-b) Indicação dos docentes responsáveis pelas disciplinas ministradas no primeiro ano de cada curso, respectivos currículos e compromisso de aceitação dos mesmos;
-
-c) Localização e identificação das instalações e do equipamento a afectar ao curso;
-
-d) Indicação do número máximo de alunos proposto à primeira matrícula e inscrição, em cada curso e para o efeito de frequência global.
+1 - (Revogado.)
 
 2 - Considera-se criação de cursos, para todos os efeitos, a leccionação de um curso com funcionamento autorizado em instalações diversas daquelas para as quais foi requerido e autorizado o funcionamento de cursos.
 
 ###### Artigo 58.º — Prazo
 
-O pedido de funcionamento de um curso deverá ser apresentado até 15 de Novembro do ano lectivo anterior à data prevista para o seu início.
+(Revogado.)
 
 ###### Artigo 59.º — Organização e apreciação do processo
 
-1 - O Departamento do Ensino Superior do Ministério da Educação organiza o processo de autorização de funcionamento de cursos.
-
-2 - Poderão ser solicitados à entidade instituidora esclarecimentos e documentação complementar, sendo indeferido liminarmente o requerimento que se não apresente devidamente instruído.
-
-3 - A apreciação do requerimento de funcionamento de cursos será realizada pela comissão referida no n.º 3 do artigo 52.º, a qual se pronunciará, nomeadamente, acerca de:
-
-a) Planos de estudo e programas de unidades curriculares;
-
-b) Qualificação do pessoal docente;
-
-c) Instalações e equipamento científico, didáctico, pedagógico e técnico;
-
-d) Similitude dos critérios de exigência científica e pedagógica com os cursos correspondentes do ensino superior, público e não público;
-
-e) Número de vagas proposto à primeira matrícula e inscrição e número máximo de alunos para efeito de frequência global.
+(Revogado.)
 
 ###### Artigo 60.º — Decisão
 
-1 - A decisão sobre o pedido de funcionamento de um curso será proferida no prazo máximo de seis meses após a entrada do respectivo pedido no Ministério da Educação.
-
-2 - Considera-se indeferido o pedido de funcionamento de um curso se o Ministro da Educação se não pronunciar no prazo fixado no número anterior.
+(Revogado.)
 
 ###### Artigo 61.º — Caducidade
 
@@ -933,19 +921,7 @@ O reconhecimento de graus ou diplomas não tem efeito retroactivo.
 
 ###### Artigo 64.º — Decisão de autorização ou de aprovação
 
-1 - A autorização de funcionamento dos primeiros cursos ou de outros conferentes de grau ou diploma de estudos superiores especializados, a aprovação dos respectivos planos de estudo e suas alterações bem como o reconhecimento oficial dos graus e diplomas são realizados por portaria do Ministro da Educação.
-
-2 - Dos diplomas referidos no número anterior deve constar:
-
-a) A denominação do estabelecimento de ensino;
-
-b) Os cursos a ministrar e respectivo plano de estudos;
-
-c) O ano de início das actividades escolares;
-
-d) A localidade onde se situam as instalações nas quais foi autorizado o funcionamento dos cursos;
-
-e) A indicação do grau ou do diploma concedido.
+(Revogado.)
 
 ###### Artigo 65.º — Remissão
 
@@ -963,9 +939,7 @@ Ao acto de autorização de funcionamento de cursos e de reconhecimento de grau 
 
 ###### Artigo 67.º — Alteração a planos de estudos
 
-1 - As alterações a planos de estudos de cursos autorizados devem ser propostas ao Ministro da Educação até ao dia 1 de Fevereiro anterior ao começo do período lectivo em que irão iniciar a sua vigência.
-
-2 - A organização e apreciação do requerimento de alteração de planos de estudos rege-se pelo disposto nesta secção.
+(Revogado.)
 
 #### SECÇÃO III — Registo dos estatutos
 

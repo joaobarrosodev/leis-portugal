@@ -47,37 +47,59 @@
      "title": "Decreto-Lei n.º 409/91",
      "published": "1991-10-17",
      "dre_path": "/dr/detalhe/decreto-lei/409-1991-288869"
+    },
+    {
+     "id": "pt:dre:374243:por",
+     "title": "Decreto-Lei n.º 187/88",
+     "published": "1988-05-27",
+     "dre_path": "/dr/detalhe/decreto-lei/187-1988-374243"
     }
    ],
    "changes": [
-    "Revoga Artigo 15.º"
+    "Revoga Artigo 15.º",
+    "Revoga Artigo 1",
+    "Revoga Artigo 2",
+    "Revoga Artigo 3",
+    "Revoga Artigo 4",
+    "Revoga Artigo 5",
+    "Revoga Artigo 6",
+    "Revoga Artigo 7",
+    "Revoga Artigo 8",
+    "Revoga Artigo 9",
+    "Revoga Artigo 10",
+    "Revoga Artigo 11",
+    "Revoga Artigo 12",
+    "Revoga Artigo 13",
+    "Revoga Artigo 14",
+    "Revoga Artigo 17",
+    "Revoga Artigo 18"
    ],
    "fragments": [
     "282ec333d4106e16",
-    "6f927d4be795cd33",
+    "d415182a14c278e4",
     "4408b6ad065e4199",
     "c642eb39d510f083",
-    "2ff5b48c863c9004",
-    "2e92a5b195a002ed",
-    "a927c8962b3f6f9d",
-    "fd2b10d365917e22",
-    "c29d487a3bb4db9f",
-    "562289618fec2548",
-    "7f52e83a7d04fd8b",
-    "90672d324d9fb1b0",
-    "de3be4755165bd13",
+    "b811d1d1926efaee",
+    "aeabfc7d654eaca6",
+    "fd9d3b618cdc2cc3",
+    "b5210227b739a0b3",
+    "f6da948b2df5ba2d",
+    "7a5f71f1c3f93518",
+    "f264743430c70c7f",
+    "f602c09ff787ee69",
+    "5ee5545dab9fb5ea",
     "28112e461f58fcc4",
-    "0b9760696072f16c",
-    "2d38c941c73db7a2",
+    "98cae671dae11f85",
+    "0263b32731af5454",
     "ca489b904fcf6882",
-    "e57cb069ecadda57",
-    "8563108df1a242e5",
+    "cc4855c91a83e23c",
+    "b1d2a1c9e7ee0ffe",
     "b3b459fea77ac221",
     "7917a679724a9f12",
     "75b9bfe5b916ccee",
     "42fb320116d718e5",
-    "46252a9cad7bda6d",
-    "5d5d11424ed94138"
+    "9c4baa2f2e9aa4b9",
+    "c64e758e6b02f3e4"
    ]
   }
  ],
@@ -282,6 +304,120 @@
    "changed_by": [],
    "markdown": "###### Artigo 18.º — (Entrada em vigor)\n\nO presente diploma entra em vigor no primeiro dia do mês seguinte ao da sua publicação.\n\nEurico Silva Teixeira de Melo - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira.\n\nPromulgado em 11 de Setembro de 1986.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 12 de Setembro de 1986.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
   },
+  "d415182a14c278e4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — (Âmbito e objecto)",
+   "in_force_from": "1991-10-22",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 187/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-1988-374243), publicado em 1988-05-27, com efeitos a partir de 1988-06-01."
+   ],
+   "markdown": "###### Artigo 1.º — (Âmbito e objecto)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 187/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-1988-374243), publicado em 1988-05-27, com efeitos a partir de 1988-06-01."
+  },
+  "b811d1d1926efaee": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — (Trabalho extraordinário)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — (Trabalho extraordinário)\n\n(Revogado.)"
+  },
+  "aeabfc7d654eaca6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — (Carácter excepcional do trabalho extraordinário)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — (Carácter excepcional do trabalho extraordinário)\n\n(Revogado.)"
+  },
+  "fd9d3b618cdc2cc3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — (Limite da prestação de trabalho extraordinário)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — (Limite da prestação de trabalho extraordinário)\n\n(Revogado.)"
+  },
+  "b5210227b739a0b3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — (Obrigatoriedade do trabalho extraordinário)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — (Obrigatoriedade do trabalho extraordinário)\n\n(Revogado.)"
+  },
+  "f6da948b2df5ba2d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — (Proibição de prestação de trabalho extraordinário)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — (Proibição de prestação de trabalho extraordinário)\n\n(Revogado.)"
+  },
+  "7a5f71f1c3f93518": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — (Retribuição pecuniária)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — (Retribuição pecuniária)\n\n(Revogado.)"
+  },
+  "f264743430c70c7f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — (Compensação por dias de descanso)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — (Compensação por dias de descanso)\n\n(Revogado.)"
+  },
+  "f602c09ff787ee69": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — (Regime de compensação)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — (Regime de compensação)\n\n(Revogado.)"
+  },
+  "5ee5545dab9fb5ea": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — (Limite de remuneração)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — (Limite de remuneração)\n\n(Revogado.)"
+  },
+  "98cae671dae11f85": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — (Trabalho nocturno)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — (Trabalho nocturno)\n\n(Revogado.)"
+  },
+  "0263b32731af5454": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — (Trabalho em dias de descanso e em dias feriados)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — (Trabalho em dias de descanso e em dias feriados)\n\n(Revogado.)"
+  },
+  "cc4855c91a83e23c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — (Competência)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — (Competência)\n\n(Revogado.)"
+  },
+  "b1d2a1c9e7ee0ffe": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — (Valor da hora de trabalho normal)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — (Valor da hora de trabalho normal)\n\n(Revogado.)"
+  },
   "7917a679724a9f12": {
    "fragment_id": null,
    "type": null,
@@ -291,6 +427,22 @@
     "Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 409/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/409-1991-288869), publicado em 1991-10-17."
    ],
    "markdown": "###### Artigo 15.º — (Regime)\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 409/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/409-1991-288869), publicado em 1991-10-17."
+  },
+  "9c4baa2f2e9aa4b9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — (Adopção do regime de trabalho por turnos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — (Adopção do regime de trabalho por turnos)\n\n(Revogado.)"
+  },
+  "c64e758e6b02f3e4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — (Entrada em vigor)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — (Entrada em vigor)\n\n(Revogado.)\n\nEurico Silva Teixeira de Melo - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira.\n\nPromulgado em 11 de Setembro de 1986.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 12 de Setembro de 1986.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
   }
  }
 }

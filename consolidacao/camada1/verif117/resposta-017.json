@@ -1,0 +1,63 @@
+[
+ {
+  "id": "pt:dre:201053:por",
+  "artigos": [
+   {
+    "artigo": "Trecho 1",
+    "veredicto": "certo",
+    "motivo": "Base VIII revogada pelo art. 71.º, al. a), do DL 81/85 (bases VIII e XXII a XXVIII); corpo '(Revogada.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 2",
+    "veredicto": "certo",
+    "motivo": "Base XXII revogada pelo art. 71.º a) do DL 81/85 (e do DL 251/83, cuja entrada em vigor dependia de portaria futura).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 3",
+    "veredicto": "certo",
+    "motivo": "Base XXIII revogada, art. 71.º a) DL 81/85.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 4",
+    "veredicto": "certo",
+    "motivo": "Base XXIV revogada, art. 71.º a) DL 81/85.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 5",
+    "veredicto": "certo",
+    "motivo": "Base XXV revogada, art. 71.º a) DL 81/85.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 6",
+    "veredicto": "certo",
+    "motivo": "Base XXVI revogada, art. 71.º a) DL 81/85.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 7",
+    "veredicto": "certo",
+    "motivo": "Base XXVII revogada, art. 71.º a) DL 81/85.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 8",
+    "veredicto": "certo",
+    "motivo": "Base XXVIII revogada, art. 71.º a) DL 81/85 (o DL 251/83 só revogava até à XXVII).",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [
+   "Alterador 1 (DL 251/83), art. 71.º a), parte final: revogação das «demais bases» que se refiram às funções de previdência e assistência das Casas do Povo: alvo incerto (não identifica as bases; possíveis XXIX, XXX, n.º 2 da base XVIII)",
+   "Alterador 2 (DL 81/85), art. 71.º a), parte final: revogação das «demais bases» que se refiram às funções de previdência e assistência das casas do povo: alvo incerto (idem)"
+  ],
+  "instrucoes_justificadas": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

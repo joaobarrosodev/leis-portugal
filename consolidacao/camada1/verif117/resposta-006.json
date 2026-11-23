@@ -1,0 +1,143 @@
+[
+ {
+  "id": "pt:dre:401512:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 20.º, al. a), do DL 305/81 (confirmado no texto).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 12.º",
+    "veredicto": "certo",
+    "motivo": "N.º 3 com a redação do art. 1.º do DL 49434, letra a letra; n.os 1, 2 e 4 iguais.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 14.º",
+    "veredicto": "certo",
+    "motivo": "N.º 2 revogado (art. 20.º, al. a), DL 305/81), com as alíneas a) a e) a sair; n.º 1 igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 20.º",
+    "veredicto": "errado",
+    "motivo": "O art. 2.º do DL 49434 revoga a nota 1 do mapa anexo (refere-se ao n.º 1 do art. 12.º), mas o consolidado deixou a Nota 1 intacta e inseriu «1. (Revogada.)» no sítio errado, a seguir ao n.º 3 do artigo, antes de «Publique-se». Além disso a coluna do mapa (imagem) não foi atualizada.",
+    "texto_esperado": "Corpo do artigo (n.os 1 a 3) igual ao original, sem o «1. (Revogada.)» a seguir ao n.º 3; nas Notas do mapa: «1. (Revogada.)» e nota 2 igual; ligação do mapa conforme o DL 676/70 (imagem do alterador)."
+   }
+  ],
+  "instrucoes_em_falta": [
+   "DL 49434, art. 2.º: revogação da nota 1 do mapa anexo (aplicada no sítio errado: aparece «1. (Revogada.)» a seguir ao n.º 3 do art. 20.º e a Nota 1 continua no texto).",
+   "DL 676/70, artigo único n.º 1: alteração das colunas do pessoal de enfermagem hospitalar e de ensino do mapa anexo ao original, nos termos do mapa em imagem do alterador (https://files.diariodarepublica.pt/1s/1970/12/30100/20242024.pdf). A justificação do consolidador («não há título de anexo») não se confirma: o consolidado tem a linha «Mapa a que se refere o artigo 12.º» e o endereço da imagem do original; deveria ficar o corpo antigo com a imagem do alterador. (Nota: o art. 20.º, al. b), do DL 305/81 revoga o DL 676/70, mas não revoga o efeito sobre o mapa de forma expressa.)"
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 413/71 (alterador 3): sem texto na vista",
+    "motivo": "o pedido não traz nenhum artigo desse diploma; o diploma não aparece com texto na vista."
+   },
+   {
+    "instrucao": "DL 331/72, art. 1.º: nova redação do n.º 1, al. o), do art. 97.º do DL 413/71 (revoga o DL 48166 exceto art. 5.º, n.º 2 do art. 14.º e al. a) do art. 19.º)",
+    "motivo": "a instrução altera o DL 413/71, não o original; o original só é nomeado na lista de diplomas revogados."
+   },
+   {
+    "instrucao": "DL 305/81, arts. 1.º a 19.º e art. 20.º, als. b) a g)",
+    "motivo": "normas próprias da nova carreira e revogações de outros diplomas; só a al. a) do art. 20.º visa o original e está aplicada."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:408485:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "Al. j) «Ministro da Agricultura» (DL 388/84); DL 279-A/85 elimina o Ministro da Qualidade de Vida e dá p) Assuntos Parlamentares e q) Mar.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "Alíneas c) a h) conforme DL 279-A/85, art. 2.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "N.os 1 a 3 conforme DL 279-A/85, art. 2.º (com o erro «Qualidade Vida» do alterador).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 16.º",
+    "veredicto": "certo",
+    "motivo": "Redação do DL 388/84, art. 1.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 20.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 7.º do DL 279-A/85.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 23.º",
+    "veredicto": "certo",
+    "motivo": "N.º 3 com a redação do DL 388/84 (incluindo «Adjundo» e «sem direito a voto» do alterador); restantes iguais.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 33.º",
+    "veredicto": "certo",
+    "motivo": "Redação do DL 388/84, art. 1.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 45.º",
+    "veredicto": "certo",
+    "motivo": "N.º 3 revogado pelo DL 361/83.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 50.º",
+    "veredicto": "certo",
+    "motivo": "N.º 2 revogado pelo art. 4.º do DL 21/84.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [
+   "DL 388/84, art. 1.º: nova redação da al. e) do n.º 1 do art. 24.º («e) O Ministro da Agricultura [...]»): o artigo 24.º está na lista dos IGUAIS ao original e não mudou; o alvo é certo (art. 24.º, n.º 1, al. e)), o «[...]» indica que o resto da alínea fica como no original, só muda a designação do Ministro. Não se vê na vista o texto original do art. 24.º para dar o texto esperado."
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 21/84, art. 1.º: dispensa do acordo prévio do art. 50.º",
+    "motivo": "não textual: regime de dispensa, sem dar nova redação ao artigo."
+   },
+   {
+    "instrucao": "DL 388/84, art. 2.º e art. 3.º n.º 1 (extinção do Ministério e dependência dos organismos do art. 43.º, al. a))",
+    "motivo": "não textual: não dá nova redação a nenhum artigo do original."
+   },
+   {
+    "instrucao": "DL 388/84, art. 3.º n.os 2 e 3 (DL 23/84)",
+    "motivo": "instrução de outro diploma."
+   },
+   {
+    "instrucao": "DL 279-A/85, arts. 1.º, 3.º, 4.º, 5.º (extinção do Ministério da Qualidade de Vida, dependência, remissão para art. 45.º n.os 1 e 2)",
+    "motivo": "não textual: extinções e remissão, sem nova redação do texto do original."
+   },
+   {
+    "instrucao": "DL 451/83 e DL 319/88",
+    "motivo": "instruções de outros diplomas (DL 293/82 e DL 210/87)."
+   },
+   {
+    "instrucao": "DL 296-A/95",
+    "motivo": "nova Lei Orgânica que substitui a estrutura do DL 451/91; não contém instrução dirigida ao original."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

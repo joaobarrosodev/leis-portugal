@@ -27,7 +27,7 @@ end_of_validity_date: null
 legal_status: repealed
 legal_status_basis:
   source: prova_manual
-  dre_status: in_force
+  dre_status: repealed
   reason: 'Portaria n.º 126/71: revogação total pela norma revogatória do diploma Portaria n.º 225/79 (n.º 9), lida no texto
     e verificada na amostra de 2026-11-13 (reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o como em vigor.'
   evidence:
@@ -40,7 +40,7 @@ version:
   kind: consolidated
   label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: '1974-07-19'
+  consolidation_date: '1979-05-10'
 version_history:
   file: portaria-126-71.versoes.json
   count: 2
@@ -50,11 +50,12 @@ version_history:
     amending: null
     amending_title: null
     changes: []
-  - date: '1974-07-19'
+  - date: '1979-05-10'
     amending: pt:dre:475918:por
-    amending_title: Portaria n.º 472/74
+    amending_title: Portaria n.º 472/74; Portaria n.º 225/79
     changes:
     - Altera Artigo unidades 7-7
+    - Revoga anexo ou texto fora do articulado
 identifiers:
   celex: null
   eli: null
@@ -81,7 +82,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T03:25:30Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 472/74. Método e verificação:
-    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1971/portaria-126-71.alteracoes.json'
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1971/portaria-126-71.alteracoes.json. Revogações registadas
+    só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Portaria n.º 225/79.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -123,26 +125,20 @@ Nestas condições:
 
 Manda o Governo da República Portuguesa, pelo Ministro da Marinha:
 
-1.º Criar o Comando de Segurança e Defesa do Edifício do Ministério da Marinha (C. S. D. M.).
+1.º (Revogado.)
 
-2.º O CSDM é uma unidade da Armada comandada por um capitão-de-mar-e-guerra, que fica directamente subordinado ao Chefe do Estado-Maior da Armada.
+> Revogado pelo/a [Portaria n.º 225/79](https://diariodarepublica.pt/dr/detalhe/portaria/225-1979-383209), publicado em 1979-05-10.
+
+2.º (Revogado.)
 
 > Alterado pelo/a [Portaria n.º 472/74](https://diariodarepublica.pt/dr/detalhe/portaria/472-1974-475918), publicado em 1974-07-19.
 
-3.º Compete, essencialmente, ao comandante do C. S. D. M.:
+3.º (Revogado.)
 
-a) Superintender na segurança e defesa do edifício do Ministério da Marinha;
+4.º (Revogado.)
 
-b) Velar pela ordem e disciplina no mesmo edifício nas áreas da sua jurisdição;
+5.º (Revogado.)
 
-c) Superintender nas actividades comuns aos organismos situados naquele edifício, bem como na manutenção e conservação das instalações onde têm lugar aquelas actividades;
-
-d) Orientar superiormente a acção das rondas ou, quando determinado, de quaisquer forças da Armada em serviço na cidade.
-
-4.º O comandante do C. S. D. M. manterá as ligações necessárias ao cumprimento da sua missão com todos os organismos situados no edifício do Ministério da Marinha.
-
-5.º A estrutura e jurisdição do C. S. D. M. serão fixadas por despacho do Ministro da Marinha.
-
-6.º O disposto nesta portaria entra em vigor em data a fixar por despacho do Ministro da Marinha.
+6.º (Revogado.)
 
 O Ministro da Marinha, Manuel Pereira Crespo.

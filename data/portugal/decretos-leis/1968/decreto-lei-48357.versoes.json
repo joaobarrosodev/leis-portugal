@@ -36,12 +36,33 @@
      "title": "Decreto-Lei n.º 253/2009",
      "published": "2009-09-23",
      "dre_path": "/dr/detalhe/decreto-lei/253-2009-490426"
+    },
+    {
+     "id": "pt:dre:492675:por",
+     "title": "Decreto-Lei n.º 7/77",
+     "published": "1977-01-05",
+     "dre_path": "/dr/detalhe/decreto-lei/7-1977-492675"
+    },
+    {
+     "id": "pt:dre:378964:por",
+     "title": "Decreto-Lei n.º 301/79",
+     "published": "1979-08-18",
+     "dre_path": "/dr/detalhe/decreto-lei/301-1979-378964"
+    },
+    {
+     "id": "pt:dre:353350:por",
+     "title": "Decreto-Lei n.º 284/99",
+     "published": "1999-07-26",
+     "dre_path": "/dr/detalhe/decreto-lei/284-1999-353350"
     }
    ],
    "changes": [
     "Altera Artigo 56.º",
     "Revoga Artigo 83.º",
-    "Revoga Artigo 84.º"
+    "Revoga Artigo 84.º",
+    "Revoga Artigo 49",
+    "Revoga Artigo 58",
+    "Revoga Artigo 8"
    ],
    "fragments": [
     "8cb6ac8fd57b9ec6",
@@ -55,7 +76,7 @@
     "42dcf4171514f164",
     "f1082025b6bbc13a",
     "8e049df5eef4c885",
-    "0ca6fbbd4f8c6295",
+    "703b4634a048d1c0",
     "6b6367a247f8c7f6",
     "dc5ffb5469f97308",
     "91895ee6edc42d44",
@@ -103,7 +124,7 @@
     "70f6282137e4e691",
     "ec30accd0d163b79",
     "ed873bcb91b2a70c",
-    "fd282b8d37554e02",
+    "ee9b4bb225289e72",
     "080a1494ce91f67f",
     "6004e416f672e832",
     "0bb00c6f2d1fac6a",
@@ -112,7 +133,7 @@
     "b6710a38459cc99c",
     "9bad5bfdc3ad1083",
     "cb2ab0714daa092a",
-    "687d2d71a4a85804",
+    "1f93059bcd04815a",
     "4710de3900c52fa2",
     "83c98cb2b24f96c6",
     "540639bcd592e4a5",
@@ -338,13 +359,15 @@
    "changed_by": [],
    "markdown": "###### Artigo 7.º\n\n1. Os estabelecimentos e serviços hospitalares podem ser centrais, regionais e sub-regionais conforme a área territorial de cuja assistência assumem a responsabilidade.\n\n2. Esta classificação, se não constar do diploma orgânico do estabelecimento ou serviço, será atribuída em despacho do Ministro da Saúde e Assistência, publicado no Diário do Governo."
   },
-  "0ca6fbbd4f8c6295": {
+  "703b4634a048d1c0": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 8.º",
-   "in_force_from": null,
-   "changed_by": [],
-   "markdown": "###### Artigo 8.º\n\n1. Os estabelecimentos e serviços pertencentes ao Estado ou à mesma instituição podem constituir grupos ou centros hospitalares com administração central comum, atribuindo-se, em regulamento, a cada uma das unidades agrupadas ou integradas, quando se trate de serviços oficiais, a autonomia administrativa que for julgada conveniente.\n\n2. O diploma orgânico do centro ou grupo deve indicar a forma de participação dos estabelecimentos e serviços na administração central e os poderes desta."
+   "in_force_from": "2009-09-28",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 284/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/284-1999-353350), publicado em 1999-07-26, com efeitos a partir de 1999-07-27."
+   ],
+   "markdown": "###### Artigo 8.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 284/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/284-1999-353350), publicado em 1999-07-26, com efeitos a partir de 1999-07-27."
   },
   "6b6367a247f8c7f6": {
    "fragment_id": null,
@@ -706,13 +729,15 @@
    "changed_by": [],
    "markdown": "###### Artigo 48.º\n\n1. O pessoal que intervenha directamente na assistência prestada pode receber, além da sua remuneração, as verbas que lhe sejam destinadas, nos termos do artigo 17.º, do [Decreto-Lei n.º 46301](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46301-1965-236710).\n\n2. Das verbas de pessoal referidas no número anterior pode ser retirada uma quota fixa para assegurar o nível de vencimentos adequado ao pessoal da assistência directa.\n\n3. No que respeita ao pessoal médico, e para efeitos dos vencimentos fixados no quadro anexo, essa quota, nos hospitais gerais centrais e nas maternidades oficiais, não pode ser inferior a 48 por cento do total das verbas recebidas nos termos do n.º 1 deste artigo, sem a concordância do Ministro das Finanças.\n\n4. A fixação das regras de distribuição das mesmas verbas é da competência do Ministro da Saúde e Assistência, com observância do disposto no número anterior.\n\n5. Para efeitos do disposto neste artigo, é criado desde já o fundo de compensação hospitalar, com autonomia administrativa, a gerir pela Direcção-Geral dos Hospitais. O fundo terá um regulamento e os seus encargos de administração serão suportados pelo mesmo fundo."
   },
-  "fd282b8d37554e02": {
+  "ee9b4bb225289e72": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 49.º",
-   "in_force_from": null,
-   "changed_by": [],
-   "markdown": "###### Artigo 49.º\n\n1. O limite máximo de idade para admissão de pessoal médico, mesmo em lugares de acesso, nos estabelecimentos e serviços hospitalares é de 55 anos.\n\n2. Para pessoal de enfermagem e técnico auxiliar este limite é de 40 anos.\n\n3. Podem ser admitidos nos referidos estabelecimentos e serviços, nas categorias de pessoal oficinal, indivíduos com 18 anos completos. Este limite baixa para 16 anos em relação às categorias de aprendizes."
+   "in_force_from": "2009-09-28",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 7/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-1977-492675), publicado em 1977-01-05."
+   ],
+   "markdown": "###### Artigo 49.º\n\n1. (Revogado.)\n\n2. (Revogado.)\n\n3. Podem ser admitidos nos referidos estabelecimentos e serviços, nas categorias de pessoal oficinal, indivíduos com 18 anos completos. Este limite baixa para 16 anos em relação às categorias de aprendizes.\n\n> Revogado pelo/a [Decreto-Lei n.º 7/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-1977-492675), publicado em 1977-01-05."
   },
   "080a1494ce91f67f": {
    "fragment_id": null,
@@ -780,13 +805,15 @@
    "changed_by": [],
    "markdown": "###### Artigo 57.º\n\n1. Todo o pessoal hospitalar é obrigado a guardar segredo de ofício relativamente aos factos de que tenha conhecimento no exercício das suas funções, nos mesmos termos que vigorarem para o pessoal médico.\n\n2. O pessoal dos serviços administrativos tem, além disso, o dever do segredo de ofício próprio dos assuntos com que trabalha."
   },
-  "687d2d71a4a85804": {
+  "1f93059bcd04815a": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 58.º",
-   "in_force_from": null,
-   "changed_by": [],
-   "markdown": "###### Artigo 58.º\n\n1. A fim de permitir a estruturação e funcionamento das carreiras hospitalares previstas na base XXV da [Lei n.º 2120](https://diariodarepublica.pt/dr/detalhe/lei/2120-1963-693016), de 19 de Julho de 1963, e a necessária intercomunicação entre os quadros dos estabelecimentos oficiais e dos pertencentes a Misericórdias e demais instituições de assistência particular, a aposentação, abono de família e demais regalias sociais relativas ao pessoal dos hospitais gerais e das maternidades oficiais abrangido pelas carreiras de que trata a secção II deste capítulo serão assegurados através da Caixa de Previdência dos Empregados da Assistência, nos termos a fixar em despacho conjunto dos Ministros das Corporações e Previdência Social e da Saúde e Assistência.\n\n2. O disposto no número anterior não se aplica aos funcionários que actualmente se encontram inscritos na Caixa Geral de Aposentações. Quando estes funcionários sejam transferidos do quadro de um estabelecimento oficial para outro pertencente a uma Misericórdia ou outra instituição de assistência particular, continuarão a descontar para a Caixa Geral de Aposentações e a manter todos os seus direitos como se se mantivessem em funções oficiais.\n\n3. Pode ser efectuado um seguro especial para cobrir acidentes ocorridos em trabalho fora das hospitais, em locais de sinistro ou durante a assistência domiciliária, no que respeita ao pessoal não abrangido pelo disposto no [Decreto-Lei n.º 38523](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38523-1951-593352), de 23 de Novembro de 1951. Para efeitos do disposto neste número e no diploma referido, serão sempre considerados os vencimentos correspondentes ao tempo completo.\n\n4. O disposto neste artigo pode mandar ser aplicado aos médicos dos demais estabelecimentos e serviços abrangidos pelo presente diploma, mediante portaria conjunta dos Ministros das Finanças, das Corporações e Previdência Social e da Saúde e Assistência."
+   "in_force_from": "2009-09-28",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 301/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/301-1979-378964), publicado em 1979-08-18, com efeitos a partir de 1979-09-17."
+   ],
+   "markdown": "###### Artigo 58.º\n\n1. (Revogado.)\n\n2. O disposto no número anterior não se aplica aos funcionários que actualmente se encontram inscritos na Caixa Geral de Aposentações. Quando estes funcionários sejam transferidos do quadro de um estabelecimento oficial para outro pertencente a uma Misericórdia ou outra instituição de assistência particular, continuarão a descontar para a Caixa Geral de Aposentações e a manter todos os seus direitos como se se mantivessem em funções oficiais.\n\n3. Pode ser efectuado um seguro especial para cobrir acidentes ocorridos em trabalho fora das hospitais, em locais de sinistro ou durante a assistência domiciliária, no que respeita ao pessoal não abrangido pelo disposto no [Decreto-Lei n.º 38523](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38523-1951-593352), de 23 de Novembro de 1951. Para efeitos do disposto neste número e no diploma referido, serão sempre considerados os vencimentos correspondentes ao tempo completo.\n\n4. O disposto neste artigo pode mandar ser aplicado aos médicos dos demais estabelecimentos e serviços abrangidos pelo presente diploma, mediante portaria conjunta dos Ministros das Finanças, das Corporações e Previdência Social e da Saúde e Assistência.\n\n> Revogado pelo/a [Decreto-Lei n.º 301/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/301-1979-378964), publicado em 1979-08-18, com efeitos a partir de 1979-09-17."
   },
   "4710de3900c52fa2": {
    "fragment_id": null,

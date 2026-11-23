@@ -69,6 +69,24 @@
      "title": "Decreto Legislativo Regional n.º 17/2007/M",
      "published": "2007-11-12",
      "dre_path": "/dr/detalhe/decreto-legislativo-regional/17-2007-629387"
+    },
+    {
+     "id": "pt:dre:332408:por",
+     "title": "Decreto Regulamentar Regional n.º 2/90/M",
+     "published": "1990-03-02",
+     "dre_path": "/dr/detalhe/decreto-regulamentar-regional/2-1990-332408"
+    },
+    {
+     "id": "pt:dre:505630:por",
+     "title": "Decreto Legislativo Regional n.º 8/2000/M",
+     "published": "2000-04-01",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/8-2000-505630"
+    },
+    {
+     "id": "pt:dre:262371:por",
+     "title": "Decreto Legislativo Regional n.º 6/2007/M",
+     "published": "2007-01-12",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/6-2007-262371"
     }
    ],
    "changes": [
@@ -76,7 +94,24 @@
     "Revoga Artigo 3.º",
     "Revoga Artigo 4.º",
     "Revoga Artigo 7.º",
-    "Revoga Artigo 9.º"
+    "Revoga Artigo 9.º",
+    "Revoga Artigo 11",
+    "Revoga Artigo 12",
+    "Revoga Artigo 13",
+    "Revoga Artigo 16",
+    "Revoga Artigo 17",
+    "Revoga Artigo 18",
+    "Revoga Artigo 19",
+    "Revoga Artigo 20",
+    "Revoga Artigo 21",
+    "Revoga Artigo 22",
+    "Revoga Artigo 24",
+    "Revoga Artigo 25",
+    "Revoga Artigo 26",
+    "Revoga Artigo 29",
+    "Revoga Artigo 36",
+    "Revoga Artigo 27",
+    "Revoga Artigo 10"
    ],
    "fragments": [
     "7c29bf435aa1c6b9",
@@ -94,27 +129,27 @@
     "22ba6eca53491867",
     "3fb9356ab010be34",
     "46816aa5446df57a",
-    "0a23a987531479ec",
-    "81a3ded88acc5a2b",
-    "78ae5af10a23ba0f",
-    "f954358d089c84cd",
+    "2a9d7b45b1491af1",
+    "6860f8d4df855b09",
+    "158abfbbd8aa79ab",
+    "84bd5309d84f224d",
     "a3e9c5a929214850",
     "5641b11502ca84ae",
     "983f5652d084584b",
-    "5c73748ff31fc0a0",
-    "e16a39e46e61f360",
-    "03bf9b9e13d0cf3d",
-    "9116c18d330fa5d7",
-    "30309734a819ab96",
-    "0036ebfedee5df86",
-    "bded45d6e37a1f33",
+    "a550ebf51890f404",
+    "b5ad5619d1698546",
+    "ddb8e083f4fc7160",
+    "4e8bca23557c12d5",
+    "11f0d904aa2dd62f",
+    "801c1105a808d3d4",
+    "70ba1e475c64b412",
     "ec77a136f67f42a1",
-    "b3e6d0041681ca09",
-    "02bcd4d6f0bbda57",
-    "9731fa7c93b6f661",
-    "b2b673ee405a02da",
+    "228fd3e4c10c9fb6",
+    "ddaf92cdf92a0d12",
+    "5be36a718795f6cb",
+    "dd618a5f879f99fd",
     "3f631f161bb4e27b",
-    "94431b5a5d1ae389",
+    "4dac857723510e35",
     "dd86633bc05aa319",
     "cbf585fdbf9c7cd1",
     "109d5b2eb87a989f",
@@ -123,7 +158,7 @@
     "ed3393211e6d8f3e",
     "5a2e61f6ca101b92",
     "e384d07e404e40b9",
-    "686cf12670cb96a8",
+    "a2b7bf43316faa59",
     "6d6da0ac1a1d10d7",
     "8fb39ae603962f13"
    ]
@@ -555,6 +590,148 @@
     "Revogado pelo/a Artigo 37.º do/a [Decreto Legislativo Regional n.º 17/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2007-629387), publicado em 2007-11-12."
    ],
    "markdown": "###### Artigo 9.º — (Estrutura de projecto)\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 37.º do/a [Decreto Legislativo Regional n.º 17/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2007-629387), publicado em 2007-11-12."
+  },
+  "2a9d7b45b1491af1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — (Planeamento de efectivos)",
+   "in_force_from": "2007-12-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Legislativo Regional n.º 6/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2007-262371), publicado em 2007-01-12, com efeitos a partir de 2007-01-13."
+   ],
+   "markdown": "###### Artigo 10.º — (Planeamento de efectivos)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Legislativo Regional n.º 6/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2007-262371), publicado em 2007-01-12, com efeitos a partir de 2007-01-13."
+  },
+  "6860f8d4df855b09": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — (Contrato de pessoal)",
+   "in_force_from": "2007-12-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar Regional n.º 2/90/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-1990-332408), publicado em 1990-03-02."
+   ],
+   "markdown": "###### Artigo 11.º — (Contrato de pessoal)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar Regional n.º 2/90/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-1990-332408), publicado em 1990-03-02."
+  },
+  "158abfbbd8aa79ab": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — (Rescisão, denúncia e caducidade dos contratos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — (Rescisão, denúncia e caducidade dos contratos)\n\n(Revogado.)"
+  },
+  "84bd5309d84f224d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — (Inexistência jurídica e responsabilidade civil e disciplinar pela admissão de pessoal com preterição de formalidades legais.)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — (Inexistência jurídica e responsabilidade civil e disciplinar pela admissão de pessoal com preterição de formalidades legais.)\n\n(Revogado.)"
+  },
+  "a550ebf51890f404": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — (Princípio geral)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — (Princípio geral)\n\n(Revogado.)"
+  },
+  "b5ad5619d1698546": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — (Instrumentos de mobilidade)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — (Instrumentos de mobilidade)\n\n(Revogado.)"
+  },
+  "ddb8e083f4fc7160": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — (Concurso)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — (Concurso)\n\n(Revogado.)"
+  },
+  "4e8bca23557c12d5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — (Permuta)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — (Permuta)\n\n(Revogado.)"
+  },
+  "11f0d904aa2dd62f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — (Transferência)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — (Transferência)\n\n(Revogado.)"
+  },
+  "801c1105a808d3d4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — (Destacamento)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — (Destacamento)\n\n(Revogado.)"
+  },
+  "70ba1e475c64b412": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — (Requisição)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — (Requisição)\n\n(Revogado.)"
+  },
+  "228fd3e4c10c9fb6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — (Deslocação)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — (Deslocação)\n\n(Revogado.)"
+  },
+  "ddaf92cdf92a0d12": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — (Rotação)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — (Rotação)\n\n(Revogado.)"
+  },
+  "5be36a718795f6cb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — (Afectação colectiva)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — (Afectação colectiva)\n\n(Revogado.)"
+  },
+  "dd618a5f879f99fd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º — (Reclassificação e reconversão profissional)",
+   "in_force_from": "2007-12-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Legislativo Regional n.º 8/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2000-505630), publicado em 2000-04-01, com efeitos a partir de 2000-04-02."
+   ],
+   "markdown": "###### Artigo 27.º — (Reclassificação e reconversão profissional)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Legislativo Regional n.º 8/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2000-505630), publicado em 2000-04-01, com efeitos a partir de 2000-04-02."
+  },
+  "4dac857723510e35": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º — (Situações com regime especial)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — (Situações com regime especial)\n\n(Revogado.)"
+  },
+  "a2b7bf43316faa59": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 36.º — (Destacamentos e requisições anteriores)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — (Destacamentos e requisições anteriores)\n\n(Revogado.)"
   }
  }
 }

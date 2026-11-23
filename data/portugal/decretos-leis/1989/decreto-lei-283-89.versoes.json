@@ -57,7 +57,7 @@
    ]
   },
   {
-   "date": "1998-04-22",
+   "date": "2001-12-12",
    "future": false,
    "acts": [
     {
@@ -77,6 +77,12 @@
      "title": "Decreto-Lei n.º 100/98",
      "published": "1998-04-21",
      "dre_path": "/dr/detalhe/decreto-lei/100-1998-175780"
+    },
+    {
+     "id": "pt:dre:576886:por",
+     "title": "Decreto-Lei n.º 309/2001",
+     "published": "2001-12-07",
+     "dre_path": "/dr/detalhe/decreto-lei/309-2001-576886"
     }
    ],
    "changes": [
@@ -85,52 +91,85 @@
     "Altera Artigo 1.º",
     "Altera Artigo 2.º",
     "Altera Artigo 20.º",
-    "Altera Artigo 24.º"
+    "Altera Artigo 24.º",
+    "Revoga Artigo 1",
+    "Revoga Artigo 2",
+    "Revoga Artigo 3",
+    "Revoga Artigo 4",
+    "Revoga Artigo 5",
+    "Revoga Artigo 6",
+    "Revoga Artigo 7",
+    "Revoga Artigo 8",
+    "Revoga Artigo 9",
+    "Revoga Artigo 10",
+    "Revoga Artigo 11",
+    "Revoga Artigo 12",
+    "Revoga Artigo 13",
+    "Revoga Artigo 14",
+    "Revoga Artigo 15",
+    "Revoga Artigo 16",
+    "Revoga Artigo 17",
+    "Revoga Artigo 18",
+    "Revoga Artigo 19",
+    "Revoga Artigo 20",
+    "Revoga Artigo 21",
+    "Revoga Artigo 22",
+    "Revoga Artigo 23",
+    "Revoga Artigo 24",
+    "Revoga Artigo 25",
+    "Revoga Artigo 26",
+    "Revoga Artigo 27",
+    "Revoga Artigo 28",
+    "Revoga Artigo 29",
+    "Revoga Artigo 30",
+    "Revoga Artigo 31",
+    "Revoga Artigo 32",
+    "Revoga Artigo 33"
    ],
    "fragments": [
     "8fd4fa01a0fe1acb",
     "23836370ae405d04",
-    "75e3c07834894cd6",
-    "0a69d537494c64b5",
-    "3d9a0c98e551cf04",
-    "b237068aedfd20a9",
+    "868531016220a341",
+    "4aad1cbae58d7998",
+    "c4004b5b1004f453",
+    "dd84b1e453728424",
     "e56a234803c5f091",
-    "8d783bbc20e62aa5",
+    "3b02abf8ac59fe1f",
     "a27e77bc5da14e6e",
-    "15253e6620ba5083",
-    "1e0398d6c8047ed7",
-    "78df88cbeba62738",
-    "26c83204de87ed0a",
-    "2c8ea8b85c06471f",
+    "7bfd3147347cd7bb",
+    "f97cc1f7cf2ede75",
+    "c3efb3c032728a80",
+    "c2eda151d0df7107",
+    "009bf850f578aed4",
     "7e976a7291c1a098",
-    "009edb31a31a00fd",
-    "5f94aa4b6f35b921",
-    "ccfb38ded9f6abe3",
+    "feda7fcd585e922d",
+    "0727da680e816112",
+    "85be4637bcf827ca",
     "46ec28cccab2d4c1",
-    "86e6c4fa9e96aa36",
-    "3ec31c6199a42eb3",
-    "5bff2fd90bc21e63",
+    "ef54445de8325fb9",
+    "09531baf99d3862e",
+    "f895d7f6a19093a7",
     "a6af803ed027e4e9",
-    "a739da6d4f657feb",
-    "4b1900530629d003",
-    "325022cd7fbd4e8f",
+    "048df2ff73d5be7d",
+    "b92d5cda302bdc19",
+    "1ae889fc5b9a979e",
     "c189bcaafcf4c96d",
-    "2a7a02b8effe7285",
-    "0433c33babe16023",
-    "e3eea7314d9ab942",
-    "d8e42a152ebc01ca",
+    "bbc2b300b25c1613",
+    "553bf4ab0746ac0c",
+    "b89abafbff473252",
+    "362fcad961498eb3",
     "0ee6092e66af2ba3",
-    "3fe1f18f94edae16",
-    "664f978daafea3f2",
-    "850bcfe518d2963a",
+    "f82c3625427e0d87",
+    "bef3e3d91098ec12",
+    "9b0055a8b9f1c29c",
     "260a9f4ecd4b5740",
-    "e97d3736780b1cca",
-    "7eb747edc7644eae",
-    "7754325e9aa9c339",
-    "8a95e5c816b251cc",
-    "fa1180966cfe6ec9",
-    "3a9a2878c949730b",
-    "de9c0a623a4250d7"
+    "98d32ca59ebac39b",
+    "f9765ad682dfe2cf",
+    "f556d7f6a44f5142",
+    "fa2841fb492c2f5b",
+    "2080e3dedae00738",
+    "5c6dc466e8936a6e",
+    "6dfbd323e25f91ca"
    ]
   }
  ],
@@ -479,65 +518,282 @@
    "changed_by": [],
    "markdown": "###### Artigo 33.º — Legislação revogada\n\nSão revogados, com efeitos a partir de 30 de Setembro, os Decretos Regulamentares n.os [70/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/70-1983-453797), de 20 de Julho, e [25/88](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/25-1988-371790), de 17 de Junho.\n\nVisto e aprovado em Conselho de Ministros de 13 de Abril de 1989. - Aníbal António Cavaco Silva - Vasco Joaquim Rocha Vieira - Lino Dias Miguel - Eurico Silva Teixeira de Melo - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira - José António da Silveira Godinho - Luís Fernando Mira Amaral - João Maria Leitão de Oliveira Martins.\n\nPromulgado em 26 de Julho de 1989.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 8 de Agosto de 1989.\n\nPelo Primeiro-Ministro, Eurico Silva Teixeira de Melo."
   },
-  "75e3c07834894cd6": {
+  "868531016220a341": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 1.º — Natureza e tutela",
-   "in_force_from": "1998-04-22",
+   "in_force_from": "2001-12-12",
    "changed_by": [
-    "Alterado pelo/a [Decreto-Lei n.º 100/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1998-175780), publicado em 1998-04-21."
+    "Alterado pelo/a [Decreto-Lei n.º 100/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1998-175780), publicado em 1998-04-21.",
+    "Revogado pelo/a [Decreto-Lei n.º 309/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-2001-576886), publicado em 2001-12-07, com efeitos a partir de 2001-12-12."
    ],
-   "markdown": "###### Artigo 1.º — Natureza e tutela\n\n1 - O Instituto das Comunicações de Portugal, abreviadamente designado por ICP, é uma pessoa colectiva de direito público, dotada de autonomia administrativa e financeira e de património próprio, e fica sujeito à tutela e superintendência do Ministro do Equipamento, do Planeamento e da Administração do Território.\n\n2 - O ICP tem por finalidade o apoio ao Governo na coordenação, tutela e planeamento do sector das comunicações de uso público, bem como a representação desse sector e a gestão do espectro radioeléctrico.\n\n> Alterado pelo/a [Decreto-Lei n.º 100/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1998-175780), publicado em 1998-04-21."
+   "markdown": "###### Artigo 1.º — Natureza e tutela\n\n(Revogado.)\n\n> Alterado pelo/a [Decreto-Lei n.º 100/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1998-175780), publicado em 1998-04-21.\n\n> Revogado pelo/a [Decreto-Lei n.º 309/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-2001-576886), publicado em 2001-12-07, com efeitos a partir de 2001-12-12."
   },
-  "0a69d537494c64b5": {
+  "4aad1cbae58d7998": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 2.º — Regime",
-   "in_force_from": "1998-04-22",
+   "in_force_from": "2001-12-12",
    "changed_by": [
     "Alterado pelo/a [Decreto-Lei n.º 100/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1998-175780), publicado em 1998-04-21."
    ],
-   "markdown": "###### Artigo 2.º — Regime\n\n1 - O ICP rege-se pelo disposto nos presentes Estatutos e, subsidiariamente, pelo regime jurídico aplicável às entidades que revistam natureza, forma e designação de empresa pública.\n\n2 - Os actos e contratos do ICP não estão sujeitos a visto do Tribunal de Contas, sendo, no entanto, obrigatória a apresentação do relatório e contas de gerência para efeitos de julgamento.\n\n> Alterado pelo/a [Decreto-Lei n.º 100/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1998-175780), publicado em 1998-04-21."
+   "markdown": "###### Artigo 2.º — Regime\n\n(Revogado.)\n\n> Alterado pelo/a [Decreto-Lei n.º 100/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1998-175780), publicado em 1998-04-21."
   },
-  "86e6c4fa9e96aa36": {
+  "c4004b5b1004f453": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Sede e delegações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Sede e delegações\n\n(Revogado.)"
+  },
+  "dd84b1e453728424": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Competências\n\n(Revogado.)"
+  },
+  "3b02abf8ac59fe1f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Órgãos\n\n(Revogado.)"
+  },
+  "7bfd3147347cd7bb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Composição e regime",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Composição e regime\n\n(Revogado.)"
+  },
+  "f97cc1f7cf2ede75": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Competência\n\n(Revogado.)"
+  },
+  "c3efb3c032728a80": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Funcionamento\n\n(Revogado.)"
+  },
+  "c2eda151d0df7107": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Presidente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Presidente\n\n(Revogado.)"
+  },
+  "009bf850f578aed4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Vinculação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Vinculação\n\n(Revogado.)"
+  },
+  "feda7fcd585e922d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Composição\n\n(Revogado.)"
+  },
+  "0727da680e816112": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Competência\n\n(Revogado.)"
+  },
+  "85be4637bcf827ca": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Funcionamento\n\n(Revogado.)"
+  },
+  "ef54445de8325fb9": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 14.º — Composição",
-   "in_force_from": "1998-04-22",
+   "in_force_from": "2001-12-12",
    "changed_by": [
     "Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 95/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-1996-413411), publicado em 1996-07-17."
    ],
-   "markdown": "###### Artigo 14.º — Composição\n\n1 - O conselho consultivo tem a seguinte composição:\n\na) Um representante do Ministro da Defesa Nacional;\n\nb) Um representante do Ministro do Equipamento, do Planeamento e da Administração do Território;\n\nc) Um representante do Ministro da Administração Interna;\n\nd) Um representante do Ministro da Economia;\n\ne) Um representante do Ministro da Ciência e da Tecnologia;\n\nf) Um representante do ministro responsável pela área da comunicação social;\n\ng) Um representante de cada uma das Regiões Autónomas dos Açores e da Madeira;\n\nh) O presidente do conselho de administração do ICP;\n\ni) Um representante do operador de serviço público de correios, um representante da concessionária do serviço público de telecomunicações e outro da respectiva subconcessionária;\n\nj) Um representante dos operadores de cada um dos serviços de telecomunicações complementares móveis, a designar entre si;\n\nl) Um representante dos operadores dos serviços de telecomunicações complementares fixas, a designar entre si;\n\nm) Um representante dos prestadores de serviços de telecomunicações de valor acrescentado, a designar entre si;\n\nn) Um representante dos operadores de redes de distribuição de televisão por cabo, a designar entre si;\n\no) Um representante dos utentes dos serviços de comunicações, a designar pelo conselho geral do Instituto do Consumidor;\n\np) Um representante das associações privadas de consumidores, a designar entre si;\n\nq) Um representante da Associação Nacional de Municípios Portugueses;\n\nr) Três personalidades de reconhecido mérito, a designar pelo ministro com competência na área das comunicações.\n\n2 - A escolha dos representantes referidos nas alíneas j), l), m) e n) só pode recair sobre operadores que não disponham de participação directa ou indirecta no seu capital dos operadores de serviço público de correios e de telecomunicações.\n\n3 - Sempre que um determinado serviço seja prestado apenas por operadores com participação directa ou indirecta no seu capital dos operadores de serviço público de correios e telecomunicações, tais operadores não participarão no conselho consultivo.\n\n4 - A composição do conselho consultivo será alargada a representantes de operadores e de prestadores de novas categorias de serviços de telecomunicações de uso público que venham a ser licenciados ou autorizados, a designar entre si, nos termos do n.º 2.\n\n5 - O conselho consultivo será presidido pelo representante do ministro que tutele as comunicações.\n\n6 - Os restantes membros do conselho de administração e os do conselho fiscal poderão assistir às reuniões do conselho consultivo, podendo participar nos trabalhos, sem direito de voto.\n\n7 - As despesas de viagem e as ajudas de custo devidas pela deslocação dos membros do conselho consultivo, quando residam fora da localidade da reunião, serão suportadas pelo orçamento do ICP.\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 95/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-1996-413411), publicado em 1996-07-17."
+   "markdown": "###### Artigo 14.º — Composição\n\n(Revogado.)\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 95/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-1996-413411), publicado em 1996-07-17."
   },
-  "3ec31c6199a42eb3": {
+  "09531baf99d3862e": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 15.º — Competência",
-   "in_force_from": "1998-04-22",
+   "in_force_from": "2001-12-12",
    "changed_by": [
     "Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 95/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-1996-413411), publicado em 1996-07-17."
    ],
-   "markdown": "###### Artigo 15.º — Competência\n\nCompete ao conselho consultivo dar parecer, designadamente, sobre:\n\na) As linhas de actuação, o plano anual de actividades e o orçamento do ICP;\n\nb) O relatório anual de actividades e as contas de gerência do ICP;\n\nc) A fixação das participações a pagar pelos operadores de telecomunicações de uso público que constituem receita do ICP;\n\nd) A coordenação entre as comunicações civis, militares e das forças e serviços de segurança, bem como entre os operadores de comunicações de uso público e os operadores da comunicação social;\n\ne) Os padrões da qualidade dos serviços prestados pelos diferentes operadores da área das comunicações;\n\nf) A estratégia global de desenvolvimento das telecomunicações e as suas relações com a participação nacional na sociedade global de informação;\n\ng) Qualquer outro assunto que o conselho de administração, por iniciativa própria ou por iniciativa do Governo, submeter à sua apreciação.\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 95/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-1996-413411), publicado em 1996-07-17."
+   "markdown": "###### Artigo 15.º — Competência\n\n(Revogado.)\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 95/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-1996-413411), publicado em 1996-07-17."
   },
-  "2a7a02b8effe7285": {
+  "f895d7f6a19093a7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Funcionamento\n\n(Revogado.)"
+  },
+  "048df2ff73d5be7d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Mandatos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Mandatos\n\n(Revogado.)"
+  },
+  "b92d5cda302bdc19": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Deliberações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Deliberações\n\n(Revogado.)"
+  },
+  "1ae889fc5b9a979e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Convocações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Convocações\n\n(Revogado.)"
+  },
+  "bbc2b300b25c1613": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 20.º — Gestão patrimonial e financeira",
-   "in_force_from": "1998-04-22",
+   "in_force_from": "2001-12-12",
    "changed_by": [
     "Alterado pelo/a [Decreto-Lei n.º 100/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1998-175780), publicado em 1998-04-21."
    ],
-   "markdown": "###### Artigo 20.º — Gestão patrimonial e financeira\n\n1 - A gestão patrimonial e financeira do ICP rege-se pelo disposto no presente diploma e, subsidiariamente, pelo regime jurídico aplicável às entidades que revistam natureza, forma e designação de empresa pública.\n\n2 - O orçamento do ICP deve constar do Orçamento de Estado, sendo para tal efeito elaborado de acordo com o regime da contabilidade pública.\n\n3 - A contabilidade do ICP é elaborada de acordo com o Plano Oficial de Contabilidade, não lhe sendo aplicável o regime da contabilidade pública.\n\n> Alterado pelo/a [Decreto-Lei n.º 100/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1998-175780), publicado em 1998-04-21."
+   "markdown": "###### Artigo 20.º — Gestão patrimonial e financeira\n\n(Revogado.)\n\n> Alterado pelo/a [Decreto-Lei n.º 100/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1998-175780), publicado em 1998-04-21."
   },
-  "3fe1f18f94edae16": {
+  "553bf4ab0746ac0c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Património",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Património\n\n(Revogado.)"
+  },
+  "b89abafbff473252": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Receitas\n\n(Revogado.)"
+  },
+  "362fcad961498eb3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Despesas\n\n(Revogado.)"
+  },
+  "f82c3625427e0d87": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 24.º — Estatuto do pessoal",
-   "in_force_from": "1998-04-22",
+   "in_force_from": "2001-12-12",
    "changed_by": [
     "Alterado pelo/a [Decreto-Lei n.º 379/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/379-1990-565255), publicado em 1990-12-07."
    ],
-   "markdown": "###### Artigo 24.º — Estatuto do pessoal\n\n1 - O pessoal do ICP está sujeito ao Regime Jurídico do Contrato Individual de Trabalho, constando de regulamento interno, aprovado pelos Ministros da tutela das comunicações e das Finanças, a definição das suas condições de trabalho, com observância das normas imperativas daquele Regime.\n\n2 - Os trabalhadores do ICP que desempenhem funções de fiscalização, quando se encontrem no exercício das suas funções, são equiparados aos agentes de autoridade e têm as seguintes prerrogativas:\n\na) Podem identificar, para posterior actuação, todos os indivíduos que infrinjam os regulamentos cuja observância devem fazer respeitar;\n\nb) Podem reclamar o auxílio das autoridades administrativas e judiciais, quando o julguem necessário ao desempenho das suas funções;\n\nc) Podem usar armas para defesa própria, dos objectos de serviço e das instalações e valores à sua guarda, quando devidamente autorizados.\n\n3 - Aos trabalhadores do ICP que desempenhem as funções a que se refere o número anterior serão atribuídos cartões de identificação, cujo modelo e condições de emissão serão objecto de portaria do membro do Governo com competências na área das comunicações.\n\n> Alterado pelo/a [Decreto-Lei n.º 379/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/379-1990-565255), publicado em 1990-12-07."
+   "markdown": "###### Artigo 24.º — Estatuto do pessoal\n\n(Revogado.)\n\n> Alterado pelo/a [Decreto-Lei n.º 379/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/379-1990-565255), publicado em 1990-12-07."
+  },
+  "bef3e3d91098ec12": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Segurança Social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Segurança Social\n\n(Revogado.)"
+  },
+  "9b0055a8b9f1c29c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — Mobilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Mobilidade\n\n(Revogado.)"
+  },
+  "98d32ca59ebac39b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º — Implementação do ICP",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Implementação do ICP\n\n(Revogado.)"
+  },
+  "f9765ad682dfe2cf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º — Integração de trabalhadores dos CTT",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Integração de trabalhadores dos CTT\n\n1 - (Revogado.)\n\n2 - (Revogado.)\n\n3 - O ICP suportará os encargos decorrentes da alínea e) do número anterior em regime idêntico ao que vinha sendo observado pelos Correios e Telecomunicações de Portugal (CTT), E. P., entregando esta empresa pública ao ICP, na data da integração, as importâncias devidas correspondentes ao período anterior à integração nos quadros do ICP."
+  },
+  "f556d7f6a44f5142": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º — Transferência de bens",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Transferência de bens\n\n(Revogado.)"
+  },
+  "fa2841fb492c2f5b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º — Fixação das participações dos operadores de uso público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Fixação das participações dos operadores de uso público\n\n(Revogado.)"
+  },
+  "2080e3dedae00738": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º — Equiparação ao Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Equiparação ao Estado\n\n(Revogado.)"
+  },
+  "5c6dc466e8936a6e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Disposições transitórias\n\n(Revogado.)"
+  },
+  "6dfbd323e25f91ca": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 33.º — Legislação revogada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Legislação revogada\n\n(Revogado.)\n\nVisto e aprovado em Conselho de Ministros de 13 de Abril de 1989. - Aníbal António Cavaco Silva - Vasco Joaquim Rocha Vieira - Lino Dias Miguel - Eurico Silva Teixeira de Melo - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira - José António da Silveira Godinho - Luís Fernando Mira Amaral - João Maria Leitão de Oliveira Martins.\n\nPromulgado em 26 de Julho de 1989.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 8 de Agosto de 1989.\n\nPelo Primeiro-Ministro, Eurico Silva Teixeira de Melo."
   }
  }
 }

@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1991-01-02'
+version_history:
+  file: decreto-lei-143-a-89.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1989-05-03'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1991-01-02'
+    amending: pt:dre:469072:por
+    amending_title: Lei n.º 65/90
+    changes:
+    - Altera Artigo unidades 9-9
 identifiers:
   celex: null
   eli: null
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T00:49:12Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Lei n.º 65/90. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1989/decreto-lei-143-a-89.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -132,7 +147,9 @@ No uso da autorização legislativa concedida pela alínea s) do artigo 4.º da 
 
 Artigo 1.º Aos rendimentos da dívida pública interna emitida entre 1 de Janeiro de 1989 e a data da publicação do presente diploma aplica-se a taxa de tributação que resulta do n.º 5 do artigo 3.º da [Lei n.º 8/89](https://diariodarepublica.pt/dr/detalhe/lei/8-1989-246135), de 22 de Abril, como se aquela dívida tivesse sido emitida até 31 de Dezembro de 1988.
 
-Art. 2.º Os rendimentos da dívida pública interna que venha a ser emitida após a publicação do presente diploma contam apenas por 80% para fins de IRS e de IRC.
+Art. 2.º (Revogado.)
+
+> Alterado pelo/a [Lei n.º 65/90](https://diariodarepublica.pt/dr/detalhe/lei/65-1990-469072), publicado em 1990-12-28.
 
 Art. 3.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 

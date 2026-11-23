@@ -29,18 +29,25 @@
      "title": "Rectificação",
      "published": "1974-11-15",
      "dre_path": "/dr/detalhe/rectificacao/1974-309883"
+    },
+    {
+     "id": "pt:dre:278708:por",
+     "title": "Lei n.º 76/77",
+     "published": "1977-09-29",
+     "dre_path": "/dr/detalhe/lei/76-1977-278708"
     }
    ],
    "changes": [
     "Altera Artigo 5.º",
     "Retifica texto",
-    "Retifica Artigo 3"
+    "Retifica Artigo 3",
+    "Revoga Artigo 3"
    ],
    "fragments": [
     "42ffdb52b9fffddc",
     "3fa54e3c78749824",
     "e8bca031f5ba875d",
-    "1ecf25d16f46e386",
+    "b744671c652b4237",
     "39cae39e6d6c51f7",
     "3a29c917300bf9ea",
     "a5806aea549ad655",
@@ -86,13 +93,15 @@
    "changed_by": [],
    "markdown": "###### Artigo 2.º\n\n1. As benfeitorias feitas pelos rendeiros constituem propriedade destes.\n\n2. Entende-se por benfeitoria, para os efeitos deste diploma, todo e qualquer melhoramento feito pelo rendeiro ou seus sucessores sobre os terrenos incultos ou em mato."
   },
-  "1ecf25d16f46e386": {
+  "b744671c652b4237": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 3.º",
-   "in_force_from": null,
-   "changed_by": [],
-   "markdown": "###### Artigo 3.º\n\n1. Cabe às comissões arbitrais decidir sobre a existência dos factos referidos no artigo 1.º e das benfeitorias e fixar o valor destas.\n\n2. As comissões arbitrais são constituídas pelo juiz da comarca, que preside e tem voto de desempate, por um técnico designado pela Secretaria de Estado da Agricultura, por um representante dos proprietários e outro dos colonos-rendeiros, ambos designados pelas respectivas associações, se existirem, ou eleitos em assembleias expressamente convocadas para esse fim pelo Instituto de Reorganização Agrária.\n\n3. Das decisões das comissões arbitrais cabe recurso, com efeito meramente devolutivo, para o tribunal da relação competente, que julga em definitivo.\n\n4. As decisões das comissões arbitrais serão tomadas como base nos meios de prova que as mesmas admitirem como válidos.\n\n5. Os rendeiros estão isentos de quaisquer encargos, quando recorrerem às comissões arbitrais para os efeitos prescritos neste diploma, e não são por eles devidas custas nos recursos interpostos para o tribunal da relação."
+   "in_force_from": "1977-09-29",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 76/77](https://diariodarepublica.pt/dr/detalhe/lei/76-1977-278708), publicado em 1977-09-29."
+   ],
+   "markdown": "###### Artigo 3.º\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 76/77](https://diariodarepublica.pt/dr/detalhe/lei/76-1977-278708), publicado em 1977-09-29."
   },
   "39cae39e6d6c51f7": {
    "fragment_id": null,

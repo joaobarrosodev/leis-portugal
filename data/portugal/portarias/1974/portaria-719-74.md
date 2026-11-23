@@ -44,10 +44,11 @@ version_history:
     changes: []
   - date: '1977-05-30'
     amending: pt:dre:252994:por
-    amending_title: Portaria n.º 313/77
+    amending_title: Portaria n.º 313/77; Portaria n.º 40/76
     changes:
     - Altera Artigo unidades 20-20
     - Altera Artigo unidades 23-24
+    - Revoga anexo ou texto fora do articulado
 identifiers:
   celex: null
   eli: null
@@ -74,7 +75,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T04:34:09Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 313/77. Método e verificação:
-    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1974/portaria-719-74.alteracoes.json'
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1974/portaria-719-74.alteracoes.json. Revogações registadas
+    só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Portaria n.º 40/76.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -183,7 +185,9 @@ Outras pessoas que se prove estarem a seu cargo.
 
 9.º Os oficiais, sargentos e cabos readmitidos, presentes na metrópole, com encargos de família, devem enviar, através dos respectivos comandos ou chefias, às competentes repartições da Direcção do Serviço de Pessoal uma declaração com a indicação da guarnição onde têm a residência familiar, devendo, por outro lado, qualquer alteração ser comunicada às mesmas entidades, mencionando a guarnição da nova residência familiar e a data da sua transferência.
 
-10.º O subsídio de deslocamento é inacumulável com o abono de ajudas de custo.
+10.º (Revogado.)
+
+> Revogado pelo/a [Portaria n.º 40/76](https://diariodarepublica.pt/dr/detalhe/portaria/40-1976-506999), publicado em 1976-01-29.
 
 11.º Para contagem do ano de manutenção de residência familiar servirá de meio de prova o triplicado do contrato de arrendamento visado pela repartição de finanças ou por outro documento que legalmente o substitua, ou prova de que a casa de residência é propriedade do militar.
 

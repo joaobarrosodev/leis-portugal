@@ -57,6 +57,18 @@
      "title": "Decreto-Lei n.º 232/99",
      "published": "1999-06-24",
      "dre_path": "/dr/detalhe/decreto-lei/232-1999-390250"
+    },
+    {
+     "id": "pt:dre:334370:por",
+     "title": "Decreto-Lei n.º 148/99",
+     "published": "1999-05-04",
+     "dre_path": "/dr/detalhe/decreto-lei/148-1999-334370"
+    },
+    {
+     "id": "pt:dre:330845:por",
+     "title": "Decreto-Lei n.º 150/99",
+     "published": "1999-05-07",
+     "dre_path": "/dr/detalhe/decreto-lei/150-1999-330845"
     }
    ],
    "changes": [
@@ -67,38 +79,59 @@
     "Altera Artigo 9.º",
     "Revoga Artigo 18.º",
     "Altera Artigo CAPÍTULO II — Proibições e condições de utilização de certas substâncias de efeito hormonal e tireostático",
-    "Altera Artigo CAPÍTULO III — Trocas comerciais de animais de exploração e de produtos deles provenientes"
+    "Altera Artigo CAPÍTULO III — Trocas comerciais de animais de exploração e de produtos deles provenientes",
+    "Revoga Artigo 1",
+    "Revoga Artigo 2",
+    "Revoga Artigo 5",
+    "Revoga Artigo 6",
+    "Revoga Artigo 7",
+    "Revoga Artigo 8",
+    "Revoga Artigo 9",
+    "Revoga Artigo 10",
+    "Revoga Artigo 11",
+    "Revoga Artigo 12",
+    "Revoga Artigo 13",
+    "Revoga Artigo 14",
+    "Revoga Artigo 15",
+    "Revoga Artigo 16",
+    "Revoga Artigo 17",
+    "Revoga Artigo 20",
+    "Revoga Artigo 21",
+    "Revoga anexo ou texto fora do articulado",
+    "Revoga Artigo 3",
+    "Revoga Artigo 4",
+    "Revoga Artigo 19"
    ],
    "fragments": [
     "c215713b529c27cc",
     "2ae33640cf14bfdf",
-    "c2cb764f461209d5",
-    "2d3aa121d909b41f",
+    "ed98f911238ac48b",
+    "10500ac0c5a15c53",
     "50a6838458c4dff8",
-    "383c61de25c564a6",
-    "7d01e0245d2913c7",
+    "b769adfed2ab1fea",
+    "80ab896964d3bef8",
     "0cb403f2ccfb7406",
-    "626c873a12caf7cd",
+    "297eb4435321e87c",
     "8a48d98f18e2abb8",
-    "91af4b9bdb0329f0",
-    "63a024a9edd94383",
+    "f3f61efeee2e971b",
+    "3acb00a4ef6b6fe8",
     "d8934195d1437322",
-    "11c6377509e207eb",
-    "a57aa90f89b9e00a",
-    "ee592233df53f417",
-    "2ee9ee0460699981",
-    "e14829a7d4599ae5",
-    "f051c3d58a52ef6e",
-    "1ceb8de14fd92c6a",
-    "6d681a105f63d838",
+    "f0f28e960ad9d377",
+    "7627c3d5607e4fc3",
+    "2b83527a1336f0ae",
+    "ae2e212939bfd103",
+    "0d01b1a5b5affe63",
+    "e88f60c0e3195478",
+    "28f9e21dd499f618",
+    "54bc9690e26cb3c6",
     "ed3393211e6d8f3e",
-    "5e62fbb217110a21",
-    "28248eab210ca9e8",
+    "87c90f1c9b41850e",
+    "12305f31d4d36df4",
     "e4024fa04e97559f",
-    "da6669ea87151006",
-    "94670408433c1186",
-    "f1262686421b45cc",
-    "f9c24d7ad4d57daa"
+    "452330afa9b18103",
+    "ac0912a0dd48d300",
+    "1daf8d78a04d6fd2",
+    "ecd5ca6ff6c64421"
    ]
   }
  ],
@@ -335,7 +368,17 @@
    "changed_by": [],
    "markdown": "## ANEXO — Grupos de resíduos\n\nA) Grupos comuns\n\nGrupo I:\n\na) Estilbenos, seus derivados e seus sais e estéres;\n\nb) Substâncias de acção tireoestática;\n\nc) Outras substâncias com efeito estrogénico, androgénico e gestagénico, com excepção das referidas no grupo II.\n\nGrupo II:\n\nSubstâncias autorizadas e referidas no artigo 4.º\n\nGrupo III:\n\na) Substâncias inibidoras:\n\nAntibióticos, sulfamidas e substâncias antimicrobianas semelhantes;\n\nb) Cloranfenicol.\n\nB) Grupos específicos\n\nGrupo I - Outros medicamentos:\n\na) Substâncias endo e ectoparasitárias;\n\nb) Tranquilizantes, beta-agonistas e beta-bloqueadores;\n\nc) Outros medicamentos de uso veterinário.\n\nGrupo II - Outros resíduos:\n\na) Contaminantes presentes nos alimentos para animais;\n\nb) Contaminantes presentes no ambiente;\n\nc) Outras substâncias."
   },
-  "2d3aa121d909b41f": {
+  "ed98f911238ac48b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Âmbito de aplicação",
+   "in_force_from": "1999-06-29",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 148/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-1999-334370), publicado em 1999-05-04."
+   ],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 148/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-1999-334370), publicado em 1999-05-04."
+  },
+  "10500ac0c5a15c53": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 2.º — Definições",
@@ -343,7 +386,7 @@
    "changed_by": [
     "Alterado pelo/a [Decreto-Lei n.º 290/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/290-1993-324148), publicado em 1993-08-24."
    ],
-   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do disposto no presente diploma e respectivas normas regulamentares, entende-se por:\n\na) Animais de exploração: os animais domésticos das espécies bovina, suína, ovina e caprina e os solípedes domésticos, coelhos e aves de capoeira, bem como os animais selvagens das espécies atrás referidas e, bem assim, as espécies aquícolas e apícolas, na medida em que tenham sido criadas numa exploração;\n\nb) Tratamento terapêutico: a administração, a título individual, a um animal de exploração de um medicamento contendo substâncias de efeito hormonal, oficialmente autorizado, com o objectivo de tratar uma perturbação da fertilidade verificada após exame desse animal por um médico veterinário;\n\nc) Amostra oficial: uma amostra colhida pela autoridade competente, que inclua, para o exame do resíduo em causa, por um lado, a identificação do animal, com a indicação da espécie, idade e sexo e, bem assim, a natureza, quantidade, local e método de colheita e, por outro lado, a origem do animal, suas carnes ou outros produtos dele provenientes, devendo essa colheita ser efectuada sem aviso prévio;\n\nd) Resíduos: as substâncias com acção farmacológica, ou os seus metabolitos, bem como outras substâncias que estejam presentes nos animais, nas suas carnes ou noutros produtos deles provenientes, susceptíveis de prejudicar a saúde humana;\n\ne) Animais de engorda: os animais de exploração que têm como finalidade a engorda e o abate posterior com destino ao consumo humano;\n\nf) Intervalo de segurança: espaço de tempo necessário entre a última administração de um medicamento a um animal, em condições normais de utilização, e a obtenção de géneros alimentares dele provenientes, para garantir que estes não contenham resíduos que possam apresentar perigo para a saúde do consumidor;\n\ng) Autoridade competente: a Direcção-Geral da Pecuária, adiante designada DGP, a quem compete coordenar o sistema de controlo, elaborar o Plano Nacional para Pesquisa de Resíduos e recolher os resultados e as informações a transmitir à Comissão das Comunidades Europeias;\n\nh) Autoridade regional: a entidade designada pela autoridade competente para ao nível regional ser responsável por actividades de controlo;\n\ni) Laboratório de referência: o Laboratório Nacional de Investigação Veterinária, adiante designado LNIV, a quem compete coordenar as normas e métodos de análise para cada resíduo ou grupo de resíduos em causa, incluindo a organização de testes comparativos periódicos, efectuados com amostras fraccionadas pelos laboratórios autorizados, bem como a observância dos limites estabelecidos;\n\nj) Laboratório autorizado: um laboratório credenciado pela autoridade competente, após parecer do laboratório de referência, para proceder à análise de uma amostra oficial;\n\nl) Produto de uso veterinário: substância ou mistura de substâncias destinadas quer aos animais, para tratamento ou prevenção das doenças e dos seus sintomas, correcção ou modificação das funções orgânicas ou para diagnóstico médico, quer às instalações dos animais ou a actividades relacionadas com estes ou com os produtos de origem animal.\n\nm) Anabolizantes: as substâncias cuja administração tem por efeito estimular a biossíntese proteica.\n\n> Alterado pelo/a [Decreto-Lei n.º 290/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/290-1993-324148), publicado em 1993-08-24."
+   "markdown": "###### Artigo 2.º — Definições\n\n(Revogado.)\n\n> Alterado pelo/a [Decreto-Lei n.º 290/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/290-1993-324148), publicado em 1993-08-24."
   },
   "50a6838458c4dff8": {
    "fragment_id": null,
@@ -353,15 +396,24 @@
    "changed_by": [],
    "markdown": "### CAPÍTULO II — Proibições e condições de utilização de certas substâncias de efeito hormonal, tireostático e anabolizante."
   },
-  "383c61de25c564a6": {
+  "b769adfed2ab1fea": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 3.º — Proibições",
    "in_force_from": "1999-06-29",
    "changed_by": [
-    "Alterado pelo/a [Decreto-Lei n.º 290/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/290-1993-324148), publicado em 1993-08-24."
+    "Alterado pelo/a [Decreto-Lei n.º 290/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/290-1993-324148), publicado em 1993-08-24.",
+    "Revogado pelo/a [Decreto-Lei n.º 150/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-1999-330845), publicado em 1999-05-07, com efeitos a partir de 1999-05-08."
    ],
-   "markdown": "###### Artigo 3.º — Proibições\n\nSem prejuízo do que se ncontra estabelecido no Decreto-Lei n.º 440/89, de 27 de Dezembro, que aprovou o Regulamento do Fabrico, Comercialização e Utilização de Aditivos nos Alimentos para Animais, não é permitido:\n\na) Colocar no mercado, deter ou administrar a animais de qualquer espécie e por qualquer meio estilbenos, seus derivados e seus sais e ésteres, bem como substâncias de acção tireostática;\n\nb) Sem prejuízo do disposto na alínea anterior, colocar no mercado, deter ou administrar anabolizantes a animais de exploração, excepto quando entrem na composição de medicamentos, antecipadamente preparados e apresentados de acordo com a denominação e as condições de acondicionamento autorizados nos termos da legislação em vigor.\n\n> Alterado pelo/a [Decreto-Lei n.º 290/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/290-1993-324148), publicado em 1993-08-24."
+   "markdown": "###### Artigo 3.º — Proibições\n\n(Revogado.)\n\n> Alterado pelo/a [Decreto-Lei n.º 290/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/290-1993-324148), publicado em 1993-08-24.\n\n> Revogado pelo/a [Decreto-Lei n.º 150/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-1999-330845), publicado em 1999-05-07, com efeitos a partir de 1999-05-08."
+  },
+  "80ab896964d3bef8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Condições de utilização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Condições de utilização\n\n(Revogado.)"
   },
   "0cb403f2ccfb7406": {
    "fragment_id": null,
@@ -371,7 +423,7 @@
    "changed_by": [],
    "markdown": "### CAPÍTULO III — Detenção e trocas comerciais de animais de exploração e de produtos deles provenientes"
   },
-  "626c873a12caf7cd": {
+  "297eb4435321e87c": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 5.º — Comércio e abate",
@@ -379,9 +431,17 @@
    "changed_by": [
     "Alterado pelo/a [Decreto-Lei n.º 290/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/290-1993-324148), publicado em 1993-08-24."
    ],
-   "markdown": "###### Artigo 5.º — Comércio e abate\n\n1 - Nos termos do presente diploma é proibido:\n\na) Deter, possuir, ceder, vender, comprar ou abater animais de exploração aos quais tenham sido administradas substâncias ou produtos interditos;\n\nb) Deter, possuir, ceder, vender, comprar ou abater animais de exploração aos quais tenham sido administrados medicamentos autorizados contendo anabolizantes, antes de findo o respectivo intervalo de segurança, salvo o disposto no número seguinte;\n\nc) Deter, possuir, vender ou transformar carnes ou outros produtos provenientes dos animais referidos nas alíneas anteriores com destino ao consumo humano ou animal;\n\nd) Importar animais de exploração ou produtos deles provenientes com destino ao consumo humano, de países em que se administrem substâncias interditas ou que não ofereçam garantias suficientes quanto à utilização das substâncias autorizadas nos termos do artigo anterior.\n\ne) Comercializar, transformar ou utilizar produtos de origem animal provenientes de animais de exploração sujeitos a tratamento durante ensaios com produtos de uso veterinário, sem autorização da entidade competente.\n\n2 - Podem efectuar-se, antes do fim do intervalo de segurança, trocas comerciais de cavalos de corrida, de competição, de circo ou destinados à cobrição ou exposições, incluindo os equinos dessas categorias a que tenham sido administrados preparados orais contendo tremblona alilo para os efeitos indicados na alínea b) do n.º 1 do artigo anterior, desde que sejam respeitadas as outras condições estabelecidas no mesmo artigo e que a natureza e a data de intervenção sejam mencionadas no certificado que acompanha esses animais.\n\n3 - Excepto nas situações previstas no artigo anterior, todos os detentores e proprietários de animais de exploração estão especialmente obrigados a usar de todos os cuidados e a utilizar a maior diligência com vista a evitar e impedir que aos referidos animais sejam administrados substâncias ou produtos interditos.\n\n> Alterado pelo/a [Decreto-Lei n.º 290/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/290-1993-324148), publicado em 1993-08-24."
+   "markdown": "###### Artigo 5.º — Comércio e abate\n\n(Revogado.)\n\n> Alterado pelo/a [Decreto-Lei n.º 290/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/290-1993-324148), publicado em 1993-08-24."
   },
-  "63a024a9edd94383": {
+  "f3f61efeee2e971b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Sistema de controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Sistema de controlo\n\n(Revogado.)"
+  },
+  "3acb00a4ef6b6fe8": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 7.º — Pesquisa de resíduos",
@@ -389,9 +449,17 @@
    "changed_by": [
     "Alterado pelo/a [Decreto-Lei n.º 290/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/290-1993-324148), publicado em 1993-08-24."
    ],
-   "markdown": "###### Artigo 7.º — Pesquisa de resíduos\n\n1 - A pesquisa de resíduos é efectuada em conformidade com o Plano Nacional referido na alínea g) do artigo 2.º, abrangendo as substâncias previstas no anexo ao presente diploma, que dele faz parte integrante, segundo as regras a seguir na colheita de amostras oficiais para análise, a aprovar por portaria do Ministro da Agricultura, Pescas e Alimentação, sob proposta da DGP.\n\n2 - A análise das amostras oficiais para pesquisa de resíduos é realizada no LNIV ou em laboratórios autorizados, em função das necessidades e progressivo desenvolvimento da pesquisa de resíduos.\n\n3 - Na análise das amostras previstas no número anterior são tidos em conta os métodos de análise e os limites máximos de resíduos estabelecidos pelas disposições comunitárias ou fixados por portarias do Ministro da Agricultura, Pescas e Alimentação, sob proposta da DGP.\n\n4 - Quando a análise de uma amostra oficial, a que se refere o n.º 2, revelar a presença de resíduos, quer de substâncias interditas, quer de substâncias autorizadas, que ultrapassem os limites máximos estabelecidos pelo número anterior, a autoridade competente promove as seguintes medidas:\n\na) Realização de inquérito na exploração de origem, a fim de determinar as razões da presença de resíduos;\n\nb) Realização de inquérito ao nível do fabrico, armazenagem, detenção, transporte, administração, distribuição ou venda das substâncias ou produtos referidos no anexo ao presente diploma, conforme os casos, para pesquisar a origem das substâncias em causa;\n\nc) Colocação sob sequestro, marcação oficial e realização de análises adequadas, na exploração de origem ou outras, do rebanho ou dos animais que, de acordo com os inquéritos referidos nas alíneas anteriores, possam ser considerados suspeitos de apresentar os resíduos em questão;\n\nd) Abate compulsivo dos animais de exploração e sua inutilização total, sem qualquer compensação, quando as análises revelarem a presença de substâncias interditas e de substâncias com efeito anabolizante, quando as condições de utilização dos respectivos produtos não forem respeitadas;\n\ne) Inutilização total dos produtos de origem animal, sem qualquer tipo de compensação, quando as análises confirmarem a presença de resíduos de substâncias interditas ou de substâncias autorizadas que ultrapassem os limites máximos estabelecidos para a substância em causa;\n\nf) Sem prejuízo do disposto na alínea d) e no número seguinte, proibir o abate de animais destinados ao consumo quando as condições de utilização de uma substância ou produto não tiverem sido respeitadas e, em particular, quando a análise revelar a presença de resíduos de substâncias acima dos níveis permitidos por um período nunca inferior ao respectivo intervalo de segurança;\n\ng) Proibição, durante o período em que se aguarda o resultado de análises, da cedência dos animais a outras pessoas, excepto se sob o controlo médico veterinário oficial;\n\nh) Proceder a um controlo reforçado e à colheita de amostras suplementares nos estabelecimentos de produção e comércio ou nas explorações da mesma região ou localidade, a fim de detectar a substância em questão.\n\n5 - Os animais podem ser abatidos antes do fim do período de proibição se, cumulativamente:\n\na) O proprietário ou pessoa responsável pelos animais solicitar à autoridade competente e esta autorizar, determinando, para o efeito, a data e o local de abate;\n\nb) Acompanhados de um certificado médico veterinário que contenha os elementos necessários à identificação do animal e da exploração de origem e, se for caso disso, a natureza da intervenção e das substâncias ou produtos administrados.\n\n6 - Qualquer animal cujo abate seja solicitado nos termos do número anterior será objecto da colheita de uma amostra oficial para análise, mantendo-se a respectiva carcaça em observação até decisão sobre o seu destino final.\n\n7 - Os resultados positivos devem ser confirmados no LNIV ou num laboratório autorizado, por meio de métodos de referência estabelecidos pelas disposições comunitárias sobre a matéria.\n\n> Alterado pelo/a [Decreto-Lei n.º 290/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/290-1993-324148), publicado em 1993-08-24."
+   "markdown": "###### Artigo 7.º — Pesquisa de resíduos\n\n1 - (Revogado.)\n\n2 - (Revogado.)\n\n3 - Na análise das amostras previstas no número anterior são tidos em conta os métodos de análise e os limites máximos de resíduos estabelecidos pelas disposições comunitárias ou fixados por portarias do Ministro da Agricultura, Pescas e Alimentação, sob proposta da DGP.\n\n4 - (Revogado.)\n\n5 - (Revogado.)\n\n6 - (Revogado.)\n\n7 - (Revogado.)\n\n> Alterado pelo/a [Decreto-Lei n.º 290/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/290-1993-324148), publicado em 1993-08-24."
   },
-  "a57aa90f89b9e00a": {
+  "f0f28e960ad9d377": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Fiscalização\n\n(Revogado.)"
+  },
+  "7627c3d5607e4fc3": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 9.º — Infracções",
@@ -399,7 +467,71 @@
    "changed_by": [
     "Alterado pelo/a [Decreto-Lei n.º 290/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/290-1993-324148), publicado em 1993-08-24."
    ],
-   "markdown": "###### Artigo 9.º — Infracções\n\nAs infracções ao disposto nos artigos 3.º, 4.º, 5.º, nos n.os 2 e 5 do artigo 6.º, nas alíneas c) a g) do n.º 4, no n.º 5 do artigo 7.º e no artigo 18.º, bem como ao disposto nas normas técnicas aprovadas nos termos do n.º 6 do artigo 6.º e do artigo 17.º, constituem contra-ordenações puníveis com coima de 50000$00 a 500000$00.\n\n> Alterado pelo/a [Decreto-Lei n.º 290/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/290-1993-324148), publicado em 1993-08-24."
+   "markdown": "###### Artigo 9.º — Infracções\n\n(Revogado.)\n\n> Alterado pelo/a [Decreto-Lei n.º 290/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/290-1993-324148), publicado em 1993-08-24."
+  },
+  "2b83527a1336f0ae": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Sanções acessórias\n\n(Revogado.)"
+  },
+  "ae2e212939bfd103": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Pessoas colectivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Pessoas colectivas\n\n(Revogado.)"
+  },
+  "0d01b1a5b5affe63": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Benefício económico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Benefício económico\n\n(Revogado.)"
+  },
+  "e88f60c0e3195478": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Competência para aplicação de coima",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Competência para aplicação de coima\n\n(Revogado.)"
+  },
+  "28f9e21dd499f618": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Produto das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Produto das coimas\n\n(Revogado.)"
+  },
+  "54bc9690e26cb3c6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Tentativa e negligência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Tentativa e negligência\n\n(Revogado.)"
+  },
+  "87c90f1c9b41850e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Regiões autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Regiões autónomas\n\n(Revogado.)"
+  },
+  "12305f31d4d36df4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Regulamentação do sistema de controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Regulamentação do sistema de controlo\n\n(Revogado.)"
   },
   "e4024fa04e97559f": {
    "fragment_id": null,
@@ -410,6 +542,38 @@
     "Revogado pelo/a [Decreto-Lei n.º 232/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/232-1999-390250), publicado em 1999-06-24."
    ],
    "markdown": "###### Artigo 18.º — Autorização de introdução no mercado de produtos de uso veterinário\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 232/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/232-1999-390250), publicado em 1999-06-24."
+  },
+  "452330afa9b18103": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Farmacovigilância e toxicologia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Farmacovigilância e toxicologia\n\n(Revogado.)"
+  },
+  "ac0912a0dd48d300": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Norma revogatória\n\n(Revogado.)"
+  },
+  "1daf8d78a04d6fd2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Entrada em vigor\n\n(Revogado.)"
+  },
+  "ecd5ca6ff6c64421": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Grupos de resíduos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — Grupos de resíduos\n\n(Revogado.)"
   }
  }
 }

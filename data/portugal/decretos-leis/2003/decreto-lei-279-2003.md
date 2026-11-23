@@ -55,9 +55,10 @@ version_history:
     changes: []
   - date: '2007-06-01'
     amending: pt:dre:519977:por
-    amending_title: Decreto-Lei n.º 107/2007
+    amending_title: Decreto-Lei n.º 107/2007; Lei n.º 60-A/2005
     changes:
     - Altera Artigo 5.º
+    - Revoga Artigo 4
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/279/2003/11/08/p/dre/pt/html
@@ -84,7 +85,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:40:31Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 107/2007. Método
-    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2003/decreto-lei-279-2003.alteracoes.json'
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2003/decreto-lei-279-2003.alteracoes.json.
+    Revogações registadas só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Lei
+    n.º 60-A/2005.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -206,7 +209,9 @@ c) Dados relativos à execução do contrato, tais como o tipo de movimento, sit
 
 1 - A Direcção-Geral dos Impostos e a Inspecção-Geral de Finanças podem aceder aos dados previstos no presente diploma, nos termos e para os efeitos previstos nos n.os 1 e 3 do artigo 26.º-A do [Decreto-Lei n.º 349/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1998-234318), de 11 de Novembro, aditado pelo [Decreto-Lei n.º 137-B/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-b-1999-265086), de 22 de Abril.
 
-2 - Sempre que os dados digam respeito a imóvel localizado na Região Autónoma dos Açores ou na Região Autónoma da Madeira são transmitidos, depois de verificados, aos respectivos serviços competentes para efeito do pagamento das bonificações.
+2 - (Revogado.)
+
+> Revogado pelo/a [Lei n.º 60-A/2005](https://diariodarepublica.pt/dr/detalhe/lei/60-a-2005-376234), publicado em 2005-12-30, com efeitos a partir de 2006-01-01.
 
 ###### Artigo 5.º — Interconexão de dados
 

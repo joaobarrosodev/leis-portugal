@@ -54,10 +54,11 @@ version_history:
     changes: []
   - date: '2014-10-05'
     amending: pt:dre:241227:por
-    amending_title: Decreto-Lei n.º 158/96; Lei n.º 127-B/97; Lei n.º 64-A/2008; Lei n.º 75-A/2014
+    amending_title: Decreto-Lei n.º 158/96; Lei n.º 127-B/97; Lei n.º 64-A/2008; Lei n.º 75-A/2014; Lei n.º 53-A/2006
     changes:
     - Altera Artigo 6.º
     - Altera Artigo 3.º
+    - Revoga Artigo 3
 identifiers:
   celex: null
   eli: null
@@ -84,7 +85,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T00:45:46Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 158/96; Lei n.º 127-B/97;
-    Lei n.º 64-A/2008; Lei n.º 75-A/2014. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1988/decreto-lei-453-88.alteracoes.json'
+    Lei n.º 64-A/2008; Lei n.º 75-A/2014. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1988/decreto-lei-453-88.alteracoes.json.
+    Revogações registadas só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Lei
+    n.º 53-A/2006.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -288,11 +291,13 @@ h) As resultantes de quaisquer procedimentos de fiscalização prévia ou sucess
 
 4 - As aplicações que se destinem ao reequilíbrio financeiro do sector empresarial do Estado, mediante o reforço de capitais estatutários ou sociais, poderão revestir a forma de acções, fundos consignados, nos termos do [Decreto-Lei n.º 427/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1986-210827), de 29 de Dezembro, títulos de participação, previstos no [Decreto-Lei n.º 407/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/407-1986-221291), de 6 de Dezembro, ou quaisquer outras que sejam consideradas como capitais próprios ou quase próprios.
 
-5 - Sempre que as aplicações respeitantes a receitas decorrentes de alienações ao abrigo da [Lei n.º 84/88](https://diariodarepublica.pt/dr/detalhe/lei/84-1988-372781) correspondam à aquisição de dívida pública de qualquer espécie, deve o Fundo diligenciar, de imediato, para que a Direcção-Geral do Tesouro ou a Junta do Crédito Público procedam ao abatimento definitivo da dívida, mediante anulação, conforme estabelecem os artigos 17.º e 21.º do Decreto n.º 43453.
+5 - (Revogado.)
 
 6 - Em todas as outras situações de aquisição de dívida pública deve o Fundo diligenciar para que se proceda, de igual modo, ao abatimento da dívida, podendo esta, porém, não ser anulada, conforme prevê o artigo 7.º do Decreto n.º 43453.
 
 > Alterado pelo/a [Decreto-Lei n.º 158/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-1996-241227) e [Lei n.º 127-B/97](https://diariodarepublica.pt/dr/detalhe/lei/127-b-1997-659563) e [Lei n.º 64-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747) e [Lei n.º 75-A/2014](https://diariodarepublica.pt/dr/detalhe/lei/75-a-2014-57701290), publicado em 2014-09-30.
+
+> Revogado pelo/a [Lei n.º 53-A/2006](https://diariodarepublica.pt/dr/detalhe/lei/53-a-2006-197511), publicado em 2006-12-29, com efeitos a partir de 2007-01-01.
 
 ###### Artigo 4.º — Liquidação do ex-Fundo de Compensação
 

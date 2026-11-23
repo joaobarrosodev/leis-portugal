@@ -31,13 +31,20 @@
      "title": "Decreto-Lei n.º 82/2017",
      "published": "2017-07-18",
      "dre_path": "/dr/detalhe/decreto-lei/82-2017-107703391"
+    },
+    {
+     "id": "pt:dre:106825053:por",
+     "title": "Decreto-Lei n.º 42/2017",
+     "published": "2017-04-06",
+     "dre_path": "/dr/detalhe/decreto-lei/42-2017-106825053"
     }
    ],
    "changes": [
     "Revoga Artigo 1.º",
     "Revoga Artigo 2.º",
     "Revoga Artigo 3.º",
-    "Revoga Artigo 6.º"
+    "Revoga Artigo 6.º",
+    "Revoga Artigo 5"
    ],
    "fragments": [
     "643d3e66be6c53b3",
@@ -45,7 +52,7 @@
     "14677f062c20db17",
     "23f343f084fb4d7d",
     "e14b446ffdecb955",
-    "71d1ccfe0cf6d76f",
+    "36e5496cd32aee1b",
     "e648c8bb29c3dc7b",
     "8e89a9204cbe6e03",
     "fe09cddd473b8426"
@@ -154,6 +161,16 @@
     "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 82/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2017-107703391), publicado em 2017-07-18."
    ],
    "markdown": "###### Artigo 3.º — Alteração ao anexo II ao Decreto-Lei n.º 329/2007, de 8 de outubro\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 82/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2017-107703391), publicado em 2017-07-18."
+  },
+  "36e5496cd32aee1b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Alteração aos anexos II e IV ao Decreto-Lei n.º 88/2010, de 20 de julho",
+   "in_force_from": "2017-07-19",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 42/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-2017-106825053), publicado em 2017-04-06, com efeitos a partir de 2017-04-07."
+   ],
+   "markdown": "###### Artigo 5.º — Alteração aos anexos II e IV ao Decreto-Lei n.º 88/2010, de 20 de julho\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 42/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-2017-106825053), publicado em 2017-04-06, com efeitos a partir de 2017-04-07."
   },
   "e648c8bb29c3dc7b": {
    "fragment_id": null,

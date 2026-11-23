@@ -31,11 +31,38 @@
      "title": "Decreto-Lei n.º 412/73",
      "published": "1973-08-20",
      "dre_path": "/dr/detalhe/decreto-lei/412-1973-419603"
+    },
+    {
+     "id": "pt:dre:486774:por",
+     "title": "Decreto-Lei n.º 46909",
+     "published": "1966-03-19",
+     "dre_path": "/dr/detalhe/decreto-lei/46909-1966-486774"
     }
    ],
    "changes": [
     "Altera Artigo 12.º",
-    "Altera Artigo 13.º"
+    "Altera Artigo 13.º",
+    "Revoga Artigo 32",
+    "Revoga Artigo 33",
+    "Revoga Artigo 34",
+    "Revoga Artigo 35",
+    "Revoga Artigo 36",
+    "Revoga Artigo 37",
+    "Revoga Artigo 38",
+    "Revoga Artigo 39",
+    "Revoga Artigo 40",
+    "Revoga Artigo 41",
+    "Revoga Artigo 42",
+    "Revoga Artigo 43",
+    "Revoga Artigo 44",
+    "Revoga Artigo 45",
+    "Revoga Artigo 46",
+    "Revoga Artigo 47",
+    "Revoga Artigo 48",
+    "Revoga Artigo 49",
+    "Revoga Artigo 50",
+    "Revoga Artigo 51",
+    "Revoga Artigo 52"
    ],
    "fragments": [
     "cb4ef28b76a348b4",
@@ -78,27 +105,27 @@
     "e09eae98d524714f",
     "89171b0810d07cfd",
     "731df74fe1278343",
-    "9e683406c0946b38",
-    "d42e7f62ea7c9c22",
-    "54e3dfeb02951c75",
-    "9ec57f0b545e2b83",
-    "bc45721f0abeec6c",
-    "0924f68c9dc61c5b",
-    "eddcfb860265130c",
-    "e266843f431628d7",
-    "070ae21128258cd5",
-    "075b8581354d1c62",
-    "2b8151dffe27e86e",
-    "753d043acd03bd56",
-    "498808654172cc62",
-    "fc1f10095a9ec141",
-    "ade544f37bdc8ecb",
-    "3ef9911b83750579",
-    "c834b15e694705e2",
-    "f743acb64a4f9087",
-    "7dfac498548d2775",
-    "5c128027091ab10d",
-    "ccd0217ebc075cd5"
+    "e61b21da4f958b21",
+    "5a5c209f0e9a7665",
+    "153f4060f8fa846a",
+    "007f127e8d01e5cd",
+    "4637704993d0ceeb",
+    "9e5286d35626f875",
+    "971d568397761599",
+    "74ef2bf9c74d6bc3",
+    "7b15f2167c9427c3",
+    "a62b06bd6d7bebe9",
+    "c79f53909ae59d0c",
+    "104e4f76bba49a7a",
+    "be3798e1fdba4c97",
+    "cf99cbde2aef1e05",
+    "2ada80230b894564",
+    "fc50657e059676f5",
+    "0d74c42b76155364",
+    "4016970a3c170cf5",
+    "62a115ed0193ab38",
+    "75ea3c72fe55d102",
+    "6015b1417f3f4064"
    ]
   }
  ],
@@ -491,173 +518,175 @@
    "changed_by": [],
    "markdown": "###### Artigo 31.º\n\nAs conclusões dos trabalhos de cada sessão da Comissão Consultiva de Política Económica serão presentes à consideração do Conselho de Ministros para os Assuntos Económicos."
   },
-  "9e683406c0946b38": {
+  "e61b21da4f958b21": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 32.º",
-   "in_force_from": null,
-   "changed_by": [],
-   "markdown": "###### Artigo 32.º\n\nO Secretariado Técnico da Presidência do Conselho é o órgão destinado a prestar ao Conselho de Ministros para os Assuntos Económicos, pela coordenação e exame das informações dos serviços dos Ministérios competentes e pelos estudos próprios que realize, o conveniente apoio técnico para a fundamentação das decisões do Conselho e para a pronta e perfeita execução dessas decisões.\n\n§ único. Para o cabal cumprimento das atribuições que ao Secretariado Técnico são cometidas, e sem prejuízo da sua directa dependência da Presidência do Conselho, os Gabinetes dos Ministros membros do Conselho de Ministros para os Assuntos Económicos poderão manter com o director-geral do Secretariado Técnico os contactos que considerem convenientes à pronta preparação e execução das deliberações do Conselho."
+   "in_force_from": "1973-08-20",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 46909](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46909-1966-486774), publicado em 1966-03-19."
+   ],
+   "markdown": "###### Artigo 32.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 46909](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46909-1966-486774), publicado em 1966-03-19."
   },
-  "d42e7f62ea7c9c22": {
+  "5a5c209f0e9a7665": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 33.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 33.º\n\nO Secretariado Técnico compreenderá:\n\na) A Direcção de Serviços de Planeamento;\n\nb) A Direcção de Serviços da Integração Económica Nacional;\n\nc) A secretaria."
+   "markdown": "###### Artigo 33.º\n\n(Revogado.)"
   },
-  "54e3dfeb02951c75": {
+  "153f4060f8fa846a": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 34.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 34.º\n\nPara o desempenho das atribuições definidas no artigo 32.º compete ao Secretariado Técnico, pela Direcção de Serviços de Planeamento, em colaboração com os serviços dos Ministérios competentes:\n\n1.º Promover a realização, segundo a orientação superiormente definida pelo Conselho de Ministros para os Assuntos Económicos, dos estudos respeitantes à determinação dos objectivos e instrumentos de uma política de desenvolvimento económico-social, tendo especialmente em conta o disposto nos artigos 4.º e 5.º do [Decreto-Lei n.º 44016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44016-1961-182232);\n\n2.º Preparar, para decisão do Conselho de Ministros para os Assuntos Económicos, os projectos dos planos de fomento nacionais e examinar, em função dos objectivos globais e com vista à sua harmonização e coordenação, os programas de desenvolvimento territoriais e regionais a incluir naqueles planos e que forem elaborados pelos serviços ou comissões, em cada território, competentes para a elaboração destes programas;\n\n3.º Recolher e coordenar os elementos destinados à preparação dos programas anuais de execução dos planos de fomento e dos planos regionais de desenvolvimento nele incluídos, para aprovação do Conselho de Ministros para os Assuntos Económicos;\n\n4.º Acompanhar a execução dos planos de fomento nacionais e dos planos regionais de desenvolvimento neles incluídos que estiverem em curso e elaborar, até 30 de Junho de cada ano, um relatório sobre a execução daqueles planos no ano anterior;\n\n5.º Informar das dificuldades que eventualmente surjam no processo do desenvolvimento económico nacional e propor as medidas de correcção julgadas convenientes;\n\n6.º Colaborar com o Instituto Nacional de Estatística e com os serviços competentes dos Ministérios das Finanças e do Ultramar no aperfeiçoamento dos métodos e desenvolvimento dos quadros da contabilidade nacional, tendo especialmente em vista a elaboração do orçamento económico do País;\n\n7.º Coordenar os programas da assistência técnica prestada por organismos internacionais a projectos que interessem ao desenvolvimento económico nacional e propor, ouvidos os serviços competentes, as modalidades a adoptar nesses programas."
+   "markdown": "###### Artigo 34.º\n\n(Revogado.)"
   },
-  "9ec57f0b545e2b83": {
+  "007f127e8d01e5cd": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 35.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 35.º\n\nCompete ao Secretariado Técnico da Presidência do Conselho, pela Direcção de Serviços de Integração Económica Nacional, em colaboração com os serviços dos Ministérios competentes:\n\n1.º Propor ao Conselho de Ministros para os Assuntos Económicos as iniciativas destinadas a realizar a progressiva integração económica dos diversos territórios nacionais e a unificação dos mercados portugueses, elaborando os estudos e programas de acção que para esse fim se mostrem convenientes;\n\n2.º Zelar pelo cumprimento das disposições do [Decreto-Lei n.º 44016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44016-1961-182232) e propor ao Conselho de Ministros para os Assuntos Económicos, com a conveniente antecedência, as providências de regulamentação ou de adaptação consideradas necessárias;\n\n3.º Cooperar com os serviços dos Ministérios competentes no sentido de se evitar, em qualquer dos territórios, a adopção de medidas que dificultem ou contrariem os objectivos referidos na alínea anterior;\n\n4.º Apresentar ao Conselho de Ministros para os Assuntos Económicos um relatório anual sobre as providências tomadas em matéria de integração económica e, em especial, sobre as que forem adoptadas em cumprimento do disposto no [Decreto-Lei n.º 44016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44016-1961-182232), informando sobre as dificuldades encontradas e os resultados conseguidos."
+   "markdown": "###### Artigo 35.º\n\n(Revogado.)"
   },
-  "bc45721f0abeec6c": {
+  "4637704993d0ceeb": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 36.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 36.º\n\nÀ secretaria incumbirão os serviços gerais de carácter administrativo e burocrático do Secretariado Técnico, designadamente os de expediente, pessoal, contabilidade e arquivo."
+   "markdown": "###### Artigo 36.º\n\n(Revogado.)"
   },
-  "0924f68c9dc61c5b": {
+  "9e5286d35626f875": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 37.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 37.º\n\nO Secretariado Técnico assegurará o expediente do Conselho de Ministros para os Assuntos Económicos."
+   "markdown": "###### Artigo 37.º\n\n(Revogado.)"
   },
-  "eddcfb860265130c": {
+  "971d568397761599": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 38.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 38.º\n\nPara o cumprimento das atribuições que lhe são conferidas poderá o Secretariado Técnico solicitar dos serviços públicos, corpos administrativos, organismos corporativos e entidades privadas as informações necessárias."
+   "markdown": "###### Artigo 38.º\n\n(Revogado.)"
   },
-  "e266843f431628d7": {
+  "74ef2bf9c74d6bc3": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 39.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 39.º\n\nO Secretariado Técnico será chefiado por um director-geral, que exercerá as funções de secretário sem voto do Conselho de Ministros para os Assuntos Económicos.\n\n§ 1.º O director-geral do Secretariado Técnico será coadjuvado no exercício das suas funções por dois directores de serviço, cada um dos quais chefiará uma das direcções de serviço do Secretariado Técnico. O director-geral e os dois directores de serviço serão vogais natos da Comissão Consultiva de Política Económica.\n\n§ 2.º Na sua ausência ou impedimento será o director-geral do Secretariado Técnico substituído pelo director de serviços mais antigo."
+   "markdown": "###### Artigo 39.º\n\n(Revogado.)"
   },
-  "070ae21128258cd5": {
+  "7b15f2167c9427c3": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 40.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 40.º\n\nA Comissão Interministerial do Plano de Fomento, criada na Presidência do Conselho pelo [Decreto-Lei n.º 42593](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42593-1959-440476), de 19 de Outubro de 1959, passa a designar-se por Comissão Interministerial de Planeamento e Integração Económica, com as atribuições e constituição definidas nos artigos seguintes."
+   "markdown": "###### Artigo 40.º\n\n(Revogado.)"
   },
-  "075b8581354d1c62": {
+  "a62b06bd6d7bebe9": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 41.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 41.º\n\nA Comissão Interministerial é um órgão de estudo, coordenação e consulta destinado a assegurar em matéria de planeamento e integração a ligação permanente entre o Secretariado Técnico da Presidência do Conselho, os diversos Ministérios e, por intermédio do Ministério do Ultramar, as províncias ultramarinas. É constituída pelos representantes dos diversos departamentos ministeriais, serviços e entidades aos quais incumbe executar, financiar ou fiscalizar directamente os empreendimentos inscritos nos planos de fomento nacionais e regionais e as medidas de integração económica do espaço português."
+   "markdown": "###### Artigo 41.º\n\n(Revogado.)"
   },
-  "2b8151dffe27e86e": {
+  "c79f53909ae59d0c": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 42.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 42.º\n\nA Comissão Interministerial é presidida pelo director-geral do Secretariado Técnico da Presidência do Conselho e, na sua falta ou impedimento, por quem o Conselho de Ministros para os Assuntos Económicos determinar."
+   "markdown": "###### Artigo 42.º\n\n(Revogado.)"
   },
-  "753d043acd03bd56": {
+  "104e4f76bba49a7a": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 43.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 43.º\n\nA Comissão Interministerial compreende o plenário e os grupos de trabalho."
+   "markdown": "###### Artigo 43.º\n\n(Revogado.)"
   },
-  "498808654172cc62": {
+  "be3798e1fdba4c97": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 44.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 44.º\n\nO plenário da Comissão Interministerial, que pode funcionar em reuniões conjuntas ou reuniões restritas, terá a seguinte constituição:\n\nO director-geral do Secretariado Técnico da Presidência do Conselho.\n\nUm vogal representante do Ministro das Finanças.\n\nUm vogal representante do Ministro da Marinha.\n\nUm vogal representante do Ministro dos Negócios Estrangeiros.\n\nUm vogal representante do Ministro das Obras Públicas.\n\nUm vogal representante do Ministro do Ultramar.\n\nUm vogal representante do Ministro da Educação Nacional.\n\nUm vogal representante do Ministro das Comunicações.\n\nUm vogal representante do Ministro das Corporações e Previdência Social.\n\nUm vogal representante do Secretário de Estado da Agricultura.\n\nUm vogal representante do Secretário de Estado da Indústria.\n\nUm vogal representante do Secretário de Estado do Comércio.\n\nUm vogal representante do Banco de Portugal.\n\nUm vogal representante do Instituto Nacional de Estatística.\n\nOs directores dos Serviços de Planeamento e de Integração Económica Nacional do Secretariado Técnico da Presidência do Conselho.\n\n§ 1.º As reuniões do plenário da Comissão Interministerial são convocadas pelo presidente, por sua iniciativa ou por proposta de algum dos vogais.\n\n§ 2.º Os vogais representantes dos Ministros e Secretários de Estado no plenário da Comissão Interministerial e respectivos suplentes serão designados por despacho do Presidente do Conselho, sobre proposta dos Ministros respectivos. A proposta para a designação do vogal representante do Banco de Portugal será feita pelo governo do Banco.\n\n§ 3.º Quando venha a reconhecer-se necessária a presença na Comissão Interministerial de representantes de outros departamentos governamentais, além dos indicados neste artigo, ou de representantes de províncias ultramarinas, poderá a sua inclusão ser determinada por despacho do Presidente do Conselho, ouvido o Ministro respectivo.\n\n§ 4.º Na falta ou impedimento de qualquer dos vogais efectivos da Comissão Interministerial intervirá nas reuniões o seu suplente."
+   "markdown": "###### Artigo 44.º\n\n(Revogado.)"
   },
-  "fc1f10095a9ec141": {
+  "cf99cbde2aef1e05": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 45.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 45.º\n\nCompete especialmente aos vogais da Comissão Interministerial:\n\n1.º Transmitir à Comissão os pareceres e as sugestões dos seus Ministérios, bem como dar conta aos Ministros que representam dos estudos e mais trabalhos em curso na Comissão e da orientação que a mesma se propõe seguir na realização desses estudos e trabalhos;\n\n2.º Assegurar a ligação administrativa permanente entre o Secretariado Técnico da Presidência do Conselho e os serviços que, nos respectivos Ministérios, tenham a seu cargo a promoção, a execução, o financiamento ou a fiscalização de empreendimentos inscritos nos planos de fomento e a observância das resoluções destinadas a realizar a progressiva integração económica dos territórios e a unificação dos mercados nacionais."
+   "markdown": "###### Artigo 45.º\n\n(Revogado.)"
   },
-  "ade544f37bdc8ecb": {
+  "2ada80230b894564": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 46.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 46.º\n\nOs grupos de trabalho da Comissão Interministerial serão constituídos por representantes dos serviços e das entidades directamente interessadas e reunirão para estudo e informação dos problemas relativos às matérias de planeamento e de integração económica do respectivo âmbito, cuja apreciação compete ao Conselho de Ministros para os assuntos económicos."
+   "markdown": "###### Artigo 46.º\n\n(Revogado.)"
   },
-  "3ef9911b83750579": {
+  "fc50657e059676f5": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 47.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 47.º\n\nOs grupos de trabalho permanentes serão desde já os seguintes:\n\nA) Grupos de trabalho para o planeamento:\n\nGrupo de trabalho n.º 1 (agricultura, silvicultura e pecuária);\n\nGrupo de trabalho n.º 2 (indústria e energia);\n\nGrupo de trabalho n.º 3 (pesca);\n\nGrupo de trabalho n.º 4 (transportes e comunicações);\n\nGrupo de trabalho n.º 5 (investigação e ensino técnico);\n\nGrupo de trabalho n.º 6 (financiamento e equilíbrio monetário);\n\nGrupo de trabalho n.º 7 (mão-de-obra e aspectos sociais).\n\nB) Grupos de trabalho para integração económica nacional:\n\nGrupo de trabalho n.º 8 (ordenamento agrícola e condicionamento industrial);\n\nGrupo de trabalho n.º 9 (comércio inter-regional);\n\nGrupo de trabalho n.º 10 (regimes fiscais);\n\nGrupo de trabalho n.º 11 (pagamentos inter-regionais).\n\n§ 1.º Tendo em atenção a representação, pelos Ministérios competentes, dos interesses de todos os territórios, o Conselho de Ministros para os Assuntos Económicos determinará, por despacho, a composição e a presidência de cada grupo de trabalho e, quando lhe não definir também o seu mandato, será este estabelecido pelo presidente da Comissão Interministerial.\n\n§ 2.º A indicação dos representantes dos serviços que comparticipam nos diversos grupos de trabalho será feita por despacho do Ministro ou Secretário de Estado de que o serviço depende e comunicado ao presidente da Comissão Interministerial.\n\n§ 3.º Cada serviço ou entidade terá pelo menos um representante efectivo e um suplente. De preferência, a representação de um serviço em grupos de trabalho de que faça parte deve ser assegurada pelo mesmo funcionário, salvo quando se trate de serviço que oriente ou centralize diversos organismos corporativos ou de coordenação económica ligados a vários sectores de actividade, caso esse em que a sua representação em grupos de trabalho poderá variar consoante os problemas em estudo nas reuniões."
+   "markdown": "###### Artigo 47.º\n\n(Revogado.)"
   },
-  "c834b15e694705e2": {
+  "0d74c42b76155364": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 48.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 48.º\n\nPor iniciativa do presidente da Comissão Interministerial ou de qualquer dos seus vogais poderão constituir-se para o estudo de problemas específicos grupos de trabalho ad hoc, os quais se dissolverão no termo da tarefa que lhe for incumbida.\n\n§ único. Os presidentes dos grupos de trabalho ad hoc serão designados pelo presidente da Comissão Interministerial."
+   "markdown": "###### Artigo 48.º\n\n(Revogado.)"
   },
-  "f743acb64a4f9087": {
+  "4016970a3c170cf5": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 49.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 49.º\n\nAs reuniões dos grupos de trabalho poderão ser convocadas pelo presidente da Comissão Interministerial ou pelo presidente do respectivo grupo.\n\n§ 1.º Para as reuniões dos grupos de trabalho poderão ser convocados todos os membros permanentes ou apenas aqueles que o respectivo presidente considere interessados nas matérias a tratar.\n\n§ 2.º Na falta ou impedimento do presidente de qualquer grupo de trabalho, assumirá as suas funções um dos directores de serviços do Secretariado Técnico da Presidência do Conselho, indicado pelo presidente da Comissão Interministerial.\n\n§ 3.º Cada grupo de trabalho será secretariado por um perito ou técnico do Secretariado Técnico."
+   "markdown": "###### Artigo 49.º\n\n(Revogado.)"
   },
-  "7dfac498548d2775": {
+  "62a115ed0193ab38": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 50.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 50.º\n\nO presidente da Comissão Interministerial e os presidentes dos grupos de trabalho poderão chamar a colaborar nos respectivos grupos, a título transitório, mais de um delegado dos serviços representados, bem como representantes de entidades públicas ou privadas que neles não estejam permanentemente representadas, sempre que a sua presença seja julgada útil para o estudo de determinados assuntos.\n\n§ único. O Ministro do Ultramar, por sua iniciativa ou mediante proposta do presidente da Comissão Interministerial, poderá chamar a participar nas reuniões dos grupos de trabalho funcionários dos serviços provinciais de planeamento e integração económica e representantes dos serviços encarregados da promoção, execução ou financiamento de empreendimentos inscritos ou a inscrever nos planos de fomento e que sejam objecto de estudo nessas reuniões."
+   "markdown": "###### Artigo 50.º\n\n(Revogado.)"
   },
-  "5c128027091ab10d": {
+  "75ea3c72fe55d102": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 51.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 51.º\n\nSerá criado pelo Ministério do Ultramar em cada uma das províncias ultramarinas, sob a dependência directa do respectivo governador, um serviço ou comissão de planeamento e de integração económica, ao qual incumbirá, em colaboração com os serviços territoriais competentes:\n\n1.º Preparar os projectos dos planos de fomento territoriais de acordo com a orientação que vier a ser definida pelo Conselho de Ministros para os Assuntos Económicos;\n\n2.º Coordenar e acompanhar a execução dos mesmos planos, centralizando as informações que lhe digam respeito, e propor as correcções que forem julgadas convenientes;\n\n3.º Propor a adopção de medidas destinadas a realizar, nos prazos superiormente fixados e para cada província ultramarina, a progressiva integração económica dos territórios e a unificação dos mercados nacionais.\n\n§ único. A ligação entre o serviço de planeamento e de integração económica de cada província ultramarina e o Secretariado Técnico da Presidência do Conselho será assegurada pelos serviços competentes do Ministério do Ultramar."
+   "markdown": "###### Artigo 51.º\n\n(Revogado.)"
   },
-  "ccd0217ebc075cd5": {
+  "6015b1417f3f4064": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 52.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 52.º\n\nOs quadros do pessoal do Secretariado Técnico da Presidência do Conselho, sua forma de provimento e remuneração e outras disposições relativas à orgânica e funcionamento deste serviço, a forma de remuneração do presidente, dos vogais e dos membros dos grupos de trabalho da Comissão Interministerial de Planeamento e Integração Económica e, ainda, a forma de cobertura dos encargos com o funcionamento da Comissão Consultiva de Política Económica serão fixados em diploma referendado pelo Presidente do Conselho e pelo Ministro das Finanças.\n\n§ 1.º O diploma previsto no corpo deste artigo determinará igualmente a data em que entrarão em funcionamento os órgãos e serviços nele referidos e se considerará extinta a Inspecção Superior do Plano de Fomento, e indicará bem assim os lugares a suprimir no quadro da Secretaria-Geral da Presidência do Conselho por virtude dessa extinção.\n\n§ 2.º Até à data que for fixada, nos termos do parágrafo anterior, serão desempenhadas pela Inspecção Superior do Plano de Fomento as atribuições cometidas por este decreto-lei ao Secretariado Técnico da Presidência do Conselho.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 27 de Outubro de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.\n\nPara ser publicado no Boletim Oficial de todas as províncias ultramarinas. - A. Moreira."
+   "markdown": "###### Artigo 52.º\n\n(Revogado.)\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 27 de Outubro de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.\n\nPara ser publicado no Boletim Oficial de todas as províncias ultramarinas. - A. Moreira."
   }
  }
 }

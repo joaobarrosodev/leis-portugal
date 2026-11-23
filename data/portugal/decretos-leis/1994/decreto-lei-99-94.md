@@ -122,7 +122,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:36:27Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 1/96; Decreto-Lei
-    n.º 208/98. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1994/decreto-lei-99-94.alteracoes.json'
+    n.º 208/98. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1994/decreto-lei-99-94.alteracoes.json.
+    Texto antigo deixado a seguir à nova redação ou a «(Revogado.)» retirado por regra e verificado às cegas (consolidacao/texto_antigo.py):
+    arts. 3.º.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -272,27 +274,6 @@ d) Órgãos de controlo.
 
 > Alterado pelo/a [Decreto-Lei n.º 208/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-1998-423674), publicado em 1998-07-14.
 
-##### Divisão da estrutura orgânica
-
-1 - A estrutura orgânica relativa à execução do QCA divide-se nos dois seguintes níveis:
-
-a) Nível de execução global do QCA;
-
-b) Nível de execução individual das intervenções operacionais incluídas no QCA.
-
-2 - Em cada um dos níveis de organização referidos no número anterior especializam-se os órgãos criados em razão das funções que exercem, prevendo-se a existência das seguintes categorias de órgãos:
-
-a) Órgãos de coordenação e de gestão;
-
-b) Órgãos de acompanhamento;
-
-c) Órgãos de avaliação; e
-
-d) Órgãos de controlo.
-
-3 - A execução individual das intervenções operacionais fica sujeita à coordenação dos órgãos de execução global do QCA, sendo-lhes facultada toda a informação necessária ao cumprimento das suas funções.
-
-4 - É assegurada a participação social institucionalizada em cada um dos níveis em que se divide a estrutura orgânica relativa à execução do QCA.
 
 ### CAPÍTULO II — Estrutura orgânica de execução global do QCA
 

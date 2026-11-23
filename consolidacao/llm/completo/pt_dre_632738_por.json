@@ -39,13 +39,13 @@
     },
     {
       "chave": "17.º",
-      "epigrafe": "Serviços de Pessoal e de Organização",
+      "epigrafe": "Gabinete de Organização",
       "texto": "(Revogado.)",
       "alterador": 37
     },
     {
       "chave": "18.º",
-      "epigrafe": "Repartição de Serviços Administrativos",
+      "epigrafe": "Repartição de Pessoal e Administração Geral",
       "texto": "(Revogado.)",
       "alterador": 37
     },
@@ -88,24 +88,30 @@
     {
       "chave": "27.º",
       "epigrafe": "Atribuições das direcções-gerais",
-      "texto": "1. As direcções-gerais são órgãos centrais a que compete, dentro das suas atribuições específicas, orientar as instituições, serviços e estabelecimentos de saúde e assistência, coordenar a sua actuação e fiscalizar a execução das respectivas actividades.\n\n2 - (Revogado.)\n\n3. A Direcção-Geral dos Hospitais orienta, coordena e fiscaliza as actividades dos estabelecimentos hospitalares centrais e distritais e presta o apoio que lhe seja solicitado pela Direcção-Geral de Saúde no domínio das atribuições de internamento que a esta competem.\n\n4. A Direcção-Geral da Assistência Social orienta e fiscaliza a actuação dos serviços, estabelecimentos e instituições de assistência, coordenando as actividades promotoras da integração social dos indivíduos, pela sua participação na vida da comunidade, tendo em especial atenção as crianças, os jovens e a população idosa, e actuando no quadro da instituição familiar para o fomento do bem-estar pessoal.",
+      "texto": "1. As direcções-gerais são órgãos centrais a que compete, dentro das suas atribuições específicas, orientar as instituições, serviços e estabelecimentos de saúde e assistência, coordenar a sua actuação e fiscalizar a execução das respectivas actividades.\n\n2. (Revogado.)\n\n3. A Direcção-Geral dos Hospitais orienta, coordena e fiscaliza as actividades dos estabelecimentos hospitalares centrais e distritais e presta o apoio que lhe seja solicitado pela Direcção-Geral de Saúde no domínio das atribuições de internamento que a esta competem.\n\n4. A Direcção-Geral da Assistência Social orienta e fiscaliza a actuação dos serviços, estabelecimentos e instituições de assistência, coordenando as actividades promotoras da integração social dos indivíduos, pela sua participação na vida da comunidade, tendo em especial atenção as crianças, os jovens e a população idosa, e actuando no quadro da instituição familiar para o fomento do bem-estar pessoal.",
       "alterador": 22
     },
     {
       "chave": "30.º",
       "epigrafe": "Disposições gerais",
       "texto": "(Revogado.)",
-      "alterador": 33
-    },
-    {
-      "chave": "31.º",
-      "epigrafe": "Serviços da Direcção-Geral de Saúde",
-      "texto": "(Revogado.)",
-      "alterador": 33
+      "alterador": 22
     },
     {
       "chave": "32.º",
       "epigrafe": "Inspecção Superior de Salubridade",
+      "texto": "(Revogado.)",
+      "alterador": 22
+    },
+    {
+      "chave": "35.º",
+      "epigrafe": "Alteração de serviços e da sua competência",
+      "texto": "(Revogado.)",
+      "alterador": 22
+    },
+    {
+      "chave": "31.º",
+      "epigrafe": "Serviços da Direcção-Geral de Saúde",
       "texto": "(Revogado.)",
       "alterador": 33
     },
@@ -118,12 +124,6 @@
     {
       "chave": "34.º",
       "epigrafe": "Inspecção Superior do Exercício Profissional",
-      "texto": "(Revogado.)",
-      "alterador": 33
-    },
-    {
-      "chave": "35.º",
-      "epigrafe": "Alteração de serviços e da sua competência",
       "texto": "(Revogado.)",
       "alterador": 33
     },
@@ -166,7 +166,7 @@
     {
       "chave": "44.º",
       "epigrafe": "Inspecção Superior de Tutela Administrativa",
-      "texto": "1. Compete à Inspecção Superior de Tutela Administrativa o exercício geral das atribuições inerentes à tutela administrativa das instituições de assistência particular e, em especial:\n\na) Propor a aprovação ou alteração dos estatutos das instituições particulares de assistência, assim como a remodelação, concentração ou extinção das mesmas instituições;\n\nb) Aprovar os quadros de pessoal e os orçamentos, ouvidas as direcções-gerais interessadas, dentro dos limites a fixar por despacho ministerial;\n\nc) Julgar as contas de gerência, de valor inferior a 2000 contos, das instituições particulares de assistência, bem como das associações religiosas a que se refere o artigo 450.º do Código Administrativo;\n\nd) Autorizar, nos termos legais, a realização de empréstimos e a transacção de imóveis;\n\ne) Prestar o apoio jurídico e administrativo de que careçam as instituições particulares, ouvidas as direcções-gerais interessadas.\n\n2. A tutela administrativa respeitará inteiramente a vontade dos instituidores ou fundadores, sem prejuízo, porém, da actualização técnica dos serviços e coordenação indispensáveis à maior eficiência das suas actividades.\n\n3. Quando os fundadores não tenham providenciado sobre a organização e administração das fundações, a Direcção-Geral da Assistência Social providenciará no sentido de serem dotados de estatutos adequados, ouvidos os testamenteiros ou administradores da herança ou legado.\n\n4. Para o exercício da sua competência, a Inspecção Superior de Tutela Administrativa compreende os seguintes serviços:\n\na) A Direcção de Serviços de Assuntos Jurídicos;\n\nb) A Direcção de Serviços de Orientação e Gestão.\n\n5 - (Revogado.)\n\n6. É exercida pela Direcção de Serviços de Assuntos Jurídicos a competência relativa às matérias constantes da alínea e) do n.º 1 deste artigo, cabendo-lhe ainda o estudo das questões jurídicas emergentes do exercício das restantes atribuições inerentes à tutela administrativa das instituições de assistência particular.\n\n7. A competência relativa às matérias constantes das alíneas a) a d) do n.º 1 deste artigo é exercida pela Direcção de Serviços de Orientação e Gestão.",
+      "texto": "1. Compete à Inspecção Superior de Tutela Administrativa o exercício geral das atribuições inerentes à tutela administrativa das instituições de assistência particular e, em especial:\n\na) Propor a aprovação ou alteração dos estatutos das instituições particulares de assistência, assim como a remodelação, concentração ou extinção das mesmas instituições;\n\nb) Aprovar os quadros de pessoal e os orçamentos, ouvidas as direcções-gerais interessadas, dentro dos limites a fixar por despacho ministerial;\n\nc) Julgar as contas de gerência, de valor inferior a 2000 contos, das instituições particulares de assistência, bem como das associações religiosas a que se refere o artigo 450.º do Código Administrativo;\n\nd) Autorizar, nos termos legais, a realização de empréstimos e a transacção de imóveis;\n\ne) Prestar o apoio jurídico e administrativo de que careçam as instituições particulares, ouvidas as direcções-gerais interessadas.\n\n2. A tutela administrativa respeitará inteiramente a vontade dos instituidores ou fundadores, sem prejuízo, porém, da actualização técnica dos serviços e coordenação indispensáveis à maior eficiência das suas actividades.\n\n3. Quando os fundadores não tenham providenciado sobre a organização e administração das fundações, a Direcção-Geral da Assistência Social providenciará no sentido de serem dotados de estatutos adequados, ouvidos os testamenteiros ou administradores da herança ou legado.\n\n4. Para o exercício da sua competência, a Inspecção Superior de Tutela Administrativa compreende os seguintes serviços:\n\na) A Direcção de Serviços de Assuntos Jurídicos;\n\nb) A Direcção de Serviços de Orientação e Gestão.\n\n5. (Revogado.)\n\n6. É exercida pela Direcção de Serviços de Assuntos Jurídicos a competência relativa às matérias constantes da alínea e) do n.º 1 deste artigo, cabendo-lhe ainda o estudo das questões jurídicas emergentes do exercício das restantes atribuições inerentes à tutela administrativa das instituições de assistência particular.\n\n7. A competência relativa às matérias constantes das alíneas a) a d) do n.º 1 deste artigo é exercida pela Direcção de Serviços de Orientação e Gestão.",
       "alterador": 26
     },
     {
@@ -334,35 +334,30 @@
     }
   ],
   "anexos": [],
-  "nao_aplicavel": "Alterador 1, rectificação do preâmbulo (n.º 1): alvo incerto: o preâmbulo não está no texto atual\nAlterador 1, quadro VI, observação «(o)» passa a «(c)»: só em imagem: o quadro VI só existe em imagem e não tem título de anexo\nAlterador 1, quadro X, linhas do agente sanitário de 1.ª classe e do contínuo de 1.ª classe e observação (e): só em imagem: o quadro X só existe em imagem e não tem título de anexo\nAlterador 2, categorias acrescentadas ao quadro tipo do Estatuto Hospitalar: outro diploma\nAlterador 3, art. 5.º, quadros II, VI, VIII, IX e X substituídos: só em imagem: sem título de anexo no texto atual\nAlterador 4, art. 15.º, n.º 3, quadro VI alterado (adjunto do director-geral de Saúde): sem texto\nAlterador 5, quadro VI modificado: só em imagem: sem título de anexo no texto atual\nAlterador 7, prorrogação do período de instalação (art. 79.º, n.º 2): não textual\nAlterador 8, quadro VIII alterado: só em imagem: sem título de anexo no texto atual\nAlterador 9, art. 7.º, n.º 1, extinção dos Serviços de Inspecção do art. 14.º: não textual (o art. 14.º fica revogado pelo alterador 37)\nAlterador 9, art. 7.º, n.º 2, lugares extintos no quadro II-B: só em imagem: o quadro II só existe em imagem\nAlterador 11, entrada em vigor da tabela B do quadro X: não textual\nAlterador 12, quadro VIII (tabela B) alterado: só em imagem: sem título de anexo no texto atual\nAlterador 13, quadros VI e X alterados: só em imagem: sem título de anexo no texto atual\nAlterador 14, art. 4.º, lugares abatidos e acrescidos ao quadro X: só em imagem: sem título de anexo no texto atual\nAlterador 15, quadro VIII (enfermagem) substituído: só em imagem: sem título de anexo no texto atual\nAlterador 16, quadro II (tabela B) alterado: só em imagem: sem título de anexo no texto atual\nAlterador 18, art. 1.º, quadro X alterado: só em imagem: sem título de anexo no texto atual (o art. 59.º, n.º 3, alterado pelo art. 2.º, fica revogado pelo alterador 33)\nAlterador 19, quadro VIII (tabela B) alterado: só em imagem: sem título de anexo no texto atual\nAlterador 20, letra I do chefe de secretaria do quadro III: só em imagem: o quadro III só existe em imagem\nAlterador 21, art. 63.º, revogação da alínea b) do n.º 2 do art. 8.º, arts. 50.º a 53.º, n.os 2 a 4 do art. 54.º, n.os 3, 6 e 7 do art. 55.º, n.os 3 a 5 do art. 56.º e alínea c) do n.º 1 do art. 76.º (e arts. 57.º e 59.º): efeito adiado: só produz efeitos à medida que forem publicadas as portarias do art. 57.º\nAlterador 22, art. 39.º, extinção da Direcção-Geral de Saúde: não textual\nAlterador 23, art. 31.º, revogação dos arts. 49.º, 50.º, 57.º, 58.º, 60.º e 91.º, n.º 1 do art. 54.º, n.os 1, 2, 4 e 5 do art. 55.º, n.os 1, 2, 6, 7 e 8 do art. 56.º e n.º 6 do art. 59.º: efeito adiado: produz efeitos à medida que forem publicadas as portarias do art. 29.º\nAlterador 24, quadros da Secretaria-Geral e da Direcção-Geral da Assistência Social aumentados: só em imagem: sem título de anexo no texto atual\nAlterador 25, lugares aumentados no quadro II (tabela B): só em imagem: o quadro II só existe em imagem\nAlterador 27, lugares acrescentados e abatidos ao quadro X: só em imagem: sem título de anexo no texto atual\nAlterador 28, lugares criados no quadro IX: só em imagem: o quadro IX só existe em imagem\nAlterador 29, quadro (tabela A) do Gabinete de Estudos e Planeamento substituído: só em imagem: sem título de anexo no texto atual\nAlterador 30, quadros IV e V substituídos e equiparações de cargos: só em imagem: sem título de anexo no texto atual\nAlterador 31, quadro da Direcção-Geral de Saúde alargado: só em imagem: sem título de anexo no texto atual\nAlterador 32, lugar de assessor criado no quadro do Gabinete de Estudos e Planeamento: só em imagem: sem título de anexo no texto atual\nAlterador 33, art. 40.º, extinção da Direcção-Geral de Saúde: não textual\nAlterador 36, quadros do Instituto Nacional de Saúde alterados: só em imagem: sem título de anexo no texto atual",
+  "nao_aplicavel": "Alterador 1, rectificação do preâmbulo, n.º 1: alvo incerto: o preâmbulo não está no texto atual.\nAlterador 1, quadro VI, coluna das observações «(o)» por «(c)»: só em imagem: o quadro VI só existe em imagem e não tem título de anexo.\nAlterador 1, quadro X, linhas do agente sanitário de 1.ª classe e do contínuo de 1.ª classe e observação (e): só em imagem: o quadro X e as suas observações só existem em imagem e não têm título de anexo.\nAlterador 2, categorias acrescentadas ao quadro tipo anexo ao Estatuto Hospitalar: outro diploma.\nAlterador 3, artigo 4.º (artigos 7.º e 29.º do Decreto-Lei n.º 414/71): outro diploma.\nAlterador 3, artigo 5.º, quadros II, VI, VIII, IX e X substituídos (e nota): só em imagem: os quadros só vêm em imagem e não há título de anexo no texto atual.\nAlterador 4, artigo 15.º, n.º 3 (alteração do quadro VI por inerência): não textual.\nAlterador 5, quadro VI modificado: só em imagem.\nAlterador 6, artigo 1.º (delegação dos poderes dos artigos 81.º e 82.º): não textual.\nAlterador 7, prorrogação do período de instalação (artigo 79.º, n.º 2): não textual.\nAlterador 8, quadro VIII alterado: só em imagem.\nAlterador 9, extinção dos Serviços de Inspecção do artigo 14.º e de lugares do quadro II-B: não textual (extinção de serviços, sem revogar nem alterar o texto; o artigo 14.º veio a ser revogado pelo alterador 37).\nAlterador 10, Escola Nacional de Saúde Pública deixa de ser sector do Instituto: não textual.\nAlterador 11, entrada em vigor da tabela B do quadro X: não textual.\nAlterador 12, quadro VIII alterado: só em imagem.\nAlterador 13, quadros VI e X alterados: só em imagem.\nAlterador 14, quadro X (lugares abatidos e acrescidos): só em imagem; artigos 38.º e 39.º e mapa II do Decreto-Lei n.º 414/71: outro diploma.\nAlterador 15, quadro VIII (pessoal de enfermagem): só em imagem.\nAlterador 16, quadro II (tabela B) alterado: só em imagem.\nAlterador 18, quadro X e mapa I alterados: só em imagem; artigos 7.º e 8.º do Decreto-Lei n.º 414/71: outro diploma.\nAlterador 19, quadro VIII alterado: só em imagem.\nAlterador 20, letra do chefe de secretaria do quadro III: não textual.\nAlterador 21, artigo 63.º, n.º 1, alínea a) (revogação dos artigos 50.º a 53.º, 57.º, partes dos artigos 8.º, 54.º, 55.º, 56.º, 59.º e 76.º): efeito adiado: o n.º 2 diz que a norma só produz efeitos à medida que forem publicadas as portarias do artigo 57.º; artigos 57.º e 60.º (regime de instalação e funções das autoridades sanitárias): não textual.\nAlterador 22, artigo 39.º (extinção da Direcção-Geral de Saúde): não textual.\nAlterador 23, artigo 31.º, n.º 1, alínea a) (revogação dos artigos 49.º, 50.º, 57.º, 58.º, 60.º, 91.º e partes dos artigos 54.º, 55.º, 56.º e 59.º): efeito adiado: o n.º 2 diz que produz efeitos à medida que forem publicadas as portarias do artigo 29.º.\nAlterador 24, quadros da Secretaria-Geral e da Direcção-Geral da Assistência Social aumentados: só em imagem.\nAlterador 25, quadro II (tabela B) aumentado em lugares: alvo incerto: o quadro II só existe em imagem e não tem título de anexo no texto atual.\nAlterador 27, quadro X (lugares acrescentados e abatidos): só em imagem.\nAlterador 28, lugares criados no quadro IX: alvo incerto: o quadro IX só existe em imagem e não tem título de anexo no texto atual.\nAlterador 29, quadro (tabela A) do Gabinete de Estudos e Planeamento substituído: só em imagem.\nAlterador 30, quadros IV e V substituídos: sem texto: os anexos I e II da portaria não vêm no alterador.\nAlterador 31, quadro da Direcção-Geral de Saúde alargado: só em imagem.\nAlterador 32, lugar de assessor criado no quadro do Gabinete de Estudos e Planeamento: alvo incerto: o quadro só existe em imagem e não tem título de anexo no texto atual.\nAlterador 33, artigo 40.º (extinção da Direcção-Geral de Saúde): não textual.\nAlterador 36, quadros do Instituto Nacional de Saúde alterados: só em imagem.\nAlterador 38, orientação do ensino de enfermagem passa ao Departamento de Recursos Humanos: não textual.",
   "instrucoes": [
-    "Alterador 1 (rectificação): art. 49.º, n.º 2, art. 51.º (epígrafe), art. 71.º, n.º 5, art. 74.º, n.º 8, epígrafe da subsecção I («Órgãos coordenadores») e «Capítulo VII» passa a «Capítulo VI» aplicados; art. 97.º, alínea o), já estava aplicada pelo programa; nota do quadro VII corrigida no art. 98.º, de onde saiu a linha que o programa tinha posto depois do n.º 4; as rectificações aos arts. 12.º, 14.º, 17.º, 25.º, 33.º, 34.º, 36.º e 81.º ficam sem efeito porque esses artigos são depois revogados",
-    "Alterador 2: altera o quadro tipo do Estatuto Hospitalar, não o original",
-    "Alterador 3 (DL 331/72): arts. 52.º, 61.º, n.º 2, 64.º, n.º 3, 66.º, n.os 4 e 7, 70.º, n.os 1 e 2, 86.º, n.º 1, 91.º, n.º 1, 92.º, n.º 1, 97.º, n.º 1, alíneas c), f), i), k), n) e o), aditados 11.º, n.º 6, 65.º, n.º 6, 70.º, n.º 4; alterações aos arts. 12.º, 16.º, 17.º, 18.º, 32.º, 33.º, 34.º, 44.º, n.º 1, b), e 59.º aplicadas mas depois absorvidas pelas revogações (44.º mantém a nova alínea b)); quadros em imagem não aplicados",
-    "Alteradores 4, 5, 8, 12-16, 18-20, 24, 25, 27-32, 36: alterações a quadros em imagem, sem título de anexo: nao_aplicavel",
-    "Alterador 6 (DL 515/74): nova redacção do art. 81.º, n.º 4, absorvida pela revogação do art. 81.º (alterador 43)",
-    "Alterador 7: prorrogação, não textual",
-    "Alterador 9: extinção dos Serviços de Inspecção (não textual; art. 14.º revogado depois)",
-    "Alteradores 10, 11: sem alteração ao texto",
-    "Alterador 17 (Portaria 18/78): anotação acrescentada ao quadro X, no corpo do art. 98.º, depois das notas desse quadro",
-    "Alterador 18: art. 59.º, n.º 3, nova redacção, absorvida pela revogação do art. 59.º (alterador 33)",
-    "Alteradores 21 e 23: revogações com efeito adiado até às portarias: nao_aplicavel",
-    "Alterador 22 (DL 530/79): revogados a alínea a) do n.º 5 do art. 11.º e o n.º 2 do art. 27.º; revogação dos arts. 30.º, 32.º, 35.º e de partes dos arts. 31.º e 36.º absorvida pela do alterador 33",
-    "Alterador 26 (DL 20/80): revogado o n.º 5 do art. 44.º",
-    "Alterador 33 (DL 74-C/84): revogados os arts. 30.º a 36.º e 57.º a 59.º (e de novo 11.º, n.º 5, a), e 27.º, n.º 2)",
-    "Alterador 34 (DL 91/84): art. 81.º, n.º 3, absorvido pela revogação do art. 81.º",
-    "Alterador 35 (DL 103-A/84): revogada a alínea e) do n.º 1 do art. 22.º, absorvida pela revogação do art. 22.º (alterador 41)",
-    "Alterador 37 (DL 210/87): revogados os arts. 12.º a 18.º",
-    "Alterador 38: sem alteração ao texto do original",
-    "Alterador 39 (DL 394/89): revogação parcial do art. 39.º, n.º 6, absorvida pela revogação do art. 39.º (alterador 42)",
-    "Alterador 40 (DL 13/93): revogação de 37.º, n.º 1, e) e 40.º, n.º 1, d), absorvida pela revogação dos arts. 37.º a 41.º",
-    "Alterador 41 (DL 307/93): revogados os arts. 21.º a 26.º",
-    "Alterador 42 (DL 345/93): revogados os arts. 37.º a 41.º",
-    "Alterador 43 (DL 215/97): revogados os arts. 79.º a 85.º"
+    "Alterador 1 (rectificação): artigo 49.º, n.º 2, substituído pelo texto rectificado; epígrafe do 51.º passa a «Constituição das inspecções coordenadoras»; título da subsecção I passa a «Órgãos coordenadores»; «CAPÍTULO VII» passa a «CAPÍTULO VI»; 71.º, n.º 5, «artigo 63.º» por «artigo 65.º»; 74.º, n.º 8, «nas alíneas b) e c)» por «na alínea b)»; 97.º, alínea o), rectificada (depois substituída pelo alterador 3); nota do quadro VII no corpo do 98.º rectificada («o restante pessoal auxiliar» por «o pessoal auxiliar»). As rectificações dos artigos 12.º, 14.º, 17.º, 25.º, 33.º, 34.º, 36.º e 81.º ficam sem efeito porque estes artigos vieram a ser revogados.",
+    "98.º: o programa tinha acrescentado a nota rectificada do quadro VII como parágrafo novo a seguir ao n.º 4 e deixado a nota antiga; reposto o texto original e substituída a nota no lugar dela.",
+    "Alterador 3 (DL 331/72), artigo 1.º: novas redações do 44.º, n.º 1, alínea b), 52.º (epígrafe «Funcionamento» e corpo), 61.º, n.º 2, 64.º, n.º 3, 66.º, n.os 4 e 7, 70.º, n.os 1 e 2, 86.º, n.º 1, 91.º, n.º 1, 92.º, n.º 1, 97.º, n.º 1, alíneas c), f), i), k), n) e o); as de 12.º, 17.º, 18.º, 33.º, 34.º e 59.º ficam absorvidas pelas revogações posteriores.",
+    "Alterador 3, artigo 2.º: aditados 11.º, n.º 6, 65.º, n.º 6, e 70.º, n.º 4; os aditamentos ao 16.º, 32.º e 34.º ficam absorvidos pelas revogações posteriores.",
+    "Alterador 6, artigo 2.º (81.º, n.º 4) e alterador 34 (81.º, n.º 3): absorvidos pela revogação do 81.º pelo alterador 43.",
+    "Alterador 17 (Portaria 18/78): anotação acrescentada ao quadro X, a seguir às notas desse quadro no corpo do 98.º (texto do quadro, que não tem título de anexo).",
+    "Alterador 18, artigo 2.º (59.º, n.º 3): absorvido pela revogação do 59.º pelo alterador 33.",
+    "Alterador 22 (DL 530/79), artigo 51.º: revogados 30.º, 32.º e 35.º, alínea a) do n.º 5 do 11.º e n.º 2 do 27.º (as partes do 31.º e do 36.º ficam absorvidas pela revogação total pelo alterador 33).",
+    "Alterador 26 (DL 20/80): revogado o n.º 5 do 44.º.",
+    "Alterador 33 (DL 74-C/84), artigo 47.º: revogados 31.º, 33.º, 34.º, 36.º, 57.º, 58.º e 59.º (e de novo 11.º, n.º 5, a), 27.º, n.º 2, 30.º, 32.º e 35.º).",
+    "Alterador 35 (DL 103-A/84): alínea e) do n.º 1 do 22.º, absorvida pela revogação dos artigos 21.º a 26.º pelo alterador 41.",
+    "Alterador 37 (DL 210/87): revogados 12.º a 18.º.",
+    "Alterador 39 (DL 394/89): n.º 6 do 39.º revogado na parte da Inspecção Técnica de Acção Social; absorvido pela revogação dos artigos 37.º a 41.º pelo alterador 42.",
+    "Alterador 40 (DL 13/93): alínea e) do n.º 1 do 37.º e alínea d) do n.º 1 do 40.º, absorvidas pela revogação pelo alterador 42.",
+    "Alterador 41 (DL 307/93): revogados 21.º a 26.º.",
+    "Alterador 42 (DL 345/93): revogados 37.º a 41.º.",
+    "Alterador 43 (DL 215/97): revogados 79.º a 85.º.",
+    "Reparos: 49.º, 71.º e 74.º conferidos; o parágrafo é a rectificação aplicada ao texto atual (a parte rectificada vem da rectificação, o resto do texto atual), e as revogações que os atingiriam (alteradores 21 e 23) têm efeito adiado; quadro X da Portaria 18/78 aplicado no corpo do 98.º."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "ronda_camada1": 116,
+  "ronda_camada1": 117,
   "problemas": [
     "49.º: parágrafo que não está no alterador nem no original: 2. Os serviços locais a que se refere o número anterior são os centros de saúde,",
     "71.º: parágrafo que não está no alterador nem no original: 5. As colocações de pessoal que mude de categoria por motivo de revisão de quadr",

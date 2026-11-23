@@ -1,0 +1,46 @@
+[
+ {
+  "id": "pt:dre:173758:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "Lei n.º 34/2015, art. 5.º, al. u): revoga o artigo 4.º do DL 189/2002; consolidado mantém epígrafe e corpo (Revogado.).",
+    "texto_esperado": "(Revogado.)"
+   },
+   {
+    "artigo": "CAPÍTULO VII",
+    "veredicto": "errado",
+    "motivo": "Epígrafe correta (DL 110/2015, art. 3.º, n.º 1, al. a): Funções do IMT), mas a Base XXIV ficou com a redação original (IEP, «poderão ser executados», «Lei»). DL 44-G/2010 (art. 1.º) e DL 110/2015 (art. 1.º) substituem-na; a redação final é a do DL 110/2015.",
+    "texto_esperado": "### CAPÍTULO VII — Funções do IMT\n\nBase XXIV\n\nIMT\n\nSem prejuízo dos poderes cometidos a outras entidades, sempre que no Contrato de Concessão se atribuam poderes ou se preveja o exercício de faculdades pelo Concedente, tais poderes e tal exercício são executados pelo IMT, salvo quando o contrário decorrer do Contrato de Concessão ou de disposição normativa."
+   },
+   {
+    "artigo": "CAPÍTULO X",
+    "veredicto": "errado",
+    "motivo": "Só a epígrafe foi alterada (correta: DL 110/2015, art. 3.º, n.º 1, al. b). As bases XLV, XLVI, XLVII, XLVIII, XLIX e L ficaram com o texto original, sem as redações do DL 44-G/2010 (art. 1.º) e do DL 110/2015 (art. 1.º) nem as revogações do DL 110/2015 (art. 5.º: base XLV n.os 6, 7 e als. d) e l) do n.º 8; base XLVIII n.os 2 e 3; base L al. f) do n.º 4 e n.º 5). Faltam também a Base LI-A (aditada pelo DL 44-G/2010, art. 2.º, na redação do DL 110/2015, com n.os 2 e 3 revogados) a seguir à Base LI, e ainda as menções IEP (bases XLV n.º 5, XLVII, XLVIII, LI) que as novas redações eliminam. Ex.: Base XLV n.º 1 deve começar «A Concessionária deve manter a Autoestrada, bem como os demais bens que integram ou estejam afetos à Concessão, em funcionamento ininterrupto e permanente...»; n.º 5 «são verificados pelo Concedente».",
+    "texto_esperado": "Aplicar às bases XLV a L (e LI-A) do original, por esta ordem, o art. 1.º e o art. 2.º do DL 44-G/2010 e depois o art. 1.º, o art. 2.º e o art. 5.º do DL 110/2015, com o texto original no lugar de cada «...»/«[...]»; epígrafe: Pagamentos pela disponibilidade da Autoestrada e partilha de benefícios."
+   }
+  ],
+  "instrucoes_em_falta": [
+   "DL 44-G/2010 art. 1.º: nova redação das bases XXIV, XLV, XLVI, XLVII, XLVIII, XLIX e L (presentes no consolidado nos capítulos VII e X; não aplicada)",
+   "DL 44-G/2010 art. 2.º: aditamento da Base LI-A (a seguir à Base LI, capítulo X; alvo visível no consolidado; não aplicado)",
+   "DL 110/2015 art. 1.º: nova redação das bases XXIV, XLV, XLVII, XLVIII, L e LI-A (não aplicada)",
+   "DL 110/2015 art. 5.º: revogação base XLV n.os 6 e 7 e als. d) e l) do n.º 8; base XLVIII n.os 2 e 3; base L al. f) do n.º 4 e n.º 5; base LI-A n.os 2 e 3 (não aplicada)",
+   "DL 110/2015 art. 6.º, n.º 2: onde se lê «InIR» deve ler-se «IMT» (menções IEP/InIR por tratar nas bases presentes)",
+   "DL 19/2007 art. 2.º e art. 4.º; DL 44-G/2010 art. 1.º (restantes bases) e arts. 2.º/3.º (bases XIX-A, LVII-A a LVII-BB, LXV-A, LXXXVII-A; epígrafes dos capítulos XVII, XXI, X-A, secções e subsecções); DL 110/2015 art. 1.º (restantes bases), art. 2.º (bases XXXIV-A, LIV-A, LVII-UA, LXV-B a LXV-E, LXXXVI-A, LXXXVII-B), art. 3.º n.os 2 a 4 (secções, subsecções, capítulo XXII-A), art. 5.º (restantes revogações): alvo incerto — as bases/capítulos correspondentes não são visíveis na vista (blocos «iguais» não mostrados), e a ausência no consolidado não é justificação"
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 44-G/2010 art. 6.º e DL 110/2015 art. 6.º, n.º 1: republicação das bases em anexo",
+    "motivo": "o texto republicado não vem nos diplomas que alteram; a instrução não é textual"
+   },
+   {
+    "instrucao": "DL 19/2007 art. 3.º: autorização de outorga do primeiro aditamento",
+    "motivo": "não é textual (autorização)"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

@@ -43,13 +43,14 @@ version_history:
     changes: []
   - date: '2022-02-18'
     amending: pt:dre:3117665:por
-    amending_title: Despacho Conjunto n.º 624/2005; Despacho n.º 2132/2022
+    amending_title: Despacho Conjunto n.º 624/2005; Despacho n.º 2132/2022; Despacho n.º 5714/2015
     changes:
     - Adita Artigo depois da unidade 38
     - Altera Artigo unidades 39-53
     - Altera Artigo unidades 55-55
     - Adita Artigo depois da unidade 57
     - Altera Artigo unidades 59-59
+    - Revoga anexo ou texto fora do articulado
 identifiers:
   celex: null
   eli: null
@@ -76,7 +77,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-26T16:05:48Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Conjunto n.º 624/2005; Despacho
-    n.º 2132/2022. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/serie-ii/outros/despacho-conjunto/2000/despacho-conjunto-530-2000.alteracoes.json'
+    n.º 2132/2022. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/serie-ii/outros/despacho-conjunto/2000/despacho-conjunto-530-2000.alteracoes.json.
+    Revogações registadas só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Despacho
+    n.º 5714/2015.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -247,7 +250,9 @@ d) Transporte e destruição das carcaças.
 
 > Aditado pelo/a [Despacho n.º 2132/2022](https://diariodarepublica.pt/dr/detalhe/despacho/2132-2022-179323588), publicado em 2022-02-18.
 
-7.º O Instituto Nacional de Intervenção e Garantia Agrícola (INGA) procederá à transferência para as DRA das verbas necessárias à execução das medidas estabelecidas no n.º 2.7 do n.º 2.º, com excepção dos custos relativos às indemnizações.
+7.º - (Revogado.)
+
+> Revogado pelo/a [Despacho n.º 5714/2015](https://diariodarepublica.pt/dr/detalhe/despacho/5714-2015-67332469), publicado em 2015-05-29, com efeitos a partir de 2014-01-01.
 
 8.º - (Revogado.)
 

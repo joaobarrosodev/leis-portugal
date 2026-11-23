@@ -73,6 +73,12 @@
      "title": "Portaria n.º 228/2011",
      "published": "2011-06-09",
      "dre_path": "/dr/detalhe/portaria/228-2011-670056"
+    },
+    {
+     "id": "pt:dre:498497:por",
+     "title": "Portaria n.º 253/2013",
+     "published": "2013-08-07",
+     "dre_path": "/dr/detalhe/portaria/253-2013-498497"
     }
    ],
    "changes": [
@@ -88,7 +94,8 @@
     "Altera Artigo ANEXO::15.º",
     "Altera Artigo ANEXO::16.º",
     "Altera Artigo ANEXO::19.º",
-    "Revoga Artigo ANEXO::25.º"
+    "Revoga Artigo ANEXO::25.º",
+    "Revoga anexo ou texto fora do articulado"
    ],
    "fragments": [
     "7c0ef81a2445353b",
@@ -125,7 +132,7 @@
     "7fe79aae8f74b9bc",
     "3665cea039515971",
     "1e9663c11d1cf66a",
-    "175d3e31a8598bf0",
+    "6348db772b66e96b",
     "dcd3004406cf4707",
     "027261950c5895ec",
     "41cf998717a4b9c6",
@@ -575,6 +582,16 @@
     "Revogado pelo/a [Portaria n.º 814/2010](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), publicado em 2010-08-27."
    ],
    "markdown": "###### Artigo 25.º — Disposição transitória\n\n(Revogado.)\n\n> Revogado pelo/a [Portaria n.º 814/2010](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), publicado em 2010-08-27."
+  },
+  "6348db772b66e96b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO II — Despesas elegíveis e não elegíveis",
+   "in_force_from": "2011-06-14",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 253/2013](https://diariodarepublica.pt/dr/detalhe/portaria/253-2013-498497), publicado em 2013-08-07, com efeitos a partir de 2010-08-28."
+   ],
+   "markdown": "## ANEXO II — Despesas elegíveis e não elegíveis\n\n(a que se refere o artigo 8.º)\n\nDespesas elegíveis\n\nFormação profissional - custos com acções de formação profissional específicas dos activos que desenvolvam a sua actividade no âmbito do projecto, nomeadamente os custos associados a inscrição, matrícula e propina em acções de formação não financiadas por outras medidas do PRODER ou não financiadas pelo FSE.\n\nLimites às elegibilidades - os indicadores de custo unitário, por hora e por formando, em matéria de formação de iniciativa individual e de participações individuais, estão definidos na Portaria n.º 596-D/2008.\n\nInvestimentos materiais:\n\n1 - Edifícios - construção, aquisição (incluindo a locação financeira) ou melhoramento, designadamente:\n\n1.1 - Vedação e preparação de terrenos;\n\n1.2 - Edifícios e outras construções directamente ligados às actividades a desenvolver, incluindo vias de acesso, quando servirem e se localizarem junto da unidade e forem da exclusiva titularidade do beneficiário;\n\n1.3 - Adaptação de instalações existentes relacionada com a execução do investimento;\n\n1.4 - Edifícios e outras construções afectos a investimentos para a valorização de subprodutos e resíduos, nomeadamente através da valorização energética.\n\n2 - Máquinas e equipamentos - compra ou locação-compra de novas, designadamente:\n\n2.1 - Máquinas e equipamentos novos, incluindo equipamentos informáticos, equipamentos de telecomunicações, de laboratório, de salas de conferência e de instalações para exposição (não para venda) dos produtos dentro da área de implantação das unidades;\n\n2.2 - Equipamentos de transporte interno e de movimentação de cargas;\n\n2.3 - Caixas isotérmicas, grupos de frio e cisternas de transporte e meios de transporte externo, estes últimos apenas quando são utilizados exclusivamente na recolha e transporte de leite até às unidades de transformação;\n\n2.4 - Equipamentos de laboratório e de controlo da qualidade;\n\n2.5 - Equipamentos não directamente produtivos, relacionados com o investimento;\n\n2.6 - Equipamentos visando a valorização dos subprodutos e resíduos, nomeadamente através da valorização energética;\n\n2.7 - Automatização de equipamentos já existentes e utilizados há mais de dois anos;\n\n2.8 - Equipamentos sociais obrigatórios por determinação da lei.\n\nInvestimentos imateriais (associados a investimento material):\n\n3 - Programas informáticos - aquisição.\n\n4 - Processos de certificação reconhecidos.\n\n5 - Despesas gerais - estudos técnico-económicos, honorários de arquitectos, engenheiros e consultores, aquisição de patentes, licenças, concepção e realização de protótipos e moldes, nomeadamente de embalagens, e seguros de construção e de incêndio, até 15 % do valor elegível aprovado das restantes despesas.\n\nLimites às elegibilidades - quando houver componentes de investimento comuns a investimentos excluídos e a investimentos elegíveis, as despesas elegíveis são calculadas proporcionalmente em função do peso das quantidades/valores das matérias-primas/produtos de base afectos aos investimentos elegíveis nos correspondentes totais utilizados.\n\nDespesas não elegíveis\n\nInvestimentos materiais:\n\n6 - Bens de equipamento em estado de uso - aquisição.\n\n7 - Terrenos - aquisição.\n\n8 - Aquisição de prédios urbanos, sem estarem completamente abandonados.\n\n9 - Obras provisórias - sem estarem directamente ligadas à execução da operação.\n\n10 - Instalações e equipamentos financiados através de contratos de locação financeira ou de aluguer de longa duração - quando não for exercida a opção de compra ou a duração desses contratos não for compatível com o prazo para apresentação do último pedido de pagamento.\n\n11 - Meios de transporte externo - excepto os previstos no n.º 2.3.\n\n12 - Equipamento de escritório e outro mobiliário - fotocopiadoras, máquinas de escrever, máquinas de calcular, armários, cadeiras, sofás, cortinas, tapetes, etc., excepto os previstos nos n.os 2.1 e 2.8.\n\n13 - Trabalhos de reparação e de manutenção.\n\n14 - Substituição de equipamentos - com excepção de equipamentos diferentes, quer na tecnologia utilizada quer na capacidade absoluta ou horária.\n\n15 - Trabalhos de arquitectura paisagística, equipamentos de recreio, arranjos de espaços verdes, televisões, bares, áreas associadas à restauração, etc., excepto os previstos no n.º 2.8.\n\n16 - Investimentos directamente associados à produção agrícola, com excepção das máquinas de colheita, quando associadas a outros investimentos.\n\nInvestimentos imateriais e outros:\n\n17 - Despesas de constituição, de concursos, de promoção de marcas e mensagens publicitárias.\n\n18 - Juros durante a realização do investimento e fundo de maneio.\n\n19 - Custos relacionados com contratos de locação financeira como a margem do locador, os custos do refinanciamento dos juros, as despesas gerais e os prémios de seguro.\n\n20 - Despesas de pré-financiamento e de preparação de processos de contratação de empréstimos bancários e quaisquer outros encargos inerentes a financiamentos.\n\n21 - Indemnizações pagas pelo beneficiário a terceiros por expropriação, por frutos pendentes ou em situações equivalentes.\n\n22 - Honorários de arquitectura paisagística.\n\n23 - Despesas notariais, de registos, imposto municipal sobre as transmissões onerosas de imóveis (compras de terrenos e de prédios urbanos).\n\nOutros investimentos materiais e imateriais:\n\na) Contribuições em espécie;\n\nb) Investimentos excluídos definidos no artigo 24.º;\n\nc) (Revogada.)\n\n> Revogado pelo/a [Portaria n.º 253/2013](https://diariodarepublica.pt/dr/detalhe/portaria/253-2013-498497), publicado em 2013-08-07, com efeitos a partir de 2010-08-28.\n\nd) Bens cuja amortização a legislação fiscal permita ser efectuada num único ano. Considera-se, que as caixas e paletas têm uma duração de vida superior a 1 ano, sendo elegíveis na condição de se tratar de uma primeira aquisição ou de uma aquisição suplementar proporcional ao aumento de capacidade projectada, não podendo ser vendidas conjuntamente com a mercadoria;\n\ne) Despesas com pessoal, inerentes à execução da operação, quando esta seja efectuada por administração directa e sem recurso a meios humanos excepcionais e temporários."
   }
  }
 }
