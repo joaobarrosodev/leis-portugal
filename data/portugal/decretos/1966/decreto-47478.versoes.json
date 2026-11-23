@@ -105,6 +105,24 @@
      "title": "Decreto Regulamentar n.º 32/90",
      "published": "1990-09-24",
      "dre_path": "/dr/detalhe/decreto-regulamentar/32-1990-554867"
+    },
+    {
+     "id": "pt:dre:311007:por",
+     "title": "Decreto-Lei n.º 78/83",
+     "published": "1983-02-09",
+     "dre_path": "/dr/detalhe/decreto-lei/78-1983-311007"
+    },
+    {
+     "id": "pt:dre:666295:por",
+     "title": "Decreto Regulamentar n.º 27/87",
+     "published": "1987-04-15",
+     "dre_path": "/dr/detalhe/decreto-regulamentar/27-1987-666295"
+    },
+    {
+     "id": "pt:dre:442483:por",
+     "title": "Decreto-Lei n.º 34-A/89",
+     "published": "1989-01-31",
+     "dre_path": "/dr/detalhe/decreto-lei/34-a-1989-442483"
     }
    ],
    "changes": [
@@ -127,7 +145,22 @@
     "Altera Artigo 113.º",
     "Altera Artigo 145.º",
     "Altera Artigo 162.º",
-    "Altera Artigo 163.º"
+    "Altera Artigo 163.º",
+    "Revoga Artigo 181",
+    "Revoga Artigo 31",
+    "Revoga Artigo 32",
+    "Revoga Artigo 33",
+    "Revoga Artigo 34",
+    "Revoga Artigo 81",
+    "Revoga Artigo 82",
+    "Revoga Artigo 83",
+    "Revoga Artigo 84",
+    "Revoga Artigo 85",
+    "Revoga Artigo 86",
+    "Revoga Artigo 87",
+    "Revoga Artigo 88",
+    "Revoga Artigo 89",
+    "Revoga Artigo 90"
    ],
    "fragments": [
     "561ee5f7cad7bc9a",
@@ -172,10 +205,10 @@
     "e3f1d225c1a402fe",
     "41b4db7a3d0bf7f8",
     "23e0f12b33613201",
-    "b7521bbdcfcf1155",
-    "e145d9263ce4bab1",
-    "b743b4413feda4c5",
-    "6df9bf9fe16b7d50",
+    "63966ed483c381e2",
+    "f67674e4f4963c26",
+    "a0156539846947ca",
+    "9ac1a3b79a22d95c",
     "a50dae4fba82d627",
     "2a7c7d16ab349cc5",
     "e7a78faebd7bcf8d",
@@ -234,16 +267,16 @@
     "f6852e46b7be7f8c",
     "ff6e7009f670e3dc",
     "e759d517d600a46d",
-    "6b2fbd36c9a93dcc",
-    "b8b9341bff5d21e3",
-    "11ba497ff10b9d74",
-    "ea87d48735aeed6d",
-    "5c61075977dda4ff",
-    "678d79a4640b2fd7",
-    "59ede6c1fef397ad",
-    "69ea1feee989d0bd",
-    "98b8b209920ea2c1",
-    "5392127c628a5a69",
+    "332a875f11298a21",
+    "10d77f958fc37b3b",
+    "17680d805dc0402e",
+    "73395e9ebb165f6f",
+    "bee640fe66c86681",
+    "a54755bf92f6d15b",
+    "0d2948dc8682f19b",
+    "d1f4f5f4d7f16872",
+    "34c096b92e72dd15",
+    "5a705a9bd012d69d",
     "9a1a2e3897ec4caf",
     "8f312837168ec89c",
     "38ee55ef512c8bfb",
@@ -355,7 +388,7 @@
     "bde016523f5996fd",
     "ba0fdd4d09a4a78d",
     "c75ebbaa3f54a2e9",
-    "411f842574538fc1",
+    "f29b9fa65c17c429",
     "14b6bf985c17a34a",
     "d0a6799fe33f82a4",
     "56a0389212778f64",
@@ -1063,17 +1096,18 @@
    "changed_by": [],
    "markdown": "##### DIVISÃO V — Conselhos e comissões que funcionam na Secretaria de Estado"
   },
-  "b7521bbdcfcf1155": {
+  "63966ed483c381e2": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 31.º",
    "in_force_from": "1990-09-29",
    "changed_by": [
-    "Alterado pelo/a [Decreto n.º 149/76](https://diariodarepublica.pt/dr/detalhe/decreto/149-1976-507591), publicado em 1976-02-20."
+    "Alterado pelo/a [Decreto n.º 149/76](https://diariodarepublica.pt/dr/detalhe/decreto/149-1976-507591), publicado em 1976-02-20.",
+    "Revogado pelo/a [Decreto Regulamentar n.º 27/87](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/27-1987-666295), publicado em 1987-04-15, com efeitos a partir de 1987-04-20."
    ],
-   "markdown": "###### Artigo 31.º\n\nO conselho do Ministério é presidido pelo secretário-geral e constituído pelos directores-gerais, pelo inspector diplomático e consular, por doze representantes dos funcionários do serviço diplomático, por doze representantes do pessoal do quadro administrativo, por seis representantes do quadro do pessoal auxiliar ou por seis representantes do restante pessoal, eleitos por um período de dezoito meses, que participarão nas reuniões de acordo com o estipulado nos parágrafos 6.º a 8.º deste artigo.\n\n§ 1.º Os doze representantes do pessoal do serviço diplomático serão um ministro plenipotenciário de 1.ª classe, dois ministros plenipotenciários de 2.ª classe, dois conselheiros de embaixada, dois primeiros-secretários, dois segundos-secretários e três terceiros-secretários ou adidos de embaixada, eleitos para o efeito, respectivamente, pelos funcionários de cada uma daquelas categorias.\n\n§ 2.º Os doze representantes do pessoal do quadro administrativo serão dois chefes de secção, dois primeiros-oficiais, dois segundos-oficiais e dois terceiros-oficiais, três escriturários-dactilógrafos e uma telefonista, eleitos para o efeito, respectivamente, pelos funcionários de cada uma daquelas categorias.\n\n§ 3.º Os seis representantes do quadro do pessoal auxiliar serão eleitos para o efeito pelos funcionários daquele quadro.\n\n§ 4.º Os seis representantes do restante pessoal serão eleitos, para o efeito, por aquele pessoal de entre os funcionários do sector, devendo dois deles, pelo menos, ser escolhidos de entre os funcionários dos quadros do pessoal adjunto e do pessoal especializado.\n\n§ 5.º Só serão elegíveis unidades do pessoal colocado na Secretaria de Estado, devendo os representantes do quadro do serviço diplomático, além de satisfazerem aquela condição, pertencer aos quadros.\n\n§ 6.º Os representantes dos funcionários do serviço diplomático participarão apenas nas reuniões do conselho convocadas para apreciação das matérias referidas nos n.os 1), 6), 7) e 9) do artigo seguinte ou dos assuntos mencionados nos restantes números do mesmo artigo quando respeitem a funcionários daquele serviço.\n\n§ 7.º Os representantes dos funcionários dos quadros administrativo e auxiliar participarão apenas nas reuniões do conselho convocadas para apreciação dos assuntos referidos nos n.os 2), 3), 4), 5), 7), 8) e 9) do artigo seguinte quando respeitem a funcionários do mesmo quadro ou a serviços em que eles participem directamente.\n\n§ 8.º Os representantes do restante pessoal participarão apenas nas reuniões do conselho convocadas para apreciação dos assuntos referidos nos n.os 4), 5) e 7) do artigo seguinte quando respeitem àquele mesmo pessoal.\n\n> Alterado pelo/a [Decreto n.º 149/76](https://diariodarepublica.pt/dr/detalhe/decreto/149-1976-507591), publicado em 1976-02-20."
+   "markdown": "###### Artigo 31.º\n\n(Revogado.)\n\n> Alterado pelo/a [Decreto n.º 149/76](https://diariodarepublica.pt/dr/detalhe/decreto/149-1976-507591), publicado em 1976-02-20.\n\n> Revogado pelo/a [Decreto Regulamentar n.º 27/87](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/27-1987-666295), publicado em 1987-04-15, com efeitos a partir de 1987-04-20."
   },
-  "e145d9263ce4bab1": {
+  "f67674e4f4963c26": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 32.º",
@@ -1081,9 +1115,9 @@
    "changed_by": [
     "Alterado pelo/a [Decreto Regulamentar n.º 59/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/59-1979-364903), publicado em 1979-10-13."
    ],
-   "markdown": "###### Artigo 32.º\n\nCompete ao conselho do Ministério:\n\n1) Apreciar a aptidão dos adidos de embaixada para efeitos de ingresso definitivo no serviço diplomático;\n\n2) Ordenar os funcionários do serviço diplomático até à categoria de ministro plenipotenciário de 2.ª classe, inclusive, e os funcionários dos quadros administrativos e auxiliares, sempre que se verifique alguma vaga a preencher por promoção não dependente de concurso;\n\n3) Propor a colocação e transferência dos funcionários do serviço diplomático, com excepção dos chefes de missão diplomática ou de postos consulares em países em que não haja representação diplomática, e dos titulares dos cargos de direcção na Secretaria de Estado, assim como dos funcionários dos quadros administrativo e auxiliar, atendendo para o efeito às suas aptidões pessoais e profissionais, aos períodos de serviço por eles prestados na Secretaria de Estado e nos serviços externos e ainda à sua passagem pelas diversas classes dos postos;\n\n4) (Revogado.)\n\n5) Examinar as reclamações dos funcionários que se julguem preteridos nos seus direitos e emitir sobre elas pareceres sujeitos a homologação do Ministro;\n\n6) Dar o seu parecer sobre a colocação de funcionários do serviço diplomático na situação de disponibilidade e sobre a sua eventual chamada a serviço;\n\n7) Reunir as informações sobre os diversos serviços do Ministério e propor medidas adequadas à melhoria do seu funcionamento;\n\n8) Propor e dar parecer sobre alterações à Lei Orgânica e ao Regulamento do Ministério e pronunciar-se sobre todos os assuntos submetidos à sua apreciação pelo Ministro, assim como sobre os requerimentos dos funcionários em matéria cuja resolução envolva ponto de doutrina acerca de interpretação da lei;\n\n9) (Revogado.)\n\n> Alterado pelo/a [Decreto Regulamentar n.º 59/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/59-1979-364903), publicado em 1979-10-13."
+   "markdown": "###### Artigo 32.º\n\n(Revogado.)\n\n> Alterado pelo/a [Decreto Regulamentar n.º 59/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/59-1979-364903), publicado em 1979-10-13."
   },
-  "b743b4413feda4c5": {
+  "a0156539846947ca": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 33.º",
@@ -1091,9 +1125,9 @@
    "changed_by": [
     "Alterado pelo/a [Decreto n.º 149/76](https://diariodarepublica.pt/dr/detalhe/decreto/149-1976-507591), publicado em 1976-02-20."
    ],
-   "markdown": "###### Artigo 33.º\n\nO conselho do Ministério deverá reunir-se ordinariamente uma vez por mês e extraordinariamente sempre que for convocado por determinação do Ministro ou do seu presidente, ou a pedido da maioria dos seus membros. Nestes últimos dois casos o Ministro será obrigatoriamente informado da data da reunião do conselho e da respectiva ordem do dia.\n\n> Alterado pelo/a [Decreto n.º 149/76](https://diariodarepublica.pt/dr/detalhe/decreto/149-1976-507591), publicado em 1976-02-20."
+   "markdown": "###### Artigo 33.º\n\n(Revogado.)\n\n> Alterado pelo/a [Decreto n.º 149/76](https://diariodarepublica.pt/dr/detalhe/decreto/149-1976-507591), publicado em 1976-02-20."
   },
-  "6df9bf9fe16b7d50": {
+  "9ac1a3b79a22d95c": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 34.º",
@@ -1101,7 +1135,7 @@
    "changed_by": [
     "Alterado pelo/a [Decreto n.º 149/76](https://diariodarepublica.pt/dr/detalhe/decreto/149-1976-507591), publicado em 1976-02-20."
    ],
-   "markdown": "###### Artigo 34.º\n\nO conselho só poderá reunir se estiver presente a maioria dos seus membros, devendo as deliberações ser tomadas pela maioria absoluta dos membros presentes, quando não for exigido número superior. As deliberações sobre o mérito dos candidatos ao ingresso definitivo no serviço diplomático, sobre o mérito dos funcionários para efeito de ordenação para promoção, assim como sobre colocações e transferências, carecem de aprovação por maioria de dois terços dos membros presentes, no primeiro escrutínio, e por maioria simples, no segundo.\n\n§ 1.º A participação nas reuniões do conselho é obrigatória e na falta ou impedimento de algum dos seus membros efectivos deverão os respectivos substitutos legais ou suplentes substituí-los.\n\n§ 2.º O voto não poderá ser secreto, excepto quando decidido e expressamente solicitado. É obrigatória a participação na votação, não é permitida a abstenção e os membros do conselho poderão fazer registar na acta as suas declarações de voto.\n\n§ 3.º Em caso de empate, o presidente terá voto de qualidade.\n\n§ 4.º As decisões do conselho constam de actas, que serão lidas e assinadas pelos membros presentes e de que serão fornecidas cópias ao Ministro e aos Secretários de Estado.\n\n> Alterado pelo/a [Decreto n.º 149/76](https://diariodarepublica.pt/dr/detalhe/decreto/149-1976-507591), publicado em 1976-02-20."
+   "markdown": "###### Artigo 34.º\n\n(Revogado.)\n\n> Alterado pelo/a [Decreto n.º 149/76](https://diariodarepublica.pt/dr/detalhe/decreto/149-1976-507591), publicado em 1976-02-20."
   },
   "a50dae4fba82d627": {
    "fragment_id": null,
@@ -1547,31 +1581,33 @@
    "changed_by": [],
    "markdown": "#### SECÇÃO I — Admissão e acesso ao quadro diplomático"
   },
-  "6b2fbd36c9a93dcc": {
+  "332a875f11298a21": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 81.º",
-   "in_force_from": null,
-   "changed_by": [],
-   "markdown": "###### Artigo 81.º\n\nA admissão no serviço diplomático depende da aprovação em concurso de provas públicas a que só poderão ser admitidos os cidadãos portugueses originários, do sexo masculino, licenciados em Direito, História, Filosofia, Economia, Finanças ou pelo Instituto Superior de Ciências Sociais e Política Ultramarina, ou ainda diplomados em cursos de escolas superiores estrangeiras que sejam declarados pelo Ministério da Educação Nacional equivalentes a qualquer das referidas licenciaturas e que, além dos requisitos gerais para o provimento em cargos do Estado, possuam condições de virem a pertencer ao serviço diplomático, e que serão apreciadas pelo conselho do Ministério numa prova de apresentação prévia à admissão ao concurso."
+   "in_force_from": "1990-09-29",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 34-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-a-1989-442483), publicado em 1989-01-31, com efeitos a partir de 1989-02-01."
+   ],
+   "markdown": "###### Artigo 81.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 34-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-a-1989-442483), publicado em 1989-01-31, com efeitos a partir de 1989-02-01."
   },
-  "b8b9341bff5d21e3": {
+  "10d77f958fc37b3b": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 82.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 82.º\n\nAs nomeações serão feitas pela ordem da classificação no concurso e segundo as vagas existentes de terceiro-secretário e os nomeados sê-lo-ão com carácter provisório, por dois anos, com o título de adidos de embaixada, contando-se o serviço assim prestado naquele período como sendo prestado para todos os feitos na categoria de terceiro secretário de embaixada. Todos prestarão serviço na Secretaria de Estado durante esses dois anos, repartidos, na medida do possível, pelos diferentes serviços."
+   "markdown": "###### Artigo 82.º\n\n(Revogado.)"
   },
-  "11ba497ff10b9d74": {
+  "17680d805dc0402e": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 83.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 83.º\n\nNo fim de dois anos de serviço efectivo, o conselho do Ministério apreciará as aptidões para o serviço diplomático reveladas pelos adidos de embaixada e proporá ao Ministro os que julgue aptos a ingressar naquele serviço e os que devem ser exonerados sem direito a indemnização. Após livre decisão do Ministro sobre a proposta, os julgados aptos a ingressar no serviço diplomático serão submetidos a exame de línguas francesa e inglesa (redacção e conversação) e se satisfizerem a este exame serão, com a categoria de terceiro-secretário de embaixada, nomeados definitivamente.\n\n§ único. A fim de facilitar o conhecimento de línguas estrangeiras poderá o Ministro autorizar que seja subsidiado o seu ensino."
+   "markdown": "###### Artigo 83.º\n\n(Revogado.)"
   },
-  "ea87d48735aeed6d": {
+  "73395e9ebb165f6f": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 84.º",
@@ -1579,9 +1615,9 @@
    "changed_by": [
     "Alterado pelo/a [Decreto Regulamentar n.º 59/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/59-1979-364903), publicado em 1979-10-13."
    ],
-   "markdown": "###### Artigo 84.º\n\nA partir do ingresso no serviço diplomático, as promoções até à categoria de primeiro-secretário de embaixada, inclusive, fazem-se, por mérito ou por antiguidade, de entre os funcionários com três anos de bom e efectivo serviço na categoria imediatamente inferior.\n\n> Alterado pelo/a [Decreto Regulamentar n.º 59/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/59-1979-364903), publicado em 1979-10-13."
+   "markdown": "###### Artigo 84.º\n\n(Revogado.)\n\n> Alterado pelo/a [Decreto Regulamentar n.º 59/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/59-1979-364903), publicado em 1979-10-13."
   },
-  "5c61075977dda4ff": {
+  "bee640fe66c86681": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 85.º",
@@ -1589,9 +1625,9 @@
    "changed_by": [
     "Alterado pelo/a [Decreto Regulamentar n.º 59/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/59-1979-364903), publicado em 1979-10-13."
    ],
-   "markdown": "###### Artigo 85.º\n\nAs promoções referidas no artigo anterior obedecem à ordem estabelecida pelo conselho do Ministério, nos termos seguintes:\n\na) O conselho do Ministério, ao elaborar as listas de promoção, deve, a seguir a cada três propostas de promoção por mérito, indicar para o mesmo efeito o funcionário mais antigo na categoria dos funcionários a promover;\n\nb) O Ministro não poderá deixar de obedecer à ordem estabelecida pelo conselho do Ministério sempre que a promoção for por antiguidade, mas, se pretender efectuar qualquer promoção por mérito não coincidente com a ordem proposta pelo conselho, deverá justificar e fundamentar a sua decisão.\n\n> Alterado pelo/a [Decreto Regulamentar n.º 59/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/59-1979-364903), publicado em 1979-10-13."
+   "markdown": "###### Artigo 85.º\n\n(Revogado.)\n\n> Alterado pelo/a [Decreto Regulamentar n.º 59/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/59-1979-364903), publicado em 1979-10-13."
   },
-  "678d79a4640b2fd7": {
+  "a54755bf92f6d15b": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 86.º",
@@ -1599,9 +1635,9 @@
    "changed_by": [
     "Alterado pelo/a [Decreto Regulamentar n.º 59/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/59-1979-364903), publicado em 1979-10-13."
    ],
-   "markdown": "###### Artigo 86.º\n\nAs promoções a conselheiro de embaixada e a ministro plenipotenciário de 2.ª classe obedecem à ordem estabelecida pelo conselho do Ministério e fazem-se por mérito de entre os funcionários com três anos de bom e efectivo serviço na categoria imediatamente inferior, dependendo ainda a promoção a conselheiro de embaixada da permanência do funcionário nos serviços externos por tempo não inferior a seis anos.\n\n> Alterado pelo/a [Decreto Regulamentar n.º 59/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/59-1979-364903), publicado em 1979-10-13."
+   "markdown": "###### Artigo 86.º\n\n(Revogado.)\n\n> Alterado pelo/a [Decreto Regulamentar n.º 59/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/59-1979-364903), publicado em 1979-10-13."
   },
-  "59ede6c1fef397ad": {
+  "0d2948dc8682f19b": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 87.º",
@@ -1609,17 +1645,17 @@
    "changed_by": [
     "Alterado pelo/a [Decreto Regulamentar n.º 59/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/59-1979-364903), publicado em 1979-10-13."
    ],
-   "markdown": "###### Artigo 87.º\n\nCaso o Ministro pretenda efectuar qualquer promoção não coincidente com a ordem constante das listas de promoção estabelecidas pelo conselho, nos termos do artigo anterior, deverá justificar e fundamentar a sua decisão.\n\n> Alterado pelo/a [Decreto Regulamentar n.º 59/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/59-1979-364903), publicado em 1979-10-13."
+   "markdown": "###### Artigo 87.º\n\n(Revogado.)\n\n> Alterado pelo/a [Decreto Regulamentar n.º 59/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/59-1979-364903), publicado em 1979-10-13."
   },
-  "69ea1feee989d0bd": {
+  "d1f4f5f4d7f16872": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 88.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 88.º\n\nOs ministros plenipotenciários de 1.ª classe são escolhidos pelo Ministro, na base da livre apreciação dos serviços prestados, entre os ministros plenipotenciários de 2.ª classe com três anos de bom e efectivo serviço nesta categoria."
+   "markdown": "###### Artigo 88.º\n\n(Revogado.)"
   },
-  "98b8b209920ea2c1": {
+  "34c096b92e72dd15": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 89.º",
@@ -1627,15 +1663,15 @@
    "changed_by": [
     "Alterado pelo/a [Decreto Regulamentar n.º 59/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/59-1979-364903), publicado em 1979-10-13."
    ],
-   "markdown": "###### Artigo 89.º\n\nNenhum funcionário do serviço diplomático poderá ser promovido duas vezes consecutivas no mesmo país.\n\n> Alterado pelo/a [Decreto Regulamentar n.º 59/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/59-1979-364903), publicado em 1979-10-13."
+   "markdown": "###### Artigo 89.º\n\n(Revogado.)\n\n> Alterado pelo/a [Decreto Regulamentar n.º 59/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/59-1979-364903), publicado em 1979-10-13."
   },
-  "5392127c628a5a69": {
+  "5a705a9bd012d69d": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 90.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 90.º\n\nOs embaixadores são nomeados, por livre escolha do Ministro, entre os ministros plenipotenciários de 1.ª classe, conforme as circunstâncias e atendendo aos méritos excepcionais do funcionário.\n\n§ único. A escolha de embaixadores pode igualmente ser feita de entre pessoas estranhas ao quadro do Ministério dos Negócios Estrangeiros que se hajam distinguido por sua capacidade e mérito, mas neste caso pertencerá ao Conselho de Ministros a nomeação."
+   "markdown": "###### Artigo 90.º\n\n(Revogado.)\n\n§ único. A escolha de embaixadores pode igualmente ser feita de entre pessoas estranhas ao quadro do Ministério dos Negócios Estrangeiros que se hajam distinguido por sua capacidade e mérito, mas neste caso pertencerá ao Conselho de Ministros a nomeação."
   },
   "9a1a2e3897ec4caf": {
    "fragment_id": null,
@@ -2519,13 +2555,15 @@
    "changed_by": [],
    "markdown": "#### SECÇÃO VII — Limite de idade e aposentação"
   },
-  "411f842574538fc1": {
+  "f29b9fa65c17c429": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 181.º",
-   "in_force_from": null,
-   "changed_by": [],
-   "markdown": "###### Artigo 181.º\n\nÉ aplicável aos funcionários do Ministério dos Negócios Estrangeiros, para o serviço na Secretaria de Estado, o limite de idade estabelecida na lei geral. Para o serviço permanente no estrangeiro o limite de idade será de 65 anos.\n\n§ único. Os funcionários que atingirem o limite de idade para o serviço permanente no estrangeiro serão aposentados se tiverem 40 anos de serviço; no caso contrário, poderão ser colocados na Secretaria de Estado em lugar correspondente à sua categoria, se existir vaga, ou ser passados à disponibilidade."
+   "in_force_from": "1990-09-29",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 78/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-1983-311007), publicado em 1983-02-09."
+   ],
+   "markdown": "###### Artigo 181.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 78/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-1983-311007), publicado em 1983-02-09."
   },
   "14b6bf985c17a34a": {
    "fragment_id": null,

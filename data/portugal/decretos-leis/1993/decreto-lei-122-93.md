@@ -53,7 +53,7 @@ version_history:
     changes: []
   - date: '2004-03-04'
     amending: pt:dre:434008:por
-    amending_title: Decreto-Lei n.º 334/99; Decreto-Lei n.º 186/2003; Decreto-Lei n.º 45/2004
+    amending_title: Decreto-Lei n.º 334/99; Decreto-Lei n.º 186/2003; Decreto-Lei n.º 45/2004; Decreto-Lei n.º 15/2004
     changes:
     - Altera Artigo 5.º
     - Revoga Artigo 1.º
@@ -94,6 +94,7 @@ version_history:
     - Revoga Artigo 37.º
     - Revoga Artigo 38.º
     - Altera Artigo 3.º
+    - Revoga Artigo 3
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/122/1993/04/16/p/dre/pt/html
@@ -120,7 +121,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:22:16Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 334/99; Decreto-Lei
-    n.º 186/2003; Decreto-Lei n.º 45/2004. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1993/decreto-lei-122-93.alteracoes.json'
+    n.º 186/2003; Decreto-Lei n.º 45/2004. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1993/decreto-lei-122-93.alteracoes.json.
+    Revogações registadas só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Decreto-Lei
+    n.º 15/2004.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -281,11 +284,11 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 São atribuições do IGM:
 
-a) Contribuir para a definição e implementação da política relativa ao conhecimento, preservação, aproveitamento e valorização dos recursos geológicos;
+a) (Revogada.)
 
-b) Propor a legislação reguladora da actividade extractiva e velar pelo seu cumprimento;
+b) (Revogada.)
 
-c) Conduzir a negociação e preparação dos contratos administrativos de outorga de direitos sobre recursos geológicos e acompanhar a respectiva execução;
+c) (Revogada.)
 
 d) (Revogada.)
 
@@ -301,9 +304,11 @@ i) (Revogada.)
 
 j) (Revogada.)
 
-l) Cooperar com os organismos e serviços competentes em matéria de ordenamento do território e preservação do ambiente na investigação e definição de formas de compatibilização com o aproveitamento dos recursos.
+l) (Revogada.)
 
 > Alterado pelo/a [Decreto-Lei n.º 45/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2004-551646), publicado em 2004-03-03.
+
+> Revogado pelo/a [Decreto-Lei n.º 15/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2004-603045), publicado em 2004-01-14, com efeitos a partir de 2004-01-15.
 
 ### CAPÍTULO II — Órgãos, serviços e sua competência
 

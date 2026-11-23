@@ -54,10 +54,21 @@ version_history:
     changes: []
   - date: '1986-12-18'
     amending: pt:dre:392010:por
-    amending_title: Decreto-Lei n.º 213/82; Decreto-Lei n.º 415-A/86
+    amending_title: Decreto-Lei n.º 213/82; Decreto-Lei n.º 415-A/86; Decreto-Lei n.º 19/83; Decreto-Lei n.º 288/84; Decreto-Lei
+      n.º 289/84
     changes:
     - Altera Artigo 14.º
     - Revoga Artigo 28.º
+    - Revoga Artigo 25
+    - Revoga Artigo 7
+    - Revoga Artigo 8
+    - Revoga Artigo 9
+    - Revoga Artigo 10
+    - Revoga Artigo 11
+    - Revoga Artigo 27
+    - Revoga Artigo 29
+    - Revoga Artigo 12
+    - Revoga Artigo 13
 identifiers:
   celex: null
   eli: null
@@ -84,7 +95,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T23:16:44Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 213/82; Decreto-Lei
-    n.º 415-A/86. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1978/decreto-lei-70-78.alteracoes.json'
+    n.º 415-A/86. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1978/decreto-lei-70-78.alteracoes.json.
+    Revogações registadas só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Decreto-Lei
+    n.º 19/83; Decreto-Lei n.º 288/84; Decreto-Lei n.º 289/84.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -269,49 +282,25 @@ Das farinhas
 
 ###### Artigo 7.º
 
-1 - As farinhas espoadas de trigo e sêmolas do mesmo cereal, a produzir pela respectiva indústria, terão as seguintes características como limites máximos:
+(Revogado.)
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/04/08102/00140018.pdf)
-
-2 - As farinhas e as sêmolas deverão ter um mínimo de 7% e 8% de glúten seco, respectivamente.
-
-3 - Em qualquer das farinhas e sêmolas, o resíduo insolúvel no ácido clorídrico não pode exceder 0,02%.
-
-4 - A acidez é expressa em ácido sulfúrico e determinada no extracto alcoólico.
-
-5 - Nos limites indicados admite-se uma tolerância analítica de 0,05% em relação aos teores de humidade e cinza e 0,005% em relação ao teores de acidez.
-
-6 - Na indústria de confeitaria e pastelaria poderá ser utilizada a farinha de 1.ª qualidade referida na alínea a).
-
-7 - A farinha de 2.ª qualidade só pode ser vendida à indústria de panificação, destinando-se exclusivamente ao fabrico de pão de 2.ª qualidade.
-
-8 - As farinhas de consumo corrente (M(índice 2)) só podem ser vendidas à indústria de massas alimentícias e utilizadas exclusivamente no fabrico de massas alimentícias de consumo corrente.
+> Revogado pelo/a [Decreto-Lei n.º 288/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-1984-380929), publicado em 1984-08-24, com efeitos a partir de 1985-01-01.
 
 ###### Artigo 8.º
 
-Os preços máximos por tonelada das farinhas espoadas de trigo nas fábricas de moagem ou sobre vagão são os seguintes:
-
-Farinha de 1.ª qualidade - 8310$00.
-
-Farinha de 2.ª qualidade - 7998$60.
+(Revogado.)
 
 ###### Artigo 9.º
 
-1 - As farinhas deverão ser obrigatoriamente acompanhadas por guia de remessa ou factura, identificando o vendedor e o comprador e as quantidades fornecidas.
-
-2 - A farinha de trigo espoada destinada ao consumo humana não pode ser entregue pelas moagens produtoras antes de dez dias após o seu fabrico.
+(Revogado.)
 
 ###### Artigo 10.º
 
-As moagens poderão beneficiar, conforme as condições a estabelecer em despacho conjunto dos Ministros da Agricultura e Pescas e do Comércio e Turismo, de um subsídio por quilograma de sêmolas (M(índice 1)) e de farinha (M(índice 2)) destinada ao fabrico de massas alimentícias, respectivamente de qualidade superior e de consumo corrente, entregues a esta indústria.
+(Revogado.)
 
 ###### Artigo 11.º
 
-Ficam os Ministros da Agricultura e Pescas e do Comércio e Turismo autorizados a, por despacho conjunto:
-
-a) Fixar ou alterar os preços e características das farinhas, sêmolas e seus subprodutos;
-
-b) Estabelecer os requisitos e características a que devem obedecer as embalagens das farinhas e sêmolas, sem prejuízo do preceituado no [Decreto-Lei n.º 314/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/314-1972-676446), de 17 de Agosto, e disposições complementares.
+(Revogado.)
 
 III
 
@@ -319,33 +308,13 @@ Do pão e produtos afins
 
 ###### Artigo 12.º
 
-1 - O pão de 1.ª qualidade é fabricado com farinha de 1.ª qualidade
+(Revogado.)
 
-2 - O pão de 1.ª qualidade será vendido aos seguintes preços máximos, por unidade ou por quilograma:
-
-De 50 g - $90 (18$00 por quilograma);
-
-De 250 g - 4$50 (18$00 por quilograma;
-
-De 500 g - 8$40 (16$80 por quilograma);
-
-Múltiplos de 500 g - ao preço correspondente a 16$80 por quilograma.
-
-3 - Os preços indicados no número anterior referem-se à venda nos locais mencionados no artigo 1.º do Regulamento do Comércio do Pão, aprovado pelo [Decreto-Lei n.º 302/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/302-1972-605807), de 14 de Agosto, com exclusão da alínea c).
-
-4 - Ficam livres os preços de venda de pão fabricado em unidades de 30 g e de pão de forma.
+> Revogado pelo/a [Decreto-Lei n.º 289/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/289-1984-380931), publicado em 1984-08-24, com efeitos a partir de 1985-01-01.
 
 ###### Artigo 13.º
 
-1 - O pão de 2.ª qualidade é fabricado com farinha de 2.ª qualidade.
-
-2 - O pão de 2.ª qualidade será vendido aos seguintes preços máximos, por unidade ou por quilograma:
-
-De 500 g - 6$60 (13$20 por quilograma);
-
-Múltiplos de 500 g - ao preço correspondente a 13$20 por quilograma.
-
-3 - Aplica-se ao pão de 2.ª qualidade o disposto no n.º 3 do artigo anterior.
+(Revogado.)
 
 ###### Artigo 14.º
 
@@ -463,9 +432,9 @@ Disposições gerais e transitórias
 
 ###### Artigo 25.º
 
-1 - Os diferenciais de preços, relativamente a sementes, cereais e farinhas, que possam resultar da aplicação do presente diploma e legislação complementar constituirão encargo ou receita do Fundo de Abastecimento.
+(Revogado.)
 
-2 - Reverterão para a EPAC os diferenciais de preços determinados nos termos do n.º 1 do artigo 2.º do presente diploma.
+> Revogado pelo/a [Decreto-Lei n.º 19/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-1983-307811), publicado em 1983-01-21.
 
 ###### Artigo 26.º
 
@@ -473,9 +442,7 @@ Sempre que os despachos emitidos ao abrigo do presente diploma impliquem encargo
 
 ###### Artigo 27.º
 
-1 - As fábricas de farinhas de trigo e milho e as fábricas de alimentos compostos para animais liquidarão à EPAC, no prazo de sessenta dias, para crédito do Fundo de Abastecimento, a diferença entre os preços por que adquiriram os cereais em seu poder à data da entrada em vigor do presente diploma e os novos preços fixados no despacho a publicar ao abrigo do disposto no n.º 2 do artigo 1.º deste decreto-lei.
-
-2 - As fábricas de farinhas espoadas de trigo liquidarão à EPAC, no prazo de sessenta dias, para crédito do Fundo de Abastecimento, o diferencial entre os actuais preços de venda das farinhas espoadas de trigo de 1.ª e 2.ª qualidades e os novos preços fixados no artigo 7.º deste decreto-lei para as quantidades, em seu poder à data da entrada em vigor do presente diploma.
+(Revogado.)
 
 ###### Artigo 28.º
 
@@ -485,7 +452,7 @@ Sempre que os despachos emitidos ao abrigo do presente diploma impliquem encargo
 
 ###### Artigo 29.º
 
-1 - As disposições do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957, são aplicáveis às infracções cometidas no âmbito de aplicação deste diploma e seus regulamentos, bem como à graduação da responsabilidade dos seus agentes e ao destino das multas e dos produtos apreendidos, sem prejuízo do disposto nos números seguintes.
+1 - (Revogado.)
 
 2 - A compra e venda de trigo, com violação das disposições legais aplicáveis, sujeita os seus intervenientes a prisão de três dias a dois anos e multa correspondente ao valor do cereal objecto da infracção.
 
@@ -493,13 +460,13 @@ Sempre que os despachos emitidos ao abrigo do presente diploma impliquem encargo
 
 4 - A aplicação pelos agricultores de sementes certificadas de trigo e de reservas de celeiro deste cereal, adquiridas à EPAC, a outro fim que não a utilização nas respectivas sementeiras é punida com multa igual ao valor das aquisições do cereal desviado.
 
-5 - A utilização de farinha de trigo de 2.ª qualidade e farinhas de consumo corrente (M(índice 2)) com infracção do disposto nos n.os 7 e 8 do artigo 7.º será punida nos termos do artigo 21.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957.
+5 - (Revogado.)
 
-6 - A entrega da farinha de trigo espoada com infracção do disposto no n.º 2 do artigo 9.º será punida com a pena prevista no artigo 29.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957.
+6 - (Revogado.)
 
-7 - A utilização no fabrico do pão e nos produtos afins de substâncias não autorizadas constitui crime de falsificação punível nos termos da legislação aplicável.
+7 - (Revogado.)
 
-8 - A infracção ao disposto no n.º 1 do artigo 9.º será punida ao abrigo do artigo 33.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957.
+8 - (Revogado.)
 
 ###### Artigo 30.º
 

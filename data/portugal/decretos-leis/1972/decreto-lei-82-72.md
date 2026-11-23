@@ -31,7 +31,7 @@ version:
   kind: consolidated
   label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: '1974-08-26'
+  consolidation_date: '1975-09-04'
 version_history:
   file: decreto-lei-82-72.versoes.json
   count: 2
@@ -41,11 +41,12 @@ version_history:
     amending: null
     amending_title: null
     changes: []
-  - date: '1974-08-26'
+  - date: '1975-09-04'
     amending: pt:dre:475726:por
-    amending_title: Decreto-Lei n.º 389/74
+    amending_title: Decreto-Lei n.º 389/74; Decreto-Lei n.º 481/75
     changes:
     - Altera Artigo 13.º
+    - Revoga Artigo 17
 identifiers:
   celex: null
   eli: null
@@ -72,7 +73,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:25:42Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 389/74. Método e
-    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1972/decreto-lei-82-72.alteracoes.json'
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1972/decreto-lei-82-72.alteracoes.json.
+    Revogações registadas só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Decreto-Lei
+    n.º 481/75.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -249,7 +252,9 @@ A colocação dos actuais funcionários nos lugares correspondentes do mapa anex
 
 ###### Artigo 17.º
 
-O pessoal dos órgãos privativos de polícia judiciária com funções auxiliares de investigação criminal tem direito a indemnizações de tecnicidade, cujo quantitativo será fixado por despacho do Ministro das Finanças e do Ministro da respectiva pasta.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 481/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/481-1975-307605), publicado em 1975-09-04.
 
 ###### Artigo 18.º
 

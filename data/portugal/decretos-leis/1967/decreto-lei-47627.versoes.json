@@ -15,7 +15,7 @@
    ]
   },
   {
-   "date": "1976-02-09",
+   "date": "1979-12-30",
    "future": false,
    "acts": [
     {
@@ -29,46 +29,73 @@
      "title": "Decreto-Lei n.º 117-C/76",
      "published": "1976-02-09",
      "dre_path": "/dr/detalhe/decreto-lei/117-c-1976-317132"
+    },
+    {
+     "id": "pt:dre:685601:por",
+     "title": "Decreto n.º 556/72",
+     "published": "1972-12-26",
+     "dre_path": "/dr/detalhe/decreto/556-1972-685601"
+    },
+    {
+     "id": "pt:dre:157053:por",
+     "title": "Decreto-Lei n.º 519-D1/79",
+     "published": "1979-12-29",
+     "dre_path": "/dr/detalhe/decreto-lei/519-d1-1979-157053"
     }
    ],
    "changes": [
     "Altera Artigo 2.º",
     "Altera Artigo 16.º",
-    "Altera Artigo 35.º"
+    "Altera Artigo 35.º",
+    "Revoga Artigo 10",
+    "Revoga Artigo 13",
+    "Revoga Artigo 17",
+    "Revoga Artigo 18",
+    "Revoga Artigo 19",
+    "Revoga Artigo 1",
+    "Revoga Artigo 2",
+    "Revoga Artigo 5",
+    "Revoga Artigo 7",
+    "Revoga Artigo 21",
+    "Revoga Artigo 22",
+    "Revoga Artigo 28",
+    "Revoga Artigo 29",
+    "Revoga Artigo 30",
+    "Revoga Artigo 31"
    ],
    "fragments": [
     "489c104cd5352ac0",
-    "cd1bc0a037c1cfd0",
-    "7a45f813ba36d14d",
+    "a7ee082372eef3db",
+    "de850d548c3368e3",
     "efee668013a1d94e",
     "3beae89becca8716",
-    "8030c2f1a46fbe8e",
+    "d2019c094bd25474",
     "d4ed751a44a4acd3",
-    "08bb155aaa2548f7",
+    "8dd690153acf884c",
     "a44cdaf4431682dc",
     "91b918ba80abd4c2",
-    "92687205f3e6cb20",
+    "389b4b11feebb9f3",
     "a0038ab9cad100dc",
     "a162fa2c0d25a5c2",
-    "5f6110ffafb22fad",
+    "df7e60016409deef",
     "2dc62063d4206a81",
     "2d0a120d160f3aed",
     "a9b39aae63799843",
-    "3e63ea3d53487657",
-    "5726518240725c38",
-    "a1c0addf0a99b5b0",
+    "a5643c25ff3c9795",
+    "638d56919a88bb11",
+    "ad980f2d37cf0ff6",
     "0d0620664335923c",
-    "2802907f5e079c42",
-    "7aada27f70d36f29",
+    "895c509fc2e47499",
+    "c8727d17517da7fd",
     "e7e3fbe92feb4a8a",
     "fbd4a5533ede8169",
     "ffe721dda50bac31",
     "44c137fddc903f76",
     "ee8392d93f23b5a2",
-    "f9b571453caa016c",
-    "c5d1003c46fe5cf7",
-    "9990cf70731673f2",
-    "17bcfe02ea29a48f",
+    "e3b6ba3cf42a4d5b",
+    "36e9fdeb0780ebe0",
+    "8cb8ea2dd6971ecb",
+    "940a94c0795b3622",
     "09d4c662257dfcbb",
     "89d2edbe47ae4dc5",
     "1b809ce7fe33d229",
@@ -115,23 +142,25 @@
    "changed_by": [],
    "markdown": "A experiência da aplicação da lei orgânica do Laboratório Nacional de Engenharia Civil, objecto do [Decreto-Lei n.º 43825](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43825-1961-173361), de 27 de Julho de 1961, aconselha que lhe sejam introduzidos alguns complementos e modificações.\n\nNestes termos:\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:\n\nLEI ORGÂNICA DO LABORATÓRIO NACIONAL DE ENGENHARIA CIVIL\n\nAlterações ao [Decreto-Lei n.º 43825](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43825-1961-173361), de 27 de Julho de 1961\n\nI) Órgãos directivos"
   },
-  "cd1bc0a037c1cfd0": {
+  "a7ee082372eef3db": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 1.º",
-   "in_force_from": null,
-   "changed_by": [],
-   "markdown": "###### Artigo 1.º\n\nA direcção do Laboratório Nacional de Engenharia Civil é exercida por um director, com a categoria de director-geral, coadjuvado por um subdirector e um subdirector administrativo.\n\n§ único. Nas suas ausências e impedimentos, o director do Laboratório será substituído pelo subdirector, pelo subdirector administrativo ou por um chefe de serviço, segundo esta ordem."
+   "in_force_from": "1979-12-30",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 519-D1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-d1-1979-157053), publicado em 1979-12-29, com efeitos a partir de 1979-12-30."
+   ],
+   "markdown": "###### Artigo 1.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 519-D1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-d1-1979-157053), publicado em 1979-12-29, com efeitos a partir de 1979-12-30."
   },
-  "7a45f813ba36d14d": {
+  "de850d548c3368e3": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 2.º",
-   "in_force_from": "1976-02-09",
+   "in_force_from": "1979-12-30",
    "changed_by": [
     "Alterado pelo/a [Decreto-Lei n.º 117-C/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-c-1976-317132), publicado em 1976-02-09."
    ],
-   "markdown": "###### Artigo 2.º\n\nO Laboratório tem um conselho administrativo composto pelo director, que presidirá, e por três a seis funcionários do quadro, nomeados pelo Ministro do Equipamento Social, sob proposta do director do LNEC.\n\n§ 1.º A nomeação dos vogais é feita por períodos de três anos, podendo ser dada por finda a todo o tempo, por despacho ministerial.\n\n§ 2.º Às reuniões do conselho administrativo assistirá um delegado do Tribunal de Contas, por este designado, que perceberá uma gratificação mensal cujo quantitativo será fixado pelo Ministro do Equipamento Social, com o acordo do Ministro das Finanças.\n\n§ 3.º Mediante autorização, a conceder anualmente pelo Ministro do Equipamento Social, pode o director fazer-se substituir na presidência do conselho administrativo por um dos vogais.\n\nII) Administração do Laboratório\n\n> Alterado pelo/a [Decreto-Lei n.º 117-C/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-c-1976-317132), publicado em 1976-02-09."
+   "markdown": "###### Artigo 2.º\n\n(Revogado.)\n\nII) Administração do Laboratório\n\n> Alterado pelo/a [Decreto-Lei n.º 117-C/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-c-1976-317132), publicado em 1976-02-09."
   },
   "efee668013a1d94e": {
    "fragment_id": null,
@@ -149,13 +178,13 @@
    "changed_by": [],
    "markdown": "###### Artigo 4.º\n\nAs autorizações para o dispêndio em moeda estrangeira, exigidas pelos artigos 1.º e 2.º do Decreto com força de lei n.º 14611, de 23 de Novembro de 1927, poderão ser concedidas global e antecipadamente, até montantes a fixar pelos Ministros das Finanças e Obras Públicas, mediante proposta do director do Laboratório, para as despesas necessárias para a execução dos trabalhos pagos ao Laboratório por entidades estrangeiras.\n\n§ único. A aplicação das autorizações globais referidas no corpo deste artigo será posteriormente justificada perante os Ministros das Finanças e das Obras Públicas.\n\nIII) Pessoal"
   },
-  "8030c2f1a46fbe8e": {
+  "d2019c094bd25474": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 5.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 5.º\n\nNo actual quadro do pessoal do Laboratório Nacional de Engenharia Civil são introduzidas as seguintes modificações:\n\na) É criado o lugar de subdirector administrativo, ao qual é atribuído o vencimento correspondente à letra D, segundo o artigo 1.º do [Decreto-Lei n.º 42046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42046-1958-198100), de 23 de Dezembro de 1958;\n\nb) São suprimidos os lugares de especialistas de 1.ª e 2.ª classes e criado igual número de lugares de especialista, aos quais é atribuído o vencimento correspondente à letra E, segundo o artigo 1.º do [Decreto-Lei n.º 42046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42046-1958-198100), de 23 de Dezembro de 1958;\n\nc) O número de lugares de experimentador de 1.ª 2.ª classes passa a ser de 22 e 44, respectivamente;\n\nd) São suprimidos os lugares de auxiliares de laboratório de 1.ª e 2.ª classes e acrescentado igual número de lugares de ajudante de experimentador de 1.ª e 2.ª classes, respectivamente;\n\ne) Aos desenhadores-chefes é atribuído o vencimento correspondente à letra L, segundo o artigo 1.º do [Decreto-Lei n.º 42046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42046-1958-198100), de 23 de Dezembro de 1958;\n\nf) São criados dez lugares de desenhador principal, aos quais é atribuído o vencimento correspondente à letra M, segundo o artigo 1.º do [Decreto-Lei n.º 42046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42046-1958-198100), de 23 de Dezembro de 1958;\n\ng) Ao mestre geral e aos mestres são atribuídos, respectivamente, os vencimentos correspondentes às letras I e J, segundo o artigo 1.º do [Decreto-Lei n.º 42046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42046-1958-198100), de 23 de Dezembro de 1958;\n\nh) O número de lugares de chefe de repartição passa a ser de quatro;\n\ni) É criado um lugar de encarregado do sector de aquisições, ao qual é atribuído o vencimento correspondente à letra L, segundo o artigo 1.º do [Decreto-Lei n.º 42046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42046-1958-198100), de 23 de Dezembro de 1958;\n\nj) O número de lugares de primeiro oficial, segundo-oficial e terceiro-oficial passa a ser de 16, 24 e 32, respectivamente."
+   "markdown": "###### Artigo 5.º\n\n(Revogado.)"
   },
   "d4ed751a44a4acd3": {
    "fragment_id": null,
@@ -165,13 +194,13 @@
    "changed_by": [],
    "markdown": "###### Artigo 6.º\n\nO acesso ao cargo de director de um funcionário do Laboratório, ao qual seja aplicável o disposto no artigo 29.º da lei orgânica, terá lugar sem perda do direito a perceber diuturnidades, as quais serão concedidas como se continuasse a exercer as anteriores funções."
   },
-  "08bb155aaa2548f7": {
+  "8dd690153acf884c": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 7.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 7.º\n\nO lugar de subdirector administrativo será preenchido de acordo com o estabelecido no corpo do artigo 19.º da lei orgânica do Laboratório, sendo-lhe aplicável o disposto no § único do mesmo artigo.\n\n§ 1.º O lugar de subdirector poderá ser preenchido pelo subdirector administrativo, nos termos do corpo do artigo acima referido.\n\n§ 2.º Ao subdirector administrativo é aplicado o disposto no artigo 29.º e seus parágrafos e no artigo 65.º da lei orgânica."
+   "markdown": "###### Artigo 7.º\n\n(Revogado.)"
   },
   "a44cdaf4431682dc": {
    "fragment_id": null,
@@ -189,13 +218,15 @@
    "changed_by": [],
    "markdown": "###### Artigo 9.º\n\nA chefia das divisões referidas no artigo 7.º da lei orgânica do Laboratório Nacional de Engenharia Civil poderá ser atribuída, em casos especiais, a indivíduos requisitados a outros serviços ou contratados fora do quadro, nas condições estabelecidas nessa lei, no artigo 22.º e seu § único."
   },
-  "92687205f3e6cb20": {
+  "389b4b11feebb9f3": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 10.º",
-   "in_force_from": null,
-   "changed_by": [],
-   "markdown": "###### Artigo 10.º\n\nA nomeação dos estagiários é feita por alvará do director do Laboratório, depois de os planos de admissão de estagiários, após cada concurso, serem submetidos à aprovação do Ministro das Obras Públicas."
+   "in_force_from": "1979-12-30",
+   "changed_by": [
+    "Revogado pelo/a [Decreto n.º 556/72](https://diariodarepublica.pt/dr/detalhe/decreto/556-1972-685601), publicado em 1972-12-26."
+   ],
+   "markdown": "###### Artigo 10.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto n.º 556/72](https://diariodarepublica.pt/dr/detalhe/decreto/556-1972-685601), publicado em 1972-12-26."
   },
   "a0038ab9cad100dc": {
    "fragment_id": null,
@@ -213,13 +244,13 @@
    "changed_by": [],
    "markdown": "###### Artigo 12.º\n\nOs resultados dos concursos para estagiários só serão válidos para as admissões que se efectuarem no prazo, em regra não superior a doze meses, contado a partir da data da publicação no Diário do Governo do respectivo anúncio de abertura do concurso, sendo o prazo de validade fixado, para cada concurso, por despacho do Ministro das Obras Públicas, mediante proposta do director do Laboratório."
   },
-  "5f6110ffafb22fad": {
+  "df7e60016409deef": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 13.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 13.º\n\nSerão automàticamente suspensos os estágios dos estagiários que se não apresentem aos concursos a que se referem os §§ 1.º e 2.º do artigo 25.º da lei orgânica do Laboratório Nacional de Engenharia Civil e dos que forem reprovados, salvo os dos estagiários que não compareçam por estarem impedidos por serviço militar, caso em que, após o seu regresso ao Laboratório, serão obrigados a apresentar-se ao concurso ou concursos abertos nas condições dos dois parágrafos acima referidos."
+   "markdown": "###### Artigo 13.º\n\n(Revogado.)"
   },
   "2dc62063d4206a81": {
    "fragment_id": null,
@@ -241,35 +272,35 @@
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 16.º",
-   "in_force_from": "1976-02-09",
+   "in_force_from": "1979-12-30",
    "changed_by": [
     "Alterado pelo/a [Decreto-Lei n.º 117-C/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-c-1976-317132), publicado em 1976-02-09."
    ],
    "markdown": "###### Artigo 16.º\n\nAos concursos para obtenção do certificado de estágio para experimentador poderão também apresentar-se:\n\na) Os ajudantes de experimentador que contem, pelo menos, oito anos de bom e efectivo serviço no exercício destas funções, dentro ou fora do quadro, e tenham obtido aproveitamento no curso para acesso a experimentador;\n\nb) Os ajudantes de experimentador que possuam as habilitações referidas no artigo 15.º e pelo menos dois anos de serviço na categoria.\n\n§ único. Os ajudantes de experimentador que sejam reprovados poderão apresentar-se a concurso mais uma vez, decorridos, pelo menos, quatro anos após a data da publicação da lista das classificações, salvo se possuírem as habilitações referidas no artigo 15.º, caso em que poderão apresentar-se ao novo concurso decorrido um ano.\n\n> Alterado pelo/a [Decreto-Lei n.º 117-C/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-c-1976-317132), publicado em 1976-02-09."
   },
-  "3e63ea3d53487657": {
+  "a5643c25ff3c9795": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 17.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 17.º\n\nOs lugares de ajudante de experimentador de 1.ª classe serão providos por concurso, de provas documentais e provas práticas, a que poderão apresentar-se os ajudantes de experimentador de 2.ª classe que contem, pelo menos, quatro anos de efectivo serviço no quadro do Laboratório e tenham obtido aproveitamento no respectivo curso de aperfeiçoamento."
+   "markdown": "###### Artigo 17.º\n\n(Revogado.)"
   },
-  "5726518240725c38": {
+  "638d56919a88bb11": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 18.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 18.º\n\nAos concursos para admissão a estágio para ajudante de experimentador poderão apresentar-se os indivíduos habilitados com um curso industrial de formação profissional adequada, o curso geral dos liceus ou formação escolar equivalente."
+   "markdown": "###### Artigo 18.º\n\n(Revogado.)"
   },
-  "a1c0addf0a99b5b0": {
+  "ad980f2d37cf0ff6": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 19.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 19.º\n\nOs lugares de desenhador principal serão providos por concurso de provas documentais entre os desenhadores de 1.ª classe que contem, pelo menos, quatro anos de efectivo serviço no quadro, na categoria."
+   "markdown": "###### Artigo 19.º\n\n(Revogado.)"
   },
   "0d0620664335923c": {
    "fragment_id": null,
@@ -279,21 +310,21 @@
    "changed_by": [],
    "markdown": "###### Artigo 20.º\n\nA admissão do pessoal de saúde será feita por escolha de entre indivíduos de reconhecida competência habilitados com os cursos adequados."
   },
-  "2802907f5e079c42": {
+  "895c509fc2e47499": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 21.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 21.º\n\nO lugar de encarregado do sector de aquisições será provido por escolha entre os oficiais de secretaria do quadro do Laboratório."
+   "markdown": "###### Artigo 21.º\n\n(Revogado.)"
   },
-  "7aada27f70d36f29": {
+  "c8727d17517da7fd": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 22.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 22.º\n\nQuando as necessidades do serviço o exigirem, poderão ser reservados, mediante proposta do director aprovada pelo Ministro das Obras Públicas, até um quarto dos lugares de cada uma das classes de oficiais de secretaria para serem preenchidos por candidatos do sexo masculino."
+   "markdown": "###### Artigo 22.º\n\n(Revogado.)"
   },
   "e7e3fbe92feb4a8a": {
    "fragment_id": null,
@@ -335,37 +366,37 @@
    "changed_by": [],
    "markdown": "###### Artigo 27.º\n\nO Laboratório poderá requisitar pessoal contratado fora do quadro de outros serviços públicos, por prazo não superior a um ano, eventualmente renovável, para o exercício de cargos técnicos e de chefia, mediante autorização do Ministro das Obras Públicas e do Ministro de quem aquele servidor dependa.\n\n§ 1.º A renovação da requisição carece de autorização dos dois Ministros e é feita independentemente de qualquer formalidade, incluído o visto do Tribunal de Contas.\n\n§ 2.º O servidor regressará ao serviço a que pertence quando terminar a requisição.\n\n§ 3.º As remunerações do pessoal requisitado serão satisfeitas em conta das disponibilidades existentes nas verbas destinadas a pessoal ou das verbas especialmente inscritas para este fim."
   },
-  "f9b571453caa016c": {
+  "e3b6ba3cf42a4d5b": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 28.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 28.º\n\nÉ extensivo ao pessoal do Laboratório que, em missão de longa duração, tenha de se deslocar às províncias ultramarinas para a realização de estudos, o regime de remunerações previsto no artigo 9.º do [Decreto n.º 44364](https://diariodarepublica.pt/dr/detalhe/decreto/44364-1962-164415), de 25 de Maio de 1962.\n\n§ único. Os quantitativos, a aprovar pelo Ministro das Obras Públicas, serão calculados de forma a nivelar as remunerações atribuídas ao pessoal do Laboratório com as das missões e brigadas do Ministério do Ultramar, quando no desempenho de funções análogas."
+   "markdown": "###### Artigo 28.º\n\n(Revogado.)"
   },
-  "c5d1003c46fe5cf7": {
+  "36e9fdeb0780ebe0": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 29.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 29.º\n\nO pessoal do Laboratório prestando serviço nas províncias ultramarinas manterá o direito, independentemente da forma de provimento, ao abono de família que já recebia na metrópole.\n\n§ 1.º O quantitativo e a eventual extensão a outras pessoas do direito ao abono serão os fixados, na província onde prestar serviço, para funcionários ultramarinos da mesma ou de idêntica categoria, mas apenas em relação às pessoas que, dando direito ao abono, residirem naquela província.\n\n§ 2.º As dúvidas sobre a equiparação de categorias, para efeitos de abono de família, serão resolvidas por simples despacho do Ministro das Obras Públicas."
+   "markdown": "###### Artigo 29.º\n\n(Revogado.)"
   },
-  "9990cf70731673f2": {
+  "8cb8ea2dd6971ecb": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 30.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 30.º\n\nA perda do abono relativo à alínea b) do artigo 1.º do [Decreto-Lei n.º 43609](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43609-1961-569522), de 20 de Abril de 1961, referida no § 1.º do mesmo artigo, não é aplicável à licença graciosa estabelecida pelo artigo 12.º do [Decreto n.º 19478](https://diariodarepublica.pt/dr/detalhe/decreto/19478-1931-211983), de 18 de Março de 1931, nem à licença sem perda de salários estabelecida pelo artigo 1.º do [Decreto-Lei n.º 26334](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26334-1936-685812), de 4 de Fevereiro de 1936, em cada ano civil completo que dure a missão."
+   "markdown": "###### Artigo 30.º\n\n(Revogado.)"
   },
-  "17bcfe02ea29a48f": {
+  "940a94c0795b3622": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 31.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 31.º\n\nAo pessoal do Laboratório Nacional de Engenharia Civil que, por motivo de serviço, tenha de se deslocar às províncias ultramarinas é aplicável o disposto no § 1.º do artigo 47.º do Estatuto do Funcionalismo Ultramarino, aprovado pelo [Decreto n.º 46982](https://diariodarepublica.pt/dr/detalhe/decreto/46982-1966-476880), de 27 de Abril de 1966.\n\nIV) Disposições gerais"
+   "markdown": "###### Artigo 31.º\n\n(Revogado.)\n\nIV) Disposições gerais"
   },
   "09d4c662257dfcbb": {
    "fragment_id": null,
@@ -395,7 +426,7 @@
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 35.º",
-   "in_force_from": "1976-02-09",
+   "in_force_from": "1979-12-30",
    "changed_by": [
     "Alterado pelo/a [Decreto-Lei n.º 164/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/164-1974-411337), publicado em 1974-04-22."
    ],

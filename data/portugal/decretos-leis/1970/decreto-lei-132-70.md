@@ -42,7 +42,7 @@ version:
   kind: consolidated
   label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: '1975-05-24'
+  consolidation_date: '1978-07-15'
 version_history:
   file: decreto-lei-132-70.versoes.json
   count: 2
@@ -52,9 +52,9 @@ version_history:
     amending: null
     amending_title: null
     changes: []
-  - date: '1975-05-24'
+  - date: '1978-07-15'
     amending: pt:dre:146056:por
-    amending_title: Decreto-Lei n.º 637/70; Decreto-Lei n.º 255/75
+    amending_title: Decreto-Lei n.º 637/70; Decreto-Lei n.º 255/75; Decreto-Lei n.º 180-B/78
     changes:
     - Altera Artigo 4.º
     - Altera Artigo 18.º
@@ -65,6 +65,8 @@ version_history:
     - Altera Artigo 57.º
     - Altera Artigo 58.º
     - Altera Artigo 6.º
+    - Revoga Artigo 24
+    - Revoga Artigo 25
 identifiers:
   celex: null
   eli: null
@@ -91,7 +93,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:12:48Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 637/70; Decreto-Lei
-    n.º 255/75. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1970/decreto-lei-132-70.alteracoes.json'
+    n.º 255/75. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1970/decreto-lei-132-70.alteracoes.json.
+    Revogações registadas só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Decreto-Lei
+    n.º 180-B/78.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -454,7 +458,7 @@ Recrutamento dos professores catedráticos
 
 O recrutamento dos professores catedráticos poderá realizar-se:
 
-a) Por convite;
+a) (Revogada.)
 
 b) Por transferência;
 
@@ -462,13 +466,11 @@ c) Por concurso de provas públicas.
 
 Recrutamento por convite
 
+> Revogado pelo/a [Decreto-Lei n.º 180-B/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-b-1978-434582), publicado em 1978-07-15.
+
 ###### Artigo 25.º
 
-1. O convite só poderá ser dirigido a individualidades cujo mérito esteja comprovado por valiosa obra científica no domínio da disciplina ou do grupo de disciplinas em causa.
-
-2. O convite fundamentar-se-á em relatório subscrito pelo mínimo de dois professores catedráticos, apresentado ao conselho escolar em sessão expressamente convocada para esse fim, com indicação do nome de individualidade a convidar, e aprovado por 4/5 do conselho escolar.
-
-3. Se o Ministro da Educação Nacional aprovar o convite, o relatório a que se refere o número anterior será publicado no Diário do Governo com o despacho de nomeação.
+(Revogado.)
 
 Recrutamento por transferência
 

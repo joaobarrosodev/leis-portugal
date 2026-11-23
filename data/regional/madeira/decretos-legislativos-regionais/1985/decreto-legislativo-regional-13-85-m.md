@@ -53,13 +53,31 @@ version_history:
     changes: []
   - date: '2007-12-01'
     amending: pt:dre:629387:por
-    amending_title: Decreto Legislativo Regional n.º 17/2007/M
+    amending_title: Decreto Legislativo Regional n.º 17/2007/M; Decreto Regulamentar Regional n.º 2/90/M; Decreto Legislativo
+      Regional n.º 8/2000/M; Decreto Legislativo Regional n.º 6/2007/M
     changes:
     - Revoga Artigo 2.º
     - Revoga Artigo 3.º
     - Revoga Artigo 4.º
     - Revoga Artigo 7.º
     - Revoga Artigo 9.º
+    - Revoga Artigo 11
+    - Revoga Artigo 12
+    - Revoga Artigo 13
+    - Revoga Artigo 16
+    - Revoga Artigo 17
+    - Revoga Artigo 18
+    - Revoga Artigo 19
+    - Revoga Artigo 20
+    - Revoga Artigo 21
+    - Revoga Artigo 22
+    - Revoga Artigo 24
+    - Revoga Artigo 25
+    - Revoga Artigo 26
+    - Revoga Artigo 29
+    - Revoga Artigo 36
+    - Revoga Artigo 27
+    - Revoga Artigo 10
 identifiers:
   celex: null
   eli: null
@@ -86,7 +104,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:37:56Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Legislativo Regional n.º
-    17/2007/M. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/madeira/decretos-legislativos-regionais/1985/decreto-legislativo-regional-13-85-m.alteracoes.json'
+    17/2007/M. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/madeira/decretos-legislativos-regionais/1985/decreto-legislativo-regional-13-85-m.alteracoes.json.
+    Revogações registadas só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Decreto
+    Regulamentar Regional n.º 2/90/M; Decreto Legislativo Regional n.º 8/2000/M; Decreto Legislativo Regional n.º 6/2007/M.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -269,61 +289,23 @@ A criação de carreiras e categorias de pessoal não previstas nos quadros da f
 
 ###### Artigo 10.º — (Planeamento de efectivos)
 
-1 - Os serviços e organismos abrangidos pelo presente decreto legislativo regional devem, em cada ano, em função dos planos de actividades e respectivos projectos de orçamento, fazer a previsão da evolução das suas necessidades em pessoal e programar o seu recrutamento para o ano seguinte.
+(Revogado.)
 
-2 - Os serviços responsáveis pelas funções de organização e gestão de pessoal em cada departamento governamental devem, em ordem a assegurar uma adequada gestão de recursos humanos, obtida a concordância do respectivo membro do Governo, comunicar, até 15 de Setembro de cada ano, com base na informação fornecida pelos serviços referidos no número anterior, ao membro do Governo Regional que tiver a seu cargo a Administração Pública e à Secretaria Regional do Plano as necessidades em matéria de pessoal para o ano seguinte no âmbito do respectivo departamento governamental.
-
-3 - Tal comunicação é feita mediante o preenchimento do mapa II anexo ao presente decreto legislativo regional.
-
-4 - Até 31 de Dezembro, o Secretário Regional do Plano e o membro do Governo Regional que tiver a seu cargo a Administração Pública proferirão despacho normativo, o qual deverá especificar:
-
-a) O número total de admissões autorizadas para o ano seguinte por carreira ou por categoria, quando for caso disso;
-
-b) A quota de admissões que caberá a cada departamento governamental.
-
-5 - O despacho referido no número anterior terá designadamente em atenção:
-
-a) A política orçamental e as restrições contidas no orçamento do ano económico a que o despacho respeita;
-
-b) As opções de política de emprego, de desenvolvimento regional e de descentralização contidas no Plano;
-
-c) As situações de subocupação ou excedentárias existentes no âmbito de cada departamento governamental e na administração em geral;
-
-d) As necessidades acrescidas de pessoal face aos programas de actividades dos diversos departamentos governamentais.
-
-6 - O despacho normativo será publicado no Jornal Oficial da Região Autónoma da Madeira.
-
-7 - O regime previsto nos números anteriores não impede que, com carácter excepcional, demonstrado pelo membro do Governo Regional proponente a insuficiência ou inviabilidade do recurso a instrumentos de mobilidade, possam permitir-se no decurso de cada ano económico admissões indispensáveis de pessoal não contempladas em despacho normativo, mediante resolução do Conselho do Governo Regional.
+> Revogado pelo/a [Decreto Legislativo Regional n.º 6/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2007-262371), publicado em 2007-01-12, com efeitos a partir de 2007-01-13.
 
 ###### Artigo 11.º — (Contrato de pessoal)
 
-1 - Os serviços e organismos só poderão celebrar contratos nos seguintes casos:
+(Revogado.)
 
-a) Quando a única forma de provimento prevista seja o contrato;
-
-b) Quando estiver previsto obrigatoriamente o estágio de ingresso;
-
-c) Quando se trate de serviços em regime de instalação;
-
-d) Quando se trate de pessoal docente ou de investigação.
-
-2 - Os contratos a que se refere o número anterior carecem de redução a escrito e visto da Comissão Regional de Contas.
+> Revogado pelo/a [Decreto Regulamentar Regional n.º 2/90/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-1990-332408), publicado em 1990-03-02.
 
 ###### Artigo 12.º — (Rescisão, denúncia e caducidade dos contratos)
 
-1 - Os contratos com pessoal além do quadro poderão ser denunciados ou rescindidos nos termos previstos nos artigos 3.º e 4.º do [Decreto-Lei n.º 49397](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49397-1969-217107), de 24 de Novembro de 1969.
-
-2 - Os contratos que tenham sido celebrados por tempo determinado e não estejam sujeitos ao regime de prorrogação caducam automaticamente no respectivo termo.
-
-3 - Os contratos celebrados com preterição das formalidades legais ou que se tenham mantido indevidamente no tempo para além do respectivo prazo ficam sujeitos ao disposto no n.º 1 deste artigo.
-
-4 - O dirigente do serviço que omitir o cumprimento dos deveres impostos pelos n.os 2 e 3 anteriores incorre em responsabilidade nos termos previstos no n.º 2 do artigo 13.º
+(Revogado.)
 
 ###### Artigo 13.º — (Inexistência jurídica e responsabilidade civil e disciplinar pela admissão de pessoal com preterição de formalidades legais.)
 
-1 - São juridicamente inexistentes as admissões de pessoal feitas com inobservância do estabelecido no presente diploma.
-
-2 - Os funcionários e agentes que autorizarem, informarem favoravelmente ou omitirem informação relativamente à admissão ou permanência de pessoal em contravenção das normas constantes do presente decreto legislativo regional são solidariamente responsáveis pela reposição das quantias indevidamente pagas, para além da responsabilidade civil e disciplinar que ao caso couber.
+(Revogado.)
 
 ###### Artigo 14.º — (Contrato de prestação de serviço)
 
@@ -357,121 +339,31 @@ d) Quando se trate de pessoal docente ou de investigação.
 
 ###### Artigo 16.º — (Princípio geral)
 
-Incumbe à administração regional autónoma assegurar a mobilidade profissional e territorial dos funcionários e agentes, visando optimizar o aproveitamento dos seus efectivos e o apoio à política de descentralização e desenvolvimento regional.
+(Revogado.)
 
 ###### Artigo 17.º — (Instrumentos de mobilidade)
 
-São instrumentos de mobilidade:
-
-a) O concurso;
-
-b) A permuta;
-
-c) A transferência;
-
-d) O destacamento;
-
-e) A requisição;
-
-f) A deslocação;
-
-g) A rotação;
-
-h) A afectação colectiva;
-
-i) A reclassificação profissional;
-
-j) A reconversão profissional;
-
-l) A constituição de excedentes.
+(Revogado.)
 
 ###### Artigo 18.º — (Concurso)
 
-1 - O concurso é o processo de recrutamento e selecção normal e obrigatório para o provimento de lugares vagos que determinado serviço, para prosseguir os seus fins, necessita de prover, podendo ser também utilizado para a constituição de reservas de recrutamento, com vista à satisfação de necessidades previsionais de pessoal, independentemente da existência de vagas.
-
-2 - O recrutamento e selecção podem ser centralizados.
-
-3 - A obrigatoriedade do concurso deve entender-se sem prejuízo da utilização dos restantes instrumentos de mobilidade previstos na lei.
-
-4 - O regime do concurso consta de diploma próprio.
+(Revogado.)
 
 ###### Artigo 19.º — (Permuta)
 
-1 - A permuta é a troca entre funcionários pertencentes a quadros de pessoal de serviços ou organismos distintos, bem como entre aqueles e o pessoal originário dos quadros e afecto a quadros de efectivos interdepartamentais.
-
-2 - A permuta pode fazer-se entre funcionários da mesma categoria e carreira ou entre funcionários de carreiras diferentes, requerendo-se, porém, neste último caso, que os permutandos sejam remunerados pela mesma letra de vencimento, que o conteúdo funcional das respectivas funções seja idêntico ou afim e que sejam respeitados os requisitos habilitacionais.
-
-3 - A permuta faz-se a requerimento dos permutandos ou por iniciativa da Administração, mas com o acordo daqueles.
-
-4 - A permuta é autorizada por despacho do membro ou membros do Governo Regional competentes, podendo tal competência ser delegada nos dirigentes máximos dos serviços.
-
-5 - A permuta entre funcionários autárquicos e dos serviços e organismos previstos nas alíneas a) e b) do artigo 1.º processa-se nos termos do presente artigo.
-
-6 - Para efeitos do n.º 2 anterior, a identidade ou afinidade de conteúdo funcional será determinada com base em declarações passadas e autenticadas pelos serviços ou organismos de origem dos funcionários, as quais especificarão detalhadamente o conjunto de tarefas e responsabilidades inerentes aos respectivos postos de trabalho.
-
-7 - Em ordem a racionalizar e a facilitar os processos de permuta, os funcionários da administração regional ou local podem manifestar junto da secretaria regional que tiver a seu cargo a Administração Pública o interesse em serem permutados, indicando para o efeito as respectivas funções, categorias e carreiras, bem como a localidade ou localidades onde desejariam ser colocados; de igual modo os serviços da administração regional ou local, através da Direcção Regional da Administração Pública, podem manifestar as respectivas ofertas de permuta.
-
-8 - A permuta carece de visto da Comissão Regional de Contas e de publicação na 2.ª série do Jornal Oficial da Região Autónoma da Madeira.
+(Revogado.)
 
 ###### Artigo 20.º — (Transferência)
 
-1 - A transferência é a mudança do funcionário para lugar de quadro diverso daquele em que está colocado em serviços abrangidos pelo presente diploma.
-
-2 - A transferência faz-se a requerimento do interessado ou por iniciativa da Administração e por conveniência de serviço, devidamente fundamentada, de facto e de direito, para lugar vago da mesma categoria e carreira ou de carreira diferente mas a que corresponda a mesma letra de vencimento e identidade ou afinidade de conteúdo funcional e idênticos requisitos habilitacionais.
-
-3 - Quanto efectuada por conveniência de serviço, a transferência não poderá fazer-se para lugar situado fora do concelho do lugar de origem, a menos que se verifique o acordo do funcionário a transferir.
-
-4 - A transferência é determinada por despacho do membro ou membros do Governo Regional competentes, consoante se efectue para o serviço do mesmo ou de diferente departamento governamental ou de instituto público deles dependente.
-
-5 - A transferência pode ainda fazer-se de lugar dos quadros da administração regional para lugar dos quadros da administração local, ou vice-versa, observadas as condições estabelecidas nos números anteriores e mediante deliberação do órgão executivo, autárquico.
-
-6 - A transferência pode verificar-se para categoria imediatamente superior nos casos e termos que forem previstos no diploma regional que regulamentar o [Decreto-Lei n.º 45/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1984-367852), de 3 de Fevereiro.
-
-7 - Em ordem a racionalizar e a facilitar os processos de transferência, os funcionários da administração regional ou local podem manifestar junto do membro do Governo Regional que tiver a seu cargo a Administração Pública o interesse em serem transferidos, indicando para o efeito as respectivas funções, categorias e carreiras, bem como a localidade ou localidades onde desejariam ser colocados; de igual modo os serviços da administração regional ou local, através da Direcção Regional da Administração Pública, podem manifestar as suas necessidades.
-
-8 - De posse dos elementos referidos no número anterior, o membro do Governo Regional que tiver a seu cargo a Administração Pública comunicará aos funcionários e serviços as ofertas e os pedidos de transferência com interesse mútuo.
-
-9 - A transferência está sujeita ao regime geral em matéria de visto, publicação e posse.
+(Revogado.)
 
 ###### Artigo 21.º — (Destacamento)
 
-1 - Quanto for necessário assegurar o exercício transitório de tarefas excepcionais em qualquer dos serviços abrangidos no âmbito do presente diploma que não tenha o pessoal adequado ou suficiente, poderá recorrer-se ao destacamento de funcionários ou agentes de outros desses serviços dependentes do mesmo departamento governamental.
-
-2 - O destacamento rege-se pelos seguintes princípios:
-
-a) É temporário, podendo fazer-se por períodos até 1 ano, prorrogáveis até um máximo de 2;
-
-b) Exige a adequação entre as funções a exercer e as habilitações ou qualificações profissionais do funcionário ou agente a destacar e é-lhe aplicável o disposto no n.º 3 do artigo anterior;
-
-c) Não dá lugar à abertura de vaga no quadro de origem;
-
-d) É feito por despacho fundamentado do membro do Governo competente, por si ou na base de proposta do serviço interessado;
-
-e) Os encargos com o funcionário ou agente destacado são suportados pelo serviço ou instituto público de origem, salvo no que se refere ao pagamento de remunerações complementares inerentes ao serviço utilizador;
-
-f) O serviço prestado na situação de destacado considera-se, para todos os efeitos legais, como prestado no serviço de origem.
-
-3 - Excepcionalmente, quando o serviço interessado não tenha verbas disponíveis para proceder à requisição, o destacamento poderá fazer-se entre serviços abrangidos por este diploma dependentes de departamentos governamentais diversos, exigindo-se, porém, nesse caso o acordo dos respectivos membros do Governo Regional e devendo o destacamento ser convertido em requisição dentro do prazo máximo de 1 ano.
+(Revogado.)
 
 ###### Artigo 22.º — (Requisição)
 
-1 - Quando se verifique o condicionalismo previsto no n.º 1 do artigo anterior, poderá recorrer-se ainda à requisição de funcionários e agentes de serviços abrangidos pelo presente diploma dependentes de outro departamento governamental.
-
-2 - A requisição rege-se pelos princípios enunciados nas alíneas a), b) e c) do n.º 2 do artigo anterior e ainda pelos seguintes:
-
-a) O lugar de origem do funcionário ou agente requisitado pode ser preenchido interinamente;
-
-b) É feita por despacho fundamentado do membro do Governo requisitante, por si ou na base de proposta do serviço interessado, precedendo concordância do membro do Governo Regional de quem o funcionário ou agente dependa;
-
-c) Os encargos com o funcionário ou agente requisitado são suportados pelo orçamento do serviço requisitante, podendo, porém, o interessado optar pelo estatuto remuneratório do lugar de origem;
-
-d) Não prejudica quaisquer direitos e regalias dos funcionários ou agentes requisitados inerentes ao lugar de origem;
-
-e) Carece de visto da Comissão Regional de Contas, bem como de publicação na 2.ª série do Jornal Oficial da Região Autónoma da Madeira.
-
-3 - A requisição de funcionários e agentes da administração regional para a administração local, ou desta para aquela, faz-se com observância dos princípios constantes do número anterior e depende de deliberação do executivo autárquico.
-
-4 - A requisição pode fazer-se para a categoria superior nos casos que forem previstos no diploma regional que regulamentar o [Decreto-Lei n.º 45/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1984-367852), de 3 de Fevereiro.
+(Revogado.)
 
 ###### Artigo 23.º — (Destacamento e requisição para empresas públicas e pessoas colectivas de direito privado)
 
@@ -481,69 +373,21 @@ e) Carece de visto da Comissão Regional de Contas, bem como de publicação na 
 
 ###### Artigo 24.º — (Deslocação)
 
-Quando num dos serviços abrangidos pelo presente diploma se verifique uma situação de desadequação ou de insuficiência de pessoal para o exercício das funções que lhe estão cometidas e noutro desses serviços dependentes do mesmo departamento governamental houver pessoal desadequado, transitoriamente subocupado ou se verifiquem, situações susceptíveis de dar origem à constituição de excedentes, podem os dirigentes desses organismos propor a deslocação do pessoal necessário, com ou sem reciprocidade.
-
-2 - A deslocação rege-se pelos seguintes princípios:
-
-a) É feita por despacho do membro do Governo Regional competente, na base de proposta dos dirigentes dos serviços;
-
-b) Da referida proposta deverá constar, além da respectiva justificação, a identificação dos funcionários e agentes a deslocar e a enunciação dos factos determinantes do termo da deslocação;
-
-c) Exige a adequação entre as funções a exercer e as habilitações ou qualificações profissionais dos funcionários ou agentes a deslocar;
-
-d) Salvo acordo dos deslocados, a deslocação só se poderá fazer para os serviços sediados na área do mesmo concelho do lugar de origem ou para concelhos limítrofes, nos termos previstos no n.º 3 do artigo 20.º, devendo ser fundamentada de facto e de direito;
-
-e) Não dá lugar à abertura de vaga no quadro de origem;
-
-f) Os funcionários ou agentes a deslocar mantêm o estatuto remuneratório do lugar de origem, sendo por este pagos, salvo no que se refere a remunerações complementares inerentes ao serviço utilizador;
-
-g) Não prejudica quaisquer direitos ou regalias dos funcionários ou agentes deslocados.
-
-3 - Verificando-se que a deslocação serve necessidades permanentes dos serviços intervenientes, poderá proceder-se à correcção recíproca dos respectivos quadros de pessoal e ao provimento ou contratação, dos funcionários e agentes deslocados, com o acordo destes, devendo, porém, a correcção ser simultânea e não devendo dela resultar aumento global de encargos para o conjunto de serviços cujos quadros sejam assim alterados.
+(Revogado.)
 
 ###### Artigo 25.º — (Rotação)
 
-1 - Com vista a estimular a polivalência profissional e melhor assegurar a independência e imparciabilidade e a proporcionar um mais aprofundado conhecimento da organização, funcionamento e necessidades da Administração, poderão as leis reguladoras da orgânica dos serviços e dos estatutos de carreiras prever prazos máximos de permanência de certas categorias de funcionários em determinadas funções e lugares, definindo as respectivas regras de rotação.
-
-2 - Sempre que as circunstâncias o justifiquem, os membros do Governo Regional competentes podem, por despacho, na base de planos anuais ou plurianuais a apresentar pelos dirigentes dos serviços deles dependentes, implementar os mecanismos de rotação adequados que permitam a prestação de serviço na mesma categoria em diferentes organismos do mesmo departamento governamental regional, os quais, salvo lei especial que o preveja, ficam sujeitos ao disposto no n.º 3 do artigo 20.º
-
-3 - À rotação pode, nos termos previstos no n.º 1, ser atribuída a natureza de requisito de promoção.
+(Revogado.)
 
 ###### Artigo 26.º — (Afectação colectiva)
 
-1 - Quando for necessário assegurar a realização atempada de trabalhos ou projectos de importância prioritária cometidos a serviço abrangido pelo presente diploma que não tenha o pessoal adequado ou suficiente, poderá determinar-se a afectação colectiva do pessoal requerido, a deslocar de outros desses serviços dependentes do mesmo ou de diversos departamentos governamentais.
-
-2 - Quando se verifique o condicionalismo previsto no número anterior e a realização dos trabalhos ou projectos for considerada de interesse público, a afectação colectiva pode ainda fazer-se para empresa do sector público, privado ou cooperativo, bem como para associação ou fundação.
-
-3 - A afectação colectiva rege-se pelos seguintes princípios:
-
-a) É temporária, devendo a respectiva duração ser fixada no despacho que a determinar;
-
-b) Exige a adequação entre os trabalhos ou projecto a realizar e as habilitações ou qualificações profissionais do pessoal a afectar, sendo-lhe ainda aplicável o disposto no n.º 3 do artigo 20.º;
-
-c) Não dá lugar à abertura de vagas nos quadros de origem;
-
-d) É feita por despacho do membro ou membros do Governo Regional competentes, por si ou na base de pedido da entidade interessada, devendo aquele despacho ser fundamentado de facto e de direito;
-
-e) Os encargos com o pessoal abrangido pela afectação são suportados pelos serviços de origem;
-
-f) O serviço prestado na situação de afectação considera-se, para todos os efeitos, como prestado no serviço de origem.
-
-4 - Verificado o fundamento para se proceder à afectação colectiva de pessoal, o membro ou membros do Governo Regional competentes remeterão aos respectivos responsáveis pelo serviço de organização e pessoal a competente directiva, na qual poderão fixar-se quotas de comparticipação obrigatória em pessoal por parte dos serviços abrangidos, a fim de que aqueles dirigentes procedam, dentro do prazo supletivo de 5 dias, em conjunto com a entidade interessada na afectação e de acordo com as suas necessidades, à individualização do pessoal a afectar.
+(Revogado.)
 
 ###### Artigo 27.º — (Reclassificação e reconversão profissional)
 
-1 - Quando se verifiquem situações de reorganização ou de reestruturação de serviços, e em ordem a facilitar a redistribuição de efectivos, respeitando a adequação entre o conteúdo funcional dos postos de trabalho e as capacidades e aptidões dos funcionários e agentes, poderão estes, por iniciativa da Administração, ser objecto de reclassificação e ou reconversão profissional.
+(Revogado.)
 
-2 - A reclassificação consiste na atribuição de categoria diferente da que o funcionário ou agente é titular, de outra carreira, e exige que aqueles reúnam os requisitos legalmente exigidos para a nova categoria.
-
-3 - A reconversão consiste igualmente na mudança de categoria, da mesma ou de outra carreira, precedida da frequência com aprovação de um curso de formação profissional, prescindindo-se neste caso das habilitações literárias exigíveis.
-
-4 - Os critérios de reclassificação e reconversão profissional serão objecto, respectivamente, de portaria conjunta do Secretário Regional do Plano, do membro do Governo Regional interessado e do secretário regional que tiver a seu cargo a Administração Pública e de decreto legislativo regional.
-
-5 - A reclassificação e a reconversão profissional far-se-ão para categoria remunerada pela mesma letra de vencimento, ou imediatamente superior, quando não se verifique coincidência de remuneração, excepto quando haja lugar a reconversão profissional na mesma carreira, caso em que se processará sempre para a categoria imediata.
-
-6 - A reclassificação e a reconversão carecem de visto da Comissão Regional de Contas e de publicação na 2.ª série do Jornal Oficial da Região Autónoma da Madeira.
+> Revogado pelo/a [Decreto Legislativo Regional n.º 8/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2000-505630), publicado em 2000-04-01, com efeitos a partir de 2000-04-02.
 
 ###### Artigo 28.º — (Constituição de excedentes)
 
@@ -551,11 +395,7 @@ A constituição, gestão e destinos de efectivos excedentários é regulada por
 
 ###### Artigo 29.º — (Situações com regime especial)
 
-1 - A duração das situações precárias constituídas ao abrigo de instrumentos de mobilidade para serviços desconcentrados da administração regional autónoma não se encontra submetida aos prazos previstos no presente diploma, sempre que os funcionários e agentes se encontrem abrangidos pelo [Decreto-Lei n.º 42/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1984-367856), de 3 de Fevereiro.
-
-2 - Atendendo à natureza especial de determinados serviços, podem também as situações de destacamento e requisição de pessoal não ficar sujeitas aos períodos de duração previstos no presente diploma, mediante resolução do Conselho do Governo Regional.
-
-3 - As situações de destacamento e requisição referidas no número anterior podem cessar em qualquer momento por despacho do membro do Governo Regional do qual dependa o serviço no qual o funcionário ou agente esteja destacado ou requisitado.
+(Revogado.)
 
 ### CAPÍTULO V — Medidas de descongestionamento da função pública
 
@@ -637,7 +477,7 @@ Os mapas I e II anexos ao presente diploma podem ser alterados por portaria do m
 
 ###### Artigo 36.º — (Destacamentos e requisições anteriores)
 
-Os destacamentos e requisições efectuados antes da entrada em vigor do presente diploma continuam a reger-se, até ao seu termo, pelas disposições legais na base das quais foram feitos.
+(Revogado.)
 
 ###### Artigo 37.º — (Prevalência)
 

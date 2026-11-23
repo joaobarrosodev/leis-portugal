@@ -45,7 +45,7 @@ version_history:
     changes: []
   - date: '1973-05-09'
     amending: pt:dre:535420:por
-    amending_title: Decreto-Lei n.º 46046; Decreto-Lei n.º 210/73
+    amending_title: Decreto-Lei n.º 46046; Decreto-Lei n.º 210/73; Decreto-Lei n.º 498/72
     changes:
     - Altera Artigo 2.º
     - Altera Artigo 3.º
@@ -53,6 +53,9 @@ version_history:
     - Revoga Artigo 4.º
     - Revoga Artigo 5.º
     - Revoga Artigo 6.º
+    - Revoga Artigo 1
+    - Revoga Artigo 2
+    - Revoga Artigo 3
 identifiers:
   celex: null
   eli: null
@@ -79,7 +82,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T21:48:51Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 46046; Decreto-Lei
-    n.º 210/73. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1964/decreto-lei-45684.alteracoes.json'
+    n.º 210/73. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1964/decreto-lei-45684.alteracoes.json.
+    Revogações registadas só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Decreto-Lei
+    n.º 498/72.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -192,65 +197,19 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ###### Artigo 1.º
 
-Têm direito à reforma extraordinária os militares que nesta qualidade são subscritores da Caixa Geral de Aposentações e que se tornem inábeis para o serviço por algumas das causas seguintes:
+(Revogado.)
 
-a) Moléstia, ferimento ou mutilação contraída no exercício das suas funções e por motivo do seu desempenho;
-
-b) Ferimento ou mutilação em campanha ou na manutenção da ordem pública;
-
-c) Moléstia, ferimento ou mutilação resultante da prática de algum acto humanitário ou de dedicação à causa pública.
-
-§ 1.º Para os efeitos da alínea b) considera-se também como ferimento a intoxicação ou outros danos produzidos por gases de combate ou quaisquer outros meios de guerra que produzam no organismo causas de incapacidade, mesmo que os seus efeitos venham a manifestar-se posteriormente.
-
-§ 2.º A reforma extraordinária é concedida independentemente da idade e do tempo de serviço.
-
-§ 3.º Nos casos das alíneas b) e c), a pensão de reforma é devida por inteiro e, nos restantes casos, é calculada em função dos anos de serviço e do grau de incapacidade, conforme o estabelecido no artigo 3.º
+> Revogado pelo/a [Decreto-Lei n.º 498/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1972-685188), publicado em 1972-12-09.
 
 ###### Artigo 2.º
 
-O pessoal miliciano, o pessoal das reservas da marinha, os primeiros e segundos-cabos, os soldados e os grumetes, não abrangidos pelo artigo anterior, quando, no desempenho dos seus deveres militares e por qualquer das causas referidas no mesmo artigo, venham a sofrer de impotência funcional a que corresponda a incapacidade profissional igual ou superior a 15 por cento, segundo a tabela nacional de incapacidade, aprovada pelo [Decreto n.º 43189](https://diariodarepublica.pt/dr/detalhe/decreto/43189-1960-514848), de 23 de Setembro de 1960, têm direito ao abono de uma pensão de invalidez, que será fixada nos mesmos termos em que, segundo as disposições do presente diploma, o é a pensão de reforma extraordinária dos militares subscritores da Caixa Geral de Aposentações.
-
-§ 1.º O processo a observar para a concessão e pagamento das pensões de invalidez de que trata este artigo é em tudo o estabelecido para as pensões de reforma e corre pela Caixa Geral de Aposentações, que para tal fim é abonada pelo Estado das importâncias necessárias à satisfação das pensões concedidas.
-
-§ 2.º Não se produzindo prova bastante da profissão do militar na vida civil, funcionará, subsidiàriamente, o critério de avaliação da incapacidade em função daquela sua qualidade.
-
-§ 3.º No Orçamento Geral do Estado é inscrita, em rubrica especial, a verba necessária para abonar à Caixa Geral de Aposentações a importância das pensões de invalidez que haja de pagar nos termos do § 1.º
-
-§ 4.º Os beneficiários das pensões de invalidez concedidas nos termos do corpo deste artigo ficam abrangidos pelas disposições aplicáveis aos militares reformados extraordinàriamente.
+(Revogado.)
 
 > Alterado pelo/a [Decreto-Lei n.º 46046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46046-1964-535420), publicado em 1964-11-27.
 
 ###### Artigo 3.º
 
-A pensão de reforma extraordinária dos militares, quando devida por inteiro, é igual ao vencimento anual correspondente ao posto no activo, líquido do correspondente à quota, quando outro valor não seja de considerar nos termos dos parágrafos seguintes. Nos casos em que o número de anos de serviço e o grau de incapacidade sejam elementos a considerar, a pensão é calculada pela seguinte fórmula:
-
-P = [(Vn/40) + g (V - (Vn/40))]
-
-em que V representa o vencimento anual correspondente ao posto no activo, líquido do correspondente à quota, g o grau de incapacidade e n o número de anos de serviço, ao qual não pode ser atribuído valor superior a 40.
-
-§ 1.º Quando se trate de cabos e soldados do Exército e da Força Aérea ou de praças da Armada de graduação inferior a marinheiro, o valor a atribuir a V será o vencimento anual de marinheiro, líquido do correspondente à quota; este será também o valor da respectiva pensão por inteiro, quando esta seja devida.
-
-§ 2.º Desde que o militar comprove que a média dos vencimentos percebidos durante os últimos dez anos que precederam a passagem à reforma, sobre os quais incidiu o desconto para a Caixa Geral de Aposentações, é supeperior ao vencimento anual correspondente ao posto do activo, será essa média que servirá para a determinação da pensão, a qual, no entanto, não poderá exceder o limite previsto no artigo 19.º do [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), de 23 de Novembro de 1935, na escala geral dos vencimentos, sendo o máximo admitido o correspondente à letra A da mesma escala. São exceptuados da média referida os abonos mencionados no § 3.º do artigo 3.º do [Decreto-Lei n.º 39843](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39843-1954-678604), de 7 de Outubro de 1954, e no artigo 2.º do [Decreto-Lei n.º 41387](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41387-1957-251643), de 22 de Novembro de 1957.
-
-§ 3.º Para o pessoal especializado que tenha servido na Aeronáutica Naval ou na Força Aérea, tenha feito parte das guarnições dos submersíveis ou tenha sido mergulhador militar (sapador ou normal), ao valor da pensão calculada nos termos do corpo deste artigo adicionar-se-ão os seguintes quantitativos:
-
-(6/15000)n' . G + g ((6/10) - (6/15000)n') . G
-
-para o pessoal que tenha servido na aeronáutica naval ou na Força Aérea;
-
-(6/4500)n' . G + g ((6/10) - (6/4500)n') . G
-
-para o pessoal que tenha servido nos submersíveis;
-
-(6/15000)n' . G + g ((6/10) - (6/15000 n') . G
-
-para o pessoal que tenha sido mergulhador sapador;
-
-(6/2000)n' . G + g ((6/10) - (6/2000)n') . G
-
-para o pessoal que tenha sido mergulhador normal, em que g representa o grau de incapacidade, G a gratificação anual que o militar recebia no último posto em que efectuou voos ou em que realizou imersões (pessoal dos submersíveis e mergulhador), conforme os casos, e n' o número de horas de voo ou de imersão que tiver efectuado, porém, com limites de 1500, 450, 150 e 200 horas, respectivamente. Nos casos em que a pensão seja devida por inteiro, o quantitativo a adicionar à pensão será igual a 0,60 G.
-
-§ 4.º Se a pensão for de calcular com base na média dos abonos nos últimos dez anos, a gratificação de serviço aéreo, de imersão ou de serviços de mergulhador intervirá para a formação da mesma média, não sendo de adicionar à pensão nos termos referidos no parágrafo anterior.
+(Revogado.)
 
 > Alterado pelo/a [Decreto-Lei n.º 46046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46046-1964-535420), publicado em 1964-11-27.
 

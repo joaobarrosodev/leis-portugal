@@ -44,9 +44,17 @@ version_history:
     changes: []
   - date: '1992-04-08'
     amending: pt:dre:151973:por
-    amending_title: Decreto-Lei n.º 20/92
+    amending_title: Decreto-Lei n.º 20/92; Decreto-Lei n.º 57/85; Portaria n.º 207/86
     changes:
     - Altera Artigo 1.º
+    - Revoga Artigo 2
+    - Revoga Artigo 3
+    - Revoga Artigo 4
+    - Revoga Artigo 5
+    - Revoga Artigo 7
+    - Revoga Artigo 10
+    - Revoga Artigo 11
+    - Revoga Artigo 1
 identifiers:
   celex: null
   eli: null
@@ -73,7 +81,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:32:41Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 20/92. Método e verificação:
-    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1967/portaria-22767.alteracoes.json'
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1967/portaria-22767.alteracoes.json. Revogações registadas
+    só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Decreto-Lei n.º 57/85;
+    Portaria n.º 207/86.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -171,55 +181,7 @@ e) (Revogada.)
 
 f) (Revogada.)
 
-g) Resíduos da extracção de gorduras e óleos:
-
-1.º Os resíduos da extracção de gorduras e óleos - bagaços - obtidos mecânicamente ou por dissolventes serão designados conforme as sementes ou frutos de que derivam, podendo apresentar-se farinados, granulados, moldados ou em pasta. Os resíduos de extracção por dissolventes só poderão ser utilizados como alimento quando não revelem a presença acentuada do dissolvente.
-
-2.º Estes produtos, quando comercializados, serão acompanhados de indicação dos teores máximos em água, fibra bruta, gordura e resíduo no tetracloreto de carbono e o teor mínimo de proteína bruta. No caso do bagaço de algodão, deverá obrigatòriamente indicar-se o teor máximo de gossipol livre. Será fixado por despacho do Secretário de Estado da Indústria o teor máximo de aflatoxinas que o bagaço de amendoim poderá conter para cada uma das utilizações a que o mesmo se destine, em harmonia com a idade dos animais.
-
-3.º Os bagaços de oleaginosas a seguir indicados deverão obedecer, pelo menos, às características seguintes:
-
-I) Bagaço de amendoim:
-
-... Percentagens
-
-Teor em água - máximo ... 12
-
-Proteína bruta - mínimo ... 46
-
-Fibra bruta - máximo ... 10
-
-Cinzas totais - máximo ... 6
-
-II) Bagaço de palmiste:
-
-Teor em água - máximo ... 12
-
-Proteína bruta - mínimo ... 17
-
-Fibra bruta - máximo ... 18
-
-Cinzas totais - máximo ... 6
-
-III) Bagaço de soja:
-
-Teor em água - máximo ... 12
-
-Proteína bruta - mínimo ... 43
-
-Fibra bruta - máximo ... 7
-
-Cinzas totais - máximo ... 6
-
-IV) Bagaço de algodão:
-
-Teor em água - máximo ... 12
-
-Proteína bruta - mínimo ... 46
-
-Fibra bruta - máximo ... 10
-
-Cinzas totais - máximo ... 7
+g) (Revogada.)
 
 h) (Revogada.)
 
@@ -237,29 +199,25 @@ n) (Revogada.)
 
 > Alterado pelo/a [Decreto-Lei n.º 20/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-1992-151973), publicado em 1992-02-08.
 
+> Revogado pelo/a [Portaria n.º 207/86](https://diariodarepublica.pt/dr/detalhe/portaria/207-1986-227583), publicado em 1986-05-12, com efeitos a partir de 1986-08-10.
+
 ###### Artigo 2.º
 
-Para todos os produtos de origem animal observar-se-á o disposto no [Decreto-Lei n.º 41364](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41364-1957-253059), de 14 de Novembro de 1957.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 57/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-1985-326284), publicado em 1985-03-06, com efeitos a partir de 1985-03-11.
 
 ###### Artigo 3.º
 
-Todos os alimentos simples não incluídos no artigo 1.º desta portaria só poderão ser comercializados com a designação correcta da sua natureza ou proveniência.
+(Revogado.)
 
 ###### Artigo 4.º
 
-Para efeitos de comercialização, todos os alimentos simples que tenham sido objecto de transformação ou preparação industrial, além de terem de satisfazer ao disposto no Regulamento de Preparação e Comércio de Alimentos para Animais e nos artigos 1.º e 3.º desta portaria, deverão ser acompanhados, quando embalados, de dísticos, rótulos ou etiquetas dos quais constem as indicações seguintes:
-
-Teores máximos em água, fibra bruta, cinzas totais e cinzas insolúveis no HCl a 10 por cento.
-
-Teor mínimo de proteína bruta para os produtos indicados nas alíneas g), k), l), m) e n) do artigo 1.º
-
-§ único. Quando comercializados a granel, as indicações referidas no corpo deste artigo serão garantidas pelo vendedor.
+(Revogado.)
 
 ###### Artigo 5.º
 
-Não é permitida a utilização como alimentos para animais, bem como a sua incorporação nos alimentos compostos, dos seguintes géneros:
-
-Purgueira; rícino e seus derivados; cascas de arroz, cacau, amendoim, algodão e caju; grainha de uva isolada; carolo de milho; palhas moídas; resíduos de fermentação alcoólica de alfarroba, e, de uma maneira geral, todas as substâncias lenhosas ou siliciosas.
+(Revogado.)
 
 ###### Artigo 6.º
 
@@ -285,15 +243,7 @@ III) Alimentos para bovinos e ovinos
 
 ###### Artigo 7.º
 
-Na expedição, transporte e exposição à venda, os alimentos simples que tenham sido objecto de transformação deverão, quando embalados, ser acompanhados de dísticos, rótulos ou etiquetas onde constem as indicações seguintes:
-
-Nome da empresa que preparou o produto;
-
-Designação do produto;
-
-Características ou composição em relação aos constituintes que vierem a ser definidos.
-
-§ único. Quando os alimentos simples transformados forem comercializados a granel, as indicações referidas no corpo deste artigo serão garantidas pelo vendedor.
+(Revogado.)
 
 ###### Artigo 8.º
 
@@ -331,26 +281,10 @@ b) Serem acompanhados de guia de remessa, passada pelo fabricante, onde obrigat�
 
 ###### Artigo 10.º
 
-A incorporação nos alimentos compostos dos alimentos simples a seguir referidos fica sujeita às limitações que se indicam:
-
-1.ª Grão da «gramicha»:
-
-O grão da «gramicha» não poderá ser incorporado nos alimentos compostos destinados a equídeos e nos destinados a suínos não deverá ser utilizado em percentagem superior a 10 por cento.
-
-2.ª Alfarroba:
-
-Não é permitida a utilização de farinha de alfarroba nos alimentos compostos destinados a animais em crescimento, ficando limitada a sua incorporação ao máximo de 10 por cento nos destinados a ruminantes e equídeos e 5 por cento nos destinados à engorda de suínos.
-
-3.ª Bagaço de algodão:
-
-Não é permitida a incorporação de bagaço de algodão nos alimentos destinados a aves em postura, podendo, contudo, entrar na composição de outros alimentos, desde que a percentagem de gossipol livre não ultrapasse 0,01 por cento no caso dos alimentos compostos destinados a aves, suínos e equídeos.
-
-4.ª Bagaço de amendoim:
-
-O bagaço de amendoim não poderá ser incorporado nos alimentos destinados a patos e equídeos.
+(Revogado.)
 
 ###### Artigo 11.º
 
-Esta portaria entra imediatamente em vigor, excepto no que respeita às características mencionadas nos artigos 1.º, 3.º, 4.º e 6.º, em que é dado o prazo de 60 dias para elaboração de novas etiquetas e 120 dias para efeitos de fiscalização, a partir da data da sua publicação.
+(Revogado.)
 
 Secretarias de Estado do Comércio e da Indústria, 5 de Julho de 1967. - O Secretário de Estado do Comércio, Fernando Manuel Alves Machado. - O Secretário de Estado da Indústria, Manuel Rafael Amaro da Costa.

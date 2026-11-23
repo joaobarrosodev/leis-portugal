@@ -44,7 +44,7 @@ version:
   kind: consolidated
   label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: '2008-08-19'
+  consolidation_date: '2017-09-29'
 version_history:
   file: portaria-2-a-2004.versoes.json
   count: 2
@@ -54,12 +54,13 @@ version_history:
     amending: null
     amending_title: null
     changes: []
-  - date: '2008-08-19'
+  - date: '2017-09-29'
     amending: pt:dre:455603:por
-    amending_title: Portaria n.º 874/2008
+    amending_title: Portaria n.º 874/2008; Portaria n.º 290/2017
     changes:
     - Altera Artigo unidades 15-17
     - Altera Artigo unidades 18-20
+    - Revoga anexo ou texto fora do articulado
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/2-a/2004/01/05/p/dre/pt/html
@@ -86,7 +87,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:57:49Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 874/2008. Método e verificação:
-    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2004/portaria-2-a-2004.alteracoes.json'
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2004/portaria-2-a-2004.alteracoes.json. Revogações registadas
+    só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Portaria n.º 290/2017.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -172,15 +174,15 @@ Manda o Governo, pelos Ministros de Estado e das Finanças e da Justiça, ao abr
 
 Quadro dos magistrados judiciais do Supremo Tribunal Administrativo e representação do Ministério Público no Supremo Tribunal Administrativo.
 
-1 - O quadro dos magistrados judiciais do Supremo Tribunal Administrativo é o fixado no mapa I anexo.
+(Revogado.)
 
-2 - Nos termos da lei, o Ministério Público é representado no Supremo Tribunal Administrativo pelo Procurador-Geral da República, que pode fazer substituir-se por procuradores-gerais-adjuntos.
+> Revogado pelo/a [Portaria n.º 290/2017](https://diariodarepublica.pt/dr/detalhe/portaria/290-2017-108228012), publicado em 2017-09-28, com efeitos a partir de 2017-09-29.
 
 2.º
 
 Quadro dos magistrados dos tribunais centrais administrativos
 
-Os quadros dos magistrados dos tribunais centrais administrativos são os fixados nos mapas II e III anexos.
+(Revogado.)
 
 3.º - (Revogado.)
 
@@ -198,71 +200,19 @@ MAPA I
 
 Quadro de juízes do Supremo Tribunal Administrativo
 
-Presidente - 1.
-
-Secção de Contencioso Administrativo
-
-Juízes - 27 (sendo 15 lugares a extinguir quando vagarem).
-
-Secção de Contencioso Tributário
-
-Juízes - 11 (sendo 2 lugares a extinguir quando vagarem).
+(Revogado.)
 
 MAPA II
 
 Quadro de juízes dos tribunais centrais administrativos
 
-Tribunal Central Administrativo Norte
-
-Presidente - 1.
-
-Secção de Contencioso Administrativo
-
-Juízes - 10.
-
-Secção de Contencioso Tributário
-
-Juízes - 6.
-
-Tribunal Central Administrativo Sul
-
-Presidente - 1.
-
-Secção de Contencioso Administrativo
-
-Juízes - 10.
-
-Secção de Contencioso Tributário
-
-Juízes - 8.
+(Revogado.)
 
 MAPA III
 
 Quadro de magistrados do Ministério Público nos tribunais centrais administrativos
 
-Tribunal Central Administrativo Norte
-
-Procurador-geral-adjunto-coordenador - 1.
-
-Secção de Contencioso Administrativo
-
-Procuradores-gerais-adjuntos - 5.
-
-Secção de Contencioso Tributário
-
-Procuradores-gerais-adjuntos - 3.
-
-Tribunal Central Administrativo Sul
-
-Procurador-geral-adjunto-coordenador - 1.
-
-Secção de Contencioso Administrativo
-
-Procuradores-gerais-adjuntos - 5.
-
-Secção de Contencioso Tributário
-
-Procuradores-gerais-adjuntos - 4.
+(Revogado.)
 
 MAPA IV
 

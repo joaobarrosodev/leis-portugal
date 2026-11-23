@@ -15,7 +15,7 @@
    ]
   },
   {
-   "date": "1978-04-03",
+   "date": "1979-12-30",
    "future": false,
    "acts": [
     {
@@ -29,74 +29,140 @@
      "title": "Decreto-Lei n.º 139/72",
      "published": "1972-04-29",
      "dre_path": "/dr/detalhe/decreto-lei/139-1972-679864"
+    },
+    {
+     "id": "pt:dre:509792:por",
+     "title": "Decreto-Lei n.º 47627",
+     "published": "1967-04-07",
+     "dre_path": "/dr/detalhe/decreto-lei/47627-1967-509792"
+    },
+    {
+     "id": "pt:dre:686602:por",
+     "title": "Decreto-Lei n.º 468/72",
+     "published": "1972-11-22",
+     "dre_path": "/dr/detalhe/decreto-lei/468-1972-686602"
+    },
+    {
+     "id": "pt:dre:685601:por",
+     "title": "Decreto n.º 556/72",
+     "published": "1972-12-26",
+     "dre_path": "/dr/detalhe/decreto/556-1972-685601"
+    },
+    {
+     "id": "pt:dre:157053:por",
+     "title": "Decreto-Lei n.º 519-D1/79",
+     "published": "1979-12-29",
+     "dre_path": "/dr/detalhe/decreto-lei/519-d1-1979-157053"
     }
    ],
    "changes": [
     "Altera Artigo 21.º",
-    "Altera Artigo 117"
+    "Altera Artigo 117",
+    "Revoga Artigo 4",
+    "Revoga Artigo 5",
+    "Revoga Artigo 25",
+    "Revoga Artigo 31",
+    "Revoga Artigo 37",
+    "Revoga Artigo 38",
+    "Revoga Artigo 39",
+    "Revoga Artigo 40",
+    "Revoga Artigo 41",
+    "Revoga Artigo 50",
+    "Revoga Artigo 54",
+    "Revoga Artigo 55",
+    "Revoga Artigo 59",
+    "Revoga Artigo 69",
+    "Revoga Artigo 73",
+    "Revoga Artigo 74",
+    "Revoga Artigo 57",
+    "Revoga Artigo 60",
+    "Revoga Artigo 34",
+    "Revoga Artigo 36",
+    "Revoga Artigo 45",
+    "Revoga Artigo 46",
+    "Revoga Artigo 52",
+    "Revoga Artigo 1",
+    "Revoga Artigo 2",
+    "Revoga Artigo 3",
+    "Revoga Artigo 6",
+    "Revoga Artigo 7",
+    "Revoga Artigo 9",
+    "Revoga Artigo 10",
+    "Revoga Artigo 11",
+    "Revoga Artigo 15",
+    "Revoga Artigo 16",
+    "Revoga Artigo 17",
+    "Revoga Artigo 18",
+    "Revoga Artigo 19",
+    "Revoga Artigo 20",
+    "Revoga Artigo 21",
+    "Revoga Artigo 22",
+    "Revoga Artigo 23",
+    "Revoga Artigo 24",
+    "Revoga Artigo 27"
    ],
    "fragments": [
     "c488eec21ead3ded",
-    "492108f3a20cacd5",
-    "3c3e18c419b0a876",
-    "efa98706afca40e0",
-    "5d6b0a78cb797d54",
-    "da3146e2efbc4d30",
-    "334486ad5fd271a4",
-    "61ca61a7ab2d340f",
+    "a7ee082372eef3db",
+    "d3320ddc9082bc1c",
+    "75698ccd24e4753f",
+    "79e942ce848f9fa8",
+    "8b9b96e15605a6de",
+    "6ff2222baa81bab4",
+    "8dd690153acf884c",
     "c4948a4cf69192af",
-    "361e79ff146b4fef",
-    "0eef54a0d3d01f7f",
-    "7e21d6b5ef956a0a",
+    "4abd38930aa662c0",
+    "1ada4c3958c01930",
+    "2a56fec402f5072a",
     "efdbb793dd07ba12",
     "ba8223937e4f5ee0",
     "92da169d977001b5",
-    "7b55f2ff30947823",
-    "2573acf68ecb2b3c",
-    "cdcbaf79258abf13",
-    "8d580ff3fc44d3f6",
-    "dc88869646cbdd34",
-    "aa090c2db70eb945",
-    "52a563e162ba57b3",
-    "094cf1a706fef1a8",
-    "21af78a9eb4c50a8",
-    "64ed1a631a58f0e7",
-    "9adbe1c6daef4a03",
+    "ade91ec3fe8fde06",
+    "f09560df4e28e0e3",
+    "a5643c25ff3c9795",
+    "638d56919a88bb11",
+    "ad980f2d37cf0ff6",
+    "fd3cd469a4ec7617",
+    "4f8e0948d53e1405",
+    "c8727d17517da7fd",
+    "568d0485421332b5",
+    "58306f55fa599a83",
+    "39e048727dee2403",
     "a4c552f3f5ffbd0c",
-    "9c20fc1e85b352ae",
+    "e0edf9ce93eb3871",
     "887128b3677ab0d7",
     "e98651fa1751e158",
     "0bc1678fc5107c1b",
-    "afbe3e82c3243538",
+    "99f6283d20c176df",
     "ef13f59ae14f3241",
     "6338433eaec26c18",
-    "0e671d6d06e54f0e",
+    "153f4060f8fa846a",
     "0073eef74996a750",
-    "b6bec0e860af10e0",
-    "2a51643f0201909f",
-    "68bf57a65966457b",
-    "bee1bdd0f29c9b59",
-    "192255ccc2412261",
-    "5dc0bebfa994a6c7",
+    "4637704993d0ceeb",
+    "9e5286d35626f875",
+    "971d568397761599",
+    "74ef2bf9c74d6bc3",
+    "7b15f2167c9427c3",
+    "a62b06bd6d7bebe9",
     "3dd8b74d5219857a",
     "4dcdcc78a97e36c8",
     "c51a43fc0e059131",
-    "742849571d2858dc",
-    "87787626acd5118a",
+    "cf99cbde2aef1e05",
+    "2ada80230b894564",
     "61b16ae476e4cf42",
     "727040406485cf76",
     "1168dc6722cf9416",
-    "db1b7683dceb4484",
+    "62a115ed0193ab38",
     "128e5563b3eac4ce",
-    "aad9f1fcedc2e4a4",
+    "f7b75d0c43ea145e",
     "225f6a1c68ca81bf",
-    "1eab59ee3ca987db",
-    "bc2ac79ce4b64c7a",
+    "e890cbe9bf502994",
+    "ea507fc97dbe8994",
     "443d71db282b09f6",
-    "5f56c621e26aac2e",
+    "1139550a3dc1fbeb",
     "016033bc8d3ede07",
-    "06b54e00934f2643",
-    "9ea36e2069447de6",
+    "032215ad227be254",
+    "2a6a4862d1846dff",
     "f11347cd88a4c6a2",
     "20c59d0673a322a2",
     "1d379772829e6657",
@@ -105,12 +171,12 @@
     "73dfbdd9169dd225",
     "d0f56ec12b9e3d4f",
     "5f9abb616827c738",
-    "8dc386c7285e0b70",
+    "0b18d6a8fd63a6fd",
     "95537ba1854fbda2",
     "b56bb4c131769802",
     "40a7b4f2f395891e",
-    "7993cd256f8543d4",
-    "35df89f865607fe7",
+    "6d56395edef995d8",
+    "c120bb88be7169a5",
     "902b81a3aee983c2",
     "5f61913460175602",
     "05a29173bc5ef6a8",
@@ -174,61 +240,65 @@
    "changed_by": [],
    "markdown": "1. A importância assumida pelas actividades da construção e as perspectivas da sua intensificação levaram o Governo em 1946 a criar o Laboratório Nacional de Engenharia Civil. A oportunidade desta decisão está bem patente no rápido desenvolvimento que teve o Laboratório, cujo efectivo de pessoal passou, em pouco mais de uma década de actividade, de 50 para 550 funcionários, devendo frisar-se o facto de que a expansão observada foi imposta por solicitações de investigações, estudos e ensaios apresentadas por entidades públicas e particulares, nacionais e estrangeiras.\n\nEm tão curto lapso de tempo conseguiu o Laboratório Nacional de Engenharia Civil tornar-se um dos centros mundiais de investigação de maior prestígio no domínio da engenharia civil, apesar das dificuldades inerentes à carência de tradições de investigação no País e de parte importante da actividade ter sido despendida na formação de especialistas e na criação de meios de trabalho.\n\nO Laboratório tem estendido a sua acção a todos os sectores da engenharia civil, especialmente às obras de maior vulto. Estimativas diversas que têm sido feitas das economias que a intervenção do Laboratório tem trazido para as obras estudadas mostram que os encargos com o funcionamento da instituição são insignificantes em face dessas economias. Isto apesar de, por via de regra, não ser possível determinar as economias conseguidas, pois que, para a intervenção do Laboratório ser eficiente, os problemas devem ser-lhe postos na fase dos estudos preliminares, ficando, assim, eliminada a possibilidade de confronto com a solução que teria sido adoptada sem a sua colaboração.\n\nPorém, mais importante do que os benefícios directos e cifráveis da acção do Laboratório tem sido a sua contribuição para a elevação do nível técnico do País e para a criação em todos os que se ocupam da construção de um clima de entusiasmo e de confiança na sua actividade, factores que incidem em todas as realizações, quer na fase de concepção e projecto, quer na de execução e exploração.\n\nAs numerosas consultas e pedidos de estudos e investigações que o Laboratório Nacional de Engenharia Civil tem recebido de países estrangeiros muito têm contribuído para o prestígio do País e para a sua integração no movimento científico e técnico internacional.\n\n2. A apreciação dos factores determinantes do desenvolvimento do Laboratório, confirmada pelo andamento da curva de evolução do efectivo de pessoal nos últimos anos, mostra claramente que o seu crescimento tem de prosseguir. O incremento geral de solicitações que se tem vindo a observar será ainda certamente acentuado pelo prosseguimento da execução do II Plano de Fomento e pelo afluxo de problemas postos pelo ultramar. Além disso, a criação do Instituto Calouste Gulbenkian, anexo ao Laboratório, vem facilitar e de certo modo impor a sua expansão.\n\nA organização inicial do Laboratório Nacional ainda em vigor já não se adequa às suas necessidades actuais, o chie não é de estranhar dado o grande crescimento observado e a carência de experiência da actividade de investigação na engenharia civil quando a instituição foi criada. Aconteceu até ter tomado a maior relevância a actividade em certos domínios que então eram quase completamente ignorados no País. Além disso, o rápido progresso da ciência e da técnica, a evolução das próprias necessidades a servir e as disponibilidades de vocações obrigam as instituições de investigação a rever frequentemente a sua estrutura. Pensa-se, no entanto, que o esquema orgânico fundamental agora fixado para o Laboratório não necessitará de ser modificado num futuro próximo.\n\n3. Nos últimos anos começaram a observar-se no Laboratório os alarmantes sintomas que têm conduzido à desagregação e à inoperância muitos organismos similares de outros países: a saída de funcionários em ritmo crescente e o abaixamento do nível das classificações escolares dos candidatos a concursos de admissão.\n\nUma instituição de investigação vale o que valerem os seus elementos e não pode sobreviver se não conseguir recrutar e manter uma elevada dosagem de indivíduos com méritos excepcionais. De outro modo só se desprestigia a própria investigação e se parasita o erário público.\n\nPor isso, no presente diploma foram previstas diversas disposições com as quais se procura atrair e manter ao serviço do Laboratório indivíduos com as necessárias aptidões, fazendo-se depender, em contrapartida, a admissão no quadro e as promoções de exigentes concursos de provas práticas. A admissão no quadro passa a ser precedida de longos estágios de duração entre dois e quatro anos e meio, conforme as categorias, com vista a uma cuidadosa preparação e selecção do pessoal.\n\n4. O desenvolvimento do Laboratório Nacional de Engenharia Civil, como já foi mencionado, tem sido determinado pelos trabalhos que lhe são solicitados. São as receitas cobradas pelos serviços prestados, quer a entidades públicas, quer particulares, que têm permitido recrutar numeroso pessoal fora do quadro - o qual actualmente atinge um quantitativo superior ao dobro do incluído no quadro - e suportar uma parte importante dos encargos com a aquisição de material e com pagamento de serviços.\n\nImpunha-se, pois, atribuir o regime de autonomia administrativa e financeira ao Laboratório, com o fim de lhe permitir utilizar as suas receitas no pagamento de vencimentos do pessoal do quadro. Deste modo será possível evitar que o pessoal admitido por força dos trabalhos solicitados tenha de permanecer fora do quadro.\n\nPor outro lado, reconhece-se que certas actividades do Laboratório não podem deixar de continuar a ser suportadas pelo Estado, tais como a especialização do pessoal, a instalação de novos sectores de trabalho, a aquisição de equipamento fundamental, a construção de instalações, a colaboração prestada a outros organismos, a colaboração no ensino oficial e na formação pós-escolar, o serviço de documentação, a divulgação dos resultados obtidos, a resposta a pequenas consultas, muito numerosas, e a realização de investigações de carácter básico ou de interesse geral.\n\nAssim, foi decidido atribuir ao Laboratório Nacional de Engenharia Civil um subsídio cujo valor permite suportar cerca de metade dos encargos globais do seu funcionamento. Deste modo o Estado fomenta o progresso, a eficiência e a economia da construção e das numerosas actividades a ela ligadas.\n\nNestes termos:\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte: Lei orgânica do Laboratório Nacional de Engenharia Civil\n\nI) Natureza, fins e atribuições"
   },
-  "492108f3a20cacd5": {
+  "a7ee082372eef3db": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 1.º",
-   "in_force_from": null,
-   "changed_by": [],
-   "markdown": "###### Artigo 1.º\n\nO Laboratório Nacional de Engenharia Civil, abreviadamente L. N. E. C., criado pelo [Decreto-Lei n.º 35957](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35957-1946-149268), de 19 de Novembro de 1946, é um organismo com personalidade jurídica e autonomia administrativa e financeira, integrado no Ministério das Obras Públicas."
+   "in_force_from": "1979-12-30",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 519-D1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-d1-1979-157053), publicado em 1979-12-29, com efeitos a partir de 1979-12-30."
+   ],
+   "markdown": "###### Artigo 1.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 519-D1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-d1-1979-157053), publicado em 1979-12-29, com efeitos a partir de 1979-12-30."
   },
-  "3c3e18c419b0a876": {
+  "d3320ddc9082bc1c": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 2.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 2.º\n\nO Laboratório Nacional de Engenharia Civil tem por fim empreender, promover e coordenar as investigações e os estudos experimentais necessários para as realizações e para o progresso da engenharia civil.\n\n§ único. O plano anual de actividades a desenvolver pelo Laboratório bem como o relatório anual das actividades levadas a cabo serão submetidos à apreciação do Ministro das Obras Públicas."
+   "markdown": "###### Artigo 2.º\n\n(Revogado.)"
   },
-  "efa98706afca40e0": {
+  "75698ccd24e4753f": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 3.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 3.º\n\nPara consecução do disposto no corpo do artigo anterior compete em especial ao Laboratório:\n\na) Empreender investigações e estudos por sua iniciativa, ouvidas as entidades que for julgado conveniente;\n\nb) Realizar investigações, estudos e ensaios solicitados por entidades públicas ou particulares, nacionais ou estrangeiras;\n\nc) Acordar ou contratar a realização por outras entidades, nacionais ou estrangeiras, de investigações, estudos e ensaios com interesse para os programas de acção do Laboratório;\n\nd) Prestar colaboração a quaisquer iniciativas e actividades que sirvam os fins do Laboratório;\n\ne) Facultar a realização nas suas instalações de investigações, por parte de especialistas idóneos, e de estágios de aperfeiçoamento, dentro dos domínios de actividade do Laboratório;\n\nf) Seleccionar e recrutar ou subvencionar o pessoal, nacional ou estrangeiro, necessário para as suas actividades;\n\ng) Realizar as aquisições e promover a construção das instalações necessárias ao seu funcionamento, de harmonia com as disposições legais em vigor;\n\nh) Promover o aperfeiçoamento do seu pessoal, especialmente mediante a frequência de cursos organizados pelo Laboratório e estágios noutros organismos;\n\ni) Manter intercâmbio com os meios científicos e técnicos afins, nacionais e estrangeiros, em especial através de visitas de estudo, participação em congressos e outras reuniões e troca de publicações;\n\nj) Prestar colaboração ao ensino universitário e técnico, de todos os graus;\n\nl) Promover - em especial por meio de cursos, conferências, congressos e outras reuniões, exposições, documentários cinematográficos e publicações - a difusão dos conhecimentos e resultados obtidos em trabalhos e actividades próprios ou alheios.\n\nII) Órgãos directivos"
+   "markdown": "###### Artigo 3.º\n\n(Revogado.)\n\nII) Órgãos directivos"
   },
-  "5d6b0a78cb797d54": {
+  "79e942ce848f9fa8": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 4.º",
-   "in_force_from": null,
-   "changed_by": [],
-   "markdown": "###### Artigo 4.º\n\nA direcção do Laboratório Nacional de Engenharia Civil será exercida por um director, com a categoria de director-geral, coadjuvado por um subdirector."
+   "in_force_from": "1979-12-30",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 47627](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47627-1967-509792), publicado em 1967-04-07, com efeitos a partir de 1967-05-01."
+   ],
+   "markdown": "###### Artigo 4.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 47627](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47627-1967-509792), publicado em 1967-04-07, com efeitos a partir de 1967-05-01."
   },
-  "da3146e2efbc4d30": {
+  "8b9b96e15605a6de": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 5.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 5.º\n\nO Laboratório terá um conselho administrativo, composto pelo director, que presidirá, pelo chefe do serviço administrativo e por dois dos chefes de repartição.\n\n§ 1.º Às reuniões do conselho administrativo assistirá um delegado do Tribunal de Contas, por este designado, que perceberá uma gratificação mensal de 1000$00.\n\n§ 2.º Mediante autorização, a conceder anualmente pelo Ministro das Obras Públicas, pode o director fazer-se substituir na presidência do conselho administrativo pelo subdirector ou pelo chefe do serviço administrativo.\n\nIII) Serviços e divisões"
+   "markdown": "###### Artigo 5.º\n\n(Revogado.)\n\nIII) Serviços e divisões"
   },
-  "334486ad5fd271a4": {
+  "6ff2222baa81bab4": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 6.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 6.º\n\nO Laboratório Nacional de Engenharia Civil compreenderá os serviços seguintes:\n\na) Serviço administrativo;\n\nb) Serviço de materiais de construção;\n\nc) Serviço de edifícios e pontes;\n\nd) Serviço de barragens;\n\ne) Serviço de geotecnia;\n\nf) Serviço de hidráulica;\n\ng) Serviço técnico geral.\n\n§ único. O domínio de acção e a designação dos serviços podem ser modificados por despacho do Ministro das Obras Públicas, com vista a adaptá-los à evolução do Laboratório."
+   "markdown": "###### Artigo 6.º\n\n(Revogado.)"
   },
-  "61ca61a7ab2d340f": {
+  "8dd690153acf884c": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 7.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 7.º\n\nOs serviços compreenderão divisões cujo número e natureza de actividades serão fixados pelo Ministro das Obras Públicas, mediante proposta do director, de harmonia com o desenvolvimento do Laboratório e o progresso da ciência e da técnica.\n\n§ único. Poderão ser constituídas divisões directamente subordinadas à direcção do Laboratório."
+   "markdown": "###### Artigo 7.º\n\n(Revogado.)"
   },
   "c4948a4cf69192af": {
    "fragment_id": null,
@@ -238,29 +308,29 @@
    "changed_by": [],
    "markdown": "###### Artigo 8.º\n\nA fim de cuidar das condições sanitárias e de segurança do trabalho nos laboratórios e oficinas, com vista a evitar as doenças profissionais e a prestar assistência em caso de acidentes, funcionará no Laboratório um serviço privativo de saúde.\n\nIV) Meios financeiros e administração do Laboratório"
   },
-  "361e79ff146b4fef": {
+  "4abd38930aa662c0": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 9.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 9.º\n\nConstituem receitas do Laboratório Nacional de Engenharia Civil:\n\na) As quantias cobradas pelos serviços prestados pelo Laboratório a entidades públicas ou particulares;\n\nb) Um subsídio a conceder pelo Estado, cujo valor, a fixar anualmente por acordo entre os Ministros das Obras Públicas e das Finanças, não será inferior a 80 por cento das despesas efectivas com os vencimentos, gratificações e abono de família do pessoal do quadro anexo ao presente decreto-lei e dos estagiários até ao quantitativo total das vagas do quadro na categoria ou conjunto de categorias a que o estágio dá acesso;\n\nc) Os subsídios especiais concedidos pelo Estado, em particular através de planos de fomento;\n\nd) As subvenções, comparticipações, quotizações, doações e legados concedidos por quaisquer entidades;\n\ne) Os rendimentos dos bens que o Laboratório possuir ou por qualquer título fruir, nomeadamente os relativos às suas patentes de invenção;\n\nf) O produto da venda de patentes de invenção, de aparelhagem desenvolvida no Laboratório, de publicações e ainda de bens móveis e imóveis pertencentes ao património que possam ser dispensados ou tenham sido inutilizados;\n\ng) O produto de empréstimos autorizados pelo Governo;\n\nh) Quaisquer outras receitas que por lei, contrato ou a outro título lhe sejam atribuídas."
+   "markdown": "###### Artigo 9.º\n\n(Revogado.)"
   },
-  "0eef54a0d3d01f7f": {
+  "1ada4c3958c01930": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 10.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 10.º\n\nO Laboratório arrecadará e administrará as suas receitas e satisfará por meio delas os encargos da sua actividade.\n\n§ único. Os saldos das receitas podem ser despendidos pelo Laboratório nos anos económicos seguintes àqueles a que dizem respeito, salvo o relativo à dotação inscrita para fazer face ao subsídio a que se refere a alínea b) do artigo 9.º, cujo montante será reposto nos cofres do Estado."
+   "markdown": "###### Artigo 10.º\n\n(Revogado.)"
   },
-  "7e21d6b5ef956a0a": {
+  "2a56fec402f5072a": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 11.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 11.º\n\nO orçamento privativo anual de receitas e despesas e as suas ulteriores modificações carecem de aprovação do Ministro das Obras Públicas e visto do Ministro das Finanças e as contas serão directamente prestadas ao Tribunal de Contas, de harmonia com as disposições legais em vigor."
+   "markdown": "###### Artigo 11.º\n\n(Revogado.)"
   },
   "efdbb793dd07ba12": {
    "fragment_id": null,
@@ -286,95 +356,97 @@
    "changed_by": [],
    "markdown": "###### Artigo 14.º\n\nO director do Laboratório pode autorizar despesas nos termos e até aos limites autorizados aos dirigentes dos serviços dotados de autonomia administrativa."
   },
-  "7b55f2ff30947823": {
+  "ade91ec3fe8fde06": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 15.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 15.º\n\nDesde que a respectiva despesa caiba dentro das competências dos órgãos directivos do Laboratório, não é de observar o disposto na alínea a) do artigo 5.º do [Decreto-Lei n.º 41375](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41375-1957-251833), de 19 de Novembro de 1957, quanto à construção de modelos e outras obras inerentes à actividade laboratorial, nas alíneas c) e d), quando se trate de publicações indispensáveis ao funcionamento dos serviços, e na alínea e), no respeitante à publicação dos resultados da actividade do Laboratório."
+   "markdown": "###### Artigo 15.º\n\n(Revogado.)"
   },
-  "2573acf68ecb2b3c": {
+  "f09560df4e28e0e3": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 16.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 16.º\n\nEm casos de reconhecida necessidade podem ser adiantadas, pelo período mínimo indispensável, mediante autorização do director do Laboratório, quantias destinadas a enfrentar despesas que pela sua natureza não possam sofrer a demora inerente à liquidação prévia.\n\n§ único. O limite total dos adiantamentos será fixado por despacho do Ministro das Obras Públicas.\n\nV) Pessoal"
+   "markdown": "###### Artigo 16.º\n\n(Revogado.)\n\nV) Pessoal"
   },
-  "cdcbaf79258abf13": {
+  "a5643c25ff3c9795": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 17.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 17.º\n\nO quadro do pessoal do Laboratório Nacional de Engenharia Civil e os respectivos vencimentos, excluídas as diuturnidades, passam a ser os constantes do mapa anexo ao presente decreto-lei e que dele faz parte integrante.\n\n§ único. O provimento dos lugares do quadro preenchidos mediante concurso e dos lugares do pessoal menor é feito por contrato e o dos restantes por portaria."
+   "markdown": "###### Artigo 17.º\n\n(Revogado.)"
   },
-  "8d580ff3fc44d3f6": {
+  "638d56919a88bb11": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 18.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 18.º\n\nO lugar de director será preenchido, por livre escolha do Ministro das Obras Públicas, de entre engenheiros que tenham revelado excepcional competência."
+   "markdown": "###### Artigo 18.º\n\n(Revogado.)"
   },
-  "dc88869646cbdd34": {
+  "ad980f2d37cf0ff6": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 19.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 19.º\n\nO lugar de subdirector será preenchido por um chefe de serviço ou investigador do quadro do Laboratório, por livre escolha do Ministro das Obras Públicas, mediante proposta do director.\n\n§ único. O subdirector terá direito à gratificação mensal de 1500$00."
+   "markdown": "###### Artigo 19.º\n\n(Revogado.)"
   },
-  "aa090c2db70eb945": {
+  "fd3cd469a4ec7617": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 20.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 20.º\n\nO provimento dos lugares de chefe de serviço será feito por livre escolha do Ministro das Obras Públicas, mediante proposta do director, de entre os investigadores do quadro do Laboratório, podendo o de chefe do serviço administrativo ser também preenchido por um especialista, com mais de seis anos de serviço no quadro, que tenha revelado excepcionais qualidades para o desempenho destas funções.\n\n§ único. Os chefes de serviço terão direito a uma gratificação mensal de 1000$00."
+   "markdown": "###### Artigo 20.º\n\n(Revogado.)"
   },
-  "52a563e162ba57b3": {
+  "4f8e0948d53e1405": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 21.º",
-   "in_force_from": "1978-04-03",
+   "in_force_from": "1979-12-30",
    "changed_by": [
     "Alterado pelo/a [Decreto n.º 31/78](https://diariodarepublica.pt/dr/detalhe/decreto/31-1978-446964), publicado em 1978-04-03."
    ],
-   "markdown": "###### Artigo 21.º\n\nO lugar de secretário da direcção do Laboratório será preenchido por escolha entre engenheiros ou outros licenciados do LNEC ou de outros serviços do Ministério das Obras Públicas, com mais de quatro anos de serviço no quadro, ou entre outros indivíduos estranhos ao quadro, de reconhecida competência, habilitados com um curso superior de natureza adequada e licenciados há mais de quatro anos.\n\n> Alterado pelo/a [Decreto n.º 31/78](https://diariodarepublica.pt/dr/detalhe/decreto/31-1978-446964), publicado em 1978-04-03."
+   "markdown": "###### Artigo 21.º\n\n(Revogado.)\n\n> Alterado pelo/a [Decreto n.º 31/78](https://diariodarepublica.pt/dr/detalhe/decreto/31-1978-446964), publicado em 1978-04-03."
   },
-  "094cf1a706fef1a8": {
+  "c8727d17517da7fd": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 22.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 22.º\n\nA chefia das divisões referidas no artigo 7.º será atribuída, por escolha, a investigadores ou especialistas do quadro do Laboratório, podendo ser retirada em qualquer altura.\n\n§ único. Os chefes das divisões terão direito a uma gratificação mensal de 500$00, mesmo que chefiem mais de uma divisão."
+   "markdown": "###### Artigo 22.º\n\n(Revogado.)"
   },
-  "21af78a9eb4c50a8": {
+  "568d0485421332b5": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 23.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 23.º\n\nA admissão do pessoal técnico, exceptuada a do mestre geral e dos mestres, quando não efectuada por acesso de categoria inferior, será precedida de estágio destinado à preparação dos candidatos e ao julgamento das suas aptidões para o desempenho das funções a que se destinam.\n\n§ 1.º A admissão de estagiários, excepto para desenhador, será feita por escolha, com base em concurso documental, de harmonia com as necessidades e conveniência do serviço, em particular no respeitante a especialização, e dentro das dotações a consignar anualmente no orçamento do Laboratório para esse fim e das disponibilidades das verbas destinadas ao abono de vencimentos do pessoal.\n\n§ 2.º Aos concursos de admissão aos estágios poderão, se assim convier, ser admitidos indivíduos que tenham concluído a parte escolar dos respectivos cursos. Estes indivíduos só serão, contudo, admitidos aos concursos a que se refere o artigo 25.º desde que apresentem o diploma do curso.\n\n§ 3.º Os alvarás de admissão aos estágios serão submetidos ao Tribunal de Contas para efeitos de visto.\n\n§ 4.º Os resultados dos concursos para estagiários só serão válidos para as admissões que se efectuarem no prazo de oito meses, contados a partir da data da publicação no Diário do Governo do respectivo anúncio de abertura do concurso.\n\n§ 5.º Os programas-tipo de estágio para as diversas categorias deverão ser submetidos à aprovação do Ministro das Obras Públicas.\n\n§ 6.º Os estagiários ficam sujeitos às condições de funcionamento do Laboratório e ao regime de disciplina, faltas e licenças estabelecido na legislação em vigor para o pessoal dos quadros.\n\n§ 7.º Os estagiários terão direito, em caso de deslocação, ao pagamento de ajudas de custo, despesas de transporte, subsídios de viagem e de marcha e outros, nas condições fixadas para a categoria do quadro a que se candidatam.\n\n§ 8.º Poderão, no decorrer do estágio, ser excluídos da sua frequência os estagiários que revelem não possuir as condições necessárias para um regular aproveitamento.\n\n§ 9.º Para efeitos da duração do estágio, e sem prejuízo das suas finalidades, poderá o Ministro das Obras Públicas autorizar, a título excepcional, a contagem, total ou parcial, do tempo de bom e efectivo serviço anteriormente prestado pelo candidato, em funções equiparáveis, no Laboratório ou noutro centro de investigação."
+   "markdown": "###### Artigo 23.º\n\n(Revogado.)"
   },
-  "64ed1a631a58f0e7": {
+  "58306f55fa599a83": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 24.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 24.º\n\nOs estagiários receberão durante o período de estágio uma remuneração mensal correspondente à letra do artigo 1.º do [Decreto-Lei n.º 42046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42046-1958-198100), de 23 de Dezembro de 1958, que se seguir à atribuída à classe de entrada da categoria a que o estágio dá acesso."
+   "markdown": "###### Artigo 24.º\n\n(Revogado.)"
   },
-  "9adbe1c6daef4a03": {
+  "39e048727dee2403": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 25.º",
-   "in_force_from": null,
-   "changed_by": [],
-   "markdown": "###### Artigo 25.º\n\nOs estágios terminam com a realização de um concurso de provas documentais e provas práticas, cujas normas serão definidas em diploma regulamentar, para obtenção de certificado de estágio.\n\n§ 1.º Os estagiários para especialista devem apresentar-se a um dos dois concursos para obtenção de certificado de estágio que serão abertos no período que decorre entre três e quatro anos e meio de estágio efectivo.\n\n§ 2.º Os estagiários para experimentador, ajudante de experimentador, auxiliar de laboratório e desenhador são obrigados a apresentar-se ao primeiro concurso para obtenção de certificado de estágio da respectiva categoria que for aberto após um período de estágio efectivo de dois anos.\n\n§ 3.º Aos concursos para obtenção de certificado de estágio para experimentador e ajudante de experimentador poderão apresentar-se, respectivamente, os ajudantes de experimentador e os auxiliares de laboratório do quadro que contem, pelo menos, seis anos de bom e efectivo serviço no exercício destas funções, dentro ou fora do quadro, e tenham frequentado com aproveitamento o respectivo curso de aperfeiçoamento.\n\n§ 4.º Serão automàticamente suspensos os estágios dos estagiários que não se apresentem aos concursos a que se referem os §§ 1.º e 2.º e dos que forem reprovados.\n\n§ 5.º Mediante despacho favorável do Ministro das Obras Públicas, a situação de estagiário pode ser prolongada por um período até dois meses após a aprovação no concurso.\n\n§ 6.º Os ajudantes de experimentador e os auxiliares de laboratório, admitidos a concurso ao abrigo do § 3.º, que sejam reprovados poderão apresentar-se a concurso mais uma vez, decorridos, pelo menos, respectivamente, cinco e três anos após a data da publicação da lista das classificações."
+   "in_force_from": "1979-12-30",
+   "changed_by": [
+    "Revogado pelo/a [Decreto n.º 556/72](https://diariodarepublica.pt/dr/detalhe/decreto/556-1972-685601), publicado em 1972-12-26."
+   ],
+   "markdown": "###### Artigo 25.º\n\nOs estágios terminam com a realização de um concurso de provas documentais e provas práticas, cujas normas serão definidas em diploma regulamentar, para obtenção de certificado de estágio.\n\n§ 1.º (Revogado.)\n\n§ 2.º (Revogado.)\n\n§ 3.º (Revogado.)\n\n§ 4.º (Revogado.)\n\n§ 5.º (Revogado.)\n\n§ 6.º (Revogado.)\n\n> Revogado pelo/a [Decreto n.º 556/72](https://diariodarepublica.pt/dr/detalhe/decreto/556-1972-685601), publicado em 1972-12-26."
   },
   "a4c552f3f5ffbd0c": {
    "fragment_id": null,
@@ -384,13 +456,13 @@
    "changed_by": [],
    "markdown": "###### Artigo 26.º\n\nOs lugares das classes de entrada das categorias do pessoal técnico serão preenchidos, de harmonia com as necessidades do serviço, por indivíduos, com a especialização requerida, habilitados com o respectivo certificado de estágio e pela ordem da classificação obtida, desde que não tenham interrompido a prestação de serviço no Laboratório por prazo superior a três anos.\n\n§ 1.º Quando houver candidatos com a mesma classificação serão razões de preferência, em primeiro lugar, a antiguidade do concurso e, em segundo lugar, as conveniências do serviço.\n\n§ 2.º Os estagiários poderão ser admitidos no quadro sem dependência do limite de idade legal, desde que tenham sido nomeados antes dos 35 anos e se tenham mantido ao serviço do Laboratório sem interrupção."
   },
-  "9c20fc1e85b352ae": {
+  "e0edf9ce93eb3871": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 27.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 27.º\n\nOs lugares de investigador serão, salvo o disposto no artigo 30.º, preenchidos por especialistas habilitados com o grau de investigador, pela ordem da classificação alcançada no concurso para a obtenção desse grau.\n\n§ 1.º Quando houver candidatos com a mesma classificação será razão de preferência a antiguidade do concurso.\n\n§ 2.º Não caduca a validade do concurso mencionado no corpo deste artigo.\n\n§ 3.º É dada a faculdade aos especialistas habilitados com o grau de investigador de se apresentarem, após mais de três anos, a um segundo concurso, passando a classificação obtida neste a contar para o efeito do corpo do presente artigo."
+   "markdown": "###### Artigo 27.º\n\n(Revogado.)"
   },
   "887128b3677ab0d7": {
    "fragment_id": null,
@@ -416,13 +488,13 @@
    "changed_by": [],
    "markdown": "###### Artigo 30.º\n\nCinco dos lugares de investigador poderão ser preenchidos por livre escolha do Ministro das Obras Públicas, mediante proposta do director do Laboratório:\n\na) Entre os especialistas do quadro com, pelo menos, quatro anos de bom e efectivo serviço no Laboratório após a obtenção do certificado de estágio que tenham revelado excepcionais qualidades para o desempenho de actividades que não se adeqúem à realização de concursos de provas práticas;\n\nb) Entre personalidades de excepcionais aptidões e estranhas ao quadro habilitadas com um curso superior, com o fim de satisfazer as necessidades do Laboratório, em especial em outros domínios de especialização que a engenharia civil, independentemente do limite de idade legal estabelecido pelo artigo 4.º do Decreto com força de lei n.º 16563, de 2 de Março de 1929."
   },
-  "afbe3e82c3243538": {
+  "99f6283d20c176df": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 31.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 31.º\n\nOs lugares de especialista de 1.ª classe serão providos por concurso de provas documentais entre os especialistas de 2.ª classe que contem, pelo menos, quatro anos de efectivo serviço no quadro, nesta categoria.\n\n§ 1.º O concurso é obrigatório, salvo quando for aplicável o § 2.º do artigo 60.º do presente diploma.\n\n§ 2.º Os especialistas de 1.ª classe têm direito ao vencimento correspondente aos professores extraordinários do ensino superior."
+   "markdown": "###### Artigo 31.º\n\n(Revogado.)"
   },
   "ef13f59ae14f3241": {
    "fragment_id": null,
@@ -440,13 +512,13 @@
    "changed_by": [],
    "markdown": "###### Artigo 33.º\n\nO certificado de estágio para especialista confere o grau de especialista no domínio em que decorreu a actividade do estagiário.\n\n§ único. Nas condições que vierem a ser fixadas em regulamento, podem, para efeito da obtenção do grau de especialista em qualquer dos domínios de actividade do Laboratório Nacional de Engenharia Civil, apresentar-se aos concursos de estágio para especialista indivíduos estranhos ao Laboratório, nacionais ou estrangeiros, habilitados com um curso superior."
   },
-  "0e671d6d06e54f0e": {
+  "153f4060f8fa846a": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 34.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 34.º\n\nO preenchimento dos lugares de experimentador-chefe será efectuado por concurso, de provas documentais e provas práticas, ao qual poderão apresentar-se os experimentadores que contem, pelo menos, oito anos de bom e efectivo serviço no quadro, nesta categoria.\n\n§ único. O concurso é válido pelo prazo de quatro anos, contados da data de publicação no Diário do Governo da lista das classificações atribuídas aos candidatos."
+   "markdown": "###### Artigo 34.º\n\n(Revogado.)"
   },
   "0073eef74996a750": {
    "fragment_id": null,
@@ -456,53 +528,53 @@
    "changed_by": [],
    "markdown": "###### Artigo 35.º\n\nOs experimentadores-chefes terão direito a diuturnidades de 500$00 quando tiverem completado dez e vinte anos de bom e efectivo serviço nesta situação."
   },
-  "b6bec0e860af10e0": {
+  "4637704993d0ceeb": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 36.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 36.º\n\nOs lugares de experimentador de 1.ª classe serão providos por concurso, de provas documentais e provas práticas, entre os experimentadores de 2.ª classe que contem, pelo menos, quatro anos de efectivo serviço no quadro, nesta categoria.\n\n§ único. O concurso é obrigatório, salvo quando for aplicável o § 2.º do artigo 60.º do presente diploma."
+   "markdown": "###### Artigo 36.º\n\n(Revogado.)"
   },
-  "2a51643f0201909f": {
+  "9e5286d35626f875": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 37.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 37.º\n\nAos concursos para admissão a estágio para experimentador poderão apresentar-se os indivíduos habilitados com um curso adequado de um instituto industrial ou com o 7.º ano do curso dos liceus e as cadeiras dos três primeiros anos de um curso superior de natureza adequada."
+   "markdown": "###### Artigo 37.º\n\n(Revogado.)"
   },
-  "68bf57a65966457b": {
+  "971d568397761599": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 38.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 38.º\n\nOs lugares de ajudante de experimentador de 1.ª classe serão providos por concurso, de provas documentais e provas práticas, entre os ajudantes de experimentador de 2.ª classe que contem, pelo menos, três anos de efectivo serviço no quadro, nesta categoria.\n\n§ único. O concurso é obrigatório, salvo quando for aplicável o § 2.º do artigo 60.º do presente diploma."
+   "markdown": "###### Artigo 38.º\n\n(Revogado.)"
   },
-  "bee1bdd0f29c9b59": {
+  "74ef2bf9c74d6bc3": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 39.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 39.º\n\nAos concursos para admissão a estágio para ajudante de experimentador poderão apresentar-se os indivíduos habilitados com o 7.º ano dos liceus (Ciências) ou com um curso industrial de formação profissional adequada e a secção preparatória para os institutos industriais."
+   "markdown": "###### Artigo 39.º\n\n(Revogado.)"
   },
-  "192255ccc2412261": {
+  "7b15f2167c9427c3": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 40.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 40.º\n\nOs lugares de auxiliar de laboratório de 1.ª classe serão providos por concurso, de provas documentais e provas práticas, entre os auxiliares de laboratório de 2.ª classe que contem, pelo menos, três anos de efectivo serviço no quadro, nesta categoria.\n\n§ único. O concurso é obrigatório, salvo quando for aplicável o § 2.º do artigo 60.º do presente diploma."
+   "markdown": "###### Artigo 40.º\n\n(Revogado.)"
   },
-  "5dc0bebfa994a6c7": {
+  "a62b06bd6d7bebe9": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 41.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 41.º\n\nAos concursos de admissão ao estágio para auxiliar de laboratório poderão apresentar-se os indivíduos habilitados com um curso industrial de formação profissional adequada ou com o 2.º ciclo do curso dos liceus.\n\n§ único. Quando não houver candidatos nas condições do corpo deste artigo em número suficiente para preencher as necessidades do Laboratório poderão ser admitidos ao concurso, mediante autorização do Ministro das Obras Públicas, indivíduos com menores habilitações, aos quais não será exigido diploma de curso para a apresentação ao concurso para a obtenção de certificado de estágio."
+   "markdown": "###### Artigo 41.º\n\n(Revogado.)"
   },
   "3dd8b74d5219857a": {
    "fragment_id": null,
@@ -528,21 +600,21 @@
    "changed_by": [],
    "markdown": "###### Artigo 44.º\n\nA admissão ao estágio para desenhador será feita por concurso de provas práticas, ao qual poderão apresentar-se os indivíduos habilitados com um curso industrial de formação profissional adequada ou o 2.º ciclo do curso dos liceus."
   },
-  "742849571d2858dc": {
+  "cf99cbde2aef1e05": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 45.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 45.º\n\nO lugar de mestre geral é provido por escolha entre os mestres do Laboratório com, pelo menos, quatro anos de serviço no quadro."
+   "markdown": "###### Artigo 45.º\n\n(Revogado.)"
   },
-  "87787626acd5118a": {
+  "2ada80230b894564": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 46.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 46.º\n\nOs lugares de mestre serão preenchidos por concurso de provas práticas entre operários de especialização adequada possuindo larga prática profissional e habilitados com o curso de uma escola industrial, independentemente do limite de idade legal estabelecido pelo artigo 4.º do Decreto com força de lei n.º 16563, de 2 de Março de 1929."
+   "markdown": "###### Artigo 46.º\n\n(Revogado.)"
   },
   "61b16ae476e4cf42": {
    "fragment_id": null,
@@ -568,13 +640,13 @@
    "changed_by": [],
    "markdown": "###### Artigo 49.º\n\nAs normas a que deverão obedecer os concursos de promoção do pessoal técnico e de admissão de mestres e do pessoal de traduções do quadro do Laboratório Nacional de Engenharia Civil serão definidas em diplomas regulamentares."
   },
-  "db1b7683dceb4484": {
+  "62a115ed0193ab38": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 50.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 50.º\n\nA admissão do pessoal do serviço de saúde será feita por escolha, com base em concurso documental."
+   "markdown": "###### Artigo 50.º\n\n(Revogado.)"
   },
   "128e5563b3eac4ce": {
    "fragment_id": null,
@@ -584,13 +656,13 @@
    "changed_by": [],
    "markdown": "###### Artigo 51.º\n\nOs lugares de chefe de repartição serão providos por escolha entre indivíduos de reconhecida competência habilitados com um curso superior de natureza adequada às necessidades do serviço, licenciados há mais de quatro anos."
   },
-  "aad9f1fcedc2e4a4": {
+  "f7b75d0c43ea145e": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 52.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 52.º\n\nOs lugares de chefe de secção serão preenchidos por escolha entre indivíduos habilitados com um curso superior de natureza adequada às necessidades do serviço."
+   "markdown": "###### Artigo 52.º\n\n(Revogado.)"
   },
   "225f6a1c68ca81bf": {
    "fragment_id": null,
@@ -600,21 +672,21 @@
    "changed_by": [],
    "markdown": "###### Artigo 53.º\n\nO lugar de tesoureiro será provido por escolha entre os oficiais de secretaria do quadro do Laboratório.\n\n§ 1.º O tesoureiro terá direito ao abono mensal de 300$00 para falhas.\n\n§ 2.º Quando as exigências do serviço assim o determinarem, e mediante proposta do director, aprovada pelo Ministro das Obras Públicas, poderá ser designado, segundo indicação do tesoureiro, um oficial de secretaria para desempenhar as funções de ajudante do tesoureiro."
   },
-  "1eab59ee3ca987db": {
+  "e890cbe9bf502994": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 54.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 54.º\n\nA admissão e promoção na categoria de oficiais de secretaria e a admissão de dactilógrafos serão feitas por concurso, de harmonia com a legislação geral aplicável ao Ministério das Obras Públicas."
+   "markdown": "###### Artigo 54.º\n\n(Revogado.)"
   },
-  "bc2ac79ce4b64c7a": {
+  "ea507fc97dbe8994": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 55.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 55.º\n\nA admissão e promoção do pessoal menor serão feitas por escolha."
+   "markdown": "###### Artigo 55.º\n\n(Revogado.)"
   },
   "443d71db282b09f6": {
    "fragment_id": null,
@@ -624,13 +696,15 @@
    "changed_by": [],
    "markdown": "###### Artigo 56.º\n\nQuando a natureza do serviço o impuser, poderá, mediante autorização do Ministro das Obras Públicas, ser vedada a apresentação aos concursos de admissão de candidatos do sexo feminino ou limitado o número destes candidatos a admitir."
   },
-  "5f56c621e26aac2e": {
+  "1139550a3dc1fbeb": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 57.º",
-   "in_force_from": null,
-   "changed_by": [],
-   "markdown": "###### Artigo 57.º\n\nEnquanto não houver indivíduos habilitados com certificado de estágio ou não forem realizados concursos de admissão ou promoção no quadro, poderão ser feitas admissões em regime de contrato na classe de entrada da respectiva categoria até ao quantitativo total das vagas existentes nas diversas classes da mesma categoria."
+   "in_force_from": "1979-12-30",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 468/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/468-1972-686602), publicado em 1972-11-22."
+   ],
+   "markdown": "###### Artigo 57.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 468/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/468-1972-686602), publicado em 1972-11-22."
   },
   "016033bc8d3ede07": {
    "fragment_id": null,
@@ -640,21 +714,21 @@
    "changed_by": [],
    "markdown": "###### Artigo 58.º\n\nTodas as nomeações por escolha para os lugares do quadro do Laboratório só se poderão tornar definitivas depois de dois anos de bom e efectivo serviço."
   },
-  "06b54e00934f2643": {
+  "032215ad227be254": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 59.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 59.º\n\nOs funcionários contratados para os lugares do quadro, com excepção do pessoal menor, poderão ser providos definitivamente desde que tenham, pelo menos, seis anos de bom e efectivo serviço no quadro."
+   "markdown": "###### Artigo 59.º\n\n(Revogado.)"
   },
-  "9ea36e2069447de6": {
+  "2a6a4862d1846dff": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 60.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 60.º\n\nOs funcionários vitalícios reprovados consecutivamente em dois concursos serão aposentados, se tiverem mais de quinze anos de serviço efectivo no Laboratório, ou demitidos, em caso contrário. Aos contratados reprovados num concurso será rescindido o contrato.\n\n§ 1.º Para os efeitos do corpo deste artigo não se consideram as reprovações dos ajudantes de experimentador e auxiliares de laboratório nos concursos a que se submetam ao abrigo do disposto no § 3.º do artigo 25.º\n\n§ 2.º Os funcionários vitalícios reprovados num concurso só podem apresentar-se a qualquer outro passados mais de três anos sobre a data da publicação no Diário do Governo das classificações do concurso."
+   "markdown": "###### Artigo 60.º\n\n(Revogado.)"
   },
   "f11347cd88a4c6a2": {
    "fragment_id": null,
@@ -720,13 +794,13 @@
    "changed_by": [],
    "markdown": "###### Artigo 68.º\n\nQuando um trabalho de natureza especial o impuser, pode o horário de trabalho dos funcionários que dele se ocupam ser fixado pelo director do Laboratório, de harmonia com as conveniências do serviço, sem prejuízo do cumprimento do número de horas de trabalho fixado por lei."
   },
-  "8dc386c7285e0b70": {
+  "0b18d6a8fd63a6fd": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 69.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 69.º\n\nO serviço extraordinário do pessoal técnico médio e auxiliar e do pessoal operário contratado ou assalariado, imposto por trabalhos especiais, poderá ser compensado por dispensa de serviço, com duração igual à do serviço extraordinário prestado, ou, se tal não for conveniente, ser remunerado nos termos estabelecidos no artigo 43.º do [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), de 23 de Novembro de 1935."
+   "markdown": "###### Artigo 69.º\n\n(Revogado.)"
   },
   "95537ba1854fbda2": {
    "fragment_id": null,
@@ -752,21 +826,21 @@
    "changed_by": [],
    "markdown": "###### Artigo 72.º\n\nO exercício de quaisquer funções de carácter permanente no Laboratório Nacional de Engenharia Civil é incompatível com a ingerência ou participação, a título particular, directamente ou por interposta pessoa, nas obras ou nos fornecimentos destinados ao Laboratório."
   },
-  "7993cd256f8543d4": {
+  "6d56395edef995d8": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 73.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 73.º\n\nÉ vedado ao pessoal do Laboratório o exercício de quaisquer actividades, a título particular, que possam comprometer real ou aparentemente a independência de acção ou de julgamento da instituição ou o seu prestígio."
+   "markdown": "###### Artigo 73.º\n\n(Revogado.)"
   },
-  "35df89f865607fe7": {
+  "c120bb88be7169a5": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 74.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 74.º\n\nO Laboratório Nacional de Engenharia Civil pode instituir prémios ou outras formas de recompensa, segundo regulamento aprovado pelo Ministro das Obras Públicas, para os servidores do Laboratório que tenham contribuído de forma excepcional para a sua eficiência ou para o progresso dos conhecimentos."
+   "markdown": "###### Artigo 74.º\n\n(Revogado.)"
   },
   "902b81a3aee983c2": {
    "fragment_id": null,
@@ -1108,7 +1182,7 @@
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 117.º",
-   "in_force_from": "1978-04-03",
+   "in_force_from": "1979-12-30",
    "changed_by": [
     "Alterado pelo/a [Decreto-Lei n.º 139/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-1972-679864), publicado em 1972-04-29."
    ],

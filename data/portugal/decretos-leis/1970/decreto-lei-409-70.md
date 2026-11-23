@@ -42,7 +42,7 @@ version:
   kind: consolidated
   label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: '1975-04-02'
+  consolidation_date: '1976-07-12'
 version_history:
   file: decreto-lei-409-70.versoes.json
   count: 2
@@ -52,12 +52,15 @@ version_history:
     amending: null
     amending_title: null
     changes: []
-  - date: '1975-04-02'
+  - date: '1976-07-12'
     amending: pt:dre:161720:por
-    amending_title: Decreto-Lei n.º 177/75
+    amending_title: Decreto-Lei n.º 177/75; Decreto-Lei n.º 550-E/76
     changes:
     - Altera Artigo 5.º
     - Altera Artigo 8.º
+    - Revoga Artigo 6
+    - Revoga Artigo 7
+    - Revoga Artigo 8
 identifiers:
   celex: null
   eli: null
@@ -84,7 +87,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:15:07Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 177/75. Método e
-    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1970/decreto-lei-409-70.alteracoes.json'
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1970/decreto-lei-409-70.alteracoes.json.
+    Revogações registadas só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Decreto-Lei
+    n.º 550-E/76.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -236,15 +241,17 @@ Dos quadros de pessoal, organização e efectivos
 
 ###### Artigo 6.º
 
-O quadro permanente de oficiais técnicos de mecanografia e estatística é o que consta da alínea 2) do n.º 1) do mapa n.º 1 anexo ao presente decreto-lei.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 550-E/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/550-e-1976-181630), publicado em 1976-07-12.
 
 ###### Artigo 7.º
 
-O quadro, categorias e ordenados mensais do pessoal civil contratado de mecanografia são os que constam do mapa n.º 2 anexo ao presente decreto-lei.
+(Revogado.)
 
 ###### Artigo 8.º
 
-O quadro do pessoal da Direcção do Serviço de Informática da Força Aérea será objecto de portaria do Chefe do Estado-Maior da Força Aérea será objecto de portaria do Chefe Força Aérea, sem alteração dos efectivos gerais autorizados para a Força Aérea.
+(Revogado.)
 
 > Alterado pelo/a [Decreto-Lei n.º 177/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-1975-161720), publicado em 1975-04-02.
 

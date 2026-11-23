@@ -54,44 +54,80 @@
      "title": "Despacho Normativo n.º 257/91",
      "published": "1991-11-11",
      "dre_path": "/dr/detalhe/despacho-normativo/257-1991-331414"
+    },
+    {
+     "id": "pt:dre:548984:por",
+     "title": "Despacho Normativo n.º 94/89",
+     "published": "1989-10-13",
+     "dre_path": "/dr/detalhe/despacho-normativo/94-1989-548984"
     }
    ],
    "changes": [
-    "Revoga Artigo 26.º"
+    "Revoga Artigo 26.º",
+    "Revoga Artigo 1",
+    "Revoga Artigo 2",
+    "Revoga Artigo 3",
+    "Revoga Artigo 4",
+    "Revoga Artigo 5",
+    "Revoga Artigo 6",
+    "Revoga Artigo 7",
+    "Revoga Artigo 8",
+    "Revoga Artigo 9",
+    "Revoga Artigo 10",
+    "Revoga Artigo 11",
+    "Revoga Artigo 12",
+    "Revoga Artigo 13",
+    "Revoga Artigo 14",
+    "Revoga Artigo 15",
+    "Revoga Artigo 16",
+    "Revoga Artigo 17",
+    "Revoga Artigo 18",
+    "Revoga Artigo 19",
+    "Revoga Artigo 20",
+    "Revoga Artigo 21",
+    "Revoga Artigo 22",
+    "Revoga Artigo 23",
+    "Revoga Artigo 24",
+    "Revoga Artigo 25",
+    "Revoga Artigo 27",
+    "Revoga Artigo 28",
+    "Revoga Artigo 29",
+    "Revoga Artigo 30",
+    "Revoga Artigo 31"
    ],
    "fragments": [
     "6118299a8c439e6f",
-    "57b98e54e6b0c463",
-    "185eb286a34c12d4",
-    "f7f438d77d864be1",
-    "fe5397acd1616399",
-    "e721df783cde8986",
-    "41f77806c96a9754",
-    "f66977ce02f28752",
-    "bd7368620d5d3163",
-    "2b8c619d6bfbaa8d",
-    "2990f5a78e0e380c",
-    "756714514d7d5ec6",
-    "a6e79de1677334d0",
-    "159e6598d59fbfb8",
-    "9748376cc76cf85a",
-    "7cb15dfea9b6a5e7",
-    "e687036dd8f7ef37",
-    "2ed5abe8a4ba4cfc",
-    "a5cc2d296beb736e",
-    "5c98d20132097645",
-    "1e70cd84472b3e90",
-    "670ee15c9f1bf2ae",
-    "678b3aa0d40b38ad",
-    "5da20afe066ff763",
-    "38cea28c73e185d5",
-    "c26808cf4494ec4c",
+    "2ec4c0b23732249f",
+    "baba188bb23dc0ab",
+    "817a25a6398cedb7",
+    "8e8217461d3c1ae1",
+    "ee3ef54925f72a17",
+    "3a323c9ba003cdd5",
+    "e12bc59af01b6c75",
+    "810d5baeff9d4850",
+    "29cc11eb32ef5441",
+    "4e27130e124f61d4",
+    "9bfb7b4cfd356686",
+    "101b7d3a86a660a7",
+    "266330242c725be8",
+    "f4d01097f2ba6612",
+    "413fbd1b460440ae",
+    "bc3f40cb3855a301",
+    "8d32a2d1e7378e5c",
+    "498eee520f349e6b",
+    "29b284a1e671736f",
+    "72fba33d77073447",
+    "702f384f26c017e0",
+    "fa7eab50c9845d89",
+    "6afa6444fc90ccc5",
+    "61c22cc54a62992e",
+    "e5e2d45e9f71013d",
     "5174a11f415635ab",
-    "c854ef4fe1008acb",
-    "b76f51e2051010ed",
-    "3d85768dc9865c86",
-    "e931a6442c44d521",
-    "86da5f1eaa5be094"
+    "c79c02ba44b475a3",
+    "8441f7b0cb2fb0ff",
+    "3a8904bcc374c4f0",
+    "8512eb276b6fb95e",
+    "e3e34dd08a68dfe7"
    ]
   }
  ],
@@ -352,6 +388,208 @@
    "changed_by": [],
    "markdown": "###### Artigo 31.º — Revogação\n\nÉ revogado o Despacho Normativo n.º 54/87, de 25 de Junho.\n\nSecretaria de Estado do Emprego e Formação Profissional, 3 de Maio de 1988. - O Secretário de Estado do Emprego e Formação Profissional, António José de Castro Bagão Félix."
   },
+  "2ec4c0b23732249f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "1991-11-16",
+   "changed_by": [
+    "Revogado pelo/a [Despacho Normativo n.º 94/89](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/94-1989-548984), publicado em 1989-10-13, com efeitos a partir de 1990-01-01."
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\n(Revogado.)\n\n> Revogado pelo/a [Despacho Normativo n.º 94/89](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/94-1989-548984), publicado em 1989-10-13, com efeitos a partir de 1990-01-01."
+  },
+  "baba188bb23dc0ab": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\n(Revogado.)"
+  },
+  "817a25a6398cedb7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Programas quadro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Programas quadro\n\n(Revogado.)"
+  },
+  "8e8217461d3c1ae1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Projectos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Projectos\n\n(Revogado.)"
+  },
+  "ee3ef54925f72a17": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Requisitos materiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Requisitos materiais\n\n(Revogado.)"
+  },
+  "3a323c9ba003cdd5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Requisitos formais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Requisitos formais\n\n(Revogado.)"
+  },
+  "e12bc59af01b6c75": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Orientações e prioridades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Orientações e prioridades\n\n(Revogado.)"
+  },
+  "810d5baeff9d4850": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Critérios de selecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Critérios de selecção\n\n(Revogado.)"
+  },
+  "29cc11eb32ef5441": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Financiamento\n\n(Revogado.)"
+  },
+  "4e27130e124f61d4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Admissibilidade do pedido de contribuição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Admissibilidade do pedido de contribuição\n\n(Revogado.)"
+  },
+  "9bfb7b4cfd356686": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Análise e selecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Análise e selecção\n\n(Revogado.)"
+  },
+  "101b7d3a86a660a7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Decisão de transmissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Decisão de transmissão\n\n(Revogado.)"
+  },
+  "266330242c725be8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Decisão de aprovação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Decisão de aprovação\n\n(Revogado.)"
+  },
+  "f4d01097f2ba6612": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Pagamento do primeiro adiantamento da contribuição aprovada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Pagamento do primeiro adiantamento da contribuição aprovada\n\n(Revogado.)"
+  },
+  "413fbd1b460440ae": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Acções específicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Acções específicas\n\n(Revogado.)"
+  },
+  "bc3f40cb3855a301": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Alterações à decisão de aprovação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Alterações à decisão de aprovação\n\n(Revogado.)"
+  },
+  "8d32a2d1e7378e5c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Contrato de formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Contrato de formação\n\n(Revogado.)"
+  },
+  "498eee520f349e6b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Pedido de pagamento de saldo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Pedido de pagamento de saldo\n\n(Revogado.)"
+  },
+  "29b284a1e671736f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Dívidas por fornecimentos ou serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Dívidas por fornecimentos ou serviços\n\n(Revogado.)"
+  },
+  "72fba33d77073447": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Admissibilidade do pedido de pagamento de saldo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Admissibilidade do pedido de pagamento de saldo\n\n(Revogado.)"
+  },
+  "702f384f26c017e0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Reformulação do pedido de pagamento de saldo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Reformulação do pedido de pagamento de saldo\n\n(Revogado.)"
+  },
+  "fa7eab50c9845d89": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Restituições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Restituições\n\n(Revogado.)"
+  },
+  "6afa6444fc90ccc5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Pagamento de saldo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Pagamento de saldo\n\n(Revogado.)"
+  },
+  "61c22cc54a62992e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — Organização e contabilização das acções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Organização e contabilização das acções\n\n(Revogado.)"
+  },
+  "e5e2d45e9f71013d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Conta bancária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Conta bancária\n\n(Revogado.)"
+  },
   "5174a11f415635ab": {
    "fragment_id": null,
    "type": null,
@@ -361,6 +599,46 @@
     "Revogado pelo/a Artigo 4.º do/a [Despacho Normativo n.º 257/91](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/257-1991-331414), publicado em 1991-11-11."
    ],
    "markdown": "###### Artigo 26.º — Situação contributiva perante a Segurança Social\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 4.º do/a [Despacho Normativo n.º 257/91](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/257-1991-331414), publicado em 1991-11-11."
+  },
+  "c79c02ba44b475a3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º — Informações complementares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Informações complementares\n\n(Revogado.)"
+  },
+  "8441f7b0cb2fb0ff": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º — Incumprimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Incumprimento\n\n(Revogado.)"
+  },
+  "3a8904bcc374c4f0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º — Publicitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Publicitação\n\n(Revogado.)"
+  },
+  "8512eb276b6fb95e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Disposições finais e transitórias\n\n1 - O presente diploma aplica-se às Regiões Autónomas dos Açores e da Madeira, sem prejuízo das adaptações que lhe venham a ser introduzidas por protocolos a celebrar entre o DAFSE e os serviços regionais que têm a seu cargo a formação profissional e o emprego, homologados por despacho do Secretário de Estado do Emprego e Formação Profissional e dos respectivos secretários regionais.\n\n2 - (Revogado.)"
+  },
+  "e3e34dd08a68dfe7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Revogação\n\n(Revogado.)\n\nSecretaria de Estado do Emprego e Formação Profissional, 3 de Maio de 1988. - O Secretário de Estado do Emprego e Formação Profissional, António José de Castro Bagão Félix."
   }
  }
 }

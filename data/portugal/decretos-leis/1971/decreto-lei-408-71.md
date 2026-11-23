@@ -43,10 +43,12 @@ version_history:
     changes: []
   - date: '1980-01-01'
     amending: pt:dre:231305:por
-    amending_title: Decreto-Lei n.º 534/79
+    amending_title: Decreto-Lei n.º 534/79; Decreto-Lei n.º 541/79
     changes:
     - Altera Artigo 4.º
     - Revoga Artigo 17.º
+    - Revoga Artigo 13
+    - Revoga Artigo 14
 identifiers:
   celex: null
   eli: null
@@ -73,7 +75,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:20:01Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 534/79. Método e
-    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1971/decreto-lei-408-71.alteracoes.json'
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1971/decreto-lei-408-71.alteracoes.json.
+    Revogações registadas só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Decreto-Lei
+    n.º 541/79.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -588,7 +592,9 @@ b) Exercer as funções referidas na alínea anterior relativamente às escolas 
 
 c) Proceder à orientação pedagógica do ensino secundário particular, em colaboração com a Inspecção-Geral do Ensino Particular.
 
-2. Pertence também a esta Direcção-Geral promover e orientar o ensino secundário da língua portuguesa no estrangeiro.
+2. (Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 541/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/541-1979-230886), publicado em 1979-12-31, com efeitos a partir de 1980-01-01.
 
 ###### Artigo 14.º
 
@@ -600,7 +606,7 @@ b) Exercer as funções referidas na alínea anterior relativamente aos estabele
 
 c) Proceder à orientação pedagógica do ensino básico e da educação pré-escolar particular, em colaboração com a Inspecção-Geral do Ensino Particular.
 
-2. Pertence também a esta Direcção-Geral promover e orientar o ensino básico da língua portuguesa no estrangeiro.
+2. (Revogado.)
 
 ###### Artigo 15.º
 

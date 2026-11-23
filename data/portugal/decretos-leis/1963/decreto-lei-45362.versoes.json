@@ -23,15 +23,22 @@
      "title": "Decreto-Lei n.º 334/82",
      "published": "1982-08-19",
      "dre_path": "/dr/detalhe/decreto-lei/334-1982-397481"
+    },
+    {
+     "id": "pt:dre:263553:por",
+     "title": "Decreto-Lei n.º 48678",
+     "published": "1968-11-12",
+     "dre_path": "/dr/detalhe/decreto-lei/48678-1968-263553"
     }
    ],
    "changes": [
-    "Altera Artigo 5.º"
+    "Altera Artigo 5.º",
+    "Revoga Artigo 2"
    ],
    "fragments": [
     "8fd9cd41cfd6ee56",
     "98350f3502201d55",
-    "fc81e0e9f352b6cb",
+    "4a318aa9603eb244",
     "bb1f094200573f2d",
     "296bb35d2172982f",
     "78f65cc1ab670be8",
@@ -68,13 +75,15 @@
    "changed_by": [],
    "markdown": "###### Artigo 1.º\n\nOs corpos administrativos poderão ser autorizados pelo Ministro do Interior, ouvida a Direcção-Geral do Ensino Superior e das Belas-Artes, a inutilizar os originais dos documentos que, por lei ou por instruções da Direcção-Geral de Administração Política e Civil, devam manter-se arquivados, desde que procedam à respectiva microfilmagem.\n\nAs fotocópias, autenticadas com o selo branco e assinatura do responsável pelo serviço, substituirão, para todos os efeitos, as certidões dos originais que foram inutilizados após a microfilmagem."
   },
-  "fc81e0e9f352b6cb": {
+  "4a318aa9603eb244": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 2.º",
-   "in_force_from": null,
-   "changed_by": [],
-   "markdown": "###### Artigo 2.º\n\nOs pagamentos nas tesourarias das câmaras municipais, até ao relaxe, provenientes de impostos ou outros rendimentos municipais poderão efectuar-se em moeda corrente, por vales de correio ou por cheque da Caixa Geral de Depósitos, Crédito e Previdência, ou pela mesma Caixa visado, de harmonia com o disposto no [Decreto-Lei n.º 32677](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32677-1943-594102) e do [Decreto n.º 32678](https://diariodarepublica.pt/dr/detalhe/decreto/32678-1943-594103), ambos de 20 de Fevereiro de 1943.\n\n§ 1.º Os cheques serão passados ou endossados à ordem do tesoureiro da câmara à qual tenha de efectuar-se o pagamento, devendo os cheques visados conter a sobrecarga «Pagamento de dívidas às câmaras municipais».\n\n§ 2.º Todos os cheques recebidos nas tesourarias das câmaras para os fins previstos neste artigo serão obrigatòriamente depositados, nos termos do artigo 699.º do Código Administrativo."
+   "in_force_from": "1982-08-19",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 48678](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48678-1968-263553), publicado em 1968-11-12."
+   ],
+   "markdown": "###### Artigo 2.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 48678](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48678-1968-263553), publicado em 1968-11-12."
   },
   "bb1f094200573f2d": {
    "fragment_id": null,

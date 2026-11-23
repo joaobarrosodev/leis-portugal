@@ -43,9 +43,12 @@ version_history:
     changes: []
   - date: '1964-11-13'
     amending: pt:dre:536407:por
-    amending_title: Decreto-Lei n.º 46030
+    amending_title: Decreto-Lei n.º 46030; Decreto-Lei n.º 44526; Decreto-Lei n.º 44970
     changes:
     - Altera Artigo 16.º
+    - Revoga Artigo 11
+    - Revoga Artigo 12
+    - Revoga Artigo 13
 identifiers:
   celex: null
   eli: null
@@ -72,7 +75,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T21:34:34Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 46030. Método e verificação:
-    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1960/decreto-lei-43344.alteracoes.json'
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1960/decreto-lei-43344.alteracoes.json. Revogações
+    registadas só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Decreto-Lei
+    n.º 44526; Decreto-Lei n.º 44970.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -219,15 +224,19 @@ O Ministro poderá, quando a urgência do recrutamento do pessoal o imponha, fix
 
 ###### Artigo 11.º
 
-O júri do concurso de promoção a conselheiros de legação e cônsules gerais será constituído pelo Ministro ou por um embaixador por ele designado, que presidirá em sua representação, e por quatro funcionários do Ministério, de categoria igual ou superior a ministro plenipotenciário de 2.ª classe.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 44526](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44526-1962-163631), publicado em 1962-08-21.
 
 ###### Artigo 12.º
 
-A apreciação oral, referida no n.º 3.º do [Decreto n.º 36001](https://diariodarepublica.pt/dr/detalhe/decreto/36001-1946-149175), de 29 de Novembro de 1946, das monografias e das conclusões das provas escritas dos concorrentes será feita metade do tempo em português e outra metade em francês ou inglês, à escolha do candidato.
+(Revogado.)
 
 ###### Artigo 13.º
 
-Quando não puderem prover-se as vagas de ministros plenipotenciários de 2.ª classe por não haver funcionários em condições de ser elaborada a lista tríplice referida na alínea d) do artigo 76.º do regulamento do Ministério, pode o Ministro nomear para essas vagas os conselheiros de legação ou cônsules gerais com mais de quinze anos de carreira que tenham completado já dois dos estágios legais e se encontrem exercendo as funções correspondentes ao estágio que lhes falte completar.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 44970](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44970-1963-194867), publicado em 1963-04-10.
 
 ###### Artigo 14.º
 

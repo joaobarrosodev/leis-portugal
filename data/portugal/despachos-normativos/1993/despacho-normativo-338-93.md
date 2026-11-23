@@ -53,10 +53,11 @@ version_history:
     changes: []
   - date: '2006-04-24'
     amending: pt:dre:179543:por
-    amending_title: Despacho Normativo n.º 45/96; Despacho Normativo n.º 25/2006
+    amending_title: Despacho Normativo n.º 45/96; Despacho Normativo n.º 25/2006; Despacho Normativo n.º 11/2003
     changes:
     - Altera Artigo unidades 105-110
     - Adita Artigo depois da unidade 131
+    - Revoga anexo ou texto fora do articulado
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/despnorm/338/1993/10/21/p/dre/pt/html
@@ -83,7 +84,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:05:39Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 45/96; Despacho
-    Normativo n.º 25/2006. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1993/despacho-normativo-338-93.alteracoes.json'
+    Normativo n.º 25/2006. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1993/despacho-normativo-338-93.alteracoes.json.
+    Revogações registadas só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Despacho
+    Normativo n.º 11/2003.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -307,25 +310,13 @@ Avaliação sumativa interna
 
 24 - A avaliação interna é da responsabilidade conjunta dos professores que integram o conselho de turma, devendo o seu resultado ser comunicado ao aluno e ao encarregado de educação pelo director de turma.
 
-25 - Entre os elementos da avaliação interna, a considerar para classificação da disciplina, inclui-se uma prova escrita global, realizada em todas as disciplinas, no final dos 10.º e 11.º anos, e nas de carácter prático e de aplicação do 12.º ano, as quais não se encontram sujeitas a exame final.
+25 - (Revogado.)
 
-26 - As provas globais são realizadas a nível de escola, sendo elaboradas pelo departamento curricular, segundo critérios aprovados pelo conselho pedagógico.
+> Revogado pelo/a [Despacho Normativo n.º 11/2003](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/11-2003-220344), publicado em 2003-03-03, com efeitos a partir de 2003-03-04.
 
-27 - A classificação a atribuir na avaliação interna anual da disciplina é a seguinte:
+26 - (Revogado.)
 
-a) Quando se realiza prova global, o resultado da média ponderada da avaliação da frequência e da prova global, de acordo com a seguinte fórmula:
-
-CI = (3CF + PG)/4
-
-em que:
-
-CI = Classificação da avaliação interna da disciplina;
-
-CF = Classificação da avaliação da frequência no final do 3.º período;
-
-PG = Classificação da prova global;
-
-b) Quando não se realiza prova global, o resultado da avaliação da frequência no final do 3.º período.
+27 - (Revogado.)
 
 28 - Para efeitos de formalização da avaliação interna, o conselho de turma reunirá no final de cada período lectivo, a fim de decidir sobre a classificação a atribuir ao aluno em cada disciplina.
 

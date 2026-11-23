@@ -54,10 +54,11 @@ version_history:
     changes: []
   - date: '2004-07-25'
     amending: pt:dre:525604:por
-    amending_title: Despacho Normativo n.º 33/2004; Declaração de Rectificação n.º 26-B/2002
+    amending_title: Despacho Normativo n.º 33/2004; Declaração de Rectificação n.º 26-B/2002; Despacho Normativo n.º 30/2003
     changes:
     - Adita Artigo depois da unidade 45
     - Retifica texto
+    - Revoga anexo ou texto fora do articulado
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/despnorm/37/2002/07/01/p/dre/pt/html
@@ -85,7 +86,9 @@ provenance:
   generated_at: '2026-10-23T08:39:03Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 33/2004. Método
     e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/2002/despacho-normativo-37-2002.alteracoes.json.
-    Retificações aplicadas por regra (consolidacao/retificacoes.py): Declaração de Rectificação n.º 26-B/2002.'
+    Retificações aplicadas por regra (consolidacao/retificacoes.py): Declaração de Rectificação n.º 26-B/2002. Revogações
+    registadas só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Despacho Normativo
+    n.º 30/2003.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -186,7 +189,9 @@ Aos criadores das raças autóctones constantes do anexo I ao presente despacho 
 
 4.º
 
-O número de fêmeas elegíveis no âmbito deste incentivo não pode ultrapassar, para cada produtor, o total do seu limite individual previsto no artigo 8.º do Regulamento (CE) n.º [2529/2001](http://data.europa.eu/eli/reg/2001/2529/oj?locale=pt).
+(Revogado.)
+
+> Revogado pelo/a [Despacho Normativo n.º 30/2003](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/30-2003-671656), publicado em 2003-07-14, com efeitos a partir de 2003-07-15.
 
 5.º
 

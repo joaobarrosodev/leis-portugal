@@ -41,7 +41,7 @@ version:
   kind: consolidated
   label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: '2009-08-09'
+  consolidation_date: '2015-01-31'
 version_history:
   file: decreto-lei-50-b-2007.versoes.json
   count: 2
@@ -51,11 +51,27 @@ version_history:
     amending: null
     amending_title: null
     changes: []
-  - date: '2009-08-09'
+  - date: '2015-01-31'
     amending: pt:dre:493009:por
-    amending_title: Decreto-Lei n.º 176/2009
+    amending_title: Decreto-Lei n.º 176/2009; Decreto-Lei n.º 12/2015
     changes:
     - Altera Artigo 12.º
+    - Revoga Artigo 4
+    - Revoga Artigo 5
+    - Revoga Artigo 6
+    - Revoga Artigo 7
+    - Revoga Artigo 8
+    - Revoga Artigo 9
+    - Revoga Artigo 10
+    - Revoga Artigo 12
+    - Revoga Artigo 14
+    - Revoga Artigo 15
+    - Revoga Artigo 16
+    - Revoga Artigo 17
+    - Revoga Artigo 18
+    - Revoga Artigo 19
+    - Revoga Artigo 20
+    - Revoga Artigo 21
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/50-b/2007/02/28/p/dre/pt/html
@@ -82,7 +98,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T03:01:56Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 176/2009. Método
-    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2007/decreto-lei-50-b-2007.alteracoes.json'
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2007/decreto-lei-50-b-2007.alteracoes.json.
+    Revogações registadas só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Decreto-Lei
+    n.º 12/2015.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -241,79 +259,35 @@ O presente decreto-lei e o seu anexo constituem título bastante para todos os e
 
 ###### Artigo 4.º — Natureza e regime
 
-1 - A ULSNA, E. P. E., é uma pessoa colectiva de direito público de natureza empresarial dotada de autonomia administrativa, financeira e patrimonial nos termos do [Decreto-Lei n.º 558/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/558-1999-655312), de 17 de Dezembro.
+(Revogado.)
 
-2 - A ULSNA, E. P. E., rege-se pelo regime jurídico aplicável às entidades públicas empresariais, com as especificidades previstas no presente decreto-lei e nos seus Estatutos, bem como no respectivo regulamento interno e nas normas em vigor para o Serviço Nacional de Saúde que não contrariem as normas aqui previstas.
+> Revogado pelo/a [Decreto-Lei n.º 12/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2015-66325236), publicado em 2015-01-26, com efeitos a partir de 2015-01-31.
 
 ###### Artigo 5.º — Superintendência
 
-1 - Compete ao Ministro da Saúde:
-
-a) Aprovar os objectivos e estratégias da ULSNA, E. P. E.;
-
-b) Dar orientações, recomendações e directivas para prossecução das atribuições da ULSNA E. P. E., designadamente em matérias transversais e comuns ao Serviço Nacional de Saúde;
-
-c) Definir as normas de organização e de actuação hospitalar;
-
-d) Homologar o regulamento interno da ULSNA, E. P. E.;
-
-e) Exigir todas as informações julgadas necessárias ao acompanhamento da actividade da ULSNA, E. P. E., bem como determinar auditorias e inspecções ao seu funcionamento.
-
-2 - O Ministro da Saúde pode delegar os poderes referidos no número anterior no conselho de administração da Administração Regional de Saúde do Alentejo.
+(Revogado.)
 
 ###### Artigo 6.º — Capacidade
 
-A capacidade jurídica da ULSNA, E. P. E., abrange todos os direitos e obrigações necessários ou convenientes à prossecução do seu objecto e das suas atribuições, sendo da sua exclusiva competência a cobrança das receitas e taxas provenientes da respectiva actividade.
+(Revogado.)
 
 ###### Artigo 7.º — Organização
 
-1 - A ULSNA, E. P. E., organiza-se de acordo com as normas e critérios genéricos definidos pela tutela em função das suas atribuições e áreas de actuação específicas, devendo o respectivo regulamento interno prever a estrutura orgânica com base em serviços agregados em departamentos e englobando unidades funcionais.
-
-2 - O regulamento interno referido no número anterior deve identificar os centros de saúde da ULSNA, E. P. E., e estabelecer as normas que permitam a efectiva articulação entre os cuidados de saúde primários, diferenciados e continuados, no âmbito de uma prestação integrada de serviços.
-
-3 - As estruturas orgânicas da ULSNA, E. P. E., devem desenvolver a sua acção por centros de responsabilidade que permitam a realização, internamente contratualizada, dos respectivos programas de actividade com autonomia e responsabilidade, de modo a possibilitar formas de trabalho centradas prioritariamente no doente, de acordo com as boas práticas de gestão clínica.
+(Revogado.)
 
 ### CAPÍTULO III — Regime financeiro
 
 ###### Artigo 8.º — Tutela
 
-Compete aos Ministros das Finanças e da Saúde:
-
-a) Aprovar o plano de actividades, o orçamento e os documentos de prestação de contas da ULSNA, E. P. E.;
-
-b) Autorizar as aquisições e venda de imóveis, bem como a sua oneração, mediante parecer prévio do fiscal único;
-
-c) Autorizar a realização de investimentos, quando as verbas globais correspondentes não estejam previstas nos orçamentos aprovados e sejam de valor superior a 2% do capital estatutário da ULSNA, E. P. E., mediante parecer favorável do fiscal único;
-
-d) Determinar os aumentos e reduções do capital estatutário da ULSNA, E. P. E.;
-
-e) Autorizar a contracção de empréstimos de valor, individual ou acumulado, igual ou superior a 10% do capital estatutário da ULSNA, E. P. E.;
-
-f) Autorizar cedências de exploração de serviços, bem como a constituição de associações com outras entidades públicas para a melhor prossecução das atribuições da ULSNA, E. P. E.;
-
-g) Autorizar a participação da ULSNA, E. P. E., em sociedades anónimas cujo capital social seja por ela maioritariamente detido e que tenham por objecto a prestação de cuidados de saúde;
-
-h) Autorizar, sem prejuízo do disposto na alínea anterior, para a prossecução dos pertinentes objectivos estratégicos, a participação da ULSNA, E. P. E., no capital social de outras sociedades, nos termos do artigo 37.º do [Decreto-Lei n.º 558/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/558-1999-655312), de 17 de Dezembro;
-
-i) Autorizar os demais actos que, nos termos da legislação aplicável, necessitem de aprovação tutelar.
+(Revogado.)
 
 ###### Artigo 9.º — Controlo financeiro
 
-Sem prejuízo do disposto nos artigos 12.º e 13.º do [Decreto-Lei n.º 558/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/558-1999-655312), de 17 de Dezembro, deve a ULSNA, E. P. E, submeter aos Ministros das Finanças e da Saúde:
-
-a) O plano de actividades e o orçamento, até ao final do mês de Outubro de cada ano;
-
-b) Os documentos de prestação de contas, até ao final do mês de Março de cada ano;
-
-c) Os indicadores de actividade, económico-financeiros, de recursos humanos e outros definidos pelos Ministros das Finanças e da Saúde, com a periodicidade que for estabelecida.
+(Revogado.)
 
 ###### Artigo 10.º — Financiamento
 
-1 - A ULSNA, E. P. E., é financiada nos termos da base XXXIII da Lei de Bases da Saúde, com as alterações introduzidas pela [Lei n.º 27/2002](https://diariodarepublica.pt/dr/detalhe/lei/27-2002-425487), de 8 de Novembro.
-
-2 - O pagamento dos actos e actividades da ULSNA, E. P. E., pelo Estado é feito através de contratos-programa a celebrar com o Ministério da Saúde nos quais se estabelecem os objectivos e metas qualitativas e quantitativas, sua calendarização, os meios e instrumentos para os prosseguir, designadamente de investimento, os indicadores para avaliação do desempenho dos serviços e do nível de satisfação dos utentes e as demais obrigações assumidas pelas partes, tendo como referencial os preços praticados no mercado para os diversos actos clínicos.
-
-3 - O endividamento da ULSNA, E. P. E., não pode exceder em qualquer momento o limite de 30% do respectivo capital estatutário.
+(Revogado.)
 
 ###### Artigo 11.º — Aquisição de bens e serviços
 
@@ -325,13 +299,7 @@ c) Os indicadores de actividade, económico-financeiros, de recursos humanos e o
 
 ###### Artigo 12.º — Regime de pessoal
 
-1 - Os trabalhadores da ULSNA, E. P. E., estão sujeitos ao regime do contrato de trabalho, nos termos do Código do Trabalho, bem como ao regime disposto em diplomas que definam o regime legal da carreira de profissões da saúde, demais legislação laboral, normas imperativas sobre títulos profissionais, instrumentos de regulamentação colectiva de trabalho e regulamentos internos.
-
-2 - A ULSNA, E. P. E., deve prever anualmente uma dotação global de pessoal, através do respectivo orçamento, considerando os planos de actividade.
-
-3 - Sem prejuízo do disposto no n.º 7 do artigo 13.º, a ULSNA, E. P. E., não pode celebrar contratos de trabalho para além da dotação referida no número anterior.
-
-4 - Os processos de recrutamento devem assentar na adequação dos profissionais às funções a desenvolver e assegurar os princípios da igualdade de oportunidades, da imparcialidade, da boa fé e da não discriminação, bem como da publicidade, podendo este ser excepcionado, nos casos de manifesta urgência devidamente fundamentada.
+(Revogado.)
 
 > Alterado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 176/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2009-493009), publicado em 2009-08-04.
 
@@ -353,35 +321,19 @@ c) Os indicadores de actividade, económico-financeiros, de recursos humanos e o
 
 ###### Artigo 14.º — Opção pelo contrato de trabalho
 
-A opção definitiva pelo regime do contrato de trabalho é feita, individual e definitivamente, mediante acordo escrito com o conselho de administração, tornando-se efectiva a cessação do vínculo à função pública com a sua publicação no Diário da República, data em que o contrato de trabalho a celebrar com a ULSNA, E. P. E., passa a produzir efeitos.
+(Revogado.)
 
 ###### Artigo 15.º — Opção temporária
 
-1 - Todos os funcionários e agentes referidos nos n.os 1 e 2 do artigo 12.º podem optar pela celebração de contrato de trabalho quando para o efeito lhes seja concedida licença sem vencimento prevista nos artigos 21.º e 22.º do Estatuto do Serviço Nacional de Saúde, sendo-lhes asseguradas:
-
-a) A contagem, na categoria de origem, do tempo de serviço prestado na ULSNA, E. P. E.;
-
-b) A opção pelo regime de protecção social da função pública.
-
-2 - Compete ao conselho de administração da ULSNA, E. P. E., o reconhecimento casuístico do interesse público subjacente ao pedido de licença sem vencimento.
-
-3 - Finda a licença sem vencimento, é ainda assegurada:
-
-a) A integração no quadro do serviço ou organismo do Ministério da Saúde que careça do profissional em causa, se necessário, em lugar a extinguir quando vagar, de preferência da região de saúde do Alentejo;
-
-b) A colocação em situação de mobilidade especial, nos termos legalmente estabelecidos.
-
-4 - Os agentes retomam o seu contrato administrativo de provimento até ao seu termo.
+(Revogado.)
 
 ###### Artigo 16.º — Mobilidade
 
-1 - Os funcionários e agentes dos serviços e organismos do Ministério da Saúde podem ser contratados pela ULSNA, E. P. E., nos termos dos artigos 21.º e 22.º do Estatuto do Serviço Nacional de Saúde, aplicando-se o disposto no artigo anterior e competindo ao Ministro da Saúde o reconhecimento do respectivo interesse público, ouvidos os dirigentes máximos dos serviços ou organismos de origem e dos hospitais E. P. E.
-
-2 - Aplica-se à ULSNA, E. P. E., o regime de comissão de serviço previsto no artigo 17.º do [Decreto-Lei n.º 558/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/558-1999-655312), de 17 de Dezembro.
+(Revogado.)
 
 ###### Artigo 17.º — Regime de protecção social
 
-1 - Sem prejuízo do disposto nos n.os 1 e 2 do artigo 12.º, no n.º 1 do artigo 14.º e no n.º 1 do artigo anterior, o regime de protecção social da ULSNA, E. P. E., é o regime geral da segurança social.
+1 - (Revogado.)
 
 2 - Relativamente aos funcionários e agentes que não optem pelo regime do contrato de trabalho ou que, nos termos do número anterior, mantenham o regime de protecção social da função pública, a ULSNA, E. P. E., contribui para o financiamento da Caixa Geral de Aposentações com a importância que se encontrar legalmente estabelecida para a contribuição das entidades empregadoras com autonomia administrativa e financeira.
 
@@ -391,23 +343,19 @@ b) A colocação em situação de mobilidade especial, nos termos legalmente est
 
 ###### Artigo 18.º — Cessação dos mandatos e das comissões de serviço
 
-1 - Com a entrada em vigor do presente decreto-lei cessam automaticamente os mandatos dos membros dos conselhos de administração e dos órgãos de direcção das unidades integradas na ULSNA, E. P. E., mantendo-se os mesmos em gestão corrente até à nomeação dos novos titulares.
-
-2 - Cessam igualmente as comissões de serviço dos titulares dos cargos de direcção e chefia dos mesmos estabelecimentos e serviços de saúde, mantendo-se os respectivos titulares em exercício de funções até à designação dos novos titulares.
-
-3 - A designação dos novos titulares de cargos de direcção e chefia faz-se nos termos previstos no Código do Trabalho.
+(Revogado.)
 
 ###### Artigo 19.º — Extinção de serviços
 
-São extintos os serviços sub-regionais de Saúde de Portalegre, da Administração Regional de Saúde do Alentejo, cessando automaticamente as comissões de serviço dos titulares dos respectivos cargos de direcção e chefia.
+(Revogado.)
 
 ###### Artigo 20.º — Regulamento interno
 
-O regulamento interno da ULSNA, E. P. E., deve ser elaborado e submetido a homologação do Ministro da Saúde no prazo de 120 dias a contar da data de entrada em vigor do presente decreto-lei.
+(Revogado.)
 
 ###### Artigo 21.º — Entrada em vigor
 
-O presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua publicação.
+(Revogado.)
 
 Visto e aprovado em conselho de Ministros de 11 de Janeiro de 2007. - José Sócrates Carvalho Pinto de Sousa - Emanuel Augusto dos Santos - António Fernando Correia de Campos.
 

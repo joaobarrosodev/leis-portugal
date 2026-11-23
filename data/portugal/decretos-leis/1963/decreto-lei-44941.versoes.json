@@ -23,14 +23,21 @@
      "title": "Decreto-Lei n.º 200/75",
      "published": "1975-04-15",
      "dre_path": "/dr/detalhe/decreto-lei/200-1975-162077"
+    },
+    {
+     "id": "pt:dre:238813:por",
+     "title": "Decreto-Lei n.º 46195",
+     "published": "1965-02-20",
+     "dre_path": "/dr/detalhe/decreto-lei/46195-1965-238813"
     }
    ],
    "changes": [
-    "Altera Artigo 1.º"
+    "Altera Artigo 1.º",
+    "Revoga Artigo 1"
    ],
    "fragments": [
     "8fd9cd41cfd6ee56",
-    "2f11c00747ad06ff",
+    "4b87439ffab026c3",
     "3d1296e6dae1b8cd",
     "ac833e6a398cb7e2",
     "caa1867053a2f059",
@@ -57,15 +64,16 @@
    "changed_by": [],
    "markdown": "Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:"
   },
-  "2f11c00747ad06ff": {
+  "4b87439ffab026c3": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 1.º",
    "in_force_from": "1975-04-15",
    "changed_by": [
-    "Alterado pelo/a [Decreto-Lei n.º 200/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1975-162077), publicado em 1975-04-15."
+    "Alterado pelo/a [Decreto-Lei n.º 200/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1975-162077), publicado em 1975-04-15.",
+    "Revogado pelo/a [Decreto-Lei n.º 46195](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46195-1965-238813), publicado em 1965-02-20, com efeitos a partir de 1965-03-01."
    ],
-   "markdown": "###### Artigo 1.º\n\nTêm direito ao abono de alimentação e alojamento por conta do Estado:\n\n1.º Oficiais e sargentos, ou equiparados, nas seguintes situações:\n\na) Quando em regime de prevenção que os obrigue a permanecer no aquartelamento;\n\nb) Quando em manobras ou exercícios em tempo de paz, de duração superior a doze horas, ou fazendo parte de destacamentos cuja concentração tenha sido determinada;\n\nc) Quando presos, nas condições estabelecidas pelo [Decreto-Lei n.º 39044](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39044-1952-665713), de 19 de Dezembro de 1952;\n\nd) Quando colocados no quadro do comando e do destacamento do campo de instrução militar de Santa Margarida ou nas unidades que neste se encontrem instaladas a título permanente ou eventual;\n\ne) Quando escalados para serviço diário nas unidades, estabelecimentos militares e outros serviços do Exército;\n\nf) Durante o tempo em que estiverem com baixa aos hospitais ou enfermarias;\n\ng) Na frequência de tirocínios, cursos ou estágios nos estabelecimentos militares de ensino ou de instrução ou outros que como tal estejam funcionando;\n\nh) Em diligência nas escolas práticas e 2.º grupo de companhias de administração militar, enquanto esta unidade funcionar no aquartelamento da Escola Prática de Administração Militar.\n\n2.º Os alunos dos estabelecimentos de ensino do Ministério do Exército, durante os períodos de trabalhos escolares e férias, nos termos dos respectivos regulamentos.\n\n3.º Os indivíduos na prestação do serviço militar quando cabos, ainda que readmitidos, soldados ou recrutas.\n\n4.º Os mancebos nas seguintes situações:\n\na) Em contravenção da Lei do Recrutamento e Serviço Militar, enquanto não for esclarecida a sua situação militar;\n\nb) Presentes às juntas de inspecção e mandados baixar aos hospitais militares, bem como os que nas ilhas adjacentes aguardam o embarque para o continente, mas apenas no dia do embarque.\n\nc) Deslocados às juntas de recrutamento, sempre que tais deslocações, pela sua distância ou duração, impliquem a necessidade de pernoita ou de refeições fora do seu domicílio habitual, segundo normas regulamentares a fixar.\n\n5.º Os militares que em casos especiais sejam autorizados por despacho ministerial.\n\n> Alterado pelo/a [Decreto-Lei n.º 200/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1975-162077), publicado em 1975-04-15."
+   "markdown": "###### Artigo 1.º\n\nTêm direito ao abono de alimentação e alojamento por conta do Estado:\n\n1.º Oficiais e sargentos, ou equiparados, nas seguintes situações:\n\na) Quando em regime de prevenção que os obrigue a permanecer no aquartelamento;\n\nb) Quando em manobras ou exercícios em tempo de paz, de duração superior a doze horas, ou fazendo parte de destacamentos cuja concentração tenha sido determinada;\n\nc) Quando presos, nas condições estabelecidas pelo [Decreto-Lei n.º 39044](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39044-1952-665713), de 19 de Dezembro de 1952;\n\nd) (Revogada.)\n\ne) Quando escalados para serviço diário nas unidades, estabelecimentos militares e outros serviços do Exército;\n\nf) Durante o tempo em que estiverem com baixa aos hospitais ou enfermarias;\n\ng) Na frequência de tirocínios, cursos ou estágios nos estabelecimentos militares de ensino ou de instrução ou outros que como tal estejam funcionando;\n\nh) (Revogada.)\n\n2.º Os alunos dos estabelecimentos de ensino do Ministério do Exército, durante os períodos de trabalhos escolares e férias, nos termos dos respectivos regulamentos.\n\n3.º Os indivíduos na prestação do serviço militar quando cabos, ainda que readmitidos, soldados ou recrutas.\n\n4.º Os mancebos nas seguintes situações:\n\na) Em contravenção da Lei do Recrutamento e Serviço Militar, enquanto não for esclarecida a sua situação militar;\n\nb) Presentes às juntas de inspecção e mandados baixar aos hospitais militares, bem como os que nas ilhas adjacentes aguardam o embarque para o continente, mas apenas no dia do embarque.\n\nc) Deslocados às juntas de recrutamento, sempre que tais deslocações, pela sua distância ou duração, impliquem a necessidade de pernoita ou de refeições fora do seu domicílio habitual, segundo normas regulamentares a fixar.\n\n5.º Os militares que em casos especiais sejam autorizados por despacho ministerial.\n\n> Alterado pelo/a [Decreto-Lei n.º 200/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1975-162077), publicado em 1975-04-15.\n\n> Revogado pelo/a [Decreto-Lei n.º 46195](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46195-1965-238813), publicado em 1965-02-20, com efeitos a partir de 1965-03-01."
   },
   "3d1296e6dae1b8cd": {
    "fragment_id": null,

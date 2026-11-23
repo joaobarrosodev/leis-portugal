@@ -52,6 +52,18 @@
      "title": "Decreto-Lei n.º 18/2008",
      "published": "2008-01-29",
      "dre_path": "/dr/detalhe/decreto-lei/18-2008-248178"
+    },
+    {
+     "id": "pt:dre:173688:por",
+     "title": "Decreto-Lei n.º 55/95",
+     "published": "1995-03-29",
+     "dre_path": "/dr/detalhe/decreto-lei/55-1995-173688"
+    },
+    {
+     "id": "pt:dre:311259:por",
+     "title": "Decreto-Lei n.º 197/99",
+     "published": "1999-06-08",
+     "dre_path": "/dr/detalhe/decreto-lei/197-1999-311259"
     }
    ],
    "changes": [
@@ -61,22 +73,30 @@
     "Revoga Artigo 12.º",
     "Revoga Artigo 13.º",
     "Revoga Artigo 14.º",
-    "Revoga Artigo 15.º"
+    "Revoga Artigo 15.º",
+    "Revoga Artigo 2",
+    "Revoga Artigo 3",
+    "Revoga Artigo 4",
+    "Revoga Artigo 5",
+    "Revoga Artigo 7",
+    "Revoga Artigo 8",
+    "Revoga Artigo 9",
+    "Revoga Artigo 6"
    ],
    "fragments": [
     "a7840b240fd12ed0",
     "2fc91b95e62ba225",
     "c2ca53aaeb2ef4bf",
     "3a8b5bbb066dc906",
-    "2952813c85910be8",
-    "97423ac7785d6f86",
-    "9bd27f77d33a075f",
-    "9012df5a6088c3e3",
-    "ef76d34b04fc145b",
+    "65b120a08afd5785",
+    "14c2228ed8e4f264",
+    "714a2e93ddd8d851",
+    "b7ca59afa58f1304",
+    "e173f2d507768910",
     "07f1e80279ae8c09",
-    "32db985b8d0f9ea0",
-    "0e8b747218676aa3",
-    "aa0fb7b40a360526",
+    "01eb3cc2c11f70a8",
+    "70b76e48fc76cfe9",
+    "146534ae2aa57a60",
     "6b334db92fe3ef15",
     "1154d53a4dd8f745",
     "9e4f56e00e724d29",
@@ -284,15 +304,74 @@
    "changed_by": [],
    "markdown": "###### Artigo 18.º — (Entrada em vigor)\n\nO presente diploma entra em vigor 60 dias após a sua publicação, aplicando-se apenas às obras, aos fornecimentos e às concessões objecto de deliberação pelos órgãos autárquicos posterior à sua entrada em vigor.\n\nVisto e aprovado em Conselho de Ministros de 1 de Julho de 1982. - Diogo Pinto de Freitas do Amaral.\n\nPromulgado em 26 de Agosto de 1982.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES."
   },
-  "ef76d34b04fc145b": {
+  "65b120a08afd5785": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — (Concurso público)",
+   "in_force_from": "2008-07-29",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 55/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-1995-173688), publicado em 1995-03-29, com efeitos a partir de 1995-05-28."
+   ],
+   "markdown": "###### Artigo 2.º — (Concurso público)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 55/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-1995-173688), publicado em 1995-03-29, com efeitos a partir de 1995-05-28."
+  },
+  "14c2228ed8e4f264": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — (Concurso limitado)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — (Concurso limitado)\n\n(Revogado.)"
+  },
+  "714a2e93ddd8d851": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — (Ajuste directo)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — (Ajuste directo)\n\n(Revogado.)"
+  },
+  "b7ca59afa58f1304": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — (Forma do contrato)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — (Forma do contrato)\n\n(Revogado.)"
+  },
+  "e173f2d507768910": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 6.º — (Administração directa)",
    "in_force_from": "2008-07-29",
    "changed_by": [
-    "Alterado pelo/a [Lei n.º 22/95](https://diariodarepublica.pt/dr/detalhe/lei/22-1995-462032), publicado em 1995-07-18."
+    "Alterado pelo/a [Lei n.º 22/95](https://diariodarepublica.pt/dr/detalhe/lei/22-1995-462032), publicado em 1995-07-18.",
+    "Revogado pelo/a [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), publicado em 1999-06-08, com efeitos a partir de 1999-08-07."
    ],
-   "markdown": "###### Artigo 6.º — (Administração directa)\n\n1 - Podem ser feitas por administração directa:\n\na) As obras de valor inferior ao limite estabelecido pela assembleia deliberativa nos termos do n.º 1 do artigo 2.º ou ao estabelecido no n.º 2 do mesmo artigo, quando for caso disso;\n\nb) As obras de valor superior ao previsto na alínea a) cuja realização por administração directa haja sido expressamente autorizada pela assembleia deliberativa, na sequência de proposta do órgão executivo;\n\nc) As obras ou reparações imprevistas ou de carácter urgente;\n\nd) As obras que, postas a concurso nos termos da lei, não tenham sido licitadas ou não hajam sido adjudicadas.\n\n2 - Não poderão fazer-se desdobramentos de trabalhos da mesma obra cujo valor, no conjunto, atinja verba superior à estabelecida ao abrigo do artigo 2.º, quer se trate de administração ou ajuste directos, ou de concursos público ou limitado.\n\n> Alterado pelo/a [Lei n.º 22/95](https://diariodarepublica.pt/dr/detalhe/lei/22-1995-462032), publicado em 1995-07-18."
+   "markdown": "###### Artigo 6.º — (Administração directa)\n\n(Revogado.)\n\n> Alterado pelo/a [Lei n.º 22/95](https://diariodarepublica.pt/dr/detalhe/lei/22-1995-462032), publicado em 1995-07-18.\n\n> Revogado pelo/a [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), publicado em 1999-06-08, com efeitos a partir de 1999-08-07."
+  },
+  "01eb3cc2c11f70a8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — (Concurso público)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — (Concurso público)\n\n(Revogado.)"
+  },
+  "70b76e48fc76cfe9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — (Concurso limitado e ajuste directo)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — (Concurso limitado e ajuste directo)\n\n(Revogado.)"
+  },
+  "146534ae2aa57a60": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — (Forma do contrato)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — (Forma do contrato)\n\n(Revogado.)"
   },
   "1154d53a4dd8f745": {
    "fragment_id": null,

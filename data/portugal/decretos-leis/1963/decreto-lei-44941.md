@@ -46,9 +46,10 @@ version_history:
     changes: []
   - date: '1975-04-15'
     amending: pt:dre:162077:por
-    amending_title: Decreto-Lei n.º 200/75
+    amending_title: Decreto-Lei n.º 200/75; Decreto-Lei n.º 46195
     changes:
     - Altera Artigo 1.º
+    - Revoga Artigo 1
 identifiers:
   celex: null
   eli: null
@@ -75,7 +76,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T21:44:25Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 200/75. Método e
-    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1963/decreto-lei-44941.alteracoes.json'
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1963/decreto-lei-44941.alteracoes.json.
+    Revogações registadas só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Decreto-Lei
+    n.º 46195.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -146,7 +149,7 @@ b) Quando em manobras ou exercícios em tempo de paz, de duração superior a do
 
 c) Quando presos, nas condições estabelecidas pelo [Decreto-Lei n.º 39044](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39044-1952-665713), de 19 de Dezembro de 1952;
 
-d) Quando colocados no quadro do comando e do destacamento do campo de instrução militar de Santa Margarida ou nas unidades que neste se encontrem instaladas a título permanente ou eventual;
+d) (Revogada.)
 
 e) Quando escalados para serviço diário nas unidades, estabelecimentos militares e outros serviços do Exército;
 
@@ -154,7 +157,7 @@ f) Durante o tempo em que estiverem com baixa aos hospitais ou enfermarias;
 
 g) Na frequência de tirocínios, cursos ou estágios nos estabelecimentos militares de ensino ou de instrução ou outros que como tal estejam funcionando;
 
-h) Em diligência nas escolas práticas e 2.º grupo de companhias de administração militar, enquanto esta unidade funcionar no aquartelamento da Escola Prática de Administração Militar.
+h) (Revogada.)
 
 2.º Os alunos dos estabelecimentos de ensino do Ministério do Exército, durante os períodos de trabalhos escolares e férias, nos termos dos respectivos regulamentos.
 
@@ -171,6 +174,8 @@ c) Deslocados às juntas de recrutamento, sempre que tais deslocações, pela su
 5.º Os militares que em casos especiais sejam autorizados por despacho ministerial.
 
 > Alterado pelo/a [Decreto-Lei n.º 200/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1975-162077), publicado em 1975-04-15.
+
+> Revogado pelo/a [Decreto-Lei n.º 46195](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46195-1965-238813), publicado em 1965-02-20, com efeitos a partir de 1965-03-01.
 
 ###### Artigo 2.º
 

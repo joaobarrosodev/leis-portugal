@@ -54,7 +54,7 @@ version_history:
   - date: '2020-01-01'
     amending: pt:dre:124324704:por
     amending_title: Decreto-Lei n.º 132/2019; Portaria n.º 5/95; Portaria n.º 224/94; Portaria n.º 395/95; Portaria n.º 203/96;
-      Portaria n.º 1279/97
+      Portaria n.º 1279/97; Decreto-Lei n.º 82/2007
     changes:
     - Revoga Artigo 53.º
     - Revoga Artigo 53.º
@@ -69,6 +69,9 @@ version_history:
     - Revoga Artigo 61.º
     - Retifica texto
     - Altera anexo ou texto fora do articulado
+    - Revoga Artigo 53
+    - Revoga Artigo 69
+    - Revoga Artigo 70
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/324/1993/09/25/p/dre/pt/html
@@ -98,7 +101,8 @@ provenance:
     e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1993/decreto-lei-324-93.alteracoes.json.
     Retificações aplicadas com um LLM, na ronda im, e verificadas às cegas (consolidacao/retificacoes_llm.py): Portaria n.º
     5/95. Anexos e quadros de alteradores triados «sem alteração textual», aplicados com um LLM e verificados às cegas (consolidacao/anexos_alteradores.py):
-    Portaria n.º 224/94; Portaria n.º 395/95; Portaria n.º 203/96; Portaria n.º 1279/97.'
+    Portaria n.º 224/94; Portaria n.º 395/95; Portaria n.º 203/96; Portaria n.º 1279/97. Revogações registadas só como repealed_by,
+    aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Decreto-Lei n.º 82/2007.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -1185,15 +1189,17 @@ n) Participar na constituição de equipas interdisciplinares, coordenadas a ní
 
 3 - (Revogado.)
 
-4 - O lugar de chefe de delegação é provido por despacho do director-geral, em comissão de serviço pelo período de um ano, renovável por igual período, de entre funcionários com categoria não inferior a primeiro-verificador superior, segundo-verificador superior com pelo menos dois anos de serviço efectivo ou técnico verificador especialista com reconhecida competência para o exercício das funções.
+4 - (Revogado.)
 
-5 - A comissão de serviço referida no número anterior considera-se automaticamente renovada se até 30 dias antes do seu termo não tiver sido manifestada, expressamente, pelo director-geral ou pelo funcionário a intenção de a fazer cessar.
-
-> Revogado pelo/a Artigo 50.º do/a [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30.
+5 - (Revogado.)
 
 > Revogado pelo/a Artigo 50.º do/a [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30.
 
 > Revogado pelo/a Artigo 50.º do/a [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30.
+
+> Revogado pelo/a Artigo 50.º do/a [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30.
+
+> Revogado pelo/a [Decreto-Lei n.º 82/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2007-520466), publicado em 2007-03-29, com efeitos a partir de 2007-04-01.
 
 ###### Artigo 54.º — Mobilidade interna
 
@@ -1311,21 +1317,11 @@ Art. 3.º - 1 - Dos representantes da Direcção-Geral das Alfândegas, três s�
 
 ###### Artigo 69.º — Prestação de serviços
 
-A DGA pode prestar serviços, bem como realizar trabalhos no âmbito das suas atribuições, que lhe sejam solicitados por outras entidades, sendo as condições de prestação dos mesmos e os respectivos preços fixados por despacho do Ministro das Finanças.
+(Revogado.)
 
 ###### Artigo 70.º — Receitas da DGA
 
-1 - Constituem receitas da DGA:
-
-a) As dotações atribuídas pelo Orçamento do Estado;
-
-b) O produto da venda de serviços aos utilizadores do Sistema de Tratamento Automático da Declaração Aduaneira (STADA), nos termos do n.º 1 do artigo 8.º do [Decreto-Lei n.º 264/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1991-690986), de 26 de Julho;
-
-c) O produto da venda de outros serviços a terceiros.
-
-2 - As receitas decorrentes das alíneas b) e c) do número anterior são movimentadas nos termos da lei geral.
-
-3 - Os saldos das verbas referidas nessas mesmas alíneas transitam para o ano seguinte.
+(Revogado.)
 
 ###### Artigo 71.º — Legislação revogada
 

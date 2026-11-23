@@ -21,7 +21,7 @@
    ]
   },
   {
-   "date": "1976-03-22",
+   "date": "1976-11-06",
    "future": false,
    "acts": [
     {
@@ -29,10 +29,17 @@
      "title": "Decreto-Lei n.º 209/76",
      "published": "1976-03-22",
      "dre_path": "/dr/detalhe/decreto-lei/209-1976-501381"
+    },
+    {
+     "id": "pt:dre:407338:por",
+     "title": "Decreto-Lei n.º 797/76",
+     "published": "1976-11-06",
+     "dre_path": "/dr/detalhe/decreto-lei/797-1976-407338"
     }
    ],
    "changes": [
-    "Altera Artigo 26.º"
+    "Altera Artigo 26.º",
+    "Revoga Artigo 26"
    ],
    "fragments": [
     "9b542a8d4c226aea",
@@ -66,7 +73,7 @@
     "6f92e5a182e7d04b",
     "eaa327f0604bcb60",
     "917b9dc0d02fd229",
-    "17d40c045fdb2c38",
+    "9bf2cb2b54645c56",
     "d3c1eb9fbb9df997",
     "ed3393211e6d8f3e",
     "53a04da1b6e11a9c",
@@ -375,15 +382,16 @@
    "changed_by": [],
    "markdown": "### CAPÍTULO V — Da distribuição das casas e do regime da sua utilização"
   },
-  "17d40c045fdb2c38": {
+  "9bf2cb2b54645c56": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 26.º",
-   "in_force_from": "1976-03-22",
+   "in_force_from": "1976-11-06",
    "changed_by": [
-    "Alterado pelo/a [Decreto-Lei n.º 209/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-1976-501381), publicado em 1976-03-22."
+    "Alterado pelo/a [Decreto-Lei n.º 209/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-1976-501381), publicado em 1976-03-22.",
+    "Revogado pelo/a [Decreto-Lei n.º 797/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/797-1976-407338), publicado em 1976-11-06."
    ],
-   "markdown": "###### Artigo 26.º\n\n1. A distribuição das casas construídas pelo Fundo, bem como daquelas cuja construção tenha sido por ele promovida ou coordenada, quer sejam sua propriedade, quer pertençam ao património de municípios, misericórdias, organismos corporativos e instituições de previdência ou de serviços sociais dos diversos Ministérios e organismos autónomos, será feita mediante concurso, nos termos de regulamento a aprovar por portaria do Ministro das Obras Públicas.\n\n2. Serão organizados concursos separados, consoante o regime de utilização ou cedência das habitações e a natureza aberta ou restrita da sua atribuição, determinada pela natureza do financiamento utilizado ou pelo regime legal aplicável.\n\n3. Excepcionalmente, em casos devidamente fundamentados, a distribuição de casas do património do Fundo, destinadas a arrendamento, poderá efectuar-se, independentemente de concurso, por simples despacho ministerial.\n\n> Alterado pelo/a [Decreto-Lei n.º 209/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-1976-501381), publicado em 1976-03-22."
+   "markdown": "###### Artigo 26.º\n\n(Revogado.)\n\n> Alterado pelo/a [Decreto-Lei n.º 209/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-1976-501381), publicado em 1976-03-22.\n\n> Revogado pelo/a [Decreto-Lei n.º 797/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/797-1976-407338), publicado em 1976-11-06."
   },
   "d3c1eb9fbb9df997": {
    "fragment_id": null,

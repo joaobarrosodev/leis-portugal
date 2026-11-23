@@ -76,67 +76,119 @@
      "title": "Decreto-Lei n.º 31/2011",
      "published": "2011-03-04",
      "dre_path": "/dr/detalhe/decreto-lei/31-2011-279439"
+    },
+    {
+     "id": "pt:dre:692421:por",
+     "title": "Decreto-Lei n.º 314/95",
+     "published": "1995-11-24",
+     "dre_path": "/dr/detalhe/decreto-lei/314-1995-692421"
     }
    ],
    "changes": [
     "Revoga Artigo 16.º",
-    "Revoga Artigo 16.º"
+    "Revoga Artigo 16.º",
+    "Revoga Artigo 1",
+    "Revoga Artigo 2",
+    "Revoga Artigo 3",
+    "Revoga Artigo 4",
+    "Revoga Artigo 5",
+    "Revoga Artigo 6",
+    "Revoga Artigo 7",
+    "Revoga Artigo 8",
+    "Revoga Artigo 9",
+    "Revoga Artigo 10",
+    "Revoga Artigo 11",
+    "Revoga Artigo 12",
+    "Revoga Artigo 13",
+    "Revoga Artigo 14",
+    "Revoga Artigo 15",
+    "Revoga Artigo 16",
+    "Revoga Artigo 17",
+    "Revoga Artigo 18",
+    "Revoga Artigo 19",
+    "Revoga Artigo 20",
+    "Revoga Artigo 21",
+    "Revoga Artigo 22",
+    "Revoga Artigo 23",
+    "Revoga Artigo 24",
+    "Revoga Artigo 25",
+    "Revoga Artigo 26",
+    "Revoga Artigo 27",
+    "Revoga Artigo 28",
+    "Revoga Artigo 29",
+    "Revoga Artigo 30",
+    "Revoga Artigo 31",
+    "Revoga Artigo 32",
+    "Revoga Artigo 33",
+    "Revoga Artigo 34",
+    "Revoga Artigo 35",
+    "Revoga Artigo 36",
+    "Revoga Artigo 37",
+    "Revoga Artigo 38",
+    "Revoga Artigo 39",
+    "Revoga Artigo 40",
+    "Revoga Artigo 41",
+    "Revoga Artigo 42",
+    "Revoga Artigo 43",
+    "Revoga Artigo 44",
+    "Revoga Artigo 45",
+    "Revoga Artigo 46"
    ],
    "fragments": [
     "b1e70205039db9f8",
     "bd3e1c6157fdea90",
-    "99364ed44b762941",
-    "b817b95441a902de",
-    "30b2c6fc270fd471",
-    "4d04047308efa21a",
-    "9ba6a9866728628b",
-    "8c8390bbc69b7966",
-    "423edbb55d885090",
-    "870b76e11f9618db",
-    "59c017ed3e99b695",
-    "d0b82a6795d3c6d1",
+    "cc70f1cd296d308b",
+    "705ecd7b7b9da27a",
+    "c8b6425d484aaefe",
+    "a99c9a518906e245",
+    "6d8a66f60f95b5c7",
+    "d2288853b5bb0154",
+    "865d0c418a174caf",
+    "d82951259141ab94",
+    "89c09ba2985f18e2",
+    "43b15eb305ceed5e",
     "27f812b7d98d5288",
-    "82667bcbdd1ce054",
-    "f7d67d6d29ec779b",
-    "3b0c6a482e19347b",
-    "48a14f1b1e6e3760",
-    "22deea0cc9825049",
-    "c6dd347379869680",
-    "1659ee604626a7ca",
-    "ee991cc028d4be91",
-    "bbb01e63f3811b76",
-    "fe424d5f0bedaa2b",
-    "cbba7cea468b135e",
-    "1536b91d8e66fda1",
-    "b195cd8e3e570808",
-    "49e1a4a23dece858",
+    "fa08d30e55586b22",
+    "cfc2f5e3ec9caede",
+    "915222ced2c46634",
+    "c2ebb31321811a46",
+    "4924cfcd863003d5",
+    "acf8da6097e592d9",
+    "f61506a020242675",
+    "e013d4034f75592e",
+    "a6212893e6aedc9f",
+    "43dcf67e6a103621",
+    "0d20c924db7b8644",
+    "eeda66ce56b1bdd8",
+    "c970de2bf75b8d2e",
+    "9d1ce3c48b3573cb",
     "5bc8ce68d72066bb",
-    "8308271815a04c22",
-    "48d9b826bbae6ee5",
+    "c46330096feabd35",
+    "76dfdd36cfcbc52a",
     "8b1f7117a2301e0e",
-    "3c3d7f245d586321",
-    "e4b3a62231b385c6",
-    "2dbf6b255cb022e4",
-    "98758d08bcd2b901",
-    "50226ebfd47ffc7d",
-    "cf09e658f6ce956b",
+    "430223e464426d11",
+    "1971a88649561345",
+    "b6d8959f40e5166c",
+    "7fe2f122406f391a",
+    "c88c042cc0f561db",
+    "60652a954526586a",
     "5ad91f0c1a0661c8",
-    "0d3b3fdb1a54d044",
-    "9272f4ed9a62d7f0",
-    "ae6d305e8794d5f4",
-    "0d98de65181ac519",
-    "e84b27ecc262387e",
-    "47249968f5c2625f",
+    "d646eb489769a4d1",
+    "f8636ce4834fa7df",
+    "410bc7583aa8f031",
+    "23ef902c813a62f5",
+    "2f977a0432d1c53e",
+    "3dd1c901dc314fab",
     "16450d271b587e48",
-    "1ea6448c1f0facd8",
-    "cbc065e20974ba1e",
-    "9a2da47185dacaf9",
+    "a177a3adb7c9438c",
+    "70a3798c7f3e23ce",
+    "06b485de9dd9dbfc",
     "f1498c81236866cd",
-    "16ca67ab58c4767e",
-    "4b4a8ef889618abd",
-    "99c066acd3c22723",
-    "13ba193e53b7105d",
-    "6c5d36f905e3e724"
+    "b8409e02baeec39a",
+    "3117754d3b54e3ee",
+    "7f0bd839ebe06e8d",
+    "dbbac137d81a74e9",
+    "14561400ee072e28"
    ]
   }
  ],
@@ -573,7 +625,129 @@
    "changed_by": [],
    "markdown": "###### Artigo 46.º — Disposição revogatória\n\nFica revogado o [Decreto Regulamentar n.º 41/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/41-1982-394162), de 16 de Julho, e o artigo 4.º do [Decreto Regulamentar n.º 18/85](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/18-1985-326945), de 19 de Março.\n\nAníbal António Cavaco Silva - João de Deus Rogado Salvador Pinheiro.\n\nPromulgado em 26 de Dezembro de 1986.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 30 de Dezembro de 1986.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
   },
-  "c6dd347379869680": {
+  "cc70f1cd296d308b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Locais de exploração",
+   "in_force_from": "2011-03-05",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 314/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/314-1995-692421), publicado em 1995-11-24, com efeitos a partir de 1995-12-01."
+   ],
+   "markdown": "###### Artigo 1.º — Locais de exploração\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 314/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/314-1995-692421), publicado em 1995-11-24, com efeitos a partir de 1995-12-01."
+  },
+  "705ecd7b7b9da27a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Regulamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Regulamento\n\n(Revogado.)"
+  },
+  "c8b6425d484aaefe": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Concessionários de salas de jogo do bingo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Concessionários de salas de jogo do bingo\n\n(Revogado.)"
+  },
+  "a99c9a518906e245": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Concessionárias de casinos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Concessionárias de casinos\n\n(Revogado.)"
+  },
+  "6d8a66f60f95b5c7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Abertura de concurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Abertura de concurso\n\n(Revogado.)"
+  },
+  "d2288853b5bb0154": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Propostas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Propostas\n\n(Revogado.)"
+  },
+  "865d0c418a174caf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Adjudicação provisória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Adjudicação provisória\n\n(Revogado.)"
+  },
+  "d82951259141ab94": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Adjudicação definitiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Adjudicação definitiva\n\n(Revogado.)"
+  },
+  "89c09ba2985f18e2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Restituição e perda de caução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Restituição e perda de caução\n\n(Revogado.)"
+  },
+  "43b15eb305ceed5e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Cauções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Cauções\n\n(Revogado.)"
+  },
+  "fa08d30e55586b22": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Dos requisitos das salas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Dos requisitos das salas\n\n(Revogado.)"
+  },
+  "cfc2f5e3ec9caede": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Classificação das salas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Classificação das salas\n\n(Revogado.)"
+  },
+  "915222ced2c46634": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Período de funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Período de funcionamento\n\n(Revogado.)"
+  },
+  "c2ebb31321811a46": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Restrição de acessos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Restrição de acessos\n\n(Revogado.)"
+  },
+  "4924cfcd863003d5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Acesso às salas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Acesso às salas\n\n(Revogado.)"
+  },
+  "acf8da6097e592d9": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 16.º — Do pessoal",
@@ -582,7 +756,247 @@
     "Revogado pelo/a Artigo 50.º do/a [Decreto-Lei n.º 31/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2011-279439), publicado em 2011-03-04.",
     "Revogado pelo/a Artigo 50.º do/a [Decreto-Lei n.º 31/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2011-279439), publicado em 2011-03-04."
    ],
-   "markdown": "###### Artigo 16.º — Do pessoal\n\n1 - (Revogado.)\n\n2 - (Revogado.)\n\n3 - O quadro mínimo do pessoal das salas de jogo do bingo de cada categoria será o aprovado pela IGJ, que aprovará igualmente o traje que deve usar e que autorizará também a entrada e o exercício de funções de outros empregados dos concessionários na sala de jogos, mediante propostas do concessionário.\n\n4 - Nos casos em que as salas de jogo do bingo não funcionem todos os dias, bem como nos casos em que as salas não funcionem mais de quatro horas diárias, poderá ser dispensada a existência de adjunto do chefe de sala e de contínuo pela IGJ, que determinará ainda as condições de substituição do pessoal das salas.\n\n5 - Observadas as disposições contratuais próprias e com o conhecimento da IGJ, podem os concessionários nomear agregados à administração, gerência ou direcção, com funções administrativas e financeiras.\n\n> Revogado pelo/a Artigo 50.º do/a [Decreto-Lei n.º 31/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2011-279439), publicado em 2011-03-04.\n\n> Revogado pelo/a Artigo 50.º do/a [Decreto-Lei n.º 31/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2011-279439), publicado em 2011-03-04."
+   "markdown": "###### Artigo 16.º — Do pessoal\n\n1 - (Revogado.)\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\n5 - (Revogado.)\n\n> Revogado pelo/a Artigo 50.º do/a [Decreto-Lei n.º 31/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2011-279439), publicado em 2011-03-04.\n\n> Revogado pelo/a Artigo 50.º do/a [Decreto-Lei n.º 31/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2011-279439), publicado em 2011-03-04."
+  },
+  "f61506a020242675": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Deveres dos empregados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Deveres dos empregados\n\n(Revogado.)"
+  },
+  "e013d4034f75592e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Actividades proibidas aos empregados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Actividades proibidas aos empregados\n\n(Revogado.)"
+  },
+  "a6212893e6aedc9f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Segredo profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Segredo profissional\n\n(Revogado.)"
+  },
+  "43dcf67e6a103621": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Responsabilidade disciplinar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Responsabilidade disciplinar\n\n(Revogado.)"
+  },
+  "0d20c924db7b8644": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Instauração, instrução e julgamento dos processos disciplinares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Instauração, instrução e julgamento dos processos disciplinares\n\n(Revogado.)"
+  },
+  "eeda66ce56b1bdd8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Prescrição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Prescrição\n\n(Revogado.)"
+  },
+  "c970de2bf75b8d2e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Regime disciplinar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Regime disciplinar\n\n(Revogado.)"
+  },
+  "9d1ce3c48b3573cb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — Gratificações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Gratificações\n\n(Revogado.)"
+  },
+  "c46330096feabd35": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Cartões do bingo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Cartões do bingo\n\n(Revogado.)"
+  },
+  "76dfdd36cfcbc52a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — Distribuição de receitas brutas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Distribuição de receitas brutas\n\n(Revogado.)"
+  },
+  "430223e464426d11": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º — Inspecção-Geral de Jogos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Inspecção-Geral de Jogos\n\n(Revogado.)"
+  },
+  "1971a88649561345": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Âmbito\n\n(Revogado.)"
+  },
+  "b6d8959f40e5166c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º — Dever de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Dever de informação\n\n(Revogado.)"
+  },
+  "7fe2f122406f391a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º — Consulta de documentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Consulta de documentos\n\n(Revogado.)"
+  },
+  "c88c042cc0f561db": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º — Livros e impressos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Livros e impressos\n\n(Revogado.)"
+  },
+  "60652a954526586a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º — Autos de notícia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Autos de notícia\n\n(Revogado.)"
+  },
+  "d646eb489769a4d1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 33.º — Categorias das infracções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Categorias das infracções\n\n(Revogado.)"
+  },
+  "f8636ce4834fa7df": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 34.º — Infracções cometidas pelos concessionários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Infracções cometidas pelos concessionários\n\n(Revogado.)"
+  },
+  "410bc7583aa8f031": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 35.º — Sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Sanções\n\n(Revogado.)"
+  },
+  "23ef902c813a62f5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 36.º — Rescisão dos contratos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Rescisão dos contratos\n\n(Revogado.)"
+  },
+  "2f977a0432d1c53e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 37.º — Infracções cometidas pelos frequentadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Infracções cometidas pelos frequentadores\n\n(Revogado.)"
+  },
+  "3dd1c901dc314fab": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 38.º — Sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Sanções\n\n(Revogado.)"
+  },
+  "a177a3adb7c9438c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 39.º — Infracções cometidas pelos empregados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Infracções cometidas pelos empregados\n\n(Revogado.)"
+  },
+  "70a3798c7f3e23ce": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 40.º — Penalidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Penalidades\n\n(Revogado.)"
+  },
+  "06b485de9dd9dbfc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 41.º — Efeitos das sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Efeitos das sanções\n\n(Revogado.)"
+  },
+  "b8409e02baeec39a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 42.º — Salas de bingo dos casinos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Salas de bingo dos casinos\n\n(Revogado.)"
+  },
+  "3117754d3b54e3ee": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 43.º — Direito subsidiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Direito subsidiário\n\n(Revogado.)"
+  },
+  "7f0bd839ebe06e8d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 44.º — Disposição transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Disposição transitória\n\n(Revogado.)"
+  },
+  "dbbac137d81a74e9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 45.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Entrada em vigor\n\n(Revogado.)"
+  },
+  "14561400ee072e28": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 46.º — Disposição revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Disposição revogatória\n\n(Revogado.)\n\nAníbal António Cavaco Silva - João de Deus Rogado Salvador Pinheiro.\n\nPromulgado em 26 de Dezembro de 1986.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 30 de Dezembro de 1986.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
   }
  }
 }

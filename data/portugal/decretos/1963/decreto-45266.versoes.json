@@ -147,6 +147,12 @@
      "title": "Decreto Regulamentar n.º 7/88",
      "published": "1988-02-29",
      "dre_path": "/dr/detalhe/decreto-regulamentar/7-1988-286716"
+    },
+    {
+     "id": "pt:dre:310855:por",
+     "title": "Decreto Regulamentar n.º 12/83",
+     "published": "1983-02-12",
+     "dre_path": "/dr/detalhe/decreto-regulamentar/12-1983-310855"
     }
    ],
    "changes": [
@@ -170,7 +176,8 @@
     "Altera Artigo 116.º",
     "Altera Artigo 124.º",
     "Altera Artigo 126.º",
-    "Altera Artigo 163.º"
+    "Altera Artigo 163.º",
+    "Revoga Artigo 113"
    ],
    "fragments": [
     "a65e9c92924ee425",
@@ -313,7 +320,7 @@
     "36bb1eef2eee7d5d",
     "54f8260520c03015",
     "b2f013cec89a2c05",
-    "50c74b4f29f2165f",
+    "baf71b13d6827920",
     "6f251266066d0fa5",
     "be48e171d42da844",
     "309975029841d9f0",
@@ -1855,13 +1862,15 @@
    "changed_by": [],
    "markdown": "###### Artigo 112.º\n\n1. As entidades patronais e respectivos trabalhadores abrangidos pelas caixas concorrerão para estas com as percentagens, fixadas nos estatutos, sobre as remunerações pagas e recebidas, na parte em que não excedam o quantitativo mensal indicado nos mesmos estatutos.\n\n2. Em casos especiais poderá o Ministro das Corporações e Previdência Social autorizar que as contribuições sejam determinadas sob a forma de quotizações, taxas, ou importâncias fixas.\n\n3. Nas caixas de seguros o encargo de pagamento de contribuições poderá recair apenas sobre as entidades patronais.\n\n4. Salvo o disposto no número anterior, só poderá haver encargo de contribuição para as entidades patronais quando houver igualmente obrigação de contribuir por parte dos beneficiários.\n\n5. As contribuições estão sujeitas a revisão periódica, com base nos balanços actuariais, mediante parecer do Conselho Superior da Previdência e da Habitação Económica e ouvido o conselho social."
   },
-  "50c74b4f29f2165f": {
+  "baf71b13d6827920": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 113.º",
-   "in_force_from": null,
-   "changed_by": [],
-   "markdown": "###### Artigo 113.º\n\nPara os efeitos do artigo anterior, consideram-se como remunerações, ressalvado o que seja estabelecido por despacho do Ministro das Corporações e Previdência Social em relação a certas actividades:\n\na) A remuneração-base, que compreende a prestação pecuniária e prestações em géneros, alimentação ou habitação;\n\nb) As diuturnidades;\n\nc) Os subsídios de residência, de renda de casa e outros análogos;\n\nd) Os subsídios concedidos a título de compensação de alta do custo de vida ou por qualquer outro título;\n\ne) A remuneração durante o período de férias, incluindo os subsídios adicionais;\n\nf) Os abonos para falhas;\n\ng) Os salários relativos aos dias de trabalho garantidos aos trabalhadores por efeito de convenções colectivas ou despacho de regulamentação do trabalho;\n\nh) A indemnização por despedimento sem aviso prévio ou justa causa."
+   "in_force_from": "1988-03-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar n.º 12/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1983-310855), publicado em 1983-02-12, com efeitos a partir de 1983-01-01."
+   ],
+   "markdown": "###### Artigo 113.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar n.º 12/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1983-310855), publicado em 1983-02-12, com efeitos a partir de 1983-01-01."
   },
   "6f251266066d0fa5": {
    "fragment_id": null,

@@ -37,7 +37,7 @@ end_of_validity_date: null
 legal_status: repealed
 legal_status_basis:
   source: prova_manual
-  dre_status: in_force
+  dre_status: repealed
   reason: 'Portaria n.º 468/71: revogação total pela norma revogatória do diploma Portaria n.º 640/74 (21.º), lida no texto
     e verificada às cegas na amostra de 2026-11-14 (segmento b, reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o como
     em vigor.'
@@ -51,7 +51,7 @@ version:
   kind: consolidated
   label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: '1973-01-16'
+  consolidation_date: '1974-10-04'
 version_history:
   file: portaria-468-71.versoes.json
   count: 2
@@ -61,11 +61,12 @@ version_history:
     amending: null
     amending_title: null
     changes: []
-  - date: '1973-01-16'
+  - date: '1974-10-04'
     amending: pt:dre:683645:por
-    amending_title: Portaria n.º 27/73
+    amending_title: Portaria n.º 27/73; Portaria n.º 640/74
     changes:
     - Altera Artigo unidades 22-22
+    - Revoga anexo ou texto fora do articulado
 identifiers:
   celex: null
   eli: null
@@ -92,7 +93,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T03:33:44Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 27/73. Método e verificação:
-    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1971/portaria-468-71.alteracoes.json'
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1971/portaria-468-71.alteracoes.json. Revogações registadas
+    só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Portaria n.º 640/74.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -153,62 +155,48 @@ Manda o Governo da República Portuguesa, ao abrigo do disposto nos artigos 32.�
 
 Do trigo
 
-1.º Os preços de venda de trigo pela Federação Nacional dos Produtores de Trigo, no arquipélago da Madeira, serão os constantes do artigo 6.º do [Decreto-Lei n.º 491/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/491-1970-147601), de 22 de Outubro, correspondentes ao mês em que se realiza a venda.
+1.º (Revogado.)
+
+> Revogado pelo/a [Portaria n.º 640/74](https://diariodarepublica.pt/dr/detalhe/portaria/640-1974-483418), publicado em 1974-10-04.
 
 Das farinhas
 
-2.º As farinhas espoadas de trigo a produzir pela indústria de moagem serão as dos tipos mencionados no artigo 13.º do referido [Decreto-Lei n.º 491/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/491-1970-147601), sendo, no entanto, a farinha espoada de trigo lotada constituída por farinha espoada de trigo de 1.ª qualidade e por farinha espoada de milho.
+2.º (Revogado.)
 
-3.º A proporção dos componentes da farinha lotada será a seguinte:
+3.º (Revogado.)
 
-80 por cento de farinha espoada de trigo de 1.ª qualidade;
+4.ª (Revogado.)
 
-20 por cento de farinha espoada de milho.
+5.º (Revogado.)
 
-4.ª A farinha espoada de milho referida no número anterior será fabricada no arquipélago por uma moagem de farinhas espoadas, com desgerminação, autorizada a produzir farinhas para panificação; na falta desta, a respectiva farinha a incorporar será fornecida por uma moagem do continente, sendo o encargo com o transporte marítimo suportado pelo Fundo de Abastecimento.
+6.º (Revogado.)
 
-5.º Os preços máximos das farinhas espoadas de trigo nas fábricas de moagem ou nos seus depósitos, que as necessidades de abastecimento venham a determinar, são os seguintes:
-
-Farinha de 1.ª qualidade - 4$966 por quilograma;
-
-Farinha lotada - 2$892 por quilograma.
-
-6.º As farinhas espoadas destinadas ao consumo humano só podem ser entregues pelas moagens produtoras no período compreendido entre dez e sessenta dias após o seu fabrico.
-
-7.º São fixados, respectivamente, em 5$742 e 4$324 por quilograma os preços das sêmolas destinadas ao fabrico de massas alimentícias de qualidade superior (M1) e das farinhas destinadas ao fabrico de massas alimentícias (M2)
+7.º (Revogado.)
 
 > Alterado pelo/a [Portaria n.º 27/73](https://diariodarepublica.pt/dr/detalhe/portaria/27-1973-683645), publicado em 1973-01-16.
 
-8.º São fixadas, respectivamente, em 1$70 e 2$00 por quilograma os preços máximos de venda, pelas moagens, da sêmea e do subproduto resultante da extracção isolada de sêmolas.
+8.º (Revogado.)
 
 Do pão e produtos afins
 
-9.º O pão de 1.ª qualidade a que se refere o n.º 2 do artigo 19.º do [Decreto-Lei n.º 491/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/491-1970-147601), será fabricado nas unidades e vendido aos preços máximos seguintes:
+9.º (Revogado.)
 
-De 62 g - $40;
-
-De 220 g - 1$40;
-
-De 500 g - 3$00;
-
-De 1000 g - 6$00.
-
-10.º Além dos produtos mencionados no artigo 27.º do [Decreto-Lei n.º 491/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/491-1970-147601) continua a ser permitido o fabrico do regional pão de batata tradicionalmente confeccionado com batata doce e farinha de 1.ª qualidade.
+10.º (Revogado.)
 
 Das massas alimentícias
 
-11.º É livre o preço das massas alimentícias de qualquer tipo ou qualidade.
+11.º (Revogado.)
 
-12.º São permitidas embalagens de massas alimentícias de 5 kg e 10 kg.
+12.º (Revogado.)
 
 Disposições gerais e transitórias
 
-13.º Os diferenciais de preços de cereais e farinhas resultantes da aplicação do presente diploma constituirão encargo ou receita do Fundo de Abastecimento.
+13.º (Revogado.)
 
-14.º As disposições do citado [Decreto-Lei n.º 491/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/491-1970-147601), as dos anteriores regimes cerealíferos e, bem assim, as dos diplomas complementares, em vigor no continente, regularão as matérias não expressamente tratadas na presente portaria.
+14.º (Revogado.)
 
-15.º Fica o Instituto Nacional do Pão autorizado a proceder às diligências e ajustamentos necessários ao abastecimento dos trigos destinados à produção de sêmolas e ao esgotamento das farinhas produzidas ao abrigo do regime anterior, as quais serão substituídas pelas farinhas com as características definidas na presente portaria.
+15.º (Revogado.)
 
-16.º Esta portaria entra em vigor trinta dias após a data da sua aplicação, à excepção do disposto quanto a produção e utilização de sêmolas e de farinhas destinadas a massas alimentícias, em que o prazo será de sessenta dias.
+16.º (Revogado.)
 
 O Secretário de Estado do Comércio, Valentim Xavier Pintado.

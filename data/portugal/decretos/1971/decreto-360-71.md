@@ -53,13 +53,15 @@ version_history:
   - date: '1993-09-06'
     amending: pt:dre:367047:por
     amending_title: Decreto-Lei n.º 459/79; Decreto-Lei n.º 19/91; Decreto-Lei n.º 283/92; Decreto-Lei n.º 304/93; Decreto-Lei
-      n.º 304/93
+      n.º 304/93; Decreto-Lei n.º 2/82; Decreto-Lei n.º 381/88
     changes:
     - Altera Artigo 50.º
     - Altera Artigo 64.º
     - Altera Artigo 65.º
     - Altera Artigo 70.º
     - Altera Artigo 74.º
+    - Revoga Artigo 24
+    - Revoga Artigo 66
 identifiers:
   celex: null
   eli: null
@@ -87,7 +89,8 @@ provenance:
   generated_at: '2026-10-22T20:18:49Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 459/79; Decreto-Lei
     n.º 19/91; Decreto-Lei n.º 283/92; Decreto-Lei n.º 304/93; Decreto-Lei n.º 304/93. Método e verificação: consolidacao/README.md
-    e consolidacao/piloto/portugal/decretos/1971/decreto-360-71.alteracoes.json'
+    e consolidacao/piloto/portugal/decretos/1971/decreto-360-71.alteracoes.json. Revogações registadas só como repealed_by,
+    aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Decreto-Lei n.º 2/82; Decreto-Lei n.º 381/88.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -454,9 +457,9 @@ As participações dos acidentes aos tribunais serão feitas em duplicado e acom
 
 ###### Artigo 24.º — (Doenças profissionais)
 
-1. As participações das doenças profissionais ao tribunal competente devem ser feitas no prazo de oito dias a contar do diagnóstico inequívoco da doença.
+(Revogado.)
 
-2. No mesmo prazo será efectuada a participação à Inspecção do Trabalho prevista na base XXX.
+> Revogado pelo/a [Decreto-Lei n.º 2/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-1982-553389), publicado em 1982-01-05.
 
 ### CAPÍTULO V — Reparação
 
@@ -748,7 +751,9 @@ Quando houver necessidade de esclarecer quaisquer dúvidas sobre as incapacidade
 
 ###### Artigo 66.º — (Impenhorabilidade e inalienabilidade dos imóveis)
 
-Durante a vida do pensionista, os imóveis construídos ou adquiridos com o capital da remição, nas condições previstas na alínea b) do n.º 3 do artigo 64.º são impenhoráveis e inalienáveis.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 381/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/381-1988-354117), publicado em 1988-10-25, com efeitos a partir de 1988-10-30.
 
 ###### Artigo 67.º — (Direitos não afectados pela remição)
 

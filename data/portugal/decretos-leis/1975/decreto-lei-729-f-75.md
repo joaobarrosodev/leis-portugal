@@ -54,7 +54,8 @@ version_history:
     changes: []
   - date: '1986-03-19'
     amending: pt:dre:279593:por
-    amending_title: Decreto-Lei n.º 513/77; Decreto-Lei n.º 176/79; Decreto-Lei n.º 49/86
+    amending_title: Decreto-Lei n.º 513/77; Decreto-Lei n.º 176/79; Decreto-Lei n.º 49/86; Decreto-Lei n.º 2/78; Decreto-Lei
+      n.º 51/79
     changes:
     - Altera Artigo 3.º
     - Altera Artigo 11.º
@@ -63,6 +64,9 @@ version_history:
     - Altera Artigo 31.º
     - Altera Artigo 10.º
     - Altera Artigo 16.º
+    - Revoga Artigo 7
+    - Revoga Artigo 8
+    - Revoga Artigo 31
 identifiers:
   celex: null
   eli: null
@@ -89,7 +93,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:47:46Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 513/77; Decreto-Lei
-    n.º 176/79; Decreto-Lei n.º 49/86. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1975/decreto-lei-729-f-75.alteracoes.json'
+    n.º 176/79; Decreto-Lei n.º 49/86. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1975/decreto-lei-729-f-75.alteracoes.json.
+    Revogações registadas só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Decreto-Lei
+    n.º 2/78; Decreto-Lei n.º 51/79.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -235,11 +241,13 @@ As instituições de crédito sob a forma de empresa pública dispõem de um cap
 
 ###### Artigo 7.º
 
-Os membros dos conselhos de gestão, bem como os restantes trabalhadores, e, ainda, os membros das comissões de fiscalização não podem, nos termos da lei, revelar factos ou elementos cujo conhecimento lhes advenha do exercício das funções e exclusivamente por virtude desse exercício.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 2/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-1978-468853), publicado em 1978-01-09.
 
 ###### Artigo 8.º
 
-Os membros dos conselhos de gestão, bem como os restantes trabalhadores, e, ainda, os membros das comissões de fiscalização não podem, do mesmo modo, depor ou prestar declarações em juízo ou fora dele sobre factos de que devam guardar segredo profissional.
+(Revogado.)
 
 ### CAPÍTULO V — Gestão e fiscalização
 
@@ -439,13 +447,15 @@ Com vista a garantir a possível uniformização de estruturas nas instituiçõe
 
 2 - Os membros do conselho de gestão não poderão exercer quaisquer funções profissionais remuneradas fora da instituição ou ser membros dos corpos sociais de qualquer sociedade.
 
-3 - Os membros do conselho de administração ou de gestão das instituições de crédito do sector público poderão optar, uma vez cessadas as suas funções, pela carreira de gestor público ou pela de trabalhador bancário, em lugar de responsabilidade directiva ou a esse equiparado, a exercer em qualquer daquelas instituições por designação do Ministro das Finanças.
+3 - (Revogado.)
 
-4 - Sempre que os membros dos órgãos de gestão referidos no número anterior optem pela qualidade de trabalhador bancário, será considerado o tempo de exercício de quaisquer funções no sector público ou no sistema bancário.
+4 - (Revogado.)
 
 5 - Os demais trabalhadores da instituição não poderão exercer funções profissionais remuneradas fora dela ou ser membros dos corpos sociais de qualquer sociedade, salvo autorização expressa do conselho de gestão, que deverá ser renovada anualmente.
 
 > Alterado pelo/a [Decreto-Lei n.º 513/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-1977-279593), publicado em 1977-12-14.
+
+> Revogado pelo/a [Decreto-Lei n.º 51/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-1979-383377), publicado em 1979-03-22.
 
 ###### Artigo 32.º
 

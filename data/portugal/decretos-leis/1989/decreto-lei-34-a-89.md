@@ -53,9 +53,10 @@ version_history:
     changes: []
   - date: '1994-03-01'
     amending: pt:dre:515471:por
-    amending_title: Decreto-Lei n.º 48/94
+    amending_title: Decreto-Lei n.º 48/94; Decreto-Lei n.º 146/90
     changes:
     - Revoga Artigo 16.º
+    - Revoga Artigo 11
 identifiers:
   celex: null
   eli: null
@@ -82,7 +83,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T00:53:53Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 48/94. Método e verificação:
-    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1989/decreto-lei-34-a-89.alteracoes.json'
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1989/decreto-lei-34-a-89.alteracoes.json. Revogações
+    registadas só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Decreto-Lei
+    n.º 146/90.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -287,7 +290,9 @@ Na contagem do tempo de permanência no estrangeiro incluir-se-ão os períodos 
 
 3 - O acesso à categoria de embaixador será aberto a todos os ministros plenipotenciários de 1.ª classe com um ano de bom e efectivo serviço na categoria, no quadro, em comissão de serviço fora do quadro ou na disponibilidade em serviço.
 
-4 - As promoções para as categorias de ministro plenipotenciário de 2.ª classe e de 1.ª classe e de embaixador serão feitas pelo Ministro dos Negócios Estrangeiros com base na livre apreciação do mérito dos serviços prestados.
+4 - (Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 146/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-1990-571232), publicado em 1990-05-08, com efeitos a partir de 1990-05-09.
 
 ###### Artigo 12.º — Quando tem lugar a promoção
 

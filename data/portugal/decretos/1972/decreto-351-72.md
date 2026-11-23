@@ -43,7 +43,7 @@ version_history:
     changes: []
   - date: '1993-10-06'
     amending: pt:dre:646300:por
-    amending_title: Decreto-Lei n.º 345/93; Rectificação
+    amending_title: Decreto-Lei n.º 345/93; Rectificação; Decreto-Lei n.º 210/87
     changes:
     - Revoga Artigo 69.º
     - Revoga Artigo 70.º
@@ -73,6 +73,18 @@ version_history:
     - Retifica Artigo 96
     - Retifica Artigo 97
     - Retifica Artigo 106
+    - Revoga Artigo 11
+    - Revoga Artigo 12
+    - Revoga Artigo 13
+    - Revoga Artigo 14
+    - Revoga Artigo 15
+    - Revoga Artigo 16
+    - Revoga Artigo 17
+    - Revoga Artigo 18
+    - Revoga Artigo 19
+    - Revoga Artigo 20
+    - Revoga Artigo 21
+    - Revoga Artigo 22
 identifiers:
   celex: null
   eli: null
@@ -100,7 +112,8 @@ provenance:
   generated_at: '2026-10-22T20:23:37Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 345/93. Método e
     verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos/1972/decreto-351-72.alteracoes.json. Retificações
-    aplicadas com um LLM e verificadas às cegas (consolidacao/retificacoes_llm.py): Rectificação.'
+    aplicadas com um LLM e verificadas às cegas (consolidacao/retificacoes_llm.py): Rectificação. Revogações registadas só
+    como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Decreto-Lei n.º 210/87.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -343,243 +356,53 @@ Quando circunstâncias excepcionais ou a necessidade de socorro urgente o exigir
 
 ###### Artigo 11.º
 
-A Secretaria-Geral é o serviço central de coordenação e apoio técnico e administrativo do Ministério e incumbe-lhe essencialmente:
+(Revogado.)
 
-a) Promover a coordenação das actividades próprias dos serviços do Ministério ou seus dependentes;
-
-b) Colaborar com a Secretaria-Geral da Presidência do Conselho em trabalhos de âmbito geral da reforma administrativa;
-
-c) Promover a aplicação das providências dimanadas da Secretaria-Geral da Presidência do Conselho em relação ao próprio Ministério;
-
-d) Emitir orientações sobre problemas de interesse geral do Ministério;
-
-e) Desempenhar funções de utilidade comum aos serviços do Ministério;
-
-f) Prestar ao Ministro o apoio consultivo que ele tiver por conveniente na definição da política da saúde e assistência social e no planeamento e coordenação das actividades dos serviços centrais do Ministério.
+> Revogado pelo/a [Decreto-Lei n.º 210/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-1987-421588), publicado em 1987-05-20, com efeitos a partir de 1987-06-01.
 
 ###### Artigo 12.º
 
-Na prossecução das atribuições referidas no artigo anterior compete-lhe especialmente:
-
-a) Promover, com os restantes serviços centrais, a coordenação dos programas gerais de actividade;
-
-b) Transmitir aos serviços as orientações emanadas do Governo relativas à realização da reforma administrativa e assegurar-se do seu cumprimento;
-
-c) Estudar e propor ao Ministro as providências necessárias ao aperfeiçoamento dos regimes de pessoal e das estruturas e funcionamento dos serviços;
-
-d) Assegurar ou orientar os trabalhos de processamento mecanográfico da documentação pela utilização da informática e outros sistemas de tratamento de dados no âmbito do Ministério;
-
-e) Transmitir aos serviços as ordens e instruções do Ministro que tenham carácter genérico e acompanhar por forma sistemática a sua execução;
-
-f) Colaborar no aperfeiçoamento da legislação relativa ao Ministério e na difusão dos respectivos textos;
-
-g) Assegurar o expediente relativo à publicação dos diplomas legais e, ainda, das instruções e circulares que não forem da competência exclusiva de qualquer das direcções-gerais, do Gabinete de Estudos e Planeamento ou dos serviços com autonomia administrativa;
-
-h) Elaborar e publicar anualmente o relatório do Ministério, para o que receberá de todos os serviços os elementos necessários;
-
-i) Assegurar a instalação e manutenção da biblioteca geral e do centro de documentação do Ministério;
-
-j) Editar publicações de interesse para o Ministério;
-
-k) Manter um sistema informativo para o público;
-
-l) Propor a concessão de subsídios para obras e equipamentos;
-
-m) Assegurar o expediente, a contabilidade e o economato do gabinete ministerial sem prejuízo da competência própria dos chefes do gabinete;
-
-n) Preparar o expediente da posse dos funcionários quando se deva realizar perante o Ministro.
+(Revogado.)
 
 ###### Artigo 13.º
 
-A Secretaria-Geral desempenha as suas funções em estreita ligação e cooperação com a Secretaria-Geral da Presidência do Conselho e com as secretarias-gerais dos outros Ministérios, tendo em vista o exercício de uma acção comum e coordenada nos vários domínios da reforma administrativa.
+(Revogado.)
 
 ###### Artigo 14.º
 
-1. O secretário-geral superintende em todos os serviços da Secretaria-Geral, submete a despacho os assuntos que careçam de resolução superior e exerce o poder disciplinar e a competência ministerial que lhe for delegada, nos termos da lei geral.
-
-2. O secretário-geral pode, quando autorizado, subdelegar a competência que lhe for delegada e delegar a sua própria, nos termos da lei geral, nos funcionários que fazem parte do quadro do pessoal dirigente da Secretaria-Geral.
-
-3. Nas suas faltas e impedimentos, o secretário-geral será substituído, de entre o pessoal dirigente, pelos funcionários que designar.
-
-4. Para além das restantes funções de que vier a ser incumbido, poderá ser cometido ao adjunto do secretário-geral o exercício das funções de direcção dos Serviços de Pessoal e de Organização, na parte relativa às matérias de organização referidas no artigo 21.º deste Regulamento.
-
-5. O secretário-geral assegurará a representação do Ministério quando não seja assumida pelo Ministro e não pertença especificadamente a outra entidade.
+(Revogado.)
 
 ###### Artigo 15.º
 
-1. A Secretaria-Geral é constituída pelos seguintes serviços:
-
-a) Serviços de Contencioso;
-
-b) Serviços de Inspecção;
-
-c) Serviços de Aprovisionamento;
-
-d) Serviços de Instalações e Equipamento;
-
-e) Serviços de Pessoal e de Organização;
-
-f) Repartição de Serviços Administrativos.
-
-2. A junta médica do Ministério funciona na Secretaria-Geral, sob a presidência de um inspector superior ou director de serviços do Ministério, que seja médico.
-
-3. As Comissões Arbitrais dependem administrativamente da Secretaria-Geral.
+(Revogado.)
 
 ###### Artigo 16.º
 
-1. Compete aos Serviços de Contencioso:
-
-a) Representar o Ministério da Saúde e Assistência em juízo ou na fase de conciliação extrajudicial;
-
-b) Emitir os pareceres e elaborar os estudos jurídicos de que sejam incumbidos pelo Ministro;
-
-c) Dar parecer sobre dúvidas ou questões que lhes sejam postas pelos serviços centrais quando exijam estudo que exceda a normal competência destes;
-
-d) Preparar trabalhos e documentos que se destinem às diferentes instâncias jurisdicionais;
-
-e) Organizar e publicar a documentação jurídica respeitante ao Ministério;
-
-f) Orientar e coordenar os serviços de contencioso privativos dos serviços do Ministério;
-
-g) Colaborar na preparação e redacção dos projectos de diplomas legislativos do Ministério;
-
-h) Propor, quando julgue necessário, a consulta à Procuradoria-Geral da República em matéria da sua competência.
-
-2. Mediante autorização ministerial, o patrocínio judiciário do Ministério pode ser confiado, em casos especiais, a profissionais do foro estranhos a estes serviços, que possuam especial competência na matéria em questão.
-
-3. No exercício das suas atribuições, podem os Serviços de Contencioso requisitar aos outros departamentos do Ministério os processos e os elementos que julguem indispensáveis.
+(Revogado.)
 
 ###### Artigo 17.º
 
-1. Os Serviços de Inspecção destinam-se a vigiar o cumprimento das leis e regulamentos nas instituições e serviços dependentes do Ministério e a auxiliar os serviços centrais a melhorar o funcionamento daqueles, competindo-lhes especialmente:
-
-a) Prestar aos serviços e instituições de saúde e assistência social, em colaboração com os demais serviços do Ministério, os esclarecimentos e o auxílio de ordem jurídico-administrativa de que careçam;
-
-b) Fiscalizar a execução das leis, regulamentos e estatutos, nas instituições e serviços dependentes do Ministério, e bem assim a aplicação administrativa dos rendimentos e subsídios destinados às actividades de saúde e assistência social;
-
-c) Proceder a inspecções, inquéritos, sindicâncias e processos disciplinares;
-
-d) Efectuar a avaliação regular do funcionamento dos serviços do Ministério ou seus dependentes, acompanhando a execução das normas propostas pelos Serviços de Pessoal e de Organização.
-
-2. A acção dos Serviços de Inspecção exerce-se em estreita ligação com as respectivas direcções-gerais, que lhes fornecerão o apoio e os esclarecimentos indispensáveis.
-
-3. Haverá inspecções ordinárias, que se realizam periòdicamente, em obediência a planos aprovados pelo secretário-geral, e extraordinárias, por determinação do Ministro, ou, a pedido dos serviços centrais do Ministério, mediante despacho do secretário-geral, quando se demonstre que as situações não podem ser investigadas pelos órgãos normais de gestão dos serviços ou instituições.
+(Revogado.)
 
 ###### Artigo 18.º
 
-1. Compete aos Serviços de Aprovisionamento:
-
-a) Proceder ao estudo dos mercados de géneros e artigos de consumo nos estabelecimentos e serviços;
-
-b) Informar periòdicamente os serviços, estabelecimentos e instituições sobre os preços dos diferentes artigos de consumo corrente, incluindo os produtos alimentares, com indicação dos respectivos fornecedores;
-
-c) Estudar, de acordo com os serviços públicos competentes, a uniformização ou normalização de produtos, com vista ao embaratecimento do custo;
-
-d) Orientar a realização de concursos de fornecimento de âmbito nacional ou regional, quando assim for determinado;
-
-e) Proceder directamente à organização de concursos para aquisição de géneros ou material comum a vários estabelecimentos ou serviços, sempre que for julgado necessário;
-
-f) Emitir instruções para funcionamento dos serviços de recepção dos produtos adquiridos nos diversos serviços ou estabelecimentos;
-
-g) Estudar, do ponto de vista técnico e económico, os produtos novos que surjam no mercado e possam ter interesse para utilização nos estabelecimentos e serviços de saúde e assistência social;
-
-h) Proceder a estudos sobre a racionalização das actividades de tipo fabril dos serviços oficiais e das instituições particulares dependentes do Ministério com vista à criação de centrais de produção ou distribuição.
-
-2. As direcções-gerais colaborarão com os Serviços de Aprovisionamento no sentido de garantir os necessários elementos de consulta e estudo.
+(Revogado.)
 
 ###### Artigo 19.º
 
-1. Compete aos Serviços de Instalações e Equipamento:
-
-a) Colaborar com os serviços do Ministério das Obras Públicas nas construções e apetrechamento dos serviços do Ministério que caibam na competência daqueles;
-
-b) Prestar aos serviços e estabelecimentos do Ministério ou instituições dele dependentes a assistência técnica que lhes seja solicitada ou determinada, relativamente à organização e funcionamento dos seus serviços privativos de instalações e equipamento e na realização das obras de pequena conservação, reparação ou remodelação e ao apetrechamento e sua manutenção, podendo participar no seu custeio;
-
-c) Executar directamente, quando for determinado pelo Ministro, as obras referidas na alínea anterior, dentro dos limites legais;
-
-d) Proceder directamente, quando for determinado pelo Ministro, à aquisição de apetrechamento destinado a quaisquer serviços dependentes do Ministério, dentro dos limites em que os mesmos estão autorizados;
-
-e) Elaborar planos anuais de obras e apetrechamento de serviços, para efeitos das atribuições referidas nas alíneas c) e d), sob proposta dos serviços centrais, e tendo em conta as prioridades indicadas pelo Gabinete de Estudos e Planeamento;
-
-f) Fiscalizar, quando for determinado pelo Ministro, a recepção de material de apetrechamento por estabelecimentos ou serviços;
-
-g) Orientar e coordenar as actividades relacionadas com a reparação e manutenção da aparelhagem em uso nos diversos estabelecimentos;
-
-h) Proceder a estudos de padronização de material, máquinas, aparelhos e utensílios, destinados ao equipamento e apetrechamento;
-
-i) Prestar assistência técnica aos estabelecimentos e instituições;
-
-j) Dar parecer nos processos de concurso para obras e aquisições de equipamento quando lhes seja solicitado.
-
-2. Os Serviços de Instalações e Equipamento poderão criar serviços industriais para ensaios, normalização e reparação de equipamentos.
-
-3. O Ministro pode determinar, por despacho, que as despesas dos Serviços de Instalações e Equipamento decorrentes da realização de obras e aquisições sejam suportadas pelos respectivos utilizadores, até ao limite de 5 por cento do respectivo valor, devendo a aplicação desta verba ser justificada em balancete semestral a aprovar pelo Ministro.
+(Revogado.)
 
 ###### Artigo 20.º
 
-Compete aos Serviços de Pessoal e de Organização, em matéria de pessoal:
-
-a) Proceder a estudos de gestão de pessoal;
-
-b) Orientar os departamentos congéneres dos serviços do Ministério;
-
-c) Emitir instruções gerais no que respeita a quadros e carreiras e estatuto do pessoal, bem como às condições de trabalho;
-
-d) Propor as medidas necessárias à execução da reforma administrativa, em matéria de pessoal, para execução das orientações recebidas da Secretaria-Geral da Presidência do Conselho e promover a execução das mesmas nos próprios serviços;
-
-e) Promover acções de formação e aperfeiçoamento de pessoal e colaborar nas promovidas por outros serviços do Ministério;
-
-f) Promover o estudo dos problemas de relações humanas no Ministério;
-
-g) Ocupar-se do recrutamento, provimento, colocação, transferência, exoneração e quaisquer outros assuntos relativos à gestão do pessoal do quadro da Secretaria-Geral;
-
-h) Ocupar-se dos assuntos relativos à gestão do pessoal do quadro único dos serviços centrais do Ministério quando for criado.
+(Revogado.)
 
 ###### Artigo 21.º
 
-Compete aos Serviços de Pessoal e de Organização, em matéria de organização:
-
-a) Promover ou realizar estudos sobre técnicas de organização e métodos de trabalho administrativo a aplicar no Ministério;
-
-b) Divulgar os princípios de organização e métodos, pelos meios julgados mais convenientes, tais como cursos, encontros ou publicações;
-
-c) Propor e orientar as medidas para actualizar as estruturas e o funcionamento administrativo dos serviços, com a colaboração dos Serviços de Inspecção;
-
-d) Proceder aos estudos preparatórios relativos à utilização da informática e documentação no âmbito do Ministério;
-
-e) Proceder a estudos relativos à quantificação de quadros, à adaptação do agente à função e à avaliação do clima social dos serviços;
-
-f) Colaborar nos estudos e diligências tendentes a racionalizar a instalação e o equipamento dos serviços;
-
-g) Dar parecer sobre as iniciativas dos serviços que respeitem à matéria contida nas alíneas anteriores;
-
-h) Adoptar ou sugerir as providências tendentes ao aperfeiçoamento das relações entre os serviços do Ministério e os seus utilizadores, assim como o público em geral, para o qual constituirá um sector informativo;
-
-i) Colaborar com os serviços interessados, designadamente os do Ministério das Finanças, e com o Gabinete de Estudos e Planeamento na preparação do orçamento do Ministério;
-
-j) Fazer a análise da estrutura dos serviços de saúde e assistência social, determinar o seu custo e os índices da sua eficiência, e avaliar a necessidade de lhes introduzir alterações em função dos investimentos feitos e dos resultados obtidos.
+(Revogado.)
 
 ###### Artigo 22.º
 
-1. Compete à Repartição de Serviços Administrativos:
-
-a) Reunir os orçamentos preparados pelos serviços centrais e fazê-los presentes ao Conselho dos Directores-Gerais para coordenação;
-
-b) Assegurar o expediente do Gabinete do Ministro;
-
-c) Assegurar os serviços de expediente, contabilidade e arquivo da Secretaria-Geral;
-
-d) Prestar apoio administrativo a todos os serviços da Secretaria-Geral;
-
-e) Velar pela segurança dos edifícios dos serviços centrais do Ministério e pela conservação do mobiliário e qualquer outro material, organizando e mantendo actualizado o seu cadastro;
-
-f) Assegurar o apetrechamento dos serviços centrais, procedendo directamente às aquisições necessárias, sempre que as circunstâncias o aconselhem, dentro dos limites autorizados, efectuando-se o respectivo pagamento por conta das dotações apropriadas de cada um dos serviços interessados;
-
-g) Promover as diligências necessárias para a aquisição, conservação e reparação das viaturas automóveis afectas aos serviços centrais do Ministério;
-
-h) Efectuar o registo dos cartões de identidade do pessoal do Ministério.
-
-2. O secretário-geral fará a distribuição das competências enumeradas no número anterior pelas quatro secções da Repartição de Serviços Administrativos mediante provisão interna.
+(Revogado.)
 
 #### SECÇÃO III — Do Gabinete de Estudos e Planeamento
 

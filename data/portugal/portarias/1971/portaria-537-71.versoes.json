@@ -47,10 +47,18 @@
      "title": "Portaria n.º 83/78",
      "published": "1978-02-11",
      "dre_path": "/dr/detalhe/portaria/83-1978-448517"
+    },
+    {
+     "id": "pt:dre:140527:por",
+     "title": "Portaria n.º 158/77",
+     "published": "1977-03-24",
+     "dre_path": "/dr/detalhe/portaria/158-1977-140527"
     }
    ],
    "changes": [
-    "Altera Artigo 22.º"
+    "Altera Artigo 22.º",
+    "Revoga Artigo 21",
+    "Revoga Artigo 22"
    ],
    "fragments": [
     "b1eeead313866353",
@@ -90,8 +98,8 @@
     "b4d2530af3cbb3d3",
     "56a7916f29746e33",
     "8f0afd19781409e6",
-    "e4ee118acd6de832",
-    "1b48140c36680c24",
+    "6aa76c0b8b56802e",
+    "91d9e5d6587282d4",
     "0ee6092e66af2ba3",
     "f89ee1030985b317",
     "2485b5dffa5cbce6",
@@ -599,15 +607,17 @@
    "changed_by": [],
    "markdown": "###### Artigo 20.º\n\nOs faróis, farolins e demais sinais marítimos, em relação à vigilância de que são alvo, classificam-se em:\n\na) Vigiados - quando neles habita permanentemente pessoal para o seu serviço;\n\nb) Não vigiados - quando, por serem de funcionamento automático, neles não reside qualquer pessoal para o seu serviço."
   },
-  "e4ee118acd6de832": {
+  "6aa76c0b8b56802e": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 21.º",
-   "in_force_from": null,
-   "changed_by": [],
-   "markdown": "###### Artigo 21.º\n\n1. Os faróis, farolins e demais sinais marítimos vigiados, em relação à sua localização, são classificados em quatro classes:\n\na) 1.ª classe - os isolados no mar, de difícil comunicação;\n\nb) 2.ª classe - os isolados no mar, longe de povoações ou de difícil acesso;\n\nc) 3.ª classe - os que se encontram fora das povoações;\n\nd) 4.ª classe - os restantes.\n\n2. As três primeiras classes do número anterior são chamadas de isolamento."
+   "in_force_from": "1978-02-11",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 158/77](https://diariodarepublica.pt/dr/detalhe/portaria/158-1977-140527), publicado em 1977-03-24."
+   ],
+   "markdown": "###### Artigo 21.º\n\n(Revogado.)\n\n> Revogado pelo/a [Portaria n.º 158/77](https://diariodarepublica.pt/dr/detalhe/portaria/158-1977-140527), publicado em 1977-03-24."
   },
-  "1b48140c36680c24": {
+  "91d9e5d6587282d4": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 22.º",
@@ -615,7 +625,7 @@
    "changed_by": [
     "Alterado pelo/a [Portaria n.º 83/78](https://diariodarepublica.pt/dr/detalhe/portaria/83-1978-448517), publicado em 1978-02-11."
    ],
-   "markdown": "###### Artigo 22.º\n\n1 - (Revogado.)\n\n2. As alterações que se vierem a verificar na classificação do número anterior serão promulgadas por portaria do Ministro da Marinha.\n\n> Alterado pelo/a [Portaria n.º 83/78](https://diariodarepublica.pt/dr/detalhe/portaria/83-1978-448517), publicado em 1978-02-11."
+   "markdown": "###### Artigo 22.º\n\n1 - (Revogado.)\n\n2. (Revogado.)\n\n> Alterado pelo/a [Portaria n.º 83/78](https://diariodarepublica.pt/dr/detalhe/portaria/83-1978-448517), publicado em 1978-02-11."
   },
   "f89ee1030985b317": {
    "fragment_id": null,

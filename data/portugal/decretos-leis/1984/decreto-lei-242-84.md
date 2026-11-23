@@ -42,7 +42,7 @@ version:
   kind: consolidated
   label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: '1985-02-11'
+  consolidation_date: '1986-06-17'
 version_history:
   file: decreto-lei-242-84.versoes.json
   count: 2
@@ -52,12 +52,13 @@ version_history:
     amending: null
     amending_title: null
     changes: []
-  - date: '1985-02-11'
+  - date: '1986-06-17'
     amending: pt:dre:327824:por
-    amending_title: Decreto-Lei n.º 36/85; Declaração
+    amending_title: Decreto-Lei n.º 36/85; Declaração; Decreto-Lei n.º 136/86
     changes:
     - Altera Artigo único
     - Retifica texto
+    - Revoga Artigo ÚNICO
 identifiers:
   celex: null
   eli: null
@@ -86,7 +87,8 @@ provenance:
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 36/85. Método e verificação:
     consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1984/decreto-lei-242-84.alteracoes.json. Retificações
     aplicadas com um LLM e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração. Retificações aplicadas com
-    um LLM, na ronda r5, e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração.'
+    um LLM, na ronda r5, e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração. Revogações registadas só como
+    repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Decreto-Lei n.º 136/86.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -379,15 +381,15 @@ TABELA III
 
 ###### Artigo único
 
-Pela prestação de todos os serviços aduaneiros conducentes ao desalfandegamento das mercadorias importadas e verificadas cobrar-se-á, por cada bilhete de despacho, a taxa de serviço englobada de 0,2% sobre o valor CIF das mercadorias importadas.
-
-Da totalidade da receita proveniente desta taxa 50% constituirá receita do Estado, 25% constituirá receita a repartir equitativamente pelos cofres de emolumentos referidos no artigo 319.º da Reforma Aduaneira e o remanescente reverterá a favor do cofre de subsídios de deslocação.
+(Revogado.)
 
 Terminal Internacional Rodoviário de Alverca
 
 REGULAMENTO INTERNO
 
 > Alterado pelo/a [Decreto-Lei n.º 36/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-1985-327824), publicado em 1985-02-06.
+
+> Revogado pelo/a [Decreto-Lei n.º 136/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-1986-228849), publicado em 1986-06-12, com efeitos a partir de 1986-06-17.
 
 ### CAPÍTULO I — Disposições gerais
 

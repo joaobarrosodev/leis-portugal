@@ -46,7 +46,7 @@ version_history:
     amending_title: Decreto n.º 263/70; Decreto n.º 178/73; Decreto n.º 358/73; Decreto n.º 486/73; Decreto n.º 785/75; Decreto
       n.º 306/76; Decreto Regulamentar n.º 25/77; Decreto Regulamentar n.º 24/78; Decreto Regulamentar n.º 22/79; Decreto
       Regulamentar n.º 7/80; Decreto Regulamentar n.º 68/82; Decreto Regulamentar n.º 45/84; Decreto Regulamentar n.º 77/84;
-      Decreto Regulamentar n.º 36/87; Decreto Regulamentar n.º 7/88
+      Decreto Regulamentar n.º 36/87; Decreto Regulamentar n.º 7/88; Decreto Regulamentar n.º 12/83
     changes:
     - Altera Artigo 18.º
     - Altera Artigo 24.º
@@ -69,6 +69,7 @@ version_history:
     - Altera Artigo 124.º
     - Altera Artigo 126.º
     - Altera Artigo 163.º
+    - Revoga Artigo 113
 identifiers:
   celex: null
   eli: null
@@ -98,7 +99,9 @@ provenance:
     Decreto n.º 358/73; Decreto n.º 486/73; Decreto n.º 785/75; Decreto n.º 306/76; Decreto Regulamentar n.º 25/77; Decreto
     Regulamentar n.º 24/78; Decreto Regulamentar n.º 22/79; Decreto Regulamentar n.º 7/80; Decreto Regulamentar n.º 68/82;
     Decreto Regulamentar n.º 45/84; Decreto Regulamentar n.º 77/84; Decreto Regulamentar n.º 36/87; Decreto Regulamentar n.º
-    7/88. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos/1963/decreto-45266.alteracoes.json'
+    7/88. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos/1963/decreto-45266.alteracoes.json.
+    Revogações registadas só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Decreto
+    Regulamentar n.º 12/83.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -1798,23 +1801,9 @@ Para efeito das realizações de acção social e de protecção na doença e na
 
 ###### Artigo 113.º
 
-Para os efeitos do artigo anterior, consideram-se como remunerações, ressalvado o que seja estabelecido por despacho do Ministro das Corporações e Previdência Social em relação a certas actividades:
+(Revogado.)
 
-a) A remuneração-base, que compreende a prestação pecuniária e prestações em géneros, alimentação ou habitação;
-
-b) As diuturnidades;
-
-c) Os subsídios de residência, de renda de casa e outros análogos;
-
-d) Os subsídios concedidos a título de compensação de alta do custo de vida ou por qualquer outro título;
-
-e) A remuneração durante o período de férias, incluindo os subsídios adicionais;
-
-f) Os abonos para falhas;
-
-g) Os salários relativos aos dias de trabalho garantidos aos trabalhadores por efeito de convenções colectivas ou despacho de regulamentação do trabalho;
-
-h) A indemnização por despedimento sem aviso prévio ou justa causa.
+> Revogado pelo/a [Decreto Regulamentar n.º 12/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1983-310855), publicado em 1983-02-12, com efeitos a partir de 1983-01-01.
 
 ###### Artigo 114.º
 

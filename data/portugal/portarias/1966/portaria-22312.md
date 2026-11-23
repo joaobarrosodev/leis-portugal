@@ -32,7 +32,7 @@ version:
   kind: consolidated
   label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: '1979-06-22'
+  consolidation_date: '1980-12-26'
 version_history:
   file: portaria-22312.versoes.json
   count: 2
@@ -42,11 +42,12 @@ version_history:
     amending: null
     amending_title: null
     changes: []
-  - date: '1979-06-22'
+  - date: '1980-12-26'
     amending: pt:dre:381103:por
-    amending_title: Portaria n.º 294/79
+    amending_title: Portaria n.º 294/79; Portaria n.º 734/80; Portaria n.º 1094-D/80
     changes:
     - Altera Artigo unidades 8-8
+    - Revoga anexo ou texto fora do articulado
 identifiers:
   celex: null
   eli: null
@@ -73,7 +74,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:22:52Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 294/79. Método e verificação:
-    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1966/portaria-22312.alteracoes.json'
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1966/portaria-22312.alteracoes.json. Revogações registadas
+    só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Portaria n.º 734/80; Portaria
+    n.º 1094-D/80.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -158,11 +161,15 @@ Manda o Governo da República Portuguesa, pelo Ministro da Marinha, o seguinte:
 
 1.º Na pesca de camarões, gambas e crustáceos semelhantes podem ser usadas redes de arrasto, de modelos aprovados pela Direcção das Pescarias, desde que as suas malhas, no saco, se deixem atravessar fàcilmente por uma bitola rectangular com 2 mm de espessura e 50 mm de largura;
 
-2.º A utilização das redes referidas no número anterior é, contudo, reservada aos arrastões registados em nome de sociedades que se encontrem constituídas sob a forma cooperativa, independentemente de eventuais modificações dos respectivos pactos sociais.
+2.º (Revogado.)
+
+> Revogado pelo/a [Portaria n.º 1094-D/80](https://diariodarepublica.pt/dr/detalhe/portaria/1094-d-1980-568098), publicado em 1980-12-26.
 
 > Alterado pelo/a [Portaria n.º 294/79](https://diariodarepublica.pt/dr/detalhe/portaria/294-1979-381103), publicado em 1979-06-22.
 
-3.º Poderão exercer a sua actividade até ao paralelo 10º N. os arrastões de crustáceos que tenham mais de 100 t de arqueação bruta, autonomia superior a vinte dias, instalações de congelação do pescado, porões frigoríficos, equipamento de navegação e de comunicações para o efeito prescritos pelo Instituto Hidrográfico e pela Direcção do Serviço de Electricidade e Comunicações.
+3.º (Revogado.)
+
+> Revogado pelo/a [Portaria n.º 734/80](https://diariodarepublica.pt/dr/detalhe/portaria/734-1980-461806), publicado em 1980-09-26.
 
 4.º A autorização para o exercício da sua actividade nos pesqueiros situados entre o limite sul da área de arrasto costeira e o paralelo 10º N. será inscrita no título de registo de propriedade dos arrastões de crustáceos referidos no n.º 3.º desta portaria, e a sua inscrição depende de parecer favorável da comissão de vistoria prevista no artigo 17.º do [Decreto n.º 27798](https://diariodarepublica.pt/dr/detalhe/decreto/27798-1937-428812), à qual, para este efeito, será agregado um representante da Direcção do Serviço de Electricidade e Comunicações e outro do Instituto Hidrográfico.
 

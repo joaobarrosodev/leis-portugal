@@ -44,9 +44,10 @@ version_history:
     changes: []
   - date: '1978-12-15'
     amending: pt:dre:324885:por
-    amending_title: Decreto-Lei n.º 400/78
+    amending_title: Decreto-Lei n.º 400/78; Decreto n.º 242/76
     changes:
     - Altera Artigo 5.º
+    - Revoga Artigo 4
 identifiers:
   celex: null
   eli: null
@@ -73,7 +74,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:28:17Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 400/78. Método e
-    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1973/decreto-lei-467-73.alteracoes.json'
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1973/decreto-lei-467-73.alteracoes.json.
+    Revogações registadas só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Decreto
+    n.º 242/76.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -172,9 +175,9 @@ b) O tempo de permanência em classe de comportamento inferior à segunda.
 
 ###### Artigo 4.º
 
-1. Os militares abrangidos pelo presente decreto-lei promovidos a alferes e tenente terão direito ao vencimento correspondente ao posto a que ascenderem, acrescido da quantia necessária para perfazer a importância que antes venciam, quando superior, e mais o equivalente a uma diuturnidade de valor igual à que vinham recebendo.
+(Revogado.)
 
-2. O vencimento, calculado nos termos dos artigos anteriores, não pode exceder o limite de 95% do vencimento correspondente ao posto de capitão ou de comissário principal.
+> Revogado pelo/a [Decreto n.º 242/76](https://diariodarepublica.pt/dr/detalhe/decreto/242-1976-502793), publicado em 1976-04-07, com efeitos a partir de 1976-01-01.
 
 ###### Artigo 5.º
 

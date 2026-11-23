@@ -54,12 +54,13 @@ version_history:
     changes: []
   - date: '2007-01-20'
     amending: pt:dre:621296:por
-    amending_title: Decreto-Lei n.º 16/96; Decreto-Lei n.º 15-A/99; Decreto-Lei n.º 15/2007
+    amending_title: Decreto-Lei n.º 16/96; Decreto-Lei n.º 15-A/99; Decreto-Lei n.º 15/2007; Decreto-Lei n.º 5-A/2001
     changes:
     - Altera Artigo 5.º
     - Altera Artigo 6.º
     - Altera Artigo 15.º
     - Revoga Artigo 14.º
+    - Revoga Artigo 5
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/384/1993/11/18/p/dre/pt/html
@@ -86,7 +87,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:27:57Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 16/96; Decreto-Lei
-    n.º 15-A/99; Decreto-Lei n.º 15/2007. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1993/decreto-lei-384-93.alteracoes.json'
+    n.º 15-A/99; Decreto-Lei n.º 15/2007. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1993/decreto-lei-384-93.alteracoes.json.
+    Revogações registadas só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Decreto-Lei
+    n.º 5-A/2001.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -258,11 +261,13 @@ b) Terem obtido colocação e celebrado contrato administrativo, em estabelecime
 
 c) Terem completado, até 31 de Agosto do ano anterior ao da abertura do concurso, três ou mais anos de serviço docente;
 
-d) Terem prestado no ano lectivo anterior, no mínimo, 180 dias de serviço, em horários não inferiores a doze horas semanais.
+d) (Revogada.)
 
 2 - Podem, ainda, ser opositores ao mesmo concurso, para efeitos de transição de nível de docência, os educadores de infância e os professores do 1.º ciclo do ensino básico, que pertençam aos quadros referidos no n.º 2 do artigo 1.º, desde que possuam habilitação profissional ou própria para o nível e para o grau de ensino e grupo de docência a que se candidatam e tenham sido colocados, nos dois últimos anos lectivos, em regime de destacamento, no referido nível e grau de ensino.
 
 > Alterado pelo/a [Decreto-Lei n.º 15-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-a-1999-352900), publicado em 1999-01-19.
+
+> Revogado pelo/a [Decreto-Lei n.º 5-A/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-a-2001-534604), publicado em 2001-01-12, com efeitos a partir de 2001-01-01.
 
 ###### Artigo 6.º — Ordenação dos candidatos
 

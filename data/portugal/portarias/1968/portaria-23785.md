@@ -43,7 +43,7 @@ version_history:
     changes: []
   - date: '1998-12-02'
     amending: pt:dre:147831:por
-    amending_title: Portaria n.º 564/70; Portaria n.º 407/75; Portaria n.º 359/80; Portaria n.º 998/98
+    amending_title: Portaria n.º 564/70; Portaria n.º 407/75; Portaria n.º 359/80; Portaria n.º 998/98; Decreto-Lei n.º 273/73
     changes:
     - Altera Artigo 2.º
     - Altera Artigo 8.º
@@ -51,6 +51,9 @@ version_history:
     - Altera Artigo 32.º
     - Altera Artigo 11.º
     - Altera Artigo 34.º
+    - Revoga Artigo 11
+    - Revoga Artigo 15
+    - Revoga Artigo 29
 identifiers:
   celex: null
   eli: null
@@ -77,7 +80,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:54:26Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 564/70; Portaria n.º
-    407/75; Portaria n.º 359/80; Portaria n.º 998/98. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1968/portaria-23785.alteracoes.json'
+    407/75; Portaria n.º 359/80; Portaria n.º 998/98. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1968/portaria-23785.alteracoes.json.
+    Revogações registadas só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Decreto-Lei
+    n.º 273/73.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -290,17 +295,19 @@ c) Um sexto aos que tiverem entrado com maior importância para a amortização 
 
 2. Por capital investido entende-se o custo do terreno urbanizado e o preço da construção, incluindo ainda o custo dos projectos, a residência do porteiro e as despesas notariais, matriciais e de registo predial do imóvel em nome da Obra Social.
 
-3. Os contratos mediante os quais a Obra Social venha a atribuir as casas económicas serão celebrados em títulos avulso, cujos dizeres gerais, comuns a todos os contratos, serão impressos, e cujos dizeres especiais de cada contrato serão manuscritos ou dactilografados.
+3. (Revogado.)
 
-4. Cada contrato deverá ser feito em triplicado, ficando dois exemplares arquivados na Obra Social e o terceira na posse do adquirente.
+4. (Revogado.)
 
-5. Cada exemplar dos contratos será considerado, para todos os efeitos, documento autêntico extra-oficial e deverá ser assinado pelo presidente da direcção da Obra Social, por um vogal da direcção, pelo adquirente, por quaisquer entidades que neles tenham de intervir e por duas testemunhas idóneas.
+5. (Revogado.)
 
-6. Os contratos obedecerão ao modelo aprovado por despacho do Ministro do Ultramar, devendo neles ter-se em vista, em todo o omisso, os preceitos aplicáveis do Código do Notariado, aprovado pelo [Decreto-Lei n.º 42933](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42933-1960-281616), de 20 de Abril de 1960.
+6. (Revogado.)
 
 7. Pela celebração do contrato de transmissão de casas económicas não são devidos selo ou emolumentos.
 
 > Alterado pelo/a [Portaria n.º 564/70](https://diariodarepublica.pt/dr/detalhe/portaria/564-1970-147831), publicado em 1970-11-05.
+
+> Revogado pelo/a [Decreto-Lei n.º 273/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-1973-422267), publicado em 1973-05-30.
 
 ###### Artigo 12.º
 
@@ -328,9 +335,9 @@ b) Por entrega pessoal ou por intermédio do representante, por vale postal ou t
 
 ###### Artigo 15.º
 
-1. Satisfeitas integralmente pelo beneficiário as suas responsabilidades, será o facto averbado no contrato, adquirindo o beneficiário ou os seus herdeiros a propriedade plena, podendo ser feito na conservatória do registo predial, a requerimento dos interessados, o respectivo averbamento na inscrição do prédio.
+1. (Revogado.)
 
-2. A certidão ou fotocópia certificada do contrato, com o averbamento do pagamento da última prestação, será título suficiente para o registo de transmissão do prédio a favor do adquirente.
+2. (Revogado.)
 
 3. A direcção da Obra Social deverá promover a imediata comunicação da transmissão da propriedade à secção de finanças da área a que o imóvel pertencer.
 
@@ -412,7 +419,7 @@ As casas atribuídas não poderão ser ocupadas por pessoas estranhas ao agregad
 
 ###### Artigo 29.º
 
-As habitações atribuídas não podem ser hipotecadas ou de outro qualquer modo oneradas enquanto não pertencerem definitiva e incondicionalmente ao beneficiário-adquirente.
+(Revogado.)
 
 ###### Artigo 30.º
 

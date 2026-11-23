@@ -38,6 +38,12 @@
      "title": "Decreto-Lei n.º 250/2009",
      "published": "2009-09-23",
      "dre_path": "/dr/detalhe/decreto-lei/250-2009-490431"
+    },
+    {
+     "id": "pt:dre:490420:por",
+     "title": "Decreto-Lei n.º 249/2009",
+     "published": "2009-09-23",
+     "dre_path": "/dr/detalhe/decreto-lei/249-2009-490420"
     }
    ],
    "changes": [
@@ -45,23 +51,32 @@
     "Revoga Artigo 5.º",
     "Revoga Artigo 6.º",
     "Revoga Artigo 7.º",
-    "Revoga Artigo 14.º"
+    "Revoga Artigo 14.º",
+    "Revoga Artigo 1",
+    "Revoga Artigo 2",
+    "Revoga Artigo 3",
+    "Revoga Artigo 8",
+    "Revoga Artigo 9",
+    "Revoga Artigo 10",
+    "Revoga Artigo 11",
+    "Revoga Artigo 12",
+    "Revoga Artigo 13"
    ],
    "fragments": [
     "60185d8e99d6d8be",
-    "320bd9d44b78b950",
-    "bc426e8edd36c19d",
-    "2c7627eb47593a28",
+    "a73cdb07d0828bed",
+    "655ff135d03ca5d8",
+    "e66c931decb8fe0b",
     "8b3299e0086b8869",
     "5a9d8f786a429e43",
     "8927afda0833ee5b",
     "fadeaf8eb3ccbf4c",
-    "b495211c8bad6291",
-    "4495764cbd0df9ce",
-    "61518a478f2d3c6e",
-    "0933d6c94382ccee",
-    "4388b6b1452e9e17",
-    "cd968009badfdf73",
+    "93facf57905bd12f",
+    "16120425758e079b",
+    "e0bdf1b2e823caf2",
+    "c46b72b793b3d438",
+    "b2bc82f7cbd5dc3b",
+    "3335f6c218a771c2",
     "b9aaae786e08a22d",
     "8467f2052e536d04"
    ]
@@ -196,6 +211,32 @@
    "changed_by": [],
    "markdown": "## ANEXO\n\nPara efeitos da majoração do crédito fiscal prevista na alínea a) do n.º 1 do artigo 6.º são determinados os seguintes países:\n\n1) Estados membros da União Europeia;\n\n2) Angola;\n\n3) Moçambique;\n\n4) Cabo Verde;\n\n5) Guiné-Bissau;\n\n6) São Tomé e Príncipe;\n\n7) Brasil."
   },
+  "a73cdb07d0828bed": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Âmbito e objectivos",
+   "in_force_from": "2009-09-28",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 249/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-2009-490420), publicado em 2009-09-23, com efeitos a partir de 2009-09-28."
+   ],
+   "markdown": "###### Artigo 1.º — Âmbito e objectivos\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 249/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-2009-490420), publicado em 2009-09-23, com efeitos a partir de 2009-09-28."
+  },
+  "655ff135d03ca5d8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Condições de acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Condições de acesso\n\n(Revogado.)"
+  },
+  "e66c931decb8fe0b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Condições de elegibilidade dos projectos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Condições de elegibilidade dos projectos\n\n(Revogado.)"
+  },
   "8b3299e0086b8869": {
    "fragment_id": null,
    "type": null,
@@ -235,6 +276,54 @@
     "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 250/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/250-2009-490431), publicado em 2009-09-23."
    ],
    "markdown": "###### Artigo 7.º — Aplicações relevantes\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 250/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/250-2009-490431), publicado em 2009-09-23."
+  },
+  "93facf57905bd12f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Candidatura e apreciação dos processos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Candidatura e apreciação dos processos\n\n(Revogado.)"
+  },
+  "16120425758e079b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Contrato de concessão dos benefícios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Contrato de concessão dos benefícios\n\n(Revogado.)"
+  },
+  "e0bdf1b2e823caf2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Fiscalização e acompanhamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Fiscalização e acompanhamento\n\n(Revogado.)"
+  },
+  "c46b72b793b3d438": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Renegociação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Renegociação\n\n(Revogado.)"
+  },
+  "b2bc82f7cbd5dc3b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Resolução do contrato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Resolução do contrato\n\n(Revogado.)"
+  },
+  "3335f6c218a771c2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Efeitos da resolução do contrato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Efeitos da resolução do contrato\n\n(Revogado.)"
   },
   "b9aaae786e08a22d": {
    "fragment_id": null,

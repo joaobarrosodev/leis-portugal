@@ -25,14 +25,21 @@
      "title": "Portaria n.º 346/98",
      "published": "1998-06-05",
      "dre_path": "/dr/detalhe/portaria/346-1998-475972"
+    },
+    {
+     "id": "pt:dre:209843:por",
+     "title": "Portaria n.º 85/98",
+     "published": "1998-02-19",
+     "dre_path": "/dr/detalhe/portaria/85-1998-209843"
     }
    ],
    "changes": [
-    "Altera Artigo unidades 34-41"
+    "Altera Artigo unidades 34-41",
+    "Revoga anexo ou texto fora do articulado"
    ],
    "fragments": [
-    "f9845af2f5dc02cd",
-    "34b6eaee8d5c7d20"
+    "5bfb2b9fa74f368c",
+    "7fab58023441d7c3"
    ]
   }
  ],
@@ -61,7 +68,17 @@
    "changed_by": [],
    "markdown": "## Anexo V: — [(ver documento original)](https://files.diariodarepublica.pt/1s/1996/08/193b00/26082610.pdf)\n\n8.º Os valores constantes dos contratos de atribuição de ajuda celebrados até à data de entrada em vigor desta portaria e no âmbito dos diplomas referidos nos números anteriores são actualizados por aplicação do factor de correcção de 1,207509.\n\nMinistérios da Agricultura, do Desenvolvimento Rural e das Pescas e do Ambiente.\n\nAssinada em 25 de Julho de 1996.\n\nPelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, Secretário de Estado da Agricultura e do Desenvolvimento Rural. - A Ministra do Ambiente, Elisa Maria da Costa Guimarães Ferreira."
   },
-  "34b6eaee8d5c7d20": {
+  "5bfb2b9fa74f368c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1998-06-05",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 85/98](https://diariodarepublica.pt/dr/detalhe/portaria/85-1998-209843), publicado em 1998-02-19, com efeitos a partir de 1998-02-24."
+   ],
+   "markdown": "de 21 de Agosto\n\nConsiderando que o n.º 2 do artigo 13.º do Regulamento (CEE) n.º [3813/92](https://data.europa.eu/eli/reg/1992/3813/oj?locale=pt), de 28 de Dezembro, com a redacção dada pelo Regulamento (CE) n.º [150/95](https://data.europa.eu/eli/reg/1995/150/oj?locale=pt), de 23 de Janeiro, prevê a alteração dos valores em ecus a fim de neutralizar as consequências da supressão do factor de correcção que afectava as taxas de conversão utilizadas na agricultura;\n\nConsiderando que o Regulamento (CE) n.º [2772/95](https://data.europa.eu/eli/reg/1995/2772/oj?locale=pt), de 30 de Dezembro, veio proceder à alteração dos valores em ecus previstos no Regulamento (CEE) n.º [2078/92](https://data.europa.eu/eli/reg/1992/2078/oj?locale=pt), de 30 de Junho, nos termos do disposto no artigo 18.º do Regulamento (CEE) n.º [1068/93](https://data.europa.eu/eli/reg/1993/1068/oj?locale=pt), de 30 de Abril, com a redacção dada pelo Regulamento (CE) n.º [157/95](https://data.europa.eu/eli/reg/1995/157/oj?locale=pt), de 31 de Janeiro;\n\nConsiderando a necessidade de se proceder à alteração dos valores previstos nos diplomas que estabelecem o regime de ajudas a conceder no âmbito das medidas agro-ambientais instituídas pelo Regulamento (CEE) n.º [2078/92](https://data.europa.eu/eli/reg/1992/2078/oj?locale=pt), por forma a não reduzir o valor das ajudas a pagar aos beneficiários:\n\nAo abrigo do n.º 2 do artigo 10.º do Decreto-Lei n.º 31/94, de 5 de Fevereiro:\n\nManda o Governo, pelos Ministros da Agricultura, do Desenvolvimento Rural e das Pescas e do Ambiente, o seguinte:\n\n1.º - (Revogado.)\n\n> Revogado pelo/a [Portaria n.º 85/98](https://diariodarepublica.pt/dr/detalhe/portaria/85-1998-209843), publicado em 1998-02-19, com efeitos a partir de 1998-02-24.\n\n2.º - (Revogado.)\n\n3.º - (Revogado.)\n\n4.º - (Revogado.)\n\n5.º - (Revogado.)"
+  },
+  "7fab58023441d7c3": {
    "fragment_id": null,
    "type": null,
    "heading": "Anexo II: — [(ver documento original)](https://files.diariodarepublica.pt/1s/1996/08/193b00/26082610.pdf)",
@@ -69,7 +86,7 @@
    "changed_by": [
     "Alterado pelo/a [Portaria n.º 346/98](https://diariodarepublica.pt/dr/detalhe/portaria/346-1998-475972), publicado em 1998-06-05."
    ],
-   "markdown": "## Anexo II: — [(ver documento original)](https://files.diariodarepublica.pt/1s/1996/08/193b00/26082610.pdf)\n\n6.º Os valores fixados na Portaria n.º 693/94, de 23 de Julho, são alterados para os montantes:\n\nN.º 10.º, n.º 1, alínea a)\n\nDestinadas a técnicos: 120,8 ECU/participante/dia, até 30187,7;\n\nDestinadas a Agricultores: 84,5 ECU/participante/dia, até 10746,8 ECU/acção;\n\nN.º 10.º, n.º 1.º, alínea b) - destinadas a agricultores: 24,2 ECU/participante/dia, até 1823,3 ECU/acção;\n\nN.º 10.º, n.º 2: 42,3 ECU/dia, até ao montante máximo de 3018,8 ECU por técnico;\n\nN.º 10.º, n.º 3: 50500 ECU.\n\n7.º - (Revogado.)\n\n> Alterado pelo/a [Portaria n.º 346/98](https://diariodarepublica.pt/dr/detalhe/portaria/346-1998-475972), publicado em 1998-06-05.\n\n8.º Os valores constantes dos contratos de atribuição de ajuda celebrados até à data de entrada em vigor desta portaria e no âmbito dos diplomas referidos nos números anteriores são actualizados por aplicação do factor de correcção de 1,207509.\n\nMinistérios da Agricultura, do Desenvolvimento Rural e das Pescas e do Ambiente.\n\nAssinada em 25 de Julho de 1996.\n\nPelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, Secretário de Estado da Agricultura e do Desenvolvimento Rural. - A Ministra do Ambiente, Elisa Maria da Costa Guimarães Ferreira."
+   "markdown": "## Anexo II: — [(ver documento original)](https://files.diariodarepublica.pt/1s/1996/08/193b00/26082610.pdf)\n\n6.º Os valores fixados na Portaria n.º 693/94, de 23 de Julho, são alterados para os montantes:\n\nN.º 10.º, n.º 1, alínea a)\n\nDestinadas a técnicos: 120,8 ECU/participante/dia, até 30187,7;\n\nDestinadas a Agricultores: 84,5 ECU/participante/dia, até 10746,8 ECU/acção;\n\nN.º 10.º, n.º 1.º, alínea b) - destinadas a agricultores: 24,2 ECU/participante/dia, até 1823,3 ECU/acção;\n\nN.º 10.º, n.º 2: 42,3 ECU/dia, até ao montante máximo de 3018,8 ECU por técnico;\n\nN.º 10.º, n.º 3: 50500 ECU.\n\n7.º - (Revogado.)\n\n> Alterado pelo/a [Portaria n.º 346/98](https://diariodarepublica.pt/dr/detalhe/portaria/346-1998-475972), publicado em 1998-06-05.\n\n8.º - (Revogado.)\n\nMinistérios da Agricultura, do Desenvolvimento Rural e das Pescas e do Ambiente.\n\nAssinada em 25 de Julho de 1996.\n\nPelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, Secretário de Estado da Agricultura e do Desenvolvimento Rural. - A Ministra do Ambiente, Elisa Maria da Costa Guimarães Ferreira."
   }
  }
 }

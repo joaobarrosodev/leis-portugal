@@ -31,7 +31,7 @@ version:
   kind: consolidated
   label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: '1980-10-14'
+  consolidation_date: '1982-07-29'
 version_history:
   file: decreto-lei-519-g2-79.versoes.json
   count: 2
@@ -41,9 +41,9 @@ version_history:
     amending: null
     amending_title: null
     changes: []
-  - date: '1980-10-14'
+  - date: '1982-07-29'
     amending: pt:dre:462017:por
-    amending_title: Decreto-Lei n.º 467/80; Declaração
+    amending_title: Decreto-Lei n.º 467/80; Declaração; Decreto-Lei n.º 298/82
     changes:
     - Altera Artigo 21.º
     - Retifica texto
@@ -58,6 +58,7 @@ version_history:
     - Retifica Artigo 74
     - Retifica Artigo 79
     - Retifica Artigo 95
+    - Revoga Artigo 88
 identifiers:
   celex: null
   eli: null
@@ -86,7 +87,8 @@ provenance:
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 467/80. Método e
     verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1979/decreto-lei-519-g2-79.alteracoes.json.
     Retificações aplicadas com um LLM e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração. Retificações
-    aplicadas com um LLM, na ronda r5, e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração.'
+    aplicadas com um LLM, na ronda r5, e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração. Revogações registadas
+    só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Decreto-Lei n.º 298/82.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -1018,7 +1020,9 @@ Aplica-se às federações tudo o que fica disposto na secção anterior relativ
 
 2 - Estas instituições deverão reformar os estatutos de acordo com o novo regime e adoptar a forma que melhor se adapte às suas finalidades.
 
-3 - No prazo de um ano a contar da entrada em vigor deste Estatuto, comunicarão à Direcção-Geral da Segurança Social a forma que adoptaram e enviarão, para registo, os novos estatutos.
+3 - (Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 298/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-1982-397370), publicado em 1982-07-29.
 
 ###### Artigo 89.º — (Qualificação e registo de certas instituições)
 

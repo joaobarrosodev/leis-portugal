@@ -77,7 +77,7 @@
    ]
   },
   {
-   "date": "1997-02-12",
+   "date": "1998-11-23",
    "future": false,
    "acts": [
     {
@@ -103,6 +103,18 @@
      "title": "Portaria n.º 515/95",
      "published": "1995-05-31",
      "dre_path": "/dr/detalhe/portaria/515-1995-527389"
+    },
+    {
+     "id": "pt:dre:218950:por",
+     "title": "Decreto-Lei n.º 51/98",
+     "published": "1998-03-11",
+     "dre_path": "/dr/detalhe/decreto-lei/51-1998-218950"
+    },
+    {
+     "id": "pt:dre:229310:por",
+     "title": "Decreto-Lei n.º 357/98",
+     "published": "1998-11-18",
+     "dre_path": "/dr/detalhe/decreto-lei/357-1998-229310"
     }
    ],
    "changes": [
@@ -125,7 +137,12 @@
     "Revoga Artigo 2.º",
     "Retifica Artigo 21",
     "Retifica Artigo 57",
-    "Altera anexo ou texto fora do articulado"
+    "Altera anexo ou texto fora do articulado",
+    "Revoga Artigo 28",
+    "Revoga Artigo 29",
+    "Revoga Artigo 30",
+    "Revoga Artigo 31",
+    "Revoga Artigo 35"
    ],
    "fragments": [
     "b4280199992a8d66",
@@ -156,14 +173,14 @@
     "88809a74d980b278",
     "f95b7a2e96fe3176",
     "6e0651ba763945d9",
-    "3365ed5358af8569",
-    "51b301b16104c127",
-    "c6a22a6c0b9a101f",
-    "061093b8980c2faf",
+    "3dd854edc954893a",
+    "1d0092db3ff959d2",
+    "422d602a1ae938e4",
+    "e55ff14e56e33639",
     "136f80f3a630a054",
     "bf6d5c3c6d11fcb7",
     "b9e8bfbecceb81fa",
-    "891eb7eba81c8f13",
+    "6c0c2e7c4e51d119",
     "10a567ac2033d1dc",
     "cef9f8121ba1ff14",
     "4781533c6e8d4f87",
@@ -698,17 +715,51 @@
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 21.º — Direcção de Serviços de Gestão de Recursos Humanos",
-   "in_force_from": "1997-02-12",
+   "in_force_from": "1998-11-23",
    "changed_by": [
     "Retificado pelo/a [Declaração de Rectificação n.º 22/94](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/22-1994-165071), publicado em 1994-02-28."
    ],
    "markdown": "###### Artigo 21.º — Direcção de Serviços de Gestão de Recursos Humanos\n\n1 - À DSGRH incumbe:\n\na) Coordenar e assegurar a gestão dos recursos humanos da DGCI, nomeadamente a gestão previsional do quadro de pessoal;\n\nb) Propor a adopção de políticas e técnicas de gestão racional dos recursos humanos, com vista à sua valorização e adequação às necessidades da DGCI;\n\nc) Programar, organizar e acompanhar a realização de acções de recrutamento e selecção, assegurando os respectivos trâmites processuais e prestando apoio aos júris dos concursos;\n\nd) Assegurar a aplicação uniforme das disposições legais relativas ao recrutamento, selecção, provimento, progressão e cessação da relação jurídica de emprego;\n\ne) Proceder à definição de normas e programar e organizar a mobilidade interna dos funcionários;\n\nf) Organizar e assegurar a actualização do registo central dos funcionários e agentes da DGCI e dos respectivos processos individuais, bem como o seu arquivo;\n\ng) Assegurar os procedimentos administrativos relativos à constituição, modificação e extinção da relação jurídica de emprego, bem como, em colaboração com os demais serviços da DGCI, a mobilidade, assiduidade, férias e licenças e benefícios sociais dos funcionários;\n\nh) Elaborar o balanço social.\n\n2 - A DSGRH compreende as seguintes unidades orgânicas:\n\na) Divisão de Gestão de Pessoal, que exerce as competências a que se referem as alíneas a), b) e e) do número anterior;\n\nb) Divisão de Recrutamento e Selecção, que exerce as competências a que se referem as alíneas c) e d) do número anterior;\n\nc) Repartição de Administração de Pessoal, que exerce as competências a que se referem as alíneas f), g) e h) do número anterior e compreende a Secção de Pessoal, a Secção de Expediente e Cadastro e a Secção de Assiduidade e Aposentação e ainda duas Secções de Pessoal, a funcionar uma junto das áreas funcionais dos impostos sobre o rendimento, dos impostos sobre o património e da informática tributária e outra junto da área funcional do imposto sobre o valor acrescentado.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 22/94](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/22-1994-165071), publicado em 1994-02-28."
   },
+  "3dd854edc954893a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º — Direcção de Serviços de Produção e Suporte Técnico",
+   "in_force_from": "1998-11-23",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 51/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-1998-218950), publicado em 1998-03-11, com efeitos a partir de 1998-03-16."
+   ],
+   "markdown": "###### Artigo 28.º — Direcção de Serviços de Produção e Suporte Técnico\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 51/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-1998-218950), publicado em 1998-03-11, com efeitos a partir de 1998-03-16."
+  },
+  "1d0092db3ff959d2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º — Direcção de Serviços de Sistemas de Informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Direcção de Serviços de Sistemas de Informação\n\n(Revogado.)"
+  },
+  "422d602a1ae938e4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º — Direcção de Serviços de Planeamento, Controlo e Administração de Dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Direcção de Serviços de Planeamento, Controlo e Administração de Dados\n\n(Revogado.)"
+  },
+  "e55ff14e56e33639": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º — Serviço Regional de Informática do Norte",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Serviço Regional de Informática do Norte\n\n(Revogado.)"
+  },
   "136f80f3a630a054": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 32.º — Direcções distritais de finanças e direcções de finanças",
-   "in_force_from": "1997-02-12",
+   "in_force_from": "1998-11-23",
    "changed_by": [
     "Alterado pelo/a [Decreto-Lei n.º 42/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1997-559038), publicado em 1997-02-07."
    ],
@@ -718,17 +769,27 @@
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 33.º — Estrutura das direcções distritais de finanças e direcções de finanças",
-   "in_force_from": "1997-02-12",
+   "in_force_from": "1998-11-23",
    "changed_by": [
     "Alterado pelo/a [Decreto-Lei n.º 42/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1997-559038), publicado em 1997-02-07."
    ],
    "markdown": "###### Artigo 33.º — Estrutura das direcções distritais de finanças e direcções de finanças\n\n1 - As Direcções Distritais de Finanças de Beja, Bragança, Castelo Branco, Évora, Guarda, Portalegre, Viana do Castelo e Vila Real, bem como as direcções de finanças das Regiões Autónomas, dispõem das seguintes unidades orgânicas:\n\na) Divisão de Tributação e de Justiça Tributária;\n\nb) Divisão de Inspecção Tributária;\n\nc) Repartição de Administração Geral.\n\n2 - As Direcções Distritais de Finanças de Aveiro, Braga, Coimbra, Faro, Leiria, Santarém, Setúbal e Viseu dispõem de um director de finanças e das seguintes unidades orgânicas:\n\na) Divisão de Tributação;\n\nb) Divisão de Justiça Tributária;\n\nc) Divisão de Prevenção e Inspecção Tributária I;\n\nd) Divisão de Prevenção e Inspecção Tributária II;\n\ne) Repartição de Administração Geral.\n\n3 - A Direcção Distrital de Finanças do Porto dispõe de quatro directores de finanças e das seguintes unidades orgânicas:\n\na) Divisão dos Impostos sobre o Rendimento;\n\nb) Divisão dos Impostos sobre o Consumo e Património;\n\nc) Divisão de Justiça Tributária;\n\nd) Divisão de Prevenção e Inspecção Tributária I;\n\ne) Divisão de Prevenção e Inspecção Trubutária II;\n\nf) Divisão de Prevenção e Inspecção Tributária III;\n\ng) Repartição de Administração Geral.\n\n4 - A Direcção Distrital de Finanças de Lisboa dispõe de seis directores de finanças e das seguintes unidades orgânicas:\n\na) Divisão dos Impostos sobre o Rendimento I (IRS);\n\nb) Divisão dos Impostos sobre o Rendimento II (IRC);\n\nc) Divisão dos Impostos sobre o Consumo e o Património;\n\nd) Divisão de Justiça Tributária;\n\ne) Divisão de Prevenção e Inspecção Tributária I;\n\nf) Divisão de Prevenção e Inspecção Tributária II;\n\ng) Divisão de Prevenção e Inspecção Tributária III;\n\nh) Divisão de Prevenção e Inspecção Tributária IV;\n\ni) Repartição de Administração Geral;\n\nj) Repartição não Tributária.\n\n5 - Em todas as direcções distritais de finanças funcionará um centro de recolha de dados, que será coordenado por um funcionário a designar por despacho do director-geral.\n\n6 - As Repartições de Administração Geral das Direcções Distritais de Finanças do Porto e de Lisboa compreendem uma Secção de Pessoal e uma Secção de Administração.\n\n> Alterado pelo/a [Decreto-Lei n.º 42/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1997-559038), publicado em 1997-02-07."
   },
+  "6c0c2e7c4e51d119": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 35.º — Competências das repartições de administração geral das direcções distritais de finanças",
+   "in_force_from": "1998-11-23",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 357/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/357-1998-229310), publicado em 1998-11-18, com efeitos a partir de 1998-11-23."
+   ],
+   "markdown": "###### Artigo 35.º — Competências das repartições de administração geral das direcções distritais de finanças\n\n1 - Às repartições de administração geral incumbe, designadamente:\n\na) Exercer a administração dos recursos humanos, financeiros e patrimoniais da unidade orgânica em que estão integradas;\n\nb) Assegurar o expediente relativo à situação funcional do pessoal, designadamente remunerações e outros abonos, segurança social, benefícios sociais, faltas e licenças, e manter actualizado o respectivo registo de pessoal;\n\nc) Distribuir e gerir o equipamento e o material necessários aos serviços e organizar e manter actualizado o respectivo inventário;\n\nd) Zelar pela segurança dos edifícios e assegurar a realização de trabalhos de conservação, reparação e manutenção das instalações e equipamentos;\n\ne) Preparar a proposta de orçamento das direcções distritais de finanças e controlar a sua execução;\n\nf) Assegurar o processamento das despesas que devam ser processadas a nível distrital, propor a constituição e reconstituição de fundos permanentes e garantir a respectiva movimentação;\n\ng) Assegurar o expediente geral da respectiva direcção de finanças;\n\nh) Assegurar o expediente necessário à execução das actividades que, não cabendo especificamente no âmbito das atribuições da DGCI, lhe são cometidas por lei.\n\n2 - (Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 357/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/357-1998-229310), publicado em 1998-11-18, com efeitos a partir de 1998-11-23."
+  },
   "10a567ac2033d1dc": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 36.º — Serviços locais",
-   "in_force_from": "1997-02-12",
+   "in_force_from": "1998-11-23",
    "changed_by": [
     "Alterado pelo/a [Decreto-Lei n.º 42/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1997-559038), publicado em 1997-02-07."
    ],
@@ -738,7 +799,7 @@
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 37.º — Estrutura das repartições de finanças",
-   "in_force_from": "1997-02-12",
+   "in_force_from": "1998-11-23",
    "changed_by": [
     "Alterado pelo/a [Decreto-Lei n.º 42/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1997-559038), publicado em 1997-02-07."
    ],
@@ -748,7 +809,7 @@
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 38.º — Quadros de pessoal",
-   "in_force_from": "1997-02-12",
+   "in_force_from": "1998-11-23",
    "changed_by": [
     "Alterado pelo/a [Decreto-Lei n.º 42/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1997-559038), publicado em 1997-02-07."
    ],
@@ -758,7 +819,7 @@
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 39.º — Subdirectores-gerais e directores de serviços",
-   "in_force_from": "1997-02-12",
+   "in_force_from": "1998-11-23",
    "changed_by": [
     "Alterado pelo/a [Decreto-Lei n.º 42/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1997-559038), publicado em 1997-02-07."
    ],
@@ -768,7 +829,7 @@
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 40.º — Directores distritais de finanças e directores de finanças",
-   "in_force_from": "1997-02-12",
+   "in_force_from": "1998-11-23",
    "changed_by": [
     "Alterado pelo/a [Decreto-Lei n.º 42/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1997-559038), publicado em 1997-02-07."
    ],
@@ -778,7 +839,7 @@
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 41.º — Chefes de divisão",
-   "in_force_from": "1997-02-12",
+   "in_force_from": "1998-11-23",
    "changed_by": [
     "Alterado pelo/a [Decreto-Lei n.º 42/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1997-559038), publicado em 1997-02-07."
    ],
@@ -788,7 +849,7 @@
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 42.º — Pessoal de chefia tributária",
-   "in_force_from": "1997-02-12",
+   "in_force_from": "1998-11-23",
    "changed_by": [
     "Alterado pelo/a [Decreto-Lei n.º 42/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1997-559038), publicado em 1997-02-07."
    ],
@@ -798,7 +859,7 @@
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 44.º — Cessação da comissão de serviço do pessoal de chefia tributária",
-   "in_force_from": "1997-02-12",
+   "in_force_from": "1998-11-23",
    "changed_by": [
     "Alterado pelo/a [Decreto-Lei n.º 42/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1997-559038), publicado em 1997-02-07."
    ],
@@ -808,7 +869,7 @@
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 46.º — Transferência",
-   "in_force_from": "1997-02-12",
+   "in_force_from": "1998-11-23",
    "changed_by": [
     "Alterado pelo/a [Decreto-Lei n.º 42/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1997-559038), publicado em 1997-02-07."
    ],
@@ -818,7 +879,7 @@
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 55.º — Alterações de legislação",
-   "in_force_from": "1997-02-12",
+   "in_force_from": "1998-11-23",
    "changed_by": [
     "Alterado pelo/a [Decreto-Lei n.º 42/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1997-559038), publicado em 1997-02-07."
    ],
@@ -828,7 +889,7 @@
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 57.º — Legislação revogada",
-   "in_force_from": "1997-02-12",
+   "in_force_from": "1998-11-23",
    "changed_by": [
     "Alterado pelo/a [Portaria n.º 225/95](https://diariodarepublica.pt/dr/detalhe/portaria/225-1995-172965), publicado em 1995-03-27.",
     "Alterado pelo/a [Portaria n.º 515/95](https://diariodarepublica.pt/dr/detalhe/portaria/515-1995-527389), publicado em 1995-05-31."

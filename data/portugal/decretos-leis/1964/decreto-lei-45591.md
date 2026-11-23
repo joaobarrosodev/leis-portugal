@@ -44,9 +44,11 @@ version_history:
     changes: []
   - date: '1969-09-11'
     amending: pt:dre:214068:por
-    amending_title: Decreto-Lei n.º 49235
+    amending_title: Decreto-Lei n.º 49235; Decreto-Lei n.º 45988
     changes:
     - Altera Artigo 11.º
+    - Revoga Artigo 33
+    - Revoga Artigo 34
 identifiers:
   celex: null
   eli: null
@@ -73,7 +75,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T21:48:11Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 49235. Método e verificação:
-    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1964/decreto-lei-45591.alteracoes.json'
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1964/decreto-lei-45591.alteracoes.json. Revogações
+    registadas só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Decreto-Lei
+    n.º 45988.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -446,13 +450,13 @@ Ao Centro de Saúde e Assistência Materno-Infantil do Doutor Bissaia Barreto é
 
 ###### Artigo 33.º
 
-Durante os primeiros cinco anos de funcionamento, a contar da data da publicação deste diploma, o conselho administrativo do Centro de Saúde e Assistência Materno-Infantil do Doutor Bissaia Barreto será presidido pelo presidente da Comissão Instaladora do Conjunto Assistencial da Quinta da Rainha, que desempenhará essas funções a título gratuito e poderá também exercer a faculdade que é conferida ao director no artigo 19.º do presente diploma.
+(Revogado.)
 
-Findo o prazo de cinco anos referido neste artigo, pode o mesmo ser prorrogado por mais dois anos, por despacho do Ministro da Saúde e Assistência.
+> Revogado pelo/a [Decreto-Lei n.º 45988](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45988-1964-537045), publicado em 1964-10-22.
 
 ###### Artigo 34.º
 
-Enquanto durar a situação transitória a que se refere o artigo anterior, o director exercerá as funções de vice-presidente do conselho administrativo e poderá tornar a iniciativa da sua convocação, nos termos do disposto no artigo 13.º
+(Revogado.)
 
 ###### Artigo 35.º
 

@@ -53,10 +53,11 @@ version_history:
     changes: []
   - date: '2009-08-19'
     amending: pt:dre:248073:por
-    amending_title: Portaria n.º 989-B/93; Portaria n.º 884/2009
+    amending_title: Portaria n.º 989-B/93; Portaria n.º 884/2009; Portaria n.º 778/95
     changes:
     - Altera Artigo unidades 18-18
     - Altera Artigo unidades 23-23
+    - Revoga anexo ou texto fora do articulado
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/725-g/1993/08/10/p/dre/pt/html
@@ -83,7 +84,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:08:27Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 989-B/93; Portaria n.º
-    884/2009. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1993/portaria-725-g-93.alteracoes.json'
+    884/2009. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1993/portaria-725-g-93.alteracoes.json.
+    Revogações registadas só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Portaria
+    n.º 778/95.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -206,7 +209,9 @@ A zona RMZ-1, designada por Revilheira, com cerca de 921 ha;
 
 No concelho de Santiago do Cacém:
 
-A zona STC-1, designada por Herdade da Bêbada, dormida de pombos com importância regional, com cerva de 2500 ha;
+(Revogada.)
+
+> Revogado pelo/a [Portaria n.º 778/95](https://diariodarepublica.pt/dr/detalhe/portaria/778-1995-466658), publicado em 1995-07-12, com efeitos a partir de 1995-07-17.
 
 Nos concelhos de Santiago do Cacém e Sines:
 

@@ -42,7 +42,7 @@ version:
   kind: consolidated
   label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: '2014-08-26'
+  consolidation_date: '2018-11-09'
 version_history:
   file: portaria-721-a-2000.versoes.json
   count: 2
@@ -52,12 +52,13 @@ version_history:
     amending: null
     amending_title: null
     changes: []
-  - date: '2014-08-26'
+  - date: '2018-11-09'
     amending: pt:dre:602278:por
-    amending_title: Portaria n.º 170/2009; Portaria n.º 161/2014
+    amending_title: Portaria n.º 170/2009; Portaria n.º 161/2014; Portaria n.º 296/2018
     changes:
     - Altera Artigo unidades 78-82
     - Altera Artigo unidades 265-6853
+    - Revoga anexo ou texto fora do articulado
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/721-a/2000/09/05/p/dre/pt/html
@@ -84,7 +85,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:25:29Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 170/2009; Portaria n.º
-    161/2014. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/2000/portaria-721-a-2000.alteracoes.json'
+    161/2014. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/2000/portaria-721-a-2000.alteracoes.json.
+    Revogações registadas só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Portaria
+    n.º 296/2018.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -218,45 +221,9 @@ Secretarias judiciais
 
 Secretaria do Supremo Tribunal de Justiça
 
-Secção de expediente e contabilidade e quatro secções de processos:
+(Revogado.)
 
-Pessoal:
-
-Categorias:
-
-Secretário de tribunal superior ... 1
-
-Secretário de justiça ... 1
-
-Escrivão de direito ... 5
-
-Escrivão-adjunto ... 13
-
-Escrivão auxiliar ... 18
-
-Chefe de secção ... 1
-
-Assessor principal, assessor, técnico superior principal, técnico superior de 1.ª classe ou técnico superior de 2.ª classe de biblioteca e documentação ... 1
-
-Assistente administrativo especialista, assistente administrativo principal ou assistente administrativo ... 4
-
-Operador de sistema-chefe, operador de sistema principal, operador de sistema de 1.ª classe ou operador de sistema de 2.ª classe ... 2
-
-Técnico profissional especialista principal, técnico profissional especialista, técnico profissional principal, técnico profissional de 1.ª classe ou técnico profissional de 2.ª classe (ver nota a) ... 1
-
-Motorista de ligeiros ... 5
-
-Oficial porteiro ... 2
-
-Telefonista ... 2
-
-Auxiliar de segurança ... 1
-
-Operador de reprografia ... 1
-
-Auxiliar administrativo ... 3
-
-Servente (ver nota b) ... 2
+> Revogado pelo/a [Portaria n.º 296/2018](https://diariodarepublica.pt/dr/detalhe/portaria/296-2018-116915006), publicado em 2018-11-08, com efeitos a partir de 2018-11-09.
 
 Serviços do Ministério Público
 

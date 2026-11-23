@@ -23,24 +23,44 @@
      "title": "Decreto-Lei n.º 20/92",
      "published": "1992-02-08",
      "dre_path": "/dr/detalhe/decreto-lei/20-1992-151973"
+    },
+    {
+     "id": "pt:dre:326284:por",
+     "title": "Decreto-Lei n.º 57/85",
+     "published": "1985-03-06",
+     "dre_path": "/dr/detalhe/decreto-lei/57-1985-326284"
+    },
+    {
+     "id": "pt:dre:227583:por",
+     "title": "Portaria n.º 207/86",
+     "published": "1986-05-12",
+     "dre_path": "/dr/detalhe/portaria/207-1986-227583"
     }
    ],
    "changes": [
-    "Altera Artigo 1.º"
+    "Altera Artigo 1.º",
+    "Revoga Artigo 2",
+    "Revoga Artigo 3",
+    "Revoga Artigo 4",
+    "Revoga Artigo 5",
+    "Revoga Artigo 7",
+    "Revoga Artigo 10",
+    "Revoga Artigo 11",
+    "Revoga Artigo 1"
    ],
    "fragments": [
     "aab63c8896b51d3f",
-    "abb205ee968c543a",
-    "9067d1e2bf3a6f47",
-    "786fe18ca2af83aa",
-    "77855ce0eca525a3",
-    "298c617a0d16de62",
+    "ec0f3e8014dc9a8c",
+    "e4f5834560980cce",
+    "9fa34d12a6c24300",
+    "2bf36a738906b8ff",
+    "d2019c094bd25474",
     "93bd79e7e88da23a",
-    "ce939b3362bccd20",
+    "8dd690153acf884c",
     "fdbbcb0c0323124f",
     "2e1e52249e903a86",
-    "8c84496f8a2994ae",
-    "21ce2e8df02990f1"
+    "1ada4c3958c01930",
+    "7d4dd02bfd09b4df"
    ]
   }
  ],
@@ -61,47 +81,50 @@
    "changed_by": [],
    "markdown": "Considerando que pelo [Decreto-Lei n.º 47775](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47775-1967-314056), desta data, foram revogadas as disposições do [Decreto-Lei n.º 42979](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42979-1960-505047), de 16 de Maio de 1960, torna-se indispensável fixar características para os diferentes alimentos para animais e estabelecer as regras que deverão provisòriamente observar-se na sua preparação e comércio, enquanto não forem publicadas as respectivas normas.\n\nNestas condições:\n\nManda o Governo da República Portuguesa, pelos Secretários de Estado do Comércio e da Indústria, ao abrigo do estabelecido no artigo 11.º do Regulamento de Preparação e Comércio de Alimentos para Animais, aprovado pelo [Decreto n.º 47776](https://diariodarepublica.pt/dr/detalhe/decreto/47776-1967-314057):\n\nCaracterísticas para os diferentes alimentos para animais"
   },
-  "abb205ee968c543a": {
+  "ec0f3e8014dc9a8c": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 1.º",
    "in_force_from": "1992-04-08",
    "changed_by": [
-    "Alterado pelo/a [Decreto-Lei n.º 20/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-1992-151973), publicado em 1992-02-08."
+    "Alterado pelo/a [Decreto-Lei n.º 20/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-1992-151973), publicado em 1992-02-08.",
+    "Revogado pelo/a [Portaria n.º 207/86](https://diariodarepublica.pt/dr/detalhe/portaria/207-1986-227583), publicado em 1986-05-12, com efeitos a partir de 1986-08-10."
    ],
-   "markdown": "###### Artigo 1.º\n\nOs alimentos simples para os animais domésticos, além do disposto no regulamento acima citado, devem obedecer às características e condições seguintes:\n\na) (Revogada.)\n\nb) (Revogada.)\n\nc) (Revogada.)\n\nd) (Revogada.)\n\ne) (Revogada.)\n\nf) (Revogada.)\n\ng) Resíduos da extracção de gorduras e óleos:\n\n1.º Os resíduos da extracção de gorduras e óleos - bagaços - obtidos mecânicamente ou por dissolventes serão designados conforme as sementes ou frutos de que derivam, podendo apresentar-se farinados, granulados, moldados ou em pasta. Os resíduos de extracção por dissolventes só poderão ser utilizados como alimento quando não revelem a presença acentuada do dissolvente.\n\n2.º Estes produtos, quando comercializados, serão acompanhados de indicação dos teores máximos em água, fibra bruta, gordura e resíduo no tetracloreto de carbono e o teor mínimo de proteína bruta. No caso do bagaço de algodão, deverá obrigatòriamente indicar-se o teor máximo de gossipol livre. Será fixado por despacho do Secretário de Estado da Indústria o teor máximo de aflatoxinas que o bagaço de amendoim poderá conter para cada uma das utilizações a que o mesmo se destine, em harmonia com a idade dos animais.\n\n3.º Os bagaços de oleaginosas a seguir indicados deverão obedecer, pelo menos, às características seguintes:\n\nI) Bagaço de amendoim:\n\n... Percentagens\n\nTeor em água - máximo ... 12\n\nProteína bruta - mínimo ... 46\n\nFibra bruta - máximo ... 10\n\nCinzas totais - máximo ... 6\n\nII) Bagaço de palmiste:\n\nTeor em água - máximo ... 12\n\nProteína bruta - mínimo ... 17\n\nFibra bruta - máximo ... 18\n\nCinzas totais - máximo ... 6\n\nIII) Bagaço de soja:\n\nTeor em água - máximo ... 12\n\nProteína bruta - mínimo ... 43\n\nFibra bruta - máximo ... 7\n\nCinzas totais - máximo ... 6\n\nIV) Bagaço de algodão:\n\nTeor em água - máximo ... 12\n\nProteína bruta - mínimo ... 46\n\nFibra bruta - máximo ... 10\n\nCinzas totais - máximo ... 7\n\nh) (Revogada.)\n\ni) (Revogada.)\n\nj) (Revogada.)\n\nk) (Revogada.)\n\nl) (Revogada.)\n\nm) (Revogada.)\n\nn) (Revogada.)\n\n> Alterado pelo/a [Decreto-Lei n.º 20/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-1992-151973), publicado em 1992-02-08."
+   "markdown": "###### Artigo 1.º\n\nOs alimentos simples para os animais domésticos, além do disposto no regulamento acima citado, devem obedecer às características e condições seguintes:\n\na) (Revogada.)\n\nb) (Revogada.)\n\nc) (Revogada.)\n\nd) (Revogada.)\n\ne) (Revogada.)\n\nf) (Revogada.)\n\ng) (Revogada.)\n\nh) (Revogada.)\n\ni) (Revogada.)\n\nj) (Revogada.)\n\nk) (Revogada.)\n\nl) (Revogada.)\n\nm) (Revogada.)\n\nn) (Revogada.)\n\n> Alterado pelo/a [Decreto-Lei n.º 20/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-1992-151973), publicado em 1992-02-08.\n\n> Revogado pelo/a [Portaria n.º 207/86](https://diariodarepublica.pt/dr/detalhe/portaria/207-1986-227583), publicado em 1986-05-12, com efeitos a partir de 1986-08-10."
   },
-  "9067d1e2bf3a6f47": {
+  "e4f5834560980cce": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 2.º",
-   "in_force_from": null,
-   "changed_by": [],
-   "markdown": "###### Artigo 2.º\n\nPara todos os produtos de origem animal observar-se-á o disposto no [Decreto-Lei n.º 41364](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41364-1957-253059), de 14 de Novembro de 1957."
+   "in_force_from": "1992-04-08",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 57/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-1985-326284), publicado em 1985-03-06, com efeitos a partir de 1985-03-11."
+   ],
+   "markdown": "###### Artigo 2.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 57/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-1985-326284), publicado em 1985-03-06, com efeitos a partir de 1985-03-11."
   },
-  "786fe18ca2af83aa": {
+  "9fa34d12a6c24300": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 3.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 3.º\n\nTodos os alimentos simples não incluídos no artigo 1.º desta portaria só poderão ser comercializados com a designação correcta da sua natureza ou proveniência."
+   "markdown": "###### Artigo 3.º\n\n(Revogado.)"
   },
-  "77855ce0eca525a3": {
+  "2bf36a738906b8ff": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 4.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 4.º\n\nPara efeitos de comercialização, todos os alimentos simples que tenham sido objecto de transformação ou preparação industrial, além de terem de satisfazer ao disposto no Regulamento de Preparação e Comércio de Alimentos para Animais e nos artigos 1.º e 3.º desta portaria, deverão ser acompanhados, quando embalados, de dísticos, rótulos ou etiquetas dos quais constem as indicações seguintes:\n\nTeores máximos em água, fibra bruta, cinzas totais e cinzas insolúveis no HCl a 10 por cento.\n\nTeor mínimo de proteína bruta para os produtos indicados nas alíneas g), k), l), m) e n) do artigo 1.º\n\n§ único. Quando comercializados a granel, as indicações referidas no corpo deste artigo serão garantidas pelo vendedor."
+   "markdown": "###### Artigo 4.º\n\n(Revogado.)"
   },
-  "298c617a0d16de62": {
+  "d2019c094bd25474": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 5.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 5.º\n\nNão é permitida a utilização como alimentos para animais, bem como a sua incorporação nos alimentos compostos, dos seguintes géneros:\n\nPurgueira; rícino e seus derivados; cascas de arroz, cacau, amendoim, algodão e caju; grainha de uva isolada; carolo de milho; palhas moídas; resíduos de fermentação alcoólica de alfarroba, e, de uma maneira geral, todas as substâncias lenhosas ou siliciosas."
+   "markdown": "###### Artigo 5.º\n\n(Revogado.)"
   },
   "93bd79e7e88da23a": {
    "fragment_id": null,
@@ -111,13 +134,13 @@
    "changed_by": [],
    "markdown": "###### Artigo 6.º\n\nOs alimentos compostos para animais, além do disposto no Regulamento de Preparação e Comércio de Alimentos para Animais, deverão obedecer às características e condições seguintes:\n\n1.º As características serão as dos quadros I (aves e coelhos), II (suínos) e III (bovinos e ovinos) seguintes:\n\nI) Alimentos para aves e coelhos\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/07/15500/13121316.pdf)\n\nII) Alimentos para suínos\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/07/15500/13121316.pdf)\n\nIII) Alimentos para bovinos e ovinos\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/07/15500/13121316.pdf)\n\n2.º A digestibilidade da proteína bruta, determinada pelo método da digestão com pepsina em meio clorídrico, dos alimentos compostos para aves, suínos e ruminantes jovens não deverá ser inferior a 80 por cento e nos restantes alimentos compostos a 75 por cento.\n\n3.º Os alimentos compostos melaçados deverão conter o mínimo de 9,6 por cento de açúcares redutores totais expressos em glucose. O teor máximo em água dos alimentos compostos melaçados não poderá exceder 16 por cento. Quando, porém, contiverem mais de 16 por cento dos açúcares totais expressos em açúcar invertido, o teor em água pode atingir o máximo de 22 por cento determinado pelo processo directo do benzeno."
   },
-  "ce939b3362bccd20": {
+  "8dd690153acf884c": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 7.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 7.º\n\nNa expedição, transporte e exposição à venda, os alimentos simples que tenham sido objecto de transformação deverão, quando embalados, ser acompanhados de dísticos, rótulos ou etiquetas onde constem as indicações seguintes:\n\nNome da empresa que preparou o produto;\n\nDesignação do produto;\n\nCaracterísticas ou composição em relação aos constituintes que vierem a ser definidos.\n\n§ único. Quando os alimentos simples transformados forem comercializados a granel, as indicações referidas no corpo deste artigo serão garantidas pelo vendedor."
+   "markdown": "###### Artigo 7.º\n\n(Revogado.)"
   },
   "fdbbcb0c0323124f": {
    "fragment_id": null,
@@ -135,21 +158,21 @@
    "changed_by": [],
    "markdown": "###### Artigo 9.º\n\nÉ permitida a comercialização dos alimentos compostos a granel desde que obedeça às seguintes condições:\n\na) Que as quantidades a transportar correspondam à capacidade de contentores adequados, e os produtos transportados sejam expedidos directamente das fábricas para as explorações pecuárias utilizadoras;\n\nb) Serem acompanhados de guia de remessa, passada pelo fabricante, onde obrigatòriamente deverão constar as indicações exigidas nos termos do artigo 8.º desta portaria."
   },
-  "8c84496f8a2994ae": {
+  "1ada4c3958c01930": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 10.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 10.º\n\nA incorporação nos alimentos compostos dos alimentos simples a seguir referidos fica sujeita às limitações que se indicam:\n\n1.ª Grão da «gramicha»:\n\nO grão da «gramicha» não poderá ser incorporado nos alimentos compostos destinados a equídeos e nos destinados a suínos não deverá ser utilizado em percentagem superior a 10 por cento.\n\n2.ª Alfarroba:\n\nNão é permitida a utilização de farinha de alfarroba nos alimentos compostos destinados a animais em crescimento, ficando limitada a sua incorporação ao máximo de 10 por cento nos destinados a ruminantes e equídeos e 5 por cento nos destinados à engorda de suínos.\n\n3.ª Bagaço de algodão:\n\nNão é permitida a incorporação de bagaço de algodão nos alimentos destinados a aves em postura, podendo, contudo, entrar na composição de outros alimentos, desde que a percentagem de gossipol livre não ultrapasse 0,01 por cento no caso dos alimentos compostos destinados a aves, suínos e equídeos.\n\n4.ª Bagaço de amendoim:\n\nO bagaço de amendoim não poderá ser incorporado nos alimentos destinados a patos e equídeos."
+   "markdown": "###### Artigo 10.º\n\n(Revogado.)"
   },
-  "21ce2e8df02990f1": {
+  "7d4dd02bfd09b4df": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 11.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 11.º\n\nEsta portaria entra imediatamente em vigor, excepto no que respeita às características mencionadas nos artigos 1.º, 3.º, 4.º e 6.º, em que é dado o prazo de 60 dias para elaboração de novas etiquetas e 120 dias para efeitos de fiscalização, a partir da data da sua publicação.\n\nSecretarias de Estado do Comércio e da Indústria, 5 de Julho de 1967. - O Secretário de Estado do Comércio, Fernando Manuel Alves Machado. - O Secretário de Estado da Indústria, Manuel Rafael Amaro da Costa."
+   "markdown": "###### Artigo 11.º\n\n(Revogado.)\n\nSecretarias de Estado do Comércio e da Indústria, 5 de Julho de 1967. - O Secretário de Estado do Comércio, Fernando Manuel Alves Machado. - O Secretário de Estado da Indústria, Manuel Rafael Amaro da Costa."
   }
  }
 }

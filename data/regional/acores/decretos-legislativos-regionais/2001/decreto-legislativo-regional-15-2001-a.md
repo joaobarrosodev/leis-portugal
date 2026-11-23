@@ -54,9 +54,12 @@ version_history:
     changes: []
   - date: '2006-04-07'
     amending: pt:dre:652897:por
-    amending_title: Decreto Legislativo Regional n.º 15/2006/A
+    amending_title: Decreto Legislativo Regional n.º 15/2006/A; Decreto Legislativo Regional n.º 22/2005/A; Decreto Legislativo
+      Regional n.º 29/2005/A
     changes:
     - Revoga Artigo 7.º
+    - Revoga Artigo 8
+    - Revoga Artigo 11
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/declegreg/15/2001/08/04/a/dre/pt/html
@@ -83,7 +86,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:19:26Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Legislativo Regional n.º
-    15/2006/A. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/acores/decretos-legislativos-regionais/2001/decreto-legislativo-regional-15-2001-a.alteracoes.json'
+    15/2006/A. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/acores/decretos-legislativos-regionais/2001/decreto-legislativo-regional-15-2001-a.alteracoes.json.
+    Revogações registadas só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Decreto
+    Legislativo Regional n.º 22/2005/A; Decreto Legislativo Regional n.º 29/2005/A.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -225,9 +230,9 @@ As áreas curriculares disciplinares e não disciplinares, os limites da respect
 
 ###### Artigo 8.º — Matrícula e controlo da assiduidade
 
-1 - As regras a seguir na matrícula, na renovação da matrícula e no controlo da assiduidade dos alunos dos ensinos básico e secundário, em qualquer das suas modalidades, são fixadas por portaria do secretário regional competente em matéria de educação.
+(Revogado.)
 
-2 - O Governo Regional adoptará as medidas necessárias ao efectivo cumprimento da escolaridade obrigatória.
+> Revogado pelo/a [Decreto Legislativo Regional n.º 22/2005/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2005-241856), publicado em 2005-08-05.
 
 ###### Artigo 9.º — Calendário escolar
 
@@ -245,7 +250,9 @@ A fixação do calendário escolar é regulamentada por portaria do secretário 
 
 2 - As provas a que se refere o número anterior, bem como o enquadramento do processo de realização das provas nacionais, serão regulamentadas por portaria do secretário regional competente em matéria de educação.
 
-3 - Ouvidos os parceiros educativos, por decreto regulamentar regional são fixadas as normas a seguir na avaliação interna e externa da qualidade do sistema educativo e das escolas, no que respeita às diversas modalidades dos ensinos básico e secundário.
+3 - (Revogado.)
+
+> Revogado pelo/a [Decreto Legislativo Regional n.º 29/2005/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2005-489560), publicado em 2005-12-06, com efeitos a partir de 2005-12-07.
 
 ###### Artigo 12.º — Formação profissional
 

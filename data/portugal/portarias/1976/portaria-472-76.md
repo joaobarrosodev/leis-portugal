@@ -43,9 +43,10 @@ version_history:
     changes: []
   - date: '1983-12-14'
     amending: pt:dre:443152:por
-    amending_title: Portaria n.º 1028/83
+    amending_title: Portaria n.º 1028/83; Portaria n.º 181-A/77; Portaria n.º 636/77
     changes:
     - Altera Artigo unidades 15-15
+    - Revoga anexo ou texto fora do articulado
 identifiers:
   celex: null
   eli: null
@@ -72,7 +73,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T05:05:23Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1028/83. Método e verificação:
-    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1976/portaria-472-76.alteracoes.json'
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1976/portaria-472-76.alteracoes.json. Revogações registadas
+    só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Portaria n.º 181-A/77;
+    Portaria n.º 636/77.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -190,7 +193,9 @@ Regime geral de preços
 
 2.º Os preços a praticar em todos os estabelecimentos hoteleiros e similares de e sem interesse para o turismo ficam sujeitos obrigatoriamente ao sistema «tudo incluído» instituído pelo [Decreto-Lei n.º 137/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-1973-675061), de 30 de Março;
 
-3.º Os preços de serviço de cafetaria dos estabelecimentos hoteleiros e similares de e sem interesse para o turismo ficam sujeitos ao regime de preços controlados, fixando-se como preços máximos praticados os das tabelas acordadas e reservando-se às Direcções-Gerais do Turismo e do Comércio Alimentar o direito de só aprovarem alterações por grupos de empresas e não casuisticamente;
+3.º - (Revogado.)
+
+> Revogado pelo/a [Portaria n.º 636/77](https://diariodarepublica.pt/dr/detalhe/portaria/636-1977-279184), publicado em 1977-10-06, com efeitos a partir de 1977-11-01.
 
 4.º Os preços do serviço de restaurantes (serviço de refeições tradicionalmente designado por «serviço à carta» a praticar nos estabelecimentos hoteleiros e nos similares de hoteleiros classificados no grupo 1 e a que se refere o n.º 1 do artigo 18.º do [Decreto-Lei n.º 49399](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49399-1969-217109), de ou sem interesse para o turismo, ficam sujeitos ao regime de preços livres.
 
@@ -222,25 +227,25 @@ II
 
 Dos estabelecimentos hoteleiros
 
-10.º Os preços do aposento e das refeições completas nos estabelecimentos hoteleiros estão sujeitos às normas fixadas pela [Portaria n.º 168/75](https://diariodarepublica.pt/dr/detalhe/portaria/168-1975-160735), de 7 de Março;
+10.º - (Revogado.)
 
-11.º Até 31 de Março de 1977, os preços dos serviços referidos no número anterior serão os constantes da tabela anexa à presente portaria.
+> Revogado pelo/a [Portaria n.º 181-A/77](https://diariodarepublica.pt/dr/detalhe/portaria/181-a-1977-289213), publicado em 1977-03-31, com efeitos a partir de 1977-04-01.
 
-12.º Os preços dos serviços complementares prestados nos estabelecimentos hoteleiros, designadamente os de lavandaria, sauna e piscina, ficam sujeitos ao regime de preços declarados.
+11.º - (Revogado.)
 
-13.º O n.º 4.º da [Portaria n.º 168/75](https://diariodarepublica.pt/dr/detalhe/portaria/168-1975-160735) passa a ter a seguinte redacção:
+12.º - (Revogado.)
 
-4.º Ao hóspede, quando da sua entrada no estabelecimento, deverá obrigatoriamente ser entregue um cartão do modelo anexo, devidamente preenchido, e que conterá no mínimo o nome do cliente, a identificação do estabelecimento, o número do quarto e o seu preço, o que não poderá ser alterado durante a sua estada.
+13.º - (Revogado.)
 
-14.º Do preço do aposento fazem parte integrante os serviços de alojamento e pequeno-almoço «continental».
+14.º - (Revogado.)
 
-15.º Sempre que o cliente opte pelo serviço de pequeno-almoço «à inglesa», poder-lhe-á ser cobrado um suplemento correspondente à diferença do preço.
+15.º - (Revogado.)
 
-16.º Quando um quarto duplo for ocupado por uma pessoa, ao preço do aposento será obrigatoriamente descontado o valor correspondente ao preço de um pequeno-almoço.
+16.º - (Revogado.)
 
-17.º Sempre que o estabelecimento esteja impossibilitado de fornecer ao cliente o serviço de pequeno-almoço, o valor correspondente ao preço deste será obrigatoriamente descontado no preço do aposento.
+17.º - (Revogado.)
 
-18.º Salvo os casos previstos nos n.os 16.º e 17.º, não poderá ser cobrado ao cliente qualquer quantia pelo serviço de pequeno-almoço, nem exigido ao hoteleiro qualquer desconto.
+18.º - (Revogado.)
 
 III
 

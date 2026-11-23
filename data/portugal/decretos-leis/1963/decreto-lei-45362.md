@@ -44,9 +44,10 @@ version_history:
     changes: []
   - date: '1982-08-19'
     amending: pt:dre:397481:por
-    amending_title: Decreto-Lei n.º 334/82
+    amending_title: Decreto-Lei n.º 334/82; Decreto-Lei n.º 48678
     changes:
     - Altera Artigo 5.º
+    - Revoga Artigo 2
 identifiers:
   celex: null
   eli: null
@@ -73,7 +74,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T21:47:02Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 334/82. Método e
-    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1963/decreto-lei-45362.alteracoes.json'
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1963/decreto-lei-45362.alteracoes.json.
+    Revogações registadas só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Decreto-Lei
+    n.º 48678.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -144,11 +147,9 @@ As fotocópias, autenticadas com o selo branco e assinatura do responsável pelo
 
 ###### Artigo 2.º
 
-Os pagamentos nas tesourarias das câmaras municipais, até ao relaxe, provenientes de impostos ou outros rendimentos municipais poderão efectuar-se em moeda corrente, por vales de correio ou por cheque da Caixa Geral de Depósitos, Crédito e Previdência, ou pela mesma Caixa visado, de harmonia com o disposto no [Decreto-Lei n.º 32677](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32677-1943-594102) e do [Decreto n.º 32678](https://diariodarepublica.pt/dr/detalhe/decreto/32678-1943-594103), ambos de 20 de Fevereiro de 1943.
+(Revogado.)
 
-§ 1.º Os cheques serão passados ou endossados à ordem do tesoureiro da câmara à qual tenha de efectuar-se o pagamento, devendo os cheques visados conter a sobrecarga «Pagamento de dívidas às câmaras municipais».
-
-§ 2.º Todos os cheques recebidos nas tesourarias das câmaras para os fins previstos neste artigo serão obrigatòriamente depositados, nos termos do artigo 699.º do Código Administrativo.
+> Revogado pelo/a [Decreto-Lei n.º 48678](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48678-1968-263553), publicado em 1968-11-12.
 
 ###### Artigo 3.º
 

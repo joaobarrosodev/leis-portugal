@@ -53,11 +53,13 @@ version_history:
     changes: []
   - date: '2001-10-09'
     amending: pt:dre:621142:por
-    amending_title: Portaria n.º 1167/2001
+    amending_title: Portaria n.º 1167/2001; Portaria n.º 1166/2001
     changes:
     - Revoga Artigo ANEXO::11.º
     - Revoga Artigo ANEXO::15.º
     - Revoga Artigo ANEXO::18.º
+    - Revoga Artigo 12
+    - Revoga Artigo 16
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/496/1996/09/18/p/dre/pt/html
@@ -84,7 +86,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T13:31:03Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1167/2001. Método e
-    verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1996/portaria-496-96.alteracoes.json'
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1996/portaria-496-96.alteracoes.json. Revogações
+    registadas só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Portaria n.º
+    1166/2001.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -276,37 +280,9 @@ d) O montante do apoio financeiro pretendido.
 
 ###### Artigo 12.º — Instrução do pedido de apoio à produção
 
-1 - Nos concursos para apoio financeiro à produção, o requerimento a que se refere o artigo 10.º deve ser instruído com os seguintes documentos e menções:
+(Revogado.)
 
-a) Certidão do registo comercial da entidade ou entidades produtoras ou, no caso de produtores estrangeiros, documento equiparável que identifique os seus titulares e administradores;
-
-b) Currículo do realizador, com menção dos prémios e distinções que tenha recebido e dos festivais em que tenha participado;
-
-c) Currículo do produtor ou co-produtores;
-
-d) Guião cinematográfico ou descrição detalhada dos objectivos do projecto do ponto de vista formal e dos conteúdos;
-
-e) Sinopse;
-
-f) Formato e suporte;
-
-g) Duração prevista;
-
-h) Locais de filmagem;
-
-i) Datas previstas de rodagem, montagem e sonorização e data de entrega da cópia síncrona ou, no caso de projectos em vídeo, de cópia com qualidade broadcast;
-
-j) Outros elementos considerados relevantes para a caracterização do projecto;
-
-l) Autorizações do realizador, do argumentista e do autor de obra preexistente prestadas nos termos do Código do Direito de Autor e Direitos Conexos;
-
-m) Previsão orçamental, segundo modelo do IPACA, e montagem financeira do projecto, sendo obrigatória, em caso de financiamentos exteriores, a previsão quantificada de cada um deles, a sua proveniência e a sua calendarização;
-
-n) Contratos de distribuição e difusão da obra cinematográfica, já celebrados ou negociados, quando os houver;
-
-o) Declarações comprovativas da inexistência de obrigações por cumprir perante a administração fiscal e a segurança social.
-
-2 - Quando o pedido for apresentado por um realizador é dispensada a apresentação dos documentos referidos nas alíneas a), c) e o).
+> Revogado pelo/a [Portaria n.º 1166/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1166-2001-621141), publicado em 2001-10-04, com efeitos a partir de 2001-10-05.
 
 ###### Artigo 13.º — Admissão das candidaturas
 
@@ -338,27 +314,7 @@ o) Declarações comprovativas da inexistência de obrigações por cumprir pera
 
 ###### Artigo 16.º — Critérios de selecção para o apoio à produção
 
-Nos concursos para o apoio à produção de documentários, a selecção dos projectos a apoiar é feita com base nos seguintes critérios:
-
-a) Interesse geral do documentário, no plano cultural e artístico;
-
-b) Oportunidade do documentário, do ponto de vista da sua relação com temas ou factos marcantes da actualidade;
-
-c) Relevância do documentário para o conhecimento da realidade, da história e da cultura portuguesas;
-
-d) Qualidade técnica e artística do projecto;
-
-e) Importância da componente nacional da obra, do ponto de vista das equipas e estabelecimentos técnicos utilizados;
-
-f) Currículo do realizador;
-
-g) Currículo do produtor ou produtores da obra;
-
-h) Consistência da previsão orçamental;
-
-i) Garantia de existência e montante dos financiamentos exteriores ao IPACA, quando os houver;
-
-j) Garantias de distribuição e difusão pública da obra em salas de cinema ou em televisão, quando as houver.
+(Revogado.)
 
 ###### Artigo 17.º — Decisão final
 

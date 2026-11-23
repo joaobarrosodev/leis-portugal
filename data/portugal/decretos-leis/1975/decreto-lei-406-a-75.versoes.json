@@ -15,7 +15,7 @@
    ]
   },
   {
-   "date": "1977-06-14",
+   "date": "1978-04-30",
    "future": false,
    "acts": [
     {
@@ -29,17 +29,24 @@
      "title": "Portaria n.º 354/77",
      "published": "1977-06-14",
      "dre_path": "/dr/detalhe/portaria/354-1977-253431"
+    },
+    {
+     "id": "pt:dre:425528:por",
+     "title": "Decreto-Lei n.º 81/78",
+     "published": "1978-04-29",
+     "dre_path": "/dr/detalhe/decreto-lei/81-1978-425528"
     }
    ],
    "changes": [
     "Altera Artigo 11.º",
-    "Altera anexo ou texto fora do articulado"
+    "Altera anexo ou texto fora do articulado",
+    "Revoga Artigo 3"
    ],
    "fragments": [
     "e2d4bf91c45dc45c",
     "4fefec95595b8104",
     "a4c89ba764033945",
-    "2d065a3198222edf",
+    "6494b358b0935790",
     "2ada7c1155187edf",
     "8b3ba72d4f893d82",
     "7a6b6abb86f6d00c",
@@ -91,13 +98,15 @@
    "changed_by": [],
    "markdown": "###### Artigo 2.º\n\n1. Aos proprietários atingidos pela expropriação que não se encontrem abrangidos pelas alíneas b) ou c) do artigo anterior é garantido o direito de reservar a propriedade de uma área de terra, a demarcar em função do ordenamento global das explorações a estabelecer, até ao limite equivalente a 50000 pontos, de harmonia com a tabela anexa a este diploma, desde que preencham, cumulativamente, os requisitos seguintes:\n\na) Explorem directamente a terra de que são proprietários;\n\nb) Retirem exclusiva ou predominantemente da exploração agrícola directa os seus meios de subsistência e de sua família;\n\nc) Não tenham já exercido o direito de reserva previsto em qualquer outro diploma legal.\n\n2. O desaparecimento superveniente de algum dos requisitos exigidos nas alíneas a) e b) do número anterior sujeitará a expropriação a área reservada.\n\n3. Não gozam de direito de reserva as pessoas colectivas, quer se trate de sociedades comerciais ou civis sob forma comercial, fundações ou outras associações.\n\n4. A propriedade resultante do exercício do direito de reserva só pode ser transmitida, por sucessão, a favor de herdeiros legítimos ou, mediante negócios entre vivos, a favor do Estado."
   },
-  "2d065a3198222edf": {
+  "6494b358b0935790": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 3.º",
-   "in_force_from": null,
-   "changed_by": [],
-   "markdown": "###### Artigo 3.º\n\n1. O direito de reserva previsto no artigo anterior caduca se não for exercido, através de declaração escrita enviada ao Instituto de Reorganização Agrária, no prazo de quinze dias a contar da notificação, para o efeito, do proprietário ou de quem o represente.\n\n2. Independentemente da notificação referida no número anterior, o direito de reserva caduca no prazo de vinte dias a contar da afixação de editais nas juntas de freguesia e câmaras municipais em cuja área se situem os prédios expropriados.\n\n3. A declaração de exercício do direito de reserva deverá ser acompanhada, sob pena de ineficácia, de uma outra de que conste a relação dos prédios rústicos e urbanos de que o reservante é proprietário, tendo em conta o disposto nos artigos 15.º e 16.º deste diploma.\n\n4. Tanto a notificação referida no n.º 1 deste artigo como a declaração de exercício de direito de reserva serão efectuadas através de carta registada com aviso de recepção."
+   "in_force_from": "1978-04-30",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 81/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1978-425528), publicado em 1978-04-29, com efeitos a partir de 1978-04-30."
+   ],
+   "markdown": "###### Artigo 3.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 81/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1978-425528), publicado em 1978-04-29, com efeitos a partir de 1978-04-30."
   },
   "2ada7c1155187edf": {
    "fragment_id": null,
@@ -159,7 +168,7 @@
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 11.º",
-   "in_force_from": "1977-06-14",
+   "in_force_from": "1978-04-30",
    "changed_by": [
     "Alterado pelo/a [Decreto-Lei n.º 895/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/895-1976-416472), publicado em 1976-12-30."
    ],
@@ -217,7 +226,7 @@
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 18.º",
-   "in_force_from": "1977-06-14",
+   "in_force_from": "1978-04-30",
    "changed_by": [
     "Alterado pelo/a [Portaria n.º 354/77](https://diariodarepublica.pt/dr/detalhe/portaria/354-1977-253431), publicado em 1977-06-14."
    ],

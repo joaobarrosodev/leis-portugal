@@ -31,7 +31,7 @@ version:
   kind: consolidated
   label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: '2014-07-05'
+  consolidation_date: '2016-01-01'
 version_history:
   file: decreto-legislativo-regional-2-2014-a.versoes.json
   count: 2
@@ -41,11 +41,14 @@ version_history:
     amending: null
     amending_title: null
     changes: []
-  - date: '2014-07-05'
+  - date: '2016-01-01'
     amending: pt:dre:25345659:por
-    amending_title: Decreto Legislativo Regional n.º 11/2014/A
+    amending_title: Decreto Legislativo Regional n.º 11/2014/A; Decreto Legislativo Regional n.º 14/2014/A; Decreto Legislativo
+      Regional n.º 27/2015/A
     changes:
     - Altera Artigo 15.º
+    - Revoga Artigo 43
+    - Revoga Artigo 25
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/declegreg/2/2014/01/29/a/dre/pt/html
@@ -72,7 +75,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:21:54Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Legislativo Regional n.º
-    11/2014/A. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/acores/decretos-legislativos-regionais/2014/decreto-legislativo-regional-2-2014-a.alteracoes.json'
+    11/2014/A. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/acores/decretos-legislativos-regionais/2014/decreto-legislativo-regional-2-2014-a.alteracoes.json.
+    Revogações registadas só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Decreto
+    Legislativo Regional n.º 14/2014/A; Decreto Legislativo Regional n.º 27/2015/A.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -621,19 +626,9 @@ O regime excecional previsto no presente diploma é aplicável aos contratos de 
 
 ###### Artigo 25.º — Alteração ao [Decreto Legislativo Regional n.º 3/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2012-544588), de 13 de janeiro
 
-O artigo 24.º do [Decreto Legislativo Regional n.º 3/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2012-544588), de 13 de janeiro, passa a ter a seguinte redação:
+(Revogado.)
 
-«Artigo 24.º
-
-[...]
-
-1 - (...)
-
-2 - (...)
-
-3 - (...)
-
-4 - O disposto nos números anteriores aplica-se, com as devidas adaptações, aos contratos de subempreitada de obras públicas.»
+> Revogado pelo/a [Decreto Legislativo Regional n.º 27/2015/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2015-72970526), publicado em 2015-12-29, com efeitos a partir de 2016-01-01.
 
 ###### Artigo 26.º — Isenção de caução nos contratos de empreitada e subempreitada de obras públicas
 
@@ -847,49 +842,9 @@ O artigo 40.º do [Decreto Legislativo Regional n.º 19/2007/A](https://diarioda
 
 Quinta alteração ao Decreto Legislativo Regional nº 8/2002/A, de 10 de abril, alterado pelos Decretos Legislativos Regionais nºs 22/2007/A, de 23 de outubro, 6/2010/A, 23 de fevereiro, 3/2012/A, de 13 de janeiro e 3/2013/A, de 23 de maio, que estabelece o regime jurídico da atribuição do acréscimo regional à retribuição mínima mensal garantida, do complemento regional de pensão e da remuneração complementar regional.
 
-1 - Os artigos 9.º, 10.º, 11.º e 13.º do [Decreto Legislativo Regional n.º 8/2002/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2002-303252), de 10 de abril, alterado pelos Decretos Legislativos Regionais n.º s 22/2007/A, de 23 de outubro, 6/2010/A, 23 de fevereiro, 3/2012/A, de 13 de janeiro e 3/2013/A, de 23 de maio, passam a ter seguinte redação:
+(Revogado.)
 
-«Artigo 9.º
-
-(...)
-
-A remuneração complementar regional é abonada nas situações em que a remuneração é paga de uma só vez, sendo-lhe aplicável o regime da remuneração base quanto a faltas e processo de pagamento, sobre ela incidindo os descontos obrigatórios previstos na Lei.
-
-Artigo 10.º
-
-(...)
-
-1 - Beneficiam da remuneração complementar os trabalhadores que exercem funções públicas na administração pública regional e local da Região Autónoma dos Açores, nos termos do artigo seguinte.
-
-2 - A atribuição da remuneração complementar aos trabalhadores do setor público empresarial regional e respetiva tabela faz-se nos termos de resolução do Governo Regional.
-
-3 - A decisão de atribuição da remuneração complementar aos trabalhadores das autarquias e do setor empresarial municipal compete aos respetivos órgãos decisórios, constando a respetiva tabela da resolução a que se refere o número anterior.
-
-Artigo 11.º
-
-(...)
-
-1 - A remuneração complementar regional é atribuída aos trabalhadores que aufiram remuneração base até (euro) 3 050,00 inclusive, conforme tabela anexa ao presente diploma, do qual faz parte integrante.
-
-2 - Para o cálculo da remuneração complementar é tido como valor de referência o montante de (euro) 100.
-
-3 - Ao valor da remuneração complementar são deduzidos os suplementos remuneratórios derivados de trabalho suplementar, extraordinário, ou em dias de descanso e feriados, ou outros de idêntica natureza.
-
-4 - Sempre que da atribuição da remuneração complementar resulte uma inversão relativa da remuneração dos trabalhadores, a remuneração complementar será reduzida na diferença desse montante.
-
-Artigo 13.º
-
-(...)
-
-1 - (...)
-
-2 - A atualização do valor de referência da remuneração complementar será feita através de resolução do Conselho do Governo Regional.
-
-3 - (Anterior n.º 2).»
-
-2 - Ao [Decreto Legislativo Regional n.º 8/2002/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2002-303252), de 10 de abril, é aditado o seguinte Anexo:
-
-## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/02000/0070300739.pdf)
+> Revogado pelo/a [Decreto Legislativo Regional n.º 14/2014/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2014-55042849), publicado em 2014-08-01, com efeitos a partir de 2014-08-02.
 
 ###### Artigo 44.º — Defesa e promoção da identidade açoriana
 

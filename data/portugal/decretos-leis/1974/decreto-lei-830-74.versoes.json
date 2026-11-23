@@ -35,16 +35,23 @@
      "title": "Portaria n.º 850/81",
      "published": "1981-09-25",
      "dre_path": "/dr/detalhe/portaria/850-1981-563777"
+    },
+    {
+     "id": "pt:dre:430025:por",
+     "title": "Decreto-Lei n.º 513-T/79",
+     "published": "1979-12-26",
+     "dre_path": "/dr/detalhe/decreto-lei/513-t-1979-430025"
     }
    ],
    "changes": [
     "Altera Artigo 24.º",
-    "Altera anexo ou texto fora do articulado"
+    "Altera anexo ou texto fora do articulado",
+    "Revoga Artigo 2"
    ],
    "fragments": [
     "1ac3a8860542086a",
     "d42eab6bd80236a0",
-    "190d896c475fe628",
+    "7af45172046a8ab2",
     "239988579e5257f5",
     "b40da2433fea44a1",
     "a66bac1142460841",
@@ -110,13 +117,15 @@
    "changed_by": [],
    "markdown": "###### Artigo 1.º\n\n1. Passam a ser designados por institutos superiores de engenharia os actuais institutos industriais.\n\n2. O Instituto Industrial e Comercial de Coimbra desdobra-se em Instituto Superior de Engenharia de Coimbra e Instituto Comercial de Coimbra, regendo-se o primeiro pelas disposições deste decreto-lei."
   },
-  "190d896c475fe628": {
+  "7af45172046a8ab2": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 2.º",
-   "in_force_from": null,
-   "changed_by": [],
-   "markdown": "###### Artigo 2.º\n\n1. Os institutos superiores de engenharia são escolas de nível universitário, dotados de personalidade jurídica e de autonomia administrativa.\n\n2. Neles se conferem os graus de bacharelato, licenciatura e doutoramento.\n\n3. Podem os referidos institutos ser integrados nas Universidades por acordo de ambas as partes."
+   "in_force_from": "1981-09-25",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 513-T/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-t-1979-430025), publicado em 1979-12-26."
+   ],
+   "markdown": "###### Artigo 2.º\n\n1. Os institutos superiores de engenharia são escolas de nível universitário, dotados de personalidade jurídica e de autonomia administrativa.\n\n2. Neles se conferem os graus de bacharelato, licenciatura e doutoramento.\n\n3. (Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 513-T/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-t-1979-430025), publicado em 1979-12-26."
   },
   "239988579e5257f5": {
    "fragment_id": null,

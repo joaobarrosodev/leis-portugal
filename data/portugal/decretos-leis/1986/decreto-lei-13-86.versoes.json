@@ -37,7 +37,7 @@
    ]
   },
   {
-   "date": "1988-01-20",
+   "date": "1990-10-15",
    "future": false,
    "acts": [
     {
@@ -51,18 +51,35 @@
      "title": "Declaração",
      "published": "1986-04-30",
      "dre_path": "/dr/detalhe/declaracao/1986-403132"
+    },
+    {
+     "id": "pt:dre:667147:por",
+     "title": "Decreto-Lei n.º 321-B/90",
+     "published": "1990-10-15",
+     "dre_path": "/dr/detalhe/decreto-lei/321-b-1990-667147"
     }
    ],
    "changes": [
     "Altera Artigo 3.º",
     "Retifica Artigo 4",
-    "Retifica Artigo 10"
+    "Retifica Artigo 10",
+    "Revoga Artigo 1",
+    "Revoga Artigo 2",
+    "Revoga Artigo 3",
+    "Revoga Artigo 14",
+    "Revoga Artigo 15",
+    "Revoga Artigo 16",
+    "Revoga Artigo 17",
+    "Revoga Artigo 18",
+    "Revoga Artigo 19",
+    "Revoga Artigo 21",
+    "Revoga Artigo 22"
    ],
    "fragments": [
     "9d3714c3b1479fd3",
-    "979a9030daac8bfc",
-    "a38dc40fe37248a0",
-    "343c613974570b6d",
+    "e5600e23b4eb1e17",
+    "ca523b0b798d3b8a",
+    "082f4adefe35f0f0",
     "4445bfba3cc1086c",
     "c7d5fe1ae54ba4ff",
     "3c9883dba952e81d",
@@ -73,15 +90,15 @@
     "796d618df165bed3",
     "4f597a42357986e1",
     "63bc1586be5ebf7c",
-    "d0ecbf7b76c02e29",
-    "f2f28c28f73a6afc",
-    "85e01ca758b27522",
-    "96aa3bc7ac9dcb9e",
-    "973dc6013630ad90",
-    "879c1a43b7880a34",
+    "1d41d0402c9b067f",
+    "1ac7df138f2966fc",
+    "af8aaa1860002b20",
+    "5698a0c6f6586a0b",
+    "542272218f08e751",
+    "8af6f3f045160f6a",
     "dff5027bac3bb63b",
-    "7c93adea2688b3b6",
-    "c504f774d3f3327b"
+    "9c83e3bf721b34e3",
+    "8739bbd84bdc3c7b"
    ]
   }
  ],
@@ -270,21 +287,39 @@
    "changed_by": [],
    "markdown": "###### Artigo 22.º — (Entrada em vigor)\n\nO presente decreto-lei entra em vigor no dia imediato ao da sua publicação.\n\nVisto e aprovado em Conselho de Ministros de 26 de Dezembro de 1985. - Aníbal António Cavaco Silva - Mário Ferreira Bastos Raposo - João Maria Leitão de Oliveira Martins.\n\nPromulgado em 8 de Janeiro de 1986.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nReferendado em 13 de Janeiro de 1986.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.\n\nTabela a que se refere o artigo 8.º\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/01/01900/02400243.pdf)"
   },
-  "343c613974570b6d": {
+  "e5600e23b4eb1e17": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — (Contrato de arrendamento)",
+   "in_force_from": "1990-10-15",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 321-B/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-b-1990-667147), publicado em 1990-10-15."
+   ],
+   "markdown": "###### Artigo 1.º — (Contrato de arrendamento)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 321-B/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-b-1990-667147), publicado em 1990-10-15."
+  },
+  "ca523b0b798d3b8a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — (Menções obrigatórias do contrato)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — (Menções obrigatórias do contrato)\n\n(Revogado.)"
+  },
+  "082f4adefe35f0f0": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 3.º — Iniciativa da actualização ou correcção",
-   "in_force_from": "1988-01-20",
+   "in_force_from": "1990-10-15",
    "changed_by": [
     "Alterado pelo/a [Decreto-Lei n.º 9/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-1988-283366), publicado em 1988-01-15."
    ],
-   "markdown": "###### Artigo 3.º — Iniciativa da actualização ou correcção\n\n1 - Quando o senhorio pretender actualizar a renda, nos termos do artigo 6.º da [Lei n.º 46/85](https://diariodarepublica.pt/dr/detalhe/lei/46-1985-177451), comunicará ao arrendatário, com a antecedência mínima de 30 dias, por meio de carta registada com aviso de recepção, o montante da nova renda e o coeficiente utilizado no seu cálculo.\n\n2 - A correcção anual da renda, nos termos do artigo 12.º da referida lei, está sujeita a comunicação, com formalidades idênticas às mencionadas no número anterior.\n\n> Alterado pelo/a [Decreto-Lei n.º 9/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-1988-283366), publicado em 1988-01-15."
+   "markdown": "###### Artigo 3.º — Iniciativa da actualização ou correcção\n\n(Revogado.)\n\n> Alterado pelo/a [Decreto-Lei n.º 9/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-1988-283366), publicado em 1988-01-15."
   },
   "4445bfba3cc1086c": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 4.º — (Valor dos fogos em renda condicionada)",
-   "in_force_from": "1988-01-20",
+   "in_force_from": "1990-10-15",
    "changed_by": [
     "Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1986-403132), publicado em 1986-04-30."
    ],
@@ -297,6 +332,70 @@
    "in_force_from": null,
    "changed_by": [],
    "markdown": "###### Artigo 10.º — (Comissões de avaliação)\n\n1 - Para as avaliações previstas nos artigos anteriores são competentes as comissões de avaliação constituídas nos termos do artigo 5.º do Decreto n.º 37021, de 21 de Agosto de 1948, com a redacção que lhe foi dada pelo Decreto Regulamentar n.º 1/86, de 2 de Janeiro.\n\n2 - As comissões de avaliação referidas no número anteiror serão ainda integradas por um representante do senhorio e um do arrendatário, indicados pelos mesmos ou pelas suas associações representativas.\n\n3 - A indicação dos representantes do arrendatário e do senhorio deverá ser feita no momento em que intervêm no processo de avaliação.\n\n4 - Com a contestação, o arrendatário ou o senhorio indicarão, além de tudo o mais que for pertinente à defesa da sua posição, os coeficientes que consideram aplicáveis em concreto e o consequente valor da renda.\n\n5 - A repartição de finanças deverá, dentro do prazo de 15 dias, a contar da entrada da contestação do arrendatário ou do termo do prazo para a sua apresentação, notificar todos os louvados, por meio de carta registada com aviso de recepção, da constituição da comissão de avaliação."
+  },
+  "1d41d0402c9b067f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — (Obras urgentes)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — (Obras urgentes)\n\n(Revogado.)"
+  },
+  "1ac7df138f2966fc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — (Juros das despesas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — (Juros das despesas)\n\n(Revogado.)"
+  },
+  "af8aaa1860002b20": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — (Restituição de rendas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — (Restituição de rendas)\n\n(Revogado.)"
+  },
+  "5698a0c6f6586a0b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — (Regulamentação)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — (Regulamentação)\n\n(Revogado.)"
+  },
+  "542272218f08e751": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — (Actualização de rendas condicionadas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — (Actualização de rendas condicionadas)\n\n(Revogado.)"
+  },
+  "8af6f3f045160f6a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — (Norma interpretativa)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — (Norma interpretativa)\n\n(Revogado.)"
+  },
+  "9c83e3bf721b34e3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — (Legislação revogada)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — (Legislação revogada)\n\n(Revogado.)"
+  },
+  "8739bbd84bdc3c7b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — (Entrada em vigor)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — (Entrada em vigor)\n\n(Revogado.)\n\nVisto e aprovado em Conselho de Ministros de 26 de Dezembro de 1985. - Aníbal António Cavaco Silva - Mário Ferreira Bastos Raposo - João Maria Leitão de Oliveira Martins.\n\nPromulgado em 8 de Janeiro de 1986.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nReferendado em 13 de Janeiro de 1986.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.\n\nTabela a que se refere o artigo 8.º\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/01/01900/02400243.pdf)"
   }
  }
 }

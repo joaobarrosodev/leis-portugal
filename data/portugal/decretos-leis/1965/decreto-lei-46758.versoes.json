@@ -32,10 +32,17 @@
      "title": "Decreto-Lei n.º 752/74",
      "published": "1974-12-28",
      "dre_path": "/dr/detalhe/decreto-lei/752-1974-595085"
+    },
+    {
+     "id": "pt:dre:226022:por",
+     "title": "Decreto-Lei n.º 178/70",
+     "published": "1970-04-23",
+     "dre_path": "/dr/detalhe/decreto-lei/178-1970-226022"
     }
    ],
    "changes": [
-    "Altera Artigo 28.º"
+    "Altera Artigo 28.º",
+    "Revoga Artigo 67"
    ],
    "fragments": [
     "deb7fbbaa01e0643",
@@ -112,7 +119,7 @@
     "da5370f8c5509f66",
     "21da4d8a07e58a89",
     "808b7dd90f14a110",
-    "06d73a1e339e8e8c",
+    "6c2a4ba0c2c5b126",
     "5c6b96913e572da0",
     "a9cb2604caffbba5",
     "7b620909c6b2ea57",
@@ -790,13 +797,15 @@
    "changed_by": [],
    "markdown": "###### Artigo 66.º\n\nNa falta de diplomados com o curso de conservador de museu poderá abrir-se concurso documental entre habilitados com um curso superior e das extintas escolas de belas-artes, para provimento de lugares a que se refere o corpo do artigo 64.º, mas os providos só poderão permanecer na função além de três anos se dentro deste prazo concluírem o curso profissional."
   },
-  "06d73a1e339e8e8c": {
+  "6c2a4ba0c2c5b126": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 67.º",
-   "in_force_from": null,
-   "changed_by": [],
-   "markdown": "###### Artigo 67.º\n\nAs disposições dos artigos anteriores são aplicáveis ao provimento dos lugares de conservador dos palácios e monumentos nacionais."
+   "in_force_from": "1974-12-28",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 178/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-1970-226022), publicado em 1970-04-23."
+   ],
+   "markdown": "###### Artigo 67.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 178/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-1970-226022), publicado em 1970-04-23."
   },
   "5c6b96913e572da0": {
    "fragment_id": null,

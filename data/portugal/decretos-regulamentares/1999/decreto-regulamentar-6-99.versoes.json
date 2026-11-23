@@ -55,44 +55,74 @@
      "title": "Decreto-Lei n.º 1/2004",
      "published": "2004-01-02",
      "dre_path": "/dr/detalhe/decreto-lei/1-2004-240384"
+    },
+    {
+     "id": "pt:dre:654681:por",
+     "title": "Decreto-Lei n.º 186/2003",
+     "published": "2003-08-20",
+     "dre_path": "/dr/detalhe/decreto-lei/186-2003-654681"
     }
    ],
    "changes": [
-    "Revoga Artigo 2.º"
+    "Revoga Artigo 2.º",
+    "Revoga Artigo 1",
+    "Revoga Artigo 3",
+    "Revoga Artigo 4",
+    "Revoga Artigo 5",
+    "Revoga Artigo 6",
+    "Revoga Artigo 7",
+    "Revoga Artigo 8",
+    "Revoga Artigo 9",
+    "Revoga Artigo 10",
+    "Revoga anexo ou texto fora do articulado",
+    "Revoga Artigo 12",
+    "Revoga Artigo 13",
+    "Revoga Artigo 14",
+    "Revoga Artigo 15",
+    "Revoga Artigo 16",
+    "Revoga Artigo 17",
+    "Revoga Artigo 18",
+    "Revoga Artigo 19",
+    "Revoga Artigo 20",
+    "Revoga Artigo 21",
+    "Revoga Artigo 22",
+    "Revoga Artigo 23",
+    "Revoga Artigo 24",
+    "Revoga Artigo 25"
    ],
    "fragments": [
     "a58bc545b127bd67",
     "7342f7b1dcac3873",
-    "ba5c30286bc52e9f",
+    "5d9b00f4afb50474",
     "ef9680a871597987",
     "396cfe66f6d1ddf2",
-    "03a06cba230b5a67",
-    "0abaf6db07b944fc",
-    "3c0abff93feb8bae",
-    "0ec2776ac1dea987",
-    "78c0812a42a9c3a4",
-    "c94c87569ef18b55",
-    "26eee422374a500a",
-    "3c3d97970dff131d",
+    "cf41d0de1a6a31ad",
+    "abe09bcb505e1782",
+    "b0b4011daccc3fb3",
+    "577e2100d14f7b35",
+    "28233a7e893a1a19",
+    "ccdb41938f80bbe5",
+    "34e5948a45f05c3e",
+    "42a48740f42d3b39",
     "36f3030c5d1c51b6",
-    "e4fda2f268704973",
+    "5d86b839211bd9b4",
     "d55f0b5b15103b0d",
-    "d14c21ffc3170a3a",
-    "ec4183fd922abcca",
-    "ec9f2d7c5e7875d1",
-    "d5c17af97155dc61",
-    "14c5126dd62c7707",
+    "7aecfb2c40766266",
+    "b4cef44f941df822",
+    "d866f174527c9543",
+    "bd65534e79eb4389",
+    "45662586c7a6d1f3",
     "0ee6092e66af2ba3",
-    "1650ab3d7226afd4",
-    "af5300fc08266b44",
+    "cbbfeb461c0cbeb9",
+    "a45232e3f384f1e1",
     "260a9f4ecd4b5740",
-    "446411ebf5eb6bea",
-    "a618a3fccb997e33",
-    "4789fa286a8d12d4",
-    "a3722cc0f59f8958",
-    "7234feafbb3d4ddf",
-    "76247f33de3ecbea",
-    "7111e7703eb2fd0d",
+    "07ab901f9221c71b",
+    "bdc68f5672f3725a",
+    "94aa36672d2dc77a",
+    "e5335f0fa6a8d229",
+    "8464503017a1c161",
+    "a604597bc726e9e6",
+    "d693e2a0700e140b",
     "25d149074f767776"
    ]
   }
@@ -362,6 +392,16 @@
    "changed_by": [],
    "markdown": "## ANEXO — Mapa a que se refere o artigo 21.º\n\n[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/1999/05/116b00/27002704.pdf)"
   },
+  "5d9b00f4afb50474": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": "2004-01-03",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 186/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2003-654681), publicado em 2003-08-20, com efeitos a partir de 2003-08-21."
+   ],
+   "markdown": "###### Artigo 1.º — Natureza\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 186/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2003-654681), publicado em 2003-08-20, com efeitos a partir de 2003-08-21."
+  },
   "ef9680a871597987": {
    "fragment_id": null,
    "type": null,
@@ -371,6 +411,190 @@
     "Revogado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 1/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2004-240384), publicado em 2004-01-02."
    ],
    "markdown": "###### Artigo 2.º — Atribuições\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 1/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2004-240384), publicado em 2004-01-02."
+  },
+  "cf41d0de1a6a31ad": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Órgãos\n\n(Revogado.)"
+  },
+  "abe09bcb505e1782": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Director",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Director\n\n(Revogado.)"
+  },
+  "b0b4011daccc3fb3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Conselho de direcção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Conselho de direcção\n\n(Revogado.)"
+  },
+  "577e2100d14f7b35": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Serviços\n\n(Revogado.)"
+  },
+  "28233a7e893a1a19": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Direcção de Serviços de Estudos e Prospectiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Direcção de Serviços de Estudos e Prospectiva\n\n(Revogado.)"
+  },
+  "ccdb41938f80bbe5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Direcção de Serviços de Estatística e Métodos Quantitativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Direcção de Serviços de Estatística e Métodos Quantitativos\n\n(Revogado.)"
+  },
+  "34e5948a45f05c3e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Direcção de Serviços de Organização e Documentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Direcção de Serviços de Organização e Documentação\n\n(Revogado.)"
+  },
+  "42a48740f42d3b39": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Direcção de Serviços de Promoção e Relações Externas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Direcção de Serviços de Promoção e Relações Externas\n\n(Revogado.)"
+  },
+  "5d86b839211bd9b4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Divisão Administrativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Divisão Administrativa\n\n(Revogado.)"
+  },
+  "7aecfb2c40766266": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Funcionamento\n\n(Revogado.)"
+  },
+  "b4cef44f941df822": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Parcerias e cooperação com outras entidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Parcerias e cooperação com outras entidades\n\n(Revogado.)"
+  },
+  "d866f174527c9543": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Prestação de serviços e venda de publicações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Prestação de serviços e venda de publicações\n\n(Revogado.)"
+  },
+  "bd65534e79eb4389": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Receitas\n\n(Revogado.)"
+  },
+  "45662586c7a6d1f3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Despesas\n\n(Revogado.)"
+  },
+  "cbbfeb461c0cbeb9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Quadro e regime de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Quadro e regime de pessoal\n\n(Revogado.)"
+  },
+  "a45232e3f384f1e1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Formação\n\n(Revogado.)"
+  },
+  "07ab901f9221c71b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Chefes de repartição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Chefes de repartição\n\n(Revogado.)"
+  },
+  "bdc68f5672f3725a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Transição de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Transição de pessoal\n\n(Revogado.)"
+  },
+  "94aa36672d2dc77a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Situações especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Situações especiais\n\n(Revogado.)"
+  },
+  "e5335f0fa6a8d229": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Comissões de serviço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Comissões de serviço\n\n(Revogado.)"
+  },
+  "8464503017a1c161": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Produção de efeitos orçamentais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Produção de efeitos orçamentais\n\n(Revogado.)"
+  },
+  "a604597bc726e9e6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — Sucessão do Gabinete de Estudos e Planeamento pelo Gabinete de Estudos e Prospectiva Económica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Sucessão do Gabinete de Estudos e Planeamento pelo Gabinete de Estudos e Prospectiva Económica\n\n(Revogado.)"
+  },
+  "d693e2a0700e140b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Norma revogatória\n\n(Revogado.)\n\nVisto e aprovado em Conselho de Ministros de 4 de Março de 1999. - António Manuel de Oliveira Guterres - João Carlos da Costa Ferreira da Silva - Jorge Paulo Sacadura Almeida Coelho - João Cardona Gomes Cravinho - Joaquim Augusto Nunes de Pina Moura.\n\nPromulgado em 21 de Abril de 1999.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 29 de Abril de 1999.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
   }
  }
 }

@@ -54,13 +54,22 @@ version_history:
     changes: []
   - date: '2009-09-28'
     amending: pt:dre:490431:por
-    amending_title: Decreto-Lei n.º 250/2009
+    amending_title: Decreto-Lei n.º 250/2009; Decreto-Lei n.º 249/2009
     changes:
     - Revoga Artigo 4.º
     - Revoga Artigo 5.º
     - Revoga Artigo 6.º
     - Revoga Artigo 7.º
     - Revoga Artigo 14.º
+    - Revoga Artigo 1
+    - Revoga Artigo 2
+    - Revoga Artigo 3
+    - Revoga Artigo 8
+    - Revoga Artigo 9
+    - Revoga Artigo 10
+    - Revoga Artigo 11
+    - Revoga Artigo 12
+    - Revoga Artigo 13
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/401/1999/10/14/p/dre/pt/html
@@ -87,7 +96,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:11:57Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 250/2009. Método
-    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1999/decreto-lei-401-99.alteracoes.json'
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1999/decreto-lei-401-99.alteracoes.json.
+    Revogações registadas só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Decreto-Lei
+    n.º 249/2009.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -185,61 +196,17 @@ No desenvolvimento do regime jurídico estabelecido pelo artigo 49.º-A do Estat
 
 ###### Artigo 1.º — Âmbito e objectivos
 
-1 - O presente diploma visa regulamentar os benefícios fiscais contratuais, condicionados e temporários, susceptíveis de concessão ao abrigo do disposto no artigo 49.º-A, n.º 4, do Estatuto dos Benefícios Fiscais.
+(Revogado.)
 
-2 - O regime de benefícios fiscais referido no número anterior aplica-se a projectos de investimento realizados até 31 de Dezembro de 2010 que tenham em vista a internacionalização das empresas portuguesas.
-
-3 - Poderão beneficiar deste regime os investimentos directos efectuados no estrangeiro que contribuam positivamente para os resultados da empresa promotora e tenham por objecto as seguintes actividades económicas:
-
-a) Indústria transformadora tal como definida na Classificação Portuguesa das Actividades Económicas;
-
-b) Actividades turísticas;
-
-c) Actividades agrícolas, piscícolas, agro-pecuárias e florestais;
-
-d) Construção de edifícios, obras públicas e actividades de arquitectura e de engenharia conexas com aquelas;
-
-e) Comércio por grosso e a retalho;
-
-f) Ambiente, energia e telecomunicações;
-
-g) Transportes;
-
-h) Tecnologias da informação e produção de áudio-visual e multimedia.
+> Revogado pelo/a [Decreto-Lei n.º 249/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-2009-490420), publicado em 2009-09-23, com efeitos a partir de 2009-09-28.
 
 ###### Artigo 2.º — Condições de acesso
 
-1 - Podem ter acesso a benefícios fiscais em regime contratual e condicionados os projectos de investimento de montante igual ou superior a 50000 contos em aplicações relevantes que preencham cumulativamente as seguintes condições:
-
-a) Demonstrem interesse estratégico para a internacionalização da economia portuguesa;
-
-b) Demonstrem ter viabilidade técnica, económica e financeira;
-
-c) Não se localizem em zonas francas ou nos países, territórios e regiões previstos na [Portaria n.º 377-B/94](https://diariodarepublica.pt/dr/detalhe/portaria/377-b-1994-516933), de 15 de Junho.
-
-2 - Caso os projectos se realizem num Estado membro da Comunidade Europeia, o disposto no n.º 1 aplica-se exclusivamente a pequenas e médias empresas, tal como são definidas pela União Europeia.
-
-3 - Os projectos de investimento podem ser excluídos quando:
-
-a) Os promotores não possuam capacidade técnica e de gestão;
-
-b) Os promotores e o projecto de investimento não demonstrem uma situação financeira equilibrada;
-
-c) Os promotores não disponham de contabilidade regularmente organizada de acordo com a normalização contabilística e outras disposições legais em vigor para o respectivo sector de actividade, que seja adequada às análises requeridas para a apreciação e acompanhamento do projecto e permita autonomizar os efeitos do mesmo;
-
-d) O lucro tributável dos promotores seja determinado por métodos indiciários.
-
-4 - No âmbito da apreciação dos projectos de investimento são excluídos os promotores que sejam devedores ao Estado e à segurança social de quaisquer impostos ou contribuições ou não tenham o pagamento dos seus débitos devidamente assegurado.
-
-5 - Para efeitos da alínea b) do n.º 3, considera-se situação financeira equilibrada quando a autonomia financeira medida pelo coeficiente entre o capital próprio e o total do activo, ambos apurados segundo os princípios preconizados pelo Plano Oficial de Contabilidade, seja igual ou superior a 0,2.
-
-6 - Para efeitos do disposto no número anterior, podem ser considerados capitais próprios os montantes de suprimentos ou empréstimos de sócios, desde que os mesmos venham a ser incluídos no capital social antes da assinatura do contrato referido no artigo 9.º do presente diploma.
+(Revogado.)
 
 ###### Artigo 3.º — Condições de elegibilidade dos projectos
 
-1 - São elegíveis os projectos de investimento cuja realização não se tenha iniciado nos 60 dias anteriores à data da apresentação da candidatura, com excepção da elaboração de estudos directamente relacionados com o investimento.
-
-2 - Para efeitos do disposto no número anterior, considera-se que o início da realização do projecto de investimento se reporta à data do primeiro contrato ou outro documento com eficácia jurídica referente às aquisições dos activos considerados aplicações relevantes.
+(Revogado.)
 
 ###### Artigo 4.º — Benefícios fiscais
 
@@ -267,67 +234,27 @@ d) O lucro tributável dos promotores seja determinado por métodos indiciários
 
 ###### Artigo 8.º — Candidatura e apreciação dos processos
 
-1 - As empresas promotoras dos investimentos devem apresentar devidamente caracterizado e fundamentado o processo de candidatura aos benefícios fiscais nas seguintes entidades:
-
-a) ICEP - Investimentos, Comércio e Turismo de Portugal, quando se candidatem aos apoios de natureza financeira geridos por esta entidade ou exclusivamente aos benefícios fiscais;
-
-b) IAPMEI - Instituto de Apoio às Pequenas e Médias Empresas e ao Investimento, quando os projectos se candidatem a auxílios de natureza financeira geridos por esta entidade.
-
-2 - Compete ao ICEP ou ao IAPMEI, consoante o caso:
-
-a) Verificar o cumprimento das condições gerais de acesso e de elegibilidade dos projectos mencionadas nos artigos 2.º e 3.º;
-
-b) Pronunciar-se sobre o interesse do projecto quanto aos objectivos visados pelos benefícios fiscais;
-
-c) Avaliar as aplicações relevantes.
-
-3 - No exercício das competências que lhes são cometidas no número anterior, o ICEP e o IAPMEI podem recorrer à colaboração de entidades públicas ou privadas, sendo as entidades públicas solicitadas obrigadas a dar resposta ao pedido no prazo de 30 dias.
-
-4 - As entidades referidas no n.º 2 podem, no decurso da fase de verificação das candidaturas, solicitar aos promotores dos projectos esclarecimentos complementares, os quais devem ser apresentados no prazo de 45 dias, findo o qual, na ausência de resposta, quando imputável aos promotores, se considera haver desistência do procedimento.
-
-5 - O ICEP e o IAPMEI submetem o processo devidamente instruído, acompanhado do respectivo parecer técnico, nos termos do n.º 2, à DGCI - Direcção-Geral dos Impostos no prazo de 60 dias contados a partir da data de apresentação da candidatura, que será interrompido nos casos previstos no n.º 4.
-
-6 - A DGCI emite parecer quanto à matéria relativa aos benefícios fiscais, podendo, se for caso disso, solicitar esclarecimentos complementares ao ICEP e ao IAPMEI.
+(Revogado.)
 
 ###### Artigo 9.º — Contrato de concessão dos benefícios
 
-1 - A concessão dos benefícios fiscais é objecto de contrato, com período de vigência até cinco anos a contar do início da realização do projecto de investimento, e é aprovada por despacho do Ministro das Finanças, no qual constam, designadamente, os objectivos e as metas a cumprir pelo promotor e os benefícios fiscais concedidos.
-
-2 - Os contratos de investimento de montante superior a 500000 contos ficam subordinados à aprovação pelo Governo através de resolução do Conselho de Ministros.
-
-3 - Os contratos de investimento de montante superior a 50000 contos e inferior a 500000 contos ficam subordinados à aprovação pelo Governo através de despacho conjunto dos Ministros das Finanças e da Economia.
+(Revogado.)
 
 ###### Artigo 10.º — Fiscalização e acompanhamento
 
-1 - Sem prejuízo das competências próprias da DGCI, a verificação do cumprimento dos contratos de concessão de benefícios fiscais ao investimento pelos promotores compete ao ICEP ou ao IAPMEI, consoante o caso.
-
-2 - No exercício das competências previstas no número anterior, o ICEP e o IAPMEI podem recorrer à colaboração de entidades públicas ou privadas, sendo as entidades públicas solicitadas obrigadas a dar resposta ao pedido no prazo de 30 dias.
-
-3 - Para efeitos do cumprimento do artigo 6.º do Estatuto dos Benefícios Fiscais, o ICEP e o IAPMEI enviarão anualmente à DGCI os relatórios de verificação do cumprimento dos objectivos previstos nos contratos de concessão de benefícios fiscais.
+(Revogado.)
 
 ###### Artigo 11.º — Renegociação
 
-1 - O contrato pode ser objecto de renegociação a pedido de qualquer das partes, caso ocorra algum evento que altere substancialmente as circunstâncias em que fundaram a sua vontade de contratar.
-
-2 - Qualquer alteração contratual decorrente de renegociação prevista no número anterior será submetida a aprovação nos termos do artigo 9.º
-
-3 - O incumprimento parcial dos objectivos e obrigações contratuais previstos, desde que não comprometa definitivamente a realização do projecto, poderá dar lugar a uma redução proporcional dos benefícios concedidos, desde que não comprometa definitivamente a realização do projecto.
+(Revogado.)
 
 ###### Artigo 12.º — Resolução do contrato
 
-A resolução do contrato é declarada por resolução do Conselho de Ministros nos contratos de montante superior a 500000 contos, ou por despacho conjunto dos Ministros das Finanças e da Economia nos contratos de montante inferior, e nos seguintes casos:
-
-a) Não cumprimento dos objectivos e obrigações estabelecidos no contrato, nos prazos aí fixados, por facto imputável à empresa promotora;
-
-b) Não cumprimento atempado das obrigações fiscais por parte da empresa promotora;
-
-c) Prestação de informações falsas sobre a situação da empresa ou viciação de dados fornecidos na apresentação e apreciação e no acompanhamento dos projectos.
+(Revogado.)
 
 ###### Artigo 13.º — Efeitos da resolução do contrato
 
-1 - A resolução do contrato nos termos do artigo anterior implica a perda total dos benefícios fiscais concedidos desde a data do mesmo e ainda a obrigação de, no prazo de 30 dias a contar da respectiva notificação, e independentemente do tempo entretanto decorrido desde a data da verificação dos respectivos factos geradores de imposto, pagar, nos termos da lei, as importâncias correspondentes às receitas fiscais não arrecadadas, acrescidas do juro compensatório, nos termos do artigo 83.º do Código de Processo Tributário.
-
-2 - Na falta de pagamento dentro do prazo de 30 dias referido no número anterior, haverá lugar a procedimento executivo.
+(Revogado.)
 
 ###### Artigo 14.º — Produção de efeitos
 

@@ -180,6 +180,18 @@
      "title": "Declaração",
      "published": "1977-11-28",
      "dre_path": "/dr/detalhe/declaracao/1977-281257"
+    },
+    {
+     "id": "pt:dre:404565:por",
+     "title": "Lei n.º 91/77",
+     "published": "1977-12-31",
+     "dre_path": "/dr/detalhe/lei/91-1977-404565"
+    },
+    {
+     "id": "pt:dre:547247:por",
+     "title": "Lei n.º 87/89",
+     "published": "1989-09-09",
+     "dre_path": "/dr/detalhe/lei/87-1989-547247"
     }
    ],
    "changes": [
@@ -200,7 +212,11 @@
     "Revoga Artigo 88.º",
     "Revoga Artigo 89.º",
     "Revoga Artigo 90.º",
-    "Retifica Artigo 14"
+    "Retifica Artigo 14",
+    "Revoga Artigo 109",
+    "Revoga Artigo 91",
+    "Revoga Artigo 92",
+    "Revoga Artigo 93"
    ],
    "fragments": [
     "2882d809857132d8",
@@ -310,9 +326,9 @@
     "52ba110e6fa8eb45",
     "051cedaf7cd14e44",
     "7dc1f24c4abdfbf3",
-    "28fe0e5b373ebc75",
-    "7f06c52e9a3c4e33",
-    "b31f72531d036121",
+    "33c76f39209d256d",
+    "be2c4ca138ad2550",
+    "9aef6020d768ba25",
     "7abd624ad54ac71a",
     "c43c368a6bfe930e",
     "92c3e80445790191",
@@ -329,7 +345,7 @@
     "8a59e165963059eb",
     "074f67a3d9400925",
     "82a81391d51a0398",
-    "14e3bb3a15da5c13",
+    "3066826d59bc332f",
     "8228b2feb1f34e29",
     "0e0c98fb78a64d06",
     "d983c2fd92ad96a1",
@@ -2161,29 +2177,31 @@
    ],
    "markdown": "###### Artigo 90.º — (Reuniões)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 5/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-1991-693782), publicado em 1991-01-08."
   },
-  "28fe0e5b373ebc75": {
+  "33c76f39209d256d": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 91.º — (Tutela administrativa)",
-   "in_force_from": null,
-   "changed_by": [],
-   "markdown": "###### Artigo 91.º — (Tutela administrativa)\n\n1. Compete ao Governo o exercício da tutela administrativa, a qual, enquanto subsistir o distrito, será exercida através do governador civil na área da sua jurisdição.\n\n2. A tutela inspectiva é superintendida pelos Ministérios da Administração Interna e das Finanças e tem exclusivamente por objecto averiguar se são cumpridas as obrigações impostas por lei."
+   "in_force_from": "1991-03-09",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 87/89](https://diariodarepublica.pt/dr/detalhe/lei/87-1989-547247), publicado em 1989-09-09, com efeitos a partir de 1989-09-14."
+   ],
+   "markdown": "###### Artigo 91.º — (Tutela administrativa)\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 87/89](https://diariodarepublica.pt/dr/detalhe/lei/87-1989-547247), publicado em 1989-09-09, com efeitos a partir de 1989-09-14."
   },
-  "7f06c52e9a3c4e33": {
+  "be2c4ca138ad2550": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 92.º — (Competência da autoridade tutelar)",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 92.º — (Competência da autoridade tutelar)\n\nEnquanto autoridade tutelar, compete ao governador civil:\n\na) Velar pelo cumprimento das leis gerais do Estado por parte dos órgãos autárquicos;\n\nb) Promover a realização de inquéritos, se necessário através dos serviços da Administração Central, à actividade dos órgãos autárquicos e respectivos serviços, precedendo parecer do conselho distrital."
+   "markdown": "###### Artigo 92.º — (Competência da autoridade tutelar)\n\n(Revogado.)"
   },
-  "b31f72531d036121": {
+  "9aef6020d768ba25": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 93.º — (Dissolução dos órgãos autárquicos)",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 93.º — (Dissolução dos órgãos autárquicos)\n\n1. Os órgãos autárquicos podem ser dissolvidos pelo Governo:\n\na) Quando, após inquérito, se verifique que por eles foram cometidas graves ilegalidades;\n\nb) Quando obstem à realização de inquéritos às suas actividades;\n\nc) Quando se recusem a dar cumprimento às decisões definitivas dos tribunais;\n\nd) Quando não tenham os orçamentos aprovados de forma a entrarem em vigor no dia 1 de Janeiro de cada ano, por facto que lhes seja imputável, apurado em inquérito;\n\ne) Quando não apresentem a julgamento, nos prazos legais, as respectivas contas, por facto que lhes seja imputável, apurado em inquérito.\n\n2. A dissolução com base em qualquer das alíneas do número anterior será sempre precedida de parecer da assembleia distrital e é contenciosamente impugnável por qualquer dos membros do órgão dissolvido.\n\n3. A dissolução será ordenada por decreto fundamentado, no qual será designada a comissão administrativa que substituirá o órgão dissolvido até à posse dos novos membros eleitos, nos termos e prazos da presente lei.\n\n4. Nas Regiões dos Açores e da Madeira a dissolução será determinada por decreto do Governo Regional, ouvida a assembleia regional respectiva."
+   "markdown": "###### Artigo 93.º — (Dissolução dos órgãos autárquicos)\n\n(Revogado.)"
   },
   "c43c368a6bfe930e": {
    "fragment_id": null,
@@ -2305,13 +2323,15 @@
    "changed_by": [],
    "markdown": "###### Artigo 108.º — (Formalidades dos requerimentos de convocação de sessões extraordinárias)\n\n1. Os requerimentos a que se reportam a alínea c) do n.º 1 do artigo 13.º e a alínea c) do n.º 1 do artigo 45.º serão acompanhados de certidões comprovativas da qualidade de cidadão recenseado na área da respectiva autarquia.\n\n2. As certidões referidas no número anterior serão passadas no prazo de oito dias pela câmara municipal e são isentas, bem como os reconhecimentos notariais necessários, de quaisquer taxas, emolumentos e imposto do selo.\n\n3. A apresentação do pedido das certidões deverá ser acompanhada de uma lista contendo as assinaturas, notarialmente reconhecidas, dos cidadãos que pretendem requerer a convocação da sessão extraordinária."
   },
-  "14e3bb3a15da5c13": {
+  "3066826d59bc332f": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 109.º — (Baldios e outras coisas comuns)",
-   "in_force_from": null,
-   "changed_by": [],
-   "markdown": "###### Artigo 109.º — (Baldios e outras coisas comuns)\n\nA definição das coisas comuns, designadamente baldios e outros bens do logradouro comum, pertence à assembleia municipal ou à assembleia de freguesia, consoante se trate, respectivamente, de coisas municipais ou de coisas da freguesia, competindo a sua administração aos respectivos órgãos executivos autárquicos."
+   "in_force_from": "1991-03-09",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 91/77](https://diariodarepublica.pt/dr/detalhe/lei/91-1977-404565), publicado em 1977-12-31."
+   ],
+   "markdown": "###### Artigo 109.º — (Baldios e outras coisas comuns)\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 91/77](https://diariodarepublica.pt/dr/detalhe/lei/91-1977-404565), publicado em 1977-12-31."
   },
   "8228b2feb1f34e29": {
    "fragment_id": null,

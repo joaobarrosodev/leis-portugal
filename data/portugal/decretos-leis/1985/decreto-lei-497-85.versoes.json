@@ -29,11 +29,18 @@
      "title": "Decreto-Lei n.º 371/86",
      "published": "1986-11-05",
      "dre_path": "/dr/detalhe/decreto-lei/371-1986-221089"
+    },
+    {
+     "id": "pt:dre:297234:por",
+     "title": "Decreto-Lei n.º 151-B/86",
+     "published": "1986-06-18",
+     "dre_path": "/dr/detalhe/decreto-lei/151-b-1986-297234"
     }
    ],
    "changes": [
     "Altera Artigo 8.º",
-    "Adita Artigo 13.º-A"
+    "Adita Artigo 13.º-A",
+    "Revoga Artigo 11"
    ],
    "fragments": [
     "5855f973780576a2",
@@ -47,7 +54,7 @@
     "9b88f9c326daf5d4",
     "11b124c0d435fdf4",
     "ba7e004de931d79f",
-    "5370225631d5292d",
+    "e86e126fa33de36c",
     "c78db732903b1035",
     "84a3fabb178635a9",
     "4885b2109a424089",
@@ -175,13 +182,15 @@
    "changed_by": [],
    "markdown": "###### Artigo 10.º\n\nO Ministro da Defesa Nacional é coadjuvado, no exercício das suas funções, pelo Secretário de Estado Adjunto do Ministro da Defesa Nacional."
   },
-  "5370225631d5292d": {
+  "e86e126fa33de36c": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 11.º",
-   "in_force_from": null,
-   "changed_by": [],
-   "markdown": "###### Artigo 11.º\n\n1 - É criado o Ministério das Finanças, que compreende os seguintes secretários de Estado:\n\na) Secretário de Estado do Tesouro;\n\nb) Secretário de Estado do Orçamento;\n\nc) Secretário de Estado para os Assuntos Fiscais.\n\n2 - O Ministro das Finanças é coadjuvado, no exercício das suas funções, por um Secretário de Estado Adjunto, que é também o Secretário de Estado do Tesouro.\n\n3 - São integrados no Ministério das Finanças, para além dos organismos e serviços integrados no anterior Ministério das Finanças e do Plano e que não sejam integrados por este diploma em outros departamentos, todos os organismos e serviços da anterior Secretaria de Estado da Administração Pública, os quais serão objecto de reestruturação, fusão ou extinção, à excepção do Gabinete de Estudos e Coordenação da Reforma Administrativa, que é integrado na Presidência do Conselho de Ministros."
+   "in_force_from": "1986-11-10",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 151-B/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-b-1986-297234), publicado em 1986-06-18, com efeitos a partir de 1986-05-22."
+   ],
+   "markdown": "###### Artigo 11.º\n\n1 - É criado o Ministério das Finanças, que compreende os seguintes secretários de Estado:\n\na) Secretário de Estado do Tesouro;\n\nb) Secretário de Estado do Orçamento;\n\nc) Secretário de Estado para os Assuntos Fiscais.\n\n2 - (Revogado.)\n\n3 - São integrados no Ministério das Finanças, para além dos organismos e serviços integrados no anterior Ministério das Finanças e do Plano e que não sejam integrados por este diploma em outros departamentos, todos os organismos e serviços da anterior Secretaria de Estado da Administração Pública, os quais serão objecto de reestruturação, fusão ou extinção, à excepção do Gabinete de Estudos e Coordenação da Reforma Administrativa, que é integrado na Presidência do Conselho de Ministros.\n\n> Revogado pelo/a [Decreto-Lei n.º 151-B/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-b-1986-297234), publicado em 1986-06-18, com efeitos a partir de 1986-05-22."
   },
   "c78db732903b1035": {
    "fragment_id": null,

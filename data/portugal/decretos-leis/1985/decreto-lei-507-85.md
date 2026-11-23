@@ -54,10 +54,12 @@ version_history:
     changes: []
   - date: '1991-07-10'
     amending: pt:dre:557466:por
-    amending_title: Decreto-Lei n.º 288/90; Decreto-Lei n.º 239/91
+    amending_title: Decreto-Lei n.º 288/90; Decreto-Lei n.º 239/91; Decreto-Lei n.º 291/89
     changes:
     - Altera Artigo 58.º
     - Altera Artigo 62.º
+    - Revoga Artigo 8
+    - Revoga Artigo 61
 identifiers:
   celex: null
   eli: null
@@ -84,7 +86,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T00:09:27Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 288/90; Decreto-Lei
-    n.º 239/91. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1985/decreto-lei-507-85.alteracoes.json'
+    n.º 239/91. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1985/decreto-lei-507-85.alteracoes.json.
+    Revogações registadas só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Decreto-Lei
+    n.º 291/89.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -251,7 +255,7 @@ t) Quaisquer outros elementos necessários à aplicação das disposições que 
 
 a) A factura comercial;
 
-b) O conhecimento de carga, a carta de porte aéreo ou documentos equivalentes, apresentados em conformidade com as disposições regulamentares aplicáveis;
+b) (Revogada.)
 
 c) A declaração relativa ao valor aduaneiro;
 
@@ -264,6 +268,8 @@ f) A lista de volumes ou documento equivalente indicando o conteúdo de cada um 
 g) Quaisquer outros documentos necessários à aplicação das disposições que regulam a introdução em livre prática das mercadorias.
 
 2 - Quando o considerem necessário, poderão os serviços aduaneiros exigir, aquando da entrega da declaração, a apresentação dos documentos relativos ao regime aduaneiro anterior.
+
+> Revogado pelo/a [Decreto-Lei n.º 291/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/291-1989-546985), publicado em 1989-09-02, com efeitos a partir de 1989-11-01.
 
 ###### Artigo 9.º
 
@@ -715,7 +721,7 @@ c) Contidas em pequenos volumes, vindos por qualquer via, desde que enviadas a t
 
 1 - Todas as referências a pedido, a declaração ou aos dois conjuntamente, com o significado que a estes termos é atribuído, respectivamente, nos artigos 241.º e 245.º do Regulamento das Alfândegas, aprovado pelo [Decreto n.º 31730](https://diariodarepublica.pt/dr/detalhe/decreto/31730-1941-469185), de 15 de Dezembro de 1941, devem ser entendidas como referindo-se a declaração, com o significado que a este termo é dado no presente decreto-lei e para os efeitos nele previstos.
 
-2 - Para efeitos de aplicação do regime geral regulado no título II, a conferência do título de propriedade ou documento que legalmente o substitua prevista no artigo 240.º do Regulamento das Alfândegas referido no número anterior terá lugar antes da aceitação da declaração.
+2 - (Revogado.)
 
 ###### Artigo 62.º
 

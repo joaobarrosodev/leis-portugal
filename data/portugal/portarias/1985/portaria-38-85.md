@@ -53,9 +53,10 @@ version_history:
     changes: []
   - date: '1989-02-05'
     amending: pt:dre:611675:por
-    amending_title: Portaria n.º 95/89
+    amending_title: Portaria n.º 95/89; Portaria n.º 51/89
     changes:
     - Altera Artigo unidades 5-5
+    - Revoga anexo ou texto fora do articulado
 identifiers:
   celex: null
   eli: null
@@ -82,7 +83,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:25:24Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 95/89. Método e verificação:
-    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1985/portaria-38-85.alteracoes.json'
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1985/portaria-38-85.alteracoes.json. Revogações registadas
+    só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Portaria n.º 51/89.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -150,7 +152,9 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado do Comérci
 
 > Alterado pelo/a [Portaria n.º 95/89](https://diariodarepublica.pt/dr/detalhe/portaria/95-1989-611675), publicado em 1989-02-04.
 
-2.º Ficam sujeitos ao regime de preços declarados, a que se refere o artigo 3.º do [Decreto-Lei n.º 75-Q/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-q-1977-509026), de 28 de Fevereiro, os aditivos destinados ao fabrico do pão e dos produtos afins, incluídos no desdobramento da classificação das actividades económicas (CAE, revisão de 1973) 3121.9.9, produzidos ou importados por empresas cuja facturação bruta total correspondente a vendas no mercado interno, no ano anterior, tenha sido superior a 250000 contos, e cuja facturação nos produtos incluídos naquele desdobramento CAE tenha sido superior a 80000 contos.
+2.º - (Revogado.)
+
+> Revogado pelo/a [Portaria n.º 51/89](https://diariodarepublica.pt/dr/detalhe/portaria/51-1989-610922), publicado em 1989-01-26, com efeitos a partir de 1989-01-27.
 
 3.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
 

@@ -53,9 +53,10 @@ version_history:
     changes: []
   - date: '1997-09-04'
     amending: pt:dre:641995:por
-    amending_title: Decreto-Lei n.º 229/97
+    amending_title: Decreto-Lei n.º 229/97; Decreto-Lei n.º 165/96
     changes:
     - Altera Artigo unidades 26-26
+    - Revoga anexo ou texto fora do articulado
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/569/1993/06/02/p/dre/pt/html
@@ -82,7 +83,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T11:59:11Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 229/97. Método e
-    verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1993/portaria-569-93.alteracoes.json'
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1993/portaria-569-93.alteracoes.json. Revogações
+    registadas só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Decreto-Lei
+    n.º 165/96.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -177,7 +180,9 @@ l) Apoiar o normal desenvolvimento do ensino particular e cooperativo de âmbito
 
 m) Definir e promover sistemas de orientação escolar e profissional;
 
-n) Colaborar na definição de prioridades para a educação física e desporto escolar e coordenar as actividades neste domínio;
+n) (Revogada.)
+
+> Revogado pelo/a [Decreto-Lei n.º 165/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1996-241670), publicado em 1996-09-05, com efeitos a partir de 1996-09-10.
 
 o) (Revogada.)
 

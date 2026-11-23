@@ -15,7 +15,7 @@
    ]
   },
   {
-   "date": "1970-05-08",
+   "date": "1977-09-13",
    "future": false,
    "acts": [
     {
@@ -29,11 +29,19 @@
      "title": "Decreto-Lei n.º 199/70",
      "published": "1970-05-08",
      "dre_path": "/dr/detalhe/decreto-lei/199-1970-142087"
+    },
+    {
+     "id": "pt:dre:285947:por",
+     "title": "Decreto-Lei n.º 385/77",
+     "published": "1977-09-13",
+     "dre_path": "/dr/detalhe/decreto-lei/385-1977-285947"
     }
    ],
    "changes": [
     "Altera Artigo 6.º",
-    "Altera Artigo 16.º"
+    "Altera Artigo 16.º",
+    "Revoga Artigo 15",
+    "Revoga Artigo 16"
    ],
    "fragments": [
     "571a07fa8d459d52",
@@ -51,8 +59,8 @@
     "1cc588b86b0bf5ab",
     "e5dc72274246d733",
     "ea7936ac4824e54f",
-    "9d50f403351bd33a",
-    "7768240892505a63",
+    "7819a74a20965f00",
+    "ad8149f442ef5fbd",
     "05e2374fbd8efed8",
     "4a50f60d803b0e96",
     "c2a6ff4fb913b2ab",
@@ -122,7 +130,7 @@
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 6.º",
-   "in_force_from": "1970-05-08",
+   "in_force_from": "1977-09-13",
    "changed_by": [
     "Alterado pelo/a [Decreto-Lei n.º 199/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/199-1970-142087), publicado em 1970-05-08."
    ],
@@ -192,23 +200,25 @@
    "changed_by": [],
    "markdown": "###### Artigo 14.º\n\n1. Os institutos de crédito ao Estado e os estabelecimentos especiais de crédito enviarão ao Banco de Portugal, de acordo com as instruções que por este lhes forem transmitidas, os elementos de informação sobre as operações de crédito que realizarem com os bancos comerciais, nos termos da alínea b) do n.º 1 do artigo 5.º deste diploma.\n\n2. Será também enviada cópia desses elementos à Inspecção-Geral de Crédito e Seguros.\n\nII\n\nDas garantias de liquidez e solvabilidade dos bancos comerciais"
   },
-  "9d50f403351bd33a": {
+  "7819a74a20965f00": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 15.º",
-   "in_force_from": null,
-   "changed_by": [],
-   "markdown": "###### Artigo 15.º\n\n1. São consideradas disponibilidades de caixa dos bancos comerciais:\n\na) O dinheiro em cofre;\n\nb) Os depósitos à ordem no banco emissor do continente e ilhas adjacentes;\n\nc) As promissórias do fomento nacional.\n\n2. Os vales do correio e os cheques emitidos por entidades de reconhecida idoneidade sobre instituições de crédito domiciliadas no País poderão ser considerados como dinheiro em cofre, pelo período máximo de três dias.\n\n3. Os cheques emitidos por bancos comerciais, quer sobre as suas sucursais, ou vice-versa, quer sobre outras instituições de crédito, não poderão ser considerados como dinheiro em cofre."
+   "in_force_from": "1977-09-13",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 385/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/385-1977-285947), publicado em 1977-09-13."
+   ],
+   "markdown": "###### Artigo 15.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 385/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/385-1977-285947), publicado em 1977-09-13."
   },
-  "7768240892505a63": {
+  "ad8149f442ef5fbd": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 16.º",
-   "in_force_from": "1970-05-08",
+   "in_force_from": "1977-09-13",
    "changed_by": [
     "Alterado pelo/a [Decreto-Lei n.º 180/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-1970-226036), publicado em 1970-04-25."
    ],
-   "markdown": "###### Artigo 16.º\n\n1. O Ministro das Finanças, ouvido o Banco de Portugal, fixará, por portaria, a participação que, nas disponibilidades de caixa, poderão atingir as promissórias de fomento nacional.\n\n2. Compete ao Banco de Portugal, em conformidade com o disposto no § 2.º do artigo 14.º do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968), de 12 de Novembro de 1959, determinar:\n\na) A fracção das disponibilidades de caixa que pode estar representada por cheques e vales do correio, quando considerados dinheiro em cofre;\n\nb) As percentagens, respectivamente, de responsabilidades à vista e de depósitos a prazo, igual ou superior a trinta dias, em moeda nacional, que devem estar cobertas por disponibilidades de caixa;\n\nc) Os valores que podem servir de cobertura, para as citadas responsabilidades à vista e depósitos a prazo, na parte em que as importâncias totais, dessas responsabilidades e destes depósitos, excedam as percentagens referidas na alínea anterior;\n\nd) As regras a observar pelos bancos comerciais na contabilização dos indicados valores.\n\n3. O Banco de Portugal, ao determinar quer as percentagens, quer os valores mencionados nas alíneas b) e c) do n.º 2, poderá classificar os depósitos a prazo em grupos diferentes, de acordo com a duração do dito prazo.\n\n4. Para efeito do presente artigo:\n\na) Os depósitos com pré-aviso inferior a trinta dias são havidos como responsabilidades à vista;\n\nb) Os depósitos com pré-aviso igual ou superior a trinta dias são equiparados aos depósitos a prazo igual ao pré-aviso estipulado.\n\n5. As determinações tomadas pelo Banco de Portugal no exercício da competência que lhe é atribuída nos n.os 2 e 3 do presente artigo serão comunicadas à Inspecção-Geral de Crédito e Seguros, que as fará publicar na 1.ª série do Diário do Governo.\n\n> Alterado pelo/a [Decreto-Lei n.º 180/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-1970-226036), publicado em 1970-04-25."
+   "markdown": "###### Artigo 16.º\n\n(Revogado.)\n\n> Alterado pelo/a [Decreto-Lei n.º 180/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-1970-226036), publicado em 1970-04-25."
   },
   "05e2374fbd8efed8": {
    "fragment_id": null,

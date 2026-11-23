@@ -75,7 +75,7 @@
    ]
   },
   {
-   "date": "2009-08-09",
+   "date": "2015-01-31",
    "future": false,
    "acts": [
     {
@@ -83,10 +83,32 @@
      "title": "Decreto-Lei n.º 176/2009",
      "published": "2009-08-04",
      "dre_path": "/dr/detalhe/decreto-lei/176-2009-493009"
+    },
+    {
+     "id": "pt:dre:66325236:por",
+     "title": "Decreto-Lei n.º 12/2015",
+     "published": "2015-01-26",
+     "dre_path": "/dr/detalhe/decreto-lei/12-2015-66325236"
     }
    ],
    "changes": [
-    "Altera Artigo 12.º"
+    "Altera Artigo 12.º",
+    "Revoga Artigo 4",
+    "Revoga Artigo 5",
+    "Revoga Artigo 6",
+    "Revoga Artigo 7",
+    "Revoga Artigo 8",
+    "Revoga Artigo 9",
+    "Revoga Artigo 10",
+    "Revoga Artigo 12",
+    "Revoga Artigo 14",
+    "Revoga Artigo 15",
+    "Revoga Artigo 16",
+    "Revoga Artigo 17",
+    "Revoga Artigo 18",
+    "Revoga Artigo 19",
+    "Revoga Artigo 20",
+    "Revoga Artigo 21"
    ],
    "fragments": [
     "0ccbbe55f31365db",
@@ -95,27 +117,27 @@
     "a6dcfda815d57a13",
     "e3309d283c6acedb",
     "81da4cd77bf510f1",
-    "7138427044788e57",
-    "4d3e4af98051edea",
-    "036b1a3ebe1c33ac",
-    "a362fe2e273d3fa8",
+    "8503a1d8b36afcf4",
+    "5c0459161a007295",
+    "011573bea018bca3",
+    "d4023424eb164d05",
     "3c0f9118e16a4ea1",
-    "4fb6fce46f64ea1d",
-    "865438fe5f069cbd",
-    "6ade519b74cdca30",
+    "c5a275eecf88964c",
+    "1c0f73e23be04f29",
+    "b2a4761ddf441396",
     "72706c46ca27b151",
     "454573c4d8b3a9c6",
-    "22354702d6a3ad99",
+    "fbf06aa89b08d9d6",
     "6300555ed8c6859e",
-    "478cb69d27ed5e7b",
-    "2304cd2d9886c4b2",
-    "cca0827ca74d7f2d",
-    "66c31aba876f9161",
+    "d27d6359cb60287d",
+    "0c9d959b361d9af4",
+    "864629bae56308eb",
+    "e5405a2ad0565ae5",
     "260a9f4ecd4b5740",
-    "a77f16eb2f04a3a5",
-    "c375ea1cb7b3736c",
-    "884ae96a6e0741ac",
-    "f74b5c17948519de",
+    "dfdd1d9e48f26368",
+    "d17788badc9eebe6",
+    "7f0a45f120f91d11",
+    "281f1144a8c08a31",
     "312110bd24a48880",
     "e82e298be73417b9",
     "9d977b26c6b08149",
@@ -642,15 +664,137 @@
    "changed_by": [],
    "markdown": "###### Artigo 25.º — Documentos de prestação de contas\n\nOs instrumentos de prestação de contas da ULSNA, E. P. E., a elaborar anualmente com referência a 31 de Dezembro de cada ano, são, designadamente, os seguintes:\n\na) Relatório do conselho de administração dando conta da forma como foram atingidos os objectivos da Unidade Local de Saúde e analisando a eficiência desta nos vários domínios de actuação;\n\nb) Relatório sobre a execução anual do plano plurianual de investimentos;\n\nc) Balanço e demonstração de resultados;\n\nd) Anexo ao balanço e demonstração de resultados;\n\ne) Demonstração de fluxos de caixa;\n\nf) Relação dos empréstimos contraídos a médio e longo prazos;\n\ng) Certificação legal de contas;\n\nh) Proposta de aplicação dos resultados;\n\ni) Relatório e parecer do fiscal único."
   },
-  "22354702d6a3ad99": {
+  "8503a1d8b36afcf4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Natureza e regime",
+   "in_force_from": "2015-01-31",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 12/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2015-66325236), publicado em 2015-01-26, com efeitos a partir de 2015-01-31."
+   ],
+   "markdown": "###### Artigo 4.º — Natureza e regime\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 12/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2015-66325236), publicado em 2015-01-26, com efeitos a partir de 2015-01-31."
+  },
+  "5c0459161a007295": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Superintendência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Superintendência\n\n(Revogado.)"
+  },
+  "011573bea018bca3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Capacidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Capacidade\n\n(Revogado.)"
+  },
+  "d4023424eb164d05": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Organização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Organização\n\n(Revogado.)"
+  },
+  "c5a275eecf88964c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Tutela",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Tutela\n\n(Revogado.)"
+  },
+  "1c0f73e23be04f29": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Controlo financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Controlo financeiro\n\n(Revogado.)"
+  },
+  "b2a4761ddf441396": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Financiamento\n\n(Revogado.)"
+  },
+  "fbf06aa89b08d9d6": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 12.º — Regime de pessoal",
-   "in_force_from": "2009-08-09",
+   "in_force_from": "2015-01-31",
    "changed_by": [
     "Alterado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 176/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2009-493009), publicado em 2009-08-04."
    ],
-   "markdown": "###### Artigo 12.º — Regime de pessoal\n\n1 - Os trabalhadores da ULSNA, E. P. E., estão sujeitos ao regime do contrato de trabalho, nos termos do Código do Trabalho, bem como ao regime disposto em diplomas que definam o regime legal da carreira de profissões da saúde, demais legislação laboral, normas imperativas sobre títulos profissionais, instrumentos de regulamentação colectiva de trabalho e regulamentos internos.\n\n2 - A ULSNA, E. P. E., deve prever anualmente uma dotação global de pessoal, através do respectivo orçamento, considerando os planos de actividade.\n\n3 - Sem prejuízo do disposto no n.º 7 do artigo 13.º, a ULSNA, E. P. E., não pode celebrar contratos de trabalho para além da dotação referida no número anterior.\n\n4 - Os processos de recrutamento devem assentar na adequação dos profissionais às funções a desenvolver e assegurar os princípios da igualdade de oportunidades, da imparcialidade, da boa fé e da não discriminação, bem como da publicidade, podendo este ser excepcionado, nos casos de manifesta urgência devidamente fundamentada.\n\n> Alterado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 176/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2009-493009), publicado em 2009-08-04."
+   "markdown": "###### Artigo 12.º — Regime de pessoal\n\n(Revogado.)\n\n> Alterado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 176/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2009-493009), publicado em 2009-08-04."
+  },
+  "d27d6359cb60287d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Opção pelo contrato de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Opção pelo contrato de trabalho\n\n(Revogado.)"
+  },
+  "0c9d959b361d9af4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Opção temporária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Opção temporária\n\n(Revogado.)"
+  },
+  "864629bae56308eb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Mobilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Mobilidade\n\n(Revogado.)"
+  },
+  "e5405a2ad0565ae5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Regime de protecção social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Regime de protecção social\n\n1 - (Revogado.)\n\n2 - Relativamente aos funcionários e agentes que não optem pelo regime do contrato de trabalho ou que, nos termos do número anterior, mantenham o regime de protecção social da função pública, a ULSNA, E. P. E., contribui para o financiamento da Caixa Geral de Aposentações com a importância que se encontrar legalmente estabelecida para a contribuição das entidades empregadoras com autonomia administrativa e financeira.\n\n3 - A ULSNA, E. P. E., observa, relativamente ao pessoal referido no número anterior, o regime previsto no [Decreto-Lei n.º 118/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-1983-311397), de 25 de Fevereiro, e no [Decreto-Lei n.º 503/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/503-1999-643282), de 20 de Novembro, para os organismos dotados de autonomia administrativa e financeira."
+  },
+  "dfdd1d9e48f26368": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Cessação dos mandatos e das comissões de serviço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Cessação dos mandatos e das comissões de serviço\n\n(Revogado.)"
+  },
+  "d17788badc9eebe6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Extinção de serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Extinção de serviços\n\n(Revogado.)"
+  },
+  "7f0a45f120f91d11": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Regulamento interno",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Regulamento interno\n\n(Revogado.)"
+  },
+  "281f1144a8c08a31": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Entrada em vigor\n\n(Revogado.)\n\nVisto e aprovado em conselho de Ministros de 11 de Janeiro de 2007. - José Sócrates Carvalho Pinto de Sousa - Emanuel Augusto dos Santos - António Fernando Correia de Campos.\n\nPromulgado em 27 de Fevereiro de 2007.\n\nPublique-se.\n\nO Presidente da República, ANÍBAL CAVACO SILVA.\n\nReferendado em 18 de Fevereiro de 2006.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
   }
  }
 }

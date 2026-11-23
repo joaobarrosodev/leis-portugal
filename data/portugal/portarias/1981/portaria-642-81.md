@@ -55,12 +55,13 @@ version_history:
     changes: []
   - date: '1989-11-21'
     amending: pt:dre:177850:por
-    amending_title: Portaria n.º 811/85; Portaria n.º 995/89
+    amending_title: Portaria n.º 811/85; Portaria n.º 995/89; Portaria n.º 355/87
     changes:
     - Altera Artigo unidades 26-27
     - Altera Artigo unidades 36-36
     - Altera Artigo unidades 37-39
     - Altera Artigo unidades 42-42
+    - Revoga anexo ou texto fora do articulado
 identifiers:
   celex: null
   eli: null
@@ -87,7 +88,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:51:04Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 811/85; Portaria n.º
-    995/89. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1981/portaria-642-81.alteracoes.json'
+    995/89. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1981/portaria-642-81.alteracoes.json.
+    Revogações registadas só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Portaria
+    n.º 355/87.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -184,63 +187,19 @@ Ao abrigo do disposto no n.º 2 do artigo 2.º do [Decreto-Lei n.º 45835](https
 
 Manda o Governo da República Portuguesa, pelos Secretários de Estado das Pescas e do Comércio, o seguinte:
 
-1.º Os tipos comerciais de bacalhau salgado seco são unicamente os seguintes:
+1.º - (Revogado.)
 
-a) Especial - peixes com mais de 3 kg;
+> Revogado pelo/a [Portaria n.º 355/87](https://diariodarepublica.pt/dr/detalhe/portaria/355-1987-665756), publicado em 1987-04-29, com efeitos a partir de 1987-05-04.
 
-b) Graúdo - peixes de 2 kg a 3 kg;
+2.º - (Revogado.)
 
-c) Crescido - peixes de 1 kg a 2 kg;
+3.º - (Revogado.)
 
-d) Corrente - peixes de 0,5 kg a 1 kg;
-
-e) Miúdo - peixes até 0,5 kg;
-
-f) Sortido grande - peixes partidos, amputados ou com ligeiros defeitos de preparação ou conservação e com peso superior a 1 kg;
-
-g) Sortido pequeno - igual à alínea f), para peixes com peso inferior a 1 kg.
-
-2.º Os tipos comerciais das espécies afins do bacalhau, subdivididos em três grupos:
-
-1) Lingue, zarbo ou alecrim;
-
-2) Escamudo ou abrótea;
-
-3) Outras espécies a definir, caso a caso, pela Comissão Reguladora do Comércio de Bacalhau;
-
-são unicamente os seguintes:
-
-a) Grande - peixes com mais de 2 kg;
-
-b) Médio - peixes de 1 kg a 2 kg;
-
-c) Pequeno - peixes de 0,5 kg a 1 kg;
-
-d) Sortido - peixes até 0,5 kg e peixes partidos, amputados ou com ligeiros defeitos de preparação ou conservação.
-
-3.º O Secretário de Estado do Comércio poderá autorizar, por despacho normativo, sob proposta da Comissão Reguladora do Comércio de Bacalhau, a apresentação, no comércio, de tipos comerciais diferentes dos referidos nos números anteriores para bacalhau salgado seco ou espécies afins, fraccionados.
-
-4.º - 1 - O bacalhau salgado seco e as espécies afins só podem ser vendidos pelos produtores, pela Comissão Reguladora do Comércio de Bacalhau e pelos armazenistas, quando devidamente embalados, nos termos seguintes:
-
-a) Grupo I - Embalagens de peixes inteiros: Sacos de juta ou polipropileno, de 50 kg;
+4.º - (Revogado.)
 
 > Alterado pelo/a [Portaria n.º 811/85](https://diariodarepublica.pt/dr/detalhe/portaria/811-1985-177850), publicado em 1985-10-26.
 
-Caixas de cartão de 25 kg;
-
-b) Grupo II - Embalagens que contenham:
-
-Um peixe inteiro ou meio peixe cortado longitudinalmente;
-
-Postas provenientes de um único peixe ou meio peixe, que, uma vez juntas, permitam reconstituir o peixe inteiro ou meio peixe cortado longitudinalmente.
-
-2 - É proibida, por qualquer dos agentes económicos que intervenham no circuito de comercialização, a alteração, divisão ou fraccionamento das embalagens referidas na alínea b) do n.º 1, bem como de todas as outras embalagens que venham a ser autorizadas nos termos do disposto no n.º 4 deste número.
-
-3 - As embalagens a que se refere a alínea b) do n.º 1 devem ser previamente aprovadas pela Comissão Reguladora do Comércio de Bacalhau.
-
-4 - A Comissão Reguladora do Comércio de Bacalhau poderá autorizar, mediante aprovação prévia, a apresentação, no comércio, de embalagens com composição diferente das referidas na alínea b) do n.º 1.
-
-5.º A Comissão Reguladora do Comércio de Bacalhau expedirá as instruções necessárias à execução do disposto nos números anteriores.
+5.º - (Revogado.)
 
 6.º - (Revogado.)
 

@@ -34,11 +34,18 @@
      "title": "Decreto-Lei n.º 72/74",
      "published": "1974-02-28",
      "dre_path": "/dr/detalhe/decreto-lei/72-1974-412667"
+    },
+    {
+     "id": "pt:dre:225988:por",
+     "title": "Decreto-Lei n.º 183/70",
+     "published": "1970-04-28",
+     "dre_path": "/dr/detalhe/decreto-lei/183-1970-225988"
     }
    ],
    "changes": [
     "Altera Artigo 13.º",
-    "Altera Artigo 7.º"
+    "Altera Artigo 7.º",
+    "Revoga Artigo 22"
    ],
    "fragments": [
     "f6d0cff6951993e4",
@@ -67,7 +74,7 @@
     "9697b962972bd0a7",
     "63a4c1ae867be3be",
     "afefd2f6c0559adc",
-    "e934bfccef1ef508",
+    "4891bd6db54f2349",
     "7d8aff6a28ad0949",
     "353bafb5cb7881c8",
     "4edd4cbca9021b0d",
@@ -336,13 +343,15 @@
    "changed_by": [],
    "markdown": "###### Artigo 21.º\n\nAs instituições de crédito e as instituições parabancárias ultramarinas, incluindo as dependências no ultramar de instituições de crédito metropolitanas ou estrangeiras, são obrigadas a enviar à inspecção provincial de crédito e seguros ou à inspecção do comércio bancário da respectiva província, de harmonia com as instruções por estas transmitidas, os balancetes mensais e demais elementos de informação relativos à sua situação e às operações que realizem nos mercados monetário e financeiro."
   },
-  "e934bfccef1ef508": {
+  "4891bd6db54f2349": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 22.º",
-   "in_force_from": null,
-   "changed_by": [],
-   "markdown": "###### Artigo 22.º\n\nPara complemento dos elementos de informação respeitantes à balança geral de pagamentos internacionais, referidos no § 1.º do artigo 8.º do [Decreto-Lei n.º 44700](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44700-1962-237462), ficam as inspecções provinciais de crédito e seguros e as inspecções do comércio bancário autorizadas a solicitar de quaisquer entidades, e estas obrigadas a prestar-lhes, os elementos de informação necessários à elaboração periódica de um balanço das importações e exportações de capitais e à determinação do valor líquido do crédito ou endividamento externo de cada província ultramarina."
+   "in_force_from": "1974-02-28",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 183/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-1970-225988), publicado em 1970-04-28."
+   ],
+   "markdown": "###### Artigo 22.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 183/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-1970-225988), publicado em 1970-04-28."
   },
   "7d8aff6a28ad0949": {
    "fragment_id": null,

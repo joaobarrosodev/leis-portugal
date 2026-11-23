@@ -65,55 +65,91 @@
      "title": "Decreto-Lei n.º 85/2005",
      "published": "2005-04-28",
      "dre_path": "/dr/detalhe/decreto-lei/85-2005-532798"
+    },
+    {
+     "id": "pt:dre:667550:por",
+     "title": "Decreto-Lei n.º 153/2003",
+     "published": "2003-07-11",
+     "dre_path": "/dr/detalhe/decreto-lei/153-2003-667550"
     }
    ],
    "changes": [
     "Revoga Artigo ANEXO::27.º",
-    "Altera Artigo ANEXO II"
+    "Altera Artigo ANEXO II",
+    "Revoga Artigo 1",
+    "Revoga Artigo 2",
+    "Revoga Artigo 3",
+    "Revoga Artigo 4",
+    "Revoga Artigo 5",
+    "Revoga Artigo 6",
+    "Revoga Artigo 7",
+    "Revoga Artigo 8",
+    "Revoga Artigo 9",
+    "Revoga Artigo 10",
+    "Revoga Artigo 11",
+    "Revoga Artigo 12",
+    "Revoga Artigo 13",
+    "Revoga Artigo 14",
+    "Revoga Artigo 15",
+    "Revoga Artigo 16",
+    "Revoga Artigo 17",
+    "Revoga Artigo 18",
+    "Revoga Artigo 19",
+    "Revoga Artigo 20",
+    "Revoga Artigo 21",
+    "Revoga Artigo 22",
+    "Revoga Artigo 23",
+    "Revoga Artigo 24",
+    "Revoga Artigo 25",
+    "Revoga Artigo 26",
+    "Revoga Artigo 28",
+    "Revoga Artigo 29",
+    "Revoga Artigo 30",
+    "Revoga anexo ou texto fora do articulado"
    ],
    "fragments": [
     "93734fcfdec344f8",
     "3d5c9bf389d9e355",
     "23836370ae405d04",
-    "a6beaf8793fe76aa",
-    "418c6481637134af",
-    "1fbdff1f66a28d3f",
+    "f3447cbde7220cf3",
+    "e005f40a3c3ac754",
+    "318b03818b122109",
     "d5ce5637e14e77d6",
     "8189c0952df5185f",
-    "39c77c72b79c7bc3",
-    "c70cd3c5cebb90d0",
-    "bd0205150bc6b473",
+    "d19f45fdf0f3f86c",
+    "35d9c4e6e9dec61e",
+    "793d19d3adf93d1e",
     "e9d874af9d3cb189",
-    "0700d799f12b1bea",
-    "0f3995c9a95887e0",
+    "330b6a324240411b",
+    "9ead45baff4df01b",
     "494fb608f59b5732",
-    "a0ae15a85ee9f4dc",
-    "b32c3426d678f70c",
+    "1228168ff922f598",
+    "540100f9ec6d8b7f",
     "f413d7686e09b1e8",
-    "01f88cba5aac3d64",
-    "d43bce6af33c28d1",
-    "b91987f4f73dbd98",
-    "5d818c345ff333c9",
-    "6f65e9a4313e3cd4",
-    "87616ba327cc7891",
-    "d0ab46d136c0f0c3",
-    "a3d82b9805a865bb",
-    "664714380a11b49c",
-    "3717efd5686de87d",
+    "4719afd6641cfba5",
+    "278ef23fe8f4a540",
+    "a53dde556df81d46",
+    "d2f5a1a314d919fe",
+    "d30db409b9ccd8ef",
+    "b4932f0bd0f31eeb",
+    "4f7df1fbf9fdae9c",
+    "01b2a0c870da48e6",
+    "089d7829e4e78049",
+    "aee430e61f98b19c",
     "99910bb6bb04d0f4",
-    "ede3f4591d757e9b",
-    "da8f27274986990c",
+    "d9261b4d4de9e863",
+    "fae2d7bafd13036c",
     "c88f7979405fa369",
-    "02698085f2de290a",
-    "9fcfda54adcfba6d",
-    "4da1339a12e32a82",
-    "b759e72f0e4b0f18",
+    "6ad0b9291cb36a7d",
+    "c897bb215b38f536",
+    "fade07bad9a7b115",
+    "45b649d020b94bd3",
     "b446f68917397fb6",
     "8e6d538d26e654cb",
-    "aa4e410d8aece593",
+    "f94319e89d5bcdd6",
     "75b9bfe5b916ccee",
-    "36ca9634dc8a5107",
-    "d71c66ac9e1f64f7",
+    "b83725d6a6093b45",
+    "2e9cd6345ab63501",
     "46fac2f475113f49"
    ]
   }
@@ -463,6 +499,216 @@
    "changed_by": [],
    "markdown": "## ANEXO II\n\nValores limite de emissão (ver nota 1) para determinadas substâncias emitidas na combustão de óleos usados em instalações com potência térmica igual ou superior a 3 MW (PCI).\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/03/071b00/14391443.pdf)\n\n(nota 1) Estes valores limite indicam a concentração da massa das referidas matérias nas emissões de gases, em função do volume dos gases emitidos em condições normais (273 k, 1013 hPa) após a dedução do teor de humidade no vapor de água e em função de um volume de oxigénio, contido nas emissões de gases, de 3%."
   },
+  "f3447cbde7220cf3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objecto e âmbito",
+   "in_force_from": "2005-04-29",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 153/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2003-667550), publicado em 2003-07-11, com efeitos a partir de 2003-07-12."
+   ],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 153/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2003-667550), publicado em 2003-07-11, com efeitos a partir de 2003-07-12."
+  },
+  "e005f40a3c3ac754": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\n(Revogado.)"
+  },
+  "318b03818b122109": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Registos de movimentos de óleos usados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Registos de movimentos de óleos usados\n\n(Revogado.)"
+  },
+  "d19f45fdf0f3f86c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Licenciamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Licenciamento\n\n(Revogado.)"
+  },
+  "35d9c4e6e9dec61e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Instrução do pedido de licenciamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Instrução do pedido de licenciamento\n\n(Revogado.)"
+  },
+  "793d19d3adf93d1e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Rotulagem dos recipientes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Rotulagem dos recipientes\n\n(Revogado.)"
+  },
+  "330b6a324240411b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Licenciamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Licenciamento\n\n(Revogado.)"
+  },
+  "9ead45baff4df01b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Instrução do pedido de licenciamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Instrução do pedido de licenciamento\n\n(Revogado.)"
+  },
+  "1228168ff922f598": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Licenciamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Licenciamento\n\n(Revogado.)"
+  },
+  "540100f9ec6d8b7f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Instrução do pedido de licenciamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Instrução do pedido de licenciamento\n\n(Revogado.)"
+  },
+  "4719afd6641cfba5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Licenciamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Licenciamento\n\n(Revogado.)"
+  },
+  "278ef23fe8f4a540": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Instrução do pedido de licenciamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Instrução do pedido de licenciamento\n\n(Revogado.)"
+  },
+  "a53dde556df81d46": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Projecto da instalação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Projecto da instalação\n\n(Revogado.)"
+  },
+  "d2f5a1a314d919fe": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Insuficiências do projecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Insuficiências do projecto\n\n(Revogado.)"
+  },
+  "d30db409b9ccd8ef": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Consultas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Consultas\n\n(Revogado.)"
+  },
+  "b4932f0bd0f31eeb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Prazo para emissão de parecer",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Prazo para emissão de parecer\n\n(Revogado.)"
+  },
+  "4f7df1fbf9fdae9c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Emissão de parecer global",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Emissão de parecer global\n\n(Revogado.)"
+  },
+  "01b2a0c870da48e6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Licença de obras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Licença de obras\n\n(Revogado.)"
+  },
+  "089d7829e4e78049": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Distribuição de energia eléctrica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Distribuição de energia eléctrica\n\n(Revogado.)"
+  },
+  "aee430e61f98b19c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Início da actividade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Início da actividade\n\n(Revogado.)"
+  },
+  "d9261b4d4de9e863": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Condição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Condição\n\n(Revogado.)"
+  },
+  "fae2d7bafd13036c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Óleos com características de utilização especial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Óleos com características de utilização especial\n\n(Revogado.)"
+  },
+  "6ad0b9291cb36a7d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Licenciamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Licenciamento\n\n(Revogado.)"
+  },
+  "c897bb215b38f536": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — Instrução do pedido de licenciamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Instrução do pedido de licenciamento\n\n(Revogado.)"
+  },
+  "fade07bad9a7b115": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Proibição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Proibição\n\n(Revogado.)"
+  },
+  "45b649d020b94bd3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — Valores limite de emissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Valores limite de emissão\n\n(Revogado.)"
+  },
   "b446f68917397fb6": {
    "fragment_id": null,
    "type": null,
@@ -472,6 +718,30 @@
     "Revogado pelo/a [Decreto-Lei n.º 85/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2005-532798), publicado em 2005-04-28."
    ],
    "markdown": "###### Artigo 27.º — Definição das características dos óleos usados\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 85/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2005-532798), publicado em 2005-04-28."
+  },
+  "f94319e89d5bcdd6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º — Condição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Condição\n\n(Revogado.)"
+  },
+  "b83725d6a6093b45": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º — Renovação de licenças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Renovação de licenças\n\n(Revogado.)"
+  },
+  "2e9cd6345ab63501": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º — Sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Sanções\n\n(Revogado.)\n\nANEXO I - MAPAS DE REGISTO DE MOVIMENTOS DE ÓLEOS USADOS\n\n(Revogado.)"
   },
   "46fac2f475113f49": {
    "fragment_id": null,

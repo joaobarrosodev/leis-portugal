@@ -23,11 +23,19 @@
      "title": "Decreto-Lei n.º 534/79",
      "published": "1979-12-31",
      "dre_path": "/dr/detalhe/decreto-lei/534-1979-231305"
+    },
+    {
+     "id": "pt:dre:230886:por",
+     "title": "Decreto-Lei n.º 541/79",
+     "published": "1979-12-31",
+     "dre_path": "/dr/detalhe/decreto-lei/541-1979-230886"
     }
    ],
    "changes": [
     "Altera Artigo 4.º",
-    "Revoga Artigo 17.º"
+    "Revoga Artigo 17.º",
+    "Revoga Artigo 13",
+    "Revoga Artigo 14"
    ],
    "fragments": [
     "f5464abf103b1a09",
@@ -43,8 +51,8 @@
     "861bc5cdde9671a6",
     "ba3d0b408ac4ae7c",
     "58f79a92c8eda0c3",
-    "fb5c4f38068f4ce8",
-    "3358f2f64a46c638",
+    "599fbdb02829e470",
+    "2144609b055ad4f5",
     "93bf27a43dff5530",
     "223d4924c797c584",
     "ab526b7f50f66986",
@@ -190,21 +198,23 @@
    "changed_by": [],
    "markdown": "###### Artigo 12.º\n\n1. Incumbe à Direcção-Geral do Ensino Superior, sem prejuízo da autonomia concedida às Universidades, preparar e executar todas as decisões que ao Governo pertença tomar no que respeita a essas instituições.\n\n2. Incumbe também a esta Direcção-Geral, quanto aos restantes estabelecimentos do ensino superior, superintender na sua organização e funcionamento e velar pela qualidade e eficiência do ensino.\n\n3. A competência referida nos números antecedentes respeita ao ensino superior, público ou particular, ministrado em todo o território nacional."
   },
-  "fb5c4f38068f4ce8": {
+  "599fbdb02829e470": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 13.º",
-   "in_force_from": null,
-   "changed_by": [],
-   "markdown": "###### Artigo 13.º\n\n1. Incumbe à Direcção-Geral do Ensino Secundário:\n\na) Superintender na organização e funcionamento dos estabelecimentos deste grau de ensino e proceder à sua orientação pedagógica e à respectiva fiscalização, velando pela qualidade e eficiência do ensino e promovendo a renovação dos respectivos métodos e técnicas, a formação, actualização e classificação do pessoal docente, a consideração dos problemas escolares dos alunos, incluindo os referentes aos diminuídos, e a acção disciplinar que se mostrar conveniente;\n\nb) Exercer as funções referidas na alínea anterior relativamente às escolas de formação profissional de nível secundário que pertençam ao Ministério da Educação Nacional;\n\nc) Proceder à orientação pedagógica do ensino secundário particular, em colaboração com a Inspecção-Geral do Ensino Particular.\n\n2. Pertence também a esta Direcção-Geral promover e orientar o ensino secundário da língua portuguesa no estrangeiro."
+   "in_force_from": "1980-01-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 541/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/541-1979-230886), publicado em 1979-12-31, com efeitos a partir de 1980-01-01."
+   ],
+   "markdown": "###### Artigo 13.º\n\n1. Incumbe à Direcção-Geral do Ensino Secundário:\n\na) Superintender na organização e funcionamento dos estabelecimentos deste grau de ensino e proceder à sua orientação pedagógica e à respectiva fiscalização, velando pela qualidade e eficiência do ensino e promovendo a renovação dos respectivos métodos e técnicas, a formação, actualização e classificação do pessoal docente, a consideração dos problemas escolares dos alunos, incluindo os referentes aos diminuídos, e a acção disciplinar que se mostrar conveniente;\n\nb) Exercer as funções referidas na alínea anterior relativamente às escolas de formação profissional de nível secundário que pertençam ao Ministério da Educação Nacional;\n\nc) Proceder à orientação pedagógica do ensino secundário particular, em colaboração com a Inspecção-Geral do Ensino Particular.\n\n2. (Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 541/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/541-1979-230886), publicado em 1979-12-31, com efeitos a partir de 1980-01-01."
   },
-  "3358f2f64a46c638": {
+  "2144609b055ad4f5": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 14.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 14.º\n\n1. Incumbe à Direcção-Geral do Ensino Básico:\n\na) Exercer, relativamente aos estabelecimentos públicos afectos ao ensino básico, e ao respectivo pessoal docente, as funções cometidas no artigo 13.º, n.º 1, alínea a), à Direcção-Geral do Ensino Secundário;\n\nb) Exercer as funções referidas na alínea anterior relativamente aos estabelecimentos públicos de educação pré-escolar e ao respectivo pessoal docente;\n\nc) Proceder à orientação pedagógica do ensino básico e da educação pré-escolar particular, em colaboração com a Inspecção-Geral do Ensino Particular.\n\n2. Pertence também a esta Direcção-Geral promover e orientar o ensino básico da língua portuguesa no estrangeiro."
+   "markdown": "###### Artigo 14.º\n\n1. Incumbe à Direcção-Geral do Ensino Básico:\n\na) Exercer, relativamente aos estabelecimentos públicos afectos ao ensino básico, e ao respectivo pessoal docente, as funções cometidas no artigo 13.º, n.º 1, alínea a), à Direcção-Geral do Ensino Secundário;\n\nb) Exercer as funções referidas na alínea anterior relativamente aos estabelecimentos públicos de educação pré-escolar e ao respectivo pessoal docente;\n\nc) Proceder à orientação pedagógica do ensino básico e da educação pré-escolar particular, em colaboração com a Inspecção-Geral do Ensino Particular.\n\n2. (Revogado.)"
   },
   "93bf27a43dff5530": {
    "fragment_id": null,

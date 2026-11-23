@@ -43,7 +43,7 @@ version:
   kind: consolidated
   label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: '1987-03-24'
+  consolidation_date: '1993-02-17'
 version_history:
   file: decreto-lei-9-85.versoes.json
   count: 2
@@ -53,11 +53,12 @@ version_history:
     amending: null
     amending_title: null
     changes: []
-  - date: '1987-03-24'
+  - date: '1993-02-17'
     amending: pt:dre:662275:por
-    amending_title: Decreto-Lei n.º 135/87
+    amending_title: Decreto-Lei n.º 135/87; Decreto-Lei n.º 27/93
     changes:
     - Altera Artigo 2.º
+    - Revoga Artigo 2
 identifiers:
   celex: null
   eli: null
@@ -84,7 +85,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T00:10:19Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 135/87. Método e
-    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1985/decreto-lei-9-85.alteracoes.json'
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1985/decreto-lei-9-85.alteracoes.json.
+    Revogações registadas só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Decreto-Lei
+    n.º 27/93.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -192,7 +195,7 @@ c) Contribuição predial, nas condições estabelecidas pelo artigo 10.º do C�
 
 d) Direitos de importação sobre mercadorias indispensáveis à prossecução dos seus fins e de que não haja produção no País, nas condições estabelecidas pelo artigo 4.º do [Decreto-Lei n.º 260-D/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-d-1981-158422), de 2 de Setembro;
 
-e) Imposto sobre a venda de veículos automóveis, sobre ambulâncias e viaturas para transporte colectivo dos utentes dos equipamentos sociais das instituições desde que sejam indispensáveis à consecução dos seus fins, nas condições definidas pelo artigo 4.º do [Decreto-Lei n.º 260-D/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-d-1981-158422), de 2 de Setembro;
+e) (Revogada.)
 
 f) Imposto de capitais, secções A e B, nas condições estabelecidas pelo artigo 12.º do Código do Imposto de Capitais;
 
@@ -211,6 +214,8 @@ m) Imposto de circulação, nas condições definidas pelo [Decreto-Lei n.º 453
 n) Imposto complementar, secção B, nas condições estabelecidas pelo § único do artigo 85.º do CIC.
 
 > Alterado pelo/a [Decreto-Lei n.º 135/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-1987-662275), publicado em 1987-03-19.
+
+> Revogado pelo/a [Decreto-Lei n.º 27/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-1993-648483), publicado em 1993-02-12, com efeitos a partir de 1993-02-17.
 
 ###### Artigo 3.º
 

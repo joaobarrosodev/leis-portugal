@@ -85,7 +85,7 @@
    ]
   },
   {
-   "date": "1986-04-24",
+   "date": "1999-07-27",
    "future": false,
    "acts": [
     {
@@ -93,24 +93,76 @@
      "title": "Decreto-Lei n.º 74/86",
      "published": "1986-04-23",
      "dre_path": "/dr/detalhe/decreto-lei/74-1986-195074"
+    },
+    {
+     "id": "pt:dre:667147:por",
+     "title": "Decreto-Lei n.º 321-B/90",
+     "published": "1990-10-15",
+     "dre_path": "/dr/detalhe/decreto-lei/321-b-1990-667147"
+    },
+    {
+     "id": "pt:dre:353354:por",
+     "title": "Decreto-Lei n.º 281/99",
+     "published": "1999-07-26",
+     "dre_path": "/dr/detalhe/decreto-lei/281-1999-353354"
     }
    ],
    "changes": [
-    "Altera Artigo 44.º"
+    "Altera Artigo 44.º",
+    "Revoga Artigo 1",
+    "Revoga Artigo 2",
+    "Revoga Artigo 3",
+    "Revoga Artigo 4",
+    "Revoga Artigo 5",
+    "Revoga Artigo 6",
+    "Revoga Artigo 7",
+    "Revoga Artigo 8",
+    "Revoga Artigo 9",
+    "Revoga Artigo 10",
+    "Revoga Artigo 16",
+    "Revoga Artigo 17",
+    "Revoga Artigo 18",
+    "Revoga Artigo 19",
+    "Revoga Artigo 20",
+    "Revoga Artigo 21",
+    "Revoga Artigo 28",
+    "Revoga Artigo 29",
+    "Revoga Artigo 30",
+    "Revoga Artigo 35",
+    "Revoga Artigo 37",
+    "Revoga Artigo 38",
+    "Revoga Artigo 40",
+    "Revoga Artigo 1051",
+    "Revoga Artigo 1083",
+    "Revoga Artigo 1106",
+    "Revoga Artigo 1111",
+    "Revoga Artigo 41",
+    "Revoga Artigo 42",
+    "Revoga Artigo 43",
+    "Revoga Artigo 45",
+    "Revoga Artigo 46",
+    "Revoga Artigo 47",
+    "Revoga Artigo 48",
+    "Revoga Artigo 49",
+    "Revoga Artigo 50",
+    "Revoga Artigo 51",
+    "Revoga Artigo 52",
+    "Revoga Artigo 53",
+    "Revoga Artigo 44"
    ],
    "fragments": [
     "3b5a782a0721050d",
     "c4c9c84345f504ed",
-    "bf556661bb7c81a7",
-    "e74add8f252ce50d",
-    "bd563aa56d1ddc47",
-    "9d97af73d2194b2e",
-    "47ad7294a9314ed6",
-    "9e5c3fc3ce2b693b",
-    "54d8f794e2afc374",
-    "1a23aed49faf74e2",
-    "0e05efa28f533707",
-    "2c6d3245fdefb645",
+    "de42bec30ba07262",
+    "c87ab5f0d86bcdf4",
+    "5f29ea8aa9f68937",
+    "9059f51e5ed86a98",
+    "f7b11ca6d7ab6e64",
+    "26c05da7946708ae",
+    "b48d865f30c7a02f",
+    "baa1772f535a2613",
+    "6ef4c12592736e40",
+    "c747d52ecc5cf9da",
     "a25c29b6f9c78436",
     "306a2ba382d6c34e",
     "51dbc3fe2dc09f98",
@@ -118,12 +170,12 @@
     "ae4155fb139c0030",
     "9c7226d903061f8b",
     "13081e8f60215f60",
-    "8d38ea9baefafdb1",
-    "544d4961909aa9df",
-    "fea7df089ef16099",
-    "f62cc4520c56ad09",
-    "104033e9da4f9436",
-    "da8ad042139f58d9",
+    "9fc6c5b5214f39de",
+    "4ae5d04ac26576e6",
+    "847b0617808ed6c4",
+    "79f0f4c9dfc14d68",
+    "6320ad915182ad15",
+    "172a53486fd429a4",
     "619fb52d08b2bbbb",
     "a29bc69080b10a4d",
     "823b49590f129e2f",
@@ -132,42 +184,36 @@
     "edd2a0be235bd906",
     "dc1b55976d154060",
     "0680c6a403f4db1c",
-    "9ffdaa45768cc8b8",
-    "14bd8dacc8eede4b",
-    "22c53d1a602c5ab2",
+    "cfd6e1499fbf09b8",
+    "cf23eb995e8a6fc5",
+    "48d4b3af8ad79f40",
     "359b1e040e60a1f7",
     "3c73addcc62b7b98",
     "c4deefd5f5f8d653",
     "8af1259a8897bcc6",
     "7c9b87d55a8ca58b",
     "2a7e1f4f4d0bafa8",
-    "9e5e3827d1697150",
+    "763d11d7cb0d0d68",
     "7f88c411ec6ef161",
-    "e2f37fe8d0270ede",
-    "e117282721356404",
+    "13a3dd2af9cb8563",
+    "835a5a262a0475de",
     "6cd31d5dd44c57fa",
     "1c3f6a763d32924c",
-    "fc496c86c0354c5c",
-    "d282787e8c81a84f",
-    "b2c90b07e193e0a5",
-    "caa22069ea3ec5a0",
-    "5127356ac1b2007e",
-    "fc3e2d8515725e00",
-    "391a6874592bc8ec",
-    "027441ecbd51d27f",
-    "95e65f8e9ed73cb5",
-    "3106551fdb8b26c2",
+    "b3b5696324637c9a",
+    "1f00400d2f04a28e",
+    "ac1b44174f711f07",
+    "81cf660212caeb2f",
     "0914c836925c4509",
-    "5c5cc16aa1934b03",
-    "e3492a673d7788dc",
-    "68ea5dfe081421a8",
-    "9b84c4f6c05f1373",
-    "8ddc939ed6d8aa38",
-    "296fa5f84db11dd6",
-    "425732f8da19ca49",
-    "46faf98c5870c4a7",
-    "426ea508aad9d067",
-    "5179ea754edc8e8a",
+    "76b5c629e6ed19af",
+    "09348fb68623de4b",
+    "a2c87f642678eac1",
+    "cdc3c89fef89f256",
+    "d1d7c3e214f564c1",
+    "4518eb7718c062a9",
+    "de24590573000bc9",
+    "03a4b2b1482b3a58",
+    "92325c552f08445b",
+    "49ef590d85f21239",
     "f0a1747e3850a13f",
     "ee15e90b090b34ba"
    ]
@@ -742,15 +788,298 @@
    "changed_by": [],
    "markdown": "## ANEXO II — Tabela a que se refere o artigo 12.º, n.º 3\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/09/21700/30413050.pdf)"
   },
-  "5c5cc16aa1934b03": {
+  "de42bec30ba07262": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — (Regime de rendas)",
+   "in_force_from": "1999-07-27",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 321-B/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-b-1990-667147), publicado em 1990-10-15."
+   ],
+   "markdown": "###### Artigo 1.º — (Regime de rendas)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 321-B/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-b-1990-667147), publicado em 1990-10-15."
+  },
+  "c87ab5f0d86bcdf4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — (Renda livre)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — (Renda livre)\n\n(Revogado.)"
+  },
+  "5f29ea8aa9f68937": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — (Renda condicionada)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — (Renda condicionada)\n\n(Revogado.)"
+  },
+  "9059f51e5ed86a98": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — (Valor actualizado dos fogos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — (Valor actualizado dos fogos)\n\n(Revogado.)"
+  },
+  "f7b11ca6d7ab6e64": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — (Opção do regime pelo senhorio)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — (Opção do regime pelo senhorio)\n\n(Revogado.)"
+  },
+  "26c05da7946708ae": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — (Actualização anual da renda na vigência do contrato)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — (Actualização anual da renda na vigência do contrato)\n\n(Revogado.)"
+  },
+  "b48d865f30c7a02f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — (Regime obrigatório)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — (Regime obrigatório)\n\n(Revogado.)"
+  },
+  "baa1772f535a2613": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — (Transição de regimes)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — (Transição de regimes)\n\n(Revogado.)"
+  },
+  "6ef4c12592736e40": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — (Regime de renda apoiada)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — (Regime de renda apoiada)\n\n(Revogado.)"
+  },
+  "c747d52ecc5cf9da": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — (Arrendamento de habitação social)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — (Arrendamento de habitação social)\n\n(Revogado.)"
+  },
+  "9fc6c5b5214f39de": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — (Conceito)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — (Conceito)\n\n(Revogado.)"
+  },
+  "4ae5d04ac26576e6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — (Realização de obras de beneficiação)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — (Realização de obras de beneficiação)\n\n(Revogado.)"
+  },
+  "847b0617808ed6c4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — (Acordo para a realização de obras de beneficiação)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — (Acordo para a realização de obras de beneficiação)\n\n(Revogado.)"
+  },
+  "79f0f4c9dfc14d68": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — (Suspensão do regime de ajustamento)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — (Suspensão do regime de ajustamento)\n\n(Revogado.)"
+  },
+  "6320ad915182ad15": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — (Depósito da actualização)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — (Depósito da actualização)\n\n(Revogado.)"
+  },
+  "172a53486fd429a4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — (Recusa de execução das obras)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — (Recusa de execução das obras)\n\n(Revogado.)"
+  },
+  "cfd6e1499fbf09b8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º — (Direito a novo arrendamento)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — (Direito a novo arrendamento)\n\n(Revogado.)"
+  },
+  "cf23eb995e8a6fc5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º — (Cessação do direito a novo arrendamento)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — (Cessação do direito a novo arrendamento)\n\n(Revogado.)"
+  },
+  "48d4b3af8ad79f40": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º — (Direito de preferência na venda de fogos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — (Direito de preferência na venda de fogos)\n\n(Revogado.)"
+  },
+  "763d11d7cb0d0d68": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 35.º — (Regime especial tributário)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — (Regime especial tributário)\n\n(Revogado.)"
+  },
+  "13a3dd2af9cb8563": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 37.º — (Regime supletivo)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — (Regime supletivo)\n\n(Revogado.)"
+  },
+  "835a5a262a0475de": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 38.º — (Contribuição predial do prédio devoluto)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — (Contribuição predial do prédio devoluto)\n\n(Revogado.)"
+  },
+  "b3b5696324637c9a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 40.º — (Alteração de preceitos do Código Civil)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — (Alteração de preceitos do Código Civil)\n\n(Revogado.)"
+  },
+  "1f00400d2f04a28e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 41.º — (Alteração à [Lei n.º 55/79](https://diariodarepublica.pt/dr/detalhe/lei/55-1979-369858))",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — (Alteração à [Lei n.º 55/79](https://diariodarepublica.pt/dr/detalhe/lei/55-1979-369858))\n\n(Revogado.)"
+  },
+  "ac1b44174f711f07": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 42.º — (Alteração à [Lei n.º 2088](https://diariodarepublica.pt/dr/detalhe/lei/2088-1957-277324))",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — (Alteração à [Lei n.º 2088](https://diariodarepublica.pt/dr/detalhe/lei/2088-1957-277324))\n\n(Revogado.)"
+  },
+  "81cf660212caeb2f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 43.º — (Rendas a fixar ao abrigo do artigo 7.º da [Lei n.º 2088](https://diariodarepublica.pt/dr/detalhe/lei/2088-1957-277324))",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — (Rendas a fixar ao abrigo do artigo 7.º da [Lei n.º 2088](https://diariodarepublica.pt/dr/detalhe/lei/2088-1957-277324))\n\n(Revogado.)"
+  },
+  "76b5c629e6ed19af": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 44.º — (Exigência de licença de construção ou de utilização para efeitos de transmissão de prédios)",
-   "in_force_from": "1986-04-24",
+   "in_force_from": "1999-07-27",
    "changed_by": [
-    "Alterado pelo/a [Decreto-Lei n.º 74/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-1986-195074), publicado em 1986-04-23."
+    "Alterado pelo/a [Decreto-Lei n.º 74/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-1986-195074), publicado em 1986-04-23.",
+    "Revogado pelo/a [Decreto-Lei n.º 281/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/281-1999-353354), publicado em 1999-07-26, com efeitos a partir de 1999-07-27."
    ],
-   "markdown": "###### Artigo 44.º — (Exigência de licença de construção ou de utilização para efeitos de transmissão de prédios)\n\n1 - Não podem ser celebradas escrituras públicas que envolvam a transmissão da propriedade de prédios urbanos sem que se faça perante o notário prova suficiente da inscrição na matriz predial e da existência da correspondente licença de construção ou de utilização, quando exigível, da qual se fará sempre menção na escritura.\n\n2 - No caso de os prédios estarem omissos na matriz é suficiente a prova de haver sido apresentada na repartição de finanças a participação para a inscrição.\n\n3 - A prova da participação para a inscrição na matriz, quando se trate de prédio omisso, faz-se pela exibição de duplicado que tenha aposto o recibo da repartição de finanças, com antecedência não superior a um ano, e pela exibição de outro documento dela emanado, autenticado com o respectivo selo branco.\n\n> Alterado pelo/a [Decreto-Lei n.º 74/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-1986-195074), publicado em 1986-04-23."
+   "markdown": "###### Artigo 44.º — (Exigência de licença de construção ou de utilização para efeitos de transmissão de prédios)\n\n1 - (Revogado.)\n\n2 - No caso de os prédios estarem omissos na matriz é suficiente a prova de haver sido apresentada na repartição de finanças a participação para a inscrição.\n\n3 - A prova da participação para a inscrição na matriz, quando se trate de prédio omisso, faz-se pela exibição de duplicado que tenha aposto o recibo da repartição de finanças, com antecedência não superior a um ano, e pela exibição de outro documento dela emanado, autenticado com o respectivo selo branco.\n\n> Alterado pelo/a [Decreto-Lei n.º 74/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-1986-195074), publicado em 1986-04-23.\n\n> Revogado pelo/a [Decreto-Lei n.º 281/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/281-1999-353354), publicado em 1999-07-26, com efeitos a partir de 1999-07-27."
+  },
+  "09348fb68623de4b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 45.º — (Obrigatoriedade de licença para actualização e correcção)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — (Obrigatoriedade de licença para actualização e correcção)\n\n(Revogado.)"
+  },
+  "a2c87f642678eac1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 46.º — Recuperação de habitações arrendadas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Recuperação de habitações arrendadas)\n\n(Revogado.)"
+  },
+  "cdc3c89fef89f256": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 47.º — (Especulação)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — (Especulação)\n\n(Revogado.)"
+  },
+  "d1d7c3e214f564c1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 48.º — (Falsas declarações)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — (Falsas declarações)\n\n(Revogado.)"
+  },
+  "4518eb7718c062a9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 49.º — (Direito de representação das associações de inquilinos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — (Direito de representação das associações de inquilinos)\n\n(Revogado.)"
+  },
+  "de24590573000bc9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 50.º — (Suspensão de despejos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — (Suspensão de despejos)\n\n(Revogado.)"
+  },
+  "03a4b2b1482b3a58": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 51.º — (Legislação revogada)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — (Legislação revogada)\n\n(Revogado.)"
+  },
+  "92325c552f08445b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 52.º — (Regulamentação)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — (Regulamentação)\n\n(Revogado.)"
+  },
+  "49ef590d85f21239": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 53.º — (Entrada em vigor)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — (Entrada em vigor)\n\n(Revogado.)\n\nAprovada em 4 de Julho de 1985.\n\nO Presidente da Assembleia da República, Fernando Monteiro do Amaral.\n\nPromulgada em 14 de Agosto de 1985.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nReferendada em 21 de Agosto de 1985.\n\nO Primeiro-Ministro, Mário Soares."
   }
  }
 }

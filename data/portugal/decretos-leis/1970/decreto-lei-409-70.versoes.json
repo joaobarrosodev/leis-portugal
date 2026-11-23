@@ -15,7 +15,7 @@
    ]
   },
   {
-   "date": "1975-04-02",
+   "date": "1976-07-12",
    "future": false,
    "acts": [
     {
@@ -23,11 +23,20 @@
      "title": "Decreto-Lei n.º 177/75",
      "published": "1975-04-02",
      "dre_path": "/dr/detalhe/decreto-lei/177-1975-161720"
+    },
+    {
+     "id": "pt:dre:181630:por",
+     "title": "Decreto-Lei n.º 550-E/76",
+     "published": "1976-07-12",
+     "dre_path": "/dr/detalhe/decreto-lei/550-e-1976-181630"
     }
    ],
    "changes": [
     "Altera Artigo 5.º",
-    "Altera Artigo 8.º"
+    "Altera Artigo 8.º",
+    "Revoga Artigo 6",
+    "Revoga Artigo 7",
+    "Revoga Artigo 8"
    ],
    "fragments": [
     "ca66fe3a8d2b405a",
@@ -36,9 +45,9 @@
     "9eb352acbb178a17",
     "5371b92ec9f8fdc3",
     "d71a40fe98f95c2d",
-    "ad32712ecc228c4d",
-    "3f0ae270de81b716",
-    "385c09b2bcc79e5f",
+    "e55b64568c5107c9",
+    "8dd690153acf884c",
+    "21a7a9d84de3340d",
     "4fa7f254d6e0d4cc",
     "740bd64f85ae1a3c",
     "473d15e1d5c9eb39",
@@ -121,37 +130,39 @@
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 5.º",
-   "in_force_from": "1975-04-02",
+   "in_force_from": "1976-07-12",
    "changed_by": [
     "Alterado pelo/a [Decreto-Lei n.º 177/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-1975-161720), publicado em 1975-04-02."
    ],
    "markdown": "###### Artigo 5.º\n\n1. O pessoal militar permanente privativo da Força Aérea e o pessoal civil contratado constante do mapa n.º 1 anexo ao presente diploma é aumentado aos efectivos da Força Aérea e integrado nos mapas I e V anexos ao [Decreto-Lei n.º 42066](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42066-1958-342607), de 29 de Dezembro de 1968, conforme as especialidades, nos quadros de oficiais pilotos aviadores, técnicos de mecanografia e estatística, do serviço geral e nos do pessoal civil contratado de secretaria, de mecanografia e menor.\n\n2. Quando nos quadros de oficiais técnicos de mecanografia e estatística ou de civis contratados de mecanografia se verificarem, em determinados graus hierárquicos ou classes, vacaturas que não possam ser preenchidas por falta de candidatos com as necessárias condições, podem tais vacaturas ser ocupadas por pessoal dos mesmos quadros de graus hierárquicos ou categorias inferiores.\n\n> Alterado pelo/a [Decreto-Lei n.º 177/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-1975-161720), publicado em 1975-04-02."
   },
-  "ad32712ecc228c4d": {
+  "e55b64568c5107c9": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 6.º",
-   "in_force_from": null,
-   "changed_by": [],
-   "markdown": "###### Artigo 6.º\n\nO quadro permanente de oficiais técnicos de mecanografia e estatística é o que consta da alínea 2) do n.º 1) do mapa n.º 1 anexo ao presente decreto-lei."
+   "in_force_from": "1976-07-12",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 550-E/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/550-e-1976-181630), publicado em 1976-07-12."
+   ],
+   "markdown": "###### Artigo 6.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 550-E/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/550-e-1976-181630), publicado em 1976-07-12."
   },
-  "3f0ae270de81b716": {
+  "8dd690153acf884c": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 7.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 7.º\n\nO quadro, categorias e ordenados mensais do pessoal civil contratado de mecanografia são os que constam do mapa n.º 2 anexo ao presente decreto-lei."
+   "markdown": "###### Artigo 7.º\n\n(Revogado.)"
   },
-  "385c09b2bcc79e5f": {
+  "21a7a9d84de3340d": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 8.º",
-   "in_force_from": "1975-04-02",
+   "in_force_from": "1976-07-12",
    "changed_by": [
     "Alterado pelo/a [Decreto-Lei n.º 177/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-1975-161720), publicado em 1975-04-02."
    ],
-   "markdown": "###### Artigo 8.º\n\nO quadro do pessoal da Direcção do Serviço de Informática da Força Aérea será objecto de portaria do Chefe do Estado-Maior da Força Aérea será objecto de portaria do Chefe Força Aérea, sem alteração dos efectivos gerais autorizados para a Força Aérea.\n\n> Alterado pelo/a [Decreto-Lei n.º 177/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-1975-161720), publicado em 1975-04-02."
+   "markdown": "###### Artigo 8.º\n\n(Revogado.)\n\n> Alterado pelo/a [Decreto-Lei n.º 177/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-1975-161720), publicado em 1975-04-02."
   },
   "4fa7f254d6e0d4cc": {
    "fragment_id": null,

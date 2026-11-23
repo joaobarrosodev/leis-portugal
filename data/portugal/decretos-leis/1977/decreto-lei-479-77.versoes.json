@@ -29,18 +29,25 @@
      "title": "Decreto-Lei n.º 200/2009",
      "published": "2009-08-27",
      "dre_path": "/dr/detalhe/decreto-lei/200-2009-488827"
+    },
+    {
+     "id": "pt:dre:484417:por",
+     "title": "Decreto-Lei n.º 96/91",
+     "published": "1991-02-26",
+     "dre_path": "/dr/detalhe/decreto-lei/96-1991-484417"
     }
    ],
    "changes": [
     "Altera Artigo 2.º",
     "Altera Artigo 4.º",
-    "Altera Artigo 6.º"
+    "Altera Artigo 6.º",
+    "Revoga Artigo 3"
    ],
    "fragments": [
     "ec84e2662c5d5244",
     "cd25562ecea877c0",
     "b9764b6cfdcfbf91",
-    "19d11173e203ca12",
+    "1c465838e9389203",
     "fdbe1d9ea48d6d7a",
     "f67e20dc0909a074",
     "794525c7da53729b",
@@ -85,13 +92,15 @@
    ],
    "markdown": "###### Artigo 2.º\n\nA importância destinada a prémios em cada lotaria não pode ser inferior a 50 %, nem superior a 70 %, do capital emitido.\n\n> Alterado pelo/a [Decreto-Lei n.º 200/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-2009-488827), publicado em 2009-08-27."
   },
-  "19d11173e203ca12": {
+  "1c465838e9389203": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 3.º",
-   "in_force_from": null,
-   "changed_by": [],
-   "markdown": "###### Artigo 3.º\n\nEm cada lotaria continuará a constituir receita extraordinária da Caixa de Previdência dos Empregados da Assistência a percentagem de 0,225 do capital emitido."
+   "in_force_from": "2009-08-31",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 96/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-1991-484417), publicado em 1991-02-26, com efeitos a partir de 1991-03-03."
+   ],
+   "markdown": "###### Artigo 3.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 96/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-1991-484417), publicado em 1991-02-26, com efeitos a partir de 1991-03-03."
   },
   "fdbe1d9ea48d6d7a": {
    "fragment_id": null,

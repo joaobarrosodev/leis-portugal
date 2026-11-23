@@ -57,41 +57,66 @@
      "title": "Decreto-Lei n.º 138-C/2010",
      "published": "2010-12-28",
      "dre_path": "/dr/detalhe/decreto-lei/138-c-2010-666882"
+    },
+    {
+     "id": "pt:dre:604644:por",
+     "title": "Decreto-Lei n.º 55/2009",
+     "published": "2009-03-02",
+     "dre_path": "/dr/detalhe/decreto-lei/55-2009-604644"
     }
    ],
    "changes": [
     "Revoga Artigo 25.º",
-    "Revoga Artigo 28.º"
+    "Revoga Artigo 28.º",
+    "Revoga Artigo 2",
+    "Revoga Artigo 3",
+    "Revoga Artigo 6",
+    "Revoga Artigo 7",
+    "Revoga Artigo 8",
+    "Revoga Artigo 10",
+    "Revoga Artigo 11",
+    "Revoga Artigo 12",
+    "Revoga Artigo 13",
+    "Revoga Artigo 14",
+    "Revoga Artigo 15",
+    "Revoga Artigo 16",
+    "Revoga Artigo 17",
+    "Revoga Artigo 18",
+    "Revoga Artigo 19",
+    "Revoga Artigo 20",
+    "Revoga Artigo 21",
+    "Revoga Artigo 22",
+    "Revoga Artigo 23"
    ],
    "fragments": [
     "3fdec4bb20c357ce",
     "e82e298be73417b9",
     "e7e9b4062c09c493",
-    "d200e0985e57b1b9",
-    "022dfe68ff1a79c2",
+    "566e55fdbc8060cf",
+    "7216a7a7acbbba6a",
     "d1599981565ca5bc",
     "364d23ee3dff7d15",
     "c7263d013283fde0",
-    "cd11730f81704cde",
-    "8299d7e7e4503d04",
-    "af13ba1f60a73af0",
+    "e334236aaa20fdcc",
+    "ef7052f047312dd9",
+    "8eb3674bd4bc1104",
     "6813212b57a2c5f8",
     "80df7616de3ea3a1",
     "05cc9426beae7131",
-    "f66778b55c1db97a",
-    "0f5b267a82de01fa",
-    "c8e33999a9450115",
-    "7985a8f5891dd3e2",
-    "a50d6ea2b10f4342",
-    "d18a4267acc4192d",
-    "6534e64136f59365",
-    "b1cbd5e9c4d532b4",
-    "b88ef3fd8c3ac69d",
-    "b6a4ce603642d625",
-    "ebc2c725d8f0fae4",
-    "f68c5cdb08106500",
-    "29f6c47130cbc25e",
-    "0d0724ddbdaf1850",
+    "23502d57925233c9",
+    "b7b43d08b254b7ee",
+    "001e5aa996f99648",
+    "62be76237eb113ca",
+    "5d5840e0181efdc8",
+    "0fa3a0836563f1d4",
+    "eb79ec025a8d03c7",
+    "3e880c9414ee6ea5",
+    "49a8eb19e1d62486",
+    "88c07dfd351962d7",
+    "07f0d38e50a49aa2",
+    "4aac6d25c775287d",
+    "0239b70b243f6e7e",
+    "364e14efb4d862b8",
     "6bad5de2d291ea5a",
     "641a236ffb9df609",
     "acaaafe96776f4d7",
@@ -382,6 +407,160 @@
    "in_force_from": null,
    "changed_by": [],
    "markdown": "###### Artigo 29.º — Norma revogatória\n\nÉ revogado o artigo 6.º do [Decreto-Lei n.º 301/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/301-1984-373429), de 7 de Setembro, na redacção dada pelo artigo 2.º do [Decreto-Lei n.º 243/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/243-1987-419059), de 15 de Junho.\n\nVisto e aprovado em Conselho de Ministros de 16 de Novembro de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - José Manuel Nunes Liberato - Roberto Artur da Luz Carneiro - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.\n\nPromulgado em 12 de Janeiro de 1990.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 16 de Janeiro de 1990.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "566e55fdbc8060cf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Cumprimento da escolaridade obrigatória",
+   "in_force_from": "2010-12-29",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 55/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-2009-604644), publicado em 2009-03-02, com efeitos a partir de 2009-03-07."
+   ],
+   "markdown": "###### Artigo 2.º — Cumprimento da escolaridade obrigatória\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 55/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-2009-604644), publicado em 2009-03-02, com efeitos a partir de 2009-03-07."
+  },
+  "7216a7a7acbbba6a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Gratuitidade da escolaridade obrigatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Gratuitidade da escolaridade obrigatória\n\n(Revogado.)"
+  },
+  "e334236aaa20fdcc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Prioridade por níveis de educação e ensino",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Prioridade por níveis de educação e ensino\n\n(Revogado.)"
+  },
+  "ef7052f047312dd9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Níveis de comparticipação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Níveis de comparticipação\n\n(Revogado.)"
+  },
+  "8eb3674bd4bc1104": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Referenciais de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Referenciais de aplicação\n\n(Revogado.)"
+  },
+  "23502d57925233c9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Apoios alimentares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Apoios alimentares\n\n(Revogado.)"
+  },
+  "b7b43d08b254b7ee": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Programa de leite escolar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Programa de leite escolar\n\n(Revogado.)"
+  },
+  "001e5aa996f99648": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Refeitórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Refeitórios\n\n(Revogado.)"
+  },
+  "62be76237eb113ca": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Bufetes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Bufetes\n\n(Revogado.)"
+  },
+  "5d5840e0181efdc8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Educação e higiene alimentar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Educação e higiene alimentar\n\n(Revogado.)"
+  },
+  "0fa3a0836563f1d4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Transportes escolares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Transportes escolares\n\n(Revogado.)"
+  },
+  "eb79ec025a8d03c7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Alojamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Alojamento\n\n(Revogado.)"
+  },
+  "3e880c9414ee6ea5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Prevenção e seguro escolar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Prevenção e seguro escolar\n\n(Revogado.)"
+  },
+  "49a8eb19e1d62486": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Cedência de livros e material escolar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Cedência de livros e material escolar\n\n(Revogado.)"
+  },
+  "88c07dfd351962d7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Auxílios económicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Auxílios económicos\n\n(Revogado.)"
+  },
+  "07f0d38e50a49aa2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Isenção de propinas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Isenção de propinas\n\n(Revogado.)"
+  },
+  "4aac6d25c775287d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Bolsa de estudo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Bolsa de estudo\n\n(Revogado.)"
+  },
+  "0239b70b243f6e7e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Empréstimo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Empréstimo\n\n(Revogado.)"
+  },
+  "364e14efb4d862b8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Serviços de acção social escolar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Serviços de acção social escolar\n\n(Revogado.)"
   },
   "acaaafe96776f4d7": {
    "fragment_id": null,

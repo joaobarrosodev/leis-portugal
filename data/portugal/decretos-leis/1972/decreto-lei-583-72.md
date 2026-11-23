@@ -41,7 +41,7 @@ version:
   kind: consolidated
   label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: '1976-03-22'
+  consolidation_date: '1976-11-06'
 version_history:
   file: decreto-lei-583-72.versoes.json
   count: 2
@@ -51,11 +51,12 @@ version_history:
     amending: null
     amending_title: null
     changes: []
-  - date: '1976-03-22'
+  - date: '1976-11-06'
     amending: pt:dre:501381:por
-    amending_title: Decreto-Lei n.º 209/76
+    amending_title: Decreto-Lei n.º 209/76; Decreto-Lei n.º 797/76
     changes:
     - Altera Artigo 26.º
+    - Revoga Artigo 26
 identifiers:
   celex: null
   eli: null
@@ -82,7 +83,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:25:26Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 209/76. Método e
-    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1972/decreto-lei-583-72.alteracoes.json'
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1972/decreto-lei-583-72.alteracoes.json.
+    Revogações registadas só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Decreto-Lei
+    n.º 797/76.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -475,13 +478,11 @@ A organização interna do Fundo e o modo de recrutamento e provimento do seu pe
 
 ###### Artigo 26.º
 
-1. A distribuição das casas construídas pelo Fundo, bem como daquelas cuja construção tenha sido por ele promovida ou coordenada, quer sejam sua propriedade, quer pertençam ao património de municípios, misericórdias, organismos corporativos e instituições de previdência ou de serviços sociais dos diversos Ministérios e organismos autónomos, será feita mediante concurso, nos termos de regulamento a aprovar por portaria do Ministro das Obras Públicas.
-
-2. Serão organizados concursos separados, consoante o regime de utilização ou cedência das habitações e a natureza aberta ou restrita da sua atribuição, determinada pela natureza do financiamento utilizado ou pelo regime legal aplicável.
-
-3. Excepcionalmente, em casos devidamente fundamentados, a distribuição de casas do património do Fundo, destinadas a arrendamento, poderá efectuar-se, independentemente de concurso, por simples despacho ministerial.
+(Revogado.)
 
 > Alterado pelo/a [Decreto-Lei n.º 209/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-1976-501381), publicado em 1976-03-22.
+
+> Revogado pelo/a [Decreto-Lei n.º 797/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/797-1976-407338), publicado em 1976-11-06.
 
 ###### Artigo 27.º
 

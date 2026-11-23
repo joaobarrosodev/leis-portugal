@@ -41,7 +41,7 @@ version:
   kind: consolidated
   label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: '1997-02-12'
+  consolidation_date: '1998-11-23'
 version_history:
   file: decreto-lei-408-93.versoes.json
   count: 2
@@ -51,9 +51,10 @@ version_history:
     amending: null
     amending_title: null
     changes: []
-  - date: '1997-02-12'
+  - date: '1998-11-23'
     amending: pt:dre:559038:por
-    amending_title: Decreto-Lei n.º 42/97; Declaração de Rectificação n.º 22/94; Portaria n.º 225/95; Portaria n.º 515/95
+    amending_title: Decreto-Lei n.º 42/97; Declaração de Rectificação n.º 22/94; Portaria n.º 225/95; Portaria n.º 515/95;
+      Decreto-Lei n.º 51/98; Decreto-Lei n.º 357/98
     changes:
     - Altera Artigo 32.º
     - Altera Artigo 33.º
@@ -75,6 +76,11 @@ version_history:
     - Retifica Artigo 21
     - Retifica Artigo 57
     - Altera anexo ou texto fora do articulado
+    - Revoga Artigo 28
+    - Revoga Artigo 29
+    - Revoga Artigo 30
+    - Revoga Artigo 31
+    - Revoga Artigo 35
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/408/1993/12/14/p/dre/pt/html
@@ -104,7 +110,8 @@ provenance:
     consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1993/decreto-lei-408-93.alteracoes.json. Retificações
     aplicadas com um LLM e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração de Rectificação n.º 22/94.
     Anexos e quadros de alteradores triados «sem alteração textual», aplicados com um LLM e verificados às cegas (consolidacao/anexos_alteradores.py):
-    Portaria n.º 225/95; Portaria n.º 515/95.'
+    Portaria n.º 225/95; Portaria n.º 515/95. Revogações registadas só como repealed_by, aplicadas com um LLM e verificadas
+    às cegas (consolidacao/revogacoes.py): Decreto-Lei n.º 51/98; Decreto-Lei n.º 357/98.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -1003,121 +1010,21 @@ b) Divisão do Cadastro do IR e do Património, à qual incumbe o desempenho das
 
 ###### Artigo 28.º — Direcção de Serviços de Produção e Suporte Técnico
 
-1 - À DSPST incumbe:
+(Revogado.)
 
-a) Planear, executar e controlar a utilização de todos os equipamentos informáticos, de comunicação e outros complementares cuja responsabilidade lhe seja cometida;
-
-b) Colaborar na realização dos sistemas informáticos em desenvolvimento, de forma a assegurar a sua funcionalidade e compatibilidade com as regras de exploração em vigor;
-
-c) Participar nos estudos conducentes a alterações no parque de equipamentos e de programas-produto de apoio operacional, de carga dos equipamentos e outros produtos conexos com a actividade do serviço em que se integra;
-
-d) Detectar, analisar e resolver os problemas derivados da utilização do parque informático, nomeadamente os que envolvam vários componentes do sistema, em colaboração com as unidades orgânicas competentes;
-
-e) Gerir a rede de teleprocessamento;
-
-f) Garantir a segurança e a confidencialidade da informação;
-
-g) Estudar, testar, implementar a administrar os suportes lógicos de base e os programas-produto necessários ao funcionamento e manutenção do sistema de processamento central;
-
-h) Prestar apoio técnico na utilização do parque de equipamento central e respectivo suporte lógico;
-
-i) Colaborar na concepção e implantação da rede de comunicação de dados;
-
-j) Administrar os sistemas lógicos de gestão e controlo de comunicações;
-
-l) Coordenar os pedidos de circuitos de transmissão de dados, definir os seus tipos de ligação, efectivar os diversos pedidos de definição nos componentes do sistema e coordenar os seus testes com o planificador;
-
-m) Analisar e controlar os registos das avarias nos equipamentos informáticos e de telecomunicações, bem como a qualidade da manutenção prestada pelos fornecedores com os quais tenham sido estabelecidos acordos de assistência técnica;
-
-n) Promover o estabelecimento de acordos de manutenção dos equipamentos informáticos, com vista à salvaguarda dos interesses do Estado e à eficaz operacionalidade dos mesmos;
-
-o) Apoiar os serviços na área do teleprocessamento.
-
-2 - A DSPST compreende as seguintes divisões:
-
-a) Divisão de Produção e Suporte Técnico, que exerce as competências a que se referem as alíneas a) a f) do n.º 1;
-
-b) Divisão de Comunicações e Suportes Lógicos, que exerce as competências a que se referem as alíneas g) a j) do mesmo número;
-
-c) Divisão de Exploração (Centro), que exerce as competências a que se referem as alíneas l) a o) do mesmo número.
+> Revogado pelo/a [Decreto-Lei n.º 51/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-1998-218950), publicado em 1998-03-11, com efeitos a partir de 1998-03-16.
 
 ###### Artigo 29.º — Direcção de Serviços de Sistemas de Informação
 
-1 - À DSSI incumbe:
-
-a) Fazer a análise e o planeamento dos sistemas de informação;
-
-b) Conceber, desenvolver e implementar soluções informáticas;
-
-c) Promover a formação e o acompanhamento dos utilizadores;
-
-d) Promover a instalação dos sistemas realizados nos equipamentos e elaborar os respectivos manuais de exploração e utilização;
-
-e) Promover a implantação organizacional dos sistemas informáticos e elaborar os respectivos manuais de utilização;
-
-f) Promover a formação e o acompanhamento dos utilizadores durante a fase de implantação dos sistemas informáticos;
-
-g) Colaborar no estudo e adopção de metodologias de gestão, concepção e desenvolvimento de projectos informáticos, bem como apoiar tecnicamente a tomada de decisões quanto à adopção de novos produtos e soluções;
-
-h) Implementar os programas-produto necessários ao funcionamento e manutenção dos sistemas de processamento central, distrital e local;
-
-i) Conceber e desenvolver projectos de âmbito local ou periférico, sem interferência directa com os sistemas centrais, a implementar em equipamentos departamentais ou locais;
-
-j) Apoiar tecnicamente as equipas de projectos de sistemas informáticos e de comunicações;
-
-l) Apoiar a formação no âmbito da informática;
-
-m) Gerir a documentação técnica informática.
-
-2 - Junto da DSSI funciona uma Divisão de Sistemas Periféricos, que exerce as competências a que se referem as alíneas i), j) e h) do número anterior.
+(Revogado.)
 
 ###### Artigo 30.º — Direcção de Serviços de Planeamento, Controlo e Administração de Dados
 
-1 - À DSPCAD incumbe:
-
-a) Programar, coordenar e controlar a execução dos projectos informáticos;
-
-b) Elaborar o plano director de informática, de acordo com as necessidades dos respectivos sistemas de informação;
-
-c) Criar e promover as condições que permitam orientar o processo de informatização da DGCI dentro de uma linha estratégica de maior participação dos utilizadores, nomeadamente através da implantação de meios de acesso à informação;
-
-d) Proceder à análise de dados;
-
-e) Conceber, representar, normalizar e actualizar os modelos representativos da informação;
-
-f) Colaborar na concepção, desenvolvimento e implementação dos projectos informáticos;
-
-g) Apoiar os serviços na gestão da informação, nomeadamente na determinação de níveis de acesso e protecção de dados e na definição de normas de qualidade, difusão e utilização dos mesmos;
-
-h) Constituir e gerir o dicionário de dados, mantendo-o actualizado com base nas descrições semânticas, físicas e de utilização, de forma a permitir o reconhecimento, interpretação e desenvolvimento do sistema de informação;
-
-i) Implementar e administrar as bases de dados, designadamente através da concepção dos respectivos esquemas e da definição da estrutura física dos dados;
-
-j) Assegurar o cumprimento das normas de qualidade, confidencialidade e salvaguarda dos dados;
-
-l) Apoiar tecnicamente a tomada de decisões quanto à adopção de produtos e soluções que sejam considerados de interesse;
-
-m) Gerar protótipos e aplicações em conjunto com os utilizadores e dar formação no tocante ao emprego das técnicas adequadas a esse fim;
-
-n) Apoiar os utilizadores na obtenção de acesso a dados memorizados nos sistemas centrais e garantir que aquela operação se faça de acordo com os modelos, normas e procedimentos definidos;
-
-o) Difundir os produtos e serviços existentes e promover a troca de experiências entre os utilizadores;
-
-p) Efectuar a instrução dos processos de tomada de decisão relativamente à aquisição de bens e serviços de informática.
-
-2 - A DSPCAD compreende as seguintes divisões:
-
-a) Divisão de Planeamento e Coordenação, que exerce as competências a que se referem as alíneas a), b) e c) do número anterior;
-
-b) Divisão de Administração de Dados, que exerce as competências a que se referem as alíneas d) a p) do mesmo número.
+(Revogado.)
 
 ###### Artigo 31.º — Serviço Regional de Informática do Norte
 
-1 - O SRIN prossegue, a nível distrital e local, as competências previstas nos artigos 28.º a 30.º do presente diploma.
-
-2 - O SRIN está sediado na Direcção de Finanças do Porto e abrange as áreas geográficas que lhe forem cometidas por despacho do director-geral.
-
-3 - O SRIN é dirigido por um director de serviços.
+(Revogado.)
 
 ###### Artigo 32.º — Direcções distritais de finanças e direcções de finanças
 
@@ -1273,7 +1180,9 @@ g) Assegurar o expediente geral da respectiva direcção de finanças;
 
 h) Assegurar o expediente necessário à execução das actividades que, não cabendo especificamente no âmbito das atribuições da DGCI, lhe são cometidas por lei.
 
-2 - Nas Direcções Distritais de Finanças de Lisboa e Porto a competência a que se refere a alínea h) do número anterior é exercida pela Repartição não Tributária.
+2 - (Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 357/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/357-1998-229310), publicado em 1998-11-18, com efeitos a partir de 1998-11-23.
 
 ###### Artigo 36.º — Serviços locais
 

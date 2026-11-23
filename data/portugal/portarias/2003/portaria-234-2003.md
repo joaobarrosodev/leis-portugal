@@ -55,9 +55,10 @@ version_history:
     changes: []
   - date: '2005-09-15'
     amending: pt:dre:142347:por
-    amending_title: Portaria n.º 810/2005
+    amending_title: Portaria n.º 810/2005; Portaria n.º 808/2005; Portaria n.º 809/2005
     changes:
     - Altera Artigo unidades 8-8
+    - Revoga anexo ou texto fora do articulado
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/234/2003/03/17/p/dre/pt/html
@@ -84,7 +85,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:48:01Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 810/2005. Método e verificação:
-    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2003/portaria-234-2003.alteracoes.json'
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2003/portaria-234-2003.alteracoes.json. Revogações registadas
+    só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Portaria n.º 808/2005;
+    Portaria n.º 809/2005.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -171,17 +174,21 @@ Ao abrigo do disposto no artigo 6.º do [Decreto-Lei n.º 269/98](https://diario
 
 Manda o Governo, pela Ministra da Justiça, o seguinte:
 
-1.º É aprovado o novo modelo de impresso do requerimento de injunção no âmbito da providência de injunção aprovada pelo [Decreto-Lei n.º 269/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-1998-566629), de 1 de Setembro, constante do anexo à presente portaria.
+1.º - (Revogado.)
 
-2.º A existência do modelo referido no número anterior deve ser divulgada aos utentes, de forma adequada, pelas respectivas secretarias judiciais.
+> Revogado pelo/a [Portaria n.º 808/2005](https://diariodarepublica.pt/dr/detalhe/portaria/808-2005-142345), publicado em 2005-09-09, com efeitos a partir de 2005-09-15.
 
-3.º Mediante autorização da Direcção-Geral da Administração da Justiça, o requerimento de injunção pode ser apresentado através de ficheiro informático, em formato e suporte definidos pela mesma.
+2.º - (Revogado.)
+
+3.º - (Revogado.)
+
+> Revogado pelo/a [Portaria n.º 809/2005](https://diariodarepublica.pt/dr/detalhe/portaria/809-2005-142346), publicado em 2005-09-09, com efeitos a partir de 2005-09-15.
 
 4.º - (Revogado.)
 
 > Alterado pelo/a [Portaria n.º 810/2005](https://diariodarepublica.pt/dr/detalhe/portaria/810-2005-142347), publicado em 2005-09-09.
 
-5.º A autorização referida no n.º 3.º pode ser limitada a determinadas secretarias judiciais, produzindo efeitos a partir da data em que é concedida.
+5.º - (Revogado.)
 
 6.º É revogada, com efeitos a partir da data fixada no número seguinte, a [Portaria n.º 902/98](https://diariodarepublica.pt/dr/detalhe/portaria/902-1998-235098), de 15 de Outubro.
 

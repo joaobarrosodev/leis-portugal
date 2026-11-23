@@ -43,10 +43,11 @@ version_history:
     changes: []
   - date: '1981-09-25'
     amending: pt:dre:337217:por
-    amending_title: Decreto-Lei n.º 326/75; Portaria n.º 849/81; Portaria n.º 850/81
+    amending_title: Decreto-Lei n.º 326/75; Portaria n.º 849/81; Portaria n.º 850/81; Decreto-Lei n.º 513-T/79
     changes:
     - Altera Artigo 24.º
     - Altera anexo ou texto fora do articulado
+    - Revoga Artigo 2
 identifiers:
   celex: null
   eli: null
@@ -75,7 +76,8 @@ provenance:
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 326/75. Método e
     verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1974/decreto-lei-830-74.alteracoes.json.
     Anexos e quadros de alteradores triados «sem alteração textual», aplicados com um LLM e verificados às cegas (consolidacao/anexos_alteradores.py):
-    Portaria n.º 849/81; Portaria n.º 850/81.'
+    Portaria n.º 849/81; Portaria n.º 850/81. Revogações registadas só como repealed_by, aplicadas com um LLM e verificadas
+    às cegas (consolidacao/revogacoes.py): Decreto-Lei n.º 513-T/79.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -223,7 +225,9 @@ Usando da faculdade conferida pelo artigo 16.º, n.º 1, 3.º, da Lei Constituci
 
 2. Neles se conferem os graus de bacharelato, licenciatura e doutoramento.
 
-3. Podem os referidos institutos ser integrados nas Universidades por acordo de ambas as partes.
+3. (Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 513-T/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-t-1979-430025), publicado em 1979-12-26.
 
 ###### Artigo 3.º
 

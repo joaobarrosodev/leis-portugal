@@ -53,9 +53,10 @@ version_history:
     changes: []
   - date: '1985-03-23'
     amending: pt:dre:326324:por
-    amending_title: Decreto-Lei n.º 59/85
+    amending_title: Decreto-Lei n.º 59/85; Portaria n.º 64/84
     changes:
     - Altera Artigo unidades 21-22
+    - Revoga anexo ou texto fora do articulado
 identifiers:
   celex: null
   eli: null
@@ -82,7 +83,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:43:31Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 59/85. Método e verificação:
-    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1981/portaria-331-g-81.alteracoes.json'
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1981/portaria-331-g-81.alteracoes.json. Revogações registadas
+    só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Portaria n.º 64/84.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -148,37 +150,19 @@ Ao abrigo do disposto no n.º 2 do artigo 2.º do [Decreto-Lei n.º 45835](https
 
 Manda o Governo da República Portuguesa, pelo Secretário de Estado do Comércio, o seguinte:
 
-1.º As margarinas ficam sujeitas ao regime de margens de comercialização fixadas, a que se refere a alínea e) do n.º 1 do artigo 1.º do [Decreto-Lei n.º 329-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-a-1974-560231), de 10 de Julho.
+1.º - (Revogado.)
 
-2.º As margens máximas de comercialização das margarinas são as seguintes:
+> Revogado pelo/a [Portaria n.º 64/84](https://diariodarepublica.pt/dr/detalhe/portaria/64-1984-660912), publicado em 1984-01-28, com efeitos a partir de 1984-02-02.
 
-a) Armazenista: margem de 10% calculada sobre o preço de aquisição à porta da fábrica ou seus armazéns;
+2.º - (Revogado.)
 
-b) Retalhista: margem de 15% calculada sobre o preço de aquisição à porta do retalhista, já acrescido do imposto de transacções, quando for devido.
+3.º - (Revogado.)
 
-3.º - 1 - Para efeitos da presente portaria, o preço à porta da fábrica é o preço praticado pelo produtor.
+4.º - (Revogado.)
 
-2 - Para efeitos da presente portaria, considera-se o importador e as empresas embaladoras equiparadas ao produtor.
+5.º - (Revogado.)
 
-4.º Qualquer que seja o número de agentes intervenientes no circuito de comercialização, não é permitida a utilização de margens que, no seu conjunto, ultrapassem os limites fixados no n.º 2.º
-
-5.º - 1 - Os vendedores por grosso são obrigados, no momento da entrega do produto, a fornecer aos compradores documentos de venda, dos quais constarão os seguintes elementos:
-
-a) Nome, sede ou domicílio do vendedor e do comprador;
-
-b) Quantidade e tipo do produto transaccionado;
-
-c) Preço de venda no local da entrega.
-
-2 - Os compradores por grosso são obrigados a exibir, quando solicitados pelas entidades competentes, os documentos a que se refere o n.º 1.
-
-3 - A não apresentação pelo comprador do documento de venda, designadamente por não lhe ter sido passado pelo vendedor ou por se ter extraviado, não constitui para aquele circunstância dirimente da sua responsabilidade criminal.
-
-4 - Consideram-se inexistentes os documentos de venda que não contenham os elementos referidos no n.º 1.
-
-5 - A infracção ao disposto no presente número constitui contravenção punível com multa de 10000$00.
-
-6.º As margarinas com as características específicas da Flora e da Becel só poderão ser vendidas pelas fábricas ou seus armazéns aos adquirentes que possuam rede de frio completa (transporte e armazém).
+6.º - (Revogado.)
 
 7.º - (Revogado.)
 
@@ -186,24 +170,18 @@ c) Preço de venda no local da entrega.
 
 > Alterado pelo/a [Decreto-Lei n.º 59/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1985-326324), publicado em 1985-03-11.
 
-9.º - 1 - Os retalhistas poderão abastecer-se nas empresas produtoras ou seus armazéns desde que o produto esteja devidamente embalado, ficando aquelas empresas obrigadas a satisfazer encomendas, aos preços de venda à porta de fábrica, para entregas, por uma só vez, dos seguintes quantitativos mínimos:
+9.º - (Revogado.)
 
-a) De diversos tipos sortidos em qualquer embalagem - 60 caixas;
+10.º - (Revogado.)
 
-b) Apenas em embalagens de 1 kg - 25 caixas.
+11.º - (Revogado.)
 
-2 - A infracção ao disposto no n.º 1 constitui contravenção punível com multa de 10000$00.
+12.º - (Revogado.)
 
-10.º Os produtos a que se refere esta portaria que à data da sua publicação se encontrem embalados serão obrigatoriamente vendidos, nos diferentes estádios de actividade económica, aos preços anteriormente estabelecidos.
+13.º - (Revogado.)
 
-11.º As margens referidas no n.º 2.º poderão ser alteradas por despacho do Secretário de Estado do Comércio.
+14.º - (Revogado.)
 
-12.º O disposto no presente diploma aplica-se apenas ao continente.
-
-13.º Fica revogada a [Portaria n.º 42-G/80](https://diariodarepublica.pt/dr/detalhe/portaria/42-g-1980-275788), de 15 de Fevereiro.
-
-14.º As dúvidas resultantes da aplicação da presente portaria serão resolvidas por despacho do Secretário de Estado do Comércio.
-
-15.º Esta portaria entra em vigor no dia imediato ao da sua publicação.
+15.º - (Revogado.)
 
 Secretaria de Estado do Comércio, 2 de Abril de 1981. - O Secretário de Estado do Comércio, Walter Waldemar Pego Marques.

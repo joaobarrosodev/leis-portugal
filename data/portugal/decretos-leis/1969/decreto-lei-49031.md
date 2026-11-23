@@ -57,11 +57,12 @@ version_history:
     changes: []
   - date: '1989-01-29'
     amending: pt:dre:160093:por
-    amending_title: Decreto-Lei n.º 88/75; Decreto-Lei n.º 309/85; Decreto-Lei n.º 498/88
+    amending_title: Decreto-Lei n.º 88/75; Decreto-Lei n.º 309/85; Decreto-Lei n.º 498/88; Decreto-Lei n.º 171/82
     changes:
     - Revoga Artigo 4.º
     - Altera Artigo 7.º
     - Adita Artigo 8.º-A
+    - Revoga Artigo 5
 identifiers:
   celex: null
   eli: null
@@ -88,7 +89,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:09:27Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 88/75; Decreto-Lei
-    n.º 309/85; Decreto-Lei n.º 498/88. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1969/decreto-lei-49031.alteracoes.json'
+    n.º 309/85; Decreto-Lei n.º 498/88. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1969/decreto-lei-49031.alteracoes.json.
+    Revogações registadas só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Decreto-Lei
+    n.º 171/82.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -243,7 +246,9 @@ O tempo de serviço efectivo prestado pelos interinos será contado para todos o
 
 ###### Artigo 5.º
 
-No provimento interino de lugares dos quadros terão preferência os indivíduos considerados aptos em concurso para o provimento definitivo, segundo a ordem da classificação ou graduação.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 171/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-1982-392864), publicado em 1982-05-10.
 
 ###### Artigo 6.º
 

@@ -44,7 +44,8 @@ version_history:
   - date: '1990-09-29'
     amending: pt:dre:690465:por
     amending_title: Decreto n.º 433/72; Decreto n.º 149/76; Decreto Regulamentar n.º 59/79; Decreto Regulamentar n.º 22/80;
-      Decreto n.º 97/82; Decreto Regulamentar n.º 1/84; Decreto Regulamentar n.º 32/90
+      Decreto n.º 97/82; Decreto Regulamentar n.º 1/84; Decreto Regulamentar n.º 32/90; Decreto-Lei n.º 78/83; Decreto Regulamentar
+      n.º 27/87; Decreto-Lei n.º 34-A/89
     changes:
     - Altera Artigo 31.º
     - Altera Artigo 33.º
@@ -66,6 +67,21 @@ version_history:
     - Altera Artigo 145.º
     - Altera Artigo 162.º
     - Altera Artigo 163.º
+    - Revoga Artigo 181
+    - Revoga Artigo 31
+    - Revoga Artigo 32
+    - Revoga Artigo 33
+    - Revoga Artigo 34
+    - Revoga Artigo 81
+    - Revoga Artigo 82
+    - Revoga Artigo 83
+    - Revoga Artigo 84
+    - Revoga Artigo 85
+    - Revoga Artigo 86
+    - Revoga Artigo 87
+    - Revoga Artigo 88
+    - Revoga Artigo 89
+    - Revoga Artigo 90
 identifiers:
   celex: null
   eli: null
@@ -93,7 +109,9 @@ provenance:
   generated_at: '2026-10-22T19:54:55Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto n.º 433/72; Decreto n.º 149/76;
     Decreto Regulamentar n.º 59/79; Decreto Regulamentar n.º 22/80; Decreto n.º 97/82; Decreto Regulamentar n.º 1/84; Decreto
-    Regulamentar n.º 32/90. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos/1966/decreto-47478.alteracoes.json'
+    Regulamentar n.º 32/90. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos/1966/decreto-47478.alteracoes.json.
+    Revogações registadas só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Decreto-Lei
+    n.º 78/83; Decreto Regulamentar n.º 27/87; Decreto-Lei n.º 34-A/89.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -806,67 +824,27 @@ Ao depósito de impressos e material pertence:
 
 ###### Artigo 31.º
 
-O conselho do Ministério é presidido pelo secretário-geral e constituído pelos directores-gerais, pelo inspector diplomático e consular, por doze representantes dos funcionários do serviço diplomático, por doze representantes do pessoal do quadro administrativo, por seis representantes do quadro do pessoal auxiliar ou por seis representantes do restante pessoal, eleitos por um período de dezoito meses, que participarão nas reuniões de acordo com o estipulado nos parágrafos 6.º a 8.º deste artigo.
-
-§ 1.º Os doze representantes do pessoal do serviço diplomático serão um ministro plenipotenciário de 1.ª classe, dois ministros plenipotenciários de 2.ª classe, dois conselheiros de embaixada, dois primeiros-secretários, dois segundos-secretários e três terceiros-secretários ou adidos de embaixada, eleitos para o efeito, respectivamente, pelos funcionários de cada uma daquelas categorias.
-
-§ 2.º Os doze representantes do pessoal do quadro administrativo serão dois chefes de secção, dois primeiros-oficiais, dois segundos-oficiais e dois terceiros-oficiais, três escriturários-dactilógrafos e uma telefonista, eleitos para o efeito, respectivamente, pelos funcionários de cada uma daquelas categorias.
-
-§ 3.º Os seis representantes do quadro do pessoal auxiliar serão eleitos para o efeito pelos funcionários daquele quadro.
-
-§ 4.º Os seis representantes do restante pessoal serão eleitos, para o efeito, por aquele pessoal de entre os funcionários do sector, devendo dois deles, pelo menos, ser escolhidos de entre os funcionários dos quadros do pessoal adjunto e do pessoal especializado.
-
-§ 5.º Só serão elegíveis unidades do pessoal colocado na Secretaria de Estado, devendo os representantes do quadro do serviço diplomático, além de satisfazerem aquela condição, pertencer aos quadros.
-
-§ 6.º Os representantes dos funcionários do serviço diplomático participarão apenas nas reuniões do conselho convocadas para apreciação das matérias referidas nos n.os 1), 6), 7) e 9) do artigo seguinte ou dos assuntos mencionados nos restantes números do mesmo artigo quando respeitem a funcionários daquele serviço.
-
-§ 7.º Os representantes dos funcionários dos quadros administrativo e auxiliar participarão apenas nas reuniões do conselho convocadas para apreciação dos assuntos referidos nos n.os 2), 3), 4), 5), 7), 8) e 9) do artigo seguinte quando respeitem a funcionários do mesmo quadro ou a serviços em que eles participem directamente.
-
-§ 8.º Os representantes do restante pessoal participarão apenas nas reuniões do conselho convocadas para apreciação dos assuntos referidos nos n.os 4), 5) e 7) do artigo seguinte quando respeitem àquele mesmo pessoal.
+(Revogado.)
 
 > Alterado pelo/a [Decreto n.º 149/76](https://diariodarepublica.pt/dr/detalhe/decreto/149-1976-507591), publicado em 1976-02-20.
 
+> Revogado pelo/a [Decreto Regulamentar n.º 27/87](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/27-1987-666295), publicado em 1987-04-15, com efeitos a partir de 1987-04-20.
+
 ###### Artigo 32.º
 
-Compete ao conselho do Ministério:
-
-1) Apreciar a aptidão dos adidos de embaixada para efeitos de ingresso definitivo no serviço diplomático;
-
-2) Ordenar os funcionários do serviço diplomático até à categoria de ministro plenipotenciário de 2.ª classe, inclusive, e os funcionários dos quadros administrativos e auxiliares, sempre que se verifique alguma vaga a preencher por promoção não dependente de concurso;
-
-3) Propor a colocação e transferência dos funcionários do serviço diplomático, com excepção dos chefes de missão diplomática ou de postos consulares em países em que não haja representação diplomática, e dos titulares dos cargos de direcção na Secretaria de Estado, assim como dos funcionários dos quadros administrativo e auxiliar, atendendo para o efeito às suas aptidões pessoais e profissionais, aos períodos de serviço por eles prestados na Secretaria de Estado e nos serviços externos e ainda à sua passagem pelas diversas classes dos postos;
-
-4) (Revogado.)
-
-5) Examinar as reclamações dos funcionários que se julguem preteridos nos seus direitos e emitir sobre elas pareceres sujeitos a homologação do Ministro;
-
-6) Dar o seu parecer sobre a colocação de funcionários do serviço diplomático na situação de disponibilidade e sobre a sua eventual chamada a serviço;
-
-7) Reunir as informações sobre os diversos serviços do Ministério e propor medidas adequadas à melhoria do seu funcionamento;
-
-8) Propor e dar parecer sobre alterações à Lei Orgânica e ao Regulamento do Ministério e pronunciar-se sobre todos os assuntos submetidos à sua apreciação pelo Ministro, assim como sobre os requerimentos dos funcionários em matéria cuja resolução envolva ponto de doutrina acerca de interpretação da lei;
-
-9) (Revogado.)
+(Revogado.)
 
 > Alterado pelo/a [Decreto Regulamentar n.º 59/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/59-1979-364903), publicado em 1979-10-13.
 
 ###### Artigo 33.º
 
-O conselho do Ministério deverá reunir-se ordinariamente uma vez por mês e extraordinariamente sempre que for convocado por determinação do Ministro ou do seu presidente, ou a pedido da maioria dos seus membros. Nestes últimos dois casos o Ministro será obrigatoriamente informado da data da reunião do conselho e da respectiva ordem do dia.
+(Revogado.)
 
 > Alterado pelo/a [Decreto n.º 149/76](https://diariodarepublica.pt/dr/detalhe/decreto/149-1976-507591), publicado em 1976-02-20.
 
 ###### Artigo 34.º
 
-O conselho só poderá reunir se estiver presente a maioria dos seus membros, devendo as deliberações ser tomadas pela maioria absoluta dos membros presentes, quando não for exigido número superior. As deliberações sobre o mérito dos candidatos ao ingresso definitivo no serviço diplomático, sobre o mérito dos funcionários para efeito de ordenação para promoção, assim como sobre colocações e transferências, carecem de aprovação por maioria de dois terços dos membros presentes, no primeiro escrutínio, e por maioria simples, no segundo.
-
-§ 1.º A participação nas reuniões do conselho é obrigatória e na falta ou impedimento de algum dos seus membros efectivos deverão os respectivos substitutos legais ou suplentes substituí-los.
-
-§ 2.º O voto não poderá ser secreto, excepto quando decidido e expressamente solicitado. É obrigatória a participação na votação, não é permitida a abstenção e os membros do conselho poderão fazer registar na acta as suas declarações de voto.
-
-§ 3.º Em caso de empate, o presidente terá voto de qualidade.
-
-§ 4.º As decisões do conselho constam de actas, que serão lidas e assinadas pelos membros presentes e de que serão fornecidas cópias ao Ministro e aos Secretários de Estado.
+(Revogado.)
 
 > Alterado pelo/a [Decreto n.º 149/76](https://diariodarepublica.pt/dr/detalhe/decreto/149-1976-507591), publicado em 1976-02-20.
 
@@ -1338,59 +1316,55 @@ Estatuto dos funcionários do Ministério
 
 ###### Artigo 81.º
 
-A admissão no serviço diplomático depende da aprovação em concurso de provas públicas a que só poderão ser admitidos os cidadãos portugueses originários, do sexo masculino, licenciados em Direito, História, Filosofia, Economia, Finanças ou pelo Instituto Superior de Ciências Sociais e Política Ultramarina, ou ainda diplomados em cursos de escolas superiores estrangeiras que sejam declarados pelo Ministério da Educação Nacional equivalentes a qualquer das referidas licenciaturas e que, além dos requisitos gerais para o provimento em cargos do Estado, possuam condições de virem a pertencer ao serviço diplomático, e que serão apreciadas pelo conselho do Ministério numa prova de apresentação prévia à admissão ao concurso.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 34-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-a-1989-442483), publicado em 1989-01-31, com efeitos a partir de 1989-02-01.
 
 ###### Artigo 82.º
 
-As nomeações serão feitas pela ordem da classificação no concurso e segundo as vagas existentes de terceiro-secretário e os nomeados sê-lo-ão com carácter provisório, por dois anos, com o título de adidos de embaixada, contando-se o serviço assim prestado naquele período como sendo prestado para todos os feitos na categoria de terceiro secretário de embaixada. Todos prestarão serviço na Secretaria de Estado durante esses dois anos, repartidos, na medida do possível, pelos diferentes serviços.
+(Revogado.)
 
 ###### Artigo 83.º
 
-No fim de dois anos de serviço efectivo, o conselho do Ministério apreciará as aptidões para o serviço diplomático reveladas pelos adidos de embaixada e proporá ao Ministro os que julgue aptos a ingressar naquele serviço e os que devem ser exonerados sem direito a indemnização. Após livre decisão do Ministro sobre a proposta, os julgados aptos a ingressar no serviço diplomático serão submetidos a exame de línguas francesa e inglesa (redacção e conversação) e se satisfizerem a este exame serão, com a categoria de terceiro-secretário de embaixada, nomeados definitivamente.
-
-§ único. A fim de facilitar o conhecimento de línguas estrangeiras poderá o Ministro autorizar que seja subsidiado o seu ensino.
+(Revogado.)
 
 ###### Artigo 84.º
 
-A partir do ingresso no serviço diplomático, as promoções até à categoria de primeiro-secretário de embaixada, inclusive, fazem-se, por mérito ou por antiguidade, de entre os funcionários com três anos de bom e efectivo serviço na categoria imediatamente inferior.
+(Revogado.)
 
 > Alterado pelo/a [Decreto Regulamentar n.º 59/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/59-1979-364903), publicado em 1979-10-13.
 
 ###### Artigo 85.º
 
-As promoções referidas no artigo anterior obedecem à ordem estabelecida pelo conselho do Ministério, nos termos seguintes:
-
-a) O conselho do Ministério, ao elaborar as listas de promoção, deve, a seguir a cada três propostas de promoção por mérito, indicar para o mesmo efeito o funcionário mais antigo na categoria dos funcionários a promover;
-
-b) O Ministro não poderá deixar de obedecer à ordem estabelecida pelo conselho do Ministério sempre que a promoção for por antiguidade, mas, se pretender efectuar qualquer promoção por mérito não coincidente com a ordem proposta pelo conselho, deverá justificar e fundamentar a sua decisão.
+(Revogado.)
 
 > Alterado pelo/a [Decreto Regulamentar n.º 59/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/59-1979-364903), publicado em 1979-10-13.
 
 ###### Artigo 86.º
 
-As promoções a conselheiro de embaixada e a ministro plenipotenciário de 2.ª classe obedecem à ordem estabelecida pelo conselho do Ministério e fazem-se por mérito de entre os funcionários com três anos de bom e efectivo serviço na categoria imediatamente inferior, dependendo ainda a promoção a conselheiro de embaixada da permanência do funcionário nos serviços externos por tempo não inferior a seis anos.
+(Revogado.)
 
 > Alterado pelo/a [Decreto Regulamentar n.º 59/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/59-1979-364903), publicado em 1979-10-13.
 
 ###### Artigo 87.º
 
-Caso o Ministro pretenda efectuar qualquer promoção não coincidente com a ordem constante das listas de promoção estabelecidas pelo conselho, nos termos do artigo anterior, deverá justificar e fundamentar a sua decisão.
+(Revogado.)
 
 > Alterado pelo/a [Decreto Regulamentar n.º 59/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/59-1979-364903), publicado em 1979-10-13.
 
 ###### Artigo 88.º
 
-Os ministros plenipotenciários de 1.ª classe são escolhidos pelo Ministro, na base da livre apreciação dos serviços prestados, entre os ministros plenipotenciários de 2.ª classe com três anos de bom e efectivo serviço nesta categoria.
+(Revogado.)
 
 ###### Artigo 89.º
 
-Nenhum funcionário do serviço diplomático poderá ser promovido duas vezes consecutivas no mesmo país.
+(Revogado.)
 
 > Alterado pelo/a [Decreto Regulamentar n.º 59/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/59-1979-364903), publicado em 1979-10-13.
 
 ###### Artigo 90.º
 
-Os embaixadores são nomeados, por livre escolha do Ministro, entre os ministros plenipotenciários de 1.ª classe, conforme as circunstâncias e atendendo aos méritos excepcionais do funcionário.
+(Revogado.)
 
 § único. A escolha de embaixadores pode igualmente ser feita de entre pessoas estranhas ao quadro do Ministério dos Negócios Estrangeiros que se hajam distinguido por sua capacidade e mérito, mas neste caso pertencerá ao Conselho de Ministros a nomeação.
 
@@ -2102,9 +2076,9 @@ c) Chefe de gabinete ou secretário de Ministro ou de Secretário ou de Subsecre
 
 ###### Artigo 181.º
 
-É aplicável aos funcionários do Ministério dos Negócios Estrangeiros, para o serviço na Secretaria de Estado, o limite de idade estabelecida na lei geral. Para o serviço permanente no estrangeiro o limite de idade será de 65 anos.
+(Revogado.)
 
-§ único. Os funcionários que atingirem o limite de idade para o serviço permanente no estrangeiro serão aposentados se tiverem 40 anos de serviço; no caso contrário, poderão ser colocados na Secretaria de Estado em lugar correspondente à sua categoria, se existir vaga, ou ser passados à disponibilidade.
+> Revogado pelo/a [Decreto-Lei n.º 78/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-1983-311007), publicado em 1983-02-09.
 
 ###### Artigo 182.º
 

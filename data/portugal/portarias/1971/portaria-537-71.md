@@ -43,9 +43,11 @@ version_history:
     changes: []
   - date: '1978-02-11'
     amending: pt:dre:448517:por
-    amending_title: Portaria n.º 83/78
+    amending_title: Portaria n.º 83/78; Portaria n.º 158/77
     changes:
     - Altera Artigo 22.º
+    - Revoga Artigo 21
+    - Revoga Artigo 22
 identifiers:
   celex: null
   eli: null
@@ -72,7 +74,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T03:35:20Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 83/78. Método e verificação:
-    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1971/portaria-537-71.alteracoes.json'
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1971/portaria-537-71.alteracoes.json. Revogações registadas
+    só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Portaria n.º 158/77.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -478,23 +481,15 @@ b) Não vigiados - quando, por serem de funcionamento automático, neles não re
 
 ###### Artigo 21.º
 
-1. Os faróis, farolins e demais sinais marítimos vigiados, em relação à sua localização, são classificados em quatro classes:
+(Revogado.)
 
-a) 1.ª classe - os isolados no mar, de difícil comunicação;
-
-b) 2.ª classe - os isolados no mar, longe de povoações ou de difícil acesso;
-
-c) 3.ª classe - os que se encontram fora das povoações;
-
-d) 4.ª classe - os restantes.
-
-2. As três primeiras classes do número anterior são chamadas de isolamento.
+> Revogado pelo/a [Portaria n.º 158/77](https://diariodarepublica.pt/dr/detalhe/portaria/158-1977-140527), publicado em 1977-03-24.
 
 ###### Artigo 22.º
 
 1 - (Revogado.)
 
-2. As alterações que se vierem a verificar na classificação do número anterior serão promulgadas por portaria do Ministro da Marinha.
+2. (Revogado.)
 
 > Alterado pelo/a [Portaria n.º 83/78](https://diariodarepublica.pt/dr/detalhe/portaria/83-1978-448517), publicado em 1978-02-11.
 

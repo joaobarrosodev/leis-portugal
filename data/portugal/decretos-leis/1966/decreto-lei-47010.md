@@ -43,9 +43,12 @@ version_history:
     changes: []
   - date: '1988-04-14'
     amending: pt:dre:284763:por
-    amending_title: Decreto-Lei n.º 115/88
+    amending_title: Decreto-Lei n.º 115/88; Decreto-Lei n.º 633/70
     changes:
     - Altera Artigo 1.º
+    - Revoga Artigo 3
+    - Revoga Artigo 4
+    - Revoga Artigo 5
 identifiers:
   celex: null
   eli: null
@@ -72,7 +75,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T21:57:05Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 115/88. Método e
-    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1966/decreto-lei-47010.alteracoes.json'
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1966/decreto-lei-47010.alteracoes.json.
+    Revogações registadas só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Decreto-Lei
+    n.º 633/70.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -154,21 +159,17 @@ Deixará de vigorar, a partir de 1 de Julho de 1966, a declaração de carga a q
 
 ###### Artigo 3.º
 
-O artigo 7.º da tabela de emolumentos consulares passa a ter a seguinte redacção:
+(Revogado.)
 
-Art. 7.º Por actos diversos, de registo civil ou de notariado, realizados dentro das horas de expediente, os funcionários consulares perceberão a compensação pessoal de 12$00 por cada acto.
-
-§ único. Sempre que o interessado pretenda que determinado acto se pratique na chancelaria fora das horas de serviço, ao domingo ou em dias feriados, será cobrada como receita do Estado a quantia de 200$00, por meio de estampilhas, sendo a mesma mencionada no recibo a que se refere o artigo 20.º da tabela.
+> Revogado pelo/a [Decreto-Lei n.º 633/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/633-1970-146059), publicado em 1970-12-22.
 
 ###### Artigo 4.º
 
-O artigo 8.º da tabela passa a ter a seguinte redacção:
-
-Art. 8.º Quando o interessado pretender que certo acto se pratique na chancelaria com urgência, dentro das horas de serviço, pagará em dobro, como receita do Estado, o emolumento correspondente da tabela.
+(Revogado.)
 
 ###### Artigo 5.º
 
-É eliminada no artigo 12.º da tabela a referência aos artigos 7.º e 8.º que no mesmo se contém.
+(Revogado.)
 
 ###### Artigo 6.º
 

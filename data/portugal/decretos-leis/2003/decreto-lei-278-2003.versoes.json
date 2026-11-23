@@ -74,64 +74,106 @@
      "title": "Decreto-Lei n.º 97/2012",
      "published": "2012-04-23",
      "dre_path": "/dr/detalhe/decreto-lei/97-2012-552998"
+    },
+    {
+     "id": "pt:dre:518860:por",
+     "title": "Decreto-Lei n.º 47/2007",
+     "published": "2007-02-27",
+     "dre_path": "/dr/detalhe/decreto-lei/47-2007-518860"
     }
    ],
    "changes": [
-    "Altera Artigo ANEXO — LEI ORGÂNICA DO INSTITUTO DOS VINHOS DO DOURO E DO PORTO::13.º"
+    "Altera Artigo ANEXO — LEI ORGÂNICA DO INSTITUTO DOS VINHOS DO DOURO E DO PORTO::13.º",
+    "Revoga Artigo 1",
+    "Revoga Artigo 2",
+    "Revoga Artigo 3",
+    "Revoga Artigo 4",
+    "Revoga Artigo 5",
+    "Revoga Artigo 6",
+    "Revoga Artigo 7",
+    "Revoga Artigo 8",
+    "Revoga Artigo 9",
+    "Revoga Artigo 10",
+    "Revoga Artigo 11",
+    "Revoga Artigo 12",
+    "Revoga Artigo 13",
+    "Revoga Artigo 14",
+    "Revoga Artigo 15",
+    "Revoga Artigo 16",
+    "Revoga Artigo 17",
+    "Revoga Artigo 18",
+    "Revoga Artigo 19",
+    "Revoga Artigo 20",
+    "Revoga Artigo 21",
+    "Revoga Artigo 22",
+    "Revoga Artigo 23",
+    "Revoga Artigo 24",
+    "Revoga Artigo 25",
+    "Revoga Artigo 26",
+    "Revoga Artigo 27",
+    "Revoga Artigo 28",
+    "Revoga Artigo 29",
+    "Revoga Artigo 30",
+    "Revoga Artigo 31",
+    "Revoga Artigo 32",
+    "Revoga Artigo 33",
+    "Revoga Artigo 34",
+    "Revoga Artigo 35",
+    "Revoga Artigo 36"
    ],
    "fragments": [
     "568a4d909b416aa0",
-    "2be9137096c1d599",
-    "b1fd63f437cf32b7",
-    "6a0db01998ba3980",
-    "2538ff5e952bfe80",
-    "edd6e32ce32bc6df",
+    "76cc8333978d0d40",
+    "76d964309e636800",
+    "8d19a30376d6ac8b",
+    "66bb64e48cc65a01",
+    "b62880ad20b727e7",
     "c6a13ee2aa1444a4",
     "cb675c152e387e17",
-    "fc9ba7de8c5d1ea0",
-    "3d266e710a38560b",
-    "59c080521415d1b2",
-    "b94283af8b206400",
+    "6f296a97dd42ae5e",
+    "c481bc1f7854ec32",
+    "c4004b5b1004f453",
+    "b29fd28a9eba3c89",
     "61e6bce99352e741",
-    "7806abacf51d36ad",
+    "2f07a14eb4715cef",
     "5f029e4a31f7a7d8",
-    "c0e09ea610e741a7",
-    "9a7c636b6c16d116",
-    "96128a4213f5ef44",
-    "0369bf531d0b0b69",
-    "dc85269cae5d3328",
+    "8a23e1b23a97193a",
+    "03794687ef1a6915",
+    "ac08a0a41671eb0f",
+    "668fdbd9fc1f7916",
+    "f86c694fbb8f29ca",
     "f2d8c4c9c32d1ab2",
-    "7c56c6375a12eb19",
-    "746f12a930357c5e",
-    "d91b6c96eee01c0d",
-    "a7ca08a855ea63c5",
-    "dd182a11fdb194d3",
+    "ae9b790a5dbd30fa",
+    "4c14cd181942351e",
+    "f15936d8b22d1039",
+    "c8b0b4f153e72102",
+    "ed608543c1b10cc5",
     "c2848331837174f9",
-    "c9ddbcc12e428a50",
-    "4779b00433e62639",
-    "87dff28422c70823",
-    "21bd916607ba4cf6",
+    "710374d0e0496962",
+    "d4ec8fb613120262",
+    "79fd816ead8f5f63",
+    "4a5aea949e54b59f",
     "fdf619f9ee799165",
-    "7b1f8fad89952487",
-    "444734d9ff7b3a8c",
-    "9bb232a87339c3a2",
+    "5ea689a1e337fb42",
+    "f6ae67dd85f4e062",
+    "a3838d5b2c107d02",
     "4e544b566deca60a",
-    "50bb55ccd25734ec",
-    "4b1929d162855734",
-    "4bbb67d7ae1fe690",
-    "e49848af836e7fb4",
-    "cbeca9fd1a43c62a",
+    "19c95f1c4eb34a10",
+    "9d5dff1bd76de8a6",
+    "5eb4cadb3d2a8314",
+    "b43eb31828974225",
+    "914b7f629f379bde",
     "c189bcaafcf4c96d",
-    "362c24c8806ea3ae",
-    "7375d4af684866c7",
-    "381ad0845b80d507",
-    "0244f39f0773b9e0",
-    "e3cff5ac7ead7943",
+    "cc4413a143a22f5a",
+    "67edb93405e46647",
+    "356fc99092873294",
+    "e08f71489f5aa6bd",
+    "931837f3aefa501a",
     "0ee6092e66af2ba3",
-    "bbda064ba55e82c5",
-    "b047f01ffb30fc22",
-    "0e0fd62da39cc295",
-    "92962e29846f7214"
+    "64a72e08b6f51a97",
+    "2a3064ae2835d93c",
+    "c7fc0b57c0af52a9",
+    "e147d6d4856c307c"
    ]
   }
  ],
@@ -552,7 +594,145 @@
    "changed_by": [],
    "markdown": "###### Artigo 36.º — Financiamento da Caixa Geral de Aposentações\n\nO IVDP contribui para o financiamento da Caixa Geral de Aposentações com uma importância mensal de montante igual ao das quotas pagas pelos trabalhadores abrangidos pelo regime geral de protecção social da função pública ao seu serviço."
   },
-  "d91b6c96eee01c0d": {
+  "76cc8333978d0d40": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Âmbito",
+   "in_force_from": "2012-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 47/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2007-518860), publicado em 2007-02-27, com efeitos a partir de 2007-03-01."
+   ],
+   "markdown": "###### Artigo 1.º — Âmbito\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 47/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2007-518860), publicado em 2007-02-27, com efeitos a partir de 2007-03-01."
+  },
+  "76d964309e636800": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Criação e regime",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Criação e regime\n\n(Revogado.)"
+  },
+  "8d19a30376d6ac8b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Pessoal\n\n(Revogado.)"
+  },
+  "66bb64e48cc65a01": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Revogação\n\n(Revogado.)"
+  },
+  "b62880ad20b727e7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Entrada em vigor\n\n(Revogado.)\n\nVisto e aprovado em Conselho de Ministros de 4 de Setembro de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Armando José Cordeiro Sevinate Pinto.\n\nPromulgado em 20 de Outubro de 2003.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 23 de Outubro de 2003.\n\nO Primeiro-Ministro, José Manuel Durão Barroso."
+  },
+  "6f296a97dd42ae5e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza\n\n(Revogado.)"
+  },
+  "c481bc1f7854ec32": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Regime",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Regime\n\n(Revogado.)"
+  },
+  "c4004b5b1004f453": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Sede e delegações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Sede e delegações\n\n(Revogado.)"
+  },
+  "b29fd28a9eba3c89": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Atribuições\n\n(Revogado.)"
+  },
+  "2f07a14eb4715cef": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Órgãos do IVDP",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Órgãos do IVDP\n\n(Revogado.)"
+  },
+  "8a23e1b23a97193a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Representação, funcionamento e composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Representação, funcionamento e composição\n\n(Revogado.)"
+  },
+  "03794687ef1a6915": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Competência do conselho interprofissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Competência do conselho interprofissional\n\n(Revogado.)"
+  },
+  "ac08a0a41671eb0f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Competências das secções especializadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Competências das secções especializadas\n\n(Revogado.)"
+  },
+  "668fdbd9fc1f7916": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Apoio técnico e comissões do conselho interprofissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Apoio técnico e comissões do conselho interprofissional\n\n(Revogado.)"
+  },
+  "f86c694fbb8f29ca": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Reuniões do conselho interprofissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Reuniões do conselho interprofissional\n\n(Revogado.)"
+  },
+  "ae9b790a5dbd30fa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Composição, nomeação e estatuto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Composição, nomeação e estatuto\n\n(Revogado.)"
+  },
+  "4c14cd181942351e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Competências genéricas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Competências genéricas\n\n(Revogado.)"
+  },
+  "f15936d8b22d1039": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 13.º — Competências relativas à certificação, controlo e fiscalização",
@@ -560,7 +740,191 @@
    "changed_by": [
     "Alterado pelo/a [Decreto-Lei n.º 97/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-2012-552998), publicado em 2012-04-23."
    ],
-   "markdown": "###### Artigo 13.º — Competências relativas à certificação, controlo e fiscalização\n\n1 - Compete à direcção, no exercício das suas competências de certificação, controlo e fiscalização:\n\na) Condicionar e fiscalizar a produção e o comércio, controlando a exactidão do cadastro das vinhas e do recenseamento dos viticultores, e sua conformidade com os elementos declarados, efectuando as verificações adequadas para esse efeito e determinando as correcções necessárias;\n\nb) Receber e controlar as declarações de produção e de existência de mosto e vinho susceptível de obter as denominações de origem «Porto» e «Douro», bem como a indicação geográfica «Terras Durienses» e das aguardentes destinadas à sua elaboração;\n\nc) Organizar o registo das pessoas singulares ou colectivas que se dediquem ao comércio do vinho do Porto, do vinho do Douro e do vinho Terras Durienses, bem como dos vinificadores e armazenistas, verificando, no momento da respectiva inscrição e enquanto esta se mantiver, o cumprimento das condições legalmente estabelecidas para o exercício dessa actividade;\n\nd) Inventariar as instalações de vinificação, armazenagem e engarrafamento existentes na RDD e no entreposto de Vila Nova de Gaia, verificando as existências de vinhos e aguardentes de todos os produtores e comerciantes de vinho do Porto, de vinho do Douro, ou de vinho Terras Durienses, bem como dos vinhos susceptíveis de obterem estas denominações de origem e indicação geográfica, através dos registos ou, fisicamente, nos locais de elaboração e armazenagem;\n\ne) Controlar as existências e os movimentos dos vinhos do Porto, do Douro e Terras Durienses e dos vinhos susceptíveis de obter estas denominações de origem ou indicação geográfica, bem como as aguardentes destinadas à sua elaboração, abrindo e movimentando as respectivas contas-correntes e controlando os registos, com base nas declarações de produção, de existência, de movimento e de introdução no consumo;\n\nf) Determinar e controlar a capacidade de vendas dos comerciantes de vinho do Porto, em função do estabelecido nas leis e regulamentos em vigor;\n\ng) Emitir e certificar a documentação geral respeitante à procedência e trânsito de vinho do Porto, de vinho do Douro e de vinho Terras Durienses, de mosto ou vinho susceptível de obter essas denominações de origem ou indicação geográfica, bem como das aguardentes destinadas à elaboração de vinho do Porto ou do Moscatel do Douro;\n\nh) Controlar a circulação de vinho do Porto, de vinho do Douro e de vinho Terras Durienses, de mosto ou de vinho susceptível de obter estas denominações de origem ou indicação geográfica, podendo para tanto fiscalizar os produtos vínicos que circulem ou se destinem à RDD ou ao entreposto de Vila Nova de Gaia;\n\ni) Certificar as denominações de origem e indicação geográfica, emitindo certificados de existência, boletins e certificados de análise e selos de garantia, segundo modelos aprovados, de utilização obrigatória;\n\nj) Organizar a inscrição e condicionar o uso de todas as marcas, rótulos e embalagens destinados à identificação dos vinhos do Porto, do Douro e Terras Durienses, podendo para tanto exigir os elementos que entenda convenientes para apreciação da licitude do seu uso;\n\nl) Exigir dos produtores e comerciantes de vinho do Porto, de vinho do Douro e de vinho Terras Durienses, ou de vinho susceptível de obter estas denominações de origem ou indicação geográfica, a exibição dos elementos de escrituração, ou outros, para esclarecimento de quaisquer dúvidas que se levantem quanto ao cumprimento da legislação aplicável à respectiva actividade;\n\nm) Recolher amostras e levantar autos das diligências que os serviços de fiscalização efectuem, bem como elaborar participações a remeter às entidades competentes, consoante os casos;\n\nn) Selar quaisquer recipientes de produtores ou comerciantes de vinho do Porto, de vinho do Douro, de vinho Terras Durienses ou de vinho susceptível de obter estas denominações de origem ou indicação geográfica, proibindo ou condicionando a utilização do seu conteúdo, quando haja fundada suspeita da prática de actos ilícitos ou de incumprimento das determinações do IVDP em matéria das suas competências;\n\no) Proibir a expedição e comercialização de vinho do Porto, de vinho do Douro ou de vinho Terras Durienses em caso de detecção de irregularidades cuja gravidade o justifique, bem como a venda a retalho ou para consumo público de vinho do Porto, de vinho do Douro ou de produtos como tal designados em infracção à legislação aplicável.\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\n5 - Os certificados de análise emitidos pelos serviços técnicos do IVDP, referentes a análises físico-químicas e organolépticas de produtos vínicos, constituem documentos autênticos, fazendo prova plena dos resultados neles atestados.\n\n6 - A actualização do ficheiro descritivo das parcelas de vinha aptas a produzir vinho do Porto ou vinho do Douro, nomeadamente os elementos necessários à classificação das parcelas de acordo com a [Portaria n.º 413/2001](https://diariodarepublica.pt/dr/detalhe/portaria/413-2001-163642), de 18 de Abril, é assegurada pela Casa do Douro, que os disponibiliza ao IVDP, nos termos do número seguinte, mediante o pagamento de remuneração a fixar por despacho do Ministro da Agricultura, Desenvolvimento Rural e Pescas.\n\n7 - O IVDP define o caderno de encargos relativo às condições de administração, gestão e actualização dos elementos necessários à avaliação do potencial qualitativo das parcelas de vinha para produção de vinho susceptível de obtenção das denominações de origem «Porto» e «Douro» e da indicação geográfica «Terras Durienses», designadamente no que respeita à organização dos registos, objectivos de actualização a atingir, política de acessos e procedimentos de auditoria e controlo.\n\n8 - O IVDP promove a compatibilização de conteúdos do cadastro da Casa do Douro com o Sistema de Informação Georreferenciada Vitícola - Douro, nos termos dos n.os 6 e 7 deste artigo.\n\n> Alterado pelo/a [Decreto-Lei n.º 97/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-2012-552998), publicado em 2012-04-23."
+   "markdown": "###### Artigo 13.º — Competências relativas à certificação, controlo e fiscalização\n\n1 - (Revogado.)\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\n5 - (Revogado.)\n\n6 - (Revogado.)\n\n7 - (Revogado.)\n\n8 - (Revogado.)\n\n> Alterado pelo/a [Decreto-Lei n.º 97/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-2012-552998), publicado em 2012-04-23."
+  },
+  "c8b0b4f153e72102": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Reuniões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Reuniões\n\n(Revogado.)"
+  },
+  "ed608543c1b10cc5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Competências do presidente da direcção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Competências do presidente da direcção\n\n(Revogado.)"
+  },
+  "710374d0e0496962": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Composição e remuneração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Composição e remuneração\n\n(Revogado.)"
+  },
+  "d4ec8fb613120262": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Competência\n\n(Revogado.)"
+  },
+  "79fd816ead8f5f63": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Reuniões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Reuniões\n\n(Revogado.)"
+  },
+  "4a5aea949e54b59f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Deveres",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Deveres\n\n(Revogado.)"
+  },
+  "5ea689a1e337fb42": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Composição\n\n(Revogado.)"
+  },
+  "f6ae67dd85f4e062": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Competência\n\n(Revogado.)"
+  },
+  "a3838d5b2c107d02": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Reuniões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Reuniões\n\n(Revogado.)"
+  },
+  "19c95f1c4eb34a10": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Mandatos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Mandatos\n\n(Revogado.)"
+  },
+  "9d5dff1bd76de8a6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — Deliberações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Deliberações\n\n(Revogado.)"
+  },
+  "5eb4cadb3d2a8314": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Actas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Actas\n\n(Revogado.)"
+  },
+  "b43eb31828974225": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — Convocatórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Convocatórias\n\n(Revogado.)"
+  },
+  "914b7f629f379bde": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º — Vinculação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Vinculação\n\n(Revogado.)"
+  },
+  "cc4413a143a22f5a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Receitas\n\n(Revogado.)"
+  },
+  "67edb93405e46647": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º — Despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Despesas\n\n(Revogado.)"
+  },
+  "356fc99092873294": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º — Ajudas de custo e despesas de transporte",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Ajudas de custo e despesas de transporte\n\n(Revogado.)"
+  },
+  "e08f71489f5aa6bd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º — Gestão patrimonial e financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Gestão patrimonial e financeira\n\n(Revogado.)"
+  },
+  "931837f3aefa501a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º — Tutela",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Tutela\n\n(Revogado.)"
+  },
+  "64a72e08b6f51a97": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 33.º — Quadro de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Quadro de pessoal\n\n(Revogado.)"
+  },
+  "2a3064ae2835d93c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 34.º — Regime de segurança social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Regime de segurança social\n\n(Revogado.)"
+  },
+  "c7fc0b57c0af52a9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 35.º — Mobilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Mobilidade\n\n(Revogado.)"
+  },
+  "e147d6d4856c307c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 36.º — Financiamento da Caixa Geral de Aposentações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Financiamento da Caixa Geral de Aposentações\n\n(Revogado.)"
   }
  }
 }

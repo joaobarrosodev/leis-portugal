@@ -45,12 +45,20 @@
      "title": "Portaria n.º 1167/2001",
      "published": "2001-10-04",
      "dre_path": "/dr/detalhe/portaria/1167-2001-621142"
+    },
+    {
+     "id": "pt:dre:621141:por",
+     "title": "Portaria n.º 1166/2001",
+     "published": "2001-10-04",
+     "dre_path": "/dr/detalhe/portaria/1166-2001-621141"
     }
    ],
    "changes": [
     "Revoga Artigo ANEXO::11.º",
     "Revoga Artigo ANEXO::15.º",
-    "Revoga Artigo ANEXO::18.º"
+    "Revoga Artigo ANEXO::18.º",
+    "Revoga Artigo 12",
+    "Revoga Artigo 16"
    ],
    "fragments": [
     "1be45014ae40f20c",
@@ -66,11 +74,11 @@
     "405453b00be8514f",
     "811ee5e573ae4906",
     "44414b90d9e56a40",
-    "6874ca245da98601",
+    "a8be6558805b4722",
     "40914ad72c0b0b11",
     "6698c82a6bb07c57",
     "a5b900856d0bcf62",
-    "ed76d091e4f7b937",
+    "6e6b950a9535fc69",
     "e699c5ce3cd4f763",
     "c6b0d813a49f11f5",
     "f8314152df0fa4b6",
@@ -274,6 +282,16 @@
    ],
    "markdown": "###### Artigo 11.º — Instrução do pedido de apoio à pesquisa e desenvolvimento\n\n(Revogado.)\n\n> Revogado pelo/a [Portaria n.º 1167/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1167-2001-621142), publicado em 2001-10-04."
   },
+  "a8be6558805b4722": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Instrução do pedido de apoio à produção",
+   "in_force_from": "2001-10-09",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 1166/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1166-2001-621141), publicado em 2001-10-04, com efeitos a partir de 2001-10-05."
+   ],
+   "markdown": "###### Artigo 12.º — Instrução do pedido de apoio à produção\n\n(Revogado.)\n\n> Revogado pelo/a [Portaria n.º 1166/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1166-2001-621141), publicado em 2001-10-04, com efeitos a partir de 2001-10-05."
+  },
   "a5b900856d0bcf62": {
    "fragment_id": null,
    "type": null,
@@ -283,6 +301,14 @@
     "Revogado pelo/a [Portaria n.º 1167/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1167-2001-621142), publicado em 2001-10-04."
    ],
    "markdown": "###### Artigo 15.º — Critérios de selecção para o apoio ao desenvolvimento\n\n(Revogado.)\n\n> Revogado pelo/a [Portaria n.º 1167/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1167-2001-621142), publicado em 2001-10-04."
+  },
+  "6e6b950a9535fc69": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Critérios de selecção para o apoio à produção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Critérios de selecção para o apoio à produção\n\n(Revogado.)"
   },
   "c6b0d813a49f11f5": {
    "fragment_id": null,

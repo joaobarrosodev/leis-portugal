@@ -74,7 +74,7 @@
    ]
   },
   {
-   "date": "2014-07-05",
+   "date": "2016-01-01",
    "future": false,
    "acts": [
     {
@@ -82,10 +82,24 @@
      "title": "Decreto Legislativo Regional n.º 11/2014/A",
      "published": "2014-07-04",
      "dre_path": "/dr/detalhe/decreto-legislativo-regional/11-2014-25345659"
+    },
+    {
+     "id": "pt:dre:55042849:por",
+     "title": "Decreto Legislativo Regional n.º 14/2014/A",
+     "published": "2014-08-01",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/14-2014-55042849"
+    },
+    {
+     "id": "pt:dre:72970526:por",
+     "title": "Decreto Legislativo Regional n.º 27/2015/A",
+     "published": "2015-12-29",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/27-2015-72970526"
     }
    ],
    "changes": [
-    "Altera Artigo 15.º"
+    "Altera Artigo 15.º",
+    "Revoga Artigo 43",
+    "Revoga Artigo 25"
    ],
    "fragments": [
     "0561a13c40a8aeb9",
@@ -121,7 +135,7 @@
     "cdfc461bf54bd432",
     "f9fbc9eecc20d298",
     "ad8935cc61543831",
-    "e8e3dae007725a44",
+    "304b90b04ec1ec82",
     "e2511454652ef878",
     "5f99a8343af05126",
     "2fa221d5e3b77dcd",
@@ -142,8 +156,7 @@
     "781e1e90c7452930",
     "d9ac9e676a9454e7",
     "d7f30240c78bc00a",
-    "9d6e20271af9768f",
-    "0a9c8dde1e0e3fe4",
+    "ec6ce18228691f53",
     "a9f00d734dd11b4c",
     "43a2f23983b3ee13",
     "24e858b7f87bb53d",
@@ -636,11 +649,31 @@
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 15.º — Limite máximo para a concessão de garantias pela Região",
-   "in_force_from": "2014-07-05",
+   "in_force_from": "2016-01-01",
    "changed_by": [
     "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 11/2014/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2014-25345659), publicado em 2014-07-04."
    ],
    "markdown": "###### Artigo 15.º — Limite máximo para a concessão de garantias pela Região\n\n1 - O limite máximo para a autorização da concessão de garantias pela Região em 2014 é fixado em (euro) 220 000 000.\n\n2 - Acresce ao número anterior o montante de (euro) 50 000 000, que se destina a um contrato de financiamento do Banco Europeu de Investimento à EDA - Empresa de Eletricidade dos Açores, S.A., operação da qual a Região Autónoma dos Açores será co-garante com o Governo da República.\n\n3 - O aval da Região Autónoma dos Açores poderá ser concedido para garantir operações de refinanciamento desde que não impliquem um aumento do endividamento líquido, com observância do limite fixado no número anterior.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 11/2014/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2014-25345659), publicado em 2014-07-04."
+  },
+  "304b90b04ec1ec82": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Alteração ao [Decreto Legislativo Regional n.º 3/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2012-544588), de 13 de janeiro",
+   "in_force_from": "2016-01-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Legislativo Regional n.º 27/2015/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2015-72970526), publicado em 2015-12-29, com efeitos a partir de 2016-01-01."
+   ],
+   "markdown": "###### Artigo 25.º — Alteração ao [Decreto Legislativo Regional n.º 3/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2012-544588), de 13 de janeiro\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Legislativo Regional n.º 27/2015/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2015-72970526), publicado em 2015-12-29, com efeitos a partir de 2016-01-01."
+  },
+  "ec6ce18228691f53": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 43.º",
+   "in_force_from": "2016-01-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Legislativo Regional n.º 14/2014/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2014-55042849), publicado em 2014-08-01, com efeitos a partir de 2014-08-02."
+   ],
+   "markdown": "###### Artigo 43.º\n\nQuinta alteração ao Decreto Legislativo Regional nº 8/2002/A, de 10 de abril, alterado pelos Decretos Legislativos Regionais nºs 22/2007/A, de 23 de outubro, 6/2010/A, 23 de fevereiro, 3/2012/A, de 13 de janeiro e 3/2013/A, de 23 de maio, que estabelece o regime jurídico da atribuição do acréscimo regional à retribuição mínima mensal garantida, do complemento regional de pensão e da remuneração complementar regional.\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Legislativo Regional n.º 14/2014/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2014-55042849), publicado em 2014-08-01, com efeitos a partir de 2014-08-02."
   }
  }
 }

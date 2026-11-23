@@ -44,10 +44,11 @@ version_history:
     changes: []
   - date: '2023-05-18'
     amending: pt:dre:662314:por
-    amending_title: Decreto-Lei n.º 116/87; Lei n.º 20/2023
+    amending_title: Decreto-Lei n.º 116/87; Lei n.º 20/2023; Decreto-Lei n.º 103-C/89; Decreto-Lei n.º 99/91; Lei n.º 30/2006
     changes:
     - Altera Artigo unidades 228-229
     - Altera Artigo unidades 614-615
+    - Revoga anexo ou texto fora do articulado
 identifiers:
   celex: null
   eli: null
@@ -74,7 +75,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T21:34:27Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 116/87; Lei n.º 20/2023.
-    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1960/decreto-lei-43335.alteracoes.json'
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1960/decreto-lei-43335.alteracoes.json.
+    Revogações registadas só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Decreto-Lei
+    n.º 103-C/89; Decreto-Lei n.º 99/91; Lei n.º 30/2006.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -446,9 +449,9 @@ Art. 18.º Cabe ao Conselho de Ministros outorgar ou denegar a concessão, e a o
 
 #### SECÇÃO III — Dos concessionários
 
-Art. 19.º As concessões a que se refere o artigo 5.º só poderão ser dadas a cidadãos portugueses ou a empresas colectivas nacionais que tenham pelo menos dois terços de capital português e ficarão em tudo sujeitas exclusivamente às leis portuguesas.
+Art. 19.º (Revogado.)
 
-§ único. À mesma entidade poderão ser outorgadas cumulativamente mais de uma concessão, da mesma categoria ou de categorias diferentes.
+> Revogado pelo/a [Decreto-Lei n.º 99/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-1991-468022), publicado em 1991-03-02, com efeitos a partir de 1991-03-07.
 
 Art. 20.º O Estado poderá, se o julgar conveniente, participar no capital de empresas concessionárias da produção, do transporte, ou da grande distribuição, directamente ou por intermédio das suas instituições de crédito; mas esta participação não excederá, normalmente, 50 por cento do capital das empresas.
 
@@ -1188,31 +1191,31 @@ Art. 152.º Para os efeitos do presente diploma, são considerados casos fortuit
 
 ### CAPÍTULO V — Das penalidades
 
-Art. 153.º Salvo ocorrendo caso fortuito ou de força maior, e sem prejuízo da aplicação de outras leis, gerais ou especiais, a infracção ao disposto no presente decreto-lei será punível nos termos dos artigos seguintes.
+Art. 153.º (Revogado.)
 
-Art. 154.º A falta de cumprimento das obrigações impostas nos termos dos artigos 35.º e 75.º será punida com multa de 100$00 a 500$00 por cada dia de demora além dos prazos que forem fixados pela fiscalização do Governo.
+> Revogado pelo/a [Lei n.º 30/2006](https://diariodarepublica.pt/dr/detalhe/lei/30-2006-537249), publicado em 2006-07-11, com efeitos a partir de 2006-08-10.
 
-Art. 155.º A falta das indicações a que se refere o artigo 71.º ou a sua falsidade serão punidas com multa, graduada de acordo com a importância da concessão e a natureza da falta, até ao triplo do valor da renda devida ao Estado, mas nunca inferior a 500$00.
+Art. 154.º (Revogado.)
 
-Art. 156.º A falta de cumprimento do disposto nos artigos 85.º ou 146.º será punida com multa de 100$00.
+Art. 155.º (Revogado.)
 
-Art. 157.º A utilização por um concessionário de combustível diferente do que lhe estabelece o caderno de encargos sem autorização do Secretário de Estado da Indústria, mediante pedido fundamentado, será punida com a multa estabelecida no caderno de encargos, sem prejuízo do disposto no n.º 4.º do artigo 65.º para o caso de reincidência.
+Art. 156.º (Revogado.)
 
-Art. 158.º O concessionário que, em contravenção do disposto no artigo 118.º, não fornecer energia a qualquer consumidor no prazo previsto no respectivo contrato ou fixado pela Direcção-Geral dos Serviços Eléctricos incorre na multa de 100$00 por cada dia de demora.
+Art. 157.º (Revogado.)
 
-Art. 159.º O concessionário que vender energia a preços superiores aos que corresponderem às tarifas aprovadas será punido com multa igual ao dobro das importâncias indevidamente cobradas, sem prejuízo da obrigação de restituir aquelas importâncias ao consumidor ou consumidores lesados.
+Art. 158.º (Revogado.)
 
-§ único. Na falta de elementos técnicos suficientes para a determinação das condições tarifárias que deveriam ter sido aplicadas, poderá a multa a que se refere o corpo do artigo ser fixada entre 1000$00 e 100000$00, tendo em atenção o número e importância dos consumidores lesados e o tempo que tiver durado a infracção.
+Art. 159.º (Revogado.)
 
-Art. 160.º O concessionário de transporte ou de grande distribuição que recusar ou suspender o fornecimento de energia a qualquer consumidor, fora dos casos previstos no artigo 167.º, será punido com multa de 1000$00, que poderá ser elevada até 10000$00 nos casos de reincidência.
+Art. 160.º (Revogado.)
 
-Art. 161.º A falta de cumprimento de qualquer das obrigações impostas no artigo 150.º será punida com multa de 300$00 a 5000$00, graduada de acordo com a importância da infracção, a categoria do infractor e o número de reincidências.
+Art. 161.º (Revogado.)
 
-Art. 162.º O proprietário de linhas de alta tensão que as não desmontar no prazo que lhe for fixado pela Direcção-Geral dos Serviços Eléctricos, depois de notificada de harmonia com o disposto no artigo 144.º, incorre na multa de 1000$00, que poderá ser elevada até 10000$00 por cada uma das ulteriores notificações que não tenha sido acatada.
+Art. 162.º (Revogado.)
 
-Art. 163.º Aquele que deixar de cumprir qualquer disposição deste decreto-lei para a qual não esteja prevista sanção especial será punido com multa de 200$00 a 5000$00, consoante a importância da falta.
+Art. 163.º (Revogado.)
 
-Art. 164.º As multas aplicadas nos termos dos artigos anteriores, das leis e regulamentos em vigor e dos cadernos de encargos das concessões serão cobradas mediante guia passada pela Direcção-Geral dos Serviços Eléctricos e constituem receita do Estado.
+Art. 164.º (Revogado.)
 
 ### CAPÍTULO VI — Disposições gerais
 
@@ -1474,9 +1477,9 @@ Art. 45.º Apólices. - Os contratos de fornecimento de energia em alta tensão 
 
 § 3.º Os contratos de fornecimento em que se não respeitem as prescrições deste artigo são considerados nulos e de nenhum efeito.
 
-Art. 46.º Caução. - O distribuidor tem o direito de exigir, antes da assinatura do contrato, garantia bancária ou depósito em dinheiro de uma quantia equivalente ao valor do consumo de energia, durante um mês, correspondente à utilização de 100 horas da potência contratada.
+Art. 46.º Caução. - (Revogado.)
 
-§ único. No fim do contrato, no caso de cessação de fornecimento, será o depósito restituído ao consumidor, com dedução das quantias eventualmente em dívida.
+> Revogado pelo/a [Decreto-Lei n.º 103-C/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-c-1989-146549), publicado em 1989-04-04, com efeitos a partir de 1989-04-05.
 
 > Alterado pelo/a [Decreto-Lei n.º 116/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-1987-662314), publicado em 1987-03-14.
 

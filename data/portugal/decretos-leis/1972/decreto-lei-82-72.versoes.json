@@ -15,7 +15,7 @@
    ]
   },
   {
-   "date": "1974-08-26",
+   "date": "1975-09-04",
    "future": false,
    "acts": [
     {
@@ -23,10 +23,17 @@
      "title": "Decreto-Lei n.º 389/74",
      "published": "1974-08-26",
      "dre_path": "/dr/detalhe/decreto-lei/389-1974-475726"
+    },
+    {
+     "id": "pt:dre:307605:por",
+     "title": "Decreto-Lei n.º 481/75",
+     "published": "1975-09-04",
+     "dre_path": "/dr/detalhe/decreto-lei/481-1975-307605"
     }
    ],
    "changes": [
-    "Altera Artigo 13.º"
+    "Altera Artigo 13.º",
+    "Revoga Artigo 17"
    ],
    "fragments": [
     "4f0b314825f70bff",
@@ -46,7 +53,7 @@
     "e35006de31ed6c97",
     "e4a5f22cb768e12b",
     "ffa1884a3fc88667",
-    "ef0eaf58104e871a",
+    "c172f3dcdbd8c526",
     "a45ed4a7923c7f46"
    ]
   }
@@ -168,7 +175,7 @@
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 13.º",
-   "in_force_from": "1974-08-26",
+   "in_force_from": "1975-09-04",
    "changed_by": [
     "Alterado pelo/a [Decreto-Lei n.º 389/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/389-1974-475726), publicado em 1974-08-26."
    ],
@@ -198,13 +205,15 @@
    "changed_by": [],
    "markdown": "###### Artigo 16.º\n\nA colocação dos actuais funcionários nos lugares correspondentes do mapa anexo far-se-á mediante publicação no Diário do Governo de lista nominativa assinada pelo Ministro da Justiça, considerando-se definitivamente providos nos novos cargos sem dependência de outra formalidade que não seja a anotação pelo Tribunal de Contas."
   },
-  "ef0eaf58104e871a": {
+  "c172f3dcdbd8c526": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 17.º",
-   "in_force_from": null,
-   "changed_by": [],
-   "markdown": "###### Artigo 17.º\n\nO pessoal dos órgãos privativos de polícia judiciária com funções auxiliares de investigação criminal tem direito a indemnizações de tecnicidade, cujo quantitativo será fixado por despacho do Ministro das Finanças e do Ministro da respectiva pasta."
+   "in_force_from": "1975-09-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 481/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/481-1975-307605), publicado em 1975-09-04."
+   ],
+   "markdown": "###### Artigo 17.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 481/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/481-1975-307605), publicado em 1975-09-04."
   },
   "a45ed4a7923c7f46": {
    "fragment_id": null,

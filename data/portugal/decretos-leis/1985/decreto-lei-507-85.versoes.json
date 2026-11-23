@@ -56,11 +56,19 @@
      "title": "Decreto-Lei n.º 239/91",
      "published": "1991-07-05",
      "dre_path": "/dr/detalhe/decreto-lei/239-1991-667897"
+    },
+    {
+     "id": "pt:dre:546985:por",
+     "title": "Decreto-Lei n.º 291/89",
+     "published": "1989-09-02",
+     "dre_path": "/dr/detalhe/decreto-lei/291-1989-546985"
     }
    ],
    "changes": [
     "Altera Artigo 58.º",
-    "Altera Artigo 62.º"
+    "Altera Artigo 62.º",
+    "Revoga Artigo 8",
+    "Revoga Artigo 61"
    ],
    "fragments": [
     "e30d84ad6baced09",
@@ -76,7 +84,7 @@
     "1c7c4bd7be5769b9",
     "a6823249c8f351f3",
     "5d2d874e222f049c",
-    "5459c550483f0ac1",
+    "1ace296bd757a6f8",
     "2c52447ca2bc5d1d",
     "dfc6c4bb0102dd3c",
     "447bedff29dcde95",
@@ -151,7 +159,7 @@
     "0ac4b2b2ef56a095",
     "ac8af8635126f7ae",
     "05b436403ac5125e",
-    "aa33915dd39ed838",
+    "ea7c78832e2791f6",
     "dca8d1a5d6088f65",
     "61e6add21e27b92b",
     "f4f63e91edbac053",
@@ -464,13 +472,15 @@
    "changed_by": [],
    "markdown": "###### Artigo 7.º\n\n1 - Os elementos exigidos no artigo anterior são os seguintes:\n\na) O nome, a morada e o código de identificação da entidade habilitada a despachar;\n\nb) O nome e a morada do importador, bem como os números de identificação de pessoa colectiva e do conhecimento da contribuição industrial;\n\nc) A contramarca fiscal, se for caso disso;\n\nd) Para as mercadorias que tenham sido objecto de uma declaração sumária, a referência a essa declaração;\n\ne) Para as mercadorias que não tenham sido objecto de uma declaração sumária:\n\nDeclaradas directamente para importação para livre prática, as indicações necessárias à identificação do meio de transporte a bordo do qual chegaram à estância aduaneira;\n\nDeclaradas para livre prática após terem sido colocadas sob um outro regime aduaneiro, a referência a esse regime;\n\nf) A data de apresentaçao das mercadorias na estância aduaneira;\n\ng) As marcas, números, quantidade e natureza dos volumes ou, tratando-se de mercadorias a granel, a quantidade e a qualidade, em peso ou volume;\n\nh) O local onde se encontram as mercadorias;\n\ni) O código pautal, assim como a designação das mercadorias correspondente a esse código ou uma designação em termos suficientemente precisos que permitam aos serviços aduaneiros determinar imediatamente e sem ambiguidade a correspondência das mercadorias com o código pautal declarado;\n\nj) O peso bruto das mercadorias;\n\nk) O valor aduaneiro e, se for caso disso, os dados quantitativos necessários à sua determinação;\n\nl) Tratando-se de mercadorias sujeitas a direitos específicos, os dados quantitativos e as especificações complementares eventualmente necessárias à aplicação desses direitos;\n\nm) Tratando-se de mercadorias sujeitas a direitos ad valorem com um mínimo ou máximo de percepção baseada em dados específicos, o conjunto dos elementos indicados nas alíneas k) e l);\n\nn) O país de origem e o país de procedência das mercadorias;\n\no) O número da licença, declaração ou certificado de importação, se for caso disso;\n\np) A taxa dos direitos aplicáveis às mercadorias declaradas;\n\nq) O montante das imposições devidas, tal como foi calculado pelo declarante;\n\nr) O número, precedido da letra ou letras indicativas do país de emissão, do certificado de importação ou de prefixação apresentados nos termos das disposições aplicáveis em matéria de política agrícola comum;\n\ns) A enumeração dos documentos juntos à declaração;\n\nt) Quaisquer outros elementos necessários à aplicação das disposições que regulam a introdução em livre prática das mercadorias.\n\n2 - Para efeitos do disposto na alínea i) do número anterior, entende-se por código pautal o conjunto formado pelo número estatístico constante da Nomenclatura Estatística das Mercadorias do Comércio Externo (NEMCE) e pelos dígitos correspondentes aos desdobramentos aduaneiros."
   },
-  "5459c550483f0ac1": {
+  "1ace296bd757a6f8": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 8.º",
-   "in_force_from": null,
-   "changed_by": [],
-   "markdown": "###### Artigo 8.º\n\n1 - Devem ser juntos ou apresentados com a declaração, para efeitos do disposto no artigo 6.º:\n\na) A factura comercial;\n\nb) O conhecimento de carga, a carta de porte aéreo ou documentos equivalentes, apresentados em conformidade com as disposições regulamentares aplicáveis;\n\nc) A declaração relativa ao valor aduaneiro;\n\nd) Os certificados de origem ou de circulação necessários à aplicação de um regime pautal preferencial ou de qualquer outra medida para que sejam exigíveis;\n\ne) A licença, declaração ou certificado de importação, se for caso disso, assim como as autorizações, certificados ou outros documentos exigidos por força de medidas de proibição, restrição ou controle;\n\nf) A lista de volumes ou documento equivalente indicando o conteúdo de cada um deles, quando as mercadorias sejam apresentadas em vários volumes;\n\ng) Quaisquer outros documentos necessários à aplicação das disposições que regulam a introdução em livre prática das mercadorias.\n\n2 - Quando o considerem necessário, poderão os serviços aduaneiros exigir, aquando da entrega da declaração, a apresentação dos documentos relativos ao regime aduaneiro anterior."
+   "in_force_from": "1991-07-10",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 291/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/291-1989-546985), publicado em 1989-09-02, com efeitos a partir de 1989-11-01."
+   ],
+   "markdown": "###### Artigo 8.º\n\n1 - Devem ser juntos ou apresentados com a declaração, para efeitos do disposto no artigo 6.º:\n\na) A factura comercial;\n\nb) (Revogada.)\n\nc) A declaração relativa ao valor aduaneiro;\n\nd) Os certificados de origem ou de circulação necessários à aplicação de um regime pautal preferencial ou de qualquer outra medida para que sejam exigíveis;\n\ne) A licença, declaração ou certificado de importação, se for caso disso, assim como as autorizações, certificados ou outros documentos exigidos por força de medidas de proibição, restrição ou controle;\n\nf) A lista de volumes ou documento equivalente indicando o conteúdo de cada um deles, quando as mercadorias sejam apresentadas em vários volumes;\n\ng) Quaisquer outros documentos necessários à aplicação das disposições que regulam a introdução em livre prática das mercadorias.\n\n2 - Quando o considerem necessário, poderão os serviços aduaneiros exigir, aquando da entrega da declaração, a apresentação dos documentos relativos ao regime aduaneiro anterior.\n\n> Revogado pelo/a [Decreto-Lei n.º 291/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/291-1989-546985), publicado em 1989-09-02, com efeitos a partir de 1989-11-01."
   },
   "2c52447ca2bc5d1d": {
    "fragment_id": null,
@@ -1026,13 +1036,13 @@
    "changed_by": [],
    "markdown": "## TÍTULO V — Disposições finais e transitórias"
   },
-  "aa33915dd39ed838": {
+  "ea7c78832e2791f6": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 61.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 61.º\n\n1 - Todas as referências a pedido, a declaração ou aos dois conjuntamente, com o significado que a estes termos é atribuído, respectivamente, nos artigos 241.º e 245.º do Regulamento das Alfândegas, aprovado pelo [Decreto n.º 31730](https://diariodarepublica.pt/dr/detalhe/decreto/31730-1941-469185), de 15 de Dezembro de 1941, devem ser entendidas como referindo-se a declaração, com o significado que a este termo é dado no presente decreto-lei e para os efeitos nele previstos.\n\n2 - Para efeitos de aplicação do regime geral regulado no título II, a conferência do título de propriedade ou documento que legalmente o substitua prevista no artigo 240.º do Regulamento das Alfândegas referido no número anterior terá lugar antes da aceitação da declaração."
+   "markdown": "###### Artigo 61.º\n\n1 - Todas as referências a pedido, a declaração ou aos dois conjuntamente, com o significado que a estes termos é atribuído, respectivamente, nos artigos 241.º e 245.º do Regulamento das Alfândegas, aprovado pelo [Decreto n.º 31730](https://diariodarepublica.pt/dr/detalhe/decreto/31730-1941-469185), de 15 de Dezembro de 1941, devem ser entendidas como referindo-se a declaração, com o significado que a este termo é dado no presente decreto-lei e para os efeitos nele previstos.\n\n2 - (Revogado.)"
   },
   "dca8d1a5d6088f65": {
    "fragment_id": null,

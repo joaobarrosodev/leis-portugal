@@ -27,7 +27,7 @@ end_of_validity_date: null
 legal_status: repealed
 legal_status_basis:
   source: prova_manual
-  dre_status: in_force
+  dre_status: repealed
   reason: 'Portaria n.º 685/72: revogação total pela norma revogatória do diploma Portaria n.º 642/74 (6.º), lida no texto
     e verificada às cegas na amostra de 2026-11-14 (segmento b, reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o como
     em vigor.'
@@ -42,7 +42,7 @@ version:
   kind: consolidated
   label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: '1974-01-01'
+  consolidation_date: '1974-10-04'
 version_history:
   file: portaria-685-72.versoes.json
   count: 2
@@ -52,11 +52,12 @@ version_history:
     amending: null
     amending_title: null
     changes: []
-  - date: '1974-01-01'
+  - date: '1974-10-04'
     amending: pt:dre:411168:por
-    amending_title: Portaria n.º 904/73
+    amending_title: Portaria n.º 904/73; Portaria n.º 642/74
     changes:
     - Altera Artigo unidades 15-15
+    - Revoga anexo ou texto fora do articulado
 identifiers:
   celex: null
   eli: null
@@ -83,7 +84,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T03:55:19Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 904/73. Método e verificação:
-    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1972/portaria-685-72.alteracoes.json'
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1972/portaria-685-72.alteracoes.json. Revogações registadas
+    só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Portaria n.º 642/74.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -132,28 +134,22 @@ Nestes termos:
 
 Manda o Governo da República Portuguesa. pelo Secretário de Estado do Comércio, ao abrigo do disposto no artigo 37.º do [Decreto-Lei n.º 491/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/491-1970-147601), de 22 de Outubro, o seguinte:
 
-1.º É autorizado o fabrico, no arquipélago da Madeira, dos seguintes tipos de farinha de milho destinada a usos culinários:
+1.º (Revogado.)
 
-a) Farinha de milho em rama;
+> Revogado pelo/a [Portaria n.º 642/74](https://diariodarepublica.pt/dr/detalhe/portaria/642-1974-483417), publicado em 1974-10-04.
 
-b) Farinha de milho com desgerminação.
+2.º (Revogado.)
 
-2.º O milho necessário ao fabrico das farinhas será fornecido pela Federação Nacional dos Produtores de Trigo e entregue directamente, no cais de desembarque, aos armazenistas de mercearia ou aos industriais de moagem, ao preço de 1$821 por quilograma.
+3.º (Revogado.)
 
-3.º O teor em gordura da farinha de milho com desgerminação não poderá exceder 1,1 por cento.
+4.º (Revogado.)
 
-4.º A farinha de milho em rama será vendida aos preços seguintes:
-
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/11/27000/16941694.pdf)
-
-5.º A farinha de milho com desgerminação será vendida embalada e aos preços seguintes:
-
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/12/29500/24652465.pdf)
+5.º (Revogado.)
 
 > Alterado pelo/a [Portaria n.º 904/73](https://diariodarepublica.pt/dr/detalhe/portaria/904-1973-411168), publicado em 1973-12-20.
 
-6.º O governador do Distrito Autónomo do Funchal fica autorizado a regular os preços das farinhas de milho nos concelhos rurais, tendo exclusivamente em conta os respectivos encargos de transporte.
+6.º (Revogado.)
 
-7.º Fica revogada a determinação constante da nota oficiosa de 3 de Outubro de 1947, emanada do Governo do Distrito Autónomo do Funchal, na parte respeitante a farinhas.
+7.º (Revogado.)
 
 Secretaria de Estado do Comércio, 9 de Novembro de 1972. - O Secretário de Estado do Comércio, Alexandre de Azeredo Vaz Pinto.

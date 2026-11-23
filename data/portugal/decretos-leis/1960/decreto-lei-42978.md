@@ -28,7 +28,7 @@ end_of_validity_date: null
 legal_status: repealed
 legal_status_basis:
   source: prova_manual
-  dre_status: in_force
+  dre_status: repealed
   reason: 'Decreto-Lei n.º 42978: revogação total pela norma revogatória do diploma Decreto-Lei n.º 195/78 (Art. 12.º), lida
     no texto e verificada às cegas na amostra de 2026-11-14 (segmento a, reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o
     como em vigor.'
@@ -42,7 +42,7 @@ version:
   kind: consolidated
   label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: '1967-06-24'
+  consolidation_date: '1978-07-19'
 version_history:
   file: decreto-lei-42978.versoes.json
   count: 2
@@ -52,12 +52,24 @@ version_history:
     amending: null
     amending_title: null
     changes: []
-  - date: '1967-06-24'
+  - date: '1978-07-19'
     amending: pt:dre:554605:por
-    amending_title: Decreto-Lei n.º 43509; Decreto-Lei n.º 47763
+    amending_title: Decreto-Lei n.º 43509; Decreto-Lei n.º 47763; Decreto-Lei n.º 195/78
     changes:
     - Altera Artigo 7.º
     - Altera Artigo 9.º
+    - Revoga Artigo 1
+    - Revoga Artigo 2
+    - Revoga Artigo 3
+    - Revoga Artigo 4
+    - Revoga Artigo 5
+    - Revoga Artigo 6
+    - Revoga Artigo 7
+    - Revoga Artigo 8
+    - Revoga Artigo 9
+    - Revoga Artigo 10
+    - Revoga Artigo 11
+    - Revoga Artigo 12
 identifiers:
   celex: null
   eli: null
@@ -84,7 +96,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T21:32:20Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 43509; Decreto-Lei
-    n.º 47763. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1960/decreto-lei-42978.alteracoes.json'
+    n.º 47763. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1960/decreto-lei-42978.alteracoes.json.
+    Revogações registadas só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Decreto-Lei
+    n.º 195/78.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -143,97 +157,57 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ###### Artigo 1.º
 
-São integrados em direito interno, para serem aplicados a todos os navios de mar, os princípios contidos na Convenção n.º 68 da Conferência Internacional do Trabalho, entendendo-se que, para efeitos deste diploma, se consideram navios de mar as embarcações que se destinam a navegar no mar em exercício de comércio.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 195/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-1978-297411), publicado em 1978-07-19.
 
 ###### Artigo 2.º
 
-Todos os navios devem estar convenientemente abastecidos e ter cozinhas que permitam fornecer e servir as refeições aos membros da tripulação, de acordo com as viagens que vão efectuar e as tabelas de racionamento anexas ao presente decreto-lei.
+(Revogado.)
 
 ###### Artigo 3.º
 
-Para os serviços de mesa e cozinha serão nomeados inscritos marítimos devidamente habilitados a desempenhar tais funções nos termos dos Decretos-Leis n.os 23764, de 13 de Abril de 1934, e 41643, de 23 de Maio de 1958.
-
-§ 1.º As refeições da marinhagem deverão ser servidas por um tripulante da secção de câmaras (criado), que será responsável não só por este serviço como também pela limpeza, arrumação e conservação dos respectivos refeitórios e de todo o material que lhe for entregue, bem como pela higiene das instalações e corredores anexos e salas de estar, quando as haja.
-
-§ 2.º Ao tripulante da secção de câmaras (criado) encarregado do serviço de mesa, além das determinações indicadas no parágrafo anterior, cabe também a responsabilidade do serviço parcelar ou individual de todas as comidas e bebidas das refeições diárias, do extravio ou estrago de alimentos e da guarda em local apropriado do que não for consumido.
+(Revogado.)
 
 ###### Artigo 4.º
 
-Compete à autoridade marítima, pelos médicos ao seu serviço, assegurar a inspecção à qualidade e quantidade das refeições fornecidas, bem como aos locais, instalações e utensílios destinados à armazenagem, manipulação e preparação dos géneros alimentícios.
+(Revogado.)
 
 ###### Artigo 5.º
 
-Os médicos encarregados da inspecção a que se refere o artigo anterior têm o direito de ir a bordo de qualquer embarcação como delegados da autoridade marítima e de fazer recomendações com o fim de melhorar o nível do serviço de cozinha e de mesa, cumprindo ao proprietário, capitão ou armador facilitar a inspecção com a minúcia julgada indispensável e facultar sem qualquer restrição todos os documentos que lhe forem pedidos, incluindo os papéis de bordo.
+(Revogado.)
 
 ###### Artigo 6.º
 
-Os médicos são obrigados a apresentar à autoridade marítima relatório circunstanciado das inspecções que efectuarem, quer ordinárias, quer extraordinárias.
+(Revogado.)
 
 ###### Artigo 7.º
 
-Sempre que haja queixa formulada pelo Grémio dos Armadores, pela União dos Sindicatos de Oficiais, Mestrança e Marinhagem da Navegação ou por membros da tripulação em número nunca inferior a 10 por cento da lotação, deve a autoridade marítima determinar uma inspecção extraordinária.
-
-§ único. Só serão consideradas as queixas que dêem entrada na repartição marítima pelo menos 24 horas antes da hora fixada para a partida do navio.
+(Revogado.)
 
 > Alterado pelo/a [Decreto-Lei n.º 47763](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47763-1967-312011), publicado em 1967-06-24.
 
 ###### Artigo 8.º
 
-No mar, o capitão ou um oficial especialmente designado por ele deve proceder a inspecções periódicas, pelo menos semanalmente, acompanhado por um membro responsável do pessoal da secção de câmaras:
-
-a) Às provisões dos víveres e da água;
-
-b) A todos os locais e utensílios empregados no armazenamento e manipulação de víveres e de água, bem como da cozinha e de qualquer outra instalação utilizada para a preparação das refeições e sua distribuição.
-
-§ 1.º Os resultados de cada inspecção devem ser reduzidos a escrito.
-
-§ 2.º Cópias dos relatórios destas inspecções devem ser entregues no fim da viagem às autoridades marítimas, juntamente com os demais papéis de bordo.
+(Revogado.)
 
 ###### Artigo 9.º
 
-Os relatórios a que se referem os artigos 6.º e 8.º serão remetidos à 1.ª Repartição da Direcção da Marinha Mercante para a elaboração do relatório anual.
-
-§ único. Do relatório anual serão extraídas cópias para:
-
-a) A Repartição Internacional do Trabalho;
-
-b) A Junta Nacional da Marinha Mercante;
-
-c) A Direcção-Geral de Saúde;
-
-d) O Ministério das Corporações e Previdência Social;
-
-e) O Grémio dos Armadores;
-
-f) A União dos Sindicatos de Oficiais, Mestrança e Marinhagem.
+(Revogado.)
 
 > Alterado pelo/a [Decreto-Lei n.º 43509](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43509-1961-554605), publicado em 1961-02-16.
 
 ###### Artigo 10.º
 
-Estão sujeitos às penalidades previstas no artigo 49.º do Código Penal e Disciplinar da Marinha Mercante os tripulantes que cometam qualquer das seguintes faltas:
-
-a) Que dificultem ou tentem dificultar a inspecção a que se refere o artigo 5.º;
-
-b) Que se apresentem às refeições em deficientes condições de higiene ou em estado de embriaguez;
-
-c) Que tomem atitudes incorrectas entre si ou para com o encarregado do serviço de mesa durante as refeições;
-
-d) Que não aguardem com compostura a devida altura de serem servidos e não respeitem as diferentes categorias, idade e antiguidade no navio;
-
-e) Que tentem servir-se de utensílios estranhos ao refeitório, ou guardem alimentos e bebidas em proveito próprio;
-
-f) Que aproveitem o refeitório para outros fins, salvo se o navio não possuir sala de estar para marinhagem, e, neste caso, sem prejuízo dos serviços de mesa;
-
-g) Que sem autorização superior convidem ou recebam pessoas estranhas no refeitório ou na sala de marinhagem.
+(Revogado.)
 
 ###### Artigo 11.º
 
-A inobservância das disposições deste diploma, quando da responsabilidade dos armadores, fará incorrer estes nas multas de 500$00 a 50000$00, aplicáveis pela autoridade marítima.
+(Revogado.)
 
 ###### Artigo 12.º
 
-Fica revogada a legislação em contrário, designadamente o [Decreto n.º 12384](https://diariodarepublica.pt/dr/detalhe/decreto/12384-1926-158934), de 27 de Setembro de 1926.
+(Revogado.)
 
 Publique-se e cumpra-se como nele se contém.
 

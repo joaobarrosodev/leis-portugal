@@ -41,7 +41,7 @@ version:
   kind: consolidated
   label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: '1990-07-22'
+  consolidation_date: '1998-03-22'
 version_history:
   file: portaria-247-89.versoes.json
   count: 2
@@ -51,15 +51,16 @@ version_history:
     amending: null
     amending_title: null
     changes: []
-  - date: '1990-07-22'
+  - date: '1998-03-22'
     amending: pt:dre:575754:por
-    amending_title: Portaria n.º 551/90
+    amending_title: Portaria n.º 551/90; Decreto-Lei n.º 59/98
     changes:
     - Altera Artigo unidades 14-14
     - Altera Artigo unidades 29-29
     - Altera Artigo unidades 30-30
     - Altera Artigo unidades 31-34
     - Altera Artigo unidades 35-35
+    - Revoga anexo ou texto fora do articulado
 identifiers:
   celex: null
   eli: null
@@ -86,7 +87,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T09:48:21Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 551/90. Método e verificação:
-    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1989/portaria-247-89.alteracoes.json'
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1989/portaria-247-89.alteracoes.json. Revogações registadas
+    só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Decreto-Lei n.º 59/98.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -152,93 +154,47 @@ Manda o Governo, pelos Ministros da Defesa Nacional e da Educação e pela Secre
 
 1.º É criada a Comissão Portuguesa de História Militar (CPHM), que funcionará na dependência do Ministro da Defesa Nacional.
 
-2.º A Comissão tem por fim promover, estimular e coordenar a investigação histórica militar, com vista, designadamente, à representação e participação de Portugal na Comissão Internacional de História Militar (CIHM) e à promoção e divulgação dos resultados dos seus trabalhos.
+2.º (Revogado.)
 
-3.º A CPHM integra individualidades de reconhecida competência científica no domínio da história militar, assim como investigadores directa ou indirectamente relacionados com aquele ramo da ciência.
+> Revogado pelo/a [Decreto-Lei n.º 59/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1998-197526), publicado em 1998-03-17, com efeitos a partir de 1998-03-22.
 
-4.º São órgãos da CPHM:
+3.º (Revogado.)
 
-a) A presidência;
-
-b) O conselho consultivo;
-
-c) A assembleia.
+4.º (Revogado.)
 
 > Alterado pelo/a [Portaria n.º 551/90](https://diariodarepublica.pt/dr/detalhe/portaria/551-1990-575754), publicado em 1990-07-17.
 
-5.º Constituem atribuições da presidência:
+5.º (Revogado.)
 
-a) Definir as acções e a orientação a adoptar nas actividades da CPHM;
+6.º (Revogado.)
 
-b) Dirigir e acompanhar a execução dos programas aprovados;
+7.º (Revogado.)
 
-c) Elaborar os programas e relatórios anuais das actividades da Comissão;
+8.º (Revogado.)
 
-d) Assegurar a ligação da CPHM com a CIHM e com os outros organismos cuja colaboração seja tida por conveniente.
+9.º (Revogado.)
 
-6.º A presidência é constituída por quatro membros, em representação da Academia Portuguesa da História e dos três ramos das forças armadas, sendo um deles o presidente.
-
-7.º A designação dos elementos referidos no número anterior é feita nos seguintes termos:
-
-a) O representante da Academia Portuguesa da História, por despacho da Secretária de Estado da Cultura, ouvido o presidente daquela Academia;
-
-b) Os representantes dos ramos das forças armadas, por despacho do Ministro da Defesa Nacional, ouvidos os respectivos Chefes de Estado-Maior.
-
-8.º O presidente será proposto pelos indigitados e nomeado por despacho conjunto dos Ministros da Defesa Nacional e da Educação e da Secretária de Estado da Cultura.
-
-9.º Compete, em especial, ao presidente:
-
-a) Coordenar a actividade da presidência;
-
-b) Convocar e dirigir as reuniões do conselho consultivo;
-
-c) Representar a Comissão em todas as suas actividades.
-
-10.º O presidente será coadjuvado no exercício das suas funções por um secretário-geral, a nomear pelo Ministro da Defesa Nacional, ao qual compete, designadamente, apoiar os trabalhos da Comissão, de acordo com as normas definidas no seu regimento, no âmbito das actividades da presidência, do conselho consultivo e da assembleia.
+10.º (Revogado.)
 
 > Alterado pelo/a [Portaria n.º 551/90](https://diariodarepublica.pt/dr/detalhe/portaria/551-1990-575754), publicado em 1990-07-17.
 
-11.º - 1 - O conselho consultivo é um órgão de consulta e apoio à presidência em assuntos de natureza científica, tendo, nomeadamente, de se pronunciar sobre:
-
-a) Os estudos de investigação histórica militar e outros trabalhos científicos que lhe forem presentes;
-
-b) Matérias que requeiram parecer de nível científico e se enquadrem dentro dos fins da CPHM.
-
-2 - O conselho consultivo é constituído por 12 vogais, escolhidos entre personalidades que, pelas suas funções ou aptidões, tenham afinidades com a ciência da história militar, sendo seis designados pelo Ministro da Defesa Nacional, três pelo Ministro da Educação e três pelo Secretário de Estado da Cultura.
+11.º (Revogado.)
 
 > Alterado pelo/a [Portaria n.º 551/90](https://diariodarepublica.pt/dr/detalhe/portaria/551-1990-575754), publicado em 1990-07-17.
 
-12.º - 1 - A assembleia é constituída pelos membros da presidência e vogais do conselho consultivo, tendo, designadamente, as seguintes atribuições:
-
-a) Aprovar os programas e relatórios anuais;
-
-b) Aprovar os programas plurianuais e as grandes linhas de orientação a adoptar nas actividades da CPHM;
-
-c) Deliberar sobre os representantes nacionais nos trabalhos da CPHM;
-
-d) Deliberar sobre a realização de trabalhos de pesquisa histórica no âmbito do estudo comparado da história militar;
-
-e) Pronunciar-se sobre a designação de individualidades não pertencentes à Comissão para a realização de trabalhos ou outras actividades no âmbito dos objectivos da Comissão;
-
-f) Pronunciar-se sobre a alteração das disposições do regimento interno da Comissão.
-
-2 - A assembleia reúne, ordinariamente, duas vezes por ano e, extraordinariamente, sempre que para tal for convocada pelo presidente, por sua iniciativa ou a pedido de um terço dos seus membros.
-
-3 - As deliberações serão aprovadas por maioria simples, tendo o presidente voto de qualidade no caso de empate.
-
-4 - Das reuniões da assembleia são lavradas actas, donde conste a indicação dos assuntos tratados e o relato das intervenções feitas e das deliberações tomadas.
+12.º (Revogado.)
 
 > Alterado pelo/a [Portaria n.º 551/90](https://diariodarepublica.pt/dr/detalhe/portaria/551-1990-575754), publicado em 1990-07-17.
 
-13.º A Comissão poderá ainda integrar personalidades de reconhecido mérito para desenvolvimento de estudos científicos ou para efeitos de representação especializada relacionada com os fins da CPHM, que serão nomeados pelo Ministro da Defesa Nacional, por sua iniciativa ou sob proposta do Ministro da Educação, do Secretário de Estado da Cultura ou do presidente da Comissão.
+13.º (Revogado.)
 
 > Alterado pelo/a [Portaria n.º 551/90](https://diariodarepublica.pt/dr/detalhe/portaria/551-1990-575754), publicado em 1990-07-17.
 
-14.º O apoio técnico e administrativo necessário ao funcionamento da CPHM será assegurado pelo Ministério da Defesa Nacional.
+14.º (Revogado.)
 
-15.º As despesas da Comissão serão cobertas pelas dotações do orçamento do Ministério da Defesa Nacional, Gabinete do Ministro.
+15.º (Revogado.)
 
-16.º O regimento interno da CPHM será elaborado pela presidência e aprovado por despacho do Ministro da Defesa Nacional.
+16.º (Revogado.)
 
 Presidência do Conselho de Ministros e Ministérios da Defesa Nacional e da Educação.
 

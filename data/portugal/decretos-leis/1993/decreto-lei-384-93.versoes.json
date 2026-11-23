@@ -55,13 +55,20 @@
      "title": "Decreto-Lei n.º 15/2007",
      "published": "2007-01-19",
      "dre_path": "/dr/detalhe/decreto-lei/15-2007-522638"
+    },
+    {
+     "id": "pt:dre:534604:por",
+     "title": "Decreto-Lei n.º 5-A/2001",
+     "published": "2001-01-12",
+     "dre_path": "/dr/detalhe/decreto-lei/5-a-2001-534604"
     }
    ],
    "changes": [
     "Altera Artigo 5.º",
     "Altera Artigo 6.º",
     "Altera Artigo 15.º",
-    "Revoga Artigo 14.º"
+    "Revoga Artigo 14.º",
+    "Revoga Artigo 5"
    ],
    "fragments": [
     "5d06af1d1e5c7f91",
@@ -69,7 +76,7 @@
     "afe412d8917309f7",
     "c0e780e31791818f",
     "0da5af03edcbeb6b",
-    "cb9e91879e060209",
+    "c00d50ca104d41b6",
     "bb9c46614b8b6020",
     "643a4a3915af0b95",
     "a47f03532d36ec15",
@@ -257,15 +264,16 @@
    "changed_by": [],
    "markdown": "###### Artigo 20.º — Entrada em vigor\n\nO presente diploma reporta os seus efeitos a 1 de Setembro de 1993.\n\nVisto e aprovado em Conselho de Ministros de 14 de Outubro de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - António Fernando Couto dos Santos.\n\nPromulgado em 11 de Novembro de 1993.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 12 de Novembro de 1993.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
   },
-  "cb9e91879e060209": {
+  "c00d50ca104d41b6": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 5.º — Candidatos",
    "in_force_from": "2007-01-20",
    "changed_by": [
-    "Alterado pelo/a [Decreto-Lei n.º 15-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-a-1999-352900), publicado em 1999-01-19."
+    "Alterado pelo/a [Decreto-Lei n.º 15-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-a-1999-352900), publicado em 1999-01-19.",
+    "Revogado pelo/a [Decreto-Lei n.º 5-A/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-a-2001-534604), publicado em 2001-01-12, com efeitos a partir de 2001-01-01."
    ],
-   "markdown": "###### Artigo 5.º — Candidatos\n\n1 - Podem ser opositores ao concurso referido no artigo anterior, além dos professores já pertencentes a um dos quadros de zona pedagógica, os professores do ensino público, básico ou secundário, que reúnam, cumulativamente, as seguintes condições:\n\na) Serem titulares de habilitação profissional ou própria;\n\nb) Terem obtido colocação e celebrado contrato administrativo, em estabelecimentos dos 2.º e 3.º ciclos do ensino básico ou do ensino secundário, nos últimos dois anos lectivos;\n\nc) Terem completado, até 31 de Agosto do ano anterior ao da abertura do concurso, três ou mais anos de serviço docente;\n\nd) Terem prestado no ano lectivo anterior, no mínimo, 180 dias de serviço, em horários não inferiores a doze horas semanais.\n\n2 - Podem, ainda, ser opositores ao mesmo concurso, para efeitos de transição de nível de docência, os educadores de infância e os professores do 1.º ciclo do ensino básico, que pertençam aos quadros referidos no n.º 2 do artigo 1.º, desde que possuam habilitação profissional ou própria para o nível e para o grau de ensino e grupo de docência a que se candidatam e tenham sido colocados, nos dois últimos anos lectivos, em regime de destacamento, no referido nível e grau de ensino.\n\n> Alterado pelo/a [Decreto-Lei n.º 15-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-a-1999-352900), publicado em 1999-01-19."
+   "markdown": "###### Artigo 5.º — Candidatos\n\n1 - Podem ser opositores ao concurso referido no artigo anterior, além dos professores já pertencentes a um dos quadros de zona pedagógica, os professores do ensino público, básico ou secundário, que reúnam, cumulativamente, as seguintes condições:\n\na) Serem titulares de habilitação profissional ou própria;\n\nb) Terem obtido colocação e celebrado contrato administrativo, em estabelecimentos dos 2.º e 3.º ciclos do ensino básico ou do ensino secundário, nos últimos dois anos lectivos;\n\nc) Terem completado, até 31 de Agosto do ano anterior ao da abertura do concurso, três ou mais anos de serviço docente;\n\nd) (Revogada.)\n\n2 - Podem, ainda, ser opositores ao mesmo concurso, para efeitos de transição de nível de docência, os educadores de infância e os professores do 1.º ciclo do ensino básico, que pertençam aos quadros referidos no n.º 2 do artigo 1.º, desde que possuam habilitação profissional ou própria para o nível e para o grau de ensino e grupo de docência a que se candidatam e tenham sido colocados, nos dois últimos anos lectivos, em regime de destacamento, no referido nível e grau de ensino.\n\n> Alterado pelo/a [Decreto-Lei n.º 15-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-a-1999-352900), publicado em 1999-01-19.\n\n> Revogado pelo/a [Decreto-Lei n.º 5-A/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-a-2001-534604), publicado em 2001-01-12, com efeitos a partir de 2001-01-01."
   },
   "bb9c46614b8b6020": {
    "fragment_id": null,

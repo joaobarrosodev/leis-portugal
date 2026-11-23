@@ -31,7 +31,7 @@ version:
   kind: consolidated
   label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: '1996-09-14'
+  consolidation_date: '2022-11-08'
 version_history:
   file: portaria-346-81.versoes.json
   count: 2
@@ -41,11 +41,12 @@ version_history:
     amending: null
     amending_title: null
     changes: []
-  - date: '1996-09-14'
+  - date: '2022-11-08'
     amending: pt:dre:241836:por
-    amending_title: Portaria n.º 453/96
+    amending_title: Portaria n.º 453/96; Despacho n.º 12862/2022
     changes:
     - Altera Artigo unidades 46-48
+    - Revoga anexo ou texto fora do articulado
 identifiers:
   celex: null
   eli: null
@@ -72,7 +73,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:43:56Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 453/96. Método e verificação:
-    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1981/portaria-346-81.alteracoes.json'
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1981/portaria-346-81.alteracoes.json. Revogações registadas
+    só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Despacho n.º 12862/2022.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -211,13 +213,9 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado do Orçamen
 
 2.ª Repartição - Amora e Corroios.
 
-8.º - 1 - O concelho de Vila Nova de Famalicão é dividido em duas repartições de finanças.
+8.º - (Revogado.)
 
-2 - Cada repartição abrange a área das seguintes freguesias:
-
-1.ª Repartição - Abade de Vermoim, Antas, Avidos, Bairro, Bento, Carreira, Castelões, Delães, Joane, Lagos, Landim, Mogege, Novais, Oliveira (Santa Maria), Oliveira (S. Mateus), Pedome, Pousada, Requião, Riba de Ave, Ruivães, Seide (S. Miguel), Seide (S. Paio), Vermoim e Vila Nova de Famalicão;
-
-2.ª Repartição - Arnoso (Mosteiro), Arnoso (Santa Eulália), Arnoso (Santa Maria), Brufe, Cabeçudos, Calendário, Cavalões, Cruz Esmoriz, Fradelos, Gavião, Gondifelos, Jesufrei, Lemenhe, Louro, Lousado, Nine, Mouquim, Outiz, Portela, Ribeirão, Sezures, Telhado, Vale (S. Cosme), Vale (S. Martinho) e Vilarinho das Cambas.
+> Revogado pelo/a [Despacho n.º 12862/2022](https://diariodarepublica.pt/dr/detalhe/despacho/12862-2022-203158512), publicado em 2022-11-08.
 
 9.º - 1 - O concelho de Viseu é dividido em duas repartições de finanças.
 

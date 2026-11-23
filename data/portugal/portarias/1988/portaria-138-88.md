@@ -54,9 +54,10 @@ version_history:
     changes: []
   - date: '1996-08-07'
     amending: pt:dre:407753:por
-    amending_title: Portaria n.º 328/96
+    amending_title: Portaria n.º 328/96; Portaria n.º 499/95
     changes:
     - Altera Artigo unidades 19-23
+    - Revoga anexo ou texto fora do articulado
 identifiers:
   celex: null
   eli: null
@@ -83,7 +84,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T09:23:09Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 328/96. Método e verificação:
-    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1988/portaria-138-88.alteracoes.json'
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1988/portaria-138-88.alteracoes.json. Revogações registadas
+    só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Portaria n.º 499/95.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -164,29 +166,15 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado da Seguran�
 
 Condições de aprovação de projectos de obras e respectivo financiamento
 
-A aprovação de projectos de obras de construção de estabelecimentos de equipamento social em que estejam interessadas IPSS e seu eventual financiamento fica sujeita à rigorosa verificação pelos centros regionais de segurança social das seguintes condições:
+(Revogado.)
 
-a) Estar assegurado que o estabelecimento a construir é o adequado às necessidades da respectiva comunidade, de acordo com a caracterização previamente elaborada, em ligação com os órgãos autárquicos e com as IPSS, tendo em conta as respostas asseguradas por outras entidades, públicas ou privadas, considerando os critérios técnicos e as prioridades estabelecidas no âmbito do sector;
-
-b) Estar assegurado que a instituição interessada se responsabiliza formalmente pela disponibilidade do terreno adequado à construção do estabelecimento e seus custos, se existirem, pelos custos do programa preliminar e projecto da obra e pela comparticipação financeira que lhe caiba no custo total do empreendimento;
-
-c) Estar assegurado que os projectos submetidos à aprovação obedecem rigorosamente às normas técnicas em vigor para cada tipo de equipamento;
-
-d) Estar assegurado que, sem prejuízo da dignidade e funcionalidade dos estabelecimentos a construir, os respectivos projectos, pelas características e dimensões da construção, pelos materiais a utilizar ou por quaisquer outros factores, não apresentem evidencias luxuosas, ostentatórias ou de sobredimensionamento. Caso contrário, a eventual aprovação do projecto levará a excluir quaisquer financiamentos, excepto tratando-se de equipamento de primeira prioridade, facto que, de acordo com as disponibilidades existentes, poderá implicar comparticipação financeira, mediante rigorosa aplicação dos critérios fixados nos n.os 3.º e 4.º da presente portaria.
+> Revogado pelo/a [Portaria n.º 499/95](https://diariodarepublica.pt/dr/detalhe/portaria/499-1995-529440), publicado em 1995-05-25, com efeitos a partir de 1995-05-30.
 
 2.º
 
 Condições de adjudicação das obras
 
-1 - O financiamento das obras fica dependente da adjudicação das mesmas por concurso público, concurso limitado, concurso por negociação ou ajuste directo, nos termos do regime jurídico das empreitadas de obras públicas.
-
-2 - O recurso ao ajuste directo deverá ser precedido de consulta a, pelo menos, três entidades.
-
-3 - As obras poderão ser realizadas, a título excepcional, por administração directa se por esta forma forem significativamente reduzidos os respectivos custos, sem prejuízo das condições técnicas exigíveis e desde que supervisionadas por entidade tecnicamente idónea.
-
-4 - A adjudicação das obras nos termos dos n.os 2 e 3 será devidamente fundamentada pelo órgão competente da instituição e carece de parecer favorável do centro regional de segurança social.
-
-5 - As obras não poderão, em qualquer caso, ser adjudicadas a entidade a que qualquer dirigente da instituição esteja ligado por laços familiares ou nela detenha interesses.
+(Revogado.)
 
 > Alterado pelo/a [Portaria n.º 328/96](https://diariodarepublica.pt/dr/detalhe/portaria/328-1996-407753), publicado em 1996-08-02.
 
@@ -194,51 +182,31 @@ Condições de adjudicação das obras
 
 Comparticipação financeira da Segurança Social
 
-A comparticipação financeira do sector no custo total dos empreendimentos de construção de estabelecimentos de equipamento social em que estejam interessadas as IPSS será ponderada, caso a caso e de acordo com as disponibilidades anuais, pelos centros regionais de segurança social, com observância do seguinte:
-
-a) O financiamento corresponderá a uma percentagem do valor que se obtenha multiplicando o número de utentes a abranger pelo custo máximo/utente, definido para cada tipo de estabelecimento;
-
-b) A percentagem referida na alínea anterior será variável, de acordo com a adequação do estabelecimento às reais necessidades da comunidade a que se destina e com o grau da respectiva prioridade, sendo esta determinada pela taxa de cobertura existente.
+(Revogado.)
 
 4.º
 
 Percentagem de comparticipação
 
-1 - A percentagem de comparticipação financeira para investimento a que se referem as alíneas a) e b) do n.º 3.º é estabelecida nos termos seguintes:
-
-a) 80%, no caso de verificação pelos centros regionais de segurança social de que o estabelecimento a construir é o mais adequado às reais necessidades da comunidade e ainda de que se trata de um equipamento considerado de primeira prioridade;
-
-b) 65%, no caso de estar verificada a adequação referida no número anterior e de o equipamento em causa ser considerado de segunda prioridade;
-
-c) Inferior a 65%, nos casos não contemplados nas alíneas a) e b), podendo ser nula, verificados que sejam a desadequação do estabelecimento projectado em relação às reais necessidades da comunidade a que se destinaria e o seu carácter não prioritário.
-
-2 - Estas percentagens serão menores ou mesmo nulas, independentemente das prioridades referidas nas alíneas a), b) e c), quando a situação financeira da instituição interessada comprovadamente lhe permita suportar, respectivamente, uma maior parte ou a totalidade dos custos de construção do estabelecimento.
-
-3 - As percentagens referidas no n.º 1 poderão ser aumentadas, a título excepcional, por despacho do Secretário de Estado da Segurança Social, nas situações em que se conjugue a manifesta prioridade do equipamento com a comprovada insuficiência financeira da instituição interessada.
+(Revogado.)
 
 5.º
 
 Disposições gerais
 
-1 - Para os efeitos da presente portaria, o custo total dos empreendimentos a financiar incluí, além do custo de construção propriamente dito, os encargos decorrentes da revisão de preços e de erros e omissões do projecto inicial, bem como o do equipamento fixo e móvel.
-
-2 - O custo máximo por utente a que se refere a alínea a) do n.º 3.º será definido anualmente, por despacho do Secretário de Estado da Segurança Social, para cada tipo de estabelecimento social.
-
-3 - A prioridade estabelecida na alínea b) do n.º 3.º, bem como as percentagens a que se refere o n.º 1 do n.º 4.º, serão definidas no documento de estratégia dos investimentos do sector, a aprovar por despacho do Secretário de Estado da Segurança Social.
+(Revogado.)
 
 6.º
 
 Disposições finais
 
-1 - As disposições da presente portaria referentes a obras de construção de estabelecimentos de equipamento social da iniciativa de IPSS aplicar-se-ão, com as necessárias adaptações, a obras de ampliação ou remodelação, à aquisição de instalações, bem como à aquisição de equipamento para o funcionamento de serviços sociais à comunidade.
-
-2 - Em relação a obras de construção, ampliação ou remodelação de estabelecimentos de equipamento social oficias serão respeitadas as disposições legais em vigor para os organismos do Estado.
+(Revogado.)
 
 7.º
 
 Aplicação
 
-As disposições da presente portaria têm aplicação imediata, após a sua entrada em vigor, a todos os pedidos de comparticipação para financiamento de investimentos apresentados pelas IPSS ainda não aprovados pelos centros regionais de segurança social.
+(Revogado.)
 
 Ministério do Emprego e da Segurança Social.
 

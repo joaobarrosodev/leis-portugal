@@ -53,10 +53,11 @@ version_history:
     changes: []
   - date: '1986-11-10'
     amending: pt:dre:220076:por
-    amending_title: Decreto-Lei n.º 278/86; Decreto-Lei n.º 371/86
+    amending_title: Decreto-Lei n.º 278/86; Decreto-Lei n.º 371/86; Decreto-Lei n.º 151-B/86
     changes:
     - Altera Artigo 8.º
     - Adita Artigo 13.º-A
+    - Revoga Artigo 11
 identifiers:
   celex: null
   eli: null
@@ -83,7 +84,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T00:09:04Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 278/86; Decreto-Lei
-    n.º 371/86. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1985/decreto-lei-497-85.alteracoes.json'
+    n.º 371/86. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1985/decreto-lei-497-85.alteracoes.json.
+    Revogações registadas só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Decreto-Lei
+    n.º 151-B/86.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -361,9 +364,11 @@ b) Secretário de Estado do Orçamento;
 
 c) Secretário de Estado para os Assuntos Fiscais.
 
-2 - O Ministro das Finanças é coadjuvado, no exercício das suas funções, por um Secretário de Estado Adjunto, que é também o Secretário de Estado do Tesouro.
+2 - (Revogado.)
 
 3 - São integrados no Ministério das Finanças, para além dos organismos e serviços integrados no anterior Ministério das Finanças e do Plano e que não sejam integrados por este diploma em outros departamentos, todos os organismos e serviços da anterior Secretaria de Estado da Administração Pública, os quais serão objecto de reestruturação, fusão ou extinção, à excepção do Gabinete de Estudos e Coordenação da Reforma Administrativa, que é integrado na Presidência do Conselho de Ministros.
+
+> Revogado pelo/a [Decreto-Lei n.º 151-B/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-b-1986-297234), publicado em 1986-06-18, com efeitos a partir de 1986-05-22.
 
 ###### Artigo 12.º
 

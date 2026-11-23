@@ -45,10 +45,11 @@ version_history:
     changes: []
   - date: '1978-09-11'
     amending: pt:dre:329820:por
-    amending_title: Decreto-Lei n.º 284/78
+    amending_title: Decreto-Lei n.º 284/78; Decreto-Lei n.º 189/77
     changes:
     - Altera Artigo unidades 202-202
     - Altera Artigo unidades 204-204
+    - Revoga anexo ou texto fora do articulado
 identifiers:
   celex: null
   eli: null
@@ -75,7 +76,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T21:39:23Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 284/78. Método e
-    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1961/decreto-lei-44131.alteracoes.json'
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1961/decreto-lei-44131.alteracoes.json.
+    Revogações registadas só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Decreto-Lei
+    n.º 189/77.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -472,15 +475,9 @@ b) Por seis oficiais médicos, militares, no activo ou na situação de reserva,
 
 § único. Nas reuniões do conselho técnico terá assento, com voto consultivo, o director do Instituto de Assistência Nacional aos Tuberculosos ou um representante deste Instituto.
 
-Art. 37.º O conselho administrativo será composto por:
+Art. 37.º - (Revogado.)
 
-a) Um presidente, que será o vogal mais moderno da direcção da Assistência;
-
-b) Um chefe de contabilidade, oficial superior ou capitão, ou posto equivalente, dos serviços de administração ou de intendência de qualquer ramo das forças armadas, do activo ou na situação de reserva, proposto pelo presidente da direcção da Assistência aos Tuberculosos das Forças Armadas;
-
-c) Um tesoureiro, capitão ou subalterno, ou posto equivalente, dos serviços de administração ou de intendência de qualquer ramo das Forças Armadas, do activo ou na situação de reserva, proposto pela direcção da Assistência aos Tuberculosos das Forças Armadas.
-
-§ único. O conselho administrativo pode ainda dispor de pessoal militar ou civil.
+> Revogado pelo/a [Decreto-Lei n.º 189/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/189-1977-251594), publicado em 1977-05-10.
 
 Art. 38.º A secretaria será chefiada por um oficial de patente não superior a capitão ou equivalente, do activo ou na situação de reserva, de qualquer ramo das forças armadas.
 
@@ -614,35 +611,25 @@ d) Os juros dos fundos capitalizados e outros rendimentos de qualquer natureza.
 
 § único (transitório). Enquanto houver militares do quadro permanente, em serviço activo ou na situação de reserva ou reforma, que não sejam beneficiários dos Serviços Sociais das Forças Armadas será estabelecido para eles, por despacho do Ministro da Defesa Nacional, um desconto para a Assistência aos Tuberculosos das Forças Armadas denominado «Desconto para a Assistência aos Tuberculosos das Forças Armadas».
 
-Art. 61.º Constituem receitas resultantes das actividades da Assistência aos Tuberculosos das Forças Armadas, nomeadamente as reduções das remunerações ou pensões ilíquidas dos militares a efectuar quando estes ou pessoas de família a seu cargo se encontrem internados ou sanatorizados.
+Art. 61.º - (Revogado.)
 
-Art. 62.º Durante o período de assistência mantém-se o direito do militar à remuneração ou à pensão de reserva ou de reforma, que, quando se verifique internamento ou sanatorização do mesmo ou de pessoa de família, ficarão sujeitas às seguintes reduções:
+Art. 62.º - (Revogado.)
 
-a) Quando casado ou com encargos de família legalmente constituída:
+§ 1.º - (Revogado.)
 
-10 por cento, no caso do próprio militar ou do cônjuge;
+§ 2.º - (Revogado.)
 
-15 por cento, no caso de uma pessoa de família, acrescidos de 10 por cento por cada pessoa de família a mais.
+§ 3.º - (Revogado.)
 
-b) Para os restantes casos 20 por cento.
+§ 4.º - (Revogado.)
 
-§ 1.º As percentagens indicadas na alínea a) do corpo deste artigo são acumuláveis na hipótese de internamento simultâneo do militar e do seu cônjuge ou de qualquer destes e de pessoa ou pessoas de família.
-
-§ 2.º Quando um beneficiário requeira um inquérito assistencial, poderá a comissão directiva dos Serviços Sociais das Forças Armadas fixar reduções inferiores às indicadas no corpo deste artigo, de acordo com os resultados daquele inquérito.
-
-§ 3.º Ficam totalmente isentas de qualquer redução as remunerações e pensões mensais inferiores a 1300$00 dos militares casados ou com encargos de família legalmente constituída.
-
-Para os restantes casos é aplicável o disposto na alínea b) do corpo deste artigo.
-
-§ 4.º No que se refere a praças readmitidas ou reconduzidas sem encargos de família legalmente constituída, a redução incide, quando for caso disso, sobre o pré e a gratificação de readmissão.
-
-§ 5.º As importâncias fixadas no orçamento para a alimentação das praças quando assistidas reverterão para a Assistência aos Tuberculosos das Forças Armadas.
+§ 5.º - (Revogado.)
 
 § 6.º O período de assistência conta-se a partir da data da confirmação da doença pela junta da Assistência aos Tuberculosos das Forças Armadas.
 
 § 7.º As remunerações ou pensões dos militares, assistidos ou com pessoas de família assistidas, ser-lhes-ão pagas, conforme a situação, pelos conselhos administrativos dos departamentos, unidades e estabelecimentos militares por onde a vinham recebendo ou pela Caixa Geral de Aposentações, depois de efectuadas as reduções estabelecidas no corpo deste artigo. O montante destas reduções será mensalmente enviado ao conselho administrativo da Assistência aos Tuberculosos das Forças Armadas acompanhado das respectivas relações nominais.
 
-§ 8.º As reduções percentuais indicadas no corpo deste artigo e o quantitativo do vencimento ou da pensão que isenta de qualquer redução estabelecida no § 3.º deste artigo podem ser alterados por despacho do Ministro da Defesa Nacional quando se verificar necessário.
+§ 8.º - (Revogado.)
 
 Art. 63.º Correrão por conta das verbas da Assistência aos Tuberculosos das Forças Armadas constante da alínea a) do artigo 60.º a profilaxia, o tratamento e a recuperação dos militares indicados nas alíneas a), b) e c) do artigo 3.º, quando efectuados por aquela Assistência.
 

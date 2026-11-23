@@ -31,7 +31,7 @@ version:
   kind: consolidated
   label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: '2010-01-28'
+  consolidation_date: '2010-04-16'
 version_history:
   file: despacho-78-2010.versoes.json
   count: 2
@@ -41,11 +41,12 @@ version_history:
     amending: null
     amending_title: null
     changes: []
-  - date: '2010-01-28'
+  - date: '2010-04-16'
     amending: pt:dre:2857486:por
-    amending_title: Despacho n.º 1950/2010
+    amending_title: Despacho n.º 1950/2010; Despacho n.º 7808/2010
     changes:
     - Altera Artigo unidades 73-73
+    - Revoga anexo ou texto fora do articulado
 identifiers:
   celex: null
   eli: null
@@ -72,7 +73,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-26T11:08:56Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho n.º 1950/2010. Método e
-    verificação: consolidacao/README.md e consolidacao/piloto/portugal/serie-ii/despachos/2010/despacho-78-2010.alteracoes.json'
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/serie-ii/despachos/2010/despacho-78-2010.alteracoes.json.
+    Revogações registadas só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Despacho
+    n.º 7808/2010.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -270,7 +273,9 @@ viii) Direcção Regional de Agricultura e Pescas do Algarve;
 
 ix) Direcção-Geral de Veterinária;
 
-x) Inspecção-Geral de Agricultura e Pescas;
+x) (Revogada.)
+
+> Revogado pelo/a [Despacho n.º 7808/2010](https://diariodarepublica.pt/dr/detalhe/despacho/7808-2010-2336893), publicado em 2010-05-04, com efeitos a partir de 2010-04-16.
 
 xi) Companhia das Lezírias, S. A., em matérias de gestão corrente;
 

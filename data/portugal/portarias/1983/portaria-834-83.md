@@ -41,7 +41,7 @@ version:
   kind: consolidated
   label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: '2007-11-04'
+  consolidation_date: '2008-02-11'
 version_history:
   file: portaria-834-83.versoes.json
   count: 2
@@ -51,9 +51,10 @@ version_history:
     amending: null
     amending_title: null
     changes: []
-  - date: '2007-11-04'
+  - date: '2008-02-11'
     amending: pt:dre:328860:por
-    amending_title: Portaria n.º 41/85; Portaria n.º 678/88; Portaria n.º 1413/2007; Portaria n.º 1415/2007
+    amending_title: Portaria n.º 41/85; Portaria n.º 678/88; Portaria n.º 1413/2007; Portaria n.º 1415/2007; Portaria n.º
+      1421/2007; Portaria n.º 1422/2007; Portaria n.º 113/2008
     changes:
     - Altera Artigo unidades 99-100
     - Adita Artigo depois da unidade 100
@@ -62,6 +63,7 @@ version_history:
     - Altera Artigo unidades 105-105
     - Altera Artigo unidades 117-121
     - Altera Artigo unidades 122-125
+    - Revoga anexo ou texto fora do articulado
 identifiers:
   celex: null
   eli: null
@@ -88,7 +90,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:52:09Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 41/85; Portaria n.º
-    678/88; Portaria n.º 1413/2007; Portaria n.º 1415/2007. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1983/portaria-834-83.alteracoes.json'
+    678/88; Portaria n.º 1413/2007; Portaria n.º 1415/2007. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1983/portaria-834-83.alteracoes.json.
+    Revogações registadas só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Portaria
+    n.º 1421/2007; Portaria n.º 1422/2007; Portaria n.º 113/2008.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -393,13 +397,9 @@ Vila do Porto.
 
 3.ª Repartição - Ameal, Antanhol, Arzila, Almedina, Lamarosa, Ribeira de Frades, Santa Clara, São Martinho de Árvore, São Martinho do Bispo, São Silvestre, Taveiro e Sé Nova.
 
-9.º - 1 - O concelho da Covilhã é dividido em 2 repartições de finanças.
+9.º - (Revogado.)
 
-2 - Cada repartição abrange a área das seguintes freguesias:
-
-1.ª Repartição - Aldeia do Carvalho, Aldeia do Souto, Boidobra, Conceição, São Pedro, Ferro, Orjais, Peraboa, Sarzedo, Teixoso, Vale Formoso e Verdelhos;
-
-2.ª Repartição - Aldeia de São Francisco de Assis, Barco, Casegas, Cortes do Meio, Santa Maria, São Martinho, Dominguizo, Erada, Ourondo, Paul, Peso, São Jorge da Beira, Sobral de São Miguel, Tortosendo, Unhais da Serra e Vales do Rio.
+> Revogado pelo/a [Portaria n.º 1422/2007](https://diariodarepublica.pt/dr/detalhe/portaria/1422-2007-629405), publicado em 2007-10-31, com efeitos a partir de 2007-11-05.
 
 10.º - 1 - O concelho de Évora é dividido em 2 repartições de finanças.
 
@@ -531,13 +531,9 @@ Vila do Porto.
 
 2.ª Repartição - Duas Igrejas, Lordelo, Rebordosa e Vilela.
 
-24.º - 1 - O concelho de Pombal é dividido em 2 repartições de finanças.
+24.º - (Revogado.)
 
-2 - Cada repartição abrange a área das seguintes freguesias:
-
-1.ª Repartição - Abiul, Almagreira, Pelariga, Pombal e Redinha;
-
-2.ª Repartição - Albergaria dos Doze, Carnide, Carriço, Louriçal, Mata Mourisca, Santiago de Litém, São Simão de Litém, Vermoil e Vila Chã.
+> Revogado pelo/a [Portaria n.º 1421/2007](https://diariodarepublica.pt/dr/detalhe/portaria/1421-2007-629404), publicado em 2007-10-31, com efeitos a partir de 2007-11-05.
 
 25.º - 1 - O concelho de Ponta Delgada é dividido em 2 repartições de finanças.
 
@@ -583,13 +579,9 @@ Vila do Porto.
 
 3.ª Repartição - Nossa Senhora da Anunciada, São Lourenço e São Simão.
 
-30.º - 1 - O concelho de Torres Vedras é dividido em 2 repartições de finanças.
+30.º - (Revogado.)
 
-2 - Cada repartição abrange a área das seguintes freguesias:
-
-1.ª Repartição - São Pedro e Santiago e Santa Maria do Castelo e São Miguel.
-
-2.ª Repartição - A dos Cunhados, Campelos, Carmões, Carvoeira, Dois Portos, Matacães, Maxial, Monte Redondo, Ponte do Rol, Ramalhal, Runa, Silveira, São Pedro da Cadeira, Turcifal e Ventosa.
+> Revogado pelo/a [Portaria n.º 113/2008](https://diariodarepublica.pt/dr/detalhe/portaria/113-2008-248239), publicado em 2008-02-06, com efeitos a partir de 2008-02-11.
 
 31.º - 1 - O concelho de Viana do Castelo é dividido em 2 repartições de finanças.
 

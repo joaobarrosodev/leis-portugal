@@ -23,22 +23,36 @@
      "title": "Decreto Legislativo Regional n.º 9/93/M",
      "published": "1993-07-15",
      "dre_path": "/dr/detalhe/decreto-legislativo-regional/9-1993-389634"
+    },
+    {
+     "id": "pt:dre:476088:por",
+     "title": "Decreto Regulamentar Regional n.º 2/91/M",
+     "published": "1991-03-16",
+     "dre_path": "/dr/detalhe/decreto-regulamentar-regional/2-1991-476088"
     }
    ],
    "changes": [
-    "Revoga Artigo 5.º"
+    "Revoga Artigo 5.º",
+    "Revoga Artigo 1",
+    "Revoga Artigo 2",
+    "Revoga Artigo 3",
+    "Revoga Artigo 4",
+    "Revoga Artigo 6",
+    "Revoga Artigo 7",
+    "Revoga Artigo 8",
+    "Revoga Artigo 9"
    ],
    "fragments": [
     "e99931264142190f",
-    "020ddda5c410b283",
-    "8b92f0bf5bbea2f6",
-    "96aeff84577e67f5",
-    "588410b375be21c2",
+    "8662aff0f725fe98",
+    "d3320ddc9082bc1c",
+    "9fa34d12a6c24300",
+    "2bf36a738906b8ff",
     "4f921b60ce507b7f",
-    "3e787f6765300b91",
-    "92efd63387cef60c",
-    "80e23b8a5399adf6",
-    "5976476972574685"
+    "6ff2222baa81bab4",
+    "8dd690153acf884c",
+    "f858ab1832becf6a",
+    "5291ba08e00ccaed"
    ]
   }
  ],
@@ -59,37 +73,39 @@
    "changed_by": [],
    "markdown": "Dispõe o artigo 60.º do [Decreto Regulamentar n.º 68/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/68-1980-457443), de 4 de Novembro, que a sua aplicação às regiões autónomas será feita mediante decreto regulamentar regional.\n\nAssim:\n\nO Governo Regional decreta, nos termos da alínea d) do n.º 1 do artigo 229.º da Constituição, o seguinte:"
   },
-  "020ddda5c410b283": {
+  "8662aff0f725fe98": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 1.º",
-   "in_force_from": null,
-   "changed_by": [],
-   "markdown": "###### Artigo 1.º\n\nO [Decreto Regulamentar n.º 68/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/68-1980-457443), de 4 de Novembro, aplica-se à Região Autónoma da Madeira, com as adaptações e especificações constantes dos artigos seguintes."
+   "in_force_from": "1993-07-16",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar Regional n.º 2/91/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-1991-476088), publicado em 1991-03-16, com efeitos a partir de 1991-03-17."
+   ],
+   "markdown": "###### Artigo 1.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar Regional n.º 2/91/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-1991-476088), publicado em 1991-03-16, com efeitos a partir de 1991-03-17."
   },
-  "8b92f0bf5bbea2f6": {
+  "d3320ddc9082bc1c": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 2.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 2.º\n\nA competência atribuída pelos artigos 36.º, 37.º, 44.º, 45.º, 46.º, 50.º, 51.º, 53.º, 55.º, 56.º, 57.º e 59.º do [Decreto Regulamentar n.º 68/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/68-1980-457443) aos serviços centrais de apoio à gestão de pessoal na Administração Local e à Comissão de Coordenação Regional (CCR) ou ao seu presidente é cometida, na Região Autónoma da Madeira, à Direcção Regional da Administração Pública."
+   "markdown": "###### Artigo 2.º\n\n(Revogado.)"
   },
-  "96aeff84577e67f5": {
+  "9fa34d12a6c24300": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 3.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 3.º\n\n1 - As provas escritas de concurso de habilitação para lugares do quadro geral administrativo realizadas na Região serão acompanhadas por uma comissão composta pelo director do Serviço de Administração Local, que presidirá, e por mais dois elementos designados pelo Presidente do Governo Regional, sendo um chefe de secretaria municipal.\n\n2 - Na falta, impedimento ou suspeição de qualquer dos membros da comissão, competirá ao Presidente do Governo proceder à designação do substituto."
+   "markdown": "###### Artigo 3.º\n\n(Revogado.)"
   },
-  "588410b375be21c2": {
+  "2bf36a738906b8ff": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 4.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 4.º\n\nDa lista a que se refere o n.º 4 do artigo 46.º do [Decreto Regulamentar n.º 68/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/68-1980-457443) poderão os candidatos recorrer hierarquicamente para o Presidente do Governo Regional nos dez dias seguintes ao da sua publicação."
+   "markdown": "###### Artigo 4.º\n\n(Revogado.)"
   },
   "4f921b60ce507b7f": {
    "fragment_id": null,
@@ -101,37 +117,37 @@
    ],
    "markdown": "###### Artigo 5.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Legislativo Regional n.º 9/93/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-1993-389634), publicado em 1993-07-15."
   },
-  "3e787f6765300b91": {
+  "6ff2222baa81bab4": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 6.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 6.º\n\n1 - Em caso de vacatura do cargo de chefe de secretaria de um município e até ao seu provimento nos termos legais, poderá o chefe de secretaria de um município contíguo, com o seu acordo e o das câmaras municipais respectivas, exercer cumulativamente as suas próprias funções e as do lugar vago, com direito ao vencimento deste ou ao da letra da escala da função pública imediatamente superior à correspondente ao cargo de que é titular, consoante lhe for mais favorável.\n\n2 - As câmaras municipais acordarão entre si os termos em que se processará o exercício das funções segundo o regime especial referido no número anterior, bem como a distribuição dos respectivos encargos.\n\n3 - O estatuído neste artigo só se aplica aos municípios rurais."
+   "markdown": "###### Artigo 6.º\n\n(Revogado.)"
   },
-  "92efd63387cef60c": {
+  "8dd690153acf884c": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 7.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 7.º\n\nMantém-se em vigor, relativamente aos funcionários providos em cargos do quadro geral administrativo, o disposto no artigo 8.º do [Decreto-Lei n.º 36454](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36454-1947-182406), de 4 de Agosto de 1947, com a restrição introduzida pelo [Decreto-Lei n.º 211/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1973-421993), de 9 de Maio."
+   "markdown": "###### Artigo 7.º\n\n(Revogado.)"
   },
-  "80e23b8a5399adf6": {
+  "f858ab1832becf6a": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 8.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 8.º\n\nAs dúvidas que se suscitem na execução do presente diploma serão resolvidas por despacho do Presidente do Governo Regional, ouvida a Direcção Regional da Administração Pública."
+   "markdown": "###### Artigo 8.º\n\n(Revogado.)"
   },
-  "5976476972574685": {
+  "5291ba08e00ccaed": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 9.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 9.º\n\nEste decreto regulamentar produz efeitos a partir do dia seguinte ao da sua publicação.\n\nAprovado em Plenário do Governo Regional em 31 de Dezembro de 1980.\n\nO Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.\n\nAssinado em 4 de Março de 1981.\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel."
+   "markdown": "###### Artigo 9.º\n\n(Revogado.)\n\nAprovado em Plenário do Governo Regional em 31 de Dezembro de 1980.\n\nO Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.\n\nAssinado em 4 de Março de 1981.\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel."
   }
  }
 }

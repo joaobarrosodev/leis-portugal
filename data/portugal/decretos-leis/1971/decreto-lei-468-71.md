@@ -43,7 +43,7 @@ version:
   kind: consolidated
   label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: '2003-06-09'
+  consolidation_date: '2005-11-15'
 version_history:
   file: decreto-lei-468-71.versoes.json
   count: 2
@@ -53,9 +53,10 @@ version_history:
     amending: null
     amending_title: null
     changes: []
-  - date: '2003-06-09'
+  - date: '2005-11-15'
     amending: pt:dre:407488:por
-    amending_title: Decreto-Lei n.º 53/74; Decreto-Lei n.º 53/74; Decreto-Lei n.º 89/87; Lei n.º 16/2003; Rectificação
+    amending_title: Decreto-Lei n.º 53/74; Decreto-Lei n.º 53/74; Decreto-Lei n.º 89/87; Lei n.º 16/2003; Rectificação; Lei
+      n.º 54/2005
     changes:
     - Altera Artigo 3.º
     - Altera Artigo 4.º
@@ -73,6 +74,22 @@ version_history:
     - Altera Artigo 20.º
     - Retifica Artigo 11
     - Retifica Artigo 27
+    - Revoga Artigo 1
+    - Revoga Artigo 2
+    - Revoga Artigo 3
+    - Revoga Artigo 4
+    - Revoga Artigo 5
+    - Revoga Artigo 6
+    - Revoga Artigo 7
+    - Revoga Artigo 8
+    - Revoga Artigo 9
+    - Revoga Artigo 10
+    - Revoga Artigo 11
+    - Revoga Artigo 12
+    - Revoga Artigo 13
+    - Revoga Artigo 14
+    - Revoga Artigo 15
+    - Revoga Artigo 16
 identifiers:
   celex: null
   eli: null
@@ -100,7 +117,8 @@ provenance:
   generated_at: '2026-10-22T22:20:27Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 53/74; Decreto-Lei
     n.º 53/74; Decreto-Lei n.º 89/87; Lei n.º 16/2003. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1971/decreto-lei-468-71.alteracoes.json.
-    Retificações aplicadas por regra (consolidacao/retificacoes.py): Rectificação.'
+    Retificações aplicadas por regra (consolidacao/retificacoes.py): Rectificação. Revogações registadas só como repealed_by,
+    aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Lei n.º 54/2005.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -278,99 +296,55 @@ Princípios gerais
 
 ###### Artigo 1.º — (Âmbito de aplicação)
 
-Os leitos das águas do mar, correntes de água, lagos e lagoas, bem como as respectivas margens e zonas adjacentes, ficam sujeitos ao preceituado no presente diploma em tudo quanto não seja regulado por leis especiais ou convenções internacionais.
+(Revogado.)
+
+> Revogado pelo/a [Lei n.º 54/2005](https://diariodarepublica.pt/dr/detalhe/lei/54-2005-583983), publicado em 2005-11-15.
 
 ###### Artigo 2.º — (Noção de leito; seus limites)
 
-1. Entende-se por leito o terreno coberto pelas águas, quando não influenciadas por cheias extraordinárias, inundações ou tempestades. No leito compreendem-se os mouchões, lodeiros e areais nele formados por deposição aluvial.
-
-2. O leito das águas do mar, bem como das demais águas sujeitas à influência das marés, é limitado pela linha da máxima preia-mar de águas vivas equinociais. Essa linha é definida, para cada local, em função do espraiamento das vagas em condições médias de agitação do mar, no primeiro caso, e em condições de cheias médias, no segundo.
-
-3. O leito das restantes águas é limitado pela linha que corresponder à estrema dos terrenos que as águas cobrem em condições de cheias médias, sem transbordar para o solo natural, habitualmente enxuto. Essa linha é definida, conforme os casos, pela aresta ou crista superior do taludo marginal ou pelo alinhamento da aresta ou crista do taludo molhado das motas, cômoros, valados, tapadas ou muros marginais.
+(Revogado.)
 
 ###### Artigo 3.º — Noção de margem; sua largura
 
-1. Entende-se por margem uma faixa de terreno contígua ou sobranceira à linha que limita o leito das águas.
-
-2. A margem das águas do mar, bem como a das águas navegáveis ou flutuáveis sujeitas à jurisdição das autoridades marítimas ou portuárias, tem a largura de 50 m.
-
-3. A margem das restantes águas navegáveis ou flutuáveis tem a largura de 30 m.
-
-4. A margem das águas não navegáveis nem flutuáveis, nomeadamente torrentes, barrancos e córregos de caudal descontínuo, tem a largura de 10 m.
-
-5. Quando tiver natureza de praia em extensão superior à estabelecida nos números anteriores, a margem estende-se até onde o terreno apresentar tal natureza.
-
-6. A largura da margem conta-se a partir da linha limite do leito. Se, porém, esta linha atingir arribas alcantiladas, a largura da margem será contada a partir da crista do alcantil.
-
-7 - Nas Regiões Autónomas, se a margem atingir uma estrada regional ou municipal existente, a sua largura só se estenderá até essa via.
+(Revogado.)
 
 > Alterado pelo/a [Lei n.º 16/2003](https://diariodarepublica.pt/dr/detalhe/lei/16-2003-553431), publicado em 2003-06-04.
 
 ###### Artigo 4.º — Noção de zona adjacente; sua largura
 
-1. Entende-se por zona adjacente toda a área contígua à margem que como tal seja classificada por decreto, por se encontrar ameaçada pelo mar ou pelas cheias.
-
-2. As zonas adjacentes estendem-se deste o limite da margem até uma linha convencional definida, para cada caso, no decreto de classificação, nos termos e para os efeitos do presente diploma
-
-3 - Nas Regiões Autónomas, se a linha limite do leito atingir uma estrada regional ou municipal, a zona adjacente estende-se desde o limite do leito até à linha convencional definida nos termos do número anterior.
+(Revogado.)
 
 > Alterado pelo/a [Lei n.º 16/2003](https://diariodarepublica.pt/dr/detalhe/lei/16-2003-553431), publicado em 2003-06-04.
 
 ###### Artigo 5.º — Condição jurídica dos leitos, margens e zonas adjacentes
 
-1. Consideram-se do domínio público do Estado os leitos e margens das águas do mar e de quaisquer águas navegáveis ou flutuáveis, sempre que tais leitos e margens lhe pertençam, e bem assim os leitos e margens das águas não navegáveis nem flutuáveis que atravessem terrenos públicos do Estado.
-
-2. Consideram-se objecto de propriedade privada, sujeitos a servidões administrativas, os leitos e margens das águas não navegáveis nem flutuáveis que atravessem terrenos particulares, bem como as parcelas dos leitos e margens das águas do mar e de quaisquer águas navegáveis ou flutuáveis que forem objecto de desafectação ou reconhecidas como privadas nos termos deste diploma.
-
-3. Consideram-se objecto de propriedade privada, sujeitas a restrições de utilidade pública, as zonas adjacentes.
-
-4 - Nas Regiões Autónomas, os terrenos tradicionalmente ocupados junto à crista das arribas alcantiladas das respectivas ilhas constituem propriedade privada.
+(Revogado.)
 
 > Alterado pelo/a [Lei n.º 16/2003](https://diariodarepublica.pt/dr/detalhe/lei/16-2003-553431), publicado em 2003-06-04.
 
 ###### Artigo 6.º — (Recuo das águas)
 
-Os leitos dominiais que forem abandonados pelas águas, ou lhes forem conquistados, não acrescem às parcelas privadas da margem que porventura lhes sejam contíguas, continuando integrados no domínio público, se não excederem as larguras fixadas no artigo 3.º, e entrando automàticamente no domínio privado do Estado, no caso contrário.
+(Revogado.)
 
 ###### Artigo 7.º — (Avanço das águas)
 
-1. Quando haja parcelas privadas contíguas a leitos dominiais, as porções de terreno corroídas lenta e sucessivamente pelas águas consideram-se automàticamente integradas no domínio público, sem que por isso haja lugar a qualquer indemnização.
-
-2. Se as parcelas privadas contíguas a leitos dominiais forem invadidas pelas águas que nelas permaneçam sem que haja corrosão dos terrenos, os respectivos proprietários conservam o seu direito de propriedade, mas o Estado pode expropriar essas parcelas.
+(Revogado.)
 
 ###### Artigo 8.º — (Reconhecimento da propriedade privada sobre parcelas de leitos ou margens públicos)
 
-1. As pessoas que pretendam obter o reconhecimento da sua propriedade sobre parcelas de leitos ou margens das águas do mar ou de quaisquer águas navegáveis ou flutuáveis devem provar documentalmente que tais terrenos eram, por título legítimo, objecto de propriedade particular ou comum antes de 31 de Dezembro de 1864 ou, se se tratar de arribas alcantiladas, antes de 22 de Março de 1868
-
-2. Na falta de documentos susceptíveis de comprovar a propriedade dos terrenos nos termos do n.º 1 deste artigo, presumir-se-ão particulares, sem prejuízo dos direitos de terceiros, os terrenos em relação aos quais se prove que, naquelas datas, estavam na posse em nome próprio de particulares ou na fruição conjunta de indivíduos compreendidos em certa circunscrição administrativa.
-
-3. Quando se mostre que os documentos anteriores a 1864 ou a 1868, conforme os casos, se tornaram ilegíveis ou foram destruídos por incêndio ou facto semelhante ocorrido na conservatória ou registo competente, presumir-se-ão particulares, sem prejuízo dos direitos de terceiros, os terrenos em relação aos quais se prove que, antes de 1 de Dezembro de 1892, eram objecto de propriedade ou posse privadas.
-
-4. Não ficam sujeitos ao regime de prova estabelecido nos números anteriores os terrenos que, nos termos da lei, hajam sido objecto de um acto de desafectação.
+(Revogado.)
 
 ###### Artigo 9.º — (Constituição da propriedade pública sobre parcelas privadas de leitos ou margens públicos)
 
-1. Em caso de alienação, voluntária ou forçada, por acto entre vivos, de quaisquer parcelas privadas de leitos ou margens públicos, o Estado goza do direito de preferência, nos termos dos artigos 416.º a 418.º e 1410.º do Código Civil, podendo a preferência exercer-se, sendo caso disso, apenas sobre a fracção do prédio que, nos termos dos artigos 2.º e 3.º deste diploma, se integre no leito ou na margem.
-
-2. O Estado pode proceder, nos termos da lei geral, a expropriação por utilidade pública de quaisquer parcelas privadas de leitos ou margens públicos sempre que isso se mostre necessário para submeter ao regime da dominialidade pública todas as parcelas privadas existentes em certa zona.
-
-3. Os terrenos adquiridos pelo Estado de harmonia com o disposto neste artigo ficam automàticamente integrados no seu domínio público.
+(Revogado.)
 
 ###### Artigo 10.º — (Delimitações)
 
-1. A delimitação dos leitos e margens dominiais confinantes com terrenos de outra natureza compete ao Estado, que a ela procederá oficiosamente, quando necessário, ou a requerimento dos interessados.
-
-2. Das comissões de delimitação farão sempre parte representantes dos proprietários dos terrenos confinantes com os leitos ou margens dominiais a delimitar.
-
-3. Sempre que às comissões de delimitação se depararem questões de índole jurídica que elas não estejam em condições de decidir por si, poderão os respectivos presidentes requerer a colaboração ou solicitar o parecer do delegado do procurador da República da comarca onde se situem os terrenos a delimitar.
-
-4. A delimitação, uma vez homologada pelos Ministros da Justiça e da Marinha, será publicada no Diário do Governo.
+(Revogado.)
 
 ###### Artigo 11.º — (Questões de propriedade ou posse)
 
-1. A delimitação a que se proceder por via administrativa não preclude a competência dos tribunais comuns para decidir da propriedade ou posse dos leitos e margens, ou suas parcelas.
-
-2. Se, porém, o interessado pretender arguir o acto de delimitação de quaisquer vícios próprios desta que se não traduzam numa questão de propriedade ou posse, deve interpor o respectivo recurso contencioso de anulação.
+(Revogado.)
 
 II
 
@@ -380,75 +354,29 @@ Servidões administrativas e restrições de utilidade pública
 
 ###### Artigo 12.º — (Servidões sobre parcelas privadas de leitos e margens públicos)
 
-1. Todas as parcelas privadas de leitos ou margens públicos estão sujeitas às servidões estabelecidas por lei e, nomeadamente, a uma servidão de uso público no interesse geral do acesso às águas e da passagem ao longo das águas, da pesca, da navegação ou flutuação, quando se trate de águas navegáveis ou flutuáveis, e ainda da fiscalização e polícia das águas pelas autoridades competentes.
-
-2. Nas parcelas privadas de leitos ou margens públicos, bem como no respectivo subsolo e no espaço aéreo correspondente, não é permitida a execução de quaisquer obras, permanentes ou temporárias, sem licença do Ministério das Obras Públicas, pela Direcção-Geral dos Serviços Hidráulicos.
-
-3. Os proprietários de parcelas privadas de leitos ou margens públicos estão sujeitos a todas as obrigações que a lei estabelece no que respeita à execução de obras hidráulicas, nomeadamente de correcção, regularização, conservação, desobstrução e limpeza.
-
-4. Se da execução pelo Estado de qualquer das obras referidas no n.º 3 deste artigo resultarem prejuízos que excedam os encargos resultantes das obrigações legais dos proprietários, o Estado indemnizá-los-á. Se se tornar necessária, para a execução dessas obras, qualquer porção de terreno particular, ainda que situada para além das margens, o Estado poderá expropriá-la.
+(Revogado.)
 
 ###### Artigo 13.º — Zonas ameaçadas pelo mar
 
-1. Sempre que se preveja tècnicamente o avanço das águas do mar sobre terrenos particulares situados para além da margem, pode o Estado classificar a área em causa como zona ameaçada pelo mar.
-
-2. A classificação de uma área como zona ameaçada pelo mar será feita por decreto emanado do Ministério das Obras Públicas, ouvido o Ministério da Marinha e, tratando-se de zonas com interesse turístico, a Secretaria de Estado da Informação e Turismo.
-
-3. Uma vez classificada certa área como zona ameaçada pelo mar, os terrenos nela abrangidos ficam sujeitos ao regime estabelecido no artigo 15.º
-
-4 - Nas Regiões Autónomas podem ser classificadas como zonas ameaçadas pelo mar as áreas contíguas ao leito, nos termos do n.º 3 do artigo 4.º
+(Revogado.)
 
 > Alterado pelo/a [Lei n.º 16/2003](https://diariodarepublica.pt/dr/detalhe/lei/16-2003-553431), publicado em 2003-06-04.
 
 ###### Artigo 14.º — Zonas ameaçadas pelas cheias
 
-1 - O Governo pode classificar como zona ameaçada pelas cheias, adiante designada por zona adjacente, a área contígua à margem de um curso de água, que se estende até à linha alcançada pela maior cheia com probabilidade de ocorrência no período de um século (cheia dos 100 anos).
-
-2 - A classificação de uma área como zona adjacente será feita por portaria do Ministro do Plano e da Administração do Território, ouvidas as autoridades marítimas, em relação aos trechos sujeitos à sua jurisdição.
-
-3 - A portaria referida no número anterior conterá em anexo uma planta delimitando a área classificada e definindo dentro desta as áreas de ocupação edificada proibida e ou áreas de ocupação edificada condicionada.
-
-4 - Uma vez classificada certa área como zona adjacente, os terrenos nela abrangidos ficam sujeitos ao regime estabelecido no artigo 15.º
-
-5 - Poderão ser sujeitas a medidas preventivas, nos termos do capítulo II do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, as áreas que, de acordo com os estudos elaborados, se presumam venham a ser classificadas ao abrigo do presente artigo.
-
-6 - A iniciativa para a criação de zona adjacente poderá pertencer ao Ministro do Plano e da Administração do Território, ouvida a câmara municipal da área respectiva, ou decorrer de proposta desta última.
-
-7 - As acções de fiscalização e a execução de obras de conservação e regularização, a realizar nas zonas adjacentes, podem ser exercidas no regime de colaboração a que se refere o artigo 12.º do [Decreto-Lei n.º 77/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-1984-661094), de 8 de Março.
-
-8 - A aprovação de planos ou ante planos de urbanização e de contratos de urbanização, bem como o licenciamento de operações de loteamento urbano ou de quaisquer obras ou edificações, relativos a áreas contíguas a cursos de água que não estejam ainda classificadas como zonas adjacentes, carecem de parecer vinculativo da Direcção-Geral dos Recursos Naturais, quando estejam dentro do limite da maior cheia conhecida ou de uma faixa de 100 m, para cada lado da linha de margem do curso de água, quando se desconheça aquele limite.
+(Revogado.)
 
 > Alterado pelo/a [Decreto-Lei n.º 89/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-1987-662721), publicado em 1987-02-26.
 
 ###### Artigo 15.º — Regime das zonas adjacentes
 
-1 - Nas áreas delimitadas, ao abrigo do artigo 4.º ou do n.º 3 do artigo 14.º, como zonas de ocupação edificada proibida é interdito:
-
-a) Destruir o revestimento vegetal ou alterar o relevo natural, com excepção da prática de culturas tradicionalmente integradas em explorações agrícolas;
-
-b) Instalar vazadouros, lixeiras, parques de sucata ou quaisquer outros depósitos de materiais;
-
-c) Implantar edifícios ou realizar obras susceptíveis de constituir obstrução à livre passagem das águas;
-
-d) Dividir a propriedade rústica em áreas inferiores à unidade mínima de cultura.
-
-2 - Nas áreas referidas no número anterior, a implantação de infra-estruturas indispensáveis ou a realização de obras de correcção hidráulica depende de parecer vinculativo da Direcção-Geral do Ordenamento do Território e da Direcção-Geral dos Recursos Naturais, emitido no prazo de 60 dias, findo o qual se interpreta a ausência de parecer como consentimento.
-
-3 - Podem as áreas classificadas referidas no n.º 1 ser utilizadas para instalação de equipamentos de lazer, desde que não impliquem a construção de edifícios, dependendo de parecer vinculativo da Direcção-Geral do Ordenamento do Território e da Direcção-Geral dos Recursos Naturais, emitido no prazo de 60 dias, findo o qual se interpreta a ausência de parecer como consentimento.
-
-4 - Nas áreas delimitadas como zonas de ocupação edificada condicionada, classificadas ao abrigo do artigo 4.º ou do n.º 3 do artigo 14.º, só é permitida, mediante parecer favorável da Direcção-Geral dos Recursos Naturais, a instalação de edifícios que constituam complemento indispensável de outros já existentes e devidamente licenciados ou, então, que se encontrem inseridos em planos já aprovados à data da entrada em vigor deste diploma.
-
-5 - As cotas dos pisos inferiores dos edifícios a construir nas áreas referidas no número anterior deverão ser sempre superiores às cotas previstas para a cheia dos 100 anos, devendo este requisito ser expressamente referido no respectivo processo de licenciamento.
-
-6 - São nulos e de nenhum efeito todos os actos ou licenciamentos que desrespeitem o regime referido nos números anteriores.
+(Revogado.)
 
 > Alterado pelo/a [Decreto-Lei n.º 89/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-1987-662721), publicado em 1987-02-26.
 
 ###### Artigo 16.º — (Disposições complementares)
 
-1. Quando o Estado efectuar expropriações nos termos deste diploma ou pagar indemnizações aos proprietários prejudicados por obras hidráulicas de qualquer natureza, o auto de expropriação ou indemnização será enviado à repartição de finanças competente, para que se proceda, se for caso disso, à correcção do valor matricial do prédio afectado.
-
-2. A competência conferida ao Ministério das Obras Públicas no tocante às obras de correcção, regularização, conservação, desobstrução e limpeza de leitos e margens é transferível para as câmaras municipais ou para as administrações portuárias e pode ser exercida por aquele ou por estas em colaboração com quaisquer entidades, públicas ou privadas, nas condições técnicas e financeiras que forem definidas pelo Governo.
+(Revogado.)
 
 III
 

@@ -26,7 +26,7 @@
    ]
   },
   {
-   "date": "2020-07-11",
+   "date": "2023-12-30",
    "future": false,
    "acts": [
     {
@@ -34,24 +34,41 @@
      "title": "Despacho n.º 7056/2020",
      "published": "2020-07-10",
      "dre_path": "/dr/detalhe/despacho/7056-2020-137602110"
+    },
+    {
+     "id": "pt:dre:835862925:por",
+     "title": "Despacho n.º 13266/2023",
+     "published": "2023-12-29",
+     "dre_path": "/dr/detalhe/despacho/13266-2023-835862925"
     }
    ],
    "changes": [
-    "Altera Artigo 4.º"
+    "Altera Artigo 4.º",
+    "Revoga Artigo 1",
+    "Revoga Artigo 2",
+    "Revoga Artigo 3",
+    "Revoga Artigo 4",
+    "Revoga Artigo 5",
+    "Revoga Artigo 6",
+    "Revoga Artigo 7",
+    "Revoga Artigo 8",
+    "Revoga Artigo 9",
+    "Revoga Artigo 10",
+    "Revoga Artigo 11"
    ],
    "fragments": [
     "140fb876544f84c7",
-    "4d3f8b4bc589e7f0",
-    "a18c323f9b9f9364",
-    "e8c593ef4b34d09f",
-    "5f7d679d932b791d",
-    "e901f9d0cc0fa240",
-    "60a0357a0176cc24",
-    "c821fa834c7e3442",
-    "12961e51194252a7",
-    "9f41c5c397fc7207",
-    "5fe57a49795d1166",
-    "b924df81606d7b79"
+    "000c47da3ec6926d",
+    "bcf0a8a03dc8198b",
+    "ef521c0c46fccb10",
+    "cfb08f134bf76c2b",
+    "b67fb0ef5fbedaf0",
+    "8c6fd11ffd3ea089",
+    "c15faaa945626890",
+    "002682378e07fa0b",
+    "ffa55a7bc7654524",
+    "052284a9eed81ad7",
+    "4b64a2891ce352a9"
    ]
   }
  ],
@@ -152,15 +169,97 @@
    "changed_by": [],
    "markdown": "###### Artigo 11.º — Entrada em vigor\n\nO presente despacho entra em vigor no dia seguinte ao da sua publicação.\n\n15 de fevereiro de 2017. - O Secretário de Estado da Saúde, Manuel Martins dos Santos Delgado.\n\n310268746"
   },
-  "5f7d679d932b791d": {
+  "000c47da3ec6926d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2023-12-30",
+   "changed_by": [
+    "Revogado pelo/a [Despacho n.º 13266/2023](https://diariodarepublica.pt/dr/detalhe/despacho/13266-2023-835862925), publicado em 2023-12-29, com efeitos a partir de 2023-12-30."
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\n(Revogado.)\n\n> Revogado pelo/a [Despacho n.º 13266/2023](https://diariodarepublica.pt/dr/detalhe/despacho/13266-2023-835862925), publicado em 2023-12-29, com efeitos a partir de 2023-12-30."
+  },
+  "bcf0a8a03dc8198b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Comissão Nacional de Farmácia e Terapêutica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Comissão Nacional de Farmácia e Terapêutica\n\n(Revogado.)"
+  },
+  "ef521c0c46fccb10": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Competências da CNFT",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Competências da CNFT\n\n(Revogado.)"
+  },
+  "cfb08f134bf76c2b": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 4.º — Composição da CNFT",
-   "in_force_from": "2020-07-11",
+   "in_force_from": "2023-12-30",
    "changed_by": [
     "Alterado pelo/a [Despacho n.º 7056/2020](https://diariodarepublica.pt/dr/detalhe/despacho/7056-2020-137602110), publicado em 2020-07-10."
    ],
-   "markdown": "###### Artigo 4.º — Composição da CNFT\n\n1 - A CNFT é constituída por elementos provenientes de estabelecimentos e serviços do Serviço Nacional de Saúde e de outras instituições e por outras personalidades de reconhecido mérito.\n\n2 - Os membros da CNFT são os seguintes:\n\na) Um presidente e um vice-presidente;\n\nb) O presidente da comissão de farmácia e terapêutica e o diretor dos serviços farmacêuticos ou seus representantes, de instituições e serviços do SNS;\n\nc) Dois representantes, um médico e um farmacêutico das Comissões de Farmácia e Terapêutica das ARS;\n\nd) Um representante da Direção-Geral da Saúde;\n\ne) Um representante da Administração Central do Sistema de Saúde, I. P.;\n\nf) Um médico representante da Ordem dos Médicos;\n\ng) Um farmacêutico representante da Ordem dos Farmacêuticos.\n\n3 - A CNFT pode ainda integrar:\n\na) Personalidades convidadas pelo conselho diretivo do INFARMED, I. P., atendendo ao seu reconhecido mérito, com qualificações, experiência e formação especializada para a prossecução dos objetivos da CNFT;\n\nb) Dois representantes da Secretaria Regional da Saúde da Região Autónoma da Madeira, e dois representantes da Secretaria Regional da Saúde da Região Autónoma dos Açores.\n\n4 - Os membros referidos na alínea a) do n.º 2 são designados pelo Conselho Diretivo do INFARMED, I. P., de entre os membros da CNFT.\n\n5 - As propostas de designação dos membros referidos nas alíneas b) a e) do n.º 2 são submetidas, pelo Conselho Diretivo do INFARMED, I. P., ao membro do Governo responsável pela área da saúde.\n\n6 - As propostas de designação dos membros referidos nas alíneas f) e g) do n.º 2 do presente artigo são submetidas ao membro do governo responsável pela área da saúde, pelas respetivas ordens profissionais.\n\n> Alterado pelo/a [Despacho n.º 7056/2020](https://diariodarepublica.pt/dr/detalhe/despacho/7056-2020-137602110), publicado em 2020-07-10."
+   "markdown": "###### Artigo 4.º — Composição da CNFT\n\n(Revogado.)\n\n> Alterado pelo/a [Despacho n.º 7056/2020](https://diariodarepublica.pt/dr/detalhe/despacho/7056-2020-137602110), publicado em 2020-07-10."
+  },
+  "b67fb0ef5fbedaf0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Faltas ou impedimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Faltas ou impedimentos\n\n(Revogado.)"
+  },
+  "8c6fd11ffd3ea089": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Subcomissões especializadas ou grupos de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Subcomissões especializadas ou grupos de trabalho\n\n(Revogado.)"
+  },
+  "c15faaa945626890": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Compensação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Compensação\n\n(Revogado.)"
+  },
+  "002682378e07fa0b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Articulação da CNFT com as Comissões de Farmácia e Terapêutica dos hospitais e das Administrações Regionais de Saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Articulação da CNFT com as Comissões de Farmácia e Terapêutica dos hospitais e das Administrações Regionais de Saúde\n\n(Revogado.)"
+  },
+  "ffa55a7bc7654524": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Formulário Nacional de Medicamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Formulário Nacional de Medicamentos\n\n(Revogado.)"
+  },
+  "052284a9eed81ad7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Norma revogatória\n\n(Revogado.)"
+  },
+  "4b64a2891ce352a9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Entrada em vigor\n\n(Revogado.)\n\n15 de fevereiro de 2017. - O Secretário de Estado da Saúde, Manuel Martins dos Santos Delgado.\n\n310268746"
   }
  }
 }

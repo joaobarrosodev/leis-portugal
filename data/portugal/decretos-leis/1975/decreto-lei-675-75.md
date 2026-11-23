@@ -42,7 +42,7 @@ version:
   kind: consolidated
   label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: '1985-10-21'
+  consolidation_date: '1986-09-04'
 version_history:
   file: decreto-lei-675-75.versoes.json
   count: 2
@@ -52,11 +52,14 @@ version_history:
     amending: null
     amending_title: null
     changes: []
-  - date: '1985-10-21'
+  - date: '1986-09-04'
     amending: pt:dre:178334:por
-    amending_title: Decreto-Lei n.º 411/85
+    amending_title: Decreto-Lei n.º 411/85; Decreto-Lei n.º 269/86
     changes:
     - Altera Artigo 21.º
+    - Revoga Artigo 6
+    - Revoga Artigo 7
+    - Revoga Artigo 8
 identifiers:
   celex: null
   eli: null
@@ -83,7 +86,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:47:01Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 411/85. Método e
-    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1975/decreto-lei-675-75.alteracoes.json'
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1975/decreto-lei-675-75.alteracoes.json.
+    Revogações registadas só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Decreto-Lei
+    n.º 269/86.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -221,15 +226,17 @@ h) Promover a edição de publicações de carácter científico, pedagógico e 
 
 ###### Artigo 6.º
 
-Os cursos professados nos Institutos Superiores de Educação Física conferem os graus de bacharel e de licenciado.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 269/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-1986-220101), publicado em 1986-09-03, com efeitos a partir de 1986-09-04.
 
 ###### Artigo 7.º
 
-O grau de bacharel obtém-se pela aprovação em todas as disciplinas dos três primeiros anos ou dos seis primeiros semestres do respectivo currículo, segundo o plano de estudos elaborado por cada Instituto e homologado pelo Secretário de Estado do Ensino Superior e Investigação Científica.
+(Revogado.)
 
 ###### Artigo 8.º
 
-O Ministro da Educação e Investigação Científica definirá, em portaria, sobre proposta de cada um dos Institutos, o elenco de especialidades em que se deverá organizar a respectiva licenciatura, cujos planos de estudos serão elaborados e homologados nos termos do artigo anterior.
+(Revogado.)
 
 ###### Artigo 9.º
 

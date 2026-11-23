@@ -23,16 +23,23 @@
      "title": "Lei n.º 108/88",
      "published": "1988-09-24",
      "dre_path": "/dr/detalhe/lei/108-1988-355494"
+    },
+    {
+     "id": "pt:dre:324315:por",
+     "title": "Decreto-Lei n.º 121/85",
+     "published": "1985-04-22",
+     "dre_path": "/dr/detalhe/decreto-lei/121-1985-324315"
     }
    ],
    "changes": [
-    "Revoga Artigo 4.º"
+    "Revoga Artigo 4.º",
+    "Revoga Artigo 3"
    ],
    "fragments": [
     "8d91f5e4e8bedbe8",
     "6654cf465e0d555e",
     "219e66f19a3ad275",
-    "a687c5c5b5b5b123",
+    "4b77aa55c3997483",
     "13e415c7d566846f",
     "41450d31f8b48f08",
     "fb2b049945c739a7",
@@ -81,13 +88,15 @@
    "changed_by": [],
    "markdown": "###### Artigo 2.º\n\nNo uso da autonomia administrativa e financeira conferida pelo presente diploma, as universidades e os institutos universitários poderão:\n\na) Autorizar e efectuar directamente o pagamento das suas despesas mediante fundos requisitados em conta das dotações atribuídas no Orçamento Geral do Estado, de cuja aplicação têm de prestar contas no termo de cada ano económico;\n\nb) Dispor de receitas próprias provenientes do exercício das suas actividades e aplicá-las na satisfação das suas despesas através de orçamentos privativos;\n\nc) Arrendar directamente os edifícios indispensáveis à prossecução das suas actividades."
   },
-  "a687c5c5b5b5b123": {
+  "4b77aa55c3997483": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 3.º",
-   "in_force_from": null,
-   "changed_by": [],
-   "markdown": "###### Artigo 3.º\n\n1 - Cada universidade e instituto universitário disporá de um conselho administrativo, constituído pelo reitor, que preside, pelo administrador e pelo director ou responsável dos serviços administrativos da universidade ou instituto universitário.\n\n2 - Em matéria de autorização de despesas e celebração de contratos os conselhos administrativos das universidades ou institutos universitários têm a competência atribuída na lei geral aos responsáveis dos serviços com autonomia administrativa e financeira."
+   "in_force_from": "1988-09-25",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 121/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-1985-324315), publicado em 1985-04-22, com efeitos a partir de 1985-04-27."
+   ],
+   "markdown": "###### Artigo 3.º\n\n1 - (Revogado.)\n\n2 - Em matéria de autorização de despesas e celebração de contratos os conselhos administrativos das universidades ou institutos universitários têm a competência atribuída na lei geral aos responsáveis dos serviços com autonomia administrativa e financeira.\n\n> Revogado pelo/a [Decreto-Lei n.º 121/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-1985-324315), publicado em 1985-04-22, com efeitos a partir de 1985-04-27."
   },
   "13e415c7d566846f": {
    "fragment_id": null,

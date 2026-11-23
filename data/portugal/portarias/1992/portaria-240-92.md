@@ -54,10 +54,40 @@ version_history:
     changes: []
   - date: '2005-04-29'
     amending: pt:dre:532798:por
-    amending_title: Decreto-Lei n.º 85/2005
+    amending_title: Decreto-Lei n.º 85/2005; Decreto-Lei n.º 153/2003
     changes:
     - Revoga Artigo ANEXO::27.º
     - Altera Artigo ANEXO II
+    - Revoga Artigo 1
+    - Revoga Artigo 2
+    - Revoga Artigo 3
+    - Revoga Artigo 4
+    - Revoga Artigo 5
+    - Revoga Artigo 6
+    - Revoga Artigo 7
+    - Revoga Artigo 8
+    - Revoga Artigo 9
+    - Revoga Artigo 10
+    - Revoga Artigo 11
+    - Revoga Artigo 12
+    - Revoga Artigo 13
+    - Revoga Artigo 14
+    - Revoga Artigo 15
+    - Revoga Artigo 16
+    - Revoga Artigo 17
+    - Revoga Artigo 18
+    - Revoga Artigo 19
+    - Revoga Artigo 20
+    - Revoga Artigo 21
+    - Revoga Artigo 22
+    - Revoga Artigo 23
+    - Revoga Artigo 24
+    - Revoga Artigo 25
+    - Revoga Artigo 26
+    - Revoga Artigo 28
+    - Revoga Artigo 29
+    - Revoga Artigo 30
+    - Revoga anexo ou texto fora do articulado
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/240/1992/03/25/p/dre/pt/html
@@ -84,7 +114,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T11:15:03Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 85/2005. Método e
-    verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1992/portaria-240-92.alteracoes.json'
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1992/portaria-240-92.alteracoes.json. Revogações
+    registadas só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Decreto-Lei
+    n.º 153/2003.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -158,39 +190,17 @@ Regulamento de Licenciamento das Actividades de Recolha, Armazenagem, Tratamento
 
 ###### Artigo 1.º — Objecto e âmbito
 
-1 - O presente Regulamento estabelece as disposições relativas ao licenciamento das actividades de recolha, armazenagem, tratamento prévio, regeneração, recuperação, combustão e incineração dos óleos usados.
+(Revogado.)
 
-2 - Excluem-se do âmbito de aplicação deste Regulamento os óleos usados com teores de PCB/PCT superiores a 50 ppm, aos quais é aplicável o Decreto-Lei n.º 221/88, de 28 de Junho.
+> Revogado pelo/a [Decreto-Lei n.º 153/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2003-667550), publicado em 2003-07-11, com efeitos a partir de 2003-07-12.
 
 ###### Artigo 2.º — Definições
 
-Para efeitos do presente diploma, entende-se por:
-
-a) Detentor: qualquer entidade que, ocasionalmente ou em virtude da sua actividade profissional, acumule óleos usados;
-
-b) Recolha: conjunto de operações que permitam transferir os óleos usados dos detentores para empresas que os eliminem;
-
-c) Eliminação: conjunto de actividades, entre as quais se compreendem as operações de armazenagem, valorização e incineração, que permitam a salvaguarda da saúde pública, a conservação do meio ambiente e a preservação dos recursos naturais;
-
-d) Armazenagem: depósito de óleos usados sem que os mesmos sejam sujeitos a qualquer forma de valorização e ou incineração;
-
-e) Valorização: conjunto de processos que compreendem o tratamento prévio, a recuperação, a regeneração e a combustão;
-
-f) Tratamento prévio: processo industrial que modifica as características físicas e ou químicas dos óleos usados, tendo em vista a sua posterior valorização por regeneração ou combustão;
-
-g) Recuperação: processo industrial em que os óleos sofrem uma sedimentação para a separação da água e partículas sólidas, uma filtração para separação de partículas menores e a absorção dos traços de humidade ainda remanescente no óleo;
-
-h) Regeneração: processo industrial a que são submetidos os óleos usados, com a finalidade de lhes devolver as qualidades originais que permitam a sua utilização como óleo de base;
-
-i) Combustão: utilização dos óleos usados como combustível com recuperação adequada do calor produzido;
-
-j) Incineração: operação de destruição térmica, pela qual se reduz substancialmente o volume dos óleos usados com a oxidação dos compostos orgânicos.
+(Revogado.)
 
 ###### Artigo 3.º — Registos de movimentos de óleos usados
 
-1 - Os registos de movimentos de óleos usados, referidos nos n.os 1 e 2 do artigo 3.º do Decreto-Lei n.º 88/91, de 23 de Fevereiro, devem obedecer aos modelos publicados no anexo I, que faz parte integrante deste Regulamento, devendo ser preenchidos trimestralmente pelos detentores, recolhedores e utilizadores destes óleos.
-
-2 - As entidades referidas no número anterior deverão enviar os registos à Direcção-Geral de Energia, dentro dos cinco primeiros dias do mês seguinte ao trimestre a que digam respeito.
+(Revogado.)
 
 ### CAPÍTULO II
 
@@ -200,267 +210,105 @@ Processo de licenciamento das actividades de recolha, armazenagem, tratamento pr
 
 ###### Artigo 4.º — Licenciamento
 
-1 - A actividade de recolha de óleos usados fica sujeita a licenciamento.
-
-2 - O licenciamento previsto no número anterior é da competência das delegações regionais do Ministério da Indústria e Energia.
+(Revogado.)
 
 ###### Artigo 5.º — Instrução do pedido de licenciamento
 
-1 - O pedido de licenciamento deve ser acompanhado dos seguintes elementos:
-
-a) Licença de armazenagem;
-
-b) Prova da existência de armazenagem separada, para os vários tipos de óleo, evitando misturas com água ou resíduos não oleosos;
-
-c) Indicação da área, por concelhos, em que a actividade pretende ser exercida;
-
-d) Autorização de transporte a que se refere o n.º 2 do artigo 4.º do Decreto-Lei n.º 88/91, de 23 de Fevereiro.
-
-2 - Para efeitos do disposto na alínea b) do número anterior são definidos os seguintes tipos de óleo:
-
-a) Tipo A - óleos de motor;
-
-b) Tipo B - óleos industriais;
-
-c) Tipo C - outros óleos.
+(Revogado.)
 
 ###### Artigo 6.º — Rotulagem dos recipientes
 
-Os recipientes que contenham óleos usados deverão ser rotulados de forma clara, legível e indelével, em língua portuguesa, devendo no rótulo constar:
-
-a) O tipo de óleos de acordo com o n.º 2 do artigo 5.º;
-
-b) O nome, morada e número de telefone do detentor;
-
-c) A data do enchimento final;
-
-d) Natureza dos riscos.
+(Revogado.)
 
 #### SECÇÃO II — Armazenagem
 
 ###### Artigo 7.º — Licenciamento
 
-1 - A actividade de armazenagem dos óleos usados fica sujeita a licenciamento.
-
-2 - O licenciamento previsto no número anterior é da competência das delegações regionais do Ministério da Indústria e Energia.
-
-3 - Ao licenciamento de armazenagem dos óleos usados são aplicáveis as disposições legais em vigor, relativas à armazenagem e tratamento industrial de petróleos brutos, seus derivados e resíduos.
+(Revogado.)
 
 ###### Artigo 8.º — Instrução do pedido de licenciamento
 
-O pedido de licenciamento deve ser acompanhado dos seguinte elementos:
-
-a) Apresentação do projecto assinado por engenheiro ou engenheiro técnico devidamente qualificado e inscrito na entidade licenciadora, nos termos da legislação aplicável ao licenciamento das armazenagens de petróleos brutos, seus derivado e resíduos;
-
-b) Caracterização da instalação de armazenagem em taras ou reservatório, com a indicação do tipo de reservatório, superficial ou subterrâneo, material em que é construído e capacidade útil;
-
-c) Planta geral das instalações, em escala de 1:1000, com todas as confrontações numa faixa de 100 m;
-
-d) Plantas, alçados e cortes em escala conveniente, como seja de 1:50, 1:100 ou 1:200, que definam completamente as instalações e depósitos.
+(Revogado.)
 
 #### SECÇÃO III — Tratamento prévio
 
 ###### Artigo 9.º — Licenciamento
 
-1 - A actividade de tratamento prévio dos óleos usados está sujeita a licenciamento.
-
-2 - O licenciamento previsto no número anterior é da competência das delegações regionais do Ministério da Indústria e Energia.
-
-3 - O licenciamento a que se refere este artigo carece de parecer prévio favorável do director-geral da Qualidade do Ambiente, bem como de realização de vistoria nos termos da legislação aplicável, sempre que necessária.
+(Revogado.)
 
 ###### Artigo 10.º — Instrução do pedido de licenciamento
 
-O pedido de licenciamento deve ser acompanhado dos seguintes elementos:
-
-a) Localização da unidade, capacidade de tratamento e tecnologia do processo, que deverá ser a melhor disponível, sem ocasionar custos excessivos;
-
-b) Quantidades e características dos óleos a tratar;
-
-c) Destino a dar pela empresa aos resíduos resultantes, devendo ser indicada a previsão da natureza e quantidade dos resíduos produzidos;
-
-d) Demonstração do cumprimento das disposições legais em vigor quanto a efluentes líquidos e emissões gasosas;
-
-e) Características dos óleos tratados.
+(Revogado.)
 
 #### SECÇÃO IV — Regeneração
 
 ###### Artigo 11.º — Licenciamento
 
-1 - A actividade de regeneração dos óleos usados está sujeita a licenciamento.
-
-2 - O licenciamento previsto no número anterior é da competência da Direcção-Geral de Energia.
+(Revogado.)
 
 ###### Artigo 12.º — Instrução do pedido de licenciamento
 
-1 - O pedido de licenciamento deve ser acompanhado dos seguintes elementos:
-
-a) Identificação completa e domicílio do requerente, com indicação do seu número fiscal de contribuinte;
-
-b) Localização e confrontações do estabelecimento a instalar, com indicação da freguesia, concelho e distrito;
-
-c) Certidão de aprovação da localização, passada pela câmara municipal ou pela comissão de coordenação regional respectiva;
-
-d) Licença de utilização do domínio público hídrico, nos termos do Decreto-Lei n.º 70/90, de 2 de Março, quando aplicável;
-
-e) Recibo comprovativo do pagamento da taxa devida pelo pedido de aprovação do projecto de instalação, emitido pela Caixa Geral de Depósitos, nos termos do n.º 1 do artigo 20.º do Decreto-Lei n.º 109/91;
-
-f) Apresentação do projecto da instalação assinado por engenheiro ou engenheiro técnico devidamente qualificado e inscrito na entidade licenciadora.
-
-2 - Os elementos a que se refere o número anterior devem ser acompanhados de sete exemplares.
+(Revogado.)
 
 ###### Artigo 13.º — Projecto da instalação
 
-O projecto da instalação deve conter os seguintes elementos:
-
-a) Memória descritiva da instalação onde deve constar:
-
-Descrição detalhada da actividade industrial, com a especificação dos processos tecnológicos, diagramas de fabrico e condições hígio-sanitárias;
-
-Indicação da capacidade nominal de produção a instalar e capacidade de produção diária e ou semanal prevista;
-
-Identificação das matérias-primas ou quaisquer matérias acessórias a utilizar e as suas quantidades;
-
-Caracterização quantitativa e qualitativa dos efluentes líquidos, emissões gasosas e resíduos produzidos;
-
-Identificação das fontes de emissão, nomeadamente de ruído, vibrações, radiações e agentes químicos;
-
-Descrição dos aparelhos, máquinas e demais equipamento e respectivas características, com indicação das normas ou especificações a que obedecem;
-
-Indicação da potência total a instalar;
-
-Descrição dos aspectos relacionados com a organização da segurança no que respeita à preservação do ambiente, protecção de pessoas e bens e às condições de higiene e segurança do trabalho;
-
-Indicação das característica do produto acabado;
-
-Descrição das instalações industriais, incluindo as de armazenagem, de queima, de força motriz ou de produção de vapor e de recipientes de gases sob pressão;
-
-Descrição das características gerais de construção e acabamentos interiores do estabelecimento industrial;
-
-Descrição do sistema de abastecimento de água, potável ou não, com a quantificação dos consumos previstos quer para uso industrial, quer para outros usos devidamente especificados, tendo em atenção o disposto no Decreto-Lei n.º 74/90, de 7 de Março;
-
-Descrição da rede de esgotos;
-
-Descrição das medidas antipoluição adoptadas e indicação do destino final dos efluentes líquidos e resíduos;
-
-Indicação e justificação das medidas adoptadas para reduzir a possibilidade de ocorrência de acidentes industriais e a minimização dos efeitos dos mesmos;
-
-Identificação dos inconvenientes próprios da laboração da actividade industrial e das medidas de higiene e segurança do trabalho adoptadas;
-
-Trabalhadores distribuídos pela actividade industrial e administrativa e operários especializados, técnicos e pessoal dirigente;
-
-Regime de laboração e especificação do horário de trabalho, com indicação dos períodos anuais de laboração e do pessoal que lhe é afecto no caso de laboração sazonal;
-
-Descrição das instalações de carácter social e de medicina do trabalho;
-
-Indicação do número de lavabos, balneários, instalações sanitárias e vestiários.
-
-b) Peças desenhadas numa escala em conformidade com a NP-717:
-
-Planta topográfica em escala não inferior a 1:2000, numa distância de 1000 m a partir dos limites da instalação, com indicação das zonas de propriedade rústica e urbana;
-
-Plantas da instalação industrial em escala não inferior a 1:200 indicando, nomeadamente, a localização de áreas de produção, armazéns, oficinas, depósitos, circuitos exteriores, escritórios, lavabos, balneários, instalações sanitárias e instalações de carácter social, de primeiros socorros e do serviço de medicina do trabalho;
-
-Plantas, alçados e cortes em escala não inferior a 1:100 indicando a localização de aparelhos, máquinas e demais equipamento; equipamento de protecção e segurança; armazenagem de matérias-primas, de combustíveis líquidos, sólidos ou gasosos e de produtos acabados, com indicação das matérias armazenadas; instalações de carácter social e do serviço de medicina do trabalho, lavabos, balneários e instalações sanitárias; redes de abastecimento de água, potável ou não, devidamente identificadas; chaminés industriais e pontos de amostragem de poluentes; redes de esgotos industriais, pluviais e domésticos; sistemas de tratamento inerentes à actividade em questão; instalações de queima, de força motriz ou de produção de vapor e de recipientes de gases sob pressão.
-
-c) Projecto de instalação eléctrica apresentado em separado.
+(Revogado.)
 
 ###### Artigo 14.º — Insuficiências do projecto
 
-1 - Quando da instrução do processo se verificar que este não se encontra em conformidade com o disposto nos artigos 12.º e 13.º, a Direcção-Geral de Energia devolverá o projecto ao requerente, no prazo máximo de 10 dias, para que este junte os elementos em falta.
-
-2 - A apreciação do projecto só terá início quando este estiver completo.
+(Revogado.)
 
 ###### Artigo 15.º — Consultas
 
-A Direcção-Geral de Energia enviará, no prazo de oito dias úteis, um exemplar dos elementos previstos no artigo 12.º, para emissão de parecer às seguintes entidades:
-
-a) Direcção-Geral da Qualidade do Ambiente;
-
-b) Direcção-Geral dos Cuidados de Saúde Primários;
-
-c) Inspecção-Geral do Trabalho;
-
-d) Câmara municipal da área onde se situa o estabelecimento, no que respeita ao projecto de instalação eléctrica.
+(Revogado.)
 
 ###### Artigo 16.º — Prazo para emissão de parecer
 
-1 - Cada uma das entidades consultadas deve emitir o seu parecer no prazo de 60 dias não prorrogáveis, considerando-se a sua não emissão como parecer favorável.
-
-2 - As entidades consultadas dispõem do prazo de cinco dias, contados a seguir à data da recepção do projecto e demais documentação, para pedir elementos que eventualmente faltem à instrução ou informações complementares, devendo apresentar o seu pedido, devidamente fundamentado, à Direcção-Geral de Energia, suspendendo-se a contagem do prazo fixado no número anterior até à recepção dos mesmos.
+(Revogado.)
 
 ###### Artigo 17.º — Emissão de parecer global
 
-1 - No prazo máximo de 30 dias úteis contados a partir da data da recepção dos pareceres referidos no artigo 15.º, a Direcção-Geral de Energia deverá proceder à elaboração do seu parecer global, devidamente fundamentado, devendo conter as condições impostas pelas entidades consultadas.
-
-2 - O parecer a que se refere o número anterior deverá ser enviado, de imediato, a todas as entidades consultadas, assim como ao requerente, ao qual também será remetido um exemplar do projecto apreciado.
+(Revogado.)
 
 ###### Artigo 18.º — Licença de obras
 
-1 - Na data indicada no artigo 17.º, a Direcção-Geral de Energia deve enviar à respectiva câmara municipal ou entidade que no local exerça jurisdição um exemplar do projecto acompanhado da decisão que sobre o mesmo tenha recaído.
-
-2 - A licença de obras fica condicionada ao deferimento do pedido de licenciamento da actividade.
+(Revogado.)
 
 ###### Artigo 19.º — Distribuição de energia eléctrica
 
-O distribuidor de energia eléctrica só pode iniciar o fornecimento de energia eléctrica mediante a apresentação da decisão de deferimento do pedido de autorização para instalação do estabelecimento e após cumprimento do estabelecido na legislação aplicável às instalações eléctricas.
+(Revogado.)
 
 ###### Artigo 20.º — Início da actividade
 
-1 - A entidade requerente deve comunicar à Direcção-Geral de Energia a data de início e a duração prevista da construção das instalações.
-
-2 - A laboração só pode iniciar-se depois de terminadas as instalações e de o requerente apresentar, à Direcção-Geral de Energia, no prazo mínimo de 30 dias antes da data prevista para a conclusão das obras, o pedido de vistoria acompanhado de:
-
-a) Termo de responsabilidade, assinado por um técnico responsável pela instalação, conforme estabelecido no Decreto-Lei n.º 109/91, de 15 de Março, declarando que esta se encontra de acordo com o projecto aprovado;
-
-b) Identificação do técnico responsável pela laboração.
+(Revogado.)
 
 #### SECÇÃO V — Recuperação
 
 ###### Artigo 21.º — Condição
 
-A recuperação dos óleos usados fica dependente de declaração e registo a enviar à Direcção-Geral de Energia.
+(Revogado.)
 
 ###### Artigo 22.º — Óleos com características de utilização especial
 
-Os óleos com características de utilização especial, tais como os óleos empregues em operações metalo-mecânicas e de laminagem, e os óleos hidráulicos de turbinas ou outros, só podem ser recuperados pela própria entidade utilizadora e desde que sejam reintroduzidos no processo.
+(Revogado.)
 
 #### SECÇÃO VI — Combustão
 
 ###### Artigo 23.º — Licenciamento
 
-1 - A utilização de óleos usados como combustível está sujeita a licenciamento.
-
-2 - O licenciamento previsto no número anterior é da competência das delegações regionais do Ministério da Indústria e Energia.
+(Revogado.)
 
 ###### Artigo 24.º — Instrução do pedido de licenciamento
 
-O pedido de licenciamento deve ser acompanhado com os seguintes elementos:
-
-a) Apresentação de projecto, em duplicado assinado por engenheiro ou engenheiro técnico devidamente qualificado e inscrito na entidade licenciadora;
-
-b) Memória descritiva com a indicação do tipo de indústria onde se efectua a queima;
-
-c) Potência instalada, em MW;
-
-d) Tipo de unidade utilizadora de óleos tais como fornos de queima indirecta, fornos de queima directa, geradores de vapor e parâmetros de dimensionamento;
-
-e) Tipos de queimadores;
-
-f) Composição dos óleos usados a utilizar;
-
-g) Percentagem de óleos usados utilizados na mistura com outros combustíveis e quantidades consumidas;
-
-h) Localização da instalação relativamente a terceiros, com a planta geral com todas as confrontações, indicando as dimensões, altura e largura, das estruturas mais próximas;
-
-i) Informação sobre o destino dos resíduos da combustão.
+(Revogado.)
 
 ###### Artigo 25.º — Proibição
 
-É proibida a utilização de óleos usados como combustível na indústria alimentar, designadamente em padarias, e nos casos em que os produtos de combustão estejam em contacto com os alimentos produzidos.
+(Revogado.)
 
 ###### Artigo 26.º — Valores limite de emissão
 
-Quando a combustão for efectuada em instalações com uma potência térmica igual ou superior a 3 MW com base no poder calorífico inferior, «PCI», deverão ser respeitados os valores limite de emissão fixados no anexo II a este Regulamento, que dele fica a fazer parte integrante.
+(Revogado.)
 
 ###### Artigo 27.º — Definição das características dos óleos usados
 
@@ -472,21 +320,21 @@ Quando a combustão for efectuada em instalações com uma potência térmica ig
 
 ###### Artigo 28.º — Condição
 
-A incineração dos óleos usados só pode ser efectuada por estabelecimentos industriais devidamente licenciados para o efeito, de acordo com a legislação em vigor.
+(Revogado.)
 
 ### CAPÍTULO III — Disposições finais
 
 ###### Artigo 29.º — Renovação de licenças
 
-Para efeitos do disposto neste Regulamento, os titulares de licenças emitidas ao abrigo do Decreto-Lei n.º 216/85, de 28 de Junho, deverão requerer novas licenças, no prazo de 120 dias contados a partir da entrada em vigor da presente portaria.
+(Revogado.)
 
 ###### Artigo 30.º — Sanções
 
-O exercício das actividades previstas neste Regulamento sem as necessárias licenças será sancionado nos termos do artigo 6.º do Decreto-Lei n.º 88/91, de 23 de Fevereiro.
+(Revogado.)
 
 ANEXO I - MAPAS DE REGISTO DE MOVIMENTOS DE ÓLEOS USADOS
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/03/071b00/14391443.pdf)
+(Revogado.)
 
 ## ANEXO II
 

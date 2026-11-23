@@ -47,10 +47,12 @@ version_history:
     changes: []
   - date: '1980-06-10'
     amending: pt:dre:324953:por
-    amending_title: Decreto-Lei n.º 183-H/80
+    amending_title: Decreto-Lei n.º 183-H/80; Decreto-Lei n.º 44510
     changes:
     - Revoga Artigo 2.º
     - Revoga Artigo 3.º
+    - Revoga Artigo 5
+    - Revoga Artigo 6
 identifiers:
   celex: null
   eli: null
@@ -77,7 +79,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T21:37:24Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 183-H/80. Método
-    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1961/decreto-lei-43763.alteracoes.json'
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1961/decreto-lei-43763.alteracoes.json.
+    Revogações registadas só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Decreto-Lei
+    n.º 44510.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -190,15 +194,13 @@ b) Nas colectas a liquidar segundo as taxas estabelecidas nas alíneas b), d) e 
 
 ###### Artigo 5.º
 
-É criado um imposto sobre o consumo de refrigerantes no continente e ilhas adjacentes, cuja taxa é de $50 por cada recipiente de venda ao público.
+(Revogado.)
 
-§ 1.º Consideram-se refrigerantes as bebidas como tais classificadas pelo artigo 1.º do [Decreto-Lei n.º 42159](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42159-1959-590335), de 25 de Fevereiro de 1959.
-
-§ 2.º O imposto será cobrado dos fabricantes, quanto aos refrigerantes preparados no País, antes de lançados no mercado, e dos importadores no acto do despacho alfandegário. Relativamente aos refrigerantes existentes nos estabelecimentos dos retalhistas e armazenistas em 1 de Julho do ano corrente, o imposto será pago pelos respectivos proprietários.
+> Revogado pelo/a [Decreto-Lei n.º 44510](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44510-1962-163425), publicado em 1962-08-16.
 
 ###### Artigo 6.º
 
-As transgressões do disposto no artigo 5.º serão punidas nos termos dos artigos 21.º e 23.º a 27.º do [Decreto-Lei n.º 36607](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36607-1947-636687), de 24 de Novembro de 1947.
+(Revogado.)
 
 ###### Artigo 7.º
 

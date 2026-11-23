@@ -55,9 +55,10 @@ version_history:
     changes: []
   - date: '1998-06-05'
     amending: pt:dre:475972:por
-    amending_title: Portaria n.º 346/98
+    amending_title: Portaria n.º 346/98; Portaria n.º 85/98
     changes:
     - Altera Artigo unidades 34-41
+    - Revoga anexo ou texto fora do articulado
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/393/1996/08/21/p/dre/pt/html
@@ -84,7 +85,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T13:28:32Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 346/98. Método e verificação:
-    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1996/portaria-393-96.alteracoes.json'
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1996/portaria-393-96.alteracoes.json. Revogações registadas
+    só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Portaria n.º 85/98.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -188,41 +190,17 @@ Ao abrigo do n.º 2 do artigo 10.º do Decreto-Lei n.º 31/94, de 5 de Fevereiro
 
 Manda o Governo, pelos Ministros da Agricultura, do Desenvolvimento Rural e das Pescas e do Ambiente, o seguinte:
 
-1.º O valor constante do n.º 4.º da Portaria n.º 688/94, de 22 de Julho, é alterado para 16905 ECU.
+1.º - (Revogado.)
 
-2.º Os valores fixados na Portaria n.º 1059/95, de 29 de Agosto, são alterados para os seguintes montantes:
+> Revogado pelo/a [Portaria n.º 85/98](https://diariodarepublica.pt/dr/detalhe/portaria/85-1998-209843), publicado em 1998-02-19, com efeitos a partir de 1998-02-24.
 
-N.º 7.º, alínea a): 36,2 ECU;
+2.º - (Revogado.)
 
-N.º 7.º, alínea b): 24,2 ECU;
+3.º - (Revogado.)
 
-N.º 7.º, alínea c): 12,1 ECU;
+4.º - (Revogado.)
 
-N.º 10.º, alínea a), i): 483 ECU;
-
-N.º 10.º, alínea a), ii): 362,3 ECU;
-
-N.º 10.º, alínea a), iii): 301,9 ECU;
-
-N.º 10.º, alínea a), iv): 181,1 ECU;
-
-N.º 10.º, alínea b), i): 573,6 ECU.
-
-3.º Os valores fixados no anexo da Portaria n.º 858/94, de 23 de Setembro, rectificada pela Declaração de Rectificação n.º 180/94, publicada no DR, 1.ª série, n.º 227, de 30 de Setembro de 1994, são alterados para os seguintes montantes:
-
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/08/193b00/26082610.pdf)
-
-4.º Os valores fixados nos anexos II, III, IV e V da Portaria n.º 698/94, de 26 de Junho, são alterados para os seguintes:
-
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/08/193b00/26082610.pdf)
-
-5.º Os valores fixados na Portaria n. 703/94, de 28 de Julho, são alterados para os seguintes montantes:
-
-N.º 7.º, n.º 2: 129,2 ECU;
-
-N.º 10.º: 84,5 ECU;
-
-N.º 12.º: 144,9 ECU;
+5.º - (Revogado.)
 
 ## Anexo II: — [(ver documento original)](https://files.diariodarepublica.pt/1s/1996/08/193b00/26082610.pdf)
 
@@ -244,7 +222,7 @@ N.º 10.º, n.º 3: 50500 ECU.
 
 > Alterado pelo/a [Portaria n.º 346/98](https://diariodarepublica.pt/dr/detalhe/portaria/346-1998-475972), publicado em 1998-06-05.
 
-8.º Os valores constantes dos contratos de atribuição de ajuda celebrados até à data de entrada em vigor desta portaria e no âmbito dos diplomas referidos nos números anteriores são actualizados por aplicação do factor de correcção de 1,207509.
+8.º - (Revogado.)
 
 Ministérios da Agricultura, do Desenvolvimento Rural e das Pescas e do Ambiente.
 
