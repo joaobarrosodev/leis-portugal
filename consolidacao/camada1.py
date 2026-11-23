@@ -989,7 +989,7 @@ def estado() -> int:
 A_REPEDIR = ("recusado_as_cegas", "recusado_na_segunda_leitura", "resposta_recusada", "recusado_na_verificacao_mecanica")
 
 
-def refazer_selecao() -> int:
+def refazer_selecao(ficheiro_ids: Path | None = None, rotulo: str = "ronda 116") -> int:
     """Ronda 116: os recusados da onda 1 com a seleção refeita sobre o export de hoje, com as retificações
     (`corrected_by`) e as revogações (`repealed_by`) na lista de alteradores. A segunda leitura mostrou que
     eram estas que faltavam. Substitui as linhas destes diplomas em `selecao-escala.jsonl`, corre as
@@ -997,9 +997,17 @@ def refazer_selecao() -> int:
     pendentes."""
     from selecionar import completar, selecionar_todos  # noqa: PLC0415
 
-    ids = {e["id"] for e in _jsonl(ESTADO) if e["estado"] in A_REPEDIR}
+    if ficheiro_ids is not None:  # p. ex. os diplomas da onda 2 (linhas 6 e 7), antes dos pedidos
+        ids = set(ficheiro_ids.read_text(encoding="utf-8").split())
+    else:
+        ids = {e["id"] for e in _jsonl(ESTADO) if e["estado"] in A_REPEDIR}
     db = sqlite3.connect(f"file:{_export()}?mode=ro", uri=True)
-    novos = {r["id"]: completar(r) | {"camada1": True, "selecao_refeita": "ronda 116"} for r in selecionar_todos(db, ids, com_revogacoes=True)}
+    antes = {r["id"]: {a["id"] for a in r["alteradores"]} for r in _jsonl(SELECAO_ESCALA) if r["id"] in ids}
+    novos = {r["id"]: completar(r) | {"camada1": True, "selecao_refeita": rotulo} for r in selecionar_todos(db, ids, com_revogacoes=True)}
+    ganhos = {i: sorted({a["id"] for a in r["alteradores"]} - antes.get(i, set())) for i, r in novos.items()}
+    ganhos = {i: g for i, g in ganhos.items() if g}
+    (CAMADA1 / f"selecao-refeita-{rotulo.replace(' ', '-')}.json").write_text(json.dumps(ganhos, ensure_ascii=False, indent=0), encoding="utf-8")
+    print(f"{len(ganhos)} diplomas com alteradores novos (retificações ou revogações), {sum(map(len, ganhos.values()))} no total")
     _trocar_selecao(novos)
     acrescentados = sum(len(novos[i]["alteradores"]) for i in novos)
     print(f"{len(novos)} seleções refeitas ({len(ids)} a repetir; {acrescentados} alteradores no total)")
@@ -1084,7 +1092,7 @@ def main() -> int:
     if args.passo == "juntar-triagem":
         return juntar_triagem(args.n)
     if args.passo == "refazer-selecao":
-        return refazer_selecao()
+        return refazer_selecao(args.ids_extra, f"onda {args.n}" if args.ids_extra else "ronda 116")
     if args.passo == "acrescentar-alteradores":
         return acrescentar_alteradores(args.ids_extra)
     if args.passo == "estado":

@@ -1,5 +1,7 @@
 pt:dre:170928:por
 pt:dre:281444:por
+pt:dre:399634:por
+pt:dre:422176:por
 pt:dre:526203:por
 pt:dre:606481:por
 pt:dre:618082:por
@@ -16,6 +18,7 @@ pt:dre:457672:por
 pt:dre:522648:por
 pt:dre:524634:por
 pt:dre:544588:por
+pt:dre:141218:por
 pt:dre:147408:por
 pt:dre:180193:por
 pt:dre:197491:por
@@ -78,13 +81,17 @@ pt:dre:344241:por
 pt:dre:355687:por
 pt:dre:376218:por
 pt:dre:390438:por
+pt:dre:408095:por
 pt:dre:431229:por
 pt:dre:444725:por
+pt:dre:451672:por
 pt:dre:453227:por
 pt:dre:490420:por
+pt:dre:493270:por
 pt:dre:512987:por
 pt:dre:513984:por
 pt:dre:517191:por
+pt:dre:558457:por
 pt:dre:559038:por
 pt:dre:580344:por
 pt:dre:592750:por
