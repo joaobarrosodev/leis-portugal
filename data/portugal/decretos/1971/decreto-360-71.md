@@ -40,7 +40,7 @@ version:
   kind: consolidated
   label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: '1993-09-06'
+  consolidation_date: '1994-01-01'
 version_history:
   file: decreto-360-71.versoes.json
   count: 2
@@ -50,10 +50,10 @@ version_history:
     amending: null
     amending_title: null
     changes: []
-  - date: '1993-09-06'
+  - date: '1994-01-01'
     amending: pt:dre:367047:por
     amending_title: Decreto-Lei n.º 459/79; Decreto-Lei n.º 19/91; Decreto-Lei n.º 283/92; Decreto-Lei n.º 304/93; Decreto-Lei
-      n.º 304/93; Decreto-Lei n.º 2/82; Decreto-Lei n.º 381/88
+      n.º 304/93; Decreto-Lei n.º 2/82; Decreto-Lei n.º 381/88; Decreto-Lei n.º 362/93
     changes:
     - Altera Artigo 50.º
     - Altera Artigo 64.º
@@ -62,6 +62,7 @@ version_history:
     - Altera Artigo 74.º
     - Revoga Artigo 24
     - Revoga Artigo 66
+    - Revoga Artigo 19
 identifiers:
   celex: null
   eli: null
@@ -423,9 +424,9 @@ As entidades patronais que tenham transferido a sua responsabilidade, devem part
 
 ###### Artigo 19.º — (Mapas de acidentes)
 
-1. As entidades seguradoras remeterão ao tribunal competente, até ao dia 15 de cada mês, quatro exemplares de um mapa, do qual constem todos os acidentes da sua responsabilidade, participados no mês anterior, sendo-lhes restituído um exemplar com recibo do chefe da secretaria.
+(Revogado.)
 
-2. Dois exemplares do mesmo mapa serão enviados pelo chefe da secretaria, um ao Instituto Nacional de Estatística, até 30 de Janeiro do ano seguinte àquele a que respeitar, e outro ao organismo central previsto no n.º 2 da base XLVI, quando este o solicitar.
+> Revogado pelo/a [Decreto-Lei n.º 362/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/362-1993-668521), publicado em 1993-10-15, com efeitos a partir de 1994-01-01.
 
 ###### Artigo 20.º — (Entidades equiparadas às seguradoras)
 

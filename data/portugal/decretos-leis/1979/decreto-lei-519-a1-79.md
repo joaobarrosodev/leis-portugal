@@ -54,7 +54,7 @@ version_history:
     changes: []
   - date: '2004-12-23'
     amending: pt:dre:218365:por
-    amending_title: Decreto-Lei n.º 237/2004; Declaração; Portaria n.º 744-A/93
+    amending_title: Decreto-Lei n.º 237/2004; Declaração; Portaria n.º 744-A/93; Decreto-Lei n.º 275-A/93
     changes:
     - Revoga Artigo 1.º
     - Revoga Artigo 2.º
@@ -125,7 +125,8 @@ provenance:
     e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1979/decreto-lei-519-a1-79.alteracoes.json.
     Retificações aplicadas com um LLM e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração. Anexos e quadros
     de alteradores triados «sem alteração textual», aplicados com um LLM e verificados às cegas (consolidacao/anexos_alteradores.py):
-    Portaria n.º 744-A/93.'
+    Portaria n.º 744-A/93. Revogações registadas só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py):
+    Decreto-Lei n.º 275-A/93.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -628,11 +629,11 @@ b) O serviço de arrecadação e cobrança de outras receitas do Estado ou de ou
 
 c) O serviço de valores selados, designadamente a requisição aos estabelecimentos fornecedores, venda e revenda;
 
-d) O serviço de pagamento das despesas do Estado que lhe seja cometido por lei;
+d) (Revogada.)
 
-e) O serviço de pagamento de vales de correio e de arrecadação do produto da sua emissão, de acordo com a legislação em vigor e as instruções regulamentares;
+e) (Revogada.)
 
-f) O serviço de pagamento de juros, rendas e outras despesas a satisfazer da conta da Junta do Crédito Público, nas localidades fora das capitais de distrito, onde esta não tenha estabelecido sede ou delegações;
+f) (Revogada.)
 
 g) Providenciar para que o cofre da respectiva tesouraria esteja sempre habilitado com os fundos necessários à satisfação dos pagamentos legalmente autorizados;
 
@@ -642,27 +643,15 @@ i) Efectuar os depósitos em dinheiro e as passagens de fundos em dinheiro e em 
 
 j) O serviço de contabilidade da respectiva tesouraria, nos termos da lei em vigor;
 
-II) No âmbito da administração fiscal:
-
-a) O serviço de liquidação de juros de mora nas receitas virtuais e dos que tiverem de ser arrecadados adicionalmente, por motivo de erro de cálculo praticado na respectiva tesouraria;
-
-b) O serviço de liquidação da taxa de relaxe prevista no artigo 31.º do Código de Processo das Contribuições e Impostos;
-
-c) A assinatura dos títulos de cobrança, que pode ser delegada no tesoureiro subgerente, no tesoureiro-adjunto ou no tesoureiro-ajudante, nos termos definidos no artigo 55.º deste diploma, consoante os casos;
-
-d) A extracção e assinatura das certidões de relaxe de todos os títulos de cobrança que não forem pagos nos prazos legais, promovendo a sua entrega, juntamente com a respectiva relação, em duplicado, dentro dos prazos regulamentares, de que cobrará recibo. A assinatura das certidões de relaxe, que poderá ser feita de chancela, e a da respectiva relação serão autenticadas com o selo branco da tesouraria ou, na sua falta, com o carimbo privativo desta;
-
-e) O serviço de taxa militar;
-
-f) O serviço de divulgação, por editais e avisos, das cobranças a seu cargo e de acordo com a legislação em vigor;
+II) (Revogado.)
 
 III) No âmbito das funções de contrôle, fiscalização e apuramento de valores:
 
-a) Conferência prévia de todos os valores debitados e verificação das demais formalidades legais necessárias à realização da cobrança nos prazos previstos na lei;
+a) (Revogada.)
 
 b) Conferência prévia de todos os valores selados entrados e saídos na tesouraria e a sua devolução ou substituição, no caso de se encontrarem caducos ou deteriorados;
 
-c) Promover a efectivação das baixas nas relações índices de descarga da receita virtual, quanto aos conhecimentos que forem sendo cobrados e anulados, devendo, para esse efeito, ser-lhe entregue, no acto do respectivo débito, um duplicado de tais relações;
+c) (Revogada.)
 
 d) Elaboração do termo de apuramento de contas diárias, mediante prévia conferência dos valores movimentados, por cada caixa, assinado por si e por cada um dos funcionários encarregados do serviço de caixa;
 
@@ -697,6 +686,8 @@ f) Dar imediato conhecimento à Direcção-Geral do Tesouro, através do seu sup
 V) Quaisquer outras funções que lhe sejam cometidas por lei.
 
 > Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1980-681420), publicado em 1980-04-22.
+
+> Revogado pelo/a [Decreto-Lei n.º 275-A/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/275-a-1993-686384), publicado em 1993-08-09, com efeitos a partir de 1993-08-14.
 
 ###### Artigo 52.º — (Delegação de competência)
 
@@ -778,7 +769,7 @@ V) Quaisquer outras funções que lhe sejam cometidas por lei.
 
 1 - Sempre que, na hipótese prevista no n.º 3 do artigo anterior, se verifique um alcance de que não seja autor material o tesoureiro gerente, deverá a sua conta de gerência, a submeter a julgamento do Tribunal de Contas, caso as importâncias em dívida não tenham sido satisfeitas no decurso da mesma gerência, pelo seu autor material, através dos serviços processadores do abono para falhas e prémio de cobrança ou pelo Fundo de Cauções, conter os seguintes documentos, de modo a habilitar o Tribunal a proferir acórdão de quitação em relação ao tesoureiro gerente e acórdão de condenação em relação ao autor material do alcance que seja funcionário da tesouraria, ou acórdão de condenação solidária do tesoureiro gerente e do autor material do alcance que seja funcionário da tesouraria:
 
-a) Recibo de operações de tesouraria, modelo F. P. 60, processado pelo respectivo tesoureiro gerente a seu favor, sob a rubrica «Alcances», no qual se individualiza o autor material do alcance e o montante das importâncias em dívida, e que se destina a servir de crédito à conta de gerência daquele tesoureiro;
+a) (Revogada.)
 
 b) Um dos exemplares dos autos de ocorrência, previstos no artigo 67.º deste decreto-lei, que ao caso couber;
 
@@ -844,7 +835,7 @@ b) Levantar os autos de ocorrência, previstos no artigo 67.º do presente decre
 
 5 - Sempre que em alguma caixa sejam apuradas diferenças para mais, o funcionário investido no serviço de caixa deverá depositar a importância sobrante, em rubrica especial de «Operações de tesouraria», à ordem do tesoureiro gerente, devendo tal facto constar do termo de apuramento de contas diárias.
 
-6 - As importâncias não reclamadas no prazo de um ano reverterão a favor do Fundo de Cauções.
+6 - (Revogado.)
 
 ###### Artigo 67.º — (Entrada nos cofres do Tesouro das quantias em dívida provenientes de alcances)
 

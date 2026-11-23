@@ -53,7 +53,8 @@ version_history:
     changes: []
   - date: '2006-01-01'
     amending: pt:dre:666745:por
-    amending_title: Decreto-Lei n.º 364/93; Lei n.º 44/96; Decreto-Lei n.º 150/97; Decreto-Lei n.º 229/2005; Declaração
+    amending_title: Decreto-Lei n.º 364/93; Lei n.º 44/96; Decreto-Lei n.º 150/97; Decreto-Lei n.º 229/2005; Declaração; Decreto-Lei
+      n.º 270/90
     changes:
     - Revoga Artigo 42.º
     - Revoga Artigo 189.º
@@ -123,7 +124,9 @@ provenance:
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 364/93; Lei n.º 44/96;
     Decreto-Lei n.º 150/97; Decreto-Lei n.º 229/2005. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1987/decreto-lei-376-87.alteracoes.json.
     Retificações aplicadas com um LLM, na ronda r2, e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração.
-    Retificações aplicadas com um LLM, na ronda r4, e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração.'
+    Retificações aplicadas com um LLM, na ronda r4, e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração.
+    Revogações registadas só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Decreto-Lei
+    n.º 270/90.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -1210,7 +1213,9 @@ d) Outros departamentos ministeriais.
 
 4 - As comissões de serviço em departamento estranho ao Ministério da Justiça só podem ser renovadas uma vez, tendo os funcionários direito a optar entre as remunerações que competem aos seus cargos judiciários ou às correspondentes aos cargos efectivamente exercidos, as quais serão suportadas pela entidade onde prestam funções.
 
-5 - Os oficiais de justiça em comissão de serviço no Ministério da Justiça, Conselho Superior da Magistratura ou Procuradoria-Geral da República auferem vencimento correspondente à categoria imediatamente superior.
+5 - (Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 270/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-1990-556837), publicado em 1990-09-03, com efeitos a partir de 1989-10-01.
 
 ###### Artigo 64.º — Requisições
 
@@ -1420,15 +1425,7 @@ e) Pertencer às comissões concelhias de arrendamento rural.
 
 ###### Artigo 83.º — Participação em custas
 
-1 - Os oficiais de justiça e os secretários de tribunal superior têm direito à participação em custas correspondente a 40% do respectivo vencimento de categoria, a qual constitui o vencimento de exercício.
-
-2 - Os oficiais de justiça de nomeação provisória têm direito à participação em custas correspondente a 35% do respectivo vencimento de categoria, a qual constitui o vencimento de exercício.
-
-3 - Os secretários judiciais dos tribunais superiores e os secretários-gerais têm direito ao vencimento correspondente ao cargo de secretário de tribunal superior.
-
-4 - O restante pessoal tem direito a participação emolumentar, nos moldes e quantitativos fixados para o pessoal das categorias correspondentes dos quadros de pessoal do Ministério da Justiça.
-
-5 - O Ministério da Justiça pode determinar que seja atribuído o subsídio de fixação aos funcionários que exerçam funções em comarcas da periferia e aí não disponham de casa própria.
+(Revogado.)
 
 ###### Artigo 84.º — Despesas de deslocação
 
@@ -2238,7 +2235,7 @@ Os cursos são regulamentados por despacho do Ministro da Justiça, com observâ
 
 4 - Nos restantes casos previstos no n.º 1, a admissão faz-se sem prazo certo e cessa o termo da situação específica que o determinou, podendo ainda ser feita cessar a todo o tempo e sem obrigação de indemnizar pela Direcção-Geral dos Serviços Judiciários.
 
-5 - Os eventuais auferem o vencimento de categoria estabelecido para escriturários judiciais provisórios.
+5 - (Revogado.)
 
 6 - Os eventuais estão sujeitos aos deveres e direitos gerais e incompatibilidades dos funcionários de justiça, sendo-lhes contado o tempo de serviço prestado, quando devidamente regularizado, nos casos em que não decorra um período de tempo superior a 60 dias, reportado à data do despacho de nomeação, entre a cessação da eventualidade e aquela data.
 

@@ -58,48 +58,80 @@
      "title": "Decreto-Lei n.º 34/2004",
      "published": "2004-02-19",
      "dre_path": "/dr/detalhe/decreto-lei/34-2004-570303"
+    },
+    {
+     "id": "pt:dre:654681:por",
+     "title": "Decreto-Lei n.º 186/2003",
+     "published": "2003-08-20",
+     "dre_path": "/dr/detalhe/decreto-lei/186-2003-654681"
     }
    ],
    "changes": [
-    "Revoga Artigo 1.º"
+    "Revoga Artigo 1.º",
+    "Revoga Artigo 3",
+    "Revoga Artigo 4",
+    "Revoga Artigo 5",
+    "Revoga Artigo 6",
+    "Revoga Artigo 7",
+    "Revoga Artigo 8",
+    "Revoga anexo ou texto fora do articulado",
+    "Revoga Artigo 11",
+    "Revoga Artigo 12",
+    "Revoga Artigo 13",
+    "Revoga Artigo 14",
+    "Revoga Artigo 15",
+    "Revoga Artigo 16",
+    "Revoga Artigo 17",
+    "Revoga Artigo 18",
+    "Revoga Artigo 19",
+    "Revoga Artigo 20",
+    "Revoga Artigo 21",
+    "Revoga Artigo 22",
+    "Revoga Artigo 23",
+    "Revoga Artigo 24",
+    "Revoga Artigo 25",
+    "Revoga Artigo 26",
+    "Revoga Artigo 27",
+    "Revoga Artigo 28",
+    "Revoga Artigo 29"
    ],
    "fragments": [
     "8c619424a86d9467",
     "7342f7b1dcac3873",
     "c474925da9ad6fff",
     "0e701598a522bc28",
-    "54cef21042047ed0",
-    "a332042659b3e818",
-    "6229c30fa51914e0",
-    "df0443eb514a0ee8",
-    "0ca40eb82f474160",
-    "a2937d9c50256c27",
+    "412defaa17f3cea9",
+    "97ed1a73fbc42246",
+    "445ee3f7e9ba77a4",
+    "730905bdacb35565",
+    "008db95695b10e45",
+    "50e7f8114939ee1a",
     "d420ac96e3060eef",
-    "219416732cc70762",
+    "38211af879b5be56",
     "8b675f1819448727",
-    "ef7a00b147641ef0",
-    "81632121b1878620",
-    "76ab4738d11603c3",
-    "3965890308c816db",
-    "0c1a2a470e4dfd5d",
-    "939d8675cc7f9f23",
-    "0d020bbbb6d4acac",
-    "b4bfa1745f98b4d5",
-    "c208ae7c0bb6ef9e",
-    "17629c8480ee48da",
+    "406f8bb37e547836",
+    "1c5dd59c6e966ba3",
+    "ba576f900a12492c",
+    "b9883d786907134e",
+    "48e1b46fa448583a",
+    "478051d0585dcff9",
+    "c3b7ec04fc22ddef",
+    "63e9a7544c3bc3e1",
+    "bb89e2ca238d0c09",
+    "b1fe9436462f6f51",
     "d55f0b5b15103b0d",
-    "50565c4a3fa6d400",
-    "ffd675164af3b92b",
-    "2e5cefe840d49bf3",
-    "3dbaf7426e276253",
-    "9ae3c067d410a464",
+    "69ccbab24a4929e9",
+    "58b1ebdba50da8ef",
+    "7bd055a850089d22",
+    "7b8ccd2822b3aeaf",
+    "fcad3cd197e5be49",
     "0ee6092e66af2ba3",
-    "4de035241f85967f",
-    "4ec3a1b27a63e3dd",
+    "3ae309b973d2b525",
+    "5aa0f0e7a79ec3c7",
     "260a9f4ecd4b5740",
-    "f866f8e9c7d76bba",
-    "60fbead269514d4a",
-    "fb03eb30b1215eb6"
+    "050dfd2e843008d2",
+    "0b09e32aa9782afd",
+    "7f65489845e64ac3"
    ]
   }
  ],
@@ -401,6 +433,224 @@
     "Revogado pelo/a Artigo 25.º do/a [Decreto-Lei n.º 34/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-2004-570303), publicado em 2004-02-19."
    ],
    "markdown": "###### Artigo 1.º — Natureza\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 25.º do/a [Decreto-Lei n.º 34/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-2004-570303), publicado em 2004-02-19."
+  },
+  "412defaa17f3cea9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Estrutura geral",
+   "in_force_from": "2004-02-20",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 186/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2003-654681), publicado em 2003-08-20, com efeitos a partir de 2003-08-21."
+   ],
+   "markdown": "###### Artigo 3.º — Estrutura geral\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 186/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2003-654681), publicado em 2003-08-20, com efeitos a partir de 2003-08-21."
+  },
+  "97ed1a73fbc42246": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Director-geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Director-geral\n\n(Revogado.)"
+  },
+  "445ee3f7e9ba77a4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Conselho administrativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Conselho administrativo\n\n(Revogado.)"
+  },
+  "730905bdacb35565": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Competências do conselho administrativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Competências do conselho administrativo\n\n(Revogado.)"
+  },
+  "008db95695b10e45": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Funcionamento do conselho administrativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Funcionamento do conselho administrativo\n\n(Revogado.)"
+  },
+  "50e7f8114939ee1a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Direcção de Serviços de Gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Direcção de Serviços de Gestão\n\n(Revogado.)"
+  },
+  "38211af879b5be56": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Divisão de Apoio Técnico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Divisão de Apoio Técnico\n\n(Revogado.)"
+  },
+  "406f8bb37e547836": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Divisão de Informática",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Divisão de Informática\n\n(Revogado.)"
+  },
+  "1c5dd59c6e966ba3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Repartição de Orçamento e Património",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Repartição de Orçamento e Património\n\n(Revogado.)"
+  },
+  "ba576f900a12492c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Repartição de Pessoal e Expediente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Repartição de Pessoal e Expediente\n\n(Revogado.)"
+  },
+  "b9883d786907134e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Direcção de Serviços de Competitividade Industrial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Direcção de Serviços de Competitividade Industrial\n\n(Revogado.)"
+  },
+  "48e1b46fa448583a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Direcção de Serviços de Estudos e Avaliação da Actividade Industrial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Direcção de Serviços de Estudos e Avaliação da Actividade Industrial\n\n(Revogado.)"
+  },
+  "478051d0585dcff9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Direcção de Serviços de Modernização Industrial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Direcção de Serviços de Modernização Industrial\n\n(Revogado.)"
+  },
+  "c3b7ec04fc22ddef": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Direcção de Serviços de Novas Tecnologias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Direcção de Serviços de Novas Tecnologias\n\n(Revogado.)"
+  },
+  "63e9a7544c3bc3e1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Direcção de Serviços de Ambiente, Segurança Industrial e Indústrias e Serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Direcção de Serviços de Ambiente, Segurança Industrial e Indústrias e Serviços\n\n(Revogado.)"
+  },
+  "bb89e2ca238d0c09": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Gabinete de Informação, Promoção e Relações Externas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Gabinete de Informação, Promoção e Relações Externas\n\n(Revogado.)"
+  },
+  "b1fe9436462f6f51": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Serviços operativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Serviços operativos\n\n(Revogado.)"
+  },
+  "69ccbab24a4929e9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Funcionamento\n\n(Revogado.)"
+  },
+  "58b1ebdba50da8ef": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Instrumentos de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Instrumentos de gestão\n\n(Revogado.)"
+  },
+  "7bd055a850089d22": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Colaboração com outras entidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Colaboração com outras entidades\n\n(Revogado.)"
+  },
+  "7b8ccd2822b3aeaf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Venda de publicações e prestação de serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Venda de publicações e prestação de serviços\n\n(Revogado.)"
+  },
+  "fcad3cd197e5be49": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Receitas\n\n(Revogado.)"
+  },
+  "3ae309b973d2b525": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Quadro e regime de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Quadro e regime de pessoal\n\n(Revogado.)"
+  },
+  "5aa0f0e7a79ec3c7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — Formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Formação\n\n(Revogado.)"
+  },
+  "050dfd2e843008d2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º — Transição de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Transição de pessoal\n\n(Revogado.)"
+  },
+  "0b09e32aa9782afd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º — Cessação das comissões de serviço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Cessação das comissões de serviço\n\n(Revogado.)"
+  },
+  "7f65489845e64ac3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º — Validade dos concursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Validade dos concursos\n\n(Revogado.)\n\nPresidência do Conselho de Ministros, 4 de Janeiro de 1993.\n\nAníbal António Cavaco Silva - Jorge Braga de Macedo - Luís Fernando Mira Amaral.\n\nPromulgado em 9 de Março de 1993.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 10 de Março de 1993.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
   }
  }
 }

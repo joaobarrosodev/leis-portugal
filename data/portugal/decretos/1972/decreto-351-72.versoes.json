@@ -45,6 +45,12 @@
      "title": "Decreto-Lei n.º 210/87",
      "published": "1987-05-20",
      "dre_path": "/dr/detalhe/decreto-lei/210-1987-421588"
+    },
+    {
+     "id": "pt:dre:405702:por",
+     "title": "Decreto-Lei n.º 74-C/84",
+     "published": "1984-03-02",
+     "dre_path": "/dr/detalhe/decreto-lei/74-c-1984-405702"
     }
    ],
    "changes": [
@@ -87,7 +93,37 @@
     "Revoga Artigo 19",
     "Revoga Artigo 20",
     "Revoga Artigo 21",
-    "Revoga Artigo 22"
+    "Revoga Artigo 22",
+    "Revoga Artigo 39",
+    "Revoga Artigo 40",
+    "Revoga Artigo 41",
+    "Revoga Artigo 42",
+    "Revoga Artigo 43",
+    "Revoga Artigo 44",
+    "Revoga Artigo 45",
+    "Revoga Artigo 46",
+    "Revoga Artigo 47",
+    "Revoga Artigo 48",
+    "Revoga Artigo 49",
+    "Revoga Artigo 50",
+    "Revoga Artigo 51",
+    "Revoga Artigo 52",
+    "Revoga Artigo 53",
+    "Revoga Artigo 54",
+    "Revoga Artigo 55",
+    "Revoga Artigo 56",
+    "Revoga Artigo 57",
+    "Revoga Artigo 58",
+    "Revoga Artigo 59",
+    "Revoga Artigo 61",
+    "Revoga Artigo 62",
+    "Revoga Artigo 63",
+    "Revoga Artigo 64",
+    "Revoga Artigo 65",
+    "Revoga Artigo 66",
+    "Revoga Artigo 67",
+    "Revoga Artigo 68",
+    "Revoga Artigo 114"
    ],
    "fragments": [
     "7263a2cb1077212e",
@@ -136,36 +172,36 @@
     "9dbe40941c8804bb",
     "e67e1931789a248a",
     "c9ca90e141ca095b",
-    "26d67c0b18604e90",
-    "7d8e7890d3925628",
-    "163a98223f81cfcf",
-    "3650c5d80c8f62ee",
-    "a593217ee860ca34",
-    "5aafe92e5c29e3d5",
-    "5b3068ff8f054166",
-    "e1f42c7da50512d0",
-    "c22ba67cd761c0ff",
-    "6e5a73d4738e5843",
-    "8f2f498a52ad23ee",
-    "9369be897a792ae6",
-    "52ec1ab7bde2fb7b",
-    "c714fe9b4828b43b",
-    "02d5ceec684e53d8",
-    "2159d495ea522078",
-    "4a8ef1a3a9a14931",
-    "c2e3f89b62214de5",
-    "fe38ad05938f92ca",
-    "ffbb2e2a617115b7",
-    "d354c566b7af73bd",
+    "3d6cae1ee4ab02a8",
+    "7b15f2167c9427c3",
+    "a62b06bd6d7bebe9",
+    "c79f53909ae59d0c",
+    "104e4f76bba49a7a",
+    "be3798e1fdba4c97",
+    "cf99cbde2aef1e05",
+    "2ada80230b894564",
+    "fc50657e059676f5",
+    "0d74c42b76155364",
+    "4016970a3c170cf5",
+    "62a115ed0193ab38",
+    "75ea3c72fe55d102",
+    "f7b75d0c43ea145e",
+    "85e2c25c66fde3c5",
+    "e890cbe9bf502994",
+    "ea507fc97dbe8994",
+    "564a42a269176b44",
+    "040497d8cc70f93a",
+    "9241f35b340129e8",
+    "032215ad227be254",
     "26de39d81dab24bb",
-    "20c2f86c7dd1b336",
-    "871ce2d40f91dfb8",
-    "f9fad4a3ef419014",
-    "6133cdf9b7926994",
-    "d53055528b85a413",
-    "6525373e7451dced",
-    "6fc6568ae97fdfd5",
-    "686a19ec055f5cae",
+    "e3a5a15ee9a386c4",
+    "4459a136315da6e8",
+    "54e727f6e511a8e6",
+    "b62db1f84fbfe9e5",
+    "601bd0bd8c04dea4",
+    "920ce9ac0f99904d",
+    "3d95a91eb95bb09b",
+    "8745cfd1fb471d43",
     "76192d91c9b97c01",
     "af51c94bfbdde969",
     "3f33dc984bf7e5a4",
@@ -215,7 +251,7 @@
     "67e7f9dd7b179d56",
     "1e26633146c82f1e",
     "a6f6314639baf8bc",
-    "48f7fb67f35a9223",
+    "2ea54b9eb0fd20c6",
     "fb9d02e2a9334382"
    ]
   }
@@ -673,173 +709,175 @@
    "changed_by": [],
    "markdown": "#### SECÇÃO IV — Da Direcção-Geral de Saúde"
   },
-  "26d67c0b18604e90": {
+  "3d6cae1ee4ab02a8": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 39.º",
-   "in_force_from": null,
-   "changed_by": [],
-   "markdown": "###### Artigo 39.º\n\n1. À Direcção-Geral de Saúde compete, em geral, orientar e coordenar as actividades de promoção da saúde e prevenção da doença, cabendo-lhe, designadamente:\n\na) Cooperar com o Gabinete de Estudos e Planeamento na elaboração e avaliação dos planos de saúde e dos respectivos programas e na expansão e melhoria das carreiras profissionais de saúde pública;\n\nb) Colaborar com a Escola Nacional de Saúde Pública e de Medicina Tropical e com o Instituto Nacional de Saúde na organização e realização de cursos de formação e aperfeiçoamento do pessoal sanitário;\n\nc) Orientar e coordenar a acção dos serviços, institutos, estabelecimentos ou instituições dependentes do Ministério da Saúde e Assistência, que intervêm na promoção da saúde e na prevenção da doença;\n\nd) Prestar aos serviços dependentes de outros Ministérios a colaboração necessária ao bom desempenho das funções de saúde pública que lhes incumbem por lei;\n\ne) Orientar e coordenar tècnicamente as actividades de saúde pública das instituições de previdência e das entidades privadas;\n\nf) Exercer acção idêntica relativamente às actividades de saúde pública das autarquias locais, nomeadamente orientando e inspeccionando os serviços a cargo dos médicos municipais e exercendo sobre eles acção disciplinar, sem prejuízo da competência das respectivas câmaras municipais.\n\n2. A competência da Direcção-Geral de Saúde abrange designadamente:\n\na) O saneamento do ambiente;\n\nb) A higiene da habitação, dos estabelecimentos comerciais e industriais, dos locais de trabalho, dos lugares públicos, das instalações e dos transportes de utilização colectiva;\n\nc) A higiene da alimentação e o contrôle das substâncias utilizáveis na preparação e conservação dos alimentos;\n\nd) A higiene dos estabelecimentos de águas mineromedicinais e de mesa, de balneoterapia e de fisioterapia;\n\ne) A luta contra as doenças transmissíveis e as crónico-degenerativas e a prevenção dos acidentes e das malformações evitáveis;\n\nf) A defesa da saúde materno-infantil, da saúde escolar e da saúde mental da população;\n\ng) A higiene e a medicina do trabalho;\n\nh) A cobertura médico-sanitária do País com vista à prestação de cuidados médicos de base às populações;\n\ni) A vigilância do exercício da medicina, da farmácia, da enfermagem e das profissões paramédicas e auxiliares, bem como da produção e comércio de medicamentos e de outros produtos das indústrias farmacêuticas e similares;\n\nj) A educação sanitária da população.\n\n3. No exercício da competência mencionada na alínea e) do número anterior, a Direcção-Geral de Saúde pode autorizar, com dispensa das formalidades consignadas no [Decreto n.º 19331](https://diariodarepublica.pt/dr/detalhe/decreto/19331-1931-210661), de 6 de Fevereiro de 1931, a importação de medicamentos, vacinas e outros produtos destinados a serem utilizados nos serviços de saúde e assistência do Estado.\n\n4. No exercício da competência mencionada na alínea h) do n.º 2, cabe especialmente à Direcção-Geral de Saúde:\n\na) Colaborar com a Direcção-Geral das Construções Hospitalares na elaboração dos planos gerais de construção, adaptação e equipamento dos hospitais concelhios, tendo em vista a sua articulação com os centros de saúde;\n\nb) Orientar técnica e administrativamente, em colaboração com a Direcção-Geral dos Hospitais, o apetrechamento e o funcionamento dos hospitais concelhios;\n\nc) Estudar e propor os planos de actividades dos ditos hospitais, promover, orientar e fiscalizar a sua execução e coordená-los com os planos de actividades dos centros de saúde, bem como declarar a idoneidade daquelas unidades hospitalares e interditar o seu funcionamento, total ou parcial, quando não obedeçam às convenientes condições técnicas ou administrativas.\n\n5. Compete, ainda, à Direcção-Geral de Saúde cumprir e fazer cumprir as convenções, acordos e regulamentos sanitários internacionais.\n\n6. Em casos de epidemia ou em situações sanitárias graves, cabe à Direcção-Geral de Saúde promover e coordenar a mobilização de todos os meios disponíveis e superintender na sua utilização, independentemente dos serviços a que pertençam em circunstâncias normais."
+   "in_force_from": "1993-10-06",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 74-C/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-c-1984-405702), publicado em 1984-03-02, com efeitos a partir de 1984-04-01."
+   ],
+   "markdown": "###### Artigo 39.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 74-C/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-c-1984-405702), publicado em 1984-03-02, com efeitos a partir de 1984-04-01."
   },
-  "7d8e7890d3925628": {
+  "7b15f2167c9427c3": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 40.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 40.º\n\n1. O director-geral, coadjuvado pelo inspector superior ou inspector de saúde que para tal for designado por despacho ministerial, superintende em todos os serviços da Direcção-Geral, submete a despacho os assuntos que careçam de resolução superior e exerce o poder disciplinar e a competência ministerial que lhe for delegada, nos termos da lei geral.\n\n2. O director-geral pode, quando autorizado, subdelegar a competência que lhe for delegada a delegar a sua própria competência, nos termos da lei geral, no inspector superior ou inspector de saúde que o coadjuvar, e ainda nos inspectores superiores, inspectores de saúde, directores de serviços, directores de saúde, chefe de repartição e inspectores técnicos quanto às funções específicas dos respectivos serviços.\n\n3. Nas suas faltas e impedimentos, o director-geral é substituído pelo inspector superior ou inspector de saúde que o coadjuvar e, na falta deste, pelo mais antigo ou por outro que ele próprio indicar."
+   "markdown": "###### Artigo 40.º\n\n(Revogado.)"
   },
-  "163a98223f81cfcf": {
+  "a62b06bd6d7bebe9": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 41.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 41.º\n\nCom vista à informação geral e para uniformidade de actuação, haverá um conselho interno, constituído pelo director-geral, que preside, e pelos inspectores superiores, inspectores de saúde, chefe de repartição e demais funcionários convocados pelo director-geral."
+   "markdown": "###### Artigo 41.º\n\n(Revogado.)"
   },
-  "3650c5d80c8f62ee": {
+  "c79f53909ae59d0c": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 42.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 42.º\n\n1. A Direcção-Geral de Saúde compreende os seguintes serviços:\n\na) Inspecção Superior de Salubridade;\n\nb) Inspecção Superior de Medicina Social;\n\nc) Inspecção Superior do Exercício Profissional;\n\nd) Serviço de Educação Sanitária;\n\ne) Repartição de Serviços Administrativos;\n\nf) Parque Sanitário.\n\n2. As inspecções superiores compreendem direcções de serviços e inspecções técnicas; estas, bem como o Serviço de Educação Sanitária, são dirigidas por funcionários de categoria não inferior à de técnico de 1.ª classe.\n\n3. Compete a cada inspector superior coordenar a acção das direcções de serviços e das inspecções técnicas, por forma a assegurar a maior eficiência dos serviços.\n\n4. As funções que incumbem à Direcção-Geral de Saúde serão executadas quer directamente quer por intermédio dos órgãos e serviços locais, neste último caso sob a orientação e, sempre que necessário, com o apoio técnico e administrativo dos serviços centrais."
+   "markdown": "###### Artigo 42.º\n\n(Revogado.)"
   },
-  "a593217ee860ca34": {
+  "104e4f76bba49a7a": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 43.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 43.º\n\n1. Um dos inspectores superiores será incumbido da gestão financeira da Direcção-Geral, para o que lhe será prestado pelos diferentes serviços o apoio técnico que for necessário.\n\n2. Ao referido inspector superior incumbirá, designadamente, orientar a realização de estudos relacionados com a gestão económico-financeira dos serviços, estabelecer padrões de organização interna do funcionamento administrativo e orientar a preparação do orçamento da Direcção-Geral."
+   "markdown": "###### Artigo 43.º\n\n(Revogado.)"
   },
-  "5aafe92e5c29e3d5": {
+  "be3798e1fdba4c97": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 44.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 44.º\n\nA Inspecção Superior de Salubridade ocupa-se, em geral, da promoção das condições de higiene do ambiente, abrangendo designadamente:\n\na) A higiene da habitação;\n\nb) A higiene das construções e instalações industriais e comerciais;\n\nc) A higiene dos lugares públicos e dos transportes colectivos;\n\nd) A prevenção e luta contra a poluição do ar, das águas e do solo;\n\ne) O controlo dos reservatórios a vectores de agentes patogénicos;\n\nf) A higiene dos alimentos e o controlo das substâncias utilizáveis na sua preparação e conservação;\n\ng) A higiene e salubridade dos locais de trabalho;\n\nh) A higiene das instalações de balneoterapia e fisioterapia e bem assim dos estabelecimentos destinados à exploração de águas mineromedicinais e de mesa."
+   "markdown": "###### Artigo 44.º\n\n(Revogado.)"
   },
-  "5b3068ff8f054166": {
+  "cf99cbde2aef1e05": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 45.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 45.º\n\nA Inspecção Superior de Salubridade compreende os seguintes serviços:\n\na) Direcção de Serviços de Engenharia Sanitária;\n\nb) Direcção de Serviços de Higiene da Alimentação;\n\nc) Direcção de Serviços de Higiene e Medicina do Trabalho;\n\nd) Inspecção Técnica de Hidroterapia a Fisioterapia."
+   "markdown": "###### Artigo 45.º\n\n(Revogado.)"
   },
-  "e1f42c7da50512d0": {
+  "2ada80230b894564": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 46.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 46.º\n\n1. Compete à Direcção de Serviços de Engenharia Sanitária:\n\na) Promover a realização de inquéritos, de âmbito nacional ou local, sobre as condições de salubridade do ambiente do homem, designadamente sobre higiene da habitação, distribuição de água potável às populações, drenagem e tratamento de águas residuais e remoção e tratamento de lixos, e proceder aos respectivos apuramentos estatísticos, em colaboração com o Instituto Nacional de Estatística, o Ministério das Obras Públicas e as autarquias locais;\n\nb) Promover e efectuar a colheita de elementos para estudos epidemiológico-estatísticos sobre a influência dos factores nocivos do ambiente na saúde dos indivíduos;\n\nc) Propor ou realizar campanhas-piloto do saneamento do ambiente e avaliar os seus resultados;\n\nd) Exercer, com o apoio laboratorial do Instituto Nacional de Saúde, a vigilância das águas de consumo público, e promover, quando necessário, a sua correcção físico-química e bacteriológica, propondo a adopção das medidas adequadas à protecção sanitária de nascentes, captações, condutas, instalações de tratamento, depósitos e redes de distribuições;\n\ne) Pronunciar-se, no aspecto sanitário, sobre os projectos de captação, tratamento e distribuição de águas de consumo público;\n\nf) Exercer, com o apoio laboratorial do Instituto Nacional de Saúde, a fiscalização sanitária das águas residuais, domésticas e industriais, e promover a sua depuração, indicando as condições a que deve obedecer o efluente tratado;\n\ng) Pronunciar-se, no aspecto sanitário, sobre os projectos de drenagem e depuração das águas residuais, domésticas e industriais, bem como sobre os relativos às instalações de depósito e tratamento de lixos, fiscalizando o seu funcionamento;\n\nh) Propor medidas de prevenção e luta contra a poluição do solo e das águas, quer contra contaminação biológica por dejectos e outras imundícies, quer contra a poluição química originada pelos detritos e águas residuais das indústrias e pela utilização de insecticidas, herbicidas e outros pesticidas, fertilizantes e detergentes;\n\ni) Proceder, com o apoio laboratorial do Instituto Nacional de Saúde e demais departamentos oficiais competentes, a estudos sobre a poluição das águas dos rios, dos estuários e do mar, e à execução do cadastro das fontes poluidoras;\n\nj) Propor a adopção de medidas de prevenção e luta contra a poluição atmosférica;\n\nk) Proceder, em ligação com a Instituto Nacional de Saúde a demais departamentos oficiais competentes, a estudos de detecção e medição de poluentes do ar e dos seus efeitos na saúde do homem, e à execução do cadastro das fontes poluidoras;\n\nl) Cooperar com a Laboratório de Física e Engenharia Nucleares na organização do cadastro das fontes de radiações ionizantes e na vigilância dos locais em que se encontram instaladas, com vista à protecção dos trabalhadores e do público, propondo medidas adequadas de prevenção e luta;\n\nm) Proceder, em colaboração com o Instituto Nacional de Saúde, a estudos sobre ruídos e vibrações e propor as medidas adequadas de prevenção e luta;\n\nn) Pronunciar-se, no aspecto sanitário, sobre os projectos de construção ou remodelação de balneários, piscinas, parques de campismo e turismo, colónias de férias, estâncias de recreio e de repouso, estabelecimentos hoteleiros e similares, e intervir no seu licenciamento e vigilância;\n\no) Pronunciar-se, no aspecto sanitário, sobre os projectos de construção, ampliação ou remodelação de mercados e feiras e de cemitérios;\n\np) Estudar e propor modelos de posturas e de regulamentos sanitários municipais, e, quando se mostrar conveniente, a revisão e actualização dos modelos existentes;\n\nq) Dar parecer, para efeitos de aprovação pelo Ministro, sobre os projectos de posturas e regulamentos sanitários elaborados pelas câmaras municipais e organizar os respectivos processos;\n\nr) Estudar e propor regulamentos sobre as condições sanitárias a observar na instalação e exploração dos estabelecimentos sujeitos a licenciamento por alvará municipal e fiscalizar o seu cumprimento;\n\ns) Elaborar, em colaboração com os demais departamentos oficiais competentes, normas de salubridade das habitações, das instalações industriais e comerciais e dos recintos de espectáculos e de outras instalações de utilização pública, e fiscalizar a sua observância;\n\nt) Fiscalizar as condições de instalação e laboração dos estabelecimentos industriais nos aspectos relacionados com a preservação do ambiente exterior;\n\nu) Elaborar, em colaboração com os demais departamentos oficiais competentes, normas de salubridade dos transportes colectivos e fiscalizar a sua observância;\n\nv) Providenciar quanto ao controlo de reservatórios e vectores de agentes patogénicos, realizando as vistorias e as prospecções necessárias a esse controlo e fazendo executar as convenientes medidas de desinfestação.\n\n2. Enquanto não forem organizados na Direcção de Serviços de Engenharia Sanitária os serviços de luta contra vectores, a competência mencionada na alínea v) do número anterior continuará a ser exercida pelos Serviços de Higiene Rural e Defesa Anti-Sezonática, que mantêm, entretanto, a sua autonomia."
+   "markdown": "###### Artigo 46.º\n\n(Revogado.)"
   },
-  "c22ba67cd761c0ff": {
+  "fc50657e059676f5": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 47.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 47.º\n\nCompete à Direcção de Serviços de Higiene da Alimentação:\n\na) Promover, em colaboração com a Instituto Nacional de Saúde, a realização de estudos, de âmbito nacional ou local, sobre a alimentação e estado de nutrição da população em geral e dos diversos grupos etários, sócio-económicos e profissionais;\n\nb) Colaborar com os serviços competentes na realização de estudos destinados a avaliar as disponibilidades e possibilidades alimentares do País;\n\nc) Proceder, em colaboração com o Instituto Nacional de Saúde, a estudos sobre a composição e o valor nutritivo dos alimentos, incluindo os de conserva e dietéticos;\n\nd) Promover, em ligação com os serviços competentes, as medidas necessárias à melhoria das condições alimentares da população em geral ou de qualquer dos seus estratos, proporcionando, inclusivamente, os conselhos dietéticos que lhe forem solicitados por estabelecimentos públicos ou particulares que preparem ou forneçam refeições colectivas;\n\ne) Colaborar com o Instituto Nacional de Saúde na normalização de técnicas de análise bromatológica;\n\nf) Colaborar com a Direcção de Serviços de Engenharia Sanitária na definição das condições a que devem obedecer os matadouros ou lotas, de entidades públicas ou privadas, e participar na fiscalização do seu funcionamento;\n\ng) Estabelecer, em colaboração com os demais serviços competentes, as condições de recolha, transporte, transformação e venda de produtos alimentares;\n\nh) Pronunciar-se, do ponto de vista sanitário, sobre as instalações industriais destinadas à produção de alimentos de conserva, dietéticos ou de regime, de alimentos concentrados, modificados e compostos, e intervir na fiscalização do seu funcionamento e da qualidade dos produtos alimentares nelas preparados;\n\ni) Fiscalizar a importação e comércio dos alimentos dietéticos e dos alimentos concentrados, modificados ou compostos;\n\nj) Estabelecer as condições de higiene dos estabelecimentos e locais de armazenagem, exposição e venda de géneros alimentícios, e fiscalizar a sua observância;\n\nk) Colaborar na definição e divulgação dos requisitos necessários à conservação pelo frio dos vários géneros alimentícios;\n\nl) Fixar as condições a que devem obedecer as embalagens de produtos alimentares, não só quanto à natureza do material, mas também quanto à etiquetagem e propaganda, e fiscalizar o seu cumprimento;\n\nm) Fiscalizar as condições de higiene das instalações ande se confeccionem e forneçam refeições ao público em geral ou a quaisquer colectividades;\n\nn) Colaborar com os Serviços Pecuários no estudo qualitativo das rações de animais destinados à alimentação do homem;\n\no) Exercer, com a apoio laboratorial do Instituto Nacional de Saúde, o controlo das substâncias utilizáveis na preparação e conservação dos alimentos e bem assim de todos os produtos que possam contaminá-los."
+   "markdown": "###### Artigo 47.º\n\n(Revogado.)"
   },
-  "6e5a73d4738e5843": {
+  "0d74c42b76155364": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 48.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 48.º\n\nCompete à Direcção de Serviços de Higiene e Medicina do Trabalho:\n\na) Estudar e propor, em colaboração com os demais serviços competentes, as normas de higiene, salubridade e segurança dos locais de trabalho, e fiscalizar a sua observância;\n\nb) Intervir, em ligação com os demais serviços competentes, no licenciamento dos estabelecimentos industriais, e fiscalizar as condições da sua instalação e laboração, nas aspectos relacionadas com a higiene, segurança e saúde dos trabalhadores e da população;\n\nc) Promover a colheita de amostras de matérias-primas e de outros produtos para os estudos necessários à defesa da saúde dos trabalhadores e da população;\n\nd) Inspeccionar periòdicamente os estabelecimentos industriais e comerciais, a fim de verificar as condições de trabalho, e promover as correcções convenientes;\n\ne) Determinar a suspensão da laboração e o encerramento total ou parcial das instalações, quando do seu funcionamento possa resultar grave risco para a saúde ou segurança dos trabalhadores ou da população;\n\nf) Colaborar com a Direcção de Serviços de Profilaxia na fixação dos períodos de afastamento dos locais de trabalho das pessoas afectadas de doença contagiosa;\n\ng) Determinar o afastamento dos locais de trabalho das pessoas afectadas de doença contagiosa enquanto as circunstâncias o justifiquem;\n\nh) Dar parecer, nos aspectos médico-sanitários, quando solicitado pelas entidades oficiais competentes, sobre os períodos de trabalho diurno e nocturno, especialmente das mulheres e dos menores, e, ainda, sobre as suas limitações diárias e semanais, tempos de folga e de férias;\n\ni) Proceder à revisão e divulgação dos regulamentos de medicina do trabalho e velar pela sua observância;\n\nj) Inspeccionar periòdicamente os serviços de medicina do trabalho das empresas, promovendo a correcção das deficiências encontradas e fornecendo-lhes o apoio técnico de que careçam;\n\nk) Promover a observação médica anual dos trabalhadores com menos de 18 anos de idade e, com a periodicidade julgada conveniente, de todos os outros empregados em trabalhos susceptíveis de provocarem doenças profissionais;\n\nl) Estudar, em cooperação com os demais serviços competentes, as condições de aptidão física para o exercício das diferentes profissões;\n\nm) Regulamentar, orientar e fiscalizar, nos termos da legislação aplicável, as inspecções médico-sanitárias de aptidão para a condução de veículos automóveis;\n\nn) Organizar e propor, em colaboração com as demais entidades competentes, a tabela das doenças profissionais de notificação obrigatória;\n\no) Promover e realizar inquéritos sobre doenças profissionais e acidentes de trabalho e fornecer às entidades interessadas a colaboração que solicitem para a sua prevenção;\n\np) Estabelecer, em colaboração com os demais serviços competentes, as normas gerais a executar nas empresas para a prevenção das doenças profissionais e dos acidentes de trabalho, e fiscalizar a sua observância;\n\nq) Colaborar com o Serviço de Educação Sanitária e com as demais entidades competentes, na elaboração e divulgação de instruções respeitantes à prevenção das doenças profissionais e dos acidentes de trabalho;\n\nr) Dar apoio técnico aos médicos do trabalho das empresas no estudo e análise dos postos de trabalho, com vista a definir os que poderão ser reservados especialmente para efeitos de recolocação de diminuídos físicos;\n\ns) Fornecer às entidades interessadas a colaboração que solicitarem em matéria de organização científica do trabalho e de reabilitação profissional dos trabalhadores, especialmente dos diminuídos físicos."
+   "markdown": "###### Artigo 48.º\n\n(Revogado.)"
   },
-  "8f2f498a52ad23ee": {
+  "4016970a3c170cf5": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 49.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 49.º\n\nÀ Inspecção Técnica de Hidroterapia e Fisioterapia compete, em geral, a vigilância médico-hidrológica das concessões e explorações de águas mineromedicinais e de mesa e dos estabelecimentos de hidroterapia e fisioterapia, cabendo-lhe em especial:\n\na) Intervir, em colaboração com as demais entidades competentes, no licenciamento dos estabelecimentos e instalações de hidroterapia e outros congéneres, nomeadamente de climatoterapia;\n\nb) Intervir, nos mesmos termos, no licenciamento das explorações industriais e comerciais de águas mineromedicinais e de mesa;\n\nc) Pronunciar-se sobre os regulamentos dos estabelecimentos e explorações referidas nas alíneas anteriores e estudar e propor modelos para esses regulamentos;\n\nd) Exercer a vigilância de estabelecimentos, instalações e explorações indicadas nas referidas alíneas e propor as modificações que julgue indispensáveis quanto a pessoal, instalações e serviços;\n\ne) Velar pela salubridade geral das estâncias de hidroterapia e fisioterapia, particularmente quanto ao abastecimento de água potável, ao funcionamento da rede de esgotos e instalações depuradoras e às condições do ambiente;\n\nf) Apreciar e informar os regimes propostos para o funcionamento das secções terapêuticas, de diagnóstico e de consulta das estâncias;\n\ng) Colaborar com as demais entidades competentes na elaboração das normas de classificação das estâncias e intervir na sua aplicação;\n\nh) Estudar e propor a aprovação dos preçários dos tratamentos e dos honorários clínicos, tendo em conta a categoria das estâncias, bem como de todas as formas de anúncios, propaganda e publicidade;\n\ni) Pronunciar-se, no aspecto médico-hidrológico, sobre os projectos de construção ou beneficiação dos estabelecimentos e instalações de hidroterapia e fisioterapia e dos relativos às explorações industriais e comerciais de águas mineromedicinais e de mesa;\n\nj) Coligir os dados estatísticos e as informações de ordem terapêutica relativas à actividade das estâncias;\n\nk) Inventariar e publicar periòdicamente os elementos referidos na alínea anterior e, bem assim, quaisquer outras informações de interesse médico-hidrológico;\n\nl) Exercer qualquer outra competência que lhe seja atribuída por lei."
+   "markdown": "###### Artigo 49.º\n\n(Revogado.)"
   },
-  "9369be897a792ae6": {
+  "62a115ed0193ab38": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 50.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 50.º\n\nÀ Inspecção Superior de Medicina Social cabe, em geral, promover, orientar, coordenar e fiscalizar as actividades de cobertura médico-sanitária, abrangendo designadamente:\n\na) A luta contra as doenças transmissíveis e outras de carácter predominantemente social e contra os acidentes e malformações evitáveis;\n\nb) A prestação de cuidados médicos básicos à população em geral;\n\nc) A vigilância médica e a prestação de cuidados médicos gerais e especializados a certos grupos populacionais mais vulneráveis;\n\nd) A promoção da saúde mental."
+   "markdown": "###### Artigo 50.º\n\n(Revogado.)"
   },
-  "52ec1ab7bde2fb7b": {
+  "75ea3c72fe55d102": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 51.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 51.º\n\nA Inspecção Superior de Medicina Social compreende os seguintes serviços:\n\na) Direcção de Serviços de Profilaxia;\n\nb) Direcção de Serviços de Saúde Materno-Infantil;\n\nc) Direcção de Serviços de Saúde Escolar;\n\nd) Direcção de Serviços de Saúde Mental;\n\ne) Direcção de Serviços de Cuidados Médicos."
+   "markdown": "###### Artigo 51.º\n\n(Revogado.)"
   },
-  "c714fe9b4828b43b": {
+  "f7b75d0c43ea145e": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 52.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 52.º\n\n1. Compete à Direcção de Serviços de Profilaxia:\n\na) Realizar prospecções e inquéritos epidemiológicos, de âmbito nacional ou local, sobre as doenças transmissíveis de carácter endémico ou epidémico;\n\nb) Estudar, programar, propor e executar, em colaboração com os demais serviços competentes, o combate a essas doenças e proceder à avaliação dos resultados;\n\nc) Promover o exame preventivo dos suspeitos de doença transmissível e, sempre que necessário, dos contactos, quer directamente, quer por intermédio de outros serviços de saúde ou hospitalares;\n\nd) Promover o internamento compulsivo das pessoas afectadas ou suspeitas de doença transmissível e dos portadores sãos, sempre que a natureza da doença ou seu tratamento e profilaxia o justifiquem, cuidando do respectivo transporte;\n\ne) Estabelecer as condições de funcionamento dos serviços ou estabelecimentos destinados à prevenção e tratamento das doenças transmissíveis, em especial da tuberculose;\n\nf) Estudar e propor, em colaboração com os demais serviços competentes, a fixação ou revisão dos períodos de afastamento das escolas ou dos locais de trabalho das pessoas afectadas de doença contagiosa;\n\ng) Elaborar e executar programas de vacinação contra as doenças infecciosas e propor a obrigatoriedade da vacinação, quando as circunstâncias o justifiquem;\n\nh) Estabelecer, em colaboração com os demais serviços competentes, as normas de desinfecção e desinfestação a observar na luta contra as doenças transmissíveis;\n\ni) Colaborar com o Serviço de Educação Sanitária na elaboração e divulgação de instruções que orientem os outros serviços públicos e a população em geral sobre a profilaxia das doenças transmissíveis;\n\nj) Assegurar, de harmonia com os regulamentos sanitários internacionais ratificados pelo Governo, a defesa sanitária dos portos marítimos, fluviais e aéreos e das fronteiras, por intermédio dos respectivos centros de saúde;\n\nk) Estudar e propor, em colaboração com os demais serviços competentes, as medidas necessárias para prevenir a importação, exportação e difusão das doenças quarentenárias e de outras doenças transmissíveis, incluindo as antropozoonoses, e fiscalizar a sua observância;\n\nl) Providenciar quanto à aquisição e distribuição de medicamentos, vacinas, desinfectantes, pesticidas e outro material indispensável à luta contra as doenças transmissíveis;\n\nm) Proceder à revisão periódica da lista das doenças de notificação obrigatória e propor as alterações convenientes;\n\nn) Publicar periòdicamente os dados de morbilidade e mortalidade relativos às doenças de notificação obrigatória;\n\no) Realizar prospecções e inquéritos sobre as doenças constitucionais e crónico-degenerativas de carácter predominantemente social, e propor as medidas adequadas para reduzir a sua incidência e atenuar os seus efeitos, em estreita ligação com os serviços ou instituições que delas se ocupem;\n\np) Exercer acção semelhante ou equivalente relativamente aos acidentes e malformações evitáveis;\n\nq) Planear e pôr em execução, sem esquecer a conveniente coordenação com os outros serviços interessados, em especial a Direcção de Serviços de Cuidados Médicos, os exames médicos preventivos sistemáticos da população, que considere necessários ao exercício das suas atribuições.\n\n2. Até serem integrados na Direcção-Geral de Saúde, o Instituto de Assistência Nacional aos Tuberculosos, o Instituto de Assistência ao Leprosos e o Centro de Profilaxia da Cegueira funcionam coordenadamente com a Direcção de Serviços de Profilaxia."
+   "markdown": "###### Artigo 52.º\n\n(Revogado.)"
   },
-  "02d5ceec684e53d8": {
+  "85e2c25c66fde3c5": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 53.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 53.º\n\n1. Compete à Direcção de Serviços de Saúde Materno-Infantil:\n\na) Assegurar a vigilância médica das grávidas e das puérperas, a prestação dos cuidados médicos, gerais e especializados, de que careçam, e o fornecimento, a título gratuito, quando a sua situação económica o justificar, dos medicamentos necessários ao seu tratamento;\n\nb) Colaborar com as entidades competentes na organização da assistência ao parto, incluindo o sistema de transportes para hospitalização das parturientes;\n\nc) Assegurar a vigilância médica dos lactentes, a prestação dos cuidados médicos, gerais e especializados, de que careçam, e o fornecimento, a título gratuito, quando a situação económica dos pais o justificar, dos produtos de dietética infantil e dos medicamentos que lhes forem necessários;\n\nd) Assegurar a vigilância médica da infância não abrangida pela competência da Direcção de Serviços de Saúde Escolar, e a prestação dos cuidados médicos, gerais e especializados, de que necessite, e exercendo também a conveniente acção educativa;\n\ne) Estudar, em colaboração com o Gabinete de Estudos e Planeamento e outras entidades competentes, os factores sociais, económicos e morais que influem na natalidade e na morbilidade e mortalidade fetal e infantil, de forma a poder colaborar na definição e execução de uma política demográfica;\n\nf) Colaborar com o Serviço de Educação Sanitária e outras entidades interessadas na divulgação dos preceitos de higiene materno-infantil e na realização de campanhas em prol do aleitamento materno;\n\ng) Coordenar a acção dos serviços de saúde materno-infantil dependentes da Direcção-Geral de Saúde, nomeadamente dos centros de saúde, com os restantes serviços de saúde pública e com os serviços hospitalares e com os serviços das instituições de previdência;\n\nh) Colaborar com as entidades competentes na fixação das condições de funcionamento das instituições de protecção materno-infantil não dependentes da Direcção-Geral de Saúde, quer tenham finalidades assistenciais, quer lucrativas, e velar pela sua observância;\n\ni) Cooperar com os serviços competentes da Direcção-Geral da Assistência Social e demais serviços interessados na protecção às mães abandonadas, assegurando-lhes a assistência médica e medicamentosa de que necessitam;\n\nj) Promover a formação e o aperfeiçoamento do pessoal necessário à protecção materno-infantil, quer pelos organismos competentes da Direcção-Geral de Saúde, quer em colaboração com outras instituições e serviços de reconhecida idoneidade.\n\n2. Até ser organizada a Direcção de Serviços de Saúde Materno-Infantil, a respectiva competência continuará a ser exercida pelo Instituto Maternal, que mantém, entretanto, a sua autonomia."
+   "markdown": "###### Artigo 53.º\n\n(Revogado.)"
   },
-  "2159d495ea522078": {
+  "e890cbe9bf502994": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 54.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 54.º\n\n1. Compete à Direcção de Serviços de Saúde Escolar:\n\na) Superintender em tudo o que respeite às condições sanitárias, médico-pedagógicas e higiénicas do pessoal discente das escolas oficiais e particulares;\n\nb) Dar parecer, nos aspectos de ordem sanitária, quanto aos projectos de construção de estabelecimentos escolares;\n\nc) Fiscalizar as condições higiénicas dos que já se encontrem em funcionamento;\n\nd) Exercer, orientar e fiscalizar a acção educativa, profiláctica e terapêutica, por forma a assegurar as melhores condições da saúde física e mental da população escolar, coordenando todos os meios para tal fim disponíveis;\n\ne) Exercer a vigilância sanitária regular do pessoal que presta serviço nos estabelecimentos de ensino oficial ou particular;\n\nf) Adoptar e propor, quando necessário, as medidas adequadas para o afastamento do meio escolar do pessoal discente ou outro, durante o período mèdicamente aconselhável;\n\ng) Pronunciar-se quanto aos aspectos especializados da preparação de pessoal necessário aos diversos serviços de saúde escolar.\n\n2. A Direcção de Serviços de Saúde Escolar actuará em colaboração com os serviços competentes do Ministério da Educação Nacional, assegurando as funções de intervenção médico-sanitária junto da população escolar, nos termos que forem estabelecidos em portaria dos Ministros da Educação Nacional e da Saúde e Assistência."
+   "markdown": "###### Artigo 54.º\n\n(Revogado.)"
   },
-  "4a8ef1a3a9a14931": {
+  "ea507fc97dbe8994": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 55.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 55.º\n\n1. Compete à Direcção de Serviços de Saúde Mental:\n\na) Promover a realização de prospecções e inquéritos, de âmbito nacional ou local, sobre as doenças e anomalias mentais e as toxicomanias, estudando os factores que influenciam o seu aparecimento e difusão, nomeadamente as condições sanitárias, económico-sociais e de trabalho;\n\nb) Elaborar e propor, em colaboração com o Gabinete de Estudos e Planeamento e outras entidades interessadas ou que por lei devam ser ouvidas, os planos de saúde mental, avaliar os resultados da sua execução e proceder às revisões e actualizações que se mostrem convenientes;\n\nc) Programar, de acordo com os planos aprovados, as acções a realizar pelos diferentes serviços e estabelecimentos, coordenando e orientando a respectiva execução;\n\nd) Estimular a criação de serviços, oficiais ou particulares, destinados à promoção da saúde mental, que se julguem necessários à realização dos programas estabelecidos;\n\ne) Estudar e propor as condições de funcionamento dos estabelecimentos e serviços destinados a promoção da saúde mental, e fiscalizar a sua observância;\n\nf) Proceder a estudos e dar pareceres sobre problemas de saúde mental que interessem a outros serviços, nomeadamente aos serviços hospitalares não especializados, e acompanhar, quando solicitada, a execução das medidas destinadas à resolução desses problemas;\n\ng) Promover, sem prejuízo dos recursos estabelecidos na lei, a execução dos exames médico-legais que lhe sejam requisitados pelas entidades competentes, distribuindo-os pelos diversos estabelecimentos e serviços e assegurando-se da sua realização tempestiva;\n\nh) Verificar, por meio de inspecções periódicas, a legalidade dos processos de admissão e das condições de internamento nos estabelecimentos de saúde mental, oficiais ou particulares, bem como do tratamento domiciliário em regime fechado;\n\ni) Fiscalizar o funcionamento dos estabelecimentos de saúde mental, oficiais e particulares, apreciar as queixas e reclamações que sobre ele lhe sejam apresentadas pelos internados ou seus familiares, pelo pessoal ou pelo público em geral, e tomar as medidas adequadas ou propô-las à entidade competente se excederem a sua própria competência;\n\nj) Recolher e apurar os dados estatísticos relativos ao pessoal, ao movimento de doentes, sua morbilidade e mortalidade, bem como todos os outros elementos que interessem à apreciação da actividade dos estabelecimentos de saúde mental, oficiais e particulares.\n\n2. Até ser organizada a Direcção de Serviços de Saúde Mental, a respectiva competência continuará a ser exercida pelo Instituto de Assistência Psiquiátrica, que mantém, entretanto, a sua autonomia."
+   "markdown": "###### Artigo 55.º\n\n(Revogado.)"
   },
-  "c2e3f89b62214de5": {
+  "564a42a269176b44": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 56.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 56.º\n\nCompete à Direcção de Serviços de Cuidados Médicos:\n\na) Promover a realização de inquéritos e campanhas de massa para avaliação das necessidades das populações em cuidados médicos;\n\nb) Propor a instalação dos centros de saúde e dos hospitais concelhios que se considerem necessários para a prestação de cuidados médicos às populações;\n\nc) Elaborar, em colaboração com os demais serviços competentes, as estimativas dos médicos, enfermeiros e outros profissionais, necessários nos vários concelhos ou regiões, e comunicá-las às entidades responsáveis pela sua formação;\n\nd) Elaborar e propor os programas de acção médica, geral e especializada, dos centros de saúde e dos hospitais concelhios e promover a sua coordenação com os programas a estabelecer pelos hospitais centrais e distritais;\n\ne) Promover a conveniente articulação dos centros de saúde entre si e com os hospitais concelhios, por forma a evitar duplicações e lacunas na execução dos respectivos programas de acção médica;\n\nf) Promover e estimular a colaboração dos centros de saúde e dos hospitais concelhios com as demais entidades interessadas, inclusivamente com as instituições de previdência e ainda com a clínica privada, em tudo quanto possa contribuir para melhorar a cobertura da população no que se refere à prestação de cuidados médicos;\n\ng) Orientar e fiscalizar o funcionamento dos serviços de consulta e internamento, bem como dos serviços domiciliários dos centros de saúde e dos hospitais concelhios, promovendo as correcções e actualizações que se mostrarem convenientes, mormente no que respeita ao seu rendimento técnico;\n\nh) Fixar as normas gerais a observar na selecção dos doentes, para efeitos da definição do regime - ambulatório, domiciliário, internamento em hospital concelhio, distrital ou central - mais apropriado à prossecução dos cuidados médicos de que careçam;\n\ni) Colaborar com os demais serviços competentes, no transporte dos doentes;\n\nj) Estudar e propor as tabelas de preços a aplicar nos centros de saúde e hospitais concelhios pela prestação de cuidados médicos, bem como acordos de pagamento com as entidades que a eles recorram;\n\nk) Estudar e propor, em colaboração com a Secretaria-Geral e demais serviços interessados, por forma a assegurar a conveniente uniformização, os modelos de fichas, boletins, mapas e quaisquer outros impressos necessários aos registos da acção médica dos centros de saúde e dos hospitais concelhios;\n\nl) Promover a elaboração dos regulamentos dos hospitais concelhios e pronunciar-se sobre os quadros do seu pessoal, orçamentos, concessões de subsídios e contas;\n\nm) Promover, em coordenação com os demais serviços interessados, designadamente a Direcção de Serviços de Profilaxia, o planeamento e a execução dos exames médicos preventivos sistemáticos da população, que convenham ao exercício das suas atribuições e competência;\n\nn) Colaborar com o Serviço de Educação Sanitária na elaboração e divulgação de informações sobre os benefícios, para a saúde pública e individual, que resultam da realização de exames médicos preventivos."
+   "markdown": "###### Artigo 56.º\n\n(Revogado.)"
   },
-  "fe38ad05938f92ca": {
+  "040497d8cc70f93a": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 57.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 57.º\n\nÀ Inspecção Superior do Exercício Profissional compete a vigilância do exercício da medicina, da farmácia, da enfermagem e das profissões paramédicas e auxiliares, bem como da produção e comércio dos medicamentes e de outros produtos das indústrias farmacêuticas e similares."
+   "markdown": "###### Artigo 57.º\n\n(Revogado.)"
   },
-  "ffbb2e2a617115b7": {
+  "9241f35b340129e8": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 58.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 58.º\n\nA Inspecção Superior do Exercício Profissional compreende os seguintes serviços:\n\na) Direcção de Serviços do Exercício da Medicina;\n\nb) Direcção de Serviços de Farmácia e Medicamentos;\n\nc) Inspecção Técnica do Exercício de Enfermagem;\n\nd) Inspecção Técnica do Exercício das Profissões Paramédicas e Auxiliares."
+   "markdown": "###### Artigo 58.º\n\n(Revogado.)"
   },
-  "d354c566b7af73bd": {
+  "032215ad227be254": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 59.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 59.º\n\n1. Compete à Direcção de Serviços do Exercício da Medicina:\n\na) Estudar e propor, em colaboração com as demais entidades interessadas, o regime jurídico da responsabilidade profissional do médico, tanto nos aspectos deontológicos como nos técnicos, e velar pela sua observância;\n\nb) Pronunciar-se, quando for solicitada pelas entidades competentes, sobre os assuntos que digam respeito à conduta profissional do médico, para o que poderá colher as informações complementares que julgue necessárias à elaboração do seu parecer;\n\nc) Apreciar, nos aspectos deontológicos, o exercício da profissão médica em estabelecimentos particulares de saúde, quer por iniciativa própria, quer quando for solicitada a sua intervenção;\n\nd) Cooperar com a Ordem dos Médicos na defesa dos princípios deontológicos e no aperfeiçoamento técnico dos médicos, quer por meio de cursos, colóquios ou conferências, quer através de publicações apropriadas;\n\ne) Colaborar com a Escola Nacional de Saúde Pública e de Medicina Tropical e com o Instituto Nacional de Saúde na organização e realização de cursos e estágios de formação ou aperfeiçoamento dos médicos em especialidades de saúde pública;\n\nf) Promover e fiscalizar a observância dos preceitos legais referentes à carreira médica de saúde pública, e, em colaboração com as demais entidades interessadas, estudar e propor a sua revisão, quando tal se mostre conveniente.\n\n2. Para o desempenho das suas atribuições, a Direcção de Serviços do Exercício da Medicina organizará e manterá actualizado o cadastro dos médicos com indicação das especialidades e das localidades em que exercem, permanente ou periòdicamente, a sua actividade profissional, quer em serviços oficiais e paraoficiais, quer em empresas privadas ou na clínica livre."
+   "markdown": "###### Artigo 59.º\n\n(Revogado.)"
   },
   "26de39d81dab24bb": {
    "fragment_id": null,
@@ -849,69 +887,69 @@
    "changed_by": [],
    "markdown": "###### Artigo 60.º\n\nCompete à Direcção de Serviços de Farmácia e Medicamentos:\n\na) Estudar e propor, em colaboração com as demais entidades interessadas, os preceitos que se relacionem com o regime jurídico da responsabilidade profissional do farmacêutico, tanto nos aspectos deontológicos como nos técnicos, e velar pela sua observância;\n\nb) Pronunciar-se, quando for solicitada pelas entidades competentes, sobre os assuntos que digam respeito à conduta profissional do farmacêutico, para o que poderá colher as informações complementares que julgue necessárias à elaboração do seu parecer;\n\nc) Fiscalizar o exercício farmacêutico, nos termos da legislação aplicável;\n\nd) Apreciar, nos aspectos deontológicos, o exercício profissional dos farmacêuticos em estabelecimentos particulares de saúde, quer por iniciativa própria, quer quando for solicitada a sua intervenção;\n\ne) Cooperar com a Ordem dos Farmacêuticos e os Sindicatos Nacionais dos Ajudantes de Farmácia na defesa dos princípios deontológicos e no aperfeiçoamento técnico dos farmacêuticos e dos ajudantes de farmácia, quer por meio de cursos, colóquios ou conferências, quer através de publicações apropriadas;\n\nf) Proceder ao registo da prática dos ajudantes de farmácia, nos termos das disposições legais aplicáveis;\n\ng) Colaborar com a Escola Nacional de Saúde Pública e de Medicina Tropical e com o Instituto Nacional de Saúde na organização e realização de cursos e estágios de formação ou aperfeiçoamento dos farmacêuticos em especialidades de saúde pública;\n\nh) Colaborar com o Instituto Nacional de Saúde e as demais entidades competentes nos serviços de natureza administrativa relacionados com a comprovação de medicamentos e de outros produtos das indústrias farmacêuticas e similares;\n\ni) Organizar os processos relativos ao licenciamento dos laboratórios de produtos farmacêuticos, dos estabelecimentos que se dediquem ao comércio por grosso de medicamentos, das farmácias, postos farmacêuticos e ambulâncias de medicamentos;\n\nj) Propor a revisão anual do Regimento Geral dos Preços dos Medicamentos e Manipulações;\n\nk) Fiscalizar, nos termos da lei, a produção e comércio de medicamentos, drogas medicamentosas e produtos de origem biológica;\n\nl) Proceder ao registo dos medicamentos lançados no mercado;\n\nm) Organizar os processos referentes aos pedidos de introdução de novos medicamentos no mercado, bem como à nacionalização, mudança de origem, e transferência de representação dos produtos farmacêuticos;\n\nn) Estabelecer as normas de padronização dos recipientes para embalagem dos medicamentos;\n\no) Actualizar, com a colaboração das demais entidades competentes, a lista dos produtos medicamentosos que só podem ser vendidos mediante receita médica;\n\np) Velar pela execução das disposições legais relativas a medicamentos e substâncias medicamentosas tóxicas, estupefacientes ou outras, nomeadamente as que possam ser empregadas como antigenésicos ou abortivos;\n\nq) Elaborar relatórios e formulários estatísticos para cumprimento do disposto nas convenções e protocolos internacionais sobre drogas, estupefacientes e outros tóxicos;\n\nr) Proibir a venda e proceder à apreensão dos produtos fabricados em contravenção das disposições legais e sempre que a defesa da saúde pública o justifique;\n\ns) Colaborar com os serviços e organismos de outros departamentos do Estado interessados no exercício da farmácia e na produção e comércio de medicamentos;\n\nt) Exercer a vigilância da produção e comércio dos produtos de perfumaria, cosmética e artigos de toucador;\n\nu) Executar quaisquer outros serviços que por lei, regulamento ou determinação superior lhe sejam atribuídos."
   },
-  "20c2f86c7dd1b336": {
+  "e3a5a15ee9a386c4": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 61.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 61.º\n\n1. Compete à Inspecção Técnica do Exercício de Enfermagem:\n\na) Estudar e propor, em colaboração com as demais entidades interessadas, os regimes jurídicos da responsabilidade profissional dos enfermeiros e dos auxiliares de enfermagem, tanto nos aspectos deontológicos como nos técnicos, e velar pela sua observância;\n\nb) Pronunciar-se, quando for solicitada pelas entidades competentes, sobre os assuntos que digam respeito à conduta profissional dos enfermeiros e dos auxiliares de enfermagem, para o que poderá colher as informações complementares que julgue necessárias à elaboração do seu parecer;\n\nc) Apreciar, nos aspectos deontológicos, o exercício das profissões de enfermeiro e de auxiliar de enfermagem, em estabelecimentos particulares de saúde, quer por iniciativa própria, quer quando for solicitada a sua intervenção;\n\nd) Cooperar com os sindicatos nacionais dos profissionais de enfermagem na defesa dos princípios deontológicos e no aperfeiçoamento técnico dos enfermeiros e dos auxiliares de enfermagem, quer por meio de cursos, colóquios ou conferências, quer através de publicações apropriadas;\n\ne) Colaborar com a Escola Nacional de Saúde Pública e de Medicina Tropical e com o Instituto Nacional de Saúde e a Escola de Ensino e Administração de Enfermagem na organização e realização de cursos e estágios de formação ou aperfeiçoamento dos enfermeiros e dos auxiliares de enfermagem em saúde pública;\n\nf) Promover e orientar a formação e o aperfeiçoamento do pessoal de enfermagem de saúde pública, quer pelos organismos competentes da Direcção-Geral de Saúde, quer em colaboração com outras instituições e serviços de reconhecida idoneidade;\n\ng) Promover e fiscalizar a observância dos preceitos legais referentes à carreira de enfermagem de saúde pública e, em colaboração com os outros serviços interessados, estudar e propor a sua revisão quando tal se mostre conveniente.\n\n2. Para o desempenho das suas atribuições, a Inspecção Técnica do Exercício de Enfermagem organizará e manterá actualizado o cadastro dos enfermeiros e auxiliares de enfermagem, com indicação das especialidades e das localidades em que é exercida a sua actividade profissional, quer em serviços oficiais e paraoficiais, quer em empresas privadas ou em regime livre."
+   "markdown": "###### Artigo 61.º\n\n(Revogado.)"
   },
-  "871ce2d40f91dfb8": {
+  "4459a136315da6e8": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 62.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 62.º\n\n1. Compete à Inspecção Técnica do Exercício das Profissões Paramédicas e Auxiliares:\n\na) Estudar e propor, em colaboração com as demais entidades competentes, os regimes jurídicos da responsabilidade profissional, tanto nos aspectos deontológicos como nos técnicos, dos que exercem profissões paramédicas e auxiliares, e velar pela sua observância;\n\nb) Pronunciar-se, quando for solicitada pelas entidades competentes, sobre os assuntos que digam respeito à conduta profissional dos que exercem profissões paramédicas e auxiliares, para o que poderá colher as informações complementares que julgue necessárias à elaboração do seu parecer;\n\nc) Apreciar, nos aspectos deontológicos, o exercício profissional dos que exercem profissões paramédicas e auxiliares em estabelecimentos particulares de saúde, quer por iniciativa própria, quer quando for solicitada a sua intervenção;\n\nd) Cooperar com os respectivos organismos de representação profissional na defesa dos princípios deontológicos e no aperfeiçoamento técnico dos que exercem profissões paramédicas e auxiliares, quer por meio de cursos, colóquios ou conferências, quer através de publicações apropriadas;\n\ne) Colaborar com a Escola Nacional de Saúde Pública e de Medicina Tropical e com o Instituto Nacional de Saúde na organização e realização de cursos e estágios de formação ou aperfeiçoamento em especialidades de saúde pública dos que exercem profissões paramédicas e auxiliares;\n\nf) Promover e orientar, por intermédio dos organismos competentes da Direcção-Geral de Saúde ou em colaboração com outras instituições e serviços de reconhecida idoneidade, a formação e o aperfeiçoamento dos que exercem profissões paramédicas e auxiliares;\n\ng) Fiscalizar o exercício das profissões paramédicas e auxiliares não sujeitas à tutela de qualquer serviço oficial e promover a adopção de medidas convenientes ao seu aperfeiçoamento;\n\nh) Estudar e propor, em colaboração com as demais entidades interessadas, as medidas aplicáveis às carreiras de saúde pública relativas às profissões paramédicas e auxiliares, promover a sua revisão, quando tal se mostre conveniente, e velar pela sua observância.\n\n2. Para o desempenho das atribuições mencionadas no número anterior, caberá, ainda, à Inspecção Técnica do Exercício das Profissões Paramédicas e Auxiliares, em colaboração com as demais entidades competentes:\n\na) Elaborar a lista das profissões classificáveis como paramédicas e auxiliares, estudar e propor a sua regulamentação e, ainda, promover as revisões e actualizações que se mostrem vantajosas para uma eficiente cobertura sanitária do País;\n\nb) Organizar e manter actualizado o cadastro dos profissionais paramédicos e auxiliares, com a indicação das especialidades e das localidades em que é exercida a sua actividade profissional, quer em serviços oficiais e paraoficiais, quer em empresas privadas ou em regime livre."
+   "markdown": "###### Artigo 62.º\n\n(Revogado.)"
   },
-  "f9fad4a3ef419014": {
+  "54e727f6e511a8e6": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 63.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 63.º\n\nQuando se considerar vantajoso para melhor funcionamento dos serviços da Direcção-Geral de Saúde, referidos nos artigos 44.º a 62.º, poderá o Ministro, por portaria, transferir alguma ou algumas das competências de uns para outros, ainda que sejam de inspecções superiores diferentes."
+   "markdown": "###### Artigo 63.º\n\n(Revogado.)"
   },
-  "6133cdf9b7926994": {
+  "b62db1f84fbfe9e5": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 64.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 64.º\n\nAo Serviço de Educação Sanitária compete, em geral, promover e desenvolver junto dos indivíduos e das populações a acção educativa mais apropriada para obter a sua participação activa na execução das medidas destinadas à preservação da saúde individual e colectiva, cabendo-lhe designadamente:\n\na) Apreciar os planos e programas sanitários dos diferentes serviços, com vista a estudar e propor a conveniente acção educativa;\n\nb) Levar a efeito as acções educativas, de âmbito nacional, regional ou local, que devam proceder ou acompanhar a execução daqueles planos e programas;\n\nc) Actuar junto dos próprios serviços do Ministério, com o objectivo de conseguir que o pessoal, no desempenho das suas funções, procure sempre interessar os indivíduos e as colectividades na resolução dos problemas de saúde que pertençam à sua esfera de acção;\n\nd) Intervir, junto de outras entidades, oficiais e particulares, nomeadamente de índole económica, cultural e social, no sentido de as consciencializar da importância do papel que lhes compete na promoção da saúde;\n\ne) Prestar apoio técnico às entidades e serviços que solicitem a sua colaboração, quando pretendam empreender acções que impliquem a conveniência de programas de educação sanitária;\n\nf) Estudar e elaborar normas gerais para orientação de programas de educação sanitária, tendo em conta os níveis económico, cultural e social dos indivíduos e colectividades a que se destinem;\n\ng) Estudar os processos técnicos, incluindo os métodos áudio-visuais, a adoptar na execução de programas de educação para a saúde;\n\nh) Promover a divulgação dos preceitos necessários à preservação da saúde individual e colectiva através da imprensa, radiodifusão, radiotelevisão, exposições, conferências, filmes, cartazes e folhetos."
+   "markdown": "###### Artigo 64.º\n\n(Revogado.)"
   },
-  "d53055528b85a413": {
+  "601bd0bd8c04dea4": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 65.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 65.º\n\n1. À Repartição de Serviços Administrativos compete, em geral, promover o que for necessário à gestão de pessoal e de património afecto à Direcção-Geral, assegurar o serviço de economato e contabilidade, executar o serviço de expediente geral e de arquivo e apoiar administrativamente os serviços da Direcção-Geral.\n\n2. A Repartição funcionará sob a chefia directa do chefe de repartição e sob a superintendência do inspector superior incumbido da gestão financeira da Direcção-Geral.\n\n3. A Repartição compreende as seguintes Secções:\n\na) Pessoal (1.ª secção);\n\nb) Contabilidade (2.ª secção);\n\nc) Expediente Geral e Arquivo (3.ª secção)."
+   "markdown": "###### Artigo 65.º\n\n(Revogado.)"
   },
-  "6525373e7451dced": {
+  "920ce9ac0f99904d": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 66.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 66.º\n\n1. Cabe, em especial, à Secção de Pessoal promover e executar as diligências relativas ao movimento e às diversas situações do pessoal, organizar e manter actualizado o seu registo biográfico e elaborar as relações mensais de assiduidade.\n\n2. Cabe, em especial, à Secção de Contabilidade coordenar os elementos para a organização do orçamento da Direcção-Geral, processar os vencimentos do pessoal e os subsídios destinados a serviços ou instituições dependentes e escriturar, processar e liquidar todas as despesas da Direcção-Geral.\n\n3. Cabe, em especial, à Secção de Expediente Geral e Arquivo executar todo o expediente administrativo que não seja da particular competência dos outros serviços e conservar no arquivo todos os processos e documentos que pertençam à Direcção-Geral.\n\n4. O director-geral poderá, mediante provisão interna, alterar a distribuição das funções da Repartição pelas suas secções."
+   "markdown": "###### Artigo 66.º\n\n(Revogado.)"
   },
-  "6fc6568ae97fdfd5": {
+  "3d95a91eb95bb09b": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 67.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 67.º\n\n1. O Parque Sanitário é um serviço de apoio da Direcção-Geral de Saúde, competindo-lhe, em geral:\n\na) Armazenar, conservar e movimentar o material sanitário, incluindo medicamentos, soros, vacinas, desinfectantes, desinfestantes e outras substâncias de utilização normal;\n\nb) Manter actualizado o inventário do material e produtos armazenados, assegurando a existência permanente das suficientes reservas;\n\nc) Preparar os processos de aquisição de material e dos outros produtos e remetê-los à Repartição de Serviços Administrativos para o competente despacho;\n\nd) Promover a montagem das instalações de emergência destinadas aos serviços de profilaxia e combate de epidemias e fornecer-lhes o material e produtos sanitários de que careçam, qualquer que seja o ponto do País em que esses serviços tenham de actuar;\n\ne) Recolher e conservar os veículos motorizados e outros e coordenar a sua utilização, de forma a poder dar perfeita satisfação às necessidades dos serviços.\n\n2. O Parque Sanitário dispõe de uma instalação permanente no Porto e pode criar outras junto dos centros de saúde distritais, sob a responsabilidade dos respectivos directores de saúde."
+   "markdown": "###### Artigo 67.º\n\n(Revogado.)"
   },
-  "686a19ec055f5cae": {
+  "8745cfd1fb471d43": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 68.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 68.º\n\n1. O pessoal do Parque Sanitário poderá deslocar-se a qualquer ponto do País, mediante determinação do director-geral, com o correspondente abono de ajudas de custo, despesas de deslocação e transporte.\n\n2. O pessoal auxiliar do Parque Sanitário tem direito a concessão de fardamento, nos termos do artigo 8.º do [Decreto-Lei n.º 36361](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36361-1947-183862), de 20 de Junho de 1947.\n\n3. Ao restante pessoal do Parque Sanitário poderão ser concedidos fardamentos e outros resguardos, de harmonia com o serviço que desempenham, nos termos da disposição legal citada no número anterior."
+   "markdown": "###### Artigo 68.º\n\n(Revogado.)"
   },
   "76192d91c9b97c01": {
    "fragment_id": null,
@@ -1339,13 +1377,13 @@
    "changed_by": [],
    "markdown": "###### Artigo 113.º\n\n1. Ao pessoal do Gabinete de Estudos e Planeamento aplica-se o disposto nos números seguintes.\n\n2. Os lugares de investigador e de técnico especialista são providos, por escolha, de entre pessoas qualificadas para o efeito.\n\n3. Os lugares de técnico de 1.ª classe e de técnico auxiliar de programação de 1.ª classe são providos, mediante concurso documental, de entre os técnicos das categorias imediatamente inferiores dos serviços do Ministério e do Secretariado Técnico da Presidência do Conselho, com três anos de serviço, pelo menos, nestas categorias.\n\n4. Os lugares de técnico de 2.ª classe e de técnico auxiliar de programação de 2.ª classe são providos pelos indivíduos admitidos por concurso documental, de entre habilitados com preparação adequada ao exercício das respectivas funções, na categoria, respectivamente, de técnico de 3.ª classe ou de técnico auxiliar de programação de 3.ª classe, decorrido um ano de bom e efectivo serviço nas referidas categorias.\n\n5. É aplicável ao provimento do lugar de chefe de secretaria o disposto no n.º 10 do artigo 66.º do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro.\n\n6. O tempo de serviço prestado no Gabinete de Estudos e Planeamento pelo pessoal requisitado ao abrigo do n.º 1 do artigo 70.º do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738) contará para todos os efeitos, incluindo os do acesso nos quadros a que pertence."
   },
-  "48f7fb67f35a9223": {
+  "2ea54b9eb0fd20c6": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 114.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 114.º\n\nNa Direcção-Geral de Saúde, o provimento dos lugares de inspector técnico de hidroterapia e fisioterapia, do exercício de enfermagem e do exercício de profissões paramédicas e auxiliares é feito, por concurso documental, de entre técnicos dos serviços do Ministério com habilitações e preparação adequada ao exercício das respectivas funções ou indivíduos que preencham os mesmos requisitos."
+   "markdown": "###### Artigo 114.º\n\n(Revogado.)"
   },
   "fb9d02e2a9334382": {
    "fragment_id": null,

@@ -123,7 +123,8 @@ provenance:
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 334/99; Decreto-Lei
     n.º 186/2003; Decreto-Lei n.º 45/2004. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1993/decreto-lei-122-93.alteracoes.json.
     Revogações registadas só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Decreto-Lei
-    n.º 15/2004.'
+    n.º 15/2004. Texto antigo deixado a seguir à nova redação ou a «(Revogado.)» retirado por regra e verificado às cegas
+    (consolidacao/texto_antigo.py): arts. 23.º, 24.º.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -438,45 +439,19 @@ l) (Revogada.)
 
 > Revogado pelo/a [Decreto-Lei n.º 186/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2003-654681), publicado em 2003-08-20.
 
-###### Artigo 23.º
+###### Artigo 23.º — Divisão de Geofísica
 
 (Revogado.)
 
 > Revogado pelo/a [Decreto-Lei n.º 186/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2003-654681), publicado em 2003-08-20.
 
-##### Divisão de Geofísica
 
-A Divisão de Geofísica visa desenvolver e aplicar métodos geofísicos com vista à melhoria do conhecimento geológico de subsuperfície e à revelação de recursos geológicos, competindo-lhe:
-
-a) Executar trabalhos de geofísica em conformidade com projectos aprovados;
-
-b) Apreciar e dar parecer sobre projectos realizados por empresas, na área da sua competência;
-
-c) Proceder à observação e registo do campo magnético e à sua análise e interpretação;
-
-d) Promover estudos de variação secular e das causas das perturbações do campo geomagnético;
-
-e) Elaborar a cartografia geofísica.
-
-###### Artigo 24.º
+###### Artigo 24.º — Divisão de Sondagens
 
 (Revogado.)
 
 > Revogado pelo/a [Decreto-Lei n.º 186/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2003-654681), publicado em 2003-08-20.
 
-##### Divisão de Sondagens
-
-A Divisão de Sondagens visa realizar trabalhos de sondagem para a melhoria do conhecimento geológico da subsuperfície e para a descoberta e reconhecimento de jazidas e massas minerais, competindo-lhe:
-
-a) Informar projectos de sondagens sob o ponto de vista da execução;
-
-b) Executar trabalhos de sondagens em conformidade com projectos aprovados;
-
-c) Aplicar e desenvolver novas técnicas na execução de trabalhos de sondagem nos campos específicos dos recursos geológicos;
-
-d) Acompanhar a execução em regime de exclusivo de sondagens abrangidas por contratos de prospecção e pesquisa;
-
-e) Participar em projectos de apoio técnico do IGM, no domínio das suas competências.
 
 ### CAPÍTULO III — Funcionamento
 

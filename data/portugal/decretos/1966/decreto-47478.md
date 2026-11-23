@@ -45,7 +45,7 @@ version_history:
     amending: pt:dre:690465:por
     amending_title: Decreto n.º 433/72; Decreto n.º 149/76; Decreto Regulamentar n.º 59/79; Decreto Regulamentar n.º 22/80;
       Decreto n.º 97/82; Decreto Regulamentar n.º 1/84; Decreto Regulamentar n.º 32/90; Decreto-Lei n.º 78/83; Decreto Regulamentar
-      n.º 27/87; Decreto-Lei n.º 34-A/89
+      n.º 27/87; Decreto-Lei n.º 34-A/89; Decreto-Lei n.º 97/82; Decreto-Lei n.º 366/82; Decreto-Lei n.º 44-C/86
     changes:
     - Altera Artigo 31.º
     - Altera Artigo 33.º
@@ -82,6 +82,11 @@ version_history:
     - Revoga Artigo 88
     - Revoga Artigo 89
     - Revoga Artigo 90
+    - Revoga Artigo 140
+    - Revoga Artigo 141
+    - Revoga Artigo 143
+    - Revoga Artigo 154
+    - Revoga Artigo 92
 identifiers:
   celex: null
   eli: null
@@ -308,7 +313,9 @@ A direcção da actividade internacional do Estado, atribuída constitucionalmen
 
 ###### Artigo 2.º
 
-Junto do Ministro e por este livremente escolhido funcionará o Gabinete do Ministro, constituído nos termos da lei geral e com as atribuições que por aquele lhe forem conferidas.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 44-C/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-c-1986-628060), publicado em 1986-03-07, com efeitos a partir de 1986-03-08.
 
 #### SECÇÃO II — Organização e competência da Secretaria de Estado
 
@@ -316,235 +323,51 @@ Junto do Ministro e por este livremente escolhido funcionará o Gabinete do Mini
 
 ###### Artigo 3.º
 
-A Secretaria de Estado é o órgão central da administração do serviço do Ministério e é constituída:
-
-1.º Pela Secretaria-Geral;
-
-2.º Pela Direcção-Geral dos Negócios Políticos;
-
-3.º Pela Direcção-Geral dos Negócios Económicos;
-
-4.º Pela Direcção-Geral dos Serviços Centrais.
+(Revogado.)
 
 ###### Artigo 4.º
 
-A Secretaria-Geral é dirigida pelo secretário-geral do Ministério e compreende os seguintes serviços:
-
-Serviços Jurídicos e de Tratados;
-
-Serviços de Informação e Imprensa;
-
-Serviços do Protocolo;
-
-Inspecção Diplomática e Consular;
-
-Repartição do Arquivo e Biblioteca;
-
-#### Secção da Cifra;
-
-Secção do Expediente.
+(Revogado.)
 
 ###### Artigo 5.º
 
-O secretário-geral é o chefe da Secretaria de Estado e o órgão coordenador dos serviços do Ministério, competindo-lhe nessa qualidade:
-
-1.º Imprimir unidade e continuidade aos serviços, interpondo a sua autoridade sempre que o exijam a regularidade e a eficiência dos mesmos;
-
-2.º Representar o Ministério, no caso de ausência ou impedimento do Ministro, em actos e cerimónias oficiais de carácter diplomático realizados no País;
-
-3.º Receber e conferenciar com os membros do corpo diplomático em Lisboa e comunicar-lhes as respostas que obriguem o Governo;
-
-4.º Propor e dar unidade às instruções gerais que devam ser transmitidas aos funcionários diplomáticos que partem a ocupar postos no estrangeiro;
-
-5.º Dar posse aos directores-gerais, quando o Ministro a não der pessoalmente;
-
-6.º Transferir, dentro do quadro do pessoal da Secretaria de Estado e de um para outro serviço, os funcionários de categoria inferior a chefe de Repartição, e chamar a trabalhar transitòriamente em qualquer divisão da Secretaria de Estado funcionários colocados em outro serviço da mesma;
-
-7.º Fazer distribuir toda a correspondência da Secretaria de Estado pelos diferentes serviços, com o poder de decidir, em caso de dúvida, a qual dos serviços pertence;
-
-8.º Apresentar ao Ministro todos os diplomas que tenham de ser submetidos à assinatura presidencial;
-
-9.º Assinar, no impedimento ou por delegação do Ministro, a correspondência que a este competir;
-
-10.º Emitir parecer sobre os assuntos de maior importância pendentes do Ministério; avocar, fazendo por escrito a requisição daqueles que estejam a correr pelas direcções-gerais, os processos que entenda dever submeter por si a despacho do Ministro e despachar aqueles para que lhe tenha sido dada delegação;
-
-11.º Assistir ao despacho dos directores-gerais com o Ministro, sempre que pela natureza das questões o julgue conveniente ou o Ministro para isso o convoque.
-
-§ único. Será por intermédio do secretário-geral que o Ministro dos Negócios Estrangeiros transmitirá aos diferentes organismos do estado as indicações relativas à eventual actuação destes no estrangeiro, com o fim de assegurar unidade e maior eficiência à actividade internacional portuguesa nos seus diferentes aspectos.
+(Revogado.)
 
 ###### Artigo 6.º
 
-O secretário-geral deverá convocar em conferência, com a frequência que entender conveniente, os directores-gerais do Ministério para o efeito:
-
-1.º De reforçar a solidariedade que deve existir entre a actividade política e a actividade económica na vida internacional do Estado;
-
-2.º De tornar regular e metódico, entre os dirigentes dos serviços da Secretaria de Estado, o conhecimento dos negócios pendentes e de assegurar que estes sejam conduzidos com o espírito de unidade que deve orientar a actividade do Estado na ordem internacional;
-
-3.º De obter o melhor rendimento do pessoal em serviço na Secretaria de Estado pela sua equitativa distribuição entre as direcções-gerais.
+(Revogado.)
 
 ###### Artigo 7.º
 
-Aos Serviços Jurídicos e de Tratados compete:
-
-1.º Estabelecer a forma e o processamento dos tratados e mais actos internacionais em que o Estado Português seja parte;
-
-2.º Estudar e auxiliar a condução das questões contenciosas de carácter internacional que interessem a Portugal;
-
-3.º Dar parecer sobre as questões jurídicas que interessem ao Ministério dos Negócios Estrangeiros quando lhe seja determinado;
-
-4.º Desempenhar as funções de consultor jurídico quanto à interpretação dos tratados e convenções internacionais que vinculem o Estado, dando parecer, naquelas matérias, aos outros serviços do Estado;
-
-5.º Estudar as questões de direito internacional privado suscitadas na esfera de acção do Ministério;
-
-6.º Estudar os problemas relativos à declaração de neutralidade e das questões dela derivadas;
-
-7.º Ocupar-se e auxiliar a condução das arbitragens internacionais;
-
-8.º Ocupar-se das questões e processos relativos a pescas marítimas;
-
-9.º Ocupar-se das questões de direito marítimo que não tenham carácter meramente consular;
-
-10.º Ocupar-se dos processos de nacionalidade;
-
-11.º Ocupar-se das questões relativas aos direitos e garantias individuais dos portugueses estabelecidos em país estrangeiro;
-
-12.º Ocupar-se dos processos de extradição e dos de expulsão de estrangeiros;
-
-13.º Ocupar-se da transmissão e recebimento de cartas rogatórias.
+(Revogado.)
 
 ###### Artigo 8.º
 
-Compete aos Serviços de Informação e Imprensa:
-
-1.º Manter as relações do Ministério com os órgãos de informação nacionais e estrangeiros em todos os assuntos que interessem às relações internacionais de Portugal;
-
-2.º Assegurar as relações do Ministério com os demais serviços do Estado competentes em matéria de imprensa e informação;
-
-3.º Organizar informações e relatórios, com as matérias metòdicamente classificadas, acerca do que for publicado, de interesse para Portugal, na imprensa e nos órgãos de informação nacionais e estrangeiros, procurando salientar as correntes de opinião em cada país sobre os problemas internacionais de momento e sobre a política interna e externa de Portugal;
-
-4.º Transmitir os textos assim elaborados aos serviços internos do Ministério e às entidades portuguesas que forem indicadas por despacho ministerial e enviar às embaixadas o resumo dos acontecimentos nacionais mais importantes.
-
-5.º Promover a publicação de artigos ou notícias que interessem às relações internacionais de Portugal;
-
-6.º Organizar e conservar o arquivo dos recortes da imprensa e o ficheiro dos nomes que interessem às matérias da competência dos Serviços;
-
-7.º Manter contacto permanente com os adidos de imprensa e com os representantes das agências telegráficas, de modo a assegurar aos serviços do Ministério o conhecimento das mais recentes informações;
-
-8.º Preparar a visita de entidades estrangeiras que, a convite do Ministério, se deslocarem ao País em missão de informação política.
+(Revogado.)
 
 ###### Artigo 9.º
 
-Aos Serviços do Protocolo compete:
-
-1.º A direcção dos serviços relativos às recepções e solenidades em que tomem parte o Presidente da República, o Presidente do Conselho, o Ministro dos Negócios Estrangeiros ou qualquer outro membro do Governo, especialmente quando àquelas assistirem membros do corpo diplomático ou de missões estrangeiras acreditadas permanente ou temporàriamente em Portugal;
-
-2.º O expediente das audiências dos membros do corpo diplomático;
-
-3.º As questões de cerimonial, etiqueta e precedências;
-
-4.º A expedição de passaportes diplomáticos e a fiscalização do serviço da expedição de passaportes diplomáticos pelas embaixadas de Portugal;
-
-5.º A vigilância do cumprimento das leis, convenções e usos internacionais relativos aos privilégios e imunidades diplomáticas e consulares;
-
-6.º A expedição de bilhetes de identidade aos membros do corpo diplomático acreditado em Lisboa;
-
-7.º A parte do expediente da concessão de condecorações portuguesas a estrangeiros e de condecorações estrangeiras a portugueses a cargo do Ministério dos Negócios Estrangeiros;
-
-8.º A publicação regular da lista do corpo diplomático acreditado em Lisboa;
-
-9.º O formulário dos diplomas ou documentos de carácter diplomático, tais como: cartas de ratificação, credenciais e recredencais, plenos poderes, cartas de gabinete, cartas-patentes e notas diplomáticas;
-
-10.º A vigilância pela boa ordem, arranjo e aspecto interno do Ministério dos Negócios Estrangeiros, no que respeita a mobiliário, ornamentação, indumentária e assuntos semelhantes;
-
-11.º O reconhecimento das assinaturas dos agentes diplomáticos portugueses;
-
-12.º As relações e obrigações sociais do Ministro quando este assim determinar.
+(Revogado.)
 
 ###### Artigo 10.º
 
-Os serviços do protocolo da Presidência da República são da responsabilidade do Ministério dos Negócios Estrangeiros e neles superintenderá o chefe do protocolo.
-
-§ único. Ficam a cargo da Secretaria-Geral da Presidência da República as despesas de expediente e quaisquer outras resultantes do serviço do protocolo da Presidência.
+(Revogado.)
 
 ###### Artigo 11.º
 
-Compete à Inspecção Diplomática e Consular:
-
-1.º Verificar o cumprimento das leis, regulamentos e instruções administrativas superiores por parte da Secretaria de Estado, das missões diplomáticas e dos consulados;
-
-2.º Proceder a inspecções diplomáticas ou consulares sempre que o Ministro o determine;
-
-3.º Propor ao Ministro a inspecção a qualquer serviço externo ou interno, quando o julgar necessário ou conveniente;
-
-4.º Elaborar os pertinentes relatórios em consequência das inspecções realizadas;
-
-5.º Visitar e verificar o estado dos edifícios que pertençam ao património público, à guarda do Ministério dos Negócios Estrangeiros;
-
-6.º Dar parecer sobre a eventual aquisição de edifícios para instalação de serviços do Ministério dos Negócios Estrangeiros;
-
-7.º Pronunciar-se sobre a aquisição de mobiliário para as missões diplomáticas e consulados;
-
-8.º Verificar o cumprimento das obrigações que incumbem às missões diplomáticas em matéria de representação;
-
-9.º Informar-se sobre a assistência prestada pelos consulados aos portugueses residentes na área da respectiva jurisdição consular.
-
-§ único. Compete à Inspecção Diplomática e Consular assegurar os serviços de expediente e secretaria das comissões temporárias previstas no § 2.º do artigo 185.º, assim como secretariar o instrutor e organizar os processos disciplinares ou de inquérito mandados instaurar pelo Ministro.
+(Revogado.)
 
 ###### Artigo 12.º
 
-Compete à Repartição do Arquivo e Biblioteca:
-
-1.º Conservar, classificar e catalogar toda a correspondência, registos e documentos do Ministério respeitantes a negócios findos;
-
-2.º Coligir em microfilmes os documentos de maior interesse e valor;
-
-3.º Classificar e inventariar as cartas geográficas, mapas, plantas e roteiros existentes no arquivo;
-
-4.º Promover a incorporação no arquivo, à medida que as circunstâncias o permitirem, da documentação das missões diplomáticas e dos consulados cuja conservação nos respectivos arquivos se julgue dispensável do ponto de vista político e administrativo;
-
-5.º Fornecer aos diferentes serviços do Ministério, mediante requisição, os processos e mais documentos necessários para consulta e todos os elementos de estudo que pelos mesmos lhe sejam solicitados;
-
-6.º Prestar toda a possível colaboração aos investigadores nacionais e estrangeiros que requeiram a consulta de documentos antigos para efeito de estudos históricos, tendo sempre presente que as colecções do arquivo são consideradas documentos diplomáticos sob a guarda exclusiva do Ministério e que só podem ser facultadas à leitura, em todos os casos, mediante autorização do secretário-geral;
-
-7.º Fornecer aos arquivistas das diferentes repartições e serviços do Ministério indicações técnicas sobre a forma como deverão executar os trabalhos a seu cargo;
-
-8.º Proceder à reorganização das colecções da biblioteca, classificando-as, arrumando-as e catalogando-as de harmonia com os modernos princípios de biblioteconomia;
-
-9.º Manter actualizado o recheio bibliográfico da biblioteca em assuntos de política internacional, economia política, direito internacional e história;
-
-10.º Promover a colaboração activa da biblioteca com as diferentes repartições e serviços do Ministério, de modo a torná-la um instrumento de trabalho à disposição de todos os funcionários;
-
-11.º Elaborar a sinopse dos tratados e fazer a compilação dos actos solenes de carácter internacional de que Portugal tenha sido parte originária ou a que tenha aderido, ou em que tenha interesse, e da legislação e das disposições de execução permanente sobre os serviços do Ministério, das resoluções dos tribunais superiores portugueses em matéria de direito internacional e das decisões dos tribunais internacionais que Portugal tenha reconhecido ou perante os quais tenha sido parte.
+(Revogado.)
 
 ###### Artigo 13.º
 
-Compete à Secção da Cifra:
-
-1.º A recepção, registo, cifração, decifração e distribuição dos telegramas aos serviços e repartições da Secretaria de Estado e a expedição dos telegramas emitidos por esta sob a responsabilidade do Ministro ou de funcionários cuja categoria mínima será a de chefe de secção do quadro diplomático;
-
-2.º A guarda, uso e elaboração dos dicionários e das chaves de cifra;
-
-3.º A fiscalização do cumprimento, pelas entidades dependentes do Ministério, das directrizes superiores em matéria de correspondência telegráfica e de comunicações telefónicas e das instruções que forem dadas quanto ao âmbito de conhecimento e grau de confidência das mesmas comunicações.
-
-§ único. Os funcionários colocados na Secção da Cifra consideram-se em serviço permanente.
+(Revogado.)
 
 ###### Artigo 14.º
 
-À Secção do Expediente compete:
-
-1.º Dar entrada à correspondência do Ministério, registá-la e distribuí-la pelos serviços competentes;
-
-2.º Expedir a correspondência, que para esse fim lhe for entregue pelos diferentes serviços do Ministério;
-
-3.º Proceder à organização, encerramento e expedição de malas diplomáticas;
-
-4.º Cuidar dos veículos que estejam ao seu serviço para recepção e expedição de correio e malas diplomáticas;
-
-5.º Receber, abrir e distribuir a correspondência dirigida à Secretaria de Estado pelas missões em mala diplomática;
-
-6.º Fiscalizar o devido uso das malas diplomáticas, quer na sua expedição, quer na sua recepção;
-
-7.º Comunicar superiormente qualquer infracção às regras e determinações existentes sobre o uso das malas diplomáticas.
+(Revogado.)
 
 ##### DIVISÃO II — Direcção-Geral dos Negócios Políticos
 
@@ -1376,41 +1199,37 @@ Não há correspondência entre os graus hierárquicos dos funcionários do serv
 
 ###### Artigo 92.º
 
-Os funcionários do quadro burocrático da Secretaria de Estado serão contratados, mas os contratos serão dependentes da aprovação em concurso de provas práticas.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 366/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/366-1982-374266), publicado em 1982-09-09.
 
 ###### Artigo 93.º
 
-A admissão do pessoal burocrático é feita mediante concurso para dactilógrafo ou terceiro-oficial.
+(Revogado.)
 
 ###### Artigo 94.º
 
-A admissão ao concurso para dactilógrafo é aberta a todos os cidadãos portugueses originários, de ambos os sexos, maiores ou emancipados, que tenham menos de 35 anos de idade e possuam as habilitações mínimas do 1.º ciclo dos liceus ou equivalência concedida pelo Ministério da Educação Nacional.
+(Revogado.)
 
 ###### Artigo 95.º
 
-A admissão ao concurso para terceiro-oficial é aberta a todos os cidadãos portugueses originários, de ambos os sexos, maiores ou emancipados, que tenham menos de 35 anos de idade e possuam as habilitações mínimas do 2.º ciclo dos liceus ou equivalência concedida pelo Ministério da Educação Nacional.
-
-§ único. O concurso para terceiro-oficial incluirá uma prova facultativa de estenografia.
+(Revogado.)
 
 ###### Artigo 96.º
 
-O limite de idade fixado em 35 anos nos artigos 93.º e 94.º não se aplica aos candidatos que sejam já funcionários públicos.
+(Revogado.)
 
 ###### Artigo 97.º
 
-As nomeações para dactilógrafo e as promoções a terceiro-oficial serão feitas pela ordem de classificação no concurso.
+(Revogado.)
 
 ###### Artigo 98.º
 
-As promoções para os lugares de escriturário serão efectuadas à medida que se verificarem vagas no respectivo quadro e recairão, de harmonia com um critério de antiguidade, sobre os dactilógrafos considerados aptos pelo conselho do Ministério e que reunirem as condições de acesso previstas na lei geral.
+(Revogado.)
 
 ###### Artigo 99.º
 
-As promoções para os lugares de segundo-oficial, primeiro-oficial e chefe de secção serão efectuadas à medida que se verificarem vagas no respectivo quadro, na proporção de três por mérito e uma por antiguidade.
-
-§ 1.º O conselho do Ministério, ao elaborar a lista de promoções por mérito, deverá ter em conta os serviços prestados e o conhecimento de línguas estrangeiras, para cuja aprendizagem poderá o Ministro autorizar a concessão de subsídios.
-
-§ 2.º Os funcionários do quadro administrativo não poderão ser promovidos mais de uma vez no mesmo país ou permanecer mais de cinco anos no mesmo posto.
+(Revogado.)
 
 > Alterado pelo/a [Decreto n.º 149/76](https://diariodarepublica.pt/dr/detalhe/decreto/149-1976-507591), publicado em 1976-02-20.
 
@@ -1734,29 +1553,13 @@ Nas capitais onde o Estado tiver edifício próprio ou arrendado para a instala�
 
 ###### Artigo 140.º
 
-Aos funcionários do serviço diplomático pela primeira vez nomeados com carácter definitivo, em relação a cada categoria, para o exercício de cargos no estrangeiro, serão abonadas para despesas de instalação as quantias fixas seguintes:
+(Revogado.)
 
-a) Aos terceiros-secretários, 40000$00;
-
-b) Aos segundos-secretários, 60000$00;
-
-c) Aos primeiros-secretários, 80000$00;
-
-d) Aos conselheiros, 100000$00;
-
-e) Aos ministros, 150000$00;
-
-f) Aos embaixadores, 180000$00.
-
-§ 1.º Nos abonos previstos no corpo deste artigo serão deduzidos 50 por cento do que o funcionário haja percebido nas categorias inferiores, excepto quando se verificar a primeira nomeação com carácter definitivo efectuada após a vigência do [Decreto-Lei n.º 47331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47331-1966-477374), de 23 de Novembro de 1966. Neste caso deduzir-se-ão no abono relativo à categoria do funcionário nomeado 50 por cento do total que a título de instalação lhe haja sido abonado ao abrigo do disposto no artigo 120.º do regulamento aprovado pelo [Decreto n.º 29970](https://diariodarepublica.pt/dr/detalhe/decreto/29970-1939-186275), de 13 de Outubro de 1939, e do artigo 9.º do [Decreto-Lei n.º 35985](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35985-1946-149417), de 23 de Novembro de 1946.
-
-§ 2.º As importâncias calculadas nos termos do parágrafo anterior serão reduzidas de 10 por cento quando o funcionário seja colocado em posto a que corresponda o direito a residir em casa mobilada e esta lhe seja fornecida pelo Estado.
+> Revogado pelo/a [Decreto-Lei n.º 97/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-1982-608477), publicado em 1982-04-03.
 
 ###### Artigo 141.º
 
-Os funcionários com direito a abono para despesas de instalação poderão receber metade desse abono dentro dos quinze dias anteriores ao da portaria e a outra metade a seguir à posse efectiva do cargo.
-
-§ único. Os chefes de missão, que até seis meses depois de terem tomado posse do seu cargo no estrangeiro não estiverem instalados em casa própria perdem o direito a metade do abono para despesas de instalação, que será reposta por dedução nos abonos de representação a que tiverem direito.
+(Revogado.)
 
 ###### Artigo 142.º
 
@@ -1764,9 +1567,7 @@ Os funcionários do quadro administrativo da Secretaria de Estado colocados no e
 
 ###### Artigo 143.º
 
-Aos funcionários do serviço diplomático colocados com carácter definitivo no estrangeiro que sejam transferidos ou promovidos para a Secretaria de Estado, ou que regressem definitivamente a Portugal por força do disposto no artigo 181.º deste regulamento, serão abonados 50 por cento da verba para despesas de instalação correspondente à sua categoria.
-
-§ único. Idêntico abono para despesas de instalação será também atribuído aos funcionários do serviço diplomático que regressem ao País após três anos seguidos de exercício no estrangeiro, qualquer que tenha sido aí a situação. Nos casos em que o regresso do funcionário se dê por ter cessado a comissão de serviço por ele desempenhada no estrangeiro nos termos do artigo 152.º do Regulamento, o abono será processado logo que reassuma o exercício do seu cargo na Secretaria de Estado. Nos restantes casos, nomeadamente naqueles em que o regresso do funcionário se tenha dado em seguimento à sua exoneração ou à sua colocação na situação prevista no artigo 169.º deste Regulamento ou tenha resultado de qualquer facto de ordem política internacional, o abono será feito quando, por despacho ministerial, assim for julgado adequado.
+(Revogado.)
 
 > Alterado pelo/a [Decreto n.º 433/72](https://diariodarepublica.pt/dr/detalhe/decreto/433-1972-690465), publicado em 1972-11-03.
 
@@ -1858,9 +1659,7 @@ As remunerações e abonos para as missões e comissões de que trata o artigo a
 
 ###### Artigo 154.º
 
-Aos funcionários do Ministério dos Negócios Estrangeiros encarregados de comissão no estrangeiro a que seja atribuída remuneração especial e a que não corresponda abono para instalação poderá ser antecipada, no máximo, a importância correspondente a 30 dias de remuneração, quando do diploma de nomeação se reconheça que a comissão deve exceder um mês.
-
-§ único. Se o prazo fixado ou previsto para a comissão for inferior a um mês, adiantar-se-á ao comissionado, por ocasião da sua partida para o estrangeiro, a importância correspondente ao prazo fixado ou previsto.
+(Revogado.)
 
 ##### DIVISÃO VI — Abonos aos funcionários chamados em serviço
 

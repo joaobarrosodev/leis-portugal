@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1998-12-30'
+version_history:
+  file: decreto-lei-116-92.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1992-06-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1998-12-30'
+    amending: pt:dre:567187:por
+    amending_title: Decreto-Lei n.º 274/98; Decreto-Lei n.º 394-A/98
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo ANEXO — Relação das linhas e ramais a que se refere o n.º 1 do artigo 2.º dos Estatutos
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/116/1992/06/20/p/dre/pt/html
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:15:54Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 274/98; Decreto-Lei
+    n.º 394-A/98. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1992/decreto-lei-116-92.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -182,9 +198,17 @@ Art. 3.º É aditado o artigo 26.º-A aos Estatutos dos Caminhos de Ferro Portug
 
 Art. 26.º-A. A exploração da ligação fluvial Lisboa-Terreiro do Paço ao Barreiro é assegurada pelos Caminhos de Ferro Portugueses, E. P., podendo estes constituir uma empresa para tal exploração.
 
-Art. 4.º É cometida aos Caminhos de Ferro Portugueses, E. P., a exploração, em regime de concessão, de um troço de linha férrea que ligará Campolide ao Pinhal Novo, pela actual ponte sobre o Tejo em Lisboa.
+Artigo 4.º
 
-Art. 5.º - 1 - Os Caminhos de Ferro Portugueses, E. P., poderão subconcessionar a exploração do transporte ferroviário nas linhas de via estreita, nas linhas de Cascais e do Algarve, no ramal da Lousã e nos troços de linha de Vila Nova de Gaia-Porto (São Bento), pela Ponte de São João, e Azambuja-Setúbal, pela actual ponte sobre o Tejo em Lisboa.
+1 - A exploração do serviço de transporte ferroviário de passageiros entre Roma-Areeiro e Pinhal Novo, com passagem pela Ponte de 25 de Abril, é atribuída pelo Estado, mediante concurso internacional, em regime de concessão.
+
+2 - A concessão referida no número anterior poderá estender-se até à Gare do Oriente e até Praias do Sado (via Setúbal).
+
+3 - A CP e outros operadores ferroviários só poderão explorar serviços de transporte ferroviário nos troços mencionados nos números anteriores nos termos e dentro dos limites estabelecidos no regime da concessão referida no n.º 1.
+
+Artigo 5.º
+
+1 - Os Caminhos de Ferro Portugueses, E. P., poderão subconcessionar a exploração do transporte ferroviário nas linhas de via estreita, nas linhas de Cascais e do Algarve, no ramal da Lousã e nos troços de linha de Vila Nova de Gaia-Porto (São Bento) pela Ponte de São João.
 
 2 - As subconcessões podem, nos termos que vierem a constar nos respectivos cadernos de encargos, ser estabelecidas mediante condições que obriguem o subconcessionário a proceder à modernização e ou à construção das linhas ou troços de linhas, existentes ou novos.
 
@@ -223,6 +247,8 @@ Art. 11.º Os preços a praticar pelos operadores subconcessionários não estã
 Art. 12.º - 1 - Os subconcessionários ficam sujeitos ao cumprimento das leis e regulamentos relativos à exploração ferroviária aplicáveis aos Caminhos de Ferro Portugueses, E. P.
 
 2 - A fiscalização da actividade dos subconcessionários, nos termos do número anterior, é da competência da Direcção-Geral de Transportes Terrestres.
+
+> Alterado pelo/a [Decreto-Lei n.º 274/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-1998-567187), publicado em 1998-09-05.
 
 Visto e aprovado em Conselho de Ministros de 2 de Abril de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Joaquim Martins Ferreira do Amaral.
 
@@ -264,7 +290,7 @@ Linha de Cintura: de Braço de Prata (exclusive) a Alcântara-Mar (exclusive), c
 
 Linha do Leste: de Abrantes (exclusive) a Elvas (fronteira).
 
-Ramal de Alcácer: de Torre das Vargens (exclusive) a Marvão-Beirã (fronteira).
+Ramal de Cáceres: de Torre das Vargens (exclusivo) a Marvão-Beirã (fronteira).
 
 Linha do Oeste: do Cacém (exclusive) à Figueira da Foz.
 
@@ -306,11 +332,9 @@ Ramal de Vila Viçosa: de Estremoz (exclusive) a Vila Viçosa.
 
 Linha do Algarve: de Lagos a Vila Real de Santo António.
 
+Linha de Guimarães: de Lousado (exclusive) a Santo Tirso e de Santo Tirso a Guimarães (a transformar)
+
 Via estreita
-
-Linha da Póvoa: do Porto (Trindade) à Póvoa de Varzim.
-
-Linha de Guimarães: de Senhora da Hora (exclusive) a Guimarães.
 
 Ramal de Famalicão: da Póvoa de Varzim (exclusive) a Famalicão (exclusive).
 
@@ -325,3 +349,5 @@ Linha do Sabor: de Pocinho a Duas Igrejas.
 Linha do Vouga: de Espinho a Aveiro, via Sernada do Vouga (exclusive).
 
 Ramal de Viseu: de Sernada do Vouga (exclusive) a Santa Comba Dão.
+
+> Alterado pelo/a [Decreto-Lei n.º 394-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/394-a-1998-324333), publicado em 1998-12-15.

@@ -54,9 +54,10 @@ version_history:
     changes: []
   - date: '2011-01-15'
     amending: pt:dre:306622:por
-    amending_title: Portaria n.º 1332/2010
+    amending_title: Portaria n.º 1332/2010; Portaria n.º 350/2007
     changes:
     - Altera Artigo unidades 58-66
+    - Revoga anexo ou texto fora do articulado
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/906/2004/07/26/p/dre/pt/html
@@ -83,7 +84,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:02:00Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1332/2010. Método e
-    verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/2004/portaria-906-2004.alteracoes.json'
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/2004/portaria-906-2004.alteracoes.json. Revogações
+    registadas só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Portaria n.º
+    350/2007.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -165,99 +168,39 @@ Manda o Governo, pela Ministra de Estado e das Finanças, o seguinte:
 
 Objecto
 
-A presente portaria aprova a estrutura nuclear da Direcção-Geral da Administração Pública, abreviadamente designada DGAP, as respectivas competências, bem como a dotação máxima das unidades orgânicas flexíveis.
+(Revogado.)
+
+> Revogado pelo/a [Portaria n.º 350/2007](https://diariodarepublica.pt/dr/detalhe/portaria/350-2007-520409), publicado em 2007-03-30, com efeitos a partir de 2007-04-01.
 
 2.º
 
 Estrutura nuclear
 
-A estrutura nuclear da DGAP integra as seguintes unidades orgânicas:
-
-a) Departamento de Regimes (DR);
-
-b) Departamento de Planeamento de Emprego Público e de Política Salarial (DPEPS);
-
-c) Departamento de Estudos Profissionais e de Coordenação da Formação (DEPCF);
-
-d) Departamento para a Modernização e Inovação Organizacionais (DMIO);
-
-e) Departamento de Recrutamento e Selecção (DRSP);
-
-f) Departamento de Organização e Gestão de Sistemas de Informação (DOGSI);
-
-g) Departamento de Gestão e Administração de Recursos (DGAR).
+(Revogado.)
 
 3.º
 
 Departamento de Regimes
 
-1 - Ao DR compete preparar, propor e acompanhar a execução de medidas de política que visem a definição de aperfeiçoamento e modernização dos regimes de trabalho e sistemas de avaliação e de gestão dos recursos humanos no âmbito da Administração Pública.
-
-2 - Ao DR compete, designadamente:
-
-a) Garantir a harmonização e coerência estatutária no âmbito da Administração Pública relativamente a quadros de pessoal, a regimes e condições de trabalho, ao desenvolvimento do regime das carreiras, ao estatuto remuneratório e à segurança social, através da intervenção sistemática na apreciação de projectos de diplomas relativos a essas matérias;
-
-b) Desenvolver sistemas de recursos humanos e acompanhar a sua execução;
-
-c) Prestar assessoria a diversos serviços da Administração Pública no âmbito das suas competências;
-
-d) Preparar e difundir orientações técnicas necessárias à uniformidade e coerência da aplicação das políticas desenvolvidas, designadamente no que se refere à relação jurídica de emprego;
-
-e) Avaliar o desenvolvimento das políticas de regimes de trabalho na Administração Pública, identificar necessidades de intervenção e propor as necessárias medidas de correcção, designadamente no que se refere às condições de prestação de trabalho e de melhoria da eficácia no funcionamento dos serviços;
-
-f) Garantir o acompanhamento sistemático da aplicação do sistema integrado de avaliação na Administração Pública (SIADAP), promovendo as necessárias medidas de correcção com vista ao seu aperfeiçoamento e eficácia;
-
-g) Garantir uma permanente dinâmica de modernização na Administração Pública nas respectivas áreas de intervenção, nomeadamente através de estudos de direito comparado sobre os regimes jurídicos das administrações públicas de outros países, designadamente dos da União Europeia e permanente informação sobre a sua evolução.
+(Revogado.)
 
 4.º
 
 Departamento de Planeamento de Emprego Público e de Política Salarial
 
-1 - Ao DPEPS compete propor a definição e desenvolvimento das políticas salariais e de emprego da Administração Pública, designadamente promovendo a mobilidade no seu âmbito e organizando a informação necessária à utilização racional dos recursos humanos.
-
-2 - Ao DPEPS compete, designadamente:
-
-a) Preparar a avaliação, planeamento e controlo do emprego público;
-
-b) Assegurar a gestão e actualização permanente dos sistemas de informação de recursos humanos, designadamente da base de dados de recursos humanos da Administração Pública;
-
-c) Garantir a articulação e dinamização da oferta e procura de emprego no âmbito da Administração Pública em articulação com os diversos departamentos ministeriais, designadamente na gestão da bolsa de emprego público (BEP) e na organização de sistemas complementares de informação para a gestão;
-
-d) Promover a colocação em actividade do pessoal disponível afecto à DGAP e dinamizar a mobilidade do pessoal que integra os quadros de supranumerários;
-
-e) Desenvolver estudos de avaliação e aperfeiçoamento do sistema remuneratório da Administração Pública, tendo em conta a inserção do emprego público no âmbito do emprego em geral e as tendências de evolução no seio das administrações da União Europeia.
+(Revogado.)
 
 5.º
 
 Departamento de Estudos Profissionais e de Coordenação da Formação
 
-1 - Ao DEPCF compete propor a definição de linhas de política e estratégias de informação, formação, de desenvolvimento profissional e certificação profissionais para a gestão das carreiras da Administração Pública e conceber e preparar metodologias adequadas à elaboração de diagnósticos de necessidades de formação.
-
-2 - Ao DEPCF compete, designadamente:
-
-a) Elaborar perfis de competências profissionais e proceder ao levantamento e caracterização de áreas funcionais;
-
-b) Colaborar com as entidades competentes em matéria de reconhecimento e certificação de qualificações profissionais, bem como apreciar os pedidos de autorização de exercício de funções no âmbito das carreiras técnica superior e técnica do regime geral da Administração Pública, nos termos da legislação em vigor;
-
-c) Acompanhar e avaliar o cumprimento dos planos de formação e os investimentos efectuados, nomeadamente através da avaliação do nível de impacte na melhoria da qualidade dos serviços.
+(Revogado.)
 
 6.º
 
 Departamento para a Modernização e Inovação Organizacionais
 
-1 - Ao DMIO compete, em geral, promover a gestão pela qualidade em serviços públicos, impulsionar o recurso a modelos inovadores de organização e gestão pública, avaliando o respectivo impacte, bem como acompanhar o processo de difusão da sociedade da informação na Administração Pública, promovendo o recurso a soluções de administração pública electrónica.
-
-2 - Ao DMIO compete, designadamente:
-
-a) Dinamizar o recurso a novos modelos de funcionamento e de soluções e modelos inovadores de organização e de gestão pública, promovendo a sua adopção;
-
-b) Promover, dinamizar e acompanhar o processo de difusão da sociedade da informação na Administração Pública, nomeadamente no que concerne à adopção de soluções de administração pública electrónica;
-
-c) Elaborar e divulgar informação e documentos metodológicos relacionados com os temas da inovação e qualidade em serviços públicos, designadamente no que respeita à avaliação do impacte das medidas de modernização administrativa;
-
-d) Estimular a gestão pela qualidade, designadamente através da promoção da utilização da estrutura comum de avaliação (CAF) na Administração Pública e da difusão das boas práticas identificadas;
-
-e) Coordenar estudos que envolvam outros departamentos da DGAP, quando estejam em causa iniciativas em matéria de inovação, modernização ou qualidade de natureza interdepartamental.
+(Revogado.)
 
 7.º - (Revogado.)
 
@@ -267,56 +210,24 @@ e) Coordenar estudos que envolvam outros departamentos da DGAP, quando estejam e
 
 Departamento de Organização e Gestão de Sistemas de Informação
 
-1 - Ao DOGSI compete propor e acompanhar a execução de soluções informáticas de apoio ao cumprimento das atribuições e competências da DGAP, garantindo a segurança, confidencialidade e integridade da informação.
-
-2 - Ao DOGSI compete, designadamente:
-
-a) Propor e acompanhar a implementação de soluções informáticas de apoio ao funcionamento e gestão da DGAP;
-
-b) Desenvolver e administrar as bases de dados de recursos humanos da Administração Pública (BDAP), da BEP, dos serviços e organismos da Administração Pública e o sistema informático de apoio ao SIADAP;
-
-c) Assegurar a administração e gestão das bases de dados criadas no âmbito da DGAP, bem como assegurar a administração de sistemas e produtos informáticos;
-
-d) Gerir e manter operacional toda a infra-estrutura de comunicação, equipamento informático e suportes lógicos da DGAP;
-
-e) Definir e implementar normas e configurações a que devem obedecer os meios individuais de computação, bem como propor e participar nos processos de aquisição, contratação e instalação de equipamentos e serviços de informática.
+(Revogado.)
 
 9.º
 
 Departamento de Gestão e Administração de Recursos
 
-1 - Ao DGAR compete, em geral, assegurar a gestão e administração dos recursos humanos, financeiros, patrimoniais e documentais da DGAP, bem como o respectivo expediente.
-
-2 - Ao DGAR compete, designadamente:
-
-a) Assegurar a gestão dos recursos humanos, nomeadamente a gestão previsional do pessoal;
-
-b) Elaborar o plano anual de formação e o balanço social;
-
-c) Coordenar a elaboração dos planos e relatórios anuais de actividades da DGAP;
-
-d) Assegurar a gestão orçamental, elaborar os projectos de orçamento, propor as alterações que se revelem necessárias e controlar a respectiva execução;
-
-e) Elaborar os planos financeiros anuais e plurianuais, bem como a conta de gerência;
-
-f) Assegurar a gestão do aprovisionamento nas diversas fases;
-
-g) Assegurar a gestão e conservação do património e das instalações, mantendo actualizado o inventário;
-
-h) Gerir o património documental e elaborar normas de tratamento, gestão, conservação e arquivo;
-
-i) Assegurar a gestão do parque de viaturas.
+(Revogado.)
 
 10.º
 
 Dotação das unidades orgânicas flexíveis
 
-A estrutura flexível da DGAP compreende, no máximo, 10 divisões e 3 secções.
+(Revogado.)
 
 11.º
 
 Extinção de unidades orgânicas
 
-São extintas as repartições da DGAP.
+(Revogado.)
 
 A Ministra de Estado e das Finanças, Maria Manuela Dias Ferreira Leite, em 8 de Julho de 2004.

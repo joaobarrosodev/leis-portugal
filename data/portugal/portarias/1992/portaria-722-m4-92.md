@@ -53,11 +53,12 @@ version_history:
     changes: []
   - date: '1997-09-07'
     amending: pt:dre:642905:por
-    amending_title: Portaria n.º 846/97
+    amending_title: Portaria n.º 846/97; Portaria n.º 137/93
     changes:
     - Altera Artigo unidades 6-6
     - Adita Artigo depois da unidade 6
     - Altera planta
+    - Revoga anexo ou texto fora do articulado
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/722-m4/1992/07/15/p/dre/pt/html
@@ -85,7 +86,9 @@ provenance:
   generated_at: '2026-10-23T11:30:33Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 846/97. Método e verificação:
     consolidacao/README.md e consolidacao/piloto/portugal/portarias/1992/portaria-722-m4-92.alteracoes.json. Planta trocada
-    pela do alterador que reescreveu o n.º 1.º (consolidacao/plantas_n1.py, verificada às cegas): Portaria n.º 846/97.'
+    pela do alterador que reescreveu o n.º 1.º (consolidacao/plantas_n1.py, verificada às cegas): Portaria n.º 846/97. Revogações
+    registadas só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Portaria n.º
+    137/93.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -170,7 +173,9 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 > Aditado pelo/a [Portaria n.º 846/97](https://diariodarepublica.pt/dr/detalhe/portaria/846-1997-642905), publicado em 1997-09-06.
 
-2.º Pelo presente diploma é concessionada, pelo período de nove anos, à Associação de Caça e Pesca do Baceiro (registo na Direcção-Geral das Florestas n.º 1.1077.92), com sede em Conlelas, Bragança, a zona de caça associativa do Baceiro (processo n.º 1071 da Direcção-Geral das Florestas).
+2.º Pelo presente diploma é concessionada, pelo período de 12 anos, à Associação de Caça e Pesca do Baceiro (registo na Direcção-Geral das Florestas n.º 1.1077.92), com sede em Conlelas, Bragança, a zona de caça associativa do Baceiro (processo n.º 1071 da Direcção-Geral das Florestas).
+
+> Revogado pelo/a [Portaria n.º 137/93](https://diariodarepublica.pt/dr/detalhe/portaria/137-1993-647682), publicado em 1993-02-06, com efeitos a partir de 1993-02-11.
 
 3.º A Associação de Caça e Pesca do Baceiro, como entidade gestora da zona de caça associativa concedida pelo presente diploma, fica obrigada a cumprir e a fazer cumprir o plano de ordenamento e exploração cinegética aprovado e demais disposições legais e regulamentares do exercício da caça que lhe forem aplicáveis, sem prejuízo da responsabilidade pessoal dos infractores.
 

@@ -56,12 +56,13 @@ version_history:
     changes: []
   - date: '2017-07-19'
     amending: pt:dre:107703391:por
-    amending_title: Decreto-Lei n.º 82/2017
+    amending_title: Decreto-Lei n.º 82/2017; Decreto-Lei n.º 42/2017
     changes:
     - Revoga Artigo 1.º
     - Revoga Artigo 2.º
     - Revoga Artigo 3.º
     - Revoga Artigo 6.º
+    - Revoga Artigo 5
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/34/2014/03/05/p/dre/pt/html
@@ -88,7 +89,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T03:25:08Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 82/2017. Método e
-    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2014/decreto-lei-34-2014.alteracoes.json'
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2014/decreto-lei-34-2014.alteracoes.json.
+    Revogações registadas só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Decreto-Lei
+    n.º 42/2017.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -229,7 +232,9 @@ Os anexos I e II ao Decreto-Lei n.º 257/2009, de 24 de setembro, alterado e rep
 
 ###### Artigo 5.º — Alteração aos anexos II e IV ao Decreto-Lei n.º 88/2010, de 20 de julho
 
-Os anexos II e IV ao Decreto-Lei n.º 88/2010, de 20 de julho, alterado pelos Decretos-Leis n.os 91/2012, de 12 de abril, 122/2012, de 19 de junho, e 63-B/2013, de 10 de maio, são alterados com a redação constante do anexo III ao presente decreto-lei, do qual faz parte integrante.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 42/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-2017-106825053), publicado em 2017-04-06, com efeitos a partir de 2017-04-07.
 
 ###### Artigo 6.º — Norma revogatória
 

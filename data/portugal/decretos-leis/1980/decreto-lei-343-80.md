@@ -32,7 +32,7 @@ version:
   kind: consolidated
   label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: '1981-08-31'
+  consolidation_date: '1991-09-11'
 version_history:
   file: decreto-lei-343-80.versoes.json
   count: 2
@@ -42,9 +42,9 @@ version_history:
     amending: null
     amending_title: null
     changes: []
-  - date: '1981-08-31'
+  - date: '1991-09-11'
     amending: pt:dre:577899:por
-    amending_title: Lei n.º 36/81
+    amending_title: Lei n.º 36/81; Decreto-Lei n.º 332/91
     changes:
     - Altera Artigo unidades 13-13
     - Altera Artigo unidades 35-35
@@ -53,6 +53,7 @@ version_history:
     - Adita Artigo depois da unidade 50
     - Altera Artigo unidades 51-55
     - Altera Artigo unidades 56-59
+    - Revoga Artigo 1
 identifiers:
   celex: null
   eli: null
@@ -79,7 +80,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T23:31:16Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Lei n.º 36/81. Método e verificação:
-    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1980/decreto-lei-343-80.alteracoes.json'
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1980/decreto-lei-343-80.alteracoes.json. Revogações
+    registadas só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py): Decreto-Lei
+    n.º 332/91.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -201,29 +204,11 @@ c) As indemnizações por expropriações não expressamente referidas no n.º 2
 
 6 - O disposto nas alíneas a) e b) do n.º 4 não impede a mobilização, por qualquer das formas previstas nos artigos 29.º e seguintes, dos títulos entregues em pagamento das indemnizações devidas pelas nacionalizações nele referidas.
 
-Art. 14.º O valor de cada acção ou parte de capital, para efeitos de indemnização definitiva, será determinado, relativamente a cada empresa, por despacho do Ministro das Finanças e do Plano, de acordo com o preceituado no [Decreto-Lei n.º 528/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/528-1976-431430), de 7 de Julho, em tudo o que não contrarie o disposto na presente lei.
+Art. 14.º (Revogado.)
 
 Art. 15.º O valor da indemnização definitiva devida pela nacionalização e expropriação de prédios ao abrigo da legislação sobre reforma agrária será fixado por despacho conjunto dos Ministros das Finanças e do Plano e da Agricultura e Pescas, de acordo com os princípios e regras a definir pelo Governo, nos termos do n.º 2 do artigo 37.º
 
-Art. 16.º - 1 - Sem prejuízo do recurso para outras instâncias competentes, a resolução de quaisquer litígios relativos à titularidade do direito à indemnização e à sua fixação, liquidação e efectivação poderá ser feita por comissões arbitrais.
-
-2 - As comissões arbitrais serão constituídas a requerimento dos titulares de direito à indemnização, dirigido ao Ministro das Finanças e do Plano, de acordo com os seguintes princípios:
-
-a) Só pode haver uma comissão arbitral para os ex-sócios ou accionistas de uma mesma empresa nacionalizada;
-
-b) Só pode haver uma comissão arbitral para os comproprietários de um mesmo bem nacionalizado ou expropriado.
-
-3 - Cada comissão arbitral será constituída por três membros, sendo um representante do Governo, outro da parte litigante e o terceiro, que presidirá, um árbitro escolhido por mútuo acordo entre os dois primeiros.
-
-4 - O Governo designará o seu representante no prazo de trinta dias a contar da solicitação de constituição da comissão arbitral, devendo esta emitir a sua decisão no prazo máximo de sessenta dias após a sua entrada em funcionamento.
-
-5 - O Ministro das Finanças e do Plano fixará, por despacho, os emolumentos devidos ao árbitro presidente, os quais serão satisfeitos pelo litigante.
-
-6 - As decisões das comissões arbitrais terão validade após homologação, por despacho do Ministro das Finanças e do Plano, publicado na 2.ª série do Diário da República.
-
-7 - Dos despachos que recaiam sobre decisões das comissões arbitrais cabe recurso para o Supremo Tribunal Administrativo.
-
-8 - Os requerimentos visando a criação de comissões arbitrais só terão efeito se forem enviados ao Ministro das Finanças e do Plano no prazo de trinta dias a contar da data do despacho ou acto que seja causa de litígio.
+Art. 16.º (Revogado.)
 
 Art. 22.º - 1 - As misericórdias e outras instituições privadas de solidariedade social, as fundações e as cooperativas, bem como as congregações e associações religiosas, terão direito a receber indemnizações nos termos correspondentes à classe I, desde que provem a titularidade efectiva dos títulos ou bens à data da nacionalização, expropriação ou ocupação.
 
@@ -264,6 +249,8 @@ Art. 31.º - 1 - Os titulares do direito à indemnização poderão também util
 3 - A mobilização prevista nos números anteriores poderá efectuar-se imediatamente pelo valor nominal dos títulos.
 
 > Alterado pelo/a [Lei n.º 36/81](https://diariodarepublica.pt/dr/detalhe/lei/36-1981-577899), publicado em 1981-08-31.
+
+> Revogado pelo/a [Decreto-Lei n.º 332/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/332-1991-304536), publicado em 1991-09-06, com efeitos a partir de 1991-09-11.
 
 ###### ARTIGO 32.º
 

@@ -86,6 +86,12 @@
      "title": "Decreto-Lei n.º 208/2002",
      "published": "2002-10-17",
      "dre_path": "/dr/detalhe/decreto-lei/208-2002-432449"
+    },
+    {
+     "id": "pt:dre:484664:por",
+     "title": "Decreto-Lei n.º 206/98",
+     "published": "1998-07-13",
+     "dre_path": "/dr/detalhe/decreto-lei/206-1998-484664"
     }
    ],
    "changes": [
@@ -122,7 +128,8 @@
     "Revoga Artigo 31.º",
     "Revoga Artigo 33.º",
     "Revoga Artigo 34.º",
-    "Revoga Artigo 35.º"
+    "Revoga Artigo 35.º",
+    "Revoga anexo ou texto fora do articulado"
    ],
    "fragments": [
     "9ef3d69706c8c87f",
@@ -143,36 +150,29 @@
     "94dcabae2ef6125a",
     "b82e67482471ab8d",
     "51800a71c420e1fd",
-    "a07987eee4b6f8ec",
-    "9e707b8174eb98de",
+    "bfbc6cf2da998be5",
     "e6729a8b8840b253",
     "81e696ebe8325594",
     "1710dda78c59001f",
-    "e5caddd871ea0e4a",
     "feece44c0e95f70e",
     "01569560f8a1fd59",
     "796d092f0c60a41c",
     "eed08778c79e9e7d",
-    "3090080b1e3adec9",
+    "50056b3669f2ebec",
     "703fe5dab712215f",
     "6e43215c525d7db2",
     "c270ad0d00985422",
     "64115b81801596f5",
     "4559ad47e1d50020",
-    "3f87ce8a0e85dbf2",
-    "7abd9d2f1649d67a",
-    "2a70937071925935",
+    "dbb9ad6a06fdbea7",
     "e002a7ed43cb3411",
     "c2749a645bd6b1c4",
     "43988dac148624ee",
     "e6746131c4fe7678",
     "68806801e513c960",
     "74db93cc8bb39b12",
-    "665f4c14dd6141ff",
     "0dc3b2e1b862c851",
-    "10901a727bb268e7",
     "fdbdf8c8770ee23e",
-    "3fb5842b18228677",
     "3fe2e1d097effe4e",
     "6f341393381fb7dc",
     "59d5c29c2b078f2d",
@@ -795,15 +795,15 @@
    ],
    "markdown": "###### Artigo 9.º — Direcção de Serviços de Recursos Humanos\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 208/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2002-432449), publicado em 2002-10-17."
   },
-  "a07987eee4b6f8ec": {
+  "bfbc6cf2da998be5": {
    "fragment_id": null,
    "type": null,
-   "heading": "Artigo 10.º",
+   "heading": "Artigo 10.º — Divisão de Pessoal",
    "in_force_from": "2002-10-22",
    "changed_by": [
     "Revogado pelo/a [Decreto-Lei n.º 208/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2002-432449), publicado em 2002-10-17."
    ],
-   "markdown": "###### Artigo 10.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 208/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2002-432449), publicado em 2002-10-17."
+   "markdown": "###### Artigo 10.º — Divisão de Pessoal\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 208/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2002-432449), publicado em 2002-10-17."
   },
   "e6729a8b8840b253": {
    "fragment_id": null,
@@ -865,6 +865,16 @@
    ],
    "markdown": "###### Artigo 16.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 208/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2002-432449), publicado em 2002-10-17."
   },
+  "50056b3669f2ebec": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Divisão de Arquivo",
+   "in_force_from": "2002-10-22",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 206/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-1998-484664), publicado em 1998-07-13, com efeitos a partir de 1998-07-18."
+   ],
+   "markdown": "##### Divisão de Arquivo\n\n1 - À Divisão de Arquivo compete:\n\na) Estudar e propor normas tendentes à uniformização da classificação de documentos e respectivos prazos de conservação e destruição;\n\nb) Elaborar um regulamento geral de arquivos corrente e intermédio do ME, a aprovar por despacho do Ministro da Educação;\n\nc) Organizar e manter o Arquivo Histórico, o Arquivo Intermédio e o Arquivo Corrente;\n\nd) (Revogada.)\n\n> Revogado pelo/a [Decreto-Lei n.º 206/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-1998-484664), publicado em 1998-07-13, com efeitos a partir de 1998-07-18.\n\ne) (Revogada.)\n\nf) Elaborar e actualizar as tabelas gerais de avaliação, selecção e eliminação de documentos de acordo com a legislação em vigor relativamente aos serviços do ME e ainda aos estabelecimentos dos ensinos básico e secundário, esta última em articulação com os serviços responsáveis pela educação básica e pelo ensino secundário;\n\ng) Organizar bases de dados para os arquivos do ME;\n\n2 - A Divisão de Arquivo dispõe de um sector de registo e tratamento de arquivo."
+  },
   "703fe5dab712215f": {
    "fragment_id": null,
    "type": null,
@@ -885,15 +895,15 @@
    ],
    "markdown": "###### Artigo 18.º — Centro de Informação e Relações Públicas\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 208/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2002-432449), publicado em 2002-10-17."
   },
-  "3f87ce8a0e85dbf2": {
+  "dbb9ad6a06fdbea7": {
    "fragment_id": null,
    "type": null,
-   "heading": "Artigo 19.º",
+   "heading": "Artigo 19.º — Divisão de Instalações e Equipamento",
    "in_force_from": "2002-10-22",
    "changed_by": [
     "Revogado pelo/a [Decreto-Lei n.º 208/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2002-432449), publicado em 2002-10-17."
    ],
-   "markdown": "###### Artigo 19.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 208/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2002-432449), publicado em 2002-10-17."
+   "markdown": "###### Artigo 19.º — Divisão de Instalações e Equipamento\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 208/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2002-432449), publicado em 2002-10-17."
   },
   "e002a7ed43cb3411": {
    "fragment_id": null,

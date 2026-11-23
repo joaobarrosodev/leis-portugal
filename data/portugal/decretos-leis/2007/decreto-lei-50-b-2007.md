@@ -53,7 +53,7 @@ version_history:
     changes: []
   - date: '2015-01-31'
     amending: pt:dre:493009:por
-    amending_title: Decreto-Lei n.º 176/2009; Decreto-Lei n.º 12/2015
+    amending_title: Decreto-Lei n.º 176/2009; Decreto-Lei n.º 12/2015; Decreto-Lei n.º 18/2008
     changes:
     - Altera Artigo 12.º
     - Revoga Artigo 4
@@ -72,6 +72,7 @@ version_history:
     - Revoga Artigo 19
     - Revoga Artigo 20
     - Revoga Artigo 21
+    - Revoga Artigo 11
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/50-b/2007/02/28/p/dre/pt/html
@@ -291,9 +292,9 @@ O presente decreto-lei e o seu anexo constituem título bastante para todos os e
 
 ###### Artigo 11.º — Aquisição de bens e serviços
 
-1 - A aquisição de bens e serviços e a contratação de empreitadas pela ULSNA, E. P. E., rege-se pelas normas de direito privado, sem prejuízo da aplicação do regime do direito comunitário relativo à contratação pública.
+(Revogado.)
 
-2 - O regulamento interno da ULSNA, E. P. E., deve garantir o disposto no número anterior, bem como, em qualquer caso, o cumprimento dos princípios gerais da livre concorrência, transparência e boa gestão, designadamente a fundamentação das decisões tomadas.
+> Revogado pelo/a [Decreto-Lei n.º 18/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), publicado em 2008-01-29, com efeitos a partir de 2008-07-29.
 
 ### CAPÍTULO IV — Recursos humanos
 

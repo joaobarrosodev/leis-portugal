@@ -31,7 +31,7 @@ version:
   kind: consolidated
   label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: '1984-08-02'
+  consolidation_date: '1987-01-05'
 version_history:
   file: portaria-284-80.versoes.json
   count: 2
@@ -41,14 +41,15 @@ version_history:
     amending: null
     amending_title: null
     changes: []
-  - date: '1984-08-02'
+  - date: '1987-01-05'
     amending: pt:dre:458213:por
     amending_title: Portaria n.º 996/80; Portaria n.º 490/81; Portaria n.º 831/81; Portaria n.º 844/81; Portaria n.º 925/81;
       Portaria n.º 147/82; Portaria n.º 221/82; Portaria n.º 343/82; Portaria n.º 484/82; Portaria n.º 855/82; Portaria n.º
-      860/82; Portaria n.º 43/84; Portaria n.º 524/84
+      860/82; Portaria n.º 43/84; Portaria n.º 524/84; Decreto-Lei n.º 442/86
     changes:
     - Altera Artigo unidades 5-5
     - Altera anexo ou texto fora do articulado
+    - Revoga anexo ou texto fora do articulado
 identifiers:
   celex: null
   eli: null
@@ -79,7 +80,8 @@ provenance:
     de alteradores triados «sem alteração textual», aplicados com um LLM e verificados às cegas (consolidacao/anexos_alteradores.py):
     Portaria n.º 490/81; Portaria n.º 831/81; Portaria n.º 844/81; Portaria n.º 925/81; Portaria n.º 147/82; Portaria n.º
     221/82; Portaria n.º 343/82; Portaria n.º 484/82; Portaria n.º 855/82; Portaria n.º 860/82; Portaria n.º 43/84; Portaria
-    n.º 524/84.'
+    n.º 524/84. Revogações registadas só como repealed_by, aplicadas com um LLM e verificadas às cegas (consolidacao/revogacoes.py):
+    Decreto-Lei n.º 442/86.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -453,7 +455,9 @@ Alteração ao quadro do Gabinete para a Pesquisa e Exploração de Petróleo, a
 
 Alteração ao quadro de pessoal da Direcção-Geral de Energia, anexo VII (Portaria n.º 221/82):
 
-É criado no quadro de pessoal da Direcção-Geral de Energia, constante do anexo VII à [Portaria n.º 284/80](https://diariodarepublica.pt/dr/detalhe/portaria/284-1980-474529), de 24 de Maio, 1 lugar de assessor, letra B, a prover pelo director-geral dos Serviços Eléctricos, de nomeação definitiva, o qual será extinto quando vagar.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 442/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-1986-627067), publicado em 1986-12-31, com efeitos a partir de 1987-01-05.
 
 Alteração aos anexos (Portaria n.º 343/82):
 
@@ -477,11 +481,9 @@ Alteração ao quadro de pessoal da Direcção-Geral das Indústrias Electromec�
 
 Alteração ao quadro de pessoal da Direcção-Geral de Energia, anexo VII (Portaria n.º 860/82):
 
-1.º São criados no quadro de pessoal da Direcção-Geral de Energia, do Ministério da Indústria, Energia e Exportação, constante do anexo VII à [Portaria n.º 284/80](https://diariodarepublica.pt/dr/detalhe/portaria/284-1980-474529), de 24 de Maio, alterada pelas Portarias n.os [996/80](https://diariodarepublica.pt/dr/detalhe/portaria/996-1980-458213), de 20 de Novembro, e [343/82](https://diariodarepublica.pt/dr/detalhe/portaria/343-1982-608524), de 1 de Abril, os seguintes lugares:
+1.º (Revogado.)
 
-Assessor, letra B - 2 lugares.
-
-2.º Os referidos lugares serão extintos quando vagarem.
+2.º (Revogado.)
 
 Alteração ao quadro de pessoal do Instituto de Apoio às Pequenas e Médias Empresas Industriais, anexo XIV (Portaria n.º 43/84):
 
