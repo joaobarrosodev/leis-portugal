@@ -1,0 +1,19 @@
+[
+ {
+  "id": "pt:dre:484667:por",
+  "veredicto": "certo",
+  "problemas": [],
+  "vigencia": {
+   "conclusao": "revogado",
+   "prova": "Decreto-Lei n.º 172/2006, artigo 79.º, n.º 1 (mantido na redação do Decreto-Lei n.º 76/2019): revoga o Decreto-Lei n.º 183/95, salvo os artigos 6.º, 7.º e 53.º, com vigência transitória para os centros com CAE em vigor (n.º 1 do artigo 61.º e artigo 70.º); os artigos 6.º, 7.º e 53.º foram revogados pelo Decreto-Lei n.º 226-A/2007, artigo 96.º, alínea c)."
+  }
+ },
+ {
+  "id": "pt:dre:193229:por",
+  "veredicto": "reparos",
+  "problemas": [
+   "Artigo 16.º, § único (na redação do artigo 1.º do Decreto-Lei n.º 46815): falta aplicar a Declaração de 26 de janeiro de 1966 (Secretaria-Geral da Presidência do Conselho, data/portugal/declaracoes/1966/declaracao-1966-02-04-489553.md), que retifica o texto do Decreto-Lei n.º 46815: onde se lê «a frequência provável das consultas e os horários clínicos em uso local.» deve ler-se «a frequência provável das consultas e os honorários clínicos em uso local.» O consolidado mantém «horários clínicos». A declaração não aparece nas relationships como corrected_by."
+  ],
+  "vigencia": null
+ }
+]
