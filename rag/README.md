@@ -1164,6 +1164,26 @@ O limiar fica 3 no código. Os números servem para quando se decidir: com 3,5, 
 4. **Com chave, as perguntas no reranker quase não somam:** com o LLM e a reescrita, a B dá 244 certas e a D 249 (+5, com 11 ganhos e 6 perdas), e as duas respondem às mesmas 2 «sem resposta». A reescrita e as perguntas corrigem quase as mesmas falhas da pesquisa. Sem chave, as perguntas continuam a valer +34.
 
 
+## Publicação em três passos, passo 1: o código novo (23/11/2026)
+
+O João decidiu publicar o que se fez de 20 a 23/11 em três passos, cada um medido sozinho: (1) só o código, (2) os dados do DRE, (3) as correções da auditoria. O passo 1 é o código do main em `69a96b77e36` sobre o `data/` desse commit, sem a recolha completa do DRE nem as correções da auditoria. Junta o texto corrido lido como artigos, os nomes dos códigos e as ligações ao texto em vigor, a 1.ª leva de perguntas por artigo para os avulsos e as declarações de retificação nas redações anteriores. Construído num worktree à parte, com e sem o texto corrido (`--sem-texto-corrido`), e medido como a aplicação 0.1.1 pesquisa (reranker em lotes de 16, limiar 3, sem LLM):
+
+| | Publicado (`app011-fase1`) | Passo 1 com texto corrido (`app011-intermedio`) | Passo 1 sem texto corrido |
+|---|--:|--:|--:|
+| Pedaços | 2.582.317 | 2.677.569 | 2.583.465 |
+| Certas (de 1.298) | 634 | 635 | 635 |
+| Respondidas | 833 | 839 | 836 |
+| «Sem resposta» respondidas | 5 | 5 | 5 |
+| Artigo certo em 1.º | 767 | 775 | 778 |
+| Artigo certo no top 10 | 1.031 | 1.070 | 1.072 |
+| Reais certas | 124 | 123 | 124 |
+| Reais, artigo no top 10 | 236 | 247 | 248 |
+| Coloquiais, artigo no top 10 | 184 | 204 | 204 |
+
+- **As certas não mudam** (9 ganhos e 8 perdas face ao publicado, dentro do ruído): o reranker da 0.1.1 não lê as perguntas por artigo, e é por elas que o artigo certo sobe. O ganho é encontrar o artigo: +39 no top 10, quase todo nas reais e nas coloquiais.
+- **O texto corrido não custa nada que se meça** (com e sem: 5 ganhos e 5 perdas, top 10 com 2 e sem 4). Nenhuma pergunta de avaliação tem a fonte num diploma que ele passa a ler, por isso a medição não vê o ganho (126.384 artigos de 10.542 registos antigos com número). Publicou-se a versão com texto corrido.
+- **Publicado no Hugging Face a 23/11/2026** como delta de 2026-11-20 para 2026-11-23 (42,3 MB). A descarga como a aplicação faz (completa de 16/11 mais os três deltas) dá `documentos`, `pedacos`, `relacoes`, `so_referencia` e `perguntas_artigo` iguais linha a linha ao publicado, e o FTS passa o `integrity-check`.
+
 ## Próximos passos
 
 Por ordem de ganho esperado:
