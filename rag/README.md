@@ -1200,6 +1200,24 @@ O passo 2 é o main em `418ac3dfd9a`: a recolha completa dos consolidados do DRE
 
 Pergunta a pergunta: 6 ganhos (5 reais) e 3 perdas, duas delas com a nota do reranker logo abaixo do limiar (2,89 e 2,96). Nenhuma «sem resposta» passa a ser respondida. **Publicado no Hugging Face a 24/11/2026** como delta de 2026-11-23 para 2026-11-24; a descarga como a aplicação faz (completa de 16/11 mais os quatro deltas) dá as mesmas linhas e o FTS passa o `integrity-check`.
 
+## Publicação em três passos, passo 3: as correções da auditoria (24/11/2026)
+
+O passo 3 é o main em `bdb7daf36a8`, construído na pasta principal: o passo 2 mais as correções da auditoria dos consolidados — revogações parciais registadas só como `repealed_by` (217 pares em 160 consolidados, 1.623 artigos ou unidades deixam de sair como em vigor), o texto antigo retirado de 25 artigos em 4 consolidados, as rondas 116 a 118 da onda 1 e as rondas 119 e 120 da onda 2 (48 consolidados) — e o texto certo do DL 41561 (o DRE servia o do DL 41560).
+
+| | Passo 2 | Passo 3 (`app011-passo3`) |
+|---|--:|--:|
+| Pedaços | 2.678.593 | 2.680.634 |
+| Certas (de 1.298) | 638 | 640 |
+| «Sem resposta» respondidas | 5 | 6 |
+| Artigo certo em 1.º | 780 | 781 |
+| Artigo certo no top 10 | 1.077 | 1.077 |
+| Reais certas | 126 | 128 |
+| Revogadas: aviso de revogação no 1.º | 55 | 55 |
+
+Pergunta a pergunta: 2 ganhos (reais) e 1 perda. A perda é uma «sem resposta» que passa a ser respondida: o artigo no topo é o mesmo nos dois índices (art. 24.º da Lei n.º 6/2006, que a auditoria não mexeu) e só a nota do reranker passa de 2,85 para 3,26, porque o lote de candidatos mudou. É o ruído das notas em lotes de 16, não um efeito dos dados. **Publicado no Hugging Face a 24/11/2026** como delta de 2026-11-24 para `2026-11-24.2` (2,5 MB; a versão compara-se como texto e tem de ser maior do que a anterior). A descarga como a aplicação faz (completa de 16/11 mais os cinco deltas) dá as mesmas linhas e o FTS passa o `integrity-check`.
+
+**Os três passos juntos** (do índice de 20/11 ao de 24/11): certas 634 → 640, reais 124 → 128, artigo certo em 1.º 767 → 781, no top 10 1.031 → 1.077, «sem resposta» respondidas 5 → 6 (a de cima). As normas julgadas do TC passam de 6.743 para 7.154 com o artigo encontrado e as interpretadas pelo STJ e pelo STA de 549 para 559, sem nenhuma perdida (`0b73deb5a3d`).
+
 ## Próximos passos
 
 Por ordem de ganho esperado:
