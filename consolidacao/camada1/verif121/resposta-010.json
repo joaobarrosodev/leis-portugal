@@ -1,0 +1,347 @@
+[
+ {
+  "id": "pt:dre:647505:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "DL 244/2003, art. 14.º, revoga o DL 197/2002 (salvo anexos n.º 1 e n.º 2, n.º 1); corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "DL 244/2003, art. 14.º, revoga o DL 197/2002 (salvo anexos n.º 1 e n.º 2, n.º 1); corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "DL 244/2003, art. 14.º, revoga o DL 197/2002 (salvo anexos n.º 1 e n.º 2, n.º 1); corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "DL 244/2003, art. 14.º, revoga o DL 197/2002 (salvo anexos n.º 1 e n.º 2, n.º 1); corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "DL 244/2003, art. 14.º, revoga o DL 197/2002 (salvo anexos n.º 1 e n.º 2, n.º 1); corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "DL 244/2003, art. 14.º, revoga o DL 197/2002 (salvo anexos n.º 1 e n.º 2, n.º 1); corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "certo",
+    "motivo": "DL 244/2003, art. 14.º, revoga o DL 197/2002 (salvo anexos n.º 1 e n.º 2, n.º 1); corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "DL 244/2003, art. 14.º, revoga o DL 197/2002 (salvo anexos n.º 1 e n.º 2, n.º 1); corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "ANEXO N.º 2",
+    "veredicto": "certo",
+    "motivo": "Art. 14.º do DL 244/2003 só ressalva o n.º 1 do anexo n.º 2; n.º 2 revogado, n.º 1 mantido.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [
+   "Declaração de Rectificação n.º 31-C/2002: no sumário, «distribuição» passa a «destruição» — alvo incerto: o sumário não aparece na vista (preâmbulo igual ao original)"
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 244/2003, art. 14.º: revogação do anexo n.º 1 e do n.º 1 do anexo n.º 2",
+    "motivo": "efeito adiado para facto futuro: mantêm-se em vigor até à aprovação dos planos do n.º 2 do art. 2.º do DL 244/2003; confirmado no texto"
+   }
+  ]
+ },
+ {
+  "id": "pt:dre:661567:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação do n.º 1 (art. 2.º do DRR 40/2000/M); n.º 2 «...» mantido.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação das alíneas do n.º 2 letra a letra; n.º 1 mantido.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "N.º 3 com a nova redação; o alterador e a republicação só têm n.os 1 a 3 (sai o antigo n.º 4, idêntico ao novo n.º 3); n.os 1 e 2 «...» mantidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "Alínea c) nova e d) aditada; resto «...» mantido do original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "SECÇÃO IV",
+    "veredicto": "certo",
+    "motivo": "Art. 3.º: secção VII (DSPE) passa a IV.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "certo",
+    "motivo": "Antigo art. 12.º renumerado para 7.º, texto igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Divisão de Estatísticas Económicas e Financeiras",
+    "veredicto": "certo",
+    "motivo": "Mesmo título; só muda o nível do cabeçalho.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "Antigo art. 13.º renumerado para 8.º, texto igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Divisão de Estatísticas Demográficas, Sociais e dos Serviços",
+    "veredicto": "certo",
+    "motivo": "Mesmo título; só muda o nível do cabeçalho.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "Antigo art. 14.º renumerado para 9.º, texto igual (o antigo 9.º foi revogado pelo art. 6.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "SUBSECÇÃO III",
+    "veredicto": "certo",
+    "motivo": "Mesmo título; só muda o nível do cabeçalho.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 10.º",
+    "veredicto": "certo",
+    "motivo": "Antigo art. 15.º renumerado para 10.º, texto igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Divisão de Estatísticas Agrícolas e Censos",
+    "veredicto": "certo",
+    "motivo": "Mesmo título; só muda o nível do cabeçalho.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "SECÇÃO V",
+    "veredicto": "certo",
+    "motivo": "Art. 3.º: secção VI (Divisão de Estudos e Contas Económicas Regionais) passa a V, como na republicação.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 11.º",
+    "veredicto": "certo",
+    "motivo": "Antigo art. 16.º renumerado para 11.º, texto igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Divisão de Estudos e Contas Económicas Regionais",
+    "veredicto": "certo",
+    "motivo": "Mesmo título; só muda o nível do cabeçalho.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 12.º",
+    "veredicto": "certo",
+    "motivo": "Antigo art. 11.º passa a 12.º com a nova alínea a); resto «...» mantido do original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 13.º",
+    "veredicto": "certo",
+    "motivo": "Antigo art. 10.º renumerado para 13.º, texto igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "SECÇÃO VI",
+    "veredicto": "certo",
+    "motivo": "Art. 3.º: secção V (Núcleo de Informática) passa a VI.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "SECÇÃO VII",
+    "veredicto": "certo",
+    "motivo": "Art. 4.º: secção VII — Departamento de Administração.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 14.º",
+    "veredicto": "certo",
+    "motivo": "Art. 4.º: antigo 7.º passa a 14.º com a nova redação, letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 14.º-A",
+    "veredicto": "certo",
+    "motivo": "Aditado pelo art. 5.º, letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "SECÇÃO VIII",
+    "veredicto": "certo",
+    "motivo": "Art. 4.º: secção VIII — Departamento de Coordenação e Difusão Estatística.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 15.º",
+    "veredicto": "certo",
+    "motivo": "Art. 4.º: antigo 8.º passa a 15.º com a nova redação, letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 15.º-A",
+    "veredicto": "certo",
+    "motivo": "Aditado pelo art. 5.º, letra a letra (a vírgula no fim da alínea a) está no alterador).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 16.º",
+    "veredicto": "certo",
+    "motivo": "Antigo art. 17.º renumerado para 16.º, texto igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 17.º",
+    "veredicto": "certo",
+    "motivo": "Antigo art. 18.º renumerado para 17.º, texto igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 18.º",
+    "veredicto": "certo",
+    "motivo": "Antigo art. 19.º renumerado para 18.º, texto igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 19.º",
+    "veredicto": "certo",
+    "motivo": "Antigo art. 20.º renumerado para 19.º, texto igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 20.º",
+    "veredicto": "certo",
+    "motivo": "Antigo art. 21.º renumerado para 20.º, texto igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 21.º",
+    "veredicto": "certo",
+    "motivo": "Antigo art. 22.º renumerado para 21.º, texto igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 22.º",
+    "veredicto": "certo",
+    "motivo": "Antigo art. 23.º renumerado para 22.º, texto igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 22.º-A",
+    "veredicto": "certo",
+    "motivo": "Aditado no capítulo IV pelo art. 7.º, letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 23.º",
+    "veredicto": "certo",
+    "motivo": "Antigo art. 24.º renumerado para 23.º, texto igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 24.º",
+    "veredicto": "certo",
+    "motivo": "Antigo art. 25.º renumerado para 24.º; mapa anexo substituído pelo do alterador (art. 8.º), imagem do DRR 40/2000/M.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Secção de Coordenação e Difusão Estatística",
+    "veredicto": "certo",
+    "motivo": "Subtítulo da antiga secção IV (RADE), extinta: os seus arts. passam a 14.º/15.º e o 9.º é revogado; não consta da republicação.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Secção de Contabilidade e Pessoal",
+    "veredicto": "certo",
+    "motivo": "Subtítulo da antiga secção IV (RADE), extinta; não consta da republicação.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "SUBSECÇÃO I #2",
+    "veredicto": "certo",
+    "motivo": "Subsecção duplicada da antiga secção IV (RADE), extinta; na republicação só há uma subsecção I (DSPE).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "SUBSECÇÃO II #2",
+    "veredicto": "certo",
+    "motivo": "Subsecção duplicada da antiga secção IV (RADE), extinta; na republicação só há uma subsecção II (DSPE).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 25.º",
+    "veredicto": "certo",
+    "motivo": "Renumerado para 24.º (art. 6.º: «e assim sucessivamente»).",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": []
+ },
+ {
+  "id": "pt:dre:666347:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "Retificação da alínea b) aplicada letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 10.º",
+    "veredicto": "certo",
+    "motivo": "Retificação do n.º 3 aplicada letra a letra.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [
+   "DL 737/74, art. 1.º (extinção das federações de Casas do Povo): não verificável — o texto do DL 737/74 está omitido na vista; a justificação «não textual» não se pode confirmar"
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": []
+ }
+]

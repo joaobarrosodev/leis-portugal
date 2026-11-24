@@ -1,0 +1,90 @@
+[
+  {
+    "id": "pt:dre:346486:por",
+    "artigos": [
+      {"artigo": "Artigo 4.º", "veredicto": "certo", "motivo": "Al. d) do n.º 1 e n.os 3 e 4 com a redação do DLR 22/98/M; resto mantido.", "texto_esperado": ""},
+      {"artigo": "Artigo 7.º", "veredicto": "certo", "motivo": "Als. q) e r) do n.º 1, al. d) do n.º 2 e n.º 5 aditados/alterados letra a letra; o ponto final em «p) Representante.» vem do original ([...]).", "texto_esperado": ""},
+      {"artigo": "Artigo 8.º", "veredicto": "certo", "motivo": "N.os 5 e 7 com a nova redação; n.º 8 passa a ser o anterior n.º 9 e o anterior n.º 8 sai.", "texto_esperado": ""},
+      {"artigo": "Artigo 10.º", "veredicto": "certo", "motivo": "Epígrafe e corpo substituídos pela redação do DLR 22/98/M (falta só a ligação no nome do DL 440/91, forma).", "texto_esperado": ""},
+      {"artigo": "Artigo 11.º", "veredicto": "certo", "motivo": "Revogado pelo art. 5.º, n.º 1, al. x), da Lei n.º 110/2009 (depois da nova redação do DLR 22/98/M).", "texto_esperado": ""},
+      {"artigo": "Artigo 13.º", "veredicto": "certo", "motivo": "N.º 1 mantido; n.os 2 a 5 com a nova redação, letra a letra; n.º 6 = anterior n.º 3; anterior n.º 4 substituído.", "texto_esperado": ""},
+      {"artigo": "Artigo 13.º-A", "veredicto": "certo", "motivo": "Aditado pelo art. 2.º do DLR 22/98/M, letra a letra.", "texto_esperado": ""},
+      {"artigo": "Artigo 13.º-B", "veredicto": "certo", "motivo": "Aditado pelo art. 2.º do DLR 22/98/M, letra a letra.", "texto_esperado": ""},
+      {"artigo": "Artigo 13.º-C", "veredicto": "certo", "motivo": "Aditado pelo art. 2.º do DLR 22/98/M, letra a letra.", "texto_esperado": ""}
+    ],
+    "instrucoes_em_falta": [],
+    "instrucoes_justificadas": [
+      {"instrucao": "Alterador 2 (Lei n.º 110/2009), art. 273.º, n.º 3, do Código: manutenção do regime do diploma em grupo fechado", "motivo": "Não textual: «mantém-se a aplicação do referido regime em situação de grupo fechado», sem nova redação do diploma."},
+      {"instrucao": "Alterador 3 (Lei n.º 64-B/2011), art. 81.º, n.º 2: nova redação do art. 5.º da Lei n.º 110/2009 (al. x) repete a revogação do art. 11.º)", "motivo": "Outro diploma: dá nova redação ao art. 5.º da Lei n.º 110/2009; a revogação do art. 11.º já está aplicada."}
+    ],
+    "artigos_a_mais": [],
+    "artigos_em_falta": [],
+    "fora_dos_artigos": "sem alterações"
+  },
+  {
+    "id": "pt:dre:373471:por",
+    "artigos": [
+      {"artigo": "Artigo 3.º", "veredicto": "certo", "motivo": "As duas retificações («desistência da instância») aplicadas na al. e) do n.º 1 e no n.º 2.", "texto_esperado": ""}
+    ],
+    "instrucoes_em_falta": [],
+    "instrucoes_justificadas": [],
+    "artigos_a_mais": [],
+    "artigos_em_falta": [],
+    "fora_dos_artigos": "sem alterações"
+  },
+  {
+    "id": "pt:dre:376021:por",
+    "artigos": [
+      {"artigo": "Artigo 2.º", "veredicto": "errado", "motivo": "A Declaração manda acrescentar a referenda a seguir a «O Presidente da República, MÁRIO SOARES.»; o consolidado pôs «Referendada…/O Primeiro-Ministro…» antes de «Aprovada em 22 de Dezembro de 1986».", "texto_esperado": "###### Artigo 2.º — Informações sobre o PRFM\n\nO Governo remeterá à Assembleia da República, até 31 de Janeiro de 1987, as informações necessárias à avaliação da execução do Programa de Reequilíbrio Financeiro da Região Autónoma da Madeira, incluindo os relatórios sobre a dívida e a situação dos fundos e serviços autónomos da Região Autónoma da Madeira.\n\nAprovada em 22 de Dezembro de 1986.\n\nO Vice-Presidente da Assembleia da República em exercício, Carlos Lage.\n\nPromulgada em 23 de Dezembro de 1986.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendada em 24 de Dezembro de 1986.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."}
+    ],
+    "instrucoes_em_falta": [
+      "Alterador 2 (Declaração de Rectificação n.º 2440/2010), retificação de «Lei n.º 48/86» para «Lei n.º 46/86»: não confirmável, o texto do alterador foi omitido na vista (a triagem diz outro_diploma)"
+    ],
+    "instrucoes_justificadas": [],
+    "artigos_a_mais": [],
+    "artigos_em_falta": [],
+    "fora_dos_artigos": "sem alterações"
+  },
+  {
+    "id": "pt:dre:379709:por",
+    "artigos": [
+      {"artigo": "Artigo 2.º", "veredicto": "certo", "motivo": "Al. b) (bilhete de identidade de cidadão estrangeiro) revogada pelo art. 162.º, al. g), do DL 244/98: «b) (Revogada.)».", "texto_esperado": ""}
+    ],
+    "instrucoes_em_falta": [
+      "Alterador 1 (DL 244/98), art. 162.º, al. g): revogação do art. 1.º na parte em que se refere ao bilhete de identidade de cidadão estrangeiro; alvo incerto, o texto do art. 1.º não está na vista (está entre os iguais) e não se vê efeito",
+      "Alterador 2 (DL 4/2001), a mesma revogação repetida na republicação do DL 244/98: não confirmável, o texto do alterador foi omitido na vista (a triagem diz outro_diploma)"
+    ],
+    "instrucoes_justificadas": [],
+    "artigos_a_mais": [],
+    "artigos_em_falta": [],
+    "fora_dos_artigos": "sem alterações"
+  },
+  {
+    "id": "pt:dre:390988:por",
+    "artigos": [
+      {"artigo": "Artigo 10.º", "veredicto": "certo", "motivo": "§ 1.º revogado pelo art. 7.º do DL 48669: «§ 1.º (Revogado.)».", "texto_esperado": ""}
+    ],
+    "instrucoes_em_falta": [
+      "Alterador 3 (DL 530/74), nova redação dos arts. 405.º e 406.º e da tabela A do Código Administrativo e da tabela do Estatuto dos Distritos Autónomos: não confirmável, o texto do alterador foi omitido na vista (a triagem diz nao_menciona)"
+    ],
+    "instrucoes_justificadas": [
+      {"instrucao": "Alterador 2 (DL 30/70): nova redação dos arts. 4.º e 5.º, segundo a triagem", "motivo": "O diploma que altera não traz o texto da alteração: na vista o DL 30/70 aparece só com o título, sem texto."},
+      {"instrucao": "Alterador 4 (DL 399-B/84): nova redação do art. 404.º e do § 3.º do art. 406.º do Código Administrativo, aditamento do § 5.º e revogação do art. 405.º", "motivo": "Outro diploma: os arts. 1.º, 2.º e 8.º dizem expressamente que alteram o Código Administrativo (e revogam o DL 197/78); não mencionam o DL 47935."}
+    ],
+    "artigos_a_mais": [],
+    "artigos_em_falta": [],
+    "fora_dos_artigos": "sem alterações"
+  },
+  {
+    "id": "pt:dre:451862:por",
+    "artigos": [],
+    "instrucoes_em_falta": [],
+    "instrucoes_justificadas": [
+      {"instrucao": "Alterador 1 (DL 390/83), artigo único: um representante do Instituto Universitário de Trás-os-Montes e Alto Douro passa a fazer parte da comissão instaladora do n.º 1 do art. 4.º", "motivo": "Não textual: acrescenta um membro «além dos representantes das entidades nele mencionadas», sem dar nova redação ao art. 4.º."},
+      {"instrucao": "Alterador 2 (DL 142/2008), art. 53.º, n.º 1, al. f): revogação dos arts. 6.º, 7.º, 8.º, 10.º e 11.º", "motivo": "Efeito adiado para um facto futuro: o n.º 2 do art. 53.º faz a revogação da al. f) produzir efeitos só com a entrada em vigor dos planos de ordenamento das áreas protegidas."}
+    ],
+    "artigos_a_mais": [],
+    "artigos_em_falta": [],
+    "fora_dos_artigos": "sem alterações"
+  }
+]

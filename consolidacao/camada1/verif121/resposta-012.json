@@ -1,0 +1,183 @@
+[
+ {
+  "id": "pt:dre:687231:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "Art. 1.º acrescenta o § 1.º e art. 2.º faz do § único o § 2.º; letra a letra.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": []
+ },
+ {
+  "id": "pt:dre:998488160:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "Retificação da alínea a) aplicada letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "Retificação do art. 6.º aplicada letra a letra.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": []
+ },
+ {
+  "id": "pt:dre:309932:por",
+  "artigos": [
+   {
+    "artigo": "Trecho 1",
+    "veredicto": "certo",
+    "motivo": "DL 141/93, art. 24.º, n.º 1, a), revoga «os restantes artigos deste último diploma» (DL 126/83), i.e. arts. 2.º a 5.º; corpo passa a (Revogado.).",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 361/89, art. 45.º, n.º 1, e): revoga o DL 126/83 em tudo o que for incompatível com o DL 361/89",
+    "motivo": "revogação condicional («em tudo o que neles for incompatível»), com eficácia adiada pelo n.º 2 para os decretos regulamentares do art. 29.º; confirmado no texto"
+   },
+   {
+    "instrucao": "DL 141/93, art. 24.º, n.º 1, a): revoga o DL 211/81 (salvo arts. 5.º, 6.º, 7.º, 29.º e cap. III, com as alterações do art. 1.º do DL 126/83)",
+    "motivo": "outro diploma: a revogação visa o DL 211/81; quanto ao DL 126/83 só revoga os restantes artigos (2.º a 5.º), o que foi aplicado; confirmado no texto"
+   }
+  ]
+ },
+ {
+  "id": "pt:dre:139401:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "Artigo único do DL 241/75 revoga o DL 389/70 por inteiro (ressalva transitória para os alunos atuais não é condição sobre o texto).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "Artigo único do DL 241/75 revoga o DL 389/70 por inteiro (ressalva transitória para os alunos atuais não é condição sobre o texto).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "Artigo único do DL 241/75 revoga o DL 389/70 por inteiro (ressalva transitória para os alunos atuais não é condição sobre o texto).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "Artigo único do DL 241/75 revoga o DL 389/70 por inteiro (ressalva transitória para os alunos atuais não é condição sobre o texto).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "Artigo único do DL 241/75 revoga o DL 389/70 por inteiro (ressalva transitória para os alunos atuais não é condição sobre o texto).",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": []
+ },
+ {
+  "id": "pt:dre:182576:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação do art. 3.º (art. 2.º do DL 25/90/M) letra a letra.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DLR 25/90/M, art. 1.º: mapas I a IV e V-I a V-IV substituem, nas partes respectivas, os do original",
+    "motivo": "os mapas novos só vêm em imagem («Do MAPA I ao MAPA IV [(ver documento original)]») e o consolidado não tem anexo com título onde os pôr (nenhum ANEXO na lista dos iguais)"
+   }
+  ]
+ },
+ {
+  "id": "pt:dre:222384:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "DL 46799 substitui a segunda parte (2.º parágrafo); §§ 1.º e 2.º mantidos («...»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 14.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação do DL 46111 (10000$00) letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 22.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação do DL 46799 letra a letra.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 46111, art. 1.º: o Fundo rege-se em 1965 pelo regime do DL 45527",
+    "motivo": "não textual: prorrogação do regime (só a nova redação do art. 14.º é textual, e foi aplicada)"
+   },
+   {
+    "instrucao": "DL 46799, art. 1.º: o Fundo rege-se em 1966 pelo regime do DL 45527",
+    "motivo": "não textual: prorrogação do regime (as novas redações dos arts. 5.º e 22.º foram aplicadas)"
+   },
+   {
+    "instrucao": "DL 46799, art. 2.º: interpretação autêntica do art. 5.º",
+    "motivo": "não textual: não traz redação nova"
+   }
+  ]
+ },
+ {
+  "id": "pt:dre:281450:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "errado",
+    "motivo": "Nova redação aplicada, mas ficou a seguir a antiga «Divisão C - Títulos existentes na posse do outras pessoas colectivas...», que deve sair.",
+    "texto_esperado": "###### Artigo 7.º\n\nO mapa n.º 5 exporá a conta geral da dívida fictícia, indicando por totais as somas do capital da dívida e do encargo anual de juros e amortizações, em cada uma das divisões seguintes:\n\nDivisão A - Títulos entregues pelo Tesouro em caução de empréstimos.\n\nDivisão B - Títulos existentes na posse real do Tesouro.\n\nDivisão C - Títulos na posse do Fundo de regularização da dívida pública.\n\nDivisão D - Títulos na posse do Fundo de renda vitalícia.\n\nDivisão E - Títulos existentes na posse de outras pessoas colectivas de direito público (dívida inscrita)."
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": []
+ }
+]

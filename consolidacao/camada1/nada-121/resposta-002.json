@@ -1,0 +1,129 @@
+[
+ {
+  "id": "pt:dre:357556:por",
+  "artigos": [
+   {
+    "artigo": "(preâmbulo)",
+    "veredicto": "certo",
+    "motivo": "certo: só fica a parte anterior ao articulado; o resto passou para os artigos, com texto igual",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "certo: o texto do original foi repartido por artigos com título próprio; o texto é igual ao original e nenhuma instrução o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "certo: o texto do original foi repartido por artigos com título próprio; o texto é igual ao original e nenhuma instrução o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "certo: o texto do original foi repartido por artigos com título próprio; o texto é igual ao original e nenhuma instrução o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "certo: o texto do original foi repartido por artigos com título próprio; o texto é igual ao original e nenhuma instrução o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "certo: o texto do original foi repartido por artigos com título próprio; o texto é igual ao original e nenhuma instrução o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "certo: o texto do original foi repartido por artigos com título próprio; o texto é igual ao original e nenhuma instrução o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "certo",
+    "motivo": "certo: o texto do original foi repartido por artigos com título próprio; o texto é igual ao original e nenhuma instrução o altera",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [
+   "DL 223/99, art. 1.º: nova redação da base XIX do anexo (taxa anual de 325000000$00, etc.). As bases não estão no texto atual (o ANEXO e os CAPÍTULOS I a V só têm título), mas o alvo é conhecido: base XIX do anexo. Ficou depois substituída pela redação do DL 311/2001",
+   "DL 311/2001, art. 1.º: nova redação das bases II (n.º 4), IX (n.os 2 a 4), X (n.os 2 e 4), XIX (redação completa, n.os 1 a 6) e XXXII (n.º 1) do anexo. O alvo é conhecido (bases do anexo), mas as bases não estão no texto atual; a base XIX vem completa e podia ser posta",
+   "DL 311/2001, art. 2.º: aditamento da base V-A (n.os 1 a 3) ao anexo, a seguir à base V. Traz o texto completo; «alvo incerto» não é justificação"
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 223/99, art. 2.º: revoga o n.º 2 do art. 2.º do DL 182/88",
+    "motivo": "outro diploma: visa o Decreto-Lei n.º 182/88"
+   },
+   {
+    "instrucao": "DL 311/2001, art. 3.º: autoriza a APS a outorgar adenda ao contrato de concessão",
+    "motivo": "não textual: autorização, sem nova redação nem aditamento ao original"
+   }
+  ]
+ },
+ {
+  "id": "pt:dre:462183:por",
+  "artigos": [],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Decreto-Lei n.º 173/98 (novo Estatuto da Câmara dos Despachantes Oficiais)",
+    "motivo": "o diploma que altera não traz texto na vista (só o título): não há instrução dirigida ao original que se possa confirmar"
+   }
+  ]
+ },
+ {
+  "id": "pt:dre:516067:por",
+  "artigos": [
+   {
+    "artigo": "Trecho 1",
+    "veredicto": "certo",
+    "motivo": "certo: o art. 1.º passa a ter título próprio; texto igual ao original, nenhuma instrução o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 2",
+    "veredicto": "certo",
+    "motivo": "certo: os arts. 2.º a 4.º passam a ter título próprio; texto igual ao original, nenhuma instrução o altera",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Portaria 19297, n.º 2.º: a referência ao Código da Sisa e do Imposto sobre as Sucessões e Doações entende-se feita ao Regulamento",
+    "motivo": "não textual: regra de leitura para a extensão ao ultramar («entender-se como feita a»), sem nova redação"
+   },
+   {
+    "instrucao": "Portaria 19297, n.º 3.º: no § único do art. 1.º, «no prazo de dois meses, a contar da publicação do presente decreto-lei» passa a «até 31 de Dezembro do ano de 1962»",
+    "motivo": "adaptação territorial, não muda o texto metropolitano: pelo n.º 1.º a portaria torna o DL «extensivo ao ultramar [...] com as alterações a seguir mencionadas»; a substituição vale só para a versão estendida ao ultramar"
+   }
+  ]
+ },
+ {
+  "id": "pt:dre:533643:por",
+  "artigos": [],
+  "instrucoes_em_falta": [
+   "Declaração de Rectificação n.º 15/2006: na p. 352, grupo 2 «Habitações», artigo 10 «Famílias» (classificação dos mapas orçamentais), «100000» -> «180000». O texto novo vem em texto, não em imagem, por isso o motivo «só em imagem» não se confirma; o alvo (mapas orçamentais) não está no texto atual, nem como anexo com título"
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": []
+ }
+]

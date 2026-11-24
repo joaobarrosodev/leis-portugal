@@ -1,0 +1,18 @@
+[
+  {
+    "id": "pt:dre:453543:por",
+    "artigos": [
+      {"artigo": "Artigo 1.º", "veredicto": "certo", "motivo": "DL 69/2013, art. 9.º, a), revoga a alínea a) do n.º 1 do artigo 1.º: «a) (Revogada.)»; resto igual ao original.", "texto_esperado": ""},
+      {"artigo": "Artigo 3.º", "veredicto": "certo", "motivo": "DL 69/2013, art. 9.º, a), revoga o n.º 3 do artigo 3.º: «3 - (Revogado.)»; resto igual ao original.", "texto_esperado": ""}
+    ],
+    "instrucoes_em_falta": [
+      "DL 69/2013, art. 9.º, alínea a): revogação do anexo ao DL 180/2008 na parte relativa ao Hospital de Faro, E.P.E. — sem efeito no consolidado (ANEXO igual ao original). A justificação «só em imagem» não é confirmável na vista: o alterador não traz texto novo porque é uma revogação, não uma nova redação, e a vista não mostra que o anexo do original seja só imagem; a revogação parcial podia ser assinalada."
+    ],
+    "instrucoes_justificadas": [
+      {"instrucao": "DL 102/2023, art. 1.º, n.º 1, e) e p): o Centro Hospitalar Póvoa de Varzim/Vila do Conde, E. P. E., passa a denominar-se Unidade Local de Saúde Póvoa de Varzim/Vila do Conde, E. P. E.; o CHUC passa a ULS de Coimbra", "motivo": "Não textual: reestruturação com mudança de designação, sem nova redação de artigos do DL 180/2008 (confirmado no art. 1.º do DL 102/2023, que não menciona o DL 180/2008)."}
+    ],
+    "artigos_a_mais": [],
+    "artigos_em_falta": [],
+    "fora_dos_artigos": "sem alterações"
+  }
+]

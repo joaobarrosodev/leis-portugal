@@ -1,0 +1,9 @@
+[
+ {"id": "pt:dre:139401:por", "veredicto": "certo", "problemas": [], "vigencia": {"conclusao": "revogado", "prova": "DL 241/75, artigo único: «É revogado o Decreto-Lei n.º 389/70», ressalvando só a aplicação aos alunos que então frequentavam os cursos (ressalva de aplicação, sem efeito no texto); relationships: repealed_by pt:dre:336165:por"}},
+ {"id": "pt:dre:165862:por", "veredicto": "certo", "problemas": [], "vigencia": null},
+ {"id": "pt:dre:182576:por", "veredicto": "certo", "problemas": [], "vigencia": {"conclusao": "caducado", "prova": "aprova o Orçamento da Região Autónoma da Madeira para 1990 (diploma anual)"}},
+ {"id": "pt:dre:222384:por", "veredicto": "certo", "problemas": [], "vigencia": {"conclusao": "outro", "prova": "regime do Fundo de Socorro Social para o ano de 1964, prorrogado para 1965 (DL 46111) e 1966 (DL 46799); não vi no acervo prorrogação posterior"}},
+ {"id": "pt:dre:234113:por", "veredicto": "certo", "problemas": [], "vigencia": null},
+ {"id": "pt:dre:279627:por", "veredicto": "certo", "problemas": [], "vigencia": null},
+ {"id": "pt:dre:309932:por", "veredicto": "certo", "problemas": [], "vigencia": {"conclusao": "revogado", "prova": "DL 141/93, art. 24.º, n.º 1, a), revoga «os restantes artigos» do DL 126/83 (arts. 2.º a 5.º); o art. 1.º só dá nova redação a artigos do DL 211/81, revogado quase todo pela mesma alínea; relationships: repealed_by pt:dre:665341:por e pt:dre:549390:por"}}
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "id": "pt:dre:217732:por",
+    "artigos": [
+      {
+        "artigo": "ANEXO I",
+        "veredicto": "certo",
+        "motivo": "Os textos que se veem estão aplicados letra a letra: E 338 a E 341 (iii) do DL 218/2003, E 251 e E 459 do DL 181/2004, E 392 do DL 64/2011. E 230 e E 233 ficam com «(Revogado.)» (DL 94/2010, art. 6.º). As imagens também estão no sítio certo: E 307, E 315, E 319, E 586, E 1204 e E 1452 (DL 99/2008); E 234, E 504 (i), E 526, E 529 e E 901 (DL 94/2010); E 290 e E 1521 (DL 64/2011). E 216 e E 217 saem, porque a lista integral do DL 99/2008 os omite. O polietilenoglicol 6000 sai por troca com o E 1521 na lista do DL 64/2011. As notas finais passaram para o fim do anexo. As entradas que faltam vêm do DL 248/2001, cujo anexo não está na vista (instrução justificada).",
+        "texto_esperado": ""
+      },
+      {
+        "artigo": "ANEXO II",
+        "veredicto": "dúvida",
+        "motivo": "Os textos que se veem estão certos: E 450 (i) a E 452 (iv) e E 650 a E 1202 do DL 218/2003, E 431 a E 436 do DL 181/2004. Também estão certas as imagens de E 415, E 462 e E 472c (com a nota) do DL 99/2008 e as de E 463, E 949 e E 1203 do DL 64/2011. E 420 e E 421 saem para o anexo IV. A dúvida está nas três imagens do anexo II do DL 94/2010: uma a seguir aos critérios, outra a seguir ao E 406 e outra a seguir ao E 410. O consolidado trata-as como substitutas das entradas E 400 a E 405, E 407 e E 407a (com o texto visível que o DL 150/2005 lhes deu) e E 412, e apaga essas entradas. A estrutura do DL 94/2010 aponta para isso, mas não se pode confirmar sem ver as imagens. A regra de que numa alteração parcial ficam o corpo antigo e as linhas da imagem aponta para o contrário. Além disso, o DL 64/2011, posterior, volta a listar E 400 a E 405, E 407, E 407a e E 412 com «[...]».",
+        "texto_esperado": "Se as imagens do DL 94/2010 não substituem as entradas inteiras, ficam as linhas da imagem e também: E 400 a E 405 (o texto que existe), E 407 - Carragenina e E 407a - Algas Eucheuma transformadas com a redação do anexo do DL 150/2005, n.º 1, e E 412."
+      }
+    ],
+    "instrucoes_em_falta": [
+      "DL 181/2002, art. 2.º: aditamento do anexo IV com o texto completo que vem no diploma (E 170 (i), E 353, E 354, E 356, E 357, ... E 967) e as notas 1 e 2. O consolidado não tem anexo IV. «Alvo incerto» não justifica: trata-se de criar o anexo IV com o texto do diploma.",
+      "DL 150/2005, anexo, n.º 2: inserção no anexo IV do E 907 - Poli-1-deceno hidrogenado (texto visível), a seguir ao E 905.",
+      "DL 150/2005, anexo, n.º 3: aditamento ao anexo IV do E 1519 - Álcool benzílico e do E 1517 - Diacetato de glicerilo (texto visível).",
+      "DL 99/2008, art. 2.º: nova redação do anexo IV, com E 420 (i), E 420 (ii) e E 421 vindos do anexo II e E 426 e E 559 em imagem. Os três aditivos saíram do anexo II mas não entraram no anexo IV.",
+      "DL 94/2010, art. 2.º e anexo I: alteração do anexo IV (imagem a seguir ao E 635, no lugar do E 905).",
+      "DL 64/2011, art. 3.º e anexo II: alteração do anexo IV (E 426 em imagem e aditamento do E 427 - Goma de cássia em imagem)."
+    ],
+    "instrucoes_justificadas": [
+      {"instrucao": "DL 38/2000, art. 1.º: substituição do anexo II pelo anexo do DL 38/2000", "motivo": "o diploma que altera não traz o texto da alteração: na vista só vem o art. 1.º, sem o anexo"},
+      {"instrucao": "DL 248/2001, art. 1.º, n.º 1: substituição do E 320 (BHA) no anexo I pelo anexo I do DL 248/2001", "motivo": "o diploma que altera não traz o texto da alteração: na vista só vem o art. 1.º"},
+      {"instrucao": "DL 248/2001, art. 1.º, n.º 2: aditamento ao anexo I dos critérios do anexo II do DL 248/2001", "motivo": "o diploma que altera não traz o texto da alteração: na vista só vem o art. 1.º"},
+      {"instrucao": "DL 94/2010, arts. 3.º a 5.º: alterações e aditamentos ao DL 394/98 (art. 11.º, art. 3.º-A, quadro X do anexo)", "motivo": "a instrução é de outro diploma (DL 394/98)"},
+      {"instrucao": "DL 64/2011, art. 2.º: alteração dos anexos II a VI do DL 121/98", "motivo": "a instrução é de outro diploma (DL 121/98)"}
+    ],
+    "artigos_a_mais": [],
+    "artigos_em_falta": ["ANEXO IV"],
+    "fora_dos_artigos": "sem alterações"
+  }
+]

@@ -99,7 +99,8 @@ DE_FORA = {
     # Ronda 113: igual ao original depois de desfazer a regra mal aplicada.
     "pt:dre:438049:por",
     # Ronda 114 (bloco 3), pela segunda leitura: erro no texto que a verificação letra a letra não apanha.
-    "pt:dre:346486:por",   # DLR 12/93/M: falta a revogação do art. 11.º (Lei 110/2009, na redação da Lei 64-B/2011)
+    # DLR 12/93/M (pt:dre:346486): faltava a revogação do art. 11.º (Lei 110/2009, na redação da Lei 64-B/2011);
+    # saiu da lista na ronda 121, que a aplicou e passou às cegas e na segunda leitura.
     "pt:dre:453241:por",   # DL 329/83: falta a retificação de 31/8/1983 à al. b) do n.º 3 do art. 8.º
     "pt:dre:455150:por",   # Portaria 828/2008: faltam as Decl. Ret. 58/2008 e 32-A/2010 (arts. 10.º e 16.º, anexo III)
     "pt:dre:455670:por",   # Portaria 846/2008: falta a Decl. Ret. 59/2008 (anexo II)

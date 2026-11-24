@@ -1,0 +1,342 @@
+[
+ {
+  "id": "pt:dre:484577:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 6.º #2",
+    "veredicto": "certo",
+    "motivo": "Nova redação do art. 6.º dos Estatutos (DLR 6/2015/M, art. 6.º, n.º 1), com epígrafe e alínea b) originais no lugar de [...].",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "SECÇÃO I",
+    "veredicto": "certo",
+    "motivo": "Epígrafe da Secção I do Capítulo III passa a «Conselho diretivo» (art. 6.º, n.º 3).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 7.º #2",
+    "veredicto": "certo",
+    "motivo": "Nova redação do art. 7.º, epígrafe original mantida no lugar de [...].",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 11.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação e nova epígrafe «Regime» do art. 11.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 15.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 6.º, n.º 5.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "SECÇÃO III",
+    "veredicto": "certo",
+    "motivo": "Epígrafe da Secção III do Capítulo III passa a «Fiscal único» (art. 6.º, n.º 4).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 16.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação e epígrafe do art. 16.º, letra a letra (incluindo o n.º 3 truncado tal como vem no alterador).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 19.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 6.º, n.º 5.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 20.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 6.º, n.º 5.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 21.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 6.º, n.º 5.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 22.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 6.º, n.º 5.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 24.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 6.º, n.º 5.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 25.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 6.º, n.º 5 (também é o conteúdo do Capítulo IV revogado).",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DLR 6/2015/M, art. 6.º, n.º 2: as referências ao conselho de administração consideram-se feitas ao conselho diretivo",
+    "motivo": "Não textual: mudança de designação sem nova redação dos artigos (confirmado no texto do alterador)."
+   },
+   {
+    "instrucao": "DLR 6/2015/M, art. 6.º, n.º 6: as alterações produzem efeitos no 1.º dia do mês seguinte ao da publicação",
+    "motivo": "Não textual: norma de produção de efeitos."
+   }
+  ]
+ },
+ {
+  "id": "pt:dre:521000:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "DL 163/2012, art. 13.º, n.º 1, revoga o DL 123/2007.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "Revogado (art. 13.º, n.º 1, do DL 163/2012).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "Revogado (art. 13.º, n.º 1, do DL 163/2012).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "Revogado (art. 13.º, n.º 1, do DL 163/2012).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "Revogado (art. 13.º, n.º 1, do DL 163/2012).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "Revogado (art. 13.º, n.º 1, do DL 163/2012).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "certo",
+    "motivo": "Revogado (art. 13.º, n.º 1, do DL 163/2012).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "Revogado (art. 13.º, n.º 1, do DL 163/2012).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "Revogado salvo os n.os 2 a 6, que o art. 13.º, n.º 2, mantém em vigor; n.os 1, 7 e 8 «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 10.º",
+    "veredicto": "certo",
+    "motivo": "Revogado (art. 13.º, n.º 1, do DL 163/2012).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 11.º",
+    "veredicto": "certo",
+    "motivo": "Revogado (art. 13.º, n.º 1, do DL 163/2012).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 12.º",
+    "veredicto": "certo",
+    "motivo": "Revogado (art. 13.º, n.º 1, do DL 163/2012).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 13.º",
+    "veredicto": "certo",
+    "motivo": "Revogado; o texto que fica a seguir é só o fecho do diploma (assinaturas e promulgação), não texto do artigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "ANEXO",
+    "veredicto": "certo",
+    "motivo": "Anexo do diploma revogado (art. 13.º, n.º 1, do DL 163/2012).",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": []
+ },
+ {
+  "id": "pt:dre:535815:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "DL 7/77, artigo único, a), revoga a condição 8.ª do art. 2.º: «8.ª (Revogada.)».",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 199/71, artigo único: às categorias do art. 1.º acrescentam-se as de pessoal técnico auxiliar e de pessoal auxiliar dos serviços farmacêuticos hospitalares",
+    "motivo": "Não textual: alarga o âmbito do art. 1.º sem lhe dar nova redação (o alterador não traz o texto da alteração)."
+   }
+  ]
+ },
+ {
+  "id": "pt:dre:552571:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "dúvida",
+    "motivo": "N.º 3 com a nova redação do DL 713/75, art. 1.º, certo letra a letra. Mas falta o n.º 4 aditado pelo DL 323/75 (isenção da taxa para o Fundo de Socorro Social para produtos da EFTA); a nova redação do DL 713/75 só mostra os n.os 1 a 3 e não diz se elimina o n.º 4. Se o n.º 4 se mantém, deve vir a seguir ao n.º 3.",
+    "texto_esperado": "4. Os produtos a que se refere o número anterior, quando importados dos países membros da Associação Europeia de Comércio Livre para o território metropolitano, ficam isentos da taxa para o Fundo de Socorro Social."
+   },
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "errado",
+    "motivo": "O DL 713/75, art. 2.º, substitui a lista a que se refere o n.º 1 do art. 2.º. O consolidado meteu a nova lista (sem os subtítulos «Picados:», «Cigarros sem filtro:», «Cigarros com filtro:») no corpo do art. 9.º, logo a seguir à entrada em vigor, e deixou a lista antiga inteira. A lista antiga devia ser substituída pela nova.",
+    "texto_esperado": "Este decreto-lei entra em vigor em 9 de Setembro de 1974.\n\nVisto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - José da Silva Lopes.\n\nPromulgado em 2 de Setembro de 1974.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO DE SPÍNOLA.\n\nLista a que se refere o n.º 1 do artigo 2.º\n\nPicados:\n\nGama ... 20$00\n\nComodoro ... 20$00\n\nCigarros sem filtro:\n\nProvisórios, com 12 ... 2$00\n\nDefinitivos, com 12 ... 2$00\n\nProvisórios, com 24 ... 4$00\n\nDefinitivos, com 24 ... 4$00\n\nLusos ... 4$00\n\nAntoninos ... 5$50\n\nSporting ... 5$50\n\nPortuguês Suave ... 5$50\n\nParis ... 5$50\n\n20-20-20 ... 5$50\n\nHigh-Life ... 5$50\n\nCigarros com filtro:\n\nAntoninos ... 8$00\n\nKart (normal) ... 8$00\n\nSagres (normal) ... 8$00\n\nSporting ... 8$00\n\nPorto (normal) ... 8$00\n\nRitz ... 8$00\n\nNegritas (normal) ... 8$00\n\nCT (normal) ... 8$00\n\nSG (normal) ... 8$00\n\nSG (ventil) ... 8$00\n\nTamariz ... 8$50\n\nSagres (longo) ... 8$50\n\nKart (longo) ... 8$50\n\nMonserrate ... 8$50\n\nMini Kayak ... 8$50\n\nPorto (gigante) ... 8$50\n\nRitz (gigante) ... 8$50\n\nCT (longo) ... 8$50\n\nSG (gigante) ... 8$50\n\nNegritas (gigante) ... 8$50\n\n2002 ... 8$50\n\nEstoril ... 11$00\n\nSintra ... 11$00\n\nKayak ... 11$00\n\nValetes ... 11$00\n\nNobel ... 11$00\n\nPlaza ... 11$00\n\nO Ministro das Finanças, José da Silva Lopes."
+   }
+  ],
+  "instrucoes_em_falta": [
+   "DL 323/75, artigo único: aditamento do n.º 4 ao art. 2.º (isenção da taxa para o Fundo de Socorro Social) — não está no consolidado; a nova redação do art. 2.º dada pelo DL 713/75 só lista os n.os 1 a 3, sem eliminar expressamente o n.º 4"
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": []
+ },
+ {
+  "id": "pt:dre:566595:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "O bloco «Receitas» dentro desta chave é o art. 5.º; os seus n.os 2 e 3 ficam «(Revogado.)» pelo DL 304/94, art. 9.º, n.º 2.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 304/94, art. 9.º, n.º 1: à ESTIG aplica-se a lei geral do ensino superior politécnico em regime de instalação",
+    "motivo": "Não textual: manda aplicar um regime sem dar nova redação nem revogar texto."
+   },
+   {
+    "instrucao": "DL 304/94, art. 9.º, n.º 2, na parte dos n.os 2 e 3 do art. 5.º dos DL 395/90 e 40/91",
+    "motivo": "Instrução de outro diploma."
+   },
+   {
+    "instrucao": "DL 153/97, art. 6.º: extinção da Escola Superior de Tecnologia e Gestão de Castelo Branco",
+    "motivo": "Não textual: extingue o organismo sem revogar nem alterar o texto do decreto (texto citado na vista)."
+   }
+  ]
+ },
+ {
+  "id": "pt:dre:607141:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "DL 4/94 revoga o diploma com exceção do n.º 1 do art. 1.º; n.º 2 «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 4/94.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 4/94 (a retificação do n.º 1 fica sem objeto com a revogação posterior).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 4/94.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 4/94.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 4/94.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 4/94; o texto que fica a seguir é só o fecho do diploma (assinaturas e promulgação).",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": []
+ },
+ {
+  "id": "pt:dre:616429:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "dúvida",
+    "motivo": "Revogação atribuída ao mapa VIII do DL 121/2008, cujo texto não vem na vista (só o título); não se pode confirmar a instrução nem o alcance da exceção («subdirector das escolas de hotelaria e turismo»).",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [
+   "DL 121/2008, mapa VIII: revogação do DR 18/91 com exceção da parte relativa à categoria de subdirector das escolas de hotelaria e turismo — o texto do DL 121/2008 não vem na vista; alvo incerto; o consolidado só revogou o art. 3.º e deixou os arts. 1.º, 2.º, 4.º a 7.º iguais"
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DR 12/94, art. 1.º: alteração do mapa anexo na parte relativa à Direcção-Geral do Turismo",
+    "motivo": "O mapa novo só vem em imagem (ver documento original) e o consolidado não tem um anexo com título onde o pôr."
+   }
+  ]
+ }
+]

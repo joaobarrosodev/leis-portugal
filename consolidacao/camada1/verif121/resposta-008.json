@@ -1,0 +1,120 @@
+[
+ {
+  "id": "pt:dre:616624:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "errado",
+    "motivo": "Nenhuma instrução visível revoga este artigo: o DL 143/95, art. 7.º, é revogação condicional («no que contrarie») e o DR 15/2000, art. 4.º, é revogação parcial «na parte correspondente às carreiras» (do mapa); nenhuma se aplica ao texto. O texto do DL 121/2008 não está na vista. Deve ficar o texto original.",
+    "texto_esperado": "###### Artigo 1.º\n\n1 - O presente diploma estabelece a estrutura das remunerações base das carreiras e categorias existentes no âmbito dos Ministérios do Planeamento e da Administração do Território e do Ambiente e Recursos Naturais não previstas no [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808), de 16 de Outubro, ou em legislação complementar.\n\n2 - A estrutura das remunerações base das carreiras e categorias referidas no número anterior consta do mapa anexo ao presente diploma, do qual faz parte integrante."
+   },
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "errado",
+    "motivo": "Nenhuma instrução visível revoga este artigo: o DL 143/95, art. 7.º, é revogação condicional («no que contrarie») e o DR 15/2000, art. 4.º, é revogação parcial «na parte correspondente às carreiras» (do mapa); nenhuma se aplica ao texto. O texto do DL 121/2008 não está na vista. Deve ficar o texto original.",
+    "texto_esperado": "###### Artigo 2.º\n\nA progressão nas carreiras e categorias previstas no presente diploma obedece aos módulos de tempo estabelecidos no mapa anexo."
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "errado",
+    "motivo": "Nenhuma instrução visível revoga este artigo: o DL 143/95, art. 7.º, é revogação condicional («no que contrarie») e o DR 15/2000, art. 4.º, é revogação parcial «na parte correspondente às carreiras» (do mapa); nenhuma se aplica ao texto. O texto do DL 121/2008 não está na vista. Deve ficar o texto original.",
+    "texto_esperado": "###### Artigo 3.º\n\n1 - Os funcionários que tenham mudado de categoria desde 1 de Outubro de 1989 transitam para a nova estrutura salarial de acordo com a categoria de que são titulares à data da entrada em vigor do presente diploma.\n\n2 - Nos casos previstos no número anterior, para efeitos de cálculo da remuneração no período compreendido entre 1 de Outubro de 1989 e a data da entrada em vigor do presente diploma atender-se-á ao índice atribuído às situações que o funcionário detinha até à data em que se verificou a mudança de categoria."
+   },
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "errado",
+    "motivo": "Nenhuma instrução visível revoga este artigo: o DL 143/95, art. 7.º, é revogação condicional («no que contrarie») e o DR 15/2000, art. 4.º, é revogação parcial «na parte correspondente às carreiras» (do mapa); nenhuma se aplica ao texto. O texto do DL 121/2008 não está na vista. Deve ficar o texto original.",
+    "texto_esperado": "###### Artigo 4.º\n\nNa integração na nova estrutura salarial por força da aplicação deste diploma devem ser consideradas as agregações de categoria e as alterações de designações nos termos previstos no mapa anexo."
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "errado",
+    "motivo": "Nenhuma instrução visível revoga este artigo: o DL 143/95, art. 7.º, é revogação condicional («no que contrarie») e o DR 15/2000, art. 4.º, é revogação parcial «na parte correspondente às carreiras» (do mapa); nenhuma se aplica ao texto. O texto do DL 121/2008 não está na vista. Deve ficar o texto original.",
+    "texto_esperado": "###### Artigo 6.º\n\nEm tudo o que não estiver especialmente regulado no presente diploma aplicam-se as disposições do [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808), de 16 de Outubro."
+   },
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "errado",
+    "motivo": "Nenhuma instrução visível revoga este artigo: o DL 143/95, art. 7.º, é revogação condicional («no que contrarie») e o DR 15/2000, art. 4.º, é revogação parcial «na parte correspondente às carreiras» (do mapa); nenhuma se aplica ao texto. O texto do DL 121/2008 não está na vista. Deve ficar o texto original.",
+    "texto_esperado": "###### Artigo 7.º\n\nO presente diploma produz efeitos desde 1 de Outubro de 1989.\n\nPresidência do Conselho de Ministros, 4 de Fevereiro de 1991.\n\nAníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Luís Francisco Valente de Oliveira - Fernando Nunes Ferreira Real.\n\nPromulgado em 1 de Abril de 1991.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 2 de Abril de 1991.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.\n\nMapa anexo\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/04/089b00/21672168.pdf)"
+   }
+  ],
+  "instrucoes_em_falta": [
+   "DR 15/2000, art. 4.º: revogação do DR 21/91 «na parte correspondente às carreiras objecto do presente diploma» (alvo incerto: as carreiras só se identificam no mapa anexo, em imagem)"
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DR 49/91, artigo único: aditamento do mapa do Instituto Nacional do Ambiente ao mapa anexo",
+    "motivo": "o mapa só vem em imagem e o consolidado não tem anexo com título (o «Mapa anexo» está no corpo do art. 7.º, sem título de anexo)"
+   },
+   {
+    "instrucao": "DL 143/95, art. 7.º: revogação das disposições do DR 21/91 «no que contrarie o disposto no presente diploma»",
+    "motivo": "revogação condicional"
+   },
+   {
+    "instrucao": "DR 15/2000, art. 1.º: alteração das escalas salariais pelo mapa anexo",
+    "motivo": "o mapa só vem em imagem e o consolidado não tem anexo com título"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:631419:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação do DL 39/72, art. 1.º, letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação do DL 39/72, art. 1.º, letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação do DL 39/72, art. 1.º, letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação do DL 39/72, art. 1.º, letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação do DL 39/72, art. 1.º, letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 13.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação do DL 39/72, art. 1.º, letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 16.º",
+    "veredicto": "certo",
+    "motivo": "DL 536/80, art. 3.º: n.os 2 e 3 dados como revogados; ficam «(Revogado.)».",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 39/72, art. 3.º: o prazo da parte final do art. 1.º passa a ser de trinta dias a contar da entrada em vigor do DL 39/72",
+    "motivo": "não textual: não dá nova redação ao art. 1.º"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

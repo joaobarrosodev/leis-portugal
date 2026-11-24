@@ -1,0 +1,147 @@
+[
+ {
+  "id": "pt:dre:582436:por",
+  "artigos": [],
+  "instrucoes_em_falta": [
+   "Declaração de Rectificação n.º 21-D/2001, parte I, capítulo 5: «d) REN» passa a «d) Planos regionais de ordenamento florestal.» (com os três parágrafos sobre os PROF) e «e) Reserva Ecológia Nacional. A Reserva Ecológica Nacional (REN)». «Alvo incerto» não é justificação: o alvo é o capítulo 5 da parte I, que no texto atual só tem o título",
+   "Declaração de Rectificação n.º 21-D/2001, parte III, capítulo 3, quadro «Objectivos de médio/longo prazo», OT-DH5: passa a «OT-DH5 - Protecção dos solos contra a erosão: Incentivar práticas agrícolas que promovam a conservação dos solos, nomeadamente ao nível dos PDM.». Alvo: capítulo 3 da parte III, só com título no texto atual",
+   "Declaração de Rectificação n.º 21-D/2001, parte VI, «Normas orientadoras»: aditamento no fim da al. w), antes da tabela A, do parágrafo «Sistemas de medida - para controlo do cumprimento dos objectivos, [...] superiores a 5 l/s.». Alvo: parte VI, só com título no texto atual"
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": []
+ },
+ {
+  "id": "pt:dre:629140:por",
+  "artigos": [],
+  "instrucoes_em_falta": [
+   "DL 196/2009, art. 2.º: nova redação dos arts. 1.º, 2.º (als. ppp) a ttt)) e 25.º (n.º 5) do Regulamento aprovado pelo DL 346/2007. «Alvo incerto» não é justificação: o alvo é o Regulamento anexo ao original, que não está no texto atual",
+   "DL 196/2009, art. 4.º: aditamento do art. 11.º-A («Homologação de um veículo completo», n.os 1 e 2) ao Regulamento. Traz o texto completo; o Regulamento não está no texto atual",
+   "DL 196/2009, art. 3.º e anexo I: nova redação dos anexos VI-A, VII-A, X-A e XVI do Regulamento (em texto, com «...» nas partes que se mantêm). O Regulamento e os seus anexos não estão no texto atual",
+   "DL 196/2009, art. 5.º e anexo II: aditamento dos anexos VI-F, XVII e XVIII ao Regulamento, com texto completo. O Regulamento e os seus anexos não estão no texto atual"
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 47/2018: nova redação de artigos do DL 181/2012",
+    "motivo": "outro diploma: segundo o excerto da triagem, a instrução é dirigida ao DL 181/2012 e o DL 346/2007 só é citado no seu art. 3.º (texto omitido na vista)"
+   }
+  ]
+ },
+ {
+  "id": "pt:dre:686787:por",
+  "artigos": [
+   {
+    "artigo": "(preâmbulo)",
+    "veredicto": "certo",
+    "motivo": "certo: só fica a parte anterior ao articulado; o resto passou para os artigos, com texto igual",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "certo: o texto do original foi repartido por artigos com título próprio; o texto é igual ao original e nenhuma instrução o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "certo: o texto do original foi repartido por artigos com título próprio; o texto é igual ao original e nenhuma instrução o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "certo: o texto do original foi repartido por artigos com título próprio; o texto é igual ao original e nenhuma instrução o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "certo: o texto do original foi repartido por artigos com título próprio; o texto é igual ao original e nenhuma instrução o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "certo: o texto do original foi repartido por artigos com título próprio; o texto é igual ao original e nenhuma instrução o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "certo: o texto do original foi repartido por artigos com título próprio; o texto é igual ao original e nenhuma instrução o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "certo",
+    "motivo": "certo: o texto do original foi repartido por artigos com título próprio; o texto é igual ao original e nenhuma instrução o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "certo: o texto do original foi repartido por artigos com título próprio; o texto é igual ao original e nenhuma instrução o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "certo: o texto do original foi repartido por artigos com título próprio; o texto é igual ao original e nenhuma instrução o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 10.º",
+    "veredicto": "certo",
+    "motivo": "certo: o texto do original foi repartido por artigos com título próprio; o texto é igual ao original e nenhuma instrução o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 11.º",
+    "veredicto": "certo",
+    "motivo": "certo: o texto do original foi repartido por artigos com título próprio; o texto é igual ao original e nenhuma instrução o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 12.º",
+    "veredicto": "certo",
+    "motivo": "certo: o texto do original foi repartido por artigos com título próprio; o texto é igual ao original e nenhuma instrução o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 13.º",
+    "veredicto": "certo",
+    "motivo": "certo: o texto do original foi repartido por artigos com título próprio; o texto é igual ao original e nenhuma instrução o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 14.º",
+    "veredicto": "certo",
+    "motivo": "certo: o texto do original foi repartido por artigos com título próprio; o texto é igual ao original e nenhuma instrução o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 15.º",
+    "veredicto": "certo",
+    "motivo": "certo: o texto do original foi repartido por artigos com título próprio; o texto é igual ao original e nenhuma instrução o altera",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [
+   "DL 46862, art. 1.º: novos vencimentos do pessoal da mestrança constantes do mapa anexo ao original (Mestre de 1.ª classe - 3600$00 ... Contramestre de 3.ª classe - 2500$00), criando a categoria de contramestre de 3.ª classe. Os valores novos vêm em texto, não em imagem, por isso o motivo «só em imagem» não se confirma; o alvo (mapa a que se refere o art. 3.º) só existe como ligação a imagem no fim do art. 15.º, sem anexo com título"
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 46862, art. 2.º: recrutamento de mestres e contramestres por concurso público quando não haja serventuários para os provimentos dos arts. 6.º, 7.º ou 9.º",
+    "motivo": "não textual: norma própria do alterador, sem nova redação nem aditamento a artigo do original"
+   }
+  ]
+ }
+]

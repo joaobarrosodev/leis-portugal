@@ -1,0 +1,279 @@
+[
+ {
+  "id": "pt:dre:344925:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "DL 105/2014, art. 2.º: nova redação do artigo 1.º, letra a letra (sem as ligações).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "DL 105/2014, art. 6.º, revoga o artigo 2.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "Nova denominação «VALNOR - Valorização e Tratamento de Resíduos Sólidos, S. A.»: segue a republicação (anexo do DL 105/2014, art. 7.º: redação atual, presente do indicativo); o preâmbulo diz que a republicação incorpora a alteração da denominação.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "DL 105/2014, art. 6.º, revoga o n.º 3 do artigo 4.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "DL 105/2014, art. 6.º, revoga o artigo 5.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "DL 105/2014, art. 2.º: n.º 1 com nova redação e n.º 2 revogado (art. 6.º). Nota: o art. 8.º, n.º 2, adia a vigência do art. 6.º para quando a VALNOR deixar de ser detida maioritariamente por entidades públicas.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "certo",
+    "motivo": "DL 105/2014, art. 2.º: n.os 1 a 4 revogados e n.º 5 com nova redação (sem as ligações).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "DL 105/2014, art. 6.º, revoga o artigo 8.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "DL 105/2014, art. 6.º, revoga o artigo 9.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 10.º",
+    "veredicto": "certo",
+    "motivo": "DL 105/2014, art. 6.º, revoga o artigo 10.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 11.º",
+    "veredicto": "certo",
+    "motivo": "DL 105/2014, art. 6.º, revoga o artigo 11.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 12.º",
+    "veredicto": "errado",
+    "motivo": "Artigo 12.º revogado corretamente (art. 6.º do DL 105/2014) e fecho do diploma mantido; mas o título dos estatutos que vem no mesmo bloco fica com a denominação antiga «… Resíduos Sólidos do Norte Alentejano, S. A.», quando a republicação (e o próprio consolidado, no art. 3.º e no art. 1.º dos estatutos) usa a nova denominação.",
+    "texto_esperado": "###### Artigo 12.º\n\n(Revogado.)\n\n[assinaturas, promulgação e referenda como no original]\n\nESTATUTOS DA VALNOR - VALORIZAÇÃO E TRATAMENTO DE RESÍDUOS SÓLIDOS, S. A."
+   },
+   {
+    "artigo": "CAPÍTULO I",
+    "veredicto": "certo",
+    "motivo": "Epígrafe «Disposições gerais»: segue a republicação (anexo do DL 105/2014, art. 7.º: redação atual, presente do indicativo).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 1.º #2",
+    "veredicto": "certo",
+    "motivo": "Estatutos, art. 1.º: nova denominação e presente do indicativo, segue a republicação (anexo do DL 105/2014, art. 7.º: redação atual, presente do indicativo).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "CAPÍTULO II",
+    "veredicto": "certo",
+    "motivo": "«Objeto»: segue a republicação (anexo do DL 105/2014, art. 7.º: redação atual, presente do indicativo).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º #2",
+    "veredicto": "certo",
+    "motivo": "DL 105/2014, art. 4.º: nova redação do artigo 3.º dos estatutos, letra a letra. Nota: vigência adiada pelo art. 8.º, n.º 2.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º #2",
+    "veredicto": "certo",
+    "motivo": "Só ortografia: segue a republicação (anexo do DL 105/2014, art. 7.º: redação atual, presente do indicativo).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º #2",
+    "veredicto": "certo",
+    "motivo": "N.º 2 com a redação do art. 4.º do DL 105/2014; o n.º 1 («[...]» no artigo de alteração) segue a republicação (anexo do DL 105/2014, art. 7.º: redação atual, presente do indicativo) (alteração registada referida no preâmbulo).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º #2",
+    "veredicto": "certo",
+    "motivo": "DL 105/2014, art. 6.º, revoga o artigo 6.º dos estatutos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 7.º #2",
+    "veredicto": "certo",
+    "motivo": "N.º 2 com a redação do art. 4.º; o n.º 1 «[...]» segue a republicação (anexo do DL 105/2014, art. 7.º: redação atual, presente do indicativo).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 8.º #2",
+    "veredicto": "certo",
+    "motivo": "N.º 3 revogado (art. 6.º); n.os 1, 2, 4 e 5 segue a republicação (anexo do DL 105/2014, art. 7.º: redação atual, presente do indicativo) (alteração ao artigo 8.º referida no preâmbulo).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 9.º #2",
+    "veredicto": "certo",
+    "motivo": "DL 105/2014: n.os 1 e 2 revogados e n.os 3 a 12 com a nova redação, letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 10.º #2",
+    "veredicto": "certo",
+    "motivo": "DL 105/2014: n.º 1 com nova redação, n.º 2 «[...]» em presente do indicativo como na republicação, n.º 3 revogado.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 11.º #2",
+    "veredicto": "certo",
+    "motivo": "Só tempo verbal e ortografia: segue a republicação (anexo do DL 105/2014, art. 7.º: redação atual, presente do indicativo).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "CAPÍTULO III",
+    "veredicto": "certo",
+    "motivo": "Epígrafe «Órgãos sociais», antes do artigo 12.º: segue a republicação (anexo do DL 105/2014, art. 7.º: redação atual, presente do indicativo).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 12.º #2",
+    "veredicto": "certo",
+    "motivo": "DL 105/2014, art. 4.º: nova redação do n.º 1; n.º 2 «[...]» igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 13.º",
+    "veredicto": "certo",
+    "motivo": "Estatutos, art. 13.º: só ortografia, segue a republicação (anexo do DL 105/2014, art. 7.º: redação atual, presente do indicativo).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 14.º",
+    "veredicto": "certo",
+    "motivo": "N.º 1 com a redação do art. 4.º; n.º 2 «[...]» em presente do indicativo, como na republicação.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 15.º",
+    "veredicto": "certo",
+    "motivo": "Só ortografia: segue a republicação (anexo do DL 105/2014, art. 7.º: redação atual, presente do indicativo).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 16.º",
+    "veredicto": "certo",
+    "motivo": "N.º 2 com a redação do art. 4.º; n.º 1 «[...]» segue a republicação (anexo do DL 105/2014, art. 7.º: redação atual, presente do indicativo).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 17.º",
+    "veredicto": "certo",
+    "motivo": "Tempo verbal, ortografia e vírgulas: segue a republicação (anexo do DL 105/2014, art. 7.º: redação atual, presente do indicativo).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 18.º",
+    "veredicto": "certo",
+    "motivo": "N.º 2, a), com a redação do art. 4.º; restante «[...]» em ortografia atual, como na republicação.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 19.º",
+    "veredicto": "certo",
+    "motivo": "N.º 3 com a redação do art. 4.º; n.º 1 (três, cinco ou sete membros) e n.º 4 segue a republicação (anexo do DL 105/2014, art. 7.º: redação atual, presente do indicativo) (alteração ao artigo 19.º referida no preâmbulo).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 20.º",
+    "veredicto": "certo",
+    "motivo": "Só tempo verbal e ortografia: segue a republicação (anexo do DL 105/2014, art. 7.º: redação atual, presente do indicativo).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 21.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação segue a republicação (anexo do DL 105/2014, art. 7.º: redação atual, presente do indicativo) (alteração ao artigo 21.º referida no preâmbulo).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 22.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação do n.º 1 segue a republicação (anexo do DL 105/2014, art. 7.º: redação atual, presente do indicativo) (alteração ao artigo 22.º referida no preâmbulo).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 23.º",
+    "veredicto": "certo",
+    "motivo": "Só tempo verbal e ortografia: segue a republicação (anexo do DL 105/2014, art. 7.º: redação atual, presente do indicativo).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 24.º",
+    "veredicto": "certo",
+    "motivo": "Só tempo verbal e ortografia: segue a republicação (anexo do DL 105/2014, art. 7.º: redação atual, presente do indicativo).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 25.º",
+    "veredicto": "certo",
+    "motivo": "DL 105/2014, art. 4.º: nova redação, letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 25.º-A",
+    "veredicto": "certo",
+    "motivo": "DL 105/2014, art. 5.º: aditamento, letra a letra. Nota: vigência adiada pelo art. 8.º, n.º 2.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "CAPÍTULO IV",
+    "veredicto": "certo",
+    "motivo": "Epígrafe «Disposições finais», antes do artigo 26.º: segue a republicação (anexo do DL 105/2014, art. 7.º: redação atual, presente do indicativo).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 26.º",
+    "veredicto": "certo",
+    "motivo": "Só tempo verbal e ortografia: segue a republicação (anexo do DL 105/2014, art. 7.º: redação atual, presente do indicativo).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "CAPÍTULO V",
+    "veredicto": "certo",
+    "motivo": "A republicação só tem quatro capítulos: o antigo «CAPÍTULO V — Disposições finais» passa a ser o CAPÍTULO IV.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [
+   "DL 105/2014, art. 3.º: aditamento ao DL 11/2001 dos artigos 13.º (conselho consultivo) e 14.º (caução), que devem ficar a seguir ao artigo 12.º do decreto-lei e antes dos estatutos, como na republicação. Não aplicado. A justificação «alvo incerto» não é aceite: o alvo é conhecido."
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Despachos n.º 26172/2004 e n.º 16510/2010: reconhecimento do interesse público do alargamento do sistema a novos municípios",
+    "motivo": "Não textuais: atos praticados ao abrigo do n.º 2 do artigo 2.º do DL 11/2001, que não dão nova redação a nenhum artigo (confirmado no texto dos despachos)."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [
+   "Artigos 13.º e 14.º do decreto-lei (aditados pelo art. 3.º do DL 105/2014)"
+  ],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

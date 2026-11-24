@@ -1,0 +1,72 @@
+[
+ {
+  "id": "pt:dre:324145:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pela Lei 34/2015, art. 5.º, al. r); epígrafe mantida e corpo (Revogado.).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "CAPÍTULO VII",
+    "veredicto": "errado",
+    "motivo": "Epígrafe do capítulo bem mudada (DL 113/2015, art. 3.º, n.º 1, a)), mas a Base XXIV (incluída em «XXII a XXXIX» do art. 1.º) ficou com o texto antigo (epígrafe «IEP», «poderão ser executados pelo IEP»).",
+    "texto_esperado": "### CAPÍTULO VII — Funções do IMT\n\nBase XXIV\n\nIMT\n\nSem prejuízo dos poderes cometidos a outras entidades, designadamente à EP e à UTAP, sempre que no Contrato de Concessão se atribuam poderes ou se preveja o exercício de faculdades pelo Concedente, tais poderes e tal exercício são executados pelo IMT, salvo quando o contrário decorrer do Contrato de Concessão ou de disposição normativa."
+   },
+   {
+    "artigo": "CAPÍTULO X",
+    "veredicto": "errado",
+    "motivo": "Só a epígrafe do capítulo mudou (art. 3.º, n.º 1, b), certo). As Bases XLV a LVI, com nova redação no art. 1.º do DL 113/2015, ficaram todas com o texto original (ex.: Base XLV n.º 1 antigo «em bom estado de conservação e perfeitas condições de utilização, em tudo devendo diligenciar...»); revogações do art. 5.º neste capítulo também não aplicadas.",
+    "texto_esperado": "### CAPÍTULO X — Manutenção, exploração e conservação da Autoestrada; Bases XLV a LVI na redação do art. 1.º do DL 113/2015, letra a letra, com o texto original em cada «[...]» (epígrafes [...] mantêm a original); com as revogações do art. 5.º: alínea b) do n.º 2 da Base XLVII «b) (Revogada.)», n.os 2 a 4 da Base XLVIII, n.º 2 da Base XLIX, alíneas g) e h) do n.º 1 e n.º 2 da Base L, n.os 2 a 5 da Base LI e n.º 5 da Base LIV como «N - (Revogado.)»; Base LVII igual ao original."
+   },
+   {
+    "artigo": "CAPÍTULO XII",
+    "veredicto": "errado",
+    "motivo": "Só a epígrafe do capítulo mudou (art. 3.º, n.º 1, c), certo). As Bases LXII, LXIII, LXIV e LXV, revogadas pelo art. 5.º do DL 113/2015, mantêm o corpo antigo, e faltam as Bases LXV-A a LXV-E aditadas pelo art. 2.º.",
+    "texto_esperado": "### CAPÍTULO XII — Pagamentos pela disponibilidade da Autoestrada e partilha de benefícios\n\nBase LXII\n\nPagamentos durante o Período Inicial da Concessão\n\n(Revogada.)\n\nBase LXIII\n\nPagamentos após o Período Inicial da Concessão\n\n(Revogada.)\n\nBase LXIV\n\nAjustamentos relacionados com o desempenho na exploração e manutenção\n\n(Revogada.)\n\nBase LXV\n\nMétodo de pagamento à Concessionária\n\n(Revogada.)\n\n[seguidas das Bases LXV-A (Remuneração pela disponibilidade da Autoestrada), LXV-B (Pagamentos por conta da remuneração anual pela disponibilidade da Autoestrada), LXV-C (Partilha de benefícios de receitas de portagem), LXV-D (Partilha de redução de custos) e LXV-E (Partilha de benefícios), com o texto do art. 2.º do DL 113/2015, incluindo as ligações às imagens das fórmulas]"
+   },
+   {
+    "artigo": "CAPÍTULO XVII",
+    "veredicto": "errado",
+    "motivo": "Só a epígrafe do capítulo mudou (art. 3.º, n.º 1, d), certo). As Bases LXXV e LXXVI, com nova redação no art. 1.º do DL 113/2015, ficaram com o texto original (ex.: Base LXXV n.º 1 com «rescisão da Concessão» e «entre 1000000$00 e 20000000$00» em vez de «resolução do Contrato de Concessão» e «entre (euro) 5 000 e (euro) 100 000»); revogação da alínea d) do n.º 5 da Base LXXV (art. 5.º) não aplicada.",
+    "texto_esperado": "### CAPÍTULO XVII — Incumprimento e cumprimento defeituoso; Bases LXXV e LXXVI na redação do art. 1.º do DL 113/2015, letra a letra, com o texto original em cada «[...]» (epígrafes «Incumprimento» e «Força maior» mantidas), e na Base LXXV «d) (Revogada.)» no n.º 5."
+   },
+   {
+    "artigo": "CAPÍTULO XXI",
+    "veredicto": "errado",
+    "motivo": "Só a epígrafe do capítulo mudou (art. 3.º, n.º 1, e), certo). A Base LXXXVI tem nova redação integral (com epígrafe nova) no art. 1.º e ficou a antiga («Entrada em vigor»/«entrará em vigor às 24 horas do dia da sua assinatura pelas Partes»); falta a Base LXXXVI-A aditada pelo art. 2.º.",
+    "texto_esperado": "### CAPÍTULO XXI — Aplicação no tempo\n\nBase LXXXVI\n\nInício da vigência da Concessão\n\nO Contrato de Concessão entra em vigor às 24 horas da Data de Assinatura do Contrato de Concessão, contando-se a partir dessa data o prazo da Concessão.\n\nBase LXXXVI-A\n\nProdução de efeitos das alterações ao Contrato de Concessão\n\nSalvo na medida do disposto no Contrato de Concessão, as alterações ao Contrato de Concessão que incorporam o disposto nas presentes bases produzem efeitos a partir da obtenção de visto do Tribunal de Contas, expresso ou tácito, ou da confirmação por aquele Tribunal de que as mesmas não se encontram sujeitas a procedimento de fiscalização prévia nos termos da respetiva Lei de Organização e Processo."
+   }
+  ],
+  "instrucoes_em_falta": [
+   "DL 113/2015, art. 1.º: nova redação das Bases I, II, V a VII, IX a XX, XXII, XXIII, XXV a XXXIX, XLI a XLIII, LVIII a LXI, LXVI, LXVIII, LXX a LXXII, LXXVII a LXXXI, LXXXIII, LXXXIV e LXXXVII a LXXXIX (nos capítulos da lista dos iguais, sem efeito no consolidado; a justificação «alvo incerto/bases não existem» é desmentida pela vista, onde os capítulos trazem as bases)",
+   "DL 113/2015, art. 1.º: nova redação da Base XXIV (capítulo VII)",
+   "DL 113/2015, art. 1.º: nova redação das Bases XLV a LVI (capítulo X)",
+   "DL 113/2015, art. 1.º: nova redação das Bases LXXV e LXXVI (capítulo XVII)",
+   "DL 113/2015, art. 1.º: nova redação da Base LXXXVI (capítulo XXI)",
+   "DL 113/2015, art. 2.º: aditamento das Bases XVIII-A, XIX-A e XXXIV-A",
+   "DL 113/2015, art. 2.º: aditamento das Bases LVII-A a LVII-DD (capítulo X-A)",
+   "DL 113/2015, art. 2.º: aditamento das Bases LXV-A a LXV-E (capítulo XII)",
+   "DL 113/2015, art. 2.º: aditamento das Bases LXXXVI-A, LXXXVII-A e LXXXVII-B",
+   "DL 113/2015, art. 3.º, n.º 2: aditamento do capítulo X-A «Portagens», com as secções I a X e subsecções I a III da secção V",
+   "DL 113/2015, art. 3.º, n.º 3: aditamento do capítulo XXII-A «Comissão de Peritos», com a Base LXXXVII-B",
+   "DL 113/2015, art. 5.º: revogação das alíneas i), l), ii), jj), oo), uu), vv) e ww) do n.º 1 da Base I, do n.º 2 da Base XIII, dos n.os 2 a 7 da Base LXXXII e das alíneas a) e c) do n.º 7 da Base LXXXIV (capítulos da lista dos iguais)",
+   "DL 113/2015, art. 5.º: revogação da alínea b) do n.º 2 da Base XLVII, dos n.os 2 a 4 da Base XLVIII, do n.º 2 da Base XLIX, das alíneas g) e h) do n.º 1 e do n.º 2 da Base L, dos n.os 2 a 5 da Base LI e do n.º 5 da Base LIV (capítulo X)",
+   "DL 113/2015, art. 5.º: revogação das Bases LXII, LXIII, LXIV e LXV (capítulo XII)",
+   "DL 113/2015, art. 5.º: revogação da alínea d) do n.º 5 da Base LXXV (capítulo XVII)"
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [
+   "CAPÍTULO X-A (aditado pelo DL 113/2015, art. 3.º, n.º 2, com as Bases LVII-A a LVII-DD)",
+   "CAPÍTULO XXII-A (aditado pelo DL 113/2015, art. 3.º, n.º 3, com a Base LXXXVII-B)"
+  ],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 113/2015, art. 6.º, n.os 1 e 2: republicação das bases, com presente do indicativo e «IEP»/«MES» lidos «Concedente»/«ME»",
+    "motivo": "Regra só para efeitos da republicação; o anexo republicado não vem no texto do diploma que altera, que acaba no art. 6.º."
+   }
+  ]
+ }
+]

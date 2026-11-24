@@ -1,0 +1,40 @@
+[
+ {
+  "id": "pt:dre:346486:por",
+  "veredicto": "certo",
+  "problemas": [],
+  "vigencia": {"conclusao": "outro", "prova": "Revogação parcial: a redação original da alínea x) do n.º 1 do art. 5.º da Lei n.º 110/2009 revogava o diploma inteiro («O Decreto Legislativo Regional n.º 12/93/M...»), a partir de 1.1.2011 (Lei n.º 119/2009). O art. 81.º, n.º 2, da Lei n.º 64-B/2011, em vigor a 1.1.2012, deu-lhe a redação «O artigo 11.º do Decreto Legislativo Regional n.º 12/93/M...» (versões em data/portugal/leis/2009/lei-110-2009.versoes.json). O registo do DRE lê-o como revogação apenas do art. 11.º, que é o que o consolidado tem. Entre 1.1.2011 e 31.12.2011 o diploma esteve revogado por inteiro; pode haver uma questão de repristinação (art. 7.º, n.º 4, do Código Civil), mas não muda o texto."}
+ },
+ {
+  "id": "pt:dre:373471:por",
+  "veredicto": "certo",
+  "problemas": [],
+  "vigencia": null
+ },
+ {
+  "id": "pt:dre:418190:por",
+  "veredicto": "duvida",
+  "problemas": [
+   "Quadros I (GNR) e II (PSP) anexos: o DL 270/91 substitui-os por inteiro, com imagem nova (https://files.diariodarepublica.pt/1s/1991/08/180a00/39083909.pdf) e o título «Anexos a que se refere o n.º 1 do artigo 1.º do Decreto-Lei n.º 313/87, de 20 de Agosto, com a redacção dada pelo Decreto-Lei n.º 270/91, de 7 de Agosto.». O consolidado deixou, no corpo do art. 8.º, «Anexo a que se refere o n.º 1 do artigo 1.º do Decreto-Lei n.º 313/87» com «QUADRO I» e «QUADRO II» a apontar para a imagem de 1987 (https://files.diariodarepublica.pt/1s/1987/08/19000/32583259.pdf), que está substituída e já não corresponde ao novo art. 1.º, n.º 1 (0,66 dos valores, índice 100 das carreiras médicas). As linhas de imagem são texto do diploma e podiam ser trocadas pelas do alterador (incluindo «GNR» e «PSP» sob cada quadro). Não decido porque a regra da adenda «sem título de anexo → só em imagem, nao_aplicavel» manda não aplicar (mesmo tratamento que pt:dre:631797:por e pt:dre:618876:por nas rondas 119 e 120).",
+   "Arts. 1.º, 2.º, 4.º e 5.º: bem aplicados, letra a letra do DL 270/91; os números com «...» (art. 2.º, n.os 1 e 4; art. 5.º, n.os 1 e 3) ficaram como no texto atual. Os arts. 2.º a 4.º do DL 270/91 não alteram o texto."
+  ],
+  "vigencia": null
+ },
+ {
+  "id": "pt:dre:446959:por",
+  "veredicto": "duvida",
+  "problemas": [
+   "Arts. 1.º a 7.º, todos «(Revogado.)»: a alínea q) do art. 19.º da Lei n.º 36/2021 revoga o DL 57/78 «exceto para efeitos do disposto no n.º 4 do artigo 17.º». O art. 17.º, n.º 4, mantém «a possibilidade de requerer registos sobre associações, nos termos do Decreto-Lei n.º 57/78» que já estejam inscritas no registo comercial, enquanto mantiverem o estatuto de utilidade pública. A ressalva não é de artigos, é de efeitos: o regime de registo dos arts. 1.º a 7.º continua a aplicar-se a essas associações. Pôr todos os artigos como «(Revogado.)» trata a revogação como total e apaga um texto que ainda se aplica. Não decido se o texto deve ficar, com nota da ressalva, ou ser marcado como revogado: é uma questão de critério para as revogações com ressalva de efeitos, e o registo do DRE dá-o como revogado com a mesma exceção. O resto está certo: o preâmbulo e as fórmulas finais (assinaturas, promulgação) ficaram."
+  ],
+  "vigencia": {"conclusao": "revogado", "prova": "Lei n.º 36/2021, art. 19.º, al. q), em vigor a 1.7.2021 (art. 20.º, n.º 1), «exceto para efeitos do disposto no n.º 4 do artigo 17.º»; o registo do DRE (repealed_by pt:dre:165036155:por) diz o mesmo."}
+ },
+ {
+  "id": "pt:dre:451862:por",
+  "veredicto": "reparos",
+  "problemas": [
+   "Arts. 6.º, 7.º, 8.º, 10.º e 11.º: deviam estar «(Revogado.)» e estão iguais ao original. O DL 142/2008, art. 53.º, n.º 1, al. f), revoga-os, e o n.º 2 faz a revogação produzir efeitos «a partir da data da entrada em vigor dos planos de ordenamento das respectivas áreas protegidas». O Plano de Ordenamento do Parque Natural do Alvão já estava em vigor: foi aprovado pela Resolução do Conselho de Ministros n.º 62/2008, publicada a 7.4.2008, que «entra em vigor no dia seguinte ao da sua publicação» (data/portugal/resolucoes-conselho-ministros/2008/resolucao-conselho-ministros-62-2008.md). Isto é antes da entrada em vigor do DL 142/2008, a 29.7.2008. A condição já se tinha verificado, pelo que o «efeito adiado» que o verificador aceitou não se aplica e a revogação vale desde 29.7.2008. O registo do DRE confirma: «Revogados, a partir de 29.07.2008, os art.s 6º, 7º, 8º, 10º e 11º, pelo DEC LEI.142/2008». O corpo de cada um destes artigos deve ser «(Revogado.)», com o prefixo como no texto atual («Art. 6.º - (Revogado.)», etc.).",
+   "DL 390/83, artigo único: bem justificado como não textual. Junta um representante do Instituto Universitário de Trás-os-Montes e Alto Douro à comissão instaladora, sem dar nova redação ao art. 4.º, n.º 1."
+  ],
+  "vigencia": null
+ }
+]

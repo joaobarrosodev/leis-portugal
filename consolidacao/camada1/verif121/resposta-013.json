@@ -1,0 +1,93 @@
+[
+ {
+  "id": "pt:dre:418190:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "DL 270/91, art. 1.º: nova redação dos n.os 1 e 2 do artigo 1.º, letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "DL 270/91: n.os 2 e 3 com nova redação; n.os 1 e 4 («...») mantêm o original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "DL 270/91: nova redação do artigo 4.º (n.os 1 e 2), letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "DL 270/91: n.º 2 com nova redação; n.os 1 e 3 («...») mantêm o original.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 270/91: quadros I (GNR) e II (PSP) anexos, com a redação dada ao n.º 1 do artigo 1.º",
+    "motivo": "O texto novo só vem em imagem (ligações «ver documento original» no alterador) e o consolidado não tem um anexo com título (a lista de artigos iguais não traz nenhum ANEXO)."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:446959:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "Lei 36/2021, art. 19.º, q), revoga o DL 57/78 (com ressalva só para efeitos do n.º 4 do art. 17.º da Lei, que é ultra-atividade transitória e não altera o texto): corpo «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "Lei 36/2021, art. 19.º, q), revoga o DL 57/78 (com ressalva só para efeitos do n.º 4 do art. 17.º da Lei, que é ultra-atividade transitória e não altera o texto): corpo «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "Lei 36/2021, art. 19.º, q), revoga o DL 57/78 (com ressalva só para efeitos do n.º 4 do art. 17.º da Lei, que é ultra-atividade transitória e não altera o texto): corpo «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "Lei 36/2021, art. 19.º, q), revoga o DL 57/78 (com ressalva só para efeitos do n.º 4 do art. 17.º da Lei, que é ultra-atividade transitória e não altera o texto): corpo «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "Lei 36/2021, art. 19.º, q), revoga o DL 57/78 (com ressalva só para efeitos do n.º 4 do art. 17.º da Lei, que é ultra-atividade transitória e não altera o texto): corpo «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "Lei 36/2021, art. 19.º, q), revoga o DL 57/78 (com ressalva só para efeitos do n.º 4 do art. 17.º da Lei, que é ultra-atividade transitória e não altera o texto): corpo «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "certo",
+    "motivo": "Lei 36/2021, art. 19.º, q), revoga o DL 57/78 (com ressalva só para efeitos do n.º 4 do art. 17.º da Lei, que é ultra-atividade transitória e não altera o texto): corpo «(Revogado.)». As assinaturas e a promulgação que seguem são o fecho do diploma, não texto do artigo.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

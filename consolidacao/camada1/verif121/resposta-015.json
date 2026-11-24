@@ -1,0 +1,123 @@
+[
+ {
+  "id": "pt:dre:454064:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "Corpo com a redação dos DLR 42/2012/M, 31-A/2013/M e 6/2015/M (receita do SRPC, IP-RAM); a) 13 % (DLR 34/2009/M), b) original, c) 2,5 % (DLR 6/2015/M); n.º 2 original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "Redação do DLR 31-A/2013/M, art. 57.º, a última dada ao art. 3.º, letra a letra.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": []
+ },
+ {
+  "id": "pt:dre:542458:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "Lei 26/2016, art. 45.º: o Regulamento Orgânico da CADA é o anexo da Lei 10/2012; n.os 1 a 3 originais, novo n.º 4 e n.º 5 letra a letra, epígrafe original no lugar de [...].",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": []
+ },
+ {
+  "id": "pt:dre:674006:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 236/81, art. 4.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação do DL 236/81, art. 3.º, letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação do DL 236/81, art. 3.º, letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação do DL 236/81, art. 3.º, letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 14.º",
+    "veredicto": "certo",
+    "motivo": "N.º 1 original («...»), n.º 2 com a nova redação do DL 236/81, art. 3.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 16.º",
+    "veredicto": "certo",
+    "motivo": "N.º 1 original («...»), n.º 2 com a nova redação do DL 236/81, art. 3.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 17.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação do DL 236/81, art. 3.º, letra a letra.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 236/81, art. 2.º: a Agência Financial de Portugal passa a denominar-se Banco Financial Português",
+    "motivo": "Não textual: mudança de designação sem nova redação dos artigos (confirmado no texto do alterador)."
+   },
+   {
+    "instrucao": "DL 236/81, art. 1.º (nova redação de artigos do DL 265/75) e art. 4.º na parte do art. 5.º do DL 265/75",
+    "motivo": "Instruções de outro diploma (DL 265/75)."
+   }
+  ]
+ },
+ {
+  "id": "pt:dre:465399:por",
+  "artigos": [
+   {
+    "artigo": "Trecho 1",
+    "veredicto": "certo",
+    "motivo": "Art. 1.º com a redação retificada pelo DL 244/75, art. 1.º, letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 2",
+    "veredicto": "certo",
+    "motivo": "Art. 4.º com a redação retificada pelo DL 244/75, art. 1.º, letra a letra.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": []
+ }
+]

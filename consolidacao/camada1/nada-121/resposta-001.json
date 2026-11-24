@@ -1,0 +1,737 @@
+[
+ {
+  "id": "pt:dre:177853:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 31.º",
+    "veredicto": "certo",
+    "motivo": "certo: só muda a capitalização do título (ARTIGO -> Artigo); texto igual ao original, nenhuma instrução dirigida ao original o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 38.º",
+    "veredicto": "certo",
+    "motivo": "certo: só muda a capitalização do título (ARTIGO -> Artigo); texto igual ao original, nenhuma instrução dirigida ao original o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 54.º",
+    "veredicto": "certo",
+    "motivo": "certo: só muda a capitalização do título (ARTIGO -> Artigo); texto igual ao original, nenhuma instrução dirigida ao original o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "ARTIGO 31.º",
+    "veredicto": "certo",
+    "motivo": "certo: está no consolidado com a chave «Artigo 31.º» (só muda a capitalização do título), com o mesmo texto",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "ARTIGO 38.º",
+    "veredicto": "certo",
+    "motivo": "certo: está no consolidado com a chave «Artigo 38.º» (só muda a capitalização do título), com o mesmo texto",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "ARTIGO 54.º",
+    "veredicto": "certo",
+    "motivo": "certo: está no consolidado com a chave «Artigo 54.º» (só muda a capitalização do título), com o mesmo texto",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DR 59/86, art. 1.º: nova redação do n.º 3 do art. 31.º e dos n.os 10, 13 e 15 do art. 38.º do Código da Estrada",
+    "motivo": "outro diploma: o art. 1.º diz expressamente que altera o Código da Estrada aprovado pelo Decreto-Lei n.º 39672, não o texto do DR 69/85"
+   },
+   {
+    "instrucao": "DR 59/86, art. 3.º: revoga o art. 1.º do DR 69/85 na parte em que se refere aos arts. 31.º e 38.º do Código da Estrada",
+    "motivo": "efeito adiado para facto futuro: o art. 4.º diz que o diploma «entra em vigor seis meses após a publicação dos despachos nele previstos», repondo até lá os arts. 31.º e 38.º do Código na redação anterior"
+   }
+  ]
+ },
+ {
+  "id": "pt:dre:213062:por",
+  "artigos": [
+   {
+    "artigo": "(preâmbulo)",
+    "veredicto": "certo",
+    "motivo": "certo: só fica a parte anterior ao articulado; o resto passou para os artigos, com texto igual",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "certo: o texto do original foi repartido por artigos com título próprio; o texto é igual ao original e nenhuma instrução o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "certo: o texto do original foi repartido por artigos com título próprio; o texto é igual ao original e nenhuma instrução o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "certo: o texto do original foi repartido por artigos com título próprio; o texto é igual ao original e nenhuma instrução o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "certo: o texto do original foi repartido por artigos com título próprio; o texto é igual ao original e nenhuma instrução o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "certo: o texto do original foi repartido por artigos com título próprio; o texto é igual ao original e nenhuma instrução o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "certo: o texto do original foi repartido por artigos com título próprio; o texto é igual ao original e nenhuma instrução o altera",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 467/73, art. 5.º, n.º 1 (1.ª parte): são extintas as categorias «segundo-cabo com mais de cinco anos» e «soldado com mais de cinco anos» previstas no DL 49478",
+    "motivo": "não textual: extingue as categorias sem revogar nem dar nova redação ao art. 2.º do original"
+   },
+   {
+    "instrucao": "DL 467/73, art. 5.º, n.º 2: «segundo-cabo com menos de cinco anos» e «soldado com menos de cinco anos» passam a designar-se segundo-cabo e soldado",
+    "motivo": "não textual: mudança de designação sem nova redação («passam a designar-se»)"
+   },
+   {
+    "instrucao": "DL 467/73, art. 5.º, n.º 1 (parte final), n.os 3 e 4: categorias de guardas",
+    "motivo": "outro diploma: são as categorias previstas no Decreto-Lei n.º 49477 (PSP), não no original"
+   }
+  ]
+ },
+ {
+  "id": "pt:dre:217111:por",
+  "artigos": [
+   {
+    "artigo": "(preâmbulo)",
+    "veredicto": "certo",
+    "motivo": "certo: só fica a parte anterior ao articulado; o resto passou para os artigos, com texto igual",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "certo: o texto do original foi repartido por artigos com título próprio; o texto é igual ao original e nenhuma instrução o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "certo: o texto do original foi repartido por artigos com título próprio; o texto é igual ao original e nenhuma instrução o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "certo: o texto do original foi repartido por artigos com título próprio; o texto é igual ao original e nenhuma instrução o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "certo: o texto do original foi repartido por artigos com título próprio; o texto é igual ao original e nenhuma instrução o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "certo: o texto do original foi repartido por artigos com título próprio; o texto é igual ao original e nenhuma instrução o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "certo: o texto do original foi repartido por artigos com título próprio; o texto é igual ao original e nenhuma instrução o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "certo",
+    "motivo": "certo: o texto do original foi repartido por artigos com título próprio; o texto é igual ao original e nenhuma instrução o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "certo: o texto do original foi repartido por artigos com título próprio; o texto é igual ao original e nenhuma instrução o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "certo: o texto do original foi repartido por artigos com título próprio; o texto é igual ao original e nenhuma instrução o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 10.º",
+    "veredicto": "certo",
+    "motivo": "certo: o texto do original foi repartido por artigos com título próprio; o texto é igual ao original e nenhuma instrução o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 11.º",
+    "veredicto": "certo",
+    "motivo": "certo: o texto do original foi repartido por artigos com título próprio; o texto é igual ao original e nenhuma instrução o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 12.º",
+    "veredicto": "certo",
+    "motivo": "certo: o texto do original foi repartido por artigos com título próprio; o texto é igual ao original e nenhuma instrução o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 13.º",
+    "veredicto": "certo",
+    "motivo": "certo: o texto do original foi repartido por artigos com título próprio; o texto é igual ao original e nenhuma instrução o altera",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [
+   "Retificação de 8/1/1970 ao mapa anexo (mapa I): na coluna dos vencimentos do art. 91.º do Estatuto do Funcionalismo Ultramarino, radiotelegrafistas de 2.ª classe, «R» -> «N». O texto novo vem em texto, não em imagem, por isso o motivo «só em imagem» não se confirma; o alvo (mapa I) só existe como ligação a imagem no fim do art. 13.º, sem anexo com título"
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 171/74, art. 1.º, n.º 1: «É extinta a Direcção-Geral de Segurança, criada pelo Decreto-Lei n.º 49401»",
+    "motivo": "não textual: extingue o serviço sem revogar o diploma nem dar nova redação ao seu texto (texto do alterador omitido na vista; confirmado pelo excerto da triagem)"
+   }
+  ]
+ },
+ {
+  "id": "pt:dre:221225699:por",
+  "artigos": [],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Decreto-Lei n.º 32/2024",
+    "motivo": "o diploma que altera não traz texto na vista (secção vazia): não há instrução dirigida ao original"
+   },
+   {
+    "instrucao": "Decreto-Lei n.º 87-A/2025",
+    "motivo": "o diploma que altera não traz texto na vista (secção vazia): não há instrução dirigida ao original"
+   },
+   {
+    "instrucao": "Deliberação n.º 1300/2025: reorganização das unidades orgânicas flexíveis do Património Cultural, I. P.",
+    "motivo": "outro diploma / não textual: segundo o excerto da triagem, o DL 78/2023 só aparece como o diploma que criou o organismo; nenhuma palavra do original muda"
+   }
+  ]
+ },
+ {
+  "id": "pt:dre:222645049:por",
+  "artigos": [],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Decreto-Lei n.º 32/2024",
+    "motivo": "o diploma que altera não traz texto na vista (secção vazia): não há instrução dirigida ao original"
+   },
+   {
+    "instrucao": "Decreto-Lei n.º 87-A/2025",
+    "motivo": "o diploma que altera não traz texto na vista (secção vazia): não há instrução dirigida ao original"
+   }
+  ]
+ },
+ {
+  "id": "pt:dre:242879:por",
+  "artigos": [
+   {
+    "artigo": "(preâmbulo)",
+    "veredicto": "certo",
+    "motivo": "certo: só fica a parte anterior ao articulado; o resto passou para os artigos, com texto igual",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "certo: o texto do original foi repartido por artigos com título próprio; o texto é igual ao original e nenhuma instrução o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "certo: o texto do original foi repartido por artigos com título próprio; o texto é igual ao original e nenhuma instrução o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "certo: o texto do original foi repartido por artigos com título próprio; o texto é igual ao original e nenhuma instrução o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "certo: o texto do original foi repartido por artigos com título próprio; o texto é igual ao original e nenhuma instrução o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "certo: o texto do original foi repartido por artigos com título próprio; o texto é igual ao original e nenhuma instrução o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "certo: o texto do original foi repartido por artigos com título próprio; o texto é igual ao original e nenhuma instrução o altera",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [
+   "Declaração de 12/12/1974: o DL 699/74 «contém a assinatura do Ministro da Justiça, Francisco Salgado Zenha». É uma retificação das assinaturas e o motivo dado (respeita às assinaturas, não aos artigos) não está entre os aceites; a linha de assinaturas no fim do art. 6.º («Vasco dos Santos Gonçalves - Emílio Rui da Veiga Peixoto Vilar.») devia incluir «Francisco Salgado Zenha»"
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 201/75, art. 46.º (e art. 35.º, n.º 3): mantém em vigor o DL 699/74",
+    "motivo": "não textual: segundo o excerto da triagem só cita o original («que se mantém em vigor»), sem o alterar nem revogar (texto do alterador omitido na vista)"
+   },
+   {
+    "instrucao": "DL 896/76, art. 1.º: prorrogação do regime do DL 699/74 durante 1977",
+    "motivo": "não textual: prorrogação (confirmado pelo excerto da triagem; texto omitido na vista)"
+   },
+   {
+    "instrucao": "DL 896/76, art. 5.º: revoga o DL 699/74 «na parte em que contrariem o presente diploma»",
+    "motivo": "revogação condicional: «na parte em que contrariem» (citado no excerto da triagem)"
+   }
+  ]
+ },
+ {
+  "id": "pt:dre:252181:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "certo: só muda a capitalização do título (ARTIGO -> Artigo); texto igual ao original",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "certo: só muda a capitalização do título (ARTIGO -> Artigo); texto igual ao original",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "certo: só muda a capitalização do título (ARTIGO -> Artigo); texto igual ao original",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "certo: só muda a capitalização do título (ARTIGO -> Artigo); texto igual ao original",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "certo: aplica a retificação da Declaração de 17/6/1977 na al. d) («1900» -> «1980»); o resto igual ao original",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "certo: só muda a capitalização do título (ARTIGO -> Artigo); texto igual ao original",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "certo",
+    "motivo": "certo: só muda a capitalização do título (ARTIGO -> Artigo); texto igual ao original",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "certo: só muda a capitalização do título (ARTIGO -> Artigo); texto igual ao original",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "ARTIGO 1.º",
+    "veredicto": "certo",
+    "motivo": "certo: está no consolidado com a chave «Artigo 1.º» (só muda a capitalização do título), com o mesmo texto",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "ARTIGO 2.º",
+    "veredicto": "certo",
+    "motivo": "certo: está no consolidado com a chave «Artigo 2.º» (só muda a capitalização do título), com o mesmo texto",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "ARTIGO 3.º",
+    "veredicto": "certo",
+    "motivo": "certo: está no consolidado com a chave «Artigo 3.º» (só muda a capitalização do título), com o mesmo texto",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "ARTIGO 4.º",
+    "veredicto": "certo",
+    "motivo": "certo: está no consolidado com a chave «Artigo 4.º» (só muda a capitalização do título), com o mesmo texto",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "ARTIGO 5.º",
+    "veredicto": "certo",
+    "motivo": "certo: está no consolidado como «Artigo 5.º», com a retificação da al. d) aplicada (1900 -> 1980)",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "ARTIGO 6.º",
+    "veredicto": "certo",
+    "motivo": "certo: está no consolidado com a chave «Artigo 6.º» (só muda a capitalização do título), com o mesmo texto",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "ARTIGO 7.º",
+    "veredicto": "certo",
+    "motivo": "certo: está no consolidado com a chave «Artigo 7.º» (só muda a capitalização do título), com o mesmo texto",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "ARTIGO 8.º",
+    "veredicto": "certo",
+    "motivo": "certo: está no consolidado com a chave «Artigo 8.º» (só muda a capitalização do título), com o mesmo texto",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Lei 83/77, art. 1.º, n.º 1, als. c) e d): a taxa de juro das obrigações FIP, classes A e B, 1977, passa a ser função da taxa básica de desconto do Banco de Portugal",
+    "motivo": "não textual / sem texto da alteração: muda o regime sem dar nova redação aos arts. 5.º, al. a), e 6.º, al. a); o n.º 4 até remete para as taxas fixadas nos diplomas de autorização"
+   },
+   {
+    "instrucao": "Lei 83/77, art. 1.º, n.º 3: o prémio de reembolso da al. e) do art. 6.º é aumentado para 1200$00",
+    "motivo": "o diploma que altera não traz o texto da alteração: não dá nova redação à al. e) do art. 6.º («prémio de reembolso igual ao capital nominal»)"
+   }
+  ]
+ },
+ {
+  "id": "pt:dre:25345892:por",
+  "artigos": [],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Decreto-Lei n.º 251-A/2015",
+    "motivo": "o diploma que altera não traz texto na vista (secção vazia): não há instrução dirigida ao original"
+   },
+   {
+    "instrucao": "Decreto-Lei n.º 169-B/2019",
+    "motivo": "o diploma que altera não traz texto na vista (secção vazia): não há instrução dirigida ao original"
+   },
+   {
+    "instrucao": "Decreto-Lei n.º 32/2022",
+    "motivo": "o diploma que altera não traz texto na vista (secção vazia): não há instrução dirigida ao original"
+   },
+   {
+    "instrucao": "Decreto-Lei n.º 32/2024",
+    "motivo": "o diploma que altera não traz texto na vista (secção vazia): não há instrução dirigida ao original"
+   },
+   {
+    "instrucao": "Decreto-Lei n.º 87-A/2025",
+    "motivo": "o diploma que altera não traz texto na vista (secção vazia): não há instrução dirigida ao original"
+   }
+  ]
+ },
+ {
+  "id": "pt:dre:25345903:por",
+  "artigos": [],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 163/2014, arts. 2.º e 3.º e anexo I: nova redação do art. 8.º e do anexo do DL 126-B/2011",
+    "motivo": "outro diploma: segundo o excerto da triagem altera o DL 126-B/2011; o DL 112/2014 só aparece na lista de alterações e no preâmbulo"
+   },
+   {
+    "instrucao": "DL 163/2014, arts. 4.º a 8.º e anexos II e III: alteração, aditamento, revogações e republicação do DL 73/2013",
+    "motivo": "outro diploma: é a orgânica da ANPC (DL 73/2013), não o original"
+   },
+   {
+    "instrucao": "Decreto-Lei n.º 33/2018",
+    "motivo": "o diploma que altera não traz texto na vista (secção vazia)"
+   },
+   {
+    "instrucao": "Decreto-Lei n.º 31/2019",
+    "motivo": "o diploma que altera não traz texto na vista (secção vazia)"
+   }
+  ]
+ },
+ {
+  "id": "pt:dre:255040:por",
+  "artigos": [
+   {
+    "artigo": "(preâmbulo)",
+    "veredicto": "certo",
+    "motivo": "certo: só fica a parte anterior ao articulado; o resto passou para os artigos, com texto igual",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "certo: o texto do original foi repartido por artigos com título próprio; o texto é igual ao original e nenhuma instrução o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "certo: o texto do original foi repartido por artigos com título próprio; o texto é igual ao original e nenhuma instrução o altera",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [
+   "DL 5/93, mapa anexo, «Alteração das notas dos capítulos»: novas notas (003) do capítulo 12, (003) e (004) do capítulo 15 e (001) do capítulo 20 da Pauta dos Direitos de Importação de 1992. Estas notas vêm em texto, não em imagem, por isso o motivo «só em imagem» não se confirma para elas; o alvo (Tabela de Direitos) só existe como ligação a imagem, sem anexo com título"
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 5/93, art. 1.º: altera a Pauta dos Direitos de Importação de 1992 conforme o mapa anexo (parte em imagem)",
+    "motivo": "só em imagem: o mapa vem como ligação a imagem e o consolidado não tem anexo com título (a Pauta são só as ligações «PRIMEIRA PARTE»/«SEGUNDA PARTE» no fim do art. 2.º)"
+   }
+  ]
+ },
+ {
+  "id": "pt:dre:279630:por",
+  "artigos": [],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Declaração de 6/1/1978: republicação do quadro do pessoal do Núcleo de Informática anexo ao DR 85/77",
+    "motivo": "só em imagem: o quadro republicado vem só como ligação a imagem e o consolidado não tem anexo com título onde o pôr"
+   },
+   {
+    "instrucao": "Portaria 1038/80, n.º 3.º: o quadro anexo ao DR 85/77 é substituído pelo quadro III da portaria",
+    "motivo": "só em imagem: o quadro III é só uma ligação a imagem e o consolidado não tem anexo com título"
+   },
+   {
+    "instrucao": "Portaria 1038/80, n.os 1.º e 2.º: quadros anexos aos DR 83/77 e 84/77",
+    "motivo": "outro diploma: visam os Decretos Regulamentares n.os 83/77 e 84/77"
+   }
+  ]
+ },
+ {
+  "id": "pt:dre:292553:por",
+  "artigos": [
+   {
+    "artigo": "(preâmbulo)",
+    "veredicto": "certo",
+    "motivo": "certo: só fica a parte anterior ao articulado; o resto passou para os artigos, com texto igual",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "certo: o texto do original foi repartido por artigos com título próprio; o texto é igual ao original e nenhuma instrução o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "certo: o texto do original foi repartido por artigos com título próprio; o texto é igual ao original e nenhuma instrução o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "certo: o texto do original foi repartido por artigos com título próprio; o texto é igual ao original e nenhuma instrução o altera",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [
+   "DL 48023, art. 2.º: novo programa de reduções do art. 2.º para os artigos pautais 84.62.01 a 84.62.03 («Em 1 de Julho de 1967 - redução de 30 por cento; Em 31 de Dezembro de cada ano, com início em 1968 - reduções anuais de 10 por cento, até completa eliminação dos direitos que subsistirem em 31 de Dezembro de 1974.»). Traz o texto novo; «alvo incerto» não é justificação: o alvo é a lista de reduções do art. 2.º do original. Este diploma foi depois revogado pelo DL 48225, que repete o mesmo programa",
+   "DL 48225, art. 2.º: novo programa de reduções do art. 2.º para os artigos pautais 84.62.01 a 84.62.03 («Em 1 de Julho de 1967, redução de 30 por cento; Em 31 de Dezembro de cada ano, com início em 1968, reduções anuais de 10 por cento, até completa eliminação dos direitos que subsistirem em 31 de Dezembro de 1974.»). O alvo é a lista de reduções do art. 2.º (as quatro linhas «Em 30 de Junho de 1966 ... 1972»); fica por decidir se o § único (eliminação até 1980) se mantém, mas o art. 2.º continua sem a nova redação"
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 48023, art. 1.º: os direitos resultantes do DL 48022 são os novos direitos de base, em vez dos do art. 1.º",
+    "motivo": "não textual: substitui os direitos de base sem dar nova redação ao art. 1.º"
+   },
+   {
+    "instrucao": "DL 48225, art. 1.º: os direitos resultantes do DL 48224 são os novos direitos de base, em vez dos do art. 1.º",
+    "motivo": "não textual: substitui os direitos de base sem dar nova redação ao art. 1.º"
+   },
+   {
+    "instrucao": "DL 48225, art. 4.º: revoga o DL 48023",
+    "motivo": "outro diploma: revoga o DL 48023, não o original"
+   }
+  ]
+ },
+ {
+  "id": "pt:dre:315567:por",
+  "artigos": [
+   {
+    "artigo": "(preâmbulo)",
+    "veredicto": "certo",
+    "motivo": "certo: só fica a parte anterior ao articulado; o resto passou para os artigos, com texto igual",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "certo: o texto do original foi repartido por artigos com título próprio; o texto é igual ao original e nenhuma instrução o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "certo: o texto do original foi repartido por artigos com título próprio; o texto é igual ao original e nenhuma instrução o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "certo: o texto do original foi repartido por artigos com título próprio; o texto é igual ao original e nenhuma instrução o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "certo: o texto do original foi repartido por artigos com título próprio; o texto é igual ao original e nenhuma instrução o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "certo: o texto do original foi repartido por artigos com título próprio; o texto é igual ao original e nenhuma instrução o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "certo: o texto do original foi repartido por artigos com título próprio; o texto é igual ao original e nenhuma instrução o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "certo",
+    "motivo": "certo: o texto do original foi repartido por artigos com título próprio; o texto é igual ao original e nenhuma instrução o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "certo: o texto do original foi repartido por artigos com título próprio; o texto é igual ao original e nenhuma instrução o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "certo: o texto do original foi repartido por artigos com título próprio; o texto é igual ao original e nenhuma instrução o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 10.º",
+    "veredicto": "certo",
+    "motivo": "certo: o texto do original foi repartido por artigos com título próprio; o texto é igual ao original e nenhuma instrução o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 11.º",
+    "veredicto": "certo",
+    "motivo": "certo: o texto do original foi repartido por artigos com título próprio; o texto é igual ao original e nenhuma instrução o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 12.º",
+    "veredicto": "certo",
+    "motivo": "certo: o texto do original foi repartido por artigos com título próprio; o texto é igual ao original e nenhuma instrução o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 13.º",
+    "veredicto": "certo",
+    "motivo": "certo: aplica a Declaração de Rectificação n.º 262/91 («... colocação das acções e garantia da sua colocação»)",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 14.º",
+    "veredicto": "certo",
+    "motivo": "certo: o texto do original foi repartido por artigos com título próprio; o texto é igual ao original e nenhuma instrução o altera",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": []
+ },
+ {
+  "id": "pt:dre:346364:por",
+  "artigos": [],
+  "instrucoes_em_falta": [
+   "Declaração de Rectificação n.º 41/2006: no sumário e na epígrafe, «Ministério da Administração Interna» -> «Presidência do Conselho de Ministros». «Alvo incerto» não é justificação; alvo incerto também para mim: a vista não mostra o sumário nem a indicação do ministério (só artigos iguais ao original)"
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": []
+ },
+ {
+  "id": "pt:dre:352919:por",
+  "artigos": [],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DRR 18/93/A, arts. 2.º e 3.º: alterações aos arts. 1.º, 4.º, 6.º, 7.º, 8.º, 9.º e 11.º do DR 13/92",
+    "motivo": "adaptação regional, não muda o texto nacional: o art. 1.º do alterador diz que é «Na aplicação do Decreto Regulamentar n.º 13/92 [...] à Região Autónoma dos Açores» que se tem em conta o artigo seguinte (júris e serviços regionais); vale como regime regional próprio, não como nova redação do decreto nacional"
+   },
+   {
+    "instrucao": "DL 41/96, art. 3.º, n.º 2: revogação das disposições «na parte em que contrariem» o diploma",
+    "motivo": "revogação condicional (o excerto da triagem confirma que o DL 41/96 só remete para os arts. 1.º e 7.º sem mudar o texto; texto omitido na vista)"
+   }
+  ]
+ }
+]

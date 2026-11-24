@@ -535,6 +535,24 @@ A importação passou a aceitar a **troca de expressão** (`camada1.troca_de_exp
 | resposta_recusada | 9 |
 | recusado_na_verificacao_mecanica (DL 205/2009) | 1 |
 
+**Ronda 121** (`pedidos-8`, `verif121`, `nada-121`, `segunda-121`, 24/11/2026, tudo em Opus, no máximo 8 agentes): os 75 citados por 2 diplomas em vigor. A resposta foi juntada em 44 e nos outros 31 nada mudou. Às cegas foram 43 (15 vistas) e o «nada a aplicar» viu 23 (4 vistas).
+- Passaram às cegas 25, e a segunda leitura deu 20 `certo`.
+- O DL 202/2000 ficou fora da verificação às cegas (`camada1/ronda-121-excluidos.jsonl`). O texto corrido tem uma unidade de 373 mil caracteres, que a resposta substituiu inteira, e a vista teria 1,4 milhões de caracteres. Fica para dividir as unidades antes de repetir.
+- O DLR 12/93/M saiu do `DE_FORA`: estava lá por faltar a revogação do art. 11.º, que agora está aplicada. A Lei 10/2012 continua lá, porque a dúvida da ronda 112 sobre a redação de 2016 ou de 2021 não se resolveu.
+- Vigência:
+  - em `reports/vigencia-manual.jsonl`: o DL 389/70 (revogado pelo DL 241/75), o DL 126/83 (revogado pelo DL 141/93, art. 24.º) e o DL 355/90 (a escola foi extinta pelo DL 153/97);
+  - em `vigencia.CAMADA1_121`: o DLR 10/90/M («nao_vigora», orçamento de 1990) e o DL 45527 («por_confirmar»).
+- A segunda leitura apontou um defeito de método. No DLR 18/93/M, os títulos de secção e de capítulo foram trocados pela posição que tinham no texto atual, quando o alterador renumera os artigos, e ficaram desfasados. A verificação às cegas não o viu.
+
+| Estado da ronda 121 (75 diplomas) | Diplomas |
+|---|---:|
+| recusado_as_cegas | 30 |
+| aplicar (19 para o data/; a Lei 10/2012 fica no `DE_FORA`) | 20 |
+| sem_alteracao_aplicavel | 11 |
+| resposta_recusada | 8 |
+| recusado_na_segunda_leitura | 5 |
+| por_ver (DL 202/2000, fora da verificação) | 1 |
+
 ### Verificação dos alvos das respostas do LLM (14/11/2026)
 
 A verificação letra a letra de `llm_completo.verificar_resposta` confirma que cada parágrafo de um artigo devolvido vem de um alterador **ou do original**. Deixava passar dois casos:
