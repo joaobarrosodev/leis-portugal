@@ -9,25 +9,19 @@
     }
   ],
   "removidos": [],
+  "titulos": [],
+  "anexos": [],
   "nao_aplicavel": null,
   "instrucoes": [
-    "Retificações das alíneas e), f), l), r), bb), ee), jj), nn), oo) e as duas primeiras da x): já constam do texto atual.",
-    "Alínea x): 'a sul com Azinhaga do Frade e com a restante parte do prédio militar' passa a 'a sul com a Azinhaga do Frade'; aplicado.",
-    "Alínea ii): início substituído por 'Prédio urbano, com a área de 180 m2, que era parte das instalações da ex-Estação Salva-Vidas do Alvor'; aplicado."
+    "Alterador 1 (Declaração de Rectificação n.º 6-A/98): 14 rectificações às alíneas e), f), l), r), x) (3), bb), ee), ii), jj), nn) (2) e oo) do art. 1.º, aplicadas sobre o texto original; o programa tinha falhado a de ii) e a terceira de x) («a sul com a Azinhaga do Frade», cujo «onde se lê» omite o artigo «a» do texto)"
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
+  "ronda_camada1": 121,
   "problemas": [
-    "1.º: parágrafo que não está no alterador nem no original: e) PM 4/Coimbra, designado «Estrada Militar de Santa Clara», com a área de 650 m",
-    "1.º: parágrafo que não está no alterador nem no original: f) PM 5/Espinho, designado «Residência do Director da Carreira de Tiro», com a á",
-    "1.º: parágrafo que não está no alterador nem no original: l) PM 16/Estremoz, designado «terrenos adjacentes à muralha interior do Castelo ",
-    "1.º: parágrafo que não está no alterador nem no original: r) Prédio designado ex-«Estação LORAN das Flores», com a área de 89088 m2, situa",
     "1.º: parágrafo que não está no alterador nem no original: x) PM 41/Lisboa, designado «Quartel do Lumiar», sito à Alameda das Linhas de Tor",
-    "1.º: parágrafo que não está no alterador nem no original: bb) PM 145/Lisboa, designado «Paióis do Vale do Forno», com a área de 78440 m2, ",
-    "1.º: parágrafo que não está no alterador nem no original: ee) PM 4/Loures, designado «Reduto do Monte Cintra, ou Forte de Sacavém», com a ",
-    "1.º: parágrafo que não está no alterador nem no original: ii) Prédio urbano, com a área de 180 m2, que era parte das instalações da ex-Est",
-    "1.º: parágrafo que não está no alterador nem no original: jj) PM 21/Porto, designado «Quartel de São Brás», situado na Rua de São Brás, fr",
-    "1.º: parágrafo que não está no alterador nem no original: nn) PM 1/Tomar (parte), designado «Quartel de São Francisco», situado na fregues",
-    "1.º: parágrafo que não está no alterador nem no original: oo) PM 4/Tomar, designado «Edifício do Hospital Militar Regional n.º 3», situado"
-  ]
+    "1.º: parágrafo que não está no alterador nem no original: ii) Prédio urbano, com a área de 180 m2, que era parte das instalações da ex-Est"
+  ],
+  "numeracao_aceite": [],
+  "avisos": []
 }

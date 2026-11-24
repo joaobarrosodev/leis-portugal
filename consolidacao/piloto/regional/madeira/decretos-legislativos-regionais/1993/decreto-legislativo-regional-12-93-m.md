@@ -10,6 +10,9 @@ consolidacao:
   - id: pt:dre:241443:por
     title: Decreto Legislativo Regional n.º 22/98/M
     publication_date: '1998-09-18'
+  - id: pt:dre:490249:por
+    title: Lei n.º 110/2009
+    publication_date: '2009-09-16'
 ---
 
 # Decreto Legislativo Regional n.º 12/93/M
@@ -198,29 +201,17 @@ e) Data do pagamento.
 
 1 - Em simultâneo com o pagamento das remunerações, nos termos previstos no artigo 8.º, será pago à bordadeira de casa um valor correspondente a um duodécimo do montante dessa remuneração.
 
-2 - O somatório dos duodécimos recebidos no período de um ano, nos termos do número anterior, representa, para todos os efeitos, o subsídio anual previsto no artigo 7.º do [Decreto-Lei n.º 440/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/440-1991-316727), de 14 de Novembro.
+2 - O somatório dos duodécimos recebidos no período de um ano, nos termos do número anterior, representa, para todos os efeitos, o subsídio anual previsto no artigo 7.º do Decreto-Lei n.º 440/91, de 14 de Novembro.
 
 > Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 22/98/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-1998-241443), publicado em 1998-09-18.
-
-> Alterado pelo/a [Decreto Legislativo Regional n.º 22/98/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-1998-241443), publicado em 1998-09-18.
 
 ###### Artigo 11.º — Segurança social
 
-1 - A bordadeira de casa e o dador de trabalho ficam obrigatoriamente abrangidos, como beneficiários e contribuintes, respectivamente, pelo regime geral de segurança social dos trabalhadores por conta de outrem, com as particularidades constantes dos números seguintes.
-
-2 - À bordadeira de casa é garantido o direito a todas as prestações do regime geral de segurança social dos trabalhadores por conta de outrem, incluindo o subsídio de desemprego nos termos da lei.
-
-3 - As taxas de contribuições relativas à bordadeira de casa são calculadas pela aplicação da taxa global de 12%, correspondendo 10% ao dador de trabalho e 2% à bordadeira de casa, sobre o valor das remunerações efectivamente pagas e auferidas, com excepção das quantias pagas a título de subsídio anual.
-
-4 - A percentagem global referida no número anterior engloba a taxa de 0,5% destinada a financiar a cobertura de riscos de doença profissional.
-
-5 - Para efeitos de registo de remunerações, o número de dias de trabalho é apurado proporcionalmente ao valor da remuneração declarada.
-
-6 - A remuneração correspondente a 30 dias de trabalho bem como o critério de alteração desse montante são fixados por resolução do Governo Regional.
-
-7 - As remunerações declaradas à segurança social são imputadas ao mês de processamento executado pelo Instituto do Bordado, Tapeçarias e Artesanato da Madeira, sem prejuízo de, sempre que os montantes declarados sejam superiores aos fixados nos termos do número anterior, serem ainda imputados aos 11 meses que o precedem.
+(Revogado.)
 
 > Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 22/98/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-1998-241443), publicado em 1998-09-18.
+
+> Revogado pelo/a [Lei n.º 110/2009](https://diariodarepublica.pt/dr/detalhe/lei/110-2009-490249), publicado em 2009-09-16.
 
 ###### Artigo 12.º — Fiscalização
 

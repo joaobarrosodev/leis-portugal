@@ -155,9 +155,9 @@ A laboração da refinaria do Sul reger-se-á por um alvará geral de importaç�
 
 1. A distribuição no mercado interno dos produtos finais obtidos pela laboração da refinaria e que se comportem na quota a esta atribuída pelo correspondente alvará geral de importação para refinação nacional será inteiramente devolvida, salvo o disposto no n.º 2 do artigo seguinte.
 
-2 - (Revogado.)
+2. (Revogado.)
 
-3 - (Revogado.)
+3. (Revogado.)
 
 4. Ainda para o referido efeito, a sociedade fica obrigada, quanto aos produtos da sua refinação correspondentes às participações dos sócios não compreendidos nos números precedentes, a vender as quantidades que o Governo defina e aos adquirentes que ele designe.
 

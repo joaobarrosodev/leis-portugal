@@ -1,13 +1,20 @@
 {
   "id": "pt:dre:292553:por",
   "artigos": [],
-  "removidos": [],
-  "nao_aplicavel": "Os DL 48023 e 48225 substituem os direitos de base do art. 1.º e o programa de reduções do art. 2.º por novos regimes, sem darem nova redação aos artigos do DL 46475 (e o DL 48225 revoga o DL 48023); alterações não textuais, não aplicadas.",
+  "nao_aplicavel": "Alterador 1, art. 1.º (os direitos resultantes do Decreto-Lei n.º 48022 passam a ser os novos direitos de base, em vez dos do art. 1.º): não textual (substitui os direitos de base sem dar nova redação ao art. 1.º)\nAlterador 1, art. 2.º (novo programa de reduções para os artigos pautais 84.62.01 a 84.62.03): alvo incerto (substitui o programa do art. 2.º sem lhe dar nova redação; não se sabe se a frase inicial «até 30 de Junho de 1972» e o § único ficam; e o Decreto-Lei n.º 48023 foi depois revogado pelo alterador 2)\nAlterador 2, art. 1.º (os direitos resultantes do Decreto-Lei n.º 48224 passam a ser os novos direitos de base, em vez dos do art. 1.º): não textual (substitui os direitos de base sem dar nova redação ao art. 1.º)\nAlterador 2, art. 2.º (novo programa de reduções para os artigos pautais 84.62.01 a 84.62.03): alvo incerto (substitui o programa do art. 2.º sem lhe dar nova redação; não se sabe se a frase inicial «até 30 de Junho de 1972» e o § único ficam nem como se reescreve o artigo)\nAlterador 2, art. 4.º (revoga o Decreto-Lei n.º 48023): outro diploma",
   "instrucoes": [
-    "DL 48023, arts. 1.º a 3.º: novos direitos de base e novo programa de reduções, sem nova redação dos artigos; não aplicados.",
-    "DL 48225, arts. 1.º a 3.º: idem; art. 4.º revoga o DL 48023 (outro diploma); não aplicados."
+    "Alteradores 1 e 2, art. 1.º: novos direitos de base (não textual): não aplicado.",
+    "Alteradores 1 e 2, art. 2.º: novo programa de reduções sem nova redação do art. 2.º: não aplicado (alvo incerto).",
+    "Alteradores 1 e 2, art. 3.º: mercadorias continuam na lista anexa de outro decreto-lei: não é instrução ao texto do original.",
+    "Alterador 2, art. 4.º: revoga o alterador 1 (outro diploma)."
   ],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 121,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

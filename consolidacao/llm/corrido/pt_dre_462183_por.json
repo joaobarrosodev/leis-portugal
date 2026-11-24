@@ -2,9 +2,9 @@
   "id": "pt:dre:462183:por",
   "substituicoes": [],
   "insercoes": [],
-  "nao_aplicavel": "O pedido não traz texto nenhum do Alterador 1 (Decreto-Lei n.º 173/98): a secção está vazia, pelo que não há instrução dirigida ao original que se possa aplicar.",
+  "nao_aplicavel": "Alterador 1, Decreto-Lei n.º 173/98 (aprova novo Estatuto da Câmara dos Despachantes Oficiais): sem texto: o pedido não traz nenhum artigo do alterador que mencione o original, por isso não há revogação nem alteração que se possa aplicar.",
   "instrucoes": [
-    "Alt. 1 (Decreto-Lei n.º 173/98): sem texto no pedido; nada aplicado."
+    "Alterador 1 (Decreto-Lei n.º 173/98): o pedido não traz texto do alterador; nada aplicado, registado em nao_aplicavel."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

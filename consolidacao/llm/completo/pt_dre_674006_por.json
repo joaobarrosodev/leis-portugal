@@ -46,14 +46,18 @@
   ],
   "removidos": [],
   "titulos": [],
-  "nao_aplicavel": "DL 236/81 art. 2.º: a Agência Financial de Portugal passa a denominar-se Banco Financial Português; é mudança de denominação genérica, sem redação textual dos artigos nem indicação de quais palavras substituir (ex.: 'Agência' nos n.os 1 dos arts. 14.º e 16.º e restantes artigos), pelo que não foi aplicada ao texto. DL 236/81 art. 1.º altera o DL 265/75, não o original.",
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, art. 2.º (a Agência Financial de Portugal passa a denominar-se Banco Financial Português): não textual — é uma mudança de designação sem instrução de substituição de palavras; trocar «Agência» por «Banco Financial Português» nos artigos não reescritos (por exemplo, n.º 1 dos arts. 14.º e 16.º) obrigaria a texto sem fonte (mudança de género e de concordância); a nova denominação entra só onde o art. 3.º a escreve.\nAlterador 1, art. 1.º (nova redação de artigos do Decreto-Lei n.º 265/75) e art. 4.º na parte do art. 5.º do Decreto-Lei n.º 265/75: outro diploma.",
   "instrucoes": [
-    "DL 236/81 art. 1.º: altera o DL 265/75; ignorado.",
-    "DL 236/81 art. 2.º: mudança de denominação; não aplicada ao texto (ver nao_aplicavel).",
-    "DL 236/81 art. 3.º: nova redação dos arts. 7.º, 8.º, 9.º, 14.º n.º 2, 16.º n.º 2 e 17.º; aplicada (n.os 1 dos arts. 14.º e 16.º mantidos).",
-    "DL 236/81 art. 4.º: revoga o art. 6.º do original (e o art. 5.º do DL 265/75); art. 6.º revogado."
+    "Alterador 1, art. 3.º: nova redação dos arts. 7.º, 8.º, 9.º e 17.º (artigos inteiros) e do n.º 2 dos arts. 14.º e 16.º (o n.º 1 fica como está); aplicada, copiada letra a letra.",
+    "Alterador 1, art. 4.º: revoga o art. 6.º; aplicado «(Revogado.)».",
+    "Alterador 1, art. 2.º: mudança de denominação; não textual (nao_aplicavel).",
+    "Alterador 1, art. 1.º: altera o Decreto-Lei n.º 265/75; outro diploma (nao_aplicavel)."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 121,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

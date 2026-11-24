@@ -1,14 +1,28 @@
 {
   "id": "pt:dre:279627:por",
-  "artigos": [],
-  "removidos": [],
-  "nao_aplicavel": "Portaria n.º 1038/80, n.º 2.º, substitui o quadro de pessoal anexo ao Decreto Regulamentar n.º 84/77 pelo quadro II, que só vem em imagem; não há texto a aplicar. Os n.os 1.º e 3.º respeitam a outros diplomas.",
-  "instrucoes": [
-    "N.º 2.º substitui o mapa anexo (imagem): não aplicado.",
-    "N.os 1.º e 3.º (Decretos Regulamentares 83/77 e 85/77): ignorados.",
-    "N.os 4.º a 8.º: disposições próprias da portaria, sem alteração textual."
+  "artigos": [
+    {
+      "chave": "5.º",
+      "epigrafe": "",
+      "texto": "1 - Os lugares de operador de colheita de dados de 2.ª classe serão providos, mediante teste de aptidão, de entre indivíduos maiores de 18 anos habilitados com o curso geral dos liceus ou habilitação equivalente.\n\n2 - Os lugares de operador de colheita de dados de 1.ª classe serão providos de entre operadores de colheita de dados de 2.ª classe com três anos nesta categoria, que tenham boas informações de serviço e aprovação em teste de aptidão.\n\n3 - Os lugares de monitor serão providos de entre operadores de colheita de dados de 1.ª classe com três anos de serviço e boas informações, mediante teste de aptidão.\n\n4 - Os lugares de correspondente de informática de 2.ª classe serão providos de entre aspirantes de finanças com três anos de serviço na categoria ou secretários de finanças de 3.ª classe, mediante teste de aptidão, sendo em igualdade de circunstâncias dada a preferência a secretários de finanças de 3.ª classe.\n\n5 - Os lugares de correspondente de informática de 1.ª classe serão providos:\n\na) Por operadores de colheita de dados de 1.ª classe, mediante aprovação em teste de aptidão;\n\nb) Por correspondentes de informática de 2.ª classe com três anos nesta categoria, mediante aprovação em teste de aptidão.\n\n6 - Os lugares de correspondente de informática principal serão providos, mediante teste de aptidão, de entre:\n\na) Correspondentes de informática de 1.ª classe com três anos nesta categoria, ou\n\nb) Monitores com três anos de serviço.\n\n7 - O lugar de correspondente de informática-chefe será provido de entre os correspondentes de informática principais com três anos de serviço na categoria, mediante teste de aptidão.\n\n8 - O provimento nos lugares de ingresso nas diferentes funções a que se referem os n.os 1, 4 e 5, alínea a), fica ainda condicionado à realização de um estágio com aproveitamento, cuja duração contará para efeitos de antiguidade na respectiva categoria.\n\n9 - Os testes de aptidão e os estágios referidos nos números anteriores serão definidos por despacho do director-geral.",
+      "alterador": 1
+    }
   ],
+  "nao_aplicavel": "Alterador 1, republicação do quadro do pessoal do Núcleo de Informática (anexo): só em imagem (o quadro vem em imagem, no texto atual dentro do corpo do art. 10.º, sem título de anexo)\nAlterador 2, n.º 2.º (o quadro de pessoal anexo é substituído pelo quadro II da portaria): só em imagem (quadro II em imagem e sem título de anexo no texto atual)\nAlterador 2, n.os 1.º e 3.º (quadros anexos aos Decretos Regulamentares n.os 83/77 e 85/77): outro diploma",
+  "instrucoes": [
+    "Alterador 1 retifica o art. 5.º, n.º 4 («segundos-oficiais finanças» -> «aspirantes de finanças»): aplicado.",
+    "Alterador 1 republica o quadro anexo (imagem): não aplicado (sem título de anexo).",
+    "Alterador 2, n.º 2.º: substitui o quadro anexo pelo quadro II (imagem): não aplicado; n.os 1.º e 3.º: outros diplomas; n.os 4.º a 8.º: normas próprias."
+  ],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 121,
+  "problemas": [],
+  "numeracao_aceite": [
+    "5.º: parágrafo que não está no alterador nem no original: 4 - Os lugares de correspondente de informática de 2.ª classe serão providos de  (troca de expressão do alterador)"
+  ],
+  "avisos": []
 }

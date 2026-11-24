@@ -1,13 +1,18 @@
 {
   "id": "pt:dre:217111:por",
   "artigos": [],
-  "removidos": [],
-  "nao_aplicavel": "O DL 171/74 extingue a Direcção-Geral de Segurança criada pelo original, sem revogar nem alterar o texto dos seus artigos; alteração não textual, não aplicada.",
+  "nao_aplicavel": "Alterador 1, retificação do mapa anexo (radiotelegrafistas de 2.ª classe, coluna dos vencimentos do art. 91.º do Estatuto do Funcionalismo Ultramarino: «R» -> «N»): só em imagem (o mapa I só existe em imagem, dentro do corpo do art. 13.º, sem título de anexo)\nAlterador 2, art. 1.º (é extinta a Direcção-Geral de Segurança, criada pelo original): não textual (extingue o serviço sem revogar nem dar nova redação ao texto do original)",
   "instrucoes": [
-    "Art. 1.º do DL 171/74: extinção da DGS; não textual, não aplicado",
-    "Arts. 2.º a 8.º: outras entidades e atribuições; não se dirigem ao original"
+    "Alterador 1 retifica o mapa anexo (imagem): não aplicado.",
+    "Alterador 2, art. 1.º: extinção da DGS (não textual); arts. 2.º a 8.º: outros organismos e normas próprias."
   ],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 121,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

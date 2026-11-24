@@ -46,9 +46,11 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 ###### Artigo 3.º
 
-1 - É constituída a sociedade VALNOR - Valorização e Tratamento de Resíduos Sólidos do Norte Alentejano, S. A., adiante designada por sociedade.
+1 - É constituída a sociedade VALNOR - Valorização e Tratamento de Resíduos Sólidos, S. A., adiante designada por sociedade.
 
 2 - A sociedade rege-se pelo presente diploma, pela lei comercial e pelos seus estatutos.
+
+> Alterado pelo/a [Decreto-Lei n.º 105/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2014-25345607), publicado em 2014-07-02.
 
 ###### Artigo 4.º
 
@@ -142,11 +144,13 @@ O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ESTATUTOS DA VALNOR - VALORIZAÇÃO E TRATAMENTO DE RESÍDUOS SÓLIDOS DO NORTE ALENTEJANO, S. A.
 
-### CAPÍTULO I — Denominação, duração e sede
+### CAPÍTULO I — Disposições gerais
 
 ###### Artigo 1.º
 
-A sociedade adopta a designação de VALNOR - Valorização e Tratamento de Resíduos Sólidos do Norte Alentejano, S. A., e durará por tempo indeterminado.
+A sociedade adota a designação de VALNOR - Valorização e Tratamento de Resíduos Sólidos, S. A., e dura por tempo indeterminado.
+
+> Alterado pelo/a [Decreto-Lei n.º 105/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2014-25345607), publicado em 2014-07-02.
 
 ###### Artigo 2.º
 
@@ -154,7 +158,7 @@ A sociedade adopta a designação de VALNOR - Valorização e Tratamento de Res�
 
 2 - Por deliberação do conselho de administração, a sociedade pode criar, deslocar ou encerrar sucursais, agências, delegações ou outras formas locais de representação, bem como pode mudar a sede social para outro local sito no mesmo município ou em município limítrofe.
 
-### CAPÍTULO II — Objecto
+### CAPÍTULO II — Objeto
 
 ###### Artigo 3.º
 
@@ -174,15 +178,15 @@ c) O fornecimento, instalação, gestão, exploração, manutenção e renovaç�
 
 ###### Artigo 4.º
 
-A sociedade pode participar em quaisquer outras sociedades ou entidades legais com objecto similar ou complementar do seu, desde que previamente autorizada pelo concedente.
+A sociedade pode participar em quaisquer outras sociedades ou entidades legais com objeto similar ou complementar do seu, desde que previamente autorizada pelo concedente.
 
-### CAPÍTULO III — Capital social, acções e obrigações
+> Alterado pelo/a [Decreto-Lei n.º 105/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2014-25345607), publicado em 2014-07-02.
 
 ###### Artigo 5.º
 
-1 - O capital social é de 1500000 euros, encontrando-se realizados 450000 euros, devendo o remanescente, na importância de 1050000 euros, ser realizado em dinheiro, por uma ou mais vezes, até três anos contados da constituição da sociedade, de acordo com as chamadas do conselho de administração, feitas por escrito, mediante carta registada, com aviso de recepção, com a antecedência mínima de 60 dias relativamente ao momento de realização das entradas.
+1 - O capital social é de (euro) 10 000 000,00, encontrando-se integralmente realizado.
 
-2 - O capital social é representado por 10 000 000 ações com o valor nominal de (euro) 1,00 cada uma.
+2 - O capital social é representado por 10.000.000 ações com o valor nominal de (euro) 1,00 cada uma.
 
 > Alterado pelo/a [Decreto-Lei n.º 105/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2014-25345607), publicado em 2014-07-02.
 
@@ -194,7 +198,7 @@ A sociedade pode participar em quaisquer outras sociedades ou entidades legais c
 
 ###### Artigo 7.º
 
-1 - Poderão ser emitidas acções preferenciais sem voto, até ao montante máximo de 50% do capital social, nos termos e condições definidos na deliberação dos accionistas.
+1 - Podem ser emitidas ações preferenciais sem voto, até ao montante máximo de 50 % do capital social, nos termos e condições definidos na deliberação dos acionistas.
 
 2 - Por deliberação dos acionistas, as ações preferenciais podem ser sujeitas a remição, devendo ser feita pelo valor nominal das ações, eventualmente acrescido de um prémio determinado pela mesma deliberação.
 
@@ -202,15 +206,15 @@ A sociedade pode participar em quaisquer outras sociedades ou entidades legais c
 
 ###### Artigo 8.º
 
-1 - As acções da classe A serão sempre nominativas, as acções da classe B serão nominativas, podendo, no entanto, ser convertidas ao portador, a pedido dos accionistas e mediante deliberação da assembleia geral.
+1 - As ações são nominativas e assumem a forma escritural ou titulada.
 
-2 - Serão emitidos títulos que poderão representar 1, 5, 10, 100, 1000 ou 100000 acções, os quais poderão, em qualquer altura e a requerimento de qualquer accionista, que suportará o respectivo custo, ser substituídos por agrupamento ou divisão.
+2 - São emitidos títulos que podem representar 1, 5, 10, ou múltiplos de 10 ações, os quais podem, em qualquer altura e a requerimento de qualquer acionista, que suporta o respetivo custo, ser substituídos por agrupamento ou divisão.
 
 3 - (Revogado.)
 
-4 - Os títulos serão assinados por dois administradores, podendo a assinatura ser de chancela por eles autorizada.
+4 - Os títulos são assinados por dois administradores, podendo a assinatura ser de chancela por eles autorizada.
 
-5 - Mediante prévia deliberação dos accionistas, é autorizada a emissão de acções escriturais ou a conversão de acções tituladas em escriturais, nos termos da legislação aplicável.
+5 - Mediante prévia deliberação dos acionistas, é autorizada a emissão de ações escriturais ou a conversão de ações tituladas em escriturais, nos termos da legislação aplicável.
 
 > Alterado pelo/a [Decreto-Lei n.º 105/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2014-25345607), publicado em 2014-07-02.
 
@@ -246,7 +250,7 @@ A sociedade pode participar em quaisquer outras sociedades ou entidades legais c
 
 1 - Mediante deliberação dos sócios, a sociedade pode amortizar as ações que forem penhoradas, arrestadas, arroladas, incluídas em massa insolvente ou, em geral, apreendidas no âmbito de qualquer ação judicial ou estiverem em condições de ser transmitidas judicialmente.
 
-2 - No caso de amortização de acções nos termos deste artigo, o montante da contrapartida da amortização será o que resultar da deliberação dos accionistas relativa à amortização, que tomará em consideração a situação líquida da sociedade resultante do último balanço aprovado.
+2 - No caso de amortização de ações nos termos deste artigo, o montante da contrapartida da amortização é o que resultar da deliberação dos acionistas relativa à amortização, que toma em consideração a situação líquida da sociedade resultante do último balanço aprovado.
 
 3 - (Revogado.)
 
@@ -254,13 +258,15 @@ A sociedade pode participar em quaisquer outras sociedades ou entidades legais c
 
 ###### Artigo 11.º
 
-1 - Poderão ser emitidas obrigações em qualquer das modalidades admitidas por lei, mediante deliberação dos accionistas ou deliberação do conselho de administração.
+1 - Podem ser emitidas obrigações em qualquer das modalidades admitidas por lei, mediante deliberação dos acionistas ou deliberação do conselho de administração.
 
 2 - Às obrigações emitidas pela sociedade aplica-se o disposto no n.º 4 do artigo 8.º
 
-3 - O empréstimo obrigacionista deverá estar integralmente reembolsado até ao termo do contrato de concessão.
+3 - O empréstimo obrigacionista deve estar integralmente reembolsado até ao termo do contrato de concessão.
 
-### CAPÍTULO IV — Órgãos sociais
+> Alterado pelo/a [Decreto-Lei n.º 105/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2014-25345607), publicado em 2014-07-02.
+
+### CAPÍTULO III — Órgãos sociais
 
 #### SECÇÃO I — Disposições gerais
 
@@ -274,7 +280,9 @@ A sociedade pode participar em quaisquer outras sociedades ou entidades legais c
 
 ###### Artigo 13.º
 
-Uma minoria de accionistas que tenha votado contra a proposta que fez vencimento na eleição dos administradores tem direito a designar um administrador, contanto que essa minoria represente, pelo menos, 35% do capital social.
+Uma minoria de acionistas que tenha votado contra a proposta que fez vencimento na eleição dos administradores tem direito a designar um administrador, contanto que essa minoria represente, pelo menos, 35 % do capital social.
+
+> Alterado pelo/a [Decreto-Lei n.º 105/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2014-25345607), publicado em 2014-07-02.
 
 #### SECÇÃO II — Assembleia geral
 
@@ -282,7 +290,7 @@ Uma minoria de accionistas que tenha votado contra a proposta que fez vencimento
 
 1 - Os acionistas com direito de voto podem participar nas assembleias gerais desde que as ações estejam averbadas em seu nome no livro de registo da sociedade até 10 dias antes daquele em que a assembleia geral deve reunir em primeira convocatória.
 
-2 - A representação de accionistas em assembleia geral poderá fazer-se por qualquer pessoa, sendo instrumento suficiente de representação uma carta dirigida ao presidente da mesa da assembleia geral.
+2 - A representação de acionistas em assembleia geral pode fazer-se por qualquer pessoa, sendo instrumento suficiente de representação uma carta dirigida ao presidente da mesa da assembleia geral.
 
 > Alterado pelo/a [Decreto-Lei n.º 105/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2014-25345607), publicado em 2014-07-02.
 
@@ -290,13 +298,15 @@ Uma minoria de accionistas que tenha votado contra a proposta que fez vencimento
 
 1 - A mesa da assembleia é constituída por um presidente, um vice-presidente e um secretário.
 
-2 - Compete ao presidente convocar as assembleias gerais, dirigi-las e praticar quaisquer actos previstos na lei, nos presentes estatutos ou em deliberação dos accionistas.
+2 - Compete ao presidente convocar as assembleias gerais, dirigi-las e praticar quaisquer atos previstos na lei, nos presentes estatutos ou em deliberação dos acionistas.
 
 3 - O presidente é substituído, nas suas faltas ou impedimentos, pelo vice-presidente.
 
+> Alterado pelo/a [Decreto-Lei n.º 105/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2014-25345607), publicado em 2014-07-02.
+
 ###### Artigo 16.º
 
-1 - A assembleia geral reunirá no 1.º trimestre subsequente ao encerramento do exercício anterior.
+1 - A assembleia geral reúne no 1.º trimestre subsequente ao encerramento do exercício anterior.
 
 2 - A assembleia geral reúne ainda sempre que o requeiram o conselho de administração, o fiscal único ou os acionistas que representem, pelo menos, 5 % do capital social.
 
@@ -304,15 +314,17 @@ Uma minoria de accionistas que tenha votado contra a proposta que fez vencimento
 
 ###### Artigo 17.º
 
-1 - As reuniões da assembleia geral serão convocadas com a antecedência e nos termos previstos na lei, podendo a convocação ser efectuada por carta registada em substituição da publicação da convocatória enquanto forem nominativas todas as acções da sociedade.
+1 - As reuniões da assembleia geral são convocadas com a antecedência e nos termos previstos na lei, podendo a convocação ser efetuada por carta registada em substituição da publicação da convocatória enquanto forem nominativas todas as ações da sociedade.
 
-2 - A assembleia geral pode deliberar em primeira convocação desde que estejam presentes ou representados accionistas que detenham mais de dois terços do capital social.
+2 - A assembleia geral pode deliberar, em primeira convocação, desde que estejam presentes ou representados acionistas que detenham mais de dois terços do capital social.
 
-3 - No aviso convocatório poderá logo fixar-se uma data alternativa para a reunião da assembleia geral, para o caso de a mesma não poder reunir na data inicialmente marcada por falta de quórum constitutivo, devendo entre as duas datas indicadas mediar mais de 15 dias.
+3 - No aviso convocatório pode logo fixar-se uma data alternativa para a reunião da assembleia geral, para o caso de a mesma não poder reunir na data inicialmente marcada por falta de quórum constitutivo, devendo entre as duas datas indicadas mediar mais de 15 dias.
+
+> Alterado pelo/a [Decreto-Lei n.º 105/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2014-25345607), publicado em 2014-07-02.
 
 ###### Artigo 18.º
 
-1 - Os accionistas podem deliberar sobre todos os assuntos que não sejam da competência exclusiva de outros órgãos sociais.
+1 - Os acionistas podem deliberar sobre todos os assuntos que não sejam da competência exclusiva de outros órgãos sociais.
 
 2 - Compete em especial à assembleia:
 
@@ -322,7 +334,7 @@ b) Deliberar sobre a proposta de aplicação dos resultados;
 
 c) Apreciar a administração e a fiscalização da sociedade;
 
-d) Aprovar os planos de actividades e financeiros plurianuais para um período de, pelo menos, cinco anos e suas eventuais alterações;
+d) Aprovar os planos de atividades e financeiros plurianuais para um período de, pelo menos, cinco anos e suas eventuais alterações;
 
 e) Eleger os membros dos órgãos sociais;
 
@@ -332,7 +344,7 @@ g) Deliberar sobre o aumento de capital;
 
 h) Fixar as remunerações dos membros do conselho de administração, podendo esta competência ser delegada numa comissão de vencimentos a nomear para o efeito.
 
-3 - Salvo quando a lei ou os presentes estatutos exijam maioria qualificada superior, as deliberações da assembleia geral são tomadas com os votos correspondentes a acções que representem mais de 50% do capital social.
+3 - Salvo quando a lei ou os presentes estatutos exijam maioria qualificada superior, as deliberações da assembleia geral são tomadas com os votos correspondentes a ações que representem mais de 50 % do capital social.
 
 > Alterado pelo/a [Decreto-Lei n.º 105/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2014-25345607), publicado em 2014-07-02.
 
@@ -340,51 +352,61 @@ h) Fixar as remunerações dos membros do conselho de administração, podendo e
 
 ###### Artigo 19.º
 
-1 - A administração da sociedade será exercida por um conselho de administração composto por cinco membros.
+1 - A administração da sociedade é exercida por um conselho de administração, composto por três, cinco ou sete membros.
 
 2 - As deliberações do conselho de administração são tomadas por maioria.
 
 3 - Compete à assembleia geral eleger de entre os membros do conselho de administração o respetivo presidente, que tem voto de qualidade nas deliberações do conselho de administração.
 
-4 - A responsabilidade dos administradores poderá ser dispensada de caução por deliberação da assembleia geral.
+4 - A responsabilidade dos administradores pode ser dispensada de caução por deliberação da assembleia geral.
 
 > Alterado pelo/a [Decreto-Lei n.º 105/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2014-25345607), publicado em 2014-07-02.
 
 ###### Artigo 20.º
 
-O conselho de administração terá os poderes de gestão e representação da sociedade que lhe forem cometidos por lei, pelos presentes estatutos e pelas deliberações dos accionistas.
+O conselho de administração tem os poderes de gestão e representação da sociedade que lhe forem cometidos por lei, pelos presentes estatutos e pelas deliberações dos acionistas.
+
+> Alterado pelo/a [Decreto-Lei n.º 105/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2014-25345607), publicado em 2014-07-02.
 
 ###### Artigo 21.º
 
-O conselho de administração poderá delegar num administrador executivo a gestão corrente da sociedade, devendo a deliberação de delegação fixar os limites da mesma.
+O conselho de administração pode delegar num administrador ou numa comissão executiva de três ou cinco administradores a gestão corrente da sociedade, devendo a deliberação de delegação fixar os limites da mesma.
+
+> Alterado pelo/a [Decreto-Lei n.º 105/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2014-25345607), publicado em 2014-07-02.
 
 ###### Artigo 22.º
 
 1 - A sociedade obriga-se perante terceiros:
 
-a) Pelas assinaturas conjuntas de dois administradores;
+a) Pela assinatura conjunta de dois administradores, um dos quais deve pertencer à comissão executiva, quando esta exista;
 
-b) Pela assinatura do administrador executivo;
+b) Pela assinatura do administrador-delegado, quando exista, dentro dos limites da delegação;
 
-c) Pelas assinaturas de procuradores quanto aos actos ou categoria de actos definidos nas respectivas procurações.
+c) Pela assinatura de procuradores quanto aos atos ou categorias de atos definidos nas correspondentes procurações.
 
 2 - Nos documentos de mero expediente e quando se trate de endosso de letras, recibos, cheques ou quaisquer outros documentos cujo produto de desconto se destine a ser creditado em conta da sociedade aberta em qualquer instituição financeira, basta a assinatura de um administrador ou de quem para tanto for mandatado.
+
+> Alterado pelo/a [Decreto-Lei n.º 105/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2014-25345607), publicado em 2014-07-02.
 
 ###### Artigo 23.º
 
 1 - O conselho de administração reúne sempre que for convocado pelo presidente ou por dois administradores.
 
-2 - Independentemente do disposto no número anterior, o conselho de administração reunirá pelo menos uma vez por mês.
+2 - Independentemente do disposto no número anterior, o conselho de administração reúne pelo menos uma vez por mês.
 
-3 - Os membros do conselho de administração serão convocados por escrito com a antecedência mínima de cinco dias, salvo se a totalidade dos administradores estiver presente ou representada, ou se se tratar de reuniões com periodicidade fixa estabelecida em acta anterior e devidamente aprovada, casos em que é dispensada a convocatória.
+3 - Os membros do conselho de administração são convocados por escrito com a antecedência mínima de cinco dias, salvo se a totalidade dos administradores estiver presente ou representada, ou se se tratar de reuniões com periodicidade fixa estabelecida em ata anterior e devidamente aprovada, casos em que é dispensada a convocatória.
+
+> Alterado pelo/a [Decreto-Lei n.º 105/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2014-25345607), publicado em 2014-07-02.
 
 ###### Artigo 24.º
 
-1 - O conselho de administração não poderá deliberar sem que esteja presente ou representada a maioria dos seus membros.
+1 - O conselho de administração não pode deliberar sem que esteja presente ou representada a maioria dos seus membros.
 
-2 - Qualquer administrador poderá fazer-se representar em cada sessão por outro administrador, sendo que os poderes de representação conferidos devem constar de carta dirigida ao presidente, válida apenas para uma reunião.
+2 - Qualquer administrador pode fazer-se representar em cada sessão por outro administrador, sendo que os poderes de representação conferidos devem constar de carta dirigida ao presidente, válida apenas para uma reunião.
 
-3 - Qualquer administrador poderá votar por correspondência, podendo a respectiva carta ser enviada por telecópia.
+3 - Qualquer administrador pode votar por correspondência, podendo a respetiva carta ser enviada por telecópia.
+
+> Alterado pelo/a [Decreto-Lei n.º 105/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2014-25345607), publicado em 2014-07-02.
 
 #### SECÇÃO IV — Fiscalização da sociedade
 
@@ -408,10 +430,12 @@ A fiscalização da sociedade compete a um fiscal único e a um suplente, ambos 
 
 > Aditado pelo/a [Decreto-Lei n.º 105/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2014-25345607), publicado em 2014-07-02.
 
-### CAPÍTULO V — Disposições finais
+### CAPÍTULO IV — Disposições finais
 
 ###### Artigo 26.º
 
 1 - O ano social coincide com o ano civil.
 
-2 - Os resultados apurados em cada exercício, exceptuando a parte destinada à constituição ou reintegração das reservas legais e de outras reservas obrigatórias nos termos do contrato de concessão, terão a aplicação que a assembleia geral deliberar.
+2 - Os resultados apurados em cada exercício, excetuando a parte destinada à constituição ou reintegração das reservas legais e de outras reservas obrigatórias nos termos do contrato de concessão, têm a aplicação que a assembleia geral deliberar.
+
+> Alterado pelo/a [Decreto-Lei n.º 105/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2014-25345607), publicado em 2014-07-02.

@@ -1,13 +1,18 @@
 {
   "id": "pt:dre:213062:por",
   "artigos": [],
-  "removidos": [],
-  "nao_aplicavel": "O art. 5.º do DL 467/73 extingue as categorias «segundo-cabo com mais de cinco anos» e «soldado com mais de cinco anos» e muda a designação das de menos de cinco anos, sem dar nova redação ao art. 2.º; alteração não textual, não aplicada.",
+  "nao_aplicavel": "Alterador 1, art. 5.º, n.º 1 (são extintas as categorias de «segundo-cabo com mais de cinco anos» e «soldado com mais de cinco anos» previstas no original): não textual (extingue as categorias sem revogar nem dar nova redação ao art. 2.º, onde estão os vencimentos)\nAlterador 1, art. 5.º, n.º 2 («segundo-cabo com menos de cinco anos» e «soldado com menos de cinco anos» passam a designar-se segundo-cabo e soldado): não textual (designação, sem nova redação do art. 2.º)\nAlterador 1, art. 5.º, n.os 1 (parte final), 3 e 4 (categorias de guardas do Decreto-Lei n.º 49477): outro diploma",
   "instrucoes": [
-    "Arts. 1.º a 4.º e 6.º a 9.º do DL 467/73: regime autónomo de diuturnidades e promoções; não alteram o texto do original",
-    "Art. 5.º: extinção e redesignação de categorias previstas no original; não textual, não aplicado"
+    "Alterador 1, art. 5.º: extinção e nova designação de categorias, sem nova redação do art. 2.º: não aplicado (não textual).",
+    "Alterador 1, restantes artigos: diuturnidades, promoções e normas próprias, não alteram o texto do original."
   ],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 121,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

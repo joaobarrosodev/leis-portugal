@@ -2,11 +2,9 @@
   "id": "pt:dre:516067:por",
   "substituicoes": [],
   "insercoes": [],
-  "nao_aplicavel": "A Portaria n.º 19297 torna o decreto-lei extensivo ao ultramar com adaptações (referência ao Regulamento da Sisa; prazo até 31 de Dezembro de 1962) que valem só para a sua aplicação no ultramar, não alteram o texto do original.",
+  "nao_aplicavel": "Alterador 1, n.º 2.º (a referência ao Código da Sisa e do Imposto sobre as Sucessões e Doações entende-se feita ao Regulamento): não textual (regra de leitura para a extensão ao ultramar; não muda o texto do decreto-lei)\nAlterador 1, n.º 3.º (no § único do art. 1.º, «no prazo de dois meses, a contar da publicação do presente decreto-lei» passa a «até 31 de Dezembro do ano de 1962»): não textual (adaptação do decreto-lei na sua extensão ao ultramar, pelo n.º 1.º da portaria; o texto do decreto-lei em vigor no continente não muda)",
   "instrucoes": [
-    "1.º extensão ao ultramar: não altera o texto.",
-    "2.º leitura da referência ao Código da Sisa no ultramar: adaptação de aplicação, não aplicada.",
-    "3.º substituição do prazo no § único do art. 1.º para o ultramar: adaptação de aplicação, não aplicada ao texto do original."
+    "Alterador 1 (Portaria n.º 19297), n.º 1.º: torna o decreto-lei extensivo ao ultramar «com as alterações a seguir mencionadas»: as alterações dos n.os 2.º e 3.º são adaptações só para o ultramar; não aplicadas ao texto do original."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

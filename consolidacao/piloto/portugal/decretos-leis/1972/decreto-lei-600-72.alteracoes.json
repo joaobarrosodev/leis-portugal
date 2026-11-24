@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "2.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 2.º\n\nSão aditadas aos artigos 28.40.01 e 31.05.03 da Pauta dos Direitos de Importação as seguintes notas:\n\n28.40 ...\n\n01 ...\n\nNota. - O fosfato triamoniacal contendo, no estado de seco, menos de 6 mg por quilograma é livre de direitos.\n\n31.05 ...\n\n03 ...\n\nNota. - Os fosfatos mono e diamoniacal contendo, no estado de seco, menos de 6 mg por quilograma são livres de direitos.",
+    "depois": "###### Artigo 2.º\n\nSão aditadas aos artigos 28.40.01 e 31.05.03 da Pauta dos Direitos de Importação as seguintes notas:\n\n28.40 ...\n\n01 ...\n\nNota. - O fosfato triamoniacal contendo, no estado de seco, menos de 6 mg de arsénio por quilograma é livre de direitos.\n\n31.05 ...\n\n03 ...\n\nNota. - Os fosfatos mono e diamoniacal contendo, no estado de seco, menos de 6 mg de arsénio por quilograma são livres de direitos.\n\n> Alterado pelo/a [Rectificação](https://diariodarepublica.pt/dr/detalhe/rectificacao/1976-501414), publicado em 1976-03-20.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:163779:por",
+    "alterador": "pt:dre:501414:por"
+  }
+]

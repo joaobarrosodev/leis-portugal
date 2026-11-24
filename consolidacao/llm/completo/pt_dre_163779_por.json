@@ -1,13 +1,28 @@
 {
   "id": "pt:dre:163779:por",
-  "artigos": [],
-  "removidos": [],
-  "nao_aplicavel": "O art. 2.º do Decreto-Lei n.º 46/74 elimina parte da anotação inserida na Pauta dos Direitos de Importação por força do art. 5.º do Decreto-Lei n.º 600/72 (lista II, só em imagem); altera a Pauta, não o texto do art. 5.º do original.",
-  "instrucoes": [
-    "Art. 1.º: altera a nota ao artigo 87.02.09 da Pauta, outro diploma: ignorado",
-    "Art. 2.º: elimina anotação na Pauta (lista II em imagem), não é alteração textual do original: não aplicado"
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "São aditadas aos artigos 28.40.01 e 31.05.03 da Pauta dos Direitos de Importação as seguintes notas:\n\n28.40 ...\n\n01 ...\n\nNota. - O fosfato triamoniacal contendo, no estado de seco, menos de 6 mg de arsénio por quilograma é livre de direitos.\n\n31.05 ...\n\n03 ...\n\nNota. - Os fosfatos mono e diamoniacal contendo, no estado de seco, menos de 6 mg de arsénio por quilograma são livres de direitos.",
+      "alterador": 1
+    }
   ],
+  "nao_aplicavel": "Alterador 2, art. 1.º (valor da nota ao artigo 87.02.09 da Pauta dos Direitos de Importação passa de 15$50 para 9$50): outro diploma (a Pauta dos Direitos de Importação)\nAlterador 2, art. 2.º (elimina a anotação inserida na Pauta por força do art. 5.º, quanto aos artigos pautais 87.01 a 87.04.04): outro diploma (a anotação está na Pauta dos Direitos de Importação; a lista II só existe em imagem no texto atual)",
+  "instrucoes": [
+    "Alterador 1 retifica o art. 2.º: nas duas notas, «6 mg por quilograma» passa a «6 mg de arsénio por quilograma»: aplicado.",
+    "Alterador 2, arts. 1.º e 2.º: alteram a Pauta dos Direitos de Importação: não aplicados."
+  ],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 121,
+  "problemas": [],
+  "numeracao_aceite": [
+    "2.º: parágrafo que não está no alterador nem no original: Nota. - O fosfato triamoniacal contendo, no estado de seco, menos de 6 mg de ars (troca de expressão do alterador)",
+    "2.º: parágrafo que não está no alterador nem no original: Nota. - Os fosfatos mono e diamoniacal contendo, no estado de seco, menos de 6 m (troca de expressão do alterador)"
+  ],
+  "avisos": []
 }

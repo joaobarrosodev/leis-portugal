@@ -1,15 +1,27 @@
 {
   "id": "pt:dre:667350:por",
-  "artigos": [],
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "A verba 2.16 da lista I anexa ao Código do Imposto sobre o Valor Acrescentado passa a ter a seguinte redacção:\n\n«2.16 - As empreitadas de construção de imóveis de habitações económicas ou de habitações de custos controlados, independentemente do promotor, desde que tal classificação esteja certificada por autoridade competente do ministério da tutela.rtigo 3.º\n\nSão aditadas à lista I anexa ao Código do Imposto sob sobre o Valor Acrescentado as verbas 1.12, 1.13, 2.21, 2.22 e 2.23, com a seguinte redacção:\n\n«1.12 - Refrigerantes, sumos e néctares de frutos ou de produtos hortícolas, incluindo os xaropes de sumos, as bebidas concentradas de sumos e os produtos concentrados de sumos.\n\n1.13 - Produtos dietéticos destinados à nutrição entérica e produtos sem glúten para doentes celíacos.\n\n2.21 - As empreitadas de construção, beneficiação ou conservação de imóveis realizadas no âmbito do Regime Especial de Comparticipação na Recuperação de Imóveis Arrendados (RECRIA).\n\n2.22 - As empreitadas de construção de imóveis e os contratos de prestações de serviços com ela conexas, cujos promotores sejam cooperativas de habitação e construção, incluindo as realizadas pelas uniões de cooperativas de habitação e de construção económica às cooperativas suas associadas no âmbito do exercício das suas actividades estatutárias, desde que as habitações se integrem no âmbito da política social de habitação, designadamente quando respeitem o conceito e os parâmetros de habitação de custos controlados, majorados em 20%.\n\n2.23 - As empreitadas de conservação, reparação e beneficiação dos prédios ou parte dos prédios urbanos habitacionais, propriedade de cooperativas de habitação e construção, cedidos aos seus membros em regime de propriedade colectiva, qualquer que seja a respectiva modalidade.»\n\nArtigo 4.º\n\nÉ aditada à lista II anexa ao Código do Imposto sobre o Valor Acrescentado a verba 1.11, com a seguinte redacção:\n\n«1.11 - Aperitivos ou snacks à base de extrudidos de milho e trigo ou à base de milho moído e frito, em embalagens individuais.»\n\nArtigo 5.º\n\nAs verbas 1.12 da lista I e 1.11 da lista II anexas ao Código do Imposto sobre o Valor Acrescentado entram em vigor em 1 de Outubro de 1999.\n\nArtigo 6.º\n\nÉ revogada a verba 1.10 da lista II anexa ao Código do Imposto sobre o Valor Acrescentado à data da entrada em vigor da verba 1.12 da lista I.\n\nArtigo 7.º\n\nÉ aprovado o Regime Especial de Exigibilidade do Imposto sobre o Valor Acrescentado nas Entregas de Bens às Cooperativas Agrícolas, que faz parte integrante do presente decreto-lei.\n\nVisto e aprovado em Conselho de Ministros de 26 de Agosto de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - João Cardona Gomes Cravinho - Joaquim Augusto Nunes de Pina Moura - Luís Manuel Capoulas Santos.\n\nPromulgado em 1 de Outubro de 1999.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 13 de Outubro de 1999.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres.\n\nREGIME ESPECIAL DE EXIGIBILIDADE DO IMPOSTO SOBRE O VALOR ACRESCENTADO NAS ENTREGAS DE BENS ÀS COOPERATIVAS AGRÍCOLAS.\n\nArtigo 1.º\n\n(Revogado.)\n\nArtigo 2.º\n\n(Revogado.)\n\nArtigo 3.º\n\n(Revogado.)\n\nArtigo 4.º\n\n(Revogado.)\n\nArtigo 5.º\n\n(Revogado.)\n\nArtigo 6.º\n\n(Revogado.)\n\nArtigo 7.º\n\n(Revogado.)\n\nArtigo 8.º\n\n(Revogado.)\n\nArtigo 9.º\n\n(Revogado.)",
+      "alterador": 2
+    }
+  ],
   "removidos": [],
-  "nao_aplicavel": "Alterador 1 (DL 197/2012), art. 11.º: nova redação do n.º 1 do artigo 5.º do Regime Especial de Exigibilidade do IVA nas Entregas de Bens às Cooperativas Agrícolas, anexo ao original; Alterador 2 (DL 71/2013), art. 7.º, al. c): revoga esse Regime. O Regime anexo não consta do texto atual como artigos com chave (só vem como texto após as assinaturas, sem chaves «Anexo…::N.º»), pelo que não se pode aplicar com segurança.",
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": null,
   "instrucoes": [
-    "Alterador 1, art. 11.º: nova redação do art. 5.º, n.º 1, do Regime anexo («'Exigibilidade de caixa'») — anexo sem chaves no texto atual, não aplicado.",
-    "Alterador 1, restantes artigos: alteram o Código do IVA e outros diplomas — ignorados.",
-    "Alterador 2, art. 7.º, al. c): revogação do Regime anexo ao original — anexo sem chaves no texto atual, não aplicado.",
-    "Alterador 2, restantes artigos: aprovam o regime de IVA de caixa e alteram outros diplomas — ignorados."
+    "Alterador 1, art. 11.º: nova redação do n.º 1 do art. 5.º do Regime Especial de Exigibilidade (anexo, que no texto atual vem dentro da chave 2.º); aplicada e depois absorvida pela revogação do alterador 2.",
+    "Alterador 2, art. 7.º, alínea c): revoga o Regime Especial de Exigibilidade nas Entregas de Bens às Cooperativas Agrícolas, com efeitos a 1 de outubro de 2013 (art. 8.º); aplicada artigo a artigo (arts. 1.º a 9.º do Regime com «(Revogado.)», dentro da chave 2.º, onde está o texto do Regime). Os arts. 1.º a 7.º do decreto-lei não são revogados pela norma revogatória e ficam como estão."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 121,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": [
+    "5.º: o DRE diz «Alterado a partir de 01.01.2013, o art. 5.º, pelo DEC LEI.197/2012.24.08.2012.MF, DR.IS [1» (Decreto-Lei n.º 197/2012) e nem a resposta nem as regras o mudam"
+  ]
 }

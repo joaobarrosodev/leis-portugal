@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "8.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 8.º\n\nCompete especialmente ao conselho da federação:\n\na) Eleger trienalmente, de entre os seus membros, o presidente e os secretários;\n\nb) Eleger trienalmente, de entre os sócios das Casas do Povo federadas, o presidente, o secretário e o tesoureiro da direcção;\n\nc) Apreciar e votar os orçamentos de cada exercício, bem como examinar e discutir as contas e o relatório anual;\n\nd) Emitir parecer sobre todos os assuntos que lhe sejam submetidos pela direcção.",
+    "depois": "###### Artigo 8.º\n\nCompete especialmente ao conselho da federação:\n\na) Eleger trienalmente, de entre os seus membros, o presidente e os secretários;\n\nb) Eleger trienalmente, de entre os sócios das Casas do Povo federadas, o presidente e os vogais da direcção;\n\nc) Apreciar e votar os orçamentos de cada exercício, bem como examinar e discutir as contas e o relatório anual;\n\nd) Emitir parecer sobre todos os assuntos que lhe sejam submetidos pela direcção.\n\n> Alterado pelo/a [Rectificação](https://diariodarepublica.pt/dr/detalhe/rectificacao/1970-147247), publicado em 1970-11-19.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:666347:por",
+    "alterador": "pt:dre:147247:por"
+  },
+  {
+    "artigo": "10.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 10.º\n\n1. A direcção da federação é composta pelo presidente, pelo vice-presidente e por três vogais, tendo o seu mandato a duração de três anos.\n\n2. Será vice-presidente o vice-presidente da secção de representação profissional.\n\n3. A direcção designará de entre os vogais um secretário e o tesoureiro.",
+    "depois": "###### Artigo 10.º\n\n1. A direcção da federação é composta pelo presidente, pelo vice-presidente e por três vogais, tendo o seu mandato a duração de três anos.\n\n2. Será vice-presidente o vice-presidente da secção de representação profissional.\n\n3. A direcção designará de entre os vogais o secretário e o tesoureiro.\n\n> Alterado pelo/a [Rectificação](https://diariodarepublica.pt/dr/detalhe/rectificacao/1970-147247), publicado em 1970-11-19.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:666347:por",
+    "alterador": "pt:dre:147247:por"
+  }
+]

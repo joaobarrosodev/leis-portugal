@@ -1,0 +1,29 @@
+[
+ {
+  "id": "pt:dre:453543:por",
+  "artigos": [
+   {
+    "chave": "1.º",
+    "epigrafe": "Objecto",
+    "texto": "1 - São criados, com a natureza de entidades públicas empresariais, os seguintes hospitais, constantes do anexo ao presente decreto-lei, do qual faz parte integrante:\n\na) (Revogada.)\n\nb) Hospitais da Universidade de Coimbra, E. P. E.;\n\nc) Centro Hospitalar Póvoa de Varzim/Vila do Conde, E. P. E.\n\n2 - São aprovados para as entidades públicas empresariais previstas no número anterior os estatutos, constantes do anexo ii do [Decreto-Lei n.º 233/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/233-2005-469067), de 29 de Dezembro, e com as especificidades estatutárias que constam do anexo ao presente decreto-lei.\n\n3 - As unidades de saúde que dão origem às entidades públicas empresariais agora criadas consideram-se extintas para todos os efeitos legais, com dispensa de todas as formalidades legais.",
+    "alterador": 3
+   },
+   {
+    "chave": "3.º",
+    "epigrafe": "Capital estatutário",
+    "texto": "1 - O capital estatutário dos hospitais E. P. E. é detido pelo Estado e pode ser aumentado ou reduzido por despacho conjunto dos Ministros das Finanças e da Saúde, que constitui título bastante para todos os efeitos legais, incluindo os de registo.\n\n2 - O capital estatutário dos hospitais E. P. E. agora criados é o fixado no anexo ao presente decreto-lei, sendo as dotações em numerário subscritas e integralmente realizadas pelo Estado.\n\n3 - (Revogado.)\n\n4 - O capital estatutário dos Hospitais da Universidade de Coimbra, E. P. E., é constituído por uma dotação em numerário de (euro) 5 241 000.\n\n5 - O capital estatutário do Centro Hospitalar Póvoa de Varzim/Vila do Conde, E. P. E., é constituído por uma dotação em numerário de (euro) 1 753 000.",
+    "alterador": 3
+   }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 3, art. 9.º, alínea a) (revogação do anexo ao Decreto-Lei n.º 180/2008 na parte relativa ao Hospital de Faro, E.P.E.): só em imagem: o anexo só existe como ligação a um documento em imagem e o alterador não traz texto nem imagem nova, pelo que não se pode retirar só a parte do Hospital de Faro\nAlterador 4, art. 1.º (o Centro Hospitalar Póvoa de Varzim/Vila do Conde, E. P. E., passa a denominar-se Unidade Local de Saúde Póvoa de Varzim/Vila do Conde, E. P. E.; o Centro Hospitalar e Universitário de Coimbra passa a ULS de Coimbra): não textual: reestruturação e nova denominação, sem nova redação para o Decreto-Lei n.º 180/2008",
+  "instrucoes": [
+   "Alterador 1 (Despacho 28828/2008): cessação do serviço de urgência de Vila do Conde; só cita o art. 7.º, sem alterar o original — nada a fazer",
+   "Alterador 2 (DL 30/2011): funde os Hospitais da Universidade de Coimbra no CHUC; não dá nova redação nem revoga normas do original — nada a fazer",
+   "Alterador 3 (DL 69/2013), art. 9.º, a): revoga a alínea a) do n.º 1 do art. 1.º e o n.º 3 do art. 3.º — aplicado («a) (Revogada.)», «3 - (Revogado.)»); a revogação do anexo na parte relativa ao Hospital de Faro fica em nao_aplicavel (anexo só em imagem)",
+   "Alterador 4 (DL 102/2023): reestrutura entidades em ULS; não altera textualmente o original — nao_aplicavel (não textual)"
+  ]
+ }
+]

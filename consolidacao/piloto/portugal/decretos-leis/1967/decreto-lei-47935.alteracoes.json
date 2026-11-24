@@ -12,5 +12,19 @@
     "unidade": [],
     "diploma": "pt:dre:390988:por",
     "alterador": "pt:dre:263527:por"
+  },
+  {
+    "artigo": "10.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 10.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 48669](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48669-1968-263527), publicado em 1968-11-07.",
+    "depois": "###### Artigo 10.º\n\nO provimento dos lugares de dactilógrafo das secretarias dos governos civis será feito precedendo concurso de provas práticas, a que poderão ser admitidos indivíduos, de idade não inferior a 18 anos nem superior a 35, habilitados com o 1.º ciclo dos liceus ou equivalente.\n\n§ 1.º (Revogado.)\n\n§ 2.º Em tudo quanto não fica especialmente regulado, aplicar-se-ão aos dactilógrafos as disposições do Código Administrativo respeitantes aos funcionários de carteira dos quadros privativos das secretarias dos governos civis.\n\n> Revogado pelo/a [Decreto-Lei n.º 48669](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48669-1968-263527), publicado em 1968-11-07.\n\n> Alterado pelo/a [Decreto-Lei n.º 48669](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48669-1968-263527), publicado em 1968-11-07.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:390988:por",
+    "alterador": "pt:dre:263527:por"
   }
 ]

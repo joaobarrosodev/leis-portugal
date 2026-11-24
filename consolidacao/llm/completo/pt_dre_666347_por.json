@@ -1,13 +1,34 @@
 {
   "id": "pt:dre:666347:por",
-  "artigos": [],
-  "removidos": [],
-  "nao_aplicavel": "O Decreto-Lei n.º 737/74 extingue as federações de Casas do Povo e regula a liquidação, mas não dá nova redação nem revoga expressamente nenhum artigo do Decreto-Lei n.º 443/70; a extinção não é uma alteração textual.",
-  "instrucoes": [
-    "Alterador 1, art. 1.º: extinção das federações - sem alteração textual ao original, nada aplicado",
-    "Alterador 1, art. 4.º: remissão para a alínea a) do n.º 1 do art. 14.º do original, sem alterar o seu texto - nada aplicado"
+  "artigos": [
+    {
+      "chave": "8.º",
+      "epigrafe": "",
+      "texto": "Compete especialmente ao conselho da federação:\n\na) Eleger trienalmente, de entre os seus membros, o presidente e os secretários;\n\nb) Eleger trienalmente, de entre os sócios das Casas do Povo federadas, o presidente e os vogais da direcção;\n\nc) Apreciar e votar os orçamentos de cada exercício, bem como examinar e discutir as contas e o relatório anual;\n\nd) Emitir parecer sobre todos os assuntos que lhe sejam submetidos pela direcção.",
+      "alterador": 1
+    },
+    {
+      "chave": "10.º",
+      "epigrafe": "",
+      "texto": "1. A direcção da federação é composta pelo presidente, pelo vice-presidente e por três vogais, tendo o seu mandato a duração de três anos.\n\n2. Será vice-presidente o vice-presidente da secção de representação profissional.\n\n3. A direcção designará de entre os vogais o secretário e o tesoureiro.",
+      "alterador": 1
+    }
   ],
+  "nao_aplicavel": "Alterador 2, art. 1.º (são extintas as federações de Casas do Povo): não textual (extingue os organismos sem revogar nem dar nova redação ao texto do original)",
+  "instrucoes": [
+    "Alterador 1 retifica o art. 8.º, al. b) («o presidente, o secretário e o tesoureiro da direcção» -> «o presidente e os vogais da direcção») e o art. 10.º, n.º 3 («um secretário» -> «o secretário»): aplicado.",
+    "Alterador 2: extingue as federações e regula a liquidação (não textual); o art. 4.º só refere a al. a) do n.º 1 do art. 14.º."
+  ],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 121,
+  "problemas": [],
+  "numeracao_aceite": [
+    "8.º: parágrafo que não está no alterador nem no original: b) Eleger trienalmente, de entre os sócios das Casas do Povo federadas, o presid (troca de expressão do alterador)",
+    "10.º: parágrafo que não está no alterador nem no original: 3. A direcção designará de entre os vogais o secretário e o tesoureiro. (troca de expressão do alterador)"
+  ],
+  "avisos": []
 }

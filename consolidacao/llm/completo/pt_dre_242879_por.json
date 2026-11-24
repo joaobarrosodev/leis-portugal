@@ -2,13 +2,18 @@
   "id": "pt:dre:242879:por",
   "artigos": [],
   "removidos": [],
-  "nao_aplicavel": null,
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, declaração de que o Decreto-Lei n.º 699/74 contém a assinatura do Ministro da Justiça, Francisco Salgado Zenha: não textual: diz respeito às assinaturas finais, não ao texto dos artigos, e não traz a redação da linha de assinaturas.\nAlterador 2, artigo 46.º, n.º 1, e artigo 35.º, n.º 3, do Decreto-Lei n.º 201/75 (mantém em vigor o Decreto-Lei n.º 699/74 e sujeita os contratos renovados à forma escrita): não textual: não altera nem revoga texto do original.\nAlterador 3, artigo 1.º do Decreto-Lei n.º 896/76 (prorrogação do estatuído no Decreto-Lei n.º 699/74 durante 1977): não textual: prorrogação.\nAlterador 3, artigo 5.º do Decreto-Lei n.º 896/76 (revoga o Decreto-Lei n.º 699/74 na parte em que contrarie o presente diploma): revogação condicional: «na parte em que contrariem».",
   "instrucoes": [
-    "Alterador 1, art. 35.º, n.º 3 e art. 46.º, n.º 1: refere e mantém em vigor o Decreto-Lei n.º 699/74; sem alteração textual.",
-    "Alterador 2, art. 1.º: prorroga o regime durante 1977; sem alteração textual.",
-    "Alterador 2, art. 5.º: revogação do Decreto-Lei n.º 699/74 na parte em que contrarie o diploma; revogação condicional, não aplicada ao texto."
+    "Alterador 1 (declaração de retificação): acrescenta uma assinatura; não toca nos artigos; nao_aplicavel.",
+    "Alterador 2 (DL 201/75): só cita o original (mantém-no em vigor, artigo 46.º, n.º 1; artigo 35.º, n.º 3); nada aplicado.",
+    "Alterador 3 (DL 896/76): prorrogação (artigo 1.º) e revogação na parte em que contrarie (artigo 5.º); nada aplicado."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 121,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

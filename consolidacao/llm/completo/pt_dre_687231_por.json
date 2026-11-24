@@ -8,15 +8,20 @@
       "alterador": 1
     }
   ],
-  "removidos": [],
   "nao_aplicavel": null,
   "instrucoes": [
-    "DL 46507, art. 1.º: acrescenta o § 1.º ao art. 2.º; aplicado.",
-    "DL 46507, art. 2.º: o § único do art. 2.º passa a § 2.º; aplicado."
+    "Alterador 1, art. 1.º: acrescenta ao art. 2.º o § 1.º (texto copiado do alterador): aplicado.",
+    "Alterador 1, art. 2.º: o § único do art. 2.º passa a § 2.º: aplicado só a troca da designação («§ único.» -> «§ 2.º», no estilo do § 1.º do alterador); o resto do parágrafo é o texto atual, letra a letra."
   ],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": [
+  "ronda_camada1": 121,
+  "problemas": [],
+  "numeracao_aceite": [
     "2.º: parágrafo que não está no alterador nem no original: § 2.º Por despacho especial do Ministro do Exército pode ser autorizada a matríc"
-  ]
+  ],
+  "avisos": []
 }

@@ -152,5 +152,33 @@
     "unidade": [],
     "diploma": "pt:dre:484577:por",
     "alterador": "pt:dre:70007184:por"
+  },
+  {
+    "artigo": "SECÇÃO I — Conselho de administração",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "#### SECÇÃO I — Conselho de administração",
+    "depois": "#### SECÇÃO I — Conselho diretivo",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:484577:por",
+    "alterador": "pt:dre:70007184:por"
+  },
+  {
+    "artigo": "SECÇÃO III — Comissão de fiscalização",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "#### SECÇÃO III — Comissão de fiscalização",
+    "depois": "#### SECÇÃO III — Fiscal único",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:484577:por",
+    "alterador": "pt:dre:70007184:por"
   }
 ]

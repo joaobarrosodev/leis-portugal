@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "2.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 2.º\n\nOs candidatos a admitir na Academia Militar, com base no artigo anterior, deverão satisfazer às seguintes condições:\n\na) Ser cidadão português, filho de pais portugueses;\n\nb) Ter prestado uma comissão de serviço no ultramar de, pelo menos, dois anos, salva a impossibilidade de a completar por motivo de ferimento em combate ou doença adquirida em serviço;\n\nc) Não ter completado 28 anos até 1 de Janeiro do ano de admissão;\n\nd) Dar a garantia de cooperar na realização dos fins superiores do Estado e defender os princípios fundamentais da ordem política e social estabelecida na Constituição;\n\ne) Ter bom comportamento moral e civil;\n\nf) Possuir o 3.º ciclo liceal ou equivalente.\n\n§ único. Por despacho especial do Ministro do Exército pode ser autorizada a matrícula na Academia, ao abrigo do presente decreto-lei, aos candidatos filhos de pai ou mãe estrangeira, desde que o outro cônjuge seja cidadão português originário.",
+    "depois": "###### Artigo 2.º\n\nOs candidatos a admitir na Academia Militar, com base no artigo anterior, deverão satisfazer às seguintes condições:\n\na) Ser cidadão português, filho de pais portugueses;\n\nb) Ter prestado uma comissão de serviço no ultramar de, pelo menos, dois anos, salva a impossibilidade de a completar por motivo de ferimento em combate ou doença adquirida em serviço;\n\nc) Não ter completado 28 anos até 1 de Janeiro do ano de admissão;\n\nd) Dar a garantia de cooperar na realização dos fins superiores do Estado e defender os princípios fundamentais da ordem política e social estabelecida na Constituição;\n\ne) Ter bom comportamento moral e civil;\n\nf) Possuir o 3.º ciclo liceal ou equivalente.\n\n§ 1.º Por despacho especial do Ministro do Exército pode ser autorizada, a título muito excepcional, a matrícula na Academia Militar, ao abrigo do presente decreto-lei, aos candidatos de idade superior à estabelecida neste artigo e que tenham demonstrado, em campanha ou no desempenho de missões que envolvam grave risco, qualidades excepcionais para a carreira das armas.\n\n§ 2.º Por despacho especial do Ministro do Exército pode ser autorizada a matrícula na Academia, ao abrigo do presente decreto-lei, aos candidatos filhos de pai ou mãe estrangeira, desde que o outro cônjuge seja cidadão português originário.\n\n> Alterado pelo/a [Decreto-Lei n.º 46507](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46507-1965-292901), publicado em 1965-08-31.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:687231:por",
+    "alterador": "pt:dre:292901:por"
+  }
+]

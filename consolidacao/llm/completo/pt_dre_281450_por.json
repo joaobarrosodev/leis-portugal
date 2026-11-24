@@ -8,12 +8,17 @@
       "alterador": 1
     }
   ],
-  "removidos": [],
   "nao_aplicavel": null,
   "instrucoes": [
-    "Artigo único do DL 45020 dá nova redação ao art. 7.º: aplicada."
+    "Alterador 1, artigo único: nova redação do art. 7.º (divisões A a E): o artigo inteiro é substituído pelo texto do alterador; a antiga divisão C não fica."
   ],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 121,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

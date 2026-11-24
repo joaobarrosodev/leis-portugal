@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:221225699:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, Decreto-Lei n.º 32/2024: sem texto: o pedido não traz nenhum artigo do alterador que mencione o original nem instrução de alteração ao seu texto (só determina a tutela governamental sobre o Património Cultural, I. P.)\nAlterador 2, Decreto-Lei n.º 87-A/2025: sem texto: o pedido não traz nenhum artigo do alterador que mencione o original nem instrução de alteração ao seu texto (só determina a tutela governamental sobre o Património Cultural, I. P.)\nAlterador 3, Deliberação n.º 1300/2025, reorganização de unidades orgânicas flexíveis: outro diploma: reorganiza divisões e departamentos criados ao abrigo da Portaria n.º 388/2023 (estatutos), sem mudar palavras do Decreto-Lei n.º 78/2023",
+  "instrucoes": [
+    "Alterador 1 (DL 32/2024): sem texto que altere o original; nada aplicado",
+    "Alterador 2 (DL 87-A/2025): sem texto que altere o original; nada aplicado",
+    "Alterador 3 (Deliberação 1300/2025): reorganização interna ao abrigo da Portaria 388/2023; nada aplicado"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "ronda_camada1": 121,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
+}

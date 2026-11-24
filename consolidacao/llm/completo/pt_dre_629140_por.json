@@ -2,14 +2,20 @@
   "id": "pt:dre:629140:por",
   "artigos": [],
   "removidos": [],
-  "nao_aplicavel": "O DL 196/2009 altera os artigos 1.º, 2.º e 25.º, adita o artigo 11.º-A e altera/adita anexos do Regulamento anexo ao DL 346/2007; esse Regulamento não consta do texto atual recebido (que só tem os artigos 1.º a 7.º do decreto-lei, com o Regulamento em imagem), pelo que nada foi aplicado. O DL 47/2018 só remete para o DL 346/2007 noutro diploma, sem o alterar.",
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, nova redação dos artigos 1.º, 2.º e 25.º do Regulamento aprovado pelo Decreto-Lei n.º 346/2007: alvo incerto: o texto atual só traz os artigos 1.º a 7.º do decreto-lei; o Regulamento em anexo não está no texto (só no documento original em imagem), e as chaves 1.º, 2.º são do decreto, não do Regulamento.\nAlterador 1, aditamento do artigo 11.º-A ao Regulamento: alvo incerto: o Regulamento não está no texto atual, não há onde inserir o artigo sem o confundir com os artigos do decreto-lei.\nAlterador 1, nova redação dos anexos VI-A, VII-A, X-A e XVI do Regulamento: alvo incerto: esses anexos não têm título nem corpo no texto atual.\nAlterador 1, aditamento dos anexos VI-F, XVII e XVIII ao Regulamento: alvo incerto: o Regulamento e os seus anexos não estão no texto atual, não há título de anexo onde os pôr.\nAlterador 2, nova redação dos artigos 1.º a 16.º, 18.º, 19.º, 21.º e 22.º do Decreto-Lei n.º 181/2012 (e artigo 6.º republicado): outro diploma: o original só é citado na alínea d) do n.º 1 do artigo 6.º desse decreto-lei.",
   "instrucoes": [
-    "DL 196/2009 art. 2.º: arts. 1.º, 2.º e 25.º do Regulamento — Regulamento não recebido, não aplicado",
-    "DL 196/2009 art. 3.º e 5.º: alteração e aditamento de anexos do Regulamento — não aplicados",
-    "DL 196/2009 art. 4.º: aditamento do art. 11.º-A do Regulamento — não aplicado (não é artigo do decreto-lei)",
-    "DL 47/2018: altera o DL 181/2012 e só remete para o original — ignorado"
+    "Alterador 1 (DL 196/2009), art. 2.º: nova redação dos artigos 1.º, 2.º e 25.º do Regulamento — o Regulamento não está no texto atual; nao_aplicavel.",
+    "Alterador 1, art. 3.º: nova redação dos anexos VI-A, VII-A, X-A e XVI do Regulamento — sem título de anexo no texto atual; nao_aplicavel.",
+    "Alterador 1, art. 4.º: aditamento do artigo 11.º-A ao Regulamento — Regulamento ausente do texto atual; nao_aplicavel.",
+    "Alterador 1, art. 5.º: aditamento dos anexos VI-F, XVII e XVIII — sem título de anexo no texto atual; nao_aplicavel.",
+    "Alterador 2 (DL 47/2018): altera o DL 181/2012, que só cita o original; outro diploma, nao_aplicavel."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 121,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

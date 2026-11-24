@@ -2,73 +2,27 @@
   "id": "pt:dre:346486:por",
   "artigos": [
     {
-      "chave": "4.º",
-      "epigrafe": "Registo das bordadeiras de casa",
-      "texto": "1 - O Instituto do Bordado, Tapeçarias e Artesanato da Madeira deve manter um registo individual das bordadeiras de casa, donde constem os seguintes elementos:\n\na) O nome e a morada da bordadeira de casa;\n\nb) O número de beneficiário da segurança social e o número fiscal de contribuinte;\n\nc) A data do início da actividade;\n\nd) As importâncias pagas, a título de remuneração e a título de subsídio anual.\n\n2 - Esse registo será elaborado mediante o envio ao Instituto do Bordado, Tapeçarias e Artesanato da Madeira, pelos dadores de trabalho, de uma relação semanal contendo os elementos previstos no número anterior ou as respectivas actualizações.\n\n3 - Até 31 de Janeiro de cada ano, o Instituto do Bordado, Tapeçarias e Artesanato da Madeira remeterá cópia dos registos actualizados com referência ao ano anterior à Inspecção Regional do Trabalho e ao Centro de Segurança Social da Madeira.\n\n4 - Compete ao Instituto do Bordado, Tapeçarias e Artesanato da Madeira o processamento informatizado das remunerações das bordadeiras de casa, para efeito do apuramento das contribuições a pagar ao Centro de Segurança Social da Madeira.",
-      "alterador": 1
-    },
-    {
-      "chave": "7.º",
-      "epigrafe": "Incumbência de trabalho",
-      "texto": "1 - Todos os trabalhos a executar pelas bordadeiras devem ser acompanhados por um documento, designado por bilhete, donde constem os seguintes elementos:\n\na) Firma do dador de trabalho;\n\nb) Número de ordem;\n\nc) Desenho;\n\nd) Medida;\n\ne) Artigo;\n\nf) Peças;\n\ng) Linhas;\n\nh) Pontos;\n\ni) Preço;\n\nj) Registo;\n\nl) Controlo;\n\nm) Tecido;\n\nn) Data de saída;\n\no) Prazo de execução;\n\np) Representante.\n\nq) Subsídio anual (um duodécimo do preço);\n\nr) Total a pagar [soma das alíneas i) e q)].\n\n2 - Os bilhetes devem ter um anexo destacável, o qual é entregue à bordadeira de casa após a execução do trabalho e o respectivo pagamento e que conterá as seguintes indicações:\n\na) As previstas nas alíneas a), j), l) e p) do número anterior;\n\nb) Nome da bordadeira de casa;\n\nc) Número de beneficiário da segurança social e número de contribuinte fiscal;\n\nd) Total das importâncias pagas, a título de preço e de duodécimo do subsídio anual;\n\ne) Data do pagamento.\n\n3 - Devem ser estampados na orla das peças de tecido dadas a bordar o número do desenho, a medida e o número de pontos.\n\n4 - O número de pontos é contado de acordo com a tabela de contagem que consta em anexo ao presente diploma (anexo I).\n\n5 - A composição, designações e aspecto tipográfico do documento designado por bilhete, bem como o seu período de validade como elemento de prova do trabalho executado, serão objecto de regulamentação própria, através de portaria conjunta dos secretários regionais que detiverem a tutela das áreas do trabalho, do artesanato e da segurança social.",
-      "alterador": 1
-    },
-    {
-      "chave": "8.º",
-      "epigrafe": "Remuneração",
-      "texto": "1 - A remuneração deve ser paga à bordadeira de casa na altura da entrega ao dador de trabalho do bordado executado e será estabelecida em função dos pontos executados e contados de acordo com a tabela referida no n.º 4 do artigo anterior.\n\n2 - Os custos das matérias-primas que tiverem sido injustificadamente extraviadas ou inutilizadas poderão ser deduzidos na remuneração a pagar.\n\n3 - Se o bordado apresentar nódoas ou manchas, o dador de trabalho dispõe do prazo de oito dias para proceder à respectiva eliminação.\n\n4 - Sendo essa eliminação obtida, deve ser paga imediatamente a remuneração devida, sem qualquer desconto.\n\n5 - Se a nódoa ou mancha não puder ser eliminada ou o bordado apresentar outras imperfeições susceptíveis de comprometerem irremediavelmente a respectiva qualidade, o dador de trabalho deverá remetê-lo, no prazo máximo de dois dias, ao departamento técnico do Instituto do Bordado, Tapeçarias e Artesanato da Madeira, acompanhado de exposição escrita dos defeitos encontrados.\n\n6 - O mesmo procedimento deve ser adoptado no caso de existirem divergências entre o dador de trabalho e a bordadeira relativamente à contagem dos pontos executados ou ao valor das deduções a efectuar nos termos do n.º 2.\n\n7 - O departamento técnico do Instituto do Bordado, Tapeçarias e Artesanato da Madeira decide as questões suscitadas nos termos dos números anteriores no prazo máximo de três dias, constando obrigatoriamente da decisão tomada e comunicada por escrito ao dador de trabalho e à bordadeira de casa a contagem dos pontos executados e o montante da remuneração a pagar.\n\n8 - Comunicada a decisão final às partes, devem ser pagas, no prazo máximo de dois dias, as remunerações que sejam devidas.",
-      "alterador": 1
-    },
-    {
-      "chave": "10.º",
-      "epigrafe": "Subsídio anual",
-      "texto": "1 - Em simultâneo com o pagamento das remunerações, nos termos previstos no artigo 8.º, será pago à bordadeira de casa um valor correspondente a um duodécimo do montante dessa remuneração.\n\n2 - O somatório dos duodécimos recebidos no período de um ano, nos termos do número anterior, representa, para todos os efeitos, o subsídio anual previsto no artigo 7.º do [Decreto-Lei n.º 440/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/440-1991-316727), de 14 de Novembro.",
-      "alterador": 1
-    },
-    {
       "chave": "11.º",
       "epigrafe": "Segurança social",
-      "texto": "1 - A bordadeira de casa e o dador de trabalho ficam obrigatoriamente abrangidos, como beneficiários e contribuintes, respectivamente, pelo regime geral de segurança social dos trabalhadores por conta de outrem, com as particularidades constantes dos números seguintes.\n\n2 - À bordadeira de casa é garantido o direito a todas as prestações do regime geral de segurança social dos trabalhadores por conta de outrem, incluindo o subsídio de desemprego nos termos da lei.\n\n3 - As taxas de contribuições relativas à bordadeira de casa são calculadas pela aplicação da taxa global de 12%, correspondendo 10% ao dador de trabalho e 2% à bordadeira de casa, sobre o valor das remunerações efectivamente pagas e auferidas, com excepção das quantias pagas a título de subsídio anual.\n\n4 - A percentagem global referida no número anterior engloba a taxa de 0,5% destinada a financiar a cobertura de riscos de doença profissional.\n\n5 - Para efeitos de registo de remunerações, o número de dias de trabalho é apurado proporcionalmente ao valor da remuneração declarada.\n\n6 - A remuneração correspondente a 30 dias de trabalho bem como o critério de alteração desse montante são fixados por resolução do Governo Regional.\n\n7 - As remunerações declaradas à segurança social são imputadas ao mês de processamento executado pelo Instituto do Bordado, Tapeçarias e Artesanato da Madeira, sem prejuízo de, sempre que os montantes declarados sejam superiores aos fixados nos termos do número anterior, serem ainda imputados aos 11 meses que o precedem.",
-      "alterador": 1
-    },
-    {
-      "chave": "13.º",
-      "epigrafe": "Sanções",
-      "texto": "1 - Constitui contra-ordenação, punível com coima a aplicar ao dador de trabalho:\n\na) De 5000$00 a 15000$00, a violação do disposto no n.º 2 do artigo 4.º, por cada bordadeira relativamente à qual se verifique a infracção;\n\nb) De 5000$00 a 20000$00, a violação do disposto no artigo 7.º, por cada infracção;\n\nc) De 5000$00 a 100000$00, a violação do disposto no artigo 6.º, por cada infracção, quando as substâncias, equipamentos ou utensílios sejam fornecidos pelo dador de trabalho.\n\n2 - A falta de pagamento pontual da remuneração devida à bordadeira de casa, bem como dos duodécimos, do subsídio anual previsto no artigo 10.º constitui contra-ordenação, punida com coima de 5000$00 a 50000$00 por cada bordadeira em relação à qual se verifique a infracção.\n\n3 - Às representantes das bordadeiras, designadas por agentes, são aplicáveis as coimas previstas na alínea b) do n.º 1 do presente artigo, quando haja violação do disposto nos n.os 1 e 2 do artigo 7.º do presente diploma.\n\n4 - Com o auto de notícia serão apuradas as quantias em dívida.\n\n5 - O produto das coimas reverterá para a segurança social, sendo afectado à área da acção social.\n\n6 - As infracções no âmbito do regime de segurança social previsto no artigo 11.º ficam sujeitas, na parte aplicável, ao disposto no [Decreto-Lei n.º 64/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-1989-612243), de 25 de Fevereiro.",
-      "alterador": 1
-    },
-    {
-      "chave": "13.º-A",
-      "epigrafe": "Notificações",
-      "texto": "1 - As notificações dos autos de notícia podem ser efectuadas directa e pessoalmente por qualquer funcionário da Inspecção Regional do Trabalho, desde que mandatado para o efeito, ficando este investido dos poderes que a lei geral confere para a realização desse acto.\n\n2 - As notificações podem ainda ser efectuadas mediante carta registada, com aviso de recepção, expedida para o domicílio ou sede do notificando.\n\n3 - A notificação considera-se feita na pessoa do infractor quando efectuada em qualquer outra que na altura o represente, ainda que não possua título bastante para o efeito, e presume-se feita no 3.º dia posterior ao do registo.",
-      "alterador": 1
-    },
-    {
-      "chave": "13.º-B",
-      "epigrafe": "Processamento e instrução",
-      "texto": "O processamento e instrução seguirão os trâmites estabelecidos no regime geral das contra-ordenações laborais.",
-      "alterador": 1
-    },
-    {
-      "chave": "13.º-C",
-      "epigrafe": "Regime substantivo e processual",
-      "texto": "Em tudo o que não se encontrar especialmente regulado no presente diploma é aplicável às contra-ordenações previstas nos n.os 1 e 2 do artigo 13.º do presente diploma o regime geral das contra-ordenações.",
-      "alterador": 1
+      "texto": "(Revogado.)",
+      "alterador": 2
     }
   ],
   "removidos": [],
   "titulos": [],
   "anexos": [],
-  "nao_aplicavel": "Lei n.º 64-B/2011, art. 81.º, n.º 2: altera o art. 5.º (norma revogatória) da Lei n.º 110/2009, cuja alínea x) refere o art. 11.º do DLR 12/93/M; é uma instrução a outro diploma (Lei n.º 110/2009) e não se aplica ao texto do original. Os n.os 3 a 5 do mesmo artigo alteram o Código dos Regimes Contributivos e também não são do original.",
+  "nao_aplicavel": "Alterador 2, art. 273.º, n.º 3, do Código dos Regimes Contributivos (manutenção do regime do diploma em grupo fechado): não textual — não muda o texto do diploma.\nAlterador 3, art. 81.º, n.º 2 (nova redação do art. 5.º da Lei n.º 110/2009, que repete na alínea x) a revogação do art. 11.º): outro diploma — altera a Lei n.º 110/2009; a revogação do art. 11.º já fica aplicada pelo alterador 2.",
   "instrucoes": [
-    "DLR 22/98/M, art. 1.º: nova redação dos arts. 4.º (alínea d) do n.º 1, n.os 3 e 4), 7.º (novas alíneas q) e r) do n.º 1, alínea d) do n.º 2, novo n.º 5), 8.º (n.os 5 e 7 novos, n.º 8 = anterior n.º 9), 11.º (n.os 2, 3 e 5 a 7) e 13.º (n.os 2 a 5 novos, n.º 6 = anterior n.º 3). Texto do programa conferido e correto.",
-    "DLR 22/98/M, art. 1.º, art. 10.º: substitui o art. 10.º com a nova epígrafe 'Subsídio anual' e dois números (o antigo 'Prémio de produtividade' deixa de existir por esta redação; o reparo do verificador não procede). Corrigido o n.º 2, que o programa copiou sem a ligação do Decreto-Lei n.º 440/91 que vem no alterador.",
-    "DLR 22/98/M, art. 2.º: adita os arts. 13.º-A, 13.º-B e 13.º-C. Já aplicados pelo programa e corretos.",
-    "DLR 22/98/M, art. 3.º (republicação) e art. 4.º (entrada em vigor e efeitos): sem texto a aplicar.",
-    "Lei n.º 64-B/2011, art. 81.º: instruções à Lei n.º 110/2009 e ao Código dos Regimes Contributivos; não aplicadas (ver nao_aplicavel)."
+    "Alterador 1, art. 1.º: nova redação dos arts. 4.º, 7.º, 8.º, 10.º, 11.º e 13.º; já aplicada pelo programa e conferida (o art. 11.º fica depois revogado).",
+    "Alterador 1, art. 2.º: aditamento dos arts. 13.º-A, 13.º-B e 13.º-C; já no texto atual, conferidos.",
+    "Alterador 1, art. 3.º: republicação; não usada para mudar artigos (as diferenças são de grafia da republicação, sem instrução).",
+    "Alterador 2, art. 5.º, n.º 1, alínea x): revoga o art. 11.º com a entrada em vigor do Código (já ocorrida); aplicado: art. 11.º «(Revogado.)».",
+    "Alterador 2, art. 273.º, n.º 3, e alterador 3, art. 81.º: sem mudança textual (nao_aplicavel)."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
+  "ronda_camada1": 121,
   "problemas": [],
+  "numeracao_aceite": [],
   "avisos": []
 }

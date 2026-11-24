@@ -16,14 +16,18 @@
   ],
   "removidos": [],
   "titulos": [],
-  "nao_aplicavel": "A revogação do anexo na parte relativa ao Hospital de Faro, E.P.E. (DL 69/2013, art. 9.º, a)) não se aplica: o anexo não está no texto atual (só o título). O Despacho n.º 28828/2008 (cessação do serviço de urgência de Vila do Conde), o DL 30/2011 (fusão dos Hospitais da Universidade de Coimbra no CHUC) e o DL 102/2023 (reestruturação do Centro Hospitalar Póvoa de Varzim/Vila do Conde em ULS) não contêm instruções textuais dirigidas a este decreto-lei; as alterações e aditamentos do DL 102/2023 visam outros diplomas (DL 52/2022, 23/2019, 61/2022, 318/2009).",
+  "anexos": [],
+  "nao_aplicavel": "Alterador 3, art. 9.º, alínea a) (revogação do anexo ao Decreto-Lei n.º 180/2008 na parte relativa ao Hospital de Faro, E.P.E.): só em imagem: o anexo só existe como ligação a um documento em imagem e o alterador não traz texto nem imagem nova, pelo que não se pode retirar só a parte do Hospital de Faro\nAlterador 4, art. 1.º (o Centro Hospitalar Póvoa de Varzim/Vila do Conde, E. P. E., passa a denominar-se Unidade Local de Saúde Póvoa de Varzim/Vila do Conde, E. P. E.; o Centro Hospitalar e Universitário de Coimbra passa a ULS de Coimbra): não textual: reestruturação e nova denominação, sem nova redação para o Decreto-Lei n.º 180/2008",
   "instrucoes": [
-    "Despacho 28828/2008: sem instrução textual dirigida ao original.",
-    "DL 30/2011: cria o CHUC por fusão dos HUC; sem instrução textual dirigida ao original.",
-    "DL 69/2013, art. 9.º, a): revogada a alínea a) do n.º 1 do art. 1.º ('a) (Revogada.)') e o n.º 3 do art. 3.º ('3 - (Revogado.)'); revogação parcial do anexo não aplicável.",
-    "DL 102/2023: reestrutura o CH Póvoa de Varzim/Vila do Conde em ULS e altera outros diplomas; nada aplicado ao original."
+    "Alterador 1 (Despacho 28828/2008): cessação do serviço de urgência de Vila do Conde; só cita o art. 7.º, sem alterar o original — nada a fazer",
+    "Alterador 2 (DL 30/2011): funde os Hospitais da Universidade de Coimbra no CHUC; não dá nova redação nem revoga normas do original — nada a fazer",
+    "Alterador 3 (DL 69/2013), art. 9.º, a): revoga a alínea a) do n.º 1 do art. 1.º e o n.º 3 do art. 3.º — aplicado («a) (Revogada.)», «3 - (Revogado.)»); a revogação do anexo na parte relativa ao Hospital de Faro fica em nao_aplicavel (anexo só em imagem)",
+    "Alterador 4 (DL 102/2023): reestrutura entidades em ULS; não altera textualmente o original — nao_aplicavel (não textual)"
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 121,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

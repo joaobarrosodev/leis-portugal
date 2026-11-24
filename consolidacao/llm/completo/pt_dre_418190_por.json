@@ -26,14 +26,19 @@
       "alterador": 1
     }
   ],
-  "removidos": [],
-  "nao_aplicavel": "Novos quadros I e II anexos (redação do DL 270/91) só vêm em imagem ('ver documento original'); não aplicados.",
+  "nao_aplicavel": "Alterador 1, quadros I e II anexos (republicados em imagem, com a redação dada ao n.º 1 do art. 1.º): só em imagem (os quadros só existem em imagem, no texto atual dentro do corpo do art. 8.º, sem título de anexo)",
   "instrucoes": [
-    "Art. 1.º do DL 270/91: nova redação dos artigos 1.º, 2.º (n.os 2 e 3), 4.º e 5.º (n.º 2); aplicada, mantendo os números com '...'.",
-    "Arts. 2.º a 4.º do DL 270/91: normas próprias, sem alteração textual do original.",
-    "Anexos quadros I e II republicados só em imagem: não aplicados."
+    "Alterador 1, art. 1.º: nova redação dos arts. 1.º (n.os 1 e 2, substitui o artigo inteiro), 2.º (n.os 2 e 3; n.os 1 e 4 «...» ficam), 4.º (n.os 1 e 2, substitui o artigo inteiro) e 5.º (n.º 2; n.os 1 e 3 ficam): aplicado.",
+    "Alterador 1, quadros I e II em imagem: não aplicados.",
+    "Alterador 1, arts. 2.º a 4.º: normas próprias."
   ],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 121,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

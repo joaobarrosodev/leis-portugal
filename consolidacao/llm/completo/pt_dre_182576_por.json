@@ -8,14 +8,19 @@
       "alterador": 1
     }
   ],
-  "removidos": [],
-  "nao_aplicavel": "Art. 1.º do DLR 25/90/M retifica os mapas I a IV e V-I a V-IV, que só vêm em imagem: não aplicado.",
+  "nao_aplicavel": "Alterador 1, art. 1.º (os mapas I a IV e V-I a V-IV substituem, nas partes respectivas, os mapas do original): só em imagem (os mapas novos e os do original só existem em imagem, sem título de anexo no texto atual)",
   "instrucoes": [
-    "Art. 1.º: substituição parcial dos mapas (imagem): não aplicado",
-    "Art. 2.º: nova redação do art. 3.º (Empréstimos): aplicado",
-    "Art. 3.º: produção de efeitos, não textual"
+    "Alterador 1, art. 2.º: nova redação do art. 3.º («Empréstimos»): substituído por inteiro pelo texto do alterador.",
+    "Alterador 1, art. 1.º: mapas em imagem: não aplicado.",
+    "Alterador 1, art. 3.º: efeitos (norma própria)."
   ],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 121,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

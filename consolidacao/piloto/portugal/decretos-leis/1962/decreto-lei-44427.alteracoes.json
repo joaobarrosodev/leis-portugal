@@ -40,5 +40,33 @@
     "unidade": [],
     "diploma": "pt:dre:164589:por",
     "alterador": "pt:dre:357279:por"
+  },
+  {
+    "artigo": "3.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 3.º\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 438/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/438-1988-357279), publicado em 1988-11-29.",
+    "depois": "###### Artigo 3.º\n\nConsidera-se emigração a saída do País de indivíduos de nacionalidade portuguesa, originária ou adquirida, para se estabelecerem definitiva ou temporàriamente no estrangeiro, salvo nos casos exceptuados por lei.\n\n> Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 438/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/438-1988-357279), publicado em 1988-11-29.\n\n> Alterado pelo/a [Decreto-Lei n.º 438/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/438-1988-357279), publicado em 1988-11-29.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:164589:por",
+    "alterador": "pt:dre:357279:por"
+  },
+  {
+    "artigo": "9.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 9.º\n\nFicam revogados: o Decreto com força de lei n.º 5624, de 10 de Maio de 1919, com excepção do artigo 27.º, o [Decreto n.º 5886](https://diariodarepublica.pt/dr/detalhe/decreto/5886-1919-364298), de 19 de Junho de 1919, com excepção do artigo 68.º, o [Decreto n.º 34330](https://diariodarepublica.pt/dr/detalhe/decreto/34330-1944-568709), de 27 de Dezembro de 1944, o [Decreto-Lei n.º 36199](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36199-1947-414782), de 29 de Março de 1947, e o artigo 30.º do [Decreto n.º 39794](https://diariodarepublica.pt/dr/detalhe/decreto/39794-1954-639157), de 28 de Agosto de 1954.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 29 de Junho de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Fogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.\n\nTabela a que se refere o artigo 7.º do Decreto-Lei n.º 44427\n\nPassaporte para emigrante\n\n... Com validade para qualquer país ou grupo de países (ver nota a)\n\nIndividual, ou familiar, quando não abranja os dois cônjuges ... 20$00\n\nFamiliar, quando abranja os dois cônjuges ... 30$00\n\nPor cada filho maior de 10 anos e menor de 14 anos incluído nos passaportes familiares ... 5$00\n\n(nota a) Acresce o custo do impresso.\n\nMinistério do Interior, 29 de Junho de 1962. - O Ministro do Interior, Alfredo Rodrigues dos Santos Júnior.",
+    "depois": "###### Artigo 9.º\n\nFicam revogados: o Decreto com força de lei n.º 5624, de 10 de Maio de 1919, com excepção do artigo 27.º, o [Decreto n.º 5886](https://diariodarepublica.pt/dr/detalhe/decreto/5886-1919-364298), de 19 de Junho de 1919, com excepção do artigo 68.º, o [Decreto n.º 34330](https://diariodarepublica.pt/dr/detalhe/decreto/34330-1944-568709), de 27 de Dezembro de 1944, o [Decreto-Lei n.º 36199](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36199-1947-414782), de 29 de Março de 1947, e o artigo 30.º do [Decreto n.º 39794](https://diariodarepublica.pt/dr/detalhe/decreto/39794-1954-639157), de 28 de Agosto de 1954.\n\n> Alterado pelo/a [Decreto-Lei n.º 438/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/438-1988-357279), publicado em 1988-11-29.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 29 de Junho de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Fogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.\n\nTabela a que se refere o artigo 7.º do Decreto-Lei n.º 44427\n\nPassaporte para emigrante\n\n... Com validade para qualquer país ou grupo de países (ver nota a)\n\nIndividual, ou familiar, quando não abranja os dois cônjuges ... 20$00\n\nFamiliar, quando abranja os dois cônjuges ... 30$00\n\nPor cada filho maior de 10 anos e menor de 14 anos incluído nos passaportes familiares ... 5$00\n\n(nota a) Acresce o custo do impresso.\n\nMinistério do Interior, 29 de Junho de 1962. - O Ministro do Interior, Alfredo Rodrigues dos Santos Júnior.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:164589:por",
+    "alterador": "pt:dre:357279:por"
   }
 ]

@@ -176,7 +176,7 @@ c) O fiscal único.
 
 > Alterado pelo/a [Decreto Legislativo Regional n.º 6/2015/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2015-70007184), publicado em 2015-08-13.
 
-#### SECÇÃO I — Conselho de administração
+#### SECÇÃO I — Conselho diretivo
 
 ###### Artigo 7.º — Composição
 
@@ -274,7 +274,7 @@ O conselho consultivo reúne ordinariamente uma vez por semestre e extraordinari
 
 > Revogado pelo/a [Decreto Legislativo Regional n.º 6/2015/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2015-70007184), publicado em 2015-08-13.
 
-#### SECÇÃO III — Comissão de fiscalização
+#### SECÇÃO III — Fiscal único
 
 ###### Artigo 16.º — Função, designação, remuneração e mandato
 

@@ -2,6 +2,12 @@
   "id": "pt:dre:523409:por",
   "artigos": [
     {
+      "chave": "20.º",
+      "epigrafe": "Direcção-Geral de Viação",
+      "texto": "1 - A DGV é o órgão especialmente incumbido de, nos domínios da circulação e da segurança rodoviária, estudar, propor e executar as medidas adequadas ao planeamento e ordenamento do tráfego automóvel, bem como à uniformização e coordenação da respectiva fiscalização.\n\n2 - As atribuições, competências, estrutura, organização e funcionamento da DGV são definidas pela respectiva lei orgânica.\n\n3 - As referências feitas na Lei Orgânica da DGV ao Ministro da Obras Públicas, Transportes e Comunicações consideram-se feitas ao Ministro da Administração Interna.\n\nArt. 2.º (Revogado.)",
+      "alterador": 1
+    },
+    {
       "chave": "13.º-A",
       "epigrafe": "Gabinete de Assuntos Europeus",
       "texto": "(Revogado.)",
@@ -16,11 +22,23 @@
   ],
   "removidos": [],
   "titulos": [],
+  "anexos": [],
   "nao_aplicavel": null,
   "instrucoes": [
-    "DL 78/2007, art. 14.º, b): revoga o artigo 2.º do DL 92/92, que é o artigo que adita os artigos 13.º-A e 13.º-B ao DL 55/87; no texto atual o conteúdo do art. 2.º são exatamente esses dois artigos, pelo que ficam (Revogado.). Restantes normas do DL 78/2007 não se dirigem ao DL 92/92."
+    "Alterador 1, art. 14.º, alínea b): revoga o art. 2.º do DL 92/92 (em vigor desde 1/4/2007). O art. 2.º é o que adita os arts. 13.º-A e 13.º-B ao DL 55/87: o seu proémio («Art. 2.º Ao Decreto-Lei n.º 55/87 … são aditados os seguintes artigos:»), que vinha no fim do corpo do 20.º, passa a «Art. 2.º (Revogado.)», e os arts. 13.º-A e 13.º-B, que são o seu conteúdo, ficam «(Revogado.)». O art. 1.º (arts. 4.º, 15.º, 16.º e 20.º) não é revogado.",
+    "Alterador 1, art. 14.º, alíneas a) e c): revogam outros diplomas (DL 15/89 e DL 103/99) — sem efeito neste."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 121,
+  "problemas": [
+    "20.º: nenhum alterador menciona o artigo 20.º",
+    "13.º-A: nenhum alterador menciona o artigo 13.º-A"
+  ],
+  "numeracao_aceite": [
+    "20.º: parágrafo que não está no alterador nem no original: Art. 2.º (Revogado.)"
+  ],
+  "avisos": [
+    "2.º: o DRE diz «Revogado o artigo 2.º e determinado que a Direcção-Geral da Administração Interna suceda n» (Decreto-Lei n.º 78/2007) e nem a resposta nem as regras o mudam"
+  ]
 }

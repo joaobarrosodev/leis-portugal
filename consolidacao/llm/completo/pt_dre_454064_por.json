@@ -16,14 +16,18 @@
   ],
   "removidos": [],
   "titulos": [],
+  "anexos": [],
   "nao_aplicavel": null,
   "instrucoes": [
-    "DLR 34/2009/M art. 18.º: art. 1.º a) passa a 13 % e c) a 2 % (com 'trabalho'); art. 3.º nova redação. Aplicado (o 13 % vem deste alterador, que está no pedido; reparo do verificador não procede).",
-    "DLR 42/2012/M art. 54.º: cabeça do art. 1.º 'receita do Serviço Regional de Proteção Civil, IP-RAM'; art. 3.º nova redação. Aplicado.",
-    "DLR 31-A/2013/M art. 57.º: cabeça do art. 1.º igual; art. 3.º nova redação (Tesouraria do Governo Regional, operações extraorçamentais). Aplicado; é a redação final do art. 3.º.",
-    "DLR 6/2015/M art. 5.º: art. 1.º c) passa a 2,5 %; a), b) e n.º 2 mantêm-se. Aplicado; numeração '1)'/'2)' do texto atual mantida por virem como '[...]'."
+    "Alterador 1 (DLR 34/2009/M, art. 18.º): nova redação dos arts. 1.º (a) 13 %, c) 2 %) e 3.º; aplicada, depois substituída pelos seguintes. O 13 % da alínea a) vem deste alterador e nenhum posterior a muda (todos '...').",
+    "Alterador 2 (DLR 42/2012/M, art. 54.º): proémio do art. 1.º 'Constituem receita do Serviço Regional de Proteção Civil, IP-RAM:' e nova redação do art. 3.º; aplicada, art. 3.º depois substituído pelo alterador 3.",
+    "Alterador 3 (DLR 31-A/2013/M, art. 57.º): mesmo proémio do art. 1.º e nova redação do art. 3.º (Tesouraria do Governo Regional, operações extraorçamentais); aplicada.",
+    "Alterador 4 (DLR 6/2015/M, art. 5.º): alínea c) do n.º 1 do art. 1.º passa a 2,5 %; resto '[...]'; aplicada."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 121,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

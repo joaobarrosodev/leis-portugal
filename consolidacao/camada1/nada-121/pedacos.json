@@ -1,0 +1,49 @@
+[
+ {
+  "pedaco": 1,
+  "ids": [
+   "pt:dre:177853:por",
+   "pt:dre:213062:por",
+   "pt:dre:217111:por",
+   "pt:dre:221225699:por",
+   "pt:dre:222645049:por",
+   "pt:dre:242879:por",
+   "pt:dre:252181:por",
+   "pt:dre:25345892:por",
+   "pt:dre:25345903:por",
+   "pt:dre:255040:por",
+   "pt:dre:279630:por",
+   "pt:dre:292553:por",
+   "pt:dre:315567:por",
+   "pt:dre:346364:por",
+   "pt:dre:352919:por"
+  ],
+  "chars": 127370
+ },
+ {
+  "pedaco": 2,
+  "ids": [
+   "pt:dre:357556:por",
+   "pt:dre:462183:por",
+   "pt:dre:516067:por",
+   "pt:dre:533643:por"
+  ],
+  "chars": 102420
+ },
+ {
+  "pedaco": 3,
+  "ids": [
+   "pt:dre:554130:por"
+  ],
+  "chars": 736576
+ },
+ {
+  "pedaco": 4,
+  "ids": [
+   "pt:dre:582436:por",
+   "pt:dre:629140:por",
+   "pt:dre:686787:por"
+  ],
+  "chars": 50109
+ }
+]

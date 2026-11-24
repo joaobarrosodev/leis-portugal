@@ -40,21 +40,25 @@
     {
       "chave": "16.º",
       "epigrafe": "",
-      "texto": "1. A distribuição no mercado interno dos produtos finais obtidos pela laboração da refinaria e que se comportem na quota a esta atribuída pelo correspondente alvará geral de importação para refinação nacional será inteiramente devolvida, salvo o disposto no n.º 2 do artigo seguinte.\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\n4. Ainda para o referido efeito, a sociedade fica obrigada, quanto aos produtos da sua refinação correspondentes às participações dos sócios não compreendidos nos números precedentes, a vender as quantidades que o Governo defina e aos adquirentes que ele designe.",
+      "texto": "1. A distribuição no mercado interno dos produtos finais obtidos pela laboração da refinaria e que se comportem na quota a esta atribuída pelo correspondente alvará geral de importação para refinação nacional será inteiramente devolvida, salvo o disposto no n.º 2 do artigo seguinte.\n\n2. (Revogado.)\n\n3. (Revogado.)\n\n4. Ainda para o referido efeito, a sociedade fica obrigada, quanto aos produtos da sua refinação correspondentes às participações dos sócios não compreendidos nos números precedentes, a vender as quantidades que o Governo defina e aos adquirentes que ele designe.",
       "alterador": 2
     }
   ],
   "removidos": [],
   "titulos": [],
-  "nao_aplicavel": "DL 39/72, art. 3.º: fixa em trinta dias, a contar da sua entrada em vigor, o prazo da parte final do artigo 1.º e a contagem dos demais prazos; não dá nova redação ao artigo 1.º (alteração não textual), pelo que o texto do artigo 1.º não foi mudado. DL 39/72, art. 2.º: dispensa de parecer, sem alteração textual.",
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, art. 3.º (prazo da parte final do art. 1.º passa a ser de trinta dias a contar da entrada em vigor do DL 39/72, e contagem dos demais prazos): não textual — não dá nova redação ao art. 1.º; fixa o prazo e o seu início fora do texto.",
   "instrucoes": [
-    "DL 39/72 art. 1.º: nova redação dos arts. 3.º, 4.º, 5.º, 6.º, 7.º e 13.º; aplicada",
-    "DL 39/72 art. 2.º: dispensa de parecer na emissão de ações; não textual",
-    "DL 39/72 art. 3.º: prazo do art. 1.º fixado em trinta dias sem nova redação; nao_aplicavel (reparo verificado: não é alteração textual)",
-    "DL 536/80 arts. 1.º-2.º: regulam o exercício da faculdade do n.º 4 do art. 16.º; não textuais",
-    "DL 536/80 art. 3.º: declara revogados os n.os 2 e 3 do art. 16.º; aplicada"
+    "Alterador 1, art. 1.º: nova redação dos arts. 3.º, 4.º, 5.º, 6.º, 7.º e 13.º — substituídos por inteiro.",
+    "Alterador 1, art. 2.º: dispensa de parecer na emissão de acções — sem efeito no texto.",
+    "Alterador 1, art. 3.º: prazo de trinta dias para o art. 1.º — nao_aplicavel (não textual).",
+    "Alterador 2, arts. 1.º e 2.º: regime das autorizações excepcionais ao abrigo do n.º 4 do art. 16.º — sem efeito no texto.",
+    "Alterador 2, art. 3.º: consideram-se revogados os n.os 2 e 3 do art. 16.º — aplicado («(Revogado.)»)."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 121,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

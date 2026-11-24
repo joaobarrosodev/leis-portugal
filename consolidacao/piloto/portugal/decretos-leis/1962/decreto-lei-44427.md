@@ -3,7 +3,8 @@ id: pt:dre:164589:por
 title: Decreto-Lei n.º 44427
 original: data/portugal/decretos-leis/1962/decreto-lei-44427.md
 consolidacao:
-  metodo: piloto da fase 2 (consolidacao/consolidar.py), sem valor oficial
+  metodo: piloto da fase 2 (consolidacao/consolidar.py e, pelo LLM, consolidacao/juntar.py),
+    sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
   - id: pt:dre:357279:por
@@ -35,9 +36,11 @@ Compete ao Ministro do Interior, com a audiência dos Ministérios interessados,
 
 ###### Artigo 3.º
 
-(Revogado.)
+Considera-se emigração a saída do País de indivíduos de nacionalidade portuguesa, originária ou adquirida, para se estabelecerem definitiva ou temporàriamente no estrangeiro, salvo nos casos exceptuados por lei.
 
 > Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 438/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/438-1988-357279), publicado em 1988-11-29.
+
+> Alterado pelo/a [Decreto-Lei n.º 438/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/438-1988-357279), publicado em 1988-11-29.
 
 ###### Artigo 4.º
 
@@ -72,6 +75,8 @@ Os representantes diplomáticos e consulares procurarão fazer respeitar os dire
 ###### Artigo 9.º
 
 Ficam revogados: o Decreto com força de lei n.º 5624, de 10 de Maio de 1919, com excepção do artigo 27.º, o [Decreto n.º 5886](https://diariodarepublica.pt/dr/detalhe/decreto/5886-1919-364298), de 19 de Junho de 1919, com excepção do artigo 68.º, o [Decreto n.º 34330](https://diariodarepublica.pt/dr/detalhe/decreto/34330-1944-568709), de 27 de Dezembro de 1944, o [Decreto-Lei n.º 36199](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36199-1947-414782), de 29 de Março de 1947, e o artigo 30.º do [Decreto n.º 39794](https://diariodarepublica.pt/dr/detalhe/decreto/39794-1954-639157), de 28 de Agosto de 1954.
+
+> Alterado pelo/a [Decreto-Lei n.º 438/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/438-1988-357279), publicado em 1988-11-29.
 
 Publique-se e cumpra-se como nele se contém.
 

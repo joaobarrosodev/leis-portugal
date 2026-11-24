@@ -1,12 +1,25 @@
 {
   "id": "pt:dre:379709:por",
-  "artigos": [],
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "Os impressos dos modelos referidos no artigo anterior apresentam as seguintes cores:\n\na) Bilhete de identidade de cidadão nacional: papel branco, fundo de impressão cor creme e impressão a castanho-avermelhado;\n\nb) (Revogada.)\n\nc) Bilhete de identidade de cidadão brasileiro, ao abrigo da Convenção Luso-Brasileira: papel branco, fundo de impressão cor creme e impressão a preto.",
+      "alterador": 1
+    }
+  ],
   "removidos": [],
-  "nao_aplicavel": "DL 4/2001, art. 162.º, alínea g): revoga os artigos 1.º e 2.º só na parte em que se referem ao bilhete de identidade de cidadão estrangeiro; revogação parcial não textual (no artigo 1.º a referência está dentro de uma frase), não aplicada ao texto.",
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, revogação do artigo 1.º na parte em que se refere ao bilhete de identidade de cidadão estrangeiro: alvo incerto: a referência está no meio de uma frase única, sem unidade autónoma que possa ficar «(Revogado.)»; o anexo II (modelo do bilhete de cidadão estrangeiro) só existe em imagem e a instrução não o nomeia\nAlterador 2, a mesma revogação (artigo 162.º, alínea g), repetida na republicação do Decreto-Lei n.º 244/98): alvo incerto: pelo mesmo motivo; a alínea b) do artigo 2.º já fica revogada pelo alterador 1",
   "instrucoes": [
-    "DL 4/2001, art. 162.º, g): revogação parcial dos artigos 1.º e 2.º na parte relativa ao BI de cidadão estrangeiro; não aplicada por não ser uma alteração textual delimitada."
+    "Alterador 1, art. 162.º, g): revoga os arts. 1.º e 2.º na parte relativa ao bilhete de cidadão estrangeiro: alínea b) do art. 2.º revogada; art. 1.º em nao_aplicavel",
+    "Alterador 2, art. 162.º, g): mesma instrução, sem efeito adicional"
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 121,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

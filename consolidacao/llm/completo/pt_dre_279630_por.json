@@ -1,14 +1,18 @@
 {
   "id": "pt:dre:279630:por",
   "artigos": [],
-  "removidos": [],
-  "nao_aplicavel": "Portaria n.º 1038/80, n.º 3.º, substitui o quadro de pessoal anexo ao Decreto Regulamentar n.º 85/77 pelo quadro III, que só vem em imagem; não há texto a aplicar. Os n.os 1.º e 2.º respeitam a outros diplomas.",
+  "nao_aplicavel": "Alterador 1, republicação do quadro do pessoal do Núcleo de Informática (anexo): só em imagem (o quadro vem em imagem, no texto atual dentro do corpo do art. 9.º, sem título de anexo)\nAlterador 2, n.º 3.º (o quadro de pessoal anexo é substituído pelo quadro III da portaria): só em imagem (quadro III em imagem e sem título de anexo no texto atual)\nAlterador 2, n.os 1.º e 2.º (quadros anexos aos Decretos Regulamentares n.os 83/77 e 84/77): outro diploma",
   "instrucoes": [
-    "N.º 3.º substitui o mapa anexo (imagem): não aplicado.",
-    "N.os 1.º e 2.º (Decretos Regulamentares 83/77 e 84/77): ignorados.",
-    "N.os 4.º a 8.º: disposições próprias da portaria, sem alteração textual."
+    "Alterador 1 republica o quadro anexo (imagem): não aplicado (sem título de anexo).",
+    "Alterador 2, n.º 3.º: substitui o quadro anexo pelo quadro III (imagem): não aplicado; n.os 1.º e 2.º: outros diplomas; n.os 4.º a 8.º: normas próprias."
   ],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 121,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

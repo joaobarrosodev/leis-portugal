@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/09/220a00/44964501.pdf)",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/09/220a00/44964501.pdf)",
+    "depois": "## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/09/220a00/44964501.pdf)\n\nEstúdios e escritórios\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/10/252a02/00080009.pdf)\n\nCentros emissores - A)\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/09/216a00/50445049.pdf)\n\n> Alterado pelo/a [Decreto-Lei n.º 241/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/241-1997-652875), publicado em 1997-09-18.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:234113:por",
+    "alterador": "pt:dre:652875:por"
+  }
+]

@@ -17,8 +17,8 @@
   "insercoes": [],
   "nao_aplicavel": null,
   "instrucoes": [
-    "Decreto-Lei 244/75, art. 1.º: rectifica a redação do artigo 1.º (unidade {{13}}).",
-    "Decreto-Lei 244/75, art. 1.º: rectifica a redação do art. 4.º (unidade {{17}}); o «...» mantém os artigos 2.º e 3.º."
+    "Alterador 1, art. 1.º: retifica a redação do art. 1.º (unidade 13) e do art. 4.º (unidade 17); o «...» entre eles deixa os arts. 2.º e 3.º como estão: aplicado.",
+    "Alterador 1, art. 2.º: efeitos desde a entrada em vigor do original (não textual)."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

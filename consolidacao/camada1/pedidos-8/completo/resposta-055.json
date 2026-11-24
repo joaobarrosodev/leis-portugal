@@ -1,0 +1,22 @@
+[
+ {
+  "id": "pt:dre:616429:por",
+  "artigos": [
+   {
+    "chave": "3.º",
+    "epigrafe": "",
+    "texto": "(Revogado.)",
+    "alterador": 2
+   }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, alteração do mapa anexo na parte relativa à Direcção-Geral do Turismo: só em imagem — o mapa está só em imagem dentro do corpo do art. 7.º, sem título de anexo no texto atual.\nAlterador 2, mapa VIII, revogação do DR 18/91 «com excepção da parte relativa à categoria de subdirector das escolas de hotelaria e turismo»: alvo incerto — a parte ressalvada está no mapa (só em imagem) e os arts. 1.º, 2.º, 4.º, 5.º, 6.º e 7.º, que enquadram o mapa e valem também para essa categoria, não se podem separar dela com segurança; aplicada só ao art. 3.º (fiscal da Bolsa de Mercadorias de Lisboa), que não respeita a essa categoria.",
+  "instrucoes": [
+   "Alterador 1, art. 1.º: altera o mapa anexo (Direcção-Geral do Turismo) por mapa em imagem; sem título de anexo — nao_aplicavel.",
+   "Alterador 2, mapa VIII: revoga o DR 18/91 salvo a parte relativa à categoria de subdirector das escolas de hotelaria e turismo; revogado o art. 3.º, o resto em nao_aplicavel.",
+   "Alterador 3: retifica o mapa VIII do DL 121/2008 (outra entrada); a linha do DR 18/91 fica igual — sem efeito no texto."
+  ]
+ }
+]

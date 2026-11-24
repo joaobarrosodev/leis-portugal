@@ -5,35 +5,37 @@
       "de": 41,
       "ate": 55,
       "texto": "Art. 2.º - (Revogado.)",
-      "alterador": 1
+      "alterador": 2
     },
     {
       "de": 56,
       "ate": 56,
       "texto": "Art. 3.º - (Revogado.)",
-      "alterador": 1
+      "alterador": 2
     },
     {
       "de": 57,
       "ate": 57,
       "texto": "Art. 4.º - (Revogado.)",
-      "alterador": 1
+      "alterador": 2
     },
     {
       "de": 58,
       "ate": 58,
       "texto": "Art. 5.º - (Revogado.)",
-      "alterador": 1
+      "alterador": 2
     }
   ],
   "insercoes": [],
-  "nao_aplicavel": null,
+  "nao_aplicavel": "Alterador 1, art. 45.º, n.º 1, alínea e) (revoga o Decreto-Lei n.º 126/83 «em tudo o que neles for incompatível» com o Decreto-Lei n.º 361/89): revogação condicional: na parte em que contrarie, e com eficácia adiada para os decretos regulamentares do art. 29.º\nAlterador 2, art. 24.º, n.º 1, alínea a) (revoga o Decreto-Lei n.º 211/81, exceto os arts. 5.º, 6.º, 7.º e 29.º e o capítulo III, com as alterações introduzidas pelo art. 1.º do Decreto-Lei n.º 126/83): outro diploma: os artigos do Decreto-Lei n.º 211/81 a que o art. 1.º do original deu nova redação são desse diploma; o art. 1.º do original não é revogado («os restantes artigos» são os arts. 2.º a 5.º)",
   "instrucoes": [
-    "Alterador 1 (DL 141/93), art. 24.º, n.º 1, a): revoga o DL 211/81 (outro diploma, ignorado) e 'os restantes artigos deste último diploma', isto é, os artigos do DL 126/83 além do 1.º: arts. 2.º a 5.º marcados como revogados. O art. 1.º mantém-se. O mapa anexo (só imagem) não foi tocado."
+    "Alterador 1 (DL 361/89), art. 45.º: revogação do original em tudo o que for incompatível — revogação condicional, nao_aplicavel",
+    "Alterador 2 (DL 141/93), art. 24.º, n.º 1, a): revoga o DL 211/81 (com exceções e com as alterações do art. 1.º do original) — outro diploma, nao_aplicavel; e revoga «os restantes artigos» do original — arts. 2.º, 3.º, 4.º e 5.º com «Art. N.º - (Revogado.)», com o prefixo «Art.» do texto atual; o art. 1.º fica"
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",
-  "problemas": [
+  "problemas": [],
+  "numeracao_aceite": [
     "substituição 41-55: parágrafo que não está no alterador nem no original: Art. 2.º - (Revogado.)",
     "substituição 56-56: parágrafo que não está no alterador nem no original: Art. 3.º - (Revogado.)",
     "substituição 57-57: parágrafo que não está no alterador nem no original: Art. 4.º - (Revogado.)",

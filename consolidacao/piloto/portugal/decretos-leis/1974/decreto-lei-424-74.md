@@ -66,8 +66,6 @@ Taxa de 20$00 sobre cada charuto cujo preço unitário de venda ao público seja
 
 Taxa de 30$00 sobre cada charuto cujo preço unitário de venda ao público seja superior a 40$00.
 
-4. Os produtos a que se refere o número anterior, quando importados dos países membros da Associação Europeia de Comércio Livre para o território metropolitano, ficam isentos da taxa para o Fundo de Socorro Social.
-
 > Alterado pelo/a [Decreto-Lei n.º 713/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/713-1975-301638), publicado em 1975-12-19.
 
 ###### Artigo 3.º

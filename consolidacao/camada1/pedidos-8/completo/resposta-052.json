@@ -1,0 +1,22 @@
+[
+ {
+  "id": "pt:dre:566595:por",
+  "artigos": [
+   {
+    "chave": "4.º",
+    "epigrafe": "Pessoal",
+    "texto": "1 - O pessoal docente e não docente necessário ao funcionamento da ESTIG será recrutado ao abrigo das disposições legais aplicáveis sobre instrumentos de mobilidade entre funcionários ou agentes de serviços e organismos públicos, em geral, e do Instituto Politécnico de Castelo Branco, em particular, não abrindo, no entanto, vaga no lugar de origem.\n\n2 - Sem prejuízo do disposto no número anterior, o pessoal, docente e não docente, que irá prestar serviço na ESTIG poderá ainda ser afectado com recurso a um dos mecanismos seguintes:\n\na) Celebração de protocolos com outros estabelecimentos do Instituto Politécnico de Castelo Branco ou com outras instituições públicas;\n\nb) Contratação em regime de contrato de trabalho a termo certo, nos termos da lei aplicável à Administração Pública.\n\n3 - Poderão ainda prestar serviço na ESTIG professores, gestores e consultores, nacionais ou estrangeiros, com sólida experiência profissional e capacidade técnica e pedagógica, contratados por entidades privadas para desempenhar funções de docência ou outras, desde que expressamente aceites pela Escola.\n\nReceitas\n\n1 - Constituem receitas da ESTIG:\n\na) As provenientes do pagamento de propinas que lhe sejam afectas pelo Instituto;\n\nb) As cobradas pela prestação de serviços;\n\nc) Os subsídios, subvenções, comparticipações, doações, heranças e legados;\n\nd) O produto da venda de bens ou de publicações;\n\ne) Os juros de contas de depósito.\n\n2 - (Revogado.)\n\n3 - (Revogado.)",
+    "alterador": 1
+   }
+  ],
+  "nao_aplicavel": "Alterador 1, art. 9.º, n.º 1 (à ESTIG aplica-se a lei geral do ensino superior politécnico em regime de instalação): não textual\nAlterador 1, art. 9.º, n.º 2, na parte dos n.os 2 e 3 do art. 5.º dos Decretos-Leis n.os 395/90 e 40/91: outro diploma\nAlterador 2, art. 6.º (é extinta a Escola Superior de Tecnologia e Gestão de Castelo Branco, criada pelo original): não textual (extingue a escola, mas não revoga nem dá nova redação ao texto do original)",
+  "instrucoes": [
+   "Alterador 1, art. 9.º, n.º 2: revoga os n.os 2 e 3 do art. 5.º (no texto atual, o art. 5.º «Receitas» vem dentro do corpo da chave 4.º, sem título): aplicado como «2 - (Revogado.)» e «3 - (Revogado.)»; o resto da chave 4.º fica letra a letra.",
+   "Alterador 1, art. 9.º, n.º 2, partes sobre os Decretos-Leis n.os 395/90 e 40/91: outros diplomas.",
+   "Alterador 2: cria escolas e extingue a ESTIG (não textual)."
+  ],
+  "removidos": [],
+  "titulos": [],
+  "anexos": []
+ }
+]

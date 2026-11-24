@@ -32,13 +32,17 @@
       "alterador": 1
     }
   ],
-  "removidos": [],
-  "titulos": [],
   "nao_aplicavel": null,
   "instrucoes": [
-    "DL 241/75, artigo único: revoga todo o DL 389/70; artigos 1.º a 5.º ficam '(Revogado.)'. A ressalva de manutenção em vigor para os alunos que então frequentavam os cursos é um regime transitório, não uma revogação condicional ('na parte em que contrariem') nem adiada para facto futuro, pelo que a revogação se aplica ao texto. No 5.º mantêm-se as linhas finais de aprovação e promulgação."
+    "Alterador 1 (DL 241/75, artigo único) revoga o DL 389/70, ressalvando a aplicação aos alunos que então frequentavam os cursos (situação transitória já esgotada): aplicado artigo a artigo como (Revogado.), mantendo as fórmulas finais a seguir ao art. 5.º."
   ],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 121,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

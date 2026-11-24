@@ -1,15 +1,18 @@
 {
   "id": "pt:dre:177853:por",
   "artigos": [],
+  "nao_aplicavel": "Alterador 1, art. 1.º (nova redação do n.º 3 do art. 31.º e dos n.os 10, 13 e 15 do art. 38.º do Código da Estrada): outro diploma (altera o Código da Estrada, não o texto deste decreto regulamentar)\nAlterador 1, art. 3.º (revoga o art. 1.º do original na parte dos arts. 31.º e 38.º do Código da Estrada): efeito adiado (pelo art. 4.º, o diploma só entra em vigor seis meses após a publicação dos despachos do director-geral de Viação nele previstos, que não constam do pedido)",
+  "instrucoes": [
+    "Alterador 1, art. 1.º: altera o Código da Estrada (outro diploma): não aplicado.",
+    "Alterador 1, art. 3.º: revogação parcial do art. 1.º (chaves 31.º e 38.º), com entrada em vigor dependente de despachos futuros (art. 4.º): não aplicada; os arts. 31.º e 38.º ficam como estão."
+  ],
   "removidos": [],
   "titulos": [],
-  "nao_aplicavel": "Art. 3.º do DR 59/86 revoga o art. 1.º do DR 69/85 na parte referente aos artigos 31.º e 38.º do Código da Estrada, mas o art. 4.º adia a entrada em vigor do diploma para seis meses após a publicação de despachos do director-geral de Viação (facto futuro, não verificável no pedido), repondo até lá a redação anterior; revogação de efeito adiado, não aplicada. O art. 1.º do DR 59/86 altera diretamente o Código da Estrada (outro diploma), não o original.",
-  "instrucoes": [
-    "Art. 1.º DR 59/86: nova redação dos arts. 31.º e 38.º do Código da Estrada (outro diploma) - ignorado",
-    "Art. 3.º: revogação parcial do art. 1.º do DR 69/85 quanto aos arts. 31.º e 38.º do CE - efeito adiado pelo art. 4.º (despachos a publicar); não aplicada, em nao_aplicavel",
-    "Art. 2.º e 4.º: sem alteração textual ao original"
-  ],
+  "anexos": [],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 121,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

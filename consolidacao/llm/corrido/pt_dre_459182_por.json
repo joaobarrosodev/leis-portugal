@@ -99,16 +99,16 @@
       "alterador": 2
     }
   ],
-  "nao_aplicavel": "Alterador 3 (DPR 11/2005) só ratifica as emendas de 2000 (reestruturação ITSO) sem publicar o texto, logo não há redação a aplicar; Alterador 4 (RAR 87/2010) altera o artigo XII, alínea c), subalínea ii), «Frequency Assignments/Consignações de frequências», do Acordo reestruturado, que não existe no texto atual (o artigo XII vigente é «Transitional management and secretary general»).",
+  "nao_aplicavel": "Alterador 1, alterações aos artigos 6 e 22 do Acordo de Exploração: outro diploma (Acordo de Exploração aprovado pelo Decreto-Lei n.º 169/72, não pelo original).\nAlterador 2, alterações aos artigos 6, 14, 15 e 22 do Acordo de Exploração: outro diploma (Acordo de Exploração aprovado pelo Decreto-Lei n.º 169/72, não pelo original).\nAlterador 3, ratificação das emendas ao Acordo adoptadas pela 25.ª Assembleia de Partes (2000): sem texto (o decreto só ratifica e não traz o texto das emendas, aprovadas pela Resolução da AR n.º 7/2005).\nAlterador 4, emenda à subalínea ii) da alínea c) do artigo XII do Acordo ITSO («Frequency Assignments»/«Consignações de frequências»): alvo incerto (o artigo XII do texto atual é «Transitional management and secretary general»/«Gerência transitória e secretário-geral», sem alínea c) ii) sobre consignações de frequências; esse texto vem da reestruturação de 2000, cujo texto não está no pedido).",
   "instrucoes": [
-    "Alt. 1 (Decreto 17/97): nova redação do artigo XVII f) do Acordo — substituídas as unidades 287 (inglês) e 944 (português).",
-    "Alt. 1: alterações aos artigos 6 e 22 do Acordo de Exploração — outro diploma (DL 169/72), ignoradas.",
-    "Alt. 2 (Decreto 43/97): artigo I g), II b), VIII e) — substituídas as unidades 29/685, 40/696, 128/785.",
-    "Alt. 2: artigo IX a) — inglês dá nova redação de i) a iv): substituídas 134-136 com i)-iv); português acrescenta iv): inserção depois de 793.",
-    "Alt. 2: artigo XVI d), e), f), g), k), n) — substituídas 263-266, 270, 277 (inglês) e 920-923, 927, 934 (português); alíneas '(Unchanged.)' mantidas.",
-    "Alt. 2: alterações aos artigos 6, 14, 15 e 22 do Acordo de Exploração — outro diploma, ignoradas.",
-    "Alt. 3 (DPR 11/2005): ratificação das emendas de 2000 sem texto — nao_aplicavel.",
-    "Alt. 4 (RAR 87/2010): artigo XII c) ii) do Acordo ITSO — alvo inexistente no texto atual — nao_aplicavel."
+    "Alterador 1: nova redação da alínea f) do artigo XVII do Acordo (textos inglês e português): substituídas as unidades 287 e 944.",
+    "Alterador 1: alterações aos artigos 6 e 22 do Acordo de Exploração: outro diploma, nao_aplicavel.",
+    "Alterador 2: nova redação da alínea g) do artigo I (unidades 29 e 685), b) do artigo II (40 e 696) e e) do artigo VIII (128 e 785).",
+    "Alterador 2: artigo IX a): no texto inglês o alterador dá as subalíneas i) a iv), substituídas as unidades 134-136 pelas quatro; no português é aditada a subalínea iv) a seguir à unidade 793.",
+    "Alterador 2: nova redação das alíneas d), e), f), g), k) e n) do artigo XVI (inglês: 263-266, 270, 277; português: 920-923, 927, 934); as marcadas (Unchanged.) ficam.",
+    "Alterador 2: alterações aos artigos 6, 14, 15 e 22 do Acordo de Exploração: outro diploma, nao_aplicavel.",
+    "Alterador 3: ratifica emendas da 25.ª Assembleia de Partes sem trazer o texto: nao_aplicavel (sem texto).",
+    "Alterador 4: emenda ao artigo XII c) ii) do Acordo ITSO: alvo inexistente no texto atual, nao_aplicavel."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

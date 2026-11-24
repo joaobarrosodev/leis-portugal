@@ -1,0 +1,23 @@
+[
+ {
+  "id": "pt:dre:390988:por",
+  "artigos": [
+   {
+    "chave": "10.º",
+    "epigrafe": "",
+    "texto": "O provimento dos lugares de dactilógrafo das secretarias dos governos civis será feito precedendo concurso de provas práticas, a que poderão ser admitidos indivíduos, de idade não inferior a 18 anos nem superior a 35, habilitados com o 1.º ciclo dos liceus ou equivalente.\n\n§ 1.º (Revogado.)\n\n§ 2.º Em tudo quanto não fica especialmente regulado, aplicar-se-ão aos dactilógrafos as disposições do Código Administrativo respeitantes aos funcionários de carteira dos quadros privativos das secretarias dos governos civis.",
+    "alterador": 1
+   }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 2, Decreto-Lei n.º 30/70 (nova redação dos artigos 4.º e 5.º, segundo a triagem): sem texto (o pedido não traz o texto do alterador).\nAlterador 3, nova redação dos artigos 405.º e 406.º e da tabela A do Código Administrativo e da tabela do Estatuto dos Distritos Autónomos: outro diploma.\nAlterador 4, nova redação dos artigos 404.º e do § 3.º do artigo 406.º do Código Administrativo (e aditamento do § 5.º): outro diploma (o artigo 20.º do original só deu redação ao § 3.º do artigo 406.º do Código; não se altera o artigo 20.º).",
+  "instrucoes": [
+   "Alterador 1, art. 7.º: revoga o § 1.º do artigo 10.º; o programa tinha revogado o artigo inteiro: reposto o artigo 10.º com o § 1.º (Revogado.).",
+   "Alterador 1, arts. 5.º e 8.º: alteram o Código Administrativo / regra transitória: não são do original.",
+   "Alterador 2: texto ausente no pedido: nao_aplicavel.",
+   "Alterador 3 e 4: alteram o Código Administrativo e o Estatuto dos Distritos Autónomos: outro diploma, nao_aplicavel."
+  ]
+ }
+]

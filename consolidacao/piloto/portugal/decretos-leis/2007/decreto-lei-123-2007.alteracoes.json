@@ -180,5 +180,19 @@
     "unidade": [],
     "diploma": "pt:dre:521000:por",
     "alterador": "pt:dre:179290:por"
+  },
+  {
+    "artigo": "ANEXO — (quadro a que se refere o artigo 8.º)",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "## ANEXO — (quadro a que se refere o artigo 8.º)\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/04/08200/26182621.pdf)",
+    "depois": "## ANEXO — (quadro a que se refere o artigo 8.º)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 163/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-2012-179290), publicado em 2012-07-31.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:521000:por",
+    "alterador": "pt:dre:179290:por"
   }
 ]

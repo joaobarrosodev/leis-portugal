@@ -1,0 +1,54 @@
+[
+ {
+  "id": "pt:dre:616624:por",
+  "artigos": [
+   {
+    "chave": "1.º",
+    "epigrafe": "",
+    "texto": "(Revogado.)",
+    "alterador": 4
+   },
+   {
+    "chave": "2.º",
+    "epigrafe": "",
+    "texto": "(Revogado.)",
+    "alterador": 4
+   },
+   {
+    "chave": "3.º",
+    "epigrafe": "",
+    "texto": "(Revogado.)",
+    "alterador": 4
+   },
+   {
+    "chave": "4.º",
+    "epigrafe": "",
+    "texto": "(Revogado.)",
+    "alterador": 4
+   },
+   {
+    "chave": "6.º",
+    "epigrafe": "",
+    "texto": "(Revogado.)",
+    "alterador": 4
+   },
+   {
+    "chave": "7.º",
+    "epigrafe": "",
+    "texto": "(Revogado.)",
+    "alterador": 4
+   }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, artigo único, aditamento do mapa do Instituto Nacional do Ambiente ao mapa anexo: só em imagem — o mapa novo só vem em imagem e o mapa anexo não tem título de anexo no texto atual\nAlterador 2, art. 7.º, revogação das disposições do DR 21/91 «no que contrarie o disposto no presente diploma»: revogação condicional\nAlterador 3, art. 1.º, alteração das escalas salariais das carreiras do Ministério do Planeamento pelo mapa anexo: só em imagem — o mapa só vem em imagem e não há título de anexo no texto atual\nAlterador 3, art. 4.º, revogação do DR 21/91 «na parte correspondente às carreiras objecto do presente diploma»: alvo incerto — as carreiras só se identificam nos mapas em imagem; nenhum artigo é só delas\nAlterador 5, retificação do mapa VIII do DL 121/2008 (supressão da entrada da Portaria n.º 358/2002): outro diploma — a retificação não toca na entrada do DR 21/91, que o mapa VIII republicado mantém",
+  "instrucoes": [
+   "Alterador 1 (DR 49/91): adita um mapa ao mapa anexo, só em imagem (nao_aplicavel)",
+   "Alterador 2 (DL 143/95), art. 7.º: revogação «no que contrarie» (nao_aplicavel, revogação condicional)",
+   "Alterador 3 (DR 15/2000): novo mapa só em imagem e revogação parcial pelas carreiras do mapa (nao_aplicavel)",
+   "Alterador 4 (DL 121/2008), mapa VIII (texto no mapa VIII republicado pelo alterador 5): revoga o DR 21/91 «com excepção das disposições relativas às categorias subsistentes e de marinheiro»; a revogação já está em vigor e aplica-se artigo a artigo: arts. 1.º a 4.º, 6.º e 7.º (Revogado.); o art. 5.º (categoria de operário do IICT, a extinguir quando vagar, ou seja, uma categoria subsistente) fica, por estar na ressalva",
+   "Alterador 5 (Declaração de Rectificação 49/2008): retifica o mapa VIII do DL 121/2008 noutra entrada (nao_aplicavel, outro diploma)"
+  ]
+ }
+]

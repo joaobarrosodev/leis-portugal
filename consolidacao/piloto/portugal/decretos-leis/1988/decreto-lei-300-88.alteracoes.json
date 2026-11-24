@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "2.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 2.º\n\nOs impressos dos modelos referidos no artigo anterior apresentam as seguintes cores:\n\na) Bilhete de identidade de cidadão nacional: papel branco, fundo de impressão cor creme e impressão a castanho-avermelhado;\n\nb) Bilhete de identidade de cidadão estrangeiro: papel azul-claro, fundo de impressão azul-escuro e impressão a preto;\n\nc) Bilhete de identidade de cidadão brasileiro, ao abrigo da Convenção Luso-Brasileira: papel branco, fundo de impressão cor creme e impressão a preto.",
+    "depois": "###### Artigo 2.º\n\nOs impressos dos modelos referidos no artigo anterior apresentam as seguintes cores:\n\na) Bilhete de identidade de cidadão nacional: papel branco, fundo de impressão cor creme e impressão a castanho-avermelhado;\n\nb) (Revogada.)\n\nc) Bilhete de identidade de cidadão brasileiro, ao abrigo da Convenção Luso-Brasileira: papel branco, fundo de impressão cor creme e impressão a preto.\n\n> Alterado pelo/a [Decreto-Lei n.º 244/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/244-1998-434982), publicado em 1998-08-08.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:379709:por",
+    "alterador": "pt:dre:434982:por"
+  }
+]

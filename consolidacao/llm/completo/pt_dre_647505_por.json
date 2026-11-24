@@ -1,12 +1,73 @@
 {
   "id": "pt:dre:647505:por",
-  "artigos": [],
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "Âmbito",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "2.º",
+      "epigrafe": "Financiamento",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "3.º",
+      "epigrafe": "Cobrança das taxas",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "4.º",
+      "epigrafe": "Regime alternativo",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "5.º",
+      "epigrafe": "Controlo",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "6.º",
+      "epigrafe": "Receitas",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "7.º",
+      "epigrafe": "Regime sancionatório",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "8.º",
+      "epigrafe": "Entrada em vigor",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    }
+  ],
   "removidos": [],
-  "nao_aplicavel": null,
+  "titulos": [],
+  "anexos": [
+    {
+      "titulo": "## ANEXO N.º 2",
+      "texto": "1 - Estabelecimentos de abate que promovam a recolha, transformação e destruição dos subprodutos, com excepção dos MRE, gerados exclusivamente no próprio estabelecimento:\n\n[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/09/222a00/65356536.pdf)](https://files.diariodarepublica.pt/1s/2002/09/222a00/65356536.pdf)](https://files.diariodarepublica.pt/1s/2002/09/222a00/65356536.pdf)\n\n2 - (Revogado.)",
+      "alterador": 2
+    }
+  ],
+  "nao_aplicavel": "Alterador 1, retificação do sumário («distribuição» passa a «destruição»): alvo incerto — o sumário não está no texto atual; o art. 1.º já diz «destruição».\nAlterador 2, art. 14.º, revogação do anexo n.º 1 e do n.º 1 do anexo n.º 2 (mantêm-se em vigor até à aprovação dos planos previstos no n.º 2 do art. 2.º do DL 244/2003): efeito adiado — a revogação depende da aprovação desses planos; ficam como estão.",
   "instrucoes": [
-    "Declaração de Rectificação 31-C/2002: rectifica o sumário do diploma ('distribuição' por 'destruição'), não o articulado — sem alteração aos artigos"
+    "Alterador 1: retifica o sumário — nao_aplicavel (sumário fora do texto).",
+    "Alterador 2, art. 14.º: revoga o DL 197/2002 (em vigor desde 2003), salvo o anexo n.º 1 e o n.º 1 do anexo n.º 2 — arts. 1.º a 8.º «(Revogado.)» e n.º 2 do anexo n.º 2 «2 - (Revogado.)»; as partes ressalvadas ficam (revogação adiada)."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 121,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

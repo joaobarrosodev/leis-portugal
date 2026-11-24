@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "2.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 2.º\n\nA reintegração poderá ser autorizada por despacho do Ministro da Saúde e Assistência, quando se verifiquem cumulativamente as seguintes condições:\n\n1.ª Haver vaga na categoria respectiva;\n\n2.ª Ter decorrido, pelo menos, um ano sobre a saída do serviço;\n\n3.ª Não haver pessoal concursado para a respectiva categoria, nem aguardando provimento, ao abrigo da parte final do § 1.º do artigo 14.º do [Decreto n.º 19478](https://diariodarepublica.pt/dr/detalhe/decreto/19478-1931-211983);\n\n4.ª Haver o requerente demonstrado, após a prestação de provas, que tem actualizados os conhecimentos necessários ao exercício das funções, sempre que o Ministro da Saúde e Assistência o julgar necessário;\n\n5.ª Resultar do deferimento conveniência para o serviço;\n\n6.ª Não haver no cadastro do requerente pena superior à de multa;\n\n7.ª Manter o requerente a robustez física indispensável ao exercício do cargo, comprovada nos termos da legislação em vigor;\n\n8.ª Não ter o requerente idade superior a 55 anos na data do deferimento da pretensão.",
+    "depois": "###### Artigo 2.º\n\nA reintegração poderá ser autorizada por despacho do Ministro da Saúde e Assistência, quando se verifiquem cumulativamente as seguintes condições:\n\n1.ª Haver vaga na categoria respectiva;\n\n2.ª Ter decorrido, pelo menos, um ano sobre a saída do serviço;\n\n3.ª Não haver pessoal concursado para a respectiva categoria, nem aguardando provimento, ao abrigo da parte final do § 1.º do artigo 14.º do [Decreto n.º 19478](https://diariodarepublica.pt/dr/detalhe/decreto/19478-1931-211983);\n\n4.ª Haver o requerente demonstrado, após a prestação de provas, que tem actualizados os conhecimentos necessários ao exercício das funções, sempre que o Ministro da Saúde e Assistência o julgar necessário;\n\n5.ª Resultar do deferimento conveniência para o serviço;\n\n6.ª Não haver no cadastro do requerente pena superior à de multa;\n\n7.ª Manter o requerente a robustez física indispensável ao exercício do cargo, comprovada nos termos da legislação em vigor;\n\n8.ª (Revogada.)\n\n> Alterado pelo/a [Decreto-Lei n.º 7/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-1977-492675), publicado em 1977-01-05.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:535815:por",
+    "alterador": "pt:dre:492675:por"
+  }
+]

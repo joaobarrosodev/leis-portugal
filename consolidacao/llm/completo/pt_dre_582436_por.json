@@ -1,15 +1,17 @@
 {
   "id": "pt:dre:582436:por",
   "artigos": [],
-  "removidos": [],
-  "nao_aplicavel": "As três retificações (parte I, cap. 5, alíneas d) e e); parte III, cap. 3, quadro 'Objectivos de médio/longo prazo', OT-DH5; parte VI, aditamento após a alínea w)) incidem sobre o texto do Plano de Bacia Hidrográfica do Minho anexo, que não consta do texto atual (só o título 'PLANO DE BACIA HIDROGRÁFICA DO MINHO'); não há onde as aplicar com segurança.",
+  "nao_aplicavel": "Alterador 1, parte I, capítulo 5 («d) REN» passa a «d) Planos regionais de ordenamento florestal…» e «e) Reserva Ecológia Nacional…»): alvo incerto (o texto do capítulo não está no texto atual, que só traz o título «CAPÍTULO 5 — Articulação com o ordenamento do território»; não há «d) REN» onde aplicar)\nAlterador 1, parte III, capítulo 3, quadro «Objectivos de médio/longo prazo», OT-DH5: alvo incerto (o quadro e o texto do capítulo não estão no texto atual, só o título)\nAlterador 1, parte VI, aditamento no fim da alínea w), antes da tabela A («Sistemas de medida - …»): alvo incerto (a parte VI só tem o título no texto atual; não há alínea w) nem tabela A onde acrescentar)",
   "instrucoes": [
-    "Retificação parte I, cap. 5 ('d) REN' -> nova alínea d) PROF e e) REN): não aplicada, texto do plano ausente.",
-    "Retificação parte III, cap. 3, quadro, OT-DH5: não aplicada, quadro ausente.",
-    "Retificação parte VI, aditamento 'Sistemas de medida' após alínea w): não aplicada, texto ausente.",
-    "Artigos 1.º e 2.º do decreto regulamentar não são visados: sem alterações."
+    "Alterador 1 retifica o plano anexo (parte I, cap. 5; parte III, cap. 3; parte VI, al. w)): os textos visados não existem no texto atual (só os títulos das divisões): nada aplicado."
   ],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 121,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

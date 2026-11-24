@@ -1,0 +1,17 @@
+[
+ {
+  "id": "pt:dre:357556:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, art. 1.º, nova redação da base XIX do anexo: alvo incerto — as bases do anexo não estão no texto atual (o «Corpo do anexo» vem vazio e só há os títulos dos capítulos I a V), não há onde a pôr.\nAlterador 1, art. 2.º, revogação do n.º 2 do art. 2.º do DL 182/88: outro diploma.\nAlterador 2, art. 1.º, nova redação das bases II, IX, X, XIX e XXXII do anexo: alvo incerto — as bases não estão no texto atual (corpo do anexo vazio), e as bases II, IX, X e XXXII trazem «...» que remetem para um texto que não existe aqui.\nAlterador 2, art. 2.º, aditamento da base V-A ao anexo: alvo incerto — o anexo não tem as bases no texto atual (corpo vazio), não se sabe com segurança onde inserir nem com que chave.\nAlterador 2, art. 3.º, autorização para outorgar adenda ao contrato: não textual.",
+  "instrucoes": [
+   "Alterador 1, art. 1.º: nova redação da base XIX — nao_aplicavel (bases fora do texto atual).",
+   "Alterador 1, art. 2.º: revoga norma do DL 182/88 — outro diploma.",
+   "Alterador 2, art. 1.º: nova redação das bases II, IX, X, XIX e XXXII — nao_aplicavel (bases fora do texto atual).",
+   "Alterador 2, art. 2.º: adita a base V-A — nao_aplicavel (bases fora do texto atual).",
+   "Alterador 2, art. 3.º: adenda ao contrato — não textual. Os arts. 1.º a 7.º do decreto-lei não são alterados."
+  ]
+ }
+]

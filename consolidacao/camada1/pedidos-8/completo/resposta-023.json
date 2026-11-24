@@ -1,0 +1,20 @@
+[
+ {
+  "id": "pt:dre:281450:por",
+  "artigos": [
+   {
+    "chave": "7.º",
+    "epigrafe": "",
+    "texto": "O mapa n.º 5 exporá a conta geral da dívida fictícia, indicando por totais as somas do capital da dívida e do encargo anual de juros e amortizações, em cada uma das divisões seguintes:\n\nDivisão A - Títulos entregues pelo Tesouro em caução de empréstimos.\n\nDivisão B - Títulos existentes na posse real do Tesouro.\n\nDivisão C - Títulos na posse do Fundo de regularização da dívida pública.\n\nDivisão D - Títulos na posse do Fundo de renda vitalícia.\n\nDivisão E - Títulos existentes na posse de outras pessoas colectivas de direito público (dívida inscrita).",
+    "alterador": 1
+   }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+   "Alterador 1, artigo único: nova redação do art. 7.º (divisões A a E): o artigo inteiro é substituído pelo texto do alterador; a antiga divisão C não fica."
+  ],
+  "removidos": [],
+  "titulos": [],
+  "anexos": []
+ }
+]

@@ -82,13 +82,23 @@
   ],
   "removidos": [],
   "titulos": [],
-  "nao_aplicavel": "Alterador 1, art. 13.º, n.º 2: mantém em vigor os n.os 2 a 6 do artigo 9.º «até à revisão do cargo de consultor» — a revogação desses números fica adiada para um facto futuro e não se aplica ao texto (ficam com a redação atual). O n.º 3 do art. 13.º (remissões do n.º 2 do artigo 9.º consideram-se feitas para o artigo 10.º do DL 163/2012) não é alteração textual. O anexo (mapa a que se refere o artigo 8.º) só aparece como título de divisão, sem conteúdo no texto atual: a sua revogação não foi tratada.",
+  "anexos": [
+    {
+      "titulo": "## ANEXO — (quadro a que se refere o artigo 8.º)",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
   "instrucoes": [
-    "Alterador 1, art. 13.º, n.º 1: revoga o DL 123/2007 sem prejuízo dos números seguintes — artigos 1.º a 8.º e 10.º a 13.º ficam (Revogado.); no artigo 9.º, os n.os 1, 7 e 8 ficam revogados.",
-    "Alterador 1, art. 13.º, n.º 2: mantém em vigor os n.os 2 a 6 do artigo 9.º até à revisão do cargo de consultor — mantidos com o texto atual (revogação adiada, ver nao_aplicavel).",
-    "Alterador 1, art. 13.º, n.º 3: remissões do n.º 2 do artigo 9.º para o n.º 1 do artigo 10.º do DL 163/2012 — não textual, nada aplicado."
+    "Alterador 1, art. 13.º n.º 1: revoga o DL 123/2007 (em vigor desde 1/8/2012); aplicado artigo a artigo com «(Revogado.)», incluindo o anexo (mapa de pessoal dirigente).",
+    "Alterador 1, art. 13.º n.º 2: mantêm-se em vigor os n.os 2 a 6 do art. 9.º; os n.os 1, 7 e 8 do art. 9.º ficam revogados.",
+    "Alterador 1, art. 13.º n.º 3: remissões do n.º 2 do art. 9.º para o art. 10.º do DL 163/2012 — não altera o texto."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 121,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

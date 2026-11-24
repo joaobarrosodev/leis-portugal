@@ -1,0 +1,58 @@
+[
+  {
+    "artigo": "unidades 41-55",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Art. 2.º - 1 - A comissão de serviço dos directores e subdirectores escolares, bem como a dos delegados e subdelegados escolares prevista no [Decreto-Lei n.º 211/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1981-580164), suspende-se sempre que os mesmos tenham sido eleitos ou nomeados para:\n\na) Deputado à Assembleia da República;\n\nb) Membro das assembleias regionais;\n\nc) Funções governamentais;\n\nd) Governador civil;\n\ne) Presidente de câmara;\n\nf) Membro de comissão administrativa ou de vereador em regime de permanência;\n\ng) Chefe de gabinete ou de adjunto de membro do Governo ou de ministro da República para as regiões autónomas, bem como outros por lei a eles equiparados.\n\n2 - A suspensão referida nas alíneas e) e f) do número anterior abrange os mandatos que tenham cessado em virtude das últimas eleições para as autarquias locais, sendo os interessados recolocados nas respectivas categorias como supranumerários, no caso de, entretanto, se ter verificado o preenchimento do lugar.\n\n3 - A suspensão a que se refere o n.º 1 verificar-se-á enquanto durar o exercício do cargo ou funções, sendo as mesmas asseguradas:\n\na) De director escolar por um dos subdirectores escolares considerado como substituto legal do primeiro;\n\nb) De delegado por um subdelegado escolar considerado como substituto legal do primeiro.\n\n4 - Os lugares de subdirector escolar e de subdelegado escolar cujos titulares tenham suspendido a comissão nos termos do n.º 1 deste artigo podem ser preenchidos interinamente e enquanto durar o impedimento dos mesmos.\n\n5 - Os subdirectores escolares e subdelegados escolares mencionados respectivamente nas alíneas a) e b) do n.º 3 serão abonados como directores escolares e delegados escolares enquanto durar o impedimento dos respectivos titulares.\n\n6 - O período de suspensão conta, para todos os efeitos legais, como tempo de serviço prestado no cargo exercido em comissão de serviço.",
+    "depois": "Art. 2.º - (Revogado.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:309932:por",
+    "alterador": "pt:dre:665341:por"
+  },
+  {
+    "artigo": "unidades 56-56",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Art. 3.º Os encargos resultantes da criação de lugares para efeitos de afectação nos termos do disposto no [Decreto-Lei n.º 211/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1981-580164), consoante a redacção dada pelo presente diploma, serão suportados por verbas já inscritas no orçamento do Ministério da Educação, no cap. 12, div. 01, das direcções escolares, escolas primárias e postos escolares.",
+    "depois": "Art. 3.º - (Revogado.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:309932:por",
+    "alterador": "pt:dre:665341:por"
+  },
+  {
+    "artigo": "unidades 57-57",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Art. 4.º O mapa anexo ao [Decreto-Lei n.º 211/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1981-580164), de 13 de Julho, passa a ser o constante do presente diploma.",
+    "depois": "Art. 4.º - (Revogado.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:309932:por",
+    "alterador": "pt:dre:665341:por"
+  },
+  {
+    "artigo": "unidades 58-58",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Art. 5.º Este decreto-lei produz efeitos desde 1 de Janeiro de 1981.",
+    "depois": "Art. 5.º - (Revogado.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:309932:por",
+    "alterador": "pt:dre:665341:por"
+  }
+]

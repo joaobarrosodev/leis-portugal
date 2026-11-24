@@ -3,7 +3,8 @@ id: pt:dre:451862:por
 title: Decreto-Lei n.º 237/83
 original: data/portugal/decretos-leis/1983/decreto-lei-237-83.md
 consolidacao:
-  metodo: piloto da fase 2 (consolidacao/consolidar.py), sem valor oficial
+  metodo: piloto da fase 2 (consolidacao/consolidar.py e, pelo LLM, consolidacao/juntar.py),
+    sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
   - id: pt:dre:454502:por
@@ -163,21 +164,63 @@ Comissão Regional de Turismo da Serra do Marão.
 
 ###### Artigo 6.º
 
-(Revogado.)
+1 - Dentro dos limites do Parque Natural do Alvão são proibidos, sem parecer favorável da comissão instaladora ou do órgão directivo do Parque, logo que nomeado, os seguintes actos ou actividades:
 
-> Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 142/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2008-454502), publicado em 2008-07-24.
+a) A criação de novos núcleos populacionais;
+
+b) A construção, reconstrução, ampliação ou demolição de edifícios e outras construções de qualquer natureza;
+
+c) A abertura de novas vias de comunicação, a passagem de linhas eléctricas ou telefónicas e a abertura de valas para instalação de redes de água ou esgotos;
+
+d) A instalação de novas explorações agro-pecuárias, silvo-pastoris, industriais e mineiras ou a ampliação das já existentes;
+
+e) As alterações à configuração natural do terreno por meio de aterros, de escavações ou da exploração de minas ou de pedreiras a céu aberto;
+
+f) A abertura de fossas e o depósito de entulhos, de outros materiais e de lixo;
+
+g) O derrube de árvores singulares de grande interesse estético, paisagístico, histórico ou outro e de árvores em maciço, salvo os cortes autorizados pelos serviços florestais;
+
+h) A captação ou desvio de águas;
+
+i) Quaisquer intervenções nas áreas onde existam nascentes de água;
+
+j) A destruição do solo vivo e do coberto vegetal;
+
+l) A remoção ou a utilização de qualquer valor arqueológico;
+
+m) A remoção ou utilização de valores de interesse geológico ou geomorfológico únicos, raros ou interessantes;
+
+n) A remoção, a adulteração ou a utilização de valores culturais, artísticos ou de índole semelhante;
+
+o) A instalação de locais de campismo ou acampamento;
+
+p) A introdução, a circulação ou o estacionamento de pessoas, animais ou veículos com inobservância das proibições ou condicionamentos que vierem a ser estabelecidos em regulamento;
+
+q) A introdução de espécies de animais ou vegetais exóticas.
+
+2 - O parecer favorável a que se refere o número anterior não dispensa quaisquer outras autorizações ou licenças que forem devidas.
+
+3 - São nulas e de nenhum efeito quaisquer licenças ou autorizações dadas sem o parecer favorável referido no n.º 1.
+
+4 - Não carecem de autorização quaisquer trabalhos que digam respeito ao exercício da actividade agrícola, desde que estes não impliquem a destruição ou danificação do arvoredo, a alteração do relevo natural ou a destruição de construções.
 
 ###### Artigo 7.º
 
-(Revogado.)
-
-> Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 142/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2008-454502), publicado em 2008-07-24.
+A caça será regulamentada em colaboração com o serviço competente, atendendo ao espírito que preside à criação do Parque Natural.
 
 ###### Artigo 8.º
 
-(Revogado.)
+1 - As infracções ao disposto no n.º 1 do artigo 6.º, sem prejuízo de outras sanções aplicáveis, são punidas com as seguintes coimas:
 
-> Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 142/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2008-454502), publicado em 2008-07-24.
+a) De 50000$00 a 500000$00, as das alíneas a), b), c), d), e), l) e m);
+
+b) De 20000$00 a 200000$00, as das alíneas f), g), h) e n);
+
+c) De 5000$00 a 20000$00 as das alíneas j), o), p) e q).
+
+2 - Nas mesmas contra-ordenações será punida a negligência.
+
+3 - Acessoriamente poderão ser apreendidos os objectos utilizados na prática da infracção e os objectos dela resultantes.
 
 ###### Artigo 9.º
 
@@ -191,15 +234,15 @@ Comissão Regional de Turismo da Serra do Marão.
 
 ###### Artigo 10.º
 
-(Revogado.)
+1 - A competência em razão da matéria para o processamento das contra-ordenações caberá ao Ministério da Qualidade de Vida, competindo ao Ministro da Qualidade de Vida a aplicação das coimas.
 
-> Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 142/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2008-454502), publicado em 2008-07-24.
+2 - A competência territorial para o mesmo processamento caberá à comissão instaladora e de futuro ao director do Parque.
 
 ###### Artigo 11.º
 
-(Revogado.)
+1 - O policiamento e a fiscalização do disposto neste decreto-lei competem, nomeadamente, aos membros dos órgãos do Parque, aos funcionários do Ministério da Qualidade de Vida e das câmaras municipais da área, à Guarda Nacional Republicana, à Polícia Florestal e aos guarda-rios.
 
-> Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 142/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2008-454502), publicado em 2008-07-24.
+2 - Os respectivos autos devem ser dirigidos à comissão instaladora ou ao director do Parque, logo que nomeado, dentro do prazo de 30 dias.
 
 ###### Artigo 12.º
 

@@ -12,5 +12,61 @@
     "unidade": [],
     "diploma": "pt:dre:634950:por",
     "alterador": "pt:dre:67085601:por"
+  },
+  {
+    "artigo": "CAPÍTULO VI — Área de Serviços",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "### CAPÍTULO VI — Área de Serviços",
+    "depois": "### CAPÍTULO VI — Áreas de Serviço",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:634950:por",
+    "alterador": "pt:dre:70409923:por"
+  },
+  {
+    "artigo": "CAPÍTULO IX — Pagamentos a efectuar pelo Concedente",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "### CAPÍTULO IX — Pagamentos a efectuar pelo Concedente",
+    "depois": "### CAPÍTULO IX — Compensação Anual",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:634950:por",
+    "alterador": "pt:dre:70409923:por"
+  },
+  {
+    "artigo": "CAPÍTULO XIV — Incumprimento e cumprimento defeituoso do contrato",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "### CAPÍTULO XIV — Incumprimento e cumprimento defeituoso do contrato",
+    "depois": "### CAPÍTULO XIV — Incumprimento e cumprimento defeituoso",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:634950:por",
+    "alterador": "pt:dre:70409923:por"
+  },
+  {
+    "artigo": "CAPÍTULO XVIII — Vigência da Concessão",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "### CAPÍTULO XVIII — Vigência da Concessão",
+    "depois": "### CAPÍTULO XVIII — Aplicação no tempo",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:634950:por",
+    "alterador": "pt:dre:70409923:por"
   }
 ]

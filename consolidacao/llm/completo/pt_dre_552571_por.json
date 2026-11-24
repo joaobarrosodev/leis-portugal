@@ -4,7 +4,7 @@
     {
       "chave": "2.º",
       "epigrafe": "",
-      "texto": "1. As espécies de tabacos em que incidirá o imposto de consumo e as taxas correspondentes a cada uma das marcas fabricadas no continente são as indicadas em lista anexa a este diploma e que dele faz parte integrante.\n\n2. As espécies de tabacos em que incidirá o imposto de consumo e as taxas correspondentes a cada uma das marcas fabricadas nas ilhas adjacentes serão fixadas por decreto, dentro dos limites que constam da lista a que se refere o número antecedente.\n\n3. Serão as seguintes as espécies de tabaco em que incidirá o imposto de consumo e as correspondentes taxas aplicáveis aos tabacos fabricados no estrangeiro e territórios ainda sob a dominação portuguesa:\n\nPicados - Taxa de 5$00 sobre cada 15 g ou fracção.\n\nCigarros:\n\nTaxa de 5$50 sobre cada maço ou caixa de 10 a 19 cigarros;\n\nTaxa de 11$00 sobre cada maço ou caixa de 20 a 24 cigarros;\n\nTaxa de 22$50 sobre cada maço ou caixa de 25 a 50 cigarros;\n\nTaxa de 45$00 sobre cada maço ou caixa com mais de 51 cigarros.\n\nCigarrilhas com capa de tabaco:\n\nTaxa de 1$00 sobre cada cigarrilha cujo preço unitário de venda ao público seja igual ou inferior a 1$00;\n\nTaxa de 4$00 sobre cada cigarrilha cujo preço unitário de venda ao público seja superior a 1$00 e não exceda 10$00.\n\nTaxa de 7$50 sobre cada cigarrilha cujo preço unitário de venda ao público seja superior a 10$00.\n\nCharutos:\n\nTaxa de 10$00 sobre cada charuto cujo preço unitário de venda ao público não exceda 20$00;\n\nTaxa de 20$00 sobre cada charuto cujo preço unitário de venda ao público seja superior a 20$00 e não exceda 40$00;\n\nTaxa de 30$00 sobre cada charuto cujo preço unitário de venda ao público seja superior a 40$00.\n\n4. Os produtos a que se refere o número anterior, quando importados dos países membros da Associação Europeia de Comércio Livre para o território metropolitano, ficam isentos da taxa para o Fundo de Socorro Social.",
+      "texto": "1. As espécies de tabacos em que incidirá o imposto de consumo e as taxas correspondentes a cada uma das marcas fabricadas no continente são as indicadas em lista anexa a este diploma e que dele faz parte integrante.\n\n2. As espécies de tabacos em que incidirá o imposto de consumo e as taxas correspondentes a cada uma das marcas fabricadas nas ilhas adjacentes serão fixadas por decreto, dentro dos limites que constam da lista a que se refere o número antecedente.\n\n3. Serão as seguintes as espécies de tabaco em que incidirá o imposto de consumo e as correspondentes taxas aplicáveis aos tabacos fabricados no estrangeiro e territórios ainda sob a dominação portuguesa:\n\nPicados - Taxa de 5$00 sobre cada 15 g ou fracção.\n\nCigarros:\n\nTaxa de 5$50 sobre cada maço ou caixa de 10 a 19 cigarros;\n\nTaxa de 11$00 sobre cada maço ou caixa de 20 a 24 cigarros;\n\nTaxa de 22$50 sobre cada maço ou caixa de 25 a 50 cigarros;\n\nTaxa de 45$00 sobre cada maço ou caixa com mais de 51 cigarros.\n\nCigarrilhas com capa de tabaco:\n\nTaxa de 1$00 sobre cada cigarrilha cujo preço unitário de venda ao público seja igual ou inferior a 1$00;\n\nTaxa de 4$00 sobre cada cigarrilha cujo preço unitário de venda ao público seja superior a 1$00 e não exceda 10$00.\n\nTaxa de 7$50 sobre cada cigarrilha cujo preço unitário de venda ao público seja superior a 10$00.\n\nCharutos:\n\nTaxa de 10$00 sobre cada charuto cujo preço unitário de venda ao público não exceda 20$00;\n\nTaxa de 20$00 sobre cada charuto cujo preço unitário de venda ao público seja superior a 20$00 e não exceda 40$00;\n\nTaxa de 30$00 sobre cada charuto cujo preço unitário de venda ao público seja superior a 40$00.",
       "alterador": 2
     },
     {
@@ -19,14 +19,16 @@
   "anexos": [],
   "nao_aplicavel": null,
   "instrucoes": [
-    "DL 323/75, artigo único: adita o n.º 4 ao artigo 2.º (isenção da taxa para o Fundo de Socorro Social, países da EFTA). O reparo do verificador (que dizia que este n.º 4 não vinha de nenhuma instrução) foi rejeitado: o aditamento está escrito no alterador 1, e o DL 713/75 não o revoga nem o elimina (a nova redação só dá os n.os 1 a 3, com «...» nos n.os 1 e 2).",
-    "DL 713/75, art. 1.º: nova redação do n.º 3 do artigo 2.º; n.os 1 e 2 mantidos.",
-    "DL 713/75, art. 2.º: a lista a que se refere o n.º 1 do artigo 2.º (no texto atual, dentro do artigo 9.º, a seguir às assinaturas) passa a ser a nova lista: fica o título «Lista a que se refere o n.º 1 do artigo 2.º», a lista antiga (com a linha «Taxa sobre cada embalagem...» e Grândola) é substituída pela nova, e a assinatura final do Ministro das Finanças fica.",
-    "DL 713/75, art. 3.º e 4.º: lucros das tabaqueiras e entrada em vigor - não alteram o original.",
-    "DL 621/76: fixa as taxas da Madeira em lista própria (o decreto do n.º 2 do artigo 2.º); não dá nenhuma instrução de alteração ao texto do original."
+    "Alterador 1, artigo único: adita um n.º 4 ao art. 2.º (isenção para produtos da EFTA) — aplicado, mas depois substituído pelo alterador 2.",
+    "Alterador 2, art. 1.º: nova redação do art. 2.º (n.os 1 e 2 «...», novo n.º 3 com as novas taxas); a nova redação substitui o artigo inteiro e não traz n.º 4, pelo que o n.º 4 aditado pelo alterador 1 não fica.",
+    "Alterador 2, art. 2.º: a lista a que se refere o n.º 1 do art. 2.º (que vem no fim do diploma, no corpo do art. 9.º) passa a ser a nova; mantidos o título «Lista a que se refere o n.º 1 do artigo 2.º» e a assinatura final do Ministro das Finanças; retirada a lista antiga, incluindo a linha «Taxa sobre cada embalagem…».",
+    "Alterador 2, arts. 3.º e 4.º: lucros das tabaqueiras e entrada em vigor — sem efeito no texto.",
+    "Alterador 3: fixa as taxas da Madeira em diploma próprio (art. 2.º, n.º 2, do original) e mantém em vigor as disposições do DL 424/74 — sem alteração do texto."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
+  "ronda_camada1": 121,
   "problemas": [],
+  "numeracao_aceite": [],
   "avisos": []
 }

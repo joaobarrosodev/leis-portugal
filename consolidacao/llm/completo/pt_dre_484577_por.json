@@ -79,25 +79,23 @@
       "atual": "#### SECÇÃO III — Comissão de fiscalização",
       "novo": "#### SECÇÃO III — Fiscal único",
       "alterador": 1
-    },
-    {
-      "atual": "### CAPÍTULO IV — Vinculação do IDE-RAM",
-      "novo": "### CAPÍTULO IV — (Revogado.)",
-      "alterador": 1
     }
   ],
-  "nao_aplicavel": "DLR 6/2015/M, art. 6.º, n.º 2: 'Todas as referências feitas [...] ao conselho de administração consideram-se feitas ao conselho diretivo' é uma norma remissiva, não uma alteração textual; não se substituiu a expressão nos artigos 8.º, 9.º, 10.º, 11.º, 12.º, 13.º, 15.º, 17.º, 25.º e 33.º dos Estatutos, que mantêm a letra atual.",
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, art. 6.º, n.º 2 (as referências ao conselho de administração consideram-se feitas ao conselho diretivo): não textual: norma de remissão, que não dá nova redação aos artigos que ainda dizem «conselho de administração» (8.º, 9.º, 10.º, 12.º, 13.º, 17.º, 29.º, 33.º…); os artigos com nova redação já dizem «conselho diretivo»",
   "instrucoes": [
-    "DLR 6/2015/M, art. 6.º, n.º 1: nova redação dos arts. 6.º, 7.º, 11.º e 16.º dos Estatutos — aplicado (epígrafe '[...]' mantida nos 6.º e 7.º).",
-    "n.º 2: referências ao conselho de administração consideradas feitas ao conselho diretivo — norma remissiva, não textual: nao_aplicavel.",
-    "n.º 3: epígrafe da Secção I do Capítulo III passa a 'Conselho diretivo' — aplicado em titulos.",
-    "n.º 4: epígrafe da Secção III do Capítulo III passa a 'Fiscal único' — aplicado em titulos.",
-    "n.º 5: revogados os arts. 15.º, 19.º, 20.º, 21.º, 22.º, 24.º e 25.º e o Capítulo IV — artigos com '(Revogado.)' e título do Capítulo IV assinalado como revogado.",
-    "n.º 6: produção de efeitos — sem alteração de texto."
+    "Alterador 1 (DLR 6/2015/M), art. 6.º, n.º 1: nova redação dos arts. 6.º, 7.º, 11.º e 16.º dos Estatutos — aplicada (artigos inteiros; «[...]» = texto atual: epígrafes dos arts. 6.º e 7.º e alínea b) do art. 6.º)",
+    "Alterador 1, art. 6.º, n.º 2: remissão geral do conselho de administração para o conselho diretivo — não textual, nao_aplicavel",
+    "Alterador 1, art. 6.º, n.º 3: epígrafe da Secção I do Capítulo III passa a «Conselho diretivo» — aplicada em titulos",
+    "Alterador 1, art. 6.º, n.º 4: epígrafe da Secção III do Capítulo III passa a «Fiscal único» — aplicada em titulos",
+    "Alterador 1, art. 6.º, n.º 5: revoga os arts. 15.º, 19.º, 20.º, 21.º, 22.º, 24.º e 25.º e o Capítulo IV — artigos com «(Revogado.)»; o Capítulo IV só tem o art. 25.º, que fica revogado; o título do capítulo mantém-se como no texto atual (o alterador não dá texto novo para ele)",
+    "Alterador 1, art. 6.º, n.º 6: produção de efeitos no 1.º dia do mês seguinte à publicação (2015), já passada",
+    "Alterador 1, restantes artigos: alteram o Orçamento regional de 2015 e outros diplomas — não são do original"
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": [
-    "título ### CAPÍTULO IV — (Revogado.): texto que não está no alterador nem no original"
-  ]
+  "ronda_camada1": 121,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

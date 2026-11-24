@@ -1,0 +1,97 @@
+[
+ {
+  "id": "pt:dre:484577:por",
+  "artigos": [
+   {
+    "chave": "ANEXO — Estatutos do Instituto de Desenvolvimento Empresarial da Região Autónoma da Madeira - IDE-RAM::6.º",
+    "epigrafe": "Órgãos do IDE-RAM",
+    "texto": "São órgãos do IDE-RAM:\n\na) O conselho diretivo;\n\nb) O conselho consultivo;\n\nc) O fiscal único.",
+    "alterador": 1
+   },
+   {
+    "chave": "ANEXO — Estatutos do Instituto de Desenvolvimento Empresarial da Região Autónoma da Madeira - IDE-RAM::7.º",
+    "epigrafe": "Composição",
+    "texto": "O conselho diretivo é composto por um presidente e dois vogais, designados pelo membro do Governo da tutela, nos termos da lei.",
+    "alterador": 1
+   },
+   {
+    "chave": "ANEXO — Estatutos do Instituto de Desenvolvimento Empresarial da Região Autónoma da Madeira - IDE-RAM::11.º",
+    "epigrafe": "Regime",
+    "texto": "Os membros do conselho diretivo regem-se pelo disposto no [Decreto Legislativo Regional n.º 17/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2007-629387), de 12 de novembro, alterado pelos [Decretos Legislativos Regionais n.os 24/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-2012-174815), de 30 de agosto, e [2/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2013-588851), de 2 de janeiro, e, subsidiariamente, pelo Estatuto do Pessoal Dirigente da Administração Pública.",
+    "alterador": 1
+   },
+   {
+    "chave": "ANEXO — Estatutos do Instituto de Desenvolvimento Empresarial da Região Autónoma da Madeira - IDE-RAM::15.º",
+    "epigrafe": "Remuneração",
+    "texto": "(Revogado.)",
+    "alterador": 1
+   },
+   {
+    "chave": "ANEXO — Estatutos do Instituto de Desenvolvimento Empresarial da Região Autónoma da Madeira - IDE-RAM::16.º",
+    "epigrafe": "Função, designação, remuneração e mandato",
+    "texto": "1 - O fiscal único é o órgão responsável pelo controlo da legalidade, da regularidade e da boa gestão financeira e patrimonial do IDE-RAM.\n\n2 - O fiscal único é designado por despacho dos membros do Governo responsáveis pelas áreas das finanças e da tutela obrigatoriamente de entre os auditores registados na Comissão do Mercado de Valores Mobiliários ou, quando tal não se mostrar adequado, de entre os revisores oficiais de contas ou sociedades de revisores oficiais de contas inscritos na respetiva lista da Ordem dos Revisores Oficiais de Contas.\n\n3 - Atendendo ao grau de complexidade e exigência inerente ao exercício do cargo.\n\n4 - O mandato do fiscal único tem a duração de três anos podendo ser renovado uma única vez através de despacho dos membros do Governo referidos no n.º 2.",
+    "alterador": 1
+   },
+   {
+    "chave": "ANEXO — Estatutos do Instituto de Desenvolvimento Empresarial da Região Autónoma da Madeira - IDE-RAM::19.º",
+    "epigrafe": "Reuniões",
+    "texto": "(Revogado.)",
+    "alterador": 1
+   },
+   {
+    "chave": "ANEXO — Estatutos do Instituto de Desenvolvimento Empresarial da Região Autónoma da Madeira - IDE-RAM::20.º",
+    "epigrafe": "Remuneração",
+    "texto": "(Revogado.)",
+    "alterador": 1
+   },
+   {
+    "chave": "ANEXO — Estatutos do Instituto de Desenvolvimento Empresarial da Região Autónoma da Madeira - IDE-RAM::21.º",
+    "epigrafe": "Mandatos",
+    "texto": "(Revogado.)",
+    "alterador": 1
+   },
+   {
+    "chave": "ANEXO — Estatutos do Instituto de Desenvolvimento Empresarial da Região Autónoma da Madeira - IDE-RAM::22.º",
+    "epigrafe": "Deliberações",
+    "texto": "(Revogado.)",
+    "alterador": 1
+   },
+   {
+    "chave": "ANEXO — Estatutos do Instituto de Desenvolvimento Empresarial da Região Autónoma da Madeira - IDE-RAM::24.º",
+    "epigrafe": "Deslocações",
+    "texto": "(Revogado.)",
+    "alterador": 1
+   },
+   {
+    "chave": "ANEXO — Estatutos do Instituto de Desenvolvimento Empresarial da Região Autónoma da Madeira - IDE-RAM::25.º",
+    "epigrafe": "Vinculação",
+    "texto": "(Revogado.)",
+    "alterador": 1
+   }
+  ],
+  "removidos": [],
+  "titulos": [
+   {
+    "atual": "#### SECÇÃO I — Conselho de administração",
+    "novo": "#### SECÇÃO I — Conselho diretivo",
+    "alterador": 1
+   },
+   {
+    "atual": "#### SECÇÃO III — Comissão de fiscalização",
+    "novo": "#### SECÇÃO III — Fiscal único",
+    "alterador": 1
+   }
+  ],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, art. 6.º, n.º 2 (as referências ao conselho de administração consideram-se feitas ao conselho diretivo): não textual: norma de remissão, que não dá nova redação aos artigos que ainda dizem «conselho de administração» (8.º, 9.º, 10.º, 12.º, 13.º, 17.º, 29.º, 33.º…); os artigos com nova redação já dizem «conselho diretivo»",
+  "instrucoes": [
+   "Alterador 1 (DLR 6/2015/M), art. 6.º, n.º 1: nova redação dos arts. 6.º, 7.º, 11.º e 16.º dos Estatutos — aplicada (artigos inteiros; «[...]» = texto atual: epígrafes dos arts. 6.º e 7.º e alínea b) do art. 6.º)",
+   "Alterador 1, art. 6.º, n.º 2: remissão geral do conselho de administração para o conselho diretivo — não textual, nao_aplicavel",
+   "Alterador 1, art. 6.º, n.º 3: epígrafe da Secção I do Capítulo III passa a «Conselho diretivo» — aplicada em titulos",
+   "Alterador 1, art. 6.º, n.º 4: epígrafe da Secção III do Capítulo III passa a «Fiscal único» — aplicada em titulos",
+   "Alterador 1, art. 6.º, n.º 5: revoga os arts. 15.º, 19.º, 20.º, 21.º, 22.º, 24.º e 25.º e o Capítulo IV — artigos com «(Revogado.)»; o Capítulo IV só tem o art. 25.º, que fica revogado; o título do capítulo mantém-se como no texto atual (o alterador não dá texto novo para ele)",
+   "Alterador 1, art. 6.º, n.º 6: produção de efeitos no 1.º dia do mês seguinte à publicação (2015), já passada",
+   "Alterador 1, restantes artigos: alteram o Orçamento regional de 2015 e outros diplomas — não são do original"
+  ]
+ }
+]

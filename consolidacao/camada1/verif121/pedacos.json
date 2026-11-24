@@ -1,0 +1,181 @@
+[
+ {
+  "pedaco": 1,
+  "lote": "entrada-piloto-121-lote-01.jsonl",
+  "ids": [
+   "pt:dre:252181:por",
+   "pt:dre:163779:por",
+   "pt:dre:164412:por",
+   "pt:dre:164589:por",
+   "pt:dre:165862:por"
+  ],
+  "chars": 123893,
+  "vista": "camada1/verif121/vista-001.md",
+  "resposta": "camada1/verif121/resposta-001.json"
+ },
+ {
+  "pedaco": 2,
+  "lote": "entrada-piloto-121-lote-01.jsonl",
+  "ids": [
+   "pt:dre:217732:por"
+  ],
+  "chars": 522525,
+  "vista": "camada1/verif121/vista-002.md",
+  "resposta": "camada1/verif121/resposta-002.json"
+ },
+ {
+  "pedaco": 3,
+  "lote": "entrada-piloto-121-lote-01.jsonl",
+  "ids": [
+   "pt:dre:234113:por",
+   "pt:dre:279627:por"
+  ],
+  "chars": 46000,
+  "vista": "camada1/verif121/vista-003.md",
+  "resposta": "camada1/verif121/resposta-003.json"
+ },
+ {
+  "pedaco": 4,
+  "lote": "entrada-piloto-121-lote-01.jsonl",
+  "ids": [
+   "pt:dre:324145:por"
+  ],
+  "chars": 296784,
+  "vista": "camada1/verif121/vista-004.md",
+  "resposta": "camada1/verif121/resposta-004.json"
+ },
+ {
+  "pedaco": 5,
+  "lote": "entrada-piloto-121-lote-01.jsonl",
+  "ids": [
+   "pt:dre:344925:por"
+  ],
+  "chars": 84827,
+  "vista": "camada1/verif121/vista-005.md",
+  "resposta": "camada1/verif121/resposta-005.json"
+ },
+ {
+  "pedaco": 6,
+  "lote": "entrada-piloto-121-lote-01.jsonl",
+  "ids": [
+   "pt:dre:346486:por",
+   "pt:dre:373471:por",
+   "pt:dre:376021:por",
+   "pt:dre:379709:por",
+   "pt:dre:390988:por",
+   "pt:dre:451862:por"
+  ],
+  "chars": 94781,
+  "vista": "camada1/verif121/vista-006.md",
+  "resposta": "camada1/verif121/resposta-006.json"
+ },
+ {
+  "pedaco": 7,
+  "lote": "entrada-piloto-121-lote-01.jsonl",
+  "ids": [
+   "pt:dre:484577:por",
+   "pt:dre:521000:por",
+   "pt:dre:535815:por",
+   "pt:dre:552571:por",
+   "pt:dre:566595:por",
+   "pt:dre:607141:por",
+   "pt:dre:616429:por"
+  ],
+  "chars": 134779,
+  "vista": "camada1/verif121/vista-007.md",
+  "resposta": "camada1/verif121/resposta-007.json"
+ },
+ {
+  "pedaco": 8,
+  "lote": "entrada-piloto-121-lote-01.jsonl",
+  "ids": [
+   "pt:dre:616624:por",
+   "pt:dre:631419:por"
+  ],
+  "chars": 41537,
+  "vista": "camada1/verif121/vista-008.md",
+  "resposta": "camada1/verif121/resposta-008.json"
+ },
+ {
+  "pedaco": 9,
+  "lote": "entrada-piloto-121-lote-01.jsonl",
+  "ids": [
+   "pt:dre:634950:por"
+  ],
+  "chars": 214501,
+  "vista": "camada1/verif121/vista-009.md",
+  "resposta": "camada1/verif121/resposta-009.json"
+ },
+ {
+  "pedaco": 10,
+  "lote": "entrada-piloto-121-lote-01.jsonl",
+  "ids": [
+   "pt:dre:647505:por",
+   "pt:dre:661567:por",
+   "pt:dre:666347:por"
+  ],
+  "chars": 101681,
+  "vista": "camada1/verif121/vista-010.md",
+  "resposta": "camada1/verif121/resposta-010.json"
+ },
+ {
+  "pedaco": 11,
+  "lote": "entrada-piloto-121-lote-01.jsonl",
+  "ids": [
+   "pt:dre:667350:por"
+  ],
+  "chars": 83294,
+  "vista": "camada1/verif121/vista-011.md",
+  "resposta": "camada1/verif121/resposta-011.json"
+ },
+ {
+  "pedaco": 12,
+  "lote": "entrada-piloto-121-lote-02.jsonl",
+  "ids": [
+   "pt:dre:687231:por",
+   "pt:dre:998488160:por",
+   "pt:dre:309932:por",
+   "pt:dre:139401:por",
+   "pt:dre:182576:por",
+   "pt:dre:222384:por",
+   "pt:dre:281450:por"
+  ],
+  "chars": 133318,
+  "vista": "camada1/verif121/vista-012.md",
+  "resposta": "camada1/verif121/resposta-012.json"
+ },
+ {
+  "pedaco": 13,
+  "lote": "entrada-piloto-121-lote-02.jsonl",
+  "ids": [
+   "pt:dre:418190:por",
+   "pt:dre:446959:por"
+  ],
+  "chars": 72080,
+  "vista": "camada1/verif121/vista-013.md",
+  "resposta": "camada1/verif121/resposta-013.json"
+ },
+ {
+  "pedaco": 14,
+  "lote": "entrada-piloto-121-lote-02.jsonl",
+  "ids": [
+   "pt:dre:453543:por"
+  ],
+  "chars": 85482,
+  "vista": "camada1/verif121/vista-014.md",
+  "resposta": "camada1/verif121/resposta-014.json"
+ },
+ {
+  "pedaco": 15,
+  "lote": "entrada-piloto-121-lote-02.jsonl",
+  "ids": [
+   "pt:dre:454064:por",
+   "pt:dre:542458:por",
+   "pt:dre:674006:por",
+   "pt:dre:465399:por"
+  ],
+  "chars": 114702,
+  "vista": "camada1/verif121/vista-015.md",
+  "resposta": "camada1/verif121/resposta-015.json"
+ }
+]

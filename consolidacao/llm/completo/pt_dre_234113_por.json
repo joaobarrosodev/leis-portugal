@@ -2,13 +2,25 @@
   "id": "pt:dre:234113:por",
   "artigos": [],
   "removidos": [],
-  "nao_aplicavel": "Alterador 1 (art. 10.º) e alterador 2 (art. 28.º) substituem o mapa «Centros emissores - A)» do anexo II pelo mapa anexo, que só vem em imagem (ver documento original); o anexo II não consta do texto atual.",
+  "titulos": [],
+  "anexos": [
+    {
+      "titulo": "## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/09/220a00/44964501.pdf)",
+      "texto": "Estúdios e escritórios\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/10/252a02/00080009.pdf)\n\nCentros emissores - A)\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/09/216a00/50445049.pdf)",
+      "alterador": 3
+    }
+  ],
+  "nao_aplicavel": null,
   "instrucoes": [
-    "Alterador 1, art. 10.º: substitui o mapa «Centros emissores - A)» do anexo II — não aplicado (mapa só em imagem).",
-    "Alterador 2, art. 28.º: substitui de novo o mesmo mapa — não aplicado (mapa só em imagem).",
-    "Alterador 2, art. 26.º: revoga os DL 292/91, 157/95 e 239/95 — não é dirigido ao original."
+    "Alterador 1 (Declaração de Rectificação n.º 175/92): rectifica no anexo II o quadro «Estúdios e escritórios», só em imagem; o anexo II tem título no texto atual (corpo vazio), por isso ficam no corpo as linhas da imagem do «deve ler-se»",
+    "Alterador 2 (DL 239/95), art. 10.º: substitui o mapa «Centros emissores - A)» do anexo II pelo mapa anexo (imagem); substituído de novo pelo alterador 3",
+    "Alterador 3 (DL 241/97), art. 28.º: substitui o mapa «Centros emissores - A)» do anexo II pelo mapa anexo; corpo do anexo II = corpo atual (vazio) + linhas da imagem do alterador 1 e do mapa do alterador 3",
+    "Restantes artigos dos alteradores 2 e 3 regulam a distribuição por cabo e outros diplomas (DL 292/91 etc.), não o original"
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 121,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

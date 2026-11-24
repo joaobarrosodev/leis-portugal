@@ -2,16 +2,40 @@
   "id": "pt:dre:634950:por",
   "artigos": [],
   "removidos": [],
-  "nao_aplicavel": "Todas as instruções do Decreto-Lei n.º 214-A/2015 (arts. 1.º, 2.º, 3.º, 5.º e 6.º) visam as bases da concessão anexas, que não constam do texto atual recebido (só os artigos 1.º a 5.º do decreto-lei); não aplicadas.",
+  "titulos": [
+    {
+      "atual": "### CAPÍTULO VI — Área de Serviços",
+      "novo": "### CAPÍTULO VI — Áreas de Serviço",
+      "alterador": 2
+    },
+    {
+      "atual": "### CAPÍTULO IX — Pagamentos a efectuar pelo Concedente",
+      "novo": "### CAPÍTULO IX — Compensação Anual",
+      "alterador": 2
+    },
+    {
+      "atual": "### CAPÍTULO XIV — Incumprimento e cumprimento defeituoso do contrato",
+      "novo": "### CAPÍTULO XIV — Incumprimento e cumprimento defeituoso",
+      "alterador": 2
+    },
+    {
+      "atual": "### CAPÍTULO XVIII — Vigência da Concessão",
+      "novo": "### CAPÍTULO XVIII — Aplicação no tempo",
+      "alterador": 2
+    }
+  ],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 2, artigo 1.º, nova redação das bases I, II, IV a XV, XVII a XIX, XXI a XLI, XLIII a LIV, LVI, LVIII, LIX, LXIV a LXX, LXXII a LXXIX, LXXXI, LXXXII e LXXXIV a LXXXVI: alvo incerto: o texto atual não traz nenhuma base da concessão (só o articulado do decreto-lei e os títulos dos capítulos), e a nova redação remete para o texto anterior das bases com «[...]» e «[Anterior alínea …]», que não existe no pedido; a republicação do artigo 6.º não vem no pedido\nAlterador 2, artigo 2.º, aditamento das bases X-A, XVII-A, XVIII-A, XXII-A, XLIII-A, LV-A a LV-M, LIX-A a LIX-F e LXXXIV-A a LXXXIV-E: alvo incerto: as bases a que se juntam não estão no texto atual, e acrescentá-las sozinhas daria um texto com as bases novas e sem as bases que alteram ou mantêm\nAlterador 2, artigo 3.º, alíneas e) a h), aditamento dos capítulos IV-A, VII-A (com as secções I a V), VIII-A (com as secções I e II) e XVIII-A: alvo incerto: são títulos de divisão novos, que não estão no texto atual, e as bases que incluem também não estão\nAlterador 2, artigo 5.º, revogação de alíneas e números das bases I, XI, XII, XLV, XLVII, XLVIII, XLIX, LII, LXVI, LXXIII, LXXX e LXXXII e das bases LX a LXIII: alvo incerto: essas bases não estão no texto atual\nAlterador 2, artigo 6.º, republicação das bases: sem texto: o anexo de republicação não vem no pedido",
   "instrucoes": [
-    "Art. 1.º: nova redação de várias bases (I a LXXXVI): bases ausentes do texto atual, não aplicada.",
-    "Art. 2.º: aditamento das bases X-A, XVII-A, XVIII-A, XXII-A, XLIII-A, LV-A a LV-M, LIX-A a LIX-F e LXXXIV-A a LXXXIV-E: não aplicado (anexo ausente).",
-    "Art. 3.º: alterações sistemáticas (capítulos) às bases: não aplicadas.",
-    "Art. 5.º: revogação de alíneas, números e bases: não aplicada (anexo ausente).",
-    "Art. 6.º: republicação das bases: sem efeito no texto dos artigos 1.º a 5.º.",
-    "Nenhuma instrução altera os artigos 1.º a 5.º do decreto-lei."
+    "Alterador 1 (Lei 34/2015), art. 5.º, o): revoga o art. 4.º do DL 335-A/99; já estava aplicado pelo programa («(Revogado.)»), sem mudança",
+    "Alterador 1, restantes alíneas: outros diplomas; ignoradas",
+    "Alterador 2 (DL 214-A/2015), art. 3.º, a) a d): novas epígrafes dos capítulos VI, IX, XIV e XVIII, aplicadas em titulos",
+    "Alterador 2, arts. 1.º, 2.º, 3.º e) a h), 5.º e 6.º: dirigidos às bases, que não estão no texto atual; em nao_aplicavel"
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 121,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "3.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 3.º\n\nO funcionário titular do lugar de fiscal da Bolsa de Mercadorias de Lisboa é integrado no escalão 7 da categoria de escriturário-dactilógrafo, um lugar vago do quadro da Direcção-Geral do Comércio Interno.",
+    "depois": "###### Artigo 3.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 121/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2008-456561), publicado em 2008-07-11.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:616429:por",
+    "alterador": "pt:dre:456561:por"
+  }
+]

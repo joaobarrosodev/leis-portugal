@@ -8,16 +8,19 @@
       "alterador": 2
     }
   ],
-  "removidos": [],
-  "nao_aplicavel": "Alterador 1 (Decreto-Lei n.º 199/71): acrescenta às categorias do artigo 1.º as de pessoal técnico auxiliar e de pessoal auxiliar dos serviços farmacêuticos hospitalares sem dar nova redacção nem indicar onde inserir o texto; alteração não textual, não aplicada ao texto.",
+  "nao_aplicavel": "Alterador 1, artigo único (às categorias do art. 1.º acrescentam-se as de pessoal técnico auxiliar e de pessoal auxiliar dos serviços farmacêuticos hospitalares): não textual (alarga o âmbito sem dar nova redação ao art. 1.º)",
   "instrucoes": [
-    "Alterador 1: alarga as categorias do artigo 1.º sem nova redacção; não aplicada (ver nao_aplicavel).",
-    "Alterador 2 alínea a): revoga a condição 8.ª do artigo 2.º; aplicada.",
-    "Alterador 2 alíneas b) e c): revogam disposições de outros diplomas; ignoradas."
+    "Alterador 1: acrescenta categorias ao art. 1.º sem nova redação: não aplicado.",
+    "Alterador 2, artigo único, al. a): revoga a condição 8.ª do art. 2.º: aplicado como «8.ª (Revogada.)», com o número da condição tal como está no texto atual (como «a) (Revogada.)» numa alínea); as condições 1.ª a 7.ª ficam letra a letra.",
+    "Alterador 2, als. b) e c): outros diplomas."
   ],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": [
-    "2.º: parágrafo que não está no alterador nem no original: 8.ª (Revogada.)"
-  ]
+  "ronda_camada1": 121,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

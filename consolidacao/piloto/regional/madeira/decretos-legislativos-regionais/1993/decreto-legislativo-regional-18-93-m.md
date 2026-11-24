@@ -176,7 +176,7 @@ d) Promover a análise da conta de gerência a enviar ao Tribunal de Contas;
 
 e) Apreciar a situação financeira da DRE, tendo em vista assegurar o seu funcionamento.
 
-#### SECÇÃO IV — Repartição de Administração e Difusão Estatística
+#### SECÇÃO IV — Direcção de Serviços de Produção Estatística
 
 ###### Artigo 7.º — Natureza e atribuições
 
@@ -186,7 +186,7 @@ A Direcção de Serviços de Produção Estatística, adiante designada abreviad
 
 ##### SUBSECÇÃO I
 
-#### Secção de Coordenação e Difusão Estatística
+#### Divisão de Estatísticas Económicas e Financeiras
 
 ###### Artigo 8.º — Estrutura
 
@@ -202,7 +202,7 @@ c) Divisão de Estatísticas Agrícolas e Censos.
 
 ##### SUBSECÇÃO II
 
-#### Secção de Contabilidade e Pessoal
+#### Divisão de Estatísticas Demográficas, Sociais e dos Serviços
 
 ###### Artigo 9.º — Natureza e atribuições
 
@@ -220,7 +220,7 @@ e) Executar tudo o mais que lhe for superiormente determinado ou que decorra do 
 
 > Alterado pelo/a [Decreto Regulamentar Regional n.º 40/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/40-2000-324974), publicado em 2000-08-18.
 
-#### SECÇÃO V — Núcleo de Informática
+#### SUBSECÇÃO III
 
 ###### Artigo 10.º — Natureza e atribuições
 
@@ -240,9 +240,9 @@ f) Executar tudo o mais que lhe for superiormente determinado ou que decorra do 
 
 > Alterado pelo/a [Decreto Regulamentar Regional n.º 40/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/40-2000-324974), publicado em 2000-08-18.
 
-#### SECÇÃO VI
+#### Divisão de Estatísticas Agrícolas e Censos
 
-##### Divisão de Estudos e Contas Económicas Regionais
+##### SECÇÃO V
 
 ###### Artigo 11.º — Natureza e atribuições
 
@@ -262,7 +262,7 @@ f) Executar tudo o mais que lhe for superiormente determinado ou que decorra do 
 
 > Alterado pelo/a [Decreto Regulamentar Regional n.º 40/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/40-2000-324974), publicado em 2000-08-18.
 
-#### SECÇÃO VII — Direcção de Serviços de Produção Estatística
+#### Divisão de Estudos e Contas Económicas Regionais
 
 ###### Artigo 12.º — Natureza e atribuições
 
@@ -296,9 +296,9 @@ d) Executar os programas e processamentos determinados pelos calendários estabe
 
 > Alterado pelo/a [Decreto Regulamentar Regional n.º 40/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/40-2000-324974), publicado em 2000-08-18.
 
-##### SUBSECÇÃO I
+##### SECÇÃO VI — Núcleo de Informática
 
-##### Divisão de Estatísticas Económicas e Financeiras
+##### SECÇÃO VII — Departamento de Administração
 
 ###### Artigo 14.º — Natureza e estrutura
 
@@ -332,9 +332,7 @@ j) Executar tudo o mais que lhe for superiormente determinado ou que decorra do 
 
 > Aditado pelo/a [Decreto Regulamentar Regional n.º 40/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/40-2000-324974), publicado em 2000-08-18.
 
-##### SUBSECÇÃO II
-
-##### Divisão de Estatísticas Demográficas, Sociais e dos Serviços
+##### SECÇÃO VIII — Departamento de Coordenação e Difusão Estatística
 
 ###### Artigo 15.º — Natureza e estrutura
 
@@ -359,10 +357,6 @@ e) Participar nos trabalhos de manutenção de ficheiros gerais;
 f) Executar tudo o mais que lhe for superiormente determinado ou que decorra do normal desempenho das suas funções.
 
 > Aditado pelo/a [Decreto Regulamentar Regional n.º 40/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/40-2000-324974), publicado em 2000-08-18.
-
-##### SUBSECÇÃO III
-
-##### Divisão de Estatísticas Agrícolas e Censos
 
 ###### Artigo 16.º — Dos instrumentos de notação e inquéritos
 
@@ -476,8 +470,8 @@ O regime aplicável ao pessoal da DRE é o genericamente estabelecido para os fu
 
 2 - Os actuais estagiários prosseguem os respectivos estágios, transitando, findos os mesmos, se neles obtiverem aproveitamento, para as categorias objecto de concurso e constantes do mapa anexo ao presente diploma.
 
-Mapa anexo a que se refere o n.º 2 do artigo 22.º do presente diploma
+MAPA ANEXO A QUE SE REFERE O N.º 2 DO ARTIGO 21.º DO PRESENTE DIPLOMA
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/215a00/49084913.pdf)
+[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/08/190b00/40894097.pdf)
 
 > Alterado pelo/a [Decreto Regulamentar Regional n.º 40/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/40-2000-324974), publicado em 2000-08-18.

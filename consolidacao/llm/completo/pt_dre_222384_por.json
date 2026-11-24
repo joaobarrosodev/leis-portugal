@@ -22,13 +22,17 @@
   ],
   "removidos": [],
   "titulos": [],
-  "nao_aplicavel": null,
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, art. 1.º (o Fundo rege-se durante o ano de 1965 pelo regime do DL 45527): não textual — prorrogação do regime; não altera o texto do art. 1.º.\nAlterador 2, art. 1.º (o Fundo rege-se durante o ano de 1966 pelo regime do DL 45527): não textual — prorrogação do regime; não altera o texto do art. 1.º.\nAlterador 2, art. 2.º (interpretação autêntica do art. 5.º): não textual.",
   "instrucoes": [
-    "DL 46111 art. 1.º: nova redação do art. 14.º (10000$00) - aplicada (alteração textual, ainda que inserida no regime para 1965)",
-    "DL 46799 art. 1.º: nova redação da segunda parte do art. 5.º - aplicada, resto mantido; nova redação do art. 22.º - aplicada",
-    "DL 46799 art. 2.º: interpretação autêntica, sem alteração textual"
+    "Alterador 1, art. 1.º: nova redação do art. 14.º (despesas até 10000$00) — substituído; a prorrogação para 1965 não é textual.",
+    "Alterador 2, art. 1.º: nova redação da segunda parte (2.º parágrafo) do art. 5.º, mantendo o 1.º parágrafo e os §§ 1.º e 2.º («...»); nova redação do art. 22.º — aplicadas; a prorrogação para 1966 não é textual. As alterações textuais aplicam-se ao texto, que é o do regime em vigor após cada prorrogação.",
+    "Alterador 2, art. 2.º: interpretação autêntica — sem efeito no texto."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 121,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

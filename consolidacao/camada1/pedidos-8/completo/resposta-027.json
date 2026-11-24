@@ -1,0 +1,43 @@
+[
+ {
+  "id": "pt:dre:324145:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [
+   {
+    "atual": "### CAPÍTULO VII — Funções do IEP",
+    "novo": "### CAPÍTULO VII — Funções do IMT",
+    "alterador": 2
+   },
+   {
+    "atual": "### CAPÍTULO X — Exploração e conservação da Auto-Estrada",
+    "novo": "### CAPÍTULO X — Manutenção, exploração e conservação da Autoestrada",
+    "alterador": 2
+   },
+   {
+    "atual": "### CAPÍTULO XII — Pagamentos a efectuar pelo Concedente",
+    "novo": "### CAPÍTULO XII — Pagamentos pela disponibilidade da Autoestrada e partilha de benefícios",
+    "alterador": 2
+   },
+   {
+    "atual": "### CAPÍTULO XVII — Incumprimento e cumprimento defeituoso do contrato",
+    "novo": "### CAPÍTULO XVII — Incumprimento e cumprimento defeituoso",
+    "alterador": 2
+   },
+   {
+    "atual": "### CAPÍTULO XXI — Vigência da Concessão",
+    "novo": "### CAPÍTULO XXI — Aplicação no tempo",
+    "alterador": 2
+   }
+  ],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 2, art. 1.º (nova redação das bases I, II, V a VII, IX a XX, XXII a XXXIX, XLI a XLIII, XLV a LVI, LVIII a LXI, LXVI, LXVIII, LXX a LXXII, LXXV a LXXXI, LXXXIII, LXXXIV e LXXXVI a LXXXIX do anexo): alvo incerto — as bases da concessão não vêm no texto atual (o «Corpo do anexo» do ANEXO I vem vazio e os capítulos só trazem o título), e a maior parte das novas redações usa «[...]» para texto atual que não temos; não há onde as aplicar sem inventar o resto do anexo.\nAlterador 2, art. 2.º (aditamento das bases XVIII-A, XIX-A, XXXIV-A, LVII-A a LVII-DD, LXV-A a LXV-E, LXXXVI-A, LXXXVII-A e LXXXVII-B): alvo incerto — as bases do anexo não existem no texto atual, pelo que não se sabe onde inserir as novas nem se pode pô-las sem as restantes.\nAlterador 2, art. 3.º, n.os 2 e 3 (aditamento do capítulo X-A «Portagens», com secções I a X e subsecções, e do capítulo XXII-A «Comissão de Peritos»): alvo incerto — o formato só muda títulos que já estão no texto atual, e as bases que estes capítulos incluem não existem no texto atual.\nAlterador 2, art. 5.º (revogação de alíneas e números das bases I, XIII, XLVII, XLVIII, XLIX, L, LI, LIV, LXXV, LXXXII e LXXXIV e das bases LXII a LXV): alvo incerto — as bases do anexo não vêm no texto atual.\nAlterador 2, art. 6.º (republicação; presente do indicativo e «IEP»/«MES» lidos «Concedente»/«ME»): não textual — regra para efeitos da republicação das bases, que não vêm no texto atual; os artigos 1.º a 5.º do decreto não mudam por ela.",
+  "instrucoes": [
+   "Alterador 1 (Lei n.º 34/2015, art. 5.º, al. r)): revoga o artigo 4.º do DL 323-G/2000; já aplicado pelo programa («(Revogado.)», epígrafe mantida), está certo, sem mudança.",
+   "Alterador 1, restantes alíneas do art. 5.º: revogam outros diplomas; não são deste.",
+   "Alterador 2, art. 3.º, n.º 1: novas epígrafes dos capítulos VII, X, XII, XVII e XXI do anexo; aplicadas em «titulos».",
+   "Alterador 2, arts. 1.º, 2.º, 3.º n.os 2 e 3, e 5.º: alterações, aditamentos e revogações nas bases do anexo, que não vêm no texto atual (corpo do anexo vazio); em nao_aplicavel. Os reparos pedem o texto das bases, mas não há texto atual delas onde o aplicar.",
+   "Alterador 2, art. 6.º: republicação e regra de leitura «IEP»/«MES»; em nao_aplicavel."
+  ]
+ }
+]
