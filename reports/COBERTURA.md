@@ -1,14 +1,14 @@
 # Cobertura do acervo
 
-Relatório gerado em 2026-11-23 a partir dos registos presentes em `data/`.
+Relatório gerado em 2026-11-24 a partir dos registos presentes em `data/`.
 
 **Este relatório não representa cobertura integral da legislação portuguesa ou europeia.**
 A metodologia conta apenas ficheiros existentes e válidos no repositório; não usa estimativas.
 
 ## Totais verificados
 
-- Documentos recolhidos: 461169
-- Documentos validados: 461169
+- Documentos recolhidos: 461193
+- Documentos validados: 461193
 - Fontes registadas: 5
 - Fontes operacionais: 4
 
@@ -16,8 +16,8 @@ A metodologia conta apenas ficheiros existentes e válidos no repositório; não
 
 | Fonte | Estado operacional | Reutilização | Documentos no repositório | Âmbito verificado |
 |---|---|---|---|---|
-| eurlex-cellar | operational | permitted_with_conditions | 55268 | Descoberta por data de publicação no JO (incluindo a publicação ato a ato desde 2023), recolha por CELEX e dos regulamentos, diretivas e decisões referidos por documentos do acervo; texto do JO ou consolidado, histórico de versões consolidadas, EuroVoc, autores e relações nos dois sentidos. |
-| dre | operational | permitted | 405901 | 1.ª Série por data de publicação (lista do dia, detalhe, texto formatado, alterações/retificações da análise jurídica e descritores); documentos em falta e documentos referidos encontrados pelos sitemaps públicos (todas as séries); catálogo do Jornal Oficial dos Açores; legislação consolidada com histórico de versões (sitemap, cronologia e texto em cada data). |
+| eurlex-cellar | operational | permitted_with_conditions | 55279 | Descoberta por data de publicação no JO (incluindo a publicação ato a ato desde 2023), recolha por CELEX e dos regulamentos, diretivas e decisões referidos por documentos do acervo; texto do JO ou consolidado, histórico de versões consolidadas, EuroVoc, autores e relações nos dois sentidos. |
+| dre | operational | permitted | 405914 | 1.ª Série por data de publicação (lista do dia, detalhe, texto formatado, alterações/retificações da análise jurídica e descritores); documentos em falta e documentos referidos encontrados pelos sitemaps públicos (todas as séries); catálogo do Jornal Oficial dos Açores; legislação consolidada com histórico de versões (sitemap, cronologia e texto em cada data). |
 | parlamento | planned | unresolved | 0 | — |
 | cnpd | operational | permitted_with_conditions | 0 | Histórico de decisões de 1994 a 2026 por ano e tipo (pareceres, deliberações, diretrizes, regulamentos, registos e autorizações; 122.223 anunciados a 12/11/2026, dos quais 114.331 autorizações), com o PDF de cada decisão e o texto extraído quando o PDF tem camada de texto. |
 | tribunal-constitucional | operational | restricted | 0 | Acórdãos de 1983 a 2026: listagens anuais em blocos de 100 (processo, formação, espécie, data e relator) e o texto HTML de cada acórdão; ligação ao registo do DRE quando o acórdão foi publicado no Diário da República. |
@@ -26,8 +26,8 @@ A metodologia conta apenas ficheiros existentes e válidos no repositório; não
 
 | Jurisdição | Documentos |
 |---|---:|
-| european_union | 55268 |
-| portugal | 374012 |
+| european_union | 55279 |
+| portugal | 374025 |
 | regional | 31889 |
 
 ## Por região
@@ -36,27 +36,27 @@ A metodologia conta apenas ficheiros existentes e válidos no repositório; não
 |---|---:|
 | acores | 28320 |
 | madeira | 3569 |
-| nacional | 429280 |
+| nacional | 429304 |
 
 ## Por tipo de diploma
 
 | Tipo | Documentos |
 |---|---:|
-| portaria | 114836 |
+| portaria | 114838 |
 | decreto | 47478 |
 | edital | 39378 |
 | decreto-lei | 31725 |
-| regulation | 29986 |
+| regulation | 29989 |
 | declaracao | 25763 |
-| deliberacao | 23527 |
-| decision | 21094 |
-| regulamento | 18867 |
+| deliberacao | 23531 |
+| decision | 21102 |
+| regulamento | 18873 |
 | declaracao-retificacao | 17449 |
 | resolucao | 15239 |
 | despacho-normativo | 13625 |
 | aviso | 13337 |
 | resolucao-conselho-ministros | 6917 |
-| lei | 6720 |
+| lei | 6721 |
 | decreto-presidente-republica | 6069 |
 | resolucao-assembleia-republica | 4908 |
 | directive | 4188 |
@@ -158,8 +158,8 @@ A metodologia conta apenas ficheiros existentes e válidos no repositório; não
 
 | Versão | Documentos |
 |---|---:|
-| consolidated | 14687 |
-| original | 445238 |
+| consolidated | 14754 |
+| original | 445195 |
 | translation | 1244 |
 
 ## Origem do texto
@@ -167,7 +167,7 @@ A metodologia conta apenas ficheiros existentes e válidos no repositório; não
 | Origem | Documentos |
 |---|---:|
 | importacao_inicial | 1 |
-| recolha_direta | 461168 |
+| recolha_direta | 461192 |
 
 ## Qualidade do texto (texto pesquisável, só PDF oficial ou só metadados)
 
@@ -175,37 +175,37 @@ A metodologia conta apenas ficheiros existentes e válidos no repositório; não
 |---|---:|
 | metadados | 27323 |
 | pdf | 76532 |
-| texto | 357314 |
+| texto | 357338 |
 
 ## Por estado de vigência
 
 | Estado | Documentos |
 |---|---:|
-| in_force | 203334 |
-| not_in_force | 38829 |
+| in_force | 203345 |
+| not_in_force | 38831 |
 | partially_in_force | 790 |
 | repealed | 15202 |
-| unknown | 203014 |
+| unknown | 203025 |
 
 ## Relações registadas
 
 | Relação | Relações |
 |---|---:|
 | amended_by | 171575 |
-| amends | 36546 |
-| based_on | 77212 |
-| cited_by | 29309 |
-| cites | 995668 |
+| amends | 36552 |
+| based_on | 77229 |
+| cited_by | 29315 |
+| cites | 995767 |
 | corrected_by | 27247 |
 | corrects | 826 |
 | implicitly_repeals | 8160 |
 | interpreted_by | 9670 |
 | repealed_by | 47194 |
-| repeals | 10991 |
+| repeals | 10992 |
 | republished_by | 36 |
 | republishes | 13 |
-| transposed_by | 2526 |
-| transposes | 2533 |
+| transposed_by | 2529 |
+| transposes | 2536 |
 
 ## Por ano de publicação
 
@@ -368,7 +368,7 @@ A metodologia conta apenas ficheiros existentes e válidos no repositório; não
 | 2023 | 11126 |
 | 2024 | 11262 |
 | 2025 | 11467 |
-| 2026 | 9270 |
+| 2026 | 9294 |
 
 ## Falhas de recolha registadas
 
@@ -385,7 +385,7 @@ A metodologia conta apenas ficheiros existentes e válidos no repositório; não
 
 ## Cobertura face aos sitemaps do DRE
 
-Verificado em 2026-10-27 com `leis-portugal collect dre --missing`: documentos que o DRE lista nos sitemaps públicos (1078619), dos quais 385371 estão no acervo e 693248 faltam. Os sitemaps incluem o catálogo do Jornal Oficial dos Açores que o DRE guarda. Tipos marcados com * são sobretudo da 2.ª Série.
+Verificado em 2026-10-27 com `leis-portugal collect dre --missing`: documentos que o DRE lista nos sitemaps públicos (1078629), dos quais 385378 estão no acervo e 693251 faltam. Os sitemaps incluem o catálogo do Jornal Oficial dos Açores que o DRE guarda. Tipos marcados com * são sobretudo da 2.ª Série.
 
 | Tipo | No DRE | No acervo | Em falta |
 |---|---:|---:|---:|
@@ -433,10 +433,10 @@ Verificado em 2026-10-27 com `leis-portugal collect dre --missing`: documentos q
 | Regimento | 22 | 21 | 1 |
 | Regimento da Assembleia da República | 6 | 6 | 0 |
 | Regimento do Conselho de Estado | 2 | 2 | 0 |
-| Regulamento * | 18868 | 18862 | 6 |
+| Regulamento * | 18874 | 18867 | 7 |
 | Regulamento da CMVM | 198 | 198 | 0 |
 | Diretiva * | 278 | 51 | 227 |
-| Deliberação * | 23510 | 23508 | 2 |
+| Deliberação * | 23514 | 23510 | 4 |
 | Acordo Coletivo de Trabalho * | 2142 | 2142 | 0 |
 
 ## Registos existentes

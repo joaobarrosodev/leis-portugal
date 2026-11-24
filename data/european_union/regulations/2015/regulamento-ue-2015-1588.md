@@ -97,6 +97,10 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/bebb1f27-47e3-4075-8276-3288c06d9aac
   date: '2012-11-23'
 - type: cited_by
+  target: pt:dre:1197639572:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:208379168:por
   label: null
   source: null

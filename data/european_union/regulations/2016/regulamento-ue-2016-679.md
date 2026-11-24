@@ -1015,6 +1015,14 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:1197639811:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:1197639827:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:120108010:por
   label: null
   source: null
