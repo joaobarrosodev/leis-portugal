@@ -1184,6 +1184,22 @@ O João decidiu publicar o que se fez de 20 a 23/11 em três passos, cada um med
 - **O texto corrido não custa nada que se meça** (com e sem: 5 ganhos e 5 perdas, top 10 com 2 e sem 4). Nenhuma pergunta de avaliação tem a fonte num diploma que ele passa a ler, por isso a medição não vê o ganho (126.384 artigos de 10.542 registos antigos com número). Publicou-se a versão com texto corrido.
 - **Publicado no Hugging Face a 23/11/2026** como delta de 2026-11-20 para 2026-11-23 (42,3 MB). A descarga como a aplicação faz (completa de 16/11 mais os três deltas) dá `documentos`, `pedacos`, `relacoes`, `so_referencia` e `perguntas_artigo` iguais linha a linha ao publicado, e o FTS passa o `integrity-check`.
 
+## Publicação em três passos, passo 2: os dados do DRE (24/11/2026)
+
+O passo 2 é o main em `418ac3dfd9a`: a recolha completa dos consolidados do DRE (`1db6fe3f267`, 226 de 6.039 mudaram), a vigência inferida com marca (1.893 diplomas em vigor por inferência, `bab2b9a9610`), as correções de leitura e nomes de 23/11 (CPT, DL 48/95, Registo Civil) e a 2.ª leva de perguntas por artigo. **Sem as correções da auditoria:** construído num worktree à parte, com os 360 ficheiros do `data/` mexidos pelos 8 commits da auditoria (de `33d7117f3ea` a `b6f165fc5ec`) postos como estavam antes dela; 12 desses ficheiros também tinham mudanças da recolha ou do `structure`, que ficam de fora neste índice e entram no passo 3.
+
+| | Passo 1 (`app011-intermedio`) | Passo 2 (`app011-passo2`) |
+|---|--:|--:|
+| Pedaços | 2.677.569 | 2.678.593 |
+| Certas (de 1.298) | 635 | 638 |
+| «Sem resposta» respondidas | 5 | 5 |
+| Artigo certo em 1.º | 775 | 780 |
+| Artigo certo no top 10 | 1.070 | 1.077 |
+| Reais certas | 123 | 126 |
+| Reais, artigo no top 10 | 247 | 250 |
+
+Pergunta a pergunta: 6 ganhos (5 reais) e 3 perdas, duas delas com a nota do reranker logo abaixo do limiar (2,89 e 2,96). Nenhuma «sem resposta» passa a ser respondida. **Publicado no Hugging Face a 24/11/2026** como delta de 2026-11-23 para 2026-11-24; a descarga como a aplicação faz (completa de 16/11 mais os quatro deltas) dá as mesmas linhas e o FTS passa o `integrity-check`.
+
 ## Próximos passos
 
 Por ordem de ganho esperado:
