@@ -1,0 +1,106 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:566595:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1990-11-10",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "ea5628d13693e627",
+    "7dabec2b29a4700d",
+    "3505a45f7cc3b3b4",
+    "7f747a14bb1c4119",
+    "ebdb3da45e075b0c",
+    "cf4c7e0b90e1fe66"
+   ]
+  },
+  {
+   "date": "1994-12-24",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:571177:por",
+     "title": "Decreto-Lei n.º 304/94",
+     "published": "1994-12-19",
+     "dre_path": "/dr/detalhe/decreto-lei/304-1994-571177"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "ea5628d13693e627",
+    "7dabec2b29a4700d",
+    "3505a45f7cc3b3b4",
+    "7f747a14bb1c4119",
+    "9e219ecf91c03bff",
+    "cf4c7e0b90e1fe66"
+   ]
+  }
+ ],
+ "fragments": {
+  "ea5628d13693e627": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 10 de Novembro\n\nA modernização e desenvolvimento das empresas na região de Castelo Branco impõe a criação de uma Escola Superior de Tecnologia e de Gestão no âmbito do Instituto Politécnico aí existente que funcione como pólo de progresso científico e económico, formando técnicos qualificados de nível superior.\n\nImporta também consolidar laços de cooperação entre estabelecimentos de ensino, autarquias locais e empresas, de forma a possibilitar a expansão do sistema de ensino superior e o reforço da participação das escolas nas comunidades em que estão inseridas.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "7dabec2b29a4700d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Criação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Criação\n\nÉ criada a Escola Superior de Tecnologia e de Gestão no Instituto Politécnico de Castelo Branco, adiante designada por ESTIG."
+  },
+  "3505a45f7cc3b3b4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Regime aplicável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Regime aplicável\n\nA ESTIG rege-se pelo diposto no presente diploma, na lei geral e no respectivo estatuto."
+  },
+  "7f747a14bb1c4119": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Atribuições\n\nConstituem atribuições da ESTIG:\n\na) Realizar cursos de bacharelato e de estudos superiores especializados e cursos de actualização ou especialização de quadros técnicos empresariais;\n\nb) Cooperar com empresas para a realização de estágios de formação profissional e de módulos de ensino/aprendizagem;\n\nc) Realizar projectos de investigação aplicada e de desenvolvimento experimental, prioritariamente em cooperação com a comunidade empresarial;\n\nd) Dar apoio técnico a empresas e instituições, públicas ou privadas, assistindo-as na orientação e execução da investigação e desenvolvimento industrial;\n\ne) Promover a realização de conferências, seminários, encontros e congressos."
+  },
+  "ebdb3da45e075b0c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Pessoal\n\n1 - O pessoal docente e não docente necessário ao funcionamento da ESTIG será recrutado ao abrigo das disposições legais aplicáveis sobre instrumentos de mobilidade entre funcionários ou agentes de serviços e organismos públicos, em geral, e do Instituto Politécnico de Castelo Branco, em particular, não abrindo, no entanto, vaga no lugar de origem.\n\n2 - Sem prejuízo do disposto no número anterior, o pessoal, docente e não docente, que irá prestar serviço na ESTIG poderá ainda ser afectado com recurso a um dos mecanismos seguintes:\n\na) Celebração de protocolos com outros estabelecimentos do Instituto Politécnico de Castelo Branco ou com outras instituições públicas;\n\nb) Contratação em regime de contrato de trabalho a termo certo, nos termos da lei aplicável à Administração Pública.\n\n3 - Poderão ainda prestar serviço na ESTIG professores, gestores e consultores, nacionais ou estrangeiros, com sólida experiência profissional e capacidade técnica e pedagógica, contratados por entidades privadas para desempenhar funções de docência ou outras, desde que expressamente aceites pela Escola.\n\nReceitas\n\n1 - Constituem receitas da ESTIG:\n\na) As provenientes do pagamento de propinas que lhe sejam afectas pelo Instituto;\n\nb) As cobradas pela prestação de serviços;\n\nc) Os subsídios, subvenções, comparticipações, doações, heranças e legados;\n\nd) O produto da venda de bens ou de publicações;\n\ne) Os juros de contas de depósito.\n\n2 - Todas as despesas da ESTIG, incluindo todos os encargos com remunerações do pessoal docente e não docente, recrutado sob qualquer forma, nos termos dos artigos anteriores, são integralmente cobertas pelas receitas previstas no número anterior.\n\n3 - É vedado à ESTIG contrair empréstimos."
+  },
+  "cf4c7e0b90e1fe66": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Comissão de instalação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Comissão de instalação\n\n1 - O presidente do Instituto Politécnico de Castelo Branco nomeará uma comissão, composta por cinco membros, incumbida da instalação da ESTIG.\n\n2 - A comissão terá o máximo de 60 dias para tomar as resoluções e propor as medidas necessárias ao início de funcionamento normal da ESTIG.\n\nVisto e aprovado em Conselho de Ministros de 27 de Setembro de 1990. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Luís Francisco Valente de Oliveira - Roberto Artur da Luz Carneiro.\n\nPromulgado em 25 de Outubro de 1990.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 29 de Outubro de 1990.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "9e219ecf91c03bff": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Pessoal",
+   "in_force_from": "1994-12-24",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 304/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/304-1994-571177), publicado em 1994-12-19."
+   ],
+   "markdown": "###### Artigo 4.º — Pessoal\n\n1 - O pessoal docente e não docente necessário ao funcionamento da ESTIG será recrutado ao abrigo das disposições legais aplicáveis sobre instrumentos de mobilidade entre funcionários ou agentes de serviços e organismos públicos, em geral, e do Instituto Politécnico de Castelo Branco, em particular, não abrindo, no entanto, vaga no lugar de origem.\n\n2 - Sem prejuízo do disposto no número anterior, o pessoal, docente e não docente, que irá prestar serviço na ESTIG poderá ainda ser afectado com recurso a um dos mecanismos seguintes:\n\na) Celebração de protocolos com outros estabelecimentos do Instituto Politécnico de Castelo Branco ou com outras instituições públicas;\n\nb) Contratação em regime de contrato de trabalho a termo certo, nos termos da lei aplicável à Administração Pública.\n\n3 - Poderão ainda prestar serviço na ESTIG professores, gestores e consultores, nacionais ou estrangeiros, com sólida experiência profissional e capacidade técnica e pedagógica, contratados por entidades privadas para desempenhar funções de docência ou outras, desde que expressamente aceites pela Escola.\n\nReceitas\n\n1 - Constituem receitas da ESTIG:\n\na) As provenientes do pagamento de propinas que lhe sejam afectas pelo Instituto;\n\nb) As cobradas pela prestação de serviços;\n\nc) Os subsídios, subvenções, comparticipações, doações, heranças e legados;\n\nd) O produto da venda de bens ou de publicações;\n\ne) Os juros de contas de depósito.\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\n> Alterado pelo/a [Decreto-Lei n.º 304/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/304-1994-571177), publicado em 1994-12-19."
+  }
+ }
+}

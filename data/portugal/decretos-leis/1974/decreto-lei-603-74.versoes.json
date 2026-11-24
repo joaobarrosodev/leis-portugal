@@ -1,0 +1,58 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:465399:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1974-11-12",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "b7713a01b2c0ec99"
+   ]
+  },
+  {
+   "date": "1975-05-21",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:336166:por",
+     "title": "Decreto-Lei n.º 244/75",
+     "published": "1975-05-21",
+     "dre_path": "/dr/detalhe/decreto-lei/244-1975-336166"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 13-13",
+    "Altera Artigo unidades 17-17"
+   ],
+   "fragments": [
+    "965443db8472ca75"
+   ]
+  }
+ ],
+ "fragments": {
+  "b7713a01b2c0ec99": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 12 de Novembro\n\n1. O [Decreto-Lei n.º 28404](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28404-1937-668690), de 31 de Dezembro de 1937, indicava o factor 1/36, na forma para o cálculo das pensões de reserva e de reforma dos militares, o que significava o direito à pensão por inteiro com trinta e seis anos de serviço.\n\nPosteriormente, numa atitude que teve por fonte razões puramente económicas, o referido factor foi aumentado para 1/40.\n\nTodavia, o extraordinário esforço físico e moral exigido aos quadros permanentes das forças armadas a partir da década de sessenta, ao longo de sucessivas comissões no ultramar, num serviço de campanha que conduziu ao profundo desgaste de todo o seu pessoal, obriga, agora, à revisão do referido factor.\n\nEsta medida corresponde, pois, não só a um imperativo de justiça de que a Nação se não deve alhear, mas também à adopção do único critério realista que se oferece, dada a notória exaustão dos referidos quadros, em flagrante contraste com a situação do restante funcionalismo público.\n\nPor outro lado, a retracção do dispositivo militar, em consequência da descolonização em curso, levará a concentrar no País um número de oficiais e sargentos dos quadros permanentes que em muito excederá as necessidades normais das forças armadas, tornando assim possível a adopção da medida preconizada, tanto mais que estes elementos poderão, na presente conjuntura de reestruturação nacional, vir a ser muito úteis noutros sectores da vida pública ou privada.\n\nFinalmente, esta mesma medida, destinada como é a enfrentar uma situação de facto que se julga transitória, não impede que, cessado o condicionalismo que a motivou, se regresse ao factor geral de 1/40.\n\n2. Uma outra questão se põe relativamente à contagem das percentagens de tempo de serviço, previstas, por exemplo, no § 1.º do artigo 6.º do [Decreto-Lei n.º 28404](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28404-1937-668690), de 31 de Dezembro de 1937, no § 1.º do artigo 6.º do [Decreto-Lei n.º 30250](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30250-1939-534615), de 30 de Dezembro de 1938, e no [Decreto-Lei n.º 45084](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45084-1963-627391), de 25 de Junho de 1963.\n\nCom efeito, não tem havido nalguns sectores entendimento pacífico e uniforme a tal respeito, pelo que existe interesse em esclarecer definitivamente o assunto por via legal.\n\nNestes termos:\n\nUsando da faculdade conferida pelo n.º 1 do artigo 1.º da Lei Constitucional n.º 4/74, de 1 de Julho, o Conselho dos Chefes dos Estados-Maiores das Forças Armadas decreta e eu promulgo, para valer como lei, o seguinte:\n\nArtigo 1.º As pensões de reserva dos militares são iguais à trigésima sexta parte da remuneração que serve de base ao cálculo, líquido da respectiva quota e multiplicada pelo número de anos de serviço contados, no qual não pode ser atribuído valor superior a trinta e seis.\n\nArt. 2.º - 1. As percentagens de aumento de tempo de serviço especialmente fixadas por lei são, para os efeitos de cálculo da pensão de reserva, contadas por acréscimo ao tempo de serviço.\n\n2. No caso de haver concorrência de percentagens de aumento do tempo de serviço, será apenas contada a mais elevada, salvo se a lei expressamente permitir a sua acumulação.\n\nArt. 3.º As pensões de reserva já fixadas devem ser revistas, considerando apenas as alterações previstas nos artigos anteriores, com direito aos quantitativos novos a partir de 1 de Setembro de 1974.\n\nArt. 4.º O disposto no presente decreto-lei aplica-se também às pensões de reforma de militares.\n\nVisto e aprovado em Conselho dos Chefes dos Estados-Maiores das Forças Armadas. - Francisco da Costa Gomes - José Baptista Pinheiro de Azevedo - Carlos Alberto Idães Soares Fabião - Narciso Mendes Dias - António de Almeida Santos - Victor Manuel Rodrigues Alves - José da Silva Lopes.\n\nPromulgado em 31 de Outubro de 1974.\n\nPublique-se.\n\nO Presidente da República, FRANCISCO DA COSTA GOMES.\n\nPara ser publicado nos Boletins Oficiais de todos os territórios ultramarinos. - A. Almeida Santos."
+  },
+  "965443db8472ca75": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1975-05-21",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 244/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/244-1975-336166), publicado em 1975-05-21.",
+    "Alterado pelo/a [Decreto-Lei n.º 244/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/244-1975-336166), publicado em 1975-05-21."
+   ],
+   "markdown": "de 12 de Novembro\n\n1. O [Decreto-Lei n.º 28404](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28404-1937-668690), de 31 de Dezembro de 1937, indicava o factor 1/36, na forma para o cálculo das pensões de reserva e de reforma dos militares, o que significava o direito à pensão por inteiro com trinta e seis anos de serviço.\n\nPosteriormente, numa atitude que teve por fonte razões puramente económicas, o referido factor foi aumentado para 1/40.\n\nTodavia, o extraordinário esforço físico e moral exigido aos quadros permanentes das forças armadas a partir da década de sessenta, ao longo de sucessivas comissões no ultramar, num serviço de campanha que conduziu ao profundo desgaste de todo o seu pessoal, obriga, agora, à revisão do referido factor.\n\nEsta medida corresponde, pois, não só a um imperativo de justiça de que a Nação se não deve alhear, mas também à adopção do único critério realista que se oferece, dada a notória exaustão dos referidos quadros, em flagrante contraste com a situação do restante funcionalismo público.\n\nPor outro lado, a retracção do dispositivo militar, em consequência da descolonização em curso, levará a concentrar no País um número de oficiais e sargentos dos quadros permanentes que em muito excederá as necessidades normais das forças armadas, tornando assim possível a adopção da medida preconizada, tanto mais que estes elementos poderão, na presente conjuntura de reestruturação nacional, vir a ser muito úteis noutros sectores da vida pública ou privada.\n\nFinalmente, esta mesma medida, destinada como é a enfrentar uma situação de facto que se julga transitória, não impede que, cessado o condicionalismo que a motivou, se regresse ao factor geral de 1/40.\n\n2. Uma outra questão se põe relativamente à contagem das percentagens de tempo de serviço, previstas, por exemplo, no § 1.º do artigo 6.º do [Decreto-Lei n.º 28404](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28404-1937-668690), de 31 de Dezembro de 1937, no § 1.º do artigo 6.º do [Decreto-Lei n.º 30250](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30250-1939-534615), de 30 de Dezembro de 1938, e no [Decreto-Lei n.º 45084](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45084-1963-627391), de 25 de Junho de 1963.\n\nCom efeito, não tem havido nalguns sectores entendimento pacífico e uniforme a tal respeito, pelo que existe interesse em esclarecer definitivamente o assunto por via legal.\n\nNestes termos:\n\nUsando da faculdade conferida pelo n.º 1 do artigo 1.º da Lei Constitucional n.º 4/74, de 1 de Julho, o Conselho dos Chefes dos Estados-Maiores das Forças Armadas decreta e eu promulgo, para valer como lei, o seguinte:\n\nArtigo 1.º As pensões de reserva dos militares são iguais à trigésima sexta parte da remuneração ilíquida que serve de base ao seu cálculo, multiplicada pelo número de anos de serviço contados, ao qual não pode ser atribuído valor superior a trinta e seis, continuando o desconto da quota para a Caixa Geral de Aposentações a ser feito em folha.\n\n> Alterado pelo/a [Decreto-Lei n.º 244/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/244-1975-336166), publicado em 1975-05-21.\n\nArt. 2.º - 1. As percentagens de aumento de tempo de serviço especialmente fixadas por lei são, para os efeitos de cálculo da pensão de reserva, contadas por acréscimo ao tempo de serviço.\n\n2. No caso de haver concorrência de percentagens de aumento do tempo de serviço, será apenas contada a mais elevada, salvo se a lei expressamente permitir a sua acumulação.\n\nArt. 3.º As pensões de reserva já fixadas devem ser revistas, considerando apenas as alterações previstas nos artigos anteriores, com direito aos quantitativos novos a partir de 1 de Setembro de 1974.\n\nArt. 4.º As disposições dos artigos anteriores aplicam-se também às pensões de reforma dos militares, sendo o seu cálculo efectuado nos mesmos termos dos estabelecidos para a reserva, mas a remuneração que lhe serve de base tornar-se-á líquida da respectiva quota.\n\n> Alterado pelo/a [Decreto-Lei n.º 244/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/244-1975-336166), publicado em 1975-05-21.\n\nVisto e aprovado em Conselho dos Chefes dos Estados-Maiores das Forças Armadas. - Francisco da Costa Gomes - José Baptista Pinheiro de Azevedo - Carlos Alberto Idães Soares Fabião - Narciso Mendes Dias - António de Almeida Santos - Victor Manuel Rodrigues Alves - José da Silva Lopes.\n\nPromulgado em 31 de Outubro de 1974.\n\nPublique-se.\n\nO Presidente da República, FRANCISCO DA COSTA GOMES.\n\nPara ser publicado nos Boletins Oficiais de todos os territórios ultramarinos. - A. Almeida Santos."
+  }
+ }
+}

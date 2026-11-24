@@ -31,10 +31,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1977-01-05'
+version_history:
+  file: decreto-lei-46051.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1964-11-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1977-01-05'
+    amending: pt:dre:492675:por
+    amending_title: Decreto-Lei n.º 7/77
+    changes:
+    - Altera Artigo 2.º
 identifiers:
   celex: null
   eli: null
@@ -60,7 +74,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T21:51:16Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 7/77. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1964/decreto-lei-46051.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -125,11 +140,15 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º Os médicos, farmacêuticos, enfermeiros, auxiliares de enfermagem, parteiras, assistentes e auxiliares sociais, bem como os técnicos dos serviços complementares de diagnóstico e terapêutica que, a seu pedido, tenham sido exonerados dos quadros ou mapas de pessoal dos estabelecimentos e serviços do Ministério da Saúde e Assistência poderão, nos termos deste diploma, requerer a reintegração na categoria que tinham quando lhes foi concedida a exoneração.
+###### Artigo 1.º
+
+Os médicos, farmacêuticos, enfermeiros, auxiliares de enfermagem, parteiras, assistentes e auxiliares sociais, bem como os técnicos dos serviços complementares de diagnóstico e terapêutica que, a seu pedido, tenham sido exonerados dos quadros ou mapas de pessoal dos estabelecimentos e serviços do Ministério da Saúde e Assistência poderão, nos termos deste diploma, requerer a reintegração na categoria que tinham quando lhes foi concedida a exoneração.
 
 § único. O tempo de serviço efectivo prestado anteriormente à reintegração será contado para todos os efeitos legais.
 
-Art. 2.º A reintegração poderá ser autorizada por despacho do Ministro da Saúde e Assistência, quando se verifiquem cumulativamente as seguintes condições:
+###### Artigo 2.º
+
+A reintegração poderá ser autorizada por despacho do Ministro da Saúde e Assistência, quando se verifiquem cumulativamente as seguintes condições:
 
 1.ª Haver vaga na categoria respectiva;
 
@@ -145,9 +164,13 @@ Art. 2.º A reintegração poderá ser autorizada por despacho do Ministro da Sa
 
 7.ª Manter o requerente a robustez física indispensável ao exercício do cargo, comprovada nos termos da legislação em vigor;
 
-8.ª Não ter o requerente idade superior a 55 anos na data do deferimento da pretensão.
+8.ª (Revogada.)
 
-Art. 3.º Fica revogado o [Decreto n.º 22144](https://diariodarepublica.pt/dr/detalhe/decreto/22144-1933-267673), de 20 de Janeiro de 1933.
+> Alterado pelo/a [Decreto-Lei n.º 7/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-1977-492675), publicado em 1977-01-05.
+
+###### Artigo 3.º
+
+Fica revogado o [Decreto n.º 22144](https://diariodarepublica.pt/dr/detalhe/decreto/22144-1933-267673), de 20 de Janeiro de 1933.
 
 Publique-se e cumpra-se como nele se contém.
 

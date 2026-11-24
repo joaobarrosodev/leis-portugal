@@ -1,0 +1,156 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:279627:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1977-12-16",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "b4273d39b4eec817",
+    "a69fd4b5170def95",
+    "22a9933ac473e9b9",
+    "7cd596439fae61da",
+    "0b22c1f51e771d66",
+    "9a0b6f4b2625d43a",
+    "86d6c814e5416355",
+    "84aa2574b039f8fc",
+    "2a45ee03492e39e2",
+    "0b154ddd587561cc",
+    "33f405d9a80c7e03"
+   ]
+  },
+  {
+   "date": "1977-12-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:448945:por",
+     "title": "Declaração",
+     "published": "1978-01-24",
+     "dre_path": "/dr/detalhe/declaracao/1978-448945"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "b4273d39b4eec817",
+    "a69fd4b5170def95",
+    "22a9933ac473e9b9",
+    "7cd596439fae61da",
+    "0b22c1f51e771d66",
+    "6278d9c8b0924bf9",
+    "86d6c814e5416355",
+    "84aa2574b039f8fc",
+    "2a45ee03492e39e2",
+    "0b154ddd587561cc",
+    "33f405d9a80c7e03"
+   ]
+  }
+ ],
+ "fragments": {
+  "b4273d39b4eec817": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 16 de Dezembro\n\nEm execução do disposto no artigo 29.º do [Decreto-Lei n.º 464/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/464-1977-280768), de 11 de Novembro:\n\nO Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:"
+  },
+  "a69fd4b5170def95": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nÉ criado o Núcleo de Informática, adiante designado por Núcleo, na Direcção-Geral das Contribuições e Impostos, que funcionará na inteira dependência do director-geral."
+  },
+  "22a9933ac473e9b9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nO quadro do pessoal do Núcleo consta do mapa anexo ao presente diploma."
+  },
+  "7cd596439fae61da": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1 - O Núcleo é dirigido por um funcionário com a categoria de director de finanças ou equivalente, nomeado, em comissão de serviço, pelo Ministro das Finanças, mediante proposta do director-geral.\n\n2 - O director de finanças nomeado mantém os direitos e os deveres estabelecidos na Organização da Direcção-Geral das Contribuições e Impostos, aprovada pelo [Decreto n.º 45095](https://diariodarepublica.pt/dr/detalhe/decreto/45095-1963-693236), de 29 de Junho de 1963, e legislação complementar."
+  },
+  "0b22c1f51e771d66": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — (Competências)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — (Competências)\n\n1 - Para a realização das atribuições fixadas no artigo 28.º do [Decreto-Lei n.º 464/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/464-1977-280768), de 11 de Novembro, o pessoal do Núcleo tem as competências referidas nos números seguintes:\n\n2 - Incumbe ao director:\n\na) Submeter ao director-geral, para apreciação, as conclusões dos estudos realizados pelo Instituto de Informática, no âmbito do desenvolvimento dos Planos Directores de Organização e Informática, e respectivos projectos;\n\nb) Dirigir e coordenar a aplicação das medidas ou recomendações que forem aprovadas no domínio das atribuições do Núcleo;\n\nc) Informar o director-geral sobre irregularidades de mau funcionamento de qualquer sector da Direcção-Geral em relação às matérias da sua competência, em especial no que se refere aos circuitos estabelecidos;\n\nd) Prever a evolução dos serviços da Direcção-Geral das Contribuições e Impostos de acordo com as informações prestadas pelo Núcleo, pondo o director-geral permanentemente ao corrente dessa possível evolução.\n\n3 - Incumbe ao correspondente de informática-chefe:\n\na) Coordenar as actividades de correspondência informática e de colheita de dados;\n\nb) Assegurar em boas condições a ligação ao Centro Processador (CP) e aos demais serviços;\n\nc) Coadjuvar o director do Núcleo e substituí-lo nos seus impedimentos.\n\n4 - Incumbe aos correspondentes de informática:\n\na) Estabelecer a ligação com os demais serviços no que respeita aos sistemas de informação com tratamento automático de dados em funcionamento, nomeadamente para recolha, transcrição, tratamento e armazenamento de dados;\n\nb) Controlar a qualidade dos dados e a sua preparação e codificação para efeitos de tratamento;\n\nc) Estabelecer a ligação ao CP com vista ao bom andamento das tarefas de rotina e ao fornecimento dos dados a tratar, já em suporte adequado;\n\nd) Investigar e corrigir erros denunciados através de operações de validação, que em regra se realizam no início de cada tarefa;\n\ne) Controlar os relatórios recebidos do CP e disseminá-los pelos serviços interessados;\n\nf) Apoiar os analistas do Instituto de Informática do Ministério das Finanças na implementação de novas aplicações informáticas.\n\n5 - Incumbe aos monitores:\n\na) Superintender no pessoal operador do respectivo turno;\n\nb) Distribuir o trabalho pelos diferentes operadores de registo de dados;\n\nc) Controlar o rendimento e a qualidade dos resultados obtidos;\n\nd) Velar pelo cumprimento dos prazos de execução;\n\ne) Manter actualizados os manuais de operação do equipamento de registo de dados;\n\nf) Zelar pelo bom funcionamento das máquinas e providenciar pela sua rápida reparação;\n\ng) Orientar a formação dos operadores de registos de dados;\n\nh) Detectar os pontos de estrangulamento na execução das tarefas e providenciar para a sua eliminação.\n\n6 - Incumbe aos operadores de colheita de dados:\n\na) Transcrever os dados para suporte adequado ao processamento automático;\n\nb) Colaborar nas operações destinadas a garantir a boa qualidade dos dados;\n\nc) Operar as máquinas periféricas afectas ao Núcleo;\n\nd) Elaborar os programas específicos da sua actividade."
+  },
+  "9a0b6f4b2625d43a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1 - Os lugares de operador de colheita de dados de 2.ª classe serão providos, mediante teste de aptidão, de entre indivíduos maiores de 18 anos habilitados com o curso geral dos liceus ou habilitação equivalente.\n\n2 - Os lugares de operador de colheita de dados de 1.ª classe serão providos de entre operadores de colheita de dados de 2.ª classe com três anos nesta categoria, que tenham boas informações de serviço e aprovação em teste de aptidão.\n\n3 - Os lugares de monitor serão providos de entre operadores de colheita de dados de 1.ª classe com três anos de serviço e boas informações, mediante teste de aptidão.\n\n4 - Os lugares de correspondente de informática de 2.ª classe serão providos de entre segundos-oficiais finanças com três anos de serviço na categoria ou secretários de finanças de 3.ª classe, mediante teste de aptidão, sendo em igualdade de circunstâncias dada a preferência a secretários de finanças de 3.ª classe.\n\n5 - Os lugares de correspondente de informática de 1.ª classe serão providos:\n\na) Por operadores de colheita de dados de 1.ª classe, mediante aprovação em teste de aptidão;\n\nb) Por correspondentes de informática de 2.ª classe com três anos nesta categoria, mediante aprovação em teste de aptidão.\n\n6 - Os lugares de correspondente de informática principal serão providos, mediante teste de aptidão, de entre:\n\na) Correspondentes de informática de 1.ª classe com três anos nesta categoria, ou\n\nb) Monitores com três anos de serviço.\n\n7 - O lugar de correspondente de informática-chefe será provido de entre os correspondentes de informática principais com três anos de serviço na categoria, mediante teste de aptidão.\n\n8 - O provimento nos lugares de ingresso nas diferentes funções a que se referem os n.os 1, 4 e 5, alínea a), fica ainda condicionado à realização de um estágio com aproveitamento, cuja duração contará para efeitos de antiguidade na respectiva categoria.\n\n9 - Os testes de aptidão e os estágios referidos nos números anteriores serão definidos por despacho do director-geral."
+  },
+  "86d6c814e5416355": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nO horário de trabalho poderá ser fixado tendo em atenção os condicionalismos exigidos pela natureza específica das actividades do Núcleo, mediante homologação do Ministro das Finanças e do Secretário de Estado da Administração Pública."
+  },
+  "84aa2574b039f8fc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1 - O Núcleo organizará, em colaboração com o Instituto de Informática do Ministério das Finanças, cursos de formação, de aperfeiçoamento ou de especialização e, sempre que o considere conveniente, proporá que tais cursos sejam extensivos a outros departamentos.\n\n2 - Promoverá, ainda, a divulgação das novas técnica e dos novos métodos necessários à implantação dos sistemas."
+  },
+  "2a45ee03492e39e2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nO pessoal para apoio administrativo, bem como o pessoal auxiliar, será designado por despacho do director-geral entre indivíduos do quadro geral."
+  },
+  "0b154ddd587561cc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — (Disposição transitória)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — (Disposição transitória)\n\n1 - O pessoal dos Serviços Mecanográficos do Ministério das Finanças com as habilitações exigíveis poderá transitar, em primeiro provimento e em conformidade com o n.º 1 do artigo 33.º do [Decreto-Lei n.º 464/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/464-1977-280768), de 11 de Novembro, para lugares previstos no artigo 5.º do presente diploma, mediante lista a aprovar pelo Ministro das Finanças, ouvido o director-geral, e independentemente de quaisquer outras formalidades, salvo o visto do Tribunal de Contas e a publicação no Diário da República.\n\n2 - Para todos os efeitos será contado o tempo de serviço prestado a qualquer título nos Serviços Mecanográficos, sempre que da transição para o quadro do Núcleo não tenha resultado provimento em categoria superior à que o agente actualmente detém."
+  },
+  "33f405d9a80c7e03": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nAs dúvidas resultantes da aplicação deste diploma serão resolvidas por despacho do Ministro das Finanças ou do Secretário de Estado da Administração Pública, de acordo com as respectivas competências.\n\nMário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Henrique Medina Carreira.\n\nPromulgado em 7 de Dezembro de 1977.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nQuadro do pessoal do Núcleo de Informática\n\nAnexo ao Decreto Regulamentar n.º 84/77\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/12/28900/29702972.pdf)\n\nO Ministro das Finanças, Henrique Medina Carreira - O Secretário de Estado da Administração Pública, José Dias dos Santos Pais."
+  },
+  "6278d9c8b0924bf9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": "1977-12-16",
+   "changed_by": [
+    "Alterado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1978-448945), publicado em 1978-01-24."
+   ],
+   "markdown": "###### Artigo 5.º\n\n1 - Os lugares de operador de colheita de dados de 2.ª classe serão providos, mediante teste de aptidão, de entre indivíduos maiores de 18 anos habilitados com o curso geral dos liceus ou habilitação equivalente.\n\n2 - Os lugares de operador de colheita de dados de 1.ª classe serão providos de entre operadores de colheita de dados de 2.ª classe com três anos nesta categoria, que tenham boas informações de serviço e aprovação em teste de aptidão.\n\n3 - Os lugares de monitor serão providos de entre operadores de colheita de dados de 1.ª classe com três anos de serviço e boas informações, mediante teste de aptidão.\n\n4 - Os lugares de correspondente de informática de 2.ª classe serão providos de entre aspirantes de finanças com três anos de serviço na categoria ou secretários de finanças de 3.ª classe, mediante teste de aptidão, sendo em igualdade de circunstâncias dada a preferência a secretários de finanças de 3.ª classe.\n\n5 - Os lugares de correspondente de informática de 1.ª classe serão providos:\n\na) Por operadores de colheita de dados de 1.ª classe, mediante aprovação em teste de aptidão;\n\nb) Por correspondentes de informática de 2.ª classe com três anos nesta categoria, mediante aprovação em teste de aptidão.\n\n6 - Os lugares de correspondente de informática principal serão providos, mediante teste de aptidão, de entre:\n\na) Correspondentes de informática de 1.ª classe com três anos nesta categoria, ou\n\nb) Monitores com três anos de serviço.\n\n7 - O lugar de correspondente de informática-chefe será provido de entre os correspondentes de informática principais com três anos de serviço na categoria, mediante teste de aptidão.\n\n8 - O provimento nos lugares de ingresso nas diferentes funções a que se referem os n.os 1, 4 e 5, alínea a), fica ainda condicionado à realização de um estágio com aproveitamento, cuja duração contará para efeitos de antiguidade na respectiva categoria.\n\n9 - Os testes de aptidão e os estágios referidos nos números anteriores serão definidos por despacho do director-geral.\n\n> Alterado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1978-448945), publicado em 1978-01-24."
+  }
+ }
+}

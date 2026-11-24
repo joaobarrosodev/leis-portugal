@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1994-12-24'
+version_history:
+  file: decreto-lei-355-90.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1990-11-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1994-12-24'
+    amending: pt:dre:571177:por
+    amending_title: Decreto-Lei n.º 304/94
+    changes:
+    - Altera Artigo 4.º
 identifiers:
   celex: null
   eli: null
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:03:35Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 304/94. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1990/decreto-lei-355-90.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -173,9 +188,11 @@ d) O produto da venda de bens ou de publicações;
 
 e) Os juros de contas de depósito.
 
-2 - Todas as despesas da ESTIG, incluindo todos os encargos com remunerações do pessoal docente e não docente, recrutado sob qualquer forma, nos termos dos artigos anteriores, são integralmente cobertas pelas receitas previstas no número anterior.
+2 - (Revogado.)
 
-3 - É vedado à ESTIG contrair empréstimos.
+3 - (Revogado.)
+
+> Alterado pelo/a [Decreto-Lei n.º 304/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/304-1994-571177), publicado em 1994-12-19.
 
 ###### Artigo 6.º — Comissão de instalação
 

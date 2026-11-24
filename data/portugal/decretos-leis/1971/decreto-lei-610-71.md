@@ -41,10 +41,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1972-12-19'
+version_history:
+  file: decreto-lei-610-71.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1971-12-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1972-12-19'
+    amending: pt:dre:685590:por
+    amending_title: Decreto-Lei n.º 525/72
+    changes:
+    - Altera Artigo 1.º
 identifiers:
   celex: null
   eli: null
@@ -70,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:21:38Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 525/72. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1971/decreto-lei-610-71.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -123,15 +138,23 @@ de 30 de Dezembro
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º Além do pessoal dos quadros poderá ser contratado ou assalariado outro pessoal necessário aos serviços das Direcções-Gerais de Transportes Terrestres, de Viação e de Portos, desde que nos respectivos orçamentos tenham cabimento as despesas correspondentes.
+###### Artigo 1.º
 
-Ant. 2.º - 1. O pessoal contratado nos termos da legislação própria do Gabinete de Estudos e Planeamento de Transportes Terrestres, da Comissão de Reorganização e Simplificação de Serviços e da Junta Central de Portos que não ingresse nos quadros das Direcções-Gerais de Transportes Terrestres, de Viação ou de Portos ao abrigo das disposições do [Decreto-Lei n.º 488/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/488-1971-631264), de 9 de Novembro, transita para estas na situação que presentemente ocupa, mantendo-se válidos, mediante simples averbamento visado pelo Ministro das Comunicações, os respectivos contratos.
+Além do pessoal dos quadros poderá ser contratado ou assalariado outro pessoal necessário aos serviços das Direcções-Gerais de Transportes Terrestres, de Viação e de Portos, desde que nos respectivos orçamentos tenham cabimento as despesas correspondentes.
+
+Art. 2.º - 1. O pessoal contratado e assalariado nos termos da legislação própria do Gabinete de Estudos e Planeamento de Transportes Terrestres, da Comissão de Reorganização e Simplificação de Serviços, da Junta Central de Portos, da Direcção-Geral dos Serviços Hidráulicos e da Direcção-Geral de Transportes Terrestres que não ingresse nos quadros das Direcções-Gerais de Transportes Terrestres, de Viação ou de Portos ao abrigo das disposições do [Decreto-Lei n.º 488/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/488-1971-631264), de 9 de Novembro, transita para estas na situação ocupada em 31 de Dezembro de 1971, mantendo-se válidos, mediante simples averbamento visado pelo Ministro das Comunicações, os respectivos termos de contrato ou de assalariamento.
 
 2. Por igual forma se consideram válidos os contratos de prestação de serviços.
 
-Art. 3.º É tornado extensivo a todos os directores dos serviços externos da Direcção-Geral de Viação o disposto no artigo 40.º do [Decreto-Lei n.º 26117](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26117-1935-636887), de 23 de Novembro de 1935, para os directores dos serviços externos com sede em Lisboa e Porto.
+> Alterado pelo/a [Decreto-Lei n.º 525/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/525-1972-685590), publicado em 1972-12-19.
 
-Art. 4.º O presente diploma entrará em vigor no dia 1 de Janeiro de 1972.
+###### Artigo 3.º
+
+É tornado extensivo a todos os directores dos serviços externos da Direcção-Geral de Viação o disposto no artigo 40.º do [Decreto-Lei n.º 26117](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26117-1935-636887), de 23 de Novembro de 1935, para os directores dos serviços externos com sede em Lisboa e Porto.
+
+###### Artigo 4.º
+
+O presente diploma entrará em vigor no dia 1 de Janeiro de 1972.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Rui Alves da Silva Sanches.
 

@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1993-08-31'
+version_history:
+  file: decreto-lei-237-93.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1993-07-03'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1993-08-31'
+    amending: pt:dre:566794:por
+    amending_title: Declaração de Rectificação n.º 147/93
+    changes:
+    - Altera Artigo 3.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/237/1993/07/03/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:24:47Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 147/93.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1993/decreto-lei-237-93.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -122,15 +137,21 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-Artigo 1.º - 1 - O Estado pode celebrar convenções de arbitragem com cada um dos hemofílicos ou seus herdeiros legais que invoquem o direito a obter uma indemnização deste pelos danos causados pela ministração, em estabelecimentos de saúde pública, de medicamentos derivados do plasma humano, importados, eventualmente contaminados com o vírus da sida.
+###### Artigo 1.º
+
+1 - O Estado pode celebrar convenções de arbitragem com cada um dos hemofílicos ou seus herdeiros legais que invoquem o direito a obter uma indemnização deste pelos danos causados pela ministração, em estabelecimentos de saúde pública, de medicamentos derivados do plasma humano, importados, eventualmente contaminados com o vírus da sida.
 
 2 - Para os efeitos previstos no número anterior, o Estado é representado pelos Ministros das Finanças, da Justiça e da Saúde.
 
-Art. 2.º - 1 - A resolução do litígio que é objecto da convenção, bem como o apuramento de eventual indemnização, é confiada a um tribunal arbitral instalado no Centro de Arbitragem Voluntária da Ordem dos Advogados, cuja constituição obedece às regras estabelecidas no respectivo regulamento.
+###### Artigo 2.º
+
+1 - A resolução do litígio que é objecto da convenção, bem como o apuramento de eventual indemnização, é confiada a um tribunal arbitral instalado no Centro de Arbitragem Voluntária da Ordem dos Advogados, cuja constituição obedece às regras estabelecidas no respectivo regulamento.
 
 2 - Na convenção de arbitragem devem os Ministros das Finanças, da Justiça e da Saúde designar o árbitro que representa o Estado, em vista à constituição do tribunal arbitral.
 
-Art. 3.º - 1 - Os Ministros das Finanças, da Justiça e da Saúde celebram as convenções de arbitragem a que se referem os n.os 1 e 2 do artigo 1.º desde que nelas seja estabelecido:
+###### Artigo 3.º
+
+1 - Os Ministros das Finanças, da Justiça e da Saúde celebram as convenções de arbitragem a que se referem os n.os 1 e 2 do artigo 1.º desde que nelas seja estabelecido:
 
 a) A concessão de autorização aos árbitros para julgarem segundo a equidade, tendo em consideração, entre outros, os critérios da idade e da responsabilidade familiar;
 
@@ -140,11 +161,15 @@ c) A fixação do prazo de três meses, contados de acordo com a lei processual,
 
 d) O valor a que a indemnização pode ascender, no caso de o tribunal arbitral reconhecer esse direito;
 
-e) A desistência do pedido, caso esteja pendente em tribunal judicial acção cuja causa de pedir seja a mesma daquela que o tribunal arbitral deva decidir.
+e) A desistência da instância, caso esteja pendente em tribunal judicial acção cuja causa de pedir seja a mesma daquela que o tribunal arbitral deva decidir.
 
-2 - Para os efeitos previstos na alínea e) do número anterior, deve a parte que pretenda instaurar a acção no tribunal arbitral juntar certidão de sentença homologatória que incidiu sobre a desistência do pedido.
+2 - Para os efeitos previstos na alínea e) do número anterior, deve a parte que pretenda instaurar a acção no tribunal arbitral juntar certidão de sentença homologatória que incidiu sobre a desistência da instância.
 
-Art. 4.º - 1 - Consideram-se estabelecidas as convenções de arbitragem, mediante simples declaração de adesão de um ou mais interessados em conjunto à proposta de convenção apresentada pelos Ministros das Finanças, da Justiça e da Saúde, desde que:
+> Alterado pelo/a [Declaração de Rectificação n.º 147/93](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/147-1993-566794), publicado em 1993-08-31.
+
+###### Artigo 4.º
+
+1 - Consideram-se estabelecidas as convenções de arbitragem, mediante simples declaração de adesão de um ou mais interessados em conjunto à proposta de convenção apresentada pelos Ministros das Finanças, da Justiça e da Saúde, desde que:
 
 a) A declaração seja subscrita por pessoa devidamente identificada, ou pelo seu legal representante, que invoque o direito à indemnização com fundamento nos danos causados pelos factos previstos no n.º 1 do artigo 1.º;
 

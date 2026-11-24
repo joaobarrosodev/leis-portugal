@@ -31,10 +31,28 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1975-05-21'
+version_history:
+  file: decreto-lei-389-70.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1970-08-19'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1975-05-21'
+    amending: pt:dre:336165:por
+    amending_title: Decreto-Lei n.º 241/75
+    changes:
+    - Revoga Artigo 1.º
+    - Revoga Artigo 2.º
+    - Revoga Artigo 3.º
+    - Revoga Artigo 4.º
+    - Altera Artigo 5.º
 identifiers:
   celex: null
   eli: null
@@ -60,7 +78,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:14:43Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 241/75. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1970/decreto-lei-389-70.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -112,49 +131,35 @@ Considerando, também, ser justo proporcionar maiores possibilidades de ingresso
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º - 1. A título excepcional e independentemente do disposto no artigo 38.º do [Decreto-Lei n.º 42151](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42151-1959-590727), de 12 de Fevereiro de 1959, e alterações subsequentes, pode ser autorizada a matrícula na Academia Militar para frequência de cursos especiais de aeronáutica a oficiais milicianos pilotos aviadores que sejam julgados pelo Secretário de Estado da Aeronáutica merecedores de ingressar no quadro de oficiais pilotos aviadores.
+###### Artigo 1.º
 
-2. Têm preferência na admissão os militares que hajam sido galardoados com qualquer das seguintes condecorações:
+(Revogado.)
 
-Ordem Militar da Torre e Espada, do Valor, Lealdade e Mérito;
+> Revogado pelo/a [Decreto-Lei n.º 241/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/241-1975-336165), publicado em 1975-05-21.
 
-Valor militar;
+###### Artigo 2.º
 
-Cruz de guerra;
+(Revogado.)
 
-Serviços distintos, com palma.
+> Revogado pelo/a [Decreto-Lei n.º 241/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/241-1975-336165), publicado em 1975-05-21.
 
-Artigo 2.º - 1. Os candidatos a admitir em conformidade com o artigo 1.º deverão satisfazer às seguintes condições:
+###### Artigo 3.º
 
-a) Ser cidadão português, filho de pais portugueses;
+(Revogado.)
 
-b) Ter desempenhado funções da sua especialidade durante, pelo menos, dois anos no ultramar ou em escola de pilotagem;
+> Revogado pelo/a [Decreto-Lei n.º 241/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/241-1975-336165), publicado em 1975-05-21.
 
-c) Não ter completado 28 anos até 1 de Janeiro do ano de admissão;
+###### Artigo 4.º
 
-d) Possuir o 3.º ciclo liceal ou equivalente;
+(Revogado.)
 
-e) Ter bom comportamento moral e civil;
+> Revogado pelo/a [Decreto-Lei n.º 241/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/241-1975-336165), publicado em 1975-05-21.
 
-f) Dar a garantia de cooperar na realização dos fins superiores do Estado e defender os princípios fundamentais da ordem política e social estabelecida na Constituição.
+###### Artigo 5.º
 
-2. Mediante parecer favorável do Secretário de Estado da Aeronáutica pode ser autorizada a matrícula na Academia Militar ao abrigo do presente decreto-lei aos candidatos:
+(Revogado.)
 
-a) Filhos de pai ou mãe estrangeira, desde que o outro cônjuge seja cidadão português originário;
-
-b) Com idade superior à estabelecida neste artigo que tenham demonstrado, em campanha ou em missões que envolvam grave risco, qualidades excepcionais para a carreira das armas.
-
-Artigo 3.º Os candidatos admitidos a concurso serão submetidos a inspecção médica no Serviço de Saúde da Força Aérea, tendente a averiguar se possuem as necessárias condições físicas e psíquicas para o exercício das funções de oficial do quadro de pilotos aviadores.
-
-Artigo 4.º - 1. O plano e duração dos cursos a ministrar aos alunos a que se referem os artigos anteriores são determinados pelo Ministro do Exército, sob proposta de Estado-Maior da Força Aérea, ouvida a Academia Militar.
-
-2. A duração dos cursos não deve exceder dois anos.
-
-3. Após a conclusão, com aproveitamento, da parte escolar dos referidos cursos, estes alunos frequentarão um estágio em unidades da Força Aérea com programa adequado à sua experiência e anteriores conhecimentos militares e técnicos.
-
-Artigo 5.º - 1. Os alunos que em cada ano civil terminem os cursos a que se refere o presente decreto-lei são ordenados pela classificação final obtida e colocados à esquerda dos alferes pilotos aviadores oriundos dos cursos de cadetes que ingressem no quadro no mesmo ano.
-
-2. No caso de, como oficiais milicianos, terem posto superior a alferes mantêm aquele posto como graduados até lhes competir a promoção a esse posto.
+> Alterado pelo/a [Decreto-Lei n.º 241/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/241-1975-336165), publicado em 1975-05-21.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Horácio José de Sá Viana Rebelo.
 

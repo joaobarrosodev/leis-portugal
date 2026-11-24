@@ -38,10 +38,37 @@ legal_status: partially_in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2012-08-01'
+version_history:
+  file: decreto-lei-123-2007.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2007-04-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2012-08-01'
+    amending: pt:dre:179290:por
+    amending_title: Decreto-Lei n.º 163/2012
+    changes:
+    - Revoga Artigo 1.º
+    - Revoga Artigo 2.º
+    - Revoga Artigo 3.º
+    - Revoga Artigo 4.º
+    - Revoga Artigo 5.º
+    - Revoga Artigo 6.º
+    - Revoga Artigo 7.º
+    - Revoga Artigo 8.º
+    - Altera Artigo 9.º
+    - Revoga Artigo 10.º
+    - Revoga Artigo 11.º
+    - Revoga Artigo 12.º
+    - Revoga Artigo 13.º
+    - Revoga Artigo ANEXO — (quadro a que se refere o artigo 8.º)
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/123/2007/04/27/p/dre/pt/html
@@ -67,7 +94,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:56:11Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 163/2012. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2007/decreto-lei-123-2007.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -157,123 +185,55 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 ###### Artigo 1.º — Natureza
 
-A Direcção-Geral da Política de Justiça, abreviadamente designada por DGPJ, é um serviço central da administração directa do Estado, no âmbito do Ministério da Justiça, dotado de autonomia administrativa, que funciona na dependência do respectivo Ministro.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 163/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-2012-179290), publicado em 2012-07-31.
 
 ###### Artigo 2.º — Missão e atribuições
 
-1 - A DGPJ tem por missão prestar apoio técnico, acompanhar e monitorizar políticas, assegurar o planeamento estratégico e a coordenação das relações externas e de cooperação, sendo ainda responsável pela informação estatística da justiça.
+(Revogado.)
 
-2 - A DGPJ prossegue as seguintes atribuições:
-
-a) Apoiar o membro do Governo responsável pela área da justiça na concepção, acompanhamento e avaliação das políticas, prioridades e objectivos do Ministério da Justiça (MJ), bem como na definição e execução de políticas no domínio da justiça com a União Europeia, outros Estados e organizações internacionais;
-
-b) Conceber, preparar, analisar e apoiar tecnicamente a execução de iniciativas, medidas legislativas, políticas e programas no âmbito do MJ e proceder à sua avaliação;
-
-c) Assegurar a recolha, utilização, tratamento e análise da informação estatística da justiça e promover a difusão dos respectivos resultados, no quadro do sistema estatístico nacional;
-
-d) Auxiliar no desenvolvimento de planos estratégicos para a rede judiciária e para os diversos serviços da administração da justiça, bem como antecipar e acompanhar o impacte das alterações sociais, económicas e normativas na caracterização, localização e actividade dos órgãos, serviços e organismos da administração da justiça;
-
-e) Proceder à elaboração de documentos estratégicos para o sector da justiça, nomeadamente através da formulação de contributos para as Grandes Opções do Plano, acompanhando e avaliando a sua execução;
-
-f) Apoiar a definição das principais opções em matéria orçamental;
-
-g) Assegurar o desenvolvimento dos sistemas de avaliação de serviços no âmbito do Ministério, coordenar e controlar a sua aplicação e exercer as demais competências que lhe sejam atribuídas na lei sobre esta matéria;
-
-h) Conduzir a política e articular as acções de cooperação na área da justiça, coordenar a acção e prestar apoio aos representantes do Estado Português nos órgãos internacionais do sector e promover e apoiar as medidas de cooperação jurídica e judiciária com outros Estados, sem prejuízo das atribuições próprias do Ministério dos Negócios Estrangeiros;
-
-i) Acompanhar e apoiar a política internacional do Estado Português na área da justiça, coordenando a representação do MJ na negociação de convenções, acordos e tratados internacionais, bem como em comissões, reuniões, conferências, ou organizações similares;
-
-j) Acompanhar as questões relativas ao contencioso da União Europeia nas matérias da justiça;
-
-l) Recolher e estudar as normas de direito internacional e de direito da União Europeia aplicáveis ou em relação às quais o Estado Português se pretenda vincular, bem como estudar e divulgar a jurisprudência, a doutrina e a política comunitárias para o sector.
+> Revogado pelo/a [Decreto-Lei n.º 163/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-2012-179290), publicado em 2012-07-31.
 
 ###### Artigo 3.º — Cargos de direcção superior
 
-A DGPJ é dirigida por um director-geral, coadjuvado por três directores, cargos de direcção superior de 2.º grau.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 163/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-2012-179290), publicado em 2012-07-31.
 
 ###### Artigo 4.º — Director-geral
 
-1 - Sem prejuízo das competências que lhe forem atribuídas por lei ou nele delegadas ou subdelegadas, compete ao director-geral da DGPJ, nas áreas de política legislativa e planeamento:
+(Revogado.)
 
-a) Apoiar a concepção, acompanhamento e avaliação de políticas, prioridades e objectivos no plano legislativo na área da justiça;
-
-b) Propor e elaborar estudos gerais de política legislativa, incluindo estudos de avaliação legislativa prévia e sucessiva;
-
-c) Recolher e tratar a informação necessária à concepção e elaboração de diplomas legislativos, designadamente através do estudo das consequências, na ordem jurídica e no plano do funcionamento das instituições, da eventual entrada em vigor dos mesmos;
-
-d) Elaborar e colaborar na redacção de diplomas legislativos, incluindo os relativos à transposição de direito da União Europeia e de adequação do direito nacional a obrigações decorrentes de instrumentos internacionais, nestes casos em articulação com o Gabinete de Relações Internacionais;
-
-e) Acompanhar, apoiar e avaliar a execução de iniciativas e medidas legislativas, designadamente através da análise das consequências para a ordem jurídica e no plano do funcionamento das instituições da sua entrada em vigor e respectiva aplicação;
-
-f) Recolher, tratar e difundir informação jurídica de direito nacional e estrangeiro e acompanhar a evolução destes;
-
-g) Colaborar na adopção e promover as melhores práticas de produção normativa visando, designadamente, a melhoria da qualidade da legislação;
-
-h) Participar em reuniões, grupos de trabalho e comissões, nacionais e internacionais, no âmbito das suas competências;
-
-i) Proceder à elaboração de documentos estratégicos para o sector da justiça, nomeadamente através da formulação de contributos para as Grandes Opções do Plano, recebendo para tal as propostas dos restantes serviços do Ministério da Justiça;
-
-j) Monitorizar e avaliar, mediante a elaboração de relatórios, a execução dos documentos estratégicos referidos na alínea anterior pelos serviços do Ministério da Justiça, incluindo a respectiva calendarização;
-
-l) Monitorizar a tradução orçamental dos projectos estratégicos para o sector da justiça;
-
-m) Apoiar a definição das principais opções em matéria orçamental quanto a projectos estratégicos para o sector da justiça;
-
-n) Auxiliar no desenvolvimento de planos estratégicos para a rede judiciária e para os diversos serviços da administração da justiça;
-
-o) Antecipar e acompanhar o impacto das alterações sociais, económicas e normativas na caracterização, localização e actividade dos órgãos, serviços e organismos da administração da justiça;
-
-p) Desenvolver, em articulação com a Direcção de Serviços de Estatísticas da Justiça e Informática, um sistema de indicadores de actividade e de desempenho para apoio à definição, ao acompanhamento e à avaliação das políticas e planos estratégicos da área da justiça;
-
-q) Desenvolver, em articulação com a Direcção de Serviços de Estatísticas da Justiça e Informática, modelos de previsão e outras metodologias adequadas à elaboração de cenários que permitam a definição de políticas e planos estratégicos na área da justiça.
-
-2 - Os directores exercem as competências que neles forem delegadas ou subdelegadas pelo director-geral, devendo este identificar a quem compete substituí-lo nas suas ausências e impedimentos.
-
-3 - O exercício das funções de director-geral e de director determina, a pedido do interessado, a suspensão dos vínculos contratuais com instituições do ensino superior e dos prazos que devam correr para efeito de prestação de provas académicas.
-
-4 - A um dos directores da DGPJ compete assegurar a direcção do Gabinete de Relações Internacionais, previsto no n.º 3 do artigo 9.º do [Decreto-Lei n.º 206/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-2006-545645), de 27 de Outubro.
+> Revogado pelo/a [Decreto-Lei n.º 163/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-2012-179290), publicado em 2012-07-31.
 
 ###### Artigo 5.º — Tipo de organização interna
 
-A organização interna dos serviços obedece ao modelo de estrutura hierarquizada.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 163/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-2012-179290), publicado em 2012-07-31.
 
 ###### Artigo 6.º — Receitas
 
-1 - A DGPJ dispõe das receitas provenientes de dotações que lhe forem atribuídas no Orçamento do Estado.
+(Revogado.)
 
-2 - A DGPJ dispõe das receitas provenientes das transferências do IGFIJ, I. P.
-
-3 - A DGPJ é responsável pela arrecadação das seguintes receitas próprias resultantes da sua actividade:
-
-a) O produto da prestação de serviços e da alienação de material informativo;
-
-b) O produto da venda de publicações;
-
-c) Os subsídios, subvenções, comparticipações, doações e legados;
-
-d) Os rendimentos dos bens que possua a qualquer título;
-
-e) Quaisquer outras receitas que lhe sejam atribuídas por lei, contrato ou outro título.
-
-4 - As receitas referidas nos n.os 2 e 3 são consignadas à realização de despesas da DGPJ durante a execução do orçamento do ano a que respeitam, podendo os saldos não utilizados transitar para o ano seguinte.
+> Revogado pelo/a [Decreto-Lei n.º 163/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-2012-179290), publicado em 2012-07-31.
 
 ###### Artigo 7.º — Despesas
 
-Constituem despesas da DGPJ as que resultem de encargos decorrentes da prossecução das atribuições que lhe estão cometidas.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 163/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-2012-179290), publicado em 2012-07-31.
 
 ###### Artigo 8.º — Quadros de pessoal dirigente
 
-Os lugares de direcção superior de 1.º e 2.º graus e de direcção intermédia de 1.º grau constam de mapa anexo ao presente decreto-lei, do qual faz parte integrante.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 163/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-2012-179290), publicado em 2012-07-31.
 
 ###### Artigo 9.º — Consultores
 
-1 - Nas áreas de planeamento e política legislativa da DGPJ podem desempenhar funções consultores, nomeados pelo director-geral, de entre:
-
-a) Doutores ou mestres nas áreas da investigação jurídica ou do planeamento;
-
-b) Personalidades de reconhecido mérito e experiência nas áreas da investigação jurídica ou do planeamento;
-
-c) Docentes universitários, investigadores e licenciados com classificação não inferior a 14 valores.
+1 - (Revogado.)
 
 2 - Os consultores nomeados ao abrigo das alíneas a) e b) do número anterior são remunerados pelo índice 820 da escala salarial do regime geral e os nomeados ao abrigo da alínea c) pelo índice 710 da mesma escala, sempre sem prejuízo da faculdade de optar pelo vencimento do cargo de origem.
 
@@ -285,33 +245,35 @@ c) Docentes universitários, investigadores e licenciados com classificação n�
 
 6 - O exercício de funções como consultor é contado, para todos os efeitos legais, designadamente para a progressão nas respectivas carreiras, como prestado nos lugares de origem.
 
-7 - O exercício de funções de consultor é compatível com o exercício da docência universitária em regime de tempo integral, mediante autorização concedida pelo director-geral.
+7 - (Revogado.)
 
-8 - A dotação de consultores da DGPJ é fixada por portaria conjunta dos membros do Governo responsáveis pelas áreas da justiça, finanças e Administração Pública.
+8 - (Revogado.)
+
+> Alterado pelo/a [Decreto-Lei n.º 163/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-2012-179290), publicado em 2012-07-31.
 
 ###### Artigo 10.º — Sucessão
 
-A DGPJ sucede nas atribuições do GRIEC e do GPLP.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 163/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-2012-179290), publicado em 2012-07-31.
 
 ###### Artigo 11.º — Critérios de selecção do pessoal
 
-São fixados os seguintes critérios gerais e abstractos de selecção do pessoal necessário à prossecução das atribuições fixadas no artigo 2.º:
+(Revogado.)
 
-a) O exercício de funções no Gabinete de Política Legislativa e Planeamento;
-
-b) O exercício de funções no Gabinete para as Relações Internacionais, Europeias e de Cooperação.
+> Revogado pelo/a [Decreto-Lei n.º 163/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-2012-179290), publicado em 2012-07-31.
 
 ###### Artigo 12.º — Norma revogatória
 
-São revogados:
+(Revogado.)
 
-a) O [Decreto-Lei n.º 86/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2001-388184), de 17 de Março;
-
-b) O [Decreto-Lei n.º 89/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2001-347953), de 23 de Março.
+> Revogado pelo/a [Decreto-Lei n.º 163/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-2012-179290), publicado em 2012-07-31.
 
 ###### Artigo 13.º — Entrada em vigor
 
-O presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua publicação.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 163/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-2012-179290), publicado em 2012-07-31.
 
 Visto e aprovado em Conselho de Ministros de 21 de Dezembro de 2006. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Alberto Bernardes Costa.
 
@@ -327,4 +289,6 @@ O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (quadro a que se refere o artigo 8.º)
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/04/08200/26182621.pdf)
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 163/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-2012-179290), publicado em 2012-07-31.

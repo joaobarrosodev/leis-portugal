@@ -28,10 +28,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1975-05-21'
+version_history:
+  file: decreto-lei-603-74.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1974-11-12'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1975-05-21'
+    amending: pt:dre:336166:por
+    amending_title: Decreto-Lei n.º 244/75
+    changes:
+    - Altera Artigo unidades 13-13
+    - Altera Artigo unidades 17-17
 identifiers:
   celex: null
   eli: null
@@ -57,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:35:28Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 244/75. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1974/decreto-lei-603-74.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -128,7 +144,9 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 1 do artigo 1.º da Lei Constitucional n.º 4/74, de 1 de Julho, o Conselho dos Chefes dos Estados-Maiores das Forças Armadas decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º As pensões de reserva dos militares são iguais à trigésima sexta parte da remuneração que serve de base ao cálculo, líquido da respectiva quota e multiplicada pelo número de anos de serviço contados, no qual não pode ser atribuído valor superior a trinta e seis.
+Artigo 1.º As pensões de reserva dos militares são iguais à trigésima sexta parte da remuneração ilíquida que serve de base ao seu cálculo, multiplicada pelo número de anos de serviço contados, ao qual não pode ser atribuído valor superior a trinta e seis, continuando o desconto da quota para a Caixa Geral de Aposentações a ser feito em folha.
+
+> Alterado pelo/a [Decreto-Lei n.º 244/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/244-1975-336166), publicado em 1975-05-21.
 
 Art. 2.º - 1. As percentagens de aumento de tempo de serviço especialmente fixadas por lei são, para os efeitos de cálculo da pensão de reserva, contadas por acréscimo ao tempo de serviço.
 
@@ -136,7 +154,9 @@ Art. 2.º - 1. As percentagens de aumento de tempo de serviço especialmente fix
 
 Art. 3.º As pensões de reserva já fixadas devem ser revistas, considerando apenas as alterações previstas nos artigos anteriores, com direito aos quantitativos novos a partir de 1 de Setembro de 1974.
 
-Art. 4.º O disposto no presente decreto-lei aplica-se também às pensões de reforma de militares.
+Art. 4.º As disposições dos artigos anteriores aplicam-se também às pensões de reforma dos militares, sendo o seu cálculo efectuado nos mesmos termos dos estabelecidos para a reserva, mas a remuneração que lhe serve de base tornar-se-á líquida da respectiva quota.
+
+> Alterado pelo/a [Decreto-Lei n.º 244/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/244-1975-336166), publicado em 1975-05-21.
 
 Visto e aprovado em Conselho dos Chefes dos Estados-Maiores das Forças Armadas. - Francisco da Costa Gomes - José Baptista Pinheiro de Azevedo - Carlos Alberto Idães Soares Fabião - Narciso Mendes Dias - António de Almeida Santos - Victor Manuel Rodrigues Alves - José da Silva Lopes.
 

@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1977-12-16'
+version_history:
+  file: decreto-regulamentar-84-77.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1977-12-16'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1977-12-16'
+    amending: pt:dre:448945:por
+    amending_title: Declaração
+    changes:
+    - Altera Artigo 5.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T05:58:04Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-regulamentares/1977/decreto-regulamentar-84-77.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -201,7 +216,7 @@ d) Elaborar os programas específicos da sua actividade.
 
 3 - Os lugares de monitor serão providos de entre operadores de colheita de dados de 1.ª classe com três anos de serviço e boas informações, mediante teste de aptidão.
 
-4 - Os lugares de correspondente de informática de 2.ª classe serão providos de entre segundos-oficiais finanças com três anos de serviço na categoria ou secretários de finanças de 3.ª classe, mediante teste de aptidão, sendo em igualdade de circunstâncias dada a preferência a secretários de finanças de 3.ª classe.
+4 - Os lugares de correspondente de informática de 2.ª classe serão providos de entre aspirantes de finanças com três anos de serviço na categoria ou secretários de finanças de 3.ª classe, mediante teste de aptidão, sendo em igualdade de circunstâncias dada a preferência a secretários de finanças de 3.ª classe.
 
 5 - Os lugares de correspondente de informática de 1.ª classe serão providos:
 
@@ -220,6 +235,8 @@ b) Monitores com três anos de serviço.
 8 - O provimento nos lugares de ingresso nas diferentes funções a que se referem os n.os 1, 4 e 5, alínea a), fica ainda condicionado à realização de um estágio com aproveitamento, cuja duração contará para efeitos de antiguidade na respectiva categoria.
 
 9 - Os testes de aptidão e os estágios referidos nos números anteriores serão definidos por despacho do director-geral.
+
+> Alterado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1978-448945), publicado em 1978-01-24.
 
 ###### Artigo 6.º
 

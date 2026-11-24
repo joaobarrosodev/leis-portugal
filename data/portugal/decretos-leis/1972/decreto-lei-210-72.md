@@ -29,10 +29,30 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1981-08-06'
+version_history:
+  file: decreto-lei-210-72.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1972-06-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1981-08-06'
+    amending: pt:dre:577093:por
+    amending_title: Decreto-Lei n.º 236/81
+    changes:
+    - Revoga Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 14.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
 identifiers:
   celex: null
   eli: null
@@ -58,7 +78,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:22:57Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 236/81. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1972/decreto-lei-210-72.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -135,17 +156,23 @@ Ouvido o conselho de administração da Caixa Geral de Depósitos;
 
 Usando da faculdade conferida pela 1 a parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º - 1. A Agência Financial de Portugal no Rio de Janeiro, criada por Decreto de 29 de Dezembro de 1887, é transformada em dependência da Caixa Geral de Depósitos, sob a denominação de Agência Financial de Portugal.
+###### Artigo 1.º
+
+1. A Agência Financial de Portugal no Rio de Janeiro, criada por Decreto de 29 de Dezembro de 1887, é transformada em dependência da Caixa Geral de Depósitos, sob a denominação de Agência Financial de Portugal.
 
 2. A Agência funciona no Brasil, mantém a sua sede no Rio de Janeiro e é dotada de personalidade jurídica, autonomia financeira e património próprio.
 
 3. A gestão superior e a fiscalização da Agência competem à Caixa Geral de Depósitos, que a exercerá nos termos e condições constantes do presente diploma e do regulamento que for adoptado para a sua execução, a aprovar pelo conselho de administração da mesma Caixa, observada a legislação brasileira aplicável.
 
-Art. 2.º - 1. Serão transferidos para a dependência a que se refere o n.º 1 do artigo anterior os direitos e obrigações, bem como os saldos das contas do activo e passivo que se apurarem em balanço, relativamente à Agência Financial de Portugal no Rio de Janeiro.
+###### Artigo 2.º
+
+1. Serão transferidos para a dependência a que se refere o n.º 1 do artigo anterior os direitos e obrigações, bem como os saldos das contas do activo e passivo que se apurarem em balanço, relativamente à Agência Financial de Portugal no Rio de Janeiro.
 
 2. As transferências previstas neste artigo serão reportadas à data do início das novas funções da Agência, fixada de acordo com as autoridades monetárias brasileiras.
 
-Art. 3.º A Agência terá as seguintes atribuições:
+###### Artigo 3.º
+
+A Agência terá as seguintes atribuições:
 
 1.º A prática de operações bancárias em geral, incluindo as de câmbio;
 
@@ -155,39 +182,53 @@ Art. 3.º A Agência terá as seguintes atribuições:
 
 4.º Quaisquer outras actividades próprias dos bancos comerciais, autorizadas pela lei brasileira ou por ela não expressamente proibidas.
 
-Art. 4.º - 1. O capital da Agência será fixado de acordo com as autoridades monetárias brasileiras.
+###### Artigo 4.º
+
+1. O capital da Agência será fixado de acordo com as autoridades monetárias brasileiras.
 
 2. Para a realização desse capital, no todo ou em parte, poderão ser mobilizados créditos que a Caixa Geral de Depósitos já possua no Brasil, constantes das contas referidas no artigo 2.º
 
-Art. 5.º As modalidades das operações activas e passivas, as prestações de serviço e as demais actividades da Agência, decorrentes das suas atribuições, constarão do respectivo regulamento.
+###### Artigo 5.º
 
-Art. 6.º - 1. A Agência terá um conselho orientador composto de um presidente e dois vogais designados pelo conselho de administração da Caixa Geral de Depósitos.
+As modalidades das operações activas e passivas, as prestações de serviço e as demais actividades da Agência, decorrentes das suas atribuições, constarão do respectivo regulamento.
 
-2. Constarão do regulamento da Agência as atribuições do conselho orientador e as respectivas normas de funcionamento.
+###### Artigo 6.º
 
-Art. 7.º - 1. A direcção executiva da Agência caberá a um conselho de gestão, constituído por três directores, tendo um deles a categoria de director-geral.
+(Revogado.)
 
-2. Os cargos a que se refere o n.º 1 são providos por escolha do conselho de administração da Caixa Geral de Depósitos e podem ser desempenhados por funcionários deste estabelecimento, contratados em comissão transitória de serviço público, sem dependência de visto e com garantia dos seus direitos.
+> Revogado pelo/a [Decreto-Lei n.º 236/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-1981-577093), publicado em 1981-08-06.
 
-3. Os funcionários nas condições do artigo anterior abrem vaga, mas logo que cessem as funções regressarão ao seu lugar de origem, ficando supranumerários ao quadro, e em exercício, com direito ao vencimento correspondente à sua categoria no mesmo quadro, enquanto neste não houver vaga.
+###### Artigo 7.º
 
-4. O director-geral e os directores de nacionalidade portuguesa mantêm as qualidades de, respectivamente, adido financeiro e adidos financeiros adjuntos à Embaixada de Portugal no Brasil, sem direito a qualquer remuneração pelo desempenho destas funções.
+A direcção executiva do Banco Financial Português será exercida por um órgão singular ou colectivo cuja designação, composição, competência e regras de funcionamento serão fixadas pelo conselho de administração da Caixa, tendo em conta as particularidades e necessidades do Banco.
 
-5. Constarão regulamento da Agência as atribuições do conselho de gestão e as respectivas normas de funcionamento.
+> Alterado pelo/a [Decreto-Lei n.º 236/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-1981-577093), publicado em 1981-08-06.
 
-Art. 8.º - 1. Ao pessoal da Caixa Geral de Depósitos contratado para outros cargos da Agência é aplicável o disposto nos n.os 2 e 3 do artigo 7.º
+###### Artigo 8.º
 
-2. As condições de prestação de serviço, quer do pessoal referido no n.º 1, quer do que for admitido no Brasil, constarão do regulamento previsto no artigo 9.º
+O titular ou titulares do órgão referido no artigo anterior serão contratados ou designados pelo conselho de administração da Caixa, mantendo os de nacionalidade portuguesa, sem direito a qualquer remuneração, as qualidades de adido financeiro ou de adido financeiro-adjunto à Embaixada de Portugal no Brasil.
 
-Art. 9.º A organização dos serviços da Agência será estabelecida em regulamento interno aprovado pelo conselho de administração da Caixa Geral de Depósitos, sobre proposta do conselho orientador.
+> Alterado pelo/a [Decreto-Lei n.º 236/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-1981-577093), publicado em 1981-08-06.
 
-Art. 10.º O capital que, nos termos do artigo 4.º, for afectado pela Caixa Geral de Depósitos às operações da Agência será por aquela contabilizado sob a rubrica de participações financeiras, tendo como contrapartida, na contabilidade da Agência e de harmonia com a legislação brasileira, a rubrica «Capitais de domiciliados no exterior»
+###### Artigo 9.º
 
-Art. 11.º - 1. Mantém-se a conta corrente aberta na Caixa Geral de Depósitos para o movimento das operações realizadas com a Agência.
+A organização dos serviços do Banco Financial Português será estabelecida em regulamento aprovado pelo conselho de administração da Caixa Geral de Depósitos.
+
+> Alterado pelo/a [Decreto-Lei n.º 236/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-1981-577093), publicado em 1981-08-06.
+
+###### Artigo 10.º
+
+O capital que, nos termos do artigo 4.º, for afectado pela Caixa Geral de Depósitos às operações da Agência será por aquela contabilizado sob a rubrica de participações financeiras, tendo como contrapartida, na contabilidade da Agência e de harmonia com a legislação brasileira, a rubrica «Capitais de domiciliados no exterior»
+
+###### Artigo 11.º
+
+1. Mantém-se a conta corrente aberta na Caixa Geral de Depósitos para o movimento das operações realizadas com a Agência.
 
 2. Além desta conta, poderá a Caixa abrir outras a favor da Agência, nas condições a estabelecer pelo conselho de administração, para os movimentos de fundos que devam ser contabilizados separadamente.
 
-Art. 12.º - 1. A Agência continuará a manter uma conta corrente com o Tesouro português para o movimento de fundos arrecadados ou fornecidos de conta deste, nos termos do n.º 2 do artigo 3.º, bem como de quaisquer outras operações efectuadas a solicitação da Direcção-Geral da Fazenda Pública.
+###### Artigo 12.º
+
+1. A Agência continuará a manter uma conta corrente com o Tesouro português para o movimento de fundos arrecadados ou fornecidos de conta deste, nos termos do n.º 2 do artigo 3.º, bem como de quaisquer outras operações efectuadas a solicitação da Direcção-Geral da Fazenda Pública.
 
 2. A conta corrente poderá ser aberta numa ou mais moedas, desde que a tal se não oponha a lei brasileira.
 
@@ -195,7 +236,9 @@ Art. 12.º - 1. A Agência continuará a manter uma conta corrente com o Tesouro
 
 4. Até 30 de Junho do ano imediato àquele a que disserem respeito, serão remetidos ao Tribunal de Contas extractos do movimento anual da mesma conta, separados por consulados e autenticados pela direcção da Agência.
 
-Art. 13.º - 1. O Ministério dos Negócios Estrangeiros fixará, em atenção ao movimento respectivo, as importâncias que podem ser retiradas pelos consulados de Portugal no Brasil com destino a despesas imprevistas e urgentes.
+###### Artigo 13.º
+
+1. O Ministério dos Negócios Estrangeiros fixará, em atenção ao movimento respectivo, as importâncias que podem ser retiradas pelos consulados de Portugal no Brasil com destino a despesas imprevistas e urgentes.
 
 2. O numerário que se mostre em excesso será transferido para a Agência até ao dia 5 de cada mês, por meio de cheque, ordem de pagamento ou entrega em conta de depósito nos estabelecimentos bancários por ela indicados, o mesmo sucedendo quanto a outras transferências de fundos.
 
@@ -203,21 +246,39 @@ Art. 13.º - 1. O Ministério dos Negócios Estrangeiros fixará, em atenção a
 
 4. Os consulados que careçam de fundos para fazer face às despesas de que trata o n.º 1, solicitá-los-ão à Agência, que providenciará pela forma mais conveniente.
 
-Art. 14.º - 1. A Agência terá orçamento privativo, expresso em moeda brasileira, de acordo com o plano de actividades a desenvolver em cada ano, o qual regulará a respectiva gestão financeira.
+###### Artigo 14.º
 
-2. Compete ao conselho orientador aprovar o orçamento e o plano de actividades referidos no n.º 1.
+1. A Agência terá orçamento privativo, expresso em moeda brasileira, de acordo com o plano de actividades a desenvolver em cada ano, o qual regulará a respectiva gestão financeira.
 
-Art. 15.º A contabilidade, as contas e o apuramento de resultados da Agência são separados dos da Caixa Geral de Depósitos.
+2 - Compete ao conselho de administração da Caixa Geral de Depósitos aprovar o orçamento e o plano de actividades referidos no n.º 1.
 
-Art. 16.º - 1. Na movimentação da conta «Lucros e perdas» e no apuramento e aplicação dos respectivos resultados observar-se-á o disposto na lei brasileira.
+> Alterado pelo/a [Decreto-Lei n.º 236/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-1981-577093), publicado em 1981-08-06.
 
-2. Na aplicação dos resultados, o conselho orientador constituirá as reservas e provisões convenientes, tendo em vista reforçar a solidez financeira da Agência, e considerará, também, a remuneração a conceder à participação financeira da Caixa Geral de Depósitos, a que alude o artigo 10.º
+###### Artigo 15.º
 
-Art. 17.º As contas da Agência serão apreciadas pelo conselho de administração da Caixa Geral de Depósitos, cuja aprovação as legitima para todos os efeitos.
+A contabilidade, as contas e o apuramento de resultados da Agência são separados dos da Caixa Geral de Depósitos.
 
-Art. 18.º A Caixa Geral de Depósitos responde pela restituição de todos os depósitos que forem efectuados na Agência, nas condições legais.
+###### Artigo 16.º
 
-Art. 19.º São revogados:
+1. Na movimentação da conta «Lucros e perdas» e no apuramento e aplicação dos respectivos resultados observar-se-á o disposto na lei brasileira.
+
+2 - Na aplicação dos resultados serão constituídas as reservas e provisões convenientes, tendo em vista reforçar a solidez financeira do Banco Financial Português, e será também considerada a remuneração a conceder à participação financeira da Caixa Geral de Depósitos, a que alude o artigo 10.º
+
+> Alterado pelo/a [Decreto-Lei n.º 236/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-1981-577093), publicado em 1981-08-06.
+
+###### Artigo 17.º
+
+As contas do Banco Financial Português e a aplicação dos resultados serão apreciadas pelo conselho de administração da Caixa Geral de Depósitos, cuja aprovação as legitima para todos os efeitos.
+
+> Alterado pelo/a [Decreto-Lei n.º 236/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-1981-577093), publicado em 1981-08-06.
+
+###### Artigo 18.º
+
+A Caixa Geral de Depósitos responde pela restituição de todos os depósitos que forem efectuados na Agência, nas condições legais.
+
+###### Artigo 19.º
+
+São revogados:
 
 O [Decreto n.º 10252](https://diariodarepublica.pt/dr/detalhe/decreto/10252-1924-559824), de 6 de Novembro de 1924.
 
@@ -229,7 +290,9 @@ O artigo 6.º do [Decreto-Lei n.º 48953](https://diariodarepublica.pt/dr/detalh
 
 Os artigos 4.º, 146.º, n.os 3 e 4, e 147.º do regulamento aprovado pelo [Decreto n.º 694/70](https://diariodarepublica.pt/dr/detalhe/decreto/694-1970-414457), de 31 de Dezembro.
 
-Art. 20.º As dúvidas que se suscitarem na execução do presente diploma serão resolvidas por despacho do Ministro das Finanças, ouvido o conselho de administração da Caixa Geral de Depósitos.
+###### Artigo 20.º
+
+As dúvidas que se suscitarem na execução do presente diploma serão resolvidas por despacho do Ministro das Finanças, ouvido o conselho de administração da Caixa Geral de Depósitos.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - Rui Manuel de Medeiros d'Espiney Patrício.
 

@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1997-09-23'
+version_history:
+  file: decreto-lei-198-92.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1992-09-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1997-09-23'
+    amending: pt:dre:652875:por
+    amending_title: Decreto-Lei n.º 241/97
+    changes:
+    - Altera Artigo ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/09/220a00/44964501.pdf)
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/198/1992/09/23/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:17:44Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 241/97. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1992/decreto-lei-198-92.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -141,7 +156,9 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 2 - A Rádio Comercial, E. P., é uma empresa pública constituída por destaque de parte do património da RDP, E. P., e rege-se pela lei geral aplicável às empresas públicas, pelo presente diploma e respectivos estatutos, que constituem o anexo I ao presente diploma, do qual faz parte integrante.
 
-Art. 2.º - 1 - Os bens destacados da RDP, E. P., para a Rádio Comercial, E. P., por cisão, são os identificados no anexo II ao presente diploma, do qual faz parte integrante.
+###### Artigo 2.º
+
+1 - Os bens destacados da RDP, E. P., para a Rádio Comercial, E. P., por cisão, são os identificados no anexo II ao presente diploma, do qual faz parte integrante.
 
 2 - Os bens referidos no número anterior são destacados livres de quaisquer ónus ou encargos.
 
@@ -149,15 +166,23 @@ Art. 2.º - 1 - Os bens destacados da RDP, E. P., para a Rádio Comercial, E. P.
 
 4 - São afectas à Rádio Comercial, E. P., nos termos da legislação aplicável, as frequências que constam do anexo III ao presente diploma, do qual faz parte integrante, anteriormente afectas à RDP, E. P.
 
-Art. 3.º O capital estatutário da Rádio Comercial, E. P., é de 1 milhão de contos.
+###### Artigo 3.º
 
-Art. 4.º - 1 - O presente diploma constitui título bastante para a comprovação do disposto nos artigos anteriores, para todos os efeitos legais, incluindo os de registo, devendo quaisquer actos necessários à regularização da situação ser realizados pelas repartições competentes com isenção de quaisquer taxas ou emolumentos, mediante simples comunicação subscrita por dois membros do conselho de administração da Rádio Comercial, E. P.
+O capital estatutário da Rádio Comercial, E. P., é de 1 milhão de contos.
+
+###### Artigo 4.º
+
+1 - O presente diploma constitui título bastante para a comprovação do disposto nos artigos anteriores, para todos os efeitos legais, incluindo os de registo, devendo quaisquer actos necessários à regularização da situação ser realizados pelas repartições competentes com isenção de quaisquer taxas ou emolumentos, mediante simples comunicação subscrita por dois membros do conselho de administração da Rádio Comercial, E. P.
 
 2 - A transmissão operada com o destaque de bens da RDP, E. P., para a Rádio Comercial, E. P., está isenta dos emolumentos e de outros encargos legais que se mostrem devidos pela prática daquele acto.
 
-Art. 5.º Os poderes de tutela do Governo sobre a Rádio Comercial, E. P., são exercidos pelo membro do Governo responsável pela área da comunicação social.
+###### Artigo 5.º
 
-Art. 6.º - 1 - O conselho de administração da RDP, E. P., determinará os contratos de trabalho a transferir para a Rádio Comercial, E. P.
+Os poderes de tutela do Governo sobre a Rádio Comercial, E. P., são exercidos pelo membro do Governo responsável pela área da comunicação social.
+
+###### Artigo 6.º
+
+1 - O conselho de administração da RDP, E. P., determinará os contratos de trabalho a transferir para a Rádio Comercial, E. P.
 
 2 - Os trabalhadores transferidos mantêm, perante a Rádio Comercial, E, P., todos os direitos e obrigações de que eram titulares face à RDP, E. P.
 
@@ -165,11 +190,15 @@ Art. 6.º - 1 - O conselho de administração da RDP, E. P., determinará os con
 
 2 - A Rádio Comercial, S. A., rege-se pelo presente diploma, pelos respectivos estatutos e pela legislação geral ou especial que lhe seja aplicável.
 
-Art. 8.º - 1 - A Rádio Comercial, S. A., sucede, automática e globalmente, à empresa pública Rádio Comercial, E. P., e continua a personalidade jurídica desta, conservando todos os direitos e obrigações integrantes da sua esfera jurídica no momento da transformação.
+###### Artigo 8.º
+
+1 - A Rádio Comercial, S. A., sucede, automática e globalmente, à empresa pública Rádio Comercial, E. P., e continua a personalidade jurídica desta, conservando todos os direitos e obrigações integrantes da sua esfera jurídica no momento da transformação.
 
 2 - O presente diploma constitui título bastante para a comprovação da transformação prevista no artigo anterior, para todos os efeitos legais, incluindo os de registo, devendo quaisquer actos necessários à regularização da situação ser realizados pelas repartições competentes, com isenção de quaisquer taxas ou emolumentos, mediante simples comunicação subscrita por dois membros do conselho de administração da sociedade.
 
-Art. 9.º - 1 - A Rádio Comercial, S. A., tem inicialmente um capital social de 1 milhão de contos, que se encontra integralmente realizado pelo Estado à data da entrada em vigor do presente diploma.
+###### Artigo 9.º
+
+1 - A Rádio Comercial, S. A., tem inicialmente um capital social de 1 milhão de contos, que se encontra integralmente realizado pelo Estado à data da entrada em vigor do presente diploma.
 
 2 - As acções representativas do capital de que é titular o Estado serão detidas pela Direcção-Geral do Tesouro, podendo, no entanto, a sua gestão ser cometida a uma pessoa colectiva de direito público ou a outra entidade que, por imposição legal, pertença ao sector público.
 
@@ -177,13 +206,19 @@ Art. 9.º - 1 - A Rádio Comercial, S. A., tem inicialmente um capital social de
 
 4 - Enquanto a totalidade das acções da Rádio Comercial, S. A., pertencer ao Estado, sempre que a lei ou os estatutos exijam deliberação da assembleia geral, bastará que o representante do Estado exare a deliberação no livro de actas da sociedade.
 
-Art. 10.º - 1 - Os trabalhadores e pensionistas da Rádio Comercial, E. P., mantêm, perante a Rádio Comercial, S. A., todos os direitos e obrigações que detiverem à data da entrada em vigor do presente diploma.
+###### Artigo 10.º
+
+1 - Os trabalhadores e pensionistas da Rádio Comercial, E. P., mantêm, perante a Rádio Comercial, S. A., todos os direitos e obrigações que detiverem à data da entrada em vigor do presente diploma.
 
 2 - A situação dos trabalhadores da Rádio Comercial, S. A., que sejam chamados a ocupar cargos nos órgãos da sociedade, bem como dos que sejam requisitados para exercer funções em outras empresas, em nada será prejudicada por esse facto, regressando aos seus lugares logo que termine o mandato ou o tempo de requisição.
 
-Art. 11.º A Rádio Comercial, S. A., tem como órgãos sociais a assembleia geral, o conselho de administração e o conselho fiscal, com as competências fixadas na lei e nos estatutos.
+###### Artigo 11.º
 
-Art. 12.º - 1 - Sem prejuízo do disposto na lei comercial quanto à prestação de informações aos sócios, enquanto a totalidade dos canais da Rádio Comercial, S. A., pertencer ao Estado o conselho de administração enviará ao Ministro das Finanças e ao membro do Governo responsável pela área da comunicação social, pelo menos 30 dias antes da data da assembleia geral anual:
+A Rádio Comercial, S. A., tem como órgãos sociais a assembleia geral, o conselho de administração e o conselho fiscal, com as competências fixadas na lei e nos estatutos.
+
+###### Artigo 12.º
+
+1 - Sem prejuízo do disposto na lei comercial quanto à prestação de informações aos sócios, enquanto a totalidade dos canais da Rádio Comercial, S. A., pertencer ao Estado o conselho de administração enviará ao Ministro das Finanças e ao membro do Governo responsável pela área da comunicação social, pelo menos 30 dias antes da data da assembleia geral anual:
 
 a) O relatório de gestão e as contas do exercício;
 
@@ -191,19 +226,29 @@ b) Quaisquer elementos adequados à compreensão integral da situação económi
 
 2 - O conselho fiscal enviará trimestralmente ao Ministro das Finanças e ao membro do Governo responsável pela área da comunicação social um relatório sucinto em que se refiram os controlos efectuados, as anomalias detectadas e os principais desvios em relação às previsões.
 
-Art. 13.º - 1 - São aprovados os Estatutos da Rádio Comercial, S. A., que constituem o anexo IV ao presente diploma, os quais não carecem de redução a escritura pública, devendo os respectivos registos ser feitos oficiosamente, sem taxas ou emolumentos, com base no Diário da República em que hajam sido publicados.
+###### Artigo 13.º
+
+1 - São aprovados os Estatutos da Rádio Comercial, S. A., que constituem o anexo IV ao presente diploma, os quais não carecem de redução a escritura pública, devendo os respectivos registos ser feitos oficiosamente, sem taxas ou emolumentos, com base no Diário da República em que hajam sido publicados.
 
 2 - As futuras alterações aos Estatutos far-se-ão nos termos da lei comercial.
 
 ### CAPÍTULO III
 
-Art. 14.º Os membros em exercício do conselho de administração e da comissão de fiscalização da Rádio Comercial, E. P., mantêm-se em funções até à data da posse dos titulares dos órgãos sociais da Rádio Comercial, S. A., com as competências fixadas nos respectivos estatutos, respectivamente, para os conselhos de administração e fiscal.
+###### Artigo 14.º
 
-Art. 15.º As frequências a que se refere o n.º 4 do artigo 2.º deverão estar disponíveis para utilização pela Rádio Comercial, S. A., até ao fim de Novembro do corrente ano, devendo do facto ser dado conhecimento ao ICP para efeitos de regularização.
+Os membros em exercício do conselho de administração e da comissão de fiscalização da Rádio Comercial, E. P., mantêm-se em funções até à data da posse dos titulares dos órgãos sociais da Rádio Comercial, S. A., com as competências fixadas nos respectivos estatutos, respectivamente, para os conselhos de administração e fiscal.
 
-Art. 16.º O presente diploma produz efeitos a partir do dia imediato ao da data da sua publicação, com excepção dos seus artigos 7.º a 14.º, cuja vigência se inicia no 15.º dia após aquela mesma data.
+###### Artigo 15.º
 
-Art. 17.º A alienação das acções, quando o Estado o entenda por conveniente e oportuno, será regulada, nos termos da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, por decreto-lei.
+As frequências a que se refere o n.º 4 do artigo 2.º deverão estar disponíveis para utilização pela Rádio Comercial, S. A., até ao fim de Novembro do corrente ano, devendo do facto ser dado conhecimento ao ICP para efeitos de regularização.
+
+###### Artigo 16.º
+
+O presente diploma produz efeitos a partir do dia imediato ao da data da sua publicação, com excepção dos seus artigos 7.º a 14.º, cuja vigência se inicia no 15.º dia após aquela mesma data.
+
+###### Artigo 17.º
+
+A alienação das acções, quando o Estado o entenda por conveniente e oportuno, será regulada, nos termos da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, por decreto-lei.
 
 Visto e aprovado em Conselho de Ministros de 23 de Julho de 1992. - Joaquim Fernando Nogueira - Jorge Braga de Macedo - Álvaro José Brilhante Laborinho Lúcio - Luís Manuel Gonçalves Marques Mendes.
 
@@ -221,21 +266,37 @@ O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ### CAPÍTULO I — Disposições gerais
 
-Artigo 1.º A Rádio Comercial, E. P., é uma empresa pública, criada por cisão da Radiodifusão Portuguesa, E. P., adiante designada por RDP, E. P., nos termos do Decreto-Lei n.º 198/92, de 23 de Setembro, com autonomia administrativa e financeira e património próprio.
+###### Artigo 1.º
 
-Art. 2.º A Rádio Comercial, E. P., tem sede na Rua de Sampaio e Pina, 24-26, 1000 Lisboa, podendo descentralizar os seus estabelecimentos e serviços, técnicos e administrativos, consoante as necessidades impostas pela sua actividade.
+A Rádio Comercial, E. P., é uma empresa pública, criada por cisão da Radiodifusão Portuguesa, E. P., adiante designada por RDP, E. P., nos termos do Decreto-Lei n.º 198/92, de 23 de Setembro, com autonomia administrativa e financeira e património próprio.
 
-Art. 3.º A Rádio Comercial, E. P., tem por objecto o exercício da actividade de radiodifusão sonora nos domínios da produção e emissão de programas.
+###### Artigo 2.º
 
-Art. 4.º O capital estatutário da Rádio Comercial, E. P., é de 1 milhão de contos.
+A Rádio Comercial, E. P., tem sede na Rua de Sampaio e Pina, 24-26, 1000 Lisboa, podendo descentralizar os seus estabelecimentos e serviços, técnicos e administrativos, consoante as necessidades impostas pela sua actividade.
 
-Art. 5.º Os poderes de tutela do Governo sobre a Rádio Comercial, E. P., são exercidos pelo membro do Governo responsável pela área da comunicação social.
+###### Artigo 3.º
 
-Art. 6.º O património inicial da empresa é constituído pela universalidade de bens para ele destacados por cisão da RDP, E. P., nos termos do Decreto-Lei n.º 198/92, de 23 de Setembro, e pelos direitos e obrigações adquiridos ou contraídos no exercício da sua actividade.
+A Rádio Comercial, E. P., tem por objecto o exercício da actividade de radiodifusão sonora nos domínios da produção e emissão de programas.
 
-Art. 7.º Pelas dívidas da Rádio Comercial, E. P., responde, exclusivamente, o seu património.
+###### Artigo 4.º
 
-Art. 8.º Constituem receitas da Rádio Comercial, E. P.:
+O capital estatutário da Rádio Comercial, E. P., é de 1 milhão de contos.
+
+###### Artigo 5.º
+
+Os poderes de tutela do Governo sobre a Rádio Comercial, E. P., são exercidos pelo membro do Governo responsável pela área da comunicação social.
+
+###### Artigo 6.º
+
+O património inicial da empresa é constituído pela universalidade de bens para ele destacados por cisão da RDP, E. P., nos termos do Decreto-Lei n.º 198/92, de 23 de Setembro, e pelos direitos e obrigações adquiridos ou contraídos no exercício da sua actividade.
+
+###### Artigo 7.º
+
+Pelas dívidas da Rádio Comercial, E. P., responde, exclusivamente, o seu património.
+
+###### Artigo 8.º
+
+Constituem receitas da Rádio Comercial, E. P.:
 
 a) As resultantes da sua actividade específica;
 
@@ -247,7 +308,9 @@ d) Quaisquer outros rendimentos ou valores que provenham da sua actividade ou qu
 
 ### CAPÍTULO II — Dos órgãos da empresa
 
-Art. 9.º - 1 - São órgãos da Rádio Comercial, E. P.:
+###### Artigo 9.º
+
+1 - São órgãos da Rádio Comercial, E. P.:
 
 a) O conselho de administração;
 
@@ -257,17 +320,33 @@ b) A comissão de fiscalização.
 
 3 - O mandato dos membros do conselho de administração e da comissão de fiscalização é de três anos, renovável por iguais períodos.
 
-Art. 10.º - 1 - O conselho de administração é composto por três membros.
+###### Artigo 10.º
+
+1 - O conselho de administração é composto por três membros.
 
 2 - O conselho de administração tem todos os poderes necessários para assegurar a gestão da empresa e a administração do respectivo património.
 
-Art. 11.º - 1 - A comissão de fiscalização é composta por três membros.
+###### Artigo 11.º
+
+1 - A comissão de fiscalização é composta por três membros.
 
 2 - As competências da comissão de fiscalização são fixadas na lei geral.
 
-Art. 12.º A todas as matérias que não se encontrem expressamente reguladas nos presentes Estatutos aplica-se o disposto na lei geral.
+###### Artigo 12.º
+
+A todas as matérias que não se encontrem expressamente reguladas nos presentes Estatutos aplica-se o disposto na lei geral.
 
 ## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/09/220a00/44964501.pdf)
+
+Estúdios e escritórios
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/10/252a02/00080009.pdf)
+
+Centros emissores - A)
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/09/216a00/50445049.pdf)
+
+> Alterado pelo/a [Decreto-Lei n.º 241/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/241-1997-652875), publicado em 1997-09-18.
 
 ## ANEXO III — [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/09/220a00/44964501.pdf)
 
@@ -275,15 +354,21 @@ Art. 12.º A todas as matérias que não se encontrem expressamente reguladas no
 
 ### CAPÍTULO I — Denominação, duração, sede e objecto
 
-Artigo 1.º A sociedade adopta a forma de sociedade anónima e a denominação de Rádio Comercial, S. A., e rege-se pelo Decreto-Lei n.º 198/92, de 23 de Setembro, pelos presentes Estatutos e pela legislação geral ou especial que lhe seja aplicável.
+###### Artigo 1.º
 
-Art. 2.º - 1 - A sociedade tem duração por tempo indeterminado e sede social na Rua de Sampaio e Pina, 24-26, 1000 Lisboa.
+A sociedade adopta a forma de sociedade anónima e a denominação de Rádio Comercial, S. A., e rege-se pelo Decreto-Lei n.º 198/92, de 23 de Setembro, pelos presentes Estatutos e pela legislação geral ou especial que lhe seja aplicável.
+
+###### Artigo 2.º
+
+1 - A sociedade tem duração por tempo indeterminado e sede social na Rua de Sampaio e Pina, 24-26, 1000 Lisboa.
 
 2 - O conselho de administração poderá deliberar a criação, em qualquer ponto do território nacional, ou fora dele, de agências, delegações ou quaisquer outras formas de representação.
 
 3 - A mudança da sede pode ser decidida por simples deliberação do conselho de administração.
 
-Art. 3.º - 1 - A sociedade tem por objecto o exercício da actividade de radiofusão sonora nos domínios da produção e emissão de programas.
+###### Artigo 3.º
+
+1 - A sociedade tem por objecto o exercício da actividade de radiofusão sonora nos domínios da produção e emissão de programas.
 
 2 - A sociedade poderá também prosseguir quaisquer outras actividades comerciais ou industriais, desde que relacionadas com a actividade da radiodifusão, designadamente:
 
@@ -295,7 +380,9 @@ b) Comercialização de produtos, nomeadamente programas e publicações relacio
 
 ### CAPÍTULO II — Capital social, acções e obrigações
 
-Art. 4.º - 1 - O capital social é de 1 milhão de contos e encontra-se integralmente realizado.
+###### Artigo 4.º
+
+1 - O capital social é de 1 milhão de contos e encontra-se integralmente realizado.
 
 2 - O capital social é dividido em acções com o valor nominal de 1000$00 cada uma.
 
@@ -307,7 +394,9 @@ Art. 4.º - 1 - O capital social é de 1 milhão de contos e encontra-se integra
 
 ### CAPÍTULO III — Órgãos sociais
 
-Art. 5.º - 1 - São órgãos da sociedade a assembleia geral, o conselho de administração e o conselho fiscal.
+###### Artigo 5.º
+
+1 - São órgãos da sociedade a assembleia geral, o conselho de administração e o conselho fiscal.
 
 2 - Os membros dos órgãos sociais são eleitos em assembleia geral, tendo os respectivos mandatos a duração de três anos, renováveis por igual período.
 
@@ -315,7 +404,9 @@ Art. 5.º - 1 - São órgãos da sociedade a assembleia geral, o conselho de adm
 
 #### SECÇÃO I — Assembleia geral
 
-Art. 6.º - 1 - A assembleia geral é constituída pelos accionistas com direito a voto.
+###### Artigo 6.º
+
+1 - A assembleia geral é constituída pelos accionistas com direito a voto.
 
 2 - A cada 100 acções corresponde um voto.
 
@@ -323,7 +414,9 @@ Art. 6.º - 1 - A assembleia geral é constituída pelos accionistas com direito
 
 4 - Não são consideradas para efeito de participação na assembleia geral as acções adquiridas nos oito dias anteriores a cada reunião da assembleia geral, em primeira convocação.
 
-Art. 7.º - 1 - Compete à assembleia geral deliberar sobre todas as matérias não compreendidas nas atribuições legais ou estatutárias dos outros órgãos sociais e, em especial:
+###### Artigo 7.º
+
+1 - Compete à assembleia geral deliberar sobre todas as matérias não compreendidas nas atribuições legais ou estatutárias dos outros órgãos sociais e, em especial:
 
 a) Eleger a mesa da assembleia geral, os membros do conselho de administração e do conselho fiscal;
 
@@ -345,7 +438,9 @@ i) Deliberar sobre a proposta de fixação das taxas de utilização da rede pel
 
 2 - As deliberações são tomadas por maioria dos votos dos accionistas presentes e representados, sempre que a lei ou os presentes Estatutos não exijam maior número.
 
-Art. 8.º - 1 - A assembleia geral é convocada e dirigida pelo presidente da respectiva mesa, sendo esta constituída por um presidente, um vice-presidente e um secretário.
+###### Artigo 8.º
+
+1 - A assembleia geral é convocada e dirigida pelo presidente da respectiva mesa, sendo esta constituída por um presidente, um vice-presidente e um secretário.
 
 2 - Para efeitos das alíneas c), e), f), h) e i) do n.º 1 do artigo 7.º dos presentes Estatutos, bem como para as deliberações sobre a transformação, a fusão, a cisão ou a liquidação da sociedade, sobre o aumento, a redução ou a reintegração do capital, sobre a limitação ou a supressão do direito de preferência dos accionistas em cada aumento do capital e ainda sobre qualquer outra alteração dos Estatutos, a assembleia geral só pode reunir, em primeira convocatória, encontrando-se presentes ou representados accionistas que representem, pelo menos 51% do capital social.
 
@@ -353,11 +448,15 @@ Art. 8.º - 1 - A assembleia geral é convocada e dirigida pelo presidente da re
 
 #### SECÇÃO II — Conselho de administração
 
-Art. 9.º - 1 - O conselho de administração é composto por um presidente e dois vogais.
+###### Artigo 9.º
+
+1 - O conselho de administração é composto por um presidente e dois vogais.
 
 2 - O presidente tem voto de qualidade.
 
-Art. 10.º Ao conselho de administração incumbe o exercício das competências cometidas por lei ou pela assembleia geral e, nomeadamente:
+###### Artigo 10.º
+
+Ao conselho de administração incumbe o exercício das competências cometidas por lei ou pela assembleia geral e, nomeadamente:
 
 a) Gerir os negócios sociais e praticar todos os actos e operações relativos ao objecto social que não caibam na competência atribuída a outros órgãos da sociedade;
 
@@ -371,7 +470,9 @@ e) Deliberar sobre o endividamento não consolidado da empresa com respeito pelo
 
 f) Deliberar sobre as garantias a prestar pela empresa relativamente a projectos de investimento, bem como sobre a prestação de cauções e garantias pessoais ou reais, com respeito pelo disposto no n.º 4 do artigo 11.º dos presentes Estatutos.
 
-Art. 11.º - 1 - O conselho de administração deve fixar as datas ou a periodicidade das suas reuniões ordinárias e reunir extraordinariamente sempre que convocado pelo presidente, por iniciativa deste ou a solicitação de dois administradores.
+###### Artigo 11.º
+
+1 - O conselho de administração deve fixar as datas ou a periodicidade das suas reuniões ordinárias e reunir extraordinariamente sempre que convocado pelo presidente, por iniciativa deste ou a solicitação de dois administradores.
 
 2 - O conselho de administração não pode deliberar sem que esteja presente ou representada a maioria dos seus membros, sendo as suas deliberações tomadas por maioria dos votos expressos, sem prejuízo do disposto nos números seguintes.
 
@@ -381,11 +482,15 @@ Art. 11.º - 1 - O conselho de administração deve fixar as datas ou a periodic
 
 5 - Não é permitida a representação de mais de um administrador em cada reunião.
 
-Art. 12.º - 1 - O conselho de administração pode delegar poderes nos termos do artigo 407.º do Código das Sociedades Comerciais.
+###### Artigo 12.º
+
+1 - O conselho de administração pode delegar poderes nos termos do artigo 407.º do Código das Sociedades Comerciais.
 
 2 - A aquisição, alienação e oneração de participações sociais, quer quando sejam apenas da competência do conselho, quer quando autorizadas pela assembleia geral, não se incluem nos actos delegáveis.
 
-Art. 13.º - 1 - A sociedade obriga-se:
+###### Artigo 13.º
+
+1 - A sociedade obriga-se:
 
 a) Pela assinatura de dois membros do conselho de administração;
 
@@ -399,17 +504,23 @@ c) Pela assinatura dos mandatários constituídos, no âmbito do correspondente 
 
 #### SECÇÃO III — Conselho fiscal
 
-Art. 14.º - 1 - A fiscalização da sociedade compete a um conselho fiscal, composto por um presidente, dois vogais efectivos e um suplente.
+###### Artigo 14.º
+
+1 - A fiscalização da sociedade compete a um conselho fiscal, composto por um presidente, dois vogais efectivos e um suplente.
 
 2 - Um dos vogais efectivos e o suplente são revisores oficiais de contas ou sociedade revisora de contas.
 
-Art. 15.º - 1 - O conselho fiscal deve reunir, pelo menos, uma vez por mês.
+###### Artigo 15.º
+
+1 - O conselho fiscal deve reunir, pelo menos, uma vez por mês.
 
 2 - As deliberações do conselho fiscal são tomadas por maioria dos votos expressos, estando presente a maioria dos membros em exercício, tendo o presidente voto de qualidade.
 
 ### CAPÍTULO IV — Aplicação dos resultados
 
-Art. 16.º Os lucros do exercício, devidamente aprovados, terão a seguinte aplicação:
+###### Artigo 16.º
+
+Os lucros do exercício, devidamente aprovados, terão a seguinte aplicação:
 
 a) Constituição da reserva legal nos termos da lei e a sua eventual reintegração até atingir o montante exigível;
 

@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2015-08-14'
+version_history:
+  file: decreto-legislativo-regional-11-83-m.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1983-08-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2015-08-14'
+    amending: pt:dre:164412:por
+    amending_title: Decreto Legislativo Regional n.º 31-A/2013/M; Decreto Legislativo Regional n.º 6/2015/M
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 3.º
 identifiers:
   celex: null
   eli: null
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:37:47Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Legislativo Regional n.º
+    31-A/2013/M; Decreto Legislativo Regional n.º 6/2015/M. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/madeira/decretos-legislativos-regionais/1983/decreto-legislativo-regional-11-83-m.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -165,19 +181,25 @@ Nesta conformidade, a natureza, a extensão, responsabilidade e operacionalidade
 
 Assim, a Assembleia Regional decreta, nos termos do artigo 229.º, alínea a), da Constituição e do artigo 22.º, alínea b), do [Decreto-Lei n.º 318-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-d-1976-345536), de 30 de Abril, o seguinte:
 
-Artigo 1.º Constituem receita da Região Autónoma da Madeira:
+###### Artigo 1.º
+
+Constituem receita do Serviço Regional de Proteção Civil, IP-RAM:
 
 1) O produto das seguintes sobretaxas que as seguradoras estão autorizadas a cobrar dos segurados na Região:
 
-a) 8% sobre os prémios de seguro contra fogo;
+a) 13 % sobre os prémios de seguro contra fogo;
 
 b) 4% sobre os prémios dos seguros agrícolas e pecuários;
 
-c) 1% dos prémios ou contribuições relativos a seguros dos ramos de vida, doença, acidentes de trababalho, automóvel e responsabilidade civil e acidentes pessoais;
+c) 2,5 % dos prémios ou contribuições relativos a seguros dos ramos de vida, doença, acidentes de trabalho, automóvel e responsabilidade civil e acidentes pessoais.
 
 2) A incidência das taxas mencionadas no n.º 1) deste artigo recai sobre os prémios e encargos e ainda sobre o custo da apólice ou acta adicional, quando existam.
 
-Art. 2.º - 1 - As entidades seguradoras - empresas ou grupos - que exerçam a sua actividade na Região Autónoma da Madeira devem cobrar as percentagens previstas nas alíneas a), b) e c) do n.º 1 do artigo anterior conjuntamente com o prémio de seguro ou contribuições, sendo responsáveis pela cobrança perante a Secretaria Regional do Planeamento e Finanças (SRPF).
+> Alterado pelo/a [Decreto Legislativo Regional n.º 6/2015/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2015-70007184), publicado em 2015-08-13.
+
+###### Artigo 2.º
+
+1 - As entidades seguradoras - empresas ou grupos - que exerçam a sua actividade na Região Autónoma da Madeira devem cobrar as percentagens previstas nas alíneas a), b) e c) do n.º 1 do artigo anterior conjuntamente com o prémio de seguro ou contribuições, sendo responsáveis pela cobrança perante a Secretaria Regional do Planeamento e Finanças (SRPF).
 
 2 - No decurso do 2.º mês a seguir àquele em que se efectuaram as cobranças, as entidades seguradoras devem depositar, sem qualquer dedução, o total mensal em conta especial, e numa instituição de crédito a indicar para o efeito pelo Governo Regional, e à ordem da Secretaria Regional do Planeamento e Finanças, o quantitativo cobrado no mês anterior.
 
@@ -187,13 +209,21 @@ Art. 2.º - 1 - As entidades seguradoras - empresas ou grupos - que exerçam a s
 
 5 - O Governo Regional poderá solicitar que o Instituto de Seguros de Portugal proceda às acções de fiscalização junto das companhias seguradoras, no sentido de ser verificado o correcto cumprimento do presente diploma.
 
-Art. 3.º - 1 - Todos os valores obtidos e previstos no presente diploma serão consignados pela Secretaria Regional do Planeamento e Finanças ao Serviço Regional de Protecção Civil da Madeira, para acções inseridas no âmbito de protecção civil, nomeadamente incêndios, ambulâncias e socorrismo.
+###### Artigo 3.º
 
-2 - O Serviço Regional de Protecção Civil da Madeira não poderá afectar tais verbas, seja a que título for, para outra finalidade senão as indicadas no n.º 1 deste artigo, circunscrevendo-se as despesas relacionadas com o serviço de urgência hospitalar às decorrentes com a instalação de equipas móveis de urgência e com a formação em emergência médica e paramédica do respectivo pessoal.
+1 - Todos os valores obtidos e previstos no presente diploma serão entregues pela Tesouraria do Governo Regional ao Serviço Regional de Proteção Civil, IP-RAM, através de operações extraorçamentais.
 
-Art. 4.º As dúvidas suscitadas pela aplicação deste diploma serão resolvidas nos termos legais.
+2 - Os valores previstos no número anterior serão utilizados pelo Serviço Regional de Proteção Civil, IP-RAM, para o financiamento de despesas no âmbito da sua atividade.
 
-Art. 5.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+> Alterado pelo/a [Decreto Legislativo Regional n.º 31-A/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/31-a-2013-164412), publicado em 2013-12-31.
+
+###### Artigo 4.º
+
+As dúvidas suscitadas pela aplicação deste diploma serão resolvidas nos termos legais.
+
+###### Artigo 5.º
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária em 22 de Junho de 1983.
 

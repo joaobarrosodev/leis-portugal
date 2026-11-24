@@ -28,10 +28,27 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1993-05-01'
+version_history:
+  file: decreto-lei-126-83.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1983-03-09'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1993-05-01'
+    amending: pt:dre:665341:por
+    amending_title: Decreto-Lei n.º 141/93
+    changes:
+    - Altera Artigo unidades 41-55
+    - Altera Artigo unidades 56-56
+    - Altera Artigo unidades 57-57
+    - Altera Artigo unidades 58-58
 identifiers:
   celex: null
   eli: null
@@ -57,7 +74,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T23:49:36Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 141/93. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1983/decreto-lei-126-83.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -188,41 +206,21 @@ Art. 44.º - 1 - ...
 
 Art. 45.º Aos directores de distrito escolar que foram abrangidos pelo disposto no n.º 2 do artigo 4.º do Decreto-Lei n.º 356/76, de 14 de Maio, e que se encontrem em exercício de funções na Inspecção Administrativo-Financeira da Inspecção-Geral de Ensino, é aplicável desde já o disposto nos n.os 2 e 4 do artigo 32.º do presente diploma, independentemente de todas as formalidades legais, excepto o visto do Tribunal de Contas, considerando-se imediatamente criados os respectivos lugares afectos à Inspecção-Geral de Ensino, podendo-lhes ser distribuídas funções inspectivas nos termos do [Decreto-Lei n.º 540/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/540-1979-230890), de 31 de Dezembro.
 
-Art. 2.º - 1 - A comissão de serviço dos directores e subdirectores escolares, bem como a dos delegados e subdelegados escolares prevista no [Decreto-Lei n.º 211/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1981-580164), suspende-se sempre que os mesmos tenham sido eleitos ou nomeados para:
+Art. 2.º - (Revogado.)
 
-a) Deputado à Assembleia da República;
+> Alterado pelo/a [Decreto-Lei n.º 141/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1993-665341), publicado em 1993-04-26.
 
-b) Membro das assembleias regionais;
+Art. 3.º - (Revogado.)
 
-c) Funções governamentais;
+> Alterado pelo/a [Decreto-Lei n.º 141/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1993-665341), publicado em 1993-04-26.
 
-d) Governador civil;
+Art. 4.º - (Revogado.)
 
-e) Presidente de câmara;
+> Alterado pelo/a [Decreto-Lei n.º 141/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1993-665341), publicado em 1993-04-26.
 
-f) Membro de comissão administrativa ou de vereador em regime de permanência;
+Art. 5.º - (Revogado.)
 
-g) Chefe de gabinete ou de adjunto de membro do Governo ou de ministro da República para as regiões autónomas, bem como outros por lei a eles equiparados.
-
-2 - A suspensão referida nas alíneas e) e f) do número anterior abrange os mandatos que tenham cessado em virtude das últimas eleições para as autarquias locais, sendo os interessados recolocados nas respectivas categorias como supranumerários, no caso de, entretanto, se ter verificado o preenchimento do lugar.
-
-3 - A suspensão a que se refere o n.º 1 verificar-se-á enquanto durar o exercício do cargo ou funções, sendo as mesmas asseguradas:
-
-a) De director escolar por um dos subdirectores escolares considerado como substituto legal do primeiro;
-
-b) De delegado por um subdelegado escolar considerado como substituto legal do primeiro.
-
-4 - Os lugares de subdirector escolar e de subdelegado escolar cujos titulares tenham suspendido a comissão nos termos do n.º 1 deste artigo podem ser preenchidos interinamente e enquanto durar o impedimento dos mesmos.
-
-5 - Os subdirectores escolares e subdelegados escolares mencionados respectivamente nas alíneas a) e b) do n.º 3 serão abonados como directores escolares e delegados escolares enquanto durar o impedimento dos respectivos titulares.
-
-6 - O período de suspensão conta, para todos os efeitos legais, como tempo de serviço prestado no cargo exercido em comissão de serviço.
-
-Art. 3.º Os encargos resultantes da criação de lugares para efeitos de afectação nos termos do disposto no [Decreto-Lei n.º 211/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1981-580164), consoante a redacção dada pelo presente diploma, serão suportados por verbas já inscritas no orçamento do Ministério da Educação, no cap. 12, div. 01, das direcções escolares, escolas primárias e postos escolares.
-
-Art. 4.º O mapa anexo ao [Decreto-Lei n.º 211/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1981-580164), de 13 de Julho, passa a ser o constante do presente diploma.
-
-Art. 5.º Este decreto-lei produz efeitos desde 1 de Janeiro de 1981.
+> Alterado pelo/a [Decreto-Lei n.º 141/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1993-665341), publicado em 1993-04-26.
 
 Visto e aprovado em Conselho de Ministros de 30 de Dezembro de 1982. - Francisco José Pereira Pinto Balsemão - João Maurício Fernandes Salgueiro - João José Fraústo da Silva - José Manuel Meneres Sampaio Pimentel.
 

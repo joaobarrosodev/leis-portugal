@@ -38,10 +38,33 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2011-01-01'
+version_history:
+  file: decreto-legislativo-regional-12-93-m.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1993-07-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2011-01-01'
+    amending: pt:dre:241443:por
+    amending_title: Decreto Legislativo Regional n.º 22/98/M; Lei n.º 110/2009
+    changes:
+    - Altera Artigo 4.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 13.º
+    - Adita Artigo 13.º-A
+    - Adita Artigo 13.º-B
+    - Adita Artigo 13.º-C
+    - Revoga Artigo 11.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/declegreg/12/1993/07/23/m/dre/pt/html
@@ -67,7 +90,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:38:48Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Legislativo Regional n.º
+    22/98/M; Lei n.º 110/2009. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/madeira/decretos-legislativos-regionais/1993/decreto-legislativo-regional-12-93-m.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -219,13 +243,15 @@ b) O número de beneficiário da segurança social e o número fiscal de contrib
 
 c) A data do início da actividade;
 
-d) As importâncias pagas.
+d) As importâncias pagas, a título de remuneração e a título de subsídio anual.
 
 2 - Esse registo será elaborado mediante o envio ao Instituto do Bordado, Tapeçarias e Artesanato da Madeira, pelos dadores de trabalho, de uma relação semanal contendo os elementos previstos no número anterior ou as respectivas actualizações.
 
-3 - Até 31 de Janeiro de cada ano, o Instituto do Bordado, Tapeçarias e Artesanato da Madeira remeterá cópias dos registos actualizados com referência ao ano anterior à Inspecção Regional de Trabalho e à Direcção Regional da Segurança Social.
+3 - Até 31 de Janeiro de cada ano, o Instituto do Bordado, Tapeçarias e Artesanato da Madeira remeterá cópia dos registos actualizados com referência ao ano anterior à Inspecção Regional do Trabalho e ao Centro de Segurança Social da Madeira.
 
-4 - Compete ao Instituto do Bordado, Tapeçarias e Artesanato da Madeira o processamento informatizado das remunerações das bordadeiras de casa, para efeito do apuramento das contribuições a pagar à Direcção Regional da Segurança Social.
+4 - Compete ao Instituto do Bordado, Tapeçarias e Artesanato da Madeira o processamento informatizado das remunerações das bordadeiras de casa, para efeito do apuramento das contribuições a pagar ao Centro de Segurança Social da Madeira.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 22/98/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-1998-241443), publicado em 1998-09-18.
 
 ###### Artigo 5.º — Deveres
 
@@ -277,6 +303,10 @@ o) Prazo de execução;
 
 p) Representante.
 
+q) Subsídio anual (um duodécimo do preço);
+
+r) Total a pagar [soma das alíneas i) e q)].
+
 2 - Os bilhetes devem ter um anexo destacável, o qual é entregue à bordadeira de casa após a execução do trabalho e o respectivo pagamento e que conterá as seguintes indicações:
 
 a) As previstas nas alíneas a), j), l) e p) do número anterior;
@@ -285,13 +315,17 @@ b) Nome da bordadeira de casa;
 
 c) Número de beneficiário da segurança social e número de contribuinte fiscal;
 
-d) Importâncias pagas;
+d) Total das importâncias pagas, a título de preço e de duodécimo do subsídio anual;
 
 e) Data do pagamento.
 
 3 - Devem ser estampados na orla das peças de tecido dadas a bordar o número do desenho, a medida e o número de pontos.
 
 4 - O número de pontos é contado de acordo com a tabela de contagem que consta em anexo ao presente diploma (anexo I).
+
+5 - A composição, designações e aspecto tipográfico do documento designado por bilhete, bem como o seu período de validade como elemento de prova do trabalho executado, serão objecto de regulamentação própria, através de portaria conjunta dos secretários regionais que detiverem a tutela das áreas do trabalho, do artesanato e da segurança social.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 22/98/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-1998-241443), publicado em 1998-09-18.
 
 ###### Artigo 8.º — Remuneração
 
@@ -303,15 +337,15 @@ e) Data do pagamento.
 
 4 - Sendo essa eliminação obtida, deve ser paga imediatamente a remuneração devida, sem qualquer desconto.
 
-5 - Se a nódoa ou mancha não puder ser eliminada ou o bordado apresentar outras imperfeições susceptíveis de comprometerem irremediavelmente a respectiva qualidade, o dador de trabalho deverá remetê-lo, de imediato, ao departamento técnico do Instituto do Bordado, Tapeçarias e Artesanato da Madeira.
+5 - Se a nódoa ou mancha não puder ser eliminada ou o bordado apresentar outras imperfeições susceptíveis de comprometerem irremediavelmente a respectiva qualidade, o dador de trabalho deverá remetê-lo, no prazo máximo de dois dias, ao departamento técnico do Instituto do Bordado, Tapeçarias e Artesanato da Madeira, acompanhado de exposição escrita dos defeitos encontrados.
 
 6 - O mesmo procedimento deve ser adoptado no caso de existirem divergências entre o dador de trabalho e a bordadeira relativamente à contagem dos pontos executados ou ao valor das deduções a efectuar nos termos do n.º 2.
 
-7 - O departamento técnico do Instituto do Bordado, Tapeçarias e Artesanato da Madeira decide as questões suscitadas nos termos dos números anteriores no prazo máximo de oito dias, constando obrigatoriamente da decisão tomada a contagem dos pontos executados e o montante da remuneração a pagar.
+7 - O departamento técnico do Instituto do Bordado, Tapeçarias e Artesanato da Madeira decide as questões suscitadas nos termos dos números anteriores no prazo máximo de três dias, constando obrigatoriamente da decisão tomada e comunicada por escrito ao dador de trabalho e à bordadeira de casa a contagem dos pontos executados e o montante da remuneração a pagar.
 
-8 - Comunicada a decisão ao dador de trabalho e à bordadeira, poderá ser requerida por qualquer deles, no prazo de oito dias, nova apreciação pelo departamento técnico do Instituto do Bordado, Tapeçarias e Artesanato da Madeira, a qual deve ser decidida no prazo de dois dias.
+8 - Comunicada a decisão final às partes, devem ser pagas, no prazo máximo de dois dias, as remunerações que sejam devidas.
 
-9 - Comunicada a decisão final às partes, devem ser pagas, no prazo máximo de dois dias, as remunerações que sejam devidas.
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 22/98/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-1998-241443), publicado em 1998-09-18.
 
 ###### Artigo 9.º — Actualização das remunerações mínimas
 
@@ -319,25 +353,21 @@ e) Data do pagamento.
 
 2 - A portaria prevista no número anterior é elaborada sob proposta do Instituto do Bordado, Tapeçarias e Artesanato da Madeira, após audição das associações patronais e sindicais do sector, e deve ser publicada até 15 de Dezembro de cada ano, para produzir efeitos a partir de 1 de Janeiro do ano seguinte.
 
-###### Artigo 10.º — Prémio de produtividade
+###### Artigo 10.º — Subsídio anual
 
-1 - É suspenso por um prazo até quatro anos o direito previsto no artigo 7.º do [Decreto-Lei n.º 440/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/440-1991-316727), de 14 de Novembro.
+1 - Em simultâneo com o pagamento das remunerações, nos termos previstos no artigo 8.º, será pago à bordadeira de casa um valor correspondente a um duodécimo do montante dessa remuneração.
 
-2 - Enquanto se mantiver a suspensão prevista no número anterior, a bordadeira de casa tem direito a um prémio de produtividade quando o valor global das remunerações auferidas no ano civil, mesmo que pagas por vários dadores de trabalho, atinjam o montante de 75% de um salário mínimo nacional mensal para o trabalhador doméstico.
+2 - O somatório dos duodécimos recebidos no período de um ano, nos termos do número anterior, representa, para todos os efeitos, o subsídio anual previsto no artigo 7.º do Decreto-Lei n.º 440/91, de 14 de Novembro.
 
-3 - O prémio de valor correspondente a um duodécimo do total das remunerações recebidas será pago pelo dador de trabalho durante o 1.º trimestre de cada ano, mediante listagem fornecida pelo Instituto do Bordado, Tapeçarias e Artesanato da Madeira.
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 22/98/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-1998-241443), publicado em 1998-09-18.
 
 ###### Artigo 11.º — Segurança social
 
-1 - A bordadeira de casa e o dador de trabalho ficam obrigatoriamente abrangidos, como beneficiários e contribuintes, respectivamente, pelo regime geral de segurança social dos trabalhadores por conta de outrem, com as particularidades constantes dos números seguintes.
+(Revogado.)
 
-2 - À bordadeira de casa é garantido o direito a todas as prestações do regime geral de segurança social dos trabalhadores por conta de outrem, com excepção do subsídio de desemprego.
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 22/98/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-1998-241443), publicado em 1998-09-18.
 
-3 - As taxas de contribuições relativas às bordadeiras de casa são calculadas pela aplicação da taxa global de 12%, correspondendo 10% ao dador de trabalho e 2% à bordadeira de casa, sobre o valor das remunerações efectivamente pagas e auferidas.
-
-4 - A percentagem global referida no número anterior engloba a taxa de 0,5% destinada a financiar a cobertura de riscos de doença profissional.
-
-5 - A regulamentação do regime de segurança social aplicável às bordadeiras de casa será efectivada por portaria do membro do Governo Regional que detiver a tutela da área da segurança social.
+> Revogado pelo/a [Lei n.º 110/2009](https://diariodarepublica.pt/dr/detalhe/lei/110-2009-490249), publicado em 2009-09-16.
 
 ###### Artigo 12.º — Fiscalização
 
@@ -361,11 +391,39 @@ b) De 5000$00 a 20000$00, a violação do disposto no artigo 7.º, por cada infr
 
 c) De 5000$00 a 100000$00, a violação do disposto no artigo 6.º, por cada infracção, quando as substâncias, equipamentos ou utensílios sejam fornecidos pelo dador de trabalho.
 
-2 - A falta de pagamento pontual da remuneração devida à bordadeira de casa, bem como do subsídio previsto no artigo 10.º, constitui contra-ordenação punida com coima que pode ir até ao dobro das importâncias em dívida.
+2 - A falta de pagamento pontual da remuneração devida à bordadeira de casa, bem como dos duodécimos, do subsídio anual previsto no artigo 10.º constitui contra-ordenação, punida com coima de 5000$00 a 50000$00 por cada bordadeira em relação à qual se verifique a infracção.
 
-3 - As infracções no âmbito do regime de segurança social previsto no artigo 11.º ficam sujeitas, na parte aplicável, ao disposto no [Decreto-Lei n.º 64/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-1989-612243), de 25 de Fevereiro.
+3 - Às representantes das bordadeiras, designadas por agentes, são aplicáveis as coimas previstas na alínea b) do n.º 1 do presente artigo, quando haja violação do disposto nos n.os 1 e 2 do artigo 7.º do presente diploma.
 
-4 - Ao regime substantivo e processual das contra-ordenações previstas nos n.os 1 e 2 é aplicável o disposto no Estatuto da Inspecção Regional do Trabalho e no [Decreto-Lei n.º 491/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/491-1985-170477), de 26 de Novembro.
+4 - Com o auto de notícia serão apuradas as quantias em dívida.
+
+5 - O produto das coimas reverterá para a segurança social, sendo afectado à área da acção social.
+
+6 - As infracções no âmbito do regime de segurança social previsto no artigo 11.º ficam sujeitas, na parte aplicável, ao disposto no [Decreto-Lei n.º 64/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-1989-612243), de 25 de Fevereiro.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 22/98/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-1998-241443), publicado em 1998-09-18.
+
+###### Artigo 13.º-A — Notificações
+
+1 - As notificações dos autos de notícia podem ser efectuadas directa e pessoalmente por qualquer funcionário da Inspecção Regional do Trabalho, desde que mandatado para o efeito, ficando este investido dos poderes que a lei geral confere para a realização desse acto.
+
+2 - As notificações podem ainda ser efectuadas mediante carta registada, com aviso de recepção, expedida para o domicílio ou sede do notificando.
+
+3 - A notificação considera-se feita na pessoa do infractor quando efectuada em qualquer outra que na altura o represente, ainda que não possua título bastante para o efeito, e presume-se feita no 3.º dia posterior ao do registo.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 22/98/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-1998-241443), publicado em 1998-09-18.
+
+###### Artigo 13.º-B — Processamento e instrução
+
+O processamento e instrução seguirão os trâmites estabelecidos no regime geral das contra-ordenações laborais.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 22/98/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-1998-241443), publicado em 1998-09-18.
+
+###### Artigo 13.º-C — Regime substantivo e processual
+
+Em tudo o que não se encontrar especialmente regulado no presente diploma é aplicável às contra-ordenações previstas nos n.os 1 e 2 do artigo 13.º do presente diploma o regime geral das contra-ordenações.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 22/98/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-1998-241443), publicado em 1998-09-18.
 
 ###### Artigo 14.º — Trabalho de menores
 

@@ -28,10 +28,30 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1994-01-16'
+version_history:
+  file: decreto-lei-108-82.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1982-04-08'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1994-01-16'
+    amending: pt:dre:532026:por
+    amending_title: Decreto-Lei n.º 4/94
+    changes:
+    - Altera Artigo 1.º
+    - Revoga Artigo 2.º
+    - Revoga Artigo 3.º
+    - Revoga Artigo 4.º
+    - Revoga Artigo 5.º
+    - Revoga Artigo 6.º
+    - Altera Artigo 7.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +77,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T23:41:30Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 4/94. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1982/decreto-lei-108-82.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -114,49 +135,49 @@ de 8 de Abril
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-Artigo 1.º - 1 - A Fundação Eugénio de Almeida, instituída em 25 de Setembro de 1963, acompanhada de uma doação do engenheiro Vasco Maria Eugénio de Almeida (conde de Vilalva), é uma instituição privada de solidariedade social, perpétua, dotada de personalidade jurídica e com sede em Évora.
+###### Artigo 1.º
 
-2 - A Fundação Eugénio de Almeida reger-se-á pelos estatutos publicados no Diário do Governo, 3.ª série, n.º 238, de 10 de Outubro de 1963, com as alterações que neles introduz o presente decreto-lei e, em tudo o que neles for omisso, pela legislação supletiva aplicável.
+1 - A Fundação Eugénio de Almeida, instituída em 25 de Setembro de 1963, acompanhada de uma doação do engenheiro Vasco Maria Eugénio de Almeida (conde de Vilalva), é uma instituição privada de solidariedade social, perpétua, dotada de personalidade jurídica e com sede em Évora.
 
-Art. 2.º Os fins, âmbito de actividade e património são os constantes dos artigos 3.º, 4.º e 6.º dos estatutos.
+2 - (Revogado.)
 
-Art. 3.º - 1 - A administração da Fundação Eugénio de Almeida será exercida por um conselho composto de 5 membros:
+> Alterado pelo/a [Decreto-Lei n.º 4/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-1994-532026), publicado em 1994-01-11.
 
-1 representante da Arquidiocese de Évora, que preside;
+###### Artigo 2.º
 
-1 delegado do corpo docente da Universidade de Évora;
+(Revogado.)
 
-1 representante do Instituto Superior Económico e Social de Évora;
+> Revogado pelo/a [Decreto-Lei n.º 4/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-1994-532026), publicado em 1994-01-11.
 
-2 vogais designados nos termos do § 2 do artigo 8.º dos estatutos.
+###### Artigo 3.º
 
-2 - As funções dos vogais durarão por períodos de 5 anos a contar do exercício efectivo das funções e serão sempre renováveis.
+(Revogado.)
 
-3 - 90 dias antes do termo do mandato de cada vogal, o presidente efectuará as diligências necessárias junto das instituições que o mesmo representa no sentido de anunciar ao conselho, até 30 dias do fim do mandato, o novo vogal.
+> Revogado pelo/a [Decreto-Lei n.º 4/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-1994-532026), publicado em 1994-01-11.
 
-4 - A designação para o primeiro mandato dos 2 vogais a que se refere o § 2 do artigo 8.º dos estatutos deverá ser decidida por unanimidade.
+###### Artigo 4.º
 
-5 - O conselho de administração deverá preencher um dos lugares a que se refere o § 2 do artigo 8.º dos estatutos de preferência com familiares do fundador que tenham participado activamente na criação da Fundação, enquanto existirem.
+(Revogado.)
 
-Art. 4.º - 1 - O conselho de administração poderá criar o título de presidente honorário da Fundação, para o atribuir, quando o entender, a algum familiar do fundador que tenha participado activamente na criação da Fundação.
+> Revogado pelo/a [Decreto-Lei n.º 4/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-1994-532026), publicado em 1994-01-11.
 
-2 - O presidente honorário não terá funções próprias, podendo, no entanto, exercer as que resultarem do cargo de vogal quando eventualmente fizer parte do conselho.
+###### Artigo 5.º
 
-Art. 5.º - 1 - Ao conselho de administração compete representar a Fundação, gerir e dispor livremente do seu património em ordem à realização dos fins para que foi instituída.
+(Revogado.)
 
-2 - O conselho de administração poderá criar, no exercício dos poderes que lhe são conferidos pelo artigo 10.º dos estatutos, órgãos de consulta, informação e execução e regulamentar o seu funcionamento e as condições de provimento dos respectivos cargos.
+> Revogado pelo/a [Decreto-Lei n.º 4/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-1994-532026), publicado em 1994-01-11.
 
-3 - Do mesmo modo, dentro do espírito do artigo 10.º dos estatutos, poderá, quando a complexidade da administração o requerer, criar o cargo de administrador-delegado.
+###### Artigo 6.º
 
-Art. 6.º - 1 - O conselho de administração fará organizar e manter em dia o inventário do património da Fundação e respectiva contabilidade, que submeterá à revisão de 2 técnicos inscritos como revisores de contas.
+(Revogado.)
 
-2 - Todos os documentos referidos no parágrafo anterior serão submetidos, até 31 de Março do ano imediato, à apreciação de uma comissão fiscalizadora constituída por um licenciado em Economia ou Finanças, um licenciado em Direito e um representante da Direcção-Geral da Contabilidade Pública, em substituição do conselho fiscal referido nas alíneas a) e b) do artigo 15.º dos estatutos.
+> Revogado pelo/a [Decreto-Lei n.º 4/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-1994-532026), publicado em 1994-01-11.
 
-3 - A comissão fiscalizadora emitirá anualmente parecer, que o conselho de administração divulgará.
+###### Artigo 7.º
 
-4 - O trabalho dos revisores de contas, bem como o da comissão fiscalizadora, será retribuído segundo o que for considerado justo pela administração.
+(Revogado.)
 
-Art. 7.º À Fundação Eugénio de Almeida são aplicáveis todas as isenções previstas na [Lei n.º 2/78](https://diariodarepublica.pt/dr/detalhe/lei/2-1978-447906), de 17 de Janeiro, para as pessoas colectivas de utilidade pública.
+> Alterado pelo/a [Decreto-Lei n.º 4/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-1994-532026), publicado em 1994-01-11.
 
 Visto e aprovado em Conselho de Ministros de 25 de Fevereiro de 1982. - Diogo Pinto de Freitas do Amaral.
 
