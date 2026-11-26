@@ -13,9 +13,9 @@ Uma análise conta como certa só se todos os juízes lhe dão `certa`.
 from __future__ import annotations
 
 import json
-import sys
 from collections import Counter
 from pathlib import Path
+
 
 RAIZ = Path(__file__).resolve().parents[2]
 CASOS = RAIZ / "avaliacao" / "casos" / "casos.jsonl"
@@ -70,7 +70,7 @@ def contar(pasta_llm: Path, pasta_juiz: Path, nome: str | None, ficheiro: Path =
         por_caso.append({
             "id": c["id"], "area": c["area"], "dificuldade": c["dificuldade"],
             "essenciais": len(ess), "essenciais_dados": sum(e in dados for e in ess), "essenciais_citados": sum(e in set(r["citadas"]) for e in ess),
-            "veredictos": dict(zip(letras, verds)),
+            "veredictos": dict(zip(letras, verds, strict=False)),
             "certa": bool(verds) and all(v == "certa" for v in verds),
             "errada_algum": any(v == "errada" for v in verds),
             "leis_pensadas": {l: (vs[l] or {}).get("leis_pensadas") for l in letras},

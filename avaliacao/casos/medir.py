@@ -24,11 +24,13 @@ import sys
 import time
 from pathlib import Path
 
+
 RAIZ = Path(__file__).resolve().parents[2]
 sys.path.insert(0, str(RAIZ))
 
 from rag import caso as caso_mod  # noqa: E402
 from rag.pesquisa import Pesquisa  # noqa: E402
+
 
 KS = (1, 3, 8, 10, 30)
 
