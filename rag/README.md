@@ -1530,5 +1530,8 @@ como na fase 1 (as normas julgadas de diplomas que passam de blocos a artigos po
 | Análise com LLM e o contexto ideal: certas para os 2 juízes | 38 de 39 (teto otimista) |
 | Caso partido em consultas por um LLM: essenciais nos 8 primeiros | 127 de 161 (18 casos com todos) |
 | Análise com LLM sobre essas consultas: certas para os 2 juízes | 31 de 39 (1 errada) |
+| Consultas do Sonnet: essenciais nos 8 primeiros | 116 de 161 (16 casos com todos) |
+| Sonnet parte o caso e analisa: certas para os 2 juízes | 22 de 39 (6 erradas) |
+| Opus parte o caso, Sonnet analisa: certas para os 2 juízes | 30 de 39 (1 errada) |
 
-A app 0.1.1 recusa casos concretos por instrução. Com os artigos certos, o raciocínio chega lá. O que faltava era a pesquisa: partir o caso em consultas jurídicas leva as certas de 5 para 31 em 39. Tudo foi feito pelo mesmo modelo e sem jurista.
+A app 0.1.1 recusa casos concretos por instrução. Com os artigos certos, o raciocínio chega lá. O que faltava era a pesquisa: partir o caso em consultas jurídicas leva as certas de 5 para 31 em 39. Tudo foi feito pelo mesmo modelo e sem jurista. Com o Sonnet (tarde de 26/11), a análise com os artigos do Opus quase não perde (30 certas), mas o caso partido pelo Sonnet perde 13 essenciais e fica em 22: partir o caso é o passo que pede o modelo melhor. O passo está em `rag/caso.py`, fora da app.

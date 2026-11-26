@@ -113,6 +113,39 @@ Depois a análise com o LLM: os 16 primeiros da variante com artigos, as mesmas 
   - Sem jurista, isto mostra o caminho e não é um número para dizer em público.
   - Na app, partir o caso exige um passo de LLM antes da pesquisa, como a reescrita.
 
+### A peça do sistema e outro modelo (26/11/2026, tarde)
+
+**A peça do sistema.** O passo de partir o caso está em `rag/caso.py`, com as regras em `rag/CASO-PARTIR.md` e `rag/CASO-ANALISE.md`, que são as desta medição. O `medir.py --decomposicao` passou a pesquisar com `rag.caso.pesquisar`. Com as consultas do Opus, dá as mesmas posições que a medição da manhã nos 39 casos e nos 161 essenciais, sem nenhuma diferença (`rag/resultados/casos-fluxo.json`).
+
+**Outro modelo.** O Sonnet e o Haiku escreveram as consultas dos 39 casos com as mesmas regras e sem a referência (`decomposicao-sonnet/`, `decomposicao-haiku/`). Depois um Sonnet analisou os casos com as regras de `rag/CASO-ANALISE.md`, primeiro com os artigos que as suas consultas encontraram e depois com os 16 artigos que o Opus teve. Os juízes são os mesmos dois Opus, com as mesmas instruções.
+
+| Consultas escritas por | Opus | Sonnet | Haiku |
+|---|--:|--:|--:|
+| Consultas / artigos prováveis | 224 / 200 | 220 / 173 | 197 / 85 |
+| Essenciais em 1.º | 31 | 24 | (a medir) |
+| Essenciais nos 8 primeiros | 127 de 161 | 116 de 161 | (a medir) |
+| Essenciais nos 16 dados ao LLM | 144 | 131 | — |
+| Casos com todos os essenciais nos 8 | 18 | 16 | (a medir) |
+
+| Análise com LLM (os 2 juízes) | Certas | Erradas para algum juiz |
+|---|--:|--:|
+| Opus parte o caso, Opus analisa (manhã) | 31 de 39 | 1 |
+| Opus parte o caso, Sonnet analisa | **30 de 39** | 1 |
+| Sonnet parte o caso, Sonnet analisa | **22 de 39** | 6 |
+
+- **A perda vem de partir o caso, não de analisar.** Com os mesmos artigos, o Sonnet analisa quase como o Opus: 30 contra 31 certas, e a mesma errada (`caso-arr-01`, a carta registada em vez da notificação avulsa). Quando é o Sonnet a partir o caso, faltam 13 essenciais no contexto e as certas descem para 22.
+- **As 6 erradas do Sonnet de ponta a ponta:**
+  - `caso-adm-05`: nenhum dos 4 essenciais no contexto, e falha o limite máximo da prescrição da contraordenação;
+  - `caso-cons-02`: deixa a consumidora a responder pela depreciação, quando a falta de informação a isenta;
+  - `caso-fam-02`: erra uma conta de datas (2051 em vez de 2033);
+  - `caso-arr-01`: a mesma errada do Opus;
+  - `caso-trab-03` e `caso-trab-05`: errada para um dos juízes.
+- **Concordância dos juízes:** 35 de 39 casos com o mesmo veredicto no Sonnet de ponta a ponta e 36 de 39 com os artigos do Opus.
+- **Ressalvas:** os juízes são Opus e a referência foi escrita por Opus. Isto não é o mesmo que um jurista. No contexto do Opus, as análises de um dos lotes do Sonnet passaram as 400 palavras pedidas (439 a 525).
+- **O que fica:** partir o caso é o passo que pede o modelo melhor. A análise, com os artigos certos, aguenta um modelo mais barato.
+
+Os ficheiros estão em `resultados/sonnet/` e `resultados/sonnet-contexto-opus/`, e os números em `rag/resultados/casos-llm-sonnet.json`, `casos-llm-sonnet-ctxopus.json` e `casos-fluxo-sonnet.json`.
+
 **O que isto quer dizer.** Com os artigos certos à frente, o raciocínio chega lá em quase todos os casos (com a ressalva acima). Com a pesquisa de hoje, chega em 5 de 39. Partir o caso em consultas jurídicas, com o código e o vocabulário da lei, leva a 31 de 39. As questões do advogado sozinhas não chegam, porque não trazem o código e perdem a narrativa. O que falta, por ordem:
 1. Fazer do passo de partir o caso uma peça do sistema e medi-la também com outro modelo. A peça está em `rag/caso.py` (26/11/2026), com as regras em `rag/CASO-PARTIR.md` e `rag/CASO-ANALISE.md`, as mesmas desta medição. O `medir.py --decomposicao` passou a usar essa pesquisa. As consultas escritas pelo Sonnet e pelo Haiku, com as mesmas regras, estão em `decomposicao-sonnet/` e `decomposicao-haiku/`. A medição delas ainda não está feita.
 2. Garantir os artigos dos prazos e das formalidades, onde estão as erradas.

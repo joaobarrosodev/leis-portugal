@@ -1,0 +1,1145 @@
+{
+ "resumo": {
+  "casos": 39,
+  "juizes": [
+   "a",
+   "b"
+  ],
+  "certas_todos_os_juizes": 22,
+  "errada_para_algum_juiz": 6,
+  "veredictos_por_juiz": {
+   "a": {
+    "certa": 24,
+    "parcial": 10,
+    "errada": 5
+   },
+   "b": {
+    "certa": 23,
+    "parcial": 11,
+    "errada": 5
+   }
+  },
+  "essenciais": 161,
+  "essenciais_dados": 131,
+  "essenciais_citados": 131,
+  "casos_com_todos_os_essenciais_dados": 19,
+  "leis_pensadas_por_juiz": {
+   "a": [
+    51,
+    56
+   ],
+   "b": [
+    51,
+    56
+   ]
+  },
+  "prazos_por_juiz": {
+   "a": {
+    "certos": 28,
+    "em_falta": 7,
+    "nao_ha": 2,
+    "errados": 2
+   },
+   "b": {
+    "certos": 29,
+    "em_falta": 6,
+    "nao_ha": 2,
+    "errados": 2
+   }
+  }
+ },
+ "casos": [
+  {
+   "id": "caso-trab-01",
+   "area": "trabalho",
+   "dificuldade": "base",
+   "essenciais": 4,
+   "essenciais_dados": 4,
+   "essenciais_citados": 4,
+   "veredictos": {
+    "a": "certa",
+    "b": "certa"
+   },
+   "certa": true,
+   "errada_algum": false,
+   "leis_pensadas": {
+    "a": {
+     "acertou": 1,
+     "total": 1
+    },
+    "b": {
+     "acertou": 1,
+     "total": 1
+    }
+   },
+   "prazos": {
+    "a": "certos",
+    "b": "certos"
+   }
+  },
+  {
+   "id": "caso-trab-02",
+   "area": "trabalho",
+   "dificuldade": "alta",
+   "essenciais": 5,
+   "essenciais_dados": 5,
+   "essenciais_citados": 5,
+   "veredictos": {
+    "a": "parcial",
+    "b": "parcial"
+   },
+   "certa": false,
+   "errada_algum": false,
+   "leis_pensadas": {
+    "a": {
+     "acertou": 1,
+     "total": 2
+    },
+    "b": {
+     "acertou": 1,
+     "total": 2
+    }
+   },
+   "prazos": {
+    "a": "em_falta",
+    "b": "em_falta"
+   }
+  },
+  {
+   "id": "caso-trab-03",
+   "area": "trabalho",
+   "dificuldade": "media",
+   "essenciais": 5,
+   "essenciais_dados": 5,
+   "essenciais_citados": 5,
+   "veredictos": {
+    "a": "certa",
+    "b": "errada"
+   },
+   "certa": false,
+   "errada_algum": true,
+   "leis_pensadas": {
+    "a": {
+     "acertou": 1,
+     "total": 1
+    },
+    "b": {
+     "acertou": 0,
+     "total": 1
+    }
+   },
+   "prazos": {
+    "a": "certos",
+    "b": "certos"
+   }
+  },
+  {
+   "id": "caso-trab-05",
+   "area": "trabalho",
+   "dificuldade": "media",
+   "essenciais": 4,
+   "essenciais_dados": 4,
+   "essenciais_citados": 4,
+   "veredictos": {
+    "a": "errada",
+    "b": "parcial"
+   },
+   "certa": false,
+   "errada_algum": true,
+   "leis_pensadas": {
+    "a": {
+     "acertou": 1,
+     "total": 2
+    },
+    "b": {
+     "acertou": 1,
+     "total": 2
+    }
+   },
+   "prazos": {
+    "a": "em_falta",
+    "b": "certos"
+   }
+  },
+  {
+   "id": "caso-trab-06",
+   "area": "trabalho",
+   "dificuldade": "base",
+   "essenciais": 3,
+   "essenciais_dados": 3,
+   "essenciais_citados": 3,
+   "veredictos": {
+    "a": "certa",
+    "b": "certa"
+   },
+   "certa": true,
+   "errada_algum": false,
+   "leis_pensadas": {
+    "a": {
+     "acertou": 0,
+     "total": 0
+    },
+    "b": {
+     "acertou": 0,
+     "total": 0
+    }
+   },
+   "prazos": {
+    "a": "nao_ha",
+    "b": "nao_ha"
+   }
+  },
+  {
+   "id": "caso-trab-07",
+   "area": "trabalho",
+   "dificuldade": "media",
+   "essenciais": 3,
+   "essenciais_dados": 3,
+   "essenciais_citados": 3,
+   "veredictos": {
+    "a": "certa",
+    "b": "certa"
+   },
+   "certa": true,
+   "errada_algum": false,
+   "leis_pensadas": {
+    "a": {
+     "acertou": 3,
+     "total": 3
+    },
+    "b": {
+     "acertou": 3,
+     "total": 3
+    }
+   },
+   "prazos": {
+    "a": "certos",
+    "b": "certos"
+   }
+  },
+  {
+   "id": "caso-trab-08",
+   "area": "trabalho",
+   "dificuldade": "alta",
+   "essenciais": 4,
+   "essenciais_dados": 3,
+   "essenciais_citados": 3,
+   "veredictos": {
+    "a": "parcial",
+    "b": "parcial"
+   },
+   "certa": false,
+   "errada_algum": false,
+   "leis_pensadas": {
+    "a": {
+     "acertou": 2,
+     "total": 2
+    },
+    "b": {
+     "acertou": 2,
+     "total": 2
+    }
+   },
+   "prazos": {
+    "a": "em_falta",
+    "b": "em_falta"
+   }
+  },
+  {
+   "id": "caso-trab-09",
+   "area": "trabalho",
+   "dificuldade": "alta",
+   "essenciais": 3,
+   "essenciais_dados": 3,
+   "essenciais_citados": 3,
+   "veredictos": {
+    "a": "certa",
+    "b": "certa"
+   },
+   "certa": true,
+   "errada_algum": false,
+   "leis_pensadas": {
+    "a": {
+     "acertou": 1,
+     "total": 1
+    },
+    "b": {
+     "acertou": 1,
+     "total": 1
+    }
+   },
+   "prazos": {
+    "a": "certos",
+    "b": "certos"
+   }
+  },
+  {
+   "id": "caso-trab-10",
+   "area": "trabalho",
+   "dificuldade": "media",
+   "essenciais": 4,
+   "essenciais_dados": 3,
+   "essenciais_citados": 3,
+   "veredictos": {
+    "a": "certa",
+    "b": "certa"
+   },
+   "certa": true,
+   "errada_algum": false,
+   "leis_pensadas": {
+    "a": {
+     "acertou": 2,
+     "total": 2
+    },
+    "b": {
+     "acertou": 2,
+     "total": 2
+    }
+   },
+   "prazos": {
+    "a": "certos",
+    "b": "certos"
+   }
+  },
+  {
+   "id": "caso-arr-01",
+   "area": "arrendamento",
+   "dificuldade": "media",
+   "essenciais": 5,
+   "essenciais_dados": 4,
+   "essenciais_citados": 4,
+   "veredictos": {
+    "a": "errada",
+    "b": "errada"
+   },
+   "certa": false,
+   "errada_algum": true,
+   "leis_pensadas": {
+    "a": {
+     "acertou": 1,
+     "total": 2
+    },
+    "b": {
+     "acertou": 1,
+     "total": 2
+    }
+   },
+   "prazos": {
+    "a": "certos",
+    "b": "certos"
+   }
+  },
+  {
+   "id": "caso-arr-02",
+   "area": "arrendamento",
+   "dificuldade": "alta",
+   "essenciais": 5,
+   "essenciais_dados": 5,
+   "essenciais_citados": 5,
+   "veredictos": {
+    "a": "certa",
+    "b": "certa"
+   },
+   "certa": true,
+   "errada_algum": false,
+   "leis_pensadas": {
+    "a": {
+     "acertou": 2,
+     "total": 2
+    },
+    "b": {
+     "acertou": 2,
+     "total": 2
+    }
+   },
+   "prazos": {
+    "a": "certos",
+    "b": "certos"
+   }
+  },
+  {
+   "id": "caso-arr-03",
+   "area": "arrendamento",
+   "dificuldade": "base",
+   "essenciais": 3,
+   "essenciais_dados": 2,
+   "essenciais_citados": 2,
+   "veredictos": {
+    "a": "parcial",
+    "b": "parcial"
+   },
+   "certa": false,
+   "errada_algum": false,
+   "leis_pensadas": {
+    "a": {
+     "acertou": 0,
+     "total": 0
+    },
+    "b": {
+     "acertou": 0,
+     "total": 0
+    }
+   },
+   "prazos": {
+    "a": "certos",
+    "b": "certos"
+   }
+  },
+  {
+   "id": "caso-arr-04",
+   "area": "arrendamento",
+   "dificuldade": "alta",
+   "essenciais": 5,
+   "essenciais_dados": 3,
+   "essenciais_citados": 3,
+   "veredictos": {
+    "a": "parcial",
+    "b": "parcial"
+   },
+   "certa": false,
+   "errada_algum": false,
+   "leis_pensadas": {
+    "a": {
+     "acertou": 1,
+     "total": 2
+    },
+    "b": {
+     "acertou": 2,
+     "total": 2
+    }
+   },
+   "prazos": {
+    "a": "em_falta",
+    "b": "em_falta"
+   }
+  },
+  {
+   "id": "caso-arr-05",
+   "area": "arrendamento",
+   "dificuldade": "alta",
+   "essenciais": 5,
+   "essenciais_dados": 3,
+   "essenciais_citados": 3,
+   "veredictos": {
+    "a": "certa",
+    "b": "certa"
+   },
+   "certa": true,
+   "errada_algum": false,
+   "leis_pensadas": {
+    "a": {
+     "acertou": 3,
+     "total": 3
+    },
+    "b": {
+     "acertou": 3,
+     "total": 3
+    }
+   },
+   "prazos": {
+    "a": "certos",
+    "b": "certos"
+   }
+  },
+  {
+   "id": "caso-cons-01",
+   "area": "consumo",
+   "dificuldade": "base",
+   "essenciais": 3,
+   "essenciais_dados": 2,
+   "essenciais_citados": 2,
+   "veredictos": {
+    "a": "certa",
+    "b": "certa"
+   },
+   "certa": true,
+   "errada_algum": false,
+   "leis_pensadas": {
+    "a": {
+     "acertou": 0,
+     "total": 0
+    },
+    "b": {
+     "acertou": 0,
+     "total": 0
+    }
+   },
+   "prazos": {
+    "a": "certos",
+    "b": "certos"
+   }
+  },
+  {
+   "id": "caso-cons-02",
+   "area": "consumo",
+   "dificuldade": "alta",
+   "essenciais": 5,
+   "essenciais_dados": 4,
+   "essenciais_citados": 4,
+   "veredictos": {
+    "a": "errada",
+    "b": "errada"
+   },
+   "certa": false,
+   "errada_algum": true,
+   "leis_pensadas": {
+    "a": {
+     "acertou": 2,
+     "total": 2
+    },
+    "b": {
+     "acertou": 2,
+     "total": 2
+    }
+   },
+   "prazos": {
+    "a": "certos",
+    "b": "certos"
+   }
+  },
+  {
+   "id": "caso-cons-03",
+   "area": "consumo",
+   "dificuldade": "media",
+   "essenciais": 5,
+   "essenciais_dados": 5,
+   "essenciais_citados": 5,
+   "veredictos": {
+    "a": "certa",
+    "b": "certa"
+   },
+   "certa": true,
+   "errada_algum": false,
+   "leis_pensadas": {
+    "a": {
+     "acertou": 1,
+     "total": 1
+    },
+    "b": {
+     "acertou": 1,
+     "total": 1
+    }
+   },
+   "prazos": {
+    "a": "nao_ha",
+    "b": "nao_ha"
+   }
+  },
+  {
+   "id": "caso-cons-04",
+   "area": "consumo",
+   "dificuldade": "alta",
+   "essenciais": 4,
+   "essenciais_dados": 2,
+   "essenciais_citados": 2,
+   "veredictos": {
+    "a": "parcial",
+    "b": "parcial"
+   },
+   "certa": false,
+   "errada_algum": false,
+   "leis_pensadas": {
+    "a": {
+     "acertou": 1,
+     "total": 1
+    },
+    "b": {
+     "acertou": 1,
+     "total": 1
+    }
+   },
+   "prazos": {
+    "a": "certos",
+    "b": "certos"
+   }
+  },
+  {
+   "id": "caso-cons-05",
+   "area": "consumo",
+   "dificuldade": "alta",
+   "essenciais": 4,
+   "essenciais_dados": 3,
+   "essenciais_citados": 3,
+   "veredictos": {
+    "a": "certa",
+    "b": "certa"
+   },
+   "certa": true,
+   "errada_algum": false,
+   "leis_pensadas": {
+    "a": {
+     "acertou": 2,
+     "total": 2
+    },
+    "b": {
+     "acertou": 2,
+     "total": 2
+    }
+   },
+   "prazos": {
+    "a": "certos",
+    "b": "certos"
+   }
+  },
+  {
+   "id": "caso-fam-01",
+   "area": "familia",
+   "dificuldade": "base",
+   "essenciais": 4,
+   "essenciais_dados": 4,
+   "essenciais_citados": 4,
+   "veredictos": {
+    "a": "certa",
+    "b": "certa"
+   },
+   "certa": true,
+   "errada_algum": false,
+   "leis_pensadas": {
+    "a": {
+     "acertou": 0,
+     "total": 0
+    },
+    "b": {
+     "acertou": 0,
+     "total": 0
+    }
+   },
+   "prazos": {
+    "a": "certos",
+    "b": "certos"
+   }
+  },
+  {
+   "id": "caso-fam-02",
+   "area": "familia",
+   "dificuldade": "media",
+   "essenciais": 3,
+   "essenciais_dados": 2,
+   "essenciais_citados": 2,
+   "veredictos": {
+    "a": "errada",
+    "b": "errada"
+   },
+   "certa": false,
+   "errada_algum": true,
+   "leis_pensadas": {
+    "a": {
+     "acertou": 1,
+     "total": 1
+    },
+    "b": {
+     "acertou": 1,
+     "total": 1
+    }
+   },
+   "prazos": {
+    "a": "errados",
+    "b": "errados"
+   }
+  },
+  {
+   "id": "caso-fam-03",
+   "area": "familia",
+   "dificuldade": "alta",
+   "essenciais": 4,
+   "essenciais_dados": 4,
+   "essenciais_citados": 4,
+   "veredictos": {
+    "a": "certa",
+    "b": "certa"
+   },
+   "certa": true,
+   "errada_algum": false,
+   "leis_pensadas": {
+    "a": {
+     "acertou": 1,
+     "total": 1
+    },
+    "b": {
+     "acertou": 1,
+     "total": 1
+    }
+   },
+   "prazos": {
+    "a": "certos",
+    "b": "certos"
+   }
+  },
+  {
+   "id": "caso-fam-04",
+   "area": "familia",
+   "dificuldade": "media",
+   "essenciais": 5,
+   "essenciais_dados": 5,
+   "essenciais_citados": 5,
+   "veredictos": {
+    "a": "certa",
+    "b": "certa"
+   },
+   "certa": true,
+   "errada_algum": false,
+   "leis_pensadas": {
+    "a": {
+     "acertou": 1,
+     "total": 1
+    },
+    "b": {
+     "acertou": 1,
+     "total": 1
+    }
+   },
+   "prazos": {
+    "a": "certos",
+    "b": "certos"
+   }
+  },
+  {
+   "id": "caso-fam-05",
+   "area": "familia",
+   "dificuldade": "alta",
+   "essenciais": 4,
+   "essenciais_dados": 2,
+   "essenciais_citados": 2,
+   "veredictos": {
+    "a": "parcial",
+    "b": "parcial"
+   },
+   "certa": false,
+   "errada_algum": false,
+   "leis_pensadas": {
+    "a": {
+     "acertou": 2,
+     "total": 2
+    },
+    "b": {
+     "acertou": 2,
+     "total": 2
+    }
+   },
+   "prazos": {
+    "a": "certos",
+    "b": "certos"
+   }
+  },
+  {
+   "id": "caso-resp-01",
+   "area": "responsabilidade",
+   "dificuldade": "base",
+   "essenciais": 4,
+   "essenciais_dados": 4,
+   "essenciais_citados": 4,
+   "veredictos": {
+    "a": "parcial",
+    "b": "parcial"
+   },
+   "certa": false,
+   "errada_algum": false,
+   "leis_pensadas": {
+    "a": {
+     "acertou": 0,
+     "total": 0
+    },
+    "b": {
+     "acertou": 0,
+     "total": 0
+    }
+   },
+   "prazos": {
+    "a": "em_falta",
+    "b": "em_falta"
+   }
+  },
+  {
+   "id": "caso-resp-02",
+   "area": "responsabilidade",
+   "dificuldade": "alta",
+   "essenciais": 5,
+   "essenciais_dados": 3,
+   "essenciais_citados": 3,
+   "veredictos": {
+    "a": "parcial",
+    "b": "certa"
+   },
+   "certa": false,
+   "errada_algum": false,
+   "leis_pensadas": {
+    "a": {
+     "acertou": 2,
+     "total": 2
+    },
+    "b": {
+     "acertou": 2,
+     "total": 2
+    }
+   },
+   "prazos": {
+    "a": "certos",
+    "b": "certos"
+   }
+  },
+  {
+   "id": "caso-resp-03",
+   "area": "responsabilidade",
+   "dificuldade": "alta",
+   "essenciais": 4,
+   "essenciais_dados": 3,
+   "essenciais_citados": 3,
+   "veredictos": {
+    "a": "parcial",
+    "b": "parcial"
+   },
+   "certa": false,
+   "errada_algum": false,
+   "leis_pensadas": {
+    "a": {
+     "acertou": 1,
+     "total": 1
+    },
+    "b": {
+     "acertou": 1,
+     "total": 1
+    }
+   },
+   "prazos": {
+    "a": "em_falta",
+    "b": "em_falta"
+   }
+  },
+  {
+   "id": "caso-resp-04",
+   "area": "responsabilidade",
+   "dificuldade": "media",
+   "essenciais": 4,
+   "essenciais_dados": 2,
+   "essenciais_citados": 2,
+   "veredictos": {
+    "a": "parcial",
+    "b": "parcial"
+   },
+   "certa": false,
+   "errada_algum": false,
+   "leis_pensadas": {
+    "a": {
+     "acertou": 2,
+     "total": 2
+    },
+    "b": {
+     "acertou": 2,
+     "total": 2
+    }
+   },
+   "prazos": {
+    "a": "em_falta",
+    "b": "em_falta"
+   }
+  },
+  {
+   "id": "caso-resp-05",
+   "area": "responsabilidade",
+   "dificuldade": "alta",
+   "essenciais": 4,
+   "essenciais_dados": 3,
+   "essenciais_citados": 3,
+   "veredictos": {
+    "a": "certa",
+    "b": "certa"
+   },
+   "certa": true,
+   "errada_algum": false,
+   "leis_pensadas": {
+    "a": {
+     "acertou": 2,
+     "total": 2
+    },
+    "b": {
+     "acertou": 2,
+     "total": 2
+    }
+   },
+   "prazos": {
+    "a": "certos",
+    "b": "certos"
+   }
+  },
+  {
+   "id": "caso-emp-01",
+   "area": "empresas",
+   "dificuldade": "alta",
+   "essenciais": 4,
+   "essenciais_dados": 4,
+   "essenciais_citados": 4,
+   "veredictos": {
+    "a": "certa",
+    "b": "certa"
+   },
+   "certa": true,
+   "errada_algum": false,
+   "leis_pensadas": {
+    "a": {
+     "acertou": 2,
+     "total": 2
+    },
+    "b": {
+     "acertou": 2,
+     "total": 2
+    }
+   },
+   "prazos": {
+    "a": "certos",
+    "b": "certos"
+   }
+  },
+  {
+   "id": "caso-emp-02",
+   "area": "empresas",
+   "dificuldade": "alta",
+   "essenciais": 5,
+   "essenciais_dados": 4,
+   "essenciais_citados": 4,
+   "veredictos": {
+    "a": "certa",
+    "b": "parcial"
+   },
+   "certa": false,
+   "errada_algum": false,
+   "leis_pensadas": {
+    "a": {
+     "acertou": 2,
+     "total": 2
+    },
+    "b": {
+     "acertou": 2,
+     "total": 2
+    }
+   },
+   "prazos": {
+    "a": "certos",
+    "b": "certos"
+   }
+  },
+  {
+   "id": "caso-emp-03",
+   "area": "empresas",
+   "dificuldade": "media",
+   "essenciais": 4,
+   "essenciais_dados": 4,
+   "essenciais_citados": 4,
+   "veredictos": {
+    "a": "certa",
+    "b": "certa"
+   },
+   "certa": true,
+   "errada_algum": false,
+   "leis_pensadas": {
+    "a": {
+     "acertou": 2,
+     "total": 2
+    },
+    "b": {
+     "acertou": 2,
+     "total": 2
+    }
+   },
+   "prazos": {
+    "a": "certos",
+    "b": "certos"
+   }
+  },
+  {
+   "id": "caso-emp-04",
+   "area": "empresas",
+   "dificuldade": "base",
+   "essenciais": 4,
+   "essenciais_dados": 4,
+   "essenciais_citados": 4,
+   "veredictos": {
+    "a": "certa",
+    "b": "certa"
+   },
+   "certa": true,
+   "errada_algum": false,
+   "leis_pensadas": {
+    "a": {
+     "acertou": 0,
+     "total": 0
+    },
+    "b": {
+     "acertou": 0,
+     "total": 0
+    }
+   },
+   "prazos": {
+    "a": "certos",
+    "b": "certos"
+   }
+  },
+  {
+   "id": "caso-emp-05",
+   "area": "empresas",
+   "dificuldade": "media",
+   "essenciais": 3,
+   "essenciais_dados": 1,
+   "essenciais_citados": 1,
+   "veredictos": {
+    "a": "certa",
+    "b": "certa"
+   },
+   "certa": true,
+   "errada_algum": false,
+   "leis_pensadas": {
+    "a": {
+     "acertou": 1,
+     "total": 1
+    },
+    "b": {
+     "acertou": 1,
+     "total": 1
+    }
+   },
+   "prazos": {
+    "a": "certos",
+    "b": "certos"
+   }
+  },
+  {
+   "id": "caso-adm-01",
+   "area": "administrativo",
+   "dificuldade": "base",
+   "essenciais": 5,
+   "essenciais_dados": 5,
+   "essenciais_citados": 5,
+   "veredictos": {
+    "a": "certa",
+    "b": "certa"
+   },
+   "certa": true,
+   "errada_algum": false,
+   "leis_pensadas": {
+    "a": {
+     "acertou": 1,
+     "total": 1
+    },
+    "b": {
+     "acertou": 1,
+     "total": 1
+    }
+   },
+   "prazos": {
+    "a": "certos",
+    "b": "certos"
+   }
+  },
+  {
+   "id": "caso-adm-02",
+   "area": "administrativo",
+   "dificuldade": "media",
+   "essenciais": 5,
+   "essenciais_dados": 4,
+   "essenciais_citados": 4,
+   "veredictos": {
+    "a": "certa",
+    "b": "certa"
+   },
+   "certa": true,
+   "errada_algum": false,
+   "leis_pensadas": {
+    "a": {
+     "acertou": 2,
+     "total": 2
+    },
+    "b": {
+     "acertou": 2,
+     "total": 2
+    }
+   },
+   "prazos": {
+    "a": "certos",
+    "b": "certos"
+   }
+  },
+  {
+   "id": "caso-adm-03",
+   "area": "administrativo",
+   "dificuldade": "media",
+   "essenciais": 3,
+   "essenciais_dados": 3,
+   "essenciais_citados": 3,
+   "veredictos": {
+    "a": "certa",
+    "b": "certa"
+   },
+   "certa": true,
+   "errada_algum": false,
+   "leis_pensadas": {
+    "a": {
+     "acertou": 2,
+     "total": 2
+    },
+    "b": {
+     "acertou": 2,
+     "total": 2
+    }
+   },
+   "prazos": {
+    "a": "certos",
+    "b": "certos"
+   }
+  },
+  {
+   "id": "caso-adm-04",
+   "area": "administrativo",
+   "dificuldade": "alta",
+   "essenciais": 4,
+   "essenciais_dados": 4,
+   "essenciais_citados": 4,
+   "veredictos": {
+    "a": "certa",
+    "b": "certa"
+   },
+   "certa": true,
+   "errada_algum": false,
+   "leis_pensadas": {
+    "a": {
+     "acertou": 1,
+     "total": 1
+    },
+    "b": {
+     "acertou": 1,
+     "total": 1
+    }
+   },
+   "prazos": {
+    "a": "certos",
+    "b": "certos"
+   }
+  },
+  {
+   "id": "caso-adm-05",
+   "area": "administrativo",
+   "dificuldade": "alta",
+   "essenciais": 4,
+   "essenciais_dados": 0,
+   "essenciais_citados": 0,
+   "veredictos": {
+    "a": "errada",
+    "b": "errada"
+   },
+   "certa": false,
+   "errada_algum": true,
+   "leis_pensadas": {
+    "a": {
+     "acertou": 1,
+     "total": 2
+    },
+    "b": {
+     "acertou": 1,
+     "total": 2
+    }
+   },
+   "prazos": {
+    "a": "errados",
+    "b": "errados"
+   }
+  }
+ ]
+}
