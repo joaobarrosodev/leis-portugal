@@ -1506,5 +1506,7 @@ como na fase 1 (as normas julgadas de diplomas que passam de blocos a artigos po
 | Casos com a melhor nota do reranker abaixo de 3 («não sei» na app) | 27 de 39 |
 | Análise com LLM e os 16 artigos da pesquisa: certas para os 2 juízes | 5 de 39 (3 erradas, todas em prazos) |
 | Análise com LLM e o contexto ideal: certas para os 2 juízes | 38 de 39 (teto otimista) |
+| Caso partido em consultas por um LLM: essenciais nos 8 primeiros | 127 de 161 (18 casos com todos) |
+| Análise com LLM sobre essas consultas: certas para os 2 juízes | 31 de 39 (1 errada) |
 
-A app 0.1.1 recusa casos concretos por instrução. Com os artigos certos, o raciocínio chega lá; o que falta é a pesquisa partir o caso em questões e trazer, para cada uma, os artigos que a decidem.
+A app 0.1.1 recusa casos concretos por instrução. Com os artigos certos, o raciocínio chega lá. O que faltava era a pesquisa: partir o caso em consultas jurídicas leva as certas de 5 para 31 em 39. Tudo foi feito pelo mesmo modelo e sem jurista.

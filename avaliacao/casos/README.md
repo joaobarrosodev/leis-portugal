@@ -75,7 +75,48 @@ Um subagente Opus analisa cada caso só com os artigos dados, com as regras de [
   É o erro mais perigoso para um advogado.
 - **Por área, certas com a pesquisa:** trabalho 2 de 9, arrendamento 1 de 5, consumo 1 de 5, empresas 1 de 5; família, responsabilidade e administrativo 0 de 5 cada.
 
-**O que isto quer dizer.** Com os artigos certos à frente, o raciocínio chega lá em quase todos os casos (com a ressalva acima). Com a pesquisa de hoje, chega em 5 de 39. O trabalho que falta é sobretudo o da pesquisa: partir o caso em questões jurídicas e procurar cada uma com o contexto do caso (o código em causa, os factos que importam). Também é preciso garantir os artigos dos prazos. A consulta por questão sozinha não chega: as questões escritas à mão não trazem o código e perdem a narrativa.
+### O caso partido em consultas (experimental, 26/11/2026)
+
+Dois subagentes Opus receberam só o pedido do advogado, sem a referência, e escreveram 3 a 6 consultas curtas por caso, uma por questão jurídica e no vocabulário da lei, com o nome do código e sem números de artigos ([`decomposicao/INSTRUCOES.md`](decomposicao/INSTRUCOES.md)). À parte, puderam listar os artigos que achavam decisivos. Fizeram 224 consultas e listaram 200 artigos prováveis. A pesquisa faz uma busca por consulta, como a 0.1.1, e intercala os resultados: o 1.º de cada consulta, depois o 2.º, e assim por diante. Na variante «com artigos», cada artigo provável é mais uma busca, e entra o seu 1.º resultado (`medir.py --decomposicao`, `rag/resultados/casos-decomposto.json`).
+
+| | Texto inteiro | Consultas | Consultas e artigos prováveis |
+|---|--:|--:|--:|
+| Essenciais em 1.º | 7 | 32 | 31 |
+| Essenciais nos 8 primeiros | 33 de 161 | 125 de 161 | 127 de 161 |
+| Essenciais nos 16 primeiros | — | 141 | 144 |
+| Casos com todos os essenciais nos 8 primeiros | 1 de 39 | 16 de 39 | 18 de 39 |
+| Casos com todos os essenciais nos 16 primeiros | — | 23 de 39 | 25 de 39 |
+
+Depois a análise com o LLM: os 16 primeiros da variante com artigos, as mesmas instruções e os mesmos dois juízes (`rag/resultados/casos-llm-decomposto.json`).
+
+| Análise com LLM | Texto inteiro | Consultas e artigos prováveis | Contexto ideal |
+|---|--:|--:|--:|
+| Certas (os 2 juízes) | 5 de 39 | **31 de 39** | 38 de 39 |
+| Erradas | 3 | 1 | 1 |
+| Leis pensadas que não servem, assinaladas (juiz a) | 22 de 56 | 55 de 57 | 56 de 56 |
+| Prazos certos (juiz a) | 9 | 32 | 37 |
+
+- **Concordância:** os dois juízes dão o mesmo veredicto a cada um dos 39 casos.
+- **A errada** é o `caso-arr-01`: o sistema manda repetir a resolução por carta registada, mas sem domicílio convencionado a lei exige notificação avulsa ou contacto pessoal (art. 9.º, n.º 7, do NRAU).
+- **As 7 parciais:** 3 do trabalho, 3 da responsabilidade civil e 1 do arrendamento.
+- **Por área, certas:**
+
+  | Área | Certas |
+  |---|--:|
+  | Consumo, família, empresas e administrativo | 5 de 5 cada |
+  | Trabalho | 6 de 9 |
+  | Arrendamento | 3 de 5 |
+  | Responsabilidade civil | 2 de 5 |
+
+- **Ressalvas:**
+  - Quem partiu os casos, quem respondeu, quem julgou e quem escreveu os casos são todos o mesmo modelo, e o modelo conhece a lei por si.
+  - Sem jurista, isto mostra o caminho e não é um número para dizer em público.
+  - Na app, partir o caso exige um passo de LLM antes da pesquisa, como a reescrita.
+
+**O que isto quer dizer.** Com os artigos certos à frente, o raciocínio chega lá em quase todos os casos (com a ressalva acima). Com a pesquisa de hoje, chega em 5 de 39. Partir o caso em consultas jurídicas, com o código e o vocabulário da lei, leva a 31 de 39. As questões do advogado sozinhas não chegam, porque não trazem o código e perdem a narrativa. O que falta, por ordem:
+1. Fazer do passo de partir o caso uma peça do sistema e medi-la também com outro modelo.
+2. Garantir os artigos dos prazos e das formalidades, onde estão as erradas.
+3. Pôr um advogado a rever os casos e as análises.
 
 ## Ficheiros
 
@@ -86,4 +127,5 @@ Um subagente Opus analisa cada caso só com os artigos dados, com as regras de [
 - `exportar_ideal.py`: a exportação do contexto ideal.
 - `INSTRUCOES-resposta.md` e `INSTRUCOES-juiz.md`: as regras de quem responde e de quem julga.
 - `juizes.py`: preparar os lotes dos juízes e contar.
-- `resultados/`: as análises e os veredictos de cada juiz, por medição.
+- `decomposicao/`: as instruções e as consultas escritas para cada caso.
+- `resultados/`: as análises e os veredictos de cada juiz, por medição (`ideal`, `pesquisa`, `decomposto`).
