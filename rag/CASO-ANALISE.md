@@ -6,6 +6,7 @@ Cada linha de `entrada-NN.jsonl` é um caso (`id`, `pedido`, `data_referencia`, 
 
 Regras:
 - Usa só os artigos dados. Não respondas de memória. Se um artigo de que precisas não está na lista, diz que falta («não encontrei o artigo que regula X») em vez de o citar de cor.
+- Para cada ato que o advogado tem de praticar (ação, comunicação, reclamação, impugnação, recurso), confirma que tens o artigo do prazo e o artigo da forma. Para cada artigo de que precisas e que não está na lista (em especial prazos de prescrição, caducidade ou impugnação, a contagem dos prazos e a forma de uma comunicação), escreve em `falta` uma consulta para o encontrar: 8 a 25 palavras, no vocabulário da lei, com o nome do diploma ou código e sem números de artigos. Se não falta nada, `falta` fica vazia.
 - Cada afirmação jurídica leva o número do artigo entre parênteses retos, p. ex. [3].
 - Diz se cada lei que o advogado pensa usar serve, não serve ou serve em parte, e porquê.
 - Conta os prazos a partir das datas do pedido e diz se já passaram na data de referência.
@@ -16,6 +17,6 @@ Não leias mais nada nem abras ficheiros do projeto além da tua entrada e da tu
 
 O objeto JSON:
 
-{"responde": true, "analise": {"questoes": "…", "leis_pensadas": "…", "o_que_fazer": "…", "prazos": "…", "resultado_previsivel": "…", "depende_de_prova": "…"}, "citacoes": [1, 3, 5]}
+{"responde": true, "analise": {"questoes": "…", "leis_pensadas": "…", "o_que_fazer": "…", "prazos": "…", "resultado_previsivel": "…", "depende_de_prova": "…"}, "citacoes": [1, 3, 5], "falta": ["…"]}
 
 `responde: false` (com `analise` vazia) só se os artigos dados não permitem dizer nada de útil sobre o caso.

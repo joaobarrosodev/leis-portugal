@@ -9,11 +9,15 @@ só, a pesquisa encontra o código certo mas não o artigo. O fluxo de caso tem 
    cada, depois o 2.º de cada, …, cada artigo uma vez); o LLM recebe os 16 primeiros;
 3. `analisar`: um LLM analisa o caso só com esses artigos, com as regras de `rag/CASO-ANALISE.md`, numa estrutura fixa
    (questões, leis pensadas, o que fazer, prazos, resultado previsível, o que depende de prova), com cada afirmação
-   presa a um artigo.
+   presa a um artigo;
+4. `completar`: na análise, o LLM lista em `falta` as consultas para os artigos de que precisava e não teve (sobretudo
+   prazos e a forma dos atos). Cada consulta é mais uma pesquisa, entram até 8 artigos novos depois dos 16, e o LLM
+   analisa outra vez com eles. Só há segunda volta se a primeira pediu alguma coisa e a pesquisa trouxe artigos novos.
 
 Medido nos 39 casos de `avaliacao/casos/` (26/11/2026, Opus em todos os passos, sem jurista): com o texto inteiro, 33
 de 161 artigos essenciais nos 8 primeiros e 5 de 39 análises certas para os dois juízes; partindo o caso, 127 de 161
-e 31 de 39. Não é número para dizer em público.
+e 31 de 39. Com a 2.ª volta (`completar`), 36 de 39; em 16 casos novos, escritos depois, de 10 para 14 de 16. Não é
+número para dizer em público.
 
 Não está na aplicação: as instruções da app recusam casos concretos, e falta confirmar se um parecer sobre um caso
 concreto é ato próprio dos advogados. Não há limiar: é o LLM que diz se os artigos chegam. Sem a chave de uma IA
@@ -45,6 +49,9 @@ K_POR_ARTIGO = 3
 MAXIMO_CONSULTAS = 8
 MAXIMO_ARTIGOS = 10
 MAXIMO_CARACTERES_CONSULTA = 400
+MAXIMO_FALTA = 6
+ARTIGOS_A_MAIS = 8
+POR_FALTA = 2
 SECCOES = ("questoes", "leis_pensadas", "o_que_fazer", "prazos", "resultado_previsivel", "depende_de_prova")
 TITULOS = {
     "questoes": "Questões", "leis_pensadas": "As leis que pensa usar", "o_que_fazer": "O que fazer", "prazos": "Prazos",
@@ -127,12 +134,20 @@ def pesquisar(pesquisa, pedido: str, data: str, decomposto: Decomposicao | None,
     return resultados if n is None else resultados[:n]
 
 
-def contexto(artigos: list[Resultado]) -> str:
-    """Os artigos numerados com os avisos, no formato de `rag.resposta.contexto`."""
+def contexto(artigos: list[Resultado], inicio: int = 1) -> str:
+    """Os artigos numerados (a partir de `inicio`) com os avisos, no formato de `rag.resposta.contexto`."""
     return "\n\n".join(
         f"[{n}] {r.rotulo}" + "".join(f"\nAviso: {a}" for a in r.avisos) + f"\n{r.texto[:CARACTERES_POR_ARTIGO]}"
-        for n, r in enumerate(artigos, 1)
+        for n, r in enumerate(artigos, inicio)
     )
+
+
+def completar(pesquisa, ja: set[tuple[str, str]], falta: list[str], data: str, *, maximo: int = ARTIGOS_A_MAIS) -> list[Resultado]:
+    """Os artigos novos para as consultas em `falta`: os `POR_FALTA` primeiros de cada uma que não estão em `ja`
+    (pares documento, chave), intercalados, até `maximo`."""
+    listas = [[r for r in pesquisa.pesquisar(q, data, k=K_POR_CONSULTA).resultados if (r.documento, r.chave) not in ja][:POR_FALTA]
+              for q in falta[:MAXIMO_FALTA]]
+    return intercalar(listas)[:maximo]
 
 
 def mensagem(pedido: str, data: str, artigos: list[Resultado]) -> str:
@@ -147,6 +162,8 @@ class Analise:
     avisos: list[str] = field(default_factory=list)
     artigos: list[Resultado] = field(default_factory=list)  # os que o LLM recebeu
     decomposicao: Decomposicao | None = None
+    falta: list[str] = field(default_factory=list)  # o que o LLM disse que lhe faltava
+    completada: bool = False  # houve segunda volta com os artigos de `falta`
     motivo: str | None = None
     modelo: str = ""
     aviso_modelo: str | None = None
@@ -156,8 +173,9 @@ class Analise:
 def interpretar(dados: dict, artigos: list[Resultado]) -> Analise:
     """A resposta do LLM como `Analise`. Conta como citado cada número válido em `citacoes` ou escrito [n] no texto;
     sem nenhuma citação de um artigo dado, a análise não conta («não sei»)."""
+    falta = _textos(dados.get("falta"), MAXIMO_FALTA)
     if not dados.get("responde"):
-        return Analise(False, artigos=artigos, motivo="o modelo diz que os artigos não chegam para analisar o caso")
+        return Analise(False, artigos=artigos, falta=falta, motivo="o modelo diz que os artigos não chegam para analisar o caso")
     bruto = dados.get("analise") if isinstance(dados.get("analise"), dict) else {}
     seccoes = {s: " ".join(str(bruto.get(s) or "").split()) for s in SECCOES if bruto.get(s)}
     numeros = [n for n in dados.get("citacoes") or [] if isinstance(n, int)]
@@ -165,13 +183,22 @@ def interpretar(dados: dict, artigos: list[Resultado]) -> Analise:
     validos = list(dict.fromkeys(n for n in numeros if 1 <= n <= len(artigos)))
     citacoes = [artigos[n - 1] for n in sorted(validos)]
     if not seccoes or not citacoes:
-        return Analise(False, artigos=artigos, motivo="análise sem citação de um artigo dado")
+        return Analise(False, artigos=artigos, falta=falta, motivo="análise sem citação de um artigo dado")
     avisos = list(dict.fromkeys(a for r in citacoes for a in r.avisos))
-    return Analise(True, seccoes, citacoes, avisos, artigos)
+    return Analise(True, seccoes, citacoes, avisos, artigos, falta=falta)
 
 
-def analisar(pesquisa, pedido: str, data: str, *, decomposto: Decomposicao | None = None) -> Analise:
-    """O fluxo todo: partir (se não vier já a decomposição), pesquisar e analisar com o LLM."""
+def _uma_analise(pedido: str, data: str, artigos: list[Resultado]) -> Analise:
+    try:
+        escrita = provedores.escrever(instrucoes_analise(), mensagem(pedido, data, artigos), max_tokens=16000, esforco="medium")
+    except provedores.ErroIA as e:
+        return Analise(False, artigos=artigos, motivo=str(e), erro=str(e))
+    return Analise(False, artigos=artigos, motivo="o modelo recusou") if escrita.recusou else interpretar(extrair_json(escrita.texto), artigos)
+
+
+def analisar(pesquisa, pedido: str, data: str, *, decomposto: Decomposicao | None = None, completar_falta: bool = True) -> Analise:
+    """O fluxo todo: partir (se não vier já a decomposição), pesquisar, analisar e, se o LLM disse que lhe faltavam
+    artigos e a pesquisa os traz, analisar outra vez com eles."""
     if not llm_disponivel():
         return Analise(False, motivo="a análise de caso precisa da chave de uma IA (rag.provedores)")
     quem, aviso = provedores.descricao(), provedores.aviso_medicao()
@@ -179,11 +206,13 @@ def analisar(pesquisa, pedido: str, data: str, *, decomposto: Decomposicao | Non
     artigos = pesquisar(pesquisa, pedido, data, decomposto)
     if not artigos:
         return Analise(False, decomposicao=decomposto, motivo="a pesquisa não encontrou artigos", modelo=quem, aviso_modelo=aviso)
-    try:
-        escrita = provedores.escrever(instrucoes_analise(), mensagem(pedido, data, artigos), max_tokens=16000, esforco="medium")
-    except provedores.ErroIA as e:
-        return Analise(False, artigos=artigos, decomposicao=decomposto, motivo=str(e), modelo=quem, aviso_modelo=aviso, erro=str(e))
-    analise = Analise(False, artigos=artigos, motivo="o modelo recusou") if escrita.recusou else interpretar(extrair_json(escrita.texto), artigos)
+    analise = _uma_analise(pedido, data, artigos)
+    novos = completar(pesquisa, {(r.documento, r.chave) for r in artigos}, analise.falta, data) if completar_falta and analise.falta and not analise.erro else []
+    if novos:
+        segunda = _uma_analise(pedido, data, artigos + novos)
+        if not segunda.erro:
+            segunda.falta, segunda.completada = analise.falta, True
+            analise = segunda
     analise.decomposicao, analise.modelo, analise.aviso_modelo = decomposto, quem, aviso
     return analise
 
@@ -199,6 +228,8 @@ def mostrar(analise: Analise) -> str:
         linhas.append(f"Não sei. ({analise.motivo})")
     for s, texto in analise.seccoes.items():
         linhas += [f"{TITULOS[s]}:", f"  {texto}", ""]
+    if analise.falta:
+        linhas.append(("Procurado à parte, porque faltava: " if analise.completada else "O modelo diz que faltava: ") + "; ".join(analise.falta))
     if analise.artigos:
         linhas.append("Artigos dados ao modelo:")
         citados = {id(r) for r in analise.citacoes}

@@ -3,6 +3,8 @@
     python avaliacao/casos/juizes.py preparar PASTA_LLM PASTA_JUIZ     # junta caso de referência + análise do sistema
     python avaliacao/casos/juizes.py contar PASTA_LLM PASTA_JUIZ [--nome X] # junta os veredictos e escreve rag/resultados/X.json
 
+Com `--casos FICHEIRO`, usa outro conjunto de casos (por omissão, `avaliacao/casos/casos.jsonl`).
+
 PASTA_LLM tem `entrada-NN.jsonl` (com `chaves`, os artigos dados) e `saida-NN.jsonl` (as respostas).
 PASTA_JUIZ recebe `lote-NN.jsonl` e, de cada juiz, `juiz-<letra>-NN.jsonl`.
 Uma análise conta como certa só se todos os juízes lhe dão `certa`.
@@ -35,8 +37,8 @@ def _respostas(pasta: Path) -> dict[str, dict]:
     return juntas
 
 
-def preparar(pasta_llm: Path, pasta_juiz: Path) -> None:
-    casos = _jsonl(CASOS)
+def preparar(pasta_llm: Path, pasta_juiz: Path, ficheiro: Path = CASOS) -> None:
+    casos = _jsonl(ficheiro)
     respostas = _respostas(pasta_llm)
     pasta_juiz.mkdir(parents=True, exist_ok=True)
     linhas = []
@@ -49,8 +51,8 @@ def preparar(pasta_llm: Path, pasta_juiz: Path) -> None:
     print(f"{len(linhas)} casos em {pasta_juiz}")
 
 
-def contar(pasta_llm: Path, pasta_juiz: Path, nome: str | None) -> None:
-    casos = _jsonl(CASOS)
+def contar(pasta_llm: Path, pasta_juiz: Path, nome: str | None, ficheiro: Path = CASOS) -> None:
+    casos = _jsonl(ficheiro)
     respostas = _respostas(pasta_llm)
     juizes: dict[str, dict[str, dict]] = {}
     for f in sorted(pasta_juiz.glob("juiz-*-*.jsonl")):
@@ -94,8 +96,16 @@ def contar(pasta_llm: Path, pasta_juiz: Path, nome: str | None) -> None:
 
 
 if __name__ == "__main__":
-    acao, a, b, *resto = sys.argv[1:]
-    if acao == "preparar":
-        preparar(Path(a), Path(b))
+    import argparse
+
+    parser = argparse.ArgumentParser()
+    parser.add_argument("acao", choices=("preparar", "contar"))
+    parser.add_argument("pasta_llm", type=Path)
+    parser.add_argument("pasta_juiz", type=Path)
+    parser.add_argument("--nome")
+    parser.add_argument("--casos", type=Path, default=CASOS)
+    args = parser.parse_args()
+    if args.acao == "preparar":
+        preparar(args.pasta_llm, args.pasta_juiz, args.casos)
     else:
-        contar(Path(a), Path(b), resto[1] if len(resto) > 1 and resto[0] == "--nome" else None)
+        contar(args.pasta_llm, args.pasta_juiz, args.nome, args.casos)

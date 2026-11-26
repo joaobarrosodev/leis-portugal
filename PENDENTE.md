@@ -187,6 +187,10 @@ Três falhas da camada 1 que ficam como estão, com o motivo. Nenhuma tem regra 
 - **Bases soltas:** 242 registos com bases fora de títulos (a Lei n.º 95/2019, Lei de Bases da Saúde, entre eles). Misturam a redação nova citada com a republicação no anexo, muitas vezes com várias numerações, e não se encontrou regra que as separe sem erro. Nos decretos de concessões de 2010–2015 a maior parte das bases fica para lá dos 30.000 caracteres do último artigo e não entra no índice. Pormenor acima e em `reports/leitura-texto-corrido-amostra.md`.
 - **Estatuto Judiciário (DL 44278, de 1962; vista 039 da ronda 117):** não se consolida. Ficaram 322 trechos em dúvida e 3 instruções em falta porque os dois alteradores principais, o DL 202/73 e o DL 414/73, misturam os artigos deles com os do Estatuto que redigem, com a numeração a recomeçar a meio; o leitor de texto corrido recusa-os, como deve. Destravá-lo pedia uma ronda própria com o texto inteiro dos alteradores (a vista já tem 1,2 milhões de caracteres), e o Estatuto foi em grande parte substituído pela legislação posterior de organização judiciária e pelos estatutos das magistraturas, embora o DRE o dê como em vigor: não compensa, por agora. O motivo está em `consolidacao/auditoria/camada1-estado.jsonl`.
 
+## Defeitos de dados vistos nos casos de advogado (26/11)
+
+- **Lei n.º 24/96 (Lei de Defesa do Consumidor), art. 9.º-B «Entrega dos bens»:** no acervo aparece com o texto inteiro e `revogado: False`. Mas o DL 84/2021, art. 54.º, alínea a), revoga-o, e as notas do próprio artigo dizem isso. Foi encontrado por um dos subagentes que escreveram os casos novos (`caso2-cons-03`). É para a auditoria da camada 1 ver se a revogação por um diploma posterior não chegou ao artigo, e se há mais artigos da mesma lei no mesmo estado.
+
 ## 4. OCR da CNPD: feito (15/11)
 
 36.197 decisões com texto por OCR; ficam 311 sem texto. Validação sem erros e commit no main.

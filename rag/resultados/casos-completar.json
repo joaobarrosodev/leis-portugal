@@ -1,0 +1,843 @@
+{
+ "resumo": {
+  "casos": 39,
+  "com_falta": 39,
+  "completados": 39,
+  "consultas_em_falta": 157,
+  "artigos_acrescentados": 280,
+  "essenciais": 161,
+  "essenciais_antes": 144,
+  "essenciais_depois": 154,
+  "casos_com_todos_antes": 25,
+  "casos_com_todos_depois": 33
+ },
+ "casos": [
+  {
+   "id": "caso-trab-01",
+   "falta": [
+    "contagem dos prazos termo que coincida com domingo ou feriado transfere-se para o primeiro dia útil Código Civil",
+    "eficácia da declaração negocial recetícia logo que chega ao poder do destinatário ou é dele conhecida Código Civil",
+    "subsídio de Natal de valor igual a um mês de retribuição proporcional no ano da cessação Código do Trabalho",
+    "interrupção da prescrição pela citação ou notificação judicial de ato que exprima a intenção de exercer o direito Código Civil",
+    "efeitos da suspensão do contrato pelo trabalhador por falta de pagamento pontual da retribuição trabalho para outro empregador Código do Trabalho"
+   ],
+   "acrescentados": [
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 279.º — (Cômputo do termo)",
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 224.º — (Eficácia da declaração negocial)",
+    "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 263.º — Subsídio de Natal",
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 323.º — (Interrupção promovida pelo titular)",
+    "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 324.º — Efeitos para o empregador de falta de pagamento pontual da retribuição",
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 296.º — (Contagem dos prazos)",
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 235.º — (Revogação da aceitação ou da rejeição)",
+    "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 160.º — Direitos do trabalhador"
+   ],
+   "essenciais": 4,
+   "antes": 4,
+   "depois": 4
+  },
+  {
+   "id": "caso-trab-02",
+   "falta": [
+    "noção de justa causa de despedimento comportamento culposo que torne imediata e praticamente impossível a subsistência da relação de trabalho Código do Trabalho",
+    "contagem dos prazos termo que coincida com domingo ou feriado transfere-se para o primeiro dia útil Código Civil",
+    "nota de culpa e instrução do procedimento disciplinar diligências probatórias requeridas na resposta do trabalhador Código do Trabalho",
+    "articulado do empregador para motivar o despedimento na ação de impugnação judicial da regularidade e licitude do despedimento Código de Processo do Trabalho"
+   ],
+   "acrescentados": [
+    "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 351.º — Noção de justa causa de despedimento",
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 279.º — (Cômputo do termo)",
+    "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 356.º — Instrução",
+    "Decreto-Lei n.º 480/99, de 1999-11-09 › Anexo — CÓDIGO DE PROCESSO DO TRABALHO › Artigo 98.º-J — Articulado de motivação do despedimento",
+    "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 368.º — Requisitos de despedimento por extinção de posto de trabalho",
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 296.º — (Contagem dos prazos)",
+    "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 355.º — Resposta à nota de culpa",
+    "Decreto-Lei n.º 480/99, de 1999-11-09 › Anexo — CÓDIGO DE PROCESSO DO TRABALHO › Artigo 36.º-A — Articulação entre o procedimento cautelar e a ação de impugnação judicial da regularidade e licitude do despedimento"
+   ],
+   "essenciais": 5,
+   "antes": 5,
+   "depois": 5
+  },
+  {
+   "id": "caso-trab-03",
+   "falta": [
+    "regime transitório da compensação por cessação do contrato de trabalho relativa à antiguidade anterior às alterações do Código do Trabalho",
+    "caducidade do contrato de trabalho a termo certo comunicação do empregador e compensação Código do Trabalho",
+    "prazo para o trabalhador se opor judicialmente ao despedimento por extinção do posto de trabalho requerimento em formulário Código do Trabalho",
+    "crédito de horas do trabalhador durante o aviso prévio no despedimento por extinção do posto de trabalho Código do Trabalho"
+   ],
+   "acrescentados": [
+    "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 345.º — Caducidade de contrato de trabalho a termo incerto",
+    "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 344.º — Caducidade de contrato de trabalho a termo certo",
+    "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 387.º — Apreciação judicial do despedimento",
+    "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 364.º — Crédito de horas durante o aviso prévio",
+    "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 386.º — Suspensão de despedimento",
+    "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 408.º — Crédito de horas de representantes dos trabalhadores"
+   ],
+   "essenciais": 5,
+   "antes": 5,
+   "depois": 5
+  },
+  {
+   "id": "caso-trab-05",
+   "falta": [
+    "prescrição dos créditos do empregador emergentes do contrato de trabalho da sua violação ou cessação Código do Trabalho",
+    "compensação como causa de extinção das obrigações requisitos crédito exigível judicialmente e declaração à outra parte Código Civil",
+    "dever de lealdade do trabalhador não negociar em concorrência com o empregador nem divulgar informações Código do Trabalho",
+    "aquisição e vencimento do direito a férias no dia um de janeiro de cada ano civil Código do Trabalho"
+   ],
+   "acrescentados": [
+    "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 337.º — Prescrição e prova de crédito",
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 847.º — (Requisitos)",
+    "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 128.º — Deveres do trabalhador",
+    "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 237.º — Direito a férias",
+    "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 336.º — Fundo de Garantia Salarial",
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 854.º — (Retroactividade)",
+    "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 307.º — Acompanhamento da medida",
+    "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 240.º — Ano do gozo das férias"
+   ],
+   "essenciais": 4,
+   "antes": 4,
+   "depois": 4
+  },
+  {
+   "id": "caso-trab-06",
+   "falta": [
+    "banco de horas grupal instituído por referendo aos trabalhadores e compensação do trabalho prestado em acréscimo Código do Trabalho",
+    "prescrição dos créditos do trabalhador emergentes do contrato de trabalho da sua violação ou cessação Código do Trabalho",
+    "juros de mora pela falta culposa de pagamento pontual de prestações pecuniárias pelo empregador Código do Trabalho",
+    "proibição de compensação e descontos na retribuição na pendência do contrato de trabalho Código do Trabalho"
+   ],
+   "acrescentados": [
+    "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 208.º-B — Banco de horas grupal",
+    "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 337.º — Prescrição e prova de crédito",
+    "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 323.º — Efeitos gerais do incumprimento do contrato de trabalho",
+    "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 279.º — Compensações e descontos",
+    "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 266.º — Pagamento de trabalho nocturno",
+    "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 336.º — Fundo de Garantia Salarial",
+    "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 190.º — Prestações garantidas pela caução para exercício da actividade de trabalho temporário",
+    "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 304.º — Deveres do trabalhador no período de redução ou suspensão"
+   ],
+   "essenciais": 3,
+   "antes": 3,
+   "depois": 3
+  },
+  {
+   "id": "caso-trab-07",
+   "falta": [
+    "prescrição dos créditos do trabalhador emergentes do contrato de trabalho da sua violação ou cessação Código do Trabalho",
+    "cálculo do valor da retribuição diária e horária com retribuição mensal e período normal de trabalho semanal Código do Trabalho",
+    "juros de mora pela falta culposa de pagamento pontual de prestações pecuniárias pelo empregador Código do Trabalho",
+    "tipos de empresas microempresa pequena média e grande empresa segundo o número de trabalhadores Código do Trabalho"
+   ],
+   "acrescentados": [
+    "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 337.º — Prescrição e prova de crédito",
+    "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 271.º — Cálculo do valor da retribuição horária",
+    "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 323.º — Efeitos gerais do incumprimento do contrato de trabalho",
+    "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 100.º — Tipos de empresas",
+    "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 336.º — Fundo de Garantia Salarial",
+    "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 209.º — Horário concentrado",
+    "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 190.º — Prestações garantidas pela caução para exercício da actividade de trabalho temporário",
+    "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 359.º — Noção de despedimento colectivo"
+   ],
+   "essenciais": 3,
+   "antes": 3,
+   "depois": 3
+  },
+  {
+   "id": "caso-trab-08",
+   "falta": [
+    "fundamentos gerais de ilicitude do despedimento por iniciativa do empregador sem precedência do respetivo procedimento Código do Trabalho",
+    "prazo para o trabalhador se opor judicialmente ao despedimento requerimento em formulário próprio Código do Trabalho",
+    "retribuições que o trabalhador deixar de auferir desde o despedimento até ao trânsito em julgado da decisão Código do Trabalho",
+    "presunção de aceitação do despedimento pelo recebimento da compensação e ilisão pela sua devolução Código do Trabalho",
+    "situações em que é admissível o contrato de trabalho a termo necessidade temporária acréscimo excecional de atividade Código do Trabalho",
+    "forma de processo da ação de impugnação de despedimento não comunicado nos termos do formulário processo comum Código de Processo do Trabalho"
+   ],
+   "acrescentados": [
+    "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 381.º — Fundamentos gerais de ilicitude de despedimento",
+    "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 387.º — Apreciação judicial do despedimento",
+    "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 390.º — Compensação em caso de despedimento ilícito",
+    "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 175.º — Admissibilidade de contrato de utilização de trabalho temporário",
+    "Decreto-Lei n.º 480/99, de 1999-11-09 › Anexo — CÓDIGO DE PROCESSO DO TRABALHO › Artigo 98.º-C — Início do processo",
+    "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 382.º — Ilicitude de despedimento por facto imputável ao trabalhador",
+    "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 386.º — Suspensão de despedimento",
+    "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 393.º — Regras especiais relativas a contrato de trabalho a termo"
+   ],
+   "essenciais": 4,
+   "antes": 2,
+   "depois": 4
+  },
+  {
+   "id": "caso-trab-09",
+   "falta": [
+    "atribuições da Comissão para a Igualdade no Trabalho e no Emprego apreciação de queixas e emissão de pareceres lei orgânica",
+    "forma de processo da ação declarativa comum emergente de contrato de trabalho Código de Processo do Trabalho",
+    "contagem dos prazos termo que coincida com domingo ou feriado transfere-se para o primeiro dia útil Código Civil",
+    "alteração do horário de trabalho pelo empregador consulta dos trabalhadores e afixação do mapa de horário Código do Trabalho"
+   ],
+   "acrescentados": [
+    "Decreto Legislativo Regional n.º 3/2011/A, de 2011-03-03 › Artigo 3.º — Atribuições",
+    "Decreto-Lei n.º 480/99, de 1999-11-09 › Anexo — CÓDIGO DE PROCESSO DO TRABALHO › Artigo 14.º — Acções emergentes de contrato de trabalho",
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 279.º — (Cômputo do termo)",
+    "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 217.º — Alteração de horário de trabalho",
+    "Decreto-Lei n.º 78/2026, de 2026-03-16 › Artigo 4.º — Atribuições no âmbito das funções próprias",
+    "Decreto-Lei n.º 480/99, de 1999-11-09 › Anexo — CÓDIGO DE PROCESSO DO TRABALHO › Artigo 49.º — Processo declarativo comum",
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 296.º — (Contagem dos prazos)",
+    "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 216.º — Afixação do mapa de horário de trabalho"
+   ],
+   "essenciais": 3,
+   "antes": 3,
+   "depois": 3
+  },
+  {
+   "id": "caso-trab-10",
+   "falta": [
+    "noção de acidente de trabalho verificado no local e no tempo de trabalho que produza lesão corporal Lei dos acidentes de trabalho",
+    "acidente causado por outro trabalhador ou por terceiro direito de regresso da seguradora e desoneração Lei dos acidentes de trabalho",
+    "retribuição de referência para cálculo das prestações por acidente de trabalho subsídios de férias e de Natal Lei dos acidentes de trabalho",
+    "processo emergente de acidente de trabalho fase conciliatória participação ao tribunal e Ministério Público Código de Processo do Trabalho",
+    "princípio geral da responsabilidade civil por factos ilícitos violação ilícita do direito de outrem obrigação de indemnizar Código Civil",
+    "ação direta do lesado contra a empresa de seguros do responsável sistema do seguro obrigatório de responsabilidade civil automóvel"
+   ],
+   "acrescentados": [
+    "Lei n.º 98/2009, de 2009-09-04 › Artigo 8.º — Conceito",
+    "Lei n.º 98/2009, de 2009-09-04 › Artigo 17.º — Acidente causado por outro trabalhador ou por terceiro",
+    "Decreto-Lei n.º 91/2009, de 2009-04-09 › Artigo 28.º — Remuneração de referência",
+    "Decreto-Lei n.º 480/99, de 1999-11-09 › Anexo — CÓDIGO DE PROCESSO DO TRABALHO › Artigo 99.º — Início do processo",
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 483.º — (Princípio geral)",
+    "Decreto-Lei n.º 26/2025, de 2025-03-20 › ANEXO — (a que se refere o artigo 6.º) › Artigo 62.º — Legitimidade",
+    "Regulamento (UE) n. ° 349/2011 da Comissão, de 11 de Abril de 2011, de 2011-04-12 › Artigo 1.º — Definições",
+    "Decreto-Lei n.º 503/99, de 1999-11-20 › Artigo 46.º — Responsabilidade de terceiros"
+   ],
+   "essenciais": 4,
+   "antes": 2,
+   "depois": 3
+  },
+  {
+   "id": "caso-arr-01",
+   "falta": [
+    "comunicações entre senhorio e arrendatário forma da resolução por notificação avulsa ou contacto pessoal de advogado ou agente de execução Novo Regime do Arrendamento Urbano",
+    "prazo para desocupação do locado após resolução do contrato de arrendamento pelo senhorio Código Civil",
+    "indemnização devida pelo arrendatário pela falta de restituição da coisa locada após a cessação do contrato Código Civil",
+    "cessação da mora do arrendatário depósito das rendas em atraso e da indemnização Código Civil",
+    "juros moratórios nas obrigações pecuniárias à taxa legal desde a constituição em mora Código Civil",
+    "requerimento de despejo prazo de oposição do arrendatário e caução das rendas procedimento especial de despejo Novo Regime do Arrendamento Urbano"
+   ],
+   "acrescentados": [
+    "Lei n.º 81/2014, de 2014-12-19 › Artigo 34.º — Comunicações",
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 1087.º — Desocupação",
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 1045.º — (Indemnização pelo atraso na restituição da coisa)",
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 1042.º — Cessação da mora",
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 806.º — (Obrigações pecuniárias)",
+    "Lei n.º 6/2006, de 2006-02-27 › Artigo 15.º-F — Oposição",
+    "Lei n.º 31/2012, de 2012-08-14 › Artigo 4.º — Alteração à Lei n.º 6/2006, de 27 de fevereiro",
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 1101.º — Denúncia pelo senhorio"
+   ],
+   "essenciais": 5,
+   "antes": 4,
+   "depois": 4
+  },
+  {
+   "id": "caso-arr-02",
+   "falta": [
+    "Novo Regime do Arrendamento Urbano forma das comunicações entre senhorio e arrendatário carta registada com aviso de receção",
+    "Código Civil regras de contagem dos prazos cômputo do termo fixado em dias meses ou anos",
+    "Código Civil ação de preferência prazo de caducidade do preferente preterido e depósito do preço",
+    "Código Civil pacto de preferência comunicação do projeto de venda e cláusulas do contrato ao preferente"
+   ],
+   "acrescentados": [
+    "Lei n.º 6/2006, de 2006-02-27 › Artigo 9.º — Forma da comunicação",
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 279.º — (Cômputo do termo)",
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 1410.º — (Acção de preferência)",
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 416.º — (Conhecimento do preferente)",
+    "Decreto-Lei n.º 278/93, de 1993-08-10 › Artigo 89.º — [...]",
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 296.º — (Contagem dos prazos)",
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 414.º — (Noção)"
+   ],
+   "essenciais": 5,
+   "antes": 5,
+   "depois": 5
+  },
+  {
+   "id": "caso-arr-03",
+   "falta": [
+    "aviso do coeficiente de atualização anual das rendas para vigorar em 2026 publicado no Diário da República",
+    "aviso do coeficiente de atualização anual das rendas para vigorar em 2027 publicado no Diário da República",
+    "Novo Regime do Arrendamento Urbano data em que se considera recebida a comunicação por carta registada devolvida ou não levantada",
+    "Código Civil regras de contagem dos prazos cômputo do termo fixado em dias"
+   ],
+   "acrescentados": [
+    "Aviso n.º 17288/2025/2, de 2025-07-14 › Artigo 33.º — Atualização anual da renda",
+    "Lei n.º 6/2006, de 2006-02-27 › Artigo 10.º — Vicissitudes",
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 279.º — (Cômputo do termo)",
+    "Portaria n.º 304-A/2026/1, de 2026-07-20 › Artigo 7.º — Atualização das taxas ou encargos",
+    "Regulamento n.º 47/2025, de 2025-01-09 › Artigo 30.º — Atualização anual da renda",
+    "Portaria n.º 1192-B/2006, de 2006-11-03 › Artigo 7.º — Vistoria",
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 296.º — (Contagem dos prazos)"
+   ],
+   "essenciais": 3,
+   "antes": 3,
+   "depois": 3
+  },
+  {
+   "id": "caso-arr-04",
+   "falta": [
+    "regime jurídico das obras em prédios arrendados obras pelo arrendatário em substituição do senhorio comunicação e compensação nas rendas",
+    "Código Civil exceção de não cumprimento do contrato recusa da prestação nos contratos bilaterais",
+    "Código Civil enriquecimento sem causa obrigação de restituir carácter subsidiário e prazo de prescrição",
+    "Código Civil benfeitorias voluptuárias possuidor de má fé direito de levantamento",
+    "Código Civil mora do devedor interpelação judicial ou extrajudicial para cumprir"
+   ],
+   "acrescentados": [
+    "Lei n.º 6/2006, de 2006-02-27 › Artigo 14.º-A — Título para pagamento de rendas, encargos ou despesas",
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 428.º — (Noção)",
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 473.º — (Princípio geral)",
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 1275.º — (Benfeitorias voluptuárias)",
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 805.º — (Momento da constituição em mora)",
+    "Decreto-Lei n.º 157/2006, de 2006-08-08 › Artigo 22.º-A — Âmbito",
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 431.º — (Eficácia em relação a terceiros)",
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 479.º — (Objecto da obrigação de restituir)"
+   ],
+   "essenciais": 5,
+   "antes": 3,
+   "depois": 3
+  },
+  {
+   "id": "caso-arr-05",
+   "falta": [
+    "Código Civil nulidade do negócio invocável a todo o tempo por qualquer interessado e declarada oficiosamente pelo tribunal",
+    "Código Civil contagem dos prazos de caducidade cômputo do termo e transferência para o primeiro dia útil",
+    "Código de Processo Civil procedimento cautelar comum fundado receio de lesão grave e dificilmente reparável requisitos",
+    "Código Civil propriedade horizontal deliberações da assembleia de condóminos nulas ou ineficazes regime de invalidade"
+   ],
+   "acrescentados": [
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 286.º — (Nulidade)",
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 279.º — (Cômputo do termo)",
+    "Lei n.º 41/2013, de 2013-06-26 › Anexo — CÓDIGO DE PROCESSO CIVIL › Artigo 362.º — Âmbito das providências cautelares não especificadas",
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 1416.º — (Falta de requisitos legais)",
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 291.º — (Inoponibilidade da nulidade e da anulação)",
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 296.º — (Contagem dos prazos)",
+    "Lei n.º 41/2013, de 2013-06-26 › Anexo — CÓDIGO DE PROCESSO CIVIL › Artigo 365.º — Processamento",
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 1419.º — (Modificação do título)"
+   ],
+   "essenciais": 5,
+   "antes": 4,
+   "depois": 5
+  },
+  {
+   "id": "caso-cons-01",
+   "falta": [
+    "Regulamento do serviço de abastecimento de água dos Serviços Municipalizados de Setúbal faturação por estimativa acertos prescrição e caducidade",
+    "Código Civil caducidade só impedida pela prática do ato dentro do prazo propositura da ação",
+    "Lei dos serviços públicos essenciais ónus da prova da realização das comunicações e da exigência de pagamento ao utente",
+    "Lei dos serviços públicos essenciais direito de reclamação e meios de reação do utente contra a suspensão ilícita do fornecimento"
+   ],
+   "acrescentados": [
+    "Regulamento n.º 594/2018, de 2018-09-04 › Artigo 34.º — Acertos de faturação",
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 331.º — (Causas impeditivas da caducidade)",
+    "Lei n.º 23/96, de 1996-07-26 › Artigo 11.º — Ónus da prova",
+    "Lei n.º 23/96, de 1996-07-26 › Artigo 1.º — Objecto e âmbito",
+    "Regulamento n.º 594/2018, de 2018-09-04 › Artigo 99.º — Acertos de faturação",
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 332.º — (Absolvição e interrupção da instância e ineficácia do compromisso arbitral)",
+    "Lei n.º 12/2008, de 2008-02-26 › Artigo 2.º — Aditamento à [Lei n.º 23/96](https://diariodarepublica.pt/dr/detalhe/lei/23-1996-408366), de 26 de Julho",
+    "Decreto-Lei n.º 156/2005, de 2005-09-15 › Artigo 1.º — Objeto"
+   ],
+   "essenciais": 3,
+   "antes": 2,
+   "depois": 3
+  },
+  {
+   "id": "caso-cons-02",
+   "falta": [
+    "Decreto-Lei contratos celebrados à distância modo de exercício do direito de livre resolução declaração inequívoca ou formulário",
+    "Decreto-Lei contratos celebrados à distância ónus da prova do cumprimento dos deveres de informação pré-contratual",
+    "Código Civil regras de contagem dos prazos cômputo do termo fixado em dias"
+   ],
+   "acrescentados": [
+    "Decreto-Lei n.º 24/2014, de 2014-02-14 › Artigo 11.º — Exercício e efeitos do direito de livre resolução",
+    "Decreto-Lei n.º 91/2018, de 2018-11-12 › Anexo — REGIME JURÍDICO DOS SERVIÇOS DE PAGAMENTO E DA MOEDA ELETRÓNICA › Artigo 77.º — Outras disposições em matéria de informação pré-contratual",
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 279.º — (Cômputo do termo)",
+    "Lei n.º 10/2023, de 2023-03-03 › ANEXO II — (a que se refere o artigo 9.º) › Artigo 35.º — Entrada em vigor",
+    "Acórdão do Supremo Tribunal de Justiça n.º 8/2022, de 2022-11-03",
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 296.º — (Contagem dos prazos)"
+   ],
+   "essenciais": 5,
+   "antes": 4,
+   "depois": 5
+  },
+  {
+   "id": "caso-cons-03",
+   "falta": [
+    "Decreto-Lei 446/85 cláusulas contratuais gerais proibidas nas relações com consumidores finais âmbito de aplicação",
+    "Código Civil liberdade de forma das declarações negociais validade da declaração por correio eletrónico",
+    "Código Civil resolução ou modificação do contrato por alteração anormal das circunstâncias",
+    "Código de Processo Civil pactos de competência territorial validade e nulidade da convenção de foro",
+    "Código Civil contrato de prestação de serviços cessação antecipada pelo cliente indemnização ao prestador"
+   ],
+   "acrescentados": [
+    "Decreto-Lei n.º 446/85, de 1985-10-25 › Artigo 20.º — (Âmbito das proibições)",
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 219.º — (Liberdade de forma)",
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 437.º — (Condições de admissibilidade)",
+    "Lei n.º 41/2013, de 2013-06-26 › Anexo — CÓDIGO DE PROCESSO CIVIL › Artigo 94.º — Pactos privativo e atributivo de jurisdição",
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 1154.º — (Noção)",
+    "Decreto-Lei n.º 446/85, de 1985-10-25 › Artigo 1.º — Âmbito de aplicação",
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 36.º — (Forma da declaração)",
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 252.º — (Erro sobre os motivos)"
+   ],
+   "essenciais": 5,
+   "antes": 5,
+   "depois": 5
+  },
+  {
+   "id": "caso-cons-04",
+   "falta": [
+    "Decreto-Lei crédito aos consumidores carácter imperativo e nulidade das cláusulas contrárias aos direitos do consumidor",
+    "diploma de transposição da Diretiva de 2023 relativa a contratos de crédito aos consumidores regime transitório dos contratos em curso",
+    "Decreto-Lei crédito aos consumidores comissões e encargos permitidos despesas de registo do cancelamento de hipoteca sobre veículo",
+    "Código Civil regras de contagem dos prazos cômputo do termo fixado em dias"
+   ],
+   "acrescentados": [
+    "Decreto-Lei n.º 74-A/2017, de 2017-06-23 › Artigo 35.º — Caráter imperativo",
+    "Diretiva (UE) 2023/2225 do Parlamento Europeu e do Conselho, de 18 de outubro de 2023, de 2023-10-18 › Artigo 1.º — Objeto",
+    "Decreto-Lei n.º 227/2012, de 2012-10-25 › Artigo 3.º — Definições",
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 279.º — (Cômputo do termo)",
+    "Decreto-Lei n.º 133/2009, de 2009-06-02 › Artigo 26.º — Carácter imperativo",
+    "Diretiva (UE) 2020/1828 do Parlamento Europeu e do Conselho de 25 de novembro de 2020, de 2020-11-25 › Artigo 22.º — Disposições transitórias",
+    "Decreto-Lei n.º 225/2012, de 2012-10-17 › ANEXO II — (a que se refere o artigo 8.º) › Artigo 3.º — Comissões, despesas ou outros encargos",
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 296.º — (Contagem dos prazos)"
+   ],
+   "essenciais": 4,
+   "antes": 3,
+   "depois": 4
+  },
+  {
+   "id": "caso-cons-05",
+   "falta": [
+    "Decreto-Lei 84/2021 bens imóveis prazo para o consumidor comunicar a falta de conformidade ao profissional",
+    "Decreto-Lei 84/2021 direito do consumidor a indemnização pelos danos causados pela falta de conformidade",
+    "Decreto-Lei 84/2021 entrada em vigor e aplicação no tempo aos contratos de compra e venda celebrados",
+    "Código Civil venda de coisa defeituosa prazo de caducidade da ação após a denúncia do defeito"
+   ],
+   "acrescentados": [
+    "Decreto-Lei n.º 84/2021, de 2021-10-18 › Artigo 18.º — Reparação ou substituição do bem",
+    "Decreto-Lei n.º 84/2021, de 2021-10-18 › Artigo 35.º — Direitos do consumidor em caso de falta de conformidade",
+    "Decreto-Lei n.º 84/2021, de 2021-10-18 › Artigo 53.º — Aplicação no tempo",
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 1220.º — (Denúncia dos defeitos)",
+    "Decreto-Lei n.º 84/2021, de 2021-10-18 › Artigo 21.º — Serviço pós-venda e disponibilização de peças",
+    "Decreto-Lei n.º 84/2021, de 2021-10-18 › Artigo 40.º — Responsabilidade direta do produtor",
+    "Decreto-Lei n.º 84/2021, de 2021-10-18 › Artigo 3.º — Âmbito de aplicação",
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 921.º — (Garantia de bom funcionamento)"
+   ],
+   "essenciais": 4,
+   "antes": 3,
+   "depois": 4
+  },
+  {
+   "id": "caso-fam-01",
+   "falta": [
+    "Código Civil regime de bens supletivo do casamento celebrado sem convenção antenupcial comunhão de adquiridos",
+    "Código Civil presunção de comunicabilidade dos bens móveis no regime de comunhão",
+    "Código de Processo Civil inventário para partilha dos bens comuns em consequência de divórcio"
+   ],
+   "acrescentados": [
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 1717.º — (Regime de bens supletivo)",
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 1725.º — (Presunção de comunicabilidade)",
+    "Lei n.º 41/2013, de 2013-06-26 › Anexo — CÓDIGO DE PROCESSO CIVIL › Artigo 1133.º — Separação, divórcio, declaração de nulidade ou anulação de casamento",
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 1721.º — (Normas aplicáveis)",
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 1733.º — (Bens incomunicáveis)",
+    "Lei n.º 41/2013, de 2013-06-26 › Anexo — CÓDIGO DE PROCESSO CIVIL › Artigo 1135.º — Separação de bens em casos especiais"
+   ],
+   "essenciais": 4,
+   "antes": 4,
+   "depois": 4
+  },
+  {
+   "id": "caso-fam-02",
+   "falta": [
+    "prescrição das prestações periódicas de alimentos vencidas e não pagas Código Civil prazo de cinco anos",
+    "incidente de incumprimento do regime de responsabilidades parentais quanto a alimentos Regime Geral do Processo Tutelar Cível tramitação"
+   ],
+   "acrescentados": [
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 310.º — (Prescrição de cinco anos)",
+    "Lei n.º 141/2015, de 2015-09-08 › Anexo — (a que se refere o artigo 2.º) › Artigo 57.º — Suspensão do exercício das responsabilidades parentais e do acolhimento da criança",
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 307.º — (Prestações periódicas)",
+    "Lei n.º 147/99, de 1999-09-01 › Anexo — Lei de protecção de crianças e jovens em perigo › Artigo 69.º — Comunicações das comissões de protecção ao Ministério Público para efeitos de procedimento cível"
+   ],
+   "essenciais": 3,
+   "antes": 3,
+   "depois": 3
+  },
+  {
+   "id": "caso-fam-03",
+   "falta": [
+    "Lei da união de facto noção de duas pessoas que vivem em condições análogas às dos cônjuges há mais de dois anos e exceções",
+    "medida dos alimentos proporcionados aos meios de quem os presta e à necessidade de quem os recebe Código Civil",
+    "alimentos ao cônjuge sobrevivo a cargo dos rendimentos dos bens deixados pelo falecido Código Civil"
+   ],
+   "acrescentados": [
+    "Lei n.º 7/2001, de 2001-05-11 › Artigo 1.º — Objecto",
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 2004.º — (Medida dos alimentos)",
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 2018.º — (Apanágio do cônjuge sobrevivo)",
+    "Lei n.º 110/2009, de 2009-09-16 › Anexo — CÓDIGO DOS REGIMES CONTRIBUTIVOS DO SISTEMA PREVIDENCIAL DE SEGURANÇA SOCIAL › Artigo 117.º — Pessoas excluídas",
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 2016.º-A — Montante dos alimentos",
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 2080.º — (A quem incumbe o cargo)"
+   ],
+   "essenciais": 4,
+   "antes": 3,
+   "depois": 4
+  },
+  {
+   "id": "caso-fam-04",
+   "falta": [
+    "herdeiros legitimários cônjuge descendentes e ascendentes segundo as regras da sucessão legítima Código Civil",
+    "partilha entre os filhos por cabeça em partes iguais na sucessão legítima Código Civil",
+    "prazo de caducidade não se suspende nem interrompe e só é impedido pela propositura da ação Código Civil"
+   ],
+   "acrescentados": [
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 2157.º — (Herdeiros legitimários)",
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 2139.º — (Regras gerais)",
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 328.º — (Suspensão e interrupção)",
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 2166.º — (Deserdação)",
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 2136.º — (Sucessão por cabeça)",
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 332.º — (Absolvição e interrupção da instância e ineficácia do compromisso arbitral)"
+   ],
+   "essenciais": 5,
+   "antes": 5,
+   "depois": 5
+  },
+  {
+   "id": "caso-fam-05",
+   "falta": [
+    "requisitos da sub-rogação do credor ao devedor exercício essencial à satisfação ou garantia do crédito Código Civil",
+    "contagem dos prazos civis termo que cai em domingo ou dia feriado Código Civil regras",
+    "quota de cada filho na sucessão legítima divisão por cabeça Código Civil"
+   ],
+   "acrescentados": [
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 606.º — (Direitos sujeitos à sub-rogação)",
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 279.º — (Cômputo do termo)",
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 2139.º — (Regras gerais)",
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 592.º — (Sub-rogação legal)",
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 296.º — (Contagem dos prazos)",
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 2159.º — (Legítima do cônjuge e dos filhos)"
+   ],
+   "essenciais": 4,
+   "antes": 3,
+   "depois": 4
+  },
+  {
+   "id": "caso-resp-01",
+   "falta": [
+    "prescrição do direito de indemnização por responsabilidade civil extracontratual Código Civil prazo de três anos contagem",
+    "capital mínimo do seguro obrigatório de responsabilidade civil automóvel por sinistro para danos corporais",
+    "limite geral de velocidade dentro das localidades para automóveis ligeiros Código da Estrada"
+   ],
+   "acrescentados": [
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 498.º — (Prescrição)",
+    "Acórdão n.º 3/2004, de 2004-05-13",
+    "Lei n.º 72/2013, de 2013-09-03 › Anexo — CÓDIGO DA ESTRADA › Artigo 27.º — Limites gerais de velocidade",
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 482.º — (Prescrição)",
+    "Decreto-Lei n.º 26/2025, de 2025-03-20 › ANEXO — (a que se refere o artigo 6.º) › Artigo 49.º — Âmbito material",
+    "Lei n.º 72/2013, de 2013-09-03 › Anexo — CÓDIGO DA ESTRADA › Artigo 145.º — Contraordenações graves"
+   ],
+   "essenciais": 4,
+   "antes": 3,
+   "depois": 3
+  },
+  {
+   "id": "caso-resp-02",
+   "falta": [
+    "prescrição ordinária prazo de vinte anos Código Civil",
+    "interrupção da prescrição pela citação ou notificação judicial de ato que exprima a intenção de exercer o direito Código Civil",
+    "prazo para apresentar queixa e extinção do direito de queixa nos crimes semipúblicos Código Penal"
+   ],
+   "acrescentados": [
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 309.º — (Prazo ordinário)",
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 323.º — (Interrupção promovida pelo titular)",
+    "Decreto-Lei n.º 48/95, de 1995-03-15 › Anexo — CÓDIGO PENAL › Artigo 115.º — Extinção do direito de queixa",
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 1537.º — (Falta de pagamento das prestações anuais)",
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 521.º — (Prescrição)",
+    "Decreto-Lei n.º 48/95, de 1995-03-15 › Anexo — CÓDIGO PENAL › Artigo 116.º — Renúncia e desistência da queixa"
+   ],
+   "essenciais": 5,
+   "antes": 5,
+   "depois": 5
+  },
+  {
+   "id": "caso-resp-03",
+   "falta": [
+    "prescrição do direito de indemnização contra o Fundo de Garantia Automóvel por veículo não identificado regime do seguro obrigatório",
+    "limites especiais à responsabilidade do Fundo de Garantia Automóvel em acidente simultaneamente de viação e de trabalho regime de 2025",
+    "danos não patrimoniais que pela sua gravidade mereçam a tutela do direito fixação equitativa Código Civil",
+    "prestações em espécie e em dinheiro na reparação de acidente de trabalho regime de acidentes de trabalho e doenças profissionais"
+   ],
+   "acrescentados": [
+    "Decreto-Lei n.º 291/2007, de 2007-08-21 › Artigo 74.º — Intervenção em caso de não identificação de veículo ou de empresa de seguros",
+    "Decreto-Lei n.º 26/2025, de 2025-03-20 › ANEXO — (a que se refere o artigo 6.º) › Artigo 51.º — Limites especiais à responsabilidade do Fundo",
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 496.º — (Danos não patrimoniais)",
+    "Lei n.º 7/2009, de 2009-02-12 › Artigo 4.º — Acidentes de trabalho e doenças profissionais",
+    "Decreto-Lei n.º 26/2025, de 2025-03-20 › ANEXO — (a que se refere o artigo 6.º) › Artigo 74.º — Intervenção em caso de não identificação de veículo ou de empresa de seguros",
+    "Decreto-Lei n.º 26/2025, de 2025-03-20 › ANEXO — (a que se refere o artigo 6.º) › Artigo 51.º-A — Limites especiais à responsabilidade do Fundo de Garantia Automóvel no caso de acidentes que envolvam reboques",
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 566.º — (Indemnização em dinheiro)",
+    "Lei n.º 2127, de 1965-08-03"
+   ],
+   "essenciais": 4,
+   "antes": 4,
+   "depois": 4
+  },
+  {
+   "id": "caso-resp-04",
+   "falta": [
+    "responsabilidade pelo risco de quem tem a direção efetiva do veículo e o utiliza no seu próprio interesse Código Civil",
+    "exceções à regra de cedência de passagem pela direita veículos que saiam de parques ou caminhos particulares Código da Estrada",
+    "prescrição do direito de indemnização por acidente de viação Código Civil prazo de três anos",
+    "ação do lesado contra a empresa de seguros legitimidade passiva regime do seguro obrigatório automóvel"
+   ],
+   "acrescentados": [
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 503.º — (Acidentes causados por veículos)",
+    "Lei n.º 72/2013, de 2013-09-03 › Anexo — CÓDIGO DA ESTRADA › Artigo 37.º — Exceções",
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 498.º — (Prescrição)",
+    "Decreto-Lei n.º 26/2025, de 2025-03-20 › ANEXO — (a que se refere o artigo 6.º) › Artigo 62.º — Legitimidade",
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 509.º — (Danos causados por instalações de energia eléctrica ou gás)",
+    "Lei n.º 72/2013, de 2013-09-03 › Anexo — CÓDIGO DA ESTRADA › Artigo 31.º — Cedência de passagem em certas vias ou troços",
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 482.º — (Prescrição)",
+    "Decreto-Lei n.º 26/2025, de 2025-03-20 › ANEXO — (a que se refere o artigo 6.º) › Artigo 64.º — Legitimidade das partes e outras regras"
+   ],
+   "essenciais": 4,
+   "antes": 3,
+   "depois": 3
+  },
+  {
+   "id": "caso-resp-05",
+   "falta": [
+    "consequências do incumprimento do dever de informação e esclarecimento do segurador ao tomador regime jurídico do contrato de seguro",
+    "erro máximo admissível dos alcoolímetros controlo metrológico dedução ao valor da taxa de álcool no sangue"
+   ],
+   "acrescentados": [
+    "Decreto-Lei n.º 72/2008, de 2008-04-16 › Anexo — Regime jurídico do contrato de seguro › Artigo 23.º — Incumprimento",
+    "Portaria n.º 366/2023, de 2023-11-15 › REGULAMENTO DO CONTROLO METROLÓGICO LEGAL DOS ALCOOLÍMETROS (ANEXO) › Artigo 11.º — Disposição transitória",
+    "Decreto-Lei n.º 72/2008, de 2008-04-16 › Anexo — Regime jurídico do contrato de seguro › Artigo 26.º — Omissões ou inexactidões negligentes",
+    "Portaria n.º 366/2023, de 2023-11-15 › REGULAMENTO DO CONTROLO METROLÓGICO LEGAL DOS ALCOOLÍMETROS (ANEXO) › Artigo 7.º — Primeira verificação"
+   ],
+   "essenciais": 4,
+   "antes": 4,
+   "depois": 4
+  },
+  {
+   "id": "caso-emp-01",
+   "falta": [
+    "maioria necessária para as deliberações dos sócios em sociedade por quotas votos emitidos e abstenções Código das Sociedades Comerciais",
+    "efeitos da anulação de deliberação social perante terceiros de boa-fé e atos já executados Código das Sociedades Comerciais",
+    "contagem dos prazos de caducidade para propor ação termo em dia feriado Código Civil"
+   ],
+   "acrescentados": [
+    "Decreto-Lei n.º 262/86, de 1986-09-02 › Anexo — CÓDIGO DAS SOCIEDADES COMERCIAIS › Artigo 386.º — (Maioria)",
+    "Decreto-Lei n.º 262/86, de 1986-09-02 › Anexo — CÓDIGO DAS SOCIEDADES COMERCIAIS › Artigo 61.º — (Eficácia do caso julgado)",
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 279.º — (Cômputo do termo)",
+    "Decreto-Lei n.º 262/86, de 1986-09-02 › Anexo — CÓDIGO DAS SOCIEDADES COMERCIAIS › Artigo 250.º — Votos",
+    "Decreto-Lei n.º 262/86, de 1986-09-02 › Anexo — CÓDIGO DAS SOCIEDADES COMERCIAIS › Artigo 52.º — (Efeitos da invalidade)",
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 332.º — (Absolvição e interrupção da instância e ineficácia do compromisso arbitral)"
+   ],
+   "essenciais": 4,
+   "antes": 4,
+   "depois": 4
+  },
+  {
+   "id": "caso-emp-02",
+   "falta": [
+    "Código da Insolvência e da Recuperação de Empresas petição de apresentação à insolvência pelo devedor documentos que a devem acompanhar",
+    "Código da Insolvência efeitos da declaração de insolvência sobre ações executivas e diligências executivas pendentes contra o devedor",
+    "Lei Geral Tributária responsabilidade subsidiária dos gerentes pelas dívidas tributárias da sociedade e reversão da execução fiscal",
+    "Regime Geral das Infrações Tributárias abuso de confiança fiscal e contra a segurança social por não entrega de IVA e contribuições",
+    "Código Penal crime de insolvência negligente e insolvência dolosa praticado por administrador de sociedade",
+    "Código da Insolvência e da Recuperação de Empresas contagem dos prazos processuais natureza urgente e férias judiciais"
+   ],
+   "acrescentados": [
+    "Decreto-Lei n.º 53/2004, de 2004-03-18 › Anexo — CÓDIGO DA INSOLVÊNCIA E DA RECUPERAÇÃO DE EMPRESAS › Artigo 24.º — Junção de documentos pelo devedor",
+    "Decreto-Lei n.º 53/2004, de 2004-03-18 › Anexo — CÓDIGO DA INSOLVÊNCIA E DA RECUPERAÇÃO DE EMPRESAS › Artigo 88.º — Acções executivas",
+    "Decreto-Lei n.º 398/98, de 1998-12-17 › Anexo — Lei geral tributária › Artigo 23.º — Responsabilidade tributária subsidiária",
+    "Lei n.º 15/2001, de 2001-06-05 › Anexo — REGIME GERAL DAS INFRACÇÕES TRIBUTÁRIAS › Artigo 107.º — Abuso de confiança contra a segurança social",
+    "Decreto-Lei n.º 48/95, de 1995-03-15 › Anexo — CÓDIGO PENAL › Artigo 228.º — Insolvência negligente",
+    "Decreto-Lei n.º 53/2004, de 2004-03-18 › Anexo — CÓDIGO DA INSOLVÊNCIA E DA RECUPERAÇÃO DE EMPRESAS › Artigo 9.º — Carácter urgente do processo de insolvência e publicações obrigatórias",
+    "Decreto-Lei n.º 53/2004, de 2004-03-18 › Anexo — CÓDIGO DA INSOLVÊNCIA E DA RECUPERAÇÃO DE EMPRESAS › Artigo 231.º — Encerramento a pedido do devedor",
+    "Decreto-Lei n.º 53/2004, de 2004-03-18 › Anexo — CÓDIGO DA INSOLVÊNCIA E DA RECUPERAÇÃO DE EMPRESAS › Artigo 85.º — Efeitos sobre as acções pendentes"
+   ],
+   "essenciais": 5,
+   "antes": 5,
+   "depois": 5
+  },
+  {
+   "id": "caso-emp-03",
+   "falta": [
+    "Código da Insolvência e da Recuperação de Empresas contagem dos prazos processuais natureza urgente e suspensão em férias judiciais",
+    "decreto-lei que atualiza o valor da retribuição mínima mensal garantida para 2026",
+    "Código da Insolvência cessação antecipada do procedimento de exoneração do passivo restante e prorrogação do período de cessão"
+   ],
+   "acrescentados": [
+    "Decreto-Lei n.º 53/2004, de 2004-03-18 › Anexo — CÓDIGO DA INSOLVÊNCIA E DA RECUPERAÇÃO DE EMPRESAS › Artigo 9.º — Carácter urgente do processo de insolvência e publicações obrigatórias",
+    "Decreto-Lei n.º 139/2025, de 2025-12-29 › Artigo 1.º — Objeto",
+    "Decreto-Lei n.º 53/2004, de 2004-03-18 › Anexo — CÓDIGO DA INSOLVÊNCIA E DA RECUPERAÇÃO DE EMPRESAS › Artigo 243.º — Cessação antecipada do procedimento de exoneração",
+    "Decreto-Lei n.º 53/2004, de 2004-03-18 › Anexo — CÓDIGO DA INSOLVÊNCIA E DA RECUPERAÇÃO DE EMPRESAS › Artigo 8.º — Suspensão da instância e prejudicialidade",
+    "Decreto Legislativo Regional n.º 1/2026/M, de 2026-02-03 › Artigo 2.º — Valor da retribuição mínima mensal garantida",
+    "Decreto-Lei n.º 53/2004, de 2004-03-18 › Anexo — CÓDIGO DA INSOLVÊNCIA E DA RECUPERAÇÃO DE EMPRESAS › Artigo 242.º-A — Prorrogação do período de cessão"
+   ],
+   "essenciais": 4,
+   "antes": 4,
+   "depois": 4
+  },
+  {
+   "id": "caso-emp-04",
+   "falta": [
+    "Código Comercial taxa supletiva de juros moratórios dos créditos de empresas comerciais e limite mínimo pela taxa de referência",
+    "aviso da Direção-Geral do Tesouro e Finanças taxa supletiva de juros moratórios das empresas comerciais segundo semestre de 2026",
+    "Lei da Organização do Sistema Judiciário valor da alçada dos tribunais da Relação em matéria cível",
+    "regime anexo ao Decreto-Lei 269/98 requerimento de injunção requisitos notificação do requerido prazo de oposição e fórmula executória",
+    "Código Civil prescrição presuntiva fundamento presunção de cumprimento e confissão do devedor que a ilide",
+    "Código Civil prescrição de cinco anos dos juros e interrupção da prescrição pela citação ou notificação judicial"
+   ],
+   "acrescentados": [
+    "Portaria n.º 277/2013, de 2013-08-26 › Artigo 2.º — Taxa de juros moratórios",
+    "Portaria n.º 1105/2004 (2.ª série), de 2004-10-16",
+    "Lei n.º 105/2003, de 2003-12-10 › LEI DE ORGANIZAÇÃO E FUNCIONAMENTO DOS TRIBUNAIS JUDICIAIS (ANEXO) › Artigo 24.º — Alçadas",
+    "Decreto-Lei n.º 269/98, de 1998-09-01 › Anexo › Artigo 14.º — Aposição da fórmula executória",
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 313.º — (Confissão do devedor)",
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 323.º — (Interrupção promovida pelo titular)",
+    "Portaria n.º 807-U1/83, de 1983-07-30",
+    "Portaria n.º 597/2005, de 2005-07-19"
+   ],
+   "essenciais": 4,
+   "antes": 4,
+   "depois": 4
+  },
+  {
+   "id": "caso-emp-05",
+   "falta": [
+    "Código das Sociedades Comerciais ação de anulação de deliberações sociais prazo legitimidade e início da contagem",
+    "Código das Sociedades Comerciais prescrição dos direitos de indemnização do gerente destituído contra a sociedade",
+    "Código das Sociedades Comerciais sociedade por quotas maioria exigida para as deliberações dos sócios votos emitidos"
+   ],
+   "acrescentados": [
+    "Decreto-Lei n.º 262/86, de 1986-09-02 › Anexo — CÓDIGO DAS SOCIEDADES COMERCIAIS › Artigo 59.º — Acção de anulação",
+    "Decreto-Lei n.º 262/86, de 1986-09-02 › Anexo — CÓDIGO DAS SOCIEDADES COMERCIAIS › Artigo 174.º — (Prescrição)",
+    "Decreto-Lei n.º 262/86, de 1986-09-02 › Anexo — CÓDIGO DAS SOCIEDADES COMERCIAIS › Artigo 386.º — (Maioria)",
+    "Decreto-Lei n.º 262/86, de 1986-09-02 › Anexo — CÓDIGO DAS SOCIEDADES COMERCIAIS › Artigo 412.º — (Arguição da invalidade de deliberações)",
+    "Decreto-Lei n.º 262/86, de 1986-09-02 › Anexo — CÓDIGO DAS SOCIEDADES COMERCIAIS › Artigo 74.º — (Cláusulas nulas. Renúncia e transacção)",
+    "Decreto-Lei n.º 262/86, de 1986-09-02 › Anexo — CÓDIGO DAS SOCIEDADES COMERCIAIS › Artigo 189.º — (Deliberações dos sócios)"
+   ],
+   "essenciais": 3,
+   "antes": 2,
+   "depois": 2
+  },
+  {
+   "id": "caso-adm-01",
+   "falta": [
+    "Código Penal pressupostos da suspensão da execução da pena de prisão personalidade do agente e circunstâncias do facto",
+    "Código da Estrada contagem dos prazos em dias úteis no processo de contraordenação rodoviária",
+    "Código da Estrada impugnação judicial da decisão administrativa da Autoridade Nacional de Segurança Rodoviária prazo e forma",
+    "Código da Estrada sistema de pontos número de pontos atribuídos ao condutor e limite máximo"
+   ],
+   "acrescentados": [
+    "Decreto-Lei n.º 48/95, de 1995-03-15 › Anexo — CÓDIGO PENAL › Artigo 50.º — Pressupostos e duração",
+    "Lei n.º 72/2013, de 2013-09-03 › Anexo — CÓDIGO DA ESTRADA › Artigo 171.º-A — Dispensa de procedimento",
+    "Lei n.º 72/2013, de 2013-09-03 › Anexo — CÓDIGO DA ESTRADA › Artigo 181.º — Decisão condenatória",
+    "Lei n.º 72/2013, de 2013-09-03 › Anexo — CÓDIGO DA ESTRADA › Artigo 121.º-A — Atribuição de pontos",
+    "Decreto-Lei n.º 48/95, de 1995-03-15 › Anexo — CÓDIGO PENAL › Artigo 98.º — Pressupostos e regime",
+    "Lei n.º 72/2013, de 2013-09-03 › Anexo — CÓDIGO DA ESTRADA › Artigo 188.º — Prescrição do procedimento",
+    "Lei n.º 72/2013, de 2013-09-03 › Anexo — CÓDIGO DA ESTRADA › Artigo 187.º — Efeitos do recurso",
+    "Lei n.º 72/2013, de 2013-09-03 › Anexo — CÓDIGO DA ESTRADA › Artigo 96.º — Remissão"
+   ],
+   "essenciais": 5,
+   "antes": 5,
+   "depois": 5
+  },
+  {
+   "id": "caso-adm-02",
+   "falta": [
+    "Código de Processo nos Tribunais Administrativos início do prazo de impugnação com a notificação do ato e suspensão pela impugnação administrativa",
+    "Código de Processo nos Tribunais Administrativos poderes do tribunal na condenação à prática do ato devido quando a emissão envolve valorações próprias da Administração",
+    "Código do Procedimento Administrativo dever de fundamentação dos atos que indefiram pretensões e fundamentação por remissão para parecer",
+    "regime jurídico de ocupação do espaço público por esplanadas abertas mera comunicação prévia licenciamento zero critérios e prazos",
+    "Código do Procedimento Administrativo direito dos interessados à consulta do processo e passagem de certidões"
+   ],
+   "acrescentados": [
+    "Lei n.º 15/2002, de 2002-02-22 › Anexo — CÓDIGO DE PROCESSO NOS TRIBUNAIS ADMINISTRATIVOS › Artigo 59.º — Início dos prazos de impugnação",
+    "Lei n.º 15/2002, de 2002-02-22 › Anexo — CÓDIGO DE PROCESSO NOS TRIBUNAIS ADMINISTRATIVOS › Artigo 71.º — Poderes de pronúncia do tribunal",
+    "Decreto-Lei n.º 4/2015, de 2015-01-07 › Anexo — CÓDIGO DO PROCEDIMENTO ADMINISTRATIVO › Artigo 152.º — Dever de fundamentação",
+    "Regulamento n.º 977/2026, de 2026-07-23 › Artigo C-1/18.º — Mera comunicação prévia",
+    "Decreto-Lei n.º 4/2015, de 2015-01-07 › Anexo — CÓDIGO DO PROCEDIMENTO ADMINISTRATIVO › Artigo 83.º — Consulta do processo e passagem de certidões",
+    "Lei n.º 15/2002, de 2002-02-22 › Anexo — CÓDIGO DE PROCESSO NOS TRIBUNAIS ADMINISTRATIVOS › Artigo 50.º — Objeto e efeitos da impugnação",
+    "Lei n.º 15/2002, de 2002-02-22 › Anexo — CÓDIGO DE PROCESSO NOS TRIBUNAIS ADMINISTRATIVOS › Artigo 3.º — Poderes dos tribunais administrativos",
+    "Decreto-Lei n.º 4/2015, de 2015-01-07 › Anexo — CÓDIGO DO PROCEDIMENTO ADMINISTRATIVO › Artigo 153.º — Requisitos da fundamentação"
+   ],
+   "essenciais": 5,
+   "antes": 5,
+   "depois": 5
+  },
+  {
+   "id": "caso-adm-03",
+   "falta": [
+    "Código do Imposto Municipal sobre Imóveis prazos de pagamento do imposto e número de prestações",
+    "Lei Geral Tributária taxa dos juros compensatórios aplicável aos juros indemnizatórios",
+    "Código de Procedimento e de Processo Tributário meios de reação contra o indeferimento do pedido de revisão oficiosa do ato tributário e prazo",
+    "Código de Procedimento e de Processo Tributário contagem dos prazos do procedimento tributário e da impugnação judicial",
+    "Lei Geral Tributária prazo de decisão do procedimento tributário e presunção de indeferimento tácito"
+   ],
+   "acrescentados": [
+    "Decreto-Lei n.º 287/2003, de 2003-11-12 › Anexo I — Código do Imposto Municipal sobre Imóveis › Artigo 120.º — Prazo de pagamento",
+    "Decreto-Lei n.º 398/98, de 1998-12-17 › Anexo — Lei geral tributária › Artigo 35.º — Juros compensatórios",
+    "Decreto-Lei n.º 433/99, de 1999-10-26 › Anexo — CÓDIGO DE PROCEDIMENTO E DE PROCESSO TRIBUTÁRIO › Artigo 37.º — Comunicação ou notificação insuficiente",
+    "Decreto-Lei n.º 433/99, de 1999-10-26 › Anexo — CÓDIGO DE PROCEDIMENTO E DE PROCESSO TRIBUTÁRIO › Artigo 20.º — Contagem dos prazos",
+    "Decreto-Lei n.º 398/98, de 1998-12-17 › Anexo — Lei geral tributária › Artigo 57.º — Prazos",
+    "Decreto-Lei n.º 287/2003, de 2003-11-12 › Anexo II — Código do Imposto Municipal sobre as Transmissões Onerosas de Imóveis › Artigo 36.º — Prazos para pagamento",
+    "Decreto-Lei n.º 398/98, de 1998-12-17 › Anexo — Lei geral tributária › Artigo 30.º — Objecto da relação jurídica tributária",
+    "Decreto-Lei n.º 433/99, de 1999-10-26 › Anexo — CÓDIGO DE PROCEDIMENTO E DE PROCESSO TRIBUTÁRIO › Artigo 36.º — Notificações em geral"
+   ],
+   "essenciais": 3,
+   "antes": 3,
+   "depois": 3
+  },
+  {
+   "id": "caso-adm-04",
+   "falta": [
+    "Código de Procedimento e de Processo Tributário contagem dos prazos do processo judicial tributário segundo o Código de Processo Civil",
+    "Código de Procedimento e de Processo Tributário reclamação graciosa e impugnação judicial pelo responsável subsidiário prazo contado da citação",
+    "Código das Sociedades Comerciais renúncia de gerentes comunicação escrita à sociedade e momento em que produz efeitos",
+    "Código de Procedimento e de Processo Tributário suspensão da execução fiscal com prestação de garantia na pendência da oposição"
+   ],
+   "acrescentados": [
+    "Decreto-Lei n.º 433/99, de 1999-10-26 › Anexo — CÓDIGO DE PROCEDIMENTO E DE PROCESSO TRIBUTÁRIO › Artigo 20.º — Contagem dos prazos",
+    "Decreto-Lei n.º 433/99, de 1999-10-26 › Anexo — CÓDIGO DE PROCEDIMENTO E DE PROCESSO TRIBUTÁRIO › Artigo 102.º — Impugnação judicial. Prazo de apresentação",
+    "Decreto-Lei n.º 262/86, de 1986-09-02 › Anexo — CÓDIGO DAS SOCIEDADES COMERCIAIS › Artigo 258.º — (Renúncia de gerentes)",
+    "Decreto-Lei n.º 433/99, de 1999-10-26 › Anexo — CÓDIGO DE PROCEDIMENTO E DE PROCESSO TRIBUTÁRIO › Artigo 212.º — Suspensão de execução",
+    "Decreto-Lei n.º 433/99, de 1999-10-26 › Anexo — CÓDIGO DE PROCEDIMENTO E DE PROCESSO TRIBUTÁRIO › Artigo 96.º — Objecto",
+    "Decreto-Lei n.º 433/99, de 1999-10-26 › Anexo — CÓDIGO DE PROCEDIMENTO E DE PROCESSO TRIBUTÁRIO › Artigo 70.º — Apresentação, fundamentos e prazo da reclamação graciosa",
+    "Decreto-Lei n.º 262/86, de 1986-09-02 › Anexo — CÓDIGO DAS SOCIEDADES COMERCIAIS › Artigo 404.º — (Renúncia)",
+    "Decreto-Lei n.º 433/99, de 1999-10-26 › Anexo — CÓDIGO DE PROCEDIMENTO E DE PROCESSO TRIBUTÁRIO › Artigo 183.º-B — Caducidade da garantia por decisão em 1.ª instância"
+   ],
+   "essenciais": 4,
+   "antes": 4,
+   "depois": 4
+  },
+  {
+   "id": "caso-adm-05",
+   "falta": [
+    "Regime Geral das Contraordenações causas de suspensão da prescrição do procedimento por contraordenação e duração máxima da suspensão",
+    "Regime Geral das Contraordenações tribunal competente para o recurso de impugnação judicial e envio dos autos ao Ministério Público",
+    "Regime Geral das Contraordenações revogação da decisão pela autoridade administrativa antes do envio dos autos ao Ministério Público",
+    "regime jurídico da ocupação do espaço público por esplanadas contraordenações coimas e competência do presidente da câmara municipal"
+   ],
+   "acrescentados": [
+    "Decreto-Lei n.º 144/2019, de 2019-09-23 › ANEXO I › Artigo 275.º — Prescrição",
+    "Decreto-Lei n.º 144/2019, de 2019-09-23 › ANEXO I › Artigo 273.º — Impugnação judicial",
+    "Decreto-Lei n.º 433/82, de 1982-10-27 › Artigo 62.º — (Envio dos autos ao Ministério Público)",
+    "Regulamento n.º 630/2022, de 2022-07-12 › Artigo 32.º — Competência para processamento das contraordenações e aplicação das coimas",
+    "Lei n.º 50/2006, de 2006-08-29 › Artigo 40.º — Prescrição",
+    "Lei n.º 147/2015, de 2015-09-09 › Anexo II — Regime processual aplicável aos crimes especiais do setor segurador e dos fundos de pensões e às contraordenações cujo processamento compete à Autoridade de Supervisão de Seguros e Fundos de Pensões › Artigo 28.º — Impugnação judicial",
+    "Lei n.º 107/2009, de 2009-09-14 › Artigo 36.º — Envio dos autos ao Ministério Público",
+    "Regulamento n.º 1098/2022, de 2022-11-11 › Artigo 61.º — Processo contraordenacional"
+   ],
+   "essenciais": 4,
+   "antes": 4,
+   "depois": 4
+  }
+ ]
+}

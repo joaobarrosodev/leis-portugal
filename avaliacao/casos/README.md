@@ -147,14 +147,59 @@ Depois a análise com o LLM: os 16 primeiros da variante com artigos, as mesmas 
 
 Os ficheiros estão em `resultados/sonnet/` e `resultados/sonnet-contexto-opus/`, e os números em `rag/resultados/casos-llm-sonnet.json`, `casos-llm-sonnet-ctxopus.json` `casos-fluxo-sonnet.json` e `casos-fluxo-haiku.json`.
 
+### Prazos e formalidades: o sistema procura o que falta (26/11/2026, noite)
+
+**O problema.** Em 6 das 8 análises do Opus que não ficaram certas faltava o artigo de um prazo ou da forma de um ato:
+- a prescrição de três anos da responsabilidade civil, em três casos de viação;
+- os 60 dias para impugnar o despedimento (`caso-trab-08`);
+- a notificação avulsa do NRAU (`caso-arr-01`, a única errada);
+- a comunicação com 15 dias antes das obras, no DL 157/2006 (`caso-arr-04`).
+
+Muitas vezes a própria análise dizia «não encontrei o artigo que regula X».
+
+**A mudança** (`rag/caso.py`, `rag/CASO-ANALISE.md`):
+- A análise passa a confirmar, para cada ato que o advogado tem de praticar, que tem o artigo do prazo e o da forma. Para cada artigo que falta, escreve em `falta` uma consulta no vocabulário da lei.
+- O sistema faz uma pesquisa por consulta e junta até 8 artigos novos aos 16: os 2 primeiros de cada consulta, sem repetir os que já lá estão.
+- O LLM analisa o caso outra vez com esses artigos.
+
+Não há regra feita para estes casos: é o LLM que diz o que lhe falta. Nas medições, a 2.ª volta é feita por lotes com `completar.py`.
+
+**Medição.** Os 39 casos serviram para desenhar a mudança, por isso a medição que conta é a de 16 casos novos (`casos2.jsonl`). Foram escritos por 4 subagentes Opus que não conheciam a mudança nem viam os casos antigos, só os temas, para não os repetir. Passaram a mesma verificação mecânica (0 erros) e a mesma revisão adversarial: 11 ficaram como estavam e 5 foram corrigidos, quase todos em prazos. As consultas de cada caso foram escritas por um Opus com as regras de `rag/CASO-PARTIR.md`. Com elas, 54 dos 69 essenciais ficam nos 8 primeiros (78 %; nos 39 casos, 79 %). Nos dois conjuntos, a análise de antes e a de agora partem dos mesmos 16 artigos.
+
+| | 39 casos (desenho) | 16 casos novos (confirmação) |
+|---|--:|--:|
+| Essenciais no contexto, antes → depois | 144 → 154 de 161 | 63 → 66 de 69 |
+| Casos com todos os essenciais no contexto | 25 → 33 | 11 → 14 |
+| Consultas em `falta` / artigos juntados | 157 / 280 | 67 / 118 |
+| **Certas (os 2 juízes), antes → depois** | **31 → 36** | **10 → 14** |
+| Erradas para algum juiz, antes → depois | 1 → 0 | 1 → 2 |
+| Prazos em falta ou errados (juiz a), antes → depois | 6 → 2 | 4 → 2 |
+
+- **Nos 16 novos:**
+  - ganham-se 5 casos: `caso2-trab-02`, `caso2-cons-01`, `caso2-resp-01`, `caso2-resp-02` e `caso2-trab-03`;
+  - perde-se 1: `caso2-emp-01`, que passa de certa a errada. As duas versões contam mal o fim da reclamação de créditos no CIRE, sem a dilação de 5 dias. Antes os juízes deram o erro como sem efeito. Agora o erro leva também a data da impugnação da lista e conta como errada.
+  - `caso2-cons-03` está errada nas duas versões: não vê a devolução em dobro do DL 84/2021.
+- **Nos 39:**
+  - ganham-se 6 casos: `caso-trab-05`, `caso-trab-08`, `caso-trab-10`, `caso-arr-01`, `caso-resp-01` e `caso-resp-04`;
+  - perde-se 1: `caso-resp-02`, que passa a parcial.
+  - O `caso-arr-01` deixou de estar errado. A consulta em falta pediu a forma das comunicações do NRAU e a 2.ª análise já manda fazer a notificação avulsa.
+- **Os dois juízes concordam** em todos os casos das duas medições com a mudança.
+- **O que ainda falha são as contas dos prazos:** a dilação do CIRE e o fim do prazo em férias judiciais (`caso-trab-08`, certa mas com o prazo contado sem a passagem para janeiro). Ter o artigo não chega quando a conta junta duas regras.
+- **Custo:** mais uma chamada ao LLM e 4 a 7 pesquisas por caso. O contexto da 2.ª volta tem até 24 artigos em vez de 16.
+- **Ressalvas:** os 16 casos são poucos. Uma diferença de 2 ou 3 casos fica dentro do acaso, e a subida de 10 para 14 é um sinal, não uma prova. Quem escreveu os casos, quem respondeu e quem julgou é tudo Opus, e nenhum jurista reviu nada.
+
+Ficheiros: `resultados/completar/` (39), `resultados/casos2-antigo/` e `resultados/casos2-completar/` (16, com `volta1-*` da 1.ª volta), e em `rag/resultados/` os ficheiros `casos-completar.json`, `casos-llm-completar.json`, `casos2-fluxo.json`, `casos2-completar.json`, `casos2-llm-antigo.json` e `casos2-llm-completar.json`.
+
 **O que isto quer dizer.** Com os artigos certos à frente, o raciocínio chega lá em quase todos os casos (com a ressalva acima). Com a pesquisa de hoje, chega em 5 de 39. Partir o caso em consultas jurídicas, com o código e o vocabulário da lei, leva a 31 de 39. As questões do advogado sozinhas não chegam, porque não trazem o código e perdem a narrativa. O que falta, por ordem:
 1. Fazer do passo de partir o caso uma peça do sistema e medi-la também com outro modelo. A peça está em `rag/caso.py` (26/11/2026), com as regras em `rag/CASO-PARTIR.md` e `rag/CASO-ANALISE.md`, as mesmas desta medição. O `medir.py --decomposicao` passou a usar essa pesquisa. As consultas escritas pelo Sonnet e pelo Haiku estão medidas na secção «A peça do sistema e outro modelo».
-2. Garantir os artigos dos prazos e das formalidades, onde estão as erradas.
+2. Garantir os artigos dos prazos e das formalidades, onde estão as erradas. Feito em parte com a 2.ª volta (secção acima): 10 → 14 de 16 certas nos casos novos. Falta a conta dos prazos que juntam duas regras (dilação, férias judiciais).
 3. Pôr um advogado a rever os casos e as análises.
 
 ## Ficheiros
 
 - `casos.jsonl`: os 39 casos.
+- `casos2.jsonl`: os 16 casos novos, para confirmar mudanças desenhadas nos 39.
+- `completar.py`: a 2.ª volta por lotes (os artigos que a análise disse que faltavam).
 - `REGRAS.md`: como se escrevem e o que não se pode abrir.
 - `artigo.py`: ler artigos do acervo e verificar os casos.
 - `medir.py`: a medição da pesquisa (e a exportação para o LLM, `--exportar`).

@@ -89,3 +89,37 @@ def test_analisar_com_um_provedor_falso(monkeypatch):
     a = caso.analisar(Pesquisa({"q1": [_r("CT", "351.º")]}), "pedido", "2026-11-26")
     assert a.responde and a.decomposicao.consultas == ["q1"] and a.seccoes == {"o_que_fazer": "Resolver [1]."}
     assert len(pedidos) == 2 and "O que fazer" in caso.mostrar(a)
+
+
+def test_completar_traz_so_artigos_novos():
+    a, b, c, d = _r("CT", "351.º"), _r("CT", "387.º"), _r("CC", "498.º"), _r("CC", "279.º")
+    pesquisa = Pesquisa({"prazo da ação de impugnação": [a, b, d], "prescrição da indemnização": [c, d, b]})
+    novos = caso.completar(pesquisa, {("CT", "351.º")}, ["prazo da ação de impugnação", "prescrição da indemnização"], "2026-11-26")
+    assert [r.chave for r in novos] == ["387.º", "498.º", "279.º"]
+    assert caso.completar(pesquisa, {("CT", "351.º")}, [], "2026-11-26") == []
+
+
+def test_analisar_faz_segunda_volta_com_o_que_falta(monkeypatch):
+    monkeypatch.setattr(caso, "llm_disponivel", lambda: True)
+    monkeypatch.setattr(provedores, "descricao", lambda: "falso")
+    monkeypatch.setattr(provedores, "aviso_medicao", lambda: None)
+    mensagens = []
+
+    def escrever(sistema, mensagem, *, max_tokens, esforco):
+        if sistema == caso.instrucoes_partir():
+            return provedores.Escrita(json.dumps({"consultas": ["q1"]}))
+        mensagens.append(mensagem)
+        if len(mensagens) == 1:
+            return provedores.Escrita(json.dumps({"responde": True, "analise": {"prazos": "Não encontrei o prazo [1]."},
+                                                  "citacoes": [1], "falta": ["prazo da ação de impugnação"]}))
+        assert "[2] CT, art. 387.º" in mensagem
+        return provedores.Escrita(json.dumps({"responde": True, "analise": {"prazos": "60 dias [2]."}, "citacoes": [2]}))
+
+    monkeypatch.setattr(provedores, "escrever", escrever)
+    pesquisa = Pesquisa({"q1": [_r("CT", "351.º")], "prazo da ação de impugnação": [_r("CT", "351.º"), _r("CT", "387.º")]})
+    a = caso.analisar(pesquisa, "pedido", "2026-11-26")
+    assert len(mensagens) == 2 and a.completada and a.falta == ["prazo da ação de impugnação"]
+    assert [r.chave for r in a.citacoes] == ["387.º"] and len(a.artigos) == 2
+    mensagens.clear()
+    sem = caso.analisar(pesquisa, "pedido", "2026-11-26", completar_falta=False)
+    assert not sem.completada and len(sem.artigos) == 1
