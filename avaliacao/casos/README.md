@@ -122,10 +122,10 @@ Depois a análise com o LLM: os 16 primeiros da variante com artigos, as mesmas 
 | Consultas escritas por | Opus | Sonnet | Haiku |
 |---|--:|--:|--:|
 | Consultas / artigos prováveis | 224 / 200 | 220 / 173 | 197 / 85 |
-| Essenciais em 1.º | 31 | 24 | (a medir) |
-| Essenciais nos 8 primeiros | 127 de 161 | 116 de 161 | (a medir) |
-| Essenciais nos 16 dados ao LLM | 144 | 131 | — |
-| Casos com todos os essenciais nos 8 | 18 | 16 | (a medir) |
+| Essenciais em 1.º | 31 | 24 | 22 |
+| Essenciais nos 8 primeiros | 127 de 161 | 116 de 161 | 90 de 161 |
+| Essenciais nos 16 dados ao LLM | 144 | 131 | 108 |
+| Casos com todos os essenciais nos 8 | 18 | 16 | 7 |
 
 | Análise com LLM (os 2 juízes) | Certas | Erradas para algum juiz |
 |---|--:|--:|
@@ -142,12 +142,13 @@ Depois a análise com o LLM: os 16 primeiros da variante com artigos, as mesmas 
   - `caso-trab-03` e `caso-trab-05`: errada para um dos juízes.
 - **Concordância dos juízes:** 35 de 39 casos com o mesmo veredicto no Sonnet de ponta a ponta e 36 de 39 com os artigos do Opus.
 - **Ressalvas:** os juízes são Opus e a referência foi escrita por Opus. Isto não é o mesmo que um jurista. No contexto do Opus, as análises de um dos lotes do Sonnet passaram as 400 palavras pedidas (439 a 525).
+- **O Haiku** escreve consultas mais curtas e lista menos de metade dos artigos prováveis: fica em 90 de 161 essenciais nos 8 primeiros, acima do texto inteiro (33), mas longe do Opus. A análise com as consultas dele não foi medida.
 - **O que fica:** partir o caso é o passo que pede o modelo melhor. A análise, com os artigos certos, aguenta um modelo mais barato.
 
-Os ficheiros estão em `resultados/sonnet/` e `resultados/sonnet-contexto-opus/`, e os números em `rag/resultados/casos-llm-sonnet.json`, `casos-llm-sonnet-ctxopus.json` e `casos-fluxo-sonnet.json`.
+Os ficheiros estão em `resultados/sonnet/` e `resultados/sonnet-contexto-opus/`, e os números em `rag/resultados/casos-llm-sonnet.json`, `casos-llm-sonnet-ctxopus.json` `casos-fluxo-sonnet.json` e `casos-fluxo-haiku.json`.
 
 **O que isto quer dizer.** Com os artigos certos à frente, o raciocínio chega lá em quase todos os casos (com a ressalva acima). Com a pesquisa de hoje, chega em 5 de 39. Partir o caso em consultas jurídicas, com o código e o vocabulário da lei, leva a 31 de 39. As questões do advogado sozinhas não chegam, porque não trazem o código e perdem a narrativa. O que falta, por ordem:
-1. Fazer do passo de partir o caso uma peça do sistema e medi-la também com outro modelo. A peça está em `rag/caso.py` (26/11/2026), com as regras em `rag/CASO-PARTIR.md` e `rag/CASO-ANALISE.md`, as mesmas desta medição. O `medir.py --decomposicao` passou a usar essa pesquisa. As consultas escritas pelo Sonnet e pelo Haiku, com as mesmas regras, estão em `decomposicao-sonnet/` e `decomposicao-haiku/`. A medição delas ainda não está feita.
+1. Fazer do passo de partir o caso uma peça do sistema e medi-la também com outro modelo. A peça está em `rag/caso.py` (26/11/2026), com as regras em `rag/CASO-PARTIR.md` e `rag/CASO-ANALISE.md`, as mesmas desta medição. O `medir.py --decomposicao` passou a usar essa pesquisa. As consultas escritas pelo Sonnet e pelo Haiku estão medidas na secção «A peça do sistema e outro modelo».
 2. Garantir os artigos dos prazos e das formalidades, onde estão as erradas.
 3. Pôr um advogado a rever os casos e as análises.
 
