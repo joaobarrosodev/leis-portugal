@@ -1,0 +1,358 @@
+{
+ "resumo": {
+  "casos": 16,
+  "com_falta": 16,
+  "completados": 16,
+  "consultas_em_falta": 52,
+  "artigos_acrescentados": 96,
+  "contas_pedidas": 47,
+  "casos_com_contas": 15,
+  "essenciais": 69,
+  "essenciais_antes": 63,
+  "essenciais_depois": 65,
+  "casos_com_todos_antes": 11,
+  "casos_com_todos_depois": 12
+ },
+ "casos": [
+  {
+   "id": "caso2-trab-01",
+   "falta": [
+    "Código do Trabalho prescrição dos créditos do trabalhador emergentes do contrato de trabalho após a cessação",
+    "Código do Trabalho transferência do trabalhador para outro local de trabalho por iniciativa do empregador",
+    "Código do Trabalho feriados obrigatórios lista para a contagem dos dias úteis",
+    "Código Civil eficácia da declaração negocial recetícia chegada ao poder do destinatário ou dele conhecida"
+   ],
+   "acrescentados": [
+    "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 337.º — Prescrição e prova de crédito",
+    "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 194.º — Transferência de local de trabalho",
+    "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 234.º — Feriados obrigatórios",
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 224.º — (Eficácia da declaração negocial)",
+    "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 336.º — Fundo de Garantia Salarial",
+    "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 411.º — Protecção em caso de transferência",
+    "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 238.º — Duração do período de férias",
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 235.º — (Revogação da aceitação ou da rejeição)"
+   ],
+   "contas_pedidas": 5,
+   "contas": "(1) Designação da comissão representativa [286.º, n.º 7, do CT]: termina a 10/11/2026, já passou a 26/11/2026. Conta (uteis): 5 dias úteis a partir do dia seguinte a 03/11/2026, sem sábados, domingos e feriados.\n(2) Comunicação escrita da oposição à transmissão [286.º-A, n.º 3, do CT]: termina a 17/11/2026, já passou a 26/11/2026. Conta (uteis): 5 dias úteis a partir do dia seguinte a 10/11/2026, sem sábados, domingos e feriados.\n(3) Data a partir da qual a transmissão pode ter lugar [285.º, n.º 7, do CT]: termina a 19/11/2026, já passou a 26/11/2026. Conta (uteis): 7 dias úteis a partir do dia seguinte a 10/11/2026, sem sábados, domingos e feriados.\n(4) Resolução do contrato, contagem prudente desde a carta [395.º, n.º 1, do CT]: termina a 03/12/2026, ainda não passou a 26/11/2026. Conta (civil): 30 dias a contar de 03/11/2026, sem contar esse dia: 03/12/2026.\n(5) Resolução do contrato, contagem desde a transmissão [395.º, n.º 1, do CT]: termina a 31/12/2026, ainda não passou a 26/11/2026. Conta (civil): 30 dias a contar de 01/12/2026, sem contar esse dia: 31/12/2026.\nNão conta feriados municipais nem tolerâncias de ponto.",
+   "essenciais": 5,
+   "antes": 5,
+   "depois": 5
+  },
+  {
+   "id": "caso2-trab-02",
+   "falta": [
+    "Código da Insolvência e da Recuperação de Empresas citação dos credores por anúncio e início do prazo de reclamação de créditos",
+    "Código da Insolvência e da Recuperação de Empresas caráter urgente do processo de insolvência e prazos durante as férias judiciais",
+    "Código do Trabalho indemnização do trabalhador que resolve o contrato com justa causa por falta de pagamento da retribuição",
+    "Código do Trabalho momento do cumprimento e vencimento da retribuição mensal",
+    "Código Civil interrupção da prescrição pela citação ou notificação judicial de ato que exprima a intenção de exercer o direito",
+    "Fundo de Garantia Salarial requerimento de pagamento instrução do pedido e prazo de decisão"
+   ],
+   "acrescentados": [
+    "Decreto-Lei n.º 53/2004, de 2004-03-18 › Anexo — CÓDIGO DA INSOLVÊNCIA E DA RECUPERAÇÃO DE EMPRESAS › Artigo 75.º — Convocação da assembleia de credores",
+    "Decreto-Lei n.º 53/2004, de 2004-03-18 › Anexo — CÓDIGO DA INSOLVÊNCIA E DA RECUPERAÇÃO DE EMPRESAS › Artigo 9.º — Carácter urgente do processo de insolvência e publicações obrigatórias",
+    "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 396.º — Indemnização ou compensação devida ao trabalhador",
+    "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 278.º — Tempo do cumprimento",
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 323.º — (Interrupção promovida pelo titular)",
+    "Lei n.º 70/2013, de 2013-08-30 › Artigo 47.º — Prazo de apreciação",
+    "Decreto-Lei n.º 53/2004, de 2004-03-18 › Anexo — CÓDIGO DA INSOLVÊNCIA E DA RECUPERAÇÃO DE EMPRESAS › Artigo 256.º — Notificação dos credores",
+    "Decreto-Lei n.º 53/2004, de 2004-03-18 › Anexo — CÓDIGO DA INSOLVÊNCIA E DA RECUPERAÇÃO DE EMPRESAS › Artigo 17.º-A — Finalidade e natureza do processo especial de revitalização"
+   ],
+   "contas_pedidas": 4,
+   "contas": "(1) Reclamação de créditos, contagem prudente desde a sentença [128.º, n.º 1, do CIRE (prazo fixado na sentença)]: termina a 30/11/2026, ainda não passou a 26/11/2026. Conta (processual_urgente): 30 dias sem suspensão em férias a contar de 30/10/2026, sem contar esse dia: 29/11/2026; o termo, 29/11/2026, cai em dia em que tribunais ou serviços estão fechados: 1.º dia útil seguinte (CPC 138.º, n.º 2; CPA 87.º, f)): 30/11/2026.\n(2) Reclamação de créditos, contagem desde o anúncio no Citius com dilação [128.º, n.º 1, do CIRE (artigo do início da contagem não encontrado)]: termina a 09/12/2026, ainda não passou a 26/11/2026. Conta (processual_urgente): 5 dias de dilação contados com o prazo (CPC 142.º); 30 dias sem suspensão em férias a contar de 08/11/2026, sem contar esse dia: 08/12/2026; o termo, 08/12/2026, cai em dia em que tribunais ou serviços estão fechados: 1.º dia útil seguinte (CPC 138.º, n.º 2; CPA 87.º, f)): 09/12/2026.\n(3) Prescrição dos créditos laborais [337.º, n.º 1, do CT]: termina a 03/07/2027, ainda não passou a 26/11/2026. Conta (civil): 1 anos a contar de 03/07/2026, sem contar esse dia: 03/07/2027.\n(4) Requerimento ao Fundo de Garantia Salarial, sem a suspensão do n.º 9 [2.º, n.º 8, do regime anexo ao DL 59/2015]: termina a 03/07/2027, ainda não passou a 26/11/2026. Conta (civil): 1 anos a contar de 03/07/2026, sem contar esse dia: 03/07/2027.\nNão conta feriados municipais nem tolerâncias de ponto.",
+   "essenciais": 5,
+   "antes": 4,
+   "depois": 4
+  },
+  {
+   "id": "caso2-arr-01",
+   "falta": [
+    "Código Civil arrendamento urbano caução e antecipação de rendas restituição ao arrendatário no termo do contrato",
+    "Código Civil nulidade do negócio jurídico celebrado contra disposição legal de carácter imperativo"
+   ],
+   "acrescentados": [
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 1076.º — Antecipação de rendas",
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 294.º — (Negócios celebrados contra a lei)",
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 1069.º — Forma",
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 433.º — (Efeitos entre as partes)"
+   ],
+   "contas_pedidas": 2,
+   "contas": "(1) Decurso de um terço do prazo inicial do contrato [1098.º, n.º 3, do CC]: termina a 31/01/2026, já passou a 26/11/2026. Conta (civil): 1 anos a contar de 31/01/2025, sem contar esse dia: 31/01/2026.\n(2) Antecedência legal da denúncia pela arrendatária [1098.º, n.os 3, alínea a), e 5, do CC]: termina a 04/03/2027, ainda não passou a 26/11/2026. Conta (civil): 120 dias a contar de 04/11/2026, sem contar esse dia: 04/03/2027.\nNão conta feriados municipais nem tolerâncias de ponto.",
+   "essenciais": 3,
+   "antes": 3,
+   "depois": 3
+  },
+  {
+   "id": "caso2-arr-02",
+   "falta": [
+    "Código de Processo Civil procedimento cautelar comum requisitos fundado receio de lesão grave e dificilmente reparável",
+    "Código Civil responsabilidade do condomínio por danos causados na fração autónoma pelas partes comuns do edifício",
+    "Código Civil reembolso ao condómino das despesas com reparações indispensáveis e urgentes nas partes comuns"
+   ],
+   "acrescentados": [
+    "Lei n.º 41/2013, de 2013-06-26 › Anexo — CÓDIGO DE PROCESSO CIVIL › Artigo 362.º — Âmbito das providências cautelares não especificadas",
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 1429.º — (Seguro obrigatório)",
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 1036.º — (Reparações ou outras despesas urgentes)",
+    "Lei n.º 41/2013, de 2013-06-26 › Anexo — CÓDIGO DE PROCESSO CIVIL › Artigo 365.º — Processamento",
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 492.º — (Danos causados por edifícios ou outras obras)",
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 468.º — (Obrigações do dono do negócio)"
+   ],
+   "contas_pedidas": 4,
+   "contas": "(1) Pedido de assembleia extraordinária para revogação [1433.º, n.º 2, do CC]: termina a 26/10/2026, já passou a 26/11/2026. Conta (civil): 10 dias a contar de 15/10/2026, sem contar esse dia: 25/10/2026; o termo, 25/10/2026, cai em domingo ou feriado: primeiro dia útil (CC 279.º, e)): 26/10/2026.\n(2) Submissão da deliberação a centro de arbitragem [1433.º, n.º 3, do CC]: termina a 14/11/2026, já passou a 26/11/2026. Conta (civil): 30 dias a contar de 15/10/2026, sem contar esse dia: 14/11/2026.\n(3) Ação de anulação da deliberação [1433.º, n.º 4, do CC]: termina a 14/12/2026, ainda não passou a 26/11/2026. Conta (civil_em_juizo): 60 dias a contar de 15/10/2026, sem contar esse dia: 14/12/2026.\n(4) Requerimento de suspensão da deliberação [380.º, n.os 1 e 3, ex vi 383.º do CPC e 1433.º, n.º 5, do CC]: termina a 26/10/2026, já passou a 26/11/2026. Conta (civil_em_juizo): 10 dias a contar de 15/10/2026, sem contar esse dia: 25/10/2026; o termo, 25/10/2026, cai em domingo, feriado ou férias judiciais, por ser ato em juízo: primeiro dia útil (CC 279.º, e)): 26/10/2026.\nNão conta feriados municipais nem tolerâncias de ponto.",
+   "essenciais": 5,
+   "antes": 5,
+   "depois": 5
+  },
+  {
+   "id": "caso2-cons-01",
+   "falta": [
+    "Decreto-Lei 84/2021 requisitos objetivos de conformidade dos bens durabilidade e desgaste normal de bens usados",
+    "Decreto-Lei 84/2021 âmbito de aplicação e relação com o regime da venda de coisa defeituosa do Código Civil",
+    "Decreto-Lei 84/2021 resolução do contrato compensação ao profissional pela utilização do bem pelo consumidor"
+   ],
+   "acrescentados": [
+    "Decreto-Lei n.º 84/2021, de 2021-10-18 › Artigo 7.º — Requisitos objetivos de conformidade",
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 918.º — (Defeito superveniente)",
+    "Decreto-Lei n.º 84/2021, de 2021-10-18 › Artigo 36.º — Obrigações do profissional em caso de resolução",
+    "Decreto-Lei n.º 84/2021, de 2021-10-18 › Artigo 6.º — Requisitos subjetivos de conformidade",
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 904.º — (Âmbito desta secção)",
+    "Decreto-Lei n.º 84/2021, de 2021-10-18 › Artigo 37.º — Obrigações do consumidor em caso de resolução"
+   ],
+   "contas_pedidas": 5,
+   "contas": "(1) Responsabilidade do profissional pela falta de conformidade [12.º, n.os 1 e 3, do DL 84/2021]: termina a 14/03/2028, ainda não passou a 26/11/2026. Conta (civil): 3 anos a contar de 14/03/2025, sem contar esse dia: 14/03/2028.\n(2) Presunção de existência da falta na entrega [13.º, n.º 1, do DL 84/2021]: termina a 15/03/2027, ainda não passou a 26/11/2026. Conta (civil): 2 anos a contar de 14/03/2025, sem contar esse dia: 14/03/2027; o termo, 14/03/2027, cai em domingo ou feriado: primeiro dia útil (CC 279.º, e)): 15/03/2027.\n(3) Direito de rejeição [16.º do DL 84/2021]: termina a 14/04/2025, já passou a 26/11/2026. Conta (civil): 30 dias a contar de 14/03/2025, sem contar esse dia: 13/04/2025; o termo, 13/04/2025, cai em domingo ou feriado: primeiro dia útil (CC 279.º, e)): 14/04/2025.\n(4) Garantia contratual de 18 meses (cláusula ineficaz) [12.º, n.º 3, do DL 84/2021]: termina a 14/09/2026, já passou a 26/11/2026. Conta (civil): 18 meses a contar de 14/03/2025, sem contar esse dia: 14/09/2026.\n(5) Caducidade dos direitos do consumidor [17.º, n.º 1, do DL 84/2021]: termina a 23/10/2028, ainda não passou a 26/11/2026. Conta (civil_em_juizo): 2 anos a contar de 22/10/2026, sem contar esse dia: 22/10/2028; o termo, 22/10/2028, cai em domingo, feriado ou férias judiciais, por ser ato em juízo: primeiro dia útil (CC 279.º, e)): 23/10/2028.\nNão conta feriados municipais nem tolerâncias de ponto.",
+   "essenciais": 4,
+   "antes": 4,
+   "depois": 4
+  },
+  {
+   "id": "caso2-cons-02",
+   "falta": [
+    "Código do Trabalho caducidade do contrato de trabalho a termo certo comunicação de não renovação pelo empregador",
+    "Lei das Comunicações Eletrónicas efeitos da falta de resposta do utilizador final ao aviso de alteração das condições contratuais"
+   ],
+   "acrescentados": [
+    "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 344.º — Caducidade de contrato de trabalho a termo certo",
+    "Lei n.º 16/2022, de 2022-08-16 › Anexo — LEI DAS COMUNICAÇÕES ELETRÓNICAS › Artigo 127.º — Suspensão e extinção do serviço prestado a utilizadores finais não consumidores",
+    "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 144.º — Informações relativas a contrato de trabalho a termo",
+    "Lei n.º 16/2022, de 2022-08-16 › Anexo — LEI DAS COMUNICAÇÕES ELETRÓNICAS › Artigo 89.º — Acesso a infraestruturas"
+   ],
+   "contas_pedidas": 4,
+   "contas": "(1) Resolução sem custos por alteração das condições [135.º, n.º 5, da LCE]: termina a 02/10/2026, já passou a 26/11/2026. Conta (civil): 30 dias a contar de 02/09/2026, sem contar esse dia: 02/10/2026.\n(2) Pré-aviso da cessação por desemprego, se a carta de 21/10 estava instruída [133.º, n.º 2, da LCE]: termina a 20/11/2026, já passou a 26/11/2026. Conta (civil): 30 dias a contar de 21/10/2026, sem contar esse dia: 20/11/2026.\n(3) Suspensão por desemprego que origina caducidade, se pedida hoje [137.º, n.º 4, da LCE]: termina a 25/05/2027, ainda não passou a 26/11/2026. Conta (civil): 180 dias a contar de 26/11/2026, sem contar esse dia: 25/05/2027.\n(4) Fim do período de fidelização [131.º, n.º 3, da LCE e contrato]: termina a 03/02/2027, ainda não passou a 26/11/2026. Conta (civil): 24 meses a contar de 03/02/2025, sem contar esse dia: 03/02/2027.\nNão conta feriados municipais nem tolerâncias de ponto.",
+   "essenciais": 3,
+   "antes": 3,
+   "depois": 3
+  },
+  {
+   "id": "caso2-fam-01",
+   "falta": [
+    "Código Penal prazo para exercício do direito de queixa a contar do conhecimento do facto e dos seus autores",
+    "Regime Geral do Processo Tutelar Cível alteração da pensão de alimentos fixada por circunstâncias supervenientes",
+    "Fundo de Garantia dos Alimentos Devidos a Menores requerimento ao tribunal e início do pagamento das prestações"
+   ],
+   "acrescentados": [
+    "Decreto-Lei n.º 48/95, de 1995-03-15 › Anexo — CÓDIGO PENAL › Artigo 115.º — Extinção do direito de queixa",
+    "Lei n.º 41/2013, de 2013-06-26 › Anexo — CÓDIGO DE PROCESSO CIVIL › Artigo 282.º — Renovação da instância",
+    "Decreto-Lei n.º 164/99, de 1999-05-13 › Artigo 4.º — Atribuição das prestações de alimentos",
+    "Decreto-Lei n.º 48/95, de 1995-03-15 › Anexo — CÓDIGO PENAL › Artigo 178.º — Queixa",
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 2012.º — (Alteração dos alimentos fixados)",
+    "Acórdão do Supremo Tribunal de Justiça n.º 12/2009, de 2009-08-05"
+   ],
+   "contas_pedidas": 3,
+   "contas": "(1) Desconto no salário, prestação de julho [48.º, n.º 1, do RGPTC]: termina a 18/07/2026, já passou a 26/11/2026. Conta (civil): 10 dias a contar de 08/07/2026, sem contar esse dia: 18/07/2026.\n(2) Consumação do crime, prestação de julho [250.º, n.º 1, do Código Penal]: termina a 08/09/2026, já passou a 26/11/2026. Conta (civil): 2 meses a contar de 08/07/2026, sem contar esse dia: 08/09/2026.\n(3) Consumação do crime, prestação de novembro [250.º, n.º 1, do Código Penal]: termina a 08/01/2027, ainda não passou a 26/11/2026. Conta (civil): 2 meses a contar de 08/11/2026, sem contar esse dia: 08/01/2027.\nNão conta feriados municipais nem tolerâncias de ponto.",
+   "essenciais": 4,
+   "antes": 3,
+   "depois": 4
+  },
+  {
+   "id": "caso2-fam-02",
+   "falta": [
+    "Código Civil regime de bens supletivo comunhão de adquiridos no casamento celebrado sem convenção antenupcial",
+    "Código Civil bens comuns na comunhão de adquiridos produto do trabalho dos cônjuges",
+    "acórdão uniformizador de jurisprudência prova da proveniência de dinheiro próprio na aquisição de bens pelos cônjuges sem menção no título",
+    "Código do Registo Predial registo da ação de anulação e proteção do terceiro adquirente de boa-fé"
+   ],
+   "acrescentados": [
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 1717.º — (Regime de bens supletivo)",
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 1724.º — (Bens integrados na comunhão)",
+    "Acórdão do Supremo Tribunal de Justiça n.º 12/2015, de 2015-10-13",
+    "Decreto-Lei n.º 224/84, de 1984-07-06 › Anexo — CÓDIGO DO REGISTO PREDIAL › Artigo 17.º — (Declaração da nulidade)",
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 1721.º — (Normas aplicáveis)",
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 1696.º — (Bens que respondem pelas dívidas da exclusiva responsabilidade de um dos cônjuges)",
+    "Acórdão do Supremo Tribunal de Justiça n.º 12/2015, de 2015-10-13",
+    "Decreto-Lei n.º 224/84, de 1984-07-06 › Anexo — CÓDIGO DO REGISTO PREDIAL › Artigo 3.º — (Acções, decisões, procedimentos e providências sujeitos a registo)"
+   ],
+   "contas_pedidas": 2,
+   "contas": "(1) Ação de anulação da venda, desde o conhecimento [1687.º, n.º 2, do CC]: termina a 20/01/2027, ainda não passou a 26/11/2026. Conta (civil_em_juizo): 6 meses a contar de 20/07/2026, sem contar esse dia: 20/01/2027.\n(2) Limite absoluto da anulação, desde a venda [1687.º, n.º 2, do CC]: termina a 04/06/2029, ainda não passou a 26/11/2026. Conta (civil_em_juizo): 3 anos a contar de 03/06/2026, sem contar esse dia: 03/06/2029; o termo, 03/06/2029, cai em domingo, feriado ou férias judiciais, por ser ato em juízo: primeiro dia útil (CC 279.º, e)): 04/06/2029.\nNão conta feriados municipais nem tolerâncias de ponto.",
+   "essenciais": 5,
+   "antes": 5,
+   "depois": 5
+  },
+  {
+   "id": "caso2-resp-01",
+   "falta": [
+    "Código Civil interrupção da prescrição pela citação ou notificação judicial de ato que exprima a intenção de exercer o direito",
+    "Código Civil responsabilidade civil por factos ilícitos pressupostos ilicitude culpa dano e nexo de causalidade",
+    "Código Civil indemnização de danos futuros previsíveis e fixação ulterior da indemnização"
+   ],
+   "acrescentados": [
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 323.º — (Interrupção promovida pelo titular)",
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 998.º — (Responsabilidade por factos ilícitos)",
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 564.º — (Cálculo da indemnização)",
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 327.º — (Duração da interrupção)",
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 499.º — (Disposições aplicáveis)",
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 565.º — (Indemnização provisória)"
+   ],
+   "contas_pedidas": 1,
+   "contas": "(1) Prescrição do direito de indemnização [498.º, n.º 1, do CC]: termina a 14/06/2029, ainda não passou a 26/11/2026. Conta (civil_em_juizo): 3 anos a contar de 14/06/2026, sem contar esse dia: 14/06/2029.\nNão conta feriados municipais nem tolerâncias de ponto.",
+   "essenciais": 5,
+   "antes": 4,
+   "depois": 4
+  },
+  {
+   "id": "caso2-resp-02",
+   "falta": [
+    "Código Civil prescrição do direito de indemnização por responsabilidade civil extracontratual a contar do conhecimento do direito",
+    "Código Civil suspensão da prescrição entre os cônjuges na constância do matrimónio",
+    "Código Civil responsabilidade civil por factos ilícitos culpa do lesante e indemnização de danos materiais",
+    "seguro obrigatório de responsabilidade civil automóvel capital mínimo obrigatório por sinistro para danos corporais",
+    "seguro obrigatório automóvel prazos da empresa de seguros para assumir a responsabilidade e apresentar proposta razoável",
+    "Decreto-Lei 26/2025 seguro obrigatório automóvel entrada em vigor e aplicação aos acidentes ocorridos"
+   ],
+   "acrescentados": [
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 498.º — (Prescrição)",
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 318.º — (Causas bilaterais da suspensão)",
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 570.º — (Culpa do lesado)",
+    "Acórdão n.º 3/2004, de 2004-05-13",
+    "Decreto-Lei n.º 26/2025, de 2025-03-20 › ANEXO — (a que se refere o artigo 6.º) › Artigo 36.º — Diligência e prontidão da empresa de seguros",
+    "Decreto-Lei n.º 26/2025, de 2025-03-20 › ANEXO — (a que se refere o artigo 6.º) › Artigo 93.º — Relatório sobre a aplicação de algumas soluções",
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 482.º — (Prescrição)",
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 1292.º — (Aplicação das regras da prescrição)"
+   ],
+   "contas_pedidas": 0,
+   "contas": "",
+   "essenciais": 5,
+   "antes": 5,
+   "depois": 5
+  },
+  {
+   "id": "caso2-emp-01",
+   "falta": [
+    "Código da Insolvência e da Recuperação de Empresas citação dos credores por edital anúncio no portal Citius dilação início do prazo de reclamação de créditos",
+    "Código de Processo Civil continuidade dos prazos processuais termo em dia em que os tribunais estiverem encerrados transferência para o primeiro dia útil"
+   ],
+   "acrescentados": [
+    "Decreto-Lei n.º 53/2004, de 2004-03-18 › Anexo — CÓDIGO DA INSOLVÊNCIA E DA RECUPERAÇÃO DE EMPRESAS › Artigo 222.º-D — Tramitação subsequente",
+    "Lei n.º 41/2013, de 2013-06-26 › Anexo — CÓDIGO DE PROCESSO CIVIL › Artigo 138.º — Regra da continuidade dos prazos",
+    "Decreto-Lei n.º 53/2004, de 2004-03-18 › Anexo — CÓDIGO DA INSOLVÊNCIA E DA RECUPERAÇÃO DE EMPRESAS › Artigo 17.º-D — Tramitação subsequente",
+    "Lei n.º 41/2013, de 2013-06-26 › Anexo — CÓDIGO DE PROCESSO CIVIL › Artigo 137.º — Quando se praticam os atos"
+   ],
+   "contas_pedidas": 4,
+   "contas": "(1) Reclamação de créditos no prazo fixado na sentença, desde o anúncio [128.º, n.º 1, CIRE]: termina a 02/11/2026, já passou a 26/11/2026. Conta (processual_urgente): 30 dias sem suspensão em férias a contar de 02/10/2026, sem contar esse dia: 01/11/2026; o termo, 01/11/2026, cai em dia em que tribunais ou serviços estão fechados: 1.º dia útil seguinte (CPC 138.º, n.º 2; CPA 87.º, f)): 02/11/2026.\n(2) Apresentação das listas de credores pelo administrador [129.º, n.º 1, CIRE]: termina a 17/11/2026, já passou a 26/11/2026. Conta (processual_urgente): 15 dias sem suspensão em férias a contar de 02/11/2026, sem contar esse dia: 17/11/2026.\n(3) Impugnação da lista de credores reconhecidos [130.º, n.º 1, CIRE]: termina a 27/11/2026, ainda não passou a 26/11/2026. Conta (processual_urgente): 10 dias sem suspensão em férias a contar de 17/11/2026, sem contar esse dia: 27/11/2026.\n(4) Ação de verificação ulterior de créditos [146.º, n.º 2, b), CIRE]: termina a 26/04/2027, ainda não passou a 26/11/2026. Conta (civil_em_juizo): 6 meses a contar de 26/10/2026, sem contar esse dia: 26/04/2027.\nNão conta feriados municipais nem tolerâncias de ponto.",
+   "essenciais": 5,
+   "antes": 4,
+   "depois": 4
+  },
+  {
+   "id": "caso2-emp-02",
+   "falta": [
+    "Código da Insolvência impugnação da resolução de atos em benefício da massa insolvente início do prazo de caducidade comunicação ao terceiro",
+    "Código da Insolvência verificação ulterior de créditos prazo para crédito constituído após a declaração de insolvência"
+   ],
+   "acrescentados": [
+    "Decreto-Lei n.º 53/2004, de 2004-03-18 › Anexo — CÓDIGO DA INSOLVÊNCIA E DA RECUPERAÇÃO DE EMPRESAS › Artigo 220.º — Fiscalização",
+    "Decreto-Lei n.º 53/2004, de 2004-03-18 › Anexo — CÓDIGO DA INSOLVÊNCIA E DA RECUPERAÇÃO DE EMPRESAS › Artigo 146.º — Verificação ulterior de créditos ou de outros direitos",
+    "Decreto-Lei n.º 53/2004, de 2004-03-18 › Anexo — CÓDIGO DA INSOLVÊNCIA E DA RECUPERAÇÃO DE EMPRESAS › Artigo 112.º — Procurações",
+    "Decreto-Lei n.º 53/2004, de 2004-03-18 › Anexo — CÓDIGO DA INSOLVÊNCIA E DA RECUPERAÇÃO DE EMPRESAS › Artigo 128.º — Reclamação de créditos"
+   ],
+   "contas_pedidas": 3,
+   "contas": "(1) Resolução pelo administrador desde o conhecimento do ato [123.º, n.º 1, CIRE]: termina a 20/10/2026, já passou a 26/11/2026. Conta (civil): 6 meses a contar de 20/04/2026, sem contar esse dia: 20/10/2026.\n(2) Limite absoluto da resolução desde a declaração de insolvência [123.º, n.º 1, CIRE]: termina a 10/03/2028, ainda não passou a 26/11/2026. Conta (civil): 2 anos a contar de 10/03/2026, sem contar esse dia: 10/03/2028.\n(3) Ação de impugnação da resolução [125.º CIRE]: termina a 10/12/2026, ainda não passou a 26/11/2026. Conta (civil_em_juizo): 3 meses a contar de 10/09/2026, sem contar esse dia: 10/12/2026.\nNão conta feriados municipais nem tolerâncias de ponto.",
+   "essenciais": 5,
+   "antes": 5,
+   "depois": 5
+  },
+  {
+   "id": "caso2-adm-01",
+   "falta": [
+    "Código do Procedimento Administrativo contagem dos prazos do procedimento em dias úteis suspensão aos sábados domingos e feriados",
+    "Lei de acesso aos documentos administrativos restrições ao direito de acesso documentos nominativos segredo comercial de terceiros acesso parcial",
+    "Código de Processo nos Tribunais Administrativos intimação para prestação de informações tramitação prazo de resposta da entidade e decisão"
+   ],
+   "acrescentados": [
+    "Decreto-Lei n.º 4/2015, de 2015-01-07 › Anexo — CÓDIGO DO PROCEDIMENTO ADMINISTRATIVO › Artigo 87.º — Contagem dos prazos",
+    "Lei n.º 26/2016, de 2016-08-22 › Artigo 6.º — Restrições ao direito de acesso",
+    "Lei n.º 15/2002, de 2002-02-22 › Anexo — CÓDIGO DE PROCESSO NOS TRIBUNAIS ADMINISTRATIVOS › Artigo 107.º — Tramitação",
+    "Decreto-Lei n.º 4/2015, de 2015-01-07 › Anexo — CÓDIGO DO PROCEDIMENTO ADMINISTRATIVO › Artigo 121.º — Direito de audiência prévia",
+    "Lei n.º 68/2021, de 2021-08-26 › Artigo 6.º — Restrições ao direito de acesso",
+    "Lei n.º 15/2002, de 2002-02-22 › Anexo — CÓDIGO DE PROCESSO NOS TRIBUNAIS ADMINISTRATIVOS › Artigo 177.º — Tramitação do processo"
+   ],
+   "contas_pedidas": 3,
+   "contas": "(1) Resposta da câmara ao pedido de acesso [15.º, n.º 1, Lei n.º 26/2016]: termina a 12/11/2026, já passou a 26/11/2026. Conta (uteis): 10 dias úteis a partir do dia seguinte a 29/10/2026, sem sábados, domingos e feriados.\n(2) Queixa à CADA por falta de resposta [16.º, n.º 1, Lei n.º 26/2016]: termina a 14/12/2026, ainda não passou a 26/11/2026. Conta (uteis): 20 dias úteis a partir do dia seguinte a 12/11/2026, sem sábados, domingos e feriados.\n(3) Pedido de intimação para acesso aos documentos [105.º, n.º 2, a), CPTA]: termina a 02/12/2026, ainda não passou a 26/11/2026. Conta (processual): 20 dias contínuos desde o dia seguinte a 12/11/2026.\nNão conta feriados municipais nem tolerâncias de ponto.",
+   "essenciais": 4,
+   "antes": 4,
+   "depois": 4
+  },
+  {
+   "id": "caso2-adm-02",
+   "falta": [
+    "Código Civil interrupção da prescrição citação ou notificação judicial de ato que exprima a intenção de exercer o direito",
+    "Código de Processo nos Tribunais Administrativos competência territorial ações de responsabilidade civil extracontratual tribunal do lugar do facto",
+    "regime jurídico das autarquias locais competência da câmara municipal conservação e sinalização das vias municipais"
+   ],
+   "acrescentados": [
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 323.º — (Interrupção promovida pelo titular)",
+    "Lei n.º 15/2002, de 2002-02-22 › Anexo — CÓDIGO DE PROCESSO NOS TRIBUNAIS ADMINISTRATIVOS › Artigo 18.º — Competência em matéria de responsabilidade civil",
+    "Decreto-Lei n.º 116/2019, de 2019-08-21 › Artigo 3.º — Exercício das competências",
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 327.º — (Duração da interrupção)",
+    "Lei n.º 15/2002, de 2002-02-22 › Anexo — CÓDIGO DE PROCESSO NOS TRIBUNAIS ADMINISTRATIVOS › Artigo 20.º — Outras regras de competência territorial",
+    "Lei n.º 2110, de 1961-08-19 › Artigo 28.º"
+   ],
+   "contas_pedidas": 1,
+   "contas": "(1) Prescrição do direito de indemnização [498.º, n.º 1, CC, por força do 5.º da Lei n.º 67/2007]: termina a 14/02/2029, ainda não passou a 26/11/2026. Conta (civil): 3 anos a contar de 14/02/2026, sem contar esse dia: 14/02/2029.\nNão conta feriados municipais nem tolerâncias de ponto.",
+   "essenciais": 5,
+   "antes": 5,
+   "depois": 5
+  },
+  {
+   "id": "caso2-trab-03",
+   "falta": [
+    "Código do Trabalho prazo para impugnar judicialmente o despedimento ação de apreciação da regularidade e licitude do despedimento",
+    "Código do Trabalho prescrição dos créditos emergentes de contrato de trabalho após a cessação",
+    "Código do Trabalho compensação pelas retribuições que o trabalhador deixou de auferir desde o despedimento até ao trânsito em julgado"
+   ],
+   "acrescentados": [
+    "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 387.º — Apreciação judicial do despedimento",
+    "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 337.º — Prescrição e prova de crédito",
+    "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 390.º — Compensação em caso de despedimento ilícito",
+    "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 388.º — Apreciação judicial do despedimento colectivo",
+    "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 333.º — Privilégios creditórios",
+    "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 393.º — Regras especiais relativas a contrato de trabalho a termo"
+   ],
+   "contas_pedidas": 5,
+   "contas": "(1) Fim do período experimental de 90 dias [112.º, n.º 1, a), CT]: termina a 29/08/2026, já passou a 26/11/2026. Conta (civil): 90 dias a contar de 31/05/2026, sem contar esse dia: 29/08/2026.\n(2) Limiar de 120 dias para o aviso prévio de 30 dias [114.º, n.º 3, CT]: termina a 28/09/2026, já passou a 26/11/2026. Conta (civil): 120 dias a contar de 31/05/2026, sem contar esse dia: 28/09/2026.\n(3) Fim do período experimental de 180 dias [112.º, n.º 1, b), i), CT]: termina a 27/11/2026, ainda não passou a 26/11/2026. Conta (civil): 180 dias a contar de 31/05/2026, sem contar esse dia: 27/11/2026.\n(4) Aviso prévio da denúncia pelo empregador [114.º, n.º 3, CT]: termina a 18/11/2026, já passou a 26/11/2026. Conta (civil): 30 dias a contar de 19/10/2026, sem contar esse dia: 18/11/2026.\n(5) Comunicação da denúncia à CITE [114.º, n.º 5, CT]: termina a 26/10/2026, já passou a 26/11/2026. Conta (uteis): 5 dias úteis a partir do dia seguinte a 19/10/2026, sem sábados, domingos e feriados.\nNão conta feriados municipais nem tolerâncias de ponto.",
+   "essenciais": 3,
+   "antes": 3,
+   "depois": 3
+  },
+  {
+   "id": "caso2-cons-03",
+   "falta": [
+    "Código Civil resolução do contrato declaração à outra parte efeitos retroativos restituição do que foi prestado",
+    "Lei de Defesa do Consumidor entrega dos bens prazo de entrega prazo adicional resolução do contrato reembolso do consumidor",
+    "Código Civil obrigações pecuniárias juros moratórios desde a constituição em mora"
+   ],
+   "acrescentados": [
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 289.º — (Efeitos da declaração de nulidade e da anulação)",
+    "Decreto-Lei n.º 84/2021, de 2021-10-18 › Artigo 11.º — Entrega do bem ao consumidor",
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 806.º — (Obrigações pecuniárias)",
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 434.º — (Retroactividade)",
+    "Directiva 2011/83/UE do Parlamento Europeu e do Conselho, de 25 de Outubro de 2011, de 2011-11-22 › Artigo 18.º — Entrega",
+    "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 805.º — (Momento da constituição em mora)"
+   ],
+   "contas_pedidas": 1,
+   "contas": "(1) Prazo adicional fixado pela credora para entregar [808.º, n.º 1, CC]: termina a 15/10/2026, já passou a 26/11/2026. Conta (civil): 24 dias a contar de 21/09/2026, sem contar esse dia: 15/10/2026.\nNão conta feriados municipais nem tolerâncias de ponto.",
+   "essenciais": 3,
+   "antes": 1,
+   "depois": 2
+  }
+ ]
+}

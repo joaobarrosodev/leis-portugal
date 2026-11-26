@@ -17,10 +17,12 @@ import subprocess
 import sys
 from pathlib import Path
 
+
 RAIZ = Path(__file__).resolve().parents[2]
 sys.path.insert(0, str(RAIZ))
 
 from rag.fontes import corpo, ler_artigos, normalizar  # noqa: E402
+
 
 _REVOGADO = re.compile(r"^\W*revogad[oa]", re.I)
 

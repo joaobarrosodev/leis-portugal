@@ -190,16 +190,61 @@ Não há regra feita para estes casos: é o LLM que diz o que lhe falta. Nas med
 
 Ficheiros: `resultados/completar/` (39), `resultados/casos2-antigo/` e `resultados/casos2-completar/` (16, com `volta1-*` da 1.ª volta), e em `rag/resultados/` os ficheiros `casos-completar.json`, `casos-llm-completar.json`, `casos2-fluxo.json`, `casos2-completar.json`, `casos2-llm-antigo.json` e `casos2-llm-completar.json`.
 
+### Contas dos prazos feitas pelo sistema (26/11/2026, noite)
+
+**O problema.** Com o artigo certo à frente, o modelo ainda erra contas que juntam duas regras: a dilação do CIRE, um prazo que acaba em férias judiciais, um termo que cai num domingo ou num feriado.
+
+**A calculadora** (`rag/prazos.py`, testes em `tests/test_prazos.py`). O LLM diz que conta é: o dia do evento, a duração, a unidade, o regime e a dilação. O código faz a conta com as regras da lei.
+
+| Regime | Como conta |
+|---|---|
+| `civil` | CC 279.º e 296.º |
+| `civil_em_juizo` | CC 279.º e 296.º, e as férias judiciais contam como domingos (279.º, e)) |
+| `processual` | contínuo e suspenso nas férias judiciais (CPC 138.º) |
+| `processual_urgente` | contínuo, sem suspensão |
+| `uteis` | só dias úteis (CPA 87.º, RGCO 60.º) |
+
+- A dilação conta-se com o prazo como um prazo só (CPC 142.º).
+- Os feriados são os do CT 234.º, com a Páscoa calculada. As férias judiciais são as do art. 28.º da Lei n.º 62/2013.
+- Não conta feriados municipais nem tolerâncias de ponto, e diz isso em cada conta.
+
+**A calculadora contra as referências.** Um subagente passou os 152 prazos das respostas de referência (os 39 casos e os 16 novos) a contas, sem ver o que a calculadora dá (`prazos-referencia.jsonl`). 98 são contas de datas; os outros 54 não são (um período de referência, um prazo que ainda não começou). Nas 98, a data da calculadora é a da referência em **87**. As 11 diferenças:
+- **3 são erros da referência:** o termo cai num domingo ou feriado e não passou para o dia útil seguinte (3/06/2029 e 10/06/2029 são domingos; 31/10/2027 é domingo e 1/11/2027 é feriado).
+- **5 não são prazos para praticar um ato:** a data em que uma atualização se torna exigível, o fim de um aviso prévio, o período de uma presunção. A calculadora passa o termo para dia útil e a referência não. Falta um regime «período», sem transferência do termo. Não entrou nesta medição.
+- **1 é a leitura de «a partir do dia seguinte» à cessação** (CT 337.º). A calculadora dá a data mais cedo, que é a prudente.
+- **2 não têm data final na referência.**
+
+**No fluxo.** A 1.ª análise escreve em `contas` os prazos que contam. O sistema faz as contas e a 2.ª análise recebe-as com os artigos novos, com a regra de as usar ou de dizer porque estão mal postas (`rag/CASO-ANALISE.md`, `rag.caso.contas_feitas`). Mediu-se o fluxo inteiro outra vez, nos dois conjuntos, com a mesma pesquisa da 1.ª volta: a 1.ª análise, os artigos em falta, as contas, a 2.ª análise e os dois juízes. Os modelos pediram 101 contas nos 39 casos e 47 nos 16, todas em formato válido.
+
+| | Sem contas | Com contas |
+|---|--:|--:|
+| 39 casos: certas / erradas | 36 / 0 | 37 / 1 |
+| 16 casos novos: certas / erradas | 14 / 2 | 12 / 0 |
+| 55 casos: certas / erradas | 50 / 2 | 49 / 1 |
+| Prazos errados ou em falta, juiz a / juiz b (55 casos) | 4 / 4 | 2 / 3 |
+
+- **Os erros de prazos descem, mas pouco**, e as certas ficam iguais dentro do acaso. Nos 16 novos perdem-se 2 casos por outras razões:
+  - `caso2-resp-01`: falta o 320.º do CC (a prescrição contra um menor), que a nova pesquisa dos artigos em falta não trouxe;
+  - `caso2-cons-01`: um dos juízes dá parcial.
+- **Uma conta mal pedida não se corrige com a calculadora.** No `caso2-emp-01` o modelo pediu os 30 dias da reclamação de créditos sem a dilação de 5 dias. A conta está certa para o que foi pedido, mas o prazo sai errado.
+- **A errada nova dos 39 não é de prazos.** No `caso-emp-04` o modelo dá a taxa de juro comercial como a do BCE mais 7 pontos, quando o mínimo é mais 8 (Código Comercial, 102.º, § 5.º).
+- **Ganhos nos 39:** `caso-resp-02` e `caso-resp-03` passam de parcial a certa.
+- **Fica no fluxo.** A calculadora está certa onde a conta está bem posta, e não piorou as certas. Os erros de prazos que sobram vêm de contas mal pedidas.
+- **Ressalvas:** 55 casos são poucos, e uma diferença de 1 ou 2 casos fica dentro do acaso. Os 16 novos já tinham servido para confirmar a 2.ª volta, e esta é a segunda mudança medida neles; nada foi afinado com eles.
+
+Ficheiros: `resultados/contas/` (39), `resultados/casos2-contas/` (16), `prazos-referencia.jsonl`, e em `rag/resultados/` os ficheiros `casos-contas.json`, `casos2-contas.json`, `casos-llm-contas.json` e `casos2-llm-contas.json`.
+
 **O que isto quer dizer.** Com os artigos certos à frente, o raciocínio chega lá em quase todos os casos (com a ressalva acima). Com a pesquisa de hoje, chega em 5 de 39. Partir o caso em consultas jurídicas, com o código e o vocabulário da lei, leva a 31 de 39. As questões do advogado sozinhas não chegam, porque não trazem o código e perdem a narrativa. O que falta, por ordem:
 1. Fazer do passo de partir o caso uma peça do sistema e medi-la também com outro modelo. A peça está em `rag/caso.py` (26/11/2026), com as regras em `rag/CASO-PARTIR.md` e `rag/CASO-ANALISE.md`, as mesmas desta medição. O `medir.py --decomposicao` passou a usar essa pesquisa. As consultas escritas pelo Sonnet e pelo Haiku estão medidas na secção «A peça do sistema e outro modelo».
-2. Garantir os artigos dos prazos e das formalidades, onde estão as erradas. Feito em parte com a 2.ª volta (secção acima): 10 → 14 de 16 certas nos casos novos. Falta a conta dos prazos que juntam duas regras (dilação, férias judiciais).
+2. Garantir os artigos dos prazos e das formalidades, onde estão as erradas. Feito em parte com a 2.ª volta (secção acima): 10 → 14 de 16 certas nos casos novos. A conta dos prazos é agora feita pelo sistema (`rag/prazos.py`, secção acima). Os erros de prazos descem de 4 para 2 nos 55 casos, mas uma conta mal pedida (sem a dilação, por exemplo) continua errada.
 3. Pôr um advogado a rever os casos e as análises.
 
 ## Ficheiros
 
 - `casos.jsonl`: os 39 casos.
 - `casos2.jsonl`: os 16 casos novos, para confirmar mudanças desenhadas nos 39.
-- `completar.py`: a 2.ª volta por lotes (os artigos que a análise disse que faltavam).
+- `completar.py`: a 2.ª volta por lotes (os artigos que a análise disse que faltavam, e as contas dos prazos).
+- `prazos-referencia.jsonl`: os prazos das referências passados a contas, para verificar `rag/prazos.py`.
 - `REGRAS.md`: como se escrevem e o que não se pode abrir.
 - `artigo.py`: ler artigos do acervo e verificar os casos.
 - `medir.py`: a medição da pesquisa (e a exportação para o LLM, `--exportar`).
