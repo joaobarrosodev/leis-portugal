@@ -10,6 +10,16 @@ def test_referencias_diplomas_codigos_e_artigos():
     assert refs.diplomas == [("decreto-lei", "84/2021", "DL 84/2021")]
 
 
+def test_referencias_artigo_sem_a_palavra_artigo_so_antes_de_um_codigo():
+    # Como os advogados citam: «o 394.º do CT», «359.º e seguintes do CT», «o 72.º, n.º 1, alínea a), do CPP».
+    refs = referencias.extrair("Penso usar o 394.º do CT, o 359.º e seguintes do CT e o 72.º, n.º 1, alínea a), do CPP.")
+    assert refs.artigos == ["394.º", "359.º", "72.º"]
+    assert referencias.extrair("o 166.º-A do CT").artigos == ["166.º-A"]
+    # Sem código logo a seguir, um ordinal não é artigo.
+    for texto in ("acabou o 12.º ano", "dona do 4.º esquerdo do prédio", "no 5.º andar. O Código Civil diz", "o n.º 3 do Código do Trabalho"):
+        assert referencias.extrair(texto).artigos == [], texto
+
+
 def test_referencias_numeros_antigos_e_regionais():
     refs = referencias.extrair("Segundo o Decreto-Lei n.º 433/1999 e o Decreto Regulamentar Regional n.º 21/2023/A")
     assert [d[:2] for d in refs.diplomas] == [("decreto-lei", "433/99"), ("decreto-regulamentar-regional", "21/2023/A")]

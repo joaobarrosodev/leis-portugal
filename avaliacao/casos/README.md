@@ -49,6 +49,8 @@ O índice é o publicado na versão `2026-11-24.2`, com o reranker cruzado e 30 
 - Em 27 dos 39 casos a melhor nota do reranker fica abaixo de 3. Com o limiar da app, a resposta seria «não sei».
 - As instruções do LLM da app 0.1.1 mandam recusar «aconselhamento sobre um caso concreto». Com a app tal como está, a análise de caso não existe.
 
+**Citações sem «artigo» (26/11/2026).** Os advogados citam «o 394.º do CT» ou «359.º e seguintes do CT», e a pesquisa só reconhecia «artigo 394.º». O `rag/referencias.py` passou a contar um número com «º» quando vem logo seguido de «do/da» e de um código («12.º ano» e «4.º esquerdo» ficam de fora). Com o texto inteiro, os essenciais nos 8 primeiros passam de 33 para 39 (7 ganhos, 1 perda) e os em 1.º de 7 para 12; os casos cobertos ficam em 1 (`rag/resultados/casos-artigo-solto.json`). Nas 1.298 perguntas de avaliação nenhuma muda de referências, por isso a medição de sempre não se altera. Só chega à app numa versão nova.
+
 ### Análise com um LLM (experimental)
 
 Um subagente Opus analisa cada caso só com os artigos dados, com as regras de [`INSTRUCOES-resposta.md`](INSTRUCOES-resposta.md). Depois, 2 juízes Opus julgam a análise, às cegas um do outro, com a referência na mão: o juiz «a» é exigente e o «b» é cético ([`INSTRUCOES-juiz.md`](INSTRUCOES-juiz.md)). Uma análise só conta como certa quando os dois juízes lhe dão «certa». O script é [`juizes.py`](juizes.py) e os resultados estão em `rag/resultados/casos-llm-*.json`.

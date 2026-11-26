@@ -159,6 +159,13 @@ _DIPLOMA_UE = re.compile(
     re.I,
 )
 _ARTIGO = re.compile(r"(?<!\w)(?:artigo|art\.)\s*(\d+)\s*\.?\s*[º°o]?(?:\s*-\s*([A-Z]{1,2})\b)?", re.I)
+# «394.º» sem «artigo» antes (não «n.º 3»: aí o número vem depois do º). Só vale seguido de um código (`extrair`).
+_ARTIGO_SOLTO = re.compile(r"(?<![\w.º°/-])(\d{1,4})\.?\s?[º°](?:\s*-\s*([A-Z]{1,2})\b)?")
+# O que pode ficar entre o número e o código: «do», «e seguintes do», «, n.º 2, do», «, alínea b), do».
+_LIGACAO_SOLTO = re.compile(
+    r"(?:\s*,?\s*(?:n\.?\s*[º°]\s*\d+|alínea\s+\w\)|al\.\s*\w\)|e\s+seguintes|e\s+ss\.)\s*,?)*\s+(?:do|da|dos|das)\s+(?:actual\s+|atual\s+|novo\s+)?",
+    re.I,
+)
 # "base IV da Lei n.º 52/2012", "Base 20": as leis de bases numeram as bases em romano ou em árabe.
 _BASE = re.compile(r"(?<!\w)(?i:bases?)\s+([IVXLC]+|\d{1,3})(?!\w)")
 _ROMANOS = ((100, "C"), (90, "XC"), (50, "L"), (40, "XL"), (10, "X"), (9, "IX"), (5, "V"), (4, "IV"), (1, "I"))
@@ -225,6 +232,16 @@ def extrair(pergunta: str) -> Referencias:
         if nome not in refs.codigos:
             refs.codigos.append(nome)
     for m in _ARTIGO.finditer(pergunta):
+        numero = f"{m.group(1)}.º" + (f"-{m.group(2).upper()}" if m.group(2) else "")
+        if numero not in refs.artigos:
+            refs.artigos.append(numero)
+    # Como os advogados citam: «o 394.º do CT», «359.º e seguintes do CT», «o 1101.º do Código Civil».
+    # Sem «artigo» antes, o número só conta se o nome ou a sigla de um código vier logo a seguir.
+    inicios_codigo = sorted(p for p, _ in nomes)
+    for m in _ARTIGO_SOLTO.finditer(pergunta):
+        seguinte = next((p for p in inicios_codigo if p >= m.end()), None)
+        if seguinte is None or seguinte - m.end() > 45 or not _LIGACAO_SOLTO.fullmatch(pergunta[m.end():seguinte]):
+            continue
         numero = f"{m.group(1)}.º" + (f"-{m.group(2).upper()}" if m.group(2) else "")
         if numero not in refs.artigos:
             refs.artigos.append(numero)
