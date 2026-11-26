@@ -114,7 +114,7 @@ Depois a análise com o LLM: os 16 primeiros da variante com artigos, as mesmas 
   - Na app, partir o caso exige um passo de LLM antes da pesquisa, como a reescrita.
 
 **O que isto quer dizer.** Com os artigos certos à frente, o raciocínio chega lá em quase todos os casos (com a ressalva acima). Com a pesquisa de hoje, chega em 5 de 39. Partir o caso em consultas jurídicas, com o código e o vocabulário da lei, leva a 31 de 39. As questões do advogado sozinhas não chegam, porque não trazem o código e perdem a narrativa. O que falta, por ordem:
-1. Fazer do passo de partir o caso uma peça do sistema e medi-la também com outro modelo.
+1. Fazer do passo de partir o caso uma peça do sistema e medi-la também com outro modelo. A peça está em `rag/caso.py` (26/11/2026), com as regras em `rag/CASO-PARTIR.md` e `rag/CASO-ANALISE.md`, as mesmas desta medição. O `medir.py --decomposicao` passou a usar essa pesquisa. As consultas escritas pelo Sonnet e pelo Haiku, com as mesmas regras, estão em `decomposicao-sonnet/` e `decomposicao-haiku/`. A medição delas ainda não está feita.
 2. Garantir os artigos dos prazos e das formalidades, onde estão as erradas.
 3. Pôr um advogado a rever os casos e as análises.
 

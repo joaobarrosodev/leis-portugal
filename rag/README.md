@@ -1047,6 +1047,28 @@ PYTHONPATH=src python -m rag.avaliar --nome passagens-final --indice rag/indice/
 
 É a configuração da `app011-final` com as passagens ligadas. Com `--reranker-com-perguntas` mede as duas coisas juntas. Para comparar duas medições sem o ruído do lote, juntar `--estavel` às duas, o que demora mais.
 
+### Nas 1.298 (26/11/2026)
+
+Medido com o comando acima, no mesmo índice e com a mesma configuração da `app011-final`, sem LLM (`rag/resultados/passagens-final.json`). Correu 3 h 25 min, com uma interrupção a meio da qual retomou.
+
+| | `app011-final` | Com passagens |
+|---|--:|--:|
+| Artigo certo em 1.º (1.298) | 739 | 756 |
+| Artigo certo nos 5 primeiros | 973 | 1.005 |
+| Artigo certo nos 10 primeiros | 1.038 | 1.049 |
+| Certas | 619 | 627 |
+| Respondidas | 834 | 857 |
+| Fiabilidade (certas/respondidas) | 74,2 % | 73,2 % |
+| «Não sei» nas 80 sem resposta | 75 | 73 |
+| Reais: certas / respondidas | 115 / 185 | 118 / 195 |
+| Reais: artigo certo nos 5 primeiros | 217 | 237 |
+
+- **A pesquisa melhora em todos os tipos.** Nas reais, o artigo certo entra nos 5 primeiros em mais 20 perguntas.
+- **Sem LLM, as certas quase não mudam e a fiabilidade desce um ponto.** Com o limiar 3, o sistema responde a mais 23 perguntas, das quais acerta 8, e diz «não sei» a menos 2 das 80 sem resposta. O limiar 3 foi escolhido sem passagens.
+- **Com LLM, que lê os 8 primeiros, devia ganhar mais do que sem**, porque o artigo certo sobe para dentro dos 8. Não foi medido.
+- **Ruído:** as duas medições pontuam em lotes de 16, sem `--estavel`, e por isso parte das diferenças pequenas pode ser ruído do lote.
+- **Fica desligado.** Ligá-lo na app, e rever o limiar com ele, é uma decisão à parte.
+
 ## Última milha nas reais: as peças que faltam ligar (20/11/2026)
 
 A aplicação 0.1.1 acerta o artigo em 1.º lugar em cerca de metade das 281 reais, e em mais um terço o artigo certo está do 2.º ao 8.º lugar. Mediu-se quanto se ganha com as peças que já existem e não estão ligadas: as notas estáveis do reranker (`--estavel`), o reranker a ler as perguntas do artigo (`--reranker-com-perguntas`) e o LLM a escrever a resposta a partir dos 8 primeiros artigos.

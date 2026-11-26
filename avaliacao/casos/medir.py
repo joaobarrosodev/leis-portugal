@@ -10,7 +10,8 @@ Conta-se cada artigo essencial pela melhor posição em que aparece (no `por_que
 na lista juntada pela ordem das notas). Um caso fica «coberto em k» quando todos os essenciais estão nos k primeiros.
 
 Com `--decomposicao PASTA` mede, em vez daquelas duas, as consultas que um LLM escreveu para cada caso
-(`decomposto`) e essas mais os artigos que ele achou prováveis (`decomposto_com_artigos`), intercaladas.
+(`decomposto`) e essas mais os artigos que ele achou prováveis (`decomposto_com_artigos`), intercaladas. As duas usam
+a pesquisa do sistema, `rag.caso.pesquisar`; a segunda é o fluxo de caso tal como está.
 
     RAG_INDICE=<pasta do índice> python avaliacao/casos/medir.py [--indice X] [--nome casos-base] [--decomposicao avaliacao/casos/decomposicao]
 """
@@ -26,6 +27,7 @@ from pathlib import Path
 RAIZ = Path(__file__).resolve().parents[2]
 sys.path.insert(0, str(RAIZ))
 
+from rag import caso as caso_mod  # noqa: E402
 from rag.pesquisa import Pesquisa  # noqa: E402
 
 KS = (1, 3, 8, 10, 30)
@@ -58,25 +60,6 @@ def juntar(consultas) -> list:
     return sorted(melhor.values(), key=lambda r: -(r.reranker if r.reranker is not None else float("-inf")))
 
 
-def intercalar(listas: list[list]) -> list:
-    """O 1.º de cada lista, depois o 2.º de cada, …; cada artigo uma vez. Cada consulta tem lugar nos primeiros."""
-    vistos, saida = set(), []
-    for i in range(max((len(l) for l in listas), default=0)):
-        for l in listas:
-            if i < len(l) and (l[i].documento, l[i].chave) not in vistos:
-                vistos.add((l[i].documento, l[i].chave))
-                saida.append(l[i])
-    return saida
-
-
-def formatar(resultados) -> str:
-    """Os artigos numerados como o `rag.resposta.contexto` os dá ao LLM."""
-    from rag.resposta import CARACTERES_POR_ARTIGO
-
-    return "\n\n".join(f"[{n}] {r.rotulo}" + "".join(f"\nAviso: {a}" for a in r.avisos) + f"\n{r.texto[:CARACTERES_POR_ARTIGO]}"
-                       for n, r in enumerate(resultados, 1))
-
-
 def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     parser.add_argument("--casos", type=Path, default=RAIZ / "avaliacao" / "casos" / "casos.jsonl")
@@ -106,11 +89,10 @@ def main(argv: list[str] | None = None) -> int:
         essenciais = caso["resposta"]["artigos_essenciais"]
         data = caso["data_referencia"]
         if decomposicao:
-            d = decomposicao[caso["id"]]
-            por_consulta = [pesquisa.pesquisar(q, data, k=max(KS)) for q in d["consultas"]]
-            por_artigo = [pesquisa.pesquisar(a, data, k=3) for a in d.get("artigos_provaveis") or []]
-            listas = {"decomposto": intercalar([c.resultados for c in por_consulta]),
-                      "decomposto_com_artigos": intercalar([c.resultados[:1] for c in por_artigo] + [c.resultados for c in por_consulta])}
+            d = caso_mod.decomposicao(decomposicao[caso["id"]])
+            pedido = texto_inteiro(caso)
+            listas = {"decomposto": caso_mod.pesquisar(pesquisa, pedido, data, caso_mod.Decomposicao(d.consultas), n=None),
+                      "decomposto_com_artigos": caso_mod.pesquisar(pesquisa, pedido, data, d, n=None)}
         else:
             inteiro = pesquisa.pesquisar(texto_inteiro(caso), data, k=max(KS))
             listas = {"inteiro": inteiro.resultados, "por_questao": juntar([pesquisa.pesquisar(q, data, k=max(KS)) for q in caso["questoes"]])}
@@ -121,7 +103,7 @@ def main(argv: list[str] | None = None) -> int:
         linhas.append(linha)
         if args.exportar:
             lista = listas[estrategias[-1] if decomposicao else estrategias[0]][: args.contexto]
-            exportados.append({"id": caso["id"], "data_referencia": data, "pedido": texto_inteiro(caso), "artigos": formatar(lista),
+            exportados.append({"id": caso["id"], "data_referencia": data, "pedido": texto_inteiro(caso), "artigos": caso_mod.contexto(lista),
                                "rotulos": [r.rotulo for r in lista], "chaves": [[r.documento, r.chave] for r in lista]})
         print(f"[{n}/{len(casos)}] {caso['id']} " + " ".join(f"{e} {linha[e]['posicoes']}" for e in estrategias)
               + f" ({time.time() - inicio:.0f}s)", file=sys.stderr)
