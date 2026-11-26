@@ -1023,6 +1023,34 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:1200665257:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:1200665617:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:1200665618:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:1200665619:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:1200665620:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:1200665632:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:1200665647:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:120108010:por
   label: null
   source: null
