@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-11-25",
+  "generated_at": "2026-11-26",
   "methodology": "Contagem direta dos ficheiros Markdown em data/ com front matter válido; sem estimativas de completude. Ano = data de publicação.",
   "totals": {
-    "documents": 461222,
+    "documents": 461265,
     "sources_registered": 5,
     "sources_operational": 4,
-    "validated_documents": 461222
+    "validated_documents": 461265
   },
   "by_jurisdiction": {
-    "european_union": 55291,
-    "portugal": 374042,
-    "regional": 31889
+    "european_union": 55296,
+    "portugal": 374074,
+    "regional": 31895
   },
   "by_document_type": {
     "acordao": 457,
     "acordao-doutrinario": 183,
     "acordao-extrato": 31,
-    "acordao-supremo-tribunal-administrativo": 122,
+    "acordao-supremo-tribunal-administrativo": 125,
     "acordao-supremo-tribunal-justica": 213,
     "acordao-tribunal-constitucional": 168,
     "acordao-tribunal-contas": 4,
@@ -39,7 +39,7 @@
     "contrato-extrato": 25,
     "convenio": 2,
     "decisao": 3,
-    "decision": 21110,
+    "decision": 21113,
     "declaracao": 25764,
     "declaracao-extrato": 21,
     "declaracao-retificacao": 17449,
@@ -47,15 +47,15 @@
     "decreto": 47478,
     "decreto-aprovacao-constituicao": 1,
     "decreto-governo": 293,
-    "decreto-legislativo-regional": 2439,
-    "decreto-lei": 31725,
+    "decreto-legislativo-regional": 2440,
+    "decreto-lei": 31727,
     "decreto-ministro-republica": 49,
     "decreto-presidente-republica": 6069,
     "decreto-regional": 280,
     "decreto-regulamentar": 1933,
     "decreto-regulamentar-regional": 2603,
     "decreto-representante-republica": 69,
-    "deliberacao": 23534,
+    "deliberacao": 23544,
     "deliberacao-assembleia-republica": 1,
     "deliberacao-extracto": 8,
     "deliberacao-extrato": 79,
@@ -101,24 +101,24 @@
     "parecer": 8,
     "parecer-conselho-estado": 20,
     "parecer-extrato": 2,
-    "portaria": 114840,
+    "portaria": 114843,
     "portaria-extrato": 24,
     "recomendacao": 1,
     "rectificacao": 636,
     "regimento": 21,
     "regimento-assembleia-republica": 6,
     "regimento-conselho-estado": 2,
-    "regulamento": 18883,
+    "regulamento": 18892,
     "regulamento-cmvm": 198,
     "regulamento-extracto": 2,
     "regulamento-extrato": 5,
-    "regulation": 29993,
+    "regulation": 29995,
     "relatorio": 1,
     "resolucao": 15239,
-    "resolucao-assembleia-legislativa-regional": 1869,
+    "resolucao-assembleia-legislativa-regional": 1873,
     "resolucao-assembleia-nacional": 91,
     "resolucao-assembleia-republica": 4909,
-    "resolucao-conselho-ministros": 6917,
+    "resolucao-conselho-ministros": 6923,
     "resolucao-conselho-ministros-assuntos-economicos": 1,
     "resolucao-conselho-revolucao": 2,
     "resolucao-extrato": 11,
@@ -126,8 +126,8 @@
     "tabela": 1
   },
   "by_source": {
-    "dre": 405931,
-    "eurlex-cellar": 55291
+    "dre": 405969,
+    "eurlex-cellar": 55296
   },
   "by_year": {
     "1833": 2,
@@ -282,46 +282,46 @@
     "2018": 5818,
     "2019": 6719,
     "2020": 6329,
-    "2021": 6486,
+    "2021": 6487,
     "2022": 9345,
     "2023": 11126,
     "2024": 11262,
     "2025": 11467,
-    "2026": 9323
+    "2026": 9365
   },
   "by_territory": {
-    "acores": 28320,
+    "acores": 28326,
     "madeira": 3569,
-    "nacional": 429333
+    "nacional": 429370
   },
   "by_version_kind": {
     "consolidated": 14754,
-    "original": 445224,
+    "original": 445267,
     "translation": 1244
   },
   "by_legal_status": {
-    "in_force": 203355,
-    "not_in_force": 38836,
+    "in_force": 203366,
+    "not_in_force": 38837,
     "partially_in_force": 790,
     "repealed": 15202,
-    "unknown": 203039
+    "unknown": 203070
   },
   "by_origin": {
     "importacao_inicial": 1,
-    "recolha_direta": 461221
+    "recolha_direta": 461264
   },
   "by_text_quality": {
     "metadados": 27323,
     "pdf": 76532,
-    "texto": 357367
+    "texto": 357410
   },
   "with_version_history": 11029,
   "relationships_by_type": {
     "amended_by": 171575,
-    "amends": 36560,
-    "based_on": 77246,
-    "cited_by": 29317,
-    "cites": 995869,
+    "amends": 36568,
+    "based_on": 77253,
+    "cited_by": 29326,
+    "cites": 996041,
     "corrected_by": 27247,
     "corrects": 826,
     "implicitly_repeals": 8160,
@@ -334,7 +334,7 @@
     "transposes": 2536
   },
   "by_validation_status": {
-    "validated": 461222
+    "validated": 461265
   },
   "documents_listed": false,
   "documents": []
