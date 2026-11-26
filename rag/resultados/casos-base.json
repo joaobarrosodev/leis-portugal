@@ -1,0 +1,1732 @@
+{
+ "configuracao": {
+  "reranker": "cruzado",
+  "maximo": 30,
+  "llm": false,
+  "indice": "/Users/barroso/Documents/Seamless Doubt/leis-portugal/rag/indice/indice.sqlite"
+ },
+ "resumo": {
+  "inteiro": {
+   "casos": 39,
+   "artigos_essenciais": 161,
+   "artigos_top1": 7,
+   "artigos_top3": 20,
+   "artigos_top8": 33,
+   "artigos_top10": 34,
+   "artigos_top30": 43,
+   "casos_cobertos_top1": 0,
+   "casos_cobertos_top3": 0,
+   "casos_cobertos_top8": 1,
+   "casos_cobertos_top10": 2,
+   "casos_cobertos_top30": 3,
+   "casos_algum_top8": 21
+  },
+  "por_questao": {
+   "casos": 39,
+   "artigos_essenciais": 161,
+   "artigos_top1": 17,
+   "artigos_top3": 31,
+   "artigos_top8": 48,
+   "artigos_top10": 55,
+   "artigos_top30": 81,
+   "casos_cobertos_top1": 0,
+   "casos_cobertos_top3": 0,
+   "casos_cobertos_top8": 1,
+   "casos_cobertos_top10": 2,
+   "casos_cobertos_top30": 4,
+   "casos_algum_top8": 30
+  }
+ },
+ "por_area": {
+  "trabalho": {
+   "casos": 9,
+   "cobertos_top8_inteiro": 1,
+   "cobertos_top8_por_questao": 1
+  },
+  "arrendamento": {
+   "casos": 5,
+   "cobertos_top8_inteiro": 0,
+   "cobertos_top8_por_questao": 0
+  },
+  "consumo": {
+   "casos": 5,
+   "cobertos_top8_inteiro": 0,
+   "cobertos_top8_por_questao": 0
+  },
+  "familia": {
+   "casos": 5,
+   "cobertos_top8_inteiro": 0,
+   "cobertos_top8_por_questao": 0
+  },
+  "responsabilidade": {
+   "casos": 5,
+   "cobertos_top8_inteiro": 0,
+   "cobertos_top8_por_questao": 0
+  },
+  "empresas": {
+   "casos": 5,
+   "cobertos_top8_inteiro": 0,
+   "cobertos_top8_por_questao": 0
+  },
+  "administrativo": {
+   "casos": 5,
+   "cobertos_top8_inteiro": 0,
+   "cobertos_top8_por_questao": 0
+  }
+ },
+ "casos": [
+  {
+   "id": "caso-trab-01",
+   "area": "trabalho",
+   "essenciais": [
+    "Lei n.º 7/2009 › Anexo — CÓDIGO DO TRABALHO::394.º",
+    "Lei n.º 7/2009 › Anexo — CÓDIGO DO TRABALHO::395.º",
+    "Lei n.º 7/2009 › Anexo — CÓDIGO DO TRABALHO::396.º",
+    "Lei n.º 7/2009 › Anexo — CÓDIGO DO TRABALHO::337.º"
+   ],
+   "inteiro": {
+    "posicoes": [
+     null,
+     null,
+     3,
+     null
+    ],
+    "topo": [
+     "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 344.º — Caducidade de contrato de trabalho a termo certo",
+     "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 262.º — Cálculo de prestação complementar ou acessória",
+     "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 396.º — Indemnização ou compensação devida ao trabalhador",
+     "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 324.º — Efeitos para o empregador de falta de pagamento pontual da retribuição",
+     "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 391.º — Indemnização em substituição de reintegração a pedido do trabalhador"
+    ],
+    "nota_topo": 0.15801240503787994
+   },
+   "por_questao": {
+    "posicoes": [
+     4,
+     1,
+     38,
+     47
+    ],
+    "topo": [
+     "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 395.º — Procedimento para resolução de contrato pelo trabalhador",
+     "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 930.º — (Forma da resolução)",
+     "Directiva 2009/138/CE do Parlamento Europeu e do Conselho, de 25 de Novembro de 2009, de 2009-12-17 › Artigo 186.º — Prazo de resolução",
+     "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 394.º — Justa causa de resolução",
+     "Regulamento n.º 47/2025, de 2025-01-09 › Artigo 65.º — Procedimento de Resolução de Contrato"
+    ],
+    "nota_topo": 2.2726690769195557
+   }
+  },
+  {
+   "id": "caso-trab-02",
+   "area": "trabalho",
+   "essenciais": [
+    "Lei n.º 7/2009 › Anexo — CÓDIGO DO TRABALHO::329.º",
+    "Lei n.º 7/2009 › Anexo — CÓDIGO DO TRABALHO::352.º",
+    "Lei n.º 7/2009 › Anexo — CÓDIGO DO TRABALHO::382.º",
+    "Lei n.º 7/2009 › Anexo — CÓDIGO DO TRABALHO::387.º",
+    "Lei n.º 7/2009 › Anexo — CÓDIGO DO TRABALHO::391.º"
+   ],
+   "inteiro": {
+    "posicoes": [
+     null,
+     1,
+     null,
+     null,
+     12
+    ],
+    "topo": [
+     "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 352.º — Inquérito prévio",
+     "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 328.º — Sanções disciplinares",
+     "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 390.º — Compensação em caso de despedimento ilícito",
+     "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 10.º-B — Aplicação do regime de trabalhador independente",
+     "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 31.º — Igualdade de condições de trabalho"
+    ],
+    "nota_topo": -1.4364365339279175
+   },
+   "por_questao": {
+    "posicoes": [
+     18,
+     33,
+     52,
+     null,
+     63
+    ],
+    "topo": [
+     "Lei n.º 35/2014, de 2014-06-20 › Anexo — Lei Geral do Trabalho em Funções Públicas › Artigo 299.º — Impugnação judicial do despedimento ou demissão",
+     "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 388.º — Apreciação judicial do despedimento colectivo",
+     "Decreto-Lei n.º 480/99, de 1999-11-09 › Anexo — CÓDIGO DE PROCESSO DO TRABALHO › Artigo 40.º-A — Caducidade da providência",
+     "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 390.º — Compensação em caso de despedimento ilícito",
+     "Acórdão n.º 2/2002, de 2002-11-26"
+    ],
+    "nota_topo": 3.9793314933776855
+   }
+  },
+  {
+   "id": "caso-trab-03",
+   "area": "trabalho",
+   "essenciais": [
+    "Lei n.º 7/2009 › Anexo — CÓDIGO DO TRABALHO::359.º",
+    "Lei n.º 7/2009 › Anexo — CÓDIGO DO TRABALHO::368.º",
+    "Lei n.º 7/2009 › Anexo — CÓDIGO DO TRABALHO::371.º",
+    "Lei n.º 7/2009 › Anexo — CÓDIGO DO TRABALHO::366.º",
+    "Lei n.º 7/2009 › Anexo — CÓDIGO DO TRABALHO::384.º"
+   ],
+   "inteiro": {
+    "posicoes": [
+     null,
+     null,
+     null,
+     null,
+     null
+    ],
+    "topo": [
+     "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 193.º — Noção de local de trabalho",
+     "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 457.º — Quotização sindical e protecção dos trabalhadores",
+     "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 267.º — Retribuição por exercício de funções afins ou funcionalmente ligadas",
+     "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 118.º — Funções desempenhadas pelo trabalhador",
+     "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 467.º — Crédito de horas de delegado sindical"
+    ],
+    "nota_topo": 1.1290059089660645
+   },
+   "por_questao": {
+    "posicoes": [
+     12,
+     2,
+     6,
+     42,
+     4
+    ],
+    "topo": [
+     "Acórdão n.º 306/2003, de 2003-07-18",
+     "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 368.º — Requisitos de despedimento por extinção de posto de trabalho",
+     "Acórdão do Tribunal Constitucional n.º 602/2013, de 2013-10-24",
+     "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 384.º — Ilicitude de despedimento por extinção de posto de trabalho",
+     "Acórdão do Tribunal Constitucional n.º 602/2013, de 2013-10-24"
+    ],
+    "nota_topo": 3.5276501178741455
+   }
+  },
+  {
+   "id": "caso-trab-05",
+   "area": "trabalho",
+   "essenciais": [
+    "Lei n.º 7/2009 › Anexo — CÓDIGO DO TRABALHO::400.º",
+    "Lei n.º 7/2009 › Anexo — CÓDIGO DO TRABALHO::401.º",
+    "Lei n.º 7/2009 › Anexo — CÓDIGO DO TRABALHO::137.º",
+    "Lei n.º 7/2009 › Anexo — CÓDIGO DO TRABALHO::136.º"
+   ],
+   "inteiro": {
+    "posicoes": [
+     18,
+     29,
+     3,
+     1
+    ],
+    "topo": [
+     "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 136.º — Pacto de não concorrência",
+     "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 181.º — Forma e conteúdo de contrato de trabalho temporário",
+     "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 137.º — Pacto de permanência",
+     "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 323.º — Efeitos gerais do incumprimento do contrato de trabalho",
+     "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 145.º — Preferência na admissão"
+    ],
+    "nota_topo": 1.3345685005187988
+   },
+   "por_questao": {
+    "posicoes": [
+     10,
+     1,
+     null,
+     62
+    ],
+    "topo": [
+     "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 401.º — Denúncia sem aviso prévio",
+     "Regulamento (UE) n. ° 1308/2013 do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013, de 2013-12-20 › Artigo 208.º — Posição dominante",
+     "Decreto-Lei n.º 178/86, de 1986-07-03 › Artigo 29.º — (Falta de pré-aviso)",
+     "Diretiva 2014/36/UE do Parlamento Europeu e do Conselho, de 26 de fevereiro de 2014, de 2014-03-28 › Artigo 19.º — Taxas e custos",
+     "Portaria n.º 328/2018, de 2018-12-19 › Artigo 4.º — Obrigações das empresas certificadas"
+    ],
+    "nota_topo": 1.4506868124008179
+   }
+  },
+  {
+   "id": "caso-trab-06",
+   "area": "trabalho",
+   "essenciais": [
+    "Lei n.º 7/2009 › Anexo — CÓDIGO DO TRABALHO::226.º",
+    "Lei n.º 7/2009 › Anexo — CÓDIGO DO TRABALHO::268.º",
+    "Lei n.º 7/2009 › Anexo — CÓDIGO DO TRABALHO::271.º"
+   ],
+   "inteiro": {
+    "posicoes": [
+     null,
+     null,
+     2
+    ],
+    "topo": [
+     "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 145.º — Preferência na admissão",
+     "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 271.º — Cálculo do valor da retribuição horária",
+     "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 150.º — Noção de trabalho a tempo parcial",
+     "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 1.º — Fontes específicas",
+     "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 265.º — Retribuição por isenção de horário de trabalho"
+    ],
+    "nota_topo": -0.8139910101890564
+   },
+   "por_questao": {
+    "posicoes": [
+     1,
+     25,
+     null
+    ],
+    "topo": [
+     "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 226.º — Noção de trabalho suplementar",
+     "Declaração, de 1987-02-18",
+     "Acórdão do Supremo Tribunal de Justiça n.º 6/2012, de 2012-06-25",
+     "Decreto n.º 58/97, de 1997-10-15 › Artigo 44.º — Limites do trabalho suplementar",
+     "Acórdão do Supremo Tribunal de Justiça n.º 6/2012, de 2012-06-25"
+    ],
+    "nota_topo": 3.323223829269409
+   }
+  },
+  {
+   "id": "caso-trab-07",
+   "area": "trabalho",
+   "essenciais": [
+    "Lei n.º 7/2009 › Anexo — CÓDIGO DO TRABALHO::239.º",
+    "Lei n.º 7/2009 › Anexo — CÓDIGO DO TRABALHO::245.º",
+    "Lei n.º 7/2009 › Anexo — CÓDIGO DO TRABALHO::246.º"
+   ],
+   "inteiro": {
+    "posicoes": [
+     1,
+     6,
+     10
+    ],
+    "topo": [
+     "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 239.º — Casos especiais de duração do período de férias",
+     "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 241.º — Marcação do período de férias",
+     "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 244.º — Alteração do período de férias por motivo relativo ao trabalhador",
+     "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 243.º — Alteração do período de férias por motivo relativo à empresa",
+     "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 238.º — Duração do período de férias"
+    ],
+    "nota_topo": 2.3478925228118896
+   },
+   "por_questao": {
+    "posicoes": [
+     5,
+     4,
+     1
+    ],
+    "topo": [
+     "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 246.º — Violação do direito a férias",
+     "Lei n.º 35/2014, de 2014-06-20 › Anexo — Lei Geral do Trabalho em Funções Públicas › Artigo 130.º — Violação do direito a férias",
+     "Decreto Legislativo Regional n.º 4/90/M, de 1990-01-18 › Artigo 5.º — Casos especiais de atribuição do subsídio",
+     "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 245.º — Efeitos da cessação do contrato de trabalho no direito a férias",
+     "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 239.º — Casos especiais de duração do período de férias"
+    ],
+    "nota_topo": 1.309690237045288
+   }
+  },
+  {
+   "id": "caso-trab-08",
+   "area": "trabalho",
+   "essenciais": [
+    "Lei n.º 7/2009 › Anexo — CÓDIGO DO TRABALHO::149.º",
+    "Lei n.º 7/2009 › Anexo — CÓDIGO DO TRABALHO::147.º",
+    "Lei n.º 7/2009 › Anexo — CÓDIGO DO TRABALHO::381.º",
+    "Lei n.º 7/2009 › Anexo — CÓDIGO DO TRABALHO::387.º"
+   ],
+   "inteiro": {
+    "posicoes": [
+     3,
+     13,
+     null,
+     null
+    ],
+    "topo": [
+     "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 142.º — Casos especiais de contrato de trabalho de muito curta duração",
+     "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 344.º — Caducidade de contrato de trabalho a termo certo",
+     "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 149.º — Renovação de contrato de trabalho a termo certo",
+     "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 141.º — Forma e conteúdo de contrato de trabalho a termo",
+     "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 148.º — Duração de contrato de trabalho a termo"
+    ],
+    "nota_topo": 1.084964394569397
+   },
+   "por_questao": {
+    "posicoes": [
+     null,
+     null,
+     null,
+     null
+    ],
+    "topo": [
+     "Declaração de Retificação n.º 353/2026/2, de 2026-04-27",
+     "Lei n.º 35/2014, de 2014-06-20 › Anexo — Lei Geral do Trabalho em Funções Públicas › Artigo 294.º — Caducidade do contrato de trabalho em funções públicas a termo incerto",
+     "Lei n.º 75/2013, de 2013-09-12 › Anexo I — (a que se refere o n.º 2 do artigo 1.º) › Artigo 123.º — Cessação do contrato",
+     "Lei n.º 23/2011, de 2011-05-20 › Anexo — ESTATUTO DOS FUNCIONÁRIOS PARLAMENTARES › Artigo 85.º — Modalidades de cessação dos contratos a termo resolutivo",
+     "Decreto-Lei n.º 66/2011, de 2011-06-01 › Artigo 12.º — Cessação do contrato de estágio"
+    ],
+    "nota_topo": 2.1608457565307617
+   }
+  },
+  {
+   "id": "caso-trab-09",
+   "area": "trabalho",
+   "essenciais": [
+    "Lei n.º 7/2009 › Anexo — CÓDIGO DO TRABALHO::56.º",
+    "Lei n.º 7/2009 › Anexo — CÓDIGO DO TRABALHO::57.º",
+    "Lei n.º 7/2009 › Anexo — CÓDIGO DO TRABALHO::166.º-A"
+   ],
+   "inteiro": {
+    "posicoes": [
+     2,
+     1,
+     6
+    ],
+    "topo": [
+     "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 57.º — Autorização de trabalho a tempo parcial ou em regime de horário flexível",
+     "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 56.º — Horário flexível de trabalhador com responsabilidades familiares",
+     "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 220.º — Noção de trabalho por turnos",
+     "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 10.º-B — Aplicação do regime de trabalhador independente",
+     "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 55.º — Trabalho a tempo parcial de trabalhador com responsabilidades familiares"
+    ],
+    "nota_topo": 1.765295147895813
+   },
+   "por_questao": {
+    "posicoes": [
+     null,
+     null,
+     3
+    ],
+    "topo": [
+     "Lei n.º 83/2021, de 2021-12-06 › Artigo 3.º — Aditamento ao Código do Trabalho",
+     "Decreto Legislativo Regional n.º 10/2026/A, de 2026-04-09 › ANEXO — (a que se refere o artigo 3.º) › Artigo 45.º — Concessão das licenças",
+     "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 166.º-A — Direito ao regime de teletrabalho",
+     "Decreto-Lei n.º 177/2026, de 2026-09-04 › ANEXO II — (a que se refere o artigo 9.º) › Artigo 386.º — Oposição e recusa de autorização à subempreitada",
+     "Acórdão do Tribunal Constitucional n.º 545/2021, de 2021-09-16"
+    ],
+    "nota_topo": -0.33820438385009766
+   }
+  },
+  {
+   "id": "caso-trab-10",
+   "area": "trabalho",
+   "essenciais": [
+    "Lei n.º 98/2009 › 9.º",
+    "Lei n.º 98/2009 › 17.º",
+    "Lei n.º 98/2009 › 79.º",
+    "Lei n.º 98/2009 › 179.º"
+   ],
+   "inteiro": {
+    "posicoes": [
+     null,
+     null,
+     null,
+     null
+    ],
+    "topo": [
+     "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 1327.º — (Princípio geral)",
+     "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 1277.º — (Acção directa e defesa judicial)",
+     "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 813.º — (Requisitos)",
+     "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 1483.º — (Restituição da coisa)",
+     "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 804.º — (Princípios gerais)"
+    ],
+    "nota_topo": -2.804041862487793
+   },
+   "por_questao": {
+    "posicoes": [
+     11,
+     8,
+     null,
+     1
+    ],
+    "topo": [
+     "Lei n.º 98/2009, de 2009-09-04 › Artigo 179.º — Caducidade e prescrição",
+     "Jurisprudência n.º 10/2001, de 2001-12-27",
+     "Jurisprudência n.º 10/2001, de 2001-12-27",
+     "Lei n.º 2127, de 1965-08-03",
+     "Lei n.º 98/2009, de 2009-09-04 › Artigo 48.º — Prestações"
+    ],
+    "nota_topo": 0.5581779479980469
+   }
+  },
+  {
+   "id": "caso-arr-01",
+   "area": "arrendamento",
+   "essenciais": [
+    "Decreto-Lei n.º 47344 › Anexo — CÓDIGO CIVIL::1083.º",
+    "Decreto-Lei n.º 47344 › Anexo — CÓDIGO CIVIL::1084.º",
+    "Lei n.º 6/2006 › 9.º",
+    "Lei n.º 6/2006 › 15.º",
+    "Decreto-Lei n.º 47344 › Anexo — CÓDIGO CIVIL::1041.º"
+   ],
+   "inteiro": {
+    "posicoes": [
+     2,
+     3,
+     null,
+     null,
+     7
+    ],
+    "topo": [
+     "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 1069.º — Forma",
+     "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 1083.º — Fundamento da resolução",
+     "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 1084.º — Modo de operar",
+     "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 1039.º — (Tempo e lugar do pagamento)",
+     "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 1048.º — (Falta de pagamento da renda ou aluguer)"
+    ],
+    "nota_topo": 2.6036651134490967
+   },
+   "por_questao": {
+    "posicoes": [
+     58,
+     16,
+     45,
+     1,
+     2
+    ],
+    "topo": [
+     "Lei n.º 6/2006, de 2006-02-27 › Artigo 15.º — Procedimento especial de despejo",
+     "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 1041.º — (Mora do locatário)",
+     "Lei n.º 6/2006, de 2006-02-27 › Artigo 14.º — Acção de despejo",
+     "Lei n.º 6/2006, de 2006-02-27 › Artigo 10.º — Vicissitudes",
+     "Portaria n.º 49/2024, de 2024-02-15 › Artigo 1.º — Objeto"
+    ],
+    "nota_topo": 3.836519718170166
+   }
+  },
+  {
+   "id": "caso-arr-02",
+   "area": "arrendamento",
+   "essenciais": [
+    "Decreto-Lei n.º 47344 › Anexo — CÓDIGO CIVIL::1101.º",
+    "Decreto-Lei n.º 47344 › Anexo — CÓDIGO CIVIL::1096.º",
+    "Decreto-Lei n.º 47344 › Anexo — CÓDIGO CIVIL::1097.º",
+    "Decreto-Lei n.º 47344 › Anexo — CÓDIGO CIVIL::1057.º",
+    "Decreto-Lei n.º 47344 › Anexo — CÓDIGO CIVIL::1091.º"
+   ],
+   "inteiro": {
+    "posicoes": [
+     2,
+     18,
+     null,
+     null,
+     null
+    ],
+    "topo": [
+     "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 1110.º — Duração, denúncia ou oposição à renovação",
+     "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 1101.º — Denúncia pelo senhorio",
+     "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 1099.º — Princípio geral",
+     "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 1056.º — (Outra causa de renovação)",
+     "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 1054.º — (Renovação do contrato)"
+    ],
+    "nota_topo": 3.624600887298584
+   },
+   "por_questao": {
+    "posicoes": [
+     9,
+     24,
+     2,
+     null,
+     11
+    ],
+    "topo": [
+     "Acórdão n.º 55/99, de 1999-02-19",
+     "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 1097.º — Oposição à renovação deduzida pelo senhorio",
+     "Decreto-Lei n.º 321-B/90, de 1990-10-15 › Artigo 71.º — Denúncia para habitação",
+     "Resolução da Assembleia Legislativa Regional n.º 12/93/M, de 1993-08-27 › Artigo 2.º — Estipulação de prazo, renovação automática e denúncia nos contratos de duração limitada",
+     "Decreto-Lei n.º 321-B/90, de 1990-10-15 › Artigo 69.º — Casos de denúncia pelo senhorio"
+    ],
+    "nota_topo": 5.0512542724609375
+   }
+  },
+  {
+   "id": "caso-arr-03",
+   "area": "arrendamento",
+   "essenciais": [
+    "Decreto-Lei n.º 47344 › Anexo — CÓDIGO CIVIL::1077.º",
+    "Lei n.º 6/2006 › 24.º",
+    "Lei n.º 6/2006 › 9.º"
+   ],
+   "inteiro": {
+    "posicoes": [
+     2,
+     null,
+     null
+    ],
+    "topo": [
+     "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 1069.º — Forma",
+     "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 1077.º — Actualização de rendas",
+     "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 1039.º — (Tempo e lugar do pagamento)",
+     "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 1056.º — (Outra causa de renovação)",
+     "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 1076.º — Antecipação de rendas"
+    ],
+    "nota_topo": 3.9436018466949463
+   },
+   "por_questao": {
+    "posicoes": [
+     4,
+     28,
+     64
+    ],
+    "topo": [
+     "Decreto n.º 43525, de 1961-03-07 › Artigo 80.º",
+     "Decreto n.º 47314, de 1966-11-15 › Artigo 17.º",
+     "Decreto Legislativo Regional n.º 26/86/A, de 1986-11-25 › Artigo 8.º — Aplicação da renda resultante da avaliação",
+     "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 1077.º — Actualização de rendas",
+     "Decreto n.º 47314, de 1966-11-15 › Artigo 4.º"
+    ],
+    "nota_topo": 1.7521494626998901
+   }
+  },
+  {
+   "id": "caso-arr-04",
+   "area": "arrendamento",
+   "essenciais": [
+    "Decreto-Lei n.º 47344 › Anexo — CÓDIGO CIVIL::1036.º",
+    "Decreto-Lei n.º 47344 › Anexo — CÓDIGO CIVIL::1074.º",
+    "Decreto-Lei n.º 157/2006 › 22.º-C",
+    "Decreto-Lei n.º 157/2006 › 22.º-D",
+    "Decreto-Lei n.º 47344 › Anexo — CÓDIGO CIVIL::1046.º"
+   ],
+   "inteiro": {
+    "posicoes": [
+     null,
+     null,
+     null,
+     null,
+     null
+    ],
+    "topo": [
+     "Regulamento n.º 1128/2024, de 2024-10-08 › Artigo 53.º — Impedimentos",
+     "Regulamento n.º 1128/2024, de 2024-10-08 › Artigo 22.º — Forma e conteúdo do contrato",
+     "Lei n.º 81/2014, de 2014-12-19 › Artigo 24.º — Obrigações do arrendatário",
+     "Regulamento n.º 1128/2024, de 2024-10-08 › Artigo 65.º — Mudança de habitação",
+     "Lei n.º 6/2006, de 2006-02-27 › Artigo 14.º-A — Título para pagamento de rendas, encargos ou despesas"
+    ],
+    "nota_topo": 3.4663949012756348
+   },
+   "por_questao": {
+    "posicoes": [
+     30,
+     null,
+     1,
+     32,
+     null
+    ],
+    "topo": [
+     "Decreto-Lei n.º 157/2006, de 2006-08-08 › Artigo 22.º-C — Comunicações ao senhorio",
+     "Decreto n.º 43525, de 1961-03-07 › Artigo 36.º",
+     "Decreto n.º 43525, de 1961-03-07 › Artigo 55.º",
+     "Decreto-Lei n.º 157/2006, de 2006-08-08 › Artigo 3.º — Obras de conservação",
+     "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 1100.º — Denúncia pelo arrendatário"
+    ],
+    "nota_topo": 2.2483763694763184
+   }
+  },
+  {
+   "id": "caso-arr-05",
+   "area": "arrendamento",
+   "essenciais": [
+    "Decreto-Lei n.º 47344 › Anexo — CÓDIGO CIVIL::1425.º",
+    "Decreto-Lei n.º 47344 › Anexo — CÓDIGO CIVIL::1433.º",
+    "Decreto-Lei n.º 47344 › Anexo — CÓDIGO CIVIL::1426.º",
+    "Decreto-Lei n.º 47344 › Anexo — CÓDIGO CIVIL::1424.º",
+    "Decreto-Lei n.º 47344 › Anexo — CÓDIGO CIVIL::279.º"
+   ],
+   "inteiro": {
+    "posicoes": [
+     null,
+     null,
+     null,
+     null,
+     null
+    ],
+    "topo": [
+     "Lei n.º 41/2013, de 2013-06-26 › Anexo — CÓDIGO DE PROCESSO CIVIL › Artigo 1003.º — Nomeação de administrador na propriedade horizontal",
+     "Lei n.º 41/2013, de 2013-06-26 › Anexo — CÓDIGO DE PROCESSO CIVIL › Artigo 1056.º — Exoneração do administrador na propriedade horizontal",
+     "Lei n.º 41/2013, de 2013-06-26 › Anexo — CÓDIGO DE PROCESSO CIVIL › Artigo 383.º — Suspensão das deliberações da assembleia de condóminos",
+     "Lei n.º 41/2013, de 2013-06-26 › Anexo — CÓDIGO DE PROCESSO CIVIL › Artigo 1057.º — Processo a observar",
+     "Lei n.º 41/2013, de 2013-06-26 › Anexo — CÓDIGO DE PROCESSO CIVIL › Artigo 228.º — Citação de pessoa singular por via postal"
+    ],
+    "nota_topo": 2.237231969833374
+   },
+   "por_questao": {
+    "posicoes": [
+     24,
+     2,
+     null,
+     21,
+     null
+    ],
+    "topo": [
+     "Decreto-Lei n.º 59/2018, de 2018-08-02 › Anexo — (a que se refere o artigo 2.º) › Artigo 114.º — Nulidade e anulabilidade de deliberações",
+     "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 1433.º — (Impugnação das deliberações)",
+     "Lei n.º 91/95, de 1995-09-02 › Artigo 12.º — Funcionamento da assembleia",
+     "Decreto-Lei n.º 262/86, de 1986-09-02 › Anexo — CÓDIGO DAS SOCIEDADES COMERCIAIS › Artigo 59.º — Acção de anulação",
+     "Decreto-Lei n.º 267/94, de 1994-10-25 › Artigo 1432.º — [...]"
+    ],
+    "nota_topo": 1.5660792589187622
+   }
+  },
+  {
+   "id": "caso-cons-01",
+   "area": "consumo",
+   "essenciais": [
+    "Lei n.º 23/96 › 10.º",
+    "Lei n.º 23/96 › 5.º",
+    "Lei n.º 23/96 › 11.º"
+   ],
+   "inteiro": {
+    "posicoes": [
+     null,
+     null,
+     null
+    ],
+    "topo": [
+     "Decreto-Lei n.º 319/94, de 1994-12-24 › Anexo — Bases do contrato de concessão da exploração e gestão dos sistemas multimunicipais de captação, tratamento e abastecimento de água para consumo público › Base XXVIII — Obrigação de fornecimento",
+     "Regulamento n.º 594/2018, de 2018-09-04 › Artigo 99.º — Acertos de faturação",
+     "Aviso n.º 5659/2026/2, de 2026-03-13",
+     "Regulamento n.º 594/2018, de 2018-09-04 › Artigo 33.º — Conteúdo da fatura",
+     "Decreto-Lei n.º 18/2008, de 2008-01-29 › Anexo — CÓDIGO DOS CONTRATOS PÚBLICOS › Artigo 299.º — Prazo de pagamento"
+    ],
+    "nota_topo": 2.2239105701446533
+   },
+   "por_questao": {
+    "posicoes": [
+     2,
+     10,
+     null
+    ],
+    "topo": [
+     "Regulamento n.º 751/2026, de 2026-06-19 › Artigo 93.º — Prazo, forma e local de pagamento",
+     "Lei n.º 23/96, de 1996-07-26 › Artigo 10.º — Prescrição e caducidade",
+     "Regulamento n.º 594/2018, de 2018-09-04 › Artigo 101.º — Prazo de pagamento",
+     "Regulamento n.º 516/2024, de 2024-05-09 › Artigo 101.º — Prescrição e Caducidade",
+     "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 890.º — (Caducidade do direito à diferença de preço)"
+    ],
+    "nota_topo": 0.9468599557876587
+   }
+  },
+  {
+   "id": "caso-cons-02",
+   "area": "consumo",
+   "essenciais": [
+    "Decreto-Lei n.º 24/2014 › 10.º",
+    "Decreto-Lei n.º 24/2014 › 11.º",
+    "Decreto-Lei n.º 24/2014 › 13.º",
+    "Decreto-Lei n.º 24/2014 › 14.º",
+    "Decreto-Lei n.º 24/2014 › 12.º"
+   ],
+   "inteiro": {
+    "posicoes": [
+     null,
+     null,
+     null,
+     null,
+     null
+    ],
+    "topo": [
+     "Decreto Regulamentar Regional n.º 5/2026/A, de 2026-03-31 › ANEXO I — (a que se refere o artigo 1.º) › Artigo 45.º — Mobiliário urbano e outros elementos das esplanadas",
+     "Decreto-Lei n.º 73/2010, de 2010-06-21 › Anexo — CÓDIGO DOS IMPOSTOS ESPECIAIS DE CONSUMO › Artigo 62.º — Compras à distância",
+     "Decreto-Lei n.º 486/99, de 1999-11-13 › Anexo — CÓDIGO DOS VALORES MOBILIÁRIOS › Artigo 295.º — Requisitos de exercício",
+     "Decreto-Lei n.º 486/99, de 1999-11-13 › Anexo — CÓDIGO DOS VALORES MOBILIÁRIOS › Artigo 307.º — Contabilidade e registos",
+     "Decreto-Lei n.º 486/99, de 1999-11-13 › Anexo — CÓDIGO DOS VALORES MOBILIÁRIOS › Artigo 330.º — Execução nas melhores condições"
+    ],
+    "nota_topo": 3.1459147930145264
+   },
+   "por_questao": {
+    "posicoes": [
+     null,
+     3,
+     7,
+     1,
+     4
+    ],
+    "topo": [
+     "Decreto-Lei n.º 24/2014, de 2014-02-14 › Artigo 14.º — Inspeção e manipulação do bem",
+     "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 931.º — (Reembolso do preço e de despesas)",
+     "Decreto-Lei n.º 24/2014, de 2014-02-14 › Artigo 11.º — Exercício e efeitos do direito de livre resolução",
+     "Decreto-Lei n.º 24/2014, de 2014-02-14 › Artigo 12.º — Obrigações do fornecedor de bens ou prestador de serviços decorrentes da livre resolução",
+     "Decreto-Lei n.º 24/2014, de 2014-02-14 › Artigo 19.º — Execução do contrato celebrado à distância"
+    ],
+    "nota_topo": 2.598665475845337
+   }
+  },
+  {
+   "id": "caso-cons-03",
+   "area": "consumo",
+   "essenciais": [
+    "Decreto-Lei n.º 446/85 › 5.º",
+    "Decreto-Lei n.º 446/85 › 8.º",
+    "Decreto-Lei n.º 446/85 › 19.º",
+    "Decreto-Lei n.º 446/85 › 22.º",
+    "Decreto-Lei n.º 446/85 › 13.º"
+   ],
+   "inteiro": {
+    "posicoes": [
+     null,
+     null,
+     null,
+     null,
+     null
+    ],
+    "topo": [
+     "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 1157.º — (Noção)",
+     "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 285.º — (Disposição geral)",
+     "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 1226.º — (Responsabilidade dos subempreiteiros)",
+     "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 1244.º — (Prestações antecipadas)",
+     "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 406.º — (Eficácia dos contratos)"
+    ],
+    "nota_topo": 3.490877389907837
+   },
+   "por_questao": {
+    "posicoes": [
+     null,
+     27,
+     null,
+     null,
+     1
+    ],
+    "topo": [
+     "Decreto-Lei n.º 446/85, de 1985-10-25 › Artigo 13.º — (Subsistência dos contratos singulares)",
+     "Decreto-Lei n.º 74-A/2017, de 2017-06-23 › Artigo 35.º — Caráter imperativo",
+     "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 1097.º — Oposição à renovação deduzida pelo senhorio",
+     "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 1098.º — Oposição à renovação ou denúncia pelo arrendatário",
+     "Portaria n.º 728/73, de 1973-10-22 › Artigo 211.º — (Disposições contratuais que se mantêm)"
+    ],
+    "nota_topo": 3.3382949829101562
+   }
+  },
+  {
+   "id": "caso-cons-04",
+   "area": "consumo",
+   "essenciais": [
+    "Decreto-Lei n.º 133/2009 › 2.º",
+    "Decreto-Lei n.º 133/2009 › 19.º",
+    "Decreto-Lei n.º 133/2009 › 26.º",
+    "Decreto-Lei n.º 133/2009 › 23.º-A"
+   ],
+   "inteiro": {
+    "posicoes": [
+     1,
+     4,
+     null,
+     null
+    ],
+    "topo": [
+     "Decreto-Lei n.º 133/2009, de 2009-06-02 › Artigo 2.º — Operações excluídas",
+     "Decreto-Lei n.º 133/2009, de 2009-06-02 › Artigo 8.º — Informações pré-contratuais nos contratos de crédito sob a forma de facilidade de descoberto e noutros contratos de crédito especiais",
+     "Decreto-Lei n.º 74-A/2017, de 2017-06-23 › Artigo 25.º — Renegociação do contrato de crédito",
+     "Decreto-Lei n.º 133/2009, de 2009-06-02 › Artigo 19.º — Reembolso antecipado",
+     "Decreto-Lei n.º 133/2009, de 2009-06-02 › Artigo 14.º — Informação a prestar durante a vigência do contrato de crédito"
+    ],
+    "nota_topo": 2.819779634475708
+   },
+   "por_questao": {
+    "posicoes": [
+     null,
+     9,
+     null,
+     98
+    ],
+    "topo": [
+     "Decreto-Lei n.º 74-A/2017, de 2017-06-23 › Artigo 1.º — Objeto",
+     "Diretiva 2014/17/UE do Parlamento Europeu e do Conselho, de 4 de fevereiro de 2014, de 2014-02-28 › Artigo 1.º — Objeto",
+     "Lei n.º 58/2012, de 2012-11-09 › Artigo 40.º — Aplicação no tempo",
+     "Lei n.º 58/2012, de 2012-11-09 › Artigo 8.º — Acesso ao regime de proteção",
+     "Portaria n.º 407/2015, de 2015-11-24 › Artigo 21.º — Reembolso"
+    ],
+    "nota_topo": 2.1534740924835205
+   }
+  },
+  {
+   "id": "caso-cons-05",
+   "area": "consumo",
+   "essenciais": [
+    "Decreto-Lei n.º 84/2021 › 3.º",
+    "Decreto-Lei n.º 84/2021 › 23.º",
+    "Decreto-Lei n.º 84/2021 › 24.º",
+    "Decreto-Lei n.º 84/2021 › 25.º"
+   ],
+   "inteiro": {
+    "posicoes": [
+     null,
+     null,
+     null,
+     null
+    ],
+    "topo": [
+     "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 1102.º — Denúncia para habitação",
+     "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 916.º — (Denúncia do defeito)",
+     "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 1212.º — (Propriedade da obra)",
+     "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 875.º — (Forma)",
+     "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 981.º — (Forma)"
+    ],
+    "nota_topo": 2.2010884284973145
+   },
+   "por_questao": {
+    "posicoes": [
+     null,
+     1,
+     null,
+     null
+    ],
+    "topo": [
+     "Decreto-Lei n.º 84/2021, de 2021-10-18 › Artigo 23.º — Responsabilidade do profissional",
+     "Decreto-Lei n.º 307/2007, de 2007-08-31 › Artigo 4.º — Livre escolha",
+     "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 548.º — (Falta de escolha pelo devedor)",
+     "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 1032.º — (Vício da coisa locada)",
+     "Decreto-Lei n.º 62/2020, de 2020-08-28 › Artigo 75.º — Direitos de informação"
+    ],
+    "nota_topo": 1.7435957193374634
+   }
+  },
+  {
+   "id": "caso-fam-01",
+   "area": "familia",
+   "essenciais": [
+    "Decreto-Lei n.º 47344 › Anexo — CÓDIGO CIVIL::1781.º",
+    "Decreto-Lei n.º 47344 › Anexo — CÓDIGO CIVIL::1782.º",
+    "Decreto-Lei n.º 47344 › Anexo — CÓDIGO CIVIL::1773.º",
+    "Decreto-Lei n.º 47344 › Anexo — CÓDIGO CIVIL::1789.º"
+   ],
+   "inteiro": {
+    "posicoes": [
+     null,
+     null,
+     null,
+     null
+    ],
+    "topo": [
+     "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 1775.º — Requerimento e instrução do processo na conservatória do registo civil",
+     "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 1712.º — (Revogação ou modificação da convenção antenupcial antes da celebração do casamento)",
+     "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 1699.º — (Restrições ao princípio da liberdade)",
+     "Decreto-Lei n.º 131/95, de 1995-06-06 › Anexo — Código do Registo Civil › Artigo 137.º — Documentos para a instrução do processo",
+     "Decreto-Lei n.º 131/95, de 1995-06-06 › Anexo — Código do Registo Civil › Artigo 272.º — Instrução e decisão"
+    ],
+    "nota_topo": 3.6480815410614014
+   },
+   "por_questao": {
+    "posicoes": [
+     1,
+     null,
+     19,
+     30
+    ],
+    "topo": [
+     "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 1781.º — Ruptura do casamento",
+     "Lei n.º 47/98, de 1998-08-10 › Artigo 1.º",
+     "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 1795.º-D — (Conversão da separação em divórcio)",
+     "Decreto-Lei n.º 261/75, de 1975-05-27",
+     "Resolução da Assembleia da República n.º 23/84, de 1984-11-27 › Artigo 5.º"
+    ],
+    "nota_topo": 1.3970750570297241
+   }
+  },
+  {
+   "id": "caso-fam-02",
+   "area": "familia",
+   "essenciais": [
+    "Decreto-Lei n.º 47344 › Anexo — CÓDIGO CIVIL::1905.º",
+    "Lei n.º 41/2013 › Anexo — CÓDIGO DE PROCESSO CIVIL::989.º",
+    "Lei n.º 141/2015 › Anexo — (a que se refere o artigo 2.º)::48.º"
+   ],
+   "inteiro": {
+    "posicoes": [
+     3,
+     null,
+     null
+    ],
+    "topo": [
+     "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 1487.º — (Âmbito da família)",
+     "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 1917.º — (Alimentos)",
+     "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 1905.º — Alimentos devidos ao filho em caso de divórcio, separação judicial de pessoas e bens, declaração de nulidade ou anulação do casamento",
+     "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 1920.º-B — (Obrigatoriedade do registo)",
+     "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 2016.º-A — Montante dos alimentos"
+    ],
+    "nota_topo": -0.7970485091209412
+   },
+   "por_questao": {
+    "posicoes": [
+     16,
+     2,
+     9
+    ],
+    "topo": [
+     "Lei n.º 122/2015, de 2015-09-01 › Artigo 3.º — Alteração ao Código do Processo Civil",
+     "Lei n.º 41/2013, de 2013-06-26 › Anexo — CÓDIGO DE PROCESSO CIVIL › Artigo 989.º — Alimentos a filhos maiores ou emancipados",
+     "Decreto-Lei n.º 496/77, de 1977-11-25",
+     "Assento n.º 6/95, de 1995-10-10",
+     "Decreto do Governo n.º 45/84, de 1984-08-03 › Anexo › Artigo 6.º — (Funções da instituição intermediária)"
+    ],
+    "nota_topo": 2.676614999771118
+   }
+  },
+  {
+   "id": "caso-fam-03",
+   "area": "familia",
+   "essenciais": [
+    "Decreto-Lei n.º 47344 › Anexo — CÓDIGO CIVIL::2133.º",
+    "Lei n.º 7/2001 › 1.º",
+    "Lei n.º 7/2001 › 5.º",
+    "Decreto-Lei n.º 47344 › Anexo — CÓDIGO CIVIL::2020.º"
+   ],
+   "inteiro": {
+    "posicoes": [
+     16,
+     2,
+     4,
+     null
+    ],
+    "topo": [
+     "Lei n.º 7/2001, de 2001-05-11 › Artigo 9.º — Regulamentação",
+     "Lei n.º 7/2001, de 2001-05-11 › Artigo 1.º — Objecto",
+     "Lei n.º 7/2001, de 2001-05-11 › Artigo 10.º — Revogação",
+     "Lei n.º 7/2001, de 2001-05-11 › Artigo 5.º — Protecção da casa de morada da família em caso de morte",
+     "Lei n.º 7/2001, de 2001-05-11 › Artigo 4.º — Protecção da casa de morada da família em caso de ruptura"
+    ],
+    "nota_topo": 1.8718559741973877
+   },
+   "por_questao": {
+    "posicoes": [
+     null,
+     8,
+     1,
+     5
+    ],
+    "topo": [
+     "Lei n.º 7/2001, de 2001-05-11 › Artigo 5.º — Protecção da casa de morada da família em caso de morte",
+     "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 1707.º-A — Regime da renúncia à condição de herdeiro",
+     "Portaria n.º 242/94, de 1994-04-18",
+     "Lei n.º 6/2001, de 2001-05-11 › Artigo 5.º — Casa de morada comum",
+     "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 2020.º — (União de facto)"
+    ],
+    "nota_topo": -0.8326171040534973
+   }
+  },
+  {
+   "id": "caso-fam-04",
+   "area": "familia",
+   "essenciais": [
+    "Decreto-Lei n.º 47344 › Anexo — CÓDIGO CIVIL::2159.º",
+    "Decreto-Lei n.º 47344 › Anexo — CÓDIGO CIVIL::2168.º",
+    "Decreto-Lei n.º 47344 › Anexo — CÓDIGO CIVIL::2169.º",
+    "Decreto-Lei n.º 47344 › Anexo — CÓDIGO CIVIL::2178.º",
+    "Decreto-Lei n.º 47344 › Anexo — CÓDIGO CIVIL::2056.º"
+   ],
+   "inteiro": {
+    "posicoes": [
+     null,
+     null,
+     null,
+     null,
+     1
+    ],
+    "topo": [
+     "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 2056.º — (Formas de aceitação)",
+     "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 2157.º — (Herdeiros legitimários)",
+     "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 2080.º — (A quem incumbe o cargo)",
+     "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 2018.º — (Apanágio do cônjuge sobrevivo)",
+     "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 2133.º — (Classes de sucessíveis)"
+    ],
+    "nota_topo": 1.357975959777832
+   },
+   "por_questao": {
+    "posicoes": [
+     null,
+     null,
+     null,
+     21,
+     null
+    ],
+    "topo": [
+     "Resolução n.º 2/79, de 1979-01-04",
+     "Decreto-Lei n.º 480/99, de 1999-11-09 › Anexo — CÓDIGO DE PROCESSO DO TRABALHO › Artigo 164.º — Acção de declaração de nulidade",
+     "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 2069.º — (Âmbito da herança)",
+     "Portaria n.º 381/2015, de 2015-10-23 › Artigo 17.º — Execução das operações",
+     "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 332.º — (Absolvição e interrupção da instância e ineficácia do compromisso arbitral)"
+    ],
+    "nota_topo": -0.30132409930229187
+   }
+  },
+  {
+   "id": "caso-fam-05",
+   "area": "familia",
+   "essenciais": [
+    "Decreto-Lei n.º 47344 › Anexo — CÓDIGO CIVIL::2067.º",
+    "Decreto-Lei n.º 47344 › Anexo — CÓDIGO CIVIL::606.º",
+    "Decreto-Lei n.º 47344 › Anexo — CÓDIGO CIVIL::2062.º",
+    "Decreto-Lei n.º 47344 › Anexo — CÓDIGO CIVIL::2066.º"
+   ],
+   "inteiro": {
+    "posicoes": [
+     null,
+     null,
+     null,
+     null
+    ],
+    "topo": [
+     "Decreto-Lei n.º 433/99, de 1999-10-26 › Anexo — CÓDIGO DE PROCEDIMENTO E DE PROCESSO TRIBUTÁRIO › Artigo 272.º — Declaração de falhas",
+     "Lei n.º 2/2014, de 2014-01-16 › Anexo — CÓDIGO DO IMPOSTO SOBRE O RENDIMENTO DAS PESSOAS COLETIVAS › Artigo 41.º — Créditos incobráveis",
+     "Decreto-Lei n.º 433/99, de 1999-10-26 › Anexo — CÓDIGO DE PROCEDIMENTO E DE PROCESSO TRIBUTÁRIO › Artigo 153.º — Legitimidade dos executados",
+     "Decreto-Lei n.º 480/99, de 1999-11-09 › Anexo — CÓDIGO DE PROCESSO DO TRABALHO › Artigo 98.º — Exclusão da reclamação de créditos",
+     "Lei n.º 41/2013, de 2013-06-26 › Anexo — CÓDIGO DE PROCESSO CIVIL › Artigo 791.º — Termos posteriores - Verificação e graduação dos créditos"
+    ],
+    "nota_topo": 1.4770705699920654
+   },
+   "por_questao": {
+    "posicoes": [
+     4,
+     null,
+     28,
+     25
+    ],
+    "topo": [
+     "Decreto-Lei n.º 44129, de 1961-12-28 › Artigo 1469.º — (Acção sub-rogatória)",
+     "Decreto-Lei n.º 47690, de 1967-05-11 › Artigo 1469.º — (Acção sub-rogatória)",
+     "Lei n.º 41/2013, de 2013-06-26 › Anexo — CÓDIGO DE PROCESSO CIVIL › Artigo 1041.º — Ação sub-rogatória",
+     "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 2067.º — (Sub-rogação dos credores)",
+     "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 279.º — (Cômputo do termo)"
+    ],
+    "nota_topo": 6.219712257385254
+   }
+  },
+  {
+   "id": "caso-resp-01",
+   "area": "responsabilidade",
+   "essenciais": [
+    "Decreto-Lei n.º 47344 › Anexo — CÓDIGO CIVIL::496.º",
+    "Decreto-Lei n.º 47344 › Anexo — CÓDIGO CIVIL::495.º",
+    "Decreto-Lei n.º 47344 › Anexo — CÓDIGO CIVIL::483.º",
+    "Decreto-Lei n.º 291/2007 › 64.º"
+   ],
+   "inteiro": {
+    "posicoes": [
+     5,
+     4,
+     null,
+     null
+    ],
+    "topo": [
+     "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 2042.º — (Representação na sucessão legal)",
+     "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 2045.º — (Extensão da representação)",
+     "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 2138.º — (Direito de representação)",
+     "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 495.º — (Indemnização a terceiros em caso de morte ou lesão corporal)",
+     "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 496.º — (Danos não patrimoniais)"
+    ],
+    "nota_topo": 1.5988355875015259
+   },
+   "por_questao": {
+    "posicoes": [
+     1,
+     49,
+     null,
+     null
+    ],
+    "topo": [
+     "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 496.º — (Danos não patrimoniais)",
+     "Acórdão do Supremo Tribunal de Justiça n.º 6/2014, de 2014-05-22",
+     "Acórdão do Supremo Tribunal de Justiça n.º 12/2014, de 2014-07-08",
+     "Lei n.º 108/2017, de 2017-11-23 › Artigo 15.º — Direito a indemnização",
+     "Acórdão do Supremo Tribunal de Justiça n.º 6/2014, de 2014-05-22"
+    ],
+    "nota_topo": 7.355417728424072
+   }
+  },
+  {
+   "id": "caso-resp-02",
+   "area": "responsabilidade",
+   "essenciais": [
+    "Decreto-Lei n.º 47344 › Anexo — CÓDIGO CIVIL::498.º",
+    "Decreto-Lei n.º 47344 › Anexo — CÓDIGO CIVIL::325.º",
+    "Decreto-Lei n.º 47344 › Anexo — CÓDIGO CIVIL::326.º",
+    "Decreto-Lei n.º 48/95 › Anexo — CÓDIGO PENAL::148.º",
+    "Decreto-Lei n.º 48/95 › Anexo — CÓDIGO PENAL::118.º"
+   ],
+   "inteiro": {
+    "posicoes": [
+     null,
+     null,
+     null,
+     null,
+     null
+    ],
+    "topo": [
+     "Lei n.º 22-A/2007, de 2007-06-29 › Anexo I — Código do Imposto sobre Veículos (a que se refere o n.º 1 do artigo 1.º) › Artigo 35.º — Funcionários e agentes das Comunidades Europeias",
+     "Decreto-Lei n.º 317/2000, de 2000-12-13 › Artigo 45.º — Pedido de homologação CE de componente",
+     "Decreto-Lei n.º 291/2007, de 2007-08-21 › Artigo 33.º — Princípios base da gestão de sinistros",
+     "Decreto-Lei n.º 291/2007, de 2007-08-21 › Artigo 50.º — Fundado conflito",
+     "Decreto-Lei n.º 291/2007, de 2007-08-21 › Artigo 78.º — Disponibilização dos dados informativos relativos à regularização de sinistros suscitadores de responsabilidade civil automóvel"
+    ],
+    "nota_topo": -1.4373815059661865
+   },
+   "por_questao": {
+    "posicoes": [
+     1,
+     null,
+     null,
+     11,
+     null
+    ],
+    "topo": [
+     "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 498.º — (Prescrição)",
+     "Acórdão do Supremo Tribunal de Justiça n.º 14/2025, de 2025-11-06",
+     "Acórdão do Supremo Tribunal Administrativo n.º 2/2018, de 2018-12-07",
+     "Acórdão do Supremo Tribunal de Justiça n.º 14/2025, de 2025-11-06",
+     "Decreto-Lei n.º 383/89, de 1989-11-06 › Artigo 11.º — Prescrição"
+    ],
+    "nota_topo": 5.831683158874512
+   }
+  },
+  {
+   "id": "caso-resp-03",
+   "area": "responsabilidade",
+   "essenciais": [
+    "Decreto-Lei n.º 291/2007 › 49.º",
+    "Decreto-Lei n.º 291/2007 › 51.º",
+    "Lei n.º 98/2009 › 9.º",
+    "Decreto-Lei n.º 291/2007 › 62.º"
+   ],
+   "inteiro": {
+    "posicoes": [
+     null,
+     null,
+     null,
+     null
+    ],
+    "topo": [
+     "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 1725.º — (Presunção de comunicabilidade)",
+     "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 83.º — (Domicílio profissional)",
+     "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 508.º — (Limites máximos)",
+     "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 506.º — (Colisão de veículos)",
+     "Decreto-Lei n.º 291/2007, de 2007-08-21 › Artigo 5.º — Local do risco relativamente a veículos para exportação, ou importados, no âmbito do espaço económico europeu"
+    ],
+    "nota_topo": -0.5153334736824036
+   },
+   "por_questao": {
+    "posicoes": [
+     2,
+     10,
+     19,
+     4
+    ],
+    "topo": [
+     "Decreto-Lei n.º 26/2025, de 2025-03-20 › ANEXO — (a que se refere o artigo 6.º) › Artigo 49.º — Âmbito material",
+     "Decreto-Lei n.º 291/2007, de 2007-08-21 › Artigo 49.º — Âmbito material",
+     "Decreto-Lei n.º 291/2007, de 2007-08-21 › Artigo 74.º — Intervenção em caso de não identificação de veículo ou de empresa de seguros",
+     "Decreto-Lei n.º 291/2007, de 2007-08-21 › Artigo 62.º — Legitimidade",
+     "Decreto-Lei n.º 26/2025, de 2025-03-20 › ANEXO — (a que se refere o artigo 6.º) › Artigo 62.º — Legitimidade"
+    ],
+    "nota_topo": 7.638370513916016
+   }
+  },
+  {
+   "id": "caso-resp-04",
+   "area": "responsabilidade",
+   "essenciais": [
+    "Lei n.º 72/2013 › Anexo — CÓDIGO DA ESTRADA::30.º",
+    "Lei n.º 72/2013 › Anexo — CÓDIGO DA ESTRADA::29.º",
+    "Decreto-Lei n.º 47344 › Anexo — CÓDIGO CIVIL::483.º",
+    "Decreto-Lei n.º 47344 › Anexo — CÓDIGO CIVIL::506.º"
+   ],
+   "inteiro": {
+    "posicoes": [
+     null,
+     null,
+     null,
+     null
+    ],
+    "topo": [
+     "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 505.º — (Exclusão da responsabilidade)",
+     "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 1383.º — (Abolição dos atravessadouros)",
+     "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 453.º — (Nomeação)",
+     "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 2305.º — (Direito de acrescer entre usufrutuários)",
+     "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 1353.º — (Conteúdo)"
+    ],
+    "nota_topo": 0.611897349357605
+   },
+   "por_questao": {
+    "posicoes": [
+     3,
+     7,
+     null,
+     4
+    ],
+    "topo": [
+     "Lei n.º 72/2013, de 2013-09-03 › Anexo — CÓDIGO DA ESTRADA › Artigo 33.º — Impossibilidade de cruzamento",
+     "Lei n.º 72/2013, de 2013-09-03 › Anexo — CÓDIGO DA ESTRADA › Artigo 32.º — Cedência de passagem a certos veículos",
+     "Lei n.º 72/2013, de 2013-09-03 › Anexo — CÓDIGO DA ESTRADA › Artigo 30.º — Regra geral",
+     "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 506.º — (Colisão de veículos)",
+     "Decreto Regulamentar n.º 22-A/98, de 1998-10-01 › Anexo › Artigo 21.º — Enumeração e significado dos sinais de cedência de passagem"
+    ],
+    "nota_topo": 3.062643527984619
+   }
+  },
+  {
+   "id": "caso-resp-05",
+   "area": "responsabilidade",
+   "essenciais": [
+    "Lei n.º 72/2013 › Anexo — CÓDIGO DA ESTRADA::122.º",
+    "Lei n.º 72/2013 › Anexo — CÓDIGO DA ESTRADA::81.º",
+    "Decreto-Lei n.º 291/2007 › 27.º",
+    "Decreto-Lei n.º 47344 › Anexo — CÓDIGO CIVIL::498.º"
+   ],
+   "inteiro": {
+    "posicoes": [
+     5,
+     null,
+     null,
+     null
+    ],
+    "topo": [
+     "Lei n.º 72/2013, de 2013-09-03 › Anexo — CÓDIGO DA ESTRADA › Artigo 129.º — Novos exames",
+     "Lei n.º 72/2013, de 2013-09-03 › Anexo — CÓDIGO DA ESTRADA › Artigo 125.º — Outros títulos",
+     "Lei n.º 72/2013, de 2013-09-03 › Anexo — CÓDIGO DA ESTRADA › Artigo 104.º — Equiparação",
+     "Lei n.º 72/2013, de 2013-09-03 › Anexo — CÓDIGO DA ESTRADA › Artigo 148.º — Sistema de pontos e cassação do título de condução",
+     "Lei n.º 72/2013, de 2013-09-03 › Anexo — CÓDIGO DA ESTRADA › Artigo 122.º — Regime probatório"
+    ],
+    "nota_topo": 1.1410164833068848
+   },
+   "por_questao": {
+    "posicoes": [
+     52,
+     40,
+     3,
+     26
+    ],
+    "topo": [
+     "Acórdão do Supremo Tribunal de Justiça n.º 10/2024, de 2024-07-15",
+     "Decreto-Lei n.º 26/2025, de 2025-03-20 › ANEXO — (a que se refere o artigo 6.º) › Artigo 27.º — Direito de regresso da empresa de seguros",
+     "Decreto-Lei n.º 291/2007, de 2007-08-21 › Artigo 27.º — Direito de regresso da empresa de seguros",
+     "Jurisprudência n.º 6/2002, de 2002-07-18",
+     "Jurisprudência n.º 6/2002, de 2002-07-18"
+    ],
+    "nota_topo": 7.965414047241211
+   }
+  },
+  {
+   "id": "caso-emp-01",
+   "area": "empresas",
+   "essenciais": [
+    "Decreto-Lei n.º 262/86 › Anexo — CÓDIGO DAS SOCIEDADES COMERCIAIS::251.º",
+    "Decreto-Lei n.º 262/86 › Anexo — CÓDIGO DAS SOCIEDADES COMERCIAIS::58.º",
+    "Decreto-Lei n.º 262/86 › Anexo — CÓDIGO DAS SOCIEDADES COMERCIAIS::59.º",
+    "Lei n.º 41/2013 › Anexo — CÓDIGO DE PROCESSO CIVIL::380.º"
+   ],
+   "inteiro": {
+    "posicoes": [
+     null,
+     null,
+     null,
+     null
+    ],
+    "topo": [
+     "Decreto-Lei n.º 262/86, de 1986-09-02 › Anexo — CÓDIGO DAS SOCIEDADES COMERCIAIS › Artigo 270.º-A — Constituição",
+     "Decreto-Lei n.º 262/86, de 1986-09-02 › Anexo — CÓDIGO DAS SOCIEDADES COMERCIAIS › Artigo 248.º — Assembleias gerais",
+     "Decreto-Lei n.º 262/86, de 1986-09-02 › Anexo — CÓDIGO DAS SOCIEDADES COMERCIAIS › Artigo 232.º — (Amortização da quota)",
+     "Decreto-Lei n.º 262/86, de 1986-09-02 › Anexo — CÓDIGO DAS SOCIEDADES COMERCIAIS › Artigo 246.º — (Competência dos sócios)",
+     "Decreto-Lei n.º 262/86, de 1986-09-02 › Anexo — CÓDIGO DAS SOCIEDADES COMERCIAIS › Artigo 40.º — (Relações das sociedades por quotas, anónimas e em comandita por acções não registadas com terceiros)"
+    ],
+    "nota_topo": 2.0736947059631348
+   },
+   "por_questao": {
+    "posicoes": [
+     1,
+     13,
+     33,
+     3
+    ],
+    "topo": [
+     "Decreto-Lei n.º 262/86, de 1986-09-02 › Anexo — CÓDIGO DAS SOCIEDADES COMERCIAIS › Artigo 251.º — (Impedimento de voto)",
+     "Decreto-Lei n.º 59/2018, de 2018-08-02 › Anexo — (a que se refere o artigo 2.º) › Artigo 114.º — Nulidade e anulabilidade de deliberações",
+     "Lei n.º 41/2013, de 2013-06-26 › Anexo — CÓDIGO DE PROCESSO CIVIL › Artigo 380.º — Pressupostos e formalidades",
+     "Lei n.º 28/82, de 1982-11-15 › Artigo 103.º-E — Medidas cautelares",
+     "Decreto-Lei n.º 262/86, de 1986-09-02 › Anexo — CÓDIGO DAS SOCIEDADES COMERCIAIS › Artigo 412.º — (Arguição da invalidade de deliberações)"
+    ],
+    "nota_topo": 4.5305938720703125
+   }
+  },
+  {
+   "id": "caso-emp-02",
+   "area": "empresas",
+   "essenciais": [
+    "Decreto-Lei n.º 53/2004 › Anexo — CÓDIGO DA INSOLVÊNCIA E DA RECUPERAÇÃO DE EMPRESAS::17.º-A",
+    "Decreto-Lei n.º 53/2004 › Anexo — CÓDIGO DA INSOLVÊNCIA E DA RECUPERAÇÃO DE EMPRESAS::3.º",
+    "Decreto-Lei n.º 53/2004 › Anexo — CÓDIGO DA INSOLVÊNCIA E DA RECUPERAÇÃO DE EMPRESAS::18.º",
+    "Decreto-Lei n.º 53/2004 › Anexo — CÓDIGO DA INSOLVÊNCIA E DA RECUPERAÇÃO DE EMPRESAS::20.º",
+    "Decreto-Lei n.º 53/2004 › Anexo — CÓDIGO DA INSOLVÊNCIA E DA RECUPERAÇÃO DE EMPRESAS::186.º"
+   ],
+   "inteiro": {
+    "posicoes": [
+     null,
+     null,
+     13,
+     7,
+     null
+    ],
+    "topo": [
+     "Decreto-Lei n.º 53/2004, de 2004-03-18 › Anexo — CÓDIGO DA INSOLVÊNCIA E DA RECUPERAÇÃO DE EMPRESAS › Artigo 269.º — Benefício relativo ao imposto do selo",
+     "Decreto-Lei n.º 53/2004, de 2004-03-18 › Anexo — CÓDIGO DA INSOLVÊNCIA E DA RECUPERAÇÃO DE EMPRESAS › Artigo 198.º — Providências específicas de sociedades comerciais",
+     "Decreto-Lei n.º 53/2004, de 2004-03-18 › Anexo — CÓDIGO DA INSOLVÊNCIA E DA RECUPERAÇÃO DE EMPRESAS › Artigo 266.º — Separação dos bens",
+     "Decreto-Lei n.º 53/2004, de 2004-03-18 › Anexo — CÓDIGO DA INSOLVÊNCIA E DA RECUPERAÇÃO DE EMPRESAS › Artigo 92.º — Planos de regularização",
+     "Decreto-Lei n.º 53/2004, de 2004-03-18 › Anexo — CÓDIGO DA INSOLVÊNCIA E DA RECUPERAÇÃO DE EMPRESAS › Artigo 298.º — Interrupção da prescrição"
+    ],
+    "nota_topo": -1.0373303890228271
+   },
+   "por_questao": {
+    "posicoes": [
+     2,
+     null,
+     null,
+     null,
+     null
+    ],
+    "topo": [
+     "Decreto-Lei n.º 79/2017, de 2017-06-30 › Artigo 3.º — Alteração ao Código da Insolvência e da Recuperação de Empresas",
+     "Decreto-Lei n.º 53/2004, de 2004-03-18 › Anexo — CÓDIGO DA INSOLVÊNCIA E DA RECUPERAÇÃO DE EMPRESAS › Artigo 17.º-A — Finalidade e natureza do processo especial de revitalização",
+     "Decreto-Lei n.º 26/2015, de 2015-02-06 › Anexo — (a que se refere o artigo 11.º) › Artigo 18.º — SIREVE, processo de insolvência e processo especial de revitalização",
+     "Decreto-Lei n.º 53/2004, de 2004-03-18 › Anexo — CÓDIGO DA INSOLVÊNCIA E DA RECUPERAÇÃO DE EMPRESAS › Artigo 224.º — Pressupostos da administração pelo devedor",
+     "Decreto-Lei n.º 53/2004, de 2004-03-18 › Anexo — CÓDIGO DA INSOLVÊNCIA E DA RECUPERAÇÃO DE EMPRESAS › Artigo 17.º-C — Requerimento e formalidades"
+    ],
+    "nota_topo": 1.7475148439407349
+   }
+  },
+  {
+   "id": "caso-emp-03",
+   "area": "empresas",
+   "essenciais": [
+    "Decreto-Lei n.º 53/2004 › Anexo — CÓDIGO DA INSOLVÊNCIA E DA RECUPERAÇÃO DE EMPRESAS::236.º",
+    "Decreto-Lei n.º 53/2004 › Anexo — CÓDIGO DA INSOLVÊNCIA E DA RECUPERAÇÃO DE EMPRESAS::239.º",
+    "Decreto-Lei n.º 53/2004 › Anexo — CÓDIGO DA INSOLVÊNCIA E DA RECUPERAÇÃO DE EMPRESAS::245.º",
+    "Decreto-Lei n.º 53/2004 › Anexo — CÓDIGO DA INSOLVÊNCIA E DA RECUPERAÇÃO DE EMPRESAS::238.º"
+   ],
+   "inteiro": {
+    "posicoes": [
+     null,
+     15,
+     null,
+     null
+    ],
+    "topo": [
+     "Decreto-Lei n.º 53/2004, de 2004-03-18 › Anexo — CÓDIGO DA INSOLVÊNCIA E DA RECUPERAÇÃO DE EMPRESAS › Artigo 20.º — Outros legitimados",
+     "Decreto-Lei n.º 53/2004, de 2004-03-18 › Anexo — CÓDIGO DA INSOLVÊNCIA E DA RECUPERAÇÃO DE EMPRESAS › Artigo 116.º — Contas correntes",
+     "Decreto-Lei n.º 53/2004, de 2004-03-18 › Anexo — CÓDIGO DA INSOLVÊNCIA E DA RECUPERAÇÃO DE EMPRESAS › Artigo 47.º — Conceito de credores da insolvência e classes de créditos sobre a insolvência",
+     "Decreto-Lei n.º 53/2004, de 2004-03-18 › Anexo — CÓDIGO DA INSOLVÊNCIA E DA RECUPERAÇÃO DE EMPRESAS › Artigo 249.º — Âmbito de aplicação",
+     "Decreto-Lei n.º 53/2004, de 2004-03-18 › Anexo — CÓDIGO DA INSOLVÊNCIA E DA RECUPERAÇÃO DE EMPRESAS › Artigo 18.º — Dever de apresentação à insolvência"
+    ],
+    "nota_topo": 0.2248363345861435
+   },
+   "por_questao": {
+    "posicoes": [
+     1,
+     10,
+     8,
+     5
+    ],
+    "topo": [
+     "Decreto-Lei n.º 53/2004, de 2004-03-18 › Anexo — CÓDIGO DA INSOLVÊNCIA E DA RECUPERAÇÃO DE EMPRESAS › Artigo 236.º — Pedido de exoneração do passivo restante",
+     "Decreto-Lei n.º 53/2004, de 2004-03-18 › Anexo — CÓDIGO DA INSOLVÊNCIA E DA RECUPERAÇÃO DE EMPRESAS › Artigo 248.º — Custas",
+     "Decreto-Lei n.º 53/2004, de 2004-03-18 › Anexo — CÓDIGO DA INSOLVÊNCIA E DA RECUPERAÇÃO DE EMPRESAS › Artigo 246.º — Revogação da exoneração",
+     "Decreto-Lei n.º 53/2004, de 2004-03-18 › Anexo — CÓDIGO DA INSOLVÊNCIA E DA RECUPERAÇÃO DE EMPRESAS › Artigo 237.º — Processamento subsequente",
+     "Decreto-Lei n.º 53/2004, de 2004-03-18 › Anexo — CÓDIGO DA INSOLVÊNCIA E DA RECUPERAÇÃO DE EMPRESAS › Artigo 238.º — Indeferimento liminar"
+    ],
+    "nota_topo": 4.622356414794922
+   }
+  },
+  {
+   "id": "caso-emp-04",
+   "area": "empresas",
+   "essenciais": [
+    "Decreto-Lei n.º 62/2013 › 4.º",
+    "Decreto-Lei n.º 62/2013 › 7.º",
+    "Decreto-Lei n.º 62/2013 › 10.º",
+    "Decreto-Lei n.º 47344 › Anexo — CÓDIGO CIVIL::317.º"
+   ],
+   "inteiro": {
+    "posicoes": [
+     2,
+     4,
+     6,
+     null
+    ],
+    "topo": [
+     "Decreto-Lei n.º 62/2013, de 2013-05-10 › Artigo 5.º — Transações entre empresas e entidades públicas",
+     "Decreto-Lei n.º 62/2013, de 2013-05-10 › Artigo 4.º — Transações entre empresas",
+     "Decreto-Lei n.º 62/2013, de 2013-05-10 › Artigo 3.º — Definições",
+     "Decreto-Lei n.º 62/2013, de 2013-05-10 › Artigo 7.º — Indemnização pelos custos suportados com a cobrança da dívida",
+     "Decreto-Lei n.º 62/2013, de 2013-05-10 › Artigo 6.º — Pagamentos em prestações"
+    ],
+    "nota_topo": 3.6724116802215576
+   },
+   "por_questao": {
+    "posicoes": [
+     1,
+     13,
+     null,
+     34
+    ],
+    "topo": [
+     "Decreto-Lei n.º 62/2013, de 2013-05-10 › Artigo 4.º — Transações entre empresas",
+     "Directiva 2011/7/UE do Parlamento Europeu e do Conselho, de 16 de Fevereiro de 2011, de 2011-02-23 › Artigo 3.º — Transacções entre empresas",
+     "Lei n.º 8/2012, de 2012-02-21 › Artigo 7.º — Atrasos nos pagamentos",
+     "Decreto-Lei n.º 58/2013, de 2013-05-08 › Artigo 9.º — Proibição de cobrança de comissões e imputação de despesas",
+     "Lei n.º 110/2009, de 2009-09-16 › Anexo — CÓDIGO DOS REGIMES CONTRIBUTIVOS DO SISTEMA PREVIDENCIAL DE SEGURANÇA SOCIAL › Artigo 211.º — Juros de mora"
+    ],
+    "nota_topo": 3.3574883937835693
+   }
+  },
+  {
+   "id": "caso-emp-05",
+   "area": "empresas",
+   "essenciais": [
+    "Decreto-Lei n.º 262/86 › Anexo — CÓDIGO DAS SOCIEDADES COMERCIAIS::257.º",
+    "Decreto-Lei n.º 262/86 › Anexo — CÓDIGO DAS SOCIEDADES COMERCIAIS::256.º",
+    "Lei n.º 7/2009 › Anexo — CÓDIGO DO TRABALHO::11.º"
+   ],
+   "inteiro": {
+    "posicoes": [
+     1,
+     7,
+     null
+    ],
+    "topo": [
+     "Decreto-Lei n.º 262/86, de 1986-09-02 › Anexo — CÓDIGO DAS SOCIEDADES COMERCIAIS › Artigo 257.º — (Destituição de gerentes)",
+     "Decreto-Lei n.º 262/86, de 1986-09-02 › Anexo — CÓDIGO DAS SOCIEDADES COMERCIAIS › Artigo 191.º — Composição da gerência",
+     "Decreto-Lei n.º 262/86, de 1986-09-02 › Anexo — CÓDIGO DAS SOCIEDADES COMERCIAIS › Artigo 246.º — (Competência dos sócios)",
+     "Decreto-Lei n.º 262/86, de 1986-09-02 › Anexo — CÓDIGO DAS SOCIEDADES COMERCIAIS › Artigo 189.º — (Deliberações dos sócios)",
+     "Decreto-Lei n.º 262/86, de 1986-09-02 › Anexo — CÓDIGO DAS SOCIEDADES COMERCIAIS › Artigo 255.º — (Remuneração)"
+    ],
+    "nota_topo": 2.61171817779541
+   },
+   "por_questao": {
+    "posicoes": [
+     15,
+     58,
+     null
+    ],
+    "topo": [
+     "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 389.º — Efeitos da ilicitude de despedimento",
+     "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 390.º — Compensação em caso de despedimento ilícito",
+     "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 123.º — Invalidade e cessação de contrato de trabalho",
+     "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 393.º — Regras especiais relativas a contrato de trabalho a termo",
+     "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 392.º — Indemnização em substituição de reintegração a pedido do empregador"
+    ],
+    "nota_topo": 4.68716287612915
+   }
+  },
+  {
+   "id": "caso-adm-01",
+   "area": "administrativo",
+   "essenciais": [
+    "Lei n.º 72/2013 › Anexo — CÓDIGO DA ESTRADA::145.º",
+    "Lei n.º 72/2013 › Anexo — CÓDIGO DA ESTRADA::147.º",
+    "Lei n.º 72/2013 › Anexo — CÓDIGO DA ESTRADA::172.º",
+    "Lei n.º 72/2013 › Anexo — CÓDIGO DA ESTRADA::175.º",
+    "Lei n.º 72/2013 › Anexo — CÓDIGO DA ESTRADA::141.º"
+   ],
+   "inteiro": {
+    "posicoes": [
+     2,
+     null,
+     null,
+     null,
+     14
+    ],
+    "topo": [
+     "Lei n.º 72/2013, de 2013-09-03 › Anexo — CÓDIGO DA ESTRADA › Artigo 105.º — Automóveis",
+     "Lei n.º 72/2013, de 2013-09-03 › Anexo — CÓDIGO DA ESTRADA › Artigo 145.º — Contraordenações graves",
+     "Lei n.º 72/2013, de 2013-09-03 › Anexo — CÓDIGO DA ESTRADA › Artigo 27.º — Limites gerais de velocidade",
+     "Lei n.º 72/2013, de 2013-09-03 › Anexo — CÓDIGO DA ESTRADA › Artigo 140.º — Atenuação especial da sanção acessória",
+     "Lei n.º 72/2013, de 2013-09-03 › Anexo — CÓDIGO DA ESTRADA › Artigo 138.º — Sanção acessória"
+    ],
+    "nota_topo": 2.329926013946533
+   },
+   "por_questao": {
+    "posicoes": [
+     59,
+     28,
+     2,
+     null,
+     34
+    ],
+    "topo": [
+     "Acórdão do Tribunal Constitucional n.º 135/2009, de 2009-05-04",
+     "Lei n.º 72/2013, de 2013-09-03 › Anexo — CÓDIGO DA ESTRADA › Artigo 172.º — Cumprimento voluntário",
+     "Lei n.º 99/2009, de 2009-09-04 › Artigo 23.º — Pagamento voluntário da coima",
+     "Acórdão do Tribunal Constitucional n.º 135/2009, de 2009-05-04",
+     "Lei n.º 28/2006, de 2006-07-04 › Artigo 9.º-A — Pagamento voluntário da coima"
+    ],
+    "nota_topo": 5.600228786468506
+   }
+  },
+  {
+   "id": "caso-adm-02",
+   "area": "administrativo",
+   "essenciais": [
+    "Decreto-Lei n.º 4/2015 › Anexo — CÓDIGO DO PROCEDIMENTO ADMINISTRATIVO::121.º",
+    "Decreto-Lei n.º 4/2015 › Anexo — CÓDIGO DO PROCEDIMENTO ADMINISTRATIVO::124.º",
+    "Decreto-Lei n.º 4/2015 › Anexo — CÓDIGO DO PROCEDIMENTO ADMINISTRATIVO::163.º",
+    "Lei n.º 15/2002 › Anexo — CÓDIGO DE PROCESSO NOS TRIBUNAIS ADMINISTRATIVOS::69.º",
+    "Lei n.º 15/2002 › Anexo — CÓDIGO DE PROCESSO NOS TRIBUNAIS ADMINISTRATIVOS::58.º"
+   ],
+   "inteiro": {
+    "posicoes": [
+     5,
+     null,
+     null,
+     null,
+     null
+    ],
+    "topo": [
+     "Decreto-Lei n.º 4/2015, de 2015-01-07 › Anexo — CÓDIGO DO PROCEDIMENTO ADMINISTRATIVO › Artigo 5.º — Princípio da boa administração",
+     "Decreto-Lei n.º 4/2015, de 2015-01-07 › Anexo — CÓDIGO DO PROCEDIMENTO ADMINISTRATIVO › Artigo 187.º — Prazo em caso de omissão",
+     "Decreto-Lei n.º 4/2015, de 2015-01-07 › Anexo — CÓDIGO DO PROCEDIMENTO ADMINISTRATIVO › Artigo 97.º — Petições",
+     "Decreto-Lei n.º 4/2015, de 2015-01-07 › Anexo — CÓDIGO DO PROCEDIMENTO ADMINISTRATIVO › Artigo 72.º — Efeitos da declaração do impedimento",
+     "Decreto-Lei n.º 4/2015, de 2015-01-07 › Anexo — CÓDIGO DO PROCEDIMENTO ADMINISTRATIVO › Artigo 121.º — Direito de audiência prévia"
+    ],
+    "nota_topo": -0.08320724964141846
+   },
+   "por_questao": {
+    "posicoes": [
+     55,
+     null,
+     null,
+     41,
+     null
+    ],
+    "topo": [
+     "Lei n.º 15/2002, de 2002-02-22 › Anexo — CÓDIGO DE PROCESSO NOS TRIBUNAIS ADMINISTRATIVOS › Artigo 71.º — Poderes de pronúncia do tribunal",
+     "Lei n.º 15/2002, de 2002-02-22 › Anexo — CÓDIGO DE PROCESSO NOS TRIBUNAIS ADMINISTRATIVOS › Artigo 66.º — Objeto",
+     "Lei n.º 15/2002, de 2002-02-22 › Anexo — CÓDIGO DE PROCESSO NOS TRIBUNAIS ADMINISTRATIVOS › Artigo 70.º — Alteração da instância",
+     "Lei n.º 15/2002, de 2002-02-22 › Anexo — CÓDIGO DE PROCESSO NOS TRIBUNAIS ADMINISTRATIVOS › Artigo 4.º — Cumulação de pedidos",
+     "Lei n.º 15/2002, de 2002-02-22 › Anexo — CÓDIGO DE PROCESSO NOS TRIBUNAIS ADMINISTRATIVOS › Artigo 67.º — Pressupostos"
+    ],
+    "nota_topo": 3.4882724285125732
+   }
+  },
+  {
+   "id": "caso-adm-03",
+   "area": "administrativo",
+   "essenciais": [
+    "Decreto-Lei n.º 398/98 › Anexo — Lei geral tributária::78.º",
+    "Decreto-Lei n.º 433/99 › Anexo — CÓDIGO DE PROCEDIMENTO E DE PROCESSO TRIBUTÁRIO::70.º",
+    "Decreto-Lei n.º 433/99 › Anexo — CÓDIGO DE PROCEDIMENTO E DE PROCESSO TRIBUTÁRIO::102.º"
+   ],
+   "inteiro": {
+    "posicoes": [
+     null,
+     null,
+     null
+    ],
+    "topo": [
+     "Decreto-Lei n.º 433/99, de 1999-10-26 › Anexo — CÓDIGO DE PROCEDIMENTO E DE PROCESSO TRIBUTÁRIO › Artigo 273.º — Eliminação do prédio da matriz",
+     "Decreto-Lei n.º 433/99, de 1999-10-26 › Anexo — CÓDIGO DE PROCEDIMENTO E DE PROCESSO TRIBUTÁRIO › Artigo 275.º — Inscrição do prédio na matriz",
+     "Decreto-Lei n.º 433/99, de 1999-10-26 › Anexo — CÓDIGO DE PROCEDIMENTO E DE PROCESSO TRIBUTÁRIO › Artigo 53.º — Arquivamento",
+     "Decreto-Lei n.º 433/99, de 1999-10-26 › Anexo — CÓDIGO DE PROCEDIMENTO E DE PROCESSO TRIBUTÁRIO › Artigo 159.º — Reversão no caso de substituição tributária",
+     "Decreto-Lei n.º 433/99, de 1999-10-26 › Anexo — CÓDIGO DE PROCEDIMENTO E DE PROCESSO TRIBUTÁRIO › Artigo 33.º — Processos administrativos ou judiciais concluídos"
+    ],
+    "nota_topo": 1.9945894479751587
+   },
+   "por_questao": {
+    "posicoes": [
+     null,
+     32,
+     null
+    ],
+    "topo": [
+     "Regulamento n.º 1227-A/2024, de 2024-10-24 › Artigo 20.º — Garantias graciosas",
+     "Regulamento n.º 1473/2024, de 2024-12-23 › Artigo 22.º — Garantias graciosas",
+     "Aviso n.º 9408-A/2024/2, de 2024-05-03 › Artigo 20.º — Garantias graciosas",
+     "Lei n.º 41/2024, de 2024-11-08 › Anexo — REGIME DO IMPOSTO MÍNIMO GLOBAL › Artigo 50.º — Reclamação e impugnação",
+     "Aviso n.º 15535/2023, de 2023-08-18 › Artigo 24.º — Reclamação e impugnação judicial"
+    ],
+    "nota_topo": 5.202612400054932
+   }
+  },
+  {
+   "id": "caso-adm-04",
+   "area": "administrativo",
+   "essenciais": [
+    "Decreto-Lei n.º 398/98 › Anexo — Lei geral tributária::24.º",
+    "Decreto-Lei n.º 398/98 › Anexo — Lei geral tributária::23.º",
+    "Decreto-Lei n.º 433/99 › Anexo — CÓDIGO DE PROCEDIMENTO E DE PROCESSO TRIBUTÁRIO::204.º",
+    "Decreto-Lei n.º 433/99 › Anexo — CÓDIGO DE PROCEDIMENTO E DE PROCESSO TRIBUTÁRIO::203.º"
+   ],
+   "inteiro": {
+    "posicoes": [
+     null,
+     null,
+     null,
+     null
+    ],
+    "topo": [
+     "Decreto-Lei n.º 262/86, de 1986-09-02 › Anexo — CÓDIGO DAS SOCIEDADES COMERCIAIS › Artigo 258.º — (Renúncia de gerentes)",
+     "Decreto-Lei n.º 262/86, de 1986-09-02 › Anexo — CÓDIGO DAS SOCIEDADES COMERCIAIS › Artigo 256.º — (Duração da gerência)",
+     "Decreto-Lei n.º 262/86, de 1986-09-02 › Anexo — CÓDIGO DAS SOCIEDADES COMERCIAIS › Artigo 246.º — (Competência dos sócios)",
+     "Decreto-Lei n.º 262/86, de 1986-09-02 › Anexo — CÓDIGO DAS SOCIEDADES COMERCIAIS › Artigo 191.º — Composição da gerência",
+     "Decreto-Lei n.º 262/86, de 1986-09-02 › Anexo — CÓDIGO DAS SOCIEDADES COMERCIAIS › Artigo 192.º — Competência dos gerentes"
+    ],
+    "nota_topo": 3.1294338703155518
+   },
+   "por_questao": {
+    "posicoes": [
+     29,
+     null,
+     null,
+     null
+    ],
+    "topo": [
+     "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 598.º — (Meios de defesa)",
+     "Decreto-Lei n.º 72/2008, de 2008-04-16 › Anexo — Regime jurídico do contrato de seguro › Artigo 147.º — Meios de defesa",
+     "Lei n.º 5/2006, de 2006-02-23 › Artigo 42.º — Uso de armas de fogo",
+     "Decreto-Lei n.º 154/91, de 1991-04-23 › Artigo 64.º — Notificações em geral",
+     "Decreto-Lei n.º 47344, de 1966-11-25 › Anexo — CÓDIGO CIVIL › Artigo 514.º — (Meios de defesa)"
+    ],
+    "nota_topo": 1.81949782371521
+   }
+  },
+  {
+   "id": "caso-adm-05",
+   "area": "administrativo",
+   "essenciais": [
+    "Decreto-Lei n.º 433/82 › 59.º",
+    "Decreto-Lei n.º 433/82 › 60.º",
+    "Decreto-Lei n.º 433/82 › 27.º",
+    "Decreto-Lei n.º 433/82 › 28.º"
+   ],
+   "inteiro": {
+    "posicoes": [
+     null,
+     null,
+     null,
+     null
+    ],
+    "topo": [
+     "Lei n.º 15/2002, de 2002-02-22 › Anexo — CÓDIGO DE PROCESSO NOS TRIBUNAIS ADMINISTRATIVOS › Artigo 136.º — Pressupostos",
+     "Lei n.º 15/2002, de 2002-02-22 › Anexo — CÓDIGO DE PROCESSO NOS TRIBUNAIS ADMINISTRATIVOS › Artigo 95.º — Objeto e limites da decisão",
+     "Lei n.º 15/2002, de 2002-02-22 › Anexo — CÓDIGO DE PROCESSO NOS TRIBUNAIS ADMINISTRATIVOS › Artigo 137.º — Resposta",
+     "Lei n.º 15/2002, de 2002-02-22 › Anexo — CÓDIGO DE PROCESSO NOS TRIBUNAIS ADMINISTRATIVOS › Artigo 67.º — Pressupostos",
+     "Lei n.º 15/2002, de 2002-02-22 › Anexo — CÓDIGO DE PROCESSO NOS TRIBUNAIS ADMINISTRATIVOS › Artigo 146.º — Intervenção do Ministério Público, conclusão ao relator e aperfeiçoamento das alegações de recurso"
+    ],
+    "nota_topo": 0.046321697533130646
+   },
+   "por_questao": {
+    "posicoes": [
+     null,
+     null,
+     null,
+     null
+    ],
+    "topo": [
+     "Lei n.º 107/2009, de 2009-09-14 › Artigo 33.º — Forma e prazo",
+     "Decreto-Lei n.º 154/91, de 1991-04-23 › Artigo 213.º — Recurso das decisões de aplicação das coimas",
+     "Lei n.º 154/2015, de 2015-09-14 › Anexo › Artigo 184.º — Prescrição do procedimento disciplinar",
+     "Decreto-Lei n.º 154/91, de 1991-04-23 › Artigo 35.º — Prescrição do procedimento por contra-ordenações fiscais",
+     "Lei n.º 7/2009, de 2009-02-12 › Anexo — CÓDIGO DO TRABALHO › Artigo 329.º — Procedimento disciplinar e prescrição"
+    ],
+    "nota_topo": 2.426027774810791
+   }
+  }
+ ]
+}

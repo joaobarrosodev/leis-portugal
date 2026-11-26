@@ -1,0 +1,123 @@
+"""Medição de base dos casos de advogado: só a pesquisa, como a app 0.1.1 (BM25 + reranker cruzado, limiar 3).
+
+Duas formas de pesquisar cada caso:
+- `inteiro`: o texto que o advogado escreveria na app (narrativa, leis que pensa usar e perguntas), numa consulta só.
+  É o que o sistema faz hoje.
+- `por_questao`: uma consulta por questão jurídica, com as questões que o autor do caso escreveu à mão. Mostra o
+  teto de um fluxo que separe o caso em questões; é otimista, porque as questões já vêm bem formuladas.
+
+Conta-se cada artigo essencial pela melhor posição em que aparece (no `por_questao`, em qualquer das consultas,
+na lista juntada pela ordem das notas). Um caso fica «coberto em k» quando todos os essenciais estão nos k primeiros.
+
+    RAG_INDICE=<pasta do índice> python avaliacao/casos/medir.py [--indice X] [--nome casos-base]
+"""
+
+from __future__ import annotations
+
+import argparse
+import json
+import sys
+import time
+from pathlib import Path
+
+RAIZ = Path(__file__).resolve().parents[2]
+sys.path.insert(0, str(RAIZ))
+
+from rag.pesquisa import Pesquisa  # noqa: E402
+
+KS = (1, 3, 8, 10, 30)
+
+
+def texto_inteiro(caso: dict) -> str:
+    leis = "; ".join(lp["como_cita"] for lp in caso.get("leis_pensadas", []))
+    perguntas = " ".join(caso["questoes"])
+    return f"{caso['narrativa']}\n\nEstou a pensar usar: {leis}.\n\n{perguntas}"
+
+
+def posicoes(resultados, essenciais: list[dict]) -> list[int | None]:
+    pos: list[int | None] = []
+    for e in essenciais:
+        p = next((n for n, r in enumerate(resultados, 1) if r.documento == e["documento"] and r.chave == e["artigo"]), None)
+        pos.append(p)
+    return pos
+
+
+def juntar(consultas) -> list:
+    """Os resultados de várias consultas numa lista só, cada artigo uma vez, pela melhor nota do reranker."""
+    melhor: dict[tuple[str, str], object] = {}
+    for c in consultas:
+        for r in c.resultados:
+            chave = (r.documento, r.chave)
+            nota = r.reranker if r.reranker is not None else float("-inf")
+            atual = melhor.get(chave)
+            if atual is None or nota > (atual.reranker if atual.reranker is not None else float("-inf")):
+                melhor[chave] = r
+    return sorted(melhor.values(), key=lambda r: -(r.reranker if r.reranker is not None else float("-inf")))
+
+
+def main(argv: list[str] | None = None) -> int:
+    parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
+    parser.add_argument("--casos", type=Path, default=RAIZ / "avaliacao" / "casos" / "casos.jsonl")
+    parser.add_argument("--indice", type=Path)
+    parser.add_argument("--nome", default="casos-base")
+    parser.add_argument("--exportar", type=Path, help="Pasta onde escrever, por lotes de 10, o pedido e os artigos da consulta `inteiro` (para um LLM responder).")
+    parser.add_argument("--contexto", type=int, default=16, help="Com --exportar: quantos artigos vão por caso.")
+    args = parser.parse_args(argv)
+    from rag.resposta import contexto as contexto_llm
+    exportados: list[dict] = []
+
+    from rag.modelos import Reranker
+
+    pesquisa = Pesquisa(args.indice, reranker=Reranker("cruzado", maximo=30))
+    casos = [json.loads(l) for l in args.casos.read_text(encoding="utf-8").splitlines() if l.strip()]
+    linhas = []
+    inicio = time.time()
+    for n, caso in enumerate(casos, 1):
+        essenciais = caso["resposta"]["artigos_essenciais"]
+        data = caso["data_referencia"]
+        inteiro = pesquisa.pesquisar(texto_inteiro(caso), data, k=max(KS))
+        por_q = juntar([pesquisa.pesquisar(q, data, k=max(KS)) for q in caso["questoes"]])
+        linha = {"id": caso["id"], "area": caso["area"], "essenciais": [f"{e['titulo']} › {e['artigo']}" for e in essenciais]}
+        for nome, resultados in (("inteiro", inteiro.resultados), ("por_questao", por_q)):
+            linha[nome] = {"posicoes": posicoes(resultados, essenciais), "topo": [f"{r.rotulo}" for r in resultados[:5]],
+                           "nota_topo": resultados[0].reranker if resultados else None}
+        linhas.append(linha)
+        if args.exportar:
+            artigos, lista = contexto_llm(inteiro, args.contexto)
+            exportados.append({"id": caso["id"], "data_referencia": data, "pedido": texto_inteiro(caso), "artigos": artigos,
+                               "rotulos": [r.rotulo for r in lista], "chaves": [[r.documento, r.chave] for r in lista]})
+        print(f"[{n}/{len(casos)}] {caso['id']} inteiro {linha['inteiro']['posicoes']} por questão {linha['por_questao']['posicoes']}"
+              f" ({time.time() - inicio:.0f}s)", file=sys.stderr)
+
+    resumo: dict[str, dict] = {}
+    for nome in ("inteiro", "por_questao"):
+        todas = [p for l in linhas for p in l[nome]["posicoes"]]
+        resumo[nome] = {
+            "casos": len(linhas),
+            "artigos_essenciais": len(todas),
+            **{f"artigos_top{k}": sum(1 for p in todas if p is not None and p <= k) for k in KS},
+            **{f"casos_cobertos_top{k}": sum(1 for l in linhas if all(p is not None and p <= k for p in l[nome]["posicoes"])) for k in KS},
+            "casos_algum_top8": sum(1 for l in linhas if any(p is not None and p <= 8 for p in l[nome]["posicoes"])),
+        }
+    por_area: dict[str, dict] = {}
+    for l in linhas:
+        a = por_area.setdefault(l["area"], {"casos": 0, "cobertos_top8_inteiro": 0, "cobertos_top8_por_questao": 0})
+        a["casos"] += 1
+        for nome in ("inteiro", "por_questao"):
+            a[f"cobertos_top8_{nome}"] += all(p is not None and p <= 8 for p in l[nome]["posicoes"])
+    saida = RAIZ / "rag" / "resultados" / f"{args.nome}.json"
+    saida.write_text(json.dumps({"configuracao": {"reranker": "cruzado", "maximo": 30, "llm": False, "indice": str(args.indice) if args.indice else None},
+                                 "resumo": resumo, "por_area": por_area, "casos": linhas}, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+    print(json.dumps({"resumo": resumo, "por_area": por_area}, ensure_ascii=False, indent=1))
+    print(f"Gravado em {saida}", file=sys.stderr)
+    if args.exportar:
+        args.exportar.mkdir(parents=True, exist_ok=True)
+        for i in range(0, len(exportados), 10):
+            lote = args.exportar / f"entrada-{i // 10 + 1:02d}.jsonl"
+            lote.write_text("".join(json.dumps(e, ensure_ascii=False) + "\n" for e in exportados[i:i + 10]), encoding="utf-8")
+        print(f"Exportados {len(exportados)} casos para {args.exportar}", file=sys.stderr)
+    return 0
+
+
+if __name__ == "__main__":
+    sys.exit(main())

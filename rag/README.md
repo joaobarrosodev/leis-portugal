@@ -1494,3 +1494,17 @@ podiam receber um bloco. O efeito com o reranker mede-se na reconstrução.
 **Reconstruir:** `python -m rag.indice`, como sempre; a leitura está ligada por omissão (`--sem-texto-corrido` desliga-a, para
 medir). A regra das cópias com as declarações de retificação também está ligada por omissão. Depois, `python -m rag.jurisprudencia`,
 como na fase 1 (as normas julgadas de diplomas que passam de blocos a artigos podem passar a encontrar o artigo).
+
+## Casos de advogado: medição de base (26/11/2026)
+
+39 casos narrados, como um advogado os escreveria («aconteceu isto ao meu cliente, penso usar estas leis»), com a resposta de referência. Estão em [`avaliacao/casos/`](../avaliacao/casos/README.md), com o processo e as ressalvas: foram escritos e revistos por modelos, sem jurista.
+
+| | Resultado |
+|---|--:|
+| Pesquisa como a 0.1.1, texto inteiro: essenciais nos 8 primeiros | 33 de 161 |
+| Casos com todos os essenciais nos 8 primeiros | 1 de 39 |
+| Casos com a melhor nota do reranker abaixo de 3 («não sei» na app) | 27 de 39 |
+| Análise com LLM e os 16 artigos da pesquisa: certas para os 2 juízes | 5 de 39 (3 erradas, todas em prazos) |
+| Análise com LLM e o contexto ideal: certas para os 2 juízes | 38 de 39 (teto otimista) |
+
+A app 0.1.1 recusa casos concretos por instrução. Com os artigos certos, o raciocínio chega lá; o que falta é a pesquisa partir o caso em questões e trazer, para cada uma, os artigos que a decidem.
