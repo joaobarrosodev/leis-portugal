@@ -1238,6 +1238,17 @@ O passo 3 é o main em `bdb7daf36a8`, construído na pasta principal: o passo 2 
 
 Pergunta a pergunta: 2 ganhos (reais) e 1 perda. A perda é uma «sem resposta» que passa a ser respondida: o artigo no topo é o mesmo nos dois índices (art. 24.º da Lei n.º 6/2006, que a auditoria não mexeu) e só a nota do reranker passa de 2,85 para 3,26, porque o lote de candidatos mudou. É o ruído das notas em lotes de 16, não um efeito dos dados. **Publicado no Hugging Face a 24/11/2026** como delta de 2026-11-24 para `2026-11-24.2` (2,5 MB; a versão compara-se como texto e tem de ser maior do que a anterior). A descarga como a aplicação faz (completa de 16/11 mais os cinco deltas) dá as mesmas linhas e o FTS passa o `integrity-check`.
 
+**Passo 4 (27/11/2026): a auditoria da onda 2 fechada.**
+- **O que entrou:** as rondas 121 a 125 da auditoria, 155 consolidados (main 084a2d642ab), com o índice reconstruído às 5h54.
+- **Medido como a app 0.1.1** (`rag/resultados/app011-passo4.json`):
+  - **641 certas**, contra 640 no passo 3;
+  - reais: 128, como no passo 3;
+  - «não sei» nas sem resposta: 74, como no passo 3;
+  - artigo certo em 1.º: 781 → 782; nos 10 primeiros: 1.077 → 1.076.
+- **Publicado no Hugging Face** como delta de `2026-11-24.2` para `2026-11-27` (2,3 MB). Foi publicado pelo script automático: a regra era não ficar abaixo das 632 certas nem dos 72 «não sei» nas sem resposta.
+- **Verificação:** a descarga feita como a aplicação faz dá o mesmo índice, diploma a diploma (357.410, com 0 diferenças).
+- **Jurisprudência refeita sobre este índice** (d8d9f06b84e): o TC fica com as mesmas 7.323 ligações; o STJ e o STA passam de 579 para 584.
+
 **Os três passos juntos** (do índice de 20/11 ao de 24/11): certas 634 → 640, reais 124 → 128, artigo certo em 1.º 767 → 781, no top 10 1.031 → 1.077, «sem resposta» respondidas 5 → 6 (a de cima). As normas julgadas do TC passam de 6.743 para 7.154 com o artigo encontrado e as interpretadas pelo STJ e pelo STA de 549 para 559, sem nenhuma perdida (`0b73deb5a3d`).
 
 ## Próximos passos
