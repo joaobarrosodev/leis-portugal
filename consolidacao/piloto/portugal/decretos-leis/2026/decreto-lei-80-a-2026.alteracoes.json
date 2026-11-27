@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "7.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 7.º — Forma e cálculo do apoio extraordinário\n\nO apoio extraordinário de 10 cêntimos por litro é atribuído nas semanas em que o preço médio do gasóleo colorido e marcado, tal como divulgado pela DGEG, apresente um aumento superior a 10 cêntimos por litro, quando comparado com o preço médio registado na semana de 2 a 6 de março, sendo considerados os consumos efetuados entre 1 de abril e 30 de junho de 2026.",
+    "depois": "###### Artigo 7.º — Forma e cálculo do apoio extraordinário\n\n1 - O apoio extraordinário de 10 cêntimos por litro é atribuído nas semanas em que o preço médio do gasóleo colorido e marcado, tal como divulgado pela DGEG, apresente um aumento superior a 10 cêntimos por litro, quando comparado com o preço médio registado na semana de 2 a 6 de março, sendo considerados os consumos efetuados entre 1 de abril e 30 de junho de 2026.\n\n2 - No caso das atividades agrícolas e florestais, são também considerados os consumos efetuados entre 1 de julho e 31 de dezembro de 2026.\n\n> Alterado pelo/a [Decreto-Lei n.º 200/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-2026-1178225508), publicado em 2026-10-08.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:1080481232:por",
+    "alterador": "pt:dre:1178225508:por"
+  }
+]

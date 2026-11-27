@@ -1,0 +1,24 @@
+{
+  "id": "pt:dre:184108568:por",
+  "artigos": [
+    {
+      "chave": "17.º",
+      "epigrafe": "Disposição transitória",
+      "texto": "1 - Os responsáveis técnicos com inscrição válida ao abrigo do Decreto Legislativo Regional n.º 12/96/M, de 6 de julho, licenciados nas áreas do desporto, educação física ou similares, tal como identificadas pela direção-geral competente em matéria do ensino superior, mantêm a sua inscrição válida até ao fim do respetivo prazo, devendo, findo o mesmo, requerer ao serviço da administração pública regional que prossegue as atribuições do setor do desporto a emissão de título profissional de DT ou de TEF.\n\n2 - Os responsáveis técnicos com inscrição válida ao abrigo da Lei n.º 39/2012, de 28 de agosto, mantêm a sua inscrição válida até ao fim do respetivo prazo, devendo, findo o mesmo, requerer ao serviço da administração pública regional que prossegue as atribuições do setor do desporto a emissão de título profissional de TEF, desde que cumpram os seguintes requisitos:\n\na) Nível de qualificação do Quadro Nacional de Qualificações: nível 5;\n\nb) Nível de qualificação do Quadro Europeu das Qualificações: nível 5;\n\nc) Número de horas previsto no Catálogo Nacional de Qualificações.\n\n3 - Os responsáveis técnicos com inscrição válida ao abrigo da Lei n.º 39/2012, de 28 de agosto, que não cumpram os requisitos elencados no número anterior, devem requerer ao serviço da administração pública regional que prossegue as atribuições do setor do desporto, no prazo máximo de 90 dias a contar da entrada em vigor do presente diploma, a emissão de um título provisório para o exercício de funções de TEF, válido por um ano e prorrogável no máximo até três anos, desde que demonstrada a frequência de formação tendente à regularização da sua formação nos termos do número anterior.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (DR 3/2022/M): retificações nos n.os 2 e 3 do art. 17.º; aplicadas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "ronda_camada1": 125,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
+}

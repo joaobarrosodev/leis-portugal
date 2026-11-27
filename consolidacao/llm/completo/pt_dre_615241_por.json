@@ -1,0 +1,24 @@
+{
+  "id": "pt:dre:615241:por",
+  "artigos": [
+    {
+      "chave": "8.º",
+      "epigrafe": "",
+      "texto": "Os funcionários e agentes que no GAS desempenhem, há pelo menos três anos, funções relativas às áreas florestais e agrícolas agora afectas à DGF podem solicitar, no prazo de 30 dias a partir da entrada em vigor do presente diploma, a sua integração no quadro de pessoal desta Direcção-Geral.\n\n2 - Os funcionários e agentes que no GAS desempenham há, pelo menos, três anos funções relativas à área de protecção litoral agora afecta ao SNPRCN podem solicitar, no prazo de 30 dias a partir da entrada em vigor do presente diploma, a sua integração na dotação de pessoal deste Serviço.\n\n3 - Sendo necessários e adequados às necessidades, o quadro de pessoal da DGF e a dotação do SNPRCN serão alargados na justa medida em que o permita a integração prevista nos números anteriores.\n\n4 - Os orçamentos ordinários para 1989 do SNPRCN e da DGF serão reforçados com as verbas necessárias a fazer face ao acréscimo de pessoal decorrente deste diploma.\n\n5 - Os funcionários e agentes a que se referem os n.os 1 e 2 deste artigo poderão ser constituídos em excedentes e integrados no quadro de efectivos interdepartamentais dos Ministérios do Planeamento e da Administração do Território e da Agricultura, Pescas e Alimentação.\n\n6 - Os contratos de trabalho celebrados pelo GAS, nos termos do Regime Jurídico do Contrato Individual de Trabalho, com pessoal que presta funções na zona de autuação directa caducam automaticamente na data da entrada em vigor do presente diploma, com as consequências legalmente estabelecidas naquele regime.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Declaração), publica os n.os 2 a 6 do artigo 8.º, omitidos por lapso: acrescentados ao artigo 8.º a seguir ao texto atual, que é o n.º 1, copiado como está."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "ronda_camada1": 125,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
+}

@@ -1,0 +1,34 @@
+[
+ {
+  "pedaco": 1,
+  "ids": [
+   "pt:dre:122345224:por",
+   "pt:dre:123666144:por",
+   "pt:dre:145440393:por",
+   "pt:dre:152530:por"
+  ],
+  "chars": 42122
+ },
+ {
+  "pedaco": 2,
+  "ids": [
+   "pt:dre:168184695:por",
+   "pt:dre:180580:por"
+  ],
+  "chars": 132686
+ },
+ {
+  "pedaco": 3,
+  "ids": [
+   "pt:dre:187049946:por",
+   "pt:dre:205450899:por",
+   "pt:dre:211028:por",
+   "pt:dre:344966:por",
+   "pt:dre:468999:por",
+   "pt:dre:544170:por",
+   "pt:dre:569889:por",
+   "pt:dre:66953314:por"
+  ],
+  "chars": 60015
+ }
+]

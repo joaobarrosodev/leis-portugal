@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "14.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 14.º — Norma revogatória\n\nÉ revogado o Decreto-Lei n.º 28/96, de 2 de abril, sem prejuízo das disposições transitórias estabelecidas no artigo seguinte.",
+    "depois": "###### Artigo 14.º — Norma revogatória\n\nÉ revogado o Decreto-Lei n.º 28/96, de 2 de abril, sem prejuízo das disposições transitórias estabelecidas no artigo anterior.\n\n> Alterado pelo/a [Declaração de Retificação n.º 42/2019](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/42-2019-124716450), publicado em 2019-09-16.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:124044595:por",
+    "alterador": "pt:dre:124716450:por"
+  }
+]

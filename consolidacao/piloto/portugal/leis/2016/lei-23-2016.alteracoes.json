@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "3.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 3.º — Âmbito temporal do regime\n\nO regime especial aprovado em anexo à Lei n.º 61/2014, de 26 de agosto, não é aplicável aos gastos e às variações patrimoniais negativas contabilizados nos períodos de tributação que se iniciem em ou após 1 de janeiro de 2016, nem aos impostos por ativos diferidos a estes associados.",
+    "depois": "###### Artigo 3.º — Âmbito temporal do regime\n\nO regime especial aprovado em anexo à Lei n.º 61/2014, de 26 de agosto, não é aplicável aos gastos e às variações patrimoniais negativas contabilizados nos períodos de tributação que se iniciem em ou após 1 de janeiro de 2016, nem aos ativos por impostos diferidos a estes associados.\n\n> Alterado pelo/a [Declaração de Retificação n.º 16/2016](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/16-2016-75286796), publicado em 2016-09-08.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:75170385:por",
+    "alterador": "pt:dre:75286796:por"
+  }
+]

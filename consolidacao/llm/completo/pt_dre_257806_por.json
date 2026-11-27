@@ -1,0 +1,32 @@
+{
+  "id": "pt:dre:257806:por",
+  "artigos": [
+    {
+      "chave": "16.º",
+      "epigrafe": "Contrato de mediação imobiliária",
+      "texto": "1 - O contrato de mediação imobiliária é obrigatoriamente reduzido a escrito.\n\n2 - Do contrato constam, obrigatoriamente, os seguintes elementos:\n\na) A identificação das características do bem imóvel que constitui objeto material do contrato, com especificação de todos os ónus e encargos que sobre ele recaiam;\n\nb) A identificação do negócio visado pelo exercício de mediação;\n\nc) As condições de remuneração da empresa, em termos fixos ou percentuais, bem como a forma de pagamento, com indicação da taxa de IVA aplicável;\n\nd) A identificação do seguro de responsabilidade civil ou da garantia financeira ou instrumento equivalente previsto no artigo 7.º, com indicação da apólice e entidade seguradora ou, quando aplicável, do capital garantido;\n\ne) A identificação do angariador imobiliário que, eventualmente, tenha colaborado na preparação do contrato;\n\nf) A identificação discriminada de eventuais serviços acessórios a prestar pela empresa;\n\ng) A referência ao regime de exclusividade, quando acordado, com especificação dos efeitos que do mesmo decorrem, quer para a empresa quer para o cliente.\n\n3 - Quando o contrato for omisso quanto ao respetivo prazo de duração, considera-se celebrado por um período de seis meses.\n\n4 - Os modelos de contratos com cláusulas contratuais gerais de mediação imobiliária só podem ser utilizados pela empresa após aprovação prévia dos respetivos projetos pelo Instituto dos Mercados Públicos, do Imobiliário e da Construção, I. P. (IMPIC, I. P.).\n\n5 - Para a aprovação prévia prevista no número anterior, a empresa submete o projeto de modelo de contrato ao IMPIC, I. P., por via preferencialmente eletrónica.\n\n6 - Sempre que a empresa utilize o modelo de contrato com cláusulas contratuais gerais aprovado por portaria dos membros do Governo das áreas da justiça, do imobiliário e da defesa do consumidor, está dispensada da aprovação prévia prevista no n.º 4, devendo depositar o modelo de contrato, por via preferencialmente eletrónica, junto do IMPIC, I. P.\n\n7 - O incumprimento do disposto nos n.os 1, 2, 4 e 6 determina a nulidade do contrato, não podendo esta, contudo, ser invocada pela empresa de mediação.\n\n8 - O disposto nos números anteriores aplica-se apenas a contratos sujeitos à lei portuguesa.\n\n9 - Quando, por motivo de indisponibilidade técnica, não for possível o cumprimento do disposto nos n.os 5 e 6, pode ser utilizado qualquer outro meio legalmente admissível.",
+      "alterador": 1
+    },
+    {
+      "chave": "32.º",
+      "epigrafe": "Contraordenações e sanções acessórias",
+      "texto": "1 - Sem prejuízo de outras sanções que se mostrem aplicáveis, constituem contraordenações:\n\na) A violação do disposto no n.º 1 do artigo 4.º, na alínea a) do n.º 2 do artigo 12.º, no n.º 4 do artigo 21.º e no n.º 1 do artigo 22.º, punível com coima de (euro) 5000 a (euro) 30 000;\n\nb) A violação do disposto no artigo 17.º, nos n.os 1 e 2 do artigo 18.º e no n.º 3 do artigo 19.º, punível com coima de (euro) 2500 a (euro) 25 000;\n\nc) A violação do disposto nos n.os 1 e 2 do artigo 14.º, punível com coima de (euro) 1000 a (euro) 10 000;\n\nd) A violação do disposto no n.º 2 do artigo 4.º, nos n.os 2, 3 e 4 do artigo 13.º e nas alíneas a), c), d), e) e g) do n.º 1 do artigo 20.º, punível com coima de (euro) 750 a (euro) 5000;\n\ne) A violação do disposto na alínea b) do n.º 2 do artigo 12.º, nos n.os 4 e 6 do artigo 16.º, nas alíneas b), h) e i) do n.º 1 do artigo 20.º, no n.º 2 do artigo 22.º e no artigo 25.º, punível com coima de (euro) 500 a (euro) 2500.\n\n2 - A tentativa e a negligência são puníveis, sendo, nesses casos, os limites máximo e mínimo da coima reduzidos a metade.\n\n3 - Nos casos em que sejam aplicadas às empresas de mediação imobiliária as sanções previstas nas alíneas a) e b) do n.º 1, pode o InCI aplicar-lhes as seguintes sanções acessórias:\n\na) Encerramento de estabelecimentos;\n\nb) Interdição do exercício da atividade;\n\nc) Privação do direito de participar em feiras ou mercados.\n\n4 - As sanções acessórias referidas no número anterior têm duração máxima de dois anos, a contar da data da decisão condenatória definitiva.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, art. 3.º: nova redação do art. 16.º (n.os 4 a 7 e 9 novos, o anterior n.º 6 passa a n.º 8; n.os 1 a 3 mantêm-se): aplicado.",
+    "Alterador 1, art. 3.º: nova redação da alínea e) do n.º 1 do art. 32.º: aplicado.",
+    "Alterador 1, restantes artigos (alteram a Lei n.º 39/2012, a Lei n.º 144/2015 e os Decretos-Leis n.os 267/2009, 119/2012, 50/2013 e 10/2015; o art. 10.º é norma transitória própria): não são deste diploma, ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "ronda_camada1": 125,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
+}

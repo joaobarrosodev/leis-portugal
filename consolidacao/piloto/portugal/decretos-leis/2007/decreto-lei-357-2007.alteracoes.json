@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "Anexo A",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "## Anexo A\nConclusão e certificação do ensino secundário pela via escolar com afectação a uma área de formação e com classificação\n\nTABELA I\n\n(ver documento original)\n\nTABELA II\n\nDisciplinas das componentes de formação sócio-cultural e científica dos cursos profissionais (Decreto-Lei n.º 74/2004, de 26 de Março)\n\n(ver documento original)\n\nTABELA III\n\nClassificação nacional das áreas de educação e formação\n\n(ver documento original)",
+    "depois": "## Anexo A\n\nConclusão e certificação do ensino secundário pela via escolar com afectação a uma área de formação e com classificação\n\nTABELA I\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/12/25000/0911009111.pdf)\n\nTABELA II\n\nDisciplinas das componentes de formação sócio-cultural e científica dos cursos profissionais (Decreto-Lei n.º 74/2004, de 26 de Março)\n\n(ver documento original)\n\nTABELA III\n\nClassificação nacional das áreas de educação e formação\n\n(ver documento original)\n\n> Alterado pelo/a [Declaração de Rectificação n.º 117/2007](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/117-2007-628024), publicado em 2007-12-28.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:628859:por",
+    "alterador": "pt:dre:628024:por"
+  }
+]

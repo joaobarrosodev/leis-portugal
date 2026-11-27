@@ -1,0 +1,24 @@
+{
+  "id": "pt:dre:163012626:por",
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "Alteração à Lei n.º 77/88, de 1 de julho",
+      "texto": "O artigo 46.º da Lei n.º 77/88, de 1 de julho, republicada pela Lei n.º 28/2003, de 30 de julho, e alterada pelas Leis n.os 13/2010, de 19 de julho, e 55/2010, de 24 de dezembro, passa a ter a seguinte redação:\n\n«Artigo 46.º\n\n[...]\n\n1 - [...]\n\n2 - No início de cada legislatura, os grupos parlamentares comunicam aos serviços da Assembleia da República o mapa de pessoal de apoio, com a indicação das categorias e vencimentos.\n\n3 - [...]\n\n4 - [...]\n\n5 - Os grupos parlamentares podem alterar a composição do mapa de pessoal de apoio previsto no n.º 2, desde que daí não resulte agravamento da respetiva despesa global, bem como definir o respetivo modo e local de trabalho, nomeadamente o exercício de funções em regime de trabalho à distância.\n\n6 - [...]\n\n7 - [...]\n\n8 - Os encargos sociais do pessoal de apoio dos gabinetes parlamentares são suportados pela Assembleia da República, designadamente as contribuições para a Caixa Geral de Aposentações, para a segurança social, ou as inerentes ao regime de proteção social da entidade de origem, o subsídio de refeição e o seguro de acidentes de trabalho, bem como os apoios sociais e subsídios de estudo que, por determinação do Presidente da Assembleia da República, forem concedidos pela Assembleia da República a todos os que nela exercem funções a tempo inteiro.\n\n9 - [...]\n\n10 - [...]»",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (DR 17/2021): no art. 46.º da LOFAR, constante do art. 2.º deste diploma, retificados os n.os 2, 5 e 8; aplicado ao texto do art. 2.º."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "ronda_camada1": 125,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
+}

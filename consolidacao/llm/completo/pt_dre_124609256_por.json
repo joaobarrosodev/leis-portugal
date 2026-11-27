@@ -1,0 +1,24 @@
+{
+  "id": "pt:dre:124609256:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [
+    {
+      "atual": "## Anexo — (a que se refere o artigo 8.º)",
+      "novo": "## Anexo — (a que se refere o artigo 7.º)",
+      "alterador": 1
+    }
+  ],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, renumeração dos artigos 5.º a 9.º (Alteração ao título, Norma transitória, Norma revogatória, Republicação, Entrada em vigor) para 4.º a 8.º: alvo incerto: esses artigos não estão no texto atual, que só traz os artigos 1.º a 3.º e o anexo",
+  "instrucoes": [
+    "Alterador 1 (Declaração de Retificação n.º 52/2019), retifica a numeração dos artigos 5.º a 9.º para 4.º a 8.º: não aplicado, os artigos não estão no texto atual (nao_aplicavel).",
+    "Alterador 1, retifica «ANEXO (a que se refere o artigo 8.º)» para «(a que se refere o artigo 7.º)»: aplicado ao título do anexo em titulos."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "ronda_camada1": 125,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
+}

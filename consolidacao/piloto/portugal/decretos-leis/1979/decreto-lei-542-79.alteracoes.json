@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "Anexo::3.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 3.º\n\n1 - As actividades do sistema público de educação pré-escolar realizam-se em jardins-de-infância.\n\n2 - Os jardins-de-infância do sistema público a funcionarem na dependência do Ministério da Educação são designados pelo nome da localidade onde funcionam, salvo nos casos em que, existindo mais do que um na mesma localidade, a cada um deles será atribuído um número.",
+    "depois": "###### Artigo 3.º\n\n1 - As actividades do sistema público de educação pré-escolar realizam-se em jardins-de-infância.\n\n2 - (Revogado.)\n\n> Alterado pelo/a [Decreto-Lei n.º 387/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/387-1990-565376), publicado em 1990-12-10.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:230889:por",
+    "alterador": "pt:dre:565376:por"
+  }
+]

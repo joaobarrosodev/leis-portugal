@@ -1,0 +1,24 @@
+{
+  "id": "pt:dre:115312061:por",
+  "artigos": [
+    {
+      "chave": "169.º",
+      "epigrafe": "Alteração à Portaria n.º 145/2014, de 16 de julho",
+      "texto": "O artigo 3.º da Portaria n.º 145/2014, de 16 de julho, passa a ter a seguinte redação:\n\n«Artigo 3.º\n\n[...]\n\n[...]:\n\na) [...];\n\nb) [...];\n\nc) [...];\n\nd) [...];\n\ne) [...];\n\nf) [...];\n\ng) [...];\n\nh) Assegurar todos os procedimentos de contratação pública no domínio das competências específicas atribuídas pelo regime jurídico do sistema nacional de compras públicas;\n\ni) [...];\n\nj) [...];\n\nk) [...].»",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, retificação do art. 169.º (redação dada ao art. 3.º da Portaria n.º 145/2014): no texto citado, a nova alínea passa de g) para h) e a g) fica «[...]»; art. 169.º devolvido com o bloco citado substituído pelo «deve ler-se»."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "ronda_camada1": 125,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
+}

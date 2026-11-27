@@ -1,0 +1,28 @@
+{
+  "id": "pt:dre:469001:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [
+    {
+      "titulo": "## Anexo I",
+      "texto": "[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2006/02/026a00/08570857.pdf)](https://files.diariodarepublica.pt/1s/2006/02/026a00/08570857.pdf)",
+      "alterador": 1
+    },
+    {
+      "titulo": "## Anexo II — Certificado",
+      "texto": "[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2006/02/026a00/08570857.pdf)](https://files.diariodarepublica.pt/1s/2006/02/026a00/08570857.pdf)",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (DR 9/2006): republica os anexos I e II (modelos em imagem); o corpo de cada anexo passa a ser a linha de imagem do alterador (no anexo I, a imagem vem na linha do título)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "ronda_camada1": 125,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
+}

@@ -25,6 +25,11 @@ versão alterada leva todos em `acts` (só os que deram instruções ao texto) e
 último entrou em vigor. O texto de cada passo intermédio não se guarda, por isso o histórico
 tem duas versões, a original e a consolidada com todas as alterações.
 
+**Consolidados pelo DRE (linha 9 «dre» da camada 1, ronda 125):** um registo com a versão consolidada pelo
+DRE cujo corpo no `data/` é o `texto_original` da entrada às cegas (o texto do DRE sobre que se aplicaram os
+alteradores posteriores) não leva o histórico de duas versões: acrescenta-se uma versão ao `.versoes.json` do
+DRE, com os alteradores aplicados e a data do último, e o registo passa ao rótulo do leis-portugal.
+
 `--dry-run` não grava nada e diz quantos passam em cada controlo. `--supor-verificados` (só com
 `--dry-run`) conta os diplomas como se todos os artigos fossem `certo`, para ver quantos passariam
 nos controlos técnicos (o consolidado é o da entrada, o original em `data/` é o verificado, o
@@ -36,6 +41,7 @@ Uso: `python consolidacao/acervo.py [--dry-run [--supor-verificados]]`.
 from __future__ import annotations
 
 import argparse
+import copy
 import hashlib
 import json
 import re
@@ -157,6 +163,7 @@ NAO_SUBSTITUIR = {
 }
 ROTULO = "Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas"
 ROTULO_LLM = "Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas"
+ROTULO_DRE = "Versão consolidada pelo DRE"
 _NOTA_PILOTO = re.compile(r"^> (?:Alterado|Aditado|Revogado|Retificado) pelo/a .*, publicado em \d{4}-\d{2}-\d{2}\.\n\n?", re.M)
 _NOTA = re.compile(r"^> ((?:Alterado|Aditado|Revogado|Retificado) pelo/a .*)$", re.M)
 _TITULO = re.compile(r"^#{1,6} ", re.M)
@@ -236,6 +243,35 @@ def historico(id_: str, titulo: str, original: str, consolidado: str, versoes: l
         "versions": [primeira, segunda],
         "fragments": fragmentos,
     }
+
+
+def historico_dre(anterior: dict, original: str, consolidado: str, versao: dict) -> dict:
+    """O histórico do DRE (`anterior`, como `Acervo.read_history` o lê) com mais uma versão, a nossa (`versao`, sem
+    `fragments`), sobre o texto do DRE (`original`). As versões e os fragmentos do DRE ficam como estão: um bloco do
+    consolidado igual a um fragmento da última versão do DRE reutiliza-o; os outros entram como em `historico`, com
+    `in_force_from` só nos que mudaram (não estão no texto do DRE) e têm a nota "> Alterado pelo/a …"."""
+    dados = copy.deepcopy(anterior)
+    fragmentos = dados["fragments"]
+    do_dre: dict[str, str] = {}
+    for chave in dados["versions"][-1]["fragments"]:
+        do_dre.setdefault((fragmentos[chave].get("markdown") or "").strip(), chave)
+    no_original = set(blocos(original))
+    lista = []
+    for bloco in blocos(consolidado):
+        chave = do_dre.get(bloco)
+        if chave is None:
+            chave = hashlib.sha256(bloco.encode("utf-8")).hexdigest()[:16]
+            fragmentos.setdefault(chave, {
+                "fragment_id": None,
+                "type": None,
+                "heading": bloco.splitlines()[0].lstrip("#").strip() if bloco.startswith("#") else None,
+                "in_force_from": versao["date"] if bloco not in no_original and _NOTA.search(bloco) else None,
+                "changed_by": _NOTA.findall(bloco),
+                "markdown": bloco,
+            })
+        lista.append(chave)
+    dados["versions"].append(versao | {"fragments": lista})
+    return dados
 
 
 def _sem_titulo(texto: str) -> str:
@@ -362,6 +398,7 @@ def main() -> int:
         if registo.version.label == rotulo and original.strip() == consolidado.strip():
             ja_aplicados += 1
             continue
+        dre = False
         if registo.version.kind == "original":
             if original.strip() != entrada["texto_original"].strip():
                 recusados.append(f"{id_}: o registo em data/ já não é o original verificado")
@@ -375,6 +412,10 @@ def main() -> int:
             # Uma consolidação nossa anterior, refeita depois com mais alteradores e verificada
             # de novo às cegas: substitui-se, partindo do original guardado no histórico (versão 1).
             original = entrada["texto_original"]
+        elif registo.version.label == ROTULO_DRE and original.strip() == entrada["texto_original"].strip():
+            # Linha 9 «dre» (camada 1, ronda 125): o texto do DRE, com os alteradores publicados depois da consolidação
+            # do DRE aplicados e verificados às cegas sobre ele. Acrescenta-se uma versão ao histórico do DRE.
+            dre = True
         else:
             recusados.append(f"{id_}: o registo em data/ já não é o original verificado")
             continue
@@ -385,25 +426,39 @@ def main() -> int:
             continue
         alteracoes = json.loads(piloto.with_name(piloto.name.replace(".md", ".alteracoes.json")).read_text(encoding="utf-8"))
         data_alteracao = data_da_versao(alteradores, front_matter(caminho.read_text(encoding="utf-8")))
-        versoes = [
-            {"date": registo.publication_date, "future": registo.publication_date > hoje, "acts": [], "changes": []},
-            {
-                "date": data_alteracao,
-                "future": data_alteracao > hoje,
-                "acts": [{
-                    "id": meta["id"],
-                    "title": meta["title"],
-                    "published": meta["publication_date"],
-                    "dre_path": (meta.get("identifiers") or {}).get("dre_path"),
-                } for _, meta in alteradores],
-                "changes": [f"{_OPERACAO.get(a['operacao'], 'Altera')} Artigo {a['artigo']}" for a in alteracoes],
-            },
-        ]
+        nova = {
+            "date": data_alteracao,
+            "future": data_alteracao > hoje,
+            "acts": [{
+                "id": meta["id"],
+                "title": meta["title"],
+                "published": meta["publication_date"],
+                "dre_path": (meta.get("identifiers") or {}).get("dre_path"),
+            } for _, meta in alteradores],
+            "changes": [f"{_OPERACAO.get(a['operacao'], 'Altera')} Artigo {a['artigo']}" for a in alteracoes],
+        }
+        if dre:
+            anterior = acervo.read_history(caminho)
+            if not anterior or not anterior.get("versions"):
+                recusados.append(f"{id_}: o registo do DRE não tem histórico de versões")
+                continue
+            ultima = anterior["versions"][-1]
+            if _linhas(_sem_titulo(render_version(anterior, ultima, title=registo.title))) != _linhas(_sem_titulo(original)):
+                recusados.append(f"{id_}: a última versão do histórico do DRE não reproduz o texto do data/")
+                continue
+            if data_alteracao < ultima["date"]:
+                recusados.append(f"{id_}: a versão nova ({data_alteracao}) é anterior à última do DRE ({ultima['date']})")
+                continue
+            nova["consolidated_by"] = "leis-portugal (consolidacao/camada1.py, linha 9 «dre»): sobre a versão consolidada pelo DRE"
         try:
-            dados = historico(id_, registo.title, original, consolidado, versoes)
+            if dre:
+                dados = historico_dre(anterior, original, consolidado, nova)
+            else:
+                versoes = [{"date": registo.publication_date, "future": registo.publication_date > hoje, "acts": [], "changes": []}, nova]
+                dados = historico(id_, registo.title, original, consolidado, versoes)
             # O título `# …` vem do registo, não do corpo (que pode ter outra capitalização).
             # Só se ignoram as linhas em branco repetidas, que os blocos do histórico não guardam.
-            assert _linhas(_sem_titulo(render_version(dados, dados["versions"][1], title=registo.title))) == _linhas(_sem_titulo(consolidado))
+            assert _linhas(_sem_titulo(render_version(dados, dados["versions"][-1], title=registo.title))) == _linhas(_sem_titulo(consolidado))
         except AssertionError:
             recusados.append(f"{id_}: o histórico não reproduz o consolidado")
             continue
@@ -411,15 +466,16 @@ def main() -> int:
         nome = acervo.history_path(caminho).name
         registo.version = Version(kind="consolidated", label=rotulo, language="por", consolidation_date=data_alteracao)
         registo.version_history = summarize(dados, nome)
+        base = f" sobre a versão consolidada pelo DRE de {anterior['versions'][-1]['date']}" if dre else ""
         registo.provenance.notes = (
-            f"Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: {titulos}. "
+            f"Texto em vigor consolidado pelo leis-portugal{base} com as alterações publicadas em: {titulos}. "
             f"Método e verificação: consolidacao/README.md e {piloto.with_name(piloto.name.replace('.md', '.alteracoes.json')).relative_to(RAIZ)}"
         )
         if not args.dry_run:
             acervo.save(registo, consolidado, target=caminho)
             acervo.write_history(caminho, dados)
         aplicados += 1
-        print(f"{'(dry-run) ' if args.dry_run else ''}{resultado['path']}: {len(alteracoes)} alteração(ões) de {len(alteradores)} alterador(es) ({resultado['estado']}), em vigor desde {data_alteracao}")
+        print(f"{'(dry-run) ' if args.dry_run else ''}{resultado['path']}: {len(alteracoes)} alteração(ões) de {len(alteradores)} alterador(es) ({resultado['estado']}), em vigor desde {data_alteracao}{' (sobre a versão do DRE)' if dre else ''}")
     print(f"Aplicados: {aplicados}. Já aplicados: {ja_aplicados}. Recusados: {len(recusados)}. Verificados que já não estão aplicados: {len(fora)}. Consolidados sem saída ou com reparos na última ronda (não se aplicam): {sem_verificar}.")
     for linha in recusados + fora:
         print("  ", linha)

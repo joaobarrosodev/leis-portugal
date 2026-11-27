@@ -1,0 +1,17 @@
+{
+  "id": "pt:dre:122345224:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, eliminação da «Nota. - Auditores do Tribunal de Contas com a escala de progressão dos juízes de direito.» no anexo, parte dos magistrados: alvo incerto: a nota não está no texto atual, onde o quadro dos magistrados só vem em imagem.",
+  "instrucoes": [
+    "Alterador 1 (DR 30/2019): elimina uma nota no anexo (parte dos magistrados); não aplicado, porque a nota não existe no texto do anexo, só na imagem (ver nao_aplicavel)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "ronda_camada1": 125,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
+}

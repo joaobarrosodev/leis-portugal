@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "21.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 21.º — Projectos já iniciados\n\n1 - Os projectos de grande relevância industrial já iniciados no ano de 1993 e que apresentem a respectiva candidatura no âmbito do PEDIP II até ao 60.º dia posterior à entrada em vigor da respectiva regulamentação são comparticipados nas despesas efectuadas a partir de 9 de Julho de 1993, desde que como tal sejam reconhecidos por despacho do Ministro da Indústria e Energia.\n\n2 - As despesas efectuadas posteriormente a 1 de Janeiro de 1994 no âmbito de projectos, iniciados após aquela data, abrangidos pelo presente diploma poderão ser comparticipadas, desde que as respectivas candidaturas sejam apresentadas no prazo de 60 dias contados da data da entrada em vigor da respectiva regulamentação específica.",
+    "depois": "###### Artigo 21.º — Projectos já iniciados\n\n1 - Os projectos de grande relevância industrial já iniciados no ano de 1993 e que apresentem a respectiva candidatura no âmbito do PEDIP II até ao 60.º dia posterior à entrada em vigor da respectiva regulamentação são comparticipados nas despesas efectuadas a partir de 9 de Julho de 1993, desde que como tal sejam reconhecidos por despacho do Ministro da Indústria e Energia.\n\n2 - As despesas efectuadas posteriormente a 1 de Janeiro de 1994 no âmbito de projectos iniciados após aquela data abrangidos pelo presente diploma poderão ser comparticipadas desde que as respectivas candidaturas sejam apresentadas até 31 de Dezembro de 1994.\n\n> Alterado pelo/a [Decreto-Lei n.º 320/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/320-1994-575879), publicado em 1994-12-27.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:290635:por",
+    "alterador": "pt:dre:575879:por"
+  }
+]
