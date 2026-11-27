@@ -8,6 +8,51 @@ O `leis-portugal` é um projeto open-source que pretende reunir e organizar legi
 
 O objetivo é tornar o ordenamento jurídico português mais acessível, pesquisável e reutilizável, criando uma base que possa servir cidadãos, juristas, investigadores, jornalistas, programadores e aplicações de inteligência artificial.
 
+### O que este repositório junta
+
+- **Cobertura histórica:** a 1.ª Série do Diário da República desde 1833, praticamente completa face aos sitemaps do DRE, mais os diplomas regionais dos Açores e da Madeira.
+- **Direito da UE ao lado do nacional:** cerca de 54 mil atos, 96 % dos que estão em vigor, ligados às leis portuguesas que os transpõem.
+- **Decisões:** 29 mil acórdãos do Tribunal Constitucional e 122 mil decisões da CNPD, com as declarações de inconstitucionalidade com força obrigatória geral ligadas ao diploma.
+- **Relações e versões:**
+  - 1,42 milhões de relações (alterações, revogações, retificações, transposições);
+  - o histórico de versões de cerca de 10 mil diplomas, com o texto numa data (`version-at`);
+  - mais de 2,6 mil diplomas que o DRE dá como alterados mas não consolida, consolidados aqui e marcados **sem valor oficial**.
+- **Atualização diária** por GitHub Actions, a partir do DRE, do EUR-Lex, do TC e da CNPD.
+- **Pronto para IA:**
+  - um ficheiro Markdown por diploma, com os metadados em YAML e cada artigo num cabeçalho;
+  - um índice de pesquisa por artigo (SQLite com FTS5) no [Hugging Face](https://huggingface.co/datasets/joaobarrosodev/leis-portugal-indice);
+  - um [servidor MCP](mcp/README.md) para o ligar ao Claude ou ao Cursor;
+  - um protótipo de perguntas medido com juízes às cegas ([`rag/README.md`](rag/README.md)).
+
+### Começar em um minuto
+
+**Na linha de comandos** (`grep -R` também serve, mas o [ripgrep](https://github.com/BurntSushi/ripgrep) é muito mais rápido no acervo inteiro):
+
+```bash
+rg -l -i "teletrabalho" data/portugal/leis/                                 # diplomas que falam de teletrabalho
+rg -A3 "^###### Artigo 351.º" data/portugal/leis/2009/lei-7-2009.md         # um artigo do Código do Trabalho
+rg -l -e "^legal_status: repealed" data/portugal/decretos-leis/2024/         # decretos-leis de 2024 já revogados
+```
+
+**Em Python**, com os metadados de cada ficheiro (precisa do `PyYAML`):
+
+```python
+import pathlib, yaml
+
+for f in pathlib.Path("data/portugal/decretos-leis/2024").glob("*.md"):
+    meta = yaml.safe_load(f.read_text(encoding="utf-8").split("---")[1])
+    if meta["legal_status"] == "in_force":
+        print(meta["id"], meta["title"], meta["publication_date"])
+```
+
+**Ligado a um LLM**, pelo servidor MCP: o índice vem do Hugging Face e não é preciso clonar o acervo. Os passos estão em [`mcp/README.md`](mcp/README.md).
+
+```bash
+claude mcp add leis-portugal -e RAG_INDICE=$HOME/leis-portugal-indice -- $PWD/.venv/bin/python $PWD/mcp/servidor.py
+```
+
+Para o RAG fora do MCP, use o id de cada diploma como identificador e o `legal_status` para não citar leis revogadas. A secção [Para pesquisa e aplicações de IA](#para-pesquisa-e-aplicações-de-ia) tem os pormenores.
+
 > **Estado do projeto:** em desenvolvimento ativo. Os números exatos e atualizados estão sempre em [`reports/COBERTURA.md`](reports/COBERTURA.md) e [`reports/PROGRESSO.md`](reports/PROGRESSO.md), gerados a partir dos próprios dados.
 
 ### O que já existe (novembro de 2026)
@@ -375,6 +420,23 @@ duckdb.sql("""
 
 ### Para pesquisa e aplicações de IA
 
+Os metadados de cada ficheiro estão no cabeçalho YAML (esquema em [`schemas/`](schemas/)). Os nomes mais pedidos para filtrar numa base vetorial:
+
+| Para | Campo | Notas |
+|---|---|---|
+| Título | `title` | «Lei n.º 7/2009» |
+| Tipo de diploma | `document_type` | `lei`, `decreto-lei`, `portaria`, `regulation`… |
+| Número | `official_number` | «7/2009» |
+| Data de publicação | `publication_date` | AAAA-MM-DD |
+| Entrada em vigor | `entry_into_force.date` | Com a regra (`entry_into_force.rule`) e o artigo de onde foi lida, quando há |
+| Estado | `legal_status` | `in_force`, `partially_in_force`, `not_in_force`, `repealed` ou `unknown`. O fundamento está em `legal_status_basis`, e `inferred: true` quando não vem do DRE |
+| Ligação oficial | `official_url` (e `publication.pdf_url`) | Diário da República, EUR-Lex |
+| ELI | `identifiers.eli` | Só quando o DRE ou o EUR-Lex o atribuem; o CELEX em `identifiers.celex` |
+| Versão | `version`, `version_history` | Consolidada, original ou consolidada pelo leis-portugal |
+
+- **O `legal_status` é `unknown` em cerca de 205 mil dos 461 mil registos** (sobretudo diplomas antigos e da 2.ª Série), porque a fonte não diz se estão em vigor. Num RAG, trate `unknown` como «verificar», e não como «em vigor».
+- **O ELI existe em cerca de 92 mil dos 406 mil registos portugueses.** O DRE não o atribui aos diplomas antigos.
+- **Índice mestre leve:** `leis-portugal export` gera `exports/catalogo.jsonl.gz`, com cerca de 12 MB para o acervo inteiro. Tem uma linha por registo, com o id, o título, o tipo, o número, a data, o estado, a qualidade do texto, o ELI, a ligação oficial e o caminho do ficheiro. Serve para filtrar e descarregar só os ficheiros que interessam, com `git sparse-checkout` ou pelo URL `raw` de cada caminho. O workflow [`exportacao.yml`](.github/workflows/exportacao.yml) publica-o num GitHub Release, junto com o SQLite e o Parquet, quando é corrido à mão.
 - Filtre por `text_quality = 'texto'` para indexar só documentos com texto (os restantes têm só o PDF oficial ou só os metadados).
 - Use o id (`pt:dre:…`, `eu:celex:…`) como identificador estável e a ligação `official_url` como citação.
 - Use `relacoes` para seguir alterações, revogações e transposições a partir de um resultado.

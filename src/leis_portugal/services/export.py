@@ -5,7 +5,10 @@ Ficheiros em `exports/` (gerados, fora do git):
 - `relationships.jsonl`: uma relação por linha (origem, tipo, alvo, alvo resolvido);
 - `leis-portugal.sqlite`: tabelas `documentos` e `relacoes`, com índices para pesquisar
   nos dois sentidos ("o que altera este diploma?", "o que é que este diploma transpõe?");
-- `documentos.parquet` e `relacoes.parquet`: as mesmas tabelas (precisa de `pyarrow`).
+- `documentos.parquet` e `relacoes.parquet`: as mesmas tabelas (precisa de `pyarrow`);
+- `catalogo.jsonl.gz`: o índice mestre leve, uma linha por registo com o essencial para filtrar e descarregar só o
+  que interessa (id, título, tipo, número, datas, estado de vigência, qualidade do texto, ELI, ligação oficial e o
+  caminho do ficheiro no repositório), sem dependências.
 
 O alvo de cada relação fica como está no registo (`target`) e, ao lado, o id do
 documento no acervo quando é possível resolvê-lo (`target_id`): ids `pt:dre:`/`eu:celex:`
@@ -42,6 +45,10 @@ DOCUMENT_COLUMNS = (
 LIST_COLUMNS = frozenset({"issuing_authority", "subjects"})
 INTEGER_COLUMNS = frozenset({"version_count", "article_count"})
 RELATION_COLUMNS = ("source_id", "type", "target", "target_id", "date", "label")
+CATALOG_COLUMNS = (
+    "id", "title", "document_type", "official_number", "publication_date", "legal_status", "text_quality",
+    "version_count", "article_count", "eli", "official_url", "path",
+)
 
 
 PDF_ONLY_WARNING = "o registo liga apenas ao PDF oficial"
@@ -209,6 +216,14 @@ def _write_sqlite(path: Path, documents: list[dict[str, Any]], relations: list[d
             connection.execute(f"CREATE INDEX {name} ON {table} ({column})")
 
 
+def _write_catalog(path: Path, documents: list[dict[str, Any]]) -> None:
+    import gzip
+
+    with gzip.open(path, "wt", encoding="utf-8", compresslevel=9) as handle:
+        for document in documents:
+            handle.write(json.dumps({column: document.get(column) for column in CATALOG_COLUMNS}, ensure_ascii=False) + "\n")
+
+
 def _write_parquet(directory: Path, documents: list[dict[str, Any]], relations: list[dict[str, Any]]) -> list[Path]:
     import pyarrow as pa
     import pyarrow.parquet as pq
@@ -234,7 +249,7 @@ def export_acervo(
     acervo: Acervo,
     output: Path,
     *,
-    formats: tuple[str, ...] = ("jsonl", "sqlite", "parquet"),
+    formats: tuple[str, ...] = ("jsonl", "sqlite", "parquet", "catalogo"),
     workers: int | None = None,
 ) -> ExportSummary:
     """Lê todos os registos e escreve o índice de relações e as tabelas pedidas."""
@@ -256,6 +271,9 @@ def export_acervo(
     if "sqlite" in formats:
         _write_sqlite(output / "leis-portugal.sqlite", documents, relations)
         summary.files.append(output / "leis-portugal.sqlite")
+    if "catalogo" in formats:
+        _write_catalog(output / "catalogo.jsonl.gz", documents)
+        summary.files.append(output / "catalogo.jsonl.gz")
     if "parquet" in formats:
         if parquet_available():
             summary.files.extend(_write_parquet(output, documents, relations))

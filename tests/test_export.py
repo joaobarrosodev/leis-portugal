@@ -13,7 +13,7 @@ from leis_portugal.cli import main
 from leis_portugal.domain.relations import eli_key, valid_target
 from leis_portugal.infrastructure.markdown import read_markdown_record, render_markdown
 from leis_portugal.infrastructure.repository import Acervo
-from leis_portugal.services.export import export_acervo, text_quality
+from leis_portugal.services.export import CATALOG_COLUMNS, export_acervo, text_quality
 from leis_portugal.services.linking import resolve_references
 
 
@@ -131,6 +131,18 @@ def test_export_parquet(repo_root: Path):
     relations = pq.read_table(repo_root / "exports" / "relacoes.parquet")
     assert documents.num_rows == 5 and relations.num_rows == 7
     assert documents.column("subjects").to_pylist().count(["Trabalho"]) == 1
+
+
+def test_export_catalogo(repo_root: Path):
+    import gzip
+
+    _acervo(repo_root)
+    export_acervo(Acervo(repo_root), repo_root / "exports", formats=("catalogo",), workers=1)
+    with gzip.open(repo_root / "exports" / "catalogo.jsonl.gz", "rt", encoding="utf-8") as handle:
+        linhas = [json.loads(linha) for linha in handle]
+    assert len(linhas) == 5 and list(linhas[0]) == list(CATALOG_COLUMNS)
+    primeiro = next(linha for linha in linhas if linha["id"] == "pt:dre:1:por")
+    assert primeiro["text_quality"] == "texto" and primeiro["path"].endswith(".md")
 
 
 def test_cli_export_and_link(repo_root: Path, capsys):

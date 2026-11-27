@@ -49,6 +49,10 @@ rag = [
   "google-genai>=1.0",
   "keyring>=25"
 ]
+# O servidor MCP (mcp/): só o radical Snowball, para ler o índice publicado
+mcp = [
+  "py-rust-stemmers>=0.1.5"
+]
 # A aplicação para Mac e Windows (app/): a janela e o empacotamento
 app = [
   "pywebview>=5",

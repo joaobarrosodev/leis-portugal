@@ -1,0 +1,59 @@
+name: Publicar a exportação
+
+# Gera `leis-portugal export` (catálogo leve, SQLite e Parquet com os metadados e as relações) e publica-os como
+# assets de um GitHub Release, para quem quer os dados sem clonar o repositório. Só corre à mão
+# (Actions → Publicar a exportação → Run workflow): publicar é uma decisão de quem mantém o projeto.
+on:
+  workflow_dispatch:
+    inputs:
+      etiqueta:
+        description: "Etiqueta do release (vazio = exportacao-AAAA-MM-DD de hoje)"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: exportacao
+  cancel-in-progress: false
+
+jobs:
+  exportar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - name: Obter o repositório (só o último commit)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Instalar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Instalar o leis-portugal
+        run: pip install -e ".[export]"
+
+      - name: Exportar
+        run: |
+          leis-portugal export
+          gzip -9 -k exports/leis-portugal.sqlite
+          ls -la exports
+
+      - name: Publicar o release
+        env:
+          GH_TOKEN: ${{ github.token }}
+          ETIQUETA: ${{ inputs.etiqueta }}
+        run: |
+          etiqueta="${ETIQUETA:-exportacao-$(date -u +%F)}"
+          gh release create "$etiqueta" \
+            exports/catalogo.jsonl.gz \
+            exports/documentos.parquet \
+            exports/relacoes.parquet \
+            exports/relationships.jsonl \
+            exports/leis-portugal.sqlite.gz \
+            --title "Exportação do acervo ($etiqueta)" \
+            --notes "Metadados de todos os registos e as relações, gerados por \`leis-portugal export\` a partir do main ($(git rev-parse --short HEAD)). O texto dos diplomas está nos ficheiros Markdown do repositório; o índice de pesquisa por artigo (SQLite com FTS5) está no Hugging Face: https://huggingface.co/datasets/joaobarrosodev/leis-portugal-indice. Não tem valor oficial: confirma sempre na fonte oficial."

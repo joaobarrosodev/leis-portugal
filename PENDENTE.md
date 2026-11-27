@@ -187,6 +187,27 @@ Três falhas da camada 1 que ficam como estão, com o motivo. Nenhuma tem regra 
 - **Bases soltas:** 242 registos com bases fora de títulos (a Lei n.º 95/2019, Lei de Bases da Saúde, entre eles). Misturam a redação nova citada com a republicação no anexo, muitas vezes com várias numerações, e não se encontrou regra que as separe sem erro. Nos decretos de concessões de 2010–2015 a maior parte das bases fica para lá dos 30.000 caracteres do último artigo e não entra no índice. Pormenor acima e em `reports/leitura-texto-corrido-amostra.md`.
 - **Estatuto Judiciário (DL 44278, de 1962; vista 039 da ronda 117):** não se consolida. Ficaram 322 trechos em dúvida e 3 instruções em falta porque os dois alteradores principais, o DL 202/73 e o DL 414/73, misturam os artigos deles com os do Estatuto que redigem, com a numeração a recomeçar a meio; o leitor de texto corrido recusa-os, como deve. Destravá-lo pedia uma ronda própria com o texto inteiro dos alteradores (a vista já tem 1,2 milhões de caracteres), e o Estatuto foi em grande parte substituído pela legislação posterior de organização judiciária e pelos estatutos das magistraturas, embora o DRE o dê como em vigor: não compensa, por agora. O motivo está em `consolidacao/auditoria/camada1-estado.jsonl`.
 
+## Rastreabilidade e distribuição: decisões do João (27/11)
+
+Das sugestões de 27/11, ficaram feitos:
+- o diferencial e os exemplos no topo do README;
+- a tabela dos metadados para RAG, com a cobertura real do `legal_status` e do ELI;
+- o índice mestre leve (`exports/catalogo.jsonl.gz`, 12 MB);
+- o workflow manual de exportação para Releases;
+- o servidor MCP (`mcp/`).
+
+Ficam três decisões:
+
+- **Commits por diploma na atualização diária.** Hoje há um commit por dia («Atualização diária: …»). A alternativa é um commit por diploma, com o número e a data no título: por exemplo «Decreto-Lei n.º 98/2026 (DR 1.ª Série de 2026-11-26): publicação», ou «: consolidação pelo DRE».
+  - Custo: 50 a 300 commits por dia no `main`.
+  - Ganho: `git log -- <ficheiro>` passa a mostrar o diploma que mudou cada ficheiro.
+  - **Não dá `git blame` por artigo como «este decreto alterou este artigo».** A versão consolidada entra quando o DRE a publica, muitas vezes com várias alterações juntas, e não uma alteração de cada vez. Para isso era preciso reconstruir o histórico de cada diploma a partir das versões (`.versoes.json`), uma versão por commit com a data da alteração, num ramo ou repositório à parte. É um trabalho grande.
+  - Decisão: mudar o commit diário? Fazer o histórico por versões?
+- **Ligações cruzadas dentro dos ficheiros.** As relações já existem: 1,42 milhões, em `relacoes` no SQLite, no Parquet e na ferramenta `relacoes` do MCP. Escrevê-las nos ficheiros, como ligações relativas nas citações do texto ou como uma lista «Diplomas relacionados» no fim de cada ficheiro, mexe nos 460 mil ficheiros de `data/`. Isso vai contra «base sólida primeiro» enquanto a auditoria da camada 1 não fechar.
+  - Decisão: escrever as ligações nos ficheiros, ou deixá-las nas exportações e no MCP?
+- **Publicar.** O workflow `exportacao.yml` só corre à mão, e o índice de pesquisa já está no Hugging Face.
+  - Decisão: correr o primeiro Release, e de quanto em quanto tempo correr os seguintes?
+
 ## Defeitos de dados vistos nos casos de advogado (26/11)
 
 - **Lei n.º 24/96 (Lei de Defesa do Consumidor), art. 9.º-B «Entrega dos bens»:** no acervo aparece com o texto inteiro e `revogado: False`. Mas o DL 84/2021, art. 54.º, alínea a), revoga-o, e as notas do próprio artigo dizem isso. Foi encontrado por um dos subagentes que escreveram os casos novos (`caso2-cons-03`). É para a auditoria da camada 1 ver se a revogação por um diploma posterior não chegou ao artigo, e se há mais artigos da mesma lei no mesmo estado.

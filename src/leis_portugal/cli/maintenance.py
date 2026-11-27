@@ -27,7 +27,7 @@ def register(commands) -> None:
     export = commands.add_parser("export", help="Exportar o índice de relações e os metadados (JSONL, SQLite, Parquet).")
     export.add_argument("--output", default="exports", help="Pasta de destino, relativa à raiz do repositório (por omissão: exports).")
     export.add_argument(
-        "--format", dest="formats", action="append", choices=("jsonl", "sqlite", "parquet"),
+        "--format", dest="formats", action="append", choices=("jsonl", "sqlite", "parquet", "catalogo"),
         help="Formato a gerar (repetível); por omissão, todos os disponíveis.",
     )
     export.set_defaults(handler=export_command)
@@ -98,7 +98,7 @@ def sources(args) -> int:
 def export_command(args) -> int:
     repository = acervo(args)
     output = Path(args.output) if Path(args.output).is_absolute() else repository.root / args.output
-    summary = export_acervo(repository, output, formats=tuple(args.formats or ("jsonl", "sqlite", "parquet")))
+    summary = export_acervo(repository, output, formats=tuple(args.formats or ("jsonl", "sqlite", "parquet", "catalogo")))
     share = summary.resolved / summary.relations if summary.relations else 0
     print(f"Documentos: {summary.documents}; relações: {summary.relations}; com alvo no acervo: {summary.resolved} ({share:.0%})")
     kinds = sorted({kind for kind, _ in summary.by_target})
