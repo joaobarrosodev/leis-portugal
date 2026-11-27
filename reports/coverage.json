@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-26",
+  "generated_at": "2026-11-27",
   "methodology": "Contagem direta dos ficheiros Markdown em data/ com front matter válido; sem estimativas de completude. Ano = data de publicação.",
   "totals": {
-    "documents": 461265,
+    "documents": 461302,
     "sources_registered": 5,
     "sources_operational": 4,
-    "validated_documents": 461265
+    "validated_documents": 461302
   },
   "by_jurisdiction": {
-    "european_union": 55296,
-    "portugal": 374074,
+    "european_union": 55305,
+    "portugal": 374102,
     "regional": 31895
   },
   "by_document_type": {
@@ -39,23 +39,23 @@
     "contrato-extrato": 25,
     "convenio": 2,
     "decisao": 3,
-    "decision": 21113,
-    "declaracao": 25764,
+    "decision": 21116,
+    "declaracao": 25765,
     "declaracao-extrato": 21,
-    "declaracao-retificacao": 17449,
+    "declaracao-retificacao": 17450,
     "declaracao-retificacao-extrato": 8,
     "decreto": 47478,
     "decreto-aprovacao-constituicao": 1,
     "decreto-governo": 293,
     "decreto-legislativo-regional": 2440,
-    "decreto-lei": 31727,
+    "decreto-lei": 31729,
     "decreto-ministro-republica": 49,
     "decreto-presidente-republica": 6069,
     "decreto-regional": 280,
     "decreto-regulamentar": 1933,
     "decreto-regulamentar-regional": 2603,
     "decreto-representante-republica": 69,
-    "deliberacao": 23544,
+    "deliberacao": 23560,
     "deliberacao-assembleia-republica": 1,
     "deliberacao-extracto": 8,
     "deliberacao-extrato": 79,
@@ -71,7 +71,7 @@
     "despacho-regional": 1,
     "despacho-reitoral": 1,
     "diploma-legislativo-colonial": 3,
-    "directive": 4188,
+    "directive": 4189,
     "diretiva": 53,
     "edital": 39378,
     "edital-extrato": 2,
@@ -101,18 +101,18 @@
     "parecer": 8,
     "parecer-conselho-estado": 20,
     "parecer-extrato": 2,
-    "portaria": 114843,
+    "portaria": 114844,
     "portaria-extrato": 24,
     "recomendacao": 1,
     "rectificacao": 636,
     "regimento": 21,
     "regimento-assembleia-republica": 6,
     "regimento-conselho-estado": 2,
-    "regulamento": 18892,
+    "regulamento": 18899,
     "regulamento-cmvm": 198,
     "regulamento-extracto": 2,
     "regulamento-extrato": 5,
-    "regulation": 29995,
+    "regulation": 30000,
     "relatorio": 1,
     "resolucao": 15239,
     "resolucao-assembleia-legislativa-regional": 1873,
@@ -126,8 +126,8 @@
     "tabela": 1
   },
   "by_source": {
-    "dre": 405969,
-    "eurlex-cellar": 55296
+    "dre": 405997,
+    "eurlex-cellar": 55305
   },
   "by_year": {
     "1833": 2,
@@ -287,54 +287,54 @@
     "2023": 11126,
     "2024": 11262,
     "2025": 11467,
-    "2026": 9365
+    "2026": 9402
   },
   "by_territory": {
     "acores": 28326,
     "madeira": 3569,
-    "nacional": 429370
+    "nacional": 429407
   },
   "by_version_kind": {
-    "consolidated": 14754,
-    "original": 445267,
+    "consolidated": 14795,
+    "original": 445263,
     "translation": 1244
   },
   "by_legal_status": {
-    "in_force": 203366,
-    "not_in_force": 38837,
+    "in_force": 203372,
+    "not_in_force": 38842,
     "partially_in_force": 790,
     "repealed": 15202,
-    "unknown": 203070
+    "unknown": 203096
   },
   "by_origin": {
     "importacao_inicial": 1,
-    "recolha_direta": 461264
+    "recolha_direta": 461301
   },
   "by_text_quality": {
     "metadados": 27323,
     "pdf": 76532,
-    "texto": 357410
+    "texto": 357447
   },
-  "with_version_history": 11029,
+  "with_version_history": 11070,
   "relationships_by_type": {
     "amended_by": 171575,
-    "amends": 36568,
-    "based_on": 77253,
-    "cited_by": 29326,
-    "cites": 996041,
+    "amends": 36579,
+    "based_on": 77262,
+    "cited_by": 29334,
+    "cites": 996209,
     "corrected_by": 27247,
     "corrects": 826,
     "implicitly_repeals": 8160,
     "interpreted_by": 9670,
     "repealed_by": 47194,
-    "repeals": 10992,
+    "repeals": 10994,
     "republished_by": 36,
     "republishes": 13,
     "transposed_by": 2529,
     "transposes": 2536
   },
   "by_validation_status": {
-    "validated": 461265
+    "validated": 461302
   },
   "documents_listed": false,
   "documents": []
