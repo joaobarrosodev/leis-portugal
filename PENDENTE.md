@@ -161,7 +161,7 @@ Os números estão no `rag/README.md`, em «Última milha nas reais: as peças q
 - **Confirmado nas 1.298 perguntas:** a C dá 747 certas contra 619 da A (152 ganhos, 24 perdas). Reais 115 → 149, coloquiais 23 → 109 (inflacionado: partilham vocabulário com as perguntas dos artigos), e os outros tipos ficam iguais (7 ganhos e 5 perdas em 506).
 - **O que compensa:** o reranker a ler as perguntas (sem chave) e o LLM com a reescrita (com chave). Com chave, as perguntas quase não somam à reescrita. As notas estáveis sozinhas não melhoram o número; servem para a medição ser repetível.
 - **Por fazer:**
-  - decidir o limiar da C: com 3,5 fica com as mesmas 5 «sem resposta» da A, 145 certas e 51 erradas (contra 70). O limiar continua 3 no código;
+  - **limiar da C, decidido a 27/11 (o João deixou a decisão comigo): 3,5.** Fica com as mesmas 5 «sem resposta» da A, 145 certas e 51 erradas, contra 70 com o limiar 3. É a escolha da qualidade: menos respostas erradas por 4 certas a menos. Aplica-se só sem LLM e quando a C for ligada; com LLM o limiar continua 1. O código continua com 3 até lá;
   - ligar na aplicação só depois de o índice com perguntas estar publicado. Os valores por omissão do `rag/web.py` não mudaram.
 
 ## Leitura do índice e nomes: o que ficou por corrigir (20/11)
@@ -187,6 +187,15 @@ Três falhas da camada 1 que ficam como estão, com o motivo. Nenhuma tem regra 
 - **Bases soltas:** 242 registos com bases fora de títulos (a Lei n.º 95/2019, Lei de Bases da Saúde, entre eles). Misturam a redação nova citada com a republicação no anexo, muitas vezes com várias numerações, e não se encontrou regra que as separe sem erro. Nos decretos de concessões de 2010–2015 a maior parte das bases fica para lá dos 30.000 caracteres do último artigo e não entra no índice. Pormenor acima e em `reports/leitura-texto-corrido-amostra.md`.
 - **Estatuto Judiciário (DL 44278, de 1962; vista 039 da ronda 117):** não se consolida. Ficaram 322 trechos em dúvida e 3 instruções em falta porque os dois alteradores principais, o DL 202/73 e o DL 414/73, misturam os artigos deles com os do Estatuto que redigem, com a numeração a recomeçar a meio; o leitor de texto corrido recusa-os, como deve. Destravá-lo pedia uma ronda própria com o texto inteiro dos alteradores (a vista já tem 1,2 milhões de caracteres), e o Estatuto foi em grande parte substituído pela legislação posterior de organização judiciária e pelos estatutos das magistraturas, embora o DRE o dê como em vigor: não compensa, por agora. O motivo está em `consolidacao/auditoria/camada1-estado.jsonl`.
 
+## Direção do produto (João, 27/11)
+
+- **O produto trabalha com o LLM do próprio cliente:** o Claude, o ChatGPT ou o Gemini que ele já paga, pelo servidor MCP ou com a chave dele. Assim não tem custo para nós. As peças sem LLM (o reranker, o limiar) servem a pesquisa.
+- **O reranker por passagens fica desligado**, e as melhorias continuam por este caminho.
+- **Nada vai a um advogado, nem os casos, enquanto o produto não responder bem**, mesmo quando o advogado escreve de forma simples.
+- **Ordem a seguir:** fechar a auditoria (a sessão retomou a 27/11), depois reconstruir o índice com o lote 121 em diante e as perguntas por artigo, e depois publicá-lo.
+- **À espera de terceiros, sem mudança:** IGFEJ e CSM, TC e CNPD, e a chave da API. Para medir, usam-se sessões do Claude.
+- **Código Comercial:** continua à espera; não bloqueia.
+
 ## Rastreabilidade e distribuição: decisões do João (27/11)
 
 Das sugestões de 27/11, ficaram feitos:
@@ -196,7 +205,12 @@ Das sugestões de 27/11, ficaram feitos:
 - o workflow manual de exportação para Releases;
 - o servidor MCP (`mcp/`).
 
-Ficam três decisões:
+Decisões do João a 27/11:
+- **Commits por diploma: não.** O commit diário fica como está.
+- **Ligações dentro dos ficheiros:** o João volta a explicar o que quer. Até lá, ficam nas exportações e no MCP.
+- **Releases:** à mão, quando fizer falta. O primeiro correu a 27/11.
+
+O que estava proposto:
 
 - **Commits por diploma na atualização diária.** Hoje há um commit por dia («Atualização diária: …»). A alternativa é um commit por diploma, com o número e a data no título: por exemplo «Decreto-Lei n.º 98/2026 (DR 1.ª Série de 2026-11-26): publicação», ou «: consolidação pelo DRE».
   - Custo: 50 a 300 commits por dia no `main`.
