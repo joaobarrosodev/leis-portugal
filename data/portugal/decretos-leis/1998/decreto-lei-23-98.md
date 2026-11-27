@@ -53,8 +53,8 @@ version_history:
     amending_title: null
     changes: []
   - date: '2002-01-01'
-    amending: pt:dre:516030:por
-    amending_title: Decreto-Lei n.º 114/98; Decreto-Lei n.º 323/2001
+    amending: pt:dre:540216:por
+    amending_title: Decreto-Lei n.º 323/2001
     changes:
     - Altera Artigo único
 identifiers:
@@ -82,8 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:59:06Z'
-  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 114/98; Decreto-Lei
-    n.º 323/2001. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1998/decreto-lei-23-98.alteracoes.json'
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 323/2001. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1998/decreto-lei-23-98.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -209,9 +209,9 @@ c) Os créditos sejam inferiores a (euro) 4987,98, IVA incluído, deles sendo de
 
 13 - Nos casos em que se verificar a recuperação dos créditos, total ou parcialmente, os sujeitos passivos são obrigados a proceder à entrega do imposto, no período em que se verificar o seu recebimento, sem observância, neste caso, do prazo previsto no n.º 1 do artigo 88.º
 
-14 - (Anterior n.º 10.)'»
+14 - (Anterior n.º 10.)'
 
-> Alterado pelo/a [Decreto-Lei n.º 114/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-1998-516030) e [Decreto-Lei n.º 323/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-2001-540216), publicado em 2001-12-17.
+> Alterado pelo/a [Decreto-Lei n.º 323/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-2001-540216), publicado em 2001-12-17.
 
 Visto e aprovado em Conselho de Ministros de 30 de Outubro de 1997. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco.
 

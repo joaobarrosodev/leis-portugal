@@ -39,7 +39,7 @@ notes: []
 language: por
 version:
   kind: consolidated
-  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
   consolidation_date: '2003-06-25'
 version_history:
@@ -363,7 +363,7 @@ A sociedade adopta a forma de sociedade anónima de capitais exclusivamente púb
 
 2 - Poderá a assembleia geral deliberar a deslocação da sede para outro lugar, assim como a criação de delegações, centros e similares extensões da sede noutros lugares.
 
-> Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 126/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-2003-692434), publicado em 2003-06-24.
+> Alterado pelo/a [Decreto-Lei n.º 126/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-2003-692434), publicado em 2003-06-24.
 
 ###### Artigo 3.º — Objecto e duração
 

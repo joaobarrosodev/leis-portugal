@@ -39,9 +39,9 @@ notes: []
 language: por
 version:
   kind: consolidated
-  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: '1997-03-04'
+  consolidation_date: '2000-04-12'
 version_history:
   file: decreto-lei-198-95.versoes.json
   count: 2
@@ -51,13 +51,15 @@ version_history:
     amending: null
     amending_title: null
     changes: []
-  - date: '1997-03-04'
+  - date: '2000-04-12'
     amending: pt:dre:506429:por
-    amending_title: Decreto-Lei n.º 48/97
+    amending_title: Decreto-Lei n.º 48/97; Decreto-Lei n.º 52/2000
     changes:
     - Altera Artigo 8.º
     - Altera Artigo 10.º
     - Altera Artigo 13.º
+    - Altera Artigo 2.º
+    - Altera Artigo 8.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/198/1995/07/29/p/dre/pt/html
@@ -83,8 +85,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:38:35Z'
-  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 48/97. Método e verificação:
-    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1995/decreto-lei-198-95.alteracoes.json'
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 48/97; Decreto-Lei
+    n.º 52/2000. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1995/decreto-lei-198-95.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -178,9 +180,13 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 ###### Artigo 2.º — Natureza
 
-1 - O cartão de identificação do utente constitui um meio facultativo, e com natureza substitutiva, de comprovação da identidade do seu titular perante as instituições e serviços integrados no Serviço Nacional de Saúde e as entidades privadas com actividade na área da saúde.
+1 - O cartão de identificação do utente deve ser apresentado sempre que os utentes utilizem os serviços das instituições e serviços integrados no Serviço Nacional de Saúde ou com ele convencionado.
 
-2 - O cartão de identificação do utente é de emissão gratuita e substitui, para os efeitos referidos no número anterior, qualquer outro cartão ou documento de identificação do seu titular.
+2 - A não identificação dos utentes nos termos do número anterior não pode, em caso algum, determinar a recusa de prestações de saúde.
+
+3 - Aos utentes não é cobrada, com excepção das taxas moderadoras, quando devidas, qualquer importância relativa às prestações de saúde quando devidamente identificados nos termos deste diploma ou desde que façam prova, nos 10 dias seguintes à interpelação para pagamento dos encargos com os cuidados de saúde prestados, de que são titulares ou requereram a emissão do cartão de identificação de utente do Serviço Nacional de Saúde.
+
+> Alterado pelo/a [Decreto-Lei n.º 52/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2000-494838), publicado em 2000-04-07.
 
 ###### Artigo 3.º — Apresentação do cartão
 
@@ -242,11 +248,13 @@ c) A indicação do termo de duração da responsabilidade pelos encargos.
 
 ###### Artigo 8.º — Taxas moderadoras
 
-1 - Sempre que o utente do Serviço Nacional de Saúde esteja numa das situações previstas no n.º 1 do artigo 2.º do Decreto-Lei n.º 54/92, de 11 de Abril, do seu cartão de identificação consta a titularidade do direito de isenção e respectivo limite temporal.
+1 - Sempre que o utente do Serviço Nacional de Saúde esteja numa das situações previstas no n.º 1 do artigo 2.º do [Decreto-Lei n.º 54/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-1992-199795), de 11 de Abril, do seu cartão de identificação consta a titularidade do direito de isenção e respectivo limite temporal.
 
 2 - O disposto no número anterior é igualmente aplicável às demais situações legalmente previstas de isenção de pagamento de taxas moderadoras.
 
 > Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 48/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-1997-506429), publicado em 1997-02-27.
+
+> Alterado pelo/a [Decreto-Lei n.º 48/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-1997-506429), publicado em 1997-02-27.
 
 ###### Artigo 9.º — Regime especial de comparticipação de medicamentos
 

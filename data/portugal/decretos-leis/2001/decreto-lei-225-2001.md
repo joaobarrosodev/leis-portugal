@@ -32,7 +32,7 @@ version:
   kind: consolidated
   label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: '2006-09-26'
+  consolidation_date: '2013-10-25'
 version_history:
   file: decreto-lei-225-2001.versoes.json
   count: 2
@@ -42,11 +42,12 @@ version_history:
     amending: null
     amending_title: null
     changes: []
-  - date: '2006-09-26'
+  - date: '2013-10-25'
     amending: pt:dre:541581:por
-    amending_title: Decreto-Lei n.º 190/2006
+    amending_title: Decreto-Lei n.º 190/2006; Decreto-Lei n.º 148/2013
     changes:
     - Altera Artigo ANEXO — REGULAMENTO DE HOMOLOGAÇÃO DOS CINTOS DE SEGURANÇA E DOS SISTEMAS DE RETENÇÃO DOS AUTOMÓVEIS::42.º
+    - Altera Artigo ANEXO 6.º — (figuras referentes ao capítulo II)
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/225/2001/08/11/p/dre/pt/html
@@ -72,8 +73,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:26:30Z'
-  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 190/2006. Método
-    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2001/decreto-lei-225-2001.alteracoes.json'
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 190/2006; Decreto-Lei
+    n.º 148/2013. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2001/decreto-lei-225-2001.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -1528,6 +1529,10 @@ Adenda ao certificado de homologação CE n.º ... relativa à homologação de 
 
 6 para a Bélgica;
 
+7 para a Hungria;
+
+8 para a República Checa;
+
 9 para a Espanha;
 
 11 para o Reino Unido;
@@ -1540,11 +1545,33 @@ Adenda ao certificado de homologação CE n.º ... relativa à homologação de 
 
 18 para a Dinamarca;
 
+19 para a Roménia;
+
+20 para a Polónia;
+
 21 para Portugal;
 
 23 para a Grécia;
 
-IRL para a Irlanda.
+25 para a Croácia;
+
+26 para a Eslovénia;
+
+27 para a Eslováquia;
+
+29 para a Estónia;
+
+32 para a Letónia;
+
+34 para a Bulgária;
+
+36 para a Lituânia;
+
+CY para Chipre;
+
+IRL para a Irlanda;
+
+MT para Malta.
 
 2 - Esquemas das marcas de homologação CE como componente:
 
@@ -1579,6 +1606,8 @@ Nota. - O número de homologação de base e o(s) símbolo(s) devem figurar na p
 [[[[[[(ver esquema no documento original)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)
 
 O cinto portador da marca de homologação acima é um cinto de três pontos (A) equipado com um absorvedor de energia (e), homologado como satisfazendo os requisitos específicos da alínea f) do n.º 11 do artigo 17.º, que possui um retractor do tipo 4N (r4) com sensibilidade múltipla (m) que foi objecto de homologação CE como componente nos Países Baixos (e4) de acordo com o presente Regulamento (04) com o número de homologação de base 2439. Este cinto tem de ser instalado num veículo equipado com uma almofada de ar no lugar sentado dado.
+
+> Alterado pelo/a [Decreto-Lei n.º 148/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-2013-502980), publicado em 2013-10-24.
 
 ## ANEXO 7.º — Exemplo de aparelhagem para o ensaio de durabilidade do mecanismo retractor
 
