@@ -22,11 +22,20 @@ de 161 artigos essenciais nos 8 primeiros e 5 de 39 análises certas para os doi
 e 31 de 39. Com a 2.ª volta (`completar`), 36 de 39; em 16 casos novos, escritos depois, de 10 para 14 de 16. Com as
 contas dos prazos, 37 de 39 e 12 de 16, com menos prazos errados (4 → 2 nos 55). Não é número para dizer em público.
 
-Não está na aplicação: as instruções da app recusam casos concretos, e falta confirmar se um parecer sobre um caso
-concreto é ato próprio dos advogados. Não há limiar: é o LLM que diz se os artigos chegam. Sem a chave de uma IA
-(`rag.provedores`), ou se o passo de partir falhar, a pesquisa é a do texto inteiro, como a app faz hoje.
+Dois modos, por causa do regime dos atos de advogados e solicitadores (Lei n.º 10/2024): a consulta jurídica, que
+é interpretar e aplicar normas a pedido de terceiro (art. 6.º), é competência de advogados e solicitadores (art. 4.º,
+n.º 4), e praticá-la sem habilitação é crime (art. 11.º, n.º 2).
+- `profissional` (`--profissional`, com a declaração de que quem usa é advogado ou solicitador inscrito): o fluxo acima,
+  com o que fazer, os prazos contados e o resultado previsível (`rag/CASO-ANALISE.md`). É uma ferramenta de trabalho
+  do profissional, que decide e responde pelo conselho.
+- `publico` (por omissão): explica o que a lei diz sobre as questões que a situação levanta, de que factos dependem e
+  que prazos fixa, sem dizer o que a pessoa deve fazer nem calcular datas do caso dela (`rag/CASO-INFORMACAO.md`), e
+  acaba sempre a dizer onde procurar um advogado ou solicitador e a proteção jurídica. Não foi medido.
 
-    PYTHONPATH=src python -m rag.caso pedido.txt [--data 2026-11-26] [--indice PASTA]
+Não está na aplicação. Não há limiar: é o LLM que diz se os artigos chegam. Sem a chave de uma IA (`rag.provedores`),
+ou se o passo de partir falhar, a pesquisa é a do texto inteiro, como a app faz hoje.
+
+    PYTHONPATH=src python -m rag.caso pedido.txt [--profissional] [--data 2026-11-26] [--indice PASTA]
 """
 
 from __future__ import annotations
@@ -47,6 +56,8 @@ from rag.resposta import CARACTERES_POR_ARTIGO, extrair_json, llm_disponivel
 
 FICHEIRO_PARTIR = RAIZ / "rag" / "CASO-PARTIR.md"
 FICHEIRO_ANALISE = RAIZ / "rag" / "CASO-ANALISE.md"
+FICHEIRO_INFORMACAO = RAIZ / "rag" / "CASO-INFORMACAO.md"
+PROFISSIONAL, PUBLICO = "profissional", "publico"
 ARTIGOS_NO_CONTEXTO = 16
 K_POR_CONSULTA = 30
 K_POR_ARTIGO = 3
@@ -58,10 +69,22 @@ MAXIMO_CONTAS = 10
 ARTIGOS_A_MAIS = 8
 POR_FALTA = 2
 SECCOES = ("questoes", "leis_pensadas", "o_que_fazer", "prazos", "resultado_previsivel", "depende_de_prova")
+SECCOES_PUBLICO = ("temas", "o_que_a_lei_diz", "de_que_depende", "prazos_na_lei")
 TITULOS = {
     "questoes": "Questões", "leis_pensadas": "As leis que pensa usar", "o_que_fazer": "O que fazer", "prazos": "Prazos",
     "resultado_previsivel": "Resultado previsível", "depende_de_prova": "O que depende de prova",
+    "temas": "As questões que a situação levanta", "o_que_a_lei_diz": "O que a lei diz", "de_que_depende": "De que depende",
+    "prazos_na_lei": "Prazos que a lei fixa",
 }
+ENCAMINHAMENTO = (
+    "Para saber o que fazer no seu caso, fale com um advogado ou solicitador. Se não puder pagar, pode pedir proteção "
+    "jurídica (consulta jurídica e apoio judiciário) no sítio da Segurança Social (Lei n.º 34/2004, art. 22.º). A Ordem "
+    "dos Advogados e algumas câmaras municipais têm gabinetes de consulta jurídica."
+)
+AVISO_PUBLICO = ("Isto é informação sobre o que a lei diz, escrita por um modelo de IA a partir dos artigos citados. Não é "
+                 "aconselhamento jurídico sobre o seu caso, e o texto deve confirmar-se na fonte oficial. " + ENCAMINHAMENTO)
+AVISO_PROFISSIONAL = ("Apoio ao trabalho de advogados e solicitadores, escrito por um modelo de IA a partir dos artigos citados: "
+                      "não substitui o juízo profissional, e o texto deve confirmar-se na fonte oficial.")
 # As linhas que só servem às sessões do Claude que fazem estes passos por lotes, nas medições.
 _LINHA_DOS_FICHEIROS = re.compile(r"^.*(?:entrada|saida)-NN\.jsonl.*\n\n?", re.M)
 _CITACAO_NO_TEXTO = re.compile(r"\[(\d{1,3})\]")
@@ -77,8 +100,15 @@ def instrucoes_partir() -> str:
     )
 
 
-def instrucoes_analise() -> str:
-    return _sem_ficheiros(FICHEIRO_ANALISE) + "\n\nResponde só com esse objeto JSON."
+def _modo(modo: str) -> str:
+    if modo not in (PROFISSIONAL, PUBLICO):
+        raise ValueError(f"modo desconhecido: {modo} (profissional ou publico)")
+    return modo
+
+
+def instrucoes_analise(modo: str = PUBLICO) -> str:
+    ficheiro = FICHEIRO_ANALISE if _modo(modo) == PROFISSIONAL else FICHEIRO_INFORMACAO
+    return _sem_ficheiros(ficheiro) + "\n\nResponde só com esse objeto JSON."
 
 
 @dataclass
@@ -155,9 +185,10 @@ def completar(pesquisa, ja: set[tuple[str, str]], falta: list[str], data: str, *
     return intercalar(listas)[:maximo]
 
 
-def mensagem(pedido: str, data: str, artigos: list[Resultado], contas: str = "") -> str:
+def mensagem(pedido: str, data: str, artigos: list[Resultado], contas: str = "", modo: str = PUBLICO) -> str:
     blocos = f"\n\nContas de prazos feitas pelo sistema:\n{contas}" if contas else ""
-    return f"Data de referência: {data}\n\nArtigos:\n\n{contexto(artigos)}{blocos}\n\nPedido do advogado:\n{pedido}"
+    quem = "Pedido do advogado" if _modo(modo) == PROFISSIONAL else "Situação descrita"
+    return f"Data de referência: {data}\n\nArtigos:\n\n{contexto(artigos)}{blocos}\n\n{quem}:\n{pedido}"
 
 
 def contas_feitas(contas: list[prazos_mod.Conta], data: str) -> str:
@@ -183,54 +214,68 @@ class Analise:
     contas: list[prazos_mod.Conta] = field(default_factory=list)  # as contas de prazos que o LLM pediu
     contas_texto: str = ""  # as contas feitas pelo sistema, como a 2.ª análise as recebeu
     completada: bool = False  # houve segunda volta com os artigos de `falta`
+    modo: str = PUBLICO
     motivo: str | None = None
     modelo: str = ""
     aviso_modelo: str | None = None
     erro: str | None = None
 
+    @property
+    def aviso(self) -> str:
+        """O aviso que acompanha sempre a análise, em qualquer ecrã: profissional ou público, consoante o modo."""
+        return AVISO_PROFISSIONAL if self.modo == PROFISSIONAL else AVISO_PUBLICO
 
-def interpretar(dados: dict, artigos: list[Resultado]) -> Analise:
+
+def interpretar(dados: dict, artigos: list[Resultado], modo: str = PUBLICO) -> Analise:
     """A resposta do LLM como `Analise`. Conta como citado cada número válido em `citacoes` ou escrito [n] no texto;
-    sem nenhuma citação de um artigo dado, a análise não conta («não sei»)."""
+    sem nenhuma citação de um artigo dado, a análise não conta («não sei»). No modo público lê `explicacao` e ignora
+    as contas de prazos (não se calculam datas do caso de quem pergunta)."""
+    profissional = _modo(modo) == PROFISSIONAL
     falta = _textos(dados.get("falta"), MAXIMO_FALTA)
-    contas = [c for c in map(prazos_mod.de_json, dados.get("contas") or [] if isinstance(dados.get("contas"), list) else []) if c][:MAXIMO_CONTAS]
+    pedidas = dados.get("contas") if profissional and isinstance(dados.get("contas"), list) else []
+    contas = [c for c in map(prazos_mod.de_json, pedidas) if c][:MAXIMO_CONTAS]
     if not dados.get("responde"):
-        return Analise(False, artigos=artigos, falta=falta, contas=contas, motivo="o modelo diz que os artigos não chegam para analisar o caso")
-    bruto = dados.get("analise") if isinstance(dados.get("analise"), dict) else {}
-    seccoes = {s: " ".join(str(bruto.get(s) or "").split()) for s in SECCOES if bruto.get(s)}
+        return Analise(False, artigos=artigos, falta=falta, contas=contas, modo=modo, motivo="o modelo diz que os artigos não chegam para analisar o caso")
+    chave, nomes = ("analise", SECCOES) if profissional else ("explicacao", SECCOES_PUBLICO)
+    bruto = dados.get(chave) if isinstance(dados.get(chave), dict) else {}
+    seccoes = {s: " ".join(str(bruto.get(s) or "").split()) for s in nomes if bruto.get(s)}
     numeros = [n for n in dados.get("citacoes") or [] if isinstance(n, int)]
     numeros += [int(m) for t in seccoes.values() for m in _CITACAO_NO_TEXTO.findall(t)]
     validos = list(dict.fromkeys(n for n in numeros if 1 <= n <= len(artigos)))
     citacoes = [artigos[n - 1] for n in sorted(validos)]
     if not seccoes or not citacoes:
-        return Analise(False, artigos=artigos, falta=falta, contas=contas, motivo="análise sem citação de um artigo dado")
+        return Analise(False, artigos=artigos, falta=falta, contas=contas, modo=modo, motivo="análise sem citação de um artigo dado")
     avisos = list(dict.fromkeys(a for r in citacoes for a in r.avisos))
-    return Analise(True, seccoes, citacoes, avisos, artigos, falta=falta, contas=contas)
+    return Analise(True, seccoes, citacoes, avisos, artigos, falta=falta, contas=contas, modo=modo)
 
 
-def _uma_analise(pedido: str, data: str, artigos: list[Resultado], contas: str = "") -> Analise:
+def _uma_analise(pedido: str, data: str, artigos: list[Resultado], contas: str = "", modo: str = PUBLICO) -> Analise:
     try:
-        escrita = provedores.escrever(instrucoes_analise(), mensagem(pedido, data, artigos, contas), max_tokens=16000, esforco="medium")
+        escrita = provedores.escrever(instrucoes_analise(modo), mensagem(pedido, data, artigos, contas, modo), max_tokens=16000, esforco="medium")
     except provedores.ErroIA as e:
-        return Analise(False, artigos=artigos, motivo=str(e), erro=str(e))
-    return Analise(False, artigos=artigos, motivo="o modelo recusou") if escrita.recusou else interpretar(extrair_json(escrita.texto), artigos)
+        return Analise(False, artigos=artigos, modo=modo, motivo=str(e), erro=str(e))
+    if escrita.recusou:
+        return Analise(False, artigos=artigos, modo=modo, motivo="o modelo recusou")
+    return interpretar(extrair_json(escrita.texto), artigos, modo)
 
 
-def analisar(pesquisa, pedido: str, data: str, *, decomposto: Decomposicao | None = None, completar_falta: bool = True) -> Analise:
+def analisar(pesquisa, pedido: str, data: str, *, decomposto: Decomposicao | None = None, completar_falta: bool = True,
+             modo: str = PUBLICO) -> Analise:
     """O fluxo todo: partir (se não vier já a decomposição), pesquisar, analisar e, se o LLM disse que lhe faltavam
-    artigos e a pesquisa os traz, analisar outra vez com eles."""
+    artigos e a pesquisa os traz (ou, no modo profissional, pediu contas de prazos), analisar outra vez com eles."""
+    _modo(modo)
     if not llm_disponivel():
-        return Analise(False, motivo="a análise de caso precisa da chave de uma IA (rag.provedores)")
+        return Analise(False, modo=modo, motivo="a análise de caso precisa da chave de uma IA (rag.provedores)")
     quem, aviso = provedores.descricao(), provedores.aviso_medicao()
     decomposto = decomposto or partir(pedido)
     artigos = pesquisar(pesquisa, pedido, data, decomposto)
     if not artigos:
-        return Analise(False, decomposicao=decomposto, motivo="a pesquisa não encontrou artigos", modelo=quem, aviso_modelo=aviso)
-    analise = _uma_analise(pedido, data, artigos)
+        return Analise(False, decomposicao=decomposto, modo=modo, motivo="a pesquisa não encontrou artigos", modelo=quem, aviso_modelo=aviso)
+    analise = _uma_analise(pedido, data, artigos, modo=modo)
     novos = completar(pesquisa, {(r.documento, r.chave) for r in artigos}, analise.falta, data) if completar_falta and analise.falta and not analise.erro else []
-    contas = contas_feitas(analise.contas, data) if completar_falta and not analise.erro else ""
+    contas = contas_feitas(analise.contas, data) if completar_falta and not analise.erro and modo == PROFISSIONAL else ""
     if novos or contas:
-        segunda = _uma_analise(pedido, data, artigos + novos, contas)
+        segunda = _uma_analise(pedido, data, artigos + novos, contas, modo)
         if not segunda.erro:
             segunda.falta, segunda.contas, segunda.contas_texto, segunda.completada = analise.falta, analise.contas, contas, True
             analise = segunda
@@ -260,12 +305,15 @@ def mostrar(analise: Analise) -> str:
     linhas += [f"Aviso: {a}" for a in analise.avisos]
     if analise.aviso_modelo:
         linhas.append(analise.aviso_modelo)
+    linhas += ["", analise.aviso]
     return "\n".join(linhas)
 
 
 def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    parser.add_argument("pedido", type=Path, help="Ficheiro de texto com o pedido do advogado ('-' lê da entrada).")
+    parser.add_argument("pedido", type=Path, help="Ficheiro de texto com o pedido ou a situação ('-' lê da entrada).")
+    parser.add_argument("--profissional", action="store_true",
+                        help="Declaras que és advogado ou solicitador inscrito: a análise aplica a lei ao caso concreto.")
     parser.add_argument("--data", default=date.today().isoformat(), help="Data de referência (AAAA-MM-DD).")
     parser.add_argument("--indice", type=Path)
     args = parser.parse_args(argv)
@@ -274,7 +322,10 @@ def main(argv: list[str] | None = None) -> int:
     from rag.pesquisa import Pesquisa
 
     pesquisa = Pesquisa(args.indice, reranker=Reranker("cruzado"))
-    print(mostrar(analisar(pesquisa, pedido.strip(), args.data)))
+    modo = PROFISSIONAL if args.profissional else PUBLICO
+    if args.profissional:
+        print("Modo profissional: declaraste ser advogado ou solicitador inscrito.\n")
+    print(mostrar(analisar(pesquisa, pedido.strip(), args.data, modo=modo)))
     return 0
 
 

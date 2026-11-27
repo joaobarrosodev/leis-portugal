@@ -844,6 +844,14 @@ Em particular:
 - O histórico Git não certifica a vigência nem a eficácia jurídica dos textos.
 - A cobertura e a frequência de atualização variam conforme as fontes integradas.
 
+**Informação jurídica, não consulta jurídica.** Interpretar e aplicar a lei ao caso concreto de alguém, a pedido dessa pessoa, é consulta jurídica. A consulta jurídica é competência de advogados e solicitadores (Lei n.º 10/2024, arts. 4.º e 6.º). O leis-portugal encontra e explica o que a lei diz:
+- **A aplicação** não analisa casos concretos.
+- **O fluxo de caso do repositório** (`rag/caso.py`, experimental) tem dois modos. O público, por omissão, só explica a lei e indica onde procurar um advogado ou solicitador e a proteção jurídica. O profissional é para quem declara ser advogado ou solicitador inscrito.
+- **Avisos:** todas as respostas levam o aviso do seu modo.
+- **O servidor MCP** dá o mesmo enquadramento ao LLM de quem o usa.
+
+O pormenor está em [`COMUNICACAO.md`](COMUNICACAO.md#informação-jurídica-não-consulta-jurídica).
+
 Antes de citar ou utilizar um documento num contexto jurídico, confirme o texto, a publicação, as alterações, a entrada em vigor e as disposições transitórias nas fontes oficiais pertinentes.
 
 Para o Diário da República, consulte [diariodarepublica.pt](https://diariodarepublica.pt/). Para o direito da União Europeia, consulte [EUR-Lex](https://eur-lex.europa.eu/).

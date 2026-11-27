@@ -24,11 +24,13 @@ class Pesquisa:
 
 
 def test_instrucoes_sem_as_linhas_dos_ficheiros():
-    for texto in (caso.instrucoes_partir(), caso.instrucoes_analise()):
+    for texto in (caso.instrucoes_partir(), caso.instrucoes_analise("profissional"), caso.instrucoes_analise("publico")):
         assert "entrada-NN" not in texto and "saida-NN" not in texto
         assert texto.rstrip().startswith("# ") and "JSON" in texto.splitlines()[-1]
     assert "3 a 6 consultas" in caso.instrucoes_partir()
-    assert "Usa só os artigos dados" in caso.instrucoes_analise()
+    assert "Usa só os artigos dados" in caso.instrucoes_analise("profissional")
+    assert "Não dás aconselhamento jurídico sobre o caso concreto" in caso.instrucoes_analise("publico")
+    assert caso.instrucoes_analise() == caso.instrucoes_analise("publico")
 
 
 def test_decomposicao_limpa_o_que_vem_do_llm():
@@ -58,10 +60,10 @@ def test_sem_decomposicao_pesquisa_o_texto_inteiro():
 def test_interpretar_conta_as_citacoes_do_texto_e_exige_uma():
     artigos = [_r("CT", "351.º", "Revogado por X"), _r("CT", "357.º"), _r("CT", "387.º")]
     a = caso.interpretar({"responde": True, "analise": {"questoes": "Justa causa [1].", "prazos": "60 dias [3] e [9]."},
-                          "citacoes": [2, 0, "x"]}, artigos)
+                          "citacoes": [2, 0, "x"]}, artigos, "profissional")
     assert a.responde and [r.chave for r in a.citacoes] == ["351.º", "357.º", "387.º"]
     assert a.avisos == ["Revogado por X"] and set(a.seccoes) == {"questoes", "prazos"}
-    assert not caso.interpretar({"responde": True, "analise": {"questoes": "Sem artigos."}, "citacoes": [7]}, artigos).responde
+    assert not caso.interpretar({"responde": True, "analise": {"questoes": "Sem artigos."}, "citacoes": [7]}, artigos, "profissional").responde
     assert not caso.interpretar({"responde": False}, artigos).responde
 
 
@@ -86,7 +88,7 @@ def test_analisar_com_um_provedor_falso(monkeypatch):
         return provedores.Escrita('Aqui vai: {"responde": true, "analise": {"o_que_fazer": "Resolver [1]."}, "citacoes": [1]}')
 
     monkeypatch.setattr(provedores, "escrever", escrever)
-    a = caso.analisar(Pesquisa({"q1": [_r("CT", "351.º")]}), "pedido", "2026-11-26")
+    a = caso.analisar(Pesquisa({"q1": [_r("CT", "351.º")]}), "pedido", "2026-11-26", modo="profissional")
     assert a.responde and a.decomposicao.consultas == ["q1"] and a.seccoes == {"o_que_fazer": "Resolver [1]."}
     assert len(pedidos) == 2 and "O que fazer" in caso.mostrar(a)
 
@@ -117,11 +119,11 @@ def test_analisar_faz_segunda_volta_com_o_que_falta(monkeypatch):
 
     monkeypatch.setattr(provedores, "escrever", escrever)
     pesquisa = Pesquisa({"q1": [_r("CT", "351.º")], "prazo da ação de impugnação": [_r("CT", "351.º"), _r("CT", "387.º")]})
-    a = caso.analisar(pesquisa, "pedido", "2026-11-26")
+    a = caso.analisar(pesquisa, "pedido", "2026-11-26", modo="profissional")
     assert len(mensagens) == 2 and a.completada and a.falta == ["prazo da ação de impugnação"]
     assert [r.chave for r in a.citacoes] == ["387.º"] and len(a.artigos) == 2
     mensagens.clear()
-    sem = caso.analisar(pesquisa, "pedido", "2026-11-26", completar_falta=False)
+    sem = caso.analisar(pesquisa, "pedido", "2026-11-26", completar_falta=False, modo="profissional")
     assert not sem.completada and len(sem.artigos) == 1
 
 
@@ -144,6 +146,42 @@ def test_analisar_da_as_contas_feitas_a_segunda_volta(monkeypatch):
         return provedores.Escrita(json.dumps({"responde": True, "analise": {"prazos": "Até 4/01/2027 [1]."}, "citacoes": [1]}))
 
     monkeypatch.setattr(provedores, "escrever", escrever)
-    a = caso.analisar(Pesquisa({"q1": [_r("CT", "387.º")]}), "pedido", "2026-11-26")
+    a = caso.analisar(Pesquisa({"q1": [_r("CT", "387.º")]}), "pedido", "2026-11-26", modo="profissional")
     assert len(mensagens) == 2 and a.completada and len(a.contas) == 1 and "04/01/2027" in a.contas_texto
     assert "Contas de prazos feitas pelo sistema" in caso.mostrar(a)
+
+
+def test_modo_publico_explica_sem_contas_e_com_o_aviso(monkeypatch):
+    monkeypatch.setattr(caso, "llm_disponivel", lambda: True)
+    monkeypatch.setattr(provedores, "descricao", lambda: "falso")
+    monkeypatch.setattr(provedores, "aviso_medicao", lambda: None)
+    sistemas, mensagens = [], []
+    conta = {"inicio": "2026-10-31", "quantidade": 60, "unidade": "dias", "regime": "civil_em_juizo"}
+
+    def escrever(sistema, mensagem, *, max_tokens, esforco):
+        if sistema == caso.instrucoes_partir():
+            return provedores.Escrita(json.dumps({"consultas": ["q1"]}))
+        sistemas.append(sistema)
+        mensagens.append(mensagem)
+        return provedores.Escrita(json.dumps({"responde": True, "contas": [conta],
+                                              "explicacao": {"o_que_a_lei_diz": "A ação tem 60 dias [1].", "temas": "Despedimento."},
+                                              "analise": {"o_que_fazer": "isto não se lê no modo público"}, "citacoes": [1]}))
+
+    monkeypatch.setattr(provedores, "escrever", escrever)
+    a = caso.analisar(Pesquisa({"q1": [_r("CT", "387.º")]}), "a minha situação", "2026-11-26")
+    assert a.modo == "publico" and a.responde and set(a.seccoes) == {"o_que_a_lei_diz", "temas"}
+    # sem contas de datas do caso, e por isso sem 2.ª volta só por elas
+    assert a.contas == [] and not a.completada and len(mensagens) == 1
+    assert sistemas[0] == caso.instrucoes_analise("publico") and "Situação descrita:" in mensagens[0]
+    texto = caso.mostrar(a)
+    assert texto.rstrip().endswith(caso.AVISO_PUBLICO) and "Segurança Social" in texto and "O que fazer" not in texto
+    assert a.aviso == caso.AVISO_PUBLICO
+
+
+def test_aviso_em_todas_as_respostas_e_modo_invalido():
+    assert caso.Analise(False, modo="profissional").aviso == caso.AVISO_PROFISSIONAL
+    assert caso.mostrar(caso.Analise(False, motivo="x")).rstrip().endswith(caso.AVISO_PUBLICO)
+    import pytest
+
+    with pytest.raises(ValueError):
+        caso.instrucoes_analise("outro")

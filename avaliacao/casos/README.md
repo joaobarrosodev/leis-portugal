@@ -239,6 +239,16 @@ Ficheiros: `resultados/contas/` (39), `resultados/casos2-contas/` (16), `prazos-
 2. Garantir os artigos dos prazos e das formalidades, onde estão as erradas. Feito em parte com a 2.ª volta (secção acima): 10 → 14 de 16 certas nos casos novos. A conta dos prazos é agora feita pelo sistema (`rag/prazos.py`, secção acima). Os erros de prazos descem de 4 para 2 nos 55 casos, mas uma conta mal pedida (sem a dilação, por exemplo) continua errada.
 3. Pôr um advogado a rever os casos e as análises.
 
+## Modos (27/11/2026)
+
+Todas as medições acima são do modo **profissional**. É a análise para advogados, com o que fazer, os prazos contados e o resultado previsível, segundo as regras de `rag/CASO-ANALISE.md`.
+
+O `rag/caso.py` tem também o modo **público**, que é o modo por omissão:
+- explica a lei sem a aplicar ao caso de quem pergunta, sem calcular datas e sem dizer o que fazer (`rag/CASO-INFORMACAO.md`);
+- acaba sempre a indicar um advogado ou solicitador e a proteção jurídica.
+
+O modo público não foi medido. Existe por causa do regime da consulta jurídica (Lei n.º 10/2024; ver [`COMUNICACAO.md`](../../COMUNICACAO.md#informação-jurídica-não-consulta-jurídica)).
+
 ## Ficheiros
 
 - `casos.jsonl`: os 39 casos.

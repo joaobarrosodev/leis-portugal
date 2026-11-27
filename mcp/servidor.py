@@ -35,6 +35,18 @@ MAXIMO_TEXTO = 4000
 AVISO = ("Texto do acervo leis-portugal, não oficial: confirma na fonte oficial (Diário da República, EUR-Lex) antes de "
          "o usar num contexto jurídico. Não é aconselhamento jurídico.")
 
+# O enquadramento para o LLM do cliente: a consulta jurídica (interpretar e aplicar normas ao caso de quem pede) é
+# competência de advogados e solicitadores (Lei n.º 10/2024, arts. 4.º e 6.º). Quem não é deve receber informação.
+INSTRUCOES = (
+    "Legislação portuguesa e da UE do acervo leis-portugal. Cita sempre o diploma e o artigo, respeita os avisos de "
+    "vigência e lembra que o texto deve confirmar-se na fonte oficial. Quem pergunta pode não ser advogado: nesse caso "
+    "explica o que a lei diz e de que factos depende, sem dizer o que a pessoa deve fazer no caso dela nem prever o "
+    "resultado, e acaba a indicar um advogado ou solicitador e a proteção jurídica pedida no sítio da Segurança Social "
+    "(Lei n.º 34/2004, art. 22.º). Aplicar a lei ao caso concreto é consulta jurídica, reservada a advogados e "
+    "solicitadores (Lei n.º 10/2024): só o faças como apoio a quem disser que é advogado ou solicitador, e diz que não "
+    "substitui o juízo profissional. Não é aconselhamento jurídico."
+)
+
 _pesquisa = None
 
 
@@ -177,8 +189,7 @@ def responder(pedido: dict) -> dict | None:
         if metodo == "initialize":
             resultado = {"protocolVersion": VERSAO_PROTOCOLO, "capabilities": {"tools": {}},
                          "serverInfo": {"name": "leis-portugal", "version": "0.1.0"},
-                         "instructions": "Legislação portuguesa e da UE do acervo leis-portugal. Cita sempre o diploma e o artigo; "
-                                         "respeita os avisos de vigência; confirma na fonte oficial."}
+                         "instructions": INSTRUCOES}
         elif metodo == "ping":
             resultado = {}
         elif metodo == "tools/list":

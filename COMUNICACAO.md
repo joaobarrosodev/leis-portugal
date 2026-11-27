@@ -46,11 +46,30 @@ Números de 12 de novembro de 2026.
 | Não dizer | Porquê | Dizer antes |
 |---|---|---|
 | "Responde a 95% das perguntas de um advogado" | Os 95% contam só as perguntas a que responde. Não foi testado com perguntas de advogados e nenhum jurista reviu as respostas. | "Quando responde, acerta em cerca de 95%" |
-| "Substitui um advogado" ou "aconselhamento jurídico" | Não analisa casos e não interpreta a lei. O repositório não é aconselhamento jurídico. | "Ajuda a encontrar o que diz a lei, com a fonte" |
+| "Substitui um advogado", "aconselhamento jurídico", "consulta jurídica", "advogado virtual", "analisa o teu caso", "diz-te o que fazer" | Promover atos de advogados sem estar autorizado é contraordenação (Lei n.º 10/2024, art. 12.º); ver a secção abaixo. A aplicação não analisa casos, e o fluxo de caso do repositório é experimental. No modo público, só explica a lei. | "Ajuda a encontrar o que diz a lei, com o artigo e a fonte" |
 | "Toda a legislação portuguesa" | Falta legislação local, parte da 2.ª Série e o texto de cerca de 70 mil diplomas antigos que só existem em PDF digitalizado. | "Praticamente toda a 1.ª Série desde 1833" |
 | "Texto oficial" ou "versão oficial" | O texto em vigor produzido pelo projeto não tem valor oficial. A fonte oficial é o Diário da República. | "Com ligação à fonte oficial" |
 | "Validado por juristas" | As respostas foram julgadas por modelos de IA, às cegas, e não por juristas. | "Medido às cegas" |
 | "Sem erros" ou "100%" | Nenhuma medição dá 100% em perguntas novas, e a conversão automática pode ter erros. | O número medido, com a ressalva |
+
+## Informação jurídica, não consulta jurídica
+
+O regime dos atos de advogados e solicitadores está na Lei n.º 10/2024, em vigor desde 1/1/2024, que revogou a Lei n.º 49/2004. Três regras contam para o projeto:
+- **A consulta jurídica** é a «atividade de aconselhamento jurídico que consiste na interpretação e aplicação de normas jurídicas mediante solicitação de terceiro» (art. 6.º). É competência de advogados e solicitadores quando feita no interesse de terceiros e em atividade profissional (art. 4.º, n.os 4 e 5).
+- **Praticá-la sem habilitação é crime** (art. 11.º, n.º 2).
+- **Promover ou publicitar atos próprios** por quem não está autorizado é contraordenação (art. 12.º). As coimas vão de 500 € a 2.500 € para uma pessoa singular e de 1.250 € a 5.000 € para uma pessoa coletiva, e mais em caso de reincidência.
+
+O que o projeto faz para ficar do lado da informação:
+- **O que se diz:** o leis-portugal encontra e explica o que a lei diz, com o artigo e a fonte. Não se anuncia como quem diz a alguém o que fazer no seu caso.
+- **Quem corre o produto:** cada pessoa corre-o no seu computador, com o seu próprio LLM (pela aplicação ou pelo servidor MCP). Não há um serviço do projeto a responder a casos, e o projeto não recebe nem guarda os casos das pessoas.
+- **Dois modos no fluxo de caso** (`rag/caso.py`):
+  - o público, por omissão, explica a lei sem a aplicar ao caso e acaba a indicar um advogado ou solicitador e a proteção jurídica;
+  - o profissional exige a declaração de que quem usa é advogado ou solicitador inscrito, e diz que não substitui o juízo profissional.
+
+  Cada resposta leva o aviso do seu modo. O servidor MCP dá o mesmo enquadramento ao LLM do cliente.
+- **Antes de abrir a análise de caso ao público:** pedir a um advogado um parecer sobre este enquadramento. Não é preciso mostrar-lhe o produto. Não se conhecem decisões dos tribunais sobre ferramentas destas.
+
+Isto é a leitura que o projeto faz da lei, não um parecer.
 
 ## Ressalva que acompanha qualquer número de qualidade
 
