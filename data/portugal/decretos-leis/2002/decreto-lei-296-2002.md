@@ -40,7 +40,7 @@ notes: []
 language: por
 version:
   kind: consolidated
-  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
   consolidation_date: '2003-06-25'
 version_history:
@@ -56,6 +56,7 @@ version_history:
     amending: pt:dre:692434:por
     amending_title: Decreto-Lei n.º 126/2003
     changes:
+    - Altera Artigo 22.º
     - Altera Artigo 22.º
 identifiers:
   celex: null
@@ -344,9 +345,11 @@ O primeiro regulamento interno do Hospital deve ser submetido à assembleia gera
 
 ###### Artigo 22.º — Norma revogatória
 
-É revogado o Decreto-Lei n.º 151/98, de 5 de Junho.
+É revogado o [Decreto-Lei n.º 151/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-1998-475970), de 5 de Junho.
 
 > Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 126/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-2003-692434), publicado em 2003-06-24.
+
+> Alterado pelo/a [Decreto-Lei n.º 126/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-2003-692434), publicado em 2003-06-24.
 
 ###### Artigo 23.º — Entrada em vigor
 
