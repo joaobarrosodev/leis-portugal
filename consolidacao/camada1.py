@@ -19,6 +19,7 @@ Passos:
     python consolidacao/camada1.py onda 1                # camada1/onda-1.jsonl, com a categoria de cada um
     python consolidacao/camada1.py selecao 1             # junta os nunca triados a selecao-escala.jsonl
     python consolidacao/camada1.py triagem 1             # regras e triagem, em resultados-escala.parte-7.jsonl
+    python consolidacao/camada1.py selecao-dre 2         # linha 9 «dre»: seleção sobre o texto do DRE (ronda 125)
 
 Depois da triagem, `python consolidacao/consolidar.py --escala --juntar` volta a escrever
 `resultados-escala.jsonl` e `pendentes-escala.jsonl` com as partes todas.
@@ -681,7 +682,7 @@ def importar(pastas: list[str]) -> int:
 
 
 RONDA = 115
-PASTAS_DA_RONDA = {115: ("pedidos", "pedidos-2"), 116: ("pedidos-3",), 117: ("pedidos-4",), 118: ("pedidos-5",), 119: ("pedidos-6",), 120: ("pedidos-7",), 121: ("pedidos-8",), 122: ("pedidos-9",), 123: ("pedidos-10",), 124: ("pedidos-11",)}
+PASTAS_DA_RONDA = {115: ("pedidos", "pedidos-2"), 116: ("pedidos-3",), 117: ("pedidos-4",), 118: ("pedidos-5",), 119: ("pedidos-6",), 120: ("pedidos-7",), 121: ("pedidos-8",), 122: ("pedidos-9",), 123: ("pedidos-10",), 124: ("pedidos-11",), 125: ("pedidos-12",)}
 
 
 def _sufixo() -> str:
@@ -1022,9 +1023,10 @@ def refazer_selecao(ficheiro_ids: Path | None = None, rotulo: str = "ronda 116")
     return 0
 
 
-def _trocar_selecao(novos: dict[str, dict]) -> None:
+def _trocar_selecao(novos: dict[str, dict], acrescentar_resultados: bool = False) -> dict[str, dict]:
     """Troca as linhas destes diplomas em `selecao-escala.jsonl`, corre as regras (`consolidar.processar`) e troca as
-    linhas em `resultados-escala.jsonl`, na parte 7 e nos pendentes."""
+    linhas em `resultados-escala.jsonl`, na parte 7 e nos pendentes. Um diploma sem linha nos resultados ganha-a na
+    parte 7 e, com `acrescentar_resultados`, também em `resultados-escala.jsonl`. Devolve o estado das regras de cada um."""
     from consolidar import processar  # noqa: PLC0415
 
     linhas = [json.loads(l) for l in SELECAO_ESCALA.read_text(encoding="utf-8").splitlines() if l.strip()]
@@ -1040,7 +1042,8 @@ def _trocar_selecao(novos: dict[str, dict]) -> None:
         resultado = _jsonl(ficheiro)
         ja = {r["id"] for r in resultado}
         resultado = [({k: v for k, v in estados[r["id"]].items() if k != "pendentes"} | {"segundos": 0}) if r["id"] in estados else r for r in resultado]
-        resultado += [{k: v for k, v in e.items() if k != "pendentes"} for i, e in estados.items() if i not in ja and ficheiro == PARTE]
+        resultado += [{k: v for k, v in e.items() if k != "pendentes"} for i, e in estados.items()
+                      if i not in ja and (ficheiro == PARTE or acrescentar_resultados)]
         ficheiro.write_text("".join(json.dumps(r, ensure_ascii=False) + "\n" for r in resultado), encoding="utf-8")
     pendentes = [p for p in _jsonl(PASTA / "pendentes-escala.jsonl") if p["id"] not in estados]
     for i, e in estados.items():
@@ -1048,6 +1051,7 @@ def _trocar_selecao(novos: dict[str, dict]) -> None:
             pendentes.append({"id": i, "title": e["title"], "itens": e["pendentes"]})
     (PASTA / "pendentes-escala.jsonl").write_text("".join(json.dumps(p, ensure_ascii=False) + "\n" for p in pendentes), encoding="utf-8")
     print(f"{trocadas} linhas trocadas na seleção; regras: {dict(Counter(e['estado'] for e in estados.values()))}")
+    return estados
 
 
 def acrescentar_alteradores(ficheiro: Path) -> int:
@@ -1077,9 +1081,135 @@ def acrescentar_alteradores(ficheiro: Path) -> int:
     return 0
 
 
+# Linha 9 «dre» (ronda 125): os consolidados pelo DRE com alteradores publicados depois da data de consolidação do DRE.
+# O texto de base é o do DRE (`texto.publicado` devolve o corpo do registo, porque o rótulo não é nosso) e a cadeia
+# leva só os alteradores posteriores; o `acervo.py` acrescenta depois uma versão ao `.versoes.json` do DRE.
+ROTULO_DRE = "Versão consolidada pelo DRE"
+RONDA_DRE = 125
+_TIPOS_DRE = ("amended_by", "corrected_by", "repealed_by")
+
+
+def linha_dre(item: dict, db: sqlite3.Connection, path: str) -> dict:
+    """A linha de `selecao-escala.jsonl` de um consolidado pelo DRE (item de `onda-2.jsonl`, categoria `linha_9_dre`), no
+    formato de `selecionar.selecionar_todos` + `completar`. `alteradores` leva só o que é posterior à consolidação do
+    DRE: os `alteradores_posteriores` do item e as relações `corrected_by`/`repealed_by` do registo (no data/ e no
+    export) com data posterior. Um diploma que não serve dá `ValueError` com o motivo."""
+    from selecionar import COLUNAS, completar, retifica_outro  # noqa: PLC0415
+
+    colunas = COLUNAS.split(", ")
+    caminho = RAIZ / path
+    if not caminho.exists():
+        raise ValueError(f"o registo não está no data/ ({path})")
+    meta = front_matter(caminho.read_text(encoding="utf-8"))
+    versao = meta.get("version") or {}
+    if versao.get("label") != ROTULO_DRE:
+        raise ValueError(f"o registo em data/ já não é a versão consolidada pelo DRE ({versao.get('label')!r})")
+    desde = str(versao.get("consolidation_date") or "")
+    if not desde:
+        raise ValueError("o registo do DRE não tem data de consolidação")
+    linha = db.execute(f"select {COLUNAS} from documentos where id = ?", (item["id"],)).fetchone()
+    if linha is None:
+        raise ValueError("sem registo no export")
+    doc = dict(zip(colunas, linha, strict=True))
+    if doc["text_quality"] != "texto":
+        raise ValueError(f"o export só tem {doc['text_quality']}")
+
+    relacoes: dict[str, dict] = {}
+
+    def juntar(alvo: str, tipo: str, data: str | None, rotulo: str | None = None) -> None:
+        r = relacoes.setdefault(alvo, {"id": alvo, "rotulos": set(), "datas": set(), "tipos": set()})
+        r["tipos"].add(tipo)
+        if rotulo:
+            r["rotulos"].add(rotulo)
+        if data:
+            r["datas"].add(str(data))
+
+    for a in item.get("alteradores_posteriores") or []:
+        juntar(a["id"], "amended_by", a.get("data"))
+    for r in meta.get("relationships") or []:
+        if r.get("type") in ("corrected_by", "repealed_by") and r.get("target") and str(r.get("date") or "") > desde:
+            juntar(r["target"], r["type"], r.get("date"), r.get("label"))
+    export = db.execute(f"select type, target, target_id, date, label from relacoes where source_id = ? and type in ({','.join('?' * len(_TIPOS_DRE))})",
+                        (item["id"], *_TIPOS_DRE)).fetchall()
+    for tipo, _alvo, alvo_id, data, rotulo in export:
+        if tipo in ("corrected_by", "repealed_by") and alvo_id and str(data or "") > desde:
+            juntar(alvo_id, tipo, data, rotulo)
+    for tipo, alvo, alvo_id, data, rotulo in export:  # os rótulos e as datas do DRE dos que já estão na lista
+        chave = alvo_id if alvo_id in relacoes else alvo if alvo in relacoes else None
+        if chave and tipo in relacoes[chave]["tipos"]:
+            juntar(chave, tipo, data, rotulo)
+    if not relacoes:
+        raise ValueError("nenhum alterador posterior à consolidação do DRE")
+
+    alteradores = []
+    for r in relacoes.values():
+        m = db.execute(f"select {COLUNAS} from documentos where id = ?", (r["id"],)).fetchone()
+        a = dict(zip(colunas, m, strict=True)) if m else {"id": r["id"], "title": r["id"]}
+        datas = sorted(r["datas"])
+        a["rotulos_dre"] = sorted(r["rotulos"])
+        a["datas_dre"] = datas
+        a["ordem"] = a.get("publication_date") or (datas[-1] if datas else "9999-99-99")
+        if r["tipos"] == {"repealed_by"}:
+            a["revogacao"] = True
+        if r["tipos"] == {"corrected_by"}:
+            # como em `selecionar_todos`: a retificação do texto vai primeiro na cadeia (aqui, logo a seguir à
+            # consolidação do DRE), salvo a que retifica um alterador
+            a["retificacao"] = True
+            if not any(retifica_outro(x) for x in r["rotulos"]):
+                a["ordem"] = desde
+        alteradores.append(a)
+    alteradores.sort(key=lambda a: (a["ordem"], not a.get("retificacao"), a["id"]))
+    citacoes = db.execute("select count(distinct source_id) from relacoes where type = 'cites' and target_id = ?", (item["id"],)).fetchone()[0]
+    registo = doc | {"citacoes": citacoes, "alteradores": alteradores, "n_alteracoes": len(alteradores)}
+    return completar(registo) | {"camada1": True, "selecao_refeita": f"ronda {RONDA_DRE}: linha 9 dre", "consolidado_dre_ate": desde}
+
+
+def selecao_dre(ficheiro_ids: Path | None = None) -> int:
+    """Ronda 125: os consolidados pelo DRE da onda 2 com alteradores posteriores (todos, ou os de `ficheiro_ids`) entram em
+    `selecao-escala.jsonl` (`linha_dre`), as regras correm (`_trocar_selecao`, com linha nova em `resultados-escala.jsonl`)
+    e os ids ficam em `camada1/ids-125.txt`. Os que não servem (ou cujas regras não dão texto atual para o pedido) ficam
+    em `camada1/ronda-125-de-fora.jsonl`, com o motivo, e não entram na seleção."""
+    from consolidar import processar  # noqa: PLC0415
+
+    itens = [i for i in _jsonl(CAMADA1 / "onda-2.jsonl") if i["categoria"] == "linha_9_dre" and i.get("alteradores_posteriores")]
+    if ficheiro_ids is not None:
+        pedidos = set(ficheiro_ids.read_text(encoding="utf-8").split())
+        itens = [i for i in itens if i["id"] in pedidos]
+    db = sqlite3.connect(f"file:{_export()}?mode=ro", uri=True)
+    novos: dict[str, dict] = {}
+    de_fora: list[dict] = []
+    for item in itens:
+        try:
+            registo = linha_dre(item, db, _path_de(item["id"]) or "")
+            extra: dict = {}
+            e = processar(registo, escrever=False, extra=extra)
+            if extra.get("consolidado") is None:
+                raise ValueError(f"as regras não dão texto atual: {e['estado']} ({e.get('motivo')})")
+        except Exception as erro:  # noqa: BLE001
+            de_fora.append({"id": item["id"], "titulo": item["titulo"], "motivo": f"{type(erro).__name__}: {erro}"[:400]})
+            continue
+        novos[item["id"]] = registo
+    ja = {r["id"] for r in _jsonl(SELECAO_ESCALA)}
+    with SELECAO_ESCALA.open("a", encoding="utf-8") as f:
+        for i, r in novos.items():
+            if i not in ja:
+                f.write(json.dumps(r, ensure_ascii=False) + "\n")
+    estados = _trocar_selecao(novos, acrescentar_resultados=True) if novos else {}
+    (CAMADA1 / f"ids-{RONDA_DRE}.txt").write_text("".join(f"{i}\n" for i in novos), encoding="utf-8")
+    fora = CAMADA1 / f"ronda-{RONDA_DRE}-de-fora.jsonl"
+    if de_fora:
+        fora.write_text("".join(json.dumps(d, ensure_ascii=False) + "\n" for d in de_fora), encoding="utf-8")
+    elif fora.exists():
+        fora.unlink()
+    print(f"linha 9 dre: {len(novos)} na seleção ({len(novos) - len(ja & set(novos))} novos), "
+          f"{sum(r['n_alteracoes'] for r in novos.values())} alteradores; de fora: {len(de_fora)}; "
+          f"regras: {dict(Counter(e['estado'] for e in estados.values()))}")
+    return 0
+
+
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__.splitlines()[0])
-    parser.add_argument("passo", choices=("onda", "selecao", "triagem", "entrada-triagem", "juntar-triagem", "pedidos", "encolher", "importar", "ronda", "acrescentar-iguais", "encolher-ronda", "entrada-nada", "estado", "refazer-selecao", "acrescentar-alteradores"))
+    parser.add_argument("passo", choices=("onda", "selecao", "triagem", "entrada-triagem", "juntar-triagem", "pedidos", "encolher", "importar", "ronda", "acrescentar-iguais", "encolher-ronda", "entrada-nada", "estado", "refazer-selecao", "acrescentar-alteradores", "selecao-dre"))
     parser.add_argument("n", type=int)
     parser.add_argument("--ronda", type=int, default=115, choices=sorted(PASTAS_DA_RONDA))
     parser.add_argument("--pasta", default="pedidos", help="pedidos: a pasta em camada1/")
@@ -1106,6 +1236,8 @@ def main() -> int:
         return refazer_selecao(args.ids_extra, f"onda {args.n}" if args.ids_extra else "ronda 116")
     if args.passo == "acrescentar-alteradores":
         return acrescentar_alteradores(args.ids_extra)
+    if args.passo == "selecao-dre":  # linha 9 «dre», ronda 125: `camada1.py selecao-dre 2 [--ids-extra F]`
+        return selecao_dre(args.ids_extra)
     if args.passo == "estado":
         return estado()
     if args.passo == "entrada-nada":

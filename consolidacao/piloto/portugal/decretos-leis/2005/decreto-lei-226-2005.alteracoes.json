@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "2.º",
+    "operacao": "retificar",
+    "regra": "retificação",
+    "antes": "###### Artigo 2.º — Regulamentação\n\n1 - As regras técnicas a observar nas instalações eléctricas referidas no artigo anterior são aprovadas pelo ministro que tutela a área da economia, sob proposta do director-geral de Geologia e Energia, sendo regulamentadas por portaria.\n\n2 - A revisão das regras técnicas referidas no número anterior deve ser obrigatoriamente precedida de parecer da comissão técnica de electrotecnia relevante para a matéria a alterar, devendo basear-se, quando aplicável, na normalização nacional do CENELEC - Comité Europeu de Normalização Electrotécnica ou da CEI - Comissão Electrotécnica Internacional.",
+    "depois": "###### Artigo 2.º — Regulamentação\n\n1 - As regras técnicas a observar nas instalações eléctricas referidas no artigo anterior são aprovadas pelo ministro que tutela a área da economia, sob proposta do director-geral de Geologia e Energia, sendo regulamentadas por portaria.\n\n2 - A revisão das regras técnicas referidas no número anterior deve ser obrigatoriamente precedida de parecer da comissão técnica de electrotecnia relevante para a matéria a alterar, devendo basear-se, quando aplicável, na normalização nacional, do CENELEC - Comité Europeu de Normalização Electrotécnica ou da CEI - Comissão Electrotécnica Internacional.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 11/2006](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/11-2006-676607), publicado em 2006-02-23.",
+    "excerto": "2 - No n.º 2 do artigo 2.º, onde se lê «na normalização nacional do CENELEC» deve ler-se «na normalização nacional, do CENELEC».",
+    "artigo_alterador": "",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:468999:por",
+    "alterador": "pt:dre:676607:por"
+  },
+  {
+    "artigo": "6.º",
+    "operacao": "retificar",
+    "regra": "retificação",
+    "antes": "###### Artigo 6.º — Norma revogatória\n\nO artigo 1.º do Decreto-Lei n.º 740/74, de 26 de Dezembro, e os Regulamentos anexos ao mesmo diploma são revogados a partir da data da publicação da portaria referida no n.º 1 do artigo 2.º",
+    "depois": "###### Artigo 6.º — Norma revogatória\n\nO artigo 1.º do Decreto-Lei n.º 740/74, de 26 de Dezembro, e os Regulamentos anexos ao mesmo diploma são revogados 90 dias a partir da data da publicação da portaria referida no n.º 1 do artigo 2.º\n\n> Retificado pelo/a [Declaração de Rectificação n.º 11/2006](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/11-2006-676607), publicado em 2006-02-23.",
+    "excerto": "3 - No artigo 6.º, onde se lê «são revogados a partir da data» deve ler-se «são revogados 90 dias a partir da data».",
+    "artigo_alterador": "",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:468999:por",
+    "alterador": "pt:dre:676607:por"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "40.º",
+    "operacao": "retificar",
+    "regra": "retificação",
+    "antes": "###### Artigo 40.º — Dados estatísticos e relatórios técnicos\n\n1 - Os concessionários deverão enviar à Direcção-Geral:\n\na) Até ao fim do mês de Março de cada ano, o mapa estatístico respeitante ao ano anterior, elaborado de acordo com o modelo aprovado;\n\nb) Até ao fim do mês, um relatório técnico contendo todos os elementos que permitam avaliar a actividade desenvolvida no ano anterior.\n\n2 - Para além do referido no número anterior, deverão ainda os concessionários facultar à Direcção-Geral todos os estudos, análises e relatórios com interesse para o melhor conhecimento do recurso e dos processos de exploração.\n\n3 - Todos os elementos facultados pelos concessionários à Direcção-Geral são confidenciais.",
+    "depois": "###### Artigo 40.º — Dados estatísticos e relatórios técnicos\n\n1 - Os concessionários deverão enviar à Direcção-Geral:\n\na) Até ao fim do mês de Março de cada ano, o mapa estatístico respeitante ao ano anterior, elaborado de acordo com o modelo aprovado;\n\nb) Até ao fim do mesmo mês, um relatório técnico contendo todos os elementos que permitam avaliar a actividade desenvolvida no ano anterior.\n\n2 - Para além do referido no número anterior, deverão ainda os concessionários facultar à Direcção-Geral todos os estudos, análises e relatórios com interesse para o melhor conhecimento do recurso e dos processos de exploração.\n\n3 - Todos os elementos facultados pelos concessionários à Direcção-Geral são confidenciais.\n\n> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1990-528461), publicado em 1990-06-30.",
+    "excerto": "No artigo 40.º, n.º 1, alínea b), onde se lê «Até ao fim do mês» deve ler-se «Até ao fim do mesmo mês».",
+    "artigo_alterador": "",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:333155:por",
+    "alterador": "pt:dre:528461:por"
+  }
+]
