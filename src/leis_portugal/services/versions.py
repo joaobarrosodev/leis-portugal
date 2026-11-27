@@ -252,6 +252,22 @@ class _Context:
     source: DreSource
 
 
+def entries_for_urls(urls: list[str], sitemap: list[ConsolidatedEntry]) -> list[ConsolidatedEntry]:
+    """As entradas para ligações dadas à mão, com a data de atualização (`lastmod`) do sitemap quando lá estão.
+
+    Sem isto, a recolha por `--url` gravava `source_lastmod: null` e o `--stale` seguinte voltava a recolhê-las."""
+    from leis_portugal.sources.dre.consolidated import consolidated_entry
+
+    by_frag = {entry.frag_id: entry for entry in sitemap}
+    entries = []
+    for url in urls:
+        entry = consolidated_entry(url)
+        known = by_frag.get(entry.frag_id)
+        entries.append(ConsolidatedEntry(url=entry.url, tipo=entry.tipo, ano=entry.ano, frag_id=entry.frag_id,
+                                         lastmod=known.lastmod if known else None))
+    return entries
+
+
 def stale_entries(acervo: Acervo, entries: list[ConsolidatedEntry]) -> list[ConsolidatedEntry]:
     """Só os diplomas cuja data no sitemap mudou desde a última recolha (ou novos)."""
     stored: dict[str, str | None] = {}

@@ -222,6 +222,13 @@ O que estava proposto:
 - **Publicar.** O workflow `exportacao.yml` só corre à mão, e o índice de pesquisa já está no Hugging Face.
   - Decisão: correr o primeiro Release, e de quanto em quanto tempo correr os seguintes?
 
+## Recolha do DRE por `--url` apaga a data do sitemap (27/11)
+
+- `collect dre-consolidated --url …` escreve `version_history.source_lastmod: null` e `source.source_modified_at: null`, porque a entrada não vem do sitemap.
+  - Consequência: perde-se a data, e o `--stale` seguinte volta a recolher esses diplomas.
+  - Visto ao recolher os 100 da linha 9 «dre» da auditoria. O texto e a data de consolidação eram iguais em todos, por isso a recolha foi reposta sem commit.
+- **Corrigido a 27/11:** com `--url`, a recolha vai buscar o `lastmod` ao sitemap (`entries_for_urls`, com testes). Sem o sitemap, avisa.
+
 ## Defeitos de dados vistos nos casos de advogado (26/11)
 
 - **Lei n.º 24/96 (Lei de Defesa do Consumidor), art. 9.º-B «Entrega dos bens»:** no acervo aparece com o texto inteiro e `revogado: False`. Mas o DL 84/2021, art. 54.º, alínea a), revoga-o, e as notas do próprio artigo dizem isso. Foi encontrado por um dos subagentes que escreveram os casos novos (`caso2-cons-03`). É para a auditoria da camada 1 ver se a revogação por um diploma posterior não chegou ao artigo, e se há mais artigos da mesma lei no mesmo estado.
