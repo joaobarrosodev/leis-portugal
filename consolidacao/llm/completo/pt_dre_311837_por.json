@@ -1,12 +1,39 @@
 {
   "id": "pt:dre:311837:por",
-  "artigos": [],
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "1 - O abono de família é atribuído nos montantes mensais seguintes:\n\na) 1 descendente, 660$00;\n\nb) 2 descendentes, 1320$00;\n\nc) 3 descendentes, 2100$00;\n\nd) Por cada descendente a mais, 900$00.\n\n2 - O montante mensal do abono de família relativamente ao quarto descendente e seguintes será, porém, de 1140$00, tratando-se de agregados familiares cujos rendimentos ilíquidos mensais sejam inferiores a uma vez e meia a remuneração mínima garantida à generalidade dos trabalhadores.",
+      "alterador": 2
+    },
+    {
+      "chave": "3.º",
+      "epigrafe": "",
+      "texto": "1 - O abono complementar a crianças e jovens deficientes é atribuído nos montantes mensais e dentro dos limites de idade seguintes:\n\na) 1500$00, até aos 14 anos de idade;\n\nb) 2250$00, até aos 18 anos de idade;\n\nc) 3000$00, até aos 24 anos de idade.\n\n2 - O subsídio mensal vitalício é concedido no montante mensal de 3750$00.",
+      "alterador": 2
+    },
+    {
+      "chave": "4.º",
+      "epigrafe": "",
+      "texto": "1 - O montante do subsídio de nascimento é de 8400$00.\n\n2 - O quantitativo mensal do subsídio de aleitação é de 1600$00.\n\n3 - O montante do subsídio de casamento é de 7200$00.\n\n4 - O montante do subsídio de funeral é de 10200$00.",
+      "alterador": 2
+    }
+  ],
   "removidos": [],
-  "nao_aplicavel": "O Decreto Regulamentar n.º 83/84 não dá nova redação aos artigos do Decreto Regulamentar n.º 33/83: é um diploma autónomo que fixa novos montantes ('são alterados nos termos do presente diploma'), sem instrução textual de substituição; não é alteração textual do original.",
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": null,
   "instrucoes": [
-    "Decreto Regulamentar n.º 83/84, art. 1.º a 4.º: fixa novos valores das prestações em diploma próprio, sem mandar substituir a redação dos artigos do original; não aplicado (ver nao_aplicavel)."
+    "Alterador 1 (Declaração de rectificação): no art. 2.º, n.º 1, alínea b), «1110$00» → «1100$00» — já aplicada pelo programa; o art. 2.º é depois todo substituído pelo alterador 2.",
+    "Alterador 2 (Decreto Regulamentar n.º 83/84), art. 1.º: os valores das prestações fixados no original são alterados nos termos desse diploma.",
+    "Alterador 2, arts. 2.º, 3.º e 4.º: novos montantes do abono de família, do abono complementar e subsídio vitalício e dos subsídios de nascimento, aleitação, casamento e funeral — arts. 2.º, 3.º e 4.º do original com o texto dos artigos correspondentes do alterador.",
+    "Alterador 2, art. 5.º: produção de efeitos do próprio alterador — não altera o art. 5.º do original."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 122,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

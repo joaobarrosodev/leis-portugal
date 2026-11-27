@@ -122,4 +122,6 @@ O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (quadro a que se refere o artigo 9.º)
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/04/08200/26212624.pdf)
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 162/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2012-179296), publicado em 2012-07-31.

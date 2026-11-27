@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "2.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 2.º\n\nÉ fixado em 2000$00 o ordenado mensal dos oficiais de diligências das administrações dos bairros.\n\n§ único. Os oficiais de diligências terão direito a passe em carros eléctricos concedido pelas câmaras municipais.",
+    "depois": "###### Artigo 2.º\n\nÉ fixado em 2000$00 o ordenado mensal dos oficiais de diligências das administrações dos bairros.\n\n§ único. (Revogado.)\n\n> Alterado pelo/a [Lei n.º 1/79](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), publicado em 1979-01-02.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:154850:por",
+    "alterador": "pt:dre:476532:por"
+  }
+]

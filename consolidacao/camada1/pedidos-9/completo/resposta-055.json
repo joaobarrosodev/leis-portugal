@@ -1,0 +1,20 @@
+[
+ {
+  "id": "pt:dre:540386:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [
+   {
+    "atual": "## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/2006/08/16700/63856387.pdf)",
+    "novo": "## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/2008/04/08200/0243402435.pdf)",
+    "alterador": 1
+   }
+  ],
+  "anexos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+   "Alterador 1 (Decreto Legislativo Regional n.º 9/2008/A), art. 1.º: nova redacção do artigo 2.º (planta anexa) — o texto atual (já alterado pelo programa) está certo; nada a devolver.",
+   "Alterador 1, preâmbulo e art. 2.º (republicação): os anexos de 2006 são substituídos pela planta da republicação — o título do anexo, que é a linha da imagem, passa à linha da imagem de 2008 da republicação (em titulos); o corpo do anexo continua vazio, como na republicação."
+  ]
+ }
+]

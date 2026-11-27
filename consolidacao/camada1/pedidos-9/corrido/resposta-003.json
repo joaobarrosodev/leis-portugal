@@ -1,0 +1,63 @@
+[
+ {
+  "id": "pt:dre:346076:por",
+  "substituicoes": [
+   {
+    "de": 11,
+    "ate": 11,
+    "texto": "Artigo 1.º (Revogado.)",
+    "alterador": 4
+   },
+   {
+    "de": 12,
+    "ate": 18,
+    "texto": "Art. 2.º (Revogado.)",
+    "alterador": 4
+   },
+   {
+    "de": 19,
+    "ate": 20,
+    "texto": "Art. 3.º - (Revogado.)",
+    "alterador": 4
+   },
+   {
+    "de": 21,
+    "ate": 21,
+    "texto": "Art. 4.º (Revogado.)",
+    "alterador": 4
+   },
+   {
+    "de": 22,
+    "ate": 32,
+    "texto": "Art. 5.º (Revogado.)",
+    "alterador": 4
+   },
+   {
+    "de": 33,
+    "ate": 33,
+    "texto": "Art. 6.º (Revogado.)",
+    "alterador": 4
+   },
+   {
+    "de": 34,
+    "ate": 34,
+    "texto": "Art. 7.º (Revogado.)",
+    "alterador": 4
+   },
+   {
+    "de": 36,
+    "ate": 36,
+    "texto": "Promulgado em 29 de Julho de 1975.",
+    "alterador": 1
+   }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+   "Alterador 1 (Declaração): o diploma foi promulgado em 29 de Julho de 1975 — unidade 36 passa a «Promulgado em 29 de Julho de 1975.»",
+   "Alterador 2 (DL 541-B/75), art. 1.º: nova redação do art. 3.º — aplicada, mas o artigo fica depois revogado pelo alterador 4 (unidades 19-20 ficam «Art. 3.º - (Revogado.)»)",
+   "Alterador 3 (DL 262/76), art. 1.º: nova redação do art. 2.º — aplicada, mas o artigo fica depois revogado pelo alterador 4 (unidades 12-18 ficam «Art. 2.º (Revogado.)»)",
+   "Alterador 4 (Lei 77/77), art. 76.º: revoga o Decreto-Lei n.º 406-B/75 por inteiro (as ressalvas dos arts. 60.º a 70.º não tocam neste diploma); revogação já em vigor, aplicada artigo a artigo, arts. 1.º a 7.º «(Revogado.)» com o prefixo do texto atual"
+  ]
+ }
+]

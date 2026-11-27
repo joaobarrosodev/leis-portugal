@@ -1,0 +1,20 @@
+[
+ {
+  "id": "pt:dre:632249:por",
+  "substituicoes": [
+   {
+    "de": 104,
+    "ate": 104,
+    "texto": "Art. 2.º (Revogado.)",
+    "alterador": 1
+   }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+   "Alterador 1 (DL 85/76), art. 1.º: nova redação de artigos do Código das Custas Judiciais do Trabalho — outro diploma, ignorada.",
+   "Alterador 1, art. 2.º: revoga o art. 2.º do DL 562/71 — unidade 104 passa a «Art. 2.º (Revogado.)», com o prefixo do texto atual («Art. 2.º » sem travessão).",
+   "Alterador 1, art. 3.º: substituição de expressão no Código das Custas Judiciais do Trabalho — outro diploma, ignorada."
+  ]
+ }
+]

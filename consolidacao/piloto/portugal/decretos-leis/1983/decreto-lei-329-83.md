@@ -10,6 +10,9 @@ consolidacao:
   - id: pt:dre:694041:por
     title: Decreto-Lei n.º 16/91
     publication_date: '1991-01-10'
+  - id: pt:dre:673776:por
+    title: Declaração
+    publication_date: '1983-08-31'
   titulos_normalizados: artigos em texto corrido no original, com título pelo parser
     da fase 3
 ---
@@ -124,13 +127,15 @@ b) Por volume, nos outros casos.
 
 a) Que possam ser selados de maneira simples e eficaz;
 
-b) Que sejam introduzidos de tal forma que nenhuma mercadoria possa ser extraída ou introduzida sem ficarem traços visíveis de arrombamento ou sem ruptura dos selos;
+b) Que sejam construídos de tal forma que nenhuma mercadoria possa ser extraída ou introduzida sem ficarem traços visíveis de arrombamento ou sem ruptura dos selos;
 
 c) Que não contenham espaços ocultos onde se possam esconder mercadorias;
 
 d) Que os espaços reservados à carga sejam facilmente acessíveis à inspecção aduaneira.
 
 4 - A estância aduaneira de partida poderá dispensar a selagem quando, tendo em conta outras medidas eventuais de identificação, a descrição das mercadorias na declaração T permita a sua identificação.
+
+> Alterado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1983-673776), publicado em 1983-08-31.
 
 ###### Artigo 9.º
 

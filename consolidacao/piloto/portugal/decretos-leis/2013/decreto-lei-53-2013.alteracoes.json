@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "ANEXO I — (a que se referem os artigos 4.º e 7.º)",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "## ANEXO I — (a que se referem os artigos 4.º e 7.º)\nI - Disposições aplicáveis a tomadas de força à retaguarda\n\nAs especificações contidas nas normas ISO 500-1:2004, em conjunto com a retificação técnica de 1:2005, e ISO 500-2:2004 são aplicáveis aos tratores com tomadas de força à retaguarda, em conformidade com o quadro 1.\n\nQUADRO 1\n\nNormas aplicáveis a tomadas de força da retaguarda das seguintes categorias de tratores\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07500/0223902248.pdf)\n\nII - Disposições aplicáveis a tomadas de força dianteiras\n\nAs especificações da norma ISO 8759-1:1998 são aplicáveis aos tratores com tomadas de força dianteiras, em conformidade com o quadro 2.\n\nQUADRO 2\n\nNormas aplicáveis a tomadas de força dianteiras das seguintes categorias de tratores\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07500/0223902248.pdf)",
+    "depois": "## ANEXO I — (a que se referem os artigos 4.º e 7.º)\n\nI - Disposições aplicáveis a tomadas de força à retaguarda\n\nAs especificações contidas nas normas ISO 500-1:2004, em conjunto com a retificação técnica de 1:2005, e ISO 500-2:2004 são aplicáveis aos tratores com tomadas de força à retaguarda, em conformidade com o quadro 1.\n\nQUADRO 1\n\nNormas aplicáveis a tomadas de força da retaguarda das seguintes categorias de tratores\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07500/0223902248.pdf)\n\nII - Disposições relativas às tomadas de força dianteiras\n\nAs especificações da norma ISO 87591:1998, com exceção do ponto 4.2, são aplicáveis aos tratores de todas as categorias T e C equipados com tomadas de força dianteiras, tal como especificado nessa norma.\n\n> Alterado pelo/a [Decreto-Lei n.º 151/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2013-504726), publicado em 2013-10-30.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:260417:por",
+    "alterador": "pt:dre:504726:por"
+  }
+]

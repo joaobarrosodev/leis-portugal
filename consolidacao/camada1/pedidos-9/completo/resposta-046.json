@@ -1,0 +1,46 @@
+[
+ {
+  "id": "pt:dre:456784:por",
+  "artigos": [
+   {
+    "chave": "3.º",
+    "epigrafe": "Competências das Comissões de Coordenação e Desenvolvimento Regional e das Administrações de Região Hidrográfica",
+    "texto": "Compete às Comissões de Coordenação e Desenvolvimento Regional (CCDR) ou às Administrações de Região Hidrográfica (ARH), de acordo com o estabelecido nas respectivas leis orgânicas:\n\na) Assegurar a qualidade e integridade da informação que lhe é transmitida nos termos do artigo 5.º;\n\nb) Elaborar, relativamente à informação que lhe deve ser transmitida nos termos do anexo ao presente decreto-lei, estimativas de emissões e transferência de poluentes, quando os operadores não tenham cumprido as obrigações referidas no artigo 5.º;\n\nc) Transmitir à APA, até 30 de Novembro de cada ano, a informação referida nas alíneas anteriores;\n\nd) Designar e comunicar à APA o técnico interlocutor para a gestão da informação transmitida nos termos do artigo 5.º",
+    "alterador": 1
+   },
+   {
+    "chave": "4.º",
+    "epigrafe": "Registo de emissões e transferência de poluentes",
+    "texto": "O registo de emissões e transferência de poluentes contém informação sobre:\n\na) As emissões para o ar, água e solo dos poluentes listados no anexo ii do Regulamento, independentemente do limiar aí estipulado, provenientes das actividades enumeradas no anexo ao presente decreto-lei, correspondente ao anexo i do Regulamento;\n\nb) As transferências para fora do local do estabelecimento dos poluentes presentes em águas residuais destinadas a tratamento, listados no anexo ii do Regulamento, independentemente do limiar aí estipulado, provenientes das actividades enumeradas no anexo ao presente decreto-lei, correspondente ao anexo i do Regulamento;\n\nc) As transferências para fora do local do estabelecimento dos resíduos perigosos e não perigosos, de acordo com a classificação estabelecida pela Portaria n.º 209/2004, de 3 de Março, independentemente do limiar estabelecido na alínea b) do artigo 5.º do Regulamento, provenientes das actividades enumeradas no anexo ao presente decreto-lei, correspondente ao anexo i do Regulamento.",
+    "alterador": 1
+   },
+   {
+    "chave": "5.º",
+    "epigrafe": "Obrigações dos operadores",
+    "texto": "1 - Sem prejuízo do disposto no artigo 5.º do Regulamento, os operadores que exercem as actividades especificadas no anexo ao presente decreto-lei estão obrigados a comunicar à APA, à CCDR ou à ARH competente, de acordo com o estabelecido no referido anexo, as informações referidas no artigo anterior.\n\n2 - Até à harmonização dos sistemas de recolha de dados ambientais, as informações referidas no número anterior são comunicadas através do sistema electrónico disponibilizado pela APA no seu sítio na Internet, até ao dia 31 de Maio de cada ano e referem-se aos dados obtidos pelo operador no ano anterior.\n\n3 - Os operadores estão ainda obrigados a prestar à respectiva autoridade competente as informações adicionais que permitam verificar a qualidade e integridade da informação transmitida.",
+    "alterador": 1
+   },
+   {
+    "chave": "8.º",
+    "epigrafe": "Contra-ordenações",
+    "texto": "1 - Constitui contra-ordenação ambiental grave, punível nos termos da Lei n.º 50/2006, de 29 de Agosto, o não cumprimento, pelo operador, da obrigação de comunicação das informações referidas no n.º 1 do artigo 5.º\n\n2 - Constitui contra-ordenação ambiental leve, punível nos termos da Lei n.º 50/2006, de 29 de Agosto, a prática dos seguintes actos:\n\na) O não cumprimento, pelo operador, das obrigações de comunicação das informações referidas no artigo 5.º nos prazos fixados no presente decreto-lei;\n\nb) O não cumprimento, pelo operador, da obrigação de manter durante cinco anos, contados a partir do final do ano de referência em causa, os registos dos dados de onde foram extraídas as informações comunicadas às autoridades competentes, nos termos do artigo 5.º do Regulamento, bem como dos registos dos métodos usados para a sua recolha.\n\n3 - As contra-ordenações previstas nos números anteriores são puníveis a título de negligência.\n\n4 - A tentativa é punível relativamente à contra-ordenação prevista no n.º 1, sendo os limites mínimos e máximos da respectiva coima reduzidos a metade.\n\n5 - Pode ser objecto de publicidade, nos termos do disposto no artigo 38.º da Lei n.º 50/2006, de 29 de Agosto, a condenação pela prática da infracção grave prevista no n.º 1, quando a medida concreta da coima aplicada ultrapasse metade do montante máximo da coima abstractamente aplicável.",
+    "alterador": 1
+   }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [
+   {
+    "titulo": "## ANEXO — Notas técnicas",
+    "texto": "1 - A obrigação de comunicação de dados existe sempre que o limiar de capacidade da actividade for excedido. Se não estiver especificado qualquer limiar de capacidade, todos os estabelecimentos dedicados à actividade PRTR em causa estão sujeitos à obrigação de comunicação de dados, de acordo com o estabelecido no artigo 5.º\n\n2 - A capacidade da actividade PRTR é considerada para um período de laboração de vinte e quatro horas, independentemente do seu regime, turnos, horários de laboração ou valor de produção efectiva para resposta à procura do mercado.\n\n3 - No caso de o operador desenvolver várias actividades da mesma rubrica no mesmo estabelecimento e no mesmo local, procede-se à soma das capacidades das referidas actividades, que se compara com o limiar de capacidade aplicável à actividade constante do mesmo anexo, de acordo com o documento de orientação para a implementação do PRTR europeu.\n\n4 - As actividades referidas na tabela que se encontrem igualmente abrangidas pelo regime jurídico da prevenção e controlo integrados da poluição, estabelecido no Decreto-Lei n.º 173/2008, de 26 de Agosto, são da responsabilidade da APA. As restantes actividades são da competência da CCDR ou da ARH territorialmente competente.\n\nCategorias de actividades referidas no artigo 4.º e respectiva autoridade competente\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/00600/0017500178.pdf)",
+    "alterador": 1
+   }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+   "Alterador 1, art. 1.º: nova redação da alínea c) do art. 3.º, das alíneas b) e c) do art. 4.º, do n.º 2 do art. 5.º e da alínea a) do n.º 2 do art. 8.º; o texto atual (programa) já as tinha bem aplicadas; devolvidos os artigos inteiros.",
+   "Alterador 1, art. 2.º: substitui o anexo; corpo do anexo substituído pelo anexo do DL 6/2011 (notas técnicas 1 a 4 e a linha da imagem da tabela).",
+   "Alterador 1, art. 3.º: disposição transitória do próprio alterador, não altera o texto do original."
+  ]
+ }
+]

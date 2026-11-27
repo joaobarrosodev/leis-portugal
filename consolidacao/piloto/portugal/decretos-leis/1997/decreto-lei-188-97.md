@@ -206,7 +206,7 @@ Nos termos do n.º 2 do artigo 201.º da Constituição, o Governo decreta o seg
 
 ##### Divisão de Apoio Jurídico
 
-###### Artigo 24.º
+###### Artigo 24.º — Divisão de Apoio Jurídico
 
 (Revogado.)
 
@@ -230,7 +230,7 @@ e) Informar e esclarecer os órgãos, serviços e pessoal da FCT sobre o conteú
 
 ##### Divisão de Apoio Informático
 
-###### Artigo 25.º
+###### Artigo 25.º — Divisão de Apoio Informático
 
 (Revogado.)
 

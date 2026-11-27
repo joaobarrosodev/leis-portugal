@@ -79,11 +79,12 @@
   "anexos": [],
   "nao_aplicavel": null,
   "instrucoes": [
-    "DL 44600, art. 1.º: o Gabinete passa a reger-se pelo novo diploma, «que, assim, revoga as disposições daquele decreto-lei» — revogação global, sem condição: artigos 2.º a 13.º revogados (o 1.º já estava revogado pelo programa, correto).",
-    "DL 44600, arts. 2.º a 14.º: regime novo do próprio DL 44600, não nova redação de artigos do DL 43385 — nada a copiar para o original."
+    "Alterador 1 (DL 44600), art. 1.º: o Gabinete passa a regular-se pelo novo diploma, «que, assim, revoga as disposições daquele decreto-lei»: revogação global, já em vigor; o art. 1.º já estava revogado no texto atual e os arts. 2.º a 13.º ficam «(Revogado.)»"
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
+  "ronda_camada1": 122,
   "problemas": [],
+  "numeracao_aceite": [],
   "avisos": []
 }

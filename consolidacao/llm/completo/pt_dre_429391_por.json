@@ -22,19 +22,24 @@
     {
       "chave": "4.º",
       "epigrafe": "",
-      "texto": "A recuperação dos créditos decorrentes dos incentivos financeiros concedidos ao abrigo do SIII é efectuada através do processo de execução fiscal nos termos previstos no Código de Procedimento e de Processo Tributário, constituindo a certidão de dívida emitida pela Direcção-Geral do Tesouro título executivo para esse efeito.",
+      "texto": "A recuperação dos créditos decorrentes dos incentivos financeiros concedidos ao abrigo do SIII é efectuada através do processo de execução fiscal nos termos previstos no Código de Procedimento e de Processo Tributário, constituindo a certidão de dívida emitida pela Direcção-Geral do Tesouro título executivo para esse efeito.\n\nVisto e aprovado em Conselho de Ministros de 1 de Junho de 1995. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga.\n\nPromulgado em 28 de Julho de 1995.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 1 de Agosto de 1995.\n\nPelo Primeiro-Ministro, Manuel Dias Loureiro, Ministro da Administração Interna.",
       "alterador": 2
     }
   ],
   "removidos": [],
+  "titulos": [],
+  "anexos": [],
   "nao_aplicavel": null,
   "instrucoes": [
-    "DL 246/96 artigo único: nova redação dos n.os 3 e 4 do art. 1.º (n.os 1 e 2 mantidos, '...')",
-    "DL 246/96: nova redação dos n.os 1 e 3 do art. 2.º (n.os 2 e 4 mantidos)",
-    "DL 246/96: nova redação do art. 3.º (sem o bloco de assinaturas do original)",
-    "Lei 60-A/2005 art. 103.º: aditado o art. 4.º"
+    "Alterador 1 (Decreto-Lei n.º 246/96), artigo único: nova redacção do art. 1.º (n.os 1 e 2 «...», mantêm-se; n.os 3 e 4 novos) — aplicada.",
+    "Alterador 1: nova redacção do art. 2.º (n.os 1 e 3 novos; n.os 2 e 4 «...», mantêm-se) — aplicada.",
+    "Alterador 1: nova redacção do art. 3.º — aplicada.",
+    "Alterador 2 (Lei n.º 60-A/2005), art. 103.º: aditado o art. 4.º — aplicado; as fórmulas finais e assinaturas do original, que no texto atual vinham no fim do art. 3.º, passam para o fim do novo art. 4.º, último artigo do diploma."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 122,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "ANEXO B — Lista dos sectores industriais que poderão beneficiar da isenção de direitos estabelecida no presente diploma",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "## ANEXO B — Lista dos sectores industriais que poderão beneficiar da isenção de direitos estabelecida no presente diploma\n370.5.4 ... Fabricação e montagem de aparelhos e equipamentos electrónicos.\n\n370.5.41 ... Fabricação e montagem de aparelhos e equipamentos de rádio, T. S. F., televisão, telecomunicações e som.\n\n370.5.49 ... Fabricação e montagem de aparelhos e equipamentos electrónicos não especificados.\n\nO Ministro das Finanças, Manuel Artur Cotta Agostinho Dias.",
+    "depois": "## ANEXO B — Lista dos sectores industriais que poderão beneficiar da isenção de direitos estabelecida no presente diploma\n\nEx. 3831 Material de distribuição e comando (Relais).\n\nOutro equipamento para transmissão e distribuição de energia eléctrica (resistências).\n\n3832 Fabricação de equipamento e aparelhos de rádio, televisão e equipamento para telecomunicações e outro material electrónico.\n\nFabricação de receptores de rádio e de televisão, de aparelhos de gravação e de reprodução de som, incluindo sistemas de amplificação sonora, gramofones, ditafones e gravadores de fita magnética; discos e fitas magnéticas gravadas, equipamento telegráfico com ou sem fios; equipamento e aparelhos de rádio e de televisão para transmissão, sinalização e detecção; equipamento e instalação de radar; peças e acessórios especialmente utilizados em aparelhos electrónicos classificados neste grupo; semicondutores e unidades sensíveis semelhantes; condensadores electrónicos lixos e variáveis; aparelhos de radiografia e outros de raios X e válvulas electrónicas.\n\nEx 3825 - Fabricação de computadores.\n\nFabricação de computadores digitais e analógicos e equipamento associado para o processamento electrónico de dados, com os respectivos acessórios.\n\nO Ministro das Finanças, Manuel Artur Cotta Agostinho Dias.\n\n> Alterado pelo/a [Decreto-Lei n.º 88/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-1980-681431), publicado em 1980-04-21.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:421436:por",
+    "alterador": "pt:dre:681431:por;pt:dre:501632:por"
+  },
+  {
+    "artigo": "ANEXO B — Lista dos sectores industriais que poderão beneficiar da isenção de direitos estabelecida no presente diploma",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "## ANEXO B — Lista dos sectores industriais que poderão beneficiar da isenção de direitos estabelecida no presente diploma",
+    "depois": "## ANEXO B — Sectores industriais que poderão beneficiar da isenção de direitos estabelecida no presente diploma",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:421436:por",
+    "alterador": "pt:dre:681431:por;pt:dre:501632:por"
+  }
+]

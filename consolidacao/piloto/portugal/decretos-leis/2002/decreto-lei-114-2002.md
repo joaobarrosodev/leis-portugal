@@ -13,6 +13,12 @@ consolidacao:
   - id: pt:dre:260417:por
     title: Decreto-Lei n.º 53/2013
     publication_date: '2013-04-17'
+  - id: pt:dre:25345582:por
+    title: Decreto-Lei n.º 97/2014
+    publication_date: '2014-06-26'
+  - id: pt:dre:502980:por
+    title: Decreto-Lei n.º 148/2013
+    publication_date: '2013-10-24'
 ---
 
 # Decreto-Lei n.º 114/2002
@@ -467,43 +473,43 @@ e) Injector de unidade;
 
 ## ANEXO 2.º — (referente ao capítulo I)
 
-Ficha de informações relativa à homologação de um tipo de motores precursores destinados a serem utilizados num tractor enquanto unidade técnica distinta no que diz respeito às emissões poluentes.
+Ficha de informações relativa à homologação de um tipo de motores precursores destinados a ser utilizados num tractor enquanto unidade técnica, no que diz respeito às emissões poluentes.
 
-As informações seguintes serão fornecidas em triplicado e incluirão um índice. Se houver desenhos, serão fornecidos à escala adequada e com pormenor suficiente, em formato A4 ou dobrados nesse formato. Se houver fotografias, deverão ser suficientemente pormenorizadas.
+As informações seguintes serão fornecidas em triplicado e devem incluir um índice. Se houver desenhos, serão fornecidos à escala adequada e com pormenor suficiente, em formato A4 ou dobrados nesse formato. Se houver fotografias, deverão ser suficientemente pormenorizadas.
 
 Parte 1
 
 Generalidades
 
-1 - Motor protótipo/tipo de motor (ver nota 1) (ver nota 3):
+1 - Motor protótipo/tipo de motor (1) (3):
 
 1.1 - Marca(s) (firma do fabricante): ...
 
-1.2 - Tipo e denominação(ões) comercial(is) do protótipo e (se tal for conveniente) da família do(s) motor(es) (ver nota 1): ...
+1.2 - Tipo e denominação comercial do protótipo e (se aplicável) da família do(s) motor(es) (1): ...
 
-1.3 - Meios de identificação do tipo se indicado no(s) motor(es) e método de aposição:
+1.3 - Código de tipo do fabricante, conforme marcado no(s) motor(es), e método de aposição: ...
 
-1.3.1 - Localização, codificação e método de aposição do número característico de identificação do motor: ...
+1.3.1 - Localização, código e método de aposição do número característico de identificação do tipo de motor: ...
 
-1.3.2 - Localização e método de aposição da marca de homologação CE como componente: ...
+1.3.2 - Localização e método de aposição da marca de homologação CE enquanto componente: ...
 
-1.4 - Nome e morada do fabricante: ...
+1.4 - Nome e endereço do fabricante: ...
 
-1.5 - Morada(s) da(s) linha(s) de montagem: ...
+1.5 - Endereço das linhas de montagem: ...
 
 Parte 2
 
-Tipo de motor
+Tipo de motor no interior da família
 
-2 - Características principais do tipo de motor:
+2 - Características essenciais do tipo de motor protótipo da família (3):
 
 2.1 - Descrição do motor de ignição por compressão:
 
 2.1.1 - Fabricante: ...
 
-2.1.2 - Número de código do motor aposto pelo fabricante: ...
+2.1.2 - Código do fabricante para o motor conforme marcado no motor: ...
 
-2.1.3 - Ciclo: quatro tempos/dois tempos (ver nota 1).
+2.1.3 - Ciclo: quatro tempos/dois tempos (1).
 
 2.1.4 - Diâmetro: ... mm.
 
@@ -515,35 +521,35 @@ Tipo de motor
 
 2.1.8 - Regime nominal: ... rpm.
 
-2.1.9 - Regime de binário máximo: ... rpm.
+2.1.9 - Regime a que se obtém o binário máximo: ... rpm.
 
-2.1.10 - Taxa de compressão volumétrica (ver nota 2): ...
+2.1.10 - Taxa de compressão volumétrica (2): ...
 
-2.1.11 - Sistema de compressão: ...
+2.1.11 - Descrição do sistema de combustão: ...
 
 2.1.12 - Desenho(s) da câmara de combustão e da face superior do êmbolo: ...
 
-2.1.13 - Secção mínima das condutas de admissão e de escape: ...
+2.1.13 - Secção transversal mínima das condutas de admissão e de escape: ...
 
 2.1.14 - Sistema de arrefecimento:
 
-2.1.14.1 - Líquido:
+2.1.14.1 - Fluido de arrefecimento:
 
-2.1.14.1.1 - Natureza do líquido: ....
+2.1.14.1.1 - Natureza do fluido de arrefecimento: ...
 
-2.1.14.1.2 - Bomba(s) de circulação: com/sem (ver nota 1).
+2.1.14.1.2 - Bomba(s) de circulação: sim/não (1).
 
-2.1.14.1.3 - Características ou marca(s) e tipo(s) (se for caso disso): ....
+2.1.14.1.3 - Características ou marca(s) e tipo(s) (se aplicável): ...
 
-2.1.14.1.4 - Relação(ões) de transmissão (se for caso disso): ...
+2.1.14.1.4 - Relação(ões) de transmissão (se aplicável): ...
 
 2.1.14.2 - Ar:
 
-2.1.14.2.1 - Ventilador: sim/não (ver nota 1).
+2.1.14.2.1 - Ventilador: sim/não (1).
 
-2.1.14.2.2 - Características ou marca(s) e tipo(s) (se for caso disso): ...
+2.1.14.2.2 - Características ou marca(s) e tipo(s) (se aplicável): ...
 
-2.1.14.2.3 - Relação(ões) de transmissão (se for caso disso): ...
+2.1.14.2.2.1 - Relação(ões) de transmissão (se aplicável): ...
 
 2.1.15 - Temperatura autorizada pelo fabricante:
 
@@ -553,35 +559,105 @@ Tipo de motor
 
 Temperatura máxima no ponto de referência: ... K.
 
-2.1.15.3 - Temperatura máxima do ar de alimentação à saída do permutador intermédio de admissão (se for caso disso): ... K.
+2.1.15.3 - Temperatura máxima do ar de sobrealimentação à saída do permutador de calor (se aplicável): ... K.
 
-2.1.15.4 - Temperatura máxima dos gases de escape ao nível dos tubos de escape adjacentes aos estrangulamentos de saída dos colectores: ... K.
+2.1.15.4 - Temperatura máxima de escape no ponto do(s) tubo(s) de escape adjacente à(s) flange(s) exterior(es) do(s) colector(es) de escape: ... K.
 
-2.1.15.5 - Temperatura do lubrificante: mínimo: ... K; máximo: ... K.
+2.1.15.5 - Temperatura do lubrificante: mínima: ... K; máxima: ... K.
 
-2.1.16 - Sobrealimentação: com/sem (ver nota 1).
+2.1.16 - Sobrealimentação: sim/não (1).
 
 2.1.16.1 - Marca: ...
 
 2.1.16.2 - Tipo: ...
 
-2.1.16.3 - Descrição do sistema (por exemplo, pressão máxima, válvula de descarga, se for caso disso): ...
+2.1.16.3 - Descrição do sistema (por exemplo, pressão máxima de sobrealimentação, válvula de descarga, se aplicável): ...
 
-2.1.16.4 - Permutador intermédio: com/sem (ver nota 1).
+2.1.16.4 - Permutador de calor: sim/não (1).
 
-2.1.17 - Sistema de admissão: depressão máxima admissível à entrada, ao regime nominal do motor ... rpm: ... kPa e a plena carga: ... kPa.
+2.1.17 - Sistema de admissão: depressão máxima admissível na admissão ao regime nominal do motor e a 100% da carga: ... kPa.
 
-2.1.18 - Sistema de escape: contrapressão máxima admissível ao regime nominal do motor ... rpm: ... kPa e a plena carga: ... kPa.
+2.1.18 - Sistema de escape: contrapressão de escape máxima admissível ao regime nominal do motor e a 100% de carga: ... kPa.
 
-2.2 - Dispositivos antipoluição adicionais (se existirem e se não estiverem incluídos noutra rubrica):
+2.2 - Medidas a tomar contra a poluição do ar
 
-Descrição e ou esquema(s): ...
+2.2.1 - Dispositivo para reciclar os gases do cárter: sim/não (1) ...
+
+2.2.2 - Dispositivos antipoluição adicionais (se existirem e se não estiverem incluídos noutra rubrica)
+
+2.2.2.1 - Catalisador: sim/não (1)
+
+2.2.2.1.1 - Marca(s):...
+
+2.2.2.1.2 - Tipo(s):...
+
+2.2.2.1.3 - Número de catalisadores e elementos ...
+
+2.2.2.1.4 - Dimensões e volume do(s) catalisador(es): ...
+
+2.2.2.1.5 - Tipo de ação catalítica:...
+
+2.2.2.1.6 - Carga total de metais preciosos: ...
+
+2.2.2.1.7 - Concentração relativa:...
+
+2.2.2.1.8 - Substrato (estrutura e material): ...
+
+2.2.2.1.9 - Densidade das células:...
+
+2.2.2.1.10 - Tipo de alojamento do(s) catalisador(es): ...
+
+2.2.2.1.11 - Localização do(s) catalisador(es) [lugar(es) e distância(s) máxima(s)/mínima(s) do motor]: ...
+
+2.2.2.1.12 - Intervalo de funcionamento normal (K): ...
+
+2.2.2.1.13 - Reagente consumível (se aplicável): ...
+
+2.2.2.1.13.1 - Tipo e concentração de reagente necessários à ação catalítica: ...
+
+2.2.2.1.13.2 - Gama de temperaturas de funcionamento normal do reagente: ...
+
+2.2.2.1.13.3 - Norma internacional (se aplicável): ...
+
+2.2.2.1.14 - Sensor de NO(índice x): sim/não (1)
+
+2.2.2.2 - Sensor de oxigénio: sim/não (1)
+
+2.2.2.2.1 - Marca(s):...
+
+2.2.2.2.2 - Tipo:...
+
+2.2.2.2.3 - Local:...
+
+2.2.2.3 - Injeção de ar: sim/não (1)
+
+2.2.2.3.1 - Tipo (ar pulsado, bomba de ar, etc.): ...
+
+2.2.2.4 - EGR: sim/não (1)
+
+2.2.2.4.1 - Características (arrefecida/não arrefecida, alta pressão/baixa pressão, etc.): ...
+
+2.2.2.5 - Coletor de partículas: sim/não (1)
+
+2.2.2.5.1 - Dimensões e capacidade do coletor de partículas: ...
+
+2.2.2.5.2 - Tipo e conceção do coletor de partículas: ...
+
+2.2.2.5.3 - Localização [lugar(es) e distância(s) máxima(s)/mínima(s) do motor]:
+
+2.2.2.5.4 - Método ou sistema de regeneração, descrição e/ou desenho:
+
+2.2.2.5.5 - Intervalo de funcionamento normal (K) e intervalo de pressões (kPa):
+
+2.2.2.6 - Outros sistemas: sim/não (1)
+
+2.2.2.6.1 - Descrição e funcionamento:...
 
 2.3 - Alimentação de combustível:
 
 2.3.1 - Bomba de alimentação:
 
-Pressão (ver nota 2) ou diagrama característicos: ... kPa.
+Pressão (2) ou diagrama característico: ... kPa.
 
 2.3.2 - Sistema de injecção:
 
@@ -591,15 +667,15 @@ Pressão (ver nota 2) ou diagrama característicos: ... kPa.
 
 2.3.2.1.2 - Tipo(s): ...
 
-2.3.2.1.3 - Débito: .... e ... mm3 (ver nota 2) por injecção ou por ciclo a um regime da bomba de: ... rpm (nominal) e de: ... rpm (binário máximo), respectivamente, ou esquema.
+2.3.2.1.3 - Débito: ... mm3 (2) por curso ou por ciclo a um regime da bomba de: ... rpm (nominal) e ... rpm (binário máximo), respectivamente, ou diagrama característico.
 
-Indicar o método utilizado: no motor/no banco de ensaio das bombas (ver nota 1).
+Indicar o método utilizado: no motor/no banco de ensaio das bombas (1).
 
-2.3.2.1.4 - Avanço da ignição:
+2.3.2.1.4 - Avanço da injecção:
 
-2.3.2.1.4.1 - Curva do avanço da injecção (ver nota 2): ...
+2.3.2.1.4.1 - Curva do avanço da injecção (2): ...
 
-2.3.2.1.4.2 - Regulação (ver nota 2): ...
+2.3.2.1.4.2 - Regulação (2): ...
 
 2.3.2.2 - Tubagem de injecção:
 
@@ -613,75 +689,85 @@ Indicar o método utilizado: no motor/no banco de ensaio das bombas (ver nota 1)
 
 2.3.2.3.2 - Tipo(s): ...
 
-2.3.2.3.3 - Pressão de abertura (ver nota 2) ou esquema (ver nota 1): ...
+2.3.2.3.3 - Pressão de abertura (2) ou diagrama característico: ...
 
-2.3.2.4 - Regulador(es):
+2.3.2.4 - Regulador:
 
 2.3.2.4.1 - Marca(s): ...
 
 2.3.2.4.2 - Tipo(s): ...
 
-2.3.2.4.3 - Velocidade a que o corte tem início a plena carga (ver nota 2): ... rpm.
+2.3.2.4.3 - Regime do início do corte a plena carga (2): ... rpm.
 
-2.3.2.4.4 - Regime máximo sem carga (ver nota 2): ... rpm.
+2.3.2.4.4 - Regime máximo sem carga (2): ... rpm.
 
-2.3.2.4.5 - Regime de marcha lenta sem carga (ver nota 2): ... rpm.
+2.3.2.4.5 - Regime de marcha lenta sem carga (2): ... rpm.
 
-2.3.3 - Sistema(s) de arranque a frio:
+2.3.3 - Sistema de arranque a frio:
 
 2.3.3.1 - Marca(s): ...
 
-2.3.3.2 - Tipo(s): ...
+2.3.3.2 Tipo(s): ...
 
-2.3.3.3 - Descrição.
+2.3.3.3 - Descrição: ...
 
-2.4 - Características de distribuição:
+2.4 - Regulação das válvulas:
 
-2.4.1 - Elevação máxima das válvulas e ângulos de abertura e de fecho em relação aos pontos mortos superiores, ou características equivalentes: ...
+2.4.1 - Elevação máxima e ângulos de abertura e fecho em relação aos pontos mortos ou dados equivalentes: ...
 
-2.4.2 - Folgas de referência e ou de regulação (ver nota 1): ...
+2.4.2 - Gamas de referência e/ou de regulação (1)
 
-2.5 - Funções com comando electrónico - se o motor possuir funções com comando electrónico, devem ser fornecidas, designadamente, as seguintes informações relativas aos seus comportamentos funcionais:
+2.4.3 - Sistema variável de regulação das válvulas (se aplicável, e se à admissão e/ou ao escape)
 
-2.5.1 - Marca: ...
+2.4.3.1 - Tipo: contínuo ou ligado/desligado (1)
 
-2.5.2 - Tipo: ...
+2.4.3.2 - Ângulo de fase da came:...
 
-2.5.3 - Número da peça: ...
+2.5 - Configuração das janelas:
 
-2.5.4 - Posição da unidade de controlo electrónico do motor: ...
+2.5.1 - Posição, dimensão e número: ...
 
-2.5.4.1 - Essa unidade apreende o seguinte: ...
+2.6 - Funções com comando electrónico - se o motor possuir funções com comando electrónico, devem ser fornecidas as seguintes informações relativas ao seu desempenho, nomeadamente:
 
-2.5.4.2 - Essa unidade controla o seguinte: ...
+2.6.1 - Marca: ...
+
+2.6.2 - Tipo: ...
+
+2.6.3 - Número da peça: ...
+
+2.6.4 - Localização da unidade de comando electrónico do motor: ...
+
+2.6.4.1 - Parâmetros medidos: ...
+
+2.6.4.2 - Parâmetros controlados: ...
 
 Parte 3
 
 Família de motores de ignição por compressão
 
-3 - Características principais da família de motores:
+3 - Características essenciais da família de motores:
 
 3.1 - Lista dos tipos de motores que compõem a família:
 
-3.1.1 - Nome da família de motores: ...
+3.1.1 - Designação da família de motores: ...
 
-3.1.2 - Especificações dos tipos de motores que compõem a família:
+3.1.2 - Especificações dos tipos de motor que compõem a família:
 
-[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/04/093a00/39563966.pdf)](https://files.diariodarepublica.pt/1s/2002/04/093a00/39563966.pdf)](https://files.diariodarepublica.pt/1s/2002/04/093a00/39563966.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/06/12100/0340803420.pdf)
 
 Parte 4
 
-Tipo de motor no interior da família
+Tipo de motor
 
-4 - Características principais do tipo de motor protótipo da família (ver nota 3):
+4 - Características essenciais do tipo de motor:
 
-4.1 - Descrição do motor de ignição por compressão:
+4.1 - Descrição do motor:
 
 4.1.1 - Fabricante: ...
 
-4.1.2 - Número de código do motor aposto pelo fabricante: ...
+4.1.2 - Código do fabricante para o motor conforme marcado no motor: ...
 
-4.1.3 - Ciclo: quatro tempos/dois tempos (ver nota 1).
+4.1.3 - Ciclo: quatro tempos/dois tempos (1).
 
 4.1.4 - Diâmetro: ... mm.
 
@@ -693,35 +779,35 @@ Tipo de motor no interior da família
 
 4.1.8 - Regime nominal: ... rpm.
 
-4.1.9 - Regime de binário máximo: ... rpm.
+4.1.9 - Regime a que se obtém o binário máximo: ... rpm.
 
-4.1.10 - Taxa de compressão volumétrica (ver nota 2): ...
+4.1.10 - Taxa de compressão volumétrica (2): ...
 
-4.1.11 - Sistema de compressão: ...
+4.1.11 - Sistema de combustão:
 
 4.1.12 - Desenho(s) da câmara de combustão e da face superior do êmbolo: ...
 
-4.1.13 - Secção mínima das condutas de admissão e de escape: ...
+4.1.13 - Secção transversal mínima das condutas de admissão e de escape: ...
 
 4.1.14 - Sistema de arrefecimento:
 
-4.1.14.1 - Líquido:
+4.1.14.1 - Fluido de arrefecimento:
 
-4.1.14.1.1 - Natureza do líquido: ...
+4.1.14.1.1 - Natureza do fluido de arrefecimento: ...
 
-4.1.14.1.2 - Bomba(s) de circulação: com/sem (ver nota 1).
+4.1.14.1.2 - Bomba(s) de circulação: sim/não (1).
 
-4.1.14.1.3 - Características ou marca(s) e tipo(s) (se for caso disso): ...
+4.1.14.1.3 - Características ou marca(s) e tipo(s) (se aplicável): ...
 
-4.1.14.1.4 - Relação(ões) de transmissão (se for caso disso): ...
+4.1.14.1.4 - Relação(ões) de transmissão (se aplicável): ...
 
 4.1.14.2 - Ar:
 
-4.1.14.2.1 - Ventilador: sim/não (ver nota 1).
+4.1.14.2.1 - Ventilador: sim/não (1).
 
-4.1.14.2.2 - Características ou marca(s) e tipo(s) (se for caso disso): ...
+4.1.14.2.2 - Características ou marca(s) e tipo(s) (se aplicável): ...
 
-4.1.14.2.3 - Relação(ões) de transmissão (se for caso disso): ...
+4.1.14.2.3 - Relação(ões) de transmissão (se aplicável): ...
 
 4.1.15 - Temperatura autorizada pelo fabricante:
 
@@ -731,35 +817,105 @@ Tipo de motor no interior da família
 
 Temperatura máxima no ponto de referência: ... K.
 
-4.1.15.3 - Temperatura máxima do ar de alimentação à saída do permutador intermédio de admissão (se for caso disso): ... K.
+4.1.15.3 - Temperatura máxima do ar de sobrealimentação à saída do permutador de calor (se aplicável): ... K.
 
-4.1.15.4 - Temperatura máxima dos gases de escape ao nível dos tubos de escape adjacentes aos estrangulamentos de saída dos colectores: ... K.
+4.1.15.4 - Temperatura máxima de escape no ponto do(s) tubo(s) de escape adjacente às flange(s) exterior(es) do(s) colector(es) de escape: ... K.
 
-4.1.15.5 - Temperatura do lubrificante: mínimo: ... K; máximo: ... K.
+4.1.15.5 - Temperatura do lubrificante: mínima: ... K; máxima: ... K.
 
-4.1.16 - Sobrealimentação: com/sem (ver nota 1):
+4.1.16 - Sobrealimentador: sim/não (1).
 
 4.1.16.1 - Marca: ...
 
 4.1.16.2 - Tipo: ...
 
-4.1.16.3 - Descrição do sistema (por exemplo, pressão máxima, válvula de descarga, se for caso disso): ...
+4.1.16.3 - Descrição do sistema (por exemplo, pressão máxima de sobrealimentação, válvula de descarga, se aplicável): ...
 
-4.1.16.4 - Permutador intermédio: com/sem (ver nota 1).
+4.1.16.4 - Permutador de calor: sim/não (1).
 
-4.1.17 - Sistema de admissão: depressão máxima admissível à entrada, ao regime nominal do motor ... rpm: KPa e a plena carga: ... kPa.
+4.1.17 - Sistema de admissão: depressão máxima admissível na admissão ao regime nominal do motor e a 100% da carga: ... kPa.
 
-4.1.18 - Sistema de escape: contrapressão máxima admissível ao regime nominal do motor ... rpm: ...kPa e a plena carga: ...kPa.
+4.1.18 - Sistema de escape: contrapressão de escape máxima admissível ao regime nominal do motor e a 100% da carga: ... kPa.
 
-4.2 - Dispositivos antipoluição adicionais (se existirem e se não estiverem incluídos noutra rubrica):
+4.2 - Medidas a tomar contra a poluição do ar
 
-Descrição e ou (ver nota 1) esquema(s): ...
+4.2.1 - Dispositivo para reciclar os gases do cárter: sim/não (1) ...
+
+4.2.2 - Dispositivos antipoluição adicionais (se existirem e se não estiverem incluídos noutra rubrica)
+
+4.2.2.1 - Catalisador: sim/não (1)
+
+4.2.2.1.1 - Marca(s):...
+
+4.2.2.1.2 - Tipo(s):...
+
+4.2.2.1.3 - Número de catalisadores e elementos ...
+
+4.2.2.1.4 - Dimensões e volume do(s) catalisador(es): ...
+
+4.2.2.1.5 - Tipo de ação catalítica:...
+
+4.2.2.1.6 - Carga total de metais preciosos:...
+
+4.2.2.1.7 - Concentração relativa:...
+
+4.2.2.1.8 - Substrato (estrutura e material):...
+
+4.2.2.1.9 - Densidade das células:...
+
+4.2.2.1.10 - Tipo de alojamento do(s) catalisador(es): ...
+
+4.2.2.1.11 - Localização do(s) catalisador(es) [lugar(es) e distância(s) máxima(s)/mínima(s) do motor]: ...
+
+4.2.2.1.12 - Intervalo de funcionamento normal (K): ...
+
+4.2.2.1.13 - Reagente consumível (se aplicável): ...
+
+4.2.2.1.13.1 - Tipo e concentração de reagente necessários à ação catalítica: ...
+
+4.2.2.1.13.2 - Gama de temperaturas de funcionamento normal do reagente: ...
+
+4.2.2.1.13.3 - Norma internacional (se aplicável): ...
+
+4.2.2.1.14 - Sensor de NO(índice x): sim/não (1)
+
+4.2.2.2 - Sensor de oxigénio: sim/não (1)
+
+4.2.2.2.1 - Marca(s):...
+
+4.2.2.2.2 - Tipo:...
+
+4.2.2.2.3 - Local:...
+
+4.2.2.3 - Injeção de ar: sim/não (1)
+
+4.2.2.3.1 - Tipo (ar pulsado, bomba de ar, etc.): ...
+
+4.2.2.4 - EGR: sim/não (1)
+
+4.2.2.4.1 - Características (arrefecida/não arrefecida, alta pressão/baixa pressão, etc.): ...
+
+4.2.2.5 - Coletor de partículas: sim/não (1)
+
+4.2.2.5.1 - Dimensões e capacidade do coletor de partículas: ...
+
+4.2.2.5.2 - Tipo e conceção do coletor de partículas: ...
+
+4.2.2.5.3 - Localização [lugar(es) e distância(s) máxima(s)/mínima(s) do motor]:
+
+4.2.2.5.4 - Método ou sistema de regeneração, descrição e/ou desenho:
+
+4.2.2.5.5 - Intervalo de funcionamento normal (K) e intervalo de pressões (kPa):
+
+4.2.2.6 - Outros sistemas: sim/não (1)
+
+4.2.2.6.1 - Descrição e funcionamento:...
 
 4.3 - Alimentação de combustível:
 
 4.3.1 - Bomba de alimentação:
 
-Pressão (ver nota 2) ou diagrama característico: ... kPa.
+Pressão (2) ou diagrama característico: ... kPa.
 
 4.3.2 - Sistema de injecção:
 
@@ -769,19 +925,19 @@ Pressão (ver nota 2) ou diagrama característico: ... kPa.
 
 4.3.2.1.2 - Tipo(s): ...
 
-4.3.2.1.3 - Débito: ... mm3 (ver nota 2) por injecção ou por ciclo a um regime da bomba de: ...rpm (nominal) e ... rpm (binário máximo), respectivamente, ou esquema.
+4.3.2.1.3 - Débito: ... mm3 (2) por curso ou por ciclo a um regime da bomba de: ... rpm (nominal) e ... rpm (binário máximo), respectivamente, ou diagrama característico.
 
-Indicar o método utilizado: no motor/no banco de ensaio das bombas (ver nota 1).
+Indicar o método utilizado: no motor/no banco de ensaio das bombas (1).
 
 4.3.2.1.4 - Avanço da injecção:
 
-4.3.2.1.4.1 - Curva do avanço da injecção (ver nota 2): ...
+4.3.2.1.4.1 - Curva do avanço da injecção (2): ...
 
-4.3.2.1.4.2 - Regulação (ver nota 2): ...
+4.3.2.1.4.2 - Regulação (2): ...
 
 4.3.2.2 - Tubagem de injecção:
 
-4.3.2.2.1 - Comprimento: ... mm.
+4.3.2.2.1 Comprimento: ... mm.
 
 4.3.2.2.2 - Diâmetro interno: ... mm.
 
@@ -791,7 +947,7 @@ Indicar o método utilizado: no motor/no banco de ensaio das bombas (ver nota 1)
 
 4.3.2.3.2 - Tipo(s): ...
 
-4.3.2.3.3 - Pressão de abertura (ver nota 2) ou esquema: ...
+4.3.2.3.3 - Pressão de abertura (2) ou diagrama característico (1): ...
 
 4.3.2.4 - Regulador(es):
 
@@ -799,13 +955,13 @@ Indicar o método utilizado: no motor/no banco de ensaio das bombas (ver nota 1)
 
 4.3.2.4.2 - Tipo(s): ...
 
-4.3.2.4.3 - Regime do início do corte a plena carga (ver nota 2): ... rpm.
+4.3.2.4.3 - Regime do início do corte a plena carga (2): ... rpm.
 
-4.3.2.4.4 - Regime máximo sem carga (ver nota 2): ... rpm.
+4.3.2.4.4 - Regime máximo sem carga (2): ... rpm.
 
-4.3.2.4.5 - Regime de marcha lenta sem carga (ver nota 2): ... rpm.
+4.3.2.4.5 - Regime de marcha lente sem carga (2): ... rpm.
 
-4.3.3 - Sistema(s) de arranque a frio:
+4.3.3 - Sistema de arranque a frio:
 
 4.3.3.1 - Marca(s): ...
 
@@ -813,31 +969,37 @@ Indicar o método utilizado: no motor/no banco de ensaio das bombas (ver nota 1)
 
 4.3.3.3 - Descrição: ...
 
-4.4 - Características de distribuição:
+4.4 - Regulação das válvulas:
 
-4.4.1 - Elevação máxima das válvulas e ângulos de abertura e de fecho em relação aos pontos mortos superiores ou características equivalentes: ...
+4.4.1 - Elevação máxima e ângulos de abertura e fecho em relação aos pontos mortos ou dados equivalentes: ...
 
-4.4.2 - Folgas de referência e ou de regulação (ver nota 1).
+4.4.2 - Gamas de referência e/ou de regulação (1) ...
 
-4.5 - Funções com comando electrónico - se o motor possuir funções com comando electrónico, devem ser fornecidas, designadamente, as seguintes informações, relativas aos seus comportamentos funcionais:
+4.4.3 - Sistema variável de regulação das válvulas (se aplicável, e se à admissão e/ou ao escape)
 
-4.5.1 - Marca: ...
+4.4.3.1 - Tipo: contínuo ou ligado/desligado (1)
 
-4.5.2 - Tipo: ...
+4.4.3.2 - Ângulo de fase da came:...
 
-4.5.3 - Número da peça: ...
+4.5 - Configuração das janelas:
 
-4.5.4 - Posição da unidade de controlo electrónico do motor: ...
+4.5.1 - Posição, dimensão e número: ...
 
-4.5.4.1 - Essa unidade apreende o seguinte: ...
+4.6 - Funções com comando electrónico - se o motor possuir funções com comando electrónico, devem ser fornecidas as seguintes informações relativas ao seu desempenho, nomeadamente:
 
-4.5.4.2 - Essa unidade controla o seguinte: ...
+4.6.1 - Marca: ...
 
-(nota 1) Riscar o que não interessa.
+4.6.2 - Tipo: ...
 
-(nota 2) Indicar a tolerância.
+4.6.3 - Número da peça: ...
 
-(nota 3) Em caso de pedido que incida em vários motores protótipos, deve ser preenchido um formulário para cada um deles.
+4.6.4 - Localização da unidade de comando electrónico do motor: ...
+
+4.6.4.1 - Parâmetros medidos: ...
+
+4.6.4.2 - Parâmetros controlados: ...
+
+> Alterado pelo/a [Decreto-Lei n.º 97/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-2014-25345582), publicado em 2014-06-26.
 
 ## ANEXO 3.º — (referente ao capítulo I)
 
@@ -903,9 +1065,45 @@ Parte II
 
 2.3 - Número do relatório de ensaio: ...
 
-2.4 - Resultados dos ensaios medidos de acordo com os requisitos da Directiva n.º [97/68/CE](https://data.europa.eu/eli/dir/1997/68/oj?locale=pt):
+2.4 - Resultados das emissões do motor/motor percursor (1):
 
-[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/04/093a00/39563966.pdf)](https://files.diariodarepublica.pt/1s/2002/04/093a00/39563966.pdf)](https://files.diariodarepublica.pt/1s/2002/04/093a00/39563966.pdf)
+2.4.1 - Informações relativas à realização do ensaio NRSC
+
+Fator de deterioração (DF) calculado/fixo (1)
+
+Especificar os valores dos DF e os resultados das emissões no quadro seguinte:
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/06/12100/0340803420.pdf)
+
+2.4.1.2 - Sistema de recolha de amostras utilizado para o ensaio NRSC : ...
+
+2.4.1.2.1 - Emissões gasosas (*):...
+
+2.4.1.2.2 - PM (*):...
+
+2.4.1.2.3 - Método: filtro simples/filtros múltiplos (1)
+
+2.4.2 - Informações relativas à realização do ensaio NRTC (se aplicável):
+
+2.4.2.1 - Resultados das emissões do motor/motor precursor
+
+Fator de deterioração (DF): calculado/fixo (1)
+
+Especificar os valores dos DF e os resultados das emissões no quadro seguinte:
+
+Os dados relativos à regeneração podem ser comunicados para os motores da fase IV.
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/06/12100/0340803420.pdf)
+
+Trabalho do ciclo para arranque a quente sem regeneração kWh
+
+2.4.2.2 - Sistema de recolha de amostras utilizado para o ensaio NRTC:
+
+Emissões gasosas (*):...
+
+PM (*):...
+
+Método: filtro simples/filtros múltiplos (1)
 
 3 - O abaixo assinado certifica a exactidão da descrição do tipo de motor/do tipo de motor representativo da família (ver nota 1) dada acima e dos resultados dos ensaios incluídos no dossiê de homologação.
 
@@ -921,9 +1119,11 @@ Anexos: ...
 
 Dossiê de homologação: ...
 
-(nota 1) Riscar o que não interessa.
+(*) Indicar número de figura do sistema utilizado, tal como definido no ponto 1 do anexo VI da Diretiva n.º [97/68/CE](https://data.europa.eu/eli/dir/1997/68/oj?locale=pt);
 
-(nota 2) Indicar a tolerância.
+(1) Riscar o que não interessa.
+
+> Alterado pelo/a [Decreto-Lei n.º 97/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-2014-25345582), publicado em 2014-06-26.
 
 ## ANEXO 4.º — (referente ao capítulo I)
 
@@ -961,37 +1161,63 @@ Numeração
 
 Secção 1 - a letra minúscula «e» seguida das letras ou números distintivos do Estado-Membro que procedeu à homologação:
 
-«1» para a Alemanha;
+1 para a Alemanha;
 
-«2» para a França;
+2 para a França;
 
-«3» para a Itália;
+3 para a Itália;
 
-«4» para os Países Baixos;
+4 para os Países Baixos;
 
-«5» para a Suécia;
+5 para a Suécia;
 
-«6» para a Bélgica;
+6 para a Bélgica;
 
-«9» para a Espanha;
+7 para a Hungria;
 
-«11» para o Reino Unido;
+8 para a República Checa;
 
-«12» para a Áustria;
+9 para a Espanha;
 
-«13» para o Luxemburgo;
+11 para o Reino Unido;
 
-«17» para a Finlândia;
+12 para a Áustria;
 
-«18» para a Dinamarca;
+13 para o Luxemburgo;
 
-«21» para Portugal;
+17 para a Finlândia;
 
-«23» para a Grécia;
+18 para a Dinamarca;
 
-«24» para a Irlanda.
+19 para a Roménia;
 
-Secção 2 - o número da directiva de base, seguido da letra A para a fase I ou B para a fase II.
+20 para a Polónia;
+
+21 para Portugal;
+
+23 para a Grécia;
+
+24 para a Irlanda;
+
+25 para a Croácia;
+
+26 para a Eslovénia;
+
+27 para a Eslováquia;
+
+29 para a Estónia;
+
+32 para a Letónia;
+
+34 para a Bulgária;
+
+36 para a Lituânia;
+
+CY para Chipre;
+
+MT para Malta.
+
+Secção 2 - O número da directiva de base, seguido da letra A para a fase i, da letra B para a fase ii, da letra C para a fase iii-A, da letra D para a fase iii-B e da letra E para a fase iv.
 
 Secção 3 - o número da última directiva de alteração aplicável à homologação. Caso uma directiva contenha datas de aplicação diferentes para as diferentes normas técnicas, acrescentar-se-á um carácter alfabético para especificar a norma de acordo com a qual a homologação foi concedida.
 
@@ -1008,6 +1234,8 @@ e2*NN/NN(ver nota 1)A*00/00*0003*00
 e11*NN/NN(ver nota 1)B*00/00*0004*02
 
 (nota 1) NN/NN = número das directivas.
+
+> Alterado pelo/a [Decreto-Lei n.º 148/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-2013-502980), publicado em 2013-10-24.
 
 ## ANEXO 6.º — (referente ao capítulo I)
 
@@ -1123,13 +1351,83 @@ Temperatura máxima no ponto de referência: ... K.
 
 2.1.16.4 - Permutador intermédio: com/sem (ver nota 1).
 
-2.1.17 - Sistema de admissão: depressão máxima admissível à entrada, ao regime nominal do motor ... rpm: ... kPa e a plena carga: ... kPa.
+2.1.17 - Sistema de admissão: depressão máxima admissível na admissão ao regime nominal do motor e a 100% da carga: ... kPa.
 
-2.1.18 - Sistema de escape: contrapressão máxima admissível ao regime nominal do motor ... rpm: ... kPa e a plena carga: ... kPa.
+2.1.18 - Sistema de escape: contrapressão de escape máxima admissível ao regime nominal do motor e a 100% de carga: ... kPa.
 
-2.2 - Dispositivos antipoluição adicionais (se existirem e se não estiverem incluídos noutra rubrica):
+2.2 - Medidas tomadas contra a poluição do ar
 
-Descrição e ou esquema(s): ...
+2.2.1 - Dispositivo para reciclar os gases do cárter: sim/não (1) ...
+
+2.2.2 - Dispositivos antipoluição adicionais (se existirem e se não estiverem incluídos noutra rubrica)
+
+2.2.2.1 - Catalisador: sim/não (1)
+
+2.2.2.1.1 - Marca(s):...
+
+2.2.2.1.2 - Tipo(s):...
+
+2.2.2.1.3 - Número de catalisadores e elementos ...
+
+2.2.2.1.4 - Dimensões e volume do(s) catalisador(es): ...
+
+2.2.2.1.5 - Tipo de ação catalítica:...
+
+2.2.2.1.6 - Carga total de metais preciosos: ...
+
+2.2.2.1.7 - Concentração relativa:...
+
+2.2.2.1.8 - Substrato (estrutura e material): ...
+
+2.2.2.1.9 - Densidade das células:...
+
+2.2.2.1.10 - Tipo de alojamento do(s) catalisador(es): ...
+
+2.2.2.1.11 - Localização do(s) catalisador(es) [lugar(es) e distância(s) máxima(s)/mínima(s) do motor]: ...
+
+2.2.2.1.12 - Intervalo de funcionamento normal (K): ...
+
+2.2.2.1.13 - Reagente consumível (se aplicável): ...
+
+2.2.2.1.13.1 - Tipo e concentração de reagente necessários à ação catalítica: ...
+
+2.2.2.1.13.2 - Gama de temperaturas de funcionamento normal do reagente: ...
+
+2.2.2.1.13.3 - Norma internacional (se aplicável): ...
+
+2.2.2.1.14 - Sensor de NOx: sim/não (1)
+
+2.2.2.2 - Sensor de oxigénio: sim/não (1)
+
+2.2.2.2.1 - Marca(s):...
+
+2.2.2.2.2 - Tipo:...
+
+2.2.2.2.3 - Local:...
+
+2.2.2.3 - Injeção de ar: sim/não (1)
+
+2.2.2.3.1 - Tipo (ar pulsado, bomba de ar, etc.): ...
+
+2.2.2.4 - EGR: sim/não (1)
+
+2.2.2.4.1 - Características (arrefecida/não arrefecida, alta pressão/baixa pressão, etc.): ...
+
+2.2.2.5 - Coletor de partículas: sim/não (1)
+
+2.2.2.5.1 - Dimensões e capacidade do coletor de partículas: ...
+
+2.2.2.5.2 - Tipo e conceção do coletor de partículas: ...
+
+2.2.2.5.3 - Localização [lugar(es) e distância(s) máxima(s)/mínima(s) do motor]:
+
+2.2.2.5.4 - Método ou sistema de regeneração, descrição e/ou desenho: ...
+
+2.2.2.5.5 - Intervalo de funcionamento normal (K) e intervalo de pressões (kPa):
+
+2.2.2.6 - Outros sistemas: sim/não (1)
+
+2.2.2.6.1 - Descrição e funcionamento:...
 
 2.3 - Alimentação de combustível:
 
@@ -1189,11 +1487,17 @@ Indicar o método utilizado: no motor/no banco de ensaio das bombas (ver nota 1)
 
 2.3.3.3 - Descrição: ...
 
-2.4 - Características de distribuição:
+2.4 - Regulação das válvulas
 
-2.4.1 - Elevação máxima das válvulas e ângulos de abertura e de fecho em relação aos pontos mortos superiores, ou características equivalentes: ...
+2.4.1 - Elevação máxima das válvulas e ângulos de abertura e de fecho em relação aos pontos mortos ou dados equivalentes: ...
 
-2.4.2 - Folgas de referência e ou de regulação (ver nota 1) ...
+2.4.2 - Gamas de referência e/ou de regulação (1) ...
+
+2.4.3 - Sistema variável de regulação das válvulas (se aplicável, e se à admissão e/ou ao escape)
+
+2.4.3.1 - Tipo: contínuo ou ligado/desligado (1)
+
+2.4.3.2 - Ângulo de fase da came:...
 
 2.5 - Funções com comando electrónico - se o motor possuir funções com comando electrónico, devem ser fornecidas as informações relativas aos seus comportamentos funcionais, incluindo:
 
@@ -1209,9 +1513,15 @@ Indicar o método utilizado: no motor/no banco de ensaio das bombas (ver nota 1)
 
 2.5.4.2 - Parâmetros controlados: ...
 
+2.6 - Configuração das janelas:
+
+2.6.1 - Posição, dimensão e número
+
 (nota 1) Riscar o que não interessa.
 
 (nota 2) Indicar a tolerância.
+
+> Alterado pelo/a [Decreto-Lei n.º 97/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-2014-25345582), publicado em 2014-06-26.
 
 ## ANEXO 8.º — (referente ao capítulo II)
 
@@ -1287,11 +1597,9 @@ Parte II
 
 2.2.3 - Número do relatório de ensaio: ...
 
-2.2.4 - Resultados dos ensaios medidos de acordo com os requisitos da Directiva n.º [97/68/CE](https://data.europa.eu/eli/dir/1997/68/oj?locale=pt):
+2.2.4 - Resultados dos ensaios medidos de acordo com as prescrições da Directiva n.º [97/68/CE](https://data.europa.eu/eli/dir/1997/68/oj?locale=pt):
 
-[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/04/093a00/39563966.pdf)](https://files.diariodarepublica.pt/1s/2002/04/093a00/39563966.pdf)](https://files.diariodarepublica.pt/1s/2002/04/093a00/39563966.pdf)
-
-ou anexar o certificado de homologação do tipo ou da família de motores em questão.
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/06/10700/36683680.pdf)
 
 2.3 - Elementos do tractor que podem influenciar as emissões poluentes (indicar, se for caso disso, o tipo de influência): ...
 
@@ -1312,3 +1620,5 @@ Dossiê de homologação: ...
 (nota 1) Riscar o que não interessa.
 
 (nota 2) Se for caso disso.
+
+> Alterado pelo/a [Decreto-Lei n.º 227/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-2007-638704), publicado em 2007-06-04.

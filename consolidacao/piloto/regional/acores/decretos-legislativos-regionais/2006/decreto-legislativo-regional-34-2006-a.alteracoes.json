@@ -12,5 +12,19 @@
     "unidade": [],
     "diploma": "pt:dre:540386:por",
     "alterador": "pt:dre:249569:por"
+  },
+  {
+    "artigo": "ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/2006/08/16700/63856387.pdf)",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/2006/08/16700/63856387.pdf)",
+    "depois": "## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/2008/04/08200/0243402435.pdf)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:540386:por",
+    "alterador": "pt:dre:249569:por"
   }
 ]

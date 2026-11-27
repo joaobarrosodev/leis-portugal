@@ -1,0 +1,28 @@
+[
+ {
+  "id": "pt:dre:341046:por",
+  "artigos": [
+   {
+    "chave": "1.º",
+    "epigrafe": "Composição",
+    "texto": "1 - O Presidente do Supremo Tribunal de Justiça é coadjuvado no exercício das suas funções por um Gabinete.\n\n2 - O Gabinete do Presidente do Supremo Tribunal de Justiça é constituído pelo chefe do Gabinete, por seis adjuntos e por três secretários pessoais.\n\n3 - Ao pessoal do Gabinete é aplicável, com as devidas adaptações, o regime de nomeação, exoneração, garantias, deveres e vencimento aplicável aos membros dos gabinetes ministeriais.",
+    "alterador": 1
+   },
+   {
+    "chave": "6.º",
+    "epigrafe": "Apoio administrativo aos vice-presidentes",
+    "texto": "Cada Vice-Presidente do Supremo Tribunal de Justiça é apoiado administrativamente por um secretário pessoal, ao qual é aplicável o disposto no n.º 3 do artigo 1.º",
+    "alterador": 1
+   }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, art. 19.º, n.º 4, «Todas as referências feitas no Decreto-Lei n.º 188/2000 [...] aos assessores passam a considerar-se feitas aos adjuntos»: não textual (remissão: as referências passam a ler-se como feitas aos adjuntos, sem nova redação nem substituição de palavras nos arts. 2.º, 3.º e 5.º; o alterador não traz o texto novo desses artigos nem da epígrafe «Assessores»)",
+  "instrucoes": [
+   "Alterador 1 (DL 74/2002), art. 19.º, n.os 1 e 2: alteram o DL 186-A/99 e o DL 177/2000 — outro diploma, ignoradas.",
+   "Alterador 1, art. 19.º, n.º 3: nova redação dos arts. 1.º (n.º 1 e epígrafe ficam) e 6.º (epígrafe fica) — aplicada; o texto do programa já estava certo e é devolvido igual.",
+   "Alterador 1, art. 19.º, n.º 4: referências a assessores consideram-se feitas aos adjuntos — remissão não textual, nao_aplicavel."
+  ]
+ }
+]

@@ -1,0 +1,65 @@
+[
+ {
+  "id": "pt:dre:343382:por",
+  "artigos": [
+   {
+    "chave": "1.º",
+    "epigrafe": "Prescrição pela DCI",
+    "texto": "(Revogado.)",
+    "alterador": 2
+   },
+   {
+    "chave": "2.º",
+    "epigrafe": "Liberdade de escolha",
+    "texto": "(Revogado.)",
+    "alterador": 2
+   },
+   {
+    "chave": "3.º",
+    "epigrafe": "Comparticipação",
+    "texto": "(Revogado.)",
+    "alterador": 2
+   },
+   {
+    "chave": "4.º",
+    "epigrafe": "Modelo de receita médica",
+    "texto": "(Revogado.)",
+    "alterador": 2
+   },
+   {
+    "chave": "5.º",
+    "epigrafe": "Objectivos de crescimento",
+    "texto": "(Revogado.)",
+    "alterador": 2
+   },
+   {
+    "chave": "6.º",
+    "epigrafe": "Revogação",
+    "texto": "(Revogado.)",
+    "alterador": 2
+   },
+   {
+    "chave": "7.º",
+    "epigrafe": "Entrada em vigor",
+    "texto": "(Revogado.)\n\nAprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 28 de Julho de 2010.\n\nO Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.\n\nAssinado em 4 de Agosto de 2010.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.",
+    "alterador": 2
+   }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [
+   {
+    "titulo": "## ANEXO — Em tamanho A5 com impressão na frente e verso",
+    "texto": "(Revogado.)",
+    "alterador": 1
+   }
+  ],
+  "nao_aplicavel": "Alterador 3, DLR 39/2021/A, art. 12.º, revogação do Decreto Legislativo Regional n.º 16/2010/A, de 12 de abril (Açores, AZORINA): outro diploma (não é o DLR 16/2010/M)",
+  "instrucoes": [
+   "Alterador 1 (DLR 2/2012/M), art. 1.º: nova redação dos arts. 2.º, 3.º e 4.º — prejudicada pela revogação total do alterador 2.",
+   "Alterador 1, art. 2.º, n.º 1: revoga o n.º 2 do art. 4.º e o anexo — anexo revogado (corpo «(Revogado.)»); o n.º 2 do art. 4.º fica abrangido pela revogação total.",
+   "Alterador 2 (DLR 29/2012/M), art. 6.º: revoga o DLR 16/2010/M inteiro, em vigor 30 dias após a publicação (2012, já passou) — aplicada artigo a artigo: arts. 1.º a 7.º «(Revogado.)», com as epígrafes; as assinaturas do fim do diploma ficam a seguir ao art. 7.º.",
+   "Alterador 3 (DLR 39/2021/A): trata do DLR 16/2010/A dos Açores — outro diploma, nao_aplicavel."
+  ]
+ }
+]

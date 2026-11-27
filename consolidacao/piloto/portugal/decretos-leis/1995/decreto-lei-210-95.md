@@ -63,6 +63,18 @@ As normas do presente diploma sobre dispensa de juros compensatórios, de juros 
 
 A recuperação dos créditos decorrentes dos incentivos financeiros concedidos ao abrigo do SIII é efectuada através do processo de execução fiscal nos termos previstos no Código de Procedimento e de Processo Tributário, constituindo a certidão de dívida emitida pela Direcção-Geral do Tesouro título executivo para esse efeito.
 
+Visto e aprovado em Conselho de Ministros de 1 de Junho de 1995. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga.
+
+Promulgado em 28 de Julho de 1995.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 1 de Agosto de 1995.
+
+Pelo Primeiro-Ministro, Manuel Dias Loureiro, Ministro da Administração Interna.
+
 > Aditado pelo/a [Lei n.º 60-A/2005](https://diariodarepublica.pt/dr/detalhe/lei/60-a-2005-376234), publicado em 2005-12-30.
 
 Visto e aprovado em Conselho de Ministros de 1 de Junho de 1995. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga.

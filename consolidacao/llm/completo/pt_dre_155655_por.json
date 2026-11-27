@@ -1,0 +1,27 @@
+{
+  "id": "pt:dre:155655:por",
+  "artigos": [
+    {
+      "chave": "6.º",
+      "epigrafe": "",
+      "texto": "1 - Os municípios procederão obrigatoriamente ao seguro contra acidentes pessoais dos bombeiros profissionais e voluntários com o âmbito previsto na alínea e) do n.º 1 do artigo 6.º da [Lei n.º 21/87](https://diariodarepublica.pt/dr/detalhe/lei/21-1987-419274), de 20 de Junho.\n\n2 - As condições mínimas do seguro, incluindo as quantias e riscos compreendidos, são fixadas por portaria conjunta dos Ministros da Administração Interna, das Finanças e do Planeamento e da Administração do Território, depois de ouvidos a Associação Nacional de Municípios Portugueses, a Liga dos Bombeiros Portugueses e o Instituto de Seguros de Portugal.",
+      "alterador": 5
+    }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, nova redação do artigo 708.º do Código Administrativo (cuja redação constava do art. 3.º): outro diploma\nAlteradores 2 e 3, exceção do «§ 1.º» na revogação dos artigos 1.º e 2.º: alvo incerto: a instrução não diz de que artigo é o § 1.º ressalvado; os artigos 1.º e 2.º ficam revogados como estão no texto atual",
+  "instrucoes": [
+    "Alterador 1 (DL 45676): altera artigos do Código Administrativo, incluindo o 708.º que o art. 3.º reproduzia: outro diploma, não aplicado",
+    "Alteradores 2 e 3 (DL 388/78, art. 9.º aditado pela Lei 10/79): revogam os arts. 1.º e 2.º, com exceção do § 1.º: mantida a revogação já no texto atual; a exceção vai para nao_aplicavel",
+    "Alterador 4 (DL 36/80): nova redação do art. 6.º, depois substituída pelo alterador 5",
+    "Alterador 5 (DL 36/94): nova redação do art. 6.º (n.os 1 e 2): aplicada; revoga o DL 36/80 (outro diploma)"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "ronda_camada1": 122,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
+}

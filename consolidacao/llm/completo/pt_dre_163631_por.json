@@ -4,7 +4,7 @@
     {
       "chave": "5.º",
       "epigrafe": "",
-      "texto": "É criado na Secretaria de Estado, e integrado na Direcção-Geral dos Negócios Políticos e da Administração Interna, mais um lugar de adjunto do director-geral, com a categoria de ministro plenipotenciário de 2.ª classe, cujas funções serão definidas por despacho ministerial.\n\n§ único. (Revogado.)",
+      "texto": "É criado na Secretaria de Estado, e integrado na Direcção-Geral dos Negócios Políticos e da Administração Interna, mais um lugar de adjunto do director-geral, com a categoria de ministro plenipotenciário de 2.ª classe, cujas funções serão definidas por despacho ministerial.",
       "alterador": 1
     }
   ],
@@ -13,13 +13,14 @@
   "anexos": [],
   "nao_aplicavel": null,
   "instrucoes": [
-    "Art. 4.º, § único, do Decreto-Lei n.º 44970: revogado o § único do artigo 5.º; o corpo mantém-se e o § fica «(Revogado.)» (reparo confirmado: o programa tinha revogado o artigo inteiro).",
-    "Restantes artigos do Decreto-Lei n.º 44970 (1.º a 3.º, 5.º a 10.º e o corpo do 4.º): normas próprias ou dirigidas a outros diplomas; sem alteração ao texto do original."
+    "Alterador 1 (Decreto-Lei n.º 44970), art. 4.º, § único: revoga só o § único do artigo 5.º — o programa revogara o artigo inteiro; reposto o corpo do artigo 5.º do original, sem o § único revogado.",
+    "Alterador 1, art. 4.º, corpo: regra própria sobre a primeira nomeação para o lugar do artigo 5.º — não muda o texto do original.",
+    "Alterador 1, restantes artigos: dirigem-se a outros diplomas (Decreto-Lei n.º 43344, Decreto n.º 29970) ou são regras próprias — não se aplicam ao original."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": [
-    "5.º: parágrafo que não está no alterador nem no original: § único. (Revogado.)"
-  ],
+  "ronda_camada1": 122,
+  "problemas": [],
+  "numeracao_aceite": [],
   "avisos": []
 }

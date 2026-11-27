@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 104-104",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Art. 2.º Com excepção das execuções, nos processos em que não haja preparos ou divisão de custas, estas são lançadas apenas no livro «Pagamentos» logo que sejam pagas.",
+    "depois": "Art. 2.º (Revogado.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:632249:por",
+    "alterador": "pt:dre:506869:por"
+  }
+]

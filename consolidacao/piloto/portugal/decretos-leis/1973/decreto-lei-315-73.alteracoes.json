@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 55-55",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Art. 6.º É eliminado o artigo 500.º da Reforma Aduaneira.",
+    "depois": "Art. 6.º É eliminado o artigo 501.º da Reforma Aduaneira.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:420987:por",
+    "alterador": "pt:dre:421236:por"
+  }
+]

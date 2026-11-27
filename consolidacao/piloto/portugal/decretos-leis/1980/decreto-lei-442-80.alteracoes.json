@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 1.º\n\n1 - A marcação sanitária das carcaças não embaladas será feita por meio de selo de modelo oficial, aposto na asa ou no peito, se a carcaça for de ave, e num dos membros, se for de coelho.\n\n2 - O selo mencionado no número anterior pode ser de metal, de plástico ou de outro material apropriado, desde que previamente aprovado pela Direcção-Geral dos Serviços Veterinários.\n\n3 - O selo deverá conter os seguintes dizeres:\n\nDGSV;\n\nEst. n.º;\n\nPort.",
+    "depois": "###### Artigo 1.º\n\n1 - A marcação sanitária das carcaças não embaladas será feita por meio de selo de modelo oficial, aposto na asa ou no peito, se a carcaça for de ave, e num dos membros, se for de coelho.\n\n2 - (Revogado.)\n\n3 - O selo deverá conter os seguintes dizeres:\n\nDGSV;\n\nEst. n.º;\n\nPort.\n\n> Alterado pelo/a [Decreto-Lei n.º 193/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/193-1988-374375), publicado em 1988-05-30.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:461471:por",
+    "alterador": "pt:dre:374375:por"
+  }
+]

@@ -1,15 +1,82 @@
 {
   "id": "pt:dre:391584:por",
-  "artigos": [],
+  "artigos": [
+    {
+      "chave": "3.º",
+      "epigrafe": "Autoridade competente",
+      "texto": "1 - O Gabinete de Planeamento e Políticas é o organismo responsável pelas medidas de política relativas à qualidade e segurança dos produtos abrangidos pelo presente decreto-lei, adiante designado autoridade competente, competindo-lhe, designadamente:\n\na) Seleccionar e aplicar as opções apropriadas de prevenção e controlo no âmbito do Regulamento (CE) n.º [178/2002](http://data.europa.eu/eli/reg/2002/178/oj?locale=pt), do Parlamento Europeu e do Conselho, de 28 de Janeiro;\n\nb) Recolher as informações e documentos necessários para os efeitos de comercialização e notificação e exigir, se necessário, esclarecimentos suplementares aos fabricantes ou importadores;\n\nc) Comunicar às instâncias comunitárias e aos restantes Estados membros da Comissão Europeia as decisões relativas à suspensão ou restrição provisória da comercialização dos produtos abrangidos pelo presente decreto-lei;\n\nd) Elaborar e coordenar a execução do plano de controlo oficial para verificação do cumprimento das normas previstas no presente decreto-lei.\n\n2 - Os serviços competentes nas Regiões Autónomas e as direcções regionais de agricultura e pescas executam o plano de controlo oficial previsto no número anterior.",
+      "alterador": 2
+    },
+    {
+      "chave": "6.º",
+      "epigrafe": "Rotulagem, apresentação e publicidade",
+      "texto": "1 - A rotulagem, apresentação e publicidade dos produtos abrangidos pelo presente diploma regem-se pela legislação geral em vigor nessas matérias e pelas normas especiais estabelecidas nos números seguintes.\n\n2 - A rotulagem destes produtos deve, obrigatoriamente, mencionar:\n\na) O nome, firma ou denominação social e o endereço completo ou a sede social do fabricante, importador, embalador ou do responsável pelo lançamento do produto no mercado nacional;\n\nb) O valor energético disponível, expresso em quilojoules (kJ) e quilocalorias (kcal), bem como o teor de proteínas, hidratos de carbono e lípidos, expresso sob forma numérica por quantidade especificada do produto pronto a ser consumido;\n\nc) A quantidade média de todas as substâncias minerais e vitaminas do produto em questão relativamente às quais o n.º 5 do anexo i do presente diploma fixa requisitos obrigatórios, expressa sob forma numérica, por quantidade especificada do produto pronto a ser consumido;\n\nd) No que respeita aos produtos apresentados como substitutos de uma ou mais refeições da dieta diária, a informação referida na alínea anterior relativa às vitaminas e minerais constantes do quadro do n.º 5 do anexo i do presente diploma deve também ser expressa em termos de percentagem dos valores definidos no anexo i do Decreto-Lei n.º 167/2004, de 7 de Julho;\n\ne) Se necessário, instruções para a sua preparação adequada, bem como a indicação da importância de as observar;\n\nf) Caso um produto, utilizado de acordo com as instruções do fabricante, resulte numa ingestão diária de polióis superior a 20 g por dia, deve existir a menção de que o alimento pode ter efeitos laxativos;\n\ng) A menção da importância de se manter uma ingestão diária de fluidos adequada;\n\nh) No que respeita aos produtos apresentados como substituto de toda a dieta diária, a menção de que o produto fornece quantidades diárias adequadas de todos os nutrientes essenciais e de que o produto não deve ser utilizado durante mais de três semanas sem indicação médica;\n\ni) No que respeita aos produtos apresentados como substituto de uma ou mais refeições da dieta diária, a menção de que os referidos produtos apenas são úteis para o fim pretendido se integrados numa dieta com restrição calórica e de que a referida dieta inclua outros géneros alimentícios.\n\n3 - Todos os componentes específicos dos produtos apresentados para venda como substitutos de toda a dieta diária devem estar contidos na mesma embalagem.\n\n4 - A rotulagem, publicidade e apresentação dos produtos em questão não deve fazer referência à eventual velocidade ou quantidade de perda de peso resultante da sua utilização.",
+      "alterador": 2
+    },
+    {
+      "chave": "7.º",
+      "epigrafe": "Comercialização e notificação",
+      "texto": "1 - Quando se tratar da primeira comercialização de alimentos destinados a serem utilizados em dietas de restrição calórica para redução do peso na Comunidade, o fabricante, se o produto tiver origem num dos Estados membros, ou o importador, se o produto tiver origem em país terceiro, notifica a autoridade competente do modelo da respectiva rotulagem.\n\n2 - Se o produto já tiver sido comercializado na Comunidade, o fabricante ou importador, para além do modelo de rotulagem do produto, notifica a autoridade competente da identidade da entidade destinatária da primeira notificação de comercialização.\n\n3 - A autoridade competente pode exigir, a todo o tempo, ao comerciante ou importador, a apresentação de trabalhos científicos e dados que comprovam a conformidade com as regras estabelecidas neste decreto-lei.",
+      "alterador": 2
+    },
+    {
+      "chave": "8.º",
+      "epigrafe": "Restrições",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "9.º",
+      "epigrafe": "Contra-ordenações",
+      "texto": "1 - Constitui contra-ordenação punível com coima mínima de (euro) 100 a (euro) 3740 ou de (euro) 250 a (euro) 44 890, consoante o infractor seja pessoa singular ou colectiva:\n\na) A comercialização de produtos cuja composição não obedece aos critérios referidos no artigo 4.º;\n\nb) A comercialização de produtos em violação do disposto no artigo 5.º;\n\nc) A falta de menção na rotulagem do produto de qualquer das indicações estabelecidas nos n.os 1 e 2 do artigo 6.º;\n\nd) A comercialização dos produtos em contravenção ao disposto nos n.os 3 e 4 do artigo 6.º;\n\ne) A falta das comunicações a que se refere o artigo 7.º\n\n2 - A negligência é punível, sendo os limites máximos e mínimos das coimas reduzidos para metade.",
+      "alterador": 2
+    },
+    {
+      "chave": "11.º",
+      "epigrafe": "Tramitação processual",
+      "texto": "1 - A fiscalização e a instrução dos processos por infracção ao disposto no presente diploma competem à Autoridade de Segurança Alimentar e Económica (ASAE).\n\n2 - Finda a instrução, os processos são remetidos à Comissão de Aplicação de Coimas em Matéria Económica e de Publicidade (CACMEP) para aplicação das coimas respectivas.\n\n3 - O produto da aplicação das coimas reverte a favor das seguintes entidades:\n\na) 60 % para os cofres do Estado;\n\nb) 10 % para a entidade autuante;\n\nc) 20 % para a entidade que instruiu o processo;\n\nd) 10 % para a CACMEP.",
+      "alterador": 2
+    },
+    {
+      "chave": "12.º",
+      "epigrafe": "Regiões Autónomas",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "13.º",
+      "epigrafe": "Recurso",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "14.º",
+      "epigrafe": "Taxas",
+      "texto": "1 - Pelas acções desenvolvidas pela autoridade competente no âmbito do presente decreto-lei, designadamente de controlo e de prevenção, de apreciação dos documentos e informações e, ainda, de controlo da rotulagem dos produtos, são cobradas taxas a fixar por portaria do membro do Governo responsável pela área da agricultura.\n\n2 - As receitas previstas no número anterior constituem receita própria da autoridade competente.",
+      "alterador": 2
+    }
+  ],
   "removidos": [],
-  "nao_aplicavel": "Art. 2.º do Decreto-Lei n.º 81/2010 altera o anexo I, que não consta do texto atual do original, pelo que não foi aplicado.",
+  "titulos": [],
+  "anexos": [
+    {
+      "titulo": "## ANEXO I — Composição essencial dos alimentos destinados a dietas de restrição calórica",
+      "texto": "As especificações previstas neste diploma referem-se aos produtos prontos a utilizar e como tal comercializados ou reconstituídos de acordo com as instruções do fabricante.\n\n1 - Energia:\n\n1.1 - A energia fornecida pelos substitutos integrais da dieta diária não deve ser inferior a 3360 kJ (800 kcal) nem exceder 5040 kJ (1200 kcal) no que respeita à dose total diária.\n\n1.2 - A energia fornecida pelos substitutos de uma ou mais refeições da dieta diária não deve ser inferior a 840 kJ (200 kcal) nem exceder 1680 kJ (400 kcal) por refeição.\n\n2 - Proteínas:\n\n2.1 - A proteína presente nos produtos referidos no artigo 2.º do presente diploma não deve constituir menos de 25 % nem mais de 50 % do valor energético total desses produtos. Em qualquer caso, a quantidade total de proteínas nos substitutos integrais da dieta diária não deve exceder 125 g.\n\n2.2 - As disposições supracitadas relativas às proteínas aplicam-se a proteínas cujo índice químico é igual ao da proteína de referência da FAO/OMS (1985), constante do anexo II. Caso o índice químico seja inferior a 100% do da proteína de referência, os níveis proteicos mínimos devem ser aumentados em conformidade. Em qualquer caso, o índice químico da proteína deve ser pelo menos igual a 80% do da proteína de referência.\n\n2.3 - Deve entender-se por «índice químico» o menor dos quocientes entre a quantidade de aminoácido na proteína em questão e a desse mesmo aminoácido na proteína de referência.\n\n2.4 - A incorporação de aminoácidos apenas é permitida com vista a aumentar o valor nutritivo das proteínas unicamente nas proporções necessárias para o efeito.\n\n3 - Lípidos:\n\n3.1 - A energia fornecida pelos lípidos não deve exceder 30% do valor energético total do produto.\n\n3.2 - No que respeita aos substitutos integrais da dieta diária, a quantidade de ácido linoleico, sob a forma de glicéridos, não deve ser inferior a 4,5 g.\n\n3.3 - No que respeita aos substitutos de uma ou mais refeições da dieta diária, a quantidade de ácido linoleico, sob a forma de glicéridos, não deve ser inferior a 1 g.\n\n4 - Fibras dietéticas. - O teor em fibras dietéticas dos substitutos integrais da dieta diária não deve ser inferior a 10 g nem exceder 30 g no que respeita à dose diária.\n\n5 - Vitaminas e minerais:\n\n5.1 - Os substitutos integrais da dieta diária devem conter, no mínimo, no que respeita a toda a dieta diária, 100 % das quantidades de vitaminas e minerais especificadas no quadro i.\n\nOs substitutos de uma ou mais refeições da dieta diária devem fornecer por refeição, pelo menos, 30 % das quantidades de vitaminas e minerais especificadas no quadro i; no entanto, a quantidade de potássio por refeição fornecida por estes produtos não deve ser inferior a 500 mg.\n\nQUADRO I\n\n[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/06/143a00/35813584.pdf)](https://files.diariodarepublica.pt/1s/1999/06/143a00/35813584.pdf)",
+      "alterador": 2
+    }
+  ],
+  "nao_aplicavel": null,
   "instrucoes": [
-    "Art. 2.º do DL 27/2008: nova redação do n.º 4 do artigo 6.º — já coincide com o texto atual, sem mudança.",
-    "Art. 1.º do DL 81/2010: nova redação dos artigos 3.º, 6.º, 7.º, 9.º, 11.º, 12.º, 13.º e 14.º — o texto atual já coincide com essas redações, sem mudança.",
-    "Art. 2.º do DL 81/2010: altera o anexo I — não aplicado (anexo ausente do texto atual).",
-    "Art. 3.º do DL 81/2010: revoga os artigos 8.º, 12.º e 13.º — já constam como revogados, sem mudança."
+    "Alterador 1 (DL 27/2008), art. 2.º: nova redação do n.º 4 do art. 6.º; aplicada (n.os 1 a 3 ficam).",
+    "Alterador 2 (DL 81/2010), art. 1.º: nova redação dos arts. 3.º, 6.º (n.º 2, alíneas b), c), d) e f)), 7.º, 9.º (n.os 1, proémio, e 2), 11.º (n.os 1, 2 e alíneas do n.º 3), 12.º e 13.º ((Revogado.)) e 14.º; aplicadas, os «...» mantêm o texto atual.",
+    "Alterador 2, art. 3.º: revoga os arts. 8.º, 12.º e 13.º; corpo «(Revogado.)», mantida a epígrafe original (12.º e 13.º tinham ficado com «(Revogado.)» na epígrafe).",
+    "Alterador 2, art. 2.º e anexo I: alteração do anexo I (n.os 1.1, 1.2, 2.1, 3.2, 3.3, 4, 5.1 e parágrafo seguinte); aplicada, os «[...]» e o QUADRO I ficam como estão.",
+    "Alterador 2, art. 4.º: republicação; usada para conferir."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 122,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

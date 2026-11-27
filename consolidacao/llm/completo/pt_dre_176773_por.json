@@ -9,14 +9,17 @@
     }
   ],
   "removidos": [],
+  "titulos": [],
+  "anexos": [],
   "nao_aplicavel": null,
   "instrucoes": [
-    "Alterador 1, artigo 1.º: revogada a subalínea 2.ª da alínea e) do n.º 1 do artigo 2.º; aplicada como '2.ª (Revogada.)'.",
-    "Alterador 1, artigo 2.º: norma transitória; não altera o texto."
+    "Alterador 1 (Decreto Legislativo Regional n.º 3/2010/M), art. 1.º: revoga a subalínea 2.ª da alínea e) do n.º 1 do artigo 2.º — a subalínea fica «2.ª (Revogada.)», como uma alínea revogada («a) (Revogada.)»); o resto do artigo fica como está.",
+    "Alterador 1, art. 2.º: aplicação aos processos pendentes — não textual."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": [
-    "2.º: parágrafo que não está no alterador nem no original: 2.ª (Revogada.)"
-  ]
+  "ronda_camada1": 122,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

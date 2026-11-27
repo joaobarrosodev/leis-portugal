@@ -1,13 +1,25 @@
 {
   "id": "pt:dre:667168:por",
-  "artigos": [],
+  "artigos": [
+    {
+      "chave": "único",
+      "epigrafe": "Suspensão",
+      "texto": "Sem prejuízo da entrega dos requerimentos, é suspensa, até 31 de Janeiro de 1999, a apreciação:\n\na) Dos requerimentos de reconhecimento de interesse público de instituições de ensino superior particular e cooperativo a que se refere o artigo 51.º do Estatuto do Ensino Superior Particular e Cooperativo, aprovado pelo [Decreto-Lei n.º 16/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1994-512030), de 22 de Janeiro, alterado, por ratificação, pela [Lei n.º 37/94](https://diariodarepublica.pt/dr/detalhe/lei/37-1994-533820), de 11 de Novembro;\n\nb) Dos requerimentos de autorização de funcionamento de cursos em instituições de ensino superior particular e cooperativo e de reconhecimento de graus a que se referem os artigos 57.º e 62.º daquele Estatuto.\n\nVisto e aprovado em Conselho de Ministros de 30 de Julho de 1997. - António Manuel de Carvalho Ferreira Vitorino - Guilherme d'Oliveira Martins.\n\nPromulgado em 16 de Setembro de 1997.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 24 de Setembro de 1997.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres.",
+      "alterador": 1
+    }
+  ],
   "removidos": [],
-  "nao_aplicavel": null,
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, retificação do sumário («Suspende, até 31 de Janeiro de 1999,»): alvo incerto: o sumário não está no texto atual, que só tem o artigo único",
   "instrucoes": [
-    "Alterador 1: no artigo único, «31 de Dezembro de 1999» por «31 de Janeiro de 1999» — já estava no texto atual, nada a mudar.",
-    "Alterador 1: retificação do sumário — fora dos artigos, sem efeito no texto dos artigos."
+    "Alterador 1 (Declaração de Rectificação n.º 17-D/97): no artigo único, «é suspensa, até 31 de Dezembro de 1999,» passa a «é suspensa, até 31 de Janeiro de 1999,» — o programa já a tinha aplicado e está certa; o artigo é devolvido com essa redação (resto copiado do texto atual).",
+    "Alterador 1: retificação do sumário — nao_aplicavel (o sumário não está no texto)."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 122,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

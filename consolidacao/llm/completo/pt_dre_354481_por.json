@@ -9,12 +9,17 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "Alterador 1, art. 1.º: a nova delimitação da área crítica consta de planta anexa que só vem em imagem; o texto do artigo 1.º não é alterado.",
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, art. 1.º, nova delimitação da área crítica pela planta anexa ao alterador: só em imagem: a planta só existe em imagem e o texto atual não tem título de anexo para ela (a planta do original é só uma linha de imagem no fim do texto); o artigo 1.º do original não muda de texto",
   "instrucoes": [
-    "Alterador 1, art. 1.º: nova delimitação da área por planta (imagem) - não aplicada ao texto.",
-    "Alterador 1, art. 2.º: nova redação do artigo 4.º - aplicado."
+    "Alterador 1 (Decreto Regulamentar n.º 27/89), art. 1.º: a área crítica passa a ter a delimitação da planta anexa ao alterador — planta só em imagem, sem título de anexo; em nao_aplicavel.",
+    "Alterador 1, art. 2.º: nova redacção do art. 4.º (n.º 2: prazo de dois anos) — aplicada."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 122,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

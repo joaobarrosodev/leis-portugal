@@ -166,5 +166,61 @@
     "unidade": [],
     "diploma": "pt:dre:391584:por",
     "alterador": "pt:dre:334961:por"
+  },
+  {
+    "artigo": "3.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 3.º — Autoridade competente\n\n1 - O Gabinete de Planeamento e Políticas é o organismo responsável pelas medidas de política relativas à qualidade e segurança dos produtos abrangidos pelo presente decreto-lei, adiante designado autoridade competente, competindo-lhe, designadamente:\n\na) Seleccionar e aplicar as opções apropriadas de prevenção e controlo no âmbito do Regulamento (CE) n.º 178/2002, do Parlamento Europeu e do Conselho, de 28 de Janeiro;\n\nb) Recolher as informações e documentos necessários para os efeitos de comercialização e notificação e exigir, se necessário, esclarecimentos suplementares aos fabricantes ou importadores;\n\nc) Comunicar às instâncias comunitárias e aos restantes Estados membros da Comissão Europeia as decisões relativas à suspensão ou restrição provisória da comercialização dos produtos abrangidos pelo presente decreto-lei;\n\nd) Elaborar e coordenar a execução do plano de controlo oficial para verificação do cumprimento das normas previstas no presente decreto-lei.\n\n2 - Os serviços competentes nas Regiões Autónomas e as direcções regionais de agricultura e pescas executam o plano de controlo oficial previsto no número anterior.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 81/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2010-334961), publicado em 2010-06-30.",
+    "depois": "###### Artigo 3.º — Autoridade competente\n\n1 - O Gabinete de Planeamento e Políticas é o organismo responsável pelas medidas de política relativas à qualidade e segurança dos produtos abrangidos pelo presente decreto-lei, adiante designado autoridade competente, competindo-lhe, designadamente:\n\na) Seleccionar e aplicar as opções apropriadas de prevenção e controlo no âmbito do Regulamento (CE) n.º [178/2002](http://data.europa.eu/eli/reg/2002/178/oj?locale=pt), do Parlamento Europeu e do Conselho, de 28 de Janeiro;\n\nb) Recolher as informações e documentos necessários para os efeitos de comercialização e notificação e exigir, se necessário, esclarecimentos suplementares aos fabricantes ou importadores;\n\nc) Comunicar às instâncias comunitárias e aos restantes Estados membros da Comissão Europeia as decisões relativas à suspensão ou restrição provisória da comercialização dos produtos abrangidos pelo presente decreto-lei;\n\nd) Elaborar e coordenar a execução do plano de controlo oficial para verificação do cumprimento das normas previstas no presente decreto-lei.\n\n2 - Os serviços competentes nas Regiões Autónomas e as direcções regionais de agricultura e pescas executam o plano de controlo oficial previsto no número anterior.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 81/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2010-334961), publicado em 2010-06-30.\n\n> Alterado pelo/a [Decreto-Lei n.º 81/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2010-334961), publicado em 2010-06-30.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:391584:por",
+    "alterador": "pt:dre:334961:por"
+  },
+  {
+    "artigo": "12.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 12.º — (Revogado.)\n\n(Revogado.)\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 81/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2010-334961), publicado em 2010-06-30.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 81/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2010-334961), publicado em 2010-06-30.",
+    "depois": "###### Artigo 12.º — Regiões Autónomas\n\n(Revogado.)\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 81/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2010-334961), publicado em 2010-06-30.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 81/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2010-334961), publicado em 2010-06-30.\n\n> Revogado pelo/a [Decreto-Lei n.º 81/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2010-334961), publicado em 2010-06-30.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:391584:por",
+    "alterador": "pt:dre:334961:por"
+  },
+  {
+    "artigo": "13.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 13.º — (Revogado.)\n\n(Revogado.)\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 81/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2010-334961), publicado em 2010-06-30.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 81/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2010-334961), publicado em 2010-06-30.",
+    "depois": "###### Artigo 13.º — Recurso\n\n(Revogado.)\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 81/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2010-334961), publicado em 2010-06-30.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 81/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2010-334961), publicado em 2010-06-30.\n\n> Revogado pelo/a [Decreto-Lei n.º 81/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2010-334961), publicado em 2010-06-30.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:391584:por",
+    "alterador": "pt:dre:334961:por"
+  },
+  {
+    "artigo": "ANEXO I — Composição essencial dos alimentos destinados a dietas de restrição calórica",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "## ANEXO I — Composição essencial dos alimentos destinados a dietas de restrição calórica\nAs especificações previstas neste diploma referem-se aos produtos prontos a utilizar e como tal comercializados ou reconstituídos de acordo com as instruções do fabricante.\n\n1 - Energia:\n\n1.1 - A energia fornecida pelos substitutos integrais da dieta para controlo do peso não deve ser inferior a 3360 kJ (800 kcal) nem exceder 5040 kJ (1200 kcal), no que respeita à dose total diária.\n\n1.2 - A energia fornecida pelos substitutos de refeição para controlo do peso não deve ser inferior a 840 kJ (200 kcal) nem exceder 1680 kJ (400 kcal) por refeição.\n\n2 - Proteínas:\n\n2.1 - As proteínas presentes nos produtos referidos no artigo 2.º do presente diploma não devem constituir menos de 25% nem mais de 50% do valor energético total desses produtos. Em qualquer caso, a quantidade total de proteínas nos substitutos integrais da dieta para controlo do peso não deve exceder 125 g.\n\n2.2 - As disposições supracitadas relativas às proteínas aplicam-se a proteínas cujo índice químico é igual ao da proteína de referência da FAO/OMS (1985), constante do anexo II. Caso o índice químico seja inferior a 100% do da proteína de referência, os níveis proteicos mínimos devem ser aumentados em conformidade. Em qualquer caso, o índice químico da proteína deve ser pelo menos igual a 80% do da proteína de referência.\n\n2.3 - Deve entender-se por «índice químico» o menor dos quocientes entre a quantidade de aminoácido na proteína em questão e a desse mesmo aminoácido na proteína de referência.\n\n2.4 - A incorporação de aminoácidos apenas é permitida com vista a aumentar o valor nutritivo das proteínas unicamente nas proporções necessárias para o efeito.\n\n3 - Lípidos:\n\n3.1 - A energia fornecida pelos lípidos não deve exceder 30% do valor energético total do produto.\n\n3.2 - No que respeita aos substitutos integrais da dieta para controlo do peso, a quantidade de ácido linoleico (sob a forma de glicéridos) não deve ser inferior a 4,5 g.\n\n3.3 - No que respeita aos substitutos de refeição para controlo do peso, a quantidade de ácido linoleico (sob a forma de glicéridos) não deve ser inferior a 1 g.\n\n4 - Fibras dietéticas. - O teor em fibras dietéticas dos substitutos integrais da dieta para controlo do peso não deve ser inferior a 10 g nem exceder 30 g, no que respeita à dose diária.\n\n5 - Vitaminas e minerais:\n\n5.1 - Os substitutos integrais da dieta para controlo do peso deverão conter, no mínimo, no que respeita a toda a dieta diária, 100% das quantidades de vitaminas e minerais especificadas no quadro I.\n\nOs substitutos de refeição para controlo do peso devem fornecer por refeição, pelo menos, 30% das quantidades de vitaminas e minerais especificadas no quadro I; no entanto, a quantidade de potássio por refeição fornecida por estes produtos não deve ser inferior a 500 mg.\n\nQUADRO I\n\n[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/06/143a00/35813584.pdf)](https://files.diariodarepublica.pt/1s/1999/06/143a00/35813584.pdf)",
+    "depois": "## ANEXO I — Composição essencial dos alimentos destinados a dietas de restrição calórica\n\nAs especificações previstas neste diploma referem-se aos produtos prontos a utilizar e como tal comercializados ou reconstituídos de acordo com as instruções do fabricante.\n\n1 - Energia:\n\n1.1 - A energia fornecida pelos substitutos integrais da dieta diária não deve ser inferior a 3360 kJ (800 kcal) nem exceder 5040 kJ (1200 kcal) no que respeita à dose total diária.\n\n1.2 - A energia fornecida pelos substitutos de uma ou mais refeições da dieta diária não deve ser inferior a 840 kJ (200 kcal) nem exceder 1680 kJ (400 kcal) por refeição.\n\n2 - Proteínas:\n\n2.1 - A proteína presente nos produtos referidos no artigo 2.º do presente diploma não deve constituir menos de 25 % nem mais de 50 % do valor energético total desses produtos. Em qualquer caso, a quantidade total de proteínas nos substitutos integrais da dieta diária não deve exceder 125 g.\n\n2.2 - As disposições supracitadas relativas às proteínas aplicam-se a proteínas cujo índice químico é igual ao da proteína de referência da FAO/OMS (1985), constante do anexo II. Caso o índice químico seja inferior a 100% do da proteína de referência, os níveis proteicos mínimos devem ser aumentados em conformidade. Em qualquer caso, o índice químico da proteína deve ser pelo menos igual a 80% do da proteína de referência.\n\n2.3 - Deve entender-se por «índice químico» o menor dos quocientes entre a quantidade de aminoácido na proteína em questão e a desse mesmo aminoácido na proteína de referência.\n\n2.4 - A incorporação de aminoácidos apenas é permitida com vista a aumentar o valor nutritivo das proteínas unicamente nas proporções necessárias para o efeito.\n\n3 - Lípidos:\n\n3.1 - A energia fornecida pelos lípidos não deve exceder 30% do valor energético total do produto.\n\n3.2 - No que respeita aos substitutos integrais da dieta diária, a quantidade de ácido linoleico, sob a forma de glicéridos, não deve ser inferior a 4,5 g.\n\n3.3 - No que respeita aos substitutos de uma ou mais refeições da dieta diária, a quantidade de ácido linoleico, sob a forma de glicéridos, não deve ser inferior a 1 g.\n\n4 - Fibras dietéticas. - O teor em fibras dietéticas dos substitutos integrais da dieta diária não deve ser inferior a 10 g nem exceder 30 g no que respeita à dose diária.\n\n5 - Vitaminas e minerais:\n\n5.1 - Os substitutos integrais da dieta diária devem conter, no mínimo, no que respeita a toda a dieta diária, 100 % das quantidades de vitaminas e minerais especificadas no quadro i.\n\nOs substitutos de uma ou mais refeições da dieta diária devem fornecer por refeição, pelo menos, 30 % das quantidades de vitaminas e minerais especificadas no quadro i; no entanto, a quantidade de potássio por refeição fornecida por estes produtos não deve ser inferior a 500 mg.\n\nQUADRO I\n\n[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/06/143a00/35813584.pdf)](https://files.diariodarepublica.pt/1s/1999/06/143a00/35813584.pdf)\n\n> Alterado pelo/a [Decreto-Lei n.º 81/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2010-334961), publicado em 2010-06-30.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:391584:por",
+    "alterador": "pt:dre:334961:por"
   }
 ]

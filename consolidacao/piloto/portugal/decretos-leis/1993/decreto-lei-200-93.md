@@ -102,29 +102,23 @@ O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO I — Composição dos conselhos das armas e serviços
 
-1 - Os conselhos das armas e serviços do Exército (CASE) são presididos por um oficial general ou oficial superior a designar, em acumulação de funções, pelo Chefe do Estado-Maior do Exército (CEME).
+1 - Os CASE têm a seguinte composição:
 
-2 - Os CASE são constituídos pelos seguintes membros:
+1.1 - Membros designados por proposta do CPESE: dois oficiais que, pelas funções de direcção ou chefia que desempenhem na área do Comando do Pessoal, proporcionam uma maior operacionalidade ao funcionamento do conselho;
 
-2.1 - Membros designados por proposta do comandante do Pessoal do Exército (CPESE);
+1.2 - Membros designados por proposta do Vice-Chefe do Estado-Maior do Exército (VCEME): dois oficiais e dois sargentos que, pela sua competência e experiência pessoal, permitam equilibrar a composição do conselho, nomeadamente no aspecto de conhecimento das actividades gerais do Exército ou das unidades com diversa implantação territorial;
 
-2.2 - Membros designados por proposta do general Vice-CEME;
+1.3 - Membros eleitos, por escrutínio secreto e pessoal, das respectivas armas ou serviços;
 
-2.3 - Membros eleitos, por escrutínio secreto e pessoal, das respectivas armas ou serviços.
+1.4 - Nos quadros especiais em extinção progressiva, o número de membros a designar depende do número de membros eleitos, no respeito pelo princípio fixado no n.º 2 do artigo 3.º do presente decreto-lei.
 
-3 - A composição específica dos conselhos é a seguinte:
+2 - A composição específica dos conselhos é a seguinte:
 
-3.1 - Conselho da arma de infantaria (CAI):
+2.1 - Conselhos das armas de infantaria, de artilharia, de cavalaria, de engenharia e do serviço de administração militar:
 
-3.1.1 - Militares designados nos termos do n.º 2.1:
+2.1.1 - Militares designados: conforme o disposto nos n.os 1.1 e 1.2.
 
-Dois oficiais que, pelas funções de direcção ou chefia que desempenham na área do Comando do Pessoal, proporcionem uma maior operacionalidade ao funcionamento do conselho;
-
-3.1.2 - Militares designados nos termos do n.º 2.2:
-
-Dois oficiais e dois sargentos que, pela sua competência e experiência pessoal, permitam equilibrar a composição do conselho, nomeadamente no aspecto de conhecimento das actividades gerais do Exército ou das unidades com diversa implantação territorial;
-
-3.1.3 - Militares eleitos:
+2.1.2 - Militares eleitos:
 
 Um coronel;
 
@@ -144,19 +138,13 @@ Dois sargentos-ajudantes;
 
 Um primeiro-sargento;
 
-Um segundo-sargento;
+Um segundo-sargento.
 
-3.2 - Conselhos das armas de artilharia, cavalaria, engenharia e do Serviço de Administração Militar:
+2.2 - Conselho da arma de transmissões:
 
-Análoga ao CAI.
+2.2.1 - Militares designados: conforme o disposto nos n.os 1.1 e 1.2.
 
-3.3 - Conselho da arma de transmissões:
-
-3.3.1 - Militares designados:
-
-Análoga ao CAI;
-
-3.3.2 - Militares eleitos:
+2.2.2 - Militares eleitos:
 
 Um coronel de transmissões;
 
@@ -168,43 +156,53 @@ Um capitão de transmissões;
 
 Um tenente de transmissões;
 
-Um oficial técnico de exploração das transmissões;
+Um oficial técnico de exploração de transmissões;
 
-Um oficial técnico de manutenção das transmissões;
+Um oficial técnico de manutenção de transmissões;
 
-Um sargento-mor ou sargento-chefe da especialidade de exploração das transmissões;
+Um sargento-mor;
 
-Um sargento-ajudante da especialidade de exploração das transmissões;
+Dois sargentos-chefes;
 
-Um primeiro-sargento da especialidade de exploração das transmissões;
+Dois sargentos-ajudantes;
 
-Um segundo-sargento da especialidade de exploração das transmissões;
+Um primeiro-sargento;
 
-Um sargento-mor ou sargento-chefe da especialidade de manutenção das transmissões;
+Um segundo-sargento.
 
-Um sargento-ajudante da especialidade de manutenção das transmissões;
+2.3 - Conselho da arma de pára-quedista:
 
-Um primeiro-sargento da especialidade de manutenção das transmissões;
+2.3.1 - Militares designados: conforme o disposto nos n.os 1.1, 1.2 e 1.4.
 
-Um segundo-sargento da especialidade de manutenção das transmissões;
+2.3.2 - Militares eleitos:
 
-3.4 - Conselho do Serviço de Saúde:
+Um sargento-mor;
 
-3.4.1 - Militares designados:
+Um sargento-chefe;
 
-Análoga ao CAI;
+Dois sargentos-ajudantes;
 
-3.4.2 - Militares eleitos:
+Um primeiro-sargento.
 
-Um oficial superior médico;
+2.4 - Conselho do serviço de saúde:
 
-Um capitão médico;
+2.4.1 - Militares designados: conforme o disposto nos n.os 1.1 e 1.2.
 
-Um tenente médico;
+2.4.2 - Militares eleitos:
 
-Dois oficiais farmacêuticos;
+Um oficial superior de medicina;
 
-Dois oficiais veterinários;
+Um capitão de medicina;
+
+Um tenente de medicina;
+
+Dois oficiais de farmácia;
+
+Dois oficiais de medicina veterinária;
+
+Um oficial de medicina dentária;
+
+Um oficial técnico de enfermagem, diagnóstico e terapêutica;
 
 Um sargento-mor ou sargento-chefe de medicina;
 
@@ -216,13 +214,13 @@ Dois sargentos de farmácia;
 
 Dois sargentos de medicina veterinária;
 
-3.5 - Conselho do Serviço de Material:
+Um sargento de diagnóstico e terapêutica.
 
-3.5.1 - Militares designados:
+2.5 - Conselho do serviço de material:
 
-Análoga ao CAI;
+2.5.1 - Militares designados: conforme o disposto nos n.os 1.1 e 1.2.
 
-3.5.2 - Militares eleitos:
+2.5.2 - Militares eleitos:
 
 Um oficial superior de material;
 
@@ -232,33 +230,25 @@ Um capitão de material;
 
 Um tenente de material;
 
-Um oficial técnico de manutenção da especialidade de material automóvel;
+Um capitão técnico de manutenção de material;
 
-Um oficial técnico de manutenção da especialidade de armamento e munições;
-
-Um oficial técnico de manutenção da especialidade de material eléctrico, radioeléctrico e electrónico;
+Um tenente técnico de manutenção de material;
 
 Um sargento-mor;
 
-Um sargento-chefe;
+Dois sargentos-chefes;
 
-Dois sargentos-ajudantes de qualquer especialidade;
+Dois sargentos-ajudantes;
 
-Um sargento da especialidade de material automóvel;
+Um primeiro-sargento;
 
-Um sargento da especialidade de armamento e munições;
+Um segundo sargento.
 
-Um sargento da especialidade de material eléctrico, radioeléctrico e electrónico;
+2.6 - Conselho do serviço geral:
 
-Um sargento da especialidade de artífices;
+2.6.1 - Militares designados: conforme o disposto nos n.os 1.1, 1.2 e 1.4.
 
-3.6 - Conselho do Serviço Geral:
-
-3.6.1 - Militares designados:
-
-Análoga ao CAI;
-
-3.6.2 - Militares eleitos:
+2.6.2 - Militares eleitos:
 
 Um tenente-coronel do serviço geral do Exército (SGE);
 
@@ -270,6 +260,10 @@ Um tenente do SGE;
 
 Dois oficiais do quadro técnico de secretariado;
 
+Um oficial técnico de pessoal e secretariado;
+
+Um oficial técnico de transportes;
+
 Um sargento-mor do SGE;
 
 Um sargento-chefe do SGE;
@@ -278,43 +272,33 @@ Dois sargentos-ajudantes do SGE;
 
 Um primeiro-sargento do SGE;
 
-Um segundo-sargento do SGE;
-
 Um sargento do quadro de amanuenses;
 
-3.7 - Conselho do Serviço Postal Militar:
+Um sargento de pessoal e secretariado;
 
-3.7.1 - Militares designados nos termos do n.º 2.1:
+Um sargento de transportes.
 
-Conforme o n.º 3.1.1;
+2.7 - Conselho do serviço geral pára-quedista:
 
-3.7.2 - Militares designados nos termos do n.º 2.2:
+2.7.1 - Militares designados: conforme o disposto nos n.os 1.1, 1.2 e 1.4.
 
-Um oficial e um sargento que, pela sua competência e experiência pessoal, permitam equilibrar a composição do conselho;
+2.7.2 - Militares eleitos:
 
-3.7.3 - Militares eleitos:
+Um tenente-coronel;
 
-Dois majores;
+Um major;
 
-Um capitão;
+Um capitão.
 
-Um sargento-chefe ou sargento-mor;
+2.8 - Conselho do Serviço Postal Militar:
 
-Um sargento-ajudante;
+2.8.1 - Militares designados: conforme o disposto no n.º 3 do artigo 3.º do presente diploma.
 
-Um primeiro-sargento;
+2.9 - Conselho de bandas e fanfarras do Exército (BFE):
 
-3.8 - Conselho de bandas e fanfarras do Exército (BFE):
+2.9.1 - Militares designados: conforme o disposto nos n.os 1.1 e 1.2, sendo, quanto a este último, apenas um oficial e um sargento;
 
-3.8.1 - Militares designados nos termos do n.º 2.1:
-
-Conforme o n.º 3.1.1;
-
-3.8.2 - Militares designados nos termos do n.º 2.2:
-
-Um oficial e um sargento que, pela sua competência e experiência pessoal, permitam equilibrar a composição do conselho;
-
-3.8.3 - Militares eleitos:
+2.9.2 - Militares eleitos:
 
 Um major;
 
@@ -334,17 +318,15 @@ Um segundo-sargento (músico);
 
 Um primeiro-sargento (corneteiro ou clarim);
 
-Um segundo-sargento (corneteiro ou clarim);
+Um segundo-sargento (corneteiro ou clarim).
 
-3.9 - Conselho do quadro especial de oficiais (QEO):
+2.10 - Conselho do quadro especial de oficiais (QEO):
 
-3.9.1 - Os oficiais do quadro especial de oficiais (QEO) são inicialmente apreciados pelo conselho da arma a que estão atribuídos;
+2.10.1 - Os oficiais do quadro especial de oficiais (QEO) são inicialmente apreciados pelo conselho da arma a que estão atribuídos.
 
-3.9.2 - Após a apreciação constante do número anterior, os oficiais do QEO são apreciados por um conselho, presidido pelo oficial que preside ao CAI e constituído pelos seguintes membros:
+2.10.2 - Após a apreciação constante do número anterior, os oficiais do QEO são apreciados por um conselho, presidido pelo oficial que preside ao CAI e constituído pelos seguintes membros:
 
-Membros designados:
-
-Conforme o n.º 3.1.1;
+Membros designados: conforme o disposto no n.º 1.1.
 
 Membros eleitos dos conselhos das armas de infantaria, artilharia e cavalaria, a nomear pelo CEME:
 
@@ -352,53 +334,55 @@ Um coronel;
 
 Dois tenentes-coronéis;
 
-Um major;
+Um major.
 
-3.9.3 - Se qualquer dos conselhos das armas integrar oficiais do QEO, estes farão obrigatoriamente parte do conselho definido no número anterior.
+2.10.3 - Se qualquer dos conselhos das armas integrar oficiais do QEO, estes farão obrigatoriamente parte do conselho definido no número anterior.
+
+> Alterado pelo/a [Decreto-Lei n.º 226/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2003-491932), publicado em 2003-09-26.
 
 ## ANEXO II — Regras de funcionamento dos conselhos das armas e serviços (CASE)
 
-1 - Os CASE reúnem por convocação do CPESE, com a ordem de trabalhos por este estabelecida.
+1 - Os CASE funcionam por comissões, com a seguinte constituição:
 
-2 - Os CASE funcionam por comissões, com a seguinte constituição:
-
-2.1 - Comissão de apreciação de oficiais (CAO):
+1.1 - Comissão de apreciação de oficial (CAO):
 
 Membros designados da categoria de oficial;
 
-Membros eleitos da categoria de oficial;
+Membros eleitos da categoria de oficiais.
 
-2.2 - Comissão de apreciação de sargentos (CAS):
+1.2 - Comissão de apreciação de sargentos (CAS):
 
-Membros designados nos termos do n.º 2.1 do anexo I;
+Membros designados nos termos do n.º 1.1 do anexo I;
 
-Membros designados nos termos do n.º 2.2 do anexo I da categoria de sargento;
+Membros designados nos termos do n.º 1.2 do anexo I da categoria de sargento;
 
 Membros eleitos da categoria de sargento.
 
-3 - As sessões das comissões são presididas pelo presidente do respectivo conselho.
+2 - As sessões das comissões são presididas pelo presidente do respectivo conselho.
 
-4 - As comissões só podem funcionar estando presentes quatro quintos dos seus membros em funções.
+3 - As comissões só podem funcionar estando presentes quatro quintos dos seus membros em funções.
 
-5 - As comissões pronunciam-se sempre mediante votação, que será secreta, não sendo admitida a abstenção.
+4 - As comissões pronunciam-se sempre mediante votação, que será secreta, não sendo admitida a abstenção.
 
-6 - Os pareceres e deliberações das comissões são aprovados por maioria absoluta dos votos dos membros presentes.
+5 - Os pareceres e deliberações das comissões são aprovados por maioria absoluta dos votos dos membros presentes.
 
-7 - Havendo empate na votação, proceder-se-á a votação nominal e, neste caso, o presidente goza de voto de qualidade.
+6 - Havendo empate na votação, proceder-se-á a votação nominal e, neste caso, o presidente goza de voto de qualidade.
 
-8 - Não é admitida a presença por parte do membro do conselho em relação ao qual o parecer ou deliberação diga directamente respeito.
+7 - Não é admitida a presença por parte do membro do conselho em relação ao qual o parecer ou deliberação diga directamente respeito.
 
-9 - São admitidas declarações de voto, com sucinta menção dos seus fundamentos.
+8 - São admitidas declarações de voto, com sucinta menção dos seus fundamentos.
 
-10 - Os pareceres e deliberações são escritos, contendo explícita fundamentação.
+9 - Os pareceres e deliberações são escritos, contendo explicita fundamentação.
 
-11 - Não é considerada matéria de apreciação ou discussão aquela sobre a qual exista processo pendente de qualquer natureza enquanto sobre o mesmo não for proferida decisão definitiva.
+10 - Não é considerada matéria de apreciação ou discussão aquela sobre a qual exista processo pendente de qualquer natureza enquanto sobre o mesmo não for proferida decisão definitiva.
 
-12 - De tudo o que ocorrer nas sessões será lavrada acta em livro especial, cujos termos de abertura e encerramento serão assinados pelo presidente do respectivo conselho.
+11 - De tudo o que ocorrer nas sessões será lavrada acta em livro especial, cujos termos de abertura e encerramento serão assinados pelo presidente do respectivo conselho.
 
-13 - As actas, depois de lançadas no livro respectivo, serão subscritas pelo secretário e assinadas pelo presidente e pelo membro eleito mais antigo presente à reunião.
+12 - As actas, depois de lançadas no livro respectivo, serão subscritas pelo secretário e assinadas pelo presidente e pelo membro eleito mais antigo presente à reunião.
 
-14 - O secretário das sessões é o oficial ou sargento mais moderno dos membros eleitos presentes, competindo-lhe elaborar os pareceres e lavrar as actas das sessões.
+13 - O secretário das sessões é o oficial ou sargento mais moderno dos membros eleitos presentes, competindo-lhe elaborar os pareceres e lavrar as actas das sessões.
+
+> Alterado pelo/a [Decreto-Lei n.º 226/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2003-491932), publicado em 2003-09-26.
 
 ## ANEXO III — Processo eleitoral nos CASE
 

@@ -40,7 +40,7 @@
     {
       "chave": "7.º",
       "epigrafe": "Entrada em vigor",
-      "texto": "(Revogado.)",
+      "texto": "(Revogado.)\n\nAprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 28 de Julho de 2010.\n\nO Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.\n\nAssinado em 4 de Agosto de 2010.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.",
       "alterador": 2
     }
   ],
@@ -53,14 +53,17 @@
       "alterador": 1
     }
   ],
-  "nao_aplicavel": null,
+  "nao_aplicavel": "Alterador 3, DLR 39/2021/A, art. 12.º, revogação do Decreto Legislativo Regional n.º 16/2010/A, de 12 de abril (Açores, AZORINA): outro diploma (não é o DLR 16/2010/M)",
   "instrucoes": [
-    "DLR 2/2012/M, art. 1.º: nova redação do n.º 2 do art. 2.º, do art. 3.º e do art. 4.º (n.º 1 novo, n.º 2 revogado) — já aplicada pelo programa e correta; fica coberta pela revogação seguinte.",
-    "DLR 2/2012/M, art. 2.º, n.º 1: revoga o n.º 2 do art. 4.º e o anexo (modelo de receita médica). Anexo dado como revogado (o n.º 2 só mantém o modelo válido transitoriamente). Reparo do verificador confirmado.",
-    "DLR 29/2012/M, art. 6.º: revoga o DLR 16/2010/M por inteiro. Todos os artigos (1.º a 7.º) ficam '(Revogado.)'. A revogação de 'demais legislação ... que contrarie' é genérica e não se aplica a mais nada."
+    "Alterador 1 (DLR 2/2012/M), art. 1.º: nova redação dos arts. 2.º, 3.º e 4.º — prejudicada pela revogação total do alterador 2.",
+    "Alterador 1, art. 2.º, n.º 1: revoga o n.º 2 do art. 4.º e o anexo — anexo revogado (corpo «(Revogado.)»); o n.º 2 do art. 4.º fica abrangido pela revogação total.",
+    "Alterador 2 (DLR 29/2012/M), art. 6.º: revoga o DLR 16/2010/M inteiro, em vigor 30 dias após a publicação (2012, já passou) — aplicada artigo a artigo: arts. 1.º a 7.º «(Revogado.)», com as epígrafes; as assinaturas do fim do diploma ficam a seguir ao art. 7.º.",
+    "Alterador 3 (DLR 39/2021/A): trata do DLR 16/2010/A dos Açores — outro diploma, nao_aplicavel."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
+  "ronda_camada1": 122,
   "problemas": [],
+  "numeracao_aceite": [],
   "avisos": []
 }

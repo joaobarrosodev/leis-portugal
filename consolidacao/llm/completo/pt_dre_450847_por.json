@@ -2,15 +2,16 @@
   "id": "pt:dre:450847:por",
   "artigos": [],
   "removidos": [],
-  "nao_aplicavel": "Os alteradores 1 a 5 só alteram ou substituem o quadro/mapa de pessoal da Direcção-Geral do Património do Estado, que vem apenas em imagem (ver documento original); não há alteração textual a artigos do original.",
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, aumento do quadro de pessoal da DGPE com o lugar do mapa anexo à Portaria n.º 869/84: só em imagem (o mapa anexo do DR 40/83 e o mapa da portaria só existem em imagem e não há título de anexo no texto atual onde os pôr); além disso não textual (criação de lugar a extinguir quando vagar)\nAlterador 2, acréscimo de lugares de primeiro e segundo-oficial e extinção do lugar de subdirector de gestão patrimonial com criação do lugar de chefe de repartição (n.os 1.º e 2.º da Portaria n.º 101/85): só em imagem (o lugar consta só do mapa anexo em imagem; não há artigo com esse lugar nem título de anexo no texto atual)\nAlterador 3, alteração do quadro de pessoal de informática do mapa I anexo ao Decreto Regulamentar n.º 44/80 e criação da carreira de técnico superior de informática: outro diploma (mapa do DR 44/80; o quadro novo só em imagem)\nAlterador 4, criação de um lugar de assessor no quadro da DGPE a que se refere o Decreto Regulamentar n.º 44/80: outro diploma (quadro do DR 44/80; não textual)\nAlterador 5, substituição do quadro de pessoal da DGPE (DR 44/80, com as alterações do DR 40/83 e das portarias) pelo mapa anexo à Portaria n.º 73/87: só em imagem (o mapa novo só vem em imagem e não há título de anexo no texto atual)",
   "instrucoes": [
-    "Alterador 1 (Portaria 869/84): aumenta o quadro de pessoal com um lugar do mapa anexo (imagem); não aplicado.",
-    "Alterador 2 (Portaria 101/85): acresce lugares e extingue o de subdirector, por mapa anexo (imagem); não aplicado.",
-    "Alterador 3 (Portaria 116/85): cria carreira de técnico superior de informática e altera o quadro do mapa I do DR 44/80 (outro diploma, imagem); ignorado.",
-    "Alterador 4 (Portaria 290/86): cria lugar de assessor no quadro do DR 44/80; ignorado.",
-    "Alterador 5 (Portaria 73/87): substitui o mapa de pessoal por mapa anexo (imagem); não aplicado."
+    "Alteradores 1 a 5 (portarias de 1984-1987): todas alteram o quadro/mapa de pessoal da DGPE, só em imagem e sem título de anexo no texto atual; nenhum artigo do DR 40/83 tem nova redação — nada aplicado"
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 122,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

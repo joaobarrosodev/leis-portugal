@@ -225,12 +225,22 @@
     }
   ],
   "removidos": [],
+  "titulos": [],
+  "anexos": [
+    {
+      "titulo": "## ANEXO — Quadro de pessoal dirigente",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    }
+  ],
   "nao_aplicavel": null,
   "instrucoes": [
-    "DL 155/2007 art. 19.º: revoga o DL 297/2003, com excepção do n.º 4 do artigo 25.º; todos os artigos 1.º a 37.º ficam (Revogado.), e no 25.º só se mantém o n.º 4.",
-    "Restantes artigos do DL 155/2007: nova orgânica própria, não redação do original."
+    "Alterador 1 (DL 155/2007), art. 19.º: revoga o DL 297/2003 com excepção do n.º 4 do artigo 25.º; em vigor desde 2007. Aplicado artigo a artigo: arts. 1.º a 37.º (salvo 25.º) com o corpo «(Revogado.)»; no art. 25.º revogados os n.os 1, 2, 3 e 5, mantido o n.º 4 com o texto atual; o corpo do ANEXO (quadro de pessoal dirigente) também «(Revogado.)». Os títulos de divisão mantêm-se (a revogação não os elimina do texto)."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 122,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

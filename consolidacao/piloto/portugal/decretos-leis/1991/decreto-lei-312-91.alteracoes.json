@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 12-13",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Art. 4.º - 1 - As acções representativas do capital subscrito pelo Estado serão detidas pela Direcção-Geral do Tesouro.\n\n2 - Os direitos do Estado, como accionista da sociedade, são exercidos por um representante designado por despacho conjunto do Ministro das Finanças e do Ministro das Obras Públicas, Transportes e Comunicações.",
+    "depois": "Art. 4.º - (Revogado.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:674435:por",
+    "alterador": "pt:dre:516726:por"
+  },
+  {
+    "artigo": "unidades 21-24",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Art. 8.º - 1 - Sem prejuízo do disposto na lei comercial quanto à prestação de informação aos accionistas, o conselho de administração enviará ao Ministério das Finanças, pelo menos 30 dias antes da data da assembleia geral anual:\n\na) O relatório de gestão e as contas do exercício;\n\nb) Quaisquer elementos adequados à compreensão integral da situação económica e financeira da empresa, eficiência da gestão e perspectivas da sua evolução.\n\n2 - O conselho fiscal enviará trimestralmente ao Ministério das Finanças um relatório sucinto em que se refiram os controlos efectuados, as anomalias detectadas e os principais desvios em relação às previsões.",
+    "depois": "Art. 8.º - (Revogado.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:674435:por",
+    "alterador": "pt:dre:516726:por"
+  }
+]

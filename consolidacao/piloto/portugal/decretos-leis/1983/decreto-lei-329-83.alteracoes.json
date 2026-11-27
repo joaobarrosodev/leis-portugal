@@ -11,7 +11,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:453241:por",
-    "alterador": "pt:dre:694041:por"
+    "alterador": "pt:dre:694041:por;pt:dre:673776:por"
   },
   {
     "artigo": "20.º",
@@ -25,7 +25,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:453241:por",
-    "alterador": "pt:dre:694041:por"
+    "alterador": "pt:dre:694041:por;pt:dre:673776:por"
   },
   {
     "artigo": "21.º",
@@ -39,7 +39,21 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:453241:por",
-    "alterador": "pt:dre:694041:por"
+    "alterador": "pt:dre:694041:por;pt:dre:673776:por"
+  },
+  {
+    "artigo": "8.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 8.º\n\n1 - A identificação das mercadorias é assegurada, regra geral, por selagem.\n\n2 - A selagem efectua-se:\n\na) Por capacidade, quando o meio de transporte tenha sido aprovado por aplicação de outras disposições aduaneiras ou considerado apto pela estância aduaneira de partida;\n\nb) Por volume, nos outros casos.\n\n3 - São susceptíveis de ser considerados aptos para selagem por capacidade os meios de transporte:\n\na) Que possam ser selados de maneira simples e eficaz;\n\nb) Que sejam introduzidos de tal forma que nenhuma mercadoria possa ser extraída ou introduzida sem ficarem traços visíveis de arrombamento ou sem ruptura dos selos;\n\nc) Que não contenham espaços ocultos onde se possam esconder mercadorias;\n\nd) Que os espaços reservados à carga sejam facilmente acessíveis à inspecção aduaneira.\n\n4 - A estância aduaneira de partida poderá dispensar a selagem quando, tendo em conta outras medidas eventuais de identificação, a descrição das mercadorias na declaração T permita a sua identificação.",
+    "depois": "###### Artigo 8.º\n\n1 - A identificação das mercadorias é assegurada, regra geral, por selagem.\n\n2 - A selagem efectua-se:\n\na) Por capacidade, quando o meio de transporte tenha sido aprovado por aplicação de outras disposições aduaneiras ou considerado apto pela estância aduaneira de partida;\n\nb) Por volume, nos outros casos.\n\n3 - São susceptíveis de ser considerados aptos para selagem por capacidade os meios de transporte:\n\na) Que possam ser selados de maneira simples e eficaz;\n\nb) Que sejam construídos de tal forma que nenhuma mercadoria possa ser extraída ou introduzida sem ficarem traços visíveis de arrombamento ou sem ruptura dos selos;\n\nc) Que não contenham espaços ocultos onde se possam esconder mercadorias;\n\nd) Que os espaços reservados à carga sejam facilmente acessíveis à inspecção aduaneira.\n\n4 - A estância aduaneira de partida poderá dispensar a selagem quando, tendo em conta outras medidas eventuais de identificação, a descrição das mercadorias na declaração T permita a sua identificação.\n\n> Alterado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1983-673776), publicado em 1983-08-31.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:453241:por",
+    "alterador": "pt:dre:694041:por;pt:dre:673776:por"
   },
   {
     "artigo": "ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/1983/07/15700/25132524.pdf)",
@@ -53,7 +67,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:453241:por",
-    "alterador": "pt:dre:694041:por"
+    "alterador": "pt:dre:694041:por;pt:dre:673776:por"
   },
   {
     "artigo": "ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/1983/07/15700/25132524.pdf)",
@@ -67,6 +81,6 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:453241:por",
-    "alterador": "pt:dre:694041:por"
+    "alterador": "pt:dre:694041:por;pt:dre:673776:por"
   }
 ]

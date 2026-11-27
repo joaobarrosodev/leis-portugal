@@ -10,13 +10,16 @@
   ],
   "removidos": [],
   "titulos": [],
-  "nao_aplicavel": "Art. 6.º do DLR 29/2012/M: revogação de 'demais legislação geral ou especial que contrarie o disposto no presente diploma' é condicional e não se aplica ao texto.",
+  "anexos": [],
+  "nao_aplicavel": null,
   "instrucoes": [
-    "Art. 6.º do DLR 29/2012/M revoga sem condição o artigo 2.º do DLR 9/2002/M: corpo '(Revogado.)'. Reparo do verificador (epígrafe '(Revogado.)') não confirmado: as regras só mandam pôr '(Revogado.)' no corpo e a instrução não muda a epígrafe, que se copia do texto atual.",
-    "Art. 6.º, revogação genérica do que contrarie: condicional, em nao_aplicavel.",
-    "Restantes artigos do DLR 29/2012/M não alteram o texto do original."
+    "Alterador 1, art. 6.º: revoga o artigo 2.º do DLR 9/2002/M — corpo «(Revogado.)», epígrafe mantida (a regra da ronda 117 manda manter o título com a epígrafe; o reparo que pedia epígrafe «(Revogado.)» não se segue).",
+    "Alterador 1, art. 6.º: «demais legislação geral ou especial que contrarie» — cláusula geral, não dirigida a texto concreto do original; nada a aplicar."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 122,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

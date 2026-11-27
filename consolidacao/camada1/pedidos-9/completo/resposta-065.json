@@ -1,0 +1,22 @@
+[
+ {
+  "id": "pt:dre:654532:por",
+  "artigos": [
+   {
+    "chave": "5.º",
+    "epigrafe": "Gabinete de Apoio Técnico",
+    "texto": "1 - Ao Gabinete de Apoio Técnico (GAT) compete:\n\na) Apoiar o director no planeamento, coordenação e controlo do funcionamento da DAMAG;\n\nb) Promover a normalização de produtos e metodologias nas áreas dos sistemas de informação e da informática;\n\nc) Promover a qualidade e a segurança dos sistemas de informação e informáticos.\n\n2 - O GAT é chefiado, em regime de acumulação de funções, pelo subdirector.\n\n3 - O GAT compreende:\n\na) A Secção de Estudos e Planeamento, à qual incumbe o exercício da competência indicada na alínea a) do n.º 1 e, no seu âmbito, o da indicada na alínea b) do mesmo número;\n\nb) A Secção de Qualidade e Segurança, à qual incumbe o exercício da competência indicada na alínea c) do n.º 1 e, no seu âmbito, o da indicada na alínea b) do mesmo número.",
+    "alterador": 1
+   }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, rectificação no artigo 7.º, n.º 2, alínea b) («dos Utilizadores,» → «aos Utilizadores,»): alvo incerto: o artigo 7.º não tem texto no texto atual (está vazio), não há alínea b) onde aplicar",
+  "instrucoes": [
+   "Alterador 1 (Declaração de Rectificação n.º 250/94), art. 5.º, n.º 3, alínea a): «âmbito, da indicada» → «âmbito, o da indicada» — já estava aplicada pelo programa; mantida.",
+   "Alterador 1, art. 5.º, n.º 3, alínea b): «âmbito, da indicada» → «âmbito, o da indicada» — o programa não a aplicara; aplicada agora (artigo 5.º devolvido inteiro com as duas alíneas rectificadas).",
+   "Alterador 1, art. 7.º, n.º 2, alínea b): «dos Utilizadores,» → «aos Utilizadores,» — o artigo 7.º está vazio no texto atual; em nao_aplicavel."
+  ]
+ }
+]

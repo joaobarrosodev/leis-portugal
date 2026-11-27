@@ -54,5 +54,19 @@
     "unidade": [],
     "diploma": "pt:dre:456784:por",
     "alterador": "pt:dre:485629:por"
+  },
+  {
+    "artigo": "ANEXO — Notas técnicas",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "## ANEXO — Notas técnicas\n1 - A capacidade de produção do estabelecimento é considerada para um período de laboração de vinte e quatro horas, independentemente do seu regime, turnos, horários de laboração, ou valor de produção efectiva para resposta à procura do mercado, de acordo com o regime, já em vigor, para as actividades abrangidas pelo Decreto-Lei n.º 194/2000, de 21 de Agosto.\n\n2 - No caso do operador desenvolver várias actividades da mesma rubrica no mesmo estabelecimento e no mesmo local, procede-se à soma das capacidades das referidas actividades, que se compara com o limiar de capacidade aplicável à actividade constante do mesmo anexo, de acordo com o Documento de Orientação para a Implementação do PRTR Europeu.\n\nCategorias de actividades referidas no artigo 4.º e respectiva autoridade competente\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/13900/0449804502.pdf)",
+    "depois": "## ANEXO — Notas técnicas\n\n1 - A obrigação de comunicação de dados existe sempre que o limiar de capacidade da actividade for excedido. Se não estiver especificado qualquer limiar de capacidade, todos os estabelecimentos dedicados à actividade PRTR em causa estão sujeitos à obrigação de comunicação de dados, de acordo com o estabelecido no artigo 5.º\n\n2 - A capacidade da actividade PRTR é considerada para um período de laboração de vinte e quatro horas, independentemente do seu regime, turnos, horários de laboração ou valor de produção efectiva para resposta à procura do mercado.\n\n3 - No caso de o operador desenvolver várias actividades da mesma rubrica no mesmo estabelecimento e no mesmo local, procede-se à soma das capacidades das referidas actividades, que se compara com o limiar de capacidade aplicável à actividade constante do mesmo anexo, de acordo com o documento de orientação para a implementação do PRTR europeu.\n\n4 - As actividades referidas na tabela que se encontrem igualmente abrangidas pelo regime jurídico da prevenção e controlo integrados da poluição, estabelecido no Decreto-Lei n.º 173/2008, de 26 de Agosto, são da responsabilidade da APA. As restantes actividades são da competência da CCDR ou da ARH territorialmente competente.\n\nCategorias de actividades referidas no artigo 4.º e respectiva autoridade competente\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/00600/0017500178.pdf)\n\n> Alterado pelo/a [Decreto-Lei n.º 6/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-2011-485629), publicado em 2011-01-10.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:456784:por",
+    "alterador": "pt:dre:485629:por"
   }
 ]

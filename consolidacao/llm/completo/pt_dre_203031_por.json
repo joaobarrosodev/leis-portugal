@@ -4,35 +4,96 @@
     {
       "chave": "1.º#2",
       "epigrafe": "",
-      "texto": "1 - Encontram-se abrangidas pelo Regime Especial de Exigibilidade do Imposto sobre o Valor Acrescentado as empreitadas e subempreitadas de obras públicas em que é dono da obra o Estado, as Regiões Autónomas ou os institutos públicos criados pelo Decreto-Lei n.º 237/99, de 25 de Junho.\n\n2 - O presente Regime Especial não se aplica às empreitadas e subempreitadas de obras públicas cujo imposto seja devido pelo adquirente nos termos da alínea j) do n.º 1 do artigo 2.º do Código do IVA.",
-      "alterador": 11
+      "texto": "(Revogado.)",
+      "alterador": 24
+    },
+    {
+      "chave": "2.º#2",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 24
     },
     {
       "chave": "3.º#2",
       "epigrafe": "",
-      "texto": "1 - O imposto relativo às prestações de serviços a que se refere o artigo 1.º é exigível no momento do recebimento total ou parcial do preço, pelo montante recebido.\n\n2 - Sem prejuízo do disposto no número anterior, relativamente às subempreitadas presume-se que o recebimento total do preço ocorre no último dia útil do mês seguinte àquele em que for efectuado o pagamento total da empreitada, o qual se tem por verificado ainda que existam montantes retidos a título de garantia.\n\n3 - O empreiteiro deve comunicar ao subempreiteiro a data do recebimento total do preço da empreitada, para efeitos do disposto no número anterior, não ficando a exigibilidade do imposto dependente daquela comunicação.\n\n4 - O imposto é ainda exigível quando o recebimento total ou parcial do preço preceda o momento da realização das operações tributáveis.\n\n5 - Para efeitos do disposto no n.º 1, considera-se ainda que há recebimento total ou parcial do preço em caso de cessão de créditos, sendo o imposto exigível pelo montante do crédito cedido.",
-      "alterador": 3
+      "texto": "(Revogado.)",
+      "alterador": 24
+    },
+    {
+      "chave": "4.º#2",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 24
+    },
+    {
+      "chave": "5.º#2",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 24
+    },
+    {
+      "chave": "6.º#2",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 24
     },
     {
       "chave": "7.º",
       "epigrafe": "",
-      "texto": "1 - As faturas relativas a operações abrangidas pelo artigo 1.º devem ser numeradas seguidamente numa série especial, convenientemente referenciada, e conter a menção 'Exigibilidade de caixa'.\n\n2 - No pagamento total ou parcial das facturas referidas no número anterior e nas situações referidas no n.º 4 do artigo 3.º é obrigatória a emissão de recibo pelos montantes recebidos, numa série convenientemente referenciada, devendo constar do mesmo a taxa de IVA aplicável e a referência à factura a que respeita o pagamento, quando for caso disso.\n\n3 - O disposto no número anterior é ainda aplicável relativamente às importâncias recebidas em data posterior à verificação da exigibilidade do imposto, nos termos do disposto no n.º 2 do artigo 3.º, devendo, nestes casos, ser mencionada no recibo a data em que ocorreu a exigibilidade\n\n4 - A data de emissão dos recibos a que se referem os n.os 2 e 3 deve coincidir sempre com a do pagamento, devendo o mesmo ser processado em duplicado, destinando-se o original ao cliente e a cópia ao arquivo do prestador dos serviços.",
-      "alterador": 22
+      "texto": "(Revogado.)",
+      "alterador": 24
+    },
+    {
+      "chave": "8.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 24
+    },
+    {
+      "chave": "9.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 24
+    },
+    {
+      "chave": "10.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 24
+    },
+    {
+      "chave": "11.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 24
+    },
+    {
+      "chave": "12.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 24
     }
   ],
   "removidos": [],
   "titulos": [],
+  "anexos": [],
   "nao_aplicavel": null,
   "instrucoes": [
-    "Lei 127-B/97 art. 34.º n.º 5: nova redação do art. 1.º do Regime (Estado ou as Regiões Autónomas) — substituída depois pela Lei 3-B/2000.",
-    "Lei 3-B/2000 art. 44.º n.º 9: nova redação do art. 1.º do Regime (Estado, Regiões Autónomas ou institutos públicos do DL 237/99) — aplicada.",
-    "Lei 109-B/2001 n.º 7: adita n.º 5 ao art. 3.º do Regime (cessão de créditos) — aplicado.",
-    "DL 21/2007 art. 2.º: art. 1.º do Regime passa a n.º 1 (anterior corpo, na redação da Lei 3-B/2000, que o próprio DL 21/2007 cita) e n.º 2 novo — aplicado. Reparo do verificador não aceite: a Lei 3-B/2000 é o alterador 2 da lista e é ela que dá o texto 'as Regiões Autónomas ou os institutos públicos'.",
-    "DL 197/2012 art. 9.º: nova redação do n.º 1 do art. 7.º do Regime ('Exigibilidade de caixa'); n.os 2 a 4 ficam — aplicado.",
-    "Lei 66-B/2012 art. 241.º: autorização legislativa para revogar o regime; não é revogação — nada aplicado.",
-    "Restantes alteradores alteram o Código do IVA, o RITI e outros diplomas, não o original — ignorados."
+    "Alterador 1 (Lei 127-B/97, art. 34.º, n.º 5): nova redação do art. 1.º do Regime (Estado ou as Regiões Autónomas); superada pela revogação do Regime pelo alterador 24.",
+    "Alterador 2 (Lei 3-B/2000): nova redação do art. 1.º do Regime (Estado, Regiões Autónomas ou institutos públicos do DL 237/99); superada pela revogação do Regime.",
+    "Alterador 3 (Lei 109-B/2001, art. 35.º, n.º 7): adita n.º 5 ao art. 3.º do Regime; superado pela revogação do Regime.",
+    "Alterador 11 (DL 21/2007, art. 2.º): art. 1.º do Regime passa a n.º 1 (anterior corpo) e n.º 2 novo; superado pela revogação do Regime.",
+    "Alterador 22 (DL 197/2012, art. 9.º): nova redação do n.º 1 do art. 7.º do Regime ('Exigibilidade de caixa'); superada pela revogação do Regime.",
+    "Alterador 24 (DL 71/2013, art. 7.º, al. b), com efeitos a 1 de outubro de 2013, art. 8.º): revoga o Regime Especial de Exigibilidade do IVA nas Empreitadas e Subempreitadas de Obras Públicas aprovado pelo DL 204/97; aplicado artigo a artigo aos arts. 1.º a 12.º do Regime (chaves 1.º#2 a 6.º#2 e 7.º a 12.º), com '(Revogado.)'. Os arts. 1.º a 6.º do decreto-lei não são revogados.",
+    "Reparo sobre o art. 1.º#2: o 'anterior corpo do artigo' do DL 21/2007 seria a redação da Lei 3-B/2000 (alterador 2, listado), não a do original; de qualquer modo, o artigo fica revogado pelo alterador 24.",
+    "Restantes instruções dos alteradores (Código do IVA, RITI, listas, outros regimes) são de outros diplomas; a Lei 66-B/2012 só autoriza o Governo a revogar o Regime (não é instrução ao texto)."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 122,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": [
+    "22.º: o DRE diz «Alterado o art. 22º [a nova redacção tem natureza interpretativa] do RITI aprovado pelo De» (Decreto-Lei n.º 238/2006) e nem a resposta nem as regras o mudam"
+  ]
 }

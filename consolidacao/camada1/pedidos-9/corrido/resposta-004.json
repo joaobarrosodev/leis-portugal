@@ -1,0 +1,19 @@
+[
+ {
+  "id": "pt:dre:420987:por",
+  "substituicoes": [
+   {
+    "de": 55,
+    "ate": 55,
+    "texto": "Art. 6.º É eliminado o artigo 501.º da Reforma Aduaneira.",
+    "alterador": 1
+   }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 2, nova redacção dos artigos 217.º, 328.º, 330.º, 344.º e 345.º da Reforma Aduaneira: outro diploma (Reforma Aduaneira, aprovada pelo Decreto-Lei n.º 46311)\nAlterador 2, substituição dos mapas III e IV da Reforma Aduaneira: outro diploma (os mapas integram a Reforma Aduaneira por força do artigo 4.º do original)",
+  "instrucoes": [
+   "Alterador 1 (Rectificação): no artigo 6.º, «500.º» passa a «501.º» — aplicado na unidade 55.",
+   "Alterador 2 (Decreto-Lei n.º 116/79): altera artigos e mapas da Reforma Aduaneira, outro diploma — em nao_aplicavel."
+  ]
+ }
+]
