@@ -33,6 +33,36 @@
      "date": "2009-05-30"
     }
    ]
+  },
+  {
+   "date": "2009-07-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:492752:por",
+     "title": "Declaração de Rectificação n.º 54/2009",
+     "published": "2009-07-28",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/54-2009-492752"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "consolidated_by": "leis-portugal (consolidacao/camada1.py, linha 9 «dre»): sobre a versão consolidada pelo DRE",
+   "fragments": [
+    "51272875",
+    "49224475",
+    "49224575",
+    "e2c6619330ca1259",
+    "49224775",
+    "49224875",
+    "49224975",
+    "49225075",
+    "49225175",
+    "49225275",
+    "49225375",
+    "49225475"
+   ]
   }
  ],
  "fragments": {
@@ -131,6 +161,16 @@
    "in_force_from": null,
    "changed_by": [],
    "markdown": "###### Artigo 11.º — Entrada em vigor\n\nO presente decreto regulamentar entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "e2c6619330ca1259": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Cartografia de referência",
+   "in_force_from": "2009-07-28",
+   "changed_by": [
+    "Alterado pelo/a [Declaração de Rectificação n.º 54/2009](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/54-2009-492752), publicado em 2009-07-28."
+   ],
+   "markdown": "###### Artigo 3.º — Cartografia de referência\n\n1 - A cartografia de referência a utilizar na elaboração dos instrumentos de gestão territorial é obrigatoriamente:\n\na) Cartografia topográfica oficial;\n\nb) Cartografia temática de base topográfica ou hidrográfica oficial; ou\n\nc) A cartografia homologada nos termos da legislação em vigor, nas suas versões mais actualizadas.\n\n2 - A cartografia de referência a que se refere o número anterior pode ser cartografia de traço ou cartografia topográfica de imagem.\n\n3 - A cartografia a utilizar para os limites administrativos é a que consta da edição mais recente da Carta Administrativa Oficial de Portugal, publicada pelo Instituto Geográfico Português, disponível à data da deliberação que determina a elaboração, revisão ou alteração do plano.\n\n4 - O disposto nos números anteriores não impede a utilização de edições mais actualizadas da cartografia de referência e da Carta Administrativa Oficial de Portugal que venham a ficar disponíveis no decurso dos trabalhos de elaboração, revisão ou alteração dos instrumentos de gestão territorial.\n\n5 - A informação cadastral a utilizar na elaboração dos instrumentos de gestão territorial é a que consta da cartografia cadastral do cadastro predial, sempre que disponível.\n\n6 - As listas da cartografia oficial ou homologada são publicadas nas páginas da Internet dos organismos responsáveis pela sua produção ou homologação.\n\n> Alterado pelo/a [Declaração de Rectificação n.º 54/2009](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/54-2009-492752), publicado em 2009-07-28."
   }
  }
 }

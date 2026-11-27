@@ -1,0 +1,212 @@
+[
+ {
+  "id": "pt:dre:344966:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo n.º 2 do art. 13.º do DL 175/2004.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo n.º 2 do art. 13.º do DL 175/2004.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo n.º 2 do art. 13.º do DL 175/2004.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "N.º 1 revogado pelo n.º 2 do art. 13.º; restantes números iguais.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": []
+ },
+ {
+  "id": "pt:dre:211028:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pela alínea d) do art. 24.º do DL 10/2024.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": []
+ },
+ {
+  "id": "pt:dre:544170:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "Alínea a) do n.º 2 revogada pelo art. 5.º do DR 3/2018.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação da alínea d) do n.º 1 dada pelo art. 4.º do DR 3/2018, letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 5.º do DR 3/2018.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": []
+ },
+ {
+  "id": "pt:dre:187049946:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 2.º-A",
+    "veredicto": "certo",
+    "motivo": "Aditado pelo art. 2.º do DLR 11/2026/M, texto letra a letra.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": []
+ },
+ {
+  "id": "pt:dre:569889:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 5.º-A",
+    "veredicto": "certo",
+    "motivo": "Aditado pelo art. 1.º da Lei 3/2007, texto letra a letra; a lei, de 16/01/2007, entra em vigor com o OE para 2007, ano já em curso à data da publicação.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": []
+ },
+ {
+  "id": "pt:dre:107963496:por",
+  "artigos": [
+   {
+    "artigo": "Anexo II",
+    "veredicto": "certo",
+    "motivo": "Retificação do quadro B4 só em imagem: mantém-se o corpo antigo e acrescenta-se a linha da imagem da Declaração de Retificação 26/2017 (alteração parcial).",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": []
+ },
+ {
+  "id": "pt:dre:1080481232:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação do art. 2.º do DL 200/2026: anterior corpo passa a n.º 1 e aditado n.º 2, letra a letra.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": []
+ },
+ {
+  "id": "pt:dre:108107541:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 19.º",
+    "veredicto": "certo",
+    "motivo": "N.º 4 retificado conforme ponto 1.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 31.º",
+    "veredicto": "certo",
+    "motivo": "Alínea f) retificada conforme ponto 2.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 42.º",
+    "veredicto": "certo",
+    "motivo": "Epígrafe retificada conforme ponto 3.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 44.º",
+    "veredicto": "certo",
+    "motivo": "Alínea b) do n.º 1 retificada conforme ponto 4.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 45.º",
+    "veredicto": "certo",
+    "motivo": "N.º 1 retificado conforme ponto 5 («no artigo», «do Governo»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 62.º",
+    "veredicto": "certo",
+    "motivo": "N.º 3 retificado conforme ponto 6.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": []
+ },
+ {
+  "id": "pt:dre:114288884:por",
+  "artigos": [
+   {
+    "artigo": "Anexo I",
+    "veredicto": "certo",
+    "motivo": "N.os 1 e 2 retificados («n.º 4 do artigo 5.º») conforme pontos 1 e 2.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Anexo II",
+    "veredicto": "certo",
+    "motivo": "Tabela retificada só em imagem: mantém-se o corpo antigo e acrescenta-se a linha da imagem da Declaração de Retificação 3-A/2018 (alteração parcial).",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": []
+ }
+]

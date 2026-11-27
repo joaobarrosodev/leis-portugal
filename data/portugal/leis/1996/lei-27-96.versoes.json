@@ -77,6 +77,43 @@
      "date": "2012-12-01"
     }
    ]
+  },
+  {
+   "date": "2015-12-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:70423756:por",
+     "title": "Decreto-Lei n.º 214-G/2015",
+     "published": "2015-10-02",
+     "dre_path": "/dr/detalhe/decreto-lei/214-g-2015-70423756"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 15.º"
+   ],
+   "consolidated_by": "leis-portugal (consolidacao/camada1.py, linha 9 «dre»): sobre a versão consolidada pelo DRE",
+   "fragments": [
+    "67364875",
+    "67364876",
+    "67364877",
+    "67364878",
+    "67364879",
+    "67364880",
+    "67364881",
+    "67364882",
+    "67364883",
+    "67364884",
+    "67364885",
+    "67364886",
+    "67364887",
+    "67364888",
+    "67364889",
+    "0482ae2f11c54af4",
+    "67364891",
+    "67364892",
+    "b201f996fd2ed1d3"
+   ]
   }
  ],
  "fragments": {
@@ -249,6 +286,26 @@
    "in_force_from": null,
    "changed_by": [],
    "markdown": "Aprovada em 27 de Junho de 1996.\n\nO Presidente da Assembleia da República, António de Almeida Santos.\n\nPromulgada em 19 de Julho de 1996.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendada em 23 de Julho de 1996.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "0482ae2f11c54af4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Regime processual",
+   "in_force_from": "2015-12-01",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 214-G/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-g-2015-70423756), publicado em 2015-10-02."
+   ],
+   "markdown": "###### Artigo 15.º — Regime processual\n\n1 - As ações para declaração de perda de mandato ou de dissolução de órgãos autárquicos ou entidades equiparadas têm caráter urgente e seguem os termos do processo do contencioso eleitoral, previstos no Código de Processo nos Tribunais Administrativos.\n\n2 - [Revogado].\n\n3 - [Revogado].\n\n4 - [Revogado].\n\n5 - [Revogado].\n\n6 - [Revogado].\n\n7 - [Revogado].\n\n8 - [Revogado].\n\n> Alterado pelo/a [Decreto-Lei n.º 214-G/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-g-2015-70423756), publicado em 2015-10-02."
+  },
+  "b201f996fd2ed1d3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 17.º do/a [Lei Orgânica n.º 1/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2011-146220), em vigor a partir de 2011-12-01"
+   ],
+   "markdown": "###### Artigo 18.º — Norma revogatória\n\n1 - É revogada a Lei n.º 87/89, de 9 de Setembro, bem como todas as disposições especiais que prevejam fundamentos de perda de mandato ou de dissolução de órgãos autárquicos por remissão para o regime de tutela administrativa estabelecido por aquele diploma.\n\n2 - (Revogado).\n\n> Alterado pelo/a Artigo 17.º do/a [Lei Orgânica n.º 1/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2011-146220), em vigor a partir de 2011-12-01\n\nAprovada em 27 de Junho de 1996.\n\nO Presidente da Assembleia da República, António de Almeida Santos.\n\nPromulgada em 19 de Julho de 1996.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendada em 23 de Julho de 1996.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
   }
  }
 }

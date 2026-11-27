@@ -41,18 +41,23 @@ notes: []
 language: por
 version:
   kind: consolidated
-  label: Versão consolidada pelo DRE
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: '2019-08-13'
+  consolidation_date: '2019-09-23'
 version_history:
   file: decreto-legislativo-regional-10-2019-m.versoes.json
-  count: 1
+  count: 2
   source_lastmod: '2024-06-25'
   versions:
   - date: '2019-08-13'
     amending: null
     amending_title: null
     changes: []
+  - date: '2019-09-23'
+    amending: pt:dre:124917022:por
+    amending_title: Declaração de Retificação n.º 44/2019
+    changes:
+    - Altera Artigo 2.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/declegreg/10/2019/m/cons/20190923/pt/html
@@ -79,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre-consolidated
   generated_at: '2026-10-22T12:27:41Z'
-  notes: 1 versão(ões); histórico completo em decreto-legislativo-regional-10-2019-m.versoes.json.
+  notes: 'Texto em vigor consolidado pelo leis-portugal sobre a versão consolidada pelo DRE de 2019-08-13 com as alterações
+    publicadas em: Declaração de Retificação n.º 44/2019. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/madeira/decretos-legislativos-regionais/2019/decreto-legislativo-regional-10-2019-m.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -207,9 +213,13 @@ c) [...]
 
 d) [...]
 
-e) Gestão de resíduos em regime de alta, incluindo as operações de valorização e eliminação de resíduos, nomeadamente transferência, triagem, valorização orgânica e energética, bem como outras formas de tratamento, e o envio ou deposição em destino final;
+e) [...]
 
-f) Gestão de resíduos em regime de baixa, incluindo recolha seletiva e indiferenciada.
+f) [...]
+
+g) Gestão de resíduos em regime de alta, incluindo as operações de valorização e eliminação de resíduos, nomeadamente transferência, triagem, valorização orgânica e energética, bem como outras formas de tratamento, e o envio ou deposição em destino final;
+
+h) Gestão de resíduos em regime de baixa, incluindo recolha seletiva e indiferenciada.
 
 Artigo 4.º
 
@@ -312,6 +322,8 @@ w) [Anterior alínea u).]
 x) [Anterior alínea v).]
 
 2 - [...]»
+
+> Alterado pelo/a [Declaração de Retificação n.º 44/2019](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/44-2019-124917022), publicado em 2019-09-23.
 
 ###### Artigo 3.º — Alteração ao anexo do Decreto Legislativo Regional n.º 17/2014/M, de 16 de dezembro
 

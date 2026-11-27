@@ -39,12 +39,12 @@ notes: []
 language: por
 version:
   kind: consolidated
-  label: Versão consolidada pelo DRE
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: '2014-11-23'
+  consolidation_date: '2015-06-07'
 version_history:
   file: decreto-lei-260-94.versoes.json
-  count: 2
+  count: 3
   source_lastmod: '2024-06-25'
   versions:
   - date: '1994-10-22'
@@ -56,6 +56,12 @@ version_history:
     amending_title: Decreto-Lei n.º 157/2014
     changes:
     - Altera Artigo 1.º
+    - Altera Artigo 4.º
+  - date: '2015-06-07'
+    amending: pt:dre:67356344:por
+    amending_title: Decreto-Lei n.º 100/2015
+    changes:
+    - Altera Artigo 3.º
     - Altera Artigo 4.º
 identifiers:
   celex: null
@@ -83,7 +89,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre-consolidated
   generated_at: '2026-10-22T12:42:16Z'
-  notes: 2 versão(ões); histórico completo em decreto-lei-260-94.versoes.json.
+  notes: 'Texto em vigor consolidado pelo leis-portugal sobre a versão consolidada pelo DRE de 2014-11-23 com as alterações
+    publicadas em: Decreto-Lei n.º 100/2015. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1994/decreto-lei-260-94.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -154,7 +161,7 @@ As sociedades de investimento são sociedades financeiras que têm por objeto ex
 
 As sociedades de investimento regem-se pelo disposto no presente diploma e pelas disposições aplicáveis do Regime Geral das Instituições de Crédito e Sociedades Financeiras.
 
-###### Artigo 3.º — Objecto
+###### Artigo 3.º — Objeto e forma
 
 1 - As sociedades de investimento podem efectuar apenas as seguintes operações ou prestar os seguintes serviços:
 
@@ -186,11 +193,15 @@ m) Outras operações cambiais necessárias ao exercício da sua actividade.
 
 3 - Para os efeitos da alínea a) do n.º 1 do presente artigo, entendem-se por operações de crédito destinadas ao consumo os negócios de concessão de crédito concedidos a pessoas singulares para finalidades alheias à sua actividade profissional.
 
+4 - As sociedades de investimento adotam a forma de sociedade anónima.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 100/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-2015-67356344), publicado em 2015-06-02.
+
 ###### Artigo 4.º — Recursos
 
-As sociedades de investimento só podem financiar a sua actividade com fundos próprios e através dos seguintes recursos:
+1 - As sociedades de investimento só podem financiar a sua actividade com fundos próprios e através dos seguintes recursos:
 
-a) Emissão de obrigações de qualquer espécie, nas condições previstas na lei, elevando os limites fixados no Código das Sociedades Comerciais até ao quádruplo dos seus capitais próprios, bem como de papel comercial;
+a) Emissão de obrigações de qualquer espécie, nas condições previstas na lei, em montante que não exceda o quádruplo dos seus capitais próprios, considerando a soma do preço de subscrição de todas as obrigações emitidas e não amortizadas, bem como emissão de papel comercial;
 
 b) [Revogada];
 
@@ -198,7 +209,11 @@ c) Financiamentos concedidos por instituições de crédito, nomeadamente no âm
 
 d) Financiamentos previstos nas alíneas a) e d) do n.º 2 do artigo 9.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras.
 
+2 - Para efeitos da alínea a) do número anterior, entende-se por capitais próprios o somatório do capital realizado, deduzidas as ações próprias, com as reservas, os resultados transitados e os ajustamentos em ativos financeiros.
+
 > Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 157/2014 - Diário da República n.º 206/2014, Série I de 2014-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2014-58585556), em vigor a partir de 2014-11-23
+
+> Alterado pelo/a [Decreto-Lei n.º 100/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-2015-67356344), publicado em 2015-06-02.
 
 ###### Artigo 5.º — Norma revogatória
 

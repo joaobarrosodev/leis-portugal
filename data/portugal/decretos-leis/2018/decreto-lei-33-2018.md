@@ -40,18 +40,23 @@ notes: []
 language: por
 version:
   kind: consolidated
-  label: Versão consolidada pelo DRE
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: '2018-05-15'
+  consolidation_date: '2018-07-10'
 version_history:
   file: decreto-lei-33-2018.versoes.json
-  count: 1
+  count: 2
   source_lastmod: '2024-06-25'
   versions:
   - date: '2018-05-15'
     amending: null
     amending_title: null
     changes: []
+  - date: '2018-07-10'
+    amending: pt:dre:115674375:por
+    amending_title: Declaração de Retificação n.º 22/2018
+    changes:
+    - Altera Artigo 169.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/33/2018/p/cons/20220812/pt/html
@@ -78,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre-consolidated
   generated_at: '2026-10-22T12:18:52Z'
-  notes: 1 versão(ões); histórico completo em decreto-lei-33-2018.versoes.json.
+  notes: 'Texto em vigor consolidado pelo leis-portugal sobre a versão consolidada pelo DRE de 2018-05-15 com as alterações
+    publicadas em: Declaração de Retificação n.º 22/2018. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2018/decreto-lei-33-2018.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -3427,15 +3433,17 @@ e) [...];
 
 f) [...];
 
-g) Assegurar todos os procedimentos de contratação pública no domínio das competências específicas atribuídas pelo regime jurídico do sistema nacional de compras públicas;
+g) [...];
 
-h) [...];
+h) Assegurar todos os procedimentos de contratação pública no domínio das competências específicas atribuídas pelo regime jurídico do sistema nacional de compras públicas;
 
 i) [...];
 
 j) [...];
 
 k) [...].»
+
+> Alterado pelo/a [Declaração de Retificação n.º 22/2018](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/22-2018-115674375), publicado em 2018-07-10.
 
 ###### Artigo 170.º — Alteração à Portaria n.º 283/2014, de 31 de dezembro
 

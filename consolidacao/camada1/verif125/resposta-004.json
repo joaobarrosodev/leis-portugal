@@ -1,0 +1,96 @@
+[
+ {
+  "id": "pt:dre:115312061:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 169.º",
+    "veredicto": "certo",
+    "motivo": "Retificação aplicada: a redação da competência passa da alínea g) para a alínea h) do artigo 3.º da Portaria 145/2014, como no «deve ler-se».",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": []
+ },
+ {
+  "id": "pt:dre:117128624:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "N.º 2 retificado: retirado «e as entidades intermunicipais», letra a letra.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": []
+ },
+ {
+  "id": "pt:dre:117537583:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 98.º",
+    "veredicto": "certo",
+    "motivo": "N.º 2 («previstas no SNC») e n.º 6 («ou o SNC») retificados como no «deve ler-se».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 198.º",
+    "veredicto": "certo",
+    "motivo": "N.º 4: «alínea g) do artigo 5.º» em vez de «artigo 4.º».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 257.º",
+    "veredicto": "certo",
+    "motivo": "N.º 2 do artigo 51.º do CIRS, no texto do artigo 257.º, substituído pela redação retificada, letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 263.º",
+    "veredicto": "certo",
+    "motivo": "N.º 7 do artigo 40.º do CIRC, no texto do artigo 263.º: «seja comunicada» em vez de «seja autorizada».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 271.º",
+    "veredicto": "certo",
+    "motivo": "Corpo passa a n.º 1 e acrescentado o n.º 2 (revogação da verba 2.6 da Lista II), como no «deve ler-se».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 291.º",
+    "veredicto": "certo",
+    "motivo": "No artigo 71.º do EBF, a seguir ao n.º 6 ficam os n.os 7 a 26 «...», como no «deve ler-se».",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": []
+ },
+ {
+  "id": "pt:dre:119397714:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "N.º 7 do artigo 13.º-B do NRAU: «alínea a) do n.º 5» em vez de «alínea a) do número anterior».",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": []
+ }
+]

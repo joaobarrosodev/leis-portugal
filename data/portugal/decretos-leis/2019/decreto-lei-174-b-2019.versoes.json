@@ -39,6 +39,42 @@
      "date": "2019-12-27"
     }
    ]
+  },
+  {
+   "date": "2020-02-21",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:129475782:por",
+     "title": "Declaração de Retificação n.º 10/2020",
+     "published": "2020-02-21",
+     "dre_path": "/dr/detalhe/declaracao-retificacao/10-2020-129475782"
+    }
+   ],
+   "changes": [
+    "Altera Artigo Anexo — (a que se refere o artigo 10.º)"
+   ],
+   "consolidated_by": "leis-portugal (consolidacao/camada1.py, linha 9 «dre»): sobre a versão consolidada pelo DRE",
+   "fragments": [
+    "127479132",
+    "127479133",
+    "127479134",
+    "127479135",
+    "127479136",
+    "127479137",
+    "127479138",
+    "127479139",
+    "127479140",
+    "127479141",
+    "127479142",
+    "127479143",
+    "127479144",
+    "127479145",
+    "127479146",
+    "127479147",
+    "127479148",
+    "a2b5fb03a83f816d"
+   ]
   }
  ],
  "fragments": {
@@ -185,6 +221,16 @@
    "in_force_from": null,
    "changed_by": [],
    "markdown": "## Anexo — (a que se refere o artigo 10.º)\n\n«Artigo 2.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) A exploração de atividades de fabrico e venda, bem como de serviços de manutenção, reparação, grande reparação e reabilitação, de material circulante ferroviário, incluindo todas as atividades complementares, como estudos e conceção de instalações oficinais, fabrico, reparação e manutenção de componentes eletrónicos de ferrovia e desenvolvimento de soluções informáticas;\n\nf) [Anterior alínea e).]\n\ng) [Anterior alínea f).]\n\n4 - ...\n\n5 - ...\n\n6 - São objeto de contratos a celebrar entre a CP, E. P. E., e a Infraestruturas de Portugal, S. A., as condições de gestão e exploração:\n\na) Das estações a que respeita a atividade referida na alínea d) do n.º 3;\n\nb) De instalações oficinais e de fabricação, manutenção ou reparação de material circulante, a que respeita a atividade referida na alínea e) do n.º 3, quando integrem a infraestrutura ferroviária cuja titularidade de gestão cabe à Infraestruturas de Portugal, S. A.»\n\n112885849"
+  },
+  "a2b5fb03a83f816d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Anexo — (a que se refere o artigo 10.º)",
+   "in_force_from": "2020-02-21",
+   "changed_by": [
+    "Alterado pelo/a [Declaração de Retificação n.º 10/2020](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/10-2020-129475782), publicado em 2020-02-21."
+   ],
+   "markdown": "## Anexo — (a que se refere o artigo 10.º)\n\n«Artigo 2.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) A exploração de atividades de fabrico e venda, bem como de serviços de manutenção, reparação, grande reparação e reabilitação, de material circulante ferroviário, incluindo todas as atividades complementares, como estudos e conceção de instalações oficinais, fabrico, reparação e manutenção de componentes eletrónicos de ferrovia e desenvolvimento de soluções informáticas;\n\nf) [Anterior alínea e).]\n\ng) [Anterior alínea f).]»\n\n112885849\n\n> Alterado pelo/a [Declaração de Retificação n.º 10/2020](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/10-2020-129475782), publicado em 2020-02-21."
   }
  }
 }

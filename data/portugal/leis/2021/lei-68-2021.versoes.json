@@ -100,6 +100,103 @@
      "date": "2021-08-27"
     }
    ]
+  },
+  {
+   "date": "2021-09-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:171522718:por",
+     "title": "Declaração de Retificação n.º 31/2021",
+     "published": "2021-09-20",
+     "dre_path": "/dr/detalhe/declaracao-retificacao/31-2021-171522718"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "consolidated_by": "leis-portugal (consolidacao/camada1.py, linha 9 «dre»): sobre a versão consolidada pelo DRE",
+   "fragments": [
+    "170221382",
+    "170221383",
+    "170221384",
+    "170221385",
+    "170221386",
+    "170221387",
+    "170221388",
+    "170221389",
+    "170221390",
+    "170221391",
+    "170221392",
+    "170221393",
+    "170221394",
+    "170221395",
+    "170221396",
+    "170221397",
+    "170221398",
+    "170221399",
+    "170221383",
+    "170221401",
+    "170221402",
+    "ac344855073fa366",
+    "170221404",
+    "170221405",
+    "170221406",
+    "170221407",
+    "170221408",
+    "170221409",
+    "170221410",
+    "170221411",
+    "170221412",
+    "170221413",
+    "170221414",
+    "170221415",
+    "170221416",
+    "170221417",
+    "170221418",
+    "170221419",
+    "170221420",
+    "170221421",
+    "170221422",
+    "170221423",
+    "170221424",
+    "170221425",
+    "170221426",
+    "170221427",
+    "170221428",
+    "170221429",
+    "170221430",
+    "170221431",
+    "170221432",
+    "170221433",
+    "170221434",
+    "170221435",
+    "170221436",
+    "170221437",
+    "170221438",
+    "170221439",
+    "170221440",
+    "170221441",
+    "170221442",
+    "170221443",
+    "170221444",
+    "170221445",
+    "170221446",
+    "170221447",
+    "170221448",
+    "170221449",
+    "170221450",
+    "170221451",
+    "170221452",
+    "170221453",
+    "170221454",
+    "170221455",
+    "170221456",
+    "170221457",
+    "170221458",
+    "170221459",
+    "170221460"
+   ]
   }
  ],
  "fragments": {
@@ -734,6 +831,16 @@
    "in_force_from": null,
    "changed_by": [],
    "markdown": "###### Artigo 48.º — Entrada em vigor e aplicação da lei no tempo\n\n1 - A presente lei entra em vigor no primeiro dia do segundo mês posterior à sua publicação, sem prejuízo do disposto nos números seguintes.\n\n2 - O artigo 43.º da presente lei entra em vigor a 1 de janeiro de 2017.\n\n3 - O disposto no artigo 29.º aplica-se à designação dos membros da CADA que tenha lugar em 2016.\n\n114500841"
+  },
+  "ac344855073fa366": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": "2021-09-20",
+   "changed_by": [
+    "Alterado pelo/a [Declaração de Retificação n.º 31/2021](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/31-2021-171522718), publicado em 2021-09-20."
+   ],
+   "markdown": "###### Artigo 3.º — Definições\n\n1 - Para efeitos da presente lei, considera-se:\n\na) 'Documento administrativo', qualquer conteúdo, ou parte desse conteúdo, que esteja na posse ou seja detida em nome dos órgãos e entidades referidas no artigo seguinte, seja o suporte de informação sob forma escrita, visual, sonora, eletrónica ou outra forma material, neles se incluindo, designadamente, aqueles relativos a:\n\ni) Procedimentos de emissão de atos e regulamentos administrativos;\n\nii) Procedimentos de contratação pública, incluindo os contratos celebrados;\n\niii) Gestão orçamental e financeira dos órgãos e entidades;\n\niv) Gestão de recursos humanos, nomeadamente os dos procedimentos de recrutamento, avaliação, exercício do poder disciplinar e quaisquer modificações das respetivas relações jurídicas.\n\nb) «Documento nominativo», o documento que contenha dados pessoais, na aceção do regime jurídico de proteção das pessoas singulares no que diz respeito ao tratamento de dados pessoais e à livre circulação desses dados;\n\nc) «Formato aberto», um formato de dados disponibilizado ao público sem qualquer restrição e reutilizável, independentemente da plataforma utilizada, nos termos do regime jurídico que estabelece a adoção de normas abertas nos sistemas informáticos do Estado;\n\nd) «Formato legível por máquina» um formato de ficheiro estruturado de modo a ser possível, por meio de aplicações de software, nele identificar, reconhecer e extrair dados específicos, incluindo declarações de facto, bem como a sua estrutura interna;\n\ne) 'Informação ambiental', quaisquer informações de natureza administrativa, sob forma escrita, visual, sonora, eletrónica ou outra forma material, relativas:\n\ni) Ao estado dos elementos do ambiente, como o ar e a atmosfera, a água, o solo, a terra, as paisagens e as áreas de interesse natural, incluindo as zonas húmidas, as zonas litorais e marinhas, a diversidade biológica e os seus componentes, incluindo os organismos geneticamente modificados, e a interação entre esses elementos;\n\nii) A fatores como as substâncias, a energia, o ruído, as radiações ou os resíduos, incluindo os resíduos radioativos, emissões, descargas e outras libertações para o ambiente, que afetem ou possam afetar os elementos do ambiente referidos na alínea anterior;\n\niii) A medidas políticas, legislativas e administrativas, designadamente planos, programas, acordos ambientais e ações que afetem ou possam afetar os elementos ou fatores referidos nas subalíneas anteriores, bem como medidas ou ações destinadas à sua proteção;\n\niv) A relatórios sobre a implementação da legislação ambiental;\n\nv) A análise custo-benefício e outras avaliações e cenários económicos utilizados no âmbito das medidas e atividades, em matéria ambiental, referidas na subalínea iii);\n\nvi) Ao estado de saúde e à segurança das pessoas, incluindo designadamente a contaminação da cadeia alimentar, as condições de vidas, os locais de interesse cultural e construções, na medida em que sejam ou possam ser afetados pelo estado dos elementos referidos na subalínea i), ou, através desses elementos, pelos fatores ou medidas referidos nas subalíneas ii) e iii);\n\nf) 'Norma formal aberta' uma norma estabelecida em forma escrita, que pormenoriza especificações no que diz respeito aos requisitos para assegurar a interoperabilidade de software;\n\ng) «Reutilização», a utilização, por pessoas singulares ou coletivas, de documentos administrativos ou dados na posse dos órgãos e entidades referidos no artigo seguinte ou detidos em nome destes, para fins comerciais ou não comerciais diferentes do fim inicial para o qual os documentos foram produzidos;\n\nh) «Anonimização», o processo de transformar informações, dados ou documentos, qualquer que seja a sua forma ou formato, de modo a que não possam revelar pessoa singular identificada ou identificável neles referida, ou o processo de tornar anónimos os dados pessoais, por forma a que a pessoa em causa não seja ou deixe de ser identificável;\n\ni) «Conjuntos de dados de elevado valor», documentos ou dados identificados por atos de execução da Comissão Europeia cuja reutilização está associada a importantes benefícios socioeconómicos;\n\nj) «Dados abertos», dados em formato aberto que podem ser utilizados, reutilizados e partilhados por qualquer pessoa e para qualquer finalidade, nos termos da presente lei e demais legislação sobre acesso à informação e documentos administrativos;\n\nk) «Dados dinâmicos», documentos ou dados em formato digital, sujeitos a atualizações frequentes ou em tempo real, em particular devido à sua volatilidade ou rápida obsolescência, como os dados gerados por sensores;\n\nl) «Dados de investigação», documentos ou dados em formato digital, com exceção das publicações científicas, que são recolhidos ou produzidos no decurso de atividades de investigação científica e utilizados como elementos de prova no processo de investigação, ou que são geralmente considerados na comunidade de investigação como necessários para validar os resultados da investigação.\n\n2 - Não se consideram documentos administrativos, para efeitos da presente lei:\n\na) As notas pessoais, esboços, apontamentos, comunicações eletrónicas pessoais e outros registos de natureza semelhante, qualquer que seja o seu suporte;\n\nb) Os documentos cuja elaboração não releve da atividade administrativa, designadamente aqueles referentes à reunião do Conselho de Ministros e ou à reunião de Secretários de Estado, bem como à sua preparação;\n\nc) Os documentos produzidos no âmbito das relações diplomáticas do Estado português.\n\n> Alterado pelo/a [Declaração de Retificação n.º 31/2021](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/31-2021-171522718), publicado em 2021-09-20."
   }
  }
 }

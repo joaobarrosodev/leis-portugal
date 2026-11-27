@@ -41,18 +41,23 @@ notes: []
 language: por
 version:
   kind: consolidated
-  label: Versão consolidada pelo DRE
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: '2018-11-27'
+  consolidation_date: '2019-01-24'
 version_history:
   file: decreto-lei-98-2018.versoes.json
-  count: 1
+  count: 2
   source_lastmod: '2024-06-25'
   versions:
   - date: '2018-11-27'
     amending: null
     amending_title: null
     changes: []
+  - date: '2019-01-24'
+    amending: pt:dre:118406928:por
+    amending_title: Declaração de Retificação n.º 2/2019
+    changes:
+    - Altera Artigo 9.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/98/2018/p/cons/20190124/pt/html
@@ -79,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre-consolidated
   generated_at: '2026-10-22T12:22:39Z'
-  notes: 1 versão(ões); histórico completo em decreto-lei-98-2018.versoes.json.
+  notes: 'Texto em vigor consolidado pelo leis-portugal sobre a versão consolidada pelo DRE de 2018-11-27 com as alterações
+    publicadas em: Declaração de Retificação n.º 2/2019. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2018/decreto-lei-98-2018.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -279,4 +285,6 @@ Consideram-se feitas aos municípios as referências constantes de outros diplom
 
 1 - O presente decreto-lei produz efeitos no dia 1 de janeiro de 2019, sem prejuízo da sua concretização gradual nos termos do n.º 2 do artigo 4.º da Lei n.º 50/2018, de 20 de agosto, e do disposto no número seguinte.
 
-2 - Relativamente ao ano de 2019, os municípios e as entidades intermunicipais que não pretendam exercer as competências previstas no presente decreto-lei comunicam esse facto à Direção-Geral das Autarquias Locais, após prévia deliberação dos seus órgãos deliberativos, até 60 dias corridos após entrada em vigor do presente decreto-lei.
+2 - Relativamente ao ano de 2019, os municípios que não pretendam exercer as competências previstas no presente decreto-lei comunicam esse facto à Direção-Geral das Autarquias Locais, após prévia deliberação dos seus órgãos deliberativos, até 60 dias corridos após entrada em vigor do presente decreto-lei.
+
+> Alterado pelo/a [Declaração de Retificação n.º 2/2019](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/2-2019-118406928), publicado em 2019-01-24.

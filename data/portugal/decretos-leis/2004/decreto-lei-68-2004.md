@@ -40,18 +40,23 @@ notes: []
 language: por
 version:
   kind: consolidated
-  label: Versão consolidada pelo DRE
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: '2004-03-25'
+  consolidation_date: '2024-03-04'
 version_history:
   file: decreto-lei-68-2004.versoes.json
-  count: 1
+  count: 2
   source_lastmod: '2024-06-25'
   versions:
   - date: '2004-03-25'
     amending: null
     amending_title: null
     changes: []
+  - date: '2024-03-04'
+    amending: pt:dre:836222484:por
+    amending_title: Decreto-Lei n.º 10/2024
+    changes:
+    - Revoga Artigo 9.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/68/2004/p/cons/20240108/pt/html
@@ -78,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre-consolidated
   generated_at: '2026-10-22T12:38:06Z'
-  notes: 1 versão(ões); histórico completo em decreto-lei-68-2004.versoes.json.
+  notes: 'Texto em vigor consolidado pelo leis-portugal sobre a versão consolidada pelo DRE de 2004-03-25 com as alterações
+    publicadas em: Decreto-Lei n.º 10/2024. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2004/decreto-lei-68-2004.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -355,9 +361,9 @@ b) Instruções sobre uso e manutenção das instalações e equipamentos, inclu
 
 ###### Artigo 9.º — Apresentação da ficha técnica da habitação
 
-1 - Sem prejuízo de outras normas aplicáveis, não pode ser celebrada a escritura pública que envolva a aquisição da propriedade de prédio ou fracção destinada à habitação sem que o notário se certifique da existência da ficha técnica da habitação e de que a mesma é entregue ao comprador.
+(Revogado.)
 
-2 - Não pode ser celebrado o contrato de compra e venda com mútuo, garantido ou não por hipoteca, nos termos do Decreto-Lei n.º 255/93, de 15 de Julho, sem que a instituição de crédito assegure a entrega da ficha técnica da habitação ao comprador no momento em que é preenchido o modelo a que se refere a Portaria n.º 669-A/93, de 16 de Julho, alterada pela Portaria n.º 882/94, de 1 de Outubro.
+> Revogado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 10/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2024-836222484), publicado em 2024-01-08.
 
 ###### Artigo 10.º — Conservação da ficha técnica da habitação
 

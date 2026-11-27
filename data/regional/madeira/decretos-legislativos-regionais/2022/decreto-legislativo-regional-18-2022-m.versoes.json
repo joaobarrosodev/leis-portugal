@@ -26,6 +26,29 @@
      "date": "2024-10-05"
     }
    ]
+  },
+  {
+   "date": "2026-06-19",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1133905358:por",
+     "title": "Decreto Legislativo Regional n.º 11/2026/M",
+     "published": "2026-06-18",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/11-2026-1133905358"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 2.º-A"
+   ],
+   "consolidated_by": "leis-portugal (consolidacao/camada1.py, linha 9 «dre»): sobre a versão consolidada pelo DRE",
+   "fragments": [
+    "944466275",
+    "944466475",
+    "944466675",
+    "a6fad2e6b66f4133",
+    "797a10a5902998e4"
+   ]
   }
  ],
  "fragments": {
@@ -68,6 +91,24 @@
    "in_force_from": null,
    "changed_by": [],
    "markdown": "Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 21 de julho de 2022.\n\nO Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.\n\nAssinado em 26 de julho de 2022.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto."
+  },
+  "a6fad2e6b66f4133": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º-A — Vigência dos contratos de financiamento celebrados com os executores dos investimentos",
+   "in_force_from": "2026-06-19",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 11/2026/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2026-1133905358), publicado em 2026-06-18."
+   ],
+   "markdown": "###### Artigo 2.º-A — Vigência dos contratos de financiamento celebrados com os executores dos investimentos\n\n1 - Os contratos de financiamento celebrados antes de 31 de dezembro de 2025 entre o IASAÚDE, IP-RAM, na qualidade de beneficiário final, e os executores dos investimentos, abrangidos pelo presente decreto legislativo regional mantêm-se em vigor até 30 de junho de 2026, sem prejuízo do disposto nos números seguintes.\n\n2 - As alterações aos contratos de financiamento referidos no número anterior, outorgadas após 31 de dezembro de 2025, entram em vigor na data da sua outorga, produzindo os seus efeitos nas datas nelas estabelecidas.\n\n3 - Sem prejuízo do disposto nos números anteriores, e caso venham a ser determinadas novas alterações ao prazo de execução do investimento C01-i05-RAM - Fortalecimento do Serviço Regional de Saúde da RAM, subinvestimento C01-i05.01 - Expansão, Desenvolvimento e Melhoria da Rede de Cuidados Continuados Integrados, por decisão do Conselho da União Europeia ou por outros atos jurídicos da União Europeia que produzam efeitos equivalentes, os contratos de financiamento celebrados antes de 31 de dezembro de 2025 entre o IASAÚDE, IP-RAM e os executores dos investimentos mantêm-se em vigor até às datas nelas estabelecidas.\n\n4 - O disposto nos números anteriores não se aplica aos contratos entretanto revogados por acordo das partes.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 11/2026/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2026-1133905358), publicado em 2026-06-18."
+  },
+  "797a10a5902998e4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Entrada em vigor\n\nO presente decreto legislativo regional entra em vigor no dia seguinte ao da sua publicação.\n\nAprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 21 de julho de 2022.\n\nO Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.\n\nAssinado em 26 de julho de 2022.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto."
   }
  }
 }

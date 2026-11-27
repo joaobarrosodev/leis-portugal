@@ -39,18 +39,23 @@ notes: []
 language: por
 version:
   kind: consolidated
-  label: Versão consolidada pelo DRE
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: '2009-05-29'
+  consolidation_date: '2009-07-28'
 version_history:
   file: decreto-regulamentar-10-2009.versoes.json
-  count: 1
+  count: 2
   source_lastmod: '2024-06-25'
   versions:
   - date: '2009-05-29'
     amending: null
     amending_title: null
     changes: []
+  - date: '2009-07-28'
+    amending: pt:dre:492752:por
+    amending_title: Declaração de Rectificação n.º 54/2009
+    changes:
+    - Altera Artigo 3.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/decregul/10/2009/p/cons/20090728/pt/html
@@ -77,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre-consolidated
   generated_at: '2026-10-22T11:48:21Z'
-  notes: 1 versão(ões); histórico completo em decreto-regulamentar-10-2009.versoes.json.
+  notes: 'Texto em vigor consolidado pelo leis-portugal sobre a versão consolidada pelo DRE de 2009-05-29 com as alterações
+    publicadas em: Declaração de Rectificação n.º 54/2009. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-regulamentares/2009/decreto-regulamentar-10-2009.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -192,7 +198,7 @@ j) «Peças gráficas que integram os instrumentos de gestão territorial» as p
 
 1 - A cartografia de referência a utilizar na elaboração dos instrumentos de gestão territorial é obrigatoriamente:
 
-a) Cartografia topográfica;
+a) Cartografia topográfica oficial;
 
 b) Cartografia temática de base topográfica ou hidrográfica oficial; ou
 
@@ -207,6 +213,8 @@ c) A cartografia homologada nos termos da legislação em vigor, nas suas versõ
 5 - A informação cadastral a utilizar na elaboração dos instrumentos de gestão territorial é a que consta da cartografia cadastral do cadastro predial, sempre que disponível.
 
 6 - As listas da cartografia oficial ou homologada são publicadas nas páginas da Internet dos organismos responsáveis pela sua produção ou homologação.
+
+> Alterado pelo/a [Declaração de Rectificação n.º 54/2009](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/54-2009-492752), publicado em 2009-07-28.
 
 ###### Artigo 4.º — Carta base
 

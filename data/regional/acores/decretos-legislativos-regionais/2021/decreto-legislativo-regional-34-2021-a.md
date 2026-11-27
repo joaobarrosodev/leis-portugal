@@ -40,18 +40,23 @@ notes: []
 language: por
 version:
   kind: consolidated
-  label: Versão consolidada pelo DRE
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: '2021-11-24'
+  consolidation_date: '2021-12-20'
 version_history:
   file: decreto-legislativo-regional-34-2021-a.versoes.json
-  count: 1
+  count: 2
   source_lastmod: '2024-06-25'
   versions:
   - date: '2021-11-24'
     amending: null
     amending_title: null
     changes: []
+  - date: '2021-12-20'
+    amending: pt:dre:176147942:por
+    amending_title: Declaração de Retificação n.º 15/2021/A
+    changes:
+    - Altera Artigo Anexo::66.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/declegreg/34/2021/a/cons/20211220/pt/html
@@ -78,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre-consolidated
   generated_at: '2026-10-22T12:46:48Z'
-  notes: 1 versão(ões); histórico completo em decreto-legislativo-regional-34-2021-a.versoes.json.
+  notes: 'Texto em vigor consolidado pelo leis-portugal sobre a versão consolidada pelo DRE de 2021-11-24 com as alterações
+    publicadas em: Declaração de Retificação n.º 15/2021/A. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/acores/decretos-legislativos-regionais/2021/decreto-legislativo-regional-34-2021-a.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -877,7 +883,7 @@ A desafetação de bens culturais do domínio público incorporados em museus ca
 
 ###### Artigo 66.º — Direito de preferência da Região Autónoma dos Açores
 
-1 - A alienação ou a constituição de outro direito real sobre bem cultural incorporado em museu privado confere à Região o direito de preferência, independentemente de o bem-estar classificado ou em vias de classificação ou inventariado.
+1 - A alienação ou a constituição de outro direito real sobre bem cultural incorporado em museu privado confere à Região o direito de preferência, independentemente de o bem estar classificado ou em vias de classificação ou inventariado.
 
 2 - A comunicação da alienação ou da constituição de outro direito real deve ser feita por escrito pelo responsável pelo museu ou do órgão dirigente da pessoa coletiva de que dependa, no caso de o museu não dispor de personalidade jurídica, ao serviço competente para a instrução do respetivo procedimento.
 
@@ -886,6 +892,8 @@ A desafetação de bens culturais do domínio público incorporados em museus ca
 4 - O prazo para o exercício do direito de preferência é de 60 dias.
 
 5 - O direito de preferência por parte da Região é exercido pelos membros do Governo Regional com competência em matéria de finanças e cultura.
+
+> Alterado pelo/a [Declaração de Retificação n.º 15/2021/A](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/15-2021-176147942), publicado em 2021-12-20.
 
 ###### Artigo 67.º — Incorporação em Museu da Rede de Museus e Coleções Visitáveis dos Açores
 

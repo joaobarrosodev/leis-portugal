@@ -1,0 +1,31 @@
+[
+  {"id": "pt:dre:25343691:por", "artigos": [
+    {"artigo": "Artigo 2.º", "veredicto": "certo", "motivo": "Ponto 2: na parte que altera o art. 33.º do DL 135/99, a epígrafe «[...]» passa a «Substituição do atestado de residência pelo cartão de cidadão». (O ponto 1 retifica o sumário, que não faz parte do texto do diploma.)", "texto_esperado": ""},
+    {"artigo": "Artigo 33.º", "veredicto": "certo", "motivo": "Ponto 3: na republicação, epígrafe passa a «... pelo cartão de cidadão»; corpo igual.", "texto_esperado": ""}
+  ], "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações", "instrucoes_justificadas": []},
+  {"id": "pt:dre:257806:por", "artigos": [
+    {"artigo": "Artigo 16.º", "veredicto": "certo", "motivo": "Art. 3.º do DL 102/2017: n.os 4 a 7 e 9 com a nova redação, n.º 8 = anterior n.º 6; n.os 1 a 3 mantidos.", "texto_esperado": ""},
+    {"artigo": "Artigo 32.º", "veredicto": "certo", "motivo": "Alínea e) do n.º 1 com a nova redação (acrescenta «nos n.os 4 e 6 do artigo 16.º»); resto mantido.", "texto_esperado": ""}
+  ], "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações", "instrucoes_justificadas": []},
+  {"id": "pt:dre:290635:por", "artigos": [
+    {"artigo": "Artigo 21.º", "veredicto": "certo", "motivo": "N.º 2 com a nova redação letra a letra; n.º 1 («...») e epígrafe («[...]») mantidos.", "texto_esperado": ""}
+  ], "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações", "instrucoes_justificadas": []},
+  {"id": "pt:dre:333155:por", "artigos": [
+    {"artigo": "Capítulo II", "veredicto": "certo", "motivo": "Título do capítulo II passa a «Da prospecção e pesquisa».", "texto_esperado": ""},
+    {"artigo": "Artigo 8.º", "veredicto": "certo", "motivo": "Epígrafe passa a «Direitos inerentes à actividade».", "texto_esperado": ""},
+    {"artigo": "Artigo 9.º", "veredicto": "certo", "motivo": "Epígrafe passa a «Obrigações decorrentes do contrato».", "texto_esperado": ""},
+    {"artigo": "Artigo 40.º", "veredicto": "certo", "motivo": "Alínea b) do n.º 1 passa a «Até ao fim do mesmo mês».", "texto_esperado": ""}
+  ], "instrucoes_em_falta": [
+    "«Artigo 53.º (Taxas)» deve ler-se «Artigo 54.º (Taxas)»: alvo incerto; sem efeito no consolidado e a vista não mostra onde se aplica"
+  ], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações", "instrucoes_justificadas": []},
+  {"id": "pt:dre:407284:por", "artigos": [
+    {"artigo": "Artigo 15.º", "veredicto": "certo", "motivo": "Art. 9.º do DL 214-G/2015: n.º 1 com a nova redação e n.os 2 a 8 «[Revogado].» como no alterador; epígrafe mantida.", "texto_esperado": ""}
+  ], "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações", "instrucoes_justificadas": []},
+  {"id": "pt:dre:451220:por", "artigos": [
+    {"artigo": "Artigo 1.º", "veredicto": "certo", "motivo": "N.º 9 (do art. 30.º aditado): «no prazo tante provisório não prejudica a sua rectificação, devendo» passa a «no prazo de 15 dias a partir do falecimento do funcionário, devendo». A declaração diz «192/82» mas a data de publicação e o texto são os do DL 192/83.", "texto_esperado": ""}
+  ], "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações", "instrucoes_justificadas": []},
+  {"id": "pt:dre:469001:por", "artigos": [
+    {"artigo": "Anexo I", "veredicto": "certo", "motivo": "Anexo em imagem republicado pela retificação: passa a ter a ligação para a imagem da retificação (1s/2006/02/026a00/08570857.pdf).", "texto_esperado": ""},
+    {"artigo": "Anexo II", "veredicto": "certo", "motivo": "Idem, anexo II (certificado) com a imagem da retificação.", "texto_esperado": ""}
+  ], "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações", "instrucoes_justificadas": []}
+]

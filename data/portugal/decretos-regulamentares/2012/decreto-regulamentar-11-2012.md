@@ -39,18 +39,25 @@ notes: []
 language: por
 version:
   kind: consolidated
-  label: Versão consolidada pelo DRE
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: '2012-01-19'
+  consolidation_date: '2018-01-26'
 version_history:
   file: decreto-regulamentar-11-2012.versoes.json
-  count: 1
+  count: 2
   source_lastmod: '2024-06-25'
   versions:
   - date: '2012-01-19'
     amending: null
     amending_title: null
     changes: []
+  - date: '2018-01-26'
+    amending: pt:dre:114561767:por
+    amending_title: Decreto Regulamentar n.º 3/2018
+    changes:
+    - Altera Artigo 4.º
+    - Revoga Artigo 3.º
+    - Revoga Artigo 5.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/decregul/11/2012/p/cons/20180125/pt/html
@@ -77,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre-consolidated
   generated_at: '2026-10-22T12:16:54Z'
-  notes: 1 versão(ões); histórico completo em decreto-regulamentar-11-2012.versoes.json.
+  notes: 'Texto em vigor consolidado pelo leis-portugal sobre a versão consolidada pelo DRE de 2012-01-19 com as alterações
+    publicadas em: Decreto Regulamentar n.º 3/2018. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-regulamentares/2012/decreto-regulamentar-11-2012.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -222,13 +230,15 @@ z) Analisar, em concertação com outros ministérios e entidades públicas e pr
 
 2 - Junto da DGPE funcionam:
 
-a) O Conselho Coordenador Político-Diplomático;
+a) (Revogada.)
 
 b) A Comissão Interministerial de Política Externa;
 
 c) A Autoridade Nacional para a Convenção sobre a Proibição do Desenvolvimento, Produção, Armazenamento e Utilização das Armas Químicas;
 
 d) A Autoridade Nacional para efeitos do Tratado de Proibição Total de Ensaios Nucleares.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto Regulamentar n.º 3/2018](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-2018-114561767), publicado em 2018-01-25.
 
 ###### Artigo 4.º — Director-geral
 
@@ -240,7 +250,7 @@ b) Assegurar a coordenação com os outros departamentos, serviços ou entidades
 
 c) Propor as acções tendentes ao desenvolvimento e à execução das grandes linhas da política externa portuguesa, no âmbito das atribuições da DGPE;
 
-d) Convocar e presidir às reuniões do Conselho Coordenador Político-Diplomático;
+d) Convocar e presidir às reuniões do Conselho Coordenador Político Diplomático nas ausências ou impedimentos do secretário-geral, ou em urgentes matérias político-diplomáticas;
 
 e) Convocar e presidir às reuniões da Comissão Interministerial de Política Externa e proceder à adequada difusão das iniciativas aí anunciadas e ou de outras decisões ou questões relevantes;
 
@@ -248,21 +258,13 @@ f) Preparar, coordenar e assegurar a transmissão de instruções aos serviços 
 
 2 - Os subdirectores-gerais exercem as competências que lhe sejam delegadas ou subdelegadas pelo director-geral, devendo este identificar a quem compete substituí-lo nas suas faltas e impedimentos.
 
+> Alterado pelo/a Artigo 4.º do/a [Decreto Regulamentar n.º 3/2018](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-2018-114561767), publicado em 2018-01-25.
+
 ###### Artigo 5.º — Conselho Coordenador Político-Diplomático
 
-1 - O Conselho Coordenador Político-Diplomático tem por missão assistir o director-geral de política externa, no exercício das funções de coordenação da actividade dos serviços do MNE, nos assuntos de natureza político-diplomática.
+(Revogado.)
 
-2 - Participam nas reuniões do Conselho Coordenador Político-Diplomático:
-
-a) O director-geral de política externa, que preside;
-
-b) O director-geral dos assuntos europeus;
-
-c) O Presidente da AICEP, E. P. E.;
-
-d) Outros directores-gerais do MNE, quando a sua presença seja necessária face à natureza das questões a analisar;
-
-e) Quaisquer outros funcionários, sempre que, em razão dos assuntos a discutir, sejam convocados pelo director-geral de política externa.
+> Revogado pelo/a Artigo 5.º do/a [Decreto Regulamentar n.º 3/2018](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-2018-114561767), publicado em 2018-01-25.
 
 ###### Artigo 6.º — Comissão Interministerial de Política Externa
 

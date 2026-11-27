@@ -30,6 +30,34 @@
      "date": "2007-01-01"
     }
    ]
+  },
+  {
+   "date": "2007-01-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:522777:por",
+     "title": "Lei n.º 3/2007",
+     "published": "2007-01-16",
+     "dre_path": "/dr/detalhe/lei/3-2007-522777"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 5.º-A"
+   ],
+   "consolidated_by": "leis-portugal (consolidacao/camada1.py, linha 9 «dre»): sobre a versão consolidada pelo DRE",
+   "fragments": [
+    "75108945",
+    "75108946",
+    "75108947",
+    "75108948",
+    "75108949",
+    "75108950",
+    "111b078ffc04ab15",
+    "75108951",
+    "75108952",
+    "75108953"
+   ]
   }
  ],
  "fragments": {
@@ -104,6 +132,16 @@
    "in_force_from": null,
    "changed_by": [],
    "markdown": "###### Artigo 8.º — Entrada em vigor\n\nA presente lei entrará em vigor com a aprovação do Orçamento do Estado para o ano 2000."
+  },
+  "111b078ffc04ab15": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º-A — Programa Específico de Troca de Seringas",
+   "in_force_from": "2007-01-16",
+   "changed_by": [
+    "Aditado pelo/a Artigo 1.º do/a [Lei n.º 3/2007](https://diariodarepublica.pt/dr/detalhe/lei/3-2007-522777), publicado em 2007-01-16."
+   ],
+   "markdown": "###### Artigo 5.º-A — Programa Específico de Troca de Seringas\n\n1 - É criado o Programa Específico de Troca de Seringas, adiante designado por Programa, com o objectivo de evitar a contaminação e propagação de doenças infecto-contagiosas em meio prisional.\n\n2 - A troca de seringas para injecção de substâncias estupefacientes ou psicotrópicas em meio prisional, em cidadãos reclusos, é aplicada a título experimental, num ou mais estabelecimentos prisionais para o efeito seleccionados, sem prejuízo da prioridade das medidas a adoptar com vista à prevenção e redução de propagação de doenças infecto-contagiosas, bem como à recuperação dos toxicodependentes.\n\n3 - Na selecção dos estabelecimentos prisionais referidos no número anterior, será tida em conta a maior prevalência de doenças infecto-contagiosas e de casos de toxicodependência, bem como a existência de programas de intervenção na área da prevenção, controlo e tratamento daquelas patologias.\n\n> Aditado pelo/a Artigo 1.º do/a [Lei n.º 3/2007](https://diariodarepublica.pt/dr/detalhe/lei/3-2007-522777), publicado em 2007-01-16."
   }
  }
 }

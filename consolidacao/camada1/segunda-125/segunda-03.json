@@ -1,0 +1,25 @@
+[
+ {
+  "id": "pt:dre:483145:por",
+  "veredicto": "certo",
+  "problemas": [],
+  "vigencia": {
+   "conclusao": "outro",
+   "prova": "Lei n.º 139/2015, art. 2.º, n.ºs 1 e 2: o Estatuto (republicado no anexo I deste decreto-lei) passa a Estatuto da Ordem dos Contabilistas Certificados e o Código Deontológico (anexo II) passa a Código Deontológico dos Contabilistas Certificados, ambos com a redação dos anexos dessa lei. Os anexos deste decreto-lei já não dão o texto em vigor. Pela regra das instruções sobre outro diploma, isto não muda este texto."
+  }
+ },
+ {
+  "id": "pt:dre:117537583:por",
+  "veredicto": "certo",
+  "problemas": [],
+  "vigencia": null
+ },
+ {
+  "id": "pt:dre:114425586:por",
+  "veredicto": "duvida",
+  "problemas": [
+   "Art. 264.º: a retificação só corrige a frase inicial («59.º-G e 59.º-H» passa a «59.º-H e 59.º-I»), e o consolidado aplica-a à letra. Mas os títulos dos artigos aditados, no texto entre aspas, continuam a ser «Artigo 59.º-G» (Produção cinematográfica e audiovisual) e «Artigo 59.º-H» (Prédios ou parte de prédios afetos a lojas com história). O artigo fica incoerente: a frase inicial anuncia 59.º-H e 59.º-I e o texto traz 59.º-G e 59.º-H. Lida como jurista, a retificação renumera os artigos aditados, porque o 59.º-G do EBF foi aditado pela Lei n.º 110/2017, na mesma data. O consolidado do EBF no acervo (decreto-lei-215-89.md) tem «59.º-H — Produção cinematográfica e audiovisual» e «59.º-I — Prédios ou parte de prédios afetos a lojas com história». Se se decidir que a retificação abrange os títulos, o texto certo é «Artigo 59.º-H» e «Artigo 59.º-I», no lugar de «Artigo 59.º-G» e «Artigo 59.º-H» dentro do art. 264.º. Pela regra de que o que a instrução não muda fica letra a letra, o texto atual está certo. Por isso não decido e dou duvida."
+  ],
+  "vigencia": null
+ }
+]

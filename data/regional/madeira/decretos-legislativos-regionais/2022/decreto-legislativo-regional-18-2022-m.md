@@ -40,18 +40,23 @@ notes: []
 language: por
 version:
   kind: consolidated
-  label: Versão consolidada pelo DRE
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: '2022-08-05'
+  consolidation_date: '2026-06-19'
 version_history:
   file: decreto-legislativo-regional-18-2022-m.versoes.json
-  count: 1
+  count: 2
   source_lastmod: '2026-06-19'
   versions:
   - date: '2022-08-05'
     amending: null
     amending_title: null
     changes: []
+  - date: '2026-06-19'
+    amending: pt:dre:1133905358:por
+    amending_title: Decreto Legislativo Regional n.º 11/2026/M
+    changes:
+    - Adita Artigo 2.º-A
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/declegreg/18/2022/m/cons/20260618/pt/html
@@ -78,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre-consolidated
   generated_at: '2026-10-22T13:45:15Z'
-  notes: 1 versão(ões); histórico completo em decreto-legislativo-regional-18-2022-m.versoes.json.
+  notes: 'Texto em vigor consolidado pelo leis-portugal sobre a versão consolidada pelo DRE de 2022-08-05 com as alterações
+    publicadas em: Decreto Legislativo Regional n.º 11/2026/M. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/madeira/decretos-legislativos-regionais/2022/decreto-legislativo-regional-18-2022-m.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -196,6 +202,18 @@ d) Os mecanismos de monitorização, acompanhamento e fiscalização, pelas enti
 a) Decorrido um período de 20 anos a contar da data da sua disponibilização, sempre que o financiamento corresponda a obras de construção de raiz, ampliação ou remodelação de infraestruturas;
 
 b) Decorrido um período de 8 anos a contar da data da sua disponibilização, nos restantes casos.
+
+###### Artigo 2.º-A — Vigência dos contratos de financiamento celebrados com os executores dos investimentos
+
+1 - Os contratos de financiamento celebrados antes de 31 de dezembro de 2025 entre o IASAÚDE, IP-RAM, na qualidade de beneficiário final, e os executores dos investimentos, abrangidos pelo presente decreto legislativo regional mantêm-se em vigor até 30 de junho de 2026, sem prejuízo do disposto nos números seguintes.
+
+2 - As alterações aos contratos de financiamento referidos no número anterior, outorgadas após 31 de dezembro de 2025, entram em vigor na data da sua outorga, produzindo os seus efeitos nas datas nelas estabelecidas.
+
+3 - Sem prejuízo do disposto nos números anteriores, e caso venham a ser determinadas novas alterações ao prazo de execução do investimento C01-i05-RAM - Fortalecimento do Serviço Regional de Saúde da RAM, subinvestimento C01-i05.01 - Expansão, Desenvolvimento e Melhoria da Rede de Cuidados Continuados Integrados, por decisão do Conselho da União Europeia ou por outros atos jurídicos da União Europeia que produzam efeitos equivalentes, os contratos de financiamento celebrados antes de 31 de dezembro de 2025 entre o IASAÚDE, IP-RAM e os executores dos investimentos mantêm-se em vigor até às datas nelas estabelecidas.
+
+4 - O disposto nos números anteriores não se aplica aos contratos entretanto revogados por acordo das partes.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 11/2026/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2026-1133905358), publicado em 2026-06-18.
 
 ###### Artigo 3.º — Entrada em vigor
 

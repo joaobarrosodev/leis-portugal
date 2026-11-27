@@ -54,6 +54,61 @@
      "date": "2009-07-05"
     }
    ]
+  },
+  {
+   "date": "2009-08-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:493035:por",
+     "title": "Declaração de Rectificação n.º 56/2009",
+     "published": "2009-08-03",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/56-2009-493035"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 3.º",
+    "Retifica Artigo 3.º",
+    "Retifica Artigo 3.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo Anexo — Certidão a que se refere o artigo 5.º"
+   ],
+   "consolidated_by": "leis-portugal (consolidacao/camada1.py, linha 9 «dre»): sobre a versão consolidada pelo DRE",
+   "fragments": [
+    "213499682",
+    "213499683",
+    "213499684",
+    "213499685",
+    "19652e9f9a7b7430",
+    "213499687",
+    "213499688",
+    "213499689",
+    "213499690",
+    "213499691",
+    "213499692",
+    "213499693",
+    "213499694",
+    "213499695",
+    "213499696",
+    "213499697",
+    "213499698",
+    "213499699",
+    "213499700",
+    "213499701",
+    "213499702",
+    "213499703",
+    "213499704",
+    "213499705",
+    "213499706",
+    "213499707",
+    "213499708",
+    "213499709",
+    "213499710",
+    "213499711",
+    "213499712",
+    "213499713",
+    "c6f455f24059de8e"
+   ]
   }
  ],
  "fragments": {
@@ -320,6 +375,29 @@
    "in_force_from": null,
    "changed_by": [],
    "markdown": "## Anexo — Certidão a que se refere o artigo 5.º\n\n(ver documento original)"
+  },
+  "19652e9f9a7b7430": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Âmbito de aplicação",
+   "in_force_from": "2009-08-03",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 56/2009](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/56-2009-493035), publicado em 2009-08-03.",
+    "Retificado pelo/a [Declaração de Rectificação n.º 56/2009](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/56-2009-493035), publicado em 2009-08-03.",
+    "Retificado pelo/a [Declaração de Rectificação n.º 56/2009](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/56-2009-493035), publicado em 2009-08-03.",
+    "Alterado pelo/a [Declaração de Rectificação n.º 56/2009](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/56-2009-493035), publicado em 2009-08-03."
+   ],
+   "markdown": "###### Artigo 3.º — Âmbito de aplicação\n\n1 - São reconhecidas e executadas, sem controlo da dupla incriminação do facto, as decisões de apreensão tomadas no âmbito de processos penais que respeitem às seguintes infracções, desde que, de acordo com a legislação do Estado de emissão, estas sejam puníveis com pena privativa da liberdade de duração máxima não inferior a três anos:\n\na) Associação criminosa;\n\nb) Terrorismo;\n\nc) Tráfico de seres humanos;\n\nd) Exploração sexual de menores e pornografia de menores;\n\ne) Tráfico de estupefacientes e de substâncias psicotrópicas;\n\nf) Tráfico de armas, munições e explosivos;\n\ng) Corrupção;\n\nh) Fraude na obtenção ou desvio de subsídio ou subvenção, incluindo a fraude lesiva dos interesses financeiros das Comunidades Europeias na acepção da Convenção, de 26 de Julho de 1995, relativa à protecção dos interesses financeiros das Comunidades Europeias;\n\ni) Branqueamento de produtos do crime;\n\nj) Contrafacção de moeda, incluindo o euro;\n\nl) Cibercriminalidade;\n\nm) Crimes contra o ambiente, incluindo o tráfico de espécies animais ameaçadas e de espécies e variedades vegetais ameaçadas;\n\nn) Auxílio à entrada e à permanência de imigrantes ilegais;\n\no) Homicídio e ofensas à integridade física graves ou qualificadas;\n\np) Tráfico de órgãos e tecidos humanos;\n\nq) Rapto, sequestro e tomada de reféns;\n\nr) Racismo e xenofobia;\n\ns) Roubo;\n\nt) Tráfico de bens culturais, incluindo antiguidades e obras de arte;\n\nu) Burla;\n\nv) Coação ou extorsão;\n\nx) Contrafacção, imitação e uso ilegal de marca ou de produtos;\n\nz) Falsificação de documentos administrativos e respectivo tráfico;\n\naa) Falsificação de meios de pagamento;\n\nab) Tráfico de substâncias hormonais e outros estimuladores de crescimento;\n\nac) Tráfico de materiais nucleares ou radioactivos;\n\nad) Tráfico de veículos furtados ou roubados;\n\nae) Violação;\n\naf) Incêndio provocado;\n\nag) Crimes abrangidos pela jurisdição do Tribunal Penal Internacional;\n\nah) Desvio de avião ou navio;\n\nai) Sabotagem.\n\n2 - Ressalvado o disposto no n.º 4 do artigo 8.º, no que respeita às situações não previstas no número anterior só são admissíveis o reconhecimento e a execução pelas autoridades judiciárias portuguesas das decisões de apreensão se os factos em causa constituírem infracção punível pela lei portuguesa, independentemente dos seus elementos constitutivos ou da sua qualificação no direito do Estado de emissão.\n\n3 - Também no que respeita às situações não previstas no n.º 1, só são admissíveis o reconhecimento e a execução pelas autoridades judiciárias portuguesas das decisões de apreensão para efeitos de subsequente perda de bens se a lei portuguesa permitir a apreensão em processo pelos factos em causa, independentemente dos seus elementos constitutivos ou da sua qualificação no direito do Estado de emissão.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 56/2009](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/56-2009-493035), publicado em 2009-08-03.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 56/2009](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/56-2009-493035), publicado em 2009-08-03.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 56/2009](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/56-2009-493035), publicado em 2009-08-03.\n\n> Alterado pelo/a [Declaração de Rectificação n.º 56/2009](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/56-2009-493035), publicado em 2009-08-03."
+  },
+  "c6f455f24059de8e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Anexo — Certidão a que se refere o artigo 5.º",
+   "in_force_from": "2009-08-03",
+   "changed_by": [
+    "Alterado pelo/a [Declaração de Rectificação n.º 56/2009](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/56-2009-493035), publicado em 2009-08-03."
+   ],
+   "markdown": "## Anexo — Certidão a que se refere o artigo 5.º\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/08/14800/0498304985.pdf)\n\n> Alterado pelo/a [Declaração de Rectificação n.º 56/2009](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/56-2009-493035), publicado em 2009-08-03."
   }
  }
 }

@@ -39,18 +39,23 @@ notes: []
 language: por
 version:
   kind: consolidated
-  label: Versão consolidada pelo DRE
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: '1994-06-27'
+  consolidation_date: '1995-01-01'
 version_history:
   file: decreto-lei-177-94.versoes.json
-  count: 1
+  count: 2
   source_lastmod: '2024-06-25'
   versions:
   - date: '1994-06-27'
     amending: null
     amending_title: null
     changes: []
+  - date: '1995-01-01'
+    amending: pt:dre:575879:por
+    amending_title: Decreto-Lei n.º 320/94
+    changes:
+    - Altera Artigo 21.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/177/1994/p/cons/19941227/pt/html
@@ -77,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre-consolidated
   generated_at: '2026-10-22T11:43:25Z'
-  notes: 1 versão(ões); histórico completo em decreto-lei-177-94.versoes.json.
+  notes: 'Texto em vigor consolidado pelo leis-portugal sobre a versão consolidada pelo DRE de 1994-06-27 com as alterações
+    publicadas em: Decreto-Lei n.º 320/94. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1994/decreto-lei-177-94.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -359,7 +365,9 @@ A cobertura orçamental do PEDIP II será assegurada por verbas comunitárias, b
 
 1 - Os projectos de grande relevância industrial já iniciados no ano de 1993 e que apresentem a respectiva candidatura no âmbito do PEDIP II até ao 60.º dia posterior à entrada em vigor da respectiva regulamentação são comparticipados nas despesas efectuadas a partir de 9 de Julho de 1993, desde que como tal sejam reconhecidos por despacho do Ministro da Indústria e Energia.
 
-2 - As despesas efectuadas posteriormente a 1 de Janeiro de 1994 no âmbito de projectos, iniciados após aquela data, abrangidos pelo presente diploma poderão ser comparticipadas, desde que as respectivas candidaturas sejam apresentadas no prazo de 60 dias contados da data da entrada em vigor da respectiva regulamentação específica.
+2 - As despesas efectuadas posteriormente a 1 de Janeiro de 1994 no âmbito de projectos iniciados após aquela data abrangidos pelo presente diploma poderão ser comparticipadas desde que as respectivas candidaturas sejam apresentadas até 31 de Dezembro de 1994.
+
+> Alterado pelo/a [Decreto-Lei n.º 320/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/320-1994-575879), publicado em 1994-12-27.
 
 ###### Artigo 22.º — Projectos transitados
 

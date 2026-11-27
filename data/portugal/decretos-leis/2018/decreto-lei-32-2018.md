@@ -39,18 +39,29 @@ notes: []
 language: por
 version:
   kind: consolidated
-  label: Versão consolidada pelo DRE
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: '2018-05-08'
+  consolidation_date: '2018-07-06'
 version_history:
   file: decreto-lei-32-2018.versoes.json
-  count: 1
+  count: 2
   source_lastmod: '2024-06-25'
   versions:
   - date: '2018-05-08'
     amending: null
     amending_title: null
     changes: []
+  - date: '2018-07-06'
+    amending: pt:dre:115652963:por
+    amending_title: Declaração de Retificação n.º 20/2018
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 7.º
+    - Altera Artigo 11.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/32/2018/p/cons/20180706/pt/html
@@ -77,7 +88,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre-consolidated
   generated_at: '2026-10-22T12:20:11Z'
-  notes: 1 versão(ões); histórico completo em decreto-lei-32-2018.versoes.json.
+  notes: 'Texto em vigor consolidado pelo leis-portugal sobre a versão consolidada pelo DRE de 2018-05-08 com as alterações
+    publicadas em: Declaração de Retificação n.º 20/2018. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2018/decreto-lei-32-2018.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -159,7 +171,7 @@ e) O Decreto-Lei n.º 395/77, de 17 de setembro, que revoga o Decreto n.º 197/7
 
 f) O Decreto-Lei n.º 107/78, de 24 de maio, que fixa as letras dos vencimentos do pessoal do serviço diplomático;
 
-g) O Decreto-Lei n.º 202/78, de 15 de julho, que estabelece normas relativas ao cargo de conselheiro técnico do Ministério dos Negócios Estrangeiros, dando nova redação ao artigo 6.º do Decreto-Lei n.º 483/74, de 25 de setembro;
+g) O Decreto-Lei n.º 202/78, de 22 de julho, que estabelece normas relativas ao cargo de conselheiro técnico do Ministério dos Negócios Estrangeiros, dando nova redação ao artigo 6.º do Decreto-Lei n.º 483/74, de 25 de setembro;
 
 h) O Decreto-Lei n.º 209/78, de 27 de julho, que aprova o Protocolo Relativo ao Regime de Taxas de Fretes a Praticar entre os Portos da República Portuguesa e da República de Cabo Verde;
 
@@ -170,6 +182,8 @@ j) O Decreto-Lei n.º 469/79, de 13 de dezembro, que dá nova redação a vário
 k) O Decreto-Lei n.º 532/79, de 31 de dezembro, que aprova a Lei Orgânica do Laboratório Nacional de Investigação Científica Tropical - LNICT;
 
 l) O Decreto-Lei n.º 572-B/80, de 26 de dezembro, que prorroga o prazo fixado no artigo 24.º do Decreto-Lei n.º 486/79, de 18 de dezembro.
+
+> Alterado pelo/a [Declaração de Retificação n.º 20/2018](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/20-2018-115652963), publicado em 2018-07-06.
 
 ###### Artigo 3.º — Presidência do Conselho de Ministros e Modernização Administrativa
 
@@ -225,7 +239,7 @@ x) Decreto-Lei n.º 602/75, de 29 de outubro, que transfere para o Estado de Ang
 
 y) O Decreto-Lei n.º 683-B/76, de 10 de setembro, que cria na Presidência do Conselho de Ministros e na dependência do Primeiro-Ministro o Comissariado para os Desalojados;
 
-z) O Decreto-Lei n.º 674-A/75, de 2 de dezembro, que nacionaliza as posições sociais do capital da RTP, Radiotelevisão Portuguesa;
+z) O Decreto-Lei n.º 674-D/75, de 2 de dezembro, que nacionaliza as posições sociais do capital da RTP, Radiotelevisão Portuguesa;
 
 aa) O Decreto-Lei n.º 229-D/76, de 1 de abril, que procede à revogação do artigo 11.º do Decreto-Lei n.º 719/74, de 18 de dezembro (requisição por parte do Estado de quaisquer gestores ou técnicos de todas as empresas do setor privado);
 
@@ -476,6 +490,8 @@ ssssss) O Decreto-Lei n.º 561-A/80, de 4 de dezembro, que decreta luto nacional
 tttttt) O Decreto-Lei n.º 574/80, de 31 de dezembro, que introduz alterações ao Decreto-Lei n.º 346/77, de 20 de agosto (Secretariado Nacional de Reabilitação), e extingue a Comissão Militar de Reabilitação e Assistência (CMRA);
 
 uuuuuu) O Decreto-Lei n.º 588/80, de 31 de dezembro, que prorroga o prazo referido no artigo 2.º, n.º 2, do Decreto-Lei n.º 513-U/79, de 27 de dezembro (cessação do regime de instalação dos serviços e estabelecimentos dependentes da Secretaria de Estado da Saúde), na redação que lhe foi dada pelo Decreto-Lei n.º 96/80, de 5 de maio, no tocante aos Serviços Médico-Sociais.
+
+> Alterado pelo/a [Declaração de Retificação n.º 20/2018](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/20-2018-115652963), publicado em 2018-07-06.
 
 ###### Artigo 4.º — Finanças
 
@@ -1589,7 +1605,7 @@ Nos termos do artigo 1.º, consideram-se revogados, na área de atribuições da
 
 a) O Decreto-Lei n.º 39/75, de 1 de fevereiro, que extingue as Secretarias-Gerais da Assembleia Nacional e da Câmara Corporativa;
 
-b) O Decreto-Lei n.º 93-D/75, de 28 de fevereiro, relativo ao direito de voto de cidadãos não militares em Moçambique;
+b) O Decreto-Lei n.º 93-B/75, de 28 de fevereiro, relativo ao direito de voto de cidadãos não militares em Moçambique;
 
 c) O Decreto-Lei n.º 139/75, de 18 de março, que cria no arquipélago da Madeira uma Junta de Planeamento e fixa a sua composição e competência;
 
@@ -1774,6 +1790,8 @@ nnnn) O Decreto-Lei n.º 452/80, de 8 de outubro, que fixa os vencimentos base a
 oooo) O Decreto-Lei n.º 511/80, de 25 de outubro, que reestrutura os Serviços Sociais da Guarda Fiscal;
 
 pppp) O Decreto-Lei n.º 563/80, 6 de dezembro, que modifica o regime relativo à trasladação de cadáveres.
+
+> Alterado pelo/a [Declaração de Retificação n.º 20/2018](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/20-2018-115652963), publicado em 2018-07-06.
 
 ###### Artigo 8.º — Cultura
 
@@ -2047,7 +2065,7 @@ w) O Decreto-Lei n.º 183/76, de 10 de março, que altera o Decreto-Lei n.º 215
 
 x) O Decreto-Lei n.º 223/76, de 30 de março, que procede à revogação do Decreto-Lei n.º 456/72, de 14 de novembro (fixa as condições a que deve obedecer o pagamento dos subsídios ou gratificações previstos nas normas reguladoras dos contratos individuais de trabalho);
 
-y) O Decreto-Lei n.º 225-E/76, de 30 de março, que determina que o Decreto n.º 785/75, de 31 de dezembro [que introduz alterações nos Decretos n.os 45266 e 46548, respetivamente de 23 de setembro de 1963 e de 23 de setembro de 1965 (juros de mora relativos a dívidas à Previdência)], produz efeitos a partir de 1 de abril de 1976;
+y) O Decreto-Lei n.º 225-E/76, de 31 de março, que determina que o Decreto n.º 785/75, de 31 de dezembro [que introduz alterações nos Decretos n.os 45266 e 46548, respetivamente de 23 de setembro de 1963 e de 23 de setembro de 1965 (juros de mora relativos a dívidas à Previdência)], produz efeitos a partir de 1 de abril de 1976;
 
 z) O Decreto-Lei n.º 318-A/76, de 30 de abril, que suspende por trinta dias a aplicação do artigo 9.º do Decreto-Lei n.º 25-D/76, de 15 de janeiro (permite a antecipação da reforma para os 60 anos em determinadas circunstâncias), bem como o Decreto-Lei n.º 427-A/76, de 1 de junho (prorroga por mais noventa dias o prazo de suspensão de aplicação do artigo 9.º do Decreto-Lei n.º 25-D/76, de 15 de janeiro, previsto no artigo 1.º do Decreto-Lei n.º 318-A/76, de 30 de abril), bem como o Decreto-Lei n.º 723/76, de 13 de outubro (suspende até 31 de dezembro de 1976 o Decreto-Lei n.º 25-D/76, de 15 de janeiro);
 
@@ -2268,6 +2286,8 @@ cccccc) O Decreto-Lei n.º 527/80, de 5 de novembro, que permite, em certas cond
 dddddd) O Decreto-Lei n.º 528/80, de 5 se novembro, que atribui competência aos conselhos diretivos das escolas preparatórias e secundárias para executarem obras de conservação, restauro e manutenção dos edifícios a seu cargo;
 
 eeeeee) O Decreto-Lei n.º 555/80, de 28 de novembro, que passa para os reitores das Universidades e dos Institutos Universitários a competência para a concessão de equiparação a bolseiro no país e fora do país.
+
+> Alterado pelo/a [Declaração de Retificação n.º 20/2018](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/20-2018-115652963), publicado em 2018-07-06.
 
 ###### Artigo 12.º — Saúde
 
@@ -2537,7 +2557,7 @@ jjjjj) O Decreto-Lei n.º 584/80, de 31 de dezembro, que prorroga até 31 de dez
 
 Nos termos do artigo 1.º, consideram-se revogados, na área de atribuições da economia, os seguintes diplomas:
 
-a) O Decreto-Lei n.º 60/75, de 13 de fevereiro, que autoriza o Governo a alterar estatutos da Marconi;
+a) O Decreto-Lei n.º 60/75, de 17 de fevereiro, que autoriza o Governo a alterar estatutos da Marconi;
 
 b) O Decreto-Lei n.º 158-A/75, de 26 de março, que cria o Ministério para o Planeamento e Coordenação Económica;
 
@@ -2545,7 +2565,7 @@ c) O Decreto-Lei n.º 198/75, de 14 de abril, que dá nova designação às Casa
 
 d) O Decreto-Lei n.º 315/75, de 27 de junho, que altera a composição da Comissão Reguladora do Comércio de Bacalhau;
 
-e) O Decreto-Lei n.º 409/75, de 5 de agosto, que reestrutura o Ministério da Comunicação Social;
+e) O Decreto-Lei n.º 409/75, de 2 de agosto, que reestrutura o Ministério da Comunicação Social;
 
 f) O Decreto-Lei n.º 412-B/75, de 7 de agosto, que cria o Ministério do Comércio Interno;
 
@@ -2575,7 +2595,7 @@ r) O Decreto-Lei n.º 49-A/76, de 20 de janeiro, que cria no Ministério do Com�
 
 s) O Decreto-Lei n.º 68-A/76, de 24 de janeiro, que determina que os novos preços do açúcar em rama e dos açúcares refinado corrente e granulado entrem em vigor no dia 26 de janeiro de 1976;
 
-t) O Decreto-Lei n.º 103-A/76, de 24 de fevereiro, que fixa, para a campanha de 1975-1976, os preços máximos de venda à lavoura para a batata de semente da produção nacional e importada;
+t) O Decreto-Lei n.º 103-A/76, de 4 de fevereiro, que fixa, para a campanha de 1975-1976, os preços máximos de venda à lavoura para a batata de semente da produção nacional e importada;
 
 u) O Decreto-Lei n.º 135/76, de 17 de fevereiro, que prorroga o prazo de validade do Decreto-Lei n.º 606/75, de 3 de novembro (regime de concessão de subsídios);
 
@@ -2773,6 +2793,8 @@ mmmmm) O Decreto-Lei n.º 536/80, de 7 de novembro, que reestrutura o setor púb
 
 nnnnn) O Decreto-Lei n.º 543/80, de 10 de novembro, que introduz alterações ao Estatuto da Fábrica-Escola Irmãos Stephens, E. P. (FEIS).
 
+> Alterado pelo/a [Declaração de Retificação n.º 20/2018](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/20-2018-115652963), publicado em 2018-07-06.
+
 ###### Artigo 15.º — Ambiente
 
 Nos termos do artigo 1.º, consideram-se revogados, na área de atribuições do ambiente, os seguintes diplomas:
@@ -2821,7 +2843,7 @@ u) O Decreto-Lei n.º 444/79, de 9 de novembro, que estabelece normas com vista 
 
 v) O Decreto-Lei n.º 109/80, de 10 de maio, que prorroga por cento e oitenta dias o prazo fixado no n.º 2 do artigo 19.º do Decreto-Lei n.º 137/79, de 18 de maio (regulamenta as sociedades de investimento), contado a partir da data da entrada em vigor da Lei n.º 64/79, de 4 de outubro (alteração, por ratificação, do Decreto-Lei n.º 137/79, de 18 de maio);
 
-w) O Decreto-Lei n.º 120/80, de 13 de maio, que dá nova redação aos artigos 5.º e 34.º do Estatuto da Empresa Nacional de Urânio, E. P. (ENU);
+w) O Decreto-Lei n.º 120/80, de 15 de maio, que dá nova redação aos artigos 5.º e 34.º do Estatuto da Empresa Nacional de Urânio, E. P. (ENU);
 
 x) O Decreto-Lei n.º 125/80, de 17 de maio, que determina que os poderes atribuídos relativamente à nomeação e exoneração dos membros dos conselhos de gestão do Banco Comercial dos Açores e da Companhia de Seguros Açoreana sejam transferidos para o Governo da Região Autónoma dos Açores;
 
@@ -2937,6 +2959,8 @@ aaaa) O Decreto-Lei n.º 568/80, de 11 de dezembro, que fixa em 975000 contos o 
 
 bbbb) O Decreto-Lei n.º 572-A/80, de 26 de dezembro, que aprova o estatuto da Companhia de Seguro de Créditos, E. P. (Cosec).
 
+> Alterado pelo/a [Declaração de Retificação n.º 20/2018](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/20-2018-115652963), publicado em 2018-07-06.
+
 ###### Artigo 16.º — Agricultura, Florestas e Desenvolvimento Rural
 
 Nos termos do artigo 1.º, consideram-se revogados, na área de atribuições da agricultura, os seguintes diplomas:
@@ -2997,7 +3021,7 @@ aa) O Decreto-Lei n.º 400/77, de 24 de setembro, que dá nova redação ao arti
 
 bb) O Decreto-Lei n.º 401/77, de 24 de setembro, que torna extensivo o crédito agrícola de emergência às cooperativas vitivinícolas e frutícolas;
 
-cc) O Decreto-Lei n.º 546/77, de 30 de dezembro, que altera o Decreto-Lei n.º 221/77, de 28 de maio (Lei Orgânica do Ministério da Agricultura e Pescas);
+cc) O Decreto-Lei n.º 546/77, de 31 de dezembro, que altera o Decreto-Lei n.º 221/77, de 28 de maio (Lei Orgânica do Ministério da Agricultura e Pescas);
 
 dd) O Decreto-Lei n.º 16/78, de 18 de janeiro, que dá nova redação aos artigos 2.º e 5.º do Decreto-Lei n.º 56/77, de 18 de fevereiro (alterações ao Decreto-Lei n.º 251/75, de 23 de maio, relativo ao crédito agrícola de emergência), e prorroga até 30 de junho de 1978 o prazo a que se refere o artigo 11.º do Decreto-Lei n.º 75-N/77, de 28 de fevereiro (Determina que o montante global dos avales concedidos pelo Instituto de Reorganização Agrária possa atingir 7 milhões de contos);
 
@@ -3050,6 +3074,8 @@ aaa) O Decreto-Lei n.º 278/80, de 14 de agosto, que determina que todos os bens
 bbb) O Decreto-Lei n.º 293/80, de 16 de agosto, que transfere para a Região Autónoma da Madeira as competências e atribuições que, no âmbito regional, eram exercidas através da Junta Nacional dos Produtos Pecuários;
 
 ccc) O Decreto-Lei n.º 326/80, de 26 de agosto, que esclarece dúvidas suscitadas relativamente ao Ministério da Agricultura e Pescas pelo Decreto-Lei n.º 182/80, de 3 de junho (funcionários do quadro geral de adidos).
+
+> Alterado pelo/a [Declaração de Retificação n.º 20/2018](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/20-2018-115652963), publicado em 2018-07-06.
 
 ###### Artigo 17.º — Mar
 

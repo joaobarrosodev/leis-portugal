@@ -41,12 +41,12 @@ notes: []
 language: por
 version:
   kind: consolidated
-  label: Versão consolidada pelo DRE
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: '2026-07-11'
+  consolidation_date: '2026-10-09'
 version_history:
   file: decreto-lei-80-a-2026.versoes.json
-  count: 2
+  count: 3
   source_lastmod: '2026-10-08'
   versions:
   - date: '2026-03-31'
@@ -59,6 +59,11 @@ version_history:
     changes:
     - Altera Artigo 6.º
     - Altera Artigo 10.º
+  - date: '2026-10-09'
+    amending: pt:dre:1178225508:por
+    amending_title: Decreto-Lei n.º 200/2026
+    changes:
+    - Altera Artigo 7.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/80-a/2026/03/31/p/dre/pt/html
@@ -85,7 +90,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre-consolidated
   generated_at: '2026-10-22T14:00:54Z'
-  notes: 2 versão(ões); histórico completo em decreto-lei-80-a-2026.versoes.json.
+  notes: 'Texto em vigor consolidado pelo leis-portugal sobre a versão consolidada pelo DRE de 2026-07-11 com as alterações
+    publicadas em: Decreto-Lei n.º 200/2026. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2026/decreto-lei-80-a-2026.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -249,7 +255,11 @@ b) Não tenham recebido auxílios de emergência ou à reestruturação.
 
 ###### Artigo 7.º — Forma e cálculo do apoio extraordinário
 
-O apoio extraordinário de 10 cêntimos por litro é atribuído nas semanas em que o preço médio do gasóleo colorido e marcado, tal como divulgado pela DGEG, apresente um aumento superior a 10 cêntimos por litro, quando comparado com o preço médio registado na semana de 2 a 6 de março, sendo considerados os consumos efetuados entre 1 de abril e 30 de junho de 2026.
+1 - O apoio extraordinário de 10 cêntimos por litro é atribuído nas semanas em que o preço médio do gasóleo colorido e marcado, tal como divulgado pela DGEG, apresente um aumento superior a 10 cêntimos por litro, quando comparado com o preço médio registado na semana de 2 a 6 de março, sendo considerados os consumos efetuados entre 1 de abril e 30 de junho de 2026.
+
+2 - No caso das atividades agrícolas e florestais, são também considerados os consumos efetuados entre 1 de julho e 31 de dezembro de 2026.
+
+> Alterado pelo/a [Decreto-Lei n.º 200/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-2026-1178225508), publicado em 2026-10-08.
 
 ###### Artigo 8.º — Cumulação
 

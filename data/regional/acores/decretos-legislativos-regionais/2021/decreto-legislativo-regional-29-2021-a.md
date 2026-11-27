@@ -41,18 +41,23 @@ notes: []
 language: por
 version:
   kind: consolidated
-  label: Versão consolidada pelo DRE
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: '2021-08-18'
+  consolidation_date: '2021-09-30'
 version_history:
   file: decreto-legislativo-regional-29-2021-a.versoes.json
-  count: 1
+  count: 2
   source_lastmod: '2024-06-25'
   versions:
   - date: '2021-08-18'
     amending: null
     amending_title: null
     changes: []
+  - date: '2021-09-30'
+    amending: pt:dre:172212378:por
+    amending_title: Declaração de Retificação n.º 14/2021/A
+    changes:
+    - Altera Artigo Anexo::30.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/declegreg/29/2021/a/cons/20210930/pt/html
@@ -79,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre-consolidated
   generated_at: '2026-10-22T12:45:14Z'
-  notes: 1 versão(ões); histórico completo em decreto-legislativo-regional-29-2021-a.versoes.json.
+  notes: 'Texto em vigor consolidado pelo leis-portugal sobre a versão consolidada pelo DRE de 2021-08-18 com as alterações
+    publicadas em: Declaração de Retificação n.º 14/2021/A. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/acores/decretos-legislativos-regionais/2021/decreto-legislativo-regional-29-2021-a.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -761,7 +767,7 @@ d) Divisão ou nível competitivo superior e com três ou mais divisões - utili
 
 ###### Artigo 30.º — Série Açores
 
-1 - A atividade competitiva de âmbito nacional integrada na Série Açores, considerada como tal nos termos da alínea p) do artigo 2.º do presente diploma, beneficia de comparticipação financeira a conceder às entidades do movimento associativo desportivo.
+1 - A atividade competitiva de âmbito nacional integrada na Série Açores, considerada como tal nos termos da alínea q) do artigo 2.º do presente diploma, beneficia de comparticipação financeira a conceder às entidades do movimento associativo desportivo.
 
 2 - Os valores dos apoios para viagens e apoios complementares são determinados de acordo com o artigo 25.º do presente diploma.
 
@@ -770,6 +776,8 @@ d) Divisão ou nível competitivo superior e com três ou mais divisões - utili
 4 - Os apoios para a realização e participação na Série Açores estão dependentes da existência na Região de, pelo menos, duas vezes o número de equipas em atividade na mesma modalidade, sexo e escalão.
 
 5 - Acedem à majoração para a última divisão ou nível competitivo previsto na alínea a) do n.º 1 do artigo anterior as entidades que no mínimo utilizem em 85 % dos jogos pelo menos 65 % de atletas formados nos Açores e utilizem exclusivamente atletas com residência fiscal nos Açores.
+
+> Alterado pelo/a [Declaração de Retificação n.º 14/2021/A](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/14-2021-172212378), publicado em 2021-09-30.
 
 ###### Artigo 31.º — Verificação da elegibilidade
 

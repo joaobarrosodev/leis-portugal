@@ -31,6 +31,34 @@
      "date": "2018-12-02"
     }
    ]
+  },
+  {
+   "date": "2019-01-24",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:118406928:por",
+     "title": "Declaração de Retificação n.º 2/2019",
+     "published": "2019-01-24",
+     "dre_path": "/dr/detalhe/declaracao-retificacao/2-2019-118406928"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 9.º"
+   ],
+   "consolidated_by": "leis-portugal (consolidacao/camada1.py, linha 9 «dre»): sobre a versão consolidada pelo DRE",
+   "fragments": [
+    "117132986",
+    "117132987",
+    "117132988",
+    "117132989",
+    "117132990",
+    "117132991",
+    "117132992",
+    "117132993",
+    "117132994",
+    "cd3944fdd095e472"
+   ]
   }
  ],
  "fragments": {
@@ -113,6 +141,16 @@
    "in_force_from": null,
    "changed_by": [],
    "markdown": "###### Artigo 9.º — Produção de efeitos\n\n1 - O presente decreto-lei produz efeitos no dia 1 de janeiro de 2019, sem prejuízo da sua concretização gradual nos termos do n.º 2 do artigo 4.º da Lei n.º 50/2018, de 20 de agosto, e do disposto no número seguinte.\n\n2 - Relativamente ao ano de 2019, os municípios e as entidades intermunicipais que não pretendam exercer as competências previstas no presente decreto-lei comunicam esse facto à Direção-Geral das Autarquias Locais, após prévia deliberação dos seus órgãos deliberativos, até 60 dias corridos após entrada em vigor do presente decreto-lei."
+  },
+  "cd3944fdd095e472": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Produção de efeitos",
+   "in_force_from": "2019-01-24",
+   "changed_by": [
+    "Alterado pelo/a [Declaração de Retificação n.º 2/2019](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/2-2019-118406928), publicado em 2019-01-24."
+   ],
+   "markdown": "###### Artigo 9.º — Produção de efeitos\n\n1 - O presente decreto-lei produz efeitos no dia 1 de janeiro de 2019, sem prejuízo da sua concretização gradual nos termos do n.º 2 do artigo 4.º da Lei n.º 50/2018, de 20 de agosto, e do disposto no número seguinte.\n\n2 - Relativamente ao ano de 2019, os municípios que não pretendam exercer as competências previstas no presente decreto-lei comunicam esse facto à Direção-Geral das Autarquias Locais, após prévia deliberação dos seus órgãos deliberativos, até 60 dias corridos após entrada em vigor do presente decreto-lei.\n\n> Alterado pelo/a [Declaração de Retificação n.º 2/2019](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/2-2019-118406928), publicado em 2019-01-24."
   }
  }
 }

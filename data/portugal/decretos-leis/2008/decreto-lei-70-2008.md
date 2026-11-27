@@ -40,18 +40,23 @@ notes: []
 language: por
 version:
   kind: consolidated
-  label: Versão consolidada pelo DRE
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: '2008-04-15'
+  consolidation_date: '2008-06-13'
 version_history:
   file: decreto-lei-70-2008.versoes.json
-  count: 1
+  count: 2
   source_lastmod: '2024-06-25'
   versions:
   - date: '2008-04-15'
     amending: null
     amending_title: null
     changes: []
+  - date: '2008-06-13'
+    amending: pt:dre:551642:por
+    amending_title: Declaração de Rectificação n.º 32-B/2008
+    changes:
+    - Altera Artigo 10.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/70/2008/p/cons/20080613/pt/html
@@ -78,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre-consolidated
   generated_at: '2026-10-22T12:10:22Z'
-  notes: 1 versão(ões); histórico completo em decreto-lei-70-2008.versoes.json.
+  notes: 'Texto em vigor consolidado pelo leis-portugal sobre a versão consolidada pelo DRE de 2008-04-15 com as alterações
+    publicadas em: Declaração de Rectificação n.º 32-B/2008. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2008/decreto-lei-70-2008.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -288,9 +294,11 @@ b) Uma fotografia recente a cores, tipo passe;
 
 c) Declaração da entidade proprietária do órgão de comunicação social onde o interessado exerce a actividade jornalística comprovativa das funções aí desempenhadas;
 
-d) Declaração, sob compromisso de honra, de que não se encontra abrangido pelas incompatibilidades previstas no Estatuto do Jornalista e de que se obriga a observar os deveres inerentes à profissão.
+d) Declaração, sob compromisso de honra, de que se obriga a observar os deveres inerentes à profissão.
 
 3 - São aplicáveis, com as necessárias adaptações, os n.os 2 e 3 do artigo anterior.
+
+> Alterado pelo/a [Declaração de Rectificação n.º 32-B/2008](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/32-b-2008-551642), publicado em 2008-06-13.
 
 ###### Artigo 11.º — Cartão de correspondente estrangeiro
 

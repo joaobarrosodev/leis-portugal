@@ -99,6 +99,102 @@
      "date": "1990-12-01"
     }
    ]
+  },
+  {
+   "date": "1990-12-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:565376:por",
+     "title": "Decreto-Lei n.º 387/90",
+     "published": "1990-12-10",
+     "dre_path": "/dr/detalhe/decreto-lei/387-1990-565376"
+    }
+   ],
+   "changes": [
+    "Altera Artigo Anexo::3.º"
+   ],
+   "consolidated_by": "leis-portugal (consolidacao/camada1.py, linha 9 «dre»): sobre a versão consolidada pelo DRE",
+   "fragments": [
+    "869204067",
+    "869204068",
+    "869204069",
+    "869204070",
+    "869204071",
+    "869204072",
+    "869204073",
+    "869204074",
+    "f712a9758278d9b8",
+    "869244476",
+    "869244477",
+    "869244478",
+    "869244479",
+    "869244480",
+    "869244481",
+    "869244482",
+    "869244483",
+    "869244484",
+    "869244485",
+    "869244486",
+    "869244487",
+    "869244488",
+    "869244489",
+    "869244490",
+    "869244491",
+    "869244492",
+    "869244493",
+    "869244494",
+    "869244495",
+    "869244496",
+    "869244497",
+    "869244498",
+    "869244499",
+    "869244500",
+    "869244501",
+    "869244502",
+    "869244503",
+    "869244504",
+    "869244505",
+    "869244506",
+    "869244507",
+    "869244508",
+    "869244509",
+    "869244510",
+    "869244511",
+    "869244512",
+    "869244513",
+    "869244514",
+    "869244515",
+    "869244516",
+    "869244517",
+    "869244518",
+    "869244519",
+    "869244520",
+    "869244521",
+    "869244522",
+    "869244523",
+    "869244524",
+    "869244525",
+    "869244526",
+    "869244527",
+    "869244528",
+    "869244529",
+    "869244530",
+    "869244531",
+    "869244532",
+    "869244533",
+    "869244534",
+    "869244535",
+    "869244536",
+    "869244537",
+    "869244538",
+    "869244539",
+    "869244540",
+    "869244541",
+    "869244542",
+    "869244543",
+    "869244544"
+   ]
   }
  ],
  "fragments": {
@@ -725,6 +821,16 @@
    "in_force_from": null,
    "changed_by": [],
    "markdown": "###### Artigo 60.º\n\nOs encargos resultantes da aplicação do presente diploma serão suportados por rubricas próprias do orçamento da segurança social, no caso dos jardins-de-infância do Ministério dos Assuntos Sociais, e por verbas inscritas ou a inscrever nas competentes rubricas do Ministério da Educação."
+  },
+  "f712a9758278d9b8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": "1990-12-01",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 387/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/387-1990-565376), publicado em 1990-12-10."
+   ],
+   "markdown": "###### Artigo 3.º\n\n1 - As actividades do sistema público de educação pré-escolar realizam-se em jardins-de-infância.\n\n2 - (Revogado.)\n\n> Alterado pelo/a [Decreto-Lei n.º 387/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/387-1990-565376), publicado em 1990-12-10."
   }
  }
 }

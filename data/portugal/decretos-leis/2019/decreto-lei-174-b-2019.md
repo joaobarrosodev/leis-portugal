@@ -40,18 +40,23 @@ notes: []
 language: por
 version:
   kind: consolidated
-  label: Versão consolidada pelo DRE
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: '2019-12-26'
+  consolidation_date: '2020-02-21'
 version_history:
   file: decreto-lei-174-b-2019.versoes.json
-  count: 1
+  count: 2
   source_lastmod: '2024-06-25'
   versions:
   - date: '2019-12-26'
     amending: null
     amending_title: null
     changes: []
+  - date: '2020-02-21'
+    amending: pt:dre:129475782:por
+    amending_title: Declaração de Retificação n.º 10/2020
+    changes:
+    - Altera Artigo Anexo — (a que se refere o artigo 10.º)
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/174-b/2019/p/cons/20200221/pt/html
@@ -78,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre-consolidated
   generated_at: '2026-10-22T12:30:00Z'
-  notes: 1 versão(ões); histórico completo em decreto-lei-174-b-2019.versoes.json.
+  notes: 'Texto em vigor consolidado pelo leis-portugal sobre a versão consolidada pelo DRE de 2019-12-26 com as alterações
+    publicadas em: Declaração de Retificação n.º 10/2020. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2019/decreto-lei-174-b-2019.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -353,16 +359,8 @@ e) A exploração de atividades de fabrico e venda, bem como de serviços de man
 
 f) [Anterior alínea e).]
 
-g) [Anterior alínea f).]
-
-4 - ...
-
-5 - ...
-
-6 - São objeto de contratos a celebrar entre a CP, E. P. E., e a Infraestruturas de Portugal, S. A., as condições de gestão e exploração:
-
-a) Das estações a que respeita a atividade referida na alínea d) do n.º 3;
-
-b) De instalações oficinais e de fabricação, manutenção ou reparação de material circulante, a que respeita a atividade referida na alínea e) do n.º 3, quando integrem a infraestrutura ferroviária cuja titularidade de gestão cabe à Infraestruturas de Portugal, S. A.»
+g) [Anterior alínea f).]»
 
 112885849
+
+> Alterado pelo/a [Declaração de Retificação n.º 10/2020](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/10-2020-129475782), publicado em 2020-02-21.

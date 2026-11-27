@@ -61,6 +61,64 @@
      "date": "2009-09-30"
     }
    ]
+  },
+  {
+   "date": "2009-10-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:483075:por",
+     "title": "Declaração de Rectificação n.º 76/2009",
+     "published": "2009-10-15",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/76-2009-483075"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 28.º"
+   ],
+   "consolidated_by": "leis-portugal (consolidacao/camada1.py, linha 9 «dre»): sobre a versão consolidada pelo DRE",
+   "fragments": [
+    "56719578",
+    "56719579",
+    "56719580",
+    "56719581",
+    "56719582",
+    "56719583",
+    "56719584",
+    "56719585",
+    "56719586",
+    "56719587",
+    "56719588",
+    "56719589",
+    "56719590",
+    "56719591",
+    "56719592",
+    "56719593",
+    "56719594",
+    "56719595",
+    "56719596",
+    "56719597",
+    "56719598",
+    "56719599",
+    "56719600",
+    "56719601",
+    "56719602",
+    "56719603",
+    "56719604",
+    "56719605",
+    "56719606",
+    "56719607",
+    "56719608",
+    "56719609",
+    "56719610",
+    "56719611",
+    "68443df74513288b",
+    "56719613",
+    "56719614",
+    "56719615",
+    "56719616",
+    "56719617"
+   ]
   }
  ],
  "fragments": {
@@ -383,6 +441,16 @@
    "in_force_from": null,
    "changed_by": [],
    "markdown": "###### Artigo 32.º — Disposição transitória\n\n1 - A Portaria n.º 1100/2006, de 13 de Outubro, continua a produzir efeitos até à entrada em vigor de legislação que regule os honorários dos árbitros e peritos do tribunal arbitral.\n\n2 - A alteração do número de árbitros que integram as listas, resultante do n.º 2 do artigo 2.º, só produz efeitos a partir do termo do período de três anos em curso."
+  },
+  "68443df74513288b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º — Encargos do processo de arbitragem de serviços mínimos",
+   "in_force_from": "2009-10-15",
+   "changed_by": [
+    "Alterado pelo/a [Declaração de Rectificação n.º 76/2009](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/76-2009-483075), publicado em 2009-10-15."
+   ],
+   "markdown": "###### Artigo 28.º — Encargos do processo de arbitragem de serviços mínimos\n\nAos encargos do processo de arbitragem de serviços mínimos é aplicável o disposto no artigo 23.º\n\n> Alterado pelo/a [Declaração de Rectificação n.º 76/2009](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/76-2009-483075), publicado em 2009-10-15."
   }
  }
 }

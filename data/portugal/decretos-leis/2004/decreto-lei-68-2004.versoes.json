@@ -48,6 +48,51 @@
      "date": "2024-01-01"
     }
    ]
+  },
+  {
+   "date": "2024-03-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:836222484:por",
+     "title": "Decreto-Lei n.º 10/2024",
+     "published": "2024-01-08",
+     "dre_path": "/dr/detalhe/decreto-lei/10-2024-836222484"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 9.º"
+   ],
+   "consolidated_by": "leis-portugal (consolidacao/camada1.py, linha 9 «dre»): sobre a versão consolidada pelo DRE",
+   "fragments": [
+    "156124456",
+    "156124457",
+    "156124458",
+    "156124459",
+    "156124460",
+    "156124461",
+    "156124462",
+    "156124463",
+    "156124464",
+    "156124465",
+    "156124466",
+    "463df49b023947a1",
+    "156124468",
+    "156124469",
+    "156124470",
+    "156124471",
+    "156124472",
+    "156124473",
+    "156124474",
+    "156233975",
+    "156233976",
+    "156233977",
+    "156233978",
+    "156233979",
+    "156233980",
+    "156233981",
+    "156233982"
+   ]
   }
  ],
  "fragments": {
@@ -266,6 +311,16 @@
    "in_force_from": null,
    "changed_by": [],
    "markdown": "###### Artigo 20.º — Disposição transitória\n\nOs profissionais abrangidos pelo presente diploma dispõem de um período máximo de 90 dias, a contar da entrada em vigor da portaria conjunta referida no artigo anterior, para se adaptarem aos requisitos a que obedecem a publicidade e a informação disponibilizadas aos consumidores no âmbito da aquisição de imóveis para habitação."
+  },
+  "463df49b023947a1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Apresentação da ficha técnica da habitação",
+   "in_force_from": "2024-03-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 10/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2024-836222484), publicado em 2024-01-08."
+   ],
+   "markdown": "###### Artigo 9.º — Apresentação da ficha técnica da habitação\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 10/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2024-836222484), publicado em 2024-01-08."
   }
  }
 }

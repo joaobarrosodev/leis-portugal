@@ -578,6 +578,29 @@ A importação passou a aceitar a **troca de expressão** (`camada1.troca_de_exp
 - O ensaio do acervo aplica 13: os 11 e mais 2 em que o texto não muda e só se refaz o histórico.
 - Limite: a seleção destes diplomas não traz as relações `corrected_by` e `repealed_by`, porque o `refazer-selecao` não os refaz. A segunda leitura apanhou-as e recusou esses diplomas. O data/ fica como estava, e a guarda `retificados_por_regra` impede que se escreva por cima.
 
+**Ronda 125** (linha 9 «dre», 27/11/2026, Opus). Os 100 consolidados pelo DRE:
+- **32 sem alterador posterior** ficaram sem alteração aplicável. Uma nova recolha deu o mesmo texto e a mesma data de consolidação.
+- **68 com alterador posterior** seguiram a rota nova: `camada1.selecao_dre` e `acervo.historico_dre`.
+  - O original é o texto do DRE e o pedido só traz os alteradores posteriores à consolidação.
+  - O acervo junta uma versão ao `.versoes.json` do DRE.
+- **Resultado dos 68:**
+  - 54 aplicados pelo LLM e 14 sem nada a aplicar.
+  - Às cegas passaram 55; ficaram 8 recusados e 5 sem alteração aplicável.
+  - Na segunda leitura, 50 deram `certo` e 5 deram `reparos` ou `duvida`. Os casos foram:
+    - uma plica de citação perdida;
+    - uma palavra que a retificação tira e ficou;
+    - duas imagens de anexo retificadas em que o marcador antigo ficou ao lado do novo;
+    - a renumeração de dois artigos aditados ao EBF;
+    - um alterador (DL 9/2021) que falta nas relações do DRE do DL 145/2017.
+  - O ensaio do acervo aplica os 50, todos sobre a versão do DRE.
+- **Os 4 que restavam na onda 2:**
+  - O DL 442-A/88 (IRS), o DL 394-B/84 (IVA) e o DLR 17/2014/M têm o texto consolidado noutro registo (`texto_noutro_registo`).
+    - Os dois códigos não têm alterador posterior.
+    - O alterador do DLR 17/2014/M é a Declaração de Retificação n.º 44/2019, que se aplica à republicação no DLR 10/2019/M e passou nesta ronda.
+    - Os três ficam sem alteração aplicável.
+  - O DL 202/2000 (unidade corrida de 373 mil caracteres) fica como resposta recusada e fora do data/, até haver uma rota por partes.
+- Com isto, os 1245 diplomas da onda 2 têm todos estado final.
+
 ### Verificação dos alvos das respostas do LLM (14/11/2026)
 
 A verificação letra a letra de `llm_completo.verificar_resposta` confirma que cada parágrafo de um artigo devolvido vem de um alterador **ou do original**. Deixava passar dois casos:

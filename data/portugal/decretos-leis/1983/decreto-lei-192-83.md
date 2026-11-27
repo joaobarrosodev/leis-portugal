@@ -29,18 +29,23 @@ notes: []
 language: por
 version:
   kind: consolidated
-  label: Versão consolidada pelo DRE
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: '1983-05-17'
+  consolidation_date: '1983-05-31'
 version_history:
   file: decreto-lei-192-83.versoes.json
-  count: 1
+  count: 2
   source_lastmod: '2024-06-25'
   versions:
   - date: '1983-05-17'
     amending: null
     amending_title: null
     changes: []
+  - date: '1983-05-31'
+    amending: pt:dre:423437:por
+    amending_title: Declaração
+    changes:
+    - Altera Artigo 1.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/192/1983/p/cons/19830531/pt/html
@@ -67,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre-consolidated
   generated_at: '2026-10-22T12:53:00Z'
-  notes: 1 versão(ões); histórico completo em decreto-lei-192-83.versoes.json.
+  notes: 'Texto em vigor consolidado pelo leis-portugal sobre a versão consolidada pelo DRE de 1983-05-17 com as alterações
+    publicadas em: Declaração. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1983/decreto-lei-192-83.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -128,11 +134,13 @@ Assim, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da
 
 8 - Quando o pagamento da pensão for devido por óbito de um aposentado ou reformado, o Montepio, dentro dos 60 dias posteriores à data da morte, liquidará e pagará ao signatário do requerimento referido no n.º 1 deste artigo cuja petição será acompanhada de certidão probatória de que é herdeiro hábil, uma pensão de sobrevivência de montante provisório igual a metade da pensão de aposentação que o falecido recebia.
 
-9 - Quando o pagamento da pensão for devido por óbito de um subscritor da Caixa Geral de Aposentações no activo, o Montepio liquidará e pagará ao signatário do requerimento referido no n.º 1 deste artigo, cuja petição será acompanhada de certidão probatória de que é herdeiro hábil, uma pensão de montante provisório que será calculada com base nos elementos biográficos, cujo modelo vai anexo a este diploma, e que os serviços onde o falecido exercia o seu cargo terão de enviar ao Montepio no prazo tante provisório não prejudica a sua rectificação, devendo o aludido pagamento ser efectuado no prazo de 60 dias a partir da data da coexistência no Montepio do referido requerimento e nota biográfica.
+9 - Quando o pagamento da pensão for devido por óbito de um subscritor da Caixa Geral de Aposentações no activo, o Montepio liquidará e pagará ao signatário do requerimento referido no n.º 1 deste artigo, cuja petição será acompanhada de certidão probatória de que é herdeiro hábil, uma pensão de montante provisório que será calculada com base nos elementos biográficos, cujo modelo vai anexo a este diploma, e que os serviços onde o falecido exercia o seu cargo terão de enviar ao Montepio no prazo de 15 dias a partir do falecimento do funcionário, devendo o aludido pagamento ser efectuado no prazo de 60 dias a partir da data da coexistência no Montepio do referido requerimento e nota biográfica.
 
 10 - A concessão das pensões fixadas em montante provisório não prejudica a sua rectificação, em resolução final, uma vez completada a instrução do processo, quanto ao montante encontrado e quanto ao fraccionamento, da pensão, quando for caso de ser dividida por herdeiro hábil que tenha sido preterido, nos termos do artigo 34.º
 
 11 - O pensionista que tenha recebido importância a mais, por efeitos dos números anteriores, fica sujeito ao correspondente desconto a fazer nas mensalidades das pensões seguintes, até perfazer o total em dívida, não podendo o desconto mensal ser superior a 10% da importância de cada pensão.
+
+> Alterado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1983-423437), publicado em 1983-05-31.
 
 ###### Artigo 2.º
 
