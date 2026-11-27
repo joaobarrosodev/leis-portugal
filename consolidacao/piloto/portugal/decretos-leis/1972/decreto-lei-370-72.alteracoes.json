@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "único",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo único\n\nOs efectivos da classe dos músicos da Armada fixados no mapa II anexo ao [Decreto-Lei n.º 48349](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48349-1968-234698), de 24 de Abril de 1968, passam a ser os seguintes:\n\nSargentos-ajudantes ... 2\n\nPrimeiros-sargentos e segundos-sargentos ... 68\n\nCabos ... 14\n\nMarinheiros ... 4\n\nPrimeiros-grumetes ... 4\n\n... 92\n\nVisto e aprovado em Conselho de Ministros. - Marcello Caetano - Horácio José de Sá Viana Rebelo - Manuel Artur Cotta Agostinho Dias - Manuel Pereira Crespo.\n\nPromulgado em 21 de Setembro de 1972.\n\nPublique-se.\n\nO Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.",
+    "depois": "###### Artigo único\n\nOs efectivos da classe dos músicos da Armada fixados no mapa II anexo ao [Decreto-Lei n.º 48349](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48349-1968-234698), de 24 de Abril de 1968, passam a ser os seguintes:\n\nSargentos-ajudantes - 3.\n\nPrimeiros-sargentos e segundos-sargentos - 75.\n\nCabos - 26.\n\nPrimeiros-marinheiros - 8.\n\n> Alterado pelo/a [Decreto-Lei n.º 698/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/698-1976-408974), publicado em 1976-09-27.\n\nVisto e aprovado em Conselho de Ministros. - Marcello Caetano - Horácio José de Sá Viana Rebelo - Manuel Artur Cotta Agostinho Dias - Manuel Pereira Crespo.\n\nPromulgado em 21 de Setembro de 1972.\n\nPublique-se.\n\nO Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:691069:por",
+    "alterador": "pt:dre:408974:por"
+  }
+]

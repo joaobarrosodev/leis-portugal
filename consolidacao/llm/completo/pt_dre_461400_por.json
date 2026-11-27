@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:461400:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, art. 1.º, novas listas I a IV que substituem as listas A, B e C aprovadas pelo Decreto-Lei n.º 756/74: outro diploma: as listas consideram-se inseridas no Código do Imposto de Transacções e a substituição é das listas do Código (como o art. 2.º do original fez às listas do Decreto-Lei n.º 375/74), não do texto do original\nAlterador 1, art. 2.º, nova redação dos artigos 3.º e 22.º do Código do Imposto de Transacções: outro diploma (o art. 1.º do original só deu a redação ao art. 22.º do Código)\nAlterador 2, arts. 1.º a 4.º, alteração do Decreto-Lei n.º 3/74 (o original só é citado no preâmbulo): outro diploma",
+  "instrucoes": [
+    "Alterador 1, art. 1.º: substitui as listas A, B e C (inseridas no Código) pelas listas I a IV — listas do Código, outro diploma; nao_aplicavel",
+    "Alterador 1, art. 2.º: arts. 3.º e 22.º do Código do Imposto de Transacções — outro diploma; nao_aplicavel",
+    "Alterador 2: altera o Decreto-Lei n.º 3/74 — outro diploma; nao_aplicavel"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "ronda_camada1": 122,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
+}

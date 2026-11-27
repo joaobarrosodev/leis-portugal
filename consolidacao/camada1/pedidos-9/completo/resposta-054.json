@@ -1,0 +1,92 @@
+[
+ {
+  "id": "pt:dre:521014:por",
+  "artigos": [
+   {
+    "chave": "1.º",
+    "epigrafe": "Natureza",
+    "texto": "(Revogado.)",
+    "alterador": 1
+   },
+   {
+    "chave": "2.º",
+    "epigrafe": "Missão e atribuições",
+    "texto": "(Revogado.)",
+    "alterador": 1
+   },
+   {
+    "chave": "3.º",
+    "epigrafe": "Cargos de direcção superior",
+    "texto": "(Revogado.)",
+    "alterador": 1
+   },
+   {
+    "chave": "4.º",
+    "epigrafe": "Secretário-geral",
+    "texto": "(Revogado.)",
+    "alterador": 1
+   },
+   {
+    "chave": "5.º",
+    "epigrafe": "Tipo de organização interna",
+    "texto": "(Revogado.)",
+    "alterador": 1
+   },
+   {
+    "chave": "6.º",
+    "epigrafe": "Receitas",
+    "texto": "(Revogado.)",
+    "alterador": 1
+   },
+   {
+    "chave": "7.º",
+    "epigrafe": "Despesas",
+    "texto": "(Revogado.)",
+    "alterador": 1
+   },
+   {
+    "chave": "9.º",
+    "epigrafe": "Quadro de cargos de direcção",
+    "texto": "(Revogado.)",
+    "alterador": 1
+   },
+   {
+    "chave": "10.º",
+    "epigrafe": "Sucessão",
+    "texto": "(Revogado.)",
+    "alterador": 1
+   },
+   {
+    "chave": "11.º",
+    "epigrafe": "Critérios de selecção do pessoal",
+    "texto": "(Revogado.)",
+    "alterador": 1
+   },
+   {
+    "chave": "12.º",
+    "epigrafe": "Efeitos revogatórios",
+    "texto": "(Revogado.)",
+    "alterador": 1
+   },
+   {
+    "chave": "13.º",
+    "epigrafe": "Entrada em vigor",
+    "texto": "(Revogado.)",
+    "alterador": 1
+   }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [
+   {
+    "titulo": "## ANEXO — (quadro a que se refere o artigo 9.º)",
+    "texto": "(Revogado.)",
+    "alterador": 1
+   }
+  ],
+  "nao_aplicavel": "Alterador 1, revogação do artigo 8.º (exceção do artigo 10.º do DL 162/2012): efeito adiado: o artigo 8.º mantém-se em vigor até à liquidação do subsistema de saúde e ação social complementar da justiça, facto futuro.",
+  "instrucoes": [
+   "Alterador 1, art. 10.º: revoga o Decreto Regulamentar n.º 50/2007 com exceção do art. 8.º; aplicada artigo a artigo (1.º a 7.º e 9.º a 13.º «(Revogado.)») e ao anexo do art. 9.º; o art. 8.º fica, com revogação adiada (nao_aplicavel)."
+  ]
+ }
+]

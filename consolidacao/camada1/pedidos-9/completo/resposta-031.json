@@ -1,0 +1,31 @@
+[
+ {
+  "id": "pt:dre:361499:por",
+  "artigos": [
+   {
+    "chave": "2.º",
+    "epigrafe": "Comissão liquidatária",
+    "texto": "1 - A liquidação da EPAC Comercial, S. A., é cometida a uma comissão liquidatária composta por três membros, até ser deliberada pela respectiva assembleia geral a transmissão global do património activo e passivo para o accionista Estado, através da Direcção-Geral do Tesouro.\n\n2 - A comissão liquidatária referida no número anterior, nomeada em assembleia geral, será confirmada após a entrada em vigor deste diploma por despacho conjunto dos Ministros das Finanças e da Agricultura, do Desenvolvimento Rural e das Pescas, que designará o seu presidente e fixará as condições de prestação de serviço dos seus membros, incluindo a respectiva remuneração.",
+    "alterador": 3
+   },
+   {
+    "chave": "4.º",
+    "epigrafe": "Património",
+    "texto": "1 - Por deliberação da assembleia geral, o património activo e passivo da EPAC Comercial, S. A., que remanescer das operações de liquidação efectuadas pela comissão liquidatária será liquidado por transmissão global para o accionista Estado, através da Direcção-Geral do Tesouro.\n\n2 - A Direcção-Geral do Tesouro, em representação do Estado, sucederá à EPAC Comercial, em todas as relações jurídicas contratuais e processuais que esta integre à data da sua extinção.\n\n3 - A Direcção-Geral do Tesouro ficará depositária dos livros, documentos e demais elementos de escrituração da EPAC Comercial, S. A.\n\n4 - Para o efeito da transmissão referida no n.º 1, é dispensado o acordo a que se refere o n.º 1 do artigo 148.º do Código das Sociedades Comerciais.\n\n5 - Sem prejuízo do disposto no n.º 1, o Estado, através da Direcção-Geral do Tesouro, transferirá para o património do Instituto Nacional de Intervenção e Garantia Agrícola (INGA) o património imobiliário remanescente das operações de liquidação levadas a cabo pela comissão liquidatária.",
+    "alterador": 2
+   }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+   "Alterador 1, art. 1.º: nova redação do art. 2.º (n.os 2 e 3); depois revogada pelo alterador 3.",
+   "Alterador 1, art. 2.º: altera o DL 188/2001 (outro diploma), ignorada.",
+   "Alterador 2, art. 1.º: nova redação do n.º 5 do art. 4.º; aplicada.",
+   "Alterador 2, art. 2.º: prazo de liquidação, norma própria do alterador, sem alteração ao texto.",
+   "Alterador 3, art. 11.º, n.º 1: revoga o DL 242-A/2001 e repristina o art. 2.º do original; art. 2.º reposto na redação original.",
+   "Alterador 3, art. 11.º, n.os 2 e 3: revogações noutros diplomas, ignoradas."
+  ]
+ }
+]

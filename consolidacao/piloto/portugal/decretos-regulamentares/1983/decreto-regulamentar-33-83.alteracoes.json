@@ -12,5 +12,47 @@
     "unidade": [],
     "diploma": "pt:dre:311837:por",
     "alterador": "pt:dre:423431:por"
+  },
+  {
+    "artigo": "2.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 2.º\n\n1 - O abono de família é atribuído nos montantes mensais seguintes:\n\na) 1 descendente, 550$00;\n\nb) 2 descendentes, 1100$00;\n\nc) 3 descendentes, 1750$00;\n\nd) Por cada descendente a mais, 750$00.\n\n2 - O montante mensal do abono de família relativamente ao quarto descendente e seguintes será, porém, de 950$00 tratando-se de agregados familiares cujos rendimentos ilíquidos mensais sejam inferiores a uma vez e meia a remuneração mínima garantida à generalidade dos trabalhadores.\n\n> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1983-423431), publicado em 1983-05-31.",
+    "depois": "###### Artigo 2.º\n\n1 - O abono de família é atribuído nos montantes mensais seguintes:\n\na) 1 descendente, 660$00;\n\nb) 2 descendentes, 1320$00;\n\nc) 3 descendentes, 2100$00;\n\nd) Por cada descendente a mais, 900$00.\n\n2 - O montante mensal do abono de família relativamente ao quarto descendente e seguintes será, porém, de 1140$00, tratando-se de agregados familiares cujos rendimentos ilíquidos mensais sejam inferiores a uma vez e meia a remuneração mínima garantida à generalidade dos trabalhadores.\n\n> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1983-423431), publicado em 1983-05-31.\n\n> Alterado pelo/a [Decreto Regulamentar n.º 83/84](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/83-1984-400222), publicado em 1984-10-24.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:311837:por",
+    "alterador": "pt:dre:400222:por"
+  },
+  {
+    "artigo": "3.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 3.º\n\n1 - O abono complementar a crianças e jovens deficientes é atribuído nos montantes mensais e dentro dos limites de idades seguintes:\n\na) 1200$00, até aos 14 anos de idade;\n\nb) 1800$00, até aos 18 anos de idade;\n\nc) 2400$00, até aos 24 anos de idade.\n\n2 - O subsídio mensal vitalício é concedido no montante mensal de 3000$00.",
+    "depois": "###### Artigo 3.º\n\n1 - O abono complementar a crianças e jovens deficientes é atribuído nos montantes mensais e dentro dos limites de idade seguintes:\n\na) 1500$00, até aos 14 anos de idade;\n\nb) 2250$00, até aos 18 anos de idade;\n\nc) 3000$00, até aos 24 anos de idade.\n\n2 - O subsídio mensal vitalício é concedido no montante mensal de 3750$00.\n\n> Alterado pelo/a [Decreto Regulamentar n.º 83/84](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/83-1984-400222), publicado em 1984-10-24.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:311837:por",
+    "alterador": "pt:dre:400222:por"
+  },
+  {
+    "artigo": "4.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 4.º\n\n1 - O montante do subsídio de nascimento é de 7000$00.\n\n2 - O quantitativo mensal do subsídio de aleitação é de 1350$00.\n\n3 - O montante do subsídio de casamento é de 6000$00.\n\n4 - O montante do subsídio de funeral é de 8500$00.",
+    "depois": "###### Artigo 4.º\n\n1 - O montante do subsídio de nascimento é de 8400$00.\n\n2 - O quantitativo mensal do subsídio de aleitação é de 1600$00.\n\n3 - O montante do subsídio de casamento é de 7200$00.\n\n4 - O montante do subsídio de funeral é de 10200$00.\n\n> Alterado pelo/a [Decreto Regulamentar n.º 83/84](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/83-1984-400222), publicado em 1984-10-24.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:311837:por",
+    "alterador": "pt:dre:400222:por"
   }
 ]

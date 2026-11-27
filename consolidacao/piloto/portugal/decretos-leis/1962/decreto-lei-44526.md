@@ -3,7 +3,8 @@ id: pt:dre:163631:por
 title: Decreto-Lei n.º 44526
 original: data/portugal/decretos-leis/1962/decreto-lei-44526.md
 consolidacao:
-  metodo: piloto da fase 2 (consolidacao/consolidar.py), sem valor oficial
+  metodo: piloto da fase 2 (consolidacao/consolidar.py e, pelo LLM, consolidacao/juntar.py),
+    sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
   - id: pt:dre:194867:por
@@ -35,9 +36,11 @@ O júri dos concursos de promoção a conselheiros de legação e cônsules gera
 
 ###### Artigo 5.º
 
-(Revogado.)
+É criado na Secretaria de Estado, e integrado na Direcção-Geral dos Negócios Políticos e da Administração Interna, mais um lugar de adjunto do director-geral, com a categoria de ministro plenipotenciário de 2.ª classe, cujas funções serão definidas por despacho ministerial.
 
 > Revogado pelo/a [Decreto-Lei n.º 44970](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44970-1963-194867), publicado em 1963-04-10.
+
+> Alterado pelo/a [Decreto-Lei n.º 44970](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44970-1963-194867), publicado em 1963-04-10.
 
 ###### Artigo 6.º
 

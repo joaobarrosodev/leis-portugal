@@ -4,13 +4,15 @@
   "removidos": [],
   "titulos": [],
   "anexos": [],
-  "nao_aplicavel": "A retificação do sumário e do 1.º parágrafo do preâmbulo («Congelados de Bacalhau» -> «Congelados e Bacalhau») não se aplica aqui: nem o sumário nem o preâmbulo vêm no texto atual por artigos. No artigo 1.º a retificação já está aplicada no texto atual (o programa aplicou-a bem), pelo que o artigo não muda.",
+  "nao_aplicavel": "Alterador 1, rectificação no sumário e no 1.º parágrafo do preâmbulo («Congelados de Bacalhau» → «Congelados e Bacalhau»): alvo incerto: o sumário e o preâmbulo não estão no texto atual, que só tem os artigos",
   "instrucoes": [
-    "Declaração de Rectificação n.º 14-B/97: no artigo 1.º, n.º 1, «Congelados de Bacalhau» passa a «Congelados e Bacalhau» — já aplicado no texto atual, mantido sem alteração.",
-    "Mesma retificação no sumário e no 1.º parágrafo (preâmbulo): fora dos artigos, não está no texto atual — em nao_aplicavel."
+    "Alterador 1 (Declaração de Rectificação n.º 14-B/97), no artigo 1.º: «Congelados de Bacalhau» → «Congelados e Bacalhau» — o texto atual (já alterado pelo programa) está certo; nada a devolver.",
+    "Alterador 1, no sumário e no 1.º parágrafo: não estão no texto atual — em nao_aplicavel."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
+  "ronda_camada1": 122,
   "problemas": [],
+  "numeracao_aceite": [],
   "avisos": []
 }

@@ -1,80 +1,18 @@
 {
   "id": "pt:dre:497410:por",
-  "artigos": [
-    {
-      "chave": "1.º",
-      "epigrafe": "Objeto",
-      "texto": "(Revogado.)",
-      "alterador": 1
-    },
-    {
-      "chave": "2.º",
-      "epigrafe": "Requisitos de admissão",
-      "texto": "(Revogado.)",
-      "alterador": 1
-    },
-    {
-      "chave": "3.º",
-      "epigrafe": "Ordenação dos candidatos",
-      "texto": "(Revogado.)",
-      "alterador": 1
-    },
-    {
-      "chave": "4.º",
-      "epigrafe": "Norma remissiva",
-      "texto": "(Revogado.)",
-      "alterador": 1
-    },
-    {
-      "chave": "5.º",
-      "epigrafe": "Quadro de vinculação",
-      "texto": "(Revogado.)",
-      "alterador": 1
-    },
-    {
-      "chave": "6.º",
-      "epigrafe": "Dotação das vagas",
-      "texto": "(Revogado.)",
-      "alterador": 1
-    },
-    {
-      "chave": "7.º",
-      "epigrafe": "Aceitação",
-      "texto": "(Revogado.)",
-      "alterador": 1
-    },
-    {
-      "chave": "8.º",
-      "epigrafe": "Apresentação ao concurso interno",
-      "texto": "(Revogado.)",
-      "alterador": 1
-    },
-    {
-      "chave": "9.º",
-      "epigrafe": "Ingresso na carreira",
-      "texto": "(Revogado.)",
-      "alterador": 1
-    },
-    {
-      "chave": "10.º",
-      "epigrafe": "Efetivação da colocação",
-      "texto": "(Revogado.)",
-      "alterador": 1
-    },
-    {
-      "chave": "11.º",
-      "epigrafe": "Entrada em vigor",
-      "texto": "(Revogado.)",
-      "alterador": 1
-    }
-  ],
+  "artigos": [],
   "removidos": [],
-  "nao_aplicavel": null,
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, art. 60.º, n.º 1, alínea e), revogação do diploma inteiro: efeito adiado: o n.º 2 do art. 60.º faz a revogação produzir efeitos só com a entrada em vigor da portaria do art. 56.º do alterador, que o pedido não mostra ter entrado em vigor (e o art. 57.º, que dependia da mesma portaria, foi revogado em 2026)\nAlterador 1, art. 57.º, n.º 3, extinção do quadro de vinculação criado pelo original: efeito adiado: depende da mesma portaria; além disso não altera o texto do original e o art. 57.º foi revogado pelo Decreto Legislativo Regional n.º 8/2026/M",
   "instrucoes": [
-    "Alt.1 art. 60.º, n.º 1, alínea e): revoga o Decreto Legislativo Regional n.º 22/2013/M (com efeitos à data da portaria do art. 56.º); todos os artigos 1.º a 11.º marcados (Revogado.).",
-    "Alt.1 art. 57.º: extinção do quadro de vinculação (não textual)."
+    "Alterador 1 (Decreto Legislativo Regional n.º 28/2016/M), art. 60.º, n.º 1, e), e n.º 2: revoga o original com efeitos à data da entrada em vigor de uma portaria — efeito adiado, em nao_aplicavel.",
+    "Alterador 1, art. 57.º: transição dos docentes e extinção do quadro de vinculação a partir da mesma portaria — efeito adiado e não textual; artigo revogado em 2026; em nao_aplicavel."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 122,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

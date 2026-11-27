@@ -2,13 +2,24 @@
   "id": "pt:dre:260417:por",
   "artigos": [],
   "removidos": [],
-  "nao_aplicavel": "Art. 2.º do Decreto-Lei n.º 151/2013 (alterador 2) altera o anexo I do Decreto-Lei n.º 53/2013 (ponto II), que não consta do texto atual por artigos; não aplicado.",
+  "titulos": [],
+  "anexos": [
+    {
+      "titulo": "## ANEXO I — (a que se referem os artigos 4.º e 7.º)",
+      "texto": "I - Disposições aplicáveis a tomadas de força à retaguarda\n\nAs especificações contidas nas normas ISO 500-1:2004, em conjunto com a retificação técnica de 1:2005, e ISO 500-2:2004 são aplicáveis aos tratores com tomadas de força à retaguarda, em conformidade com o quadro 1.\n\nQUADRO 1\n\nNormas aplicáveis a tomadas de força da retaguarda das seguintes categorias de tratores\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07500/0223902248.pdf)\n\nII - Disposições relativas às tomadas de força dianteiras\n\nAs especificações da norma ISO 87591:1998, com exceção do ponto 4.2, são aplicáveis aos tratores de todas as categorias T e C equipados com tomadas de força dianteiras, tal como especificado nessa norma.",
+      "alterador": 2
+    }
+  ],
+  "nao_aplicavel": "Alterador 1, arts. 9.º e 13.º (anexo 5.º do Regulamento aprovado pelo DL 114/2002; anexos II e III do Regulamento aprovado pelo DL 74/2005): outro diploma — o DL 53/2013 só aparece na lista das alterações anteriores desses diplomas.\nAlterador 3, arts. 2.º a 6.º (DL 81/2011, DL 114/2002, DL 74/2005): outro diploma — o DL 53/2013 só aparece na lista das alterações anteriores desses diplomas.",
   "instrucoes": [
-    "Alterador 1 (DL 148/2013): altera anexos e artigos de outros diplomas (DL 195/2000, 291/2000, 317/2000, 114/2002, 74/2005, etc.); nada dirigido aos artigos do original.",
-    "Alterador 2 (DL 151/2013): substitui o ponto II do anexo I do original; anexo fora do texto por artigos, não aplicado.",
-    "Alterador 3 (DL 97/2014): altera o DL 81/2011, o DL 114/2002 e o DL 74/2005; nada dirigido ao original."
+    "Alterador 1 (DL 148/2013): não altera o DL 53/2013; só o cita nas listas de alterações de outros diplomas — nao_aplicavel (outro diploma).",
+    "Alterador 2 (DL 151/2013), art. 2.º: o anexo I passa a ter a redação do anexo — ponto I mantém-se ([...]); ponto II substituído pelo novo título «II - Disposições relativas às tomadas de força dianteiras» e pelo novo parágrafo; o antigo texto do ponto II e o QUADRO 2 (imagem) saem, porque a nova redação do ponto II não os traz. Confirma o reparo da triagem.",
+    "Alterador 3 (DL 97/2014): não altera o DL 53/2013; só o cita nas listas de alterações de outros diplomas — nao_aplicavel (outro diploma)."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 122,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

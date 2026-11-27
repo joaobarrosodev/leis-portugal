@@ -1,13 +1,26 @@
 {
   "id": "pt:dre:461471:por",
-  "artigos": [],
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "texto": "1 - A marcação sanitária das carcaças não embaladas será feita por meio de selo de modelo oficial, aposto na asa ou no peito, se a carcaça for de ave, e num dos membros, se for de coelho.\n\n2 - (Revogado.)\n\n3 - O selo deverá conter os seguintes dizeres:\n\nDGSV;\n\nEst. n.º;\n\nPort.",
+      "alterador": 1
+    }
+  ],
   "removidos": [],
-  "nao_aplicavel": "Art. 9.º do Decreto-Lei n.º 179/93 revoga o Decreto-Lei n.º 442/80 apenas \"na parte relativa à inspecção sanitária de coelhos\": revogação parcial por matéria, sem indicação de artigos ou texto; não se pode aplicar textualmente com segurança.",
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 2, revogação do Decreto-Lei n.º 442/80 na parte referente à inspecção sanitária de aves: efeito adiado (com efeitos a partir da entrada em vigor das normas regulamentares do artigo 4.º); além disso é revogação parcial por matéria, sem indicar artigos\nAlterador 3, revogação do Decreto-Lei n.º 442/80 na parte relativa à inspecção sanitária de coelhos: alvo incerto: revogação parcial por matéria, sem indicar artigos nem números",
   "instrucoes": [
-    "Art. 9.º: revogação parcial do DL 442/80 na parte relativa a coelhos: não aplicada (não textual)",
-    "Restantes artigos do DL 179/93 não se dirigem ao original"
+    "Alterador 1 (DL 193/88, art. 9.º, n.º 2, a)): revoga o n.º 2 do artigo 1.º — aplicado",
+    "Alterador 2 (DL 222/90, art. 5.º, c)): revogação na parte das aves, com efeitos adiados — nao_aplicavel",
+    "Alterador 3 (DL 179/93, art. 9.º): revogação na parte dos coelhos, por matéria — nao_aplicavel"
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 122,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

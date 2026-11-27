@@ -1,15 +1,32 @@
 {
   "id": "pt:dre:580792:por",
-  "artigos": [],
+  "artigos": [
+    {
+      "chave": "8.º-A",
+      "epigrafe": "Lista dos postos de inspecção fronteiriços",
+      "texto": "1 - A lista dos PIF, em vigor à data da publicação do presente decreto-lei, pode ser alterada por aditamento ou por supressão daqueles.\n\n2 - O aditamento de PIF à lista a que se refere o número anterior depende do cumprimento das seguintes condições:\n\na) Apresentação de proposta pela autoridade competente após verificação do cumprimento das condições previstas no anexo II do presente decreto-lei, do qual faz parte integrante, e na Decisão n.º [2001/812/CE](https://data.europa.eu/eli/dec/2001/812/oj?locale=pt), da Comissão, de 21 de Novembro, que estabelece as exigências para a aprovação dos PIF responsáveis pelo controlo veterinário dos produtos provenientes de países terceiros introduzidos na Comunidade;\n\nb) Inspecção da Comissão, em colaboração com a autoridade competente.\n\n3 - A supressão de PIF à lista referida no n.º 1 pode ocorrer nos seguintes casos:\n\na) Se durante o controlo efectuado pela autoridade competente se verificar que não cumprem as condições previstas no anexo II do presente decreto-lei, que dele faz parte integrante;\n\nb) Se no decurso das inspecções efectuadas pela Comissão Europeia se verificar que não cumprem as condições previstas no anexo II do presente decreto-lei, que dele faz parte integrante, e o Estado membro não atender às conclusões dessa inspecção num prazo razoável, designadamente se as inspecções permitirem concluir haver riscos graves para a saúde pública ou para a saúde animal.\n\n4 - A autoridade competente suspende a aprovação de um posto de inspecção fronteiriço sempre que motivos graves, em especial de saúde pública ou animal, o exijam e informa a Comissão e os outros Estados membros da suspensão, bem como dos motivos que lhe deram origem.\n\n5 - A aprovação do posto de inspecção fronteiriço que tenha sido suspensa em conformidade com o disposto no número anterior só pode ser restabelecida nos termos da alínea a) do n.º 2.\n\n6 - A Comissão estabelece e publica a lista dos postos de inspecção fronteiriços aprovados, incluindo os casos de suspensão temporária de aprovação.",
+      "alterador": 1
+    }
+  ],
   "removidos": [],
-  "nao_aplicavel": "O artigo 2.º do DL 150/2013 dá nova redação ao anexo I do original (lista dos territórios), que não consta do texto atual (só artigos); não aplicado.",
+  "titulos": [],
+  "anexos": [
+    {
+      "titulo": "## ANEXO I — Territórios a que alude o artigo 1.º",
+      "texto": "1 - O território do Reino da Bélgica.\n\n2 - O território da República da Bulgária.\n\n3 - O território da República Checa.\n\n4 - O território do Reino da Dinamarca, com exclusão das Ilhas Faroé e da Gronelândia.\n\n5 - O território da República Federal da Alemanha.\n\n6 - O território da República da Estónia.\n\n7 - O território da República Helénica.\n\n8 - O território do Reino de Espanha, com exclusão de Ceuta e Melilha.\n\n9 - O território da República Francesa.\n\n10 - O território da República da Croácia.\n\n11 - O território da Irlanda.\n\n12 - O território da República Italiana.\n\n13 - O território da República de Chipre.\n\n14 - O território da República da Letónia.\n\n15 - O território da República da Lituânia.\n\n16 - O território do Grão-Ducado do Luxemburgo.\n\n17 - O território da Hungria.\n\n18 - O território de Malta.\n\n19 - O território do Reino dos Países Baixos na Europa.\n\n20 - O território da República da Áustria.\n\n21 - O território da República da Polónia.\n\n22 - O território da República Portuguesa.\n\n23 - O território da Roménia.\n\n24 - O território da República da Eslovénia.\n\n25 - O território da República Eslovaca.\n\n26 - O território da República da Finlândia.\n\n27 - O território do Reino da Suécia.\n\n28 - O território do Reino Unido da Grã-Bretanha e Irlanda do Norte.",
+      "alterador": 2
+    }
+  ],
+  "nao_aplicavel": "Alterador 2, art. 3.º e anexo II (nova redação do anexo III ao Decreto-Lei n.º 163/2005): outro diploma",
   "instrucoes": [
-    "Alterador 1, art. 1.º: aditamento do artigo 8.º-A — já consta do texto atual com a mesma redação; nada a mudar.",
-    "Alterador 1, art. 2.º: entrada em vigor, não textual.",
-    "Alterador 2, art. 2.º: nova redação do anexo I — anexo fora do texto atual, não aplicado.",
-    "Alterador 2, art. 3.º: altera o anexo III do DL 163/2005 (outro diploma); ignorado."
+    "Alterador 1, art. 1.º: adita o art. 8.º-A; devolvido com o texto do alterador letra a letra (com a ligação da Decisão 2001/812/CE, como o resto do texto atual)",
+    "Alterador 2, art. 2.º: nova redação do anexo I (28 territórios); corpo do anexo I substituído pelo texto do anexo I do alterador ([...] mantém o título)",
+    "Alterador 2, art. 3.º: anexo III do Decreto-Lei n.º 163/2005 — outro diploma, nao_aplicavel"
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 122,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

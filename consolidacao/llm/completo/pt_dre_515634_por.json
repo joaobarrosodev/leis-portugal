@@ -1,14 +1,41 @@
 {
   "id": "pt:dre:515634:por",
-  "artigos": [],
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "1 - As referências feitas no [Decreto-Lei n.º 6/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-2001-338986), aos serviços centrais e regionais da administração da educação reportam-se, na administração regional autónoma, aos serviços da Secretaria Regional de Educação.\n\n2 - As competências atribuídas no [Decreto-Lei n.º 6/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-2001-338986), de 18 de Janeiro, na redacção dada pelo [Decreto-Lei n.º 209/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2002-432450), de 17 de Outubro, ao Ministério da Educação reportam-se, na administração regional autónoma, ao Secretário Regional de Educação, excepto a competência prevista na alínea b) do n.º 4 do artigo 13.º do mesmo diploma legal.\n\n3 - A competência para definir as orientações relativas à diversificação das ofertas curriculares atribuída, no n.º 3 do artigo 11.º do [Decreto-Lei n.º 6/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-2001-338986), aos Ministros da Educação e do Trabalho e da Solidariedade pertence, na administração regional autónoma, ao Secretário Regional de Educação.",
+      "alterador": 1
+    }
+  ],
   "removidos": [],
-  "nao_aplicavel": "Alterador 1, art. 2.º: os desenhos curriculares dos anexos passam a ter a redação dos anexos I a III do alterador, cujos quadros só vêm em imagem (ver quadro no documento original); não aplicado.",
+  "titulos": [],
+  "anexos": [
+    {
+      "titulo": "## ANEXO I — 1.º ciclo",
+      "texto": "Componentes do currículo\n\n[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/07/169a00/43374341.pdf)](https://files.diariodarepublica.pt/1s/2003/07/169a00/43374341.pdf)](https://files.diariodarepublica.pt/1s/2003/07/169a00/43374341.pdf)\n\nO trabalho a desenvolver pelos alunos integrará, obrigatoriamente, actividades experimentais e actividades de pesquisa adequadas à natureza das diferentes áreas, nomeadamente no ensino das ciências.",
+      "alterador": 1
+    },
+    {
+      "titulo": "## ANEXO II — 2.º ciclo",
+      "texto": "[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/07/169a00/43374341.pdf)](https://files.diariodarepublica.pt/1s/2003/07/169a00/43374341.pdf)](https://files.diariodarepublica.pt/1s/2003/07/169a00/43374341.pdf)\n\nO trabalho a desenvolver pelos alunos integrará, obrigatoriamente, actividades experimentais e actividades de pesquisa adequadas à natureza das diferentes áreas ou disciplinas, nomeadamente no ensino das ciências.",
+      "alterador": 1
+    },
+    {
+      "titulo": "## ANEXO III — 3.º ciclo",
+      "texto": "[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/07/169a00/43374341.pdf)](https://files.diariodarepublica.pt/1s/2003/07/169a00/43374341.pdf)](https://files.diariodarepublica.pt/1s/2003/07/169a00/43374341.pdf)\n\nO trabalho a desenvolver pelos alunos integrará, obrigatoriamente, actividades experimentais e actividades de pesquisa adequadas à natureza das diferentes áreas ou disciplinas, nomeadamente no ensino das ciências.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
   "instrucoes": [
-    "Alterador 1, art. 1.º: nova redação do n.º 2 do art. 2.º; o texto atual (já alterado por um programa) já coincide com a nova redação, sem mudança.",
-    "Alterador 1, art. 2.º: substituição dos anexos (quadros em imagem); não aplicável.",
-    "Alterador 1, art. 3.º: produção de efeitos; não textual."
+    "Alterador 1, art. 1.º: nova redação do n.º 2 do artigo 2.º (n.os 1 e 3 «...» mantidos) — o programa aplicou-a sem as ligações do alterador; reposto o n.º 2 copiado letra a letra do alterador",
+    "Alterador 1, art. 2.º: os desenhos curriculares dos anexos I, II e III passam a ter a redação dos anexos do DLR 20/2003/M — corpos substituídos pelas linhas de imagem e pelo texto dos anexos do alterador"
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 122,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

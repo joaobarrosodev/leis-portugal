@@ -75,11 +75,22 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": null,
+  "titulos": [],
+  "anexos": [
+    {
+      "titulo": "## ANEXO — (quadro a que se refere o artigo 9.º)",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Alterador 1, revogação do artigo 8.º (exceção do artigo 10.º do DL 162/2012): efeito adiado: o artigo 8.º mantém-se em vigor até à liquidação do subsistema de saúde e ação social complementar da justiça, facto futuro.",
   "instrucoes": [
-    "DL 162/2012, art. 10.º: revoga o DR 50/2007, com exceção do artigo 8.º; artigos 1.º-7.º e 9.º-13.º passam a (Revogado.), 8.º mantém-se."
+    "Alterador 1, art. 10.º: revoga o Decreto Regulamentar n.º 50/2007 com exceção do art. 8.º; aplicada artigo a artigo (1.º a 7.º e 9.º a 13.º «(Revogado.)») e ao anexo do art. 9.º; o art. 8.º fica, com revogação adiada (nao_aplicavel)."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 122,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

@@ -24,27 +24,35 @@
       "epigrafe": "Esquadrilha de Navios Patrulhas",
       "texto": "À Esquadrilha de Navios Patrulhas (ENP) compete:\n\na) Assegurar ou promover o aprontamento e a avaliação do nível de prontidão e de desempenho das unidades navais e outros meios de acção naval que lhe estejam atribuídos;\n\nb) Promover o apoio logístico e administrativo das unidades navais que lhe estejam atribuídas, ainda que executem missões sob o comando operacional de outras entidades;\n\nc) Cooperar na elaboração de estudos e propostas relativos às unidades navais atribuídas;\n\nd) Assegurar ou promover o apoio técnico especializado às unidades navais, nomeadamente no âmbito da manutenção preventiva e correctiva;\n\ne) Cooperar na definição ou actualização dos padrões de prontidão das unidades navais atribuídas;\n\nf) Promover a conservação e manutenção das infra-estruturas da Esquadrilha;\n\ng) Assegurar a execução dos procedimentos de segurança superiormente definidos, aplicáveis à Esquadrilha e unidades navais atribuídas.",
       "alterador": 1
+    },
+    {
+      "chave": "57.º",
+      "epigrafe": "Activação dos comandos administrativos",
+      "texto": "1 - A activação da Flotilha e das esquadrilhas de navios, salvo o disposto no n.º 3, processa-se de forma gradual e em conjugação com a activação da nova estrutura orgânica do Comando Naval, de acordo com a orientação do CEMA.\n\n2 - As esquadrilhas de escoltas oceânicos e de navios patrulhas substituem as actuais flotilhas de escoltas oceânicos e de navios patrulhas, criadas pelas Portarias n.os 16711 e 16077, de 23 de Maio de 1958 e de 13 de Dezembro de 1956, respectivamente, alteradas pela [Portaria n.º 20679](https://diariodarepublica.pt/dr/detalhe/portaria/20679-1964-578745), de 11 de Julho de 1964.\n\n3 - A EDM substitui a Flotilha de Draga-Minas, criada pela [Portaria n.º 16076](https://diariodarepublica.pt/dr/detalhe/portaria/16076-1956-299052), de 13 de Dezembro de 1956, alterada pela [Portaria n.º 20679](https://diariodarepublica.pt/dr/detalhe/portaria/20679-1964-578745), de 11 de Julho de 1964, e é activada por despacho do CEMA, quando a entrada ao serviço de navios dos tipos draga-minas ou caça-minas o justificar.\n\n4 - A EH, instalada em infra-estruturas próprias na área da Base Aérea do Montijo, é activada, por despacho do CEMA, depois de definida, mediante protocolo, a forma de cooperação entre a Marinha e a Força Aérea, visando assegurar:\n\na) A harmonia do funcionamento interno da EH e da base aérea onde está situada;\n\nb) O apoio da Força Aérea nas áreas da manutenção dos helicópteros e da formação do pessoal;\n\nc) A utilização de facilidades da base aérea, no âmbito administrativo e logístico;\n\nd) A cooperação mútua, designadamente nos domínios da utilização do espaço aéreo, das comunicações, da segurança de voo e da informação de navegação aeronáutica e meteorológica.",
+      "alterador": 1
     }
   ],
   "removidos": [],
+  "titulos": [],
+  "anexos": [],
   "nao_aplicavel": null,
   "instrucoes": [
-    "Art. 1.º, n.º 2, al. b): «Oceânicas;» por «Oceânicos;» — já estava no texto atual.",
-    "Art. 1.º, n.º 2, al. c): «Navios-Patrulhas;» por «Navios Patrulhas;» — aplicado.",
-    "Art. 12.º, n.º 1, al. d): «à Flotilha e esquadrilhas;» por «à Flotilha e às esquadrilhas;» — já estava no texto atual.",
-    "Art. 12.º, n.º 1, al. e): «à Flotilha e esquadrilhas» por «à Flotilha e às esquadrilhas» — aplicado (no texto atual a alínea termina em ponto, não em ponto e vírgula; mantido o ponto).",
-    "Art. 14.º, epígrafe: «Oceânicas» por «Oceânicos» — já estava; corpo «À Esquadrilha de Escoltas Oceânicas (EEO)» por «Oceânicos» — aplicado; al. a) «prontidão e do desempenho» por «prontidão e de desempenho» — aplicado.",
-    "Art. 20.º, epígrafe — já estava; corpo «À Esquadrilha de Navios-Patrulhas (ENP) compete:» por «Navios Patrulhas» — aplicado.",
-    "Art. 57.º, n.º 2: «oceânicas e de navios-patrulhas...» — já estava no texto atual."
+    "Retificação ao art. 1.º, n.º 2, alíneas b) e c) («Oceânicos;», «Navios Patrulhas;»): aplicada sobre o texto original",
+    "Retificação ao art. 12.º, n.º 1, alíneas d) e e) («à Flotilha e às esquadrilhas»): aplicada; na alínea e) o texto termina em ponto final, que se manteve",
+    "Retificação ao art. 14.º (epígrafe, proémio «Oceânicos (EEO)» e alínea a) «prontidão e de desempenho»): aplicada",
+    "Retificação ao art. 20.º (epígrafe e proémio «Navios Patrulhas»): aplicada",
+    "Retificação ao art. 57.º, n.º 2: aplicada"
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
+  "ronda_camada1": 122,
   "problemas": [
-    "1.º: parágrafo que não está no alterador nem no original: b) A Esquadrilha de Escoltas Oceânicos;",
-    "1.º: parágrafo que não está no alterador nem no original: c) A Esquadrilha de Navios Patrulhas;",
-    "12.º: parágrafo que não está no alterador nem no original: d) Executar as tarefas de natureza administrativa inerentes à gestão, bem-estar ",
-    "12.º: parágrafo que não está no alterador nem no original: e) Elaborar estudos relativos aos requisitos e à utilização do pessoal das guarn",
-    "14.º: parágrafo que não está no alterador nem no original: À Esquadrilha de Escoltas Oceânicos (EEO) compete:",
-    "14.º: parágrafo que não está no alterador nem no original: a) Assegurar ou promover o aprontamento e a avaliação do nível de prontidão e de"
-  ]
+    "12.º: parágrafo que não está no alterador nem no original: e) Elaborar estudos relativos aos requisitos e à utilização do pessoal das guarn"
+  ],
+  "numeracao_aceite": [
+    "1.º: parágrafo que não está no alterador nem no original: c) A Esquadrilha de Navios Patrulhas; (troca de expressão do alterador)",
+    "14.º: parágrafo que não está no alterador nem no original: À Esquadrilha de Escoltas Oceânicos (EEO) compete: (troca de expressão do alterador)",
+    "14.º: parágrafo que não está no alterador nem no original: a) Assegurar ou promover o aprontamento e a avaliação do nível de prontidão e de (troca de expressão do alterador)"
+  ],
+  "avisos": []
 }

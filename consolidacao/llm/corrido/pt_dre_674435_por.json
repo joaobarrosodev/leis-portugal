@@ -5,25 +5,27 @@
       "de": 12,
       "ate": 13,
       "texto": "Art. 4.º - (Revogado.)",
-      "alterador": 2
+      "alterador": 1
     },
     {
       "de": 21,
       "ate": 24,
       "texto": "Art. 8.º - (Revogado.)",
-      "alterador": 2
+      "alterador": 1
     }
   ],
   "insercoes": [],
-  "nao_aplicavel": null,
+  "nao_aplicavel": "Alterador 2, artigo único, n.º 1 (revoga a isenção fiscal da TAP «mantida pelos artigos 2.º e 3.º do Decreto-Lei n.º 312/91»): não textual — revoga um benefício fiscal, não o texto dos artigos 2.º e 3.º.",
   "instrucoes": [
-    "DL 474-A/99 (Lei Orgânica do XIV Governo): nenhuma instrução dirigida ao DL 312/91; nada aplicado.",
-    "DL 34/2000, art. 1.º: altera artigos do DL 122/98 (outro diploma): ignorado; a remissão para os n.os 2 e 3 do art. 10.º do DL 312/91 não o altera.",
-    "DL 34/2000, art. 2.º (art. 18.º, n.º 2, aditado ao DL 122/98): revoga os artigos 4.º e 8.º do DL 312/91: unidades 12-13 e 21-24 passam a (Revogado.)."
+    "Alterador 1 (DL 122/98), art. 15.º: revoga os artigos 4.º e 8.º do DL 312/91 (do decreto, não dos estatutos) — unidades 12-13 e 21-24 substituídas por «Art. 4.º - (Revogado.)» e «Art. 8.º - (Revogado.)», com o prefixo «Art.» do texto atual, como manda a regra das unidades revogadas (o reparo do verificador letra a letra não se aplica a esta forma, que as REGRAS exigem).",
+    "Alterador 2 (DL 258/98): revogação da isenção fiscal mantida pelos arts. 2.º e 3.º — não textual, nao_aplicavel.",
+    "Alterador 3 (DL 474-A/99, Lei Orgânica do XIV Governo): nenhuma instrução dirigida ao DL 312/91.",
+    "Alterador 4 (DL 34/2000): altera o DL 122/98 (outro diploma); o novo art. 18.º, n.º 2, do DL 122/98 repete a revogação dos arts. 4.º e 8.º do DL 312/91, já aplicada pelo alterador 1; a remissão para os n.os 2 e 3 do art. 10.º não altera o original."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",
-  "problemas": [
+  "problemas": [],
+  "numeracao_aceite": [
     "substituição 12-13: parágrafo que não está no alterador nem no original: Art. 4.º - (Revogado.)",
     "substituição 21-24: parágrafo que não está no alterador nem no original: Art. 8.º - (Revogado.)"
   ]

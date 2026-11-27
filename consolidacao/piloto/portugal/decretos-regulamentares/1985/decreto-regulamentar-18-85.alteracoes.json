@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "42.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 42.º — Do direito subsidiário\n\nEm tudo o que não estiver previsto no presente diploma, observar-se-á, na parte aplicável, o disposto na legislação que disciplina a exploração dos jogos de fortuna ou azar nos casinos.\n\nArt. 4.º - 1 - No prazo de 5 anos não será consentida a criação de novas salas de jogo do bingo.\n\n2 - Salvo casos de força maior, como tal reconhecidos pelo membro do Governo com tutela sobre a Inspecção-Geral de Jogos, consideram-se improrrogáveis os prazos legal e contratualmente fixados para abertura das salas de jogo do bingo já adjudicadas.\n\nArt. 5.º É revogado o [Decreto Regulamentar n.º 70/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/70-1982-376408), de 25 de Outubro.\n\nMário Soares - Carlos Alberto da Mota Pinto - Eduardo Ribeiro Pereira - Joaquim Martins Ferreira do Amaral - Francisco José de Sousa Tavares.\n\nPromulgado em 6 de Março de 1985.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nReferendado em 8 de Março de 1985.\n\nO Primeiro-Ministro, Mário Soares.",
+    "depois": "###### Artigo 42.º — Do direito subsidiário\n\nEm tudo o que não estiver previsto no presente diploma, observar-se-á, na parte aplicável, o disposto na legislação que disciplina a exploração dos jogos de fortuna ou azar nos casinos.\n\nArt. 4.º - (Revogado.)\n\nArt. 5.º É revogado o [Decreto Regulamentar n.º 70/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/70-1982-376408), de 25 de Outubro.\n\n> Alterado pelo/a [Decreto Regulamentar n.º 76/86](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/76-1986-627248), publicado em 1986-12-31.\n\nMário Soares - Carlos Alberto da Mota Pinto - Eduardo Ribeiro Pereira - Joaquim Martins Ferreira do Amaral - Francisco José de Sousa Tavares.\n\nPromulgado em 6 de Março de 1985.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nReferendado em 8 de Março de 1985.\n\nO Primeiro-Ministro, Mário Soares.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:326945:por",
+    "alterador": "pt:dre:627248:por"
+  }
+]

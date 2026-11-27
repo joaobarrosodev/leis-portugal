@@ -9,13 +9,18 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "Alterador 1, artigo 3.º: alterações ao mapa de equivalências anexo, que só vem em imagem (ver documento original); não aplicadas.",
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, art. 3.º, alterações ao mapa de equivalências anexo: só em imagem: o mapa do original e o do alterador só existem em imagem e o texto atual não tem título de anexo para o mapa (vem como linhas de texto no fim do artigo 8.º)",
   "instrucoes": [
-    "Alterador 1, artigo 1.º: regime próprio (previdência e tempo de serviço); não altera o texto do original.",
-    "Alterador 1, artigo 2.º: nova redação do artigo 1.º; aplicada.",
-    "Alterador 1, artigo 3.º: alteração do mapa anexo em imagem; não aplicada."
+    "Alterador 1 (Decreto-Lei n.º 354/84), art. 2.º: nova redacção do art. 1.º (n.os 1 a 4) — aplicada.",
+    "Alterador 1, art. 3.º: alterações ao mapa de equivalências — só em imagem, sem título de anexo; em nao_aplicavel.",
+    "Alterador 1, art. 1.º: regime de previdência e contagem do tempo de serviço — regra do alterador, não muda o texto do original."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 122,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

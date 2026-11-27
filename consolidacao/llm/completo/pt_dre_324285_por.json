@@ -35,17 +35,18 @@
   "removidos": [],
   "titulos": [],
   "anexos": [],
-  "nao_aplicavel": "Alterador 1 (Decreto-Lei n.º 72-E/2003), artigo 4.º, n.os 1 e 2: aditamento da nota de pé-de-página (nota *) na expressão «comunicação (ver nota *) relativa a» do anexo VIII e nova redação dos n.os 1.2, 1.2.1 e 1.2.2 (com 1.2.1.1 e 1.2.2.1) da adenda do certificado de homologação CE do anexo VIII. No texto atual o corpo do anexo VIII vem vazio (só os títulos de divisão TÍTULO I a III, sem texto): nem a expressão onde a nota se insere nem a adenda existem no texto, e a instrução não dá o anexo inteiro, pelo que não se pode aplicar com segurança; os reparos do verificador sobre o anexo VIII não se seguem por isso. Alterador 2 (Decreto-Lei n.º 148/2013), artigos 3.º a 18.º e anexos I a XV: alterações a outros diplomas — ignoradas.",
+  "nao_aplicavel": "Alterador 1, art. 4.º n.º 1 (nota de pé-de-página na expressão «comunicação (ver nota *) relativa a» do anexo VIII): alvo incerto: no texto atual o corpo do anexo VIII está vazio (só títulos de divisão), a expressão onde se põe a nota não existe e não há corpo a que acrescentá-la sem inventar o resto do anexo\nAlterador 1, art. 4.º n.º 2 (nova redação dos n.os 1.2, 1.2.1, 1.2.1.1, 1.2.2 e 1.2.2.1 da adenda do certificado do anexo VIII): alvo incerto: a adenda não existe no texto atual (corpo do anexo VIII vazio) e a nova redação só traz esses números, com «...» para o resto, que não há de onde copiar\nAlterador 2, arts. 3.º a 18.º e anexos I a XV (DL 291/2000, 317/2000, 225/2001, 3/2002, 30/2002, 92/2002, 114/2002, 115/2002, 311/2003, 215/2004, 74/2005, 237/2006, 336/2007, 151/2008, 19/2009, 16/2010): outro diploma",
   "instrucoes": [
-    "Alterador 1, art. 2.º: nova redação do artigo 140.º do Regulamento (epígrafe «Embalagens e marcação», n.º 1 e alínea d) do n.º 3; restantes números e alíneas mantidos do texto atual) — aplicado.",
-    "Alterador 1, art. 3.º: aditados os artigos 37.º-A, 37.º-B e 37.º-C ao Regulamento — aplicado, com as epígrafes e o texto do alterador.",
-    "Alterador 1, art. 4.º, n.os 1 e 2: nota (nota *) e adenda do anexo VIII — o corpo do anexo VIII não existe no texto atual; não aplicado, em nao_aplicavel.",
-    "Alterador 1, art. 5.º e 6.º: produção de efeitos e entrada em vigor — sem alteração ao texto.",
-    "Alterador 2, art. 2.º: nova redação das alíneas do n.º 2 do artigo 136.º do Regulamento (lista de Estados membros, a) a bb)); n.os 1, 2 (proémio), 3, 4 e 5 mantidos do texto atual — aplicado.",
-    "Alterador 2, art. 3.º a 18.º: alterações a outros decretos-leis — ignoradas."
+    "Alterador 1, art. 2.º: nova redação do art. 140.º do Regulamento (epígrafe, n.º 1 e alínea d) do n.º 3 novas; resto do texto atual) — aplicado em 140.º",
+    "Alterador 1, art. 3.º: aditados os arts. 37.º-A, 37.º-B e 37.º-C — aplicados",
+    "Alterador 1, art. 4.º n.os 1 e 2: nota e nova redação da adenda do anexo VIII — nao_aplicavel (corpo do anexo vazio no texto atual)",
+    "Alterador 2, art. 2.º: nova redação das alíneas do n.º 2 do art. 136.º do Regulamento (resto [...]) — aplicado em 136.º",
+    "Alterador 2, arts. 3.º a 18.º e anexos: outros diplomas — nao_aplicavel"
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
+  "ronda_camada1": 122,
   "problemas": [],
+  "numeracao_aceite": [],
   "avisos": []
 }

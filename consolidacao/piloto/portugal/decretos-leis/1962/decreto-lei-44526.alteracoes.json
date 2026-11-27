@@ -12,5 +12,19 @@
     "unidade": [],
     "diploma": "pt:dre:163631:por",
     "alterador": "pt:dre:194867:por"
+  },
+  {
+    "artigo": "5.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 5.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 44970](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44970-1963-194867), publicado em 1963-04-10.",
+    "depois": "###### Artigo 5.º\n\nÉ criado na Secretaria de Estado, e integrado na Direcção-Geral dos Negócios Políticos e da Administração Interna, mais um lugar de adjunto do director-geral, com a categoria de ministro plenipotenciário de 2.ª classe, cujas funções serão definidas por despacho ministerial.\n\n> Revogado pelo/a [Decreto-Lei n.º 44970](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44970-1963-194867), publicado em 1963-04-10.\n\n> Alterado pelo/a [Decreto-Lei n.º 44970](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44970-1963-194867), publicado em 1963-04-10.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:163631:por",
+    "alterador": "pt:dre:194867:por"
   }
 ]

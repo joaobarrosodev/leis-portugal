@@ -300,6 +300,6 @@ O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO — Quadro de pessoal dirigente
 
-(artigo 30.º, n.º 1)
+(Revogado.)
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/11/270a00/79427948.pdf)
+> Revogado pelo/a [Decreto-Lei n.º 155/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-2007-521019), publicado em 2007-04-27.

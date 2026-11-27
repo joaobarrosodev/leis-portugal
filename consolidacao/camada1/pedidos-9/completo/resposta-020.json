@@ -1,0 +1,22 @@
+[
+ {
+  "id": "pt:dre:261717:por",
+  "artigos": [
+   {
+    "chave": "1.º",
+    "epigrafe": "",
+    "texto": "É criada no concelho de Abrantes a freguesia de Vale das Mós.",
+    "alterador": 1
+   }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, n.º 2 do artigo único, alteração da epígrafe da lei (nova designação Vale das Mós): alvo incerto: a epígrafe (título) da lei não está no texto atual",
+  "instrucoes": [
+   "Alterador 1 (Lei n.º 15/86), artigo único, n.os 1 e 2: a designação da freguesia passa de «Vale de Mós» a «Vale das Mós» e o artigo 1.º é alterado em conformidade — no artigo 1.º, só o nome é trocado («Vale das Mós» vem do n.º 1 do alterador; o resto do parágrafo é o texto atual).",
+   "Alterador 1, n.º 2: alteração da epígrafe da lei — não está no texto atual, em nao_aplicavel.",
+   "Alterador 1, n.º 3: efeitos retroactivos — não textual, nada a aplicar."
+  ]
+ }
+]

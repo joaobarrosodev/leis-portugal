@@ -166,5 +166,19 @@
     "unidade": [],
     "diploma": "pt:dre:521014:por",
     "alterador": "pt:dre:179296:por"
+  },
+  {
+    "artigo": "ANEXO — (quadro a que se refere o artigo 9.º)",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "## ANEXO — (quadro a que se refere o artigo 9.º)\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/04/08200/26212624.pdf)",
+    "depois": "## ANEXO — (quadro a que se refere o artigo 9.º)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 162/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2012-179296), publicado em 2012-07-31.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:521014:por",
+    "alterador": "pt:dre:179296:por"
   }
 ]

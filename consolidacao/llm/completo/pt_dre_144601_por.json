@@ -141,13 +141,13 @@
     },
     {
       "chave": "24.º",
-      "epigrafe": "",
+      "epigrafe": "Divisão de Apoio Jurídico",
       "texto": "(Revogado.)",
       "alterador": 2
     },
     {
       "chave": "25.º",
-      "epigrafe": "",
+      "epigrafe": "Divisão de Apoio Informático",
       "texto": "(Revogado.)",
       "alterador": 2
     },
@@ -203,13 +203,17 @@
   "removidos": [],
   "titulos": [],
   "anexos": [],
-  "nao_aplicavel": "Art. 21.º do DL 152/2007 revoga também o mapa de pessoal dirigente a que se refere o n.º 2 do artigo 31.º, que vem no fim do texto (depois das assinaturas) só como ligação para imagem e não como artigo nem como anexo com corpo: ficou como está. Os títulos de divisão não foram mexidos (nenhuma instrução os elimina).",
+  "nao_aplicavel": null,
   "instrucoes": [
-    "Alterador 1 (DL 214/2006, Lei Orgânica do MCTES): não tem instruções de alteração do texto do DL 188/97 (só prevê a reestruturação da FCT por diploma orgânico próprio): nada aplicado.",
-    "Alterador 2 (DL 152/2007), art. 21.º: revoga o DL 188/97, com excepção do n.º 2 do art. 11.º e do art. 30.º. Aplicado: arts. 1.º a 10.º, 12.º a 29.º e 31.º a 34.º com '(Revogado.)' (incluindo os arts. 24.º e 25.º, Divisão de Apoio Jurídico e Divisão de Apoio Informático, cujo corpo está vazio no texto atual); no art. 11.º ficam revogados os n.os 1, 3, 4, 5 e 6 e mantém-se o n.º 2; o art. 30.º fica igual."
+    "Alterador 1 (DL 214/2006, lei orgânica do MCTES): nenhuma instrução dirigida ao texto do original; nada a aplicar.",
+    "Alterador 2 (DL 152/2007), art. 21.º: revoga o DL 188/97, com exceção do n.º 2 do art. 11.º e do art. 30.º; em vigor desde 2007. Aplicada artigo a artigo: arts. 1.º a 10.º, 12.º a 29.º e 31.º a 34.º com «(Revogado.)»; no art. 11.º ficam revogados os n.os 1 e 3 a 6 e mantém-se o n.º 2; o art. 30.º fica igual.",
+    "Arts. 24.º e 25.º: no texto atual não têm corpo; a epígrafe é a do título «Divisão de Apoio Jurídico»/«Divisão de Apoio Informático» que os acompanha; ficam «(Revogado.)» (resolve o reparo). Os títulos de divisão não mudam.",
+    "Art. 34.º: o corpo passa a «(Revogado.)»; as fórmulas finais e o mapa do n.º 2 do art. 31.º (revogado com o diploma) que vinham a seguir no texto atual não ficam depois de «(Revogado.)»."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
+  "ronda_camada1": 122,
   "problemas": [],
+  "numeracao_aceite": [],
   "avisos": []
 }

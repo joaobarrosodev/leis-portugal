@@ -1,0 +1,22 @@
+[
+ {
+  "id": "pt:dre:154850:por",
+  "artigos": [
+   {
+    "chave": "2.º",
+    "epigrafe": "",
+    "texto": "É fixado em 2000$00 o ordenado mensal dos oficiais de diligências das administrações dos bairros.\n\n§ único. (Revogado.)",
+    "alterador": 3
+   }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, art. 2.º, o disposto no art. 2.º passa a ser aplicável aos oficiais de diligências das Câmaras Municipais de Lisboa e do Porto: não textual (extensão do âmbito, sem mudar o texto)",
+  "instrucoes": [
+   "Alterador 1 (DL 47801), art. 2.º: extensão do regime do art. 2.º — não textual, nao_aplicavel.",
+   "Alterador 2 (DL 56/74), art. 8.º: nova redação do § único do art. 2.º (corpo «...» fica) — substituída depois pela revogação do alterador 3.",
+   "Alterador 3 (Lei 1/79), art. 27.º, alínea d): revoga o § único do art. 2.º, na redação do DL 56/74 — aplicada: o corpo fica e o parágrafo passa a «§ único. (Revogado.)» (marca de revogação como «N - (Revogado.)», com a designação do texto atual)."
+  ]
+ }
+]

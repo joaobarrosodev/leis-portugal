@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "ANEXO — Prescrições de segurança para navios de passageiros novos e existentes que efectuem viagens domésticas",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "## ANEXO — Prescrições de segurança para navios de passageiros novos e existentes que efectuem viagens domésticas",
+    "depois": "## ANEXO I — Prescrições de segurança para navios de passageiros novos e existentes que efectuem viagens domésticas",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:659920:por",
+    "alterador": "pt:dre:489558:por"
+  }
+]

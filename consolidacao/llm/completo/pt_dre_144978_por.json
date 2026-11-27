@@ -4,7 +4,7 @@
     {
       "chave": "1.º",
       "epigrafe": "",
-      "texto": "1 - Os trabalhadores da Portugal Telecom, S. A., que sejam subscritores da Caixa Geral de Aposentações podem, até 31 de Dezembro de 1997, nos termos dos números seguintes, aposentar-se sem submissão a junta médica, desde que completem em alternativa:\n\na) 30 anos de serviço e 50 de idade;\n\nb) 25 anos de serviço e 55 de idade.\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\n5 - (Revogado.)\n\n6 - (Revogado.)",
+      "texto": "1 - Os trabalhadores da Portugal Telecom, S. A., que sejam subscritores da Caixa Geral de Aposentações podem, até 31 de Dezembro de 2005, nos termos dos números seguintes, aposentar-se sem submissão a junta médica, desde que completem em alternativa:\n\na) 30 anos de serviço e 50 de idade;\n\nb) 25 anos de serviço e 55 de idade.\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\n5 - (Revogado.)\n\n6 - (Revogado.)",
       "alterador": 1
     },
     {
@@ -34,13 +34,20 @@
   ],
   "removidos": [],
   "titulos": [],
-  "nao_aplicavel": "DL 324/97 art. 4.º: a ressalva das alíneas a) e b) do n.º 1 do art. 1.º 'que passa a reportar-se a 31 de Dezembro de 2005, nos termos do presente diploma' não é alteração textual (o novo prazo vem do art. 1.º do próprio DL 324/97, que é regime autónomo e não nova redação do DL 13/95); não se substituiu '1997' por '2005' no corpo do n.º 1, que fica como está, e o reparo do verificador não foi seguido por falta de instrução textual.",
+  "anexos": [],
+  "nao_aplicavel": null,
   "instrucoes": [
-    "DL 324/97 art. 4.º: revoga o DL 13/95 salvo as alíneas a) e b) do n.º 1 do art. 1.º — revogados os n.os 2 a 6 do art. 1.º e os arts. 2.º a 5.º; n.º 1 mantido",
-    "DL 324/97 art. 4.º: 'passa a reportar-se a 31 de Dezembro de 2005' — remissão não textual, posta em nao_aplicavel",
-    "DL 324/97 arts. 1.º a 3.º: regime próprio, não alteram a redação do DL 13/95"
+    "Alterador 1 (Decreto-Lei n.º 324/97), art. 4.º: revoga o original, salvo as alíneas a) e b) do n.º 1 do art. 1.º, que passam a reportar-se a 31 de Dezembro de 2005 — a revogação está em vigor desde 1997, aplicada artigo a artigo:",
+    "art. 1.º: o n.º 1 fica com as alíneas a) e b) e a data «31 de Dezembro de 1997» passa a «31 de Dezembro de 2005» (data do art. 4.º do alterador); n.os 2 a 6 «(Revogado.)».",
+    "arts. 2.º, 3.º, 4.º e 5.º: «(Revogado.)» (no art. 5.º saem também as fórmulas finais e assinaturas que vinham no corpo).",
+    "Alterador 1, arts. 1.º a 3.º e 5.º: regime próprio do alterador — não muda o texto do original."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 122,
+  "problemas": [
+    "1.º: parágrafo que não está no alterador nem no original: 1 - Os trabalhadores da Portugal Telecom, S. A., que sejam subscritores da Caixa"
+  ],
+  "numeracao_aceite": [],
+  "avisos": []
 }

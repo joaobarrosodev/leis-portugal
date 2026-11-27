@@ -47,11 +47,7 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 1 - A liquidação da EPAC Comercial, S. A., é cometida a uma comissão liquidatária composta por três membros, até ser deliberada pela respectiva assembleia geral a transmissão global do património activo e passivo para o accionista Estado, através da Direcção-Geral do Tesouro.
 
-2 - A presidência da comissão liquidatária a que se refere o número anterior incumbe, por inerência, ao presidente do conselho directivo do Instituto Nacional de Intervenção e Garantia Agrícola (INGA).
-
-3 - Sem prejuízo do disposto no número anterior, a comissão liquidatária referida no n.º 1 é nomeada por despacho conjunto dos Ministros das Finanças e da Agricultura, do Desenvolvimento Rural e das Pescas, no qual serão fixadas as condições de prestação de serviço dos seus membros e a respectiva remuneração.
-
-> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 242-A/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/242-a-2001-534588), publicado em 2001-08-31.
+2 - A comissão liquidatária referida no número anterior, nomeada em assembleia geral, será confirmada após a entrada em vigor deste diploma por despacho conjunto dos Ministros das Finanças e da Agricultura, do Desenvolvimento Rural e das Pescas, que designará o seu presidente e fixará as condições de prestação de serviço dos seus membros, incluindo a respectiva remuneração.
 
 ###### Artigo 3.º — Liquidação
 

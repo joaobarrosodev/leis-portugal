@@ -54,5 +54,19 @@
     "unidade": [],
     "diploma": "pt:dre:155655:por",
     "alterador": "pt:dre:383426:por"
+  },
+  {
+    "artigo": "6.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 6.º\n\nAs câmaras municipais, exceptuadas as de Lisboa e Porto, procederão obrigatòriamente ao seguro do pessoal dos corpos de bombeiros municipais e voluntários contra acidentes ocorridos no respectivo serviço.",
+    "depois": "###### Artigo 6.º\n\n1 - Os municípios procederão obrigatoriamente ao seguro contra acidentes pessoais dos bombeiros profissionais e voluntários com o âmbito previsto na alínea e) do n.º 1 do artigo 6.º da [Lei n.º 21/87](https://diariodarepublica.pt/dr/detalhe/lei/21-1987-419274), de 20 de Junho.\n\n2 - As condições mínimas do seguro, incluindo as quantias e riscos compreendidos, são fixadas por portaria conjunta dos Ministros da Administração Interna, das Finanças e do Planeamento e da Administração do Território, depois de ouvidos a Associação Nacional de Municípios Portugueses, a Liga dos Bombeiros Portugueses e o Instituto de Seguros de Portugal.\n\n> Alterado pelo/a [Decreto-Lei n.º 36/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-1994-521451), publicado em 1994-02-08.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:155655:por",
+    "alterador": "pt:dre:521451:por"
   }
 ]

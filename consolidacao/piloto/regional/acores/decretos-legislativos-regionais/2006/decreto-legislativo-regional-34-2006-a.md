@@ -3,7 +3,8 @@ id: pt:dre:540386:por
 title: Decreto Legislativo Regional n.º 34/2006/A
 original: data/regional/acores/decretos-legislativos-regionais/2006/decreto-legislativo-regional-34-2006-a.md
 consolidacao:
-  metodo: piloto da fase 2 (consolidacao/consolidar.py), sem valor oficial
+  metodo: piloto da fase 2 (consolidacao/consolidar.py e, pelo LLM, consolidacao/juntar.py),
+    sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
   - id: pt:dre:249569:por
@@ -73,4 +74,4 @@ Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, José António Mesquita.
 
-## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/2006/08/16700/63856387.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/2008/04/08200/0243402435.pdf)

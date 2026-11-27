@@ -2,12 +2,23 @@
   "id": "pt:dre:147998:por",
   "artigos": [],
   "removidos": [],
-  "nao_aplicavel": "Alterador 1, artigo 3.º e anexo II: nova redação do anexo III ao Decreto-Lei n.º 163/2005; o anexo III não consta do texto atual recebido (só artigos), pelo que não se pode aplicar.",
+  "titulos": [],
+  "anexos": [
+    {
+      "titulo": "## ANEXO III",
+      "texto": "Marca especial de identificação para a carne proveniente de um território ou parte de território que não satisfaz todas as condições de polícia sanitária pertinentes.\n\n1 - A marca de salubridade para a carne fresca deve ser sobreposta uma cruz diagonal constituída por duas linhas rectas que se intersectam no centro do carimbo, permanecendo legíveis as informações constantes desse carimbo.\n\n2 - A marca de salubridade pode também ser constituída por um único carimbo, de forma oval e com as dimensões de 6,5 cm de comprimento e 4,5 cm de largura, dela devendo constar as seguintes informações, em caracteres perfeitamente legíveis:\n\na) Na parte superior, o nome ou o código ISO do Estado membro, em maiúsculas, sendo estes AT, BE, DE, DK, ES, FI, FR, GR, HR, IE, IT, LU, NL, PT, SE e UK, e, no centro, o número de aprovação veterinária do matadouro;\n\nb) Na parte inferior, um dos seguintes conjuntos de iniciais: CE, EC, EF, EG, EK, EY ou EZ, duas linhas retas que cruzam o carimbo no centro deste, de forma que as informações permaneçam legíveis, devendo as letras ter, pelo menos, 0,8 cm de altura e os algarismos 1 cm e carimbo conter informações que permitam identificar o veterinário que inspecionou a carne.\n\n3 - A marca deve ser aposta sob a supervisão directa do veterinário oficial que controla a aplicação das disposições em matéria de polícia sanitária.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Alterador 1, art. 2.º, nova redação do anexo I ao Decreto-Lei n.º 210/2000: outro diploma: altera o Decreto-Lei n.º 210/2000, não o original.",
   "instrucoes": [
-    "Alterador 1, artigo 2.º: altera o anexo I ao Decreto-Lei n.º 210/2000, outro diploma; ignorado.",
-    "Alterador 1, artigo 3.º: nova redação do anexo III do original; anexo ausente do texto atual, não aplicado."
+    "Alterador 1, art. 3.º e anexo II: nova redação do anexo III do original (alíneas a) e b) do n.º 2; o resto «[...]» fica); aplicada no corpo do anexo III.",
+    "Alterador 1, art. 2.º: altera o anexo I do DL 210/2000 (outro diploma, nao_aplicavel)."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 122,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

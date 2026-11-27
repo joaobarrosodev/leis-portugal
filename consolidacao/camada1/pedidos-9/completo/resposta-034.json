@@ -1,0 +1,27 @@
+[
+ {
+  "id": "pt:dre:421436:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [
+   {
+    "atual": "## ANEXO B — Lista dos sectores industriais que poderão beneficiar da isenção de direitos estabelecida no presente diploma",
+    "novo": "## ANEXO B — Sectores industriais que poderão beneficiar da isenção de direitos estabelecida no presente diploma",
+    "alterador": 1
+   }
+  ],
+  "anexos": [
+   {
+    "titulo": "## ANEXO B — Lista dos sectores industriais que poderão beneficiar da isenção de direitos estabelecida no presente diploma",
+    "texto": "Ex. 3831 Material de distribuição e comando (Relais).\n\nOutro equipamento para transmissão e distribuição de energia eléctrica (resistências).\n\n3832 Fabricação de equipamento e aparelhos de rádio, televisão e equipamento para telecomunicações e outro material electrónico.\n\nFabricação de receptores de rádio e de televisão, de aparelhos de gravação e de reprodução de som, incluindo sistemas de amplificação sonora, gramofones, ditafones e gravadores de fita magnética; discos e fitas magnéticas gravadas, equipamento telegráfico com ou sem fios; equipamento e aparelhos de rádio e de televisão para transmissão, sinalização e detecção; equipamento e instalação de radar; peças e acessórios especialmente utilizados em aparelhos electrónicos classificados neste grupo; semicondutores e unidades sensíveis semelhantes; condensadores electrónicos lixos e variáveis; aparelhos de radiografia e outros de raios X e válvulas electrónicas.\n\nEx 3825 - Fabricação de computadores.\n\nFabricação de computadores digitais e analógicos e equipamento associado para o processamento electrónico de dados, com os respectivos acessórios.\n\nO Ministro das Finanças, Manuel Artur Cotta Agostinho Dias.",
+    "alterador": 3
+   }
+  ],
+  "nao_aplicavel": "Alterador 2, inclusão no anexo A dos artigos pautais 70.08 e 91.01.08: só em imagem: a relação de posições do anexo A só existe em imagem e o alterador não traz imagem nem linhas do quadro, só os números dos artigos pautais",
+  "instrucoes": [
+   "Alterador 1 (Decreto-Lei n.º 193/76), art. 1.º: nova redacção do anexo B — título do anexo B mudado para o do alterador (em titulos) e corpo substituído pelos quatro parágrafos do alterador (sai a lista antiga 370.5.4, 370.5.41, 370.5.49); a assinatura final do ministro, do texto atual, fica no fim.",
+   "Alterador 2 (Decreto-Lei n.º 358/78): inclui no anexo A os artigos pautais 70.08 e 91.01.08 — anexo A só em imagem, sem linhas no alterador; em nao_aplicavel.",
+   "Alterador 3 (Decreto-Lei n.º 88/80): adita ao anexo B o sector Ex 3825 (fabricação de computadores) — acrescentado no fim da lista do anexo B, antes da assinatura (o corpo devolvido em anexos já tem as mudanças dos alteradores 1 e 3)."
+  ]
+ }
+]
