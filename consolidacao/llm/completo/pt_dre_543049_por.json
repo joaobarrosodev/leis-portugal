@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:543049:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 2, art. 37.º, o regime do artigo 39.º mantém-se em vigor por 270 dias: não textual (prorrogação de vigência, sem alteração do texto)\nAlterador 4, art. 1.º, alínea c), Decreto-Lei n.º 276/2007 alterado pelo original: outro diploma",
+  "instrucoes": [
+    "Alterador 1 (Lei n.º 64/2012), art. 14.º: nova redação do n.º 2 do art. 30.º; o texto atual (já alterado pelo programa) já tem essa redação, letra a letra, e os n.os 1, 3, 4 e 5 ficam: nada a mudar",
+    "Alterador 2 (DL n.º 36/2013): só cita o original (arts. 18.º, 39.º e 58.º) sem o alterar; art. 37.º prorroga o regime do art. 39.º: não textual",
+    "Alterador 3 (Lei n.º 39/2018): altera a Lei Geral Tributária; nenhuma instrução dirigida ao original",
+    "Alterador 4 (DL n.º 70/2025): cita o original só como alterador do DL n.º 276/2007: outro diploma"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "ronda_camada1": 124,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
+}

@@ -1,0 +1,23 @@
+[
+ {
+  "id": "pt:dre:339847:por",
+  "artigos": [
+   {
+    "chave": "7.º",
+    "epigrafe": "Disposições finais e transitórias",
+    "texto": "1 - (Revogado.)\n\n2 - (Revogado.)\n\n3 - O regime estabelecido no presente diploma é imediatamente aplicado aos processos pendentes em que a citação do réu ou de terceiros ainda não tenha sido efectuada ou ordenada.\n\n4 - A lei nova não prejudica as diligências em curso para realização de determinada modalidade de citação, sendo imediatamente aplicável se essa tentativa de citação se frustrar.\n\n5 - É aplicável às notificações dos processos pendentes o disposto no artigo 229.º-A.\n\n6 - O disposto no n.º 1 do artigo 646.º do Código de Processo Civil, na redacção do presente diploma, é apenas aplicável às causas em que ainda não se tenha iniciado o prazo para requerer a intervenção do tribunal colectivo.\n\n7 - Nos processos pendentes em que já tenha sido requerida a intervenção do tribunal colectivo, as partes podem acordar na realização da audiência por tribunal singular, devendo desse facto informar o respectivo tribunal, pelo menos 30 dias antes da data marcada para a sua realização.\n\n8 - O regime de direito probatório emergente da lei nova apenas é aplicável às provas que venham a ser requeridas ou oficiosamente ordenadas após a data da sua entrada em vigor.\n\n9 - A lei nova é imediatamente aplicável às causas de adiamentos das audiências.",
+    "alterador": 6
+   }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, artigo único (artigos 150.º, 238.º, 252.º-A, 257.º, 474.º, 623.º e 629.º do Código de Processo Civil, na redacção conferida pelo artigo 1.º do original): outro diploma: altera o Código de Processo Civil, não o texto do original.\nAlterador 3, artigo 8.º (artigos do anexo ao Decreto-Lei n.º 269/98, com a redacção dada pelo original): outro diploma.\nAlterador 5, artigo 1.º (artigos do Código de Processo Civil, alterado pelo original): outro diploma: o original só aparece na lista de alterações do Código.\nAlterador 11, artigo 1.º (artigos 143.º e 144.º do Código de Processo Civil): outro diploma: o original só aparece na lista de alterações do Código.\nAlterador 12, artigo 1.º (artigos 834.º, 886.º-A e 889.º do Código de Processo Civil): outro diploma: o original só aparece na lista de alterações do Código.\nAlteradores 4, 7, 8, 9 e 10: sem texto: o pedido não traz nenhum artigo destes alteradores que mencione o original.",
+  "instrucoes": [
+   "Alterador 2 (DL 320-B/2002), art. 1.º: nova redação dos n.os 1 e 2 do art. 7.º (restantes «...»); depois revogados pelo alterador 6.",
+   "Alterador 6 (DL 324/2003), art. 4.º, n.º 3: revoga os n.os 1 e 2 do art. 7.º; art. 7.º devolvido com «1 - (Revogado.)» e «2 - (Revogado.)» e os n.os 3 a 9 do texto atual.",
+   "Alteradores 1, 3, 5, 11 e 12: alterações ao Código de Processo Civil ou ao DL 269/98; em nao_aplicavel como outro diploma.",
+   "Alteradores 4, 7, 8, 9 e 10: sem artigos no pedido; em nao_aplicavel."
+  ]
+ }
+]

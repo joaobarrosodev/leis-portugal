@@ -15,14 +15,17 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": null,
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 2, Decreto-Lei n.º 121/2008: sem texto: o pedido não traz nenhum artigo do alterador",
   "instrucoes": [
-    "DLR 19/2001/M art. 1.º: nova redação do n.º 4 do art. 5.º (alíneas a) a c)); antigo n.º 5 desaparece; antigos n.os 6 e 7 passam a 5 e 6 — aplicado.",
-    "DLR 19/2001/M art. 1.º: nova redação do art. 11.º — aplicado (mantidas as fórmulas finais do texto atual).",
-    "DLR 19/2001/M art. 2.º: entrada em vigor, sem alteração textual.",
-    "DL 121/2008: sem artigos fornecidos, nada a aplicar."
+    "Alterador 1: nova redação do n.º 4 do art. 5.º (alíneas a) a c)), os antigos n.os 6 e 7 passam a 5 e 6 e sai o antigo n.º 5; nova redação do art. 11.º (mantidas as assinaturas finais); aplicada.",
+    "Alterador 2: sem texto no pedido."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 124,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

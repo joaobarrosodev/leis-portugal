@@ -110,15 +110,21 @@
       "alterador": 1
     }
   ],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
   "nao_aplicavel": null,
   "instrucoes": [
-    "Art. 1.º do DLR 25/2003/M: nova redação dos artigos 2.º, 3.º e 12.º do diploma — o texto atual já corresponde a essa redação (já alterados por um programa); nada a mudar.",
-    "Art. 2.º: nova redação dos artigos 3.º e 10.º (alínea m)) dos Estatutos (anexo I) — o texto atual já corresponde; nada a mudar.",
-    "Art. 3.º: nova redação integral do anexo II — substituídos os artigos 1.º a 9.º e aditados os artigos 10.º a 18.º, copiados do alterador (incluindo a falta do ponto 11 no artigo 2.º e do ponto 5 no artigo 4.º, como no original).",
-    "Art. 4.º: produção de efeitos; não altera o texto.",
-    "Alterador 2 (Acórdão TC 654/2009): sem artigos transcritos que mencionem o original; nada aplicado."
+    "Alterador 1, art. 1.º: nova redação dos arts. 2.º, 3.º e 12.º - o texto atual (já alterado pelo programa) confere; nada a mudar",
+    "Alterador 1, art. 2.º: nova redação dos arts. 3.º e 10.º dos Estatutos (anexo I) - o texto atual confere; nada a mudar",
+    "Alterador 1, art. 3.º: nova redação do anexo II (arts. 1.º a 18.º) - aplicada: arts. 1.º a 9.º substituídos e 10.º a 18.º aditados",
+    "Alterador 1, art. 4.º: produção de efeitos - não textual, nada a aplicar",
+    "Alterador 2 (Acórdão do TC n.º 654/2009): sem artigos que mencionam o original"
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 124,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

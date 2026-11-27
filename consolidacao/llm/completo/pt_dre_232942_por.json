@@ -9,12 +9,18 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "Alterador 2 (DL 117/91) transforma a empresa pública em sociedade anónima e aprova novos estatutos, sem revogar expressamente nem alterar textualmente os artigos do estatuto original; não aplicado ao texto.",
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 2, transformação da Tabaqueira, E. P., em sociedade anónima e aprovação de novos estatutos (arts. 1.º a 10.º e anexo): não textual (não altera nem revoga expressamente o estatuto aprovado pelo original)",
   "instrucoes": [
-    "Alterador 1 (DL 82/80), art. 1.º: nova redação do n.º 1 do artigo 14.º; aplicada. Art. 2.º: entrada em vigor do próprio alterador.",
-    "Alterador 2 (DL 117/91): transformação em S. A. e novos estatutos autónomos; sem instrução textual sobre o original."
+    "Alterador 1, art. 1.º: nova redação do n.º 1 do art. 14.º do estatuto - aplicada (n.os 2 a 4 ficam)",
+    "Alterador 1, art. 2.º: entrada em vigor - nada a aplicar",
+    "Alterador 2: transforma a empresa em sociedade anónima e aprova estatutos novos, sem instrução textual sobre o estatuto do original - não aplicado"
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 124,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

@@ -15,34 +15,18 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": null,
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, Decreto-Lei n.º 130/86: sem texto: o pedido não traz nenhum artigo deste alterador que mencione o original.\nAlterador 2, Portaria n.º 425/86, criação de lugares de director-geral e subdirector-geral na Direcção-Geral das Instalações e Equipamentos de Saúde: não textual: só cita o artigo 19.º, n.º 1, do original e não lhe altera o texto.\nAlteradores 5 a 9 (Decretos-Leis n.os 296-A/95, 269/2000, 58/2005, 212/2006 e 210/2006): sem texto: não trazem nenhuma instrução dirigida ao original (não o mencionam nem o revogam).",
   "instrucoes": [
-    "Alterador 1 (DL 130/86): sem artigos transcritos que mencionem o original; nada a aplicar.",
-    "Alterador 2 (Portaria 425/86): cria lugares dirigentes na DGIES invocando o art. 19.º do original; não altera o texto do original.",
-    "Alterador 3 (DL 278/86), art. 1.º: aditado o artigo 13.º-A ao original, copiado letra a letra.",
-    "Alterador 4 (DL 371/86), artigo único: nova redação do artigo 8.º; n.ºs 1 a 3 mantidos (…) e aditado o n.º 4, copiado letra a letra.",
-    "Alterador 5 (DL 296-A/95): nova Lei Orgânica do Governo que substitui a estrutura do DL 451/91; não contém instruções de alteração textual dirigidas ao original.",
-    "Alterador 6 (DL 269/2000), 7 (DL 58/2005), 8 (DL 212/2006) e 9 (DL 210/2006): leis orgânicas de ministérios; não contêm instruções de alteração, revogação ou aditamento dirigidas ao texto do original."
+    "Alterador 3 (DL 278/86), art. 1.º: adita o artigo 13.º-A; aditado com o texto do alterador.",
+    "Alterador 4 (DL 371/86), artigo único: nova redação do art. 8.º com n.os 1 a 3 «...» e novo n.º 4; mantidos os n.os 1 a 3 do texto atual e acrescentado o n.º 4.",
+    "Alteradores 1, 2 e 5 a 9: sem instrução textual ao original; em nao_aplicavel."
   ],
-  "modelo": "claude-fable-5-1",
+  "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "passagens": [
-    {
-      "n": 1,
-      "alteradores": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9
-      ],
-      "chars": 206105,
-      "artigos": 2
-    }
-  ],
-  "problemas": []
+  "ronda_camada1": 124,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

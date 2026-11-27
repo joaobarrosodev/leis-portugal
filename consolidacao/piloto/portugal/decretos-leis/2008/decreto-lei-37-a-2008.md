@@ -95,9 +95,9 @@ o) «Pedido de pagamento» o pedido apresentado por um beneficiário com vista a
 
 p) 'Autorização de despesa' o acto realizado após verificação da elegibilidade e validação da despesa relativa a um pedido de pagamento cuja dotação foi previamente confirmada pela autoridade de gestão;
 
-q) 'Pagamento a título compensatório' o pagamento realizado ao beneficiário mediante verificação do respeito pelos seus compromissos ou nos termos previstos no 2.º parágrafo do n.º 1 do artigo 9.º do Regulamento (CE) n.º 1975/2006, da Comissão, de 7 de Dezembro, após emissão de autorização de pagamento, e que não envolve a apresentação de documentos comprovativos da despesa;
+q) 'Pagamento a título compensatório' o pagamento realizado ao beneficiário mediante verificação do respeito pelos seus compromissos ou nos termos previstos no 2.º parágrafo do n.º 1 do artigo 9.º do Regulamento (CE) n.º [1975/2006](https://data.europa.eu/eli/reg/2006/1975/oj?locale=pt), da Comissão, de 7 de Dezembro, após emissão de autorização de pagamento, e que não envolve a apresentação de documentos comprovativos da despesa;
 
-r) 'Pagamento a título de adiantamento' o pagamento realizado ao beneficiário nos termos previstos no artigo 56.º do Regulamento (CE) n.º 1974/2006, da Comissão, de 15 de Dezembro, após emissão de autorização de pagamento;
+r) 'Pagamento a título de adiantamento' o pagamento realizado ao beneficiário nos termos previstos no artigo 56.º do Regulamento (CE) n.º [1974/2006](https://data.europa.eu/eli/reg/2006/1974/oj?locale=pt), da Comissão, de 15 de Dezembro, após emissão de autorização de pagamento;
 
 s) 'Pagamento a título de reembolso' o pagamento realizado ao beneficiário mediante autorização de pagamento e que envolve a apresentação pelo beneficiário de documentos comprovativos da despesa realizada e paga;
 
@@ -118,6 +118,8 @@ ab) «Indicadores de resultado» os indicadores que medem os efeitos directos e 
 ac) 'Autorização de pagamento' o acto realizado após a autorização de despesa e a verificação das condições requeridas para a emissão dos meios de pagamento.
 
 > Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2009-605545), publicado em 2009-03-20.
+
+> Alterado pelo/a [Decreto-Lei n.º 66/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2009-605545), publicado em 2009-03-20.
 
 ###### Artigo 4.º — Regulamentos específicos
 

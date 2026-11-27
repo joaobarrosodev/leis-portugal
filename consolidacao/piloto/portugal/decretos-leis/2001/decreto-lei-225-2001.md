@@ -10,6 +10,9 @@ consolidacao:
   - id: pt:dre:541581:por
     title: Decreto-Lei n.º 190/2006
     publication_date: '2006-09-25'
+  - id: pt:dre:502980:por
+    title: Decreto-Lei n.º 148/2013
+    publication_date: '2013-10-24'
 ---
 
 # Decreto-Lei n.º 225/2001
@@ -1388,6 +1391,10 @@ Adenda ao certificado de homologação CE n.º ... relativa à homologação de 
 
 6 para a Bélgica;
 
+7 para a Hungria;
+
+8 para a República Checa;
+
 9 para a Espanha;
 
 11 para o Reino Unido;
@@ -1400,11 +1407,33 @@ Adenda ao certificado de homologação CE n.º ... relativa à homologação de 
 
 18 para a Dinamarca;
 
+19 para a Roménia;
+
+20 para a Polónia;
+
 21 para Portugal;
 
 23 para a Grécia;
 
-IRL para a Irlanda.
+25 para a Croácia;
+
+26 para a Eslovénia;
+
+27 para a Eslováquia;
+
+29 para a Estónia;
+
+32 para a Letónia;
+
+34 para a Bulgária;
+
+36 para a Lituânia;
+
+CY para Chipre;
+
+IRL para a Irlanda;
+
+MT para Malta.
 
 2 - Esquemas das marcas de homologação CE como componente:
 
@@ -1439,6 +1468,8 @@ Nota. - O número de homologação de base e o(s) símbolo(s) devem figurar na p
 [[[[[[(ver esquema no documento original)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)
 
 O cinto portador da marca de homologação acima é um cinto de três pontos (A) equipado com um absorvedor de energia (e), homologado como satisfazendo os requisitos específicos da alínea f) do n.º 11 do artigo 17.º, que possui um retractor do tipo 4N (r4) com sensibilidade múltipla (m) que foi objecto de homologação CE como componente nos Países Baixos (e4) de acordo com o presente Regulamento (04) com o número de homologação de base 2439. Este cinto tem de ser instalado num veículo equipado com uma almofada de ar no lugar sentado dado.
+
+> Alterado pelo/a [Decreto-Lei n.º 148/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-2013-502980), publicado em 2013-10-24.
 
 ## ANEXO 7.º — Exemplo de aparelhagem para o ensaio de durabilidade do mecanismo retractor
 

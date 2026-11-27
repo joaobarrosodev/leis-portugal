@@ -1234,9 +1234,9 @@ A DGCI pode prestar serviços e realizar trabalhos, no âmbito das suas atribui�
 
 1 - O artigo 52.º do [Decreto Regulamentar n.º 42/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/42-1983-493271), de 20 de Maio, passa a ter a seguinte redacção:
 
-'Artigo 52.º
+> Alterado pelo/a [Decreto-Lei n.º 42/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1997-559038), publicado em 1997-02-07.
 
-Nomeação
+###### Artigo 52.º — Nomeação
 
 1 - ...
 
@@ -1254,9 +1254,9 @@ e) ...
 
 2 - O artigo 2.º do [Decreto-Lei n.º 434/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/434-1991-331853), de 8 de Novembro, passa a ter a seguinte redacção:
 
-'Artigo 2.º
+> Alterado pelo/a [Decreto-Lei n.º 42/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1997-559038), publicado em 1997-02-07.
 
-Funcionários das câmaras municipais
+###### Artigo 2.º — Funcionários das câmaras municipais
 
 1 - Os funcionários pertencentes aos quadros de pessoal das câmaras municipais que passaram a exercer funções nos serviços dos juízos dos tribunais tributários referidos no artigo precedente com as categorias de oficial administrativo, escriturário-dactilógrafo, telefonista, auxiliar administrativo e auxiliar de serviços gerais são integrados no quadro de pessoal da DGCI, sendo-lhes aplicável o disposto no artigo 36.º do [Decreto-Lei n.º 427/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1989-550586), de 7 de Dezembro.
 
@@ -1266,9 +1266,7 @@ Funcionários das câmaras municipais
 
 4 - ...
 
-5 - ...'
-
-> Alterado pelo/a [Decreto-Lei n.º 42/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1997-559038), publicado em 1997-02-07.
+5 - ...
 
 ###### Artigo 56.º — Disposição transitória
 

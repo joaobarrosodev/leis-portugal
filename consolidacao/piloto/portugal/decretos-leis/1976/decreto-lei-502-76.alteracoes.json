@@ -320,19 +320,5 @@
     "unidade": [],
     "diploma": "pt:dre:431274:por",
     "alterador": "pt:dre:376043:por"
-  },
-  {
-    "artigo": "SECÇÃO V — Comissão de fiscalização",
-    "operacao": "substituir",
-    "regra": "llm",
-    "antes": "#### SECÇÃO V — Comissão de fiscalização",
-    "depois": "#### SECÇÃO V — Órgãos de articulação com o poder local",
-    "excerto": "",
-    "artigo_alterador": "",
-    "metodo": "llm",
-    "aviso": "",
-    "unidade": [],
-    "diploma": "pt:dre:431274:por",
-    "alterador": "pt:dre:376043:por"
   }
 ]

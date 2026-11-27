@@ -9,13 +9,18 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "Alterador 2 (Decreto-Lei n.º 48698) dá nova redação ao § 2.º do artigo 1.º, mas o texto atual do artigo 1.º não tem parágrafos nem § 2.º (só o agrupamento das secções I e II); alvo inexistente no texto atual, não aplicado.",
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 2, nova redação do § 2.º do artigo 1.º: alvo incerto — o § 2.º não está no texto atual do artigo 1.º (o texto só vai até à secção II)\nAlterador 3, arts. 1.º a 4.º (composição das secções VIII e IX, procuradores do ultramar, representação das ordens): não textual — normas próprias, sem nova redação do original\nAlterador 3, art. 5.º, n.º 2, revogação do Decreto-Lei n.º 45830: outro diploma",
   "instrucoes": [
-    "Alterador 1, artigo único: nova redação do artigo 5.º e seu § único - aplicado.",
-    "Alterador 2, artigo único: nova redação do § 2.º do artigo 1.º - não aplicado (§ 2.º não existe no texto atual).",
-    "Alterador 3: regras autónomas sobre a composição da Câmara e revogação do Decreto-Lei n.º 45830, sem alteração textual do original - nada aplicado."
+    "Alt. 1: nova redação do art. 5.º — substituído por inteiro",
+    "Alt. 2: § 2.º do art. 1.º — ausente do texto atual, nao_aplicavel",
+    "Alt. 3: normas próprias — não textual"
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 124,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

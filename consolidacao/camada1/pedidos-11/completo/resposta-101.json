@@ -1,0 +1,21 @@
+[
+ {
+  "id": "pt:dre:438060:por",
+  "artigos": [
+   {
+    "chave": "ANEXO — ESTATUTOS::2.º",
+    "epigrafe": "Sede",
+    "texto": "1 - A sede social é na Estrada de Santa Luzia, em Viana do Castelo.\n\n2 - Poderá a assembleia geral deliberar a deslocação da sede para outro lugar, assim como a criação de delegações, centros e similares extensões da sede noutros lugares.",
+    "alterador": 1
+   }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, alterações a estatutos e decretos-leis de outros hospitais (artigos 1.º a 9.º, 11.º e 12.º): outro diploma\nAlterador 2, criação da Unidade Local de Saúde do Alto Minho, E. P. E., por integração do Centro Hospitalar do Alto Minho, E. P. E., e extinção dos hospitais integrados (artigo 1.º): não textual, não revoga nem altera o texto do original",
+  "instrucoes": [
+   "Alterador 1, art. 10.º: nova redação do n.º 1 do artigo 2.º dos Estatutos (sede na Estrada de Santa Luzia), n.º 2 mantido: aplicado.",
+   "Alterador 2: integração do Centro na ULS do Alto Minho, sem instrução textual sobre o original: nao_aplicavel."
+  ]
+ }
+]

@@ -9,14 +9,18 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "Alterador 4 (DL 172/94), art. 11.º, n.º 2: 'A distância prevista no artigo 10.º do Decreto-Lei n.º 119/85 passa a ser de 30 km' é uma alteração material, não textual (não dá nova redação ao artigo 10.º), pelo que não foi aplicada ao texto. Alteradores 2 (DL 118/88) e 3 (DL 97/89), art. 3.º: fixam os valores das ajudas de custo, que não constam do texto do original (tabela fixada por portaria, art. 17.º); não há texto a alterar.",
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 2, artigo 3.º (valores das ajudas de custo e pagamento pelo escalão superior): não textual, fixa valores que o original não contém (o artigo 17.º remete a tabela para portaria)\nAlterador 3, artigo 3.º (valores das ajudas de custo e pagamento pelo escalão superior): não textual, fixa valores que o original não contém (o artigo 17.º remete a tabela para portaria)\nAlterador 4, n.º 1 do artigo 11.º (acumulação com a ajuda de custo do artigo 10.º): não textual\nAlterador 4, n.º 2 do artigo 11.º (a distância prevista no artigo 10.º passa a ser de 30 km): não textual, não dá nova redação ao artigo 10.º",
   "instrucoes": [
-    "Alterador 1 (DL 56/88), artigo único: nova redação da norma 1.ª do artigo 7.º — aplicada; restantes normas copiadas do texto atual.",
-    "Alterador 2 (DL 118/88), art. 3.º: novos valores das ajudas de custo — sem texto correspondente no original; não aplicado.",
-    "Alterador 3 (DL 97/89), art. 3.º: novos valores das ajudas de custo — sem texto correspondente no original; não aplicado.",
-    "Alterador 4 (DL 172/94), art. 11.º, n.º 2: distância do artigo 10.º passa a 30 km — alteração não textual; registada em nao_aplicavel. N.º 1 do mesmo artigo só remete para o artigo 10.º, sem o alterar."
+    "Alterador 1, artigo único: nova redação da norma 1.ª do artigo 7.º; restantes normas mantidas: aplicado.",
+    "Alteradores 2 e 3, artigo 3.º: valores das ajudas de custo, sem texto do original a alterar: nao_aplicavel.",
+    "Alterador 4, artigo 11.º: acumulação e nova distância do artigo 10.º, sem nova redação: nao_aplicavel."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 124,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

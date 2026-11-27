@@ -34,7 +34,7 @@
     {
       "de": 26,
       "ate": 27,
-      "texto": "6 - O valor dos bens referidos nos n.os 1 e 2, deduzido da soma da importância do capital social destacado da EPAC mais a importância dos financiamentos aludidos no número anterior que transitam para o património da SILOPOR, constituirá dívida desta sociedade à empresa pública.\n\n7 - A SILOPOR celebrará com a EPAC um acordo onde se estabeleça a composição, categorias e funções do pessoal actualmente ao serviço da EPAC que eventualmente venham a integrar o quadro de pessoal da nova sociedade, sem prejuízo da natureza do vínculo laboral, garantindo-se os direitos e regalias adquiridos pelos trabalhadores que transitam para a SILOPOR à data da transferência.",
+      "texto": "6 - O valor dos bens referidos nos n.os 1 e 2, deduzido da soma da importância do capital social destacado da EPAC mais a importância dos financiamentos aludidos no número anterior que transitam para o património da SILOPOR, constituirá dívida desta sociedade à empresa pública.\n\n7 - A SILOPOR celebrará com a EPAC um acordo onde se estabeleça a composição, categorias e funções do pessoal actualmente ao serviço da EPAC que eventualmente venham a integrar o quadro de pessoal da nova sociedade, sem prejuízo da natureza do vínculo laboral, garantindo-se os direitos e regalias adquiridos pelos trabalhadores que transitam para a SILOPOR à data da transferência.\n\n8 - A SILOPOR constituirá o seu quadro inicial, reportado à data de 12 de Setembro de 1986, com pessoal exclusivamente transferido dos quadros da EPAC.\n\n9 - Uma comissão composta por três elementos, sendo um escolhido pela EPAC, outro pela SILOPOR e um terceiro, que presidirá, pelo Ministro das Finanças, elaborará, até 31 de Outubro de 1988, um relatório onde esteja determinado o valor real da dívida referida no n.º 6 anterior e se proponha a metodologia a adaptar para a respectiva liquidação.",
       "alterador": 3
     },
     {
@@ -81,8 +81,14 @@
     },
     {
       "de": 56,
+      "ate": 56,
+      "texto": "3 - As eventuais alterações aos estatutos em anexo poderão ser efectuadas de harmonia com as disposições aplicáveis da lei comercial e dos próprios estatutos e produzirão todos os seus efeitos, independentemente da forma legislativa, desde que não contradigam o disposto nos artigos deste diploma, sendo bastante a sua redução a escritura pública e o subsequente registo.",
+      "alterador": 2
+    },
+    {
+      "de": 57,
       "ate": 57,
-      "texto": "3 - As eventuais alterações aos estatutos em anexo poderão ser efectuadas de harmonia com as disposições aplicáveis da lei comercial e dos próprios estatutos e produzirão todos os seus efeitos, independentemente da forma legislativa, desde que não contradigam o disposto nos artigos deste diploma, sendo bastante a sua redução a escritura pública e o subsequente registo.\n\nArt. 10.º - 1 - A cisão determinada pelo presente diploma produz os seus efeitos na data da entrada em vigor do mesmo.",
+      "texto": "Art. 10.º - 1 - A cisão determinada pelo presente diploma produz os seus efeitos na data da entrada em vigor do mesmo.",
       "alterador": 2
     },
     {
@@ -94,29 +100,23 @@
   ],
   "insercoes": [
     {
-      "depois_de": 27,
-      "texto": "8 - A SILOPOR constituirá o seu quadro inicial, reportado à data de 12 de Setembro de 1986, com pessoal exclusivamente transferido dos quadros da EPAC.\n\n9 - Uma comissão composta por três elementos, sendo um escolhido pela EPAC, outro pela SILOPOR e um terceiro, que presidirá, pelo Ministro das Finanças, elaborará, até 31 de Outubro de 1988, um relatório onde esteja determinado o valor real da dívida referida no n.º 6 anterior e se proponha a metodologia a adaptar para a respectiva liquidação.",
-      "alterador": 3
-    },
-    {
       "depois_de": 58,
       "texto": "Art. 11.º No prazo de 60 dias o Governo determinará, por decreto-lei, as formas de adequação das restantes funções e estruturas da EPAC às novas realidades do mercado.\n\nArt. 12.º - 1 - A actividade da sociedade SILOPOR iniciar-se-á no dia da publicação deste diploma.\n\n2 - Desde o dia da sua criação por meio do [Decreto-Lei n.º 293-A/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/293-a-1986-587622), de 12 de Setembro, até ao dia da publicação da Resolução n.º 186 da Assembleia da República, que suspende a vigência daquele diploma, as receitas, despesas e saldos decorrentes do funcionamento da SILOPOR deverão inscrever-se na contabilidade da EPAC.\n\n3 - O destacamento dos bens e pessoal referidos neste diploma da empresa pública para a nova sociedade produzirá efeito a partir da data da publicação da presente lei.",
       "alterador": 2
     }
   ],
-  "nao_aplicavel": "Alterador 1 (suspensão da vigência) não é alteração textual. Alterador 3: os artigos 1.º e 4.º são normas próprias, não alteram o texto, e o n.º 4 do artigo 4.º é revogação condicional (disposições que contradigam), não aplicada. Alterador 4 (Lei Orgânica do XIV Governo) não contém instrução dirigida ao original.",
+  "nao_aplicavel": "Alterador 1, suspensão da vigência do Decreto-Lei n.º 293-A/86: não textual: suspensão, sem alterar o texto\nAlterador 3, art. 4.º, n.º 4 (revoga as disposições que contradigam o presente diploma): revogação condicional: «que contradigam o presente diploma»\nAlterador 4, Lei Orgânica do XIV Governo (art. 37.º, enquadramento ministerial): não textual: não traz instrução dirigida ao texto do original",
   "instrucoes": [
-    "Alterador 2, art. 1.º: nova redação dos n.os 1 e 3 do artigo 1.º — unidades 13 e 15.",
-    "Alterador 2, art. 1.º: nova redação dos n.os 1, 6 e 7 do artigo 2.º; art. 2.º: anterior n.º 7 passa a n.º 8; art. 3.º: aditado n.º 9 — tudo depois refeito pelo alterador 3 (artigo 2.º com n.os 1, 3, 6, 7, 8 e 9 novos): unidades 16, 19-21, 23, 26-27 e inserção dos n.os 8 e 9 após a 27, com o texto final do alterador 3.",
-    "Alterador 2, art. 1.º: nova redação do n.º 1 do artigo 3.º (EPAC e Estado) — depois reposta pelo alterador 3 com texto igual ao original; unidade 28 fica sem mudança.",
-    "Alterador 2, art. 1.º: nova redação do artigo 4.º — depois substituída pelo alterador 3 (n.os 1 a 6): unidades 30-35.",
-    "Alterador 2, art. 4.º: eliminado o artigo 5.º (unidades 36-37) e renumerados os artigos 6.º a 11.º como 5.º a 10.º (unidades 38, 43, 44, 47, 54, 57).",
-    "Alterador 2, art. 1.º: nova redação do n.º 3 do artigo 10.º (novo 9.º) — unidade 56.",
-    "Alterador 2, art. 5.º: aditados os artigos 11.º e 12.º — inseridos após a unidade 58.",
-    "Alterador 2, arts. 6.º e 7.º: alterações e renumeração dos estatutos — absorvidas pela substituição integral dos estatutos pelo alterador 3.",
-    "Alterador 3, art. 3.º: estatutos passam a ser os do anexo — unidades 65-150 substituídas pelo novo texto dos estatutos.",
-    "Alterador 3, arts. 1.º e 4.º: normas autónomas e revogação condicional — não aplicadas.",
-    "Alterador 1 e alterador 4: sem alteração textual."
+    "Alterador 1: suspensão da vigência — não textual, em nao_aplicavel.",
+    "Alterador 2, art. 1.º: nova redação dos n.os 1 e 3 do art. 1.º (unidades 13 e 15) e do n.º 3 do art. 10.º, novo 9.º (unidade 56); as do art. 2.º, n.º 1 do 3.º e art. 4.º ficam substituídas pela redação do alterador 3.",
+    "Alterador 2, arts. 2.º e 3.º: n.os 8 e 9 do art. 2.º — substituídos pela redação do art. 2.º dada pelo alterador 3.",
+    "Alterador 2, art. 4.º: eliminado o art. 5.º (unidades 36-37, texto vazio) e renumerados os arts. 6.º a 11.º para 5.º a 10.º (unidades 38, 43, 44, 47, 54, 57).",
+    "Alterador 2, art. 5.º: aditados os arts. 11.º e 12.º, inseridos a seguir à unidade 58.",
+    "Alterador 2, arts. 6.º e 7.º: alterações aos estatutos — ficam substituídas pelos estatutos do alterador 3.",
+    "Alterador 3, art. 2.º: nova redação dos arts. 2.º (unidades 16, 19-21, 23, 26-27; n.os 2, 4 e 5 ficam), 3.º (n.º 1 igual ao texto atual, sem mudança) e 4.º (unidades 30-35, com os n.os 5 e 6).",
+    "Alterador 3, art. 3.º: os estatutos passam a ser os do anexo — unidades 65-150 substituídas pelo anexo inteiro.",
+    "Alterador 3, art. 4.º, n.º 4: revogação condicional, em nao_aplicavel; arts. 1.º e 4.º, n.os 1-3, não alteram o texto.",
+    "Alterador 4: sem instrução dirigida ao original, em nao_aplicavel."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

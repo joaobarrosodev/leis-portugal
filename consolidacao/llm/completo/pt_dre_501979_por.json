@@ -39,14 +39,18 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "DL 47774, art. 1.º, § único: o quadro I anexo considera-se alterado de harmonia com o corpo desse artigo; o quadro só existe em imagem e a alteração não é textual. A Portaria 672-B/78 cria um quadro novo e não dá redação a artigos do original.",
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, artigo 1.º e § único (presidente e chefe da contabilidade do conselho administrativo; o quadro I anexo considera-se alterado): não textual (o quadro I não está no texto atual e o alterador não traz texto para ele)\nAlterador 2, artigo 2.º (remodelação do Secretariado-Geral da Defesa Nacional): não textual\nAlterador 3, artigo 2.º (vencimentos, distintivos e despesas de representação do vice-chefe do Estado-Maior-General): não textual\nAlterador 4, Portaria n.º 672-B/78 (cria o quadro do pessoal civil do EMGFA, para onde transita o pessoal dos quadros criados pelo original): não textual",
   "instrucoes": [
-    "DL 47774, art. 1.º: regime do conselho administrativo e alteração do quadro I (imagem); não textual, não aplicada.",
-    "DL 49106, art. 1.º: nova redação do corpo do art. 1.º (parágrafos mantidos), da alínea d) do art. 2.º e dos arts. 9.º (§ único mantido pelo '...') e 22.º; aplicadas. Art. 2.º do DL 49106 (remodelação do SGDN) não é textual.",
-    "DL 683/73, art. 1.º: nova redação da alínea b) do art. 2.º, do corpo do art. 10.º (§ único mantido), do § único do art. 20.º e do art. 22.º (substitui a redação do DL 49106); aplicadas. Art. 2.º do DL 683/73 é norma autónoma.",
-    "Portaria 672-B/78: cria o QPC/EMGFA; não altera o texto do original."
+    "Alterador 2, art. 1.º: nova redação do corpo do artigo 1.º (com as alíneas a) a h); os §§ 1.º a 5.º mantêm-se), da alínea d) do artigo 2.º, do artigo 9.º (o § único mantém-se, «...») e do artigo 22.º: aplicada (o artigo 22.º foi depois substituído pelo alterador 3)",
+    "Alterador 3, art. 1.º: nova redação da alínea b) do artigo 2.º, do corpo do artigo 10.º (o § único mantém-se), do § único do artigo 20.º e do artigo 22.º: aplicada",
+    "Alteradores 1 e 4 e restantes normas: não textuais"
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 124,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

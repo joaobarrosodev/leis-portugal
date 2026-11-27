@@ -10,14 +10,17 @@
   ],
   "removidos": [],
   "titulos": [],
-  "nao_aplicavel": "Alterador 2 (Lei n.º 6/2006) vem no pedido sem qualquer texto: não há instrução que se possa ler nem aplicar.",
+  "anexos": [],
+  "nao_aplicavel": "Alterador 2, Lei n.º 6/2006: sem texto: o pedido não traz nenhum artigo deste alterador\nAlterador 3, art. 2.º (alteração ao Código Civil): outro diploma: o original só aparece na lista das alterações do Código Civil\nAlterador 4, art. 2.º (aditamento ao Código Civil): outro diploma: o original só aparece na lista das alterações do Código Civil",
   "instrucoes": [
-    "Alterador 1 (DL 74/86), art. 1.º: nova redação do artigo 44.º (n.os 1 a 3); aplicada, copiada letra a letra.",
-    "Alterador 2 (Lei 6/2006): sem texto no pedido; nada aplicado (ver nao_aplicavel).",
-    "Alterador 3 (Lei 31/2012), art. 2.º: altera artigos do Código Civil (alterado, entre outros, pela Lei 46/85) — outro diploma; ignorada.",
-    "Alterador 4 (Lei 24/2017): altera/adita o Código Civil, a Lei 112/2009, o CPP, o RGPTC e a Lei 75/98 — outros diplomas; ignoradas."
+    "Alterador 1, art. 1.º: nova redação do art. 44.º (n.os 1 a 3) — aplicada, substitui o corpo inteiro.",
+    "Alterador 2: sem artigos no pedido — em nao_aplicavel.",
+    "Alteradores 3 e 4: alteram o Código Civil e só citam o original na lista — outro diploma, em nao_aplicavel."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 124,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

@@ -16,14 +16,18 @@
   ],
   "removidos": [],
   "titulos": [],
-  "nao_aplicavel": "Alterador 3 (DL n.º 25/96), artigo 1.º: prorroga para 31 de Julho de 1996 o prazo do n.º 6 do artigo 8.º sem dar nova redação a esse número; não é alteração textual, pelo que o texto do n.º 6 fica como está. Alterador 4 (Portaria n.º 459/2000): substitui o quadro de pessoal de uma escola (aprovado pelo DL 151/88), em mapa só em imagem; não altera o texto do original.",
+  "anexos": [],
+  "nao_aplicavel": "Alterador 3, prorrogação do prazo do n.º 6 do artigo 8.º para 31 de Julho de 1996 (art. 1.º): não textual — prorrogação sem nova redação do número\nAlterador 3, artigos 2.º e 3.º (regime transitório próprio): outro diploma — normas próprias do DL 25/96, sem alteração ao texto\nAlterador 4, substituição do quadro de pessoal da Escola Superior de Enfermagem de São João de Deus: outro diploma — quadro aprovado pelo DL 151/88, só em imagem, sem anexo no texto atual",
   "instrucoes": [
-    "Lei 15/93: aditado n.º 12 ao art. 8.º (n.os 1 a 11 mantidos)",
-    "DL 88/95: nova redação integral do art. 6.º (5 números; o antigo n.º 6 deixa de existir)",
-    "DL 25/96 art. 1.º: prorrogação do prazo do n.º 6 do art. 8.º sem redação nova: não aplicado (nao_aplicavel); arts. 2.º e 3.º: normas autónomas",
-    "Portaria 459/2000: quadro de pessoal de outra escola: nada a aplicar"
+    "Alt. 1: aditado o n.º 12 ao art. 8.º — aplicado",
+    "Alt. 2: nova redação do art. 6.º — substituído por inteiro (5 números)",
+    "Alt. 3: prorrogação do prazo do n.º 6 do art. 8.º — não textual",
+    "Alt. 4: quadro de pessoal de uma escola — outro diploma"
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 124,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

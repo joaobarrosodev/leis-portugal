@@ -3,7 +3,8 @@ id: pt:dre:405684:por
 title: Decreto-Lei n.º 124/96
 original: data/portugal/decretos-leis/1996/decreto-lei-124-96.md
 consolidacao:
-  metodo: piloto da fase 2 (consolidacao/consolidar.py), sem valor oficial
+  metodo: piloto da fase 2 (consolidacao/consolidar.py e, pelo LLM, consolidacao/juntar.py),
+    sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
   - id: pt:dre:694044:por
@@ -99,7 +100,7 @@ c) O devedor incorra em incumprimento de qualquer obrigação tributária princi
 
 1 - A redução do valor dos créditos é apenas aplicável aos créditos relativos a juros de mora vencidos e vincendos e a juros compensatórios.
 
-2 - A redução aplicável aos créditos relativos a juros de mora vencidos e vincendos prevista no número anterior efectuar-se-á através de aplicação ao capital em dívida da taxa média de juro vencido pela dívida pública interna, colocada durante 1995, calculada nos termos do n.º 2.º da Portaria n.º 1485-A/95, de 28 de Dezembro.
+2 - A redução aplicável aos créditos relativos a juros de mora vencidos e vincendos prevista no número anterior efectuar-se-á através de aplicação ao capital em dívida da taxa média de juro vencido pela dívida pública interna, colocada durante 1995, calculada nos termos do n.º 2.º da [Portaria n.º 1485-A/95](https://diariodarepublica.pt/dr/detalhe/portaria/1485-a-1995-399202), de 28 de Dezembro.
 
 3 - São devidos juros vincendos, contados anualmente, em relação à parte ainda não paga do capital da dívida, aplicando-se ao respectivo cálculo a taxa de juro referida no número anterior.
 
@@ -113,13 +114,15 @@ c) O devedor incorra em incumprimento de qualquer obrigação tributária princi
 
 8 - A requerimento do devedor, aplicar-se-á aos juros compensatórios o disposto nos n.os 1 a 5 para os juros de mora quando se verifique uma das seguintes situações:
 
-a) Respeitarem a período anterior à entrada em vigor do Decreto-Lei n.º 7/96, de 7 de Fevereiro, e serem, antes dessa data, qualificados por lei como juros de mora;
+a) Respeitarem a período anterior à entrada em vigor do [Decreto-Lei n.º 7/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-1996-595337), de 7 de Fevereiro, e serem, antes dessa data, qualificados por lei como juros de mora;
 
 b) Não ser legalmente permitida, em relação à correspondente dívida de imposto, a entrega de declaração ou guia por parte do devedor sem estar acompanhada do correspondente meio de pagamento.
 
-9 - Na liquidação dos juros de mora vencidos é aplicável o disposto no artigo 6.º do Decreto-Lei n.º 49168, de 5 de Agosto de 1969.
+9 - Na liquidação dos juros de mora vencidos é aplicável o disposto no artigo 6.º do [Decreto-Lei n.º 49168](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49168-1969-198913), de 5 de Agosto de 1969.
 
 > Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 235-A/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/235-a-1996-694044), publicado em 1996-12-09.
+
+> Alterado pelo/a [Decreto-Lei n.º 235-A/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/235-a-1996-694044), publicado em 1996-12-09.
 
 ###### Artigo 5.º — Diferimento do pagamento dos créditos
 
@@ -249,7 +252,7 @@ b) As sociedades em relação de domínio ou de grupo com a entidade devedora.
 
 ###### Artigo 14.º — Trâmites dos pedidos de adesão
 
-1 - As entidades devedoras que pretendam beneficiar das medidas excepcionais previstas no presente diploma deverão apresentar requerimento na repartição de finanças da sua sede ou residência até 31 de Janeiro de 1997, acompanhado das declarações e autorizações decorrentes da lei, sendo para os efeitos previstos na alínea c) do n.º 1 do artigo 3.º emitida autorização, nos termos previstos no n.º 1 do artigo 79.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 289/92, de 31 de Dezembro, quando exigíveis.
+1 - As entidades devedoras que pretendam beneficiar das medidas excepcionais previstas no presente diploma deverão apresentar requerimento na repartição de finanças da sua sede ou residência até 31 de Janeiro de 1997, acompanhado das declarações e autorizações decorrentes da lei, sendo para os efeitos previstos na alínea c) do n.º 1 do artigo 3.º emitida autorização, nos termos previstos no n.º 1 do artigo 79.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo [Decreto-Lei n.º 289/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/289-1992-621680), de 31 de Dezembro, quando exigíveis.
 
 2 - O requerimento será dirigido aos Ministros das Finanças ou da Solidariedade e Segurança Social, conforme os casos, sendo apresentado em duas vias caso estejam simultaneamente em causa dívidas ao Estado e à segurança social.
 
@@ -269,9 +272,11 @@ b) As sociedades em relação de domínio ou de grupo com a entidade devedora.
 
 10 - O deferimento do requerimento determina, enquanto o devedor reunir as condições referidas no artigo 3.º e, sendo caso disso, no artigo 11.º do presente diploma, a suspensão dos processos de execução fiscal em curso, bem como após a instauração, de novos processos, quando não se tornem necessários para garantir o valor da dívida, nos termos dos n.os 2 e 3 do artigo 6.º
 
-11 - No momento da entrega dos requerimentos e mostrando-se pago valor correspondente ao da primeira prestação tal como decorre do pedido formulado, os serviços competentes poderão emitir declaração de situação tributária regularizada, válida por três meses, para os efeitos previstos no Decreto-Lei n.º 236/95, de 13 de Setembro, ou outra situação de igual natureza.
+11 - No momento da entrega dos requerimentos e mostrando-se pago valor correspondente ao da primeira prestação tal como decorre do pedido formulado, os serviços competentes poderão emitir declaração de situação tributária regularizada, válida por três meses, para os efeitos previstos no [Decreto-Lei n.º 236/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-1995-563036), de 13 de Setembro, ou outra situação de igual natureza.
 
 > Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 235-A/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/235-a-1996-694044), publicado em 1996-12-09.
+
+> Alterado pelo/a [Decreto-Lei n.º 235-A/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/235-a-1996-694044), publicado em 1996-12-09.
 
 ###### Artigo 15.º — Pagamento
 

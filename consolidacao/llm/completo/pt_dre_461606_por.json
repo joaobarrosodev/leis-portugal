@@ -28,36 +28,20 @@
   ],
   "removidos": [],
   "titulos": [],
-  "nao_aplicavel": "Alterador 3, art. 2.º: o quadro de pessoal anexo (administração e direcção técnica) é alterado conforme quadro que só vem em imagem; não aplicado. Alterador 4, art. 1.º: o Instituto passa a depender directamente do Ministro da Saúde, sem nova redação do art. 1.º (alteração não textual); não aplicado. Alteradores 8 (DL 212/2006, art. 26.º, n.º 2, d)) e 9 (DL 271/2007, art. 19.º): extinção/fusão do Instituto no INSA, sem revogação textual do original e com efeitos dependentes dos diplomas orgânicos; não aplicado.",
+  "anexos": [],
+  "nao_aplicavel": "Alterador 2, artigo único (nova redação dos arts. 8.º e 9.º): é o mesmo Decreto-Lei n.º 25/82 do alterador 1, já aplicado; sem texto novo.\nAlterador 3, art. 2.º (alteração do quadro de pessoal anexo, na parte da administração e direcção técnica): só em imagem; o texto atual não tem título do quadro anexo.\nAlterador 4, art. 1.º (o Instituto passa a depender directamente do Ministro da Saúde): não textual; não dá nova redação a nenhum artigo.\nAlteradores 5 a 8 (leis orgânicas do Governo e do Ministério da Saúde: tutela do Instituto e integração das suas atribuições no INSA): não textual; não alteram o texto do original.\nAlterador 9, art. 19.º (o INSA, I. P., sucede nas atribuições do Instituto, que se extingue): não textual; não revoga nem altera o texto do original.",
   "instrucoes": [
-    "Alterador 1 (DL 25/82): nova redação do n.º 1 dos arts. 8.º e 9.º; ultrapassada pelos alteradores 3 e 4.",
-    "Alterador 2: duplicado do alterador 1 (mesmo DL 25/82); sem efeito adicional.",
-    "Alterador 3 (DL 237-A/83), art. 1.º: nova redação do art. 4.º; art. 7.º com nova alínea i) do n.º 2 e novo n.º 3; n.º 1 do art. 8.º (ultrapassado pelo alterador 4). Aplicado ao 4.º e 7.º.",
-    "Alterador 3, art. 2.º: alteração do quadro anexo só em imagem; em nao_aplicavel.",
-    "Alterador 4 (DL 179/87), art. 2.º: nova redação do n.º 1 do art. 8.º e do n.º 1 do art. 9.º; aplicado (n.os 2 e 3 mantidos do texto atual).",
-    "Alterador 4, art. 1.º: mudança de dependência sem redação nova; em nao_aplicavel.",
-    "Alteradores 5, 6 e 7 (leis orgânicas do Governo): só alteram ou aprovam outros diplomas; ignorados.",
-    "Alteradores 8 e 9 (DL 212/2006 e DL 271/2007): extinção do Instituto por fusão no INSA, sem instrução textual sobre o original; em nao_aplicavel."
+    "Alterador 1, artigo único: nova redação do n.º 1 dos arts. 8.º e 9.º: aplicado (depois substituído pelos alteradores 3 e 4).",
+    "Alterador 2: duplicado do alterador 1: nao_aplicavel.",
+    "Alterador 3, art. 1.º: nova redação do art. 4.º, nova alínea i) do n.º 2 e novo n.º 3 do art. 7.º, n.º 1 do art. 8.º: aplicado.",
+    "Alterador 3, art. 2.º: quadro anexo só em imagem: nao_aplicavel.",
+    "Alterador 4, art. 2.º: nova redação do n.º 1 dos arts. 8.º e 9.º: aplicado; art. 1.º não textual.",
+    "Alteradores 5 a 9: não textuais: nao_aplicavel."
   ],
-  "modelo": "claude-fable-5-1",
+  "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "passagens": [
-    {
-      "n": 1,
-      "alteradores": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9
-      ],
-      "chars": 192838,
-      "artigos": 4
-    }
-  ],
-  "problemas": []
+  "ronda_camada1": 124,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

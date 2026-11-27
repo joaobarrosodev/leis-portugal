@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:229284:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, aditamento dos arts. 83.º-A e 74.º-A e arts. 69.º, 71.º, 80.º, 83.º e 111.º do Código do IRC: outro diploma\nAlterador 2, art. 10.º do Código do IRS e arts. 38.º, 57.º-A, 57.º-B, 62.º, 62.º-A, 64.º-A, 75.º e 103.º do Código do IRC: outro diploma\nAlterador 6, aditamento ao Estatuto dos Benefícios Fiscais: outro diploma\nAlterador 7, art. 3.º, n.os 1 a 6, 8 e 9 (DL 442-A/88, Código do IRS, Código do IRC): outro diploma\nAlterador 8, art. 7.º, n.º 1 (nova redação do n.º 7 do art. 3.º da Lei 30-G/2000, que mantém o regime anterior para as pré-reformas contratadas e iniciadas até 31-12-2000), e restantes normas (Lei 30-C/2000, EBF, DL 204/95, Código do IRS, Código do IRC, Lei 30-G/2000, DL 40/93): outro diploma\nAlterador 9, arts. do Código do IRC, DL 442-B/88, Código do IRS e DR 2/90: outro diploma\nAlterador 11, arts. do Código do IRS e art. 22.º do EBF: outro diploma\nAlterador 16, Lei 55-B/2004, DL 331/2001, DL 62/2005, Código do IRS, Código do IRC, Código do IVA, Código do Imposto do Selo, RGIT, DL 37/88, DL 77/89, Lei 1/2005 e outros: outro diploma\nAlterador 18, Código do IRS, Código do IRC, Código do Imposto do Selo, CIMI, CIMT, DL 287/2003, RITI e outros: outro diploma\nAlterador 21, arts. 10.º, 57.º e 119.º do Código do IRS: outro diploma\nAlterador 24, Código do IRS e Código do Imposto do Selo: outro diploma\nAlterador 25, Código do IVA, Código do IRS, art. 41.º do EBF, Código Fiscal do Investimento e revogações no DL 401/99 e DL 409/99: outro diploma\nAlterador 26, Código do IVA, Código do IRS, Código do IRC, EBF, Código do Registo Comercial e DL 8/2007: outro diploma\nAlterador 28, Código do IRS e EBF: outro diploma",
+  "instrucoes": [
+    "Alterador 7 (Lei 30-G/2000), art. 3.º, n.º 7: revoga o art. 2.º do DL 25/98. O texto atual (programa) já tem o art. 2.º como «(Revogado.)», que está certo; nada a mudar.",
+    "Alterador 8 (Lei 85/2001), art. 7.º, n.º 1: dá nova redação ao n.º 7 do art. 3.º da Lei 30-G/2000 (mantém a revogação do art. 2.º, com ressalva do regime anterior para pré-reformas já contratadas); é outro diploma e não muda o texto do art. 2.º.",
+    "Os arts. 1.º, 6.º e 7.º do DL 25/98 contêm alterações ao Código do IRS, ao Código do IRC e ao EBF; as instruções dos alteradores sobre esses códigos são de outro diploma.",
+    "Alteradores 3, 4, 5, 10, 12 a 15, 17, 19, 20, 22, 23, 27 e 29 a 33 vêm sem artigos: nada a aplicar."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "ronda_camada1": 124,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
+}

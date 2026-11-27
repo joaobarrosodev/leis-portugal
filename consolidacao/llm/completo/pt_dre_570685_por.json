@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:570685:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 2, artigo 20.º do Decreto Legislativo Regional n.º 7/2008/A «alterado pelo [original]»: outro diploma: o original só aparece na lista de alterações.\nAlterador 3, artigo 5.º do Decreto Legislativo Regional n.º 14/2009/A «na redação que lhe foi dada pelo artigo 24.º do [original]» e artigos dos Decretos Legislativos Regionais n.os 8/2002/A e 19/2007/A: outro diploma: o original só lhes deu a redação ou aparece na lista de alterações.\nAlterador 4, artigos 4.º e 7.º do Decreto Legislativo Regional n.º 2/99/A «na redação que resulta do [original]»: outro diploma.\nAlteradores 5, 6, 7 e 8, artigos dos Decretos Legislativos Regionais n.os 7/2008/A, 8/2002/A, 17/2009/A e 19/2007/A «alterado pelo [original]»: outro diploma: o original só aparece na lista de alterações.\nAlterador 9: sem texto: o pedido não traz nenhum artigo deste alterador.",
+  "instrucoes": [
+    "Alterador 1 (DLR 11/2014/A), art. 1.º: nova redação do n.º 1 do art. 15.º (220 000 000); o texto atual (já alterado pelo programa) já tem esta redação e os n.os 2 e 3 ficam; nada a mudar.",
+    "Alteradores 2 a 8: só alteram outros diplomas em que o original aparece na lista de alterações ou deu a redação; outro diploma.",
+    "Alterador 9: sem artigos no pedido."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "ronda_camada1": 124,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
+}

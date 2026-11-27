@@ -9,13 +9,18 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": null,
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 2, art. 2.º (integra lugares do Museu Nacional do Trajo nos quadros únicos criados pelo art. 32.º): não textual: não altera o texto do art. 32.º\nAlterador 3, art. 28.º (revoga o Decreto-Lei n.º 383/80): outro diploma: o alterador não traz instrução dirigida ao original\nAlterador 3, art. 25.º (é extinto o Instituto de José de Figueiredo; referências passam ao IPCR): não textual: extinção e sucessão sem revogar nem alterar o texto do título V",
   "instrucoes": [
-    "Alterador 1 (DL 752/74), artigo 1.º: nova redação do artigo 28.º; substituído o corpo inteiro.",
-    "Alterador 2 (DR 44/77): integra lugares no quadro único do artigo 32.º; não altera o texto do original.",
-    "Alterador 3 (DL 342/99): cria o IPCR; sem instrução textual sobre o original."
+    "Alterador 1, art. 1.º: nova redação do art. 28.º — aplicada (alíneas a) e b) e § único novos).",
+    "Alterador 2: provimento dos lugares do Museu Nacional do Trajo — não textual, em nao_aplicavel.",
+    "Alterador 3: lei orgânica do IPCR; extingue o Instituto de José de Figueiredo (art. 25.º) sem revogar nem alterar o texto do original e revoga o Decreto-Lei n.º 383/80 — em nao_aplicavel."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 124,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

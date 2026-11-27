@@ -3,45 +3,69 @@
   "artigos": [
     {
       "chave": "1.º",
-      "epigrafe": "(Objecto)",
-      "texto": "1 - As sociedades de gestão e investimento imobiliário, abreviadamente designadas por SGII, têm por objecto principal o arrendamento de imóveis próprios, por elas adquiridos ou construídos, e a prestação de serviços conexos.\n\n2 - Constitui actividade acessória das SGII a venda dos imóveis mencionados no número anterior.",
-      "alterador": 2
+      "epigrafe": "Objecto",
+      "texto": "(Revogado.)",
+      "alterador": 5
     },
     {
       "chave": "2.º",
-      "epigrafe": "(Forma, capital social e outros requisitos das SGII)",
-      "texto": "1 - As SGII constituem-se sob a forma de sociedade anónima, devendo ainda satisfazer os seguintes requisitos:\n\na) Terem sede em território nacional;\n\nb) Possuírem um capital social mínimo, a fixar mediante portaria do Ministro das Finanças, em montante não inferior a 600000 contos, valendo desde já este limite enquanto não for publicada a referida portaria.\n\n2 - O capital social poderá, até ao limite de 85% do respectivo valor, ser realizado em espécie, através de bens imóveis a integrar no património das SGII.\n\n3 - As SGII só podem constituir-se depois de os accionistas fundadores fazerem prova de que uma fracção do capital social, não inferior a 15% do respectivo valor, foi realizada e se encontra depositada numa instituição de crédito à ordem da respectiva administração, com a indicação do valor subscrito por cada accionista.",
-      "alterador": 2
+      "epigrafe": "Forma, capital social e outros requisitos das SGII",
+      "texto": "(Revogado.)",
+      "alterador": 5
     },
     {
       "chave": "3.º",
-      "epigrafe": "(Processo de constituição)",
-      "texto": "1 - A constituição das SGII depende de autorização do Ministro das Finanças, a conceder mediante portaria.\n\n2 - O requerimento para a autorização de constituição deve ser acompanhado dos seguintes elementos:\n\na) Indicação do montante do capital social e modo da sua realização;\n\nb) Identificação dos accionistas fundadores e respectivas participações;\n\nc) Projecto de contrato de sociedade;\n\nd) Exposição dos objectivos essenciais e das necessidades de ordem económico-financeira que visam satisfazer;\n\ne) Estudo da viabilidade económico-financeira.",
-      "alterador": 2
+      "epigrafe": "Processo de constituição",
+      "texto": "(Revogado.)",
+      "alterador": 5
+    },
+    {
+      "chave": "4.º",
+      "epigrafe": "(Exclusividade de designação)",
+      "texto": "(Revogado.)",
+      "alterador": 5
+    },
+    {
+      "chave": "5.º",
+      "epigrafe": "(Composição patrimonial e gestão)",
+      "texto": "(Revogado.)",
+      "alterador": 5
     },
     {
       "chave": "6.º",
       "epigrafe": "(Terrenos para construção)",
-      "texto": "1 - As SGII apenas poderão adquirir terrenos que se destinem directamente à execução de programas de construção, não podendo o valor total dos terrenos detidos, após os três primeiros anos de actividade, ultrapassar 10% do valor global do respectivo património imobiliário.\n\n2 - As SGII ficam obrigadas a alienar os terrenos próprios destinados à execução de programas de construção caso os mesmos não tenham início dentro do prazo de 2 anos contados a partir da data da respectiva aquisição.",
-      "alterador": 3
+      "texto": "(Revogado.)",
+      "alterador": 5
     },
     {
       "chave": "7.º",
-      "epigrafe": "(Aquisições vedadas)",
-      "texto": "1 - Não podem ser adquiridos pela sociedade imóveis da propriedade de empresas de cujos órgãos façam parte um ou mais administradores da sociedade, em nome próprio ou em representação de outrem, seus cônjuges e parentes ou afins no 1.º grau.\n\n2 - A disposição constante do número anterior não é aplicável à transmissão de propriedade de imóveis para efeitos de realização do capital social inicial.",
-      "alterador": 2
+      "epigrafe": "Aquisições vedadas",
+      "texto": "(Revogado.)",
+      "alterador": 5
     },
     {
       "chave": "8.º",
-      "epigrafe": "(Contratos de arrendamento com opção de compra)",
-      "texto": "1 - As SGII poderão celebrar contratos de arrendamento com opção de aquisição futura dos imóveis ou fracções arrendadas, em condições previamente definidas.\n\n2 - Os contratos referidos no número anterior podem revestir a forma de contratos-tipo e carecem de homologação, por despacho, do Ministro das Finanças.",
-      "alterador": 2
+      "epigrafe": "Contratos de arrendamento com opção de compra",
+      "texto": "(Revogado.)",
+      "alterador": 5
+    },
+    {
+      "chave": "9.º",
+      "epigrafe": "(Aumentos de capital)",
+      "texto": "(Revogado.)",
+      "alterador": 5
     },
     {
       "chave": "10.º",
-      "epigrafe": "(Reavaliação do património)",
-      "texto": "1 - As SGII procederão à reavaliação do seu património imobiliário nos seguintes termos:\n\na) Com periodicidade de dois anos, pelo recurso a dois peritos independentes, nomeados com a concordância dos Ministros das Finanças e das Obras Públicas, Transportes e Comunicações;\n\nb) No ano que medeia entre duas avaliações consecutivas, pela aplicação de um coeficiente de correcção idêntico ao índice do custo da construção correspondente ao período de doze meses terminado em Setembro do ano a que respeita a reavaliação.\n\n2 - A reavaliação do património imobiliário dará lugar à criação da respectiva reserva, cuja contabilização se processará nos termos a definir por portaria do Ministro das Finanças.\n\n3 - Não é permitida a distribuição de reservas de reavaliação.",
-      "alterador": 2
+      "epigrafe": "Reavaliação do património",
+      "texto": "(Revogado.)",
+      "alterador": 5
+    },
+    {
+      "chave": "11.º",
+      "epigrafe": "(Relatório e contas)",
+      "texto": "(Revogado.)",
+      "alterador": 5
     },
     {
       "chave": "12.º",
@@ -57,9 +81,9 @@
     },
     {
       "chave": "14.º",
-      "epigrafe": "(Imóveis em compropriedade)",
-      "texto": "As SGII não podem adquirir nem deter imóveis em regime de compropriedade, excepto no que respeita às situações decorrentes do regime de propriedade horizontal.",
-      "alterador": 2
+      "epigrafe": "Imóveis em compropriedade",
+      "texto": "(Revogado.)",
+      "alterador": 5
     },
     {
       "chave": "15.º",
@@ -69,25 +93,26 @@
     },
     {
       "chave": "16.º",
-      "epigrafe": "(Legislação especialmente aplicável)",
-      "texto": "As SGII regem-se ainda pela legislação aplicável às sociedades comerciais.",
-      "alterador": 2
+      "epigrafe": "Legislação especialmente aplicável",
+      "texto": "(Revogado.)\n\nVisto e aprovado em Conselho de Ministros de 4 de Junho de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - António de Almeida Santos - Ernâni Rodrigues Lopes - Carlos Montez Melancia.\n\nPromulgado em 15 de Julho de 1985.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nReferendado em 17 de Julho de 1985.\n\nO Primeiro-Ministro, Mário Soares.",
+      "alterador": 5
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "Alterador 4 (DL 377/90), art. 8.º: prorroga até 31 de Dezembro de 1990 o prazo do n.º 1 do artigo 15.º sem alterar o texto (alteração não textual). Alterador 5 (Lei n.º 51/91): dá nova redacção ao artigo 16.º do Decreto-Lei n.º 135/91 (outro diploma), que revoga o DL 291/85 com excepção do artigo 15.º e o mantém em vigor para efeitos do n.º 2 do artigo 1.º do DL 65/89; é instrução dirigida a outro diploma e revogação com ressalva, por isso não foi aplicada ao texto.",
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 4, art. 8.º, prorrogação até 31 de Dezembro de 1990 do prazo do n.º 1 do art. 15.º: não textual: prorrogação de prazo\nAlterador 4, arts. 1.º a 7.º e 9.º, alterações aos Códigos do IRS, do IRC, da Sisa e à Tabela Geral do Imposto do Selo, e isenção de contribuição autárquica: outro diploma: não são instruções sobre o original\nAlterador 5, art. 16.º, n.º 2 (na redação dada ao Decreto-Lei n.º 135/91), manutenção em vigor para efeitos do n.º 2 do art. 1.º do Decreto-Lei n.º 65/89: não textual: ressalva de efeitos, sem texto a manter\nAlterador 5, arts. 8.º e 9.º e aditamento do n.º 7 ao art. 15.º do Decreto-Lei n.º 135/91: outro diploma: alteram o Decreto-Lei n.º 135/91",
   "instrucoes": [
-    "Alt. 1 (DL 211-A/86), artigo único: aditada a alínea j) ao n.º 1 do art. 15.º, após a alínea i); resto do artigo mantido.",
-    "Alt. 2 (DL 237/87), art. 1.º: nova redacção dos arts. 1.º, 2.º, 3.º, 7.º, 8.º, 10.º, 14.º e 16.º; substituídos por inteiro (no 2.º desaparece o antigo n.º 4; no 3.º desaparecem os antigos n.os 3 e 4; novas epígrafes nos arts. 1.º e 8.º).",
-    "Alt. 2 (DL 237/87), art. 2.º: revogados os arts. 12.º e 13.º -> corpo '(Revogado.)'.",
-    "Alt. 3 (DL 2/90), art. 1.º: norma autónoma, não altera o texto do original; ignorada.",
-    "Alt. 3 (DL 2/90), art. 2.º: nova redacção do n.º 1 do art. 6.º; n.º 2 mantido ('...').",
-    "Alt. 4 (DL 377/90), arts. 1.º a 7.º: alteram outros diplomas (CIRS, CIRC, Imposto do Selo, Sisa); ignorados.",
-    "Alt. 4 (DL 377/90), art. 8.º: prorrogação do prazo do n.º 1 do art. 15.º, não textual; em nao_aplicavel.",
-    "Alt. 4 (DL 377/90), art. 9.º: isenção autónoma de contribuição autárquica, não altera o texto; ignorada.",
-    "Alt. 5 (Lei 51/91): altera o DL 135/91 (arts. 8.º, 9.º, 15.º e 16.º); a revogação do original vem do art. 16.º desse outro diploma, com ressalva do art. 15.º e do DL 65/89; não aplicada, em nao_aplicavel."
+    "Alterador 1: adita a alínea j) ao n.º 1 do art. 15.º; aplicada.",
+    "Alterador 2: nova redação de vários artigos e revogação dos arts. 12.º e 13.º; os artigos ficam depois revogados pelo alterador 5 (12.º e 13.º revogados).",
+    "Alterador 3: nova redação do art. 6.º; o artigo fica revogado pelo alterador 5.",
+    "Alterador 4: prorroga o prazo do art. 15.º, n.º 1; não textual.",
+    "Alterador 5: o art. 16.º do Decreto-Lei n.º 135/91, na redação da Lei n.º 51/91, revoga o Decreto-Lei n.º 291/85 com excepção do art. 15.º; aplicada a revogação aos arts. 1.º a 14.º e 16.º (o art. 15.º fica ressalvado)."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 124,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

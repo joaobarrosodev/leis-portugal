@@ -15,12 +15,17 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": null,
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 2, extinção da Comissão de Reapetrechamento dos Hospitais em 1 de Janeiro de 1984: não textual — sem revogação nem nova redação do original",
   "instrucoes": [
-    "Alterador 1 (DL 476/73): nova redação dos arts. 2.º e 5.º; aplicada",
-    "Alterador 2 (DL 458/83): extingue a Comissão em 1984; não é alteração textual do original, nada a aplicar"
+    "Alt. 1: nova redação dos arts. 2.º e 5.º — substituídos por inteiro",
+    "Alt. 2: extinção da comissão — não textual"
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 124,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

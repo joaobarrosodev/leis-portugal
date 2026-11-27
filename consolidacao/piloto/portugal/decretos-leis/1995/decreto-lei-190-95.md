@@ -84,7 +84,7 @@ s) Instalações da Força Aérea, designadas «Aquartelamento de Paços de Ferr
 
 ###### Artigo 4.º
 
-Nos termos do parágrafo 2.º do artigo 7.º da Lei n.º 2078, de 11 de Julho de 1955, a cessação da dominialidade dos imóveis referidos no artigo 1.º faz caducar as servidões respectivas.
+Nos termos do parágrafo 2.º do artigo 7.º da [Lei n.º 2078](https://diariodarepublica.pt/dr/detalhe/lei/2078-1955-238070), de 11 de Julho de 1955, a cessação da dominialidade dos imóveis referidos no artigo 1.º faz caducar as servidões respectivas.
 
 > Alterado pelo/a [Decreto-Lei n.º 318/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-1997-406566), publicado em 1997-11-25.
 

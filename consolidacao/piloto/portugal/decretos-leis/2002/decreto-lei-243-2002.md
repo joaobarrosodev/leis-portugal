@@ -3,7 +3,8 @@ id: pt:dre:424731:por
 title: Decreto-Lei n.º 243/2002
 original: data/portugal/decretos-leis/2002/decreto-lei-243-2002.md
 consolidacao:
-  metodo: piloto da fase 2 (consolidacao/consolidar.py), sem valor oficial
+  metodo: piloto da fase 2 (consolidacao/consolidar.py e, pelo LLM, consolidacao/juntar.py),
+    sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
   - id: pt:dre:480916:por
@@ -63,9 +64,11 @@ O IGAPHE, criado pelo [Decreto-Lei n.º 88/87](https://diariodarepublica.pt/dr/d
 
 6 - Sem prejuízo do disposto no n.º 1 do presente artigo, reverte ainda para o domínio privado do Estado o património imobiliário edificado próprio do IGAPHE constante de lista a elaborar para o efeito pelo IGAPHE e aprovada por despacho conjunto dos Ministros das Finanças e das Obras Públicas, Transportes e Habitação, na data indicada no referido despacho.
 
-7 - O património a que se refere o número anterior é alienado ao INH, por ajuste directo, nos termos referidos no n.º 4, de acordo com o n.º 6 do artigo 3.º da Lei n.º 107-B/2003, de 31 de Dezembro.
+7 - O património a que se refere o número anterior é alienado ao INH, por ajuste directo, nos termos referidos no n.º 4, de acordo com o n.º 6 do artigo 3.º da [Lei n.º 107-B/2003](https://diariodarepublica.pt/dr/detalhe/lei/107-b-2003-669556), de 31 de Dezembro.
 
 > Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 188/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-2004-480916), publicado em 2004-08-17.
+
+> Alterado pelo/a [Decreto-Lei n.º 188/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-2004-480916), publicado em 2004-08-17.
 
 ###### Artigo 4.º — Extinção de serviços do Instituto de Gestão e Alienação do Património Habitacional do Estado
 

@@ -1,0 +1,27 @@
+[
+ {
+  "id": "pt:dre:632734:por",
+  "artigos": [
+   {
+    "chave": "4.º",
+    "epigrafe": "",
+    "texto": "1. São órgãos de concepção, coordenação e apoio:\n\na) A Junta Nacional da Educação;\n\nb) O Gabinete de Estudos e Planeamento;\n\nc) O Conselho dos Directores-Gerais;\n\nd) A Secretaria-Geral.\n\n2. São serviços executivos:\n\nI) No sector da ciência e da cultura:\n\na) O Instituto de Alta Cultura;\n\nb) A Direcção-Geral dos Assuntos Culturais.\n\nII) No sector do ensino:\n\na) A Direcção-Geral do Ensino Superior;\n\nb) A Direcção-Geral do Ensino Secundário;\n\nc) A Direcção-Geral do Ensino Básico;\n\nd) A Inspecção-Geral do Ensino Particular;\n\ne) A Direcção-Geral da Administração Escolar;\n\nf) (Revogada.)\n\ng) O Instituto de Tecnologia Educativa.\n\nIII) No sector da juventude e desportos:\n\na) O Secretariado para a Juventude;\n\nb) A Direcção-Geral da Educação Física e Desportos e o Fundo de Fomento do Desporto;\n\nc) O Instituto de Acção Social Escolar.\n\nA) Órgãos de concepção, coordenação e apoio",
+    "alterador": 8
+   },
+   {
+    "chave": "17.º",
+    "epigrafe": "",
+    "texto": "(Revogado.)",
+    "alterador": 8
+   }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, Decreto-Lei n.º 71/73 (orgânica do Instituto de Tecnologia Educativa), quadro acrescido aos quadros únicos do artigo 26.º: não textual\nAlterador 2, art. 1.º, acrescenta um lugar de inspector-geral ao mapa do artigo 26.º, n.º 1: alvo incerto: o alterador não diz em que serviço do mapa nem traz o texto novo, e o mapa não tem título de anexo no texto atual\nAlterador 3, art. 1.º, a Direcção-Geral da Educação Física e Desportos passa a designar-se Direcção-Geral dos Desportos: não textual (designação)\nAlterador 4, art. 1.º, extinção da Direcção-Geral da Administração Escolar e criação de duas direcções-gerais: não textual (não altera o texto do original)\nAlterador 5, art. 1.º, extinção da Direcção-Geral dos Assuntos Culturais: não textual (não altera o texto do original)\nAlterador 6, aumento de um lugar de adjunto do secretário-geral no mapa anexo: alvo incerto: o alterador não traz o texto novo do mapa e o mapa não tem título de anexo no texto atual\nAlterador 7, art. 1.º, substituição do mapa anexo pelo mapa I: só em imagem: o mapa I só vem em imagem e o mapa não tem título de anexo no texto atual\nAlterador 7, arts. 2.º, 3.º e 5.º, criação do quadro do artigo 27.º, nova designação da categoria de especialista e extinção da de técnico de 3.ª classe: não textual\nAlterador 9, art. 26.º, extinção da Direcção-Geral dos Desportos e do Fundo de Fomento do Desporto: não textual (não altera o texto do original)",
+  "instrucoes": [
+   "Alteradores 1 a 7 e 9: extinções, designações e alterações de quadros sem texto novo para o original: em nao_aplicavel",
+   "Alterador 8 (DL n.º 534/79), art. 37.º, alínea a): revoga a alínea f) do n.º II) do n.º 2 do art. 4.º ('f) (Revogada.)', o resto do artigo fica) e o art. 17.º ('(Revogado.)')"
+  ]
+ }
+]

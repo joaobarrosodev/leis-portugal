@@ -1,0 +1,25 @@
+[
+ {
+  "id": "pt:dre:346075:por",
+  "artigos": [
+   {
+    "chave": "11.º",
+    "epigrafe": "",
+    "texto": "O Secretário de Estado da Estruturação Agrária poderá requisitar aos proprietários e demais afectados por medidas de expropriação o equipamento mecânico e de indústria agrícola e outros componentes das respectivas explorações.",
+    "alterador": 2
+   }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, tabelas de equivalências para as áreas beneficiadas dos aproveitamentos hidroagrícolas: só em imagem (e a tabela anexa não tem título de anexo no texto atual)\nAlterador 2, artigo 2.º (nova redação do artigo 9.º do Decreto-Lei n.º 407-A/75): outro diploma\nAlterador 3, alteração da tabela de equivalência para os concelhos de Campo Maior e Beja: só em imagem (e a tabela anexa não tem título de anexo no texto atual)\nAlterador 4, artigo 51.º (revoga a legislação que regulamentou a Lei n.º 77/77 ou que se mostrar incompatível, mantendo as tabelas de pontuação do Decreto-Lei n.º 406-A/75): revogação condicional\nAlterador 5, alteração da Lei n.º 109/88: outro diploma",
+  "instrucoes": [
+   "Alterador 1: tabelas em imagem: não aplicado",
+   "Alterador 2, art. 1.º: nova redação do artigo 11.º: aplicada",
+   "Alterador 2, art. 2.º: artigo 9.º do DL 407-A/75: outro diploma",
+   "Alterador 3: tabela em imagem: não aplicado",
+   "Alterador 4: revogação de legislação incompatível: condicional, não aplicada",
+   "Alterador 5: altera a Lei n.º 109/88: outro diploma"
+  ]
+ }
+]

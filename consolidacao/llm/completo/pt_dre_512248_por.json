@@ -88,18 +88,26 @@
     {
       "chave": "32.º",
       "epigrafe": "",
-      "texto": "1. O regime constante do presente diploma poderá, por meio de portaria, ser tornado extensivo, com as adaptações que se mostrem necessárias ou vantajosas, aos outros centros universitários já existentes, assim como, por meio de portaria, poderão ser criados novos centros e fazer-se-lhes essa mesma extensão.\n\n2. As portarias serão expedidas pelo Ministro da Educação Nacional, juntamente com o das Finanças, quanto à metrópole, e com o do Ultramar, quanto às províncias ultramarinas.",
+      "texto": "1. O regime constante do presente diploma poderá, por meio de portaria, ser tornado extensivo, com as adaptações que se mostrem necessárias ou vantajosas, aos outros centros universitários já existentes, assim como, por meio de portaria, poderão ser criados novos centros e fazer-se-lhes essa mesma extensão.\n\n2. As portarias serão expedidas pelo Ministro da Educação Nacional, juntamente com o das Finanças, quanto à metrópole, e com o do Ultramar, quanto às províncias ultramarinas.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 24 de Novembro de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.",
       "alterador": 1
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "Alterador 2 (Decreto-Lei n.º 159/83) extingue o Centro Universitário do Porto sem alterar nem revogar expressamente artigos do original; não é alteração textual, não aplicada.",
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 2, extinção do Centro Universitário do Porto e transferência do pessoal e do património: não textual — sem revogação nem nova redação do texto",
   "instrucoes": [
-    "Alterador 1, art. 1.º: nova redação dos artigos 1.º (n.º 2), 13.º (aditados n.os 6 e 7), 18.º (aditados n.os 2 e 3), 20.º e 21.º - aplicado.",
-    "Alterador 1, art. 2.º: aditados os artigos 23.º a 28.º e renumerados os antigos 23.º a 26.º como 29.º a 32.º - aplicado.",
-    "Alterador 2: extinção do Centro e transferência de pessoal e património, não textual - em nao_aplicavel."
+    "Alt. 1, art. 1.º: nova redação do n.º 2 do art. 1.º — substituído",
+    "Alt. 1, art. 1.º: aditados os n.os 6 e 7 ao art. 13.º",
+    "Alt. 1, art. 1.º: aditados os n.os 2 e 3 ao art. 18.º (o corpo atual fica como 1.º parágrafo, sem número inventado)",
+    "Alt. 1, art. 1.º: nova redação dos arts. 20.º e 21.º — substituídos por inteiro",
+    "Alt. 1, art. 2.º: aditados os novos arts. 23.º a 28.º; os antigos 23.º a 26.º passam a 29.º a 32.º",
+    "Alt. 2: extinção do Centro — não textual"
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 124,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

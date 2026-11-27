@@ -284,6 +284,10 @@ As dúvidas que surgirem na interpretação e aplicação deste decreto-lei e di
 
 2. As portarias serão expedidas pelo Ministro da Educação Nacional, juntamente com o das Finanças, quanto à metrópole, e com o do Ultramar, quanto às províncias ultramarinas.
 
+Publique-se e cumpra-se como nele se contém.
+
+Paços do Governo da República, 24 de Novembro de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
+
 > Aditado pelo/a [Decreto-Lei n.º 47658](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47658-1967-310246), publicado em 1967-04-28.
 
 Publique-se e cumpra-se como nele se contém.

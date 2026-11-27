@@ -28,19 +28,23 @@
     {
       "chave": "11.º",
       "epigrafe": "",
-      "texto": "A Federação poderá contrair empréstimos nos termos da base XXV da [Lei n.º 2002](https://diariodarepublica.pt/dr/detalhe/lei/2002-1944-568758) e do § único do artigo 175.º do Código Administrativo, consignando aos encargos desses empréstimos as receitas do fundo de obras.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 10 de Outubro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Calos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.",
+      "texto": "A Federação poderá contrair empréstimos nos termos da base XXV da [Lei n.º 2002](https://diariodarepublica.pt/dr/detalhe/lei/2002-1944-568758) e do § único do artigo 175.º do Código Administrativo, consignando aos encargos desses empréstimos as receitas do fundo de obras.",
       "alterador": 1
     }
   ],
   "removidos": [],
-  "nao_aplicavel": null,
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, nova redação do § 3.º do artigo 174.º e dos artigos 175.º e 183.º do Código Administrativo: outro diploma\nAlterador 2, artigo 14.º (o n.º 2 do artigo 2.º do Decreto-Lei n.º 5/72 é aplicável à Federação criada pelo original): não textual, não altera o texto do original",
   "instrucoes": [
-    "Alterador 1, art. 1.º: altera o Código Administrativo; ignorado.",
-    "Alterador 1, art. 2.º: nova redação dos artigos 2.º, 6.º, 8.º e 11.º; aplicada (fórmula final do 11.º mantida).",
-    "Alterador 1, art. 2.º: artigo 7.º com corpo mantido e § único substituído por §§ 1.º e 2.º; aplicado.",
-    "Alterador 2, art. 14.º: torna aplicável a esta Federação o n.º 2 do artigo 2.º do Decreto-Lei n.º 5/72; não é alteração textual do original, ignorado."
+    "Alterador 1, art. 2.º: nova redação dos artigos 2.º, 6.º, 8.º e 11.º (corpo substituído) e do artigo 7.º (corpo mantido, § único substituído pelo § 1.º e aditado o § 2.º): aplicado.",
+    "Alterador 1, art. 1.º: Código Administrativo, outro diploma.",
+    "Alterador 2, art. 14.º: extensão de regime, não textual."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 124,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

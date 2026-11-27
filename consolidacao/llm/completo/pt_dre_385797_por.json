@@ -9,14 +9,30 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "DL 291/89, arts. 13.º e 14.º: alteram o n.º 3 do artigo 2.º e a secção II (artigo 9.º) dos Regulamentos Internos dos Terminais TIR de Alverca e do Freixieiro, aprovados pelo DL 242/84; esses regulamentos não existem no texto atual (só o título), pelo que não se aplicam.",
+  "titulos": [
+    {
+      "atual": "#### SECÇÃO II — (Da emissão e legalização dos títulos de propriedade)",
+      "novo": "#### SECÇÃO II — Da emissão do título de depósito",
+      "alterador": 2
+    },
+    {
+      "atual": "#### SECÇÃO II — (Da emissão e legalização dos títulos de propriedade)",
+      "novo": "#### SECÇÃO II — Da emissão do título de depósito",
+      "alterador": 2
+    }
+  ],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 2, art. 13.º, nova redação do n.º 3) do artigo 2.º dos Regulamentos Internos dos TIR de Alverca e do Freixieiro: alvo incerto — os artigos dos regulamentos não estão no texto atual (só os títulos de divisão)\nAlterador 2, art. 14.º, nova redação do art. 9.º da secção II dos Regulamentos Internos: alvo incerto — o artigo não está no texto atual (aplicado só o título da secção)\nAlterador 2, arts. 11.º, 12.º, 15.º e 16.º (Regulamento das Alfândegas, Reforma Aduaneira, DL 281/86): outro diploma\nAlterador 2, art. 17.º, revogação das disposições contrárias: revogação condicional",
   "instrucoes": [
-    "DL 36/85, artigo único: nova redação do artigo único da tabela III; aplicada ao artigo único (mantidos no fim os títulos que o texto atual traz a seguir).",
-    "DL 291/89, art. 13.º: nova redação do n.º 3 do art. 2.º dos regulamentos internos; texto inexistente no atual, não aplicada.",
-    "DL 291/89, art. 14.º: nova redação da secção II dos regulamentos internos; texto inexistente no atual, não aplicada.",
-    "DL 291/89, restantes artigos (11.º, 12.º, 15.º, 16.º, 17.º): dirigidos a outros diplomas; ignorados."
+    "Alt. 1: nova redação do artigo único da tabela III — substituídos os dois parágrafos; mantidas as linhas seguintes do texto atual (título do regulamento)",
+    "Alt. 2, art. 14.º: nova designação da secção II nos dois regulamentos — aplicada aos dois títulos",
+    "Alt. 2, art. 13.º e art. 9.º dos regulamentos: artigos ausentes do texto atual — nao_aplicavel",
+    "Alt. 2, restantes: outros diplomas / revogação condicional"
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 124,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

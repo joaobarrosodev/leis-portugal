@@ -1,0 +1,30 @@
+[
+ {
+  "id": "pt:dre:195800:por",
+  "artigos": [
+   {
+    "chave": "11.º",
+    "epigrafe": "Serviços de apoio técnico e administrativo",
+    "texto": "1 - O Conselho dispõe de uma assessoria técnica e administrativa, assegurada com o apoio da Secretaria-Geral do Ministério das Cidades, Ordenamento do Território e Ambiente e coordenada pelo secretário executivo.\n\n2 - Compete à assessoria o apoio às actividades do Conselho, designadamente as de natureza técnica, informação, documentação, secretariado, expediente e arquivo.",
+    "alterador": 1
+   },
+   {
+    "chave": "17.º",
+    "epigrafe": "Encargos financeiros e instalações",
+    "texto": "1 - Os encargos com o funcionamento do Conselho são cobertos por dotação orçamental inscrita no orçamento do Ministério das Cidades, Ordenamento do Território e Ambiente.\n\n2 - Constituem, entre outros, encargos de funcionamento do Conselho os seguintes:\n\na) Remuneração do presidente;\n\nb) Remuneração do secretário executivo;\n\nc) Senhas de presença;\n\nd) Aquisição de serviços, pareceres e assessoria técnica;\n\ne) Os que resultem do seu normal funcionamento e das actividades dos seus membros.\n\n3 - As instalações necessárias ao funcionamento do Conselho serão asseguradas pelo Ministério do Ambiente.",
+    "alterador": 1
+   }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 2, Lei Orgânica do XVI Governo (o Conselho passa a estar na dependência do Ministro do Ambiente e do Ordenamento do Território): não textual: muda o enquadramento ministerial, sem alterar o texto\nAlterador 3, Decreto-Lei n.º 119/2013: sem texto: o pedido não traz nenhum artigo deste alterador\nAlterador 4, Decreto-Lei n.º 32/2024: sem texto: o pedido não traz nenhum artigo deste alterador\nAlterador 5, Decreto-Lei n.º 87-A/2025: sem texto: o pedido não traz nenhum artigo deste alterador",
+  "instrucoes": [
+   "Alterador 1, art. 1.º: nova redação dos arts. 1.º, 3.º, 8.º, 9.º e 10.º — já aplicada pelo programa e certa; arts. 11.º (n.º 1 novo, n.º 2 fica, o artigo passa a ter só dois números, como na republicação) e 17.º (n.º 1 novo, o resto fica) aplicados aqui.",
+   "Alterador 1, art. 2.º: revogados os arts. 18.º, 19.º e 20.º — já aplicada pelo programa e certa.",
+   "Alterador 1, art. 4.º: republicação — usada para confirmar; as pequenas diferenças de redação da republicação em partes que a instrução não muda (arts. 2.º, 8.º, 9.º, 17.º, n.º 3) ficam com o texto atual.",
+   "Alterador 2: lei orgânica do Governo — não textual, em nao_aplicavel.",
+   "Alteradores 3 a 5: sem artigos no pedido — em nao_aplicavel."
+  ]
+ }
+]

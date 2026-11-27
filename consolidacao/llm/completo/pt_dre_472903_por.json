@@ -9,15 +9,19 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": null,
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, nova redação dos arts. 1.º, 20.º e 22.º da tabela de emolumentos consulares: outro diploma: a tabela foi aprovada pelo Decreto-Lei n.º 46641\nAlterador 3, art. 2.º, fim da produção de algumas denominações de estampilhas: não textual: norma autónoma\nAlterador 4, nova redação dos n.os 4.º e 7.º do art. 1.º da tabela de emolumentos consulares: outro diploma: a tabela foi aprovada pelo Decreto-Lei n.º 46641",
   "instrucoes": [
-    "Alterador 1: altera os artigos 1.º, 20.º e 22.º da tabela de emolumentos consulares (Decreto-Lei n.º 46641, outro diploma) - ignorado.",
-    "Alterador 2, artigo único: nova redação do artigo 1.º - aplicada, depois substituída pelo alterador 3.",
-    "Alterador 3, art. 1.º: nova redação do artigo 1.º - aplicada (redação final).",
-    "Alterador 3, art. 2.º: norma autónoma sobre denominações - não altera o texto do original.",
-    "Alterador 4: altera os n.os 4.º e 7.º do artigo 1.º da tabela de emolumentos consulares (outro diploma) - ignorado."
+    "Alterador 1: altera a tabela de emolumentos consulares; outro diploma.",
+    "Alterador 2: nova redação do art. 1.º; substituída depois pela do alterador 3.",
+    "Alterador 3, art. 1.º: nova redação do art. 1.º; aplicada (redação final).",
+    "Alterador 4: altera a tabela; outro diploma."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 124,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

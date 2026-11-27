@@ -9,12 +9,17 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": null,
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 2, orgânica do XV Governo Constitucional, incluindo a orientação estratégica do IPE pelos ministros das Finanças e da Economia: não textual: não dá nova redação nem revoga artigos do original",
   "instrucoes": [
-    "Alterador 1 (DL 106/95), art. 1.º: nova redação do art. 3.º; n.os 1 e 2 mantidos, novo n.º 3 inserido, antigos n.os 3 e 4 passam a 4 e 5. Aplicado.",
-    "Alterador 2 (DL 120/2002): lei orgânica do Governo; o art. 27.º refere o IPE mas não contém instrução dirigida ao DL 406/90. Nada aplicado."
+    "Alterador 1: adita novo n.º 3 ao art. 3.º e renumera os antigos n.os 3 e 4 como 4 e 5; aplicado.",
+    "Alterador 2: orgânica do Governo; não textual."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 124,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

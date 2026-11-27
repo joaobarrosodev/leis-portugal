@@ -1,0 +1,29 @@
+[
+ {
+  "id": "pt:dre:229103:por",
+  "artigos": [
+   {
+    "chave": "4.º",
+    "epigrafe": "Regime de tributação dos combustíveis",
+    "texto": "1 - Às transmissões de gasolina para viaturas, ao gasóleo e ao petróleo iluminante e carburante será aplicável, a partir de 1 de Julho de 2000, o regime normal de tributação em IVA.\n\n2 - Não obstante o disposto no artigo 7.º do Código do IVA, relativamente aos combustíveis referidos no número anterior e entregues à consignação, o imposto é devido e exigível na data da leitura dos contadores de bombas, efectuada pelo consignatário, pelo menos uma vez por semana.\n\n3 - Os sujeitos passivos que comercializem os combustíveis referidos no n.º 1 poderão deduzir o imposto correspondente às suas existências em 30 de Junho de 2000.\n\n4 - Para efeitos de dedução do imposto referido no número anterior, os sujeitos passivos deverão elaborar um inventário das existências dos combustíveis mencionados no n.º 1, do qual deverão constar as quantidades e a descrição dos bens, o preço de compra e o imposto suportado.\n\n5 - O imposto apurado no inventário referido no número anterior poderá ser objecto de dedução na declaração periódica correspondente à data da entrada em vigor do regime normal de tributação.\n\n6 - O inventário referido no n.º 4 será elaborado e entregue, em duplicado, na repartição de finanças a que se refere o artigo 70.º do Código do IVA até ao fim do mês de Julho de 2000, devendo os serviços devolver o duplicado, averbado do recebimento do original.",
+    "alterador": 2
+   },
+   {
+    "chave": "5.º",
+    "epigrafe": "Norma revogatória",
+    "texto": "São revogados, a partir de 1 de Julho de 2000, o Decreto-Lei n.º 521/85, de 31 de Dezembro, e o artigo 6.º do Decreto-Lei n.º 185/86, de 14 de Julho.",
+    "alterador": 2
+   }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, entrada em vigor dos artigos 4.º e 5.º a 31 de Dezembro de 1999: não textual: só difere a vigência, não muda o texto.\nAlterador 3, repristinação do Decreto-Lei n.º 521/85 e do artigo 6.º do Decreto-Lei n.º 185/86 e substituição do regime a partir da liberalização dos preços: não textual: repristina outros diplomas e difere a aplicação do n.º 1 do artigo 4.º, sem mudar o texto do original.\nAlteradores 8, 18, 19, 21 e 23, artigos do Decreto-Lei n.º 20/90 «alterado pelo Decreto-Lei n.º 323/98»: outro diploma: o original só aparece na lista de alterações do Decreto-Lei n.º 20/90.\nAlteradores 4, 5, 6, 7, 9, 10, 11, 12, 13, 14, 15, 16, 17, 20 e 22: outro diploma: alteram o Código do IVA e outros diplomas e não trazem instruções dirigidas ao original.",
+  "instrucoes": [
+   "Alterador 1 (DL 418-A/98), art. 1.º: difere a entrada em vigor dos arts. 4.º e 5.º; não textual.",
+   "Alterador 2 (Lei 3-B/2000), art. 44.º, n.º 10: nova redação dos arts. 4.º e 5.º; aplicada, substituindo os artigos inteiros.",
+   "Alterador 3 (DL 164/2000): repristina o DL 521/85 e o art. 6.º do DL 185/86 e difere o regime normal; não textual.",
+   "Restantes alteradores: alteram o Código do IVA, o DL 20/90 e outros diplomas; outro diploma."
+  ]
+ }
+]

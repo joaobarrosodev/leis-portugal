@@ -1,0 +1,21 @@
+[
+ {
+  "id": "pt:dre:550008:por",
+  "artigos": [
+   {
+    "chave": "2.º",
+    "epigrafe": "Quadro de pessoal",
+    "texto": "A Guarda Nacional Republicana dispõe do pessoal constante do quadro de pessoal aprovado por portaria conjunta dos Ministros da Administração Interna e das Finanças.",
+    "alterador": 1
+   }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 2, substituição do quadro de pessoal civil anexo ao original: só em imagem — o quadro novo só vem em imagem e o quadro atual não tem título de anexo no texto atual (vem no fim do art. 8.º)",
+  "instrucoes": [
+   "Alt. 1: nova redação do art. 2.º — substituído",
+   "Alt. 2: novo quadro de pessoal em imagem — sem título de anexo, nao_aplicavel"
+  ]
+ }
+]

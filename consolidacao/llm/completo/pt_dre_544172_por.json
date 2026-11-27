@@ -1,0 +1,18 @@
+{
+  "id": "pt:dre:544172:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alteradores 2, 3 e 4 (Decretos-Leis n.os 169-B/2019, 32/2022 e 32/2024): sem texto: o pedido não traz nenhum artigo destes alteradores que mencione o original.",
+  "instrucoes": [
+    "Alterador 1 (DL 89/2012), art. 2.º: nova redação do n.º 2 do art. 10.º (n.os 1 e 3 «...»); o texto atual, já alterado pelo programa, coincide letra a letra com a nova redação, por isso o art. 10.º não muda.",
+    "Alteradores 2 a 4: sem artigos no pedido; em nao_aplicavel."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "ronda_camada1": 124,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
+}

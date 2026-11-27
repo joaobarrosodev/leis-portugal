@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:321289:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 2, Decreto-Lei n.º 121/2008: sem texto (o pedido não traz os artigos do alterador)\nAlterador 3, mapa VIII do Decreto-Lei n.º 121/2008 republicado (revoga o Decreto-Lei n.º 55/2001 «com excepção das disposições relativas às categorias subsistentes»): alvo incerto: a ressalva não diz que artigos ficam em vigor, pelo que não se sabe com segurança a que artigos se aplica a revogação",
+  "instrucoes": [
+    "Alterador 1: nova redação dos artigos 17.º (n.º 1, alínea a)) e 18.º (n.º 2): já aplicada pelo programa e certa; nada a mudar",
+    "Alterador 2: sem texto no pedido",
+    "Alterador 3: retifica o mapa VIII do DL 121/2008; revogação do original com ressalva das disposições sobre categorias subsistentes: não aplicada (alvo incerto)"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "ronda_camada1": 124,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
+}

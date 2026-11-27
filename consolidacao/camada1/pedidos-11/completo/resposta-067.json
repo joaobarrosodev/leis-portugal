@@ -1,0 +1,24 @@
+[
+ {
+  "id": "pt:dre:378319:por",
+  "artigos": [
+   {
+    "chave": "37.º",
+    "epigrafe": "(Criação)",
+    "texto": "1 - A criação das delegações regionais far-se-á em função do desenvolvimento das actividades da DGEFAP, mediante decreto do Ministro de Estado e das Finanças e do Plano e do Ministro da Reforma Administrativa, que fixará, simultaneamente, os respectivos quadros de pessoal.\n\n2 - Consideram-se desde já criadas as Delegações Regionais do Porto e Coimbra.\n\n3 - As delegações mencionadas no número anterior têm o nível orgânico de direcções de serviço.",
+    "alterador": 2
+   }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, aumento do quadro de pessoal (n.º 1 do art. 44.º) com os lugares do mapa anexo: só em imagem: o mapa só vem em imagem e os quadros não têm título de anexo no texto atual\nAlterador 2, art. 2.º, alteração do quadro de pessoal de acordo com o mapa anexo: só em imagem: o mapa só vem em imagem e os quadros não têm título de anexo no texto atual\nAlterador 3, alargamento do quadro de pessoal de um lugar de assessor, letra C: não textual: não altera texto do original nem traz quadro novo",
+  "instrucoes": [
+   "Alterador 1: aumenta o quadro de pessoal com lugares de um mapa em imagem; não aplicado (nao_aplicavel).",
+   "Alterador 2, art. 1.º: adita o n.º 3 ao art. 37.º; aplicado.",
+   "Alterador 2, art. 2.º: altera o quadro de pessoal por mapa em imagem; não aplicado.",
+   "Alterador 2, art. 3.º, n.º 3: revoga o n.º 3 do art. 44.º; já está revogado no texto atual, sem mudança.",
+   "Alterador 3: alarga o quadro em um lugar de assessor; não textual."
+  ]
+ }
+]

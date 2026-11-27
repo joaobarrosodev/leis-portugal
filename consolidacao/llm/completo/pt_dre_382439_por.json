@@ -15,29 +15,20 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "Alteradores 2 a 6 (Portarias n.os 98/80, 531/80, 108/81, 263/82 e 376/89) alteram ou substituem o quadro/mapa I de pessoal anexo (e contingentação), que só vem em imagem ('ver documento original'); não aplicado.",
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, artigos 1.º, 2.º e 7.º a 10.º (Código de Processo das Contribuições e Impostos, Regulamento das Custas, Decreto-Lei n.º 48699, tabela de emolumentos): outro diploma\nAlterador 2, distribuição do pessoal do quadro pelos mapas anexos à portaria: só em imagem: os mapas vêm só em imagem e o texto atual não tem título de anexo onde os pôr\nAlterador 3, n.º 2.º, alteração do mapa I (quadro do pessoal) anexo ao Decreto Regulamentar n.º 12/79 (mapa II da portaria): só em imagem: o mapa vem só em imagem e o texto atual não tem título de anexo (os mapas estão no fim do art. 160.º)\nAlterador 3, n.os 1.º e 3.º a 6.º, classificação das repartições de finanças, contingentação e regras transitórias: não textual\nAlterador 4, n.º 1.º, alteração do quadro de pessoal anexo (mapa I da portaria): só em imagem: o mapa vem só em imagem e o texto atual não tem título de anexo\nAlterador 4, n.º 2.º, vencimentos do pessoal contratado ao abrigo da Portaria n.º 608/76: outro diploma\nAlterador 5, n.º 1.º, novo quadro geral do pessoal (mapa anexo à portaria): só em imagem: o mapa vem só em imagem e o texto atual não tem título de anexo\nAlterador 5, n.os 2.º e 3.º, lugares acrescentados transitoriamente: não textual\nAlterador 6, distribuição dos lugares de subinspector previstos no mapa anexo à Portaria n.º 431/87: outro diploma",
   "instrucoes": [
-    "Alterador 1 (DL 500/79), art. 11.º: nova redação da alínea c) do n.º 1 do artigo 63.º — substituída.",
-    "Alterador 1, art. 11.º: nova redação do n.º 5 do artigo 109.º (o texto atual só tem n.os 1 a 4) — aditado o n.º 5.",
-    "Alterador 1, restantes artigos: alteram o CPCI, o Regulamento das Custas e outros diplomas — ignorados.",
-    "Alteradores 2 a 6: portarias que alteram o mapa/quadro de pessoal anexo, só em imagem — não aplicáveis."
+    "Alterador 1, art. 11.º: nova redação da alínea c) do n.º 1 do art. 63.º; substituída a alínea, o resto do artigo fica como no texto atual.",
+    "Alterador 1, art. 11.º: nova redação do n.º 5 do art. 109.º (que não existia no texto atual); n.os 1 a 4 mantidos e aditado o n.º 5.",
+    "Alterador 1, restantes artigos: alteram o CPCI, o Regulamento das Custas e outros diplomas; não aplicados (outro diploma).",
+    "Alteradores 2 a 5: mapas do quadro de pessoal só em imagem, sem título de anexo no texto atual; não aplicados.",
+    "Alterador 6: altera o mapa anexo à Portaria n.º 431/87; não aplicado (outro diploma)."
   ],
-  "modelo": "claude-fable-5-1",
+  "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "passagens": [
-    {
-      "n": 1,
-      "alteradores": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6
-      ],
-      "chars": 172768,
-      "artigos": 2
-    }
-  ],
-  "problemas": []
+  "ronda_camada1": 124,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

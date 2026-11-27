@@ -22,14 +22,25 @@
   ],
   "removidos": [],
   "titulos": [],
-  "nao_aplicavel": "Alterador 2 (DL 148/2013), art. 10.º e anexo VII: dá nova redação ao anexo X do Regulamento (lista dos números distintivos dos Estados-Membros), mas o texto do anexo X não está no texto atual (só o título de divisão), pelo que não há artigo a alterar.",
+  "anexos": [
+    {
+      "titulo": "## ANEXO X — (referente ao n.º 2 do artigo 27.º)",
+      "texto": "A marca de homologação CE deve ser constituída por um rectângulo envolvendo a letra «e», seguida das letras ou números distintivos do Estado-Membro que procedeu à homologação:\n\n1 para a Alemanha;\n\n2 para a França;\n\n3 para a Itália;\n\n4 para os Países Baixos;\n\n5 para a Suécia;\n\n6 para a Bélgica;\n\n7 para a Hungria;\n\n8 para a República Checa;\n\n9 para a Espanha;\n\n11 para o Reino Unido;\n\n12 para a Áustria;\n\n13 para o Luxemburgo;\n\n17 para a Finlândia;\n\n18 para a Dinamarca;\n\n19 para a Roménia;\n\n20 para a Polónia;\n\n21 para Portugal;\n\n23 para a Grécia;\n\n25 para a Croácia;\n\n26 para a Eslovénia;\n\n27 para a Eslováquia;\n\n29 para a Estónia;\n\n32 para a Letónia;\n\n34 para a Bulgária;\n\n36 para a Lituânia;\n\nCY para Chipre;\n\nIRL para a Irlanda;\n\nMT para Malta.\n\nNota justificativa da necessidade e urgência do projecto de decreto-lei que visa a transposição para o direito interno da Directiva n.º [2000/8/CE](https://data.europa.eu/eli/dir/2000/8/oj?locale=pt), do Parlamento Europeu e do Conselho, de 20 de Março.\n\nA necessidade de aprovação imediata do diploma em causa advém do facto de a transposição para o direito nacional de directivas comunitárias constituir um acto jurídica e politicamente predominantemente vinculado do Governo (ou da Assembleia da República, quando seja esse o caso), nos termos do direito europeu e da Constituição da República Portuguesa, indispensável ao normal comércio jurídico e que, por isso mesmo, se enquadra no conceito mais restrito de «gestão».",
+      "alterador": 2
+    }
+  ],
+  "nao_aplicavel": null,
   "instrucoes": [
-    "Alt. 1, art. 3.º n.º 1: nova redação do n.º 8 do art. 26.º (restantes números '...' mantidos) — aplicado.",
-    "Alt. 1, art. 3.º n.º 2: aditados os arts. 21.º-A e 26.º-A — aplicado, sem o fecho de aspas » no n.º 2 do 26.º-A (reparo confirmado).",
-    "Alt. 2, art. 10.º: nova redação do anexo X — não aplicável (anexo sem texto no atual).",
-    "Alt. 2, restantes artigos alteram outros diplomas — ignorados."
+    "Alterador 1, art. 3.º, n.º 1: nova redação do n.º 8 do art. 26.º do Regulamento - aplicada (restantes números ficam)",
+    "Alterador 1, art. 3.º, n.º 2: aditados os arts. 21.º-A e 26.º-A do Regulamento - aplicado",
+    "Alteradores 1, arts. 2.º e 4.º: normas próprias, sem alteração ao texto",
+    "Alterador 2, art. 10.º e anexo VII: nova redação do anexo X (lista dos Estados-Membros substituída; o texto antes e depois da lista, '[...]', fica o atual) - aplicado",
+    "Alterador 2, restantes artigos: alteram outros decretos-leis, não o original"
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 124,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

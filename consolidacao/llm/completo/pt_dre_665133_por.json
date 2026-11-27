@@ -9,14 +9,19 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "Portaria n.º 528/80 (alterador 2) cria lugares no quadro do pessoal do mapa I e a Portaria n.º 39/81 (alterador 3, 4.º) substitui esse quadro pelo anexo IV; o mapa I e o anexo IV só existem em imagem ('ver documento original'), por isso não se aplicam ao texto.",
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 2, criação de um lugar de assessor e dois de técnico superior principal no quadro do mapa I: não textual: acrescenta lugares ao quadro sem texto novo; o mapa I só existe em imagem e não tem título de anexo no texto atual\nAlterador 3, n.º 4.º, substituição do quadro de pessoal do Fundo de Fomento da Habitação pelo quadro anexo IV: só em imagem: o quadro novo só vem em imagem e o mapa I do original não tem título de anexo no texto atual\nAlterador 3, n.os 1.º a 3.º e 5.º a 7.º, quadros de outros serviços: outro diploma: quadros aprovados por outros decretos-leis\nAlterador 4, nova redação da alínea h) e aditamento da alínea i) ao art. 4.º do Decreto-Lei n.º 7/83: outro diploma: altera o Decreto-Lei n.º 7/83",
   "instrucoes": [
-    "DL 209/76, artigo único: art. 26.º com '...' nos n.os 1 e 2 e novo n.º 3; mantidos os n.os 1 e 2 do texto atual e aditado o n.º 3.",
-    "Portaria 528/80: cria um lugar de assessor e dois de técnico superior principal no mapa I; mapa só em imagem, não aplicada (nao_aplicavel).",
-    "Portaria 39/81, 4.º: substitui o quadro do pessoal do Fundo (mapa I) pelo anexo IV, só em imagem; não aplicada (nao_aplicavel). Os outros números alteram quadros de outros serviços: ignorados.",
-    "DL 17/85: altera o artigo 4.º do DL 7/83, que apenas remete para a alínea g) do artigo 8.º do original; não é instrução sobre o original, ignorada."
+    "Alterador 1: adita o n.º 3 ao art. 26.º; aplicado.",
+    "Alterador 2: cria lugares no mapa I; não textual.",
+    "Alterador 3: substitui o quadro do Fundo por quadro em imagem; não aplicado.",
+    "Alterador 4: altera o Decreto-Lei n.º 7/83; outro diploma."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 124,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

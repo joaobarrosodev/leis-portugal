@@ -7,12 +7,12 @@ consolidacao:
     sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
+  - id: pt:dre:687016:por
+    title: Lei n.º 51/91
+    publication_date: '1991-08-03'
   - id: pt:dre:419178:por
     title: Decreto-Lei n.º 237/87
     publication_date: '1987-06-12'
-  - id: pt:dre:313831:por
-    title: Decreto-Lei n.º 2/90
-    publication_date: '1990-01-03'
   - id: pt:dre:301037:por
     title: Decreto-Lei n.º 211-A/86
     publication_date: '1986-07-31'
@@ -34,101 +34,71 @@ Nestes termos:
 
 No uso da autorização conferida na alínea c) do artigo 41.º da [Lei n.º 2-B/85](https://diariodarepublica.pt/dr/detalhe/lei/2-b-1985-190671), de 28 de Fevereiro, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º — (Objecto)
+###### Artigo 1.º — Objecto
 
-1 - As sociedades de gestão e investimento imobiliário, abreviadamente designadas por SGII, têm por objecto principal o arrendamento de imóveis próprios, por elas adquiridos ou construídos, e a prestação de serviços conexos.
+(Revogado.)
 
-2 - Constitui actividade acessória das SGII a venda dos imóveis mencionados no número anterior.
+> Revogado pelo/a [Lei n.º 51/91](https://diariodarepublica.pt/dr/detalhe/lei/51-1991-687016), publicado em 1991-08-03.
 
-> Alterado pelo/a [Decreto-Lei n.º 237/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-1987-419178), publicado em 1987-06-12.
+###### Artigo 2.º — Forma, capital social e outros requisitos das SGII
 
-###### Artigo 2.º — (Forma, capital social e outros requisitos das SGII)
+(Revogado.)
 
-1 - As SGII constituem-se sob a forma de sociedade anónima, devendo ainda satisfazer os seguintes requisitos:
+> Revogado pelo/a [Lei n.º 51/91](https://diariodarepublica.pt/dr/detalhe/lei/51-1991-687016), publicado em 1991-08-03.
 
-a) Terem sede em território nacional;
+###### Artigo 3.º — Processo de constituição
 
-b) Possuírem um capital social mínimo, a fixar mediante portaria do Ministro das Finanças, em montante não inferior a 600000 contos, valendo desde já este limite enquanto não for publicada a referida portaria.
+(Revogado.)
 
-2 - O capital social poderá, até ao limite de 85% do respectivo valor, ser realizado em espécie, através de bens imóveis a integrar no património das SGII.
-
-3 - As SGII só podem constituir-se depois de os accionistas fundadores fazerem prova de que uma fracção do capital social, não inferior a 15% do respectivo valor, foi realizada e se encontra depositada numa instituição de crédito à ordem da respectiva administração, com a indicação do valor subscrito por cada accionista.
-
-> Alterado pelo/a [Decreto-Lei n.º 237/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-1987-419178), publicado em 1987-06-12.
-
-###### Artigo 3.º — (Processo de constituição)
-
-1 - A constituição das SGII depende de autorização do Ministro das Finanças, a conceder mediante portaria.
-
-2 - O requerimento para a autorização de constituição deve ser acompanhado dos seguintes elementos:
-
-a) Indicação do montante do capital social e modo da sua realização;
-
-b) Identificação dos accionistas fundadores e respectivas participações;
-
-c) Projecto de contrato de sociedade;
-
-d) Exposição dos objectivos essenciais e das necessidades de ordem económico-financeira que visam satisfazer;
-
-e) Estudo da viabilidade económico-financeira.
-
-> Alterado pelo/a [Decreto-Lei n.º 237/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-1987-419178), publicado em 1987-06-12.
+> Revogado pelo/a [Lei n.º 51/91](https://diariodarepublica.pt/dr/detalhe/lei/51-1991-687016), publicado em 1991-08-03.
 
 ###### Artigo 4.º — (Exclusividade de designação)
 
-Apenas poderão usar a designação de sociedades de gestão e investimento imobiliário e respectiva sigla de SGII as sociedades constituídas nos termos do presente diploma.
+(Revogado.)
+
+> Revogado pelo/a [Lei n.º 51/91](https://diariodarepublica.pt/dr/detalhe/lei/51-1991-687016), publicado em 1991-08-03.
 
 ###### Artigo 5.º — (Composição patrimonial e gestão)
 
-O valor do património não directamente afecto ao objecto das SGII, conforme o n.º 1 do artigo 1.º, não poderá exceder 15% da soma do capital social realizado e reservas.
+(Revogado.)
+
+> Revogado pelo/a [Lei n.º 51/91](https://diariodarepublica.pt/dr/detalhe/lei/51-1991-687016), publicado em 1991-08-03.
 
 ###### Artigo 6.º — (Terrenos para construção)
 
-1 - As SGII apenas poderão adquirir terrenos que se destinem directamente à execução de programas de construção, não podendo o valor total dos terrenos detidos, após os três primeiros anos de actividade, ultrapassar 10% do valor global do respectivo património imobiliário.
+(Revogado.)
 
-2 - As SGII ficam obrigadas a alienar os terrenos próprios destinados à execução de programas de construção caso os mesmos não tenham início dentro do prazo de 2 anos contados a partir da data da respectiva aquisição.
+> Revogado pelo/a [Lei n.º 51/91](https://diariodarepublica.pt/dr/detalhe/lei/51-1991-687016), publicado em 1991-08-03.
 
-> Alterado pelo/a [Decreto-Lei n.º 2/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-1990-313831), publicado em 1990-01-03.
+###### Artigo 7.º — Aquisições vedadas
 
-###### Artigo 7.º — (Aquisições vedadas)
+(Revogado.)
 
-1 - Não podem ser adquiridos pela sociedade imóveis da propriedade de empresas de cujos órgãos façam parte um ou mais administradores da sociedade, em nome próprio ou em representação de outrem, seus cônjuges e parentes ou afins no 1.º grau.
+> Revogado pelo/a [Lei n.º 51/91](https://diariodarepublica.pt/dr/detalhe/lei/51-1991-687016), publicado em 1991-08-03.
 
-2 - A disposição constante do número anterior não é aplicável à transmissão de propriedade de imóveis para efeitos de realização do capital social inicial.
+###### Artigo 8.º — Contratos de arrendamento com opção de compra
 
-> Alterado pelo/a [Decreto-Lei n.º 237/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-1987-419178), publicado em 1987-06-12.
+(Revogado.)
 
-###### Artigo 8.º — (Contratos de arrendamento com opção de compra)
-
-1 - As SGII poderão celebrar contratos de arrendamento com opção de aquisição futura dos imóveis ou fracções arrendadas, em condições previamente definidas.
-
-2 - Os contratos referidos no número anterior podem revestir a forma de contratos-tipo e carecem de homologação, por despacho, do Ministro das Finanças.
-
-> Alterado pelo/a [Decreto-Lei n.º 237/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-1987-419178), publicado em 1987-06-12.
+> Revogado pelo/a [Lei n.º 51/91](https://diariodarepublica.pt/dr/detalhe/lei/51-1991-687016), publicado em 1991-08-03.
 
 ###### Artigo 9.º — (Aumentos de capital)
 
-As SGII, mediante autorização do Ministro das Finanças e do Plano, podem proceder ao aumento do respectivo capital social quando este se encontre integralmente subscrito e realizado.
+(Revogado.)
 
-###### Artigo 10.º — (Reavaliação do património)
+> Revogado pelo/a [Lei n.º 51/91](https://diariodarepublica.pt/dr/detalhe/lei/51-1991-687016), publicado em 1991-08-03.
 
-1 - As SGII procederão à reavaliação do seu património imobiliário nos seguintes termos:
+###### Artigo 10.º — Reavaliação do património
 
-a) Com periodicidade de dois anos, pelo recurso a dois peritos independentes, nomeados com a concordância dos Ministros das Finanças e das Obras Públicas, Transportes e Comunicações;
+(Revogado.)
 
-b) No ano que medeia entre duas avaliações consecutivas, pela aplicação de um coeficiente de correcção idêntico ao índice do custo da construção correspondente ao período de doze meses terminado em Setembro do ano a que respeita a reavaliação.
-
-2 - A reavaliação do património imobiliário dará lugar à criação da respectiva reserva, cuja contabilização se processará nos termos a definir por portaria do Ministro das Finanças.
-
-3 - Não é permitida a distribuição de reservas de reavaliação.
-
-> Alterado pelo/a [Decreto-Lei n.º 237/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-1987-419178), publicado em 1987-06-12.
+> Revogado pelo/a [Lei n.º 51/91](https://diariodarepublica.pt/dr/detalhe/lei/51-1991-687016), publicado em 1991-08-03.
 
 ###### Artigo 11.º — (Relatório e contas)
 
-1 - As contas das SGII serão encerradas anualmente, com referência a 31 de Dezembro, e submetidas ao exame a que se refere o artigo 1.º, n.º 1, alínea a) do [Decreto-Lei n.º 519-L2/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-l2-1979-157029), de 29 de Dezembro, por revisor oficial de contas, nomeado com a concordância do Banco de Portugal.
+(Revogado.)
 
-2 - Nos 3 meses seguintes à data de encerramento, as SGII publicarão as contas acompanhadas de um relatório anual e do parecer da entidade fiscalizadora das mesmas.
+> Revogado pelo/a [Lei n.º 51/91](https://diariodarepublica.pt/dr/detalhe/lei/51-1991-687016), publicado em 1991-08-03.
 
 ###### Artigo 12.º — (Fiscalização pelo Banco de Portugal)
 
@@ -142,11 +112,11 @@ b) No ano que medeia entre duas avaliações consecutivas, pela aplicação de u
 
 > Revogado pelo/a [Decreto-Lei n.º 237/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-1987-419178), publicado em 1987-06-12.
 
-###### Artigo 14.º — (Imóveis em compropriedade)
+###### Artigo 14.º — Imóveis em compropriedade
 
-As SGII não podem adquirir nem deter imóveis em regime de compropriedade, excepto no que respeita às situações decorrentes do regime de propriedade horizontal.
+(Revogado.)
 
-> Alterado pelo/a [Decreto-Lei n.º 237/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-1987-419178), publicado em 1987-06-12.
+> Revogado pelo/a [Lei n.º 51/91](https://diariodarepublica.pt/dr/detalhe/lei/51-1991-687016), publicado em 1991-08-03.
 
 ###### Artigo 15.º — (Benefícios fiscais)
 
@@ -176,11 +146,11 @@ j) Não incidência de contribuição predial sobre o valor das rendas de prédi
 
 > Alterado pelo/a [Decreto-Lei n.º 211-A/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-a-1986-301037), publicado em 1986-07-31.
 
-###### Artigo 16.º — (Legislação especialmente aplicável)
+###### Artigo 16.º — Legislação especialmente aplicável
 
-As SGII regem-se ainda pela legislação aplicável às sociedades comerciais.
+(Revogado.)
 
-> Alterado pelo/a [Decreto-Lei n.º 237/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-1987-419178), publicado em 1987-06-12.
+> Alterado pelo/a [Lei n.º 51/91](https://diariodarepublica.pt/dr/detalhe/lei/51-1991-687016), publicado em 1991-08-03.
 
 Visto e aprovado em Conselho de Ministros de 4 de Junho de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - António de Almeida Santos - Ernâni Rodrigues Lopes - Carlos Montez Melancia.
 

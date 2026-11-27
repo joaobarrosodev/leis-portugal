@@ -16,58 +16,18 @@
   ],
   "removidos": [],
   "titulos": [],
-  "nao_aplicavel": "Alterador 1 (DL 418-A/98, art. 1.º) só difere para 31-12-1999 a entrada em vigor dos artigos 4.º e 5.º, sem mudar o texto. Alterador 3 (DL 164/2000) repristina a partir de 1-7-2000 o DL 521/85 e o art. 6.º do DL 185/86 (revogados pelo art. 5.º) e adia o regime normal do n.º 1 do art. 4.º para a data em que os preços máximos deixarem de ser fixados administrativamente (facto futuro): alterações não textuais, não aplicadas ao texto.",
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, entrada em vigor dos artigos 4.º e 5.º a 31 de Dezembro de 1999: não textual: só difere a vigência, não muda o texto.\nAlterador 3, repristinação do Decreto-Lei n.º 521/85 e do artigo 6.º do Decreto-Lei n.º 185/86 e substituição do regime a partir da liberalização dos preços: não textual: repristina outros diplomas e difere a aplicação do n.º 1 do artigo 4.º, sem mudar o texto do original.\nAlteradores 8, 18, 19, 21 e 23, artigos do Decreto-Lei n.º 20/90 «alterado pelo Decreto-Lei n.º 323/98»: outro diploma: o original só aparece na lista de alterações do Decreto-Lei n.º 20/90.\nAlteradores 4, 5, 6, 7, 9, 10, 11, 12, 13, 14, 15, 16, 17, 20 e 22: outro diploma: alteram o Código do IVA e outros diplomas e não trazem instruções dirigidas ao original.",
   "instrucoes": [
-    "Alterador 1 (DL 418-A/98): difere a entrada em vigor dos arts. 4.º e 5.º; não textual, nada aplicado.",
-    "Alterador 2 (Lei 3-B/2000, art. 44.º, n.º 10): nova redação completa dos arts. 4.º (n.os 1 a 6; os antigos n.os 7 e 8 desaparecem) e 5.º; aplicada. Os restantes números do art. 44.º alteram o Código do IVA e outros diplomas, não o original.",
-    "Alterador 3 (DL 164/2000): repristinação e diferimento do regime normal para facto futuro; não textual, em nao_aplicavel.",
-    "Alteradores 4, 6, 7, 8, 10, 12, 14, 15, 17 e 20: alteram o Código do IVA e outros diplomas (o art. 7.º do DL 238/2006 altera o DL 20/90, referindo o original só como alterador); nada dirigido ao original.",
-    "Alteradores 5, 9, 11, 13 e 16: sem artigos transcritos.",
-    "Alteradores 18 e 19 (Leis 55-A/2010 e 64-B/2011): revogam/repristinam e alteram o DL 20/90 e a Lei 16/2001, citando o original só no histórico de alterações; nada aplicado ao original.",
-    "Alterador 21 (Lei 66-B/2012, art. 251.º): repristina, para 2013, alíneas a) e b) do n.º 1 do art. 2.º do DL 20/90 e o n.º 2 do art. 65.º da Lei 16/2001; o DL 323/98 só é citado como alterador do DL 20/90; não é instrução dirigida ao original, ignorada.",
-    "Alterador 22 (Lei 82-D/2014): sem artigos que mencionem o original; nada a aplicar.",
-    "Alterador 23 (Lei 159-C/2015, art. 7.º): repristinação para 2016 das mesmas normas do DL 20/90 e da Lei 16/2001; o original só é citado como alterador do DL 20/90; ignorada."
+    "Alterador 1 (DL 418-A/98), art. 1.º: difere a entrada em vigor dos arts. 4.º e 5.º; não textual.",
+    "Alterador 2 (Lei 3-B/2000), art. 44.º, n.º 10: nova redação dos arts. 4.º e 5.º; aplicada, substituindo os artigos inteiros.",
+    "Alterador 3 (DL 164/2000): repristina o DL 521/85 e o art. 6.º do DL 185/86 e difere o regime normal; não textual.",
+    "Restantes alteradores: alteram o Código do IVA, o DL 20/90 e outros diplomas; outro diploma."
   ],
-  "modelo": "claude-fable-5-1",
+  "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "passagens": [
-    {
-      "n": 1,
-      "alteradores": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10,
-        11,
-        12,
-        13,
-        14,
-        15,
-        16,
-        17,
-        18,
-        19,
-        20
-      ],
-      "chars": 298298,
-      "artigos": 2
-    },
-    {
-      "n": 2,
-      "alteradores": [
-        21,
-        22,
-        23
-      ],
-      "chars": 17562,
-      "artigos": 0
-    }
-  ],
-  "problemas": []
+  "ronda_camada1": 124,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

@@ -15,14 +15,18 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": null,
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 2, art. 56.º, n.º 1, a), derrogação do Decreto Regulamentar n.º 24-A/97 na parte relativa às prestações reguladas no DL 176/2003: revogação condicional — derrogação parcial sem artigos identificados\nAlterador 3, art. 56.º, n.º 1, a), derrogação na parte relativa às prestações reguladas no DL 133/2012: revogação condicional — derrogação parcial sem artigos identificados",
   "instrucoes": [
-    "Alterador 1 (DR 15/99), artigo único: nova redação do artigo 3.º com '...' nos n.os 1 (alíneas a) a e)) e 2 e aditamento da alínea f) ao n.º 1; mantidos o texto atual dessas unidades e o n.º 3, que a nova redação não menciona.",
-    "Alterador 1 (DR 15/99), artigo único: nova redação integral do artigo 9.º (n.os 1 e 2); copiada do alterador.",
-    "Alterador 2 (DL 176/2003), artigo 56.º, n.º 1, a): derrogação 'na parte relativa às prestações reguladas neste diploma' — revogação parcial condicional; não aplicada ao texto.",
-    "Alterador 3 (DL 133/2012), artigo 56.º, n.º 1, a): mesma derrogação condicional; não aplicada ao texto."
+    "Alt. 1: aditada a alínea f) ao n.º 1 do art. 3.º (restantes mantidos)",
+    "Alt. 1: nova redação do art. 9.º — substituído por inteiro (n.os 1 e 2)",
+    "Alt. 2 e Alt. 3: derrogação parcial — revogação condicional"
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 124,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

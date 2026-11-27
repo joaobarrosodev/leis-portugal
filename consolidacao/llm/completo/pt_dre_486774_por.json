@@ -15,13 +15,18 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "Alterador 2 (DL 48301), art. 11.º: extingue o Gabinete de Estudos referido na alínea a) do artigo 2.º e redistribui as funções do artigo 4.º, sem dar nova redação nem revogar expressamente esses artigos; alteração não textual. Alterador 3 (DL 49132), art. 9.º: extingue os grupos de trabalho da Comissão Interministerial (artigo 19.º e seguintes), sem instrução textual sobre o original; alteração não textual.",
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 2, art. 11.º, extinção do Gabinete de Estudos referido na alínea a) do art. 2.º e redistribuição das funções do art. 4.º: não textual: extingue o serviço sem revogar nem dar nova redação a artigos ou alíneas do original\nAlterador 2, arts. 1.º a 10.º, criação do Centro de Estudos de Planeamento: não textual: normas autónomas que não alteram o texto do original\nAlterador 3, art. 9.º, extinção dos grupos de trabalho da Comissão Interministerial referidos no art. 19.º: não textual: extingue os grupos de trabalho sem revogar nem dar nova redação ao art. 19.º\nAlterador 3, arts. 1.º a 8.º, comissões de planeamento e grupos de trabalho junto do Secretariado Técnico: não textual: normas autónomas que não alteram o texto do original",
   "instrucoes": [
-    "Alterador 1, artigo único: nova redação dos artigos 14.º e 15.º; aplicada.",
-    "Alterador 2, art. 11.º: extinção do Gabinete de Estudos (art. 2.º, a), e art. 4.º) sem alteração textual; não aplicada.",
-    "Alterador 3, art. 9.º: extinção dos grupos de trabalho da Comissão Interministerial sem alteração textual; não aplicada."
+    "Alterador 1: nova redação dos arts. 14.º e 15.º; aplicada.",
+    "Alterador 2: cria o Centro de Estudos e extingue o Gabinete de Estudos; não textual.",
+    "Alterador 3: extingue os grupos de trabalho do art. 19.º; não textual."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 124,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

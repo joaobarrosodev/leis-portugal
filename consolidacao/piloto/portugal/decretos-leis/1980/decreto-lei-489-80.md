@@ -104,7 +104,7 @@ h) Coordenar e incentivar a acção dos serviços da Comissão Regional de Turis
 
 2 - Os cheques e demais documentos respeitantes ao movimento financeiro da Comissão Regional deverão conter, obrigatoriamente, duas assinaturas, devendo uma delas ser do presidente ou da pessoa em quem ele expressamente delegar e a outra de um dos vogais da comissão executiva.
 
-###### Artigo 7.º — Do Conselho Regional
+###### Artigo 7.º — (Do Conselho Regional)
 
 1 - O Conselho Regional tem a seguinte composição:
 

@@ -33,33 +33,22 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "Alterador 4 (Portaria n.º 14/81): substitui o quadro do pessoal da secretaria da Procuradoria-Geral da República (mapa anexo, artigo 56.º) por novo mapa que só vem em imagem ('ver documento original'); não é aplicável ao texto. Alterador 5 (Decreto-Lei n.º 264-C/81): o texto fornecido é o do Decreto-Lei n.º 264-B/81 (regime de entrada, permanência, saída e expulsão de estrangeiros) e não contém nenhuma instrução dirigida à Lei n.º 39/78; a redacção que a Resolução n.º 189-A/82 diz ter sido dada por este diploma aos artigos 101.º, n.º 2, e 121.º, n.º 5, não consta do pedido, pelo que não foi aplicada. Alterador 6 (Resolução n.º 189-A/82): declaração de inconstitucionalidade parcial ('restringe à parte em que se permite que magistrados classificados com Suficiente sejam transferidos por conveniência de serviço') dos artigos 101.º, n.º 2, e 121.º, n.º 5, na redacção do Decreto-Lei n.º 264-C/81; não é alteração textual e a redacção visada não existe no texto atual. Alterador 7 (Lei n.º 47/86, artigo 197.º): mantém em vigor o n.º 1 do artigo 224.º; sem alteração de texto.",
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, art. 1.º (artigos 27.º, 30.º, 54.º e 155.º da Lei n.º 85/77) e arts. 3.º a 5.º: outro diploma\nAlterador 1, art. 7.º, e alterador 2, art. 2.º (produção de efeitos das novas redações do artigo 89.º): não textual\nAlterador 3, arts. 1.º a 3.º, 5.º, 6.º e 8.º a 10.º (Lei n.º 85/77, Decreto-Lei n.º 269/78 e outras matérias): outro diploma\nAlterador 3, art. 7.º (atualização dos vencimentos em 1980, para os efeitos do n.º 1 do artigo 89.º) e art. 11.º (encargos): não textual\nAlterador 4, substituição do quadro do pessoal da secretaria da Procuradoria-Geral da República (mapa anexo, «Quadro a que se refere o artigo 56.º»): só em imagem (o mapa novo só vem em imagem e o texto atual não tem título de anexo onde o pôr)\nAlterador 5, Decreto-Lei n.º 264-C/81: sem texto (o texto que vem no pedido é o do Decreto-Lei n.º 264-B/81, sobre a entrada, permanência e saída de estrangeiros, e não traz as alterações à Lei n.º 39/78, entre elas as dos artigos 101.º e 121.º referidas pelo alterador 6)\nAlterador 6, declaração de inconstitucionalidade dos artigos 101.º, n.º 2, e 121.º, n.º 5, na parte em que permitem a transferência por conveniência de serviço de magistrados classificados com Suficiente: não textual\nAlterador 7, art. 197.º, n.º 1 (mantém-se em vigor o n.º 1 do artigo 224.º da Lei n.º 39/78): não textual; o pedido só traz este artigo da Lei n.º 47/86 e nenhuma instrução de revogação do original: sem texto",
   "instrucoes": [
-    "Alterador 1 (Lei n.º 28/79), art. 2.º: nova redacção dos artigos 89.º (n.os 4, 5 e 6; n.os 1 a 3 mantidos) e 92.º da Lei n.º 39/78 - aplicada; o 89.º foi depois alterado pelos alteradores 2 e 3 e o 92.º devolvido com a redacção deste diploma. Art. 1.º, 3.º a 5.º e 7.º dizem respeito a outros diplomas (Lei n.º 85/77, Lei n.º 82/77, Decreto-Lei n.º 269/78) ou a efeitos temporais - ignorados.",
-    "Alterador 2 (Decreto-Lei n.º 441/79), art. 1.º: nova redacção do n.º 1 do artigo 89.º (45000$00) - aplicada e depois substituída pela redacção do alterador 3; art. 2.º só regula efeitos temporais.",
-    "Alterador 3 (Decreto-Lei n.º 348/80), art. 4.º: nova redacção dos artigos 89.º (n.os 1 e 4; restantes mantidos), 91.º (aditado n.º 5) e 100.º - aplicada. Art. 13.º: revoga o artigo 22.º da Lei n.º 39/78 - aplicado como '(Revogado.)'. Arts. 1.º a 3.º, 5.º a 12.º respeitam a outros diplomas ou não alteram texto - ignorados.",
-    "Alterador 4 (Portaria n.º 14/81): novo quadro do pessoal da secretaria da PGR em imagem - não aplicável (ver nao_aplicavel).",
-    "Alterador 5 (Decreto-Lei n.º 264-C/81): texto fornecido sem instruções dirigidas ao original - não aplicável (ver nao_aplicavel).",
-    "Alterador 6 (Resolução n.º 189-A/82): inconstitucionalidade parcial dos artigos 101.º, n.º 2, e 121.º, n.º 5 - não textual, não aplicada (ver nao_aplicavel).",
-    "Alterador 7 (Lei n.º 47/86, art. 197.º): mantém em vigor o n.º 1 do artigo 224.º - sem alteração de texto."
+    "Alterador 1, art. 2.º: nova redação dos n.os 4 a 6 do artigo 89.º (o n.º 6 é novo) e do artigo 92.º (dois números); aplicada",
+    "Alterador 2, art. 1.º: nova redação do n.º 1 do artigo 89.º; aplicada e depois substituída pela do alterador 3",
+    "Alterador 3, art. 4.º: nova redação dos n.os 1 e 4 do artigo 89.º, aditado o n.º 5 ao artigo 91.º e nova redação do artigo 100.º; aplicada",
+    "Alterador 3, art. 13.º: revogado o artigo 22.º; aplicado",
+    "Alterador 4: mapa só em imagem, sem título de anexo",
+    "Alterador 5: texto de outro diploma",
+    "Alteradores 6 e 7: não textuais"
   ],
-  "modelo": "claude-fable-5-1",
+  "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "passagens": [
-    {
-      "n": 1,
-      "alteradores": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7
-      ],
-      "chars": 178600,
-      "artigos": 5
-    }
-  ],
-  "problemas": []
+  "ronda_camada1": 124,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

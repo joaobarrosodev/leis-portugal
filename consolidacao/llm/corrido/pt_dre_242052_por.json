@@ -8,10 +8,10 @@
       "alterador": 1
     }
   ],
-  "nao_aplicavel": null,
+  "nao_aplicavel": "Alterador 2, entrada em vigor antecipada do artigo 1.º da Lei n.º 19/93 com efeitos a 1 de Janeiro de 1993: não textual — sem alteração ao texto do original",
   "instrucoes": [
-    "Lei n.º 19/93, art. 1.º: adita o n.º 3 ao artigo 1.º — inserido depois da unidade 6.",
-    "Decreto-Lei n.º 339/93: só fixa a entrada em vigor/efeitos da Lei n.º 19/93; nenhuma alteração textual ao original."
+    "Alt. 1, art. 1.º: aditado o n.º 3 ao art. 1.º — inserido a seguir à unidade 6",
+    "Alt. 2: entrada em vigor e efeitos — não textual"
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

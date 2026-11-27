@@ -51,8 +51,14 @@
     },
     {
       "de": 91,
+      "ate": 91,
+      "texto": "Art. 30.º - 1. O pessoal auxiliar dos serviços de registo e do notariado compreende as seguintes categorias de funcionários:",
+      "alterador": 2
+    },
+    {
+      "de": 93,
       "ate": 94,
-      "texto": "Art. 30.º - 1. O pessoal auxiliar dos serviços de registo e do notariado compreende as seguintes categorias de funcionários:\n\na) Primeiros, segundos e terceiros-ajudantes;\n\nb) Escriturários-dactilógrafos de 1.ª e 2.ª classes;\n\nc) Contínuos de 1.ª e 2.ª classes.\n\n2. O pessoal auxiliar da Conservatória dos Registos Centrais, além das categorias previstas no número anterior, compreende a categoria de chefe de secção.",
+      "texto": "b) Escriturários-dactilógrafos de 1.ª e 2.ª classes;\n\nc) Contínuos de 1.ª e 2.ª classes.\n\n2. O pessoal auxiliar da Conservatória dos Registos Centrais, além das categorias previstas no número anterior, compreende a categoria de chefe de secção.",
       "alterador": 2
     },
     {
@@ -65,6 +71,12 @@
       "de": 98,
       "ate": 98,
       "texto": "Art. 32.º O provimento em lugares dos quadros auxiliares rege-se pelas normas consignadas no regulamento do presente diploma.",
+      "alterador": 2
+    },
+    {
+      "de": 101,
+      "ate": 101,
+      "texto": "",
       "alterador": 2
     },
     {
@@ -188,13 +200,14 @@
       "alterador": 2
     }
   ],
-  "nao_aplicavel": "Alterador 2, art. 33.º: a nova redação só traz '1. ...', '2. ...' e '...'; não se percebe se o n.º 3 é eliminado, pelo que se mantém o texto. Mapas e tabelas anexos dos alteradores (em imagem ou relativos a outros diplomas) não se aplicam.",
+  "nao_aplicavel": null,
   "instrucoes": [
-    "Alt. 1 (DL 48503): art. 5.º (interpretação do n.º 2 do art. 59.º) e art. 13.º (categoria de chefe de secção) não alteram o texto; ignorados.",
-    "Alt. 2 (DL 15/70), art. 1.º: nova redação dos arts. 1.º (unidade 11 + inserido n.º 2), 2.º (unidade 15), 3.º (inseridos n.os 3-5), 11.º (inserido n.º 3), 15.º n.º 1, 19.º (inseridos n.os 5-6), 20.º n.º 2 b), 21.º (inserido n.º 3), 23.º n.º 4, 25.º n.º 2, 26.º, 27.º n.º 1, 30.º, 31.º n.º 1, 32.º, 37.º n.os 1 e 3, 38.º (novo n.º 4; antigo 4 passa a 5), 39.º (inserido n.º 3), 42.º, 44.º, 47.º n.º 1, 48.º n.º 1 d) e n.º 2, 49.º n.º 2, 52.º e 64.º (inserido n.º 3).",
-    "Alt. 2, art. 33.º: só reticências; não aplicado. Arts. 2.º a 4.º do DL 15/70 não se dirigem ao original.",
-    "Alt. 3 (DL 530/72), art. 1.º: art. 38.º n.º 2 (unidade 121) e novos n.os 6 a 8 (inseridos depois da unidade 123); art. 40.º n.º 2 (unidade 127); art. 48.º novos n.os 2 e 3 e renumeração dos antigos 3-5 para 4-6 (unidades 176-179, que substituem a redação do n.º 2 dada pelo Alt. 2); art. 65.º (unidade 219). Restantes artigos autónomos.",
-    "Alt. 4 (DL 258/76): nova redação do n.º 6 do art. 38.º, aplicada já no texto inserido depois da unidade 123 (os n.os 7 e 8 vêm do Alt. 3)."
+    "Alterador 1 (DL 48503): sem instruções textuais ao original (art. 5.º e art. 13.º só remetem para os arts. 59.º e 30.º)",
+    "Alterador 2, art. 1.º: nova redação dos arts. 1.º, 2.º, 3.º, 11.º, 15.º, 19.º, 20.º, 21.º, 23.º, 25.º, 26.º, 27.º, 30.º, 31.º, 32.º, 33.º, 37.º, 38.º, 39.º, 42.º, 44.º, 47.º, 48.º, 49.º, 52.º e 64.º - aplicada unidade a unidade ('...' fica o texto atual); no art. 33.º a nova redação só tem os n.os 1 e 2, pelo que o n.º 3 foi eliminado",
+    "Alterador 2, arts. 2.º a 4.º: tabela dos funcionários de justiça (outro diploma), participação emolumentar e produção de efeitos - não dirigidas ao texto do original",
+    "Alterador 3, art. 1.º: nova redação dos arts. 38.º (n.º 2 e n.os 6 a 8 aditados), 40.º (n.º 2), 48.º (novos n.os 2 e 3, renumeração dos antigos 3 a 5 para 4 a 6) e 65.º - aplicada",
+    "Alterador 3, arts. 2.º a 9.º: normas próprias, sem alteração ao texto do original",
+    "Alterador 4, artigo único: nova redação do n.º 6 do art. 38.º - aplicada (inserida com os n.os 7 e 8 do alterador 3)"
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

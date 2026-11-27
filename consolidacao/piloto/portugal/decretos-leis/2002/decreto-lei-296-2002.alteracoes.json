@@ -12,5 +12,19 @@
     "unidade": [],
     "diploma": "pt:dre:438061:por",
     "alterador": "pt:dre:692434:por"
+  },
+  {
+    "artigo": "22.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 22.º — Norma revogatória\n\nÉ revogado o Decreto-Lei n.º 151/98, de 5 de Junho.\n\n> Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 126/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-2003-692434), publicado em 2003-06-24.",
+    "depois": "###### Artigo 22.º — Norma revogatória\n\nÉ revogado o [Decreto-Lei n.º 151/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-1998-475970), de 5 de Junho.\n\n> Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 126/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-2003-692434), publicado em 2003-06-24.\n\n> Alterado pelo/a [Decreto-Lei n.º 126/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-2003-692434), publicado em 2003-06-24.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:438061:por",
+    "alterador": "pt:dre:692434:por"
   }
 ]

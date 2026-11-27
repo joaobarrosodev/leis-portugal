@@ -9,15 +9,20 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "Portaria n.º 248/85 (n.º 1.º), Decreto Regulamentar n.º 38/85 (art. 2.º) e Portaria n.º 671/86 (n.º 1.º) alteram o quadro de pessoal (quadro I anexo), que só existe em imagem (ver documento original); não aplicados.",
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, aumento do quadro de pessoal (n.º 1 do art. 44.º) com os lugares do mapa anexo: só em imagem: o mapa só vem em imagem e os quadros não têm título de anexo no texto atual\nAlterador 2, art. 2.º, alteração do quadro de pessoal de acordo com o mapa anexo: só em imagem: o mapa só vem em imagem e os quadros não têm título de anexo no texto atual\nAlterador 3, alargamento do quadro de pessoal de um lugar de assessor, letra C: não textual: não altera texto do original nem traz quadro novo",
   "instrucoes": [
-    "Portaria n.º 248/85, n.º 1.º: aumenta o quadro I com os lugares do mapa anexo (imagem); não aplicável.",
-    "DR 38/85, art. 1.º: adita n.º 3 ao artigo 37.º; aplicado.",
-    "DR 38/85, art. 2.º: altera o quadro de pessoal conforme mapa anexo (imagem); não aplicável.",
-    "DR 38/85, art. 3.º, n.º 3: revoga o n.º 3 do artigo 44.º; já está (Revogado.) no texto atual, sem mudança.",
-    "Portaria n.º 671/86, n.º 1.º: alarga o quadro em um lugar de assessor; quadro só em imagem, não aplicável."
+    "Alterador 1: aumenta o quadro de pessoal com lugares de um mapa em imagem; não aplicado (nao_aplicavel).",
+    "Alterador 2, art. 1.º: adita o n.º 3 ao art. 37.º; aplicado.",
+    "Alterador 2, art. 2.º: altera o quadro de pessoal por mapa em imagem; não aplicado.",
+    "Alterador 2, art. 3.º, n.º 3: revoga o n.º 3 do art. 44.º; já está revogado no texto atual, sem mudança.",
+    "Alterador 3: alarga o quadro em um lugar de assessor; não textual."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 124,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

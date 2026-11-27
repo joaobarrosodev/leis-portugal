@@ -11,6 +11,34 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:385797:por",
-    "alterador": "pt:dre:327824:por"
+    "alterador": "pt:dre:327824:por;pt:dre:546985:por"
+  },
+  {
+    "artigo": "SECÇÃO II — (Da emissão e legalização dos títulos de propriedade)",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "#### SECÇÃO II — (Da emissão e legalização dos títulos de propriedade)",
+    "depois": "#### SECÇÃO II — Da emissão do título de depósito",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:385797:por",
+    "alterador": "pt:dre:327824:por;pt:dre:546985:por"
+  },
+  {
+    "artigo": "SECÇÃO II — (Da emissão e legalização dos títulos de propriedade)",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "#### SECÇÃO II — (Da emissão e legalização dos títulos de propriedade)",
+    "depois": "#### SECÇÃO II — Da emissão do título de depósito",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:385797:por",
+    "alterador": "pt:dre:327824:por;pt:dre:546985:por"
   }
 ]

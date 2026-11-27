@@ -3,7 +3,8 @@ id: pt:dre:438061:por
 title: Decreto-Lei n.º 296/2002
 original: data/portugal/decretos-leis/2002/decreto-lei-296-2002.md
 consolidacao:
-  metodo: piloto da fase 2 (consolidacao/consolidar.py), sem valor oficial
+  metodo: piloto da fase 2 (consolidacao/consolidar.py e, pelo LLM, consolidacao/juntar.py),
+    sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
   - id: pt:dre:692434:por
@@ -201,9 +202,11 @@ O primeiro regulamento interno do Hospital deve ser submetido à assembleia gera
 
 ###### Artigo 22.º — Norma revogatória
 
-É revogado o Decreto-Lei n.º 151/98, de 5 de Junho.
+É revogado o [Decreto-Lei n.º 151/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-1998-475970), de 5 de Junho.
 
 > Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 126/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-2003-692434), publicado em 2003-06-24.
+
+> Alterado pelo/a [Decreto-Lei n.º 126/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-2003-692434), publicado em 2003-06-24.
 
 ###### Artigo 23.º — Entrada em vigor
 
