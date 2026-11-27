@@ -234,6 +234,33 @@ Ficheiros: `resultados/completar/` (39), `resultados/casos2-antigo/` e `resultad
 
 Ficheiros: `resultados/contas/` (39), `resultados/casos2-contas/` (16), `prazos-referencia.jsonl`, e em `rag/resultados/` os ficheiros `casos-contas.json`, `casos2-contas.json`, `casos-llm-contas.json` e `casos2-llm-contas.json`.
 
+### Os mesmos casos em linguagem simples (27/11/2026)
+
+**Para que serve.** É a condição para mostrar o produto a um advogado: tem de responder bem mesmo quando o pedido vem escrito de forma simples.
+
+**Como se fez:**
+- Três subagentes Opus reescreveram os 55 casos (os 39 e os 16 novos) como um advogado os escreveria à pressa, com as palavras do cliente. Seguiram as regras em `simples/REGRAS.md`, no scratchpad da medição: sem nomes de institutos jurídicos, sem números de artigos e com as leis citadas de forma vaga («a lei das rendas», «aquela regra de quando não pagam o salário»).
+- Os factos, as datas, os valores e a resposta de referência ficaram iguais (`casos-simples.jsonl`). Uma verificação mecânica confirmou que nenhum número da narrativa se perdeu.
+- Depois correu o fluxo profissional inteiro, com as regras de hoje: partir o caso, pesquisar, a 1.ª análise, os artigos em falta, as contas dos prazos, a 2.ª análise e os mesmos dois juízes.
+
+| 55 casos | Texto técnico | Linguagem simples |
+|---|--:|--:|
+| Essenciais nos 8 primeiros (de 230) | 181 | **181** |
+| Casos com todos os essenciais nos 8 primeiros | 25 | 24 |
+| Essenciais no contexto depois dos artigos em falta | 218 | 214 |
+| **Certas (os 2 juízes)** | **49** | **51** |
+| Erradas para algum juiz | 1 | 1 |
+
+- **A linguagem simples não piora.** Partir o caso em consultas traduz o pedido para o vocabulário da lei, e por isso a pesquisa encontra os mesmos artigos. A diferença nas certas (49 contra 51) fica dentro do acaso, porque os dois lados são corridas diferentes do mesmo fluxo.
+- **A errada** é a `caso-resp-02`, para o juiz cético. A análise dá como «data segura» uma data posterior à da prescrição e passa o fim da prescrição para depois das férias judiciais, o que não vale para a prescrição. É outra vez uma conta de prazos.
+- **As regras de hoje** incluem o regime `periodo`, que entrou depois das medições com texto técnico. A comparação é entre o fluxo de ontem no texto técnico e o de hoje em linguagem simples.
+- **Ressalvas:**
+  - quem reescreveu os casos, quem respondeu e quem julgou é Opus, e nenhum jurista reviu nada;
+  - os casos simples foram escritos pelo modelo, e um advogado real pode escrever de outra forma;
+  - não é número para dizer em público.
+
+Os ficheiros estão em `resultados/simples/`, e os números em `rag/resultados/casos-simples-fluxo.json`, `casos-simples-contas.json` e `casos-simples-llm.json`.
+
 **O que isto quer dizer.** Com os artigos certos à frente, o raciocínio chega lá em quase todos os casos (com a ressalva acima). Com a pesquisa de hoje, chega em 5 de 39. Partir o caso em consultas jurídicas, com o código e o vocabulário da lei, leva a 31 de 39. As questões do advogado sozinhas não chegam, porque não trazem o código e perdem a narrativa. O que falta, por ordem:
 1. Fazer do passo de partir o caso uma peça do sistema e medi-la também com outro modelo. A peça está em `rag/caso.py` (26/11/2026), com as regras em `rag/CASO-PARTIR.md` e `rag/CASO-ANALISE.md`, as mesmas desta medição. O `medir.py --decomposicao` passou a usar essa pesquisa. As consultas escritas pelo Sonnet e pelo Haiku estão medidas na secção «A peça do sistema e outro modelo».
 2. Garantir os artigos dos prazos e das formalidades, onde estão as erradas. Feito em parte com a 2.ª volta (secção acima): 10 → 14 de 16 certas nos casos novos. A conta dos prazos é agora feita pelo sistema (`rag/prazos.py`, secção acima). Os erros de prazos descem de 4 para 2 nos 55 casos, mas uma conta mal pedida (sem a dilação, por exemplo) continua errada.

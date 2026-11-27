@@ -1537,5 +1537,6 @@ como na fase 1 (as normas julgadas de diplomas que passam de blocos a artigos po
 | 2.ª volta com os artigos em falta (39 casos, onde foi desenhada) | 31 → 36 de 39 certas, 1 → 0 erradas |
 | 2.ª volta em 16 casos novos | 10 → 14 de 16 certas, 1 → 2 erradas |
 | Contas dos prazos pelo sistema (`rag/prazos.py`), 55 casos | certas 50 → 49, erradas 2 → 1, prazos errados ou em falta 4 → 2 (juiz a) |
+| Os mesmos 55 casos em linguagem simples | 181 de 230 nos 8 primeiros (igual); certas 51, erradas 1 (técnico: 49 e 1) |
 
 A app 0.1.1 recusa casos concretos por instrução. Com os artigos certos, o raciocínio chega lá. O que faltava era a pesquisa: partir o caso em consultas jurídicas leva as certas de 5 para 31 em 39. Tudo foi feito pelo mesmo modelo e sem jurista. Com o Sonnet (tarde de 26/11), a análise com os artigos do Opus quase não perde (30 certas), mas o caso partido pelo Sonnet perde 13 essenciais e fica em 22: partir o caso é o passo que pede o modelo melhor. O passo está em `rag/caso.py`, fora da app.
