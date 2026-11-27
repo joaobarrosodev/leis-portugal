@@ -85,6 +85,11 @@ Regras:
   formavam o ponto (epígrafe, corpo) entram na mesma substituição. Uma alínea: "a) (Revogada.)".
 - Se um artigo, número ou ponto novo se acrescenta, é uma inserção; renumera as unidades que a
   instrução manda renumerar (cada uma é uma substituição ou entra numa substituição maior).
+  Um título de divisão (capítulo, secção) é uma unidade como as outras: numa renumeração, fica
+  antes das unidades que lhe pertencem na nova ordem (a do alterador ou da republicação). Nunca
+  troques o texto dos títulos pela posição que tinham. Exemplo: o alterador adita um novo art. 8.º,
+  que fica antes do antigo 8.º (agora 9.º), e a «SUBSECÇÃO I» passa a estar antes do 9.º. Então a
+  substituição que leva o novo 8.º põe-no antes da linha da «SUBSECÇÃO I», e não depois.
 - O diploma original pode ser revogado por inteiro: se a instrução revoga todo o texto, diz em
   "nao_aplicavel" e não devolvas nada.
 - Se uma instrução não se puder aplicar com segurança (alvo ambíguo, texto que não existe no texto

@@ -291,3 +291,17 @@ def test_outro_diploma_nao_marca_sem_texto_da_clausula_nem_a_clausula_direta():
     revogado = _ESTATUTO_ORIGINAL.replace(
         "Os professores catedráticos exercem as funções que lhes cabem nos termos antigos do estatuto.", "(Revogado.)")
     assert outro_diploma("Decreto-Lei n.º 205/2009", _alterador_do_estatuto(), _ESTATUTO_ORIGINAL, revogado) == []
+
+
+def test_vista_mostra_a_ordem_quando_um_alterador_renumera():
+    from cegas_vista import ORDEM, vista
+
+    original = "# T\n\n#### CAPÍTULO I\n\n###### Artigo 8.º\n\nA.\n\n#### SECÇÃO I\n\n###### Artigo 9.º\n\nB.\n"
+    consolidado = "# T\n\n#### CAPÍTULO I\n\n###### Artigo 8.º\n\nNovo.\n\n#### SECÇÃO I\n\n###### Artigo 9.º\n\nA.\n\n###### Artigo 10.º\n\nB.\n"
+    d = {"id": "x", "titulo": "DL 1/90", "alterador": "DL 2/91", "alterador_completo": True, "texto_original": original,
+         "texto_consolidado": consolidado, "texto_alterador": "Os artigos 8.º e 9.º passam a ser os artigos 9.º e 10.º."}
+    v = vista(d)
+    assert ORDEM in v
+    assert "Consolidado: CAPÍTULO I | Artigo 8.º | SECÇÃO I | Artigo 9.º | Artigo 10.º" in v
+    sem = dict(d, texto_alterador="O artigo 8.º passa a ter a seguinte redação:")
+    assert ORDEM not in vista(sem)
