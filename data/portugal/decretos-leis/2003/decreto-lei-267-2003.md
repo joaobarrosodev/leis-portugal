@@ -40,10 +40,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2011-06-25'
+version_history:
+  file: decreto-lei-267-2003.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2003-10-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2011-06-25'
+    amending: pt:dre:456785:por
+    amending_title: Decreto-Lei n.º 131/2008; Decreto-Lei n.º 79/2011
+    changes:
+    - Revoga Artigo 28.º
+    - Altera Artigo 18.º
+    - Revoga Artigo ANEXO IV — Laboratórios nacionais da peste suína africana e respectivas tarefas
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/267/2003/10/25/p/dre/pt/html
@@ -69,7 +85,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:40:13Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 131/2008; Decreto-Lei
+    n.º 79/2011. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2003/decreto-lei-267-2003.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -598,9 +615,9 @@ c) Se se confirmar a existência de vectores e o seu controlo não for exequíve
 
 1 - Os procedimentos de diagnóstico, a amostragem e os testes laboratoriais destinados a detectar a existência da peste suína africana são executados segundo o manual de diagnóstico.
 
-2 - O Laboratório Nacional de Investigação Veterinária (LNIV) é o laboratório responsável pela coordenação das normas e métodos de diagnóstico, em conformidade com o disposto no anexo IV ao presente diploma, que dele faz parte integrante.
+2 - O laboratório nacional responsável pela coordenação das normas e métodos de diagnóstico, em conformidade com o disposto no anexo iv ao presente diploma, é aquele que consta no sítio da Internet da DGV, acessível através do Portal do Cidadão e do Portal da Empresa.
 
-3 - O LNIV assegura a ligação com o laboratório comunitário de referência, tal como referido no anexo IV, sendo a competência e funções do laboratório as definidas no referido anexo.
+3 - O laboratório nacional designado no número anterior deve cooperar com o laboratório comunitário de referência previsto no anexo v ao presente diploma.
 
 4 - Para assegurar a uniformidade dos métodos de diagnóstico da peste suína africana e o diagnóstico diferencial adequado com a peste suína clássica, aqueles métodos devem obedecer às disposições do manual de diagnóstico aprovado pela Decisão n.º [2003/422/CE](https://data.europa.eu/eli/dir/2003/422/oj?locale=pt), da Comissão, de 26 de Maio, que estabelece:
 
@@ -615,6 +632,10 @@ d) Os testes laboratoriais utilizados no diagnóstico da peste suína africana, 
 e) As técnicas laboratoriais de tipagem genética dos isolados do vírus da peste suína africana.
 
 5 - Para que sejam asseguradas condições adequadas de biosegurança com vista à protecção da sanidade animal, o vírus da peste suína africana, o seu genoma e antigénios e as vacinas utilizados na investigação, diagnóstico ou fabrico, apenas são manipulados e utilizados nos locais, estabelecimentos ou laboratórios aprovados pela autoridade competente.
+
+6 - A DGV deve manter actualizada a lista dos laboratórios ou dos institutos nacionais mencionados no n.º 2, disponibilizando-as aos outros Estados membros e ao público.
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 79/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2011-670027), publicado em 2011-06-20.
 
 ###### Artigo 19.º — Utilização, fabrico e venda de vacinas contra a peste suína africana
 
@@ -740,7 +761,9 @@ d) 60% para os cofres do Estado.
 
 ###### Artigo 28.º — Alteração ao anexo I ao anexo da Portaria n.º 577/95, de 16 de Junho
 
-No anexo I do Regulamento das Medidas Gerais de Luta contra Certas Doenças Animais, bem como Medidas Específicas Respeitantes à Doença Vesiculosa do Suíno, aprovado pela Portaria n.º 577/95, de 16 de Junho, o termo «doença de Teschen» é substituído por «peste suína africana».
+(Revogado.)
+
+> Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 131/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-2008-456785), publicado em 2008-07-21.
 
 ###### Artigo 29.º — Entrada em vigor
 
@@ -906,7 +929,7 @@ b) Pesquisa dos vectores através de armadilhas de CO(índice 2): as armadilhas 
 
 ## ANEXO IV — Laboratórios nacionais da peste suína africana e respectivas tarefas
 
-1 - O laboratório nacional da peste suína africana é o Laboratório Nacional de Investigação Veterinária.
+1 - (Revogado.)
 
 2 - Incumbe ao Laboratório acima referido assegurar que os testes laboratoriais para a detecção da existência de peste suína africana e a identificação do tipo genético dos isolados de vírus se efectuem em conformidade com o disposto no manual de diagnóstico, podendo para esse efeito, fazer acordos especiais com o laboratório comunitário de referência ou com outros laboratórios nacionais.
 
@@ -919,6 +942,8 @@ b) Deve controlar a qualidade de todos os reagentes diagnósticos utilizados a n
 c) Deve organizar testes comparativos periódicos;
 
 d) Deve conservar isolados do vírus da peste suína africana de casos e focos confirmados.
+
+> Revogado pelo/a [Decreto-Lei n.º 79/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2011-670027), publicado em 2011-06-20.
 
 ## ANEXO V — Laboratório comunitário de referência da peste suína africana
 

@@ -40,10 +40,38 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2014-06-27'
+version_history:
+  file: decreto-lei-81-2011.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2011-06-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2014-06-27'
+    amending: pt:dre:260417:por
+    amending_title: Decreto-Lei n.º 53/2013; Decreto-Lei n.º 97/2014
+    changes:
+    - Altera Artigo 75.º
+    - Altera Artigo 61.º
+    - Altera Artigo 62.º
+    - Altera Artigo 63.º
+    - Altera Artigo 64.º
+    - Altera Artigo 65.º
+    - Altera Artigo 66.º
+    - Altera Artigo ANEXO II — (a que se referem os artigos 9.º a 20.º e 24.º)
+    - Altera Artigo ANEXO XXX — (a que se referem os artigos 61.º, 62.º e 63.º)
+    - Altera Artigo ANEXO XXXI — (a que se referem os artigos 62.º, 63.º, 64.º e 65.º)
+    - Altera Artigo ANEXO XXXII — (a que se referem os artigos 62.º, 63.º, 64.º e 65.º)
+    - Altera Artigo ANEXO XXXIII — (a que se refere o artigo 63.º)
+    - Altera Artigo ANEXO XXXIV — (a que se refere o artigo 65.º)
+    - Altera Artigo ANEXO XXXV — (a que se referem os artigos 67.º e 68.º)
+    - Altera Artigo ANEXO XXXVI — (a que se refere o artigo 69.º)
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/81/2011/06/20/p/dre/pt/html
@@ -69,7 +97,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T03:15:57Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 53/2013; Decreto-Lei
+    n.º 97/2014. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2011/decreto-lei-81-2011.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -1033,6 +1062,24 @@ b) Gancho, conforme figura n.º 3 do anexo xxx ao presente decreto-lei;
 
 c) Barra oscilante (barra de engate), conforme a figura n.º 4 do anexo xxx ao presente decreto-lei.
 
+3 - Por «engates mecânicos entre tratores e veículos rebocados», entendem-se as unidades técnicas instaladas no trator e no reboque que asseguram a ligação mecânica entre os dois veículos.
+
+4 - Dos vários tipos de dispositivos de ligação mecânica para tratores, podem distinguir-se essencialmente os seguintes:
+
+a) Engate de boca de lobo (com engate de cavilhão) (conforme as figuras 1 e 2 do anexo XXX);
+
+b) Engate de boca de lobo sem rotação (conforme a figura 1d do anexo XXX);
+
+c) Gancho de reboque (conforme a figura 1 do anexo XXX - «dimensões do gancho» na norma ISO 6489-1:2001);
+
+d) Barra oscilante (barra de engate) (conforme a figura 3 do anexo XXX);
+
+e) Engate do tipo esfera (conforme a figura 4 do anexo XXX);
+
+f) Engate do tipo cabeçote (conforme a figura 5 do anexo XXX).
+
+> Alterado pelo/a [Decreto-Lei n.º 97/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-2014-25345582), publicado em 2014-06-26.
+
 ###### Artigo 62.º — Prescrições gerais
 
 1 - Os dispositivos de ligação mecânica podem ser automáticos ou não automáticos.
@@ -1053,9 +1100,9 @@ c) Barra oscilante (barra de engate), conforme a figura n.º 4 do anexo xxx ao p
 
 9 - Os ângulos de rotação não devem ser atingidos simultaneamente.
 
-10 - Os engates de cavilhão devem permitir uma rotação axial do olhal de, pelo menos, 90º para a direita ou para a esquerda em torno do eixo longitudinal do engate, que deve ser travado por um momento de imobilização de 30 Nm a 150 Nm.
+10 - Os engates de cavilhão devem permitir uma rotação axial do olhal de pelo menos 90º, para a direita ou para a esquerda, em torno do eixo longitudinal do engate, que deve ser travado por um momento de imobilização de 30 a 150 Nm.
 
-11 - O gancho deve permitir uma rotação axial do olhal de, pelo menos, 20º para a direita ou para a esquerda em torno do eixo longitudinal do gancho.
+11 - O gancho de reboque, o engate de boca de lobo sem rotação, o engate do tipo esfera e o engate do tipo cabeçote devem permitir uma rotação axial do olhal de pelo menos 20º, para a direita ou para a esquerda, em torno do eixo longitudinal do engate.
 
 12 - Desde que, no mínimo, uma ligação mecânica tenha recebido uma homologação CE, são autorizados, durante um período de 10 anos, a contar da data de aplicação do decreto-lei, os outros tipos de ligação mecânica e de engate utilizados nos Estados membros, sem invalidar a homologação CE do tractor, sob a condição de a sua montagem não pôr em causa as homologações parciais.
 
@@ -1067,15 +1114,17 @@ b) «Tipo de ligação mecânica entre tractor e veículo rebocado», constituin
 
 c) «Centro de referência do dispositivo de ligação mecânica», ponto do eixo do cavilhão equidistante das extremidades no caso do engate de boca de lobo e o ponto resultante da intersecção do plano de simetria do gancho com a geratriz da parte côncava desse gancho ao nível de contacto com a argola, quando está na posição de tracção.
 
+> Alterado pelo/a [Decreto-Lei n.º 97/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-2014-25345582), publicado em 2014-06-26.
+
 ###### Artigo 63.º — Prescrições especiais
 
-1 - As dimensões dos dispositivos de ligação mecânica ao tractor devem satisfazer o disposto no anexo xxx ao presente decreto-lei, podendo as dimensões não referidas nesse anexo ser escolhidas livremente.
+1 - As dimensões dos dispositivos de ligação mecânica ao trator devem satisfazer o representado nas figuras 1 a 5 e no quadro 1 do anexo XXX ao presente decreto-lei.
 
 2 - Os dispositivos de ligação mecânica são sujeitos a um ensaio dinâmico, em conformidade com as condições constantes do anexo xxxi ao presente decreto-lei, ou a um ensaio estático, em conformidade com as condições constantes do anexo xxxii ao presente decreto-lei, para determinação da sua resistência.
 
 3 - O ensaio referido no número anterior não pode provocar deformações permanentes, nem fissuras ou rupturas.
 
-4 - A carga vertical estática máxima é estabelecida pelo fabricante, não devendo, em caso algum, ser superior a 3 t.
+4 - A carga vertical estática máxima é estabelecida pelo fabricante, não devendo, no entanto, exceder 3 000 kg, exceto no engate do tipo esfera, em que o valor máximo a não exceder é 4 000 kg.
 
 5 - A carga vertical estática admissível não deve exceder a carga vertical estática tecnicamente admissível, recomendada pelo fabricante do tractor, nem a carga vertical estática estipulada para o dispositivo de reboque nos termos da homologação CE.
 
@@ -1097,19 +1146,23 @@ e) «Distância entre eixos do tractor (i)», distância entre os planos vertica
 
 f) «Peso sobre o eixo dianteiro do tractor em vazio (ma)», parte do peso do tractor em vazio que, em condições estáticas, é transmitida ao solo pelo eixo dianteiro do tractor.
 
+> Alterado pelo/a [Decreto-Lei n.º 97/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-2014-25345582), publicado em 2014-06-26.
+
 ###### Artigo 64.º — Pedido de concessão de uma homologação CE
 
 1 - O pedido de concessão de homologação CE para um dispositivo de ligação mecânica para tractores deve ser apresentado pelo fabricante do referido dispositivo ou por um seu mandatário.
 
-2 - Ao pedido de homologação de qualquer tipo de ligação mecânica devem ser anexos os seguintes documentos e indicações:
+2 - Ao pedido de homologação de qualquer tipo de ligação mecânica são anexos os seguintes documentos e indicações:
 
-a) Desenhos à escala, em três exemplares, representando o dispositivo de ligação mecânica, devendo ser representadas pormenorizadamente, em especial, as dimensões obrigatórias e as cotas para fixação;
+a) Desenhos à escala, representando o dispositivo de ligação mecânica (em triplicado), devendo ser representadas pormenorizadamente, em especial, as dimensões obrigatórias e as cotas para fixação;
 
-b) Breve memória descritiva do dispositivo de ligação, indicando sobretudo o modelo e o material utilizado;
+b) Breve memória descritiva do dispositivo de ligação, indicando, sobretudo, o tipo de construção e o material utilizado;
 
-c) Indicação do valor D, referido no anexo xxxi ao presente decreto-lei, para o ensaio dinâmico, ou do valor T (força de tracção), referido no anexo xxxii ao presente decreto-lei, para o ensaio estático, bem como a carga vertical no ponto de engate S;
+c) Indicação do valor D, referido no anexo XXXI, para o ensaio dinâmico, ou do valor T (massa rebocável em toneladas), correspondente a 1,5 vezes o valor da massa rebocada tecnicamente admissível em carga máxima, conforme referido no anexo XXXII para o ensaio estático, bem como a carga vertical máxima no ponto de engate S (expressa em kg);
 
 d) Um ou, se solicitado pelos serviços técnicos, vários exemplares do dispositivo.
+
+> Alterado pelo/a [Decreto-Lei n.º 97/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-2014-25345582), publicado em 2014-06-26.
 
 ###### Artigo 65.º — Inscrições
 
@@ -1119,21 +1172,25 @@ a) Marca de fabrico ou marca comercial;
 
 b) Símbolo de homologação CE de acordo com o modelo apresentado no anexo xxxiv ao presente decreto-lei, do qual faz parte integrante;
 
-c) Em caso de verificação da resistência em conformidade com o anexo xxxi ao presente decreto-lei, relativo ao ensaio dinâmico, deve ser tido em consideração:
+c) Em caso de verificação da resistência em conformidade com o anexo XXXI ao presente decreto-lei (ensaio dinâmico):
 
-i) Valor D admissível;
+i) O valor admissível de D (kN);
 
-ii) Valor S carga vertical estática;
+ii) O valor da carga vertical estática S (kg);
 
-d) Em caso de verificação da resistência em conformidade com o anexo xxxii ao presente decreto-lei, relativo ao ensaio estático, deve ser tido em consideração a massa rebocável e carga vertical no ponto de engate S.
+d) Em caso de verificação da resistência em conformidade com o anexo XXXII ao presente decreto-lei (ensaio estático), a massa rebocável T (toneladas) e carga vertical no ponto de engate S (kg).
 
 2 - As indicações devem ser bem visíveis, facilmente legíveis e apostas de forma duradoura.
 
+> Alterado pelo/a [Decreto-Lei n.º 97/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-2014-25345582), publicado em 2014-06-26.
+
 ###### Artigo 66.º — Instruções de utilização
 
-1 - Todos os dispositivos de ligação devem vir acompanhados por instruções de utilização fornecidas pelo fabricante.
+1 - Todos os dispositivos de ligação mecânica devem vir acompanhados por instruções de utilização fornecidas pelo fabricante, as quais devem compreender o número de homologação CE do componente e os valores D (kN) ou T (toneladas), consoante o ensaio a que tenha sido submetido o dispositivo de ligação.
 
-2 - As instruções referidas no número anterior devem compreender, nomeadamente, o número de homologação CE e os valores D ou T, consoante o ensaio a que tenha sido submetido o dispositivo de ligação.
+2 - (Revogado.)
+
+> Alterado pelo/a [Decreto-Lei n.º 97/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-2014-25345582), publicado em 2014-06-26.
 
 ###### Artigo 67.º — Ficha de homologação CE
 
@@ -1242,6 +1299,12 @@ O anexo à ficha de homologação CE de um modelo de tractor no que respeita ao 
 13 - Por «ponto de referência do banco» entende-se o ponto de referência determinado segundo o método descrito no anexo xli ao presente decreto-lei, do qual faz parte integrante.
 
 14 - Por «plano de referência» entende-se o plano paralelo ao plano longitudinal médio do tractor que passa pelo ponto de referência do banco.
+
+15 - O presente capítulo aplica-se a tratores das categorias T1, T3 e T4, tal como definidos no anexo II do Regulamento da Homologação de Tratores Agrícolas ou Florestais, Seus Reboques e Máquinas Intermutáveis Rebocadas, e dos Sistemas, Componentes e Unidades Técnicas aprovado pelo Decreto-Lei n.º 74/2005, de 24 de março, alterado pelos Decretos-Leis n.os 89/2006, de 24 de Maio, e 227/2007, de 4 de junho.
+
+16 - O presente capítulo não é aplicável aos tratores da categoria T4.3, nos quais o ponto de referência do banco do condutor, conforme estabelecido no artigo 11.º, esteja a uma distância superior a 100 mm do plano longitudinal médio do trator.
+
+> Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 53/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2013-260417), publicado em 2013-04-17.
 
 ###### Artigo 76.º — Facilidades de acesso ao lugar de condução
 
@@ -1607,9 +1670,9 @@ Figura 6
 
 [(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
-10 - Tractores de via estreita
+10 - Tratores de via estreita e tratores da categoria T4.3
 
-10.1 - As exigências do artigo 15.º do presente decreto-lei não se aplicam à zona situada abaixo de um plano inclinado a 45º para trás, transversalmente em relação ao sentido da marcha, e que passa por um ponto situado 240 mm atrás do ponto índice do banco, conforme figura 7 ao presente anexo.
+10.1. - No caso de tratores de via estreita e de tratores da categoria T4.3, os requisitos do n.º 8 não são aplicáveis à zona situada abaixo de um plano inclinado a 45º para trás, transversalmente em relação ao sentido da marcha, e que passa por um ponto situado a 230 mm atrás do ponto índice do banco, conforme figura 7 ao presente anexo.
 
 10.2 - Se existirem quaisquer pontos perigosos nessa zona, devem ser apostos os correspondentes avisos no tractor.
 
@@ -1878,6 +1941,8 @@ e) O nível das estruturas de protecção contra a queda de objectos, se as houv
 26 - Trabalho com pulverizadores
 
 26.1 - No manual do utilizador deve ser indicado o nível de protecção contra substâncias perigosas em conformidade com a norma EN 15695-1:2009.
+
+> Alterado pelo/a [Decreto-Lei n.º 53/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2013-260417), publicado em 2013-04-17.
 
 ## ANEXO III — (a que se refere o artigo 21.º)
 
@@ -4721,6 +4786,26 @@ Dispositivo de engate automático, com cavilha cilíndrica
 
 [(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
+Figura 1c
+
+Dispositivo de engate automático, com cavilha dentada
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/06/12100/0340803420.pdf)
+
+Figura 1d
+
+Engate de boca de lobo sem rotação
+
+(correspondente à norma ISO 6489-5:2011)
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/06/12100/0340803420.pdf)
+
+Quadro 1
+
+Formas e dimensões dos engates de boca de lobo do reboque ou da alfaia
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/06/12100/0340803420.pdf)
+
 Figura 2
 
 Engate não automático à norma ISO 6489/II de Outubro de 1980
@@ -4729,21 +4814,29 @@ Engate não automático à norma ISO 6489/II de Outubro de 1980
 
 Figura 3
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+Barra oscilante
 
-Entre os pontos X e Y nenhum ponto do gancho deve ficar fora do raio r.
+Corresponde à norma ISO 6489, parte 3, de junho de 2004
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/06/12100/0340803420.pdf)
 
 Figura 4
 
-Barra oscilante
+Engate do tipo esfera
 
-Corresponde à norma ISO 6489/III
+(correspondente à norma ISO 24347:2005)
 
-Ângulo de rotação nos termos dos n.os 2.8 e 2.9
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/06/12100/0340803420.pdf)
 
-Corresponde à norma ISO 6489/I de Outubro de 1980
+Figura 5
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+Engate do tipo cabeçote
+
+(correspondente à norma ISO 6489-4:2004)
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/06/12100/0340803420.pdf)
+
+> Alterado pelo/a [Decreto-Lei n.º 97/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-2014-25345582), publicado em 2014-06-26.
 
 ## ANEXO XXXI — (a que se referem os artigos 62.º, 63.º, 64.º e 65.º)
 
@@ -4763,11 +4856,11 @@ A componente horizontal, segundo o eixo longitudinal do veículo, é representad
 
 Para a ligação mecânica vale a expressão:
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/06/12100/0340803420.pdf)
 
-A componente vertical perpendicular ao plano da via é constituída pela carga vertical estática S.
+As componentes da força vertical perpendiculares ao plano da via são expressas pela carga vertical estática S (Kg).
 
-As cargas tecnicamente admissíveis são especificadas pelo fabricante.
+As massas tecnicamente admissíveis M(índice T) e M(índice R) são especificadas pelo fabricante em toneladas.
 
 3 - Realização do ensaio:
 
@@ -4787,7 +4880,11 @@ Para peças de aço ou aço vazado, o número de ciclos de carga deve ser de 2.1
 
 Se as peças de ligação mecânica incluírem molas e ou amortecedores, estes não são desmontados durante o ensaio, podendo no entanto ser substituídos se se avariarem por terem sido expostos a solicitações que não sejam habituais durante o serviço (por exemplo, transmissão de calor). No protocolo de ensaio deve descrever-se o seu comportamento antes, durante e depois do ensaio.
 
-3.2 - Forças de ensaio. - A força de ensaio é a resultante geométrica das componentes vertical e horizontal da carga [(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf).
+3.2- Forças de ensaio. - A força de ensaio é a resultante geométrica das componentes vertical e horizontal da carga:
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/06/12100/0340803420.pdf)
+
+> Alterado pelo/a [Decreto-Lei n.º 97/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-2014-25345582), publicado em 2014-06-26.
 
 ## ANEXO XXXII — (a que se referem os artigos 62.º, 63.º, 64.º e 65.º)
 
@@ -4823,11 +4920,13 @@ Não se deve verificar qualquer rotura para valores iguais ou inferiores à carg
 
 1.4.2.2 - O valor da deformação permanente observado não deve exceder 25 % da deformação elástica máxima observada.
 
-1.5 - Antes do ensaio referido no n.º 1.4.2 deve efectuar-se um ensaio que consiste em aplicar de modo gradual e crescente, ao centro de referência do dispositivo de engate, e partir de uma carga inicial de 500 daN, uma carga vertical fixada em três vezes a carga vertical máxima admissível indicada pelo fabricante.
+1.5 - Antes do ensaio referido no ponto 1.4.2, deve efetuar-se um ensaio que consiste em aplicar, de modo gradual e crescente, ao centro de referência do dispositivo de ligação, e a partir de uma carga inicial de 500 daN, uma carga vertical fixada em três vezes a carga vertical máxima admissível (em daN, igual a g . S/10) recomendada pelo fabricante.
 
-Durante o ensaio, a deformação do gancho não deve exceder 10 % da deformação máxima elástica observada.
+Durante o ensaio, a deformação do dispositivo de ligação não deve exceder 10 % da deformação máxima elástica observada.
 
-A verificação efectuar-se-á depois de anulada a carga vertical e restabelecida a pré-carga de 500 daN.
+A verificação é efetuada depois de anulada a carga vertical (em daN, igual a g . S/10) e restabelecida a pré-carga de 500 daN.
+
+> Alterado pelo/a [Decreto-Lei n.º 97/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-2014-25345582), publicado em 2014-06-26.
 
 ## ANEXO XXXIII — (a que se refere o artigo 63.º)
 
@@ -4835,13 +4934,17 @@ Prescrições relativas à altura acima do solo do dispositivo de engate (h)
 
 [(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
-Qualquer tractor cuja massa em carga exceda 2,5 t deve estar equipado com um dispositivo de engate cuja altura acima do solo satisfaça uma das relações seguintes:
+Qualquer trator cuja massa em carga exceda 2,5 t deve estar equipado com um dispositivo de engate cuja altura acima do solo satisfaça uma das relações seguintes:
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/06/12100/0340803420.pdf)
 
 ou
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/06/12100/0340803420.pdf)
+
+As massas m(índice t), m(índice lt), m(índice a) e m(índice la) são expressas em kg.
+
+> Alterado pelo/a [Decreto-Lei n.º 97/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-2014-25345582), publicado em 2014-06-26.
 
 ## ANEXO XXXIV — (a que se refere o artigo 65.º)
 
@@ -4883,13 +4986,13 @@ Um rectângulo, em cujo interior se encontra inscrita a letra «e» e o número 
 
 Um número de homologação CE num ponto arbitrário sob o rectângulo, e na sua proximidade, correspondente ao número da folha de homologação CE para o tipo de dispositivo de ligação mecânica em causa, e referente à sua resistência e às suas dimensões, pela letra D ou ST conforme o ensaio a que a ligação mecânica foi submetida (ensaio dinâmico, D-ensaio estático, ST) por cima do rectângulo que contém a letra «e».
 
-Exemplos de símbolos de homologação:
+Exemplo de uma marca de homologação CE
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/06/12100/0340803420.pdf)
 
-Legenda:
+O dispositivo de ligação que ostenta a marca de homologação CE de componente acima é um dispositivo para o qual a homologação CE foi concedida na Alemanha (e 1), sob o número 38-363 e em que foi realizado um ensaio de resistência estático (S).
 
-O dispositivo de ligação a que correspondem os símbolos de homologação CE acima representados é um dispositivo de ligação a que foi atribuída na Alemanha (e1) uma homologação CE com o n.º 88-563 e que foi submetido ao ensaio dinâmico de resistência (D).
+> Alterado pelo/a [Decreto-Lei n.º 97/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-2014-25345582), publicado em 2014-06-26.
 
 ## ANEXO XXXV — (a que se referem os artigos 67.º e 68.º)
 
@@ -4897,13 +5000,13 @@ Modelo de ficha de homologação CE
 
 [(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
-Dados sobre a concessão, a recusa ou a suspensão da homologação CE ou sobre a extensão da homologação CE de um tipo determinado de dispositivo de ligação (gancho, engate de boca de lobo ou barra oscilante) no respeitante à sua resistência e dimensões e à carga vertical no ponto de engate.
+COMUNICAÇÃO RELATIVA À CONCESSÃO, À RECUSA, À REVOGAÇÃO OU À EXTENSÃO DA HOMOLOGAÇÃO CE DE UM COMPONENTE NO QUE DIZ RESPEITO À SUA RESISTÊNCIA E ÀS DIMENSÕES E À CARGA VERTICAL NO PONTO DE ENGATE DE UM TIPO DE DISPOSITIVO DE LIGAÇÃO (ENGATE DE BOCA DE LOBO, ENGATE DE BOCA DE LOBO SEM ROTAÇÃO, GANCHO DE REBOQUE, BARRA OSCILANTE, ENGATE DO TIPO ESFERA E ENGATE DO TIPO CABEÇOTE.)
 
 Número de homologação CE:... extensão (1) n.º: ...
 
 1 - Marca de fábrica ou marca comercial: ...
 
-2 - Tipo de dispositivo de ligação: gancho/engate de boca de lobo/barra oscilante (2).
+2 - Tipo de dispositivo de ligação (engate de boca de lobo, engate de boca de lobo sem rotação, gancho de reboque, barra oscilante, engate do tipo esfera, engate do tipo cabeçote) (2).
 
 3 - Nome e endereço do fabricante do dispositivo de ligação: ...
 
@@ -4911,17 +5014,17 @@ Número de homologação CE:... extensão (1) n.º: ...
 
 5 - O dispositivo de ligação foi sujeito a um ensaio dinâmico estático (2) e homologado para os seguintes valores: ...
 
-5.1 - No caso de ensaio dinâmico:
+5.1- No caso de ensaio dinâmico:
 
-Valor D: ...(KN)
+Valor D:... (kN)
 
-Carga vertical no ponto de engate: ...(daN)
+Carga vertical no ponto de engate (S):... (Kg)
 
-5.2 - No caso de ensaio estático:
+5.2- No caso e ensaio estático:
 
-Massa rebocável: ...(Kg)
+Massa rebocável T: ... (toneladas)
 
-Carga vertical no ponto de engate: ... (daN)
+Carga vertical no ponto de engate (S):... (Kg)
 
 6 - Data de apresentação para homologação CE: ...
 
@@ -4944,6 +5047,8 @@ Carga vertical no ponto de engate: ... (daN)
 (1) Eventualmente, indicar se se trata de uma primeira, segunda, terceira, etc., extensão da homologação CE inicial.
 
 (2) Riscar o que não interessa.
+
+> Alterado pelo/a [Decreto-Lei n.º 97/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-2014-25345582), publicado em 2014-06-26.
 
 ## ANEXO XXXVI — (a que se refere o artigo 69.º)
 
@@ -4973,7 +5078,7 @@ Número de homologação CE: ... extensão (1) n.º: ...
 
 8 - Extensão da homologação CE ao(s) seguinte(s) tipo(s) de dispositivo(s) de ligação: ...
 
-9 - Carga vertical estática autorizada no ponto de engate: ...
+9 - Carga vertical estática autorizada no ponto de engate: ... (Kg)
 
 10 - Data de apresentação do tractor à homologação CE: ...
 
@@ -4996,6 +5101,8 @@ Número de homologação CE: ... extensão (1) n.º: ...
 (1) Eventualmente, indicar se se trata de uma primeira, segunda, etc., extensão da homologação CE inicial.
 
 (2) Riscar o que não interessa.
+
+> Alterado pelo/a [Decreto-Lei n.º 97/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-2014-25345582), publicado em 2014-06-26.
 
 ## ANEXO XXXVII — (a que se referem os artigos 70.º e 71.º)
 

@@ -1,0 +1,117 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:75542126:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2016-10-17",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "c8c03f55cf99709f",
+    "3fea9a10b43c6174",
+    "3888c11c2a1ee3dd",
+    "1d86bc99dc4dd35a",
+    "a0a27a577ee12181",
+    "e96ba39ebad7bd1b"
+   ]
+  },
+  {
+   "date": "2018-01-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:114440373:por",
+     "title": "Decreto Legislativo Regional n.º 1/2018/A",
+     "published": "2018-01-03",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/1-2018-114440373"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "c8c03f55cf99709f",
+    "3fea9a10b43c6174",
+    "3294d2e379c0ece2",
+    "1d86bc99dc4dd35a",
+    "5b21235f0d87fdff",
+    "e96ba39ebad7bd1b"
+   ]
+  }
+ ],
+ "fragments": {
+  "c8c03f55cf99709f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Cria a derrama regional a vigorar na Região Autónoma dos Açores e aprova o respetivo regime jurídico\n\nO Estatuto Político-Administrativo da Região Autónoma dos Açores dota a Assembleia Legislativa Regional da faculdade de legislar em matérias do seu poder tributário próprio e da adaptação do sistema fiscal nacional, designadamente o poder de adaptar os impostos de âmbito nacional às especificidades regionais, em matéria de incidência, taxa, benefícios fiscais e garantias dos contribuintes, nos termos da Lei de Finanças das Regiões Autónomas.\n\nEstes princípios materializam-se, nomeadamente, na necessidade de adaptar a derrama estadual prevista no artigo 87.º-A do Código do Imposto sobre o Rendimento de Pessoas Coletivas, aprovado pelo [Decreto-Lei n.º 442-B/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-b-1988-519003), de 30 de novembro, na sua redação atual, à Região Autónoma dos Açores sob a forma de derrama regional, o que é efetuado nos termos do presente decreto legislativo regional.\n\nPor via da adaptação referida, estabelece-se uma redução de 20 % nas taxas da derrama regional face às atualmente aplicadas em sede da derrama estadual, tendo por fundamento a identidade entre aquelas derramas e o IRC, bem como a redução deste último na Região Autónoma dos Açores ao abrigo do artigo 5.º do [Decreto Legislativo Regional n.º 2/99/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-1999-197151), de 20 de janeiro, na sua redação atual.\n\nConcomitantemente, a redução das taxas da derrama afigura-se como um instrumento de política fiscal para promoção da economia e reforço dos meios dos agentes económicos na concretização de investimento e criação de emprego, em benefício do desenvolvimento sustentável da Região Autónoma dos Açores.\n\nAssim, a Assembleia Legislativa da Região Autónoma dos Açores, nos termos da alínea i) do n.º 1 do artigo 227.º da Constituição da República Portuguesa, do n.º 1 do artigo 37.º e alínea b) do n.º 2 do artigo 50.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, decreta o seguinte:"
+  },
+  "3fea9a10b43c6174": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Derrama Regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Derrama Regional\n\nÉ criada a derrama regional a vigorar na Região Autónoma dos Açores e é aprovado o respetivo regime jurídico."
+  },
+  "3888c11c2a1ee3dd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Incidência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Incidência\n\n1 - Sobre a parte do lucro tributável superior a (euro) 1.500.000,00 (um milhão e quinhentos mil euros) sujeito e não isento de imposto sobre o rendimento de pessoas coletivas, apurado por sujeitos passivos residentes na Região Autónoma dos Açores, bem como por sujeitos passivos não residentes com estabelecimento estável na Região Autónoma dos Açores, que exerçam, a título principal, uma atividade de natureza comercial, industrial ou agrícola, incide derrama regional às taxas constantes da tabela seguinte:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19900/0375003751.pdf)\n\n2 - O quantitativo da parte do lucro tributável que exceda (euro) 1.500.000,00 (um milhão e quinhentos mil euros):\n\na) Quando superior a (euro) 7.500.000,00 (sete milhões e quinhentos mil euros) e até (euro) 35.000.000,00 (trinta e cinco milhões de euros) é dividido em duas partes: uma, igual a (euro) 6.000.000,00 (seis milhões de euros) à qual se aplica a taxa de 2,4 %; outra, igual ao lucro tributável que exceda (euro) 7.500.000,00 (sete milhões e quinhentos mil euros) à qual se aplica a taxa de 4 %;\n\nb) Quando superior a (euro) 35.000.000,00 (trinta e cinco milhões de euros) é dividido em três partes: uma, igual a (euro) 6.000.000,00 (seis milhões de euros) à qual se aplica a taxa de 2,4 %; outra, igual a (euro) 27.500.000,00 (vinte e sete milhões e quinhentos mil euros) à qual se aplica a taxa de 4 %, e outra igual ao lucro tributável que exceda (euro) 35.000.000,00 (trinta e cinco milhões de euros) à qual se aplica a taxa de 5,6 %.\n\n3 - Quando seja aplicável o regime especial de tributação dos grupos de sociedades, as taxas a que se refere o n.º 1 incidem sobre o lucro tributável apurado na declaração periódica de rendimentos individual de cada uma das sociedades do grupo, incluindo a da sociedade dominante, referida na alínea b), do n.º 6, do artigo 120.º do Código do Imposto sobre o Rendimento das Pessoas Coletivas (CIRC).\n\n4 - Os sujeitos passivos referidos nos números anteriores devem proceder à liquidação da derrama regional na declaração periódica de rendimentos a que se refere o artigo 120.º do CIRC."
+  },
+  "1d86bc99dc4dd35a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Pagamento da derrama regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Pagamento da derrama regional\n\n1 - As entidades referidas no n.º 1 do artigo 2.º devem proceder ao pagamento da derrama regional nos termos seguintes:\n\na) Em três pagamentos adicionais por conta, de acordo com as regras estabelecidas no artigo 4.º, com vencimento em julho, setembro e 15 de dezembro do próprio ano a que respeita o lucro tributável ou, quando o período de tributação não coincida com o ano civil, com vencimento no 7.º mês, no 9.º mês e no dia 15 do 12.º mês do respetivo período de tributação;\n\nb) Até ao último dia do prazo fixado para o envio da declaração periódica de rendimentos a que se refere o artigo 120.º do CIRC, pela diferença que existir entre o valor total da derrama regional aí calculado e as importâncias entregues por conta nos termos do artigo 4.º;\n\nc) Até ao dia do envio da declaração de substituição a que se refere o artigo 122.º do CIRC, pela diferença que existir entre o valor total da derrama regional aí calculado e as importâncias já pagas.\n\n2 - Há lugar a reembolso ao sujeito passivo, pela respetiva diferença, quando o valor da derrama regional apurado na declaração for inferior ao valor dos pagamentos adicionais por conta.\n\n3 - São aplicáveis às regras de pagamento da derrama regional não referidas no presente artigo as regras de pagamento de imposto sobre o rendimento das pessoas coletivas, com as necessárias adaptações."
+  },
+  "a0a27a577ee12181": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Cálculo do pagamento adicional por conta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Cálculo do pagamento adicional por conta\n\n1 - As entidades obrigadas a efetuar pagamentos por conta e pagamentos especiais por conta devem efetuar o pagamento adicional por conta nos casos em que no período de tributação anterior fosse devida derrama regional nos termos referidos no artigo 2.º\n\n2 - O valor dos pagamentos adicionais por conta devidos nos termos da alínea a), do n.º 1, do artigo anterior, corresponde ao montante resultante da aplicação das taxas previstas na tabela seguinte, as quais incidem sobre a parte do lucro tributável superior a (euro) 1.500.000,00 (um milhão e quinhentos mil euros) relativo ao período de tributação anterior:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19900/0375003751.pdf)\n\n3 - O quantitativo da parte do lucro tributável que exceda (euro) 1.500.000,00 (um milhão e quinhentos mil euros):\n\na) Quando superior a (euro) 7.500.000,00 (sete milhões e quinhentos mil euros) e até (euro) 35.000.000,00 (trinta e cinco milhões de euros) é dividido em duas partes: uma, igual a (euro) 6.000.000,00 (seis milhões de euros) à qual se aplica a taxa de 2 %; outra, igual ao lucro tributável que exceda (euro) 7.500.000,00 (sete milhões e quinhentos mil euros) qual se aplica a taxa de 3,6 %;\n\nb) Quando superior a (euro) 35.000.000,00 (trinta e cinco milhões de euros) é dividido em três partes: uma, igual a (euro) 6.000.000,00 (seis milhões de euros) à qual se aplica a taxa de 2 %; outra, igual a (euro) 27.500.000,00 (vinte e sete milhões e quinhentos mil euros) à qual se aplica a taxa de 3,6 %, e outra igual ao lucro tributável que exceda (euro) 35.000.000,00 (trinta e cinco milhões de euros) à qual se aplica a taxa de 5,2 %.\n\n4 - Quando seja aplicável o regime especial de tributação dos grupos de sociedades é devido pagamento adicional por conta por cada uma das sociedades do grupo, incluindo a sociedade dominante."
+  },
+  "e96ba39ebad7bd1b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Disposições finais\n\n1 - O presente diploma entra em vigor no dia seguinte à sua publicação.\n\n2 - Não são aplicáveis aos sujeitos passivos, mencionados no artigo 2.º, os artigos 87.º-A, 104.º-A e 105.º-A do CIRC.\n\nAprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 9 de setembro de 2016.\n\nA Presidente da Assembleia Legislativa, Ana Luísa Luís.\n\nAssinado em Angra do Heroísmo em 10 de outubro de 2016.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino."
+  },
+  "3294d2e379c0ece2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Incidência",
+   "in_force_from": "2018-01-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 57.º do/a [Decreto Legislativo Regional n.º 1/2018/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2018-114440373), publicado em 2018-01-03."
+   ],
+   "markdown": "###### Artigo 2.º — Incidência\n\n1 - Sobre a parte do lucro tributável superior a (euro) 1 500 000,00 (um milhão e quinhentos mil euros) sujeito e não isento de imposto sobre o rendimento de pessoas coletivas, apurado por sujeitos passivos residentes na Região Autónoma dos Açores, bem como por sujeitos passivos não residentes com estabelecimento estável na Região Autónoma dos Açores, que exerçam, a título principal, uma atividade de natureza comercial, industrial ou agrícola, incide derrama regional às taxas constantes da tabela seguinte:\n\n(ver documento original)\n\n2 - O quantitativo da parte do lucro tributável que exceda (euro) 1 500 000,00 (um milhão e quinhentos mil euros):\n\na) Quando superior a (euro) 7.500.000,00 (sete milhões e quinhentos mil euros) e até (euro) 35.000.000,00 (trinta e cinco milhões de euros) é dividido em duas partes: uma, igual a (euro) 6.000.000,00 (seis milhões de euros) à qual se aplica a taxa de 2,4 %; outra, igual ao lucro tributável que exceda (euro) 7.500.000,00 (sete milhões e quinhentos mil euros) à qual se aplica a taxa de 4 %;\n\nb) Quando superior a (euro) 35 000 000,00 (trinta e cinco milhões de euros) é dividido em três partes: uma, igual a (euro) 6 000 000,00 (seis milhões de euros) à qual se aplica a taxa de 2,4 %; outra, igual a (euro) 27 500 000,00 (vinte e sete milhões e quinhentos mil euros) à qual se aplica a taxa de 4 %, e outra igual ao lucro tributável que exceda (euro) 35 000 000,00 (trinta e cinco milhões de euros) à qual se aplica a taxa de 7,2 %.\n\n3 - Quando seja aplicável o regime especial de tributação dos grupos de sociedades, as taxas a que se refere o n.º 1 incidem sobre o lucro tributável apurado na declaração periódica de rendimentos individual de cada uma das sociedades do grupo, incluindo a da sociedade dominante, referida na alínea b), do n.º 6, do artigo 120.º do Código do Imposto sobre o Rendimento das Pessoas Coletivas (CIRC).\n\n4 - Os sujeitos passivos referidos nos números anteriores devem proceder à liquidação da derrama regional na declaração periódica de rendimentos a que se refere o artigo 120.º do CIRC.\n\n> Alterado pelo/a Artigo 57.º do/a [Decreto Legislativo Regional n.º 1/2018/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2018-114440373), publicado em 2018-01-03."
+  },
+  "5b21235f0d87fdff": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Cálculo do pagamento adicional por conta",
+   "in_force_from": "2018-01-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 57.º do/a [Decreto Legislativo Regional n.º 1/2018/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2018-114440373), publicado em 2018-01-03."
+   ],
+   "markdown": "###### Artigo 4.º — Cálculo do pagamento adicional por conta\n\n1 - As entidades obrigadas a efetuar pagamentos por conta e pagamentos especiais por conta devem efetuar o pagamento adicional por conta nos casos em que no período de tributação anterior fosse devida derrama regional nos termos referidos no artigo 2.º\n\n2 - O valor dos pagamentos adicionais por conta devidos nos termos da alínea a), do n.º 1, do artigo anterior, correspondente ao montante resultante da aplicação das taxas previstas na tabela seguinte, as quais incidem sobre a parte do lucro tributável superior a (euro) 1 500 000,00 (um milhão e quinhentos mil euros) relativo ao período de tributação anterior:\n\n(ver documento original)\n\n3 - O quantitativo da parte do lucro tributável que exceda (euro) 1 500 000,00 (um milhão e quinhentos mil euros):\n\na) Quando superior a (euro) 7.500.000,00 (sete milhões e quinhentos mil euros) e até (euro) 35.000.000,00 (trinta e cinco milhões de euros) é dividido em duas partes: uma, igual a (euro) 6.000.000,00 (seis milhões de euros) à qual se aplica a taxa de 2 %; outra, igual ao lucro tributável que exceda (euro) 7.500.000,00 (sete milhões e quinhentos mil euros) qual se aplica a taxa de 3,6 %;\n\nb) Quando superior a (euro) 35 000 000,00 (trinta e cinco milhões de euros) é dividido em três partes: uma, igual a (euro) 6 000 000,00 (seis milhões de euros) à qual se aplica a taxa de 2 %; outra, igual a (euro) 27 500 000,00 (vinte e sete milhões e quinhentos mil euros) à qual se aplica a taxa de 3,6 %, e outra igual ao lucro tributável que exceda (euro) 35 000 000,00 (trinta e cinco milhões de euros) à qual se aplica a taxa de 6,8 %.\n\n4 - Quando seja aplicável o regime especial de tributação dos grupos de sociedades é devido pagamento adicional por conta por cada uma das sociedades do grupo, incluindo a sociedade dominante.\n\n> Alterado pelo/a Artigo 57.º do/a [Decreto Legislativo Regional n.º 1/2018/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2018-114440373), publicado em 2018-01-03."
+  }
+ }
+}

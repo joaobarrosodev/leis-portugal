@@ -46,10 +46,25 @@ legal_status_basis:
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2018-01-03'
+version_history:
+  file: decreto-legislativo-regional-21-2016-a.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2016-10-17'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2018-01-03'
+    amending: pt:dre:114440373:por
+    amending_title: Decreto Legislativo Regional n.º 1/2018/A
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 4.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/declegreg/21/2016/10/17/a/dre/pt/html
@@ -75,7 +90,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:22:11Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Legislativo Regional n.º
+    1/2018/A. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/acores/decretos-legislativos-regionais/2016/decreto-legislativo-regional-21-2016-a.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -144,19 +160,21 @@ Assim, a Assembleia Legislativa da Região Autónoma dos Açores, nos termos da 
 
 ###### Artigo 2.º — Incidência
 
-1 - Sobre a parte do lucro tributável superior a (euro) 1.500.000,00 (um milhão e quinhentos mil euros) sujeito e não isento de imposto sobre o rendimento de pessoas coletivas, apurado por sujeitos passivos residentes na Região Autónoma dos Açores, bem como por sujeitos passivos não residentes com estabelecimento estável na Região Autónoma dos Açores, que exerçam, a título principal, uma atividade de natureza comercial, industrial ou agrícola, incide derrama regional às taxas constantes da tabela seguinte:
+1 - Sobre a parte do lucro tributável superior a (euro) 1 500 000,00 (um milhão e quinhentos mil euros) sujeito e não isento de imposto sobre o rendimento de pessoas coletivas, apurado por sujeitos passivos residentes na Região Autónoma dos Açores, bem como por sujeitos passivos não residentes com estabelecimento estável na Região Autónoma dos Açores, que exerçam, a título principal, uma atividade de natureza comercial, industrial ou agrícola, incide derrama regional às taxas constantes da tabela seguinte:
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19900/0375003751.pdf)
+(ver documento original)
 
-2 - O quantitativo da parte do lucro tributável que exceda (euro) 1.500.000,00 (um milhão e quinhentos mil euros):
+2 - O quantitativo da parte do lucro tributável que exceda (euro) 1 500 000,00 (um milhão e quinhentos mil euros):
 
 a) Quando superior a (euro) 7.500.000,00 (sete milhões e quinhentos mil euros) e até (euro) 35.000.000,00 (trinta e cinco milhões de euros) é dividido em duas partes: uma, igual a (euro) 6.000.000,00 (seis milhões de euros) à qual se aplica a taxa de 2,4 %; outra, igual ao lucro tributável que exceda (euro) 7.500.000,00 (sete milhões e quinhentos mil euros) à qual se aplica a taxa de 4 %;
 
-b) Quando superior a (euro) 35.000.000,00 (trinta e cinco milhões de euros) é dividido em três partes: uma, igual a (euro) 6.000.000,00 (seis milhões de euros) à qual se aplica a taxa de 2,4 %; outra, igual a (euro) 27.500.000,00 (vinte e sete milhões e quinhentos mil euros) à qual se aplica a taxa de 4 %, e outra igual ao lucro tributável que exceda (euro) 35.000.000,00 (trinta e cinco milhões de euros) à qual se aplica a taxa de 5,6 %.
+b) Quando superior a (euro) 35 000 000,00 (trinta e cinco milhões de euros) é dividido em três partes: uma, igual a (euro) 6 000 000,00 (seis milhões de euros) à qual se aplica a taxa de 2,4 %; outra, igual a (euro) 27 500 000,00 (vinte e sete milhões e quinhentos mil euros) à qual se aplica a taxa de 4 %, e outra igual ao lucro tributável que exceda (euro) 35 000 000,00 (trinta e cinco milhões de euros) à qual se aplica a taxa de 7,2 %.
 
 3 - Quando seja aplicável o regime especial de tributação dos grupos de sociedades, as taxas a que se refere o n.º 1 incidem sobre o lucro tributável apurado na declaração periódica de rendimentos individual de cada uma das sociedades do grupo, incluindo a da sociedade dominante, referida na alínea b), do n.º 6, do artigo 120.º do Código do Imposto sobre o Rendimento das Pessoas Coletivas (CIRC).
 
 4 - Os sujeitos passivos referidos nos números anteriores devem proceder à liquidação da derrama regional na declaração periódica de rendimentos a que se refere o artigo 120.º do CIRC.
+
+> Alterado pelo/a Artigo 57.º do/a [Decreto Legislativo Regional n.º 1/2018/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2018-114440373), publicado em 2018-01-03.
 
 ###### Artigo 3.º — Pagamento da derrama regional
 
@@ -176,17 +194,19 @@ c) Até ao dia do envio da declaração de substituição a que se refere o arti
 
 1 - As entidades obrigadas a efetuar pagamentos por conta e pagamentos especiais por conta devem efetuar o pagamento adicional por conta nos casos em que no período de tributação anterior fosse devida derrama regional nos termos referidos no artigo 2.º
 
-2 - O valor dos pagamentos adicionais por conta devidos nos termos da alínea a), do n.º 1, do artigo anterior, corresponde ao montante resultante da aplicação das taxas previstas na tabela seguinte, as quais incidem sobre a parte do lucro tributável superior a (euro) 1.500.000,00 (um milhão e quinhentos mil euros) relativo ao período de tributação anterior:
+2 - O valor dos pagamentos adicionais por conta devidos nos termos da alínea a), do n.º 1, do artigo anterior, correspondente ao montante resultante da aplicação das taxas previstas na tabela seguinte, as quais incidem sobre a parte do lucro tributável superior a (euro) 1 500 000,00 (um milhão e quinhentos mil euros) relativo ao período de tributação anterior:
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19900/0375003751.pdf)
+(ver documento original)
 
-3 - O quantitativo da parte do lucro tributável que exceda (euro) 1.500.000,00 (um milhão e quinhentos mil euros):
+3 - O quantitativo da parte do lucro tributável que exceda (euro) 1 500 000,00 (um milhão e quinhentos mil euros):
 
 a) Quando superior a (euro) 7.500.000,00 (sete milhões e quinhentos mil euros) e até (euro) 35.000.000,00 (trinta e cinco milhões de euros) é dividido em duas partes: uma, igual a (euro) 6.000.000,00 (seis milhões de euros) à qual se aplica a taxa de 2 %; outra, igual ao lucro tributável que exceda (euro) 7.500.000,00 (sete milhões e quinhentos mil euros) qual se aplica a taxa de 3,6 %;
 
-b) Quando superior a (euro) 35.000.000,00 (trinta e cinco milhões de euros) é dividido em três partes: uma, igual a (euro) 6.000.000,00 (seis milhões de euros) à qual se aplica a taxa de 2 %; outra, igual a (euro) 27.500.000,00 (vinte e sete milhões e quinhentos mil euros) à qual se aplica a taxa de 3,6 %, e outra igual ao lucro tributável que exceda (euro) 35.000.000,00 (trinta e cinco milhões de euros) à qual se aplica a taxa de 5,2 %.
+b) Quando superior a (euro) 35 000 000,00 (trinta e cinco milhões de euros) é dividido em três partes: uma, igual a (euro) 6 000 000,00 (seis milhões de euros) à qual se aplica a taxa de 2 %; outra, igual a (euro) 27 500 000,00 (vinte e sete milhões e quinhentos mil euros) à qual se aplica a taxa de 3,6 %, e outra igual ao lucro tributável que exceda (euro) 35 000 000,00 (trinta e cinco milhões de euros) à qual se aplica a taxa de 6,8 %.
 
 4 - Quando seja aplicável o regime especial de tributação dos grupos de sociedades é devido pagamento adicional por conta por cada uma das sociedades do grupo, incluindo a sociedade dominante.
+
+> Alterado pelo/a Artigo 57.º do/a [Decreto Legislativo Regional n.º 1/2018/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2018-114440373), publicado em 2018-01-03.
 
 ###### Artigo 5.º — Disposições finais
 

@@ -1,0 +1,129 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:563050:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1995-09-13",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "06335b3d835a1086",
+    "071481109975b51a"
+   ]
+  },
+  {
+   "date": "1998-02-18",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:232134:por",
+     "title": "Decreto-Lei n.º 32/98",
+     "published": "1998-02-13",
+     "dre_path": "/dr/detalhe/decreto-lei/32-1998-232134"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Adita Artigo 5.º",
+    "Altera Artigo ANEXO — Normas Eurocontrol referidas no artigo 3.º",
+    "Altera Artigo ANEXO — Normas Eurocontrol referidas no artigo 3.º"
+   ],
+   "fragments": [
+    "279127cd33717a91",
+    "7a3b8c914fa03d52",
+    "9b64afd123b024d4",
+    "51774efe04495d12",
+    "c0c7fb84dc4132ef",
+    "4cdeb83cac7c0389",
+    "fbc58790dc3bbe68"
+   ]
+  }
+ ],
+ "fragments": {
+  "06335b3d835a1086": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 13 de Setembro\n\nO transporte aéreo na Europa tem sentido cada vez mais dificuldades dado o congestionamento do tráfego aéreo, revelando-se da maior acuidade alcançar uma integração funcional que permita, a curto prazo, melhorar a sua fluidez.\n\nReconhece-se ainda que a situação actual, de base nacional ou local, tem gerado incompatibilidades técnicas e operacionais que entravam a transferência dos voos supervisionados entre órgãos de controlo situados nos diferentes Estados membros da Comunidade Europeia.\n\nPortugal tem-se empenhado, desde sempre, no domínio da gestão do tráfego aéreo, na prossecução dos objectivos da Conferência Europeia de Aviação Civil (CEAC) e do Eurocontrol, parecendo conveniente instaurar uma cooperação entre este e as organizações europeias de normalização.\n\nNo âmbito desta harmonização e integração dos sistemas de gestão de tráfego aéreo na Europa, assumem, pois, a maior relevância a definição e a utilização de especificações técnicas compatíveis para a aquisição de equipamentos e de sistemas para a gestão de tráfego aéreo, sendo esse o objecto da Directiva n.º [93/65/CEE,](https://data.europa.eu/eli/dir/1993/65/oj?locale=pt) do Conselho, de 19 de Julho, que pelo presente diploma é transposta para a ordem jurídica interna.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:\n\nArtigo 1.º O presente diploma tem por objecto a definição das regras de utilização de especificações técnicas compatíveis para efeito de aquisição de equipamentos e de sistemas para a gestão do tráfego aéreo, em especial no que se refere a sistemas de comunicações, de vigilância e de assistência automática no controlo e navegação.\n\nArt. 2.º Para efeitos do presente diploma, entende-se por:\n\na) «Especificação técnica» - qualquer exigência técnica que conste, nomeadamente, dos cadernos de encargos que definam as características exigidas de um trabalho, de um material, de um produto ou de um fornecimento e que permitam caracterizar objectivamente um trabalho, um material, um produto ou um fornecimento de forma que correspondam à utilização a que são destinados pela entidade adjudicante, podendo tais prescrições técnicas incluir a qualidade, o desempenho, a segurança, as dimensões, bem como as prescrições aplicáveis ao material, ao produto ou ao fornecimento no que respeita aos sistemas de garantia de qualidade à terminologia, aos símbolos, aos ensaios e aos métodos de ensaio, à embalagem, à marcação e à rotulagem;\n\nb) «Norma» - qualquer especificação técnica aprovada por um organismo de normalização reconhecido, para aplicação repetida ou continuada, cuja observância não seja, em princípio, obrigatória;\n\nc) «Normas Eurocontrol» - elementos obrigatórios das especificações Eurocontrol, constantes do documento de normas daquela organização, relativas às características físicas, à configuração, ao material, ao desempenho, ao pessoal ou às questões de procedimento, cuja aplicação uniforme seja reconhecida como sendo essencial para aplicação de um sistema de serviços de tráfego aéreo (ATS) integrado.\n\nArt. 3.º Para efeitos do presente diploma, as normas Eurocontrol, as especificações técnicas e as respectivas alterações que passem a ser obrigatórias, nomeadamente no que se refere às matérias constantes do anexo ao presente diploma, são as publicadas no Jornal Oficial da Comunidade Europeia.\n\nArt. 4.º Nos documentos gerais ou nos cadernos de encargos relativos a cada contrato de aquisição de equipamentos de navegação aérea deve constar a remissão para as especificações adoptadas nos termos do presente diploma.\n\nVisto e aprovado em Conselho de Ministros de 27 de Julho de 1995. - Manuel Dias Loureiro - Joaquim Martins Ferreira do Amaral.\n\nPromulgado em 24 de Agosto de 1995.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 28 de Agosto de 1995.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "071481109975b51a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Normas Eurocontrol referidas no artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — Normas Eurocontrol referidas no artigo 3.º\n\nSistemas de comunicação\n\nADEXP (formato de mensagem ATS).\n\nOLDI (intercâmbio de dados).\n\nASTERIX (formato de mensagem radar).\n\nIntercâmbio de dados de voo-interface (parte I).\n\nSistemas de navegação\n\nRNAV.\n\nRastreio de infra-estruturas de navegação (WGS-84).\n\nSistemas de vigilância\n\nVigilância radar.\n\nAvaliação de sensores radar."
+  },
+  "279127cd33717a91": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 13 de Setembro\n\nO transporte aéreo na Europa tem sentido cada vez mais dificuldades dado o congestionamento do tráfego aéreo, revelando-se da maior acuidade alcançar uma integração funcional que permita, a curto prazo, melhorar a sua fluidez.\n\nReconhece-se ainda que a situação actual, de base nacional ou local, tem gerado incompatibilidades técnicas e operacionais que entravam a transferência dos voos supervisionados entre órgãos de controlo situados nos diferentes Estados membros da Comunidade Europeia.\n\nPortugal tem-se empenhado, desde sempre, no domínio da gestão do tráfego aéreo, na prossecução dos objectivos da Conferência Europeia de Aviação Civil (CEAC) e do Eurocontrol, parecendo conveniente instaurar uma cooperação entre este e as organizações europeias de normalização.\n\nNo âmbito desta harmonização e integração dos sistemas de gestão de tráfego aéreo na Europa, assumem, pois, a maior relevância a definição e a utilização de especificações técnicas compatíveis para a aquisição de equipamentos e de sistemas para a gestão de tráfego aéreo, sendo esse o objecto da Directiva n.º [93/65/CEE,](https://data.europa.eu/eli/dir/1993/65/oj?locale=pt) do Conselho, de 19 de Julho, que pelo presente diploma é transposta para a ordem jurídica interna.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "7a3b8c914fa03d52": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO presente diploma tem por objecto a definição das regras de utilização de especificações técnicas compatíveis para efeito de aquisição de equipamentos e de sistemas para a gestão do tráfego aéreo, em especial no que se refere a sistemas de comunicações, de vigilância e de assistência automática no controlo e navegação."
+  },
+  "9b64afd123b024d4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nPara efeitos do presente diploma, entende-se por:\n\na) «Especificação técnica» - qualquer exigência técnica que conste, nomeadamente, dos cadernos de encargos que definam as características exigidas de um trabalho, de um material, de um produto ou de um fornecimento e que permitam caracterizar objectivamente um trabalho, um material, um produto ou um fornecimento de forma que correspondam à utilização a que são destinados pela entidade adjudicante, podendo tais prescrições técnicas incluir a qualidade, o desempenho, a segurança, as dimensões, bem como as prescrições aplicáveis ao material, ao produto ou ao fornecimento no que respeita aos sistemas de garantia de qualidade à terminologia, aos símbolos, aos ensaios e aos métodos de ensaio, à embalagem, à marcação e à rotulagem;\n\nb) «Norma» - qualquer especificação técnica aprovada por um organismo de normalização reconhecido, para aplicação repetida ou continuada, cuja observância não seja, em princípio, obrigatória;\n\nc) «Normas Eurocontrol» - elementos obrigatórios das especificações Eurocontrol, constantes do documento de normas daquela organização, relativas às características físicas, à configuração, ao material, ao desempenho, ao pessoal ou às questões de procedimento, cuja aplicação uniforme seja reconhecida como sendo essencial para aplicação de um sistema de serviços de tráfego aéreo (ATS) integrado."
+  },
+  "51774efe04495d12": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": "1998-02-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 32/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-1998-232134), publicado em 1998-02-13."
+   ],
+   "markdown": "###### Artigo 3.º\n\n1 - As normas Eurocontrol, nomeadamente as relativas aos domínios enumerados no anexo ao presente diploma, são obrigatoriamente aplicáveis a todos os equipamentos e sistemas para a gestão do tráfego aéreo adquiridos após a entrada em vigor do presente diploma, quando tais normas sejam necessárias à implementação de um sistema europeu de gestão daquele tráfego.\n\n2 - As normas Eurocontrol a que se refere o número anterior serão identificadas através de adequada publicação, nos termos do número seguinte.\n\n3 - À medida em que as normas Eurocontrol previstas nos números anteriores forem sendo adoptadas pela Comissão das Comunidades Europeias, a lista identificativa das mesmas será publicada e actualizada por decreto-lei, quando constar de directiva comunitária, ou por portaria do Ministro do Equipamento, do Planeamento e da Administração do Território, nos restantes casos.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 32/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-1998-232134), publicado em 1998-02-13."
+  },
+  "c0c7fb84dc4132ef": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": "1998-02-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 32/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-1998-232134), publicado em 1998-02-13."
+   ],
+   "markdown": "###### Artigo 4.º\n\nNos documentos gerais ou nos cadernos de encargos relativos aos contratos de aquisição de equipamentos ou de sistemas para a gestão do tráfego aéreo, a entidade adjudicante fará remissão para as normas Eurocontrol cuja observância for obrigatória de acordo com as normas publicadas nos termos do presente diploma.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 32/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-1998-232134), publicado em 1998-02-13."
+  },
+  "4cdeb83cac7c0389": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": "1998-02-18",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 32/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-1998-232134), publicado em 1998-02-13."
+   ],
+   "markdown": "###### Artigo 5.º\n\nAs normas Eurocontrol a que, nos termos do artigo 3.º, deverão obedecer os equipamentos e sistemas para a gestão de tráfego aéreo cujo processo de aquisição tenha início posteriormente à entrada em vigor do presente diploma são as seguintes:\n\na) Norma Eurocontrol relativa à transferência de dados em linha (OLDI - on line data interchange), contida no documento de referência Eurocontrol 001-92 (1.ª edição);\n\nb) Norma Eurocontrol relativa à forma de transferência de dados dos serviços de tráfego aéreo (ADEXP - air traffic services data exchange presentation), contida no documento de referência Eurocontrol 002-93 (1.ª edição).\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 32/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-1998-232134), publicado em 1998-02-13.\n\nVisto e aprovado em Conselho de Ministros de 27 de Julho de 1995. - Manuel Dias Loureiro - Joaquim Martins Ferreira do Amaral.\n\nPromulgado em 24 de Agosto de 1995.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 28 de Agosto de 1995.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "fbc58790dc3bbe68": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Lista dos domínios a que são aplicáveis as normas Eurocontrol referidas no artigo 3.º",
+   "in_force_from": "1998-02-18",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 32/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-1998-232134), publicado em 1998-02-13."
+   ],
+   "markdown": "## ANEXO — Lista dos domínios a que são aplicáveis as normas Eurocontrol referidas no artigo 3.º\n\na) Comunicações.\n\nb) Navegação.\n\nc) Vigilância.\n\nd) Sistemas de tratamento de dados.\n\ne) Procedimentos para a gestão do espaço aéreo e para a gestão do tráfego aéreo.\n\nf) Regras de trabalho e requisitos operacionais para a gestão do tráfego aéreo.\n\ng) Recursos humanos.\n\n> Alterado pelo/a [Decreto-Lei n.º 32/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-1998-232134), publicado em 1998-02-13."
+  }
+ }
+}

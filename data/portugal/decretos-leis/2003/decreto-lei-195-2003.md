@@ -40,10 +40,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2005-07-23'
+version_history:
+  file: decreto-lei-195-2003.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2003-08-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2005-07-23'
+    amending: pt:dre:238021:por
+    amending_title: Decreto-Lei n.º 118/2005
+    changes:
+    - Altera Artigo ANEXO I
+    - Altera Artigo ANEXO II
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/195/2003/08/23/p/dre/pt/html
@@ -69,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:38:42Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 118/2005. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2003/decreto-lei-195-2003.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -245,9 +261,27 @@ Número de embalagens (amostras elementares) a colher para formar a amostra glob
 
 [[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/08/194a00/54845489.pdf)](https://files.diariodarepublica.pt/1s/2003/08/194a00/54845489.pdf)
 
-5 - Conformidade do lote ou do sublote com a especificação - o laboratório de controlo deve analisar em duplicado a amostra de laboratório para efeitos de medidas executórias caso o resultado obtido na primeira análise seja inferior ou superior em menos de 20% ao nível máximo, calculando a média dos resultados. O lote será aceite se o resultado da primeira análise for inferior em mais de 20% ao nível máximo respectivo ou, quando a análise em duplicado for necessária, se a média estiver conforme ao nível máximo respectivo, tal como fixado no Regulamento (CE) n.º [466/2001](https://data.europa.eu/eli/reg/2001/466/oj?locale=pt).
+4.1 - Disposições específicas para a amostragem de lotes contendo peixes inteiros - o número de amostras elementares a colher do lote está definido no quadro n.º 1. A amostra global, proveniente da junção de todas as amostras elementares, deve ser, no mínimo, de 1 kg (v. n.º 3.5).
+
+Caso o lote a amostrar contenha peixes pequenos (cada um com peso inferior a 1 kg), o peixe inteiro é colhido como amostra elementar para constituir a amostra global. Caso a amostra global daí resultante pese mais de 3 kg, as amostras elementares podem consistir da parte do meio, pesando cada uma pelo menos 100 g, dos peixes que formam a amostra global. A parte inteira à qual o teor máximo seja aplicável é usada para a homogeneização da amostra.
+
+Caso o lote a amostrar contenha peixes maiores (cada um com peso superior a 1 kg), a amostra elementar consistirá na parte do meio do peixe. Cada amostra elementar pesará pelo menos 100 g. Caso o lote a amostrar consista em peixes muito grandes (por exemplo, com mais de 6 kg) e a extracção de uma porção da parte do meio do peixe possa resultar num prejuízo económico significativo, poder-se-á considerar suficiente a extracção de três amostras elementares de, pelo menos, 350 g cada, independentemente da dimensão do lote.
+
+5 - Conformidade do lote ou do sublote com a especificação - o lote é aceite se o resultado analítico de uma única análise não for superior ao respectivo teor máximo, tal como estabelecido no Regulamento (CE) n.º [466/2001](https://data.europa.eu/eli/reg/2001/466/oj?locale=pt), tomando em consideração a incerteza de medição.
+
+O lote não é conforme com o teor máximo estabelecido no Regulamento (CE) n.º [466/2001](https://data.europa.eu/eli/reg/2001/466/oj?locale=pt) se o resultado analítico, confirmado pela análise em duplicado e calculado como a média de, pelo menos, duas determinações distintas, for superior ao teor máximo, com um grau de certeza elevado, tendo em conta a incerteza de medição.
+
+A incerteza de medição pode ser tomada em consideração por meio de uma das seguintes abordagens:
+
+Calculando a incerteza expandida, utilizando um factor de expansão de 2, que permite obter um nível de confiança de cerca de 95%;
+
+Estabelecendo o limite de decisão (CC(alfa)) de acordo com o disposto na Decisão n.º [2002/657/CE](https://data.europa.eu/eli/dec/2002/657/oj?locale=pt), da Comissão, de 12 de Agosto, com a última redacção que lhe foi dada pela Decisão n.º [2004/25/CE](https://data.europa.eu/eli/dec/2004/25/oj?locale=pt), da Comissão, de 22 de Dezembro de 2003, relativamente à definição de limites mínimos de desempenho requeridos (LMDR) para determinados resíduos em alimentos de origem animal, que dá execução ao disposto na Directiva n.º [96/23/CE](https://data.europa.eu/eli/dir/1996/23/oj?locale=pt), do Conselho, relativa às medidas de controlo a aplicar a certas substâncias e aos seus resíduos nos animais vivos e respectivos produtos, transposta pelo Decreto-Lei n.º 148/99, de 4 de Maio (caso das substâncias para as quais estão estabelecidos teores permitidos).
+
+As presentes disposições em matéria de interpretação são aplicáveis ao resultado analítico obtido na amostra para o controlo oficial. No caso das análises para efeitos de procedimentos de recurso ou arbitragem, aplicam-se as disposições nacionais.
 
 (nota 1) Quadro: «WHO TEFs for human risk assessement based on the conclusions of the World Health Organization meeting in Stockolm» (factores de equivalência de toxicidade Y da OMS para avaliação do risco para o ser humano nas conclusões da reunião da Organização Mundial de Saúde realizada em Estocolmo, Suécia, de 15 a 18 de Junho de 1997). Van den Berg et al., (1998). «Toxic Equivalency Factors (TEFs) for PCBs, PCDDs, PCDFs for Human and Wildlife» [factores de equivalência de toxicidade (TEF) para PCB, PCDD e PCDF para seres humanos e fauna selvagem]. Environmental Health Perspectives, 106(12), 775.
+
+> Alterado pelo/a [Decreto-Lei n.º 118/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-2005-238021), publicado em 2005-07-18.
 
 ## ANEXO II
 
@@ -270,6 +304,8 @@ O conceito de «limites máximos» exige a utilização do limite de quantifica�
 O conceito de «limites mínimos» exige a utilização de zero para o contributo de cada congénere não quantificado para o TEQ.
 
 O conceito de «limites médios» exige a utilização de metade do limite de quantificação calculando o contributo de cada congénere não quantificado para o TEQ.
+
+Exclusivamente para efeitos do presente diploma, o limite específico aceite de quantificação de um congénere individual será a concentração de um analito no extracto de uma amostra que produza uma resposta instrumental a dois iões diferentes, a qual será controlada com uma razão sinal/ruído (SR) de 3:1 para o sinal menos sensível e o cumprimento de requisitos básicos, tais como, por exemplo, o tempo de retenção e a razão isotópica, de acordo com o procedimento de determinação descrito no método EPA 1613, revisão B.
 
 3 - Requisitos de garantia da qualidade a cumprir na preparação da amostra:
 
@@ -386,3 +422,5 @@ O relatório deverá também incluir o teor de lípidos da amostra, bem como o m
 As recuperações de cada padrão interno devem ser disponibilizadas no caso de as recuperações estarem fora da gama mencionada no n.º 6, no caso de o limite máximo ser excedido e noutros casos mediante pedido.
 
 (nota 1) Não foram ainda apresentadas quaisquer provas de kits comercialmente disponíveis com base em bioensaios suficientemente sensíveis e fidedignos para serem utilizados na pré-selecção da presença de dioxinas aos níveis exigidos em amostras de genéros alimentícios e de alimentos para animais.
+
+> Alterado pelo/a [Decreto-Lei n.º 118/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-2005-238021), publicado em 2005-07-18.

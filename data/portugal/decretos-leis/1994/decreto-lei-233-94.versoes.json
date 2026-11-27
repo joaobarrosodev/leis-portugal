@@ -1,0 +1,76 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:591106:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1994-09-15",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "ef8599e8920c34a0",
+    "3e743aa5e3fc0056",
+    "2c82b578496d538c"
+   ]
+  },
+  {
+   "date": "2008-03-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:468663:por",
+     "title": "Lei n.º 12-A/2008",
+     "published": "2008-02-27",
+     "dre_path": "/dr/detalhe/lei/12-a-2008-468663"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "ef8599e8920c34a0",
+    "3e743aa5e3fc0056",
+    "9ea42f4baef3d078"
+   ]
+  }
+ ],
+ "fragments": {
+  "ef8599e8920c34a0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 15 de Setembro\n\nNuma óptica de progressiva melhoria dos serviços públicos e de especial qualificação dos seus quadros técnicos e, bem assim, numa perspectiva de optimização das operações de recrutamento e de selecção de pessoal, afigura-se da maior importância reforçar o nexo de adequação entre o conteúdo funcional do cargo ou cargos a prover e as habilitações exigíveis para o exercício das tarefas e responsabilidades inerentes às denominadas carreiras técnica superior e técnica, permitindo-se aos dirigentes dos serviços e organismos da Administração estabelecer, nos avisos de abertura dos concursos de ingresso e no respeito pelo nível de habilitação legalmente fixado, qual ou quais os cursos considerados adequados para o exercício das funções que se visa assegurar.\n\nEsse o alcance do presente diploma, que visa, simultaneamente, superar dúvidas de interpretação suscitadas pelas normas aplicáveis do [Decreto-Lei n.º 265/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1988-378358), de 28 de Julho, que estabelecem o sistema de recrutamento para as categorias de ingresso daquelas carreiras.\n\nForam ouvidas as associações sindicais representativas dos trabalhadores da função pública, nos termos do [Decreto-Lei n.º 45-A/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-a-1984-367986), de 3 de Fevereiro.\n\nAssim:\n\nNo uso da autorização legislativa conferida pela alínea a) do artigo 6.º da [Lei n.º 75/93](https://diariodarepublica.pt/dr/detalhe/lei/75-1993-311209), de 20 de Dezembro, e nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:\n\nArtigo 1.º Os artigos 3.º e 4.º do [Decreto-Lei n.º 265/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1988-378358), de 28 de Julho, passam a ter a seguinte redacção:"
+  },
+  "3e743aa5e3fc0056": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Carreira técnica superior",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Carreira técnica superior\n\n1 - ...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) Técnico superior de 2.ª classe, de entre indivíduos habilitados com licenciatura em área de formação adequada ao conteúdo funcional do lugar a prover, aprovados em estágio com classificação não inferior a Bom (14 valores).\n\n2 - ...\n\n3 - ...\n\n4 - ..."
+  },
+  "2c82b578496d538c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Carreira técnica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Carreira técnica\n\n1 - ...\n\na) ...\n\nb) ...\n\nc) Técnico de 2.ª classe, de entre indivíduos habilitados com curso superior que não confira o grau de licenciatura, em área de formação adequada ao conteúdo funcional do lugar a prover, aprovados em estágio com classificação não inferior a Bom (14 valores).\n\n2 - ...\n\n3 - ...\n\na) ...\n\nb) ...\n\nArt. 2.º - 1 - Compete aos dirigentes máximos dos serviços e organismos públicos, no despacho de autorização de abertura do concurso para admissão a estágio para lugares de ingresso nas carreiras técnica superior e técnica, especificar as áreas de formação consideradas adequadas ao exercício das funções correspondentes aos lugares a prover.\n\n2 - A especificação referida no número anterior deve constar do aviso de abertura do concurso respectivo.\n\nVisto e aprovado em Conselho de Ministros de 21 de Julho de 1994. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga.\n\nPromulgado em 16 de Agosto de 1994.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 22 de Agosto de 1994.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "9ea42f4baef3d078": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Carreira técnica",
+   "in_force_from": "2008-03-01",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 12-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663), publicado em 2008-02-27."
+   ],
+   "markdown": "###### Artigo 4.º — Carreira técnica\n\n1 - ...\n\na) ...\n\nb) ...\n\nc) Técnico de 2.ª classe, de entre indivíduos habilitados com curso superior que não confira o grau de licenciatura, em área de formação adequada ao conteúdo funcional do lugar a prover, aprovados em estágio com classificação não inferior a Bom (14 valores).\n\n2 - ...\n\n3 - ...\n\na) ...\n\nb) ...\n\nArt. 2.º - (Revogado.)\n\n> Alterado pelo/a [Lei n.º 12-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663), publicado em 2008-02-27.\n\nVisto e aprovado em Conselho de Ministros de 21 de Julho de 1994. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga.\n\nPromulgado em 16 de Agosto de 1994.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 22 de Agosto de 1994.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  }
+ }
+}

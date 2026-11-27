@@ -1,0 +1,76 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:73740378:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2016-02-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "7a5383093be524aa",
+    "61b702f9ea67a1fc",
+    "bc5dacb16d72adb5"
+   ]
+  },
+  {
+   "date": "2016-03-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:74185615:por",
+     "title": "Declaração de Retificação n.º 4/2016",
+     "published": "2016-04-19",
+     "dre_path": "/dr/detalhe/declaracao-retificacao/4-2016-74185615"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "7a5383093be524aa",
+    "61b702f9ea67a1fc",
+    "91cfa52e7bdee2a3"
+   ]
+  }
+ ],
+ "fragments": {
+  "7a5383093be524aa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 29 de fevereiro\n\nAltera o Código do Imposto sobre o Rendimento das Pessoas Coletivas, aprovado pelo [Decreto-Lei n.º 442-B/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-b-1988-519003), de 30 de novembro, transpondo a Diretiva [2015/121/UE](https://data.europa.eu/eli/dir/2015/121/oj?locale=pt), do Conselho, de 27 de janeiro de 2015.\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "61b702f9ea67a1fc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente lei altera o Código do Imposto sobre o Rendimento das Pessoas Coletivas, aprovado pelo [Decreto-Lei n.º 442-B/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-b-1988-519003), de 30 de novembro, transpondo a Diretiva [2015/121/UE](https://data.europa.eu/eli/dir/2015/121/oj?locale=pt), do Conselho, de 27 de janeiro de 2015, que altera a Diretiva [2011/96/UE](https://data.europa.eu/eli/dir/2011/96/oj?locale=pt), do Conselho, de 30 de novembro de 2011, relativa ao regime fiscal comum aplicável às sociedades-mãe e sociedades afiliadas de Estados membros diferentes."
+  },
+  "bc5dacb16d72adb5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Alteração ao Código do Imposto sobre o Rendimento das Pessoas Coletivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Alteração ao Código do Imposto sobre o Rendimento das Pessoas Coletivas\n\nOs artigos 14.º e 51.º do Código do Imposto sobre o Rendimento das Pessoas Coletivas, aprovado pelo [Decreto-Lei n.º 442-B/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-b-1988-519003), de 30 de novembro, passam a ter a seguinte redação:\n\n«Artigo 14.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\n5 - ...\n\n6 - ...\n\n7 - ...\n\n8 - ...\n\n9 - ...\n\n10 - ...\n\n11 - ...\n\n12 - ...\n\n13 - ...\n\n14 - ...\n\n15 - ...\n\n16 - ...\n\n17 - O disposto nos n.os 3, 6 e 8 não é aplicável aos lucros e reservas distribuídos quando exista uma construção ou série de construções que, tendo sido realizada com a finalidade principal ou uma das finalidades principais de obter uma vantagem fiscal que fruste o objeto e finalidade de eliminar a dupla tributação sobre tais rendimentos, não seja considerada genuína, tendo em conta todos os factos e circunstâncias relevantes.\n\n18 - Para efeitos do número anterior, considera-se que uma construção ou série de construções não é genuína na medida em que não seja realizada por razões económicas válidas e não reflita substância económica.\n\nArtigo 51.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\n5 - ...\n\n6 - ...\n\n7 - ...\n\n8 - ...\n\n9 - ...\n\n10 - ...\n\n11 - (Revogado.)\n\n12 - (Revogado.)\n\n13 - O disposto no n.º 1 não é aplicável aos lucros e reservas distribuídos quando exista uma construção ou série de construções que, tendo sido realizada com a finalidade principal ou uma das finalidades principais de obter uma vantagem fiscal que fruste o objeto e finalidade de eliminar a dupla tributação sobre tais rendimentos, não seja considerada genuína, tendo em conta todos os factos e circunstâncias relevantes.\n\n14 - Para efeitos do número anterior, considera-se que uma construção ou série de construções não é genuína na medida em que não seja realizada por razões económicas válidas e não reflita substância económica.»\n\nAprovada em 29 de janeiro de 2016.\n\nO Presidente da Assembleia da República, Eduardo Ferro Rodrigues.\n\nPromulgada em 18 de fevereiro de 2016.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendada em 24 de fevereiro de 2016.\n\nO Primeiro-Ministro, António Luís Santos da Costa."
+  },
+  "91cfa52e7bdee2a3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Alteração ao Código do Imposto sobre o Rendimento das Pessoas Coletivas",
+   "in_force_from": "2016-03-05",
+   "changed_by": [
+    "Alterado pelo/a [Declaração de Retificação n.º 4/2016](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/4-2016-74185615), publicado em 2016-04-19."
+   ],
+   "markdown": "###### Artigo 2.º — Alteração ao Código do Imposto sobre o Rendimento das Pessoas Coletivas\n\nOs artigos 14.º e 51.º do Código do Imposto sobre o Rendimento das Pessoas Coletivas, aprovado pelo [Decreto-Lei n.º 442-B/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-b-1988-519003), de 30 de novembro, passam a ter a seguinte redação:\n\n«Artigo 14.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\n5 - ...\n\n6 - ...\n\n7 - ...\n\n8 - ...\n\n9 - ...\n\n10 - ...\n\n11 - ...\n\n12 - ...\n\n13 - ...\n\n14 - ...\n\n15 - ...\n\n16 - ...\n\n17 - O disposto nos n.os 3, 6 e 8 não é aplicável aos lucros e reservas distribuídos quando exista uma construção ou série de construções que, tendo sido realizada com a finalidade principal ou uma das finalidades principais de obter uma vantagem fiscal que frustre o objeto e finalidade de eliminar a dupla tributação sobre tais rendimentos, não seja considerada genuína, tendo em conta todos os factos e circunstâncias relevantes.\n\n18 - Para efeitos do número anterior, considera-se que uma construção ou série de construções não é genuína na medida em que não seja realizada por razões económicas válidas e não reflita substância económica.\n\nArtigo 51.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\n5 - ...\n\n6 - ...\n\n7 - ...\n\n8 - ...\n\n9 - ...\n\n10 - ...\n\n11 - (Revogado.)\n\n12 - (Revogado.)\n\n13 - O disposto no n.º 1 não é aplicável aos lucros e reservas distribuídos quando exista uma construção ou série de construções que, tendo sido realizada com a finalidade principal ou uma das finalidades principais de obter uma vantagem fiscal que frustre o objeto e finalidade de eliminar a dupla tributação sobre tais rendimentos, não seja considerada genuína, tendo em conta todos os factos e circunstâncias relevantes.\n\n14 - Para efeitos do número anterior, considera-se que uma construção ou série de construções não é genuína na medida em que não seja realizada por razões económicas válidas e não reflita substância económica.»\n\n> Alterado pelo/a [Declaração de Retificação n.º 4/2016](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/4-2016-74185615), publicado em 2016-04-19.\n\nAprovada em 29 de janeiro de 2016.\n\nO Presidente da Assembleia da República, Eduardo Ferro Rodrigues.\n\nPromulgada em 18 de fevereiro de 2016.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendada em 24 de fevereiro de 2016.\n\nO Primeiro-Ministro, António Luís Santos da Costa."
+  }
+ }
+}

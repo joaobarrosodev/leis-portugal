@@ -37,10 +37,24 @@ legal_status_basis:
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2016-07-26'
+version_history:
+  file: decreto-legislativo-regional-7-2016-a.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2016-04-08'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2016-07-26'
+    amending: pt:dre:75025071:por
+    amending_title: Decreto Legislativo Regional n.º 16/2016/A
+    changes:
+    - Altera Artigo 5.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/declegreg/7/2016/04/08/a/dre/pt/html
@@ -66,7 +80,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:22:14Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Legislativo Regional n.º
+    16/2016/A. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/acores/decretos-legislativos-regionais/2016/decreto-legislativo-regional-7-2016-a.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -146,11 +161,13 @@ As situações de custos derivados da prestação de cuidados de saúde aos uten
 
 ###### Artigo 5.º — Produção de efeitos
 
-O presente decreto legislativo regional produz efeitos à data da entrada em vigor de legislação nacional que estabeleça a gratuitidade dos cuidados prestados pelo SNS, ou entidades nele integradas, aos utentes do SRS.
+O presente diploma produz efeitos a 1 de janeiro de 2016.
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 19 de fevereiro de 2016.
 
 A Presidente da Assembleia Legislativa, Ana Luísa Luís.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 16/2016/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2016-75025071), publicado em 2016-07-25.
 
 Assinado em Angra do Heroísmo em 16 de março de 2016.
 
