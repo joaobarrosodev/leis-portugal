@@ -1,0 +1,104 @@
+[
+ {
+  "id": "pt:dre:288447:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 2.º-A",
+    "veredicto": "certo",
+    "motivo": "Aditado pelo DL 227/2007, art. 3.º n.º 1, letra a letra; não voltou a ser alterado.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 2.º-B",
+    "veredicto": "certo",
+    "motivo": "Aditado pelo DL 227/2007 (epígrafe «Regime de flexibilidade») e com a redação do DL 53/2013, art. 9.º n.º 1 (n.os 1 e 2), letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "DL 227/2007, art. 2.º n.º 1: epígrafe «Produção de efeitos», alíneas c) a e) do n.º 2, novo proémio e alíneas e) a o) do n.º 3, n.os 6 a 8 novos; DL 53/2013, art. 9.º n.º 1: n.º 9 aditado; os «...» ficam com o original. «Direcção-Geral de Viação» mantida (ver instruções justificadas). O texto do DL 74/2005 não vem na vista, por isso não se confere o que ele terá feito neste artigo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 2.º #2",
+    "veredicto": "certo",
+    "motivo": "Regulamento, art. 2.º: alínea h) aditada pelo DL 227/2007, art. 2.º n.º 2, e alíneas i) a n) pelo DL 53/2013, art. 9.º n.º 2, letra a letra; a) a g) iguais ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 20.º",
+    "veredicto": "certo",
+    "motivo": "Aditado pelo DL 227/2007, art. 3.º n.º 2, e revogado pelo DL 53/2013, art. 13.º: fica a epígrafe e «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 21.º",
+    "veredicto": "certo",
+    "motivo": "Redação do DL 53/2013, art. 9.º n.º 2 (n.os 1 a 14 e epígrafe nova), letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 22.º",
+    "veredicto": "certo",
+    "motivo": "DL 53/2013, art. 9.º n.º 2: n.os 1 e 2 letra a letra; a epígrafe «[...]» fica com a do DL 227/2007.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 23.º",
+    "veredicto": "certo",
+    "motivo": "Redação do DL 53/2013, art. 9.º n.º 2, com epígrafe nova, letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "ANEXO 2.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação integral do DL 227/2007 (anexo I, n.º 1) com os pontos 2.2, 2.4, 3.1.2 (e imagem), 4.2 e 4.4 do DL 97/2014 (anexo II); confirmado por comparação, parágrafo a parágrafo, com o texto que se esperava.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "ANEXO 3.º",
+    "veredicto": "dúvida",
+    "motivo": "O ponto 2.4 tem a redação do DL 97/2014 (anexo II), o que está certo, e a nota «(*)» e a nota «(1) Riscar o que não interessa.» também. Mas a nota 2 do original, «(nota 2) Indicar a tolerância.», desapareceu. O DL 97/2014 não a revoga nem a cita (enumera só «(*)» e «(1)»), o DL 227/2007 mantinha-a («(2) [...]») e o texto continua a remeter para ela («Número de extensão (ver nota 2)», «Razão da extensão (ver nota 2)»). Não fica claro se a omissão no DL 97/2014 é uma eliminação.",
+    "texto_esperado": "O mesmo texto do consolidado, mais o parágrafo «(nota 2) Indicar a tolerância.» a seguir a «(1) Riscar o que não interessa.»"
+   },
+   {
+    "artigo": "ANEXO 5.º",
+    "veredicto": "certo",
+    "motivo": "Secção 1: lista nova do DL 148/2013 (anexo VI), mantendo o proémio do original («[...]»). Secção 2: redação do DL 81/2011, art. 84.º. O resto é igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "ANEXO 7.º",
+    "veredicto": "certo",
+    "motivo": "DL 227/2007 (anexo I, n.º 3): 2.1.17, 2.1.18 e 2.6/2.6.1 novos. DL 97/2014 (anexo II): blocos 2.2 e 2.4 novos. O resto («[...]») é igual ao original, notas incluídas.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "ANEXO 8.º",
+    "veredicto": "certo",
+    "motivo": "DL 227/2007 (anexo I, n.º 4): o ponto 2.2.4 passa a ter a nova redação e a imagem de 2007. Sai a frase antiga «ou anexar o certificado…», que pertencia ao 2.2.4 e não consta da nova redação. O resto é igual ao original.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [
+   "DL 227/2007, art. 3.º n.º 2: aditamento do título «CAPÍTULO III — Disposições aplicáveis aos tractores e motores introduzidos no mercado ao abrigo do regime de flexibilidade» antes do artigo 20.º. O título vem escrito no alterador (não é inventar), e os artigos 2.º-B e 21.º remetem para o «capítulo III». A falta dos títulos das secções I e II está certa, porque o DL 53/2013, art. 9.º n.º 3, as eliminou.",
+   "DL 227/2007, art. 3.º n.º 3 e anexo I n.º 5, com a redação do DL 97/2014 (art. 4.º e anexo II): aditamento do ANEXO IX «Reconhecimento de homologações alternativas». O texto é todo textual e não está no consolidado. «Alvo incerto» não justifica: o anexo é novo e o alterador dá-lhe o título e o corpo.",
+   "DL 227/2007, art. 3.º n.º 3 e anexo I n.º 6, substituído pelo DL 53/2013 (art. 9.º n.º 4 e anexo IV): aditamento do ANEXO X «(a que se referem os n.os 5 e 10 do artigo 20.º) Limites de tratores a colocar no mercado no âmbito do regime de flexibilidade», com os n.os 1 e 2 em texto e as imagens dos quadros I e II. Não está no consolidado, e os artigos 21.º n.os 5 e 10 remetem para ele.",
+   "DL 97/2014, art. 4.º e anexo II: nova redação do ANEXO IX. Não foi aplicada porque o anexo IX não existe no consolidado (ver acima)."
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 53/2013, art. 12.º: a referência a «Direcção-Geral de Viação» no DL 114/2002 passa a ser «Instituto da Mobilidade e dos Transportes, I.P.»",
+    "motivo": "Confirmado no texto: é uma mudança genérica de designação, sem nova redação dos artigos (não textual)."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [
+   "ANEXO IX (aditado pelo DL 227/2007, redação do DL 97/2014)",
+   "ANEXO X (aditado pelo DL 227/2007, redação do DL 53/2013)",
+   "título do CAPÍTULO III do Regulamento (DL 227/2007, art. 3.º n.º 2)"
+  ],
+  "fora_dos_artigos": "sem alterações (o texto do DL 74/2005 não vem na vista: alterador incompleto, por isso não se conferem as instruções dele)"
+ }
+]

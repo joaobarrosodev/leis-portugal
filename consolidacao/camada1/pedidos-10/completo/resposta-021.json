@@ -1,0 +1,14 @@
+[
+ {
+  "id": "pt:dre:368663:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, art. 4.º, substituição do anexo IX do Regulamento pelo anexo II do Decreto-Lei n.º 42/2003: sem texto: o pedido só traz o artigo 4.º do alterador e não o anexo II com a nova ficha de informações (nem em texto nem em imagem), por isso o corpo do ANEXO IX fica como está.\nAlterador 2, Decreto-Lei n.º 74/2005: sem texto: o pedido não traz nenhum artigo deste alterador.",
+  "instrucoes": [
+   "Alterador 1, art. 4.º: substitui o anexo IX do Regulamento pelo anexo II do DL 42/2003; o texto do anexo II não vem no pedido, vai para nao_aplicavel (sem texto). O reparo da triagem confirma-se quanto à instrução, mas não há fonte para o novo corpo.",
+   "Alterador 2 (DL 74/2005): o pedido não traz texto; nao_aplicavel."
+  ]
+ }
+]

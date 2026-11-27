@@ -1,0 +1,15 @@
+[
+ {
+  "id": "pt:dre:561379:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, art. 9.º, n.º 1, adita ao original o anexo B do DL 265/2002 («Provas para a pesquisa da brucelose (B. melitensis)»): alvo incerto: é um anexo novo e o texto atual não tem título de anexo B onde pôr o corpo (o texto do anexo vem completo no alterador, n.os 1 a 4, não está cortado); a resposta não permite criar anexos novos.\nAlterador 1, art. 9.º, n.º 2, as referências ao teste de rosa de Bengala e fixação do complemento entendem-se feitas ao anexo B: não textual: regra de interpretação, não altera o texto.\nAlterador 2, art. 22.º, n.º 1, substitui o anexo B aditado pelo DL 265/2002 pelo anexo E do DL 227/2004: alvo incerto: o anexo B não existe no texto atual (não tem título onde pôr o corpo); o texto do anexo E vem completo no alterador, n.os 1 a 4, não está cortado.\nAlterador 2, art. 22.º, n.º 2, as referências ao teste de rosa de Bengala e fixação do complemento entendem-se feitas ao anexo E: não textual: regra de interpretação, não altera o texto.\nAlterador 2, art. 23.º, revoga o DL 265/2002: outro diploma: não revoga o original nem o anexo que este lhe aditou (o art. 22.º do mesmo alterador mantém-no, substituído pelo anexo E).",
+  "instrucoes": [
+   "Alterador 1 (DL 265/2002): só o art. 9.º se dirige ao original (aditamento do anexo B e regra de remissão); os outros artigos regulam as trocas de ovinos e caprinos e só citam o original. Nada a mudar nos artigos.",
+   "Alterador 2 (DL 227/2004): só o art. 22.º se dirige ao original (substituição do anexo B pelo anexo E e regra de remissão); o art. 23.º revoga o DL 265/2002. Nada a mudar nos artigos.",
+   "Reparos: o conteúdo dos anexos B (DL 265/2002) e E (DL 227/2004) está no texto dos alteradores; não foi aplicado porque o texto atual não tem título de anexo B (ver nao_aplicavel)."
+  ]
+ }
+]

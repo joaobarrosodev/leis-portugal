@@ -1,0 +1,37 @@
+[
+ {
+  "id": "pt:dre:164586:por",
+  "artigos": [
+   {
+    "artigo": "Artigo único",
+    "veredicto": "errado",
+    "motivo": "As retificações foram metidas como dois parágrafos novos a seguir ao 1.º parágrafo do artigo único, em vez de corrigirem o texto da tradução da Convenção; o ARTIGO XII, n.º 3, e o ARTIGO XV da tradução continuam com o texto antigo.",
+    "texto_esperado": "Sem os dois parágrafos inseridos depois do 1.º parágrafo (o artigo único segue com «Publique-se e cumpra-se como nele se contém.»). Na tradução, ARTIGO XII, n.º 3: «3. As emendas só terão efeito a partir da respectiva aprovação pela conferência da Organização. O director-geral da Organização informará destas emendas todos os Estados Membros da Comissão, todos os Estados Membros e todos os membros associados da Organização, assim como o secretário-geral das Nações Unidas.» ARTIGO XV: «… escolhido pelos ditos membros da comissão. As recomendações da comissão não obrigarão as partes em causa, …»"
+   }
+  ],
+  "instrucoes_em_falta": [
+   "Retificação: no artigo XII, n.º 3, «todos os Estados Membros e todos os membros associados» → «todos os Estados Membros da Comissão, todos os Estados Membros e todos os membros associados» (não aplicada no lugar; texto antigo mantido)",
+   "Retificação: no artigo XV, «pelos ditos membros da Comissão. As recomendações da Comissão» → «pelos ditos membros da comissão. As recomendações da comissão» (não aplicada no lugar; texto antigo mantido)"
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": []
+ },
+ {
+  "id": "pt:dre:176773:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "Subalínea 2.ª da alínea e) do n.º 1 revogada pelo art. 1.º do DLR 3/2010/M: «2.ª (Revogada.)».",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": []
+ }
+]

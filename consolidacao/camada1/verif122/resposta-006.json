@@ -1,0 +1,29 @@
+[
+  {
+    "id": "pt:dre:257600:por",
+    "artigos": [
+      {"artigo": "Artigo 2.º", "veredicto": "certo", "motivo": "Nova redação do art. 1.º do DL 226/2003 (alíneas a) a c)); a alínea d) («...») mantém o original.", "texto_esperado": ""},
+      {"artigo": "Artigo 3.º", "veredicto": "certo", "motivo": "N.os 1 e 2 («...») iguais ao original; n.º 3 aditado letra a letra.", "texto_esperado": ""},
+      {"artigo": "Artigo 4.º", "veredicto": "certo", "motivo": "Nova redação letra a letra (mandato de dois anos, início em 1 de Abril).", "texto_esperado": ""},
+      {"artigo": "Artigo 5.º", "veredicto": "certo", "motivo": "N.os 1 a 3 com a nova redação letra a letra.", "texto_esperado": ""},
+      {"artigo": "ANEXO I", "veredicto": "certo", "motivo": "Nova composição do anexo I: n.os 1.1, 1.2, 1.4 e 2.x novos letra a letra; os «(Anterior n.º ...)» recebem o texto do original (2.3, 3, 3.1.3, 3.3 a 3.9.3). Igual à republicação, salvo grafia já presente no texto do alterador. As maiúsculas nas epígrafes 2.4 a 2.6 seguem a republicação: só grafia. O 2.8 fica só com o 2.8.1, como no alterador.", "texto_esperado": ""},
+      {"artigo": "ANEXO II", "veredicto": "certo", "motivo": "Renumeração do alterador (1 = anterior 2, ..., 13 = anterior 14) e novo 1.2 com remissões para os n.os 1.1 e 1.2 do anexo I. O antigo n.º 1 sai. «oficial (CAO)/oficiais» e «explicita» seguem a republicação: só grafia.", "texto_esperado": ""}
+    ],
+    "instrucoes_em_falta": [],
+    "instrucoes_justificadas": [],
+    "artigos_a_mais": [],
+    "artigos_em_falta": [],
+    "fora_dos_artigos": "sem alterações"
+  },
+  {
+    "id": "pt:dre:260417:por",
+    "artigos": [
+      {"artigo": "ANEXO I", "veredicto": "certo", "motivo": "Art. 2.º e anexo do DL 151/2013: secção I mantida ([...]); secção II substituída pela nova redação letra a letra (epígrafe e texto). O quadro 2 sai porque a nova secção II não o tem.", "texto_esperado": ""}
+    ],
+    "instrucoes_em_falta": [],
+    "instrucoes_justificadas": [],
+    "artigos_a_mais": [],
+    "artigos_em_falta": [],
+    "fora_dos_artigos": "sem alterações"
+  }
+]

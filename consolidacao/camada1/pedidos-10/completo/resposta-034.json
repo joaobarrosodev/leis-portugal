@@ -1,0 +1,22 @@
+[
+ {
+  "id": "pt:dre:591106:por",
+  "artigos": [
+   {
+    "chave": "4.º",
+    "epigrafe": "Carreira técnica",
+    "texto": "1 - ...\n\na) ...\n\nb) ...\n\nc) Técnico de 2.ª classe, de entre indivíduos habilitados com curso superior que não confira o grau de licenciatura, em área de formação adequada ao conteúdo funcional do lugar a prover, aprovados em estágio com classificação não inferior a Bom (14 valores).\n\n2 - ...\n\n3 - ...\n\na) ...\n\nb) ...\n\nArt. 2.º - (Revogado.)\n\nVisto e aprovado em Conselho de Ministros de 21 de Julho de 1994. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga.\n\nPromulgado em 16 de Agosto de 1994.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 22 de Agosto de 1994.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.",
+    "alterador": 1
+   }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, art. 116.º, proémio (revogação de todas as disposições contrárias): revogação condicional: «disposições legais contrárias ao disposto na presente lei»",
+  "instrucoes": [
+   "Lei 12-A/2008, art. 116.º, alínea ae): revoga o artigo 2.º do DL 233/94 — o «Art. 2.º» vem no texto atual dentro do corpo da chave 4.º; os seus dois números passam a «Art. 2.º - (Revogado.)», mantendo o prefixo do texto atual, e a fórmula final segue como estava",
+   "Lei 12-A/2008, art. 116.º, restantes alíneas: revogam outros diplomas — outro diploma",
+   "Lei 12-A/2008, art. 116.º, proémio: revogação das disposições contrárias — revogação condicional"
+  ]
+ }
+]

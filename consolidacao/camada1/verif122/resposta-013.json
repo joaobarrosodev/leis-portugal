@@ -1,0 +1,161 @@
+[
+ {
+  "id": "pt:dre:140142:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 6.º do DLR 29/2012/M; epígrafe mantida.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DLR 29/2012/M, art. 6.º: revogação da «demais legislação geral ou especial que contrarie o disposto no presente diploma»",
+    "motivo": "Revogação condicional («que contrarie»): não se aplica ao texto."
+   }
+  ]
+ },
+ {
+  "id": "pt:dre:157017:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação do art. 1.º dada pelo art. 2.º do DL 354/84, letra a letra (n.os 3 e 4 novos).",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 354/84, art. 3.º: alterações ao mapa de equivalências anexo ao DR 71-D/79",
+    "motivo": "O mapa do alterador só vem em imagem («ver documento original») e o consolidado não tem anexo com título onde o pôr (nenhum ANEXO na lista de artigos)."
+   }
+  ]
+ },
+ {
+  "id": "pt:dre:324285:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 37.º-A",
+    "veredicto": "certo",
+    "motivo": "Aditado pelo art. 3.º do DL 72-E/2003, texto igual letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 37.º-B",
+    "veredicto": "certo",
+    "motivo": "Aditado pelo art. 3.º do DL 72-E/2003, texto igual letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 37.º-C",
+    "veredicto": "certo",
+    "motivo": "Aditado pelo art. 3.º do DL 72-E/2003, texto igual letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 136.º",
+    "veredicto": "certo",
+    "motivo": "N.º 2 com a nova lista a) a bb) do art. 2.º do DL 148/2013 (sem aspas, como no alterador); epígrafe, n.º 1, proémio do n.º 2 e n.os 3 a 5 mantidos ([...]).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 140.º",
+    "veredicto": "certo",
+    "motivo": "Art. 2.º do DL 72-E/2003: nova epígrafe «Embalagens e marcação», novo n.º 1 e nova alínea d) do n.º 3; restante mantido («...»).",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [
+   "DL 72-E/2003, art. 4.º, n.º 1: aditamento ao anexo VIII da nota de pé-de-página «(nota *) Mediante pedido de homologação ao abrigo do capítulo XIV…» na expressão «comunicação (ver nota *) relativa a» (anexo VIII igual ao original; a justificação dada é «alvo incerto», que não vale)",
+   "DL 72-E/2003, art. 4.º, n.º 2: nova redação dos n.os 1.2, 1.2.1, 1.2.1.1, 1.2.2 e 1.2.2.1 da adenda do certificado de homologação CE do anexo VIII (anexo VIII igual ao original; «alvo incerto» não justifica)"
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 148/2013, arts. 3.º a 18.º e anexos I a XV",
+    "motivo": "Outro diploma: alteram os DL 291/2000, 317/2000, 225/2001, 3/2002, 30/2002, 92/2002, 114/2002, 115/2002 e outros, não o DL 195/2000 (só o art. 2.º visa o DL 195/2000)."
+   }
+  ]
+ },
+ {
+  "id": "pt:dre:354481:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação do art. 4.º dada pelo art. 2.º do DR 27/89, letra a letra (prazo de dois anos).",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DR 27/89, art. 1.º: nova delimitação da área crítica pela planta anexa ao alterador",
+    "motivo": "A planta do alterador só vem em imagem («ver documento original») e o consolidado não tem anexo com título onde a pôr (nenhum ANEXO na lista); o art. 1.º do original não recebe nova redação."
+   }
+  ]
+ },
+ {
+  "id": "pt:dre:423252:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "N.º 3 com a nova redação do artigo único do DL 192/99; n.os 1 e 2 mantidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "N.º 2 com a nova redação do artigo único do DL 192/99; epígrafe e restantes números mantidos (epígrafe só passou para a linha do título).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "N.º 1 com a nova redação do artigo único do DL 192/99; n.º 2 mantido.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [
+   "DL 192/99, anexos I a IV (consumo máximo, método de cálculo, marcação «CE», procedimentos de avaliação da conformidade), para que remetem os novos art. 4.º, n.º 3, art. 6.º, n.º 2, e art. 8.º, n.º 1 («anexos … ao presente diploma e que dele fazem parte integrante»): não acrescentados ao DL 214/98; o alvo é o fim do diploma, os anexos II a IV são quase todo texto e o I tem texto com quadros em imagem; «alvo incerto» não justifica"
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": []
+ },
+ {
+  "id": "pt:dre:601311:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação do art. 1.º dada pelo art. 2.º da Lei 12/85, letra a letra.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [
+   "Lei 12/85, art. 1.º: a designação da Lei 2/82 passa a ser «Casas fruídas por repúblicas de estudantes» (não aplicada; a justificação é «alvo incerto»: o alvo é o título/sumário da lei, que não se vê na vista)"
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": []
+ }
+]

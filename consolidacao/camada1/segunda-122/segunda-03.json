@@ -1,0 +1,73 @@
+[
+ {
+  "id": "pt:dre:213881447:por",
+  "veredicto": "certo",
+  "problemas": [],
+  "vigencia": null
+ },
+ {
+  "id": "pt:dre:234946:por",
+  "veredicto": "certo",
+  "problemas": [],
+  "vigencia": null
+ },
+ {
+  "id": "pt:dre:257600:por",
+  "veredicto": "reparos",
+  "problemas": [
+   "Anexos I e II: nos números que o DL 226/2003 só renumera («(Anterior n.º X.)»), o consolidado copiou o texto da republicação em vez de manter letra a letra o texto atual (original de 1993). As diferenças:",
+   "Anexo II, n.º 1.1 (anterior n.º 2.1): o consolidado diz «Comissão de apreciação de oficial (CAO):» e «Membros eleitos da categoria de oficiais.». Pelo texto atual deve ser «1.1 - Comissão de apreciação de oficiais (CAO):», «Membros designados da categoria de oficial;» e «Membros eleitos da categoria de oficial;» (a republicação troca oficial e oficiais).",
+   "Anexo II, n.º 9 (anterior n.º 10): o consolidado tem «contendo explicita fundamentação», sem acento (erro da republicação). Deve ser «9 - Os pareceres e deliberações são escritos, contendo explícita fundamentação.»",
+   "Anexo I, n.º 1.3 (anterior n.º 2.3): deve acabar em ponto: «…das respectivas armas ou serviços.» (o consolidado tem «;»).",
+   "Anexo I, n.os 2.4, 2.5 e 2.6 (anteriores n.os 3.4, 3.5 e 3.6): devem ser «Conselho do Serviço de Saúde:», «Conselho do Serviço de Material:» e «Conselho do Serviço Geral:», com maiúsculas como no original (o consolidado tem «serviço de saúde», «serviço de material» e «serviço geral»).",
+   "Anexo I, últimos itens das listas renumeradas: o original acaba em «;» e o consolidado em «.». São eles o 2.1.2 (anterior 3.1.3), «Um segundo-sargento;»; o 2.9.2 (anterior 3.8.3), «Um segundo-sargento (corneteiro ou clarim);»; o 2.10.1 (anterior 3.9.1), «…a que estão atribuídos;»; e o 2.10.2 (anterior 3.9.2, parte que fica), «Um major;».",
+   "Os textos novos (n.os 1.1, 1.2, 1.4, 2.1, 2.1.1, 2.2.1, 2.2.2, 2.3, 2.5.2, 2.6.2, 2.7, 2.8.1 e 2.9.1 do anexo I, n.º 1.2 do anexo II e artigos 2.º a 5.º) estão certos, letra a letra pelo alterador. Se o projeto aceitar as «correcções materiais» da republicação para os números renumerados, ficam de pé só os dois primeiros reparos (oficial/oficiais e explícita), que não são correções."
+  ],
+  "vigencia": null
+ },
+ {
+  "id": "pt:dre:260417:por",
+  "veredicto": "certo",
+  "problemas": [],
+  "vigencia": null
+ },
+ {
+  "id": "pt:dre:311837:por",
+  "veredicto": "certo",
+  "problemas": [],
+  "vigencia": null
+ },
+ {
+  "id": "pt:dre:354481:por",
+  "veredicto": "certo",
+  "problemas": [],
+  "vigencia": null
+ },
+ {
+  "id": "pt:dre:361499:por",
+  "veredicto": "certo",
+  "problemas": [],
+  "vigencia": null
+ },
+ {
+  "id": "pt:dre:391584:por",
+  "veredicto": "certo",
+  "problemas": [],
+  "vigencia": null
+ },
+ {
+  "id": "pt:dre:420987:por",
+  "veredicto": "certo",
+  "problemas": [],
+  "vigencia": null
+ },
+ {
+  "id": "pt:dre:438042:por",
+  "veredicto": "certo",
+  "problemas": [],
+  "vigencia": {
+   "conclusao": "revogado",
+   "prova": "Art. 19.º do DL 155/2007: «É revogado o Decreto-Lei n.º 297/2003, de 21 de Novembro, com excepção do disposto no n.º 4 do artigo 25.º». Só o n.º 4 do art. 25.º continua em vigor."
+  }
+ }
+]
