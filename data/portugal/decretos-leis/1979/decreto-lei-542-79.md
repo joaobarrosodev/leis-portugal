@@ -39,18 +39,23 @@ notes: []
 language: por
 version:
   kind: consolidated
-  label: Versão consolidada pelo DRE
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: '1979-12-31'
+  consolidation_date: '1990-12-01'
 version_history:
   file: decreto-lei-542-79.versoes.json
-  count: 1
+  count: 2
   source_lastmod: '2024-06-25'
   versions:
   - date: '1979-12-31'
     amending: null
     amending_title: null
     changes: []
+  - date: '1990-12-01'
+    amending: pt:dre:565376:por
+    amending_title: Decreto-Lei n.º 387/90
+    changes:
+    - Altera Artigo Anexo::3.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/542/1979/p/cons/20041123/pt/html
@@ -77,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre-consolidated
   generated_at: '2026-10-22T13:09:45Z'
-  notes: 1 versão(ões); histórico completo em decreto-lei-542-79.versoes.json.
+  notes: 'Texto em vigor consolidado pelo leis-portugal sobre a versão consolidada pelo DRE de 1979-12-31 com as alterações
+    publicadas em: Decreto-Lei n.º 387/90. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1979/decreto-lei-542-79.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -192,7 +198,9 @@ h) Assegurar uma participação efectiva e permanente das famílias no processo 
 
 1 - As actividades do sistema público de educação pré-escolar realizam-se em jardins-de-infância.
 
-2 - Os jardins-de-infância do sistema público a funcionarem na dependência do Ministério da Educação são designados pelo nome da localidade onde funcionam, salvo nos casos em que, existindo mais do que um na mesma localidade, a cada um deles será atribuído um número.
+2 - (Revogado.)
+
+> Alterado pelo/a [Decreto-Lei n.º 387/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/387-1990-565376), publicado em 1990-12-10.
 
 ###### Artigo 4.º
 

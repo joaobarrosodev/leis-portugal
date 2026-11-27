@@ -40,18 +40,24 @@ notes: []
 language: por
 version:
   kind: consolidated
-  label: Versão consolidada pelo DRE
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: '2005-12-28'
+  consolidation_date: '2006-02-06'
 version_history:
   file: decreto-lei-227-2005.versoes.json
-  count: 1
+  count: 2
   source_lastmod: '2024-06-25'
   versions:
   - date: '2005-12-28'
     amending: null
     amending_title: null
     changes: []
+  - date: '2006-02-06'
+    amending: pt:dre:551868:por
+    amending_title: Declaração de Rectificação n.º 9/2006
+    changes:
+    - Altera Artigo Anexo I
+    - Altera Artigo Anexo II — Certificado
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/227/2005/p/cons/20060206/pt/html
@@ -78,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre-consolidated
   generated_at: '2026-10-22T12:06:46Z'
-  notes: 1 versão(ões); histórico completo em decreto-lei-227-2005.versoes.json.
+  notes: 'Texto em vigor consolidado pelo leis-portugal sobre a versão consolidada pelo DRE de 2005-12-28 com as alterações
+    publicadas em: Declaração de Rectificação n.º 9/2006. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2005/decreto-lei-227-2005.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -322,8 +329,12 @@ A aplicação do presente decreto-lei às Regiões Autónomas é realizada sem p
 
 ## Anexo I
 
-(ver modelo no documento original)
+[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2006/02/026a00/08570857.pdf)](https://files.diariodarepublica.pt/1s/2006/02/026a00/08570857.pdf)
+
+> Alterado pelo/a [Declaração de Rectificação n.º 9/2006](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/9-2006-551868), publicado em 2006-02-06.
 
 ## Anexo II — Certificado
 
-(ver modelo no documento original)
+[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2006/02/026a00/08570857.pdf)](https://files.diariodarepublica.pt/1s/2006/02/026a00/08570857.pdf)
+
+> Alterado pelo/a [Declaração de Rectificação n.º 9/2006](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/9-2006-551868), publicado em 2006-02-06.

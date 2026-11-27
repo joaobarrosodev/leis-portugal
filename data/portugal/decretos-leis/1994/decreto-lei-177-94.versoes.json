@@ -51,6 +51,54 @@
      "date": "1994-07-02"
     }
    ]
+  },
+  {
+   "date": "1995-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:575879:por",
+     "title": "Decreto-Lei n.º 320/94",
+     "published": "1994-12-27",
+     "dre_path": "/dr/detalhe/decreto-lei/320-1994-575879"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 21.º"
+   ],
+   "consolidated_by": "leis-portugal (consolidacao/camada1.py, linha 9 «dre»): sobre a versão consolidada pelo DRE",
+   "fragments": [
+    "52115275",
+    "52111475",
+    "52111575",
+    "52111675",
+    "52111775",
+    "52111875",
+    "52111975",
+    "52112075",
+    "52112175",
+    "52112275",
+    "52112375",
+    "52112475",
+    "52112575",
+    "52112675",
+    "52112775",
+    "52112875",
+    "52112975",
+    "52113075",
+    "52113175",
+    "52113275",
+    "52113375",
+    "52113475",
+    "52113575",
+    "52113675",
+    "52113775",
+    "52113875",
+    "433b418675d968a4",
+    "52114075",
+    "52114175",
+    "52114275"
+   ]
   }
  ],
  "fragments": {
@@ -293,6 +341,16 @@
    "in_force_from": null,
    "changed_by": [],
    "markdown": "###### Artigo 24.º — Regulamentação específica\n\n1 - São objecto de resolução do Conselho de Ministros:\n\na) A definição e a caracterização dos sistemas de incentivos, dos regimes de apoio e das acções de natureza voluntarista;\n\nb) A definição e a concretização das especificidades dos incentivos a conceder aos jovens empresários.\n\n2 - São objecto de despacho do Ministro da Indústria e Energia e dos membros do Governo competentes em razão da matéria:\n\na) A nomeação dos representantes dos organismos gestores e o funcionamento da COAP;\n\nb) A composição e o funcionamento do conselho consultivo;\n\nc) A criação, a composição e o funcionamento das comissões de selecção."
+  },
+  "433b418675d968a4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Projectos já iniciados",
+   "in_force_from": "1995-01-01",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 320/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/320-1994-575879), publicado em 1994-12-27."
+   ],
+   "markdown": "###### Artigo 21.º — Projectos já iniciados\n\n1 - Os projectos de grande relevância industrial já iniciados no ano de 1993 e que apresentem a respectiva candidatura no âmbito do PEDIP II até ao 60.º dia posterior à entrada em vigor da respectiva regulamentação são comparticipados nas despesas efectuadas a partir de 9 de Julho de 1993, desde que como tal sejam reconhecidos por despacho do Ministro da Indústria e Energia.\n\n2 - As despesas efectuadas posteriormente a 1 de Janeiro de 1994 no âmbito de projectos iniciados após aquela data abrangidos pelo presente diploma poderão ser comparticipadas desde que as respectivas candidaturas sejam apresentadas até 31 de Dezembro de 1994.\n\n> Alterado pelo/a [Decreto-Lei n.º 320/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/320-1994-575879), publicado em 1994-12-27."
   }
  }
 }

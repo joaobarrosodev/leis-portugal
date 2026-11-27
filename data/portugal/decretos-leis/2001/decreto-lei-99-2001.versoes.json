@@ -35,6 +35,41 @@
      "date": "2001-07-26"
     }
    ]
+  },
+  {
+   "date": "2004-07-26",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:505637:por",
+     "title": "Decreto-Lei n.º 175/2004",
+     "published": "2004-07-21",
+     "dre_path": "/dr/detalhe/decreto-lei/175-2004-505637"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 2.º",
+    "Revoga Artigo 4.º",
+    "Revoga Artigo 5.º",
+    "Revoga Artigo 6.º"
+   ],
+   "consolidated_by": "leis-portugal (consolidacao/camada1.py, linha 9 «dre»): sobre a versão consolidada pelo DRE",
+   "fragments": [
+    "52826475",
+    "52823175",
+    "e395ad5657c623d2",
+    "52823375",
+    "13013ac9cf667b86",
+    "950d860aa4cd6013",
+    "baf2728014ff6764",
+    "52823775",
+    "52823875",
+    "52823975",
+    "52824075",
+    "52824175",
+    "52824275",
+    "52824375"
+   ]
   }
  ],
  "fragments": {
@@ -149,6 +184,46 @@
    "in_force_from": null,
    "changed_by": [],
    "markdown": "###### Artigo 13.º — Produção de efeitos\n\nO presente diploma produz efeitos a partir de 1 de Janeiro de 2001."
+  },
+  "e395ad5657c623d2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Institutos politécnicos da saúde",
+   "in_force_from": "2004-07-26",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 175/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/175-2004-505637), publicado em 2004-07-21."
+   ],
+   "markdown": "###### Artigo 2.º — Institutos politécnicos da saúde\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 175/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/175-2004-505637), publicado em 2004-07-21."
+  },
+  "13013ac9cf667b86": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Escolas não integradas",
+   "in_force_from": "2004-07-26",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 175/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/175-2004-505637), publicado em 2004-07-21."
+   ],
+   "markdown": "###### Artigo 4.º — Escolas não integradas\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 175/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/175-2004-505637), publicado em 2004-07-21."
+  },
+  "950d860aa4cd6013": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Regime de instalação",
+   "in_force_from": "2004-07-26",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 175/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/175-2004-505637), publicado em 2004-07-21."
+   ],
+   "markdown": "###### Artigo 5.º — Regime de instalação\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 175/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/175-2004-505637), publicado em 2004-07-21."
+  },
+  "baf2728014ff6764": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Regime de integração",
+   "in_force_from": "2004-07-26",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 175/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/175-2004-505637), publicado em 2004-07-21."
+   ],
+   "markdown": "###### Artigo 6.º — Regime de integração\n\n1 - (Revogado.)\n\n2 - Os institutos politécnicos a que se refere o artigo 3.º procedem à adequação dos seus estatutos, tendo, nomeadamente, em vista a inclusão dos representantes das escolas integradas nos órgãos próprios dos institutos.\n\n3 - A Universidade do Algarve procede à adequação dos seus estatutos, tendo, nomeadamente, em vista a inclusão dos representantes da Escola Superior de Enfermagem de Faro nos seus órgãos próprios.\n\n4 - As escolas a que se refere o artigo 3.º que se encontrem em regime estatutário procedem à adequação dos seus estatutos aos estatutos do estabelecimento em que se integraram.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 175/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/175-2004-505637), publicado em 2004-07-21."
   }
  }
 }

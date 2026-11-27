@@ -40,18 +40,24 @@ notes: []
 language: por
 version:
   kind: consolidated
-  label: Versão consolidada pelo DRE
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: '2021-04-19'
+  consolidation_date: '2021-05-03'
 version_history:
   file: decreto-legislativo-regional-10-2021-a.versoes.json
-  count: 1
+  count: 2
   source_lastmod: '2024-06-25'
   versions:
   - date: '2021-04-19'
     amending: null
     amending_title: null
     changes: []
+  - date: '2021-05-03'
+    amending: pt:dre:162562467:por
+    amending_title: Declaração de Retificação n.º 5/2021/A
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo Anexo — Regulamento de Concurso do Pessoal Docente da Educação Pré-Escolar e dos Ensinos Básico e Secundário::9.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/declegreg/10/2021/a/cons/20210506/pt/html
@@ -78,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre-consolidated
   generated_at: '2026-10-22T12:40:55Z'
-  notes: 1 versão(ões); histórico completo em decreto-legislativo-regional-10-2021-a.versoes.json.
+  notes: 'Texto em vigor consolidado pelo leis-portugal sobre a versão consolidada pelo DRE de 2021-04-19 com as alterações
+    publicadas em: Declaração de Retificação n.º 5/2021/A. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/acores/decretos-legislativos-regionais/2021/decreto-legislativo-regional-10-2021-a.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -358,7 +365,7 @@ b) [...]
 
 c) Candidatos detentores de habilitação profissional que, na qualidade de opositores ao concurso externo de provimento precedente, tenham sido integrados no critério de ordenação a que se refere a alínea a) do n.º 6;
 
-d) [...]
+d) Candidatos detentores de habilitação profissional que, na qualidade de opositores ao concurso externo de provimento precedente, tenham sido integrados no critério de ordenação a que se refere a alínea b) do n.º 6;
 
 e) [...]
 
@@ -595,6 +602,8 @@ Artigo 26.º
 1 - Para que um docente provido pela primeira vez em quadro do sistema educativo regional possa beneficiar de mobilidade na forma de requisição, tem de cumprir, obrigatoriamente, no quadro onde obteve colocação com vínculo definitivo, esse ano escolar e o subsequente, sem prejuízo de poderem candidatar-se, por concurso interno de provimento, a escolas do Ministério da Educação ou da Região Autónoma da Madeira.
 
 2 - [...]»
+
+> Alterado pelo/a [Declaração de Retificação n.º 5/2021/A](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/5-2021-162562467), publicado em 2021-05-03.
 
 ###### Artigo 3.º — Aditamento ao Regulamento de Concurso do Pessoal Docente da Educação Pré-Escolar e Ensinos Básico e Secundário
 
@@ -874,13 +883,15 @@ b) (Revogada.)
 
 c) Candidatos detentores de habilitação profissional que, na qualidade de opositores ao concurso externo de provimento precedente, tenham sido integrados no critério de ordenação a que se refere a alínea a) do n.º 6;
 
-d) Candidatos detentores de habilitação profissional que, na qualidade de opositores ao concurso externo de provimento precedente, tenham sido integrados no critério de ordenação a que se refere a alínea b) do número anterior;
+d) Candidatos detentores de habilitação profissional que, na qualidade de opositores ao concurso externo de provimento precedente, tenham sido integrados no critério de ordenação a que se refere a alínea b) do n.º 6;
 
 e) Candidatos com habilitação profissional;
 
 f) Candidatos com habilitação própria.
 
 9 - (Anterior n.º 8.) (Revogado.)
+
+> Alterado pelo/a [Declaração de Retificação n.º 5/2021/A](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/5-2021-162562467), publicado em 2021-05-03.
 
 ###### Artigo 10.º — Graduação profissional
 

@@ -41,18 +41,23 @@ notes: []
 language: por
 version:
   kind: consolidated
-  label: Versão consolidada pelo DRE
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: '2022-05-30'
+  consolidation_date: '2022-07-13'
 version_history:
   file: decreto-legislativo-regional-12-2022-m.versoes.json
-  count: 1
+  count: 2
   source_lastmod: '2024-06-25'
   versions:
   - date: '2022-05-30'
     amending: null
     amending_title: null
     changes: []
+  - date: '2022-07-13'
+    amending: pt:dre:186029191:por
+    amending_title: Declaração de Retificação n.º 3/2022/M
+    changes:
+    - Altera Artigo 17.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/declegreg/12/2022/m/cons/20220713/pt/html
@@ -79,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre-consolidated
   generated_at: '2026-10-22T12:50:43Z'
-  notes: 1 versão(ões); histórico completo em decreto-legislativo-regional-12-2022-m.versoes.json.
+  notes: 'Texto em vigor consolidado pelo leis-portugal sobre a versão consolidada pelo DRE de 2022-05-30 com as alterações
+    publicadas em: Declaração de Retificação n.º 3/2022/M. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/madeira/decretos-legislativos-regionais/2022/decreto-legislativo-regional-12-2022-m.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -345,7 +351,7 @@ Os serviços prestados, no âmbito do presente diploma, pelo serviço da adminis
 
 1 - Os responsáveis técnicos com inscrição válida ao abrigo do Decreto Legislativo Regional n.º 12/96/M, de 6 de julho, licenciados nas áreas do desporto, educação física ou similares, tal como identificadas pela direção-geral competente em matéria do ensino superior, mantêm a sua inscrição válida até ao fim do respetivo prazo, devendo, findo o mesmo, requerer ao serviço da administração pública regional que prossegue as atribuições do setor do desporto a emissão de título profissional de DT ou de TEF.
 
-2 - Os responsáveis técnicos com inscrição válida ao abrigo do Decreto Legislativo Regional n.º 33/2002/A, de 5 de novembro, não licenciados, mantêm a sua inscrição válida até ao fim do respetivo prazo, devendo, findo o mesmo, requerer ao serviço da administração pública regional que prossegue as atribuições do setor do desporto a emissão de título profissional de TEF, desde que cumpram os seguintes requisitos:
+2 - Os responsáveis técnicos com inscrição válida ao abrigo da Lei n.º 39/2012, de 28 de agosto, mantêm a sua inscrição válida até ao fim do respetivo prazo, devendo, findo o mesmo, requerer ao serviço da administração pública regional que prossegue as atribuições do setor do desporto a emissão de título profissional de TEF, desde que cumpram os seguintes requisitos:
 
 a) Nível de qualificação do Quadro Nacional de Qualificações: nível 5;
 
@@ -353,7 +359,9 @@ b) Nível de qualificação do Quadro Europeu das Qualificações: nível 5;
 
 c) Número de horas previsto no Catálogo Nacional de Qualificações.
 
-3 - Os responsáveis técnicos com inscrição válida ao abrigo do Decreto Legislativo Regional n.º 33/2002/A, de 5 de novembro, não licenciados e que não cumpram os requisitos elencados no número anterior, devem requerer ao serviço da administração pública regional que prossegue as atribuições do setor do desporto, no prazo máximo de 30 dias a contar da entrada em vigor do presente diploma, a emissão de um título provisório para o exercício de funções de TEF, válido por um ano e prorrogável no máximo até três anos, desde que demonstrada a frequência de formação tendente à regularização da sua formação nos termos do número anterior.
+3 - Os responsáveis técnicos com inscrição válida ao abrigo da Lei n.º 39/2012, de 28 de agosto, que não cumpram os requisitos elencados no número anterior, devem requerer ao serviço da administração pública regional que prossegue as atribuições do setor do desporto, no prazo máximo de 90 dias a contar da entrada em vigor do presente diploma, a emissão de um título provisório para o exercício de funções de TEF, válido por um ano e prorrogável no máximo até três anos, desde que demonstrada a frequência de formação tendente à regularização da sua formação nos termos do número anterior.
+
+> Alterado pelo/a [Declaração de Retificação n.º 3/2022/M](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/3-2022-186029191), publicado em 2022-07-13.
 
 ###### Artigo 18.º — Desmaterialização de procedimentos
 

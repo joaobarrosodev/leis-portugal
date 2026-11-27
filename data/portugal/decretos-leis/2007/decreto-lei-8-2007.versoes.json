@@ -405,6 +405,55 @@
     "45082175",
     "47147275"
    ]
+  },
+  {
+   "date": "2025-07-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:912653926:por",
+     "title": "Decreto-Lei n.º 49/2025",
+     "published": "2025-03-27",
+     "dre_path": "/dr/detalhe/decreto-lei/49-2025-912653926"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "consolidated_by": "leis-portugal (consolidacao/camada1.py, linha 9 «dre»): sobre a versão consolidada pelo DRE",
+   "fragments": [
+    "45079375",
+    "45079475",
+    "45079575",
+    "e9b8fa524ca66e09",
+    "116843602",
+    "116843603",
+    "116843604",
+    "116843605",
+    "45080175",
+    "45080275",
+    "116843606",
+    "73051636",
+    "116843607",
+    "139129451",
+    "45080575",
+    "45080675",
+    "45080775",
+    "45080875",
+    "45080975",
+    "45081075",
+    "45081175",
+    "45081275",
+    "45081375",
+    "45081475",
+    "45081575",
+    "45081675",
+    "45081775",
+    "45081875",
+    "45081975",
+    "45082075",
+    "ab27384349542bb9"
+   ]
   }
  ],
  "fragments": {
@@ -861,6 +910,28 @@
     "Aditado pelo/a Artigo 22.º do/a [Lei n.º 119/2019 - Diário da República n.º 179/2019, Série I de 2019-09-18](https://diariodarepublica.pt/dr/detalhe/lei/119-2019-124793094), em vigor a partir de 2019-10-01"
    ],
    "markdown": "###### Artigo 10.º-A — Regulamentação prévia necessária à entrega do ficheiro SAF-T(PT), relativo à contabilidade\n\nA obrigação de entrega do ficheiro SAF-T(PT), relativo à contabilidade, devidamente expurgado, prevista nos artigos anteriores, está dependente da prévia publicação do decreto-lei previsto no n.º 7 do artigo 2.º\n\n> Aditado pelo/a Artigo 22.º do/a [Lei n.º 119/2019 - Diário da República n.º 179/2019, Série I de 2019-09-18](https://diariodarepublica.pt/dr/detalhe/lei/119-2019-124793094), em vigor a partir de 2019-10-01"
+  },
+  "e9b8fa524ca66e09": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": "2025-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 21.º do/a [Lei n.º 119/2019 - Diário da República n.º 179/2019, Série I de 2019-09-18](https://diariodarepublica.pt/dr/detalhe/lei/119-2019-124793094), em vigor a partir de 2019-10-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 87/2018 - Diário da República n.º 210/2018, Série I de 2018-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-2018-116826872), em vigor a partir de 2018-11-01",
+    "Alterado pelo/a Artigo 15.º do/a [Lei n.º 89/2017 - Diário da República n.º 160/2017, Série I de 2017-08-21](https://diariodarepublica.pt/dr/detalhe/lei/89-2017-108028571), em vigor a partir de 2017-11-19",
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01",
+    "Alterado pelo/a [Decreto-Lei n.º 49/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2025-912653926), publicado em 2025-03-27."
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1 - A IES compreende as seguintes obrigações legais:\n\na) A entrega da declaração anual de informação contabilística e fiscal prevista no n.º 1 do artigo 113.º do Código do Imposto sobre o Rendimento das Pessoas Singulares (CIRS), quando respeite a pessoas singulares titulares de estabelecimentos individuais de responsabilidade limitada;\n\nb) A entrega da declaração anual de informação contabilística e fiscal prevista na alínea c) do n.º 1 do artigo 117.º do Código do Imposto sobre o Rendimento das Pessoas Coletivas;\n\nc) O registo da prestação de contas, nos termos previstos na legislação do registo comercial;\n\nd) A prestação de informação de natureza estatística ao Instituto Nacional de Estatística (INE), nos termos previstos na Lei do Sistema Estatístico Nacional e em outras normas, designadamente emanadas de instituições da União Europeia;\n\ne) A prestação de informação relativa a dados contabilísticos anuais para fins estatísticos ao Banco de Portugal, de acordo com o estabelecido na respectiva lei orgânica, incluindo a que decorre da participação do Banco de Portugal no Sistema Europeu de Bancos Centrais;\n\nf) A prestação de informação de natureza estatística à Direção-Geral das Atividades Económicas (DGAE), para os efeitos previstos no regime jurídico de acesso e exercício de atividades de comércio, serviços e restauração, aprovado em anexo ao Decreto-Lei n.º 10/2015, de 16 de janeiro.\n\ng) A confirmação da informação sobre o beneficiário efetivo, nos termos previstos em legislação especial.\n\n2 - Com a entrega da IES, devem ser igualmente apresentadas as seguintes declarações:\n\na) A declaração anual de informação contabilística e fiscal prevista no n.º 1 do artigo 113.º do CIRS, quando respeite a pessoas singulares que não sejam titulares de estabelecimentos individuais de responsabilidade limitada;\n\nb) A declaração anual de informação contabilística e fiscal e os mapas recapitulativos previstos nas alíneas d) e f) do n.º 1 do artigo 29.º do Código do Imposto sobre o Valor Acrescentado;\n\nc) (Revogada.)\n\n3 - As obrigações legais previstas no n.º 1 do artigo 2.º são exclusivamente cumpridas através da entrega da IES.\n\n4 - As entidades obrigadas ao cumprimento das obrigações legais referidas nos números anteriores são determinadas pela legislação respectiva.\n\n5 - O cumprimento das obrigações legais referidas no n.º 1 e na alínea a) do n.º 2 fica dependente da submissão prévia do ficheiro normalizado de auditoria tributária, designado de SAF-T (PT), relativo à contabilidade, à Autoridade Tributária e Aduaneira e respetiva validação, sem a qual não é possível a entrega da IES/DA, nos termos a definir por portaria dos membros do Governo responsáveis pela área das finanças, pelo INE, I. P., e pelas áreas da justiça e da economia.\n\n6 - No processo de submissão prévia a que se refere o número anterior, devem ser excluídos, previamente à submissão, os campos de dados do ficheiro normalizado de auditoria tributária, designado de SAF-T(PT), relativo à contabilidade, que sejam considerados de menor relevância ou de desproporcionalidade face ao âmbito e objeto do presente diploma, designadamente dados que possam por em causa deveres de sigilo a que, legal ou contratualmente, os sujeitos passivos se encontrem obrigados.\n\n7 - Para efeitos dos números anteriores e demais artigos do presente diploma, os campos de dados do ficheiro normalizado SAF-T(PT), relativo à contabilidade, e os procedimentos a adotar, são definidos por decreto-lei.\n\n8 - Para efeitos contraordenacionais, a obrigação de entrega da IES/DA constitui uma obrigação distinta da submissão e validação do ficheiro normalizado referido nos números anteriores.\n\n> Alterado pelo/a Artigo 21.º do/a [Lei n.º 119/2019 - Diário da República n.º 179/2019, Série I de 2019-09-18](https://diariodarepublica.pt/dr/detalhe/lei/119-2019-124793094), em vigor a partir de 2019-10-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 87/2018 - Diário da República n.º 210/2018, Série I de 2018-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-2018-116826872), em vigor a partir de 2018-11-01\n\n> Alterado pelo/a Artigo 15.º do/a [Lei n.º 89/2017 - Diário da República n.º 160/2017, Série I de 2017-08-21](https://diariodarepublica.pt/dr/detalhe/lei/89-2017-108028571), em vigor a partir de 2017-11-19\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01\n\n> Alterado pelo/a [Decreto-Lei n.º 49/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2025-912653926), publicado em 2025-03-27."
+  },
+  "ab27384349542bb9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.\n\nVisto e aprovado em Conselho de Ministros de 9 de Novembro de 2006. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - Fernando Teixeira dos Santos - Manuel Pedro Cunha da Silva Pereira - Alberto Bernardes Costa.\n\nPromulgado em 4 de Janeiro de 2007.\n\nPublique-se.\n\nO Presidente da República, ANÍBAL CAVACO SILVA.\n\nReferendado em 8 de Janeiro de 2007.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
   }
  }
 }

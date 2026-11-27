@@ -49,6 +49,52 @@
      "date": "2022-05-31"
     }
    ]
+  },
+  {
+   "date": "2022-07-13",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:186029191:por",
+     "title": "Declaração de Retificação n.º 3/2022/M",
+     "published": "2022-07-13",
+     "dre_path": "/dr/detalhe/declaracao-retificacao/3-2022-186029191"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 17.º"
+   ],
+   "consolidated_by": "leis-portugal (consolidacao/camada1.py, linha 9 «dre»): sobre a versão consolidada pelo DRE",
+   "fragments": [
+    "183912740",
+    "183912741",
+    "183912742",
+    "183912743",
+    "183912744",
+    "183912745",
+    "183912746",
+    "183912747",
+    "183912748",
+    "183912749",
+    "183912750",
+    "183912751",
+    "183912752",
+    "183912753",
+    "183912754",
+    "183912755",
+    "183912756",
+    "183912757",
+    "183912758",
+    "183912759",
+    "183912760",
+    "183912761",
+    "9c9ed6f0aa9245e9",
+    "183912763",
+    "183912764",
+    "183912765",
+    "183912766",
+    "183912767"
+   ]
   }
  ],
  "fragments": {
@@ -275,6 +321,16 @@
    "in_force_from": null,
    "changed_by": [],
    "markdown": "###### Artigo 22.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "9c9ed6f0aa9245e9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Disposição transitória",
+   "in_force_from": "2022-07-13",
+   "changed_by": [
+    "Alterado pelo/a [Declaração de Retificação n.º 3/2022/M](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/3-2022-186029191), publicado em 2022-07-13."
+   ],
+   "markdown": "###### Artigo 17.º — Disposição transitória\n\n1 - Os responsáveis técnicos com inscrição válida ao abrigo do Decreto Legislativo Regional n.º 12/96/M, de 6 de julho, licenciados nas áreas do desporto, educação física ou similares, tal como identificadas pela direção-geral competente em matéria do ensino superior, mantêm a sua inscrição válida até ao fim do respetivo prazo, devendo, findo o mesmo, requerer ao serviço da administração pública regional que prossegue as atribuições do setor do desporto a emissão de título profissional de DT ou de TEF.\n\n2 - Os responsáveis técnicos com inscrição válida ao abrigo da Lei n.º 39/2012, de 28 de agosto, mantêm a sua inscrição válida até ao fim do respetivo prazo, devendo, findo o mesmo, requerer ao serviço da administração pública regional que prossegue as atribuições do setor do desporto a emissão de título profissional de TEF, desde que cumpram os seguintes requisitos:\n\na) Nível de qualificação do Quadro Nacional de Qualificações: nível 5;\n\nb) Nível de qualificação do Quadro Europeu das Qualificações: nível 5;\n\nc) Número de horas previsto no Catálogo Nacional de Qualificações.\n\n3 - Os responsáveis técnicos com inscrição válida ao abrigo da Lei n.º 39/2012, de 28 de agosto, que não cumpram os requisitos elencados no número anterior, devem requerer ao serviço da administração pública regional que prossegue as atribuições do setor do desporto, no prazo máximo de 90 dias a contar da entrada em vigor do presente diploma, a emissão de um título provisório para o exercício de funções de TEF, válido por um ano e prorrogável no máximo até três anos, desde que demonstrada a frequência de formação tendente à regularização da sua formação nos termos do número anterior.\n\n> Alterado pelo/a [Declaração de Retificação n.º 3/2022/M](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/3-2022-186029191), publicado em 2022-07-13."
   }
  }
 }

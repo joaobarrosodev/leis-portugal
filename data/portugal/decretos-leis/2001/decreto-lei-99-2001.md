@@ -41,18 +41,26 @@ notes: []
 language: por
 version:
   kind: consolidated
-  label: Versão consolidada pelo DRE
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: '2001-03-28'
+  consolidation_date: '2004-07-26'
 version_history:
   file: decreto-lei-99-2001.versoes.json
-  count: 1
+  count: 2
   source_lastmod: '2024-06-25'
   versions:
   - date: '2001-03-28'
     amending: null
     amending_title: null
     changes: []
+  - date: '2004-07-26'
+    amending: pt:dre:505637:por
+    amending_title: Decreto-Lei n.º 175/2004
+    changes:
+    - Revoga Artigo 2.º
+    - Revoga Artigo 4.º
+    - Revoga Artigo 5.º
+    - Revoga Artigo 6.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/99/2001/p/cons/20040721/pt/html
@@ -79,7 +87,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre-consolidated
   generated_at: '2026-10-22T11:44:31Z'
-  notes: 1 versão(ões); histórico completo em decreto-lei-99-2001.versoes.json.
+  notes: 'Texto em vigor consolidado pelo leis-portugal sobre a versão consolidada pelo DRE de 2001-03-28 com as alterações
+    publicadas em: Decreto-Lei n.º 175/2004. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2001/decreto-lei-99-2001.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -243,45 +252,9 @@ ae) Escola Superior de Enfermagem da Madeira.
 
 ###### Artigo 2.º — Institutos politécnicos da saúde
 
-1 - São criados, sob a tutela exclusiva do Ministério da Educação:
+(Revogado.)
 
-a) O Instituto Politécnico da Saúde de Coimbra;
-
-b) O Instituto Politécnico da Saúde de Lisboa;
-
-c) O Instituto Politécnico da Saúde do Porto.
-
-2 - São integradas:
-
-a) No Instituto Politécnico da Saúde de Coimbra:
-
-A Escola Superior de Enfermagem do Dr. Ângelo da Fonseca;
-
-A Escola Superior de Enfermagem de Bissaya Barreto;
-
-A Escola Superior de Tecnologia da Saúde de Coimbra;
-
-b) No Instituto Politécnico da Saúde de Lisboa:
-
-A Escola Superior de Enfermagem de Artur Ravara;
-
-A Escola Superior de Enfermagem de Francisco Gentil;
-
-A Escola Superior de Enfermagem de Calouste Gulbenkian de Lisboa;
-
-A Escola Superior de Enfermagem de Maria Fernanda Resende;
-
-A Escola Superior de Tecnologia da Saúde de Lisboa;
-
-c) No Instituto Politécnico da Saúde do Porto:
-
-A Escola Superior de Enfermagem Cidade do Porto;
-
-A Escola Superior de Enfermagem de D. Ana Guedes;
-
-A Escola Superior de Enfermagem de São João;
-
-A Escola Superior de Tecnologia da Saúde do Porto.
+> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 175/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/175-2004-505637), publicado em 2004-07-21.
 
 ###### Artigo 3.º — Integração das escolas
 
@@ -309,37 +282,27 @@ j) No Instituto Politécnico de Viseu a Escola Superior de Enfermagem de Viseu.
 
 ###### Artigo 4.º — Escolas não integradas
 
-Mantêm o estatuto de escola politécnica não integrada as seguintes escolas:
+(Revogado.)
 
-a) Escola Superior de Enfermagem de Calouste Gulbenkian;
-
-b) Escola Superior de Enfermagem de São João de Deus;
-
-c) Escola Superior de Enfermagem de Vila Real;
-
-d) Escola Superior de Enfermagem de Angra do Heroísmo;
-
-e) Escola Superior de Enfermagem de Ponta Delgada;
-
-f) Escola Superior de Enfermagem da Madeira.
+> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 175/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/175-2004-505637), publicado em 2004-07-21.
 
 ###### Artigo 5.º — Regime de instalação
 
-1 - Os institutos politécnicos a que se refere o artigo 2.º entram em funcionamento em regime de instalação, sem prejuízo da competência dos órgãos próprios das escolas neles integradas.
+(Revogado.)
 
-2 - Até à conclusão do regime de integração previsto no artigo 6.º, as escolas integradas nos institutos politécnicos a que se refere o artigo 2.º conservam o regime de gestão em que se encontrem em 31 de Dezembro de 2000.
-
-3 - O período de instalação dos institutos politécnicos a que se refere o artigo 2.º tem a duração máxima de dois anos contados a partir da data de tomada de posse do primeiro presidente.
+> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 175/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/175-2004-505637), publicado em 2004-07-21.
 
 ###### Artigo 6.º — Regime de integração
 
-1 - Após a entrada em vigor dos estatutos dos institutos politécnicos a que se refere o n.º 1 do artigo 2.º, as escolas a que se refere o n.º 2 do mesmo artigo que se encontrem em regime estatutário procedem à consequente adequação dos seus estatutos.
+1 - (Revogado.)
 
 2 - Os institutos politécnicos a que se refere o artigo 3.º procedem à adequação dos seus estatutos, tendo, nomeadamente, em vista a inclusão dos representantes das escolas integradas nos órgãos próprios dos institutos.
 
 3 - A Universidade do Algarve procede à adequação dos seus estatutos, tendo, nomeadamente, em vista a inclusão dos representantes da Escola Superior de Enfermagem de Faro nos seus órgãos próprios.
 
 4 - As escolas a que se refere o artigo 3.º que se encontrem em regime estatutário procedem à adequação dos seus estatutos aos estatutos do estabelecimento em que se integraram.
+
+> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 175/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/175-2004-505637), publicado em 2004-07-21.
 
 ###### Artigo 7.º — Regimes de cooperação ou associação
 

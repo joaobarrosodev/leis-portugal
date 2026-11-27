@@ -66,6 +66,69 @@
      "date": "2008-04-20"
     }
    ]
+  },
+  {
+   "date": "2008-06-13",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:551642:por",
+     "title": "Declaração de Rectificação n.º 32-B/2008",
+     "published": "2008-06-13",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/32-b-2008-551642"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 10.º"
+   ],
+   "consolidated_by": "leis-portugal (consolidacao/camada1.py, linha 9 «dre»): sobre a versão consolidada pelo DRE",
+   "fragments": [
+    "106489776",
+    "106489777",
+    "106489778",
+    "106489779",
+    "106489780",
+    "106489781",
+    "106489782",
+    "106489783",
+    "106489784",
+    "106489785",
+    "106489786",
+    "106489787",
+    "106489788",
+    "b0b03d165f3fd35b",
+    "106489790",
+    "106489791",
+    "106489792",
+    "106489793",
+    "106489794",
+    "106489795",
+    "106489796",
+    "106489797",
+    "106489798",
+    "106489799",
+    "106489800",
+    "106489801",
+    "106489802",
+    "106489803",
+    "106489804",
+    "106489805",
+    "106489806",
+    "106489807",
+    "106489808",
+    "106489809",
+    "106489810",
+    "106489811",
+    "106489812",
+    "106489813",
+    "106489814",
+    "106489815",
+    "106489816",
+    "106489817",
+    "106489818",
+    "106489819",
+    "106489820"
+   ]
   }
  ],
  "fragments": {
@@ -428,6 +491,16 @@
    "in_force_from": null,
    "changed_by": [],
    "markdown": "###### Artigo 36.º — Revogação\n\n1 - É revogado o Decreto-Lei n.º 305/97, de 11 de Novembro.\n\n2 - O Regulamento da Comissão da Carteira Profissional de Jornalista, aprovado em 22 de Abril de 1996 e publicado na 2.ª série do Diário da República de 4 de Julho de 1996, mantém-se em vigor, em tudo o que não contrarie o presente decreto-lei, até à aprovação do novo regulamento."
+  },
+  "b0b03d165f3fd35b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Cartão de correspondente local e de colaborador da área informativa",
+   "in_force_from": "2008-06-13",
+   "changed_by": [
+    "Alterado pelo/a [Declaração de Rectificação n.º 32-B/2008](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/32-b-2008-551642), publicado em 2008-06-13."
+   ],
+   "markdown": "###### Artigo 10.º — Cartão de correspondente local e de colaborador da área informativa\n\n1 - Os correspondentes locais, bem como os colaboradores especializados e os colaboradores da área informativa de órgãos de comunicação social nacionais, regionais ou locais, que exerçam regularmente actividade jornalística sem que esta constitua a sua ocupação principal, permanente e remunerada, têm direito a um documento de identificação, para fins de acesso à informação.\n\n2 - O requerimento para a emissão dos títulos a que se refere o presente artigo é acompanhado dos seguintes documentos:\n\na) Cópia de documento que permita a identificação civil do requerente;\n\nb) Uma fotografia recente a cores, tipo passe;\n\nc) Declaração da entidade proprietária do órgão de comunicação social onde o interessado exerce a actividade jornalística comprovativa das funções aí desempenhadas;\n\nd) Declaração, sob compromisso de honra, de que se obriga a observar os deveres inerentes à profissão.\n\n3 - São aplicáveis, com as necessárias adaptações, os n.os 2 e 3 do artigo anterior.\n\n> Alterado pelo/a [Declaração de Rectificação n.º 32-B/2008](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/32-b-2008-551642), publicado em 2008-06-13."
   }
  }
 }

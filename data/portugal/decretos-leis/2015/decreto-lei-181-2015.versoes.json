@@ -41,6 +41,44 @@
      "date": "2015-09-28"
     }
    ]
+  },
+  {
+   "date": "2015-10-19",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:70737911:por",
+     "title": "Declaração de Retificação n.º 47/2015",
+     "published": "2015-10-19",
+     "dre_path": "/dr/detalhe/declaracao-retificacao/47-2015-70737911"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 7.º"
+   ],
+   "consolidated_by": "leis-portugal (consolidacao/camada1.py, linha 9 «dre»): sobre a versão consolidada pelo DRE",
+   "fragments": [
+    "70730993",
+    "70730994",
+    "70730995",
+    "70730996",
+    "70730997",
+    "70730998",
+    "70730999",
+    "f849dbdac7cb645a",
+    "70731001",
+    "70731002",
+    "70731003",
+    "70731004",
+    "70731005",
+    "70731006",
+    "70731007",
+    "70731008",
+    "70731009",
+    "70731010",
+    "70731011",
+    "70731012"
+   ]
   }
  ],
  "fragments": {
@@ -203,6 +241,16 @@
    "in_force_from": null,
    "changed_by": [],
    "markdown": "###### Artigo 19.º — Entrada em vigor e produção de efeitos\n\n1 - O presente decreto-lei entra em vigor 30 dias após a sua publicação.\n\n2 - Sem prejuízo do disposto no número anterior, os artigos 6.º a 9.º produzem efeitos a partir do dia 1 de janeiro de 2016."
+  },
+  "f849dbdac7cb645a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Requisitos da declaração de resina",
+   "in_force_from": "2015-10-19",
+   "changed_by": [
+    "Alterado pelo/a [Declaração de Retificação n.º 47/2015](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/47-2015-70737911), publicado em 2015-10-19."
+   ],
+   "markdown": "###### Artigo 7.º — Requisitos da declaração de resina\n\n1 - A declaração de resina integra os seguintes requisitos mínimos de conteúdo:\n\na) O número do registo de operador de resina e a respetiva identificação;\n\nb) A identificação da atividade, podendo consistir, isolada ou simultaneamente, na extração, transporte, armazenamento, transformação, importação ou exportação de resina de pinheiro;\n\nc) A indicação da duração previsional da resinagem;\n\nd) A espécie de pinheiro a resinar, a modalidade de resinagem, e o número de árvores a explorar;\n\ne) Indicação da origem da resina:\n\ni) Em caso de resina de origem nacional, a identificação dos prédios de extração da resina e a sua localização, a área da parcela ou parcelas e a sua localização, bem como a previsão da quantidade de resina a extrair por prédio;\n\nii) Em caso de resina importada, a identificação do país de origem e a quantidade importada;\n\nf) A indicação do destino da resina, nacional ou importada, com identificação do operador de resina recetor e menção da residência ou sede, o número de identificação fiscal e o local ou locais de receção da resina.\n\n2 - No caso de extração de resina a declaração deve ser apresentada anualmente.\n\n3 - A omissão ou deficiência essencial da declaração de resina quanto a qualquer dos seus requisitos mínimos, equivale à sua falta, sem prejuízo de eventual responsabilidade contraordenacional que ao caso couber.\n\n> Alterado pelo/a [Declaração de Retificação n.º 47/2015](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/47-2015-70737911), publicado em 2015-10-19."
   }
  }
 }

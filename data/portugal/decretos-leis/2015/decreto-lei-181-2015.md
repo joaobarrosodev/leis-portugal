@@ -39,18 +39,23 @@ notes: []
 language: por
 version:
   kind: consolidated
-  label: Versão consolidada pelo DRE
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: '2015-08-28'
+  consolidation_date: '2015-10-19'
 version_history:
   file: decreto-lei-181-2015.versoes.json
-  count: 1
+  count: 2
   source_lastmod: '2024-06-25'
   versions:
   - date: '2015-08-28'
     amending: null
     amending_title: null
     changes: []
+  - date: '2015-10-19'
+    amending: pt:dre:70737911:por
+    amending_title: Declaração de Retificação n.º 47/2015
+    changes:
+    - Altera Artigo 7.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/181/2015/p/cons/20151019/pt/html
@@ -77,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre-consolidated
   generated_at: '2026-10-22T12:02:55Z'
-  notes: 1 versão(ões); histórico completo em decreto-lei-181-2015.versoes.json.
+  notes: 'Texto em vigor consolidado pelo leis-portugal sobre a versão consolidada pelo DRE de 2015-08-28 com as alterações
+    publicadas em: Declaração de Retificação n.º 47/2015. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2015/decreto-lei-181-2015.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -274,11 +280,13 @@ i) Em caso de resina de origem nacional, a identificação dos prédios de extra
 
 ii) Em caso de resina importada, a identificação do país de origem e a quantidade importada;
 
-f) A indicação do destino da resina, nacional ou importada, com identificação do operador de resina recetor e menção da residência ou sede, o número de identificação fiscal e o local ou locais de receção da pinha.
+f) A indicação do destino da resina, nacional ou importada, com identificação do operador de resina recetor e menção da residência ou sede, o número de identificação fiscal e o local ou locais de receção da resina.
 
 2 - No caso de extração de resina a declaração deve ser apresentada anualmente.
 
 3 - A omissão ou deficiência essencial da declaração de resina quanto a qualquer dos seus requisitos mínimos, equivale à sua falta, sem prejuízo de eventual responsabilidade contraordenacional que ao caso couber.
+
+> Alterado pelo/a [Declaração de Retificação n.º 47/2015](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/47-2015-70737911), publicado em 2015-10-19.
 
 ###### Artigo 8.º — Circulação da resina e obrigações do operador de resina
 

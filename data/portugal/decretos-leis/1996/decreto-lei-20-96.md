@@ -39,12 +39,12 @@ notes: []
 language: por
 version:
   kind: consolidated
-  label: Versão consolidada pelo DRE
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: '2000-03-07'
+  consolidation_date: '2015-08-19'
 version_history:
   file: decreto-lei-20-96.versoes.json
-  count: 2
+  count: 3
   source_lastmod: '2024-09-02'
   versions:
   - date: '1996-03-19'
@@ -60,6 +60,26 @@ version_history:
     - Altera Artigo 9.º
     - Altera Artigo 13.º
     - Altera Artigo 16.º
+  - date: '2015-08-19'
+    amending: pt:dre:70014794:por
+    amending_title: Decreto-Lei n.º 162/2015
+    changes:
+    - Revoga Artigo 1.º
+    - Revoga Artigo 2.º
+    - Revoga Artigo 3.º
+    - Revoga Artigo 4.º
+    - Revoga Artigo 5.º
+    - Revoga Artigo 12.º
+    - Revoga Artigo 13.º
+    - Revoga Artigo 14.º
+    - Revoga Artigo 15.º
+    - Revoga Artigo 16.º
+    - Revoga Artigo 17.º
+    - Revoga Artigo 18.º
+    - Revoga Artigo 19.º
+    - Revoga Artigo 20.º
+    - Revoga Artigo 21.º
+    - Revoga Artigo 22.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/20/1996/p/cons/20150814/pt/html
@@ -86,7 +106,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre-consolidated
   generated_at: '2026-10-22T13:14:04Z'
-  notes: 2 versão(ões); histórico completo em decreto-lei-20-96.versoes.json.
+  notes: 'Texto em vigor consolidado pelo leis-portugal sobre a versão consolidada pelo DRE de 2000-03-07 com as alterações
+    publicadas em: Decreto-Lei n.º 162/2015. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1996/decreto-lei-20-96.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -175,47 +196,39 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 ###### Artigo 1.º
 
-Pelo presente diploma é instituído no território do continente o Sistema Integrado de Protecção contra as Aleatoriedades Climáticas, adiante designado por SIPAC, constituído por três componentes:
+(Revogado.)
 
-a) Seguro de colheitas;
-
-b) Fundo de calamidades;
-
-c) Compensação de sinistralidade.
+> Revogado pelo/a [Decreto-Lei n.º 162/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2015-70014794), publicado em 2015-08-14.
 
 ### Capítulo II — Seguro de colheitas
 
 ###### Artigo 2.º
 
-O seguro de colheitas constitui um incentivo ao investimento agrícola e contribui para garantir a estabilidade dos rendimentos dos agricultores, servindo também como instrumento de política agrícola capaz de conduzir a um adequado ordenamento cultural.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 162/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2015-70014794), publicado em 2015-08-14.
 
 ###### Artigo 3.º
 
-O seguro de colheitas é voluntário, assegurando ao agricultor uma indemnização calculada sobre o montante dos prejuízos verificados nas culturas que tenham origem em qualquer dos riscos abrangidos pela respectiva apólice.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 162/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2015-70014794), publicado em 2015-08-14.
 
 ###### Artigo 4.º
 
-1 - Os prémios do seguro de colheitas são estabelecidos pelas seguradoras, nos termos das disposições regulamentares em vigor.
-
-2 - O Estado bonifica os prémios do seguro de colheitas.
-
-3 - A bonificação pode ser majorada em função dos riscos cobertos, da taxa de referência aplicável, da localização, das variedades, dos meios de prevenção utilizados e da forma de contratação.
+(Revogado.)
 
 > Alterado pelo/a [Decreto-Lei n.º 23/2000 - Diário da República n.º 52/2000, Série I-A de 2000-03-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2000-408475), em vigor a partir de 2000-03-07
+
+> Revogado pelo/a [Decreto-Lei n.º 162/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2015-70014794), publicado em 2015-08-14.
 
 ###### Artigo 5.º
 
-1 - O seguro de colheitas pode ser efectuado em qualquer companhia de seguros autorizada a explorar o ramo 9 do artigo 114.º do Decreto-Lei n.º 102/94, de 20 de Abril, através da celebração de um contrato individual ou colectivo.
-
-2 - O seguro de colheitas é contratado nos termos de uma apólice uniforme para o efeito elaborada pelo Instituto de Seguros de Portugal, adiante designado por ISP, em colaboração com o Instituto Financeiro de Apoio ao Desenvolvimento da Agricultura e Pescas, adiante designado por IFADAP, de acordo com os termos e as condições de atribuição de bonificação definidos pela portaria a que alude o artigo 18.º
-
-3 - O incumprimento das condições de atribuição de bonificações referidas no número anterior determina para o tomador do seguro a perda do direito à bonificação, com a respectiva devolução no caso de ter sido paga, sem prejuízo de eventual responsabilização criminal do segurado ou do tomador do seguro.
-
-4 - Se o incumprimento decorrer da falta de pagamento imputável ao tomador do seguro, a seguradora devolverá o valor das bonificações entregues, cobrando do tomador o valor do prémio.
-
-5 - Para efeitos de perda do direito do tomador às bonificações, a seguradora deve comunicar ao IFADAP todas as situações de incumprimento verificadas.
+(Revogado.)
 
 > Alterado pelo/a [Decreto-Lei n.º 23/2000 - Diário da República n.º 52/2000, Série I-A de 2000-03-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2000-408475), em vigor a partir de 2000-03-07
+
+> Revogado pelo/a [Decreto-Lei n.º 162/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2015-70014794), publicado em 2015-08-14.
 
 ### Capítulo III — Fundo de calamidades
 
@@ -275,157 +288,75 @@ d) Por quaisquer outras dotações ou receitas para o efeito atribuídas.
 
 ###### Artigo 12.º
 
-A coordenação global do sistema e a sua gestão técnica e financeira são asseguradas pelo IFADAP.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 162/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2015-70014794), publicado em 2015-08-14.
 
 ###### Artigo 13.º
 
-No âmbito da gestão e coordenação do SIPAC, compete ao IFADAP:
-
-a) Fomentar e divulgar o SIPAC;
-
-b) Definir, em colaboração com os outros organismos intervenientes, os circuitos de informação a observar entre as várias componentes do SIPAC;
-
-c) Efectuar a gestão do SIPAC, nomeadamente:
-
-1) Propondo e fundamentando a dotação a inscrever no Orçamento do Estado;
-
-2) Propondo o esquema de bonificação a conceder, bem como as condições técnicas mínimas a observar na sua concessão;
-
-3) Propondo conjuntamente com o ISP os padrões de referência a utilizar pelas seguradoras para efeitos de bonificação dos prémios de seguros de colheita;
-
-4) Definindo os circuitos e o tipo de informação necessária ao pagamento das bonificações dos prémios;
-
-5) Concebendo e propondo o funcionamento do mecanismo de compensação de sinistralidade;
-
-6) Definindo os circuitos e a informação necessária à atribuição da compensação de sinistralidade por seguradora;
-
-7) Definindo, conjuntamente com os diferentes serviços do MADRP, as medidas de apoio financeiro a criar no âmbito do fundo de calamidades;
-
-8) Promovendo, nos casos em que o considere conveniente, a confirmação das declarações prestadas pelos tomadores de seguros nas propostas de seguro, tendo em vista a atribuição da bonificação;
-
-9) Promovendo, nos casos em que considere conveniente, a confirmação pelo ISP dos elementos fornecidos pelas seguradoras;
-
-10) Definindo as normas técnicas e financeiras, bem como toda a tramitação processual, com vista à atribuição do apoio a conceder no âmbito do fundo de calamidades;
-
-11) Efectuando os pagamentos inerentes ao SIPAC;
-
-12) Promovendo o acompanhamento e fiscalização da verificação das condições de atribuição dos apoios;
-
-13) Efectuando os estudos estatísticos e prospectivos necessários à gestão e coordenação do Sistema;
-
-14) Praticando os demais actos necessários à regular e plena execução do SIPAC.
+(Revogado.)
 
 > Alterado pelo/a [Decreto-Lei n.º 23/2000 - Diário da República n.º 52/2000, Série I-A de 2000-03-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2000-408475), em vigor a partir de 2000-03-07
+
+> Revogado pelo/a [Decreto-Lei n.º 162/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2015-70014794), publicado em 2015-08-14.
 
 ###### Artigo 14.º
 
-1 - Para efeitos do disposto no artigo 13.º, os diferentes serviços do MADRP fornecerão ao IFADAP a informação necessária à actualização do SIPAC, nomeadamente:
+(Revogado.)
 
-a) Selectividade das actividades a abranger no seguro de colheitas e sua distribuição regional, nomeadamente no que se refere à adaptação das variedades;
-
-b) As condições técnicas mínimas de cultivo e exploração dos produtos agrícolas, bem como as técnicas de luta preventiva normais exigidas em cada região para as actividades incluídas no seguro de colheitas;
-
-c) Os rendimentos estimados para as produções agrícolas afectas ao seguro;
-
-d) Os preços máximos a aplicar aos produtos agrícolas afectos ao seguro;
-
-e) A eventual alteração das culturas abrangidas pelo seguro de colheitas, bem como os riscos a segurar;
-
-f) A duração do período de carência nas diferentes coberturas de seguro;
-
-g) Os estudos necessários sobre danos ocasionados às produções agrícolas, os meios de prevenção dos riscos e os de investigação necessários para a cobertura daqueles;
-
-h) Quaisquer outras informações adicionais que o órgão coordenador do Sistema entenda necessárias.
-
-2 - Os diferentes serviços do MADRP deverão ainda colaborar com o IFADAP, nomeadamente:
-
-a) No controlo, no desenvolvimento e na aplicação das várias componentes do SIPAC;
-
-b) No fomento e na divulgação do SIPAC;
-
-c) Na definição das medidas de apoio financeiro a criar no âmbito do fundo de calamidades.
+> Revogado pelo/a [Decreto-Lei n.º 162/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2015-70014794), publicado em 2015-08-14.
 
 ###### Artigo 15.º
 
-Para efeitos do presente diploma, compete ao ISP:
+(Revogado.)
 
-a) Elaborar, conjuntamente com o IFADAP e de acordo com o definido no artigo 5.º, n.º 2, a apólice uniforme para o seguro de colheitas;
-
-b) Publicar a apólice uniforme;
-
-c) Colaborar com o IFADAP na definição da tarifa de referência;
-
-d) Colaborar com o IFADAP na definição dos circuitos de informação a observar para efeitos de atribuição de bonificação de prémios e compensação de sinistralidade;
-
-e) Fiscalizar os valores atribuídos e reclamados pelas seguradoras a título de bonificação dos prémios e de compensação de sinistralidade;
-
-f) Estabelecer o plano estatístico para as empresas de seguros referidas no artigo 5.º, n.º 1;
-
-g) Efectuar estudos estatísticos e actuariais.
+> Revogado pelo/a [Decreto-Lei n.º 162/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2015-70014794), publicado em 2015-08-14.
 
 ###### Artigo 16.º
 
-1 - É criada uma comissão consultiva com a seguinte composição:
-
-a) Um representante do IFADAP, que preside;
-
-b) Um representante dos serviços do MADRP;
-
-c) Um representante do Ministério da Ciência e da Tecnologia;
-
-d) Um representante do ISP;
-
-e) Um representante da Associação Portuguesa de Seguradoras (APS);
-
-f) Quatro representantes das organizações agrícolas, designados por despacho do MADRP.
-
-2 - Compete à comissão consultiva o seguinte:
-
-a) Aprovar o respectivo regulamento interno;
-
-b) Pronunciar-se sobre a intenção de declaração de calamidade;
-
-c) Emitir parecer sobre os relatórios do SIPAC;
-
-d) Propor alterações ao SIPAC.
+(Revogado.)
 
 > Alterado pelo/a [Decreto-Lei n.º 23/2000 - Diário da República n.º 52/2000, Série I-A de 2000-03-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2000-408475), em vigor a partir de 2000-03-07
 
+> Revogado pelo/a [Decreto-Lei n.º 162/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2015-70014794), publicado em 2015-08-14.
+
 ###### Artigo 17.º
 
-A comissão consultiva considera-se constituída logo que o seu presidente seja designado pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, devendo aquele notificar de imediato as restantes entidades com assento neste órgão para, no prazo de cinco dias, indicarem os seus representantes.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 162/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2015-70014794), publicado em 2015-08-14.
 
 ### Capítulo VII — Disposições finais
 
 ###### Artigo 18.º
 
-São objecto de portaria conjunta dos Ministros das Finanças e da Agricultura, do Desenvolvimento Rural e das Pescas:
+(Revogado.)
 
-a) As especificidades técnicas do seguro de colheitas, nomeadamente os riscos cobertos e a sua forma de cobertura, o valor da produção, bem como a forma de cálculo da indemnização;
-
-b) Os termos e as condições da bonificação do seguro de colheitas, nomeadamente as normas técnicas necessárias à sua atribuição, a sua forma de cálculo, o padrão de referência para cálculo de bonificações e as culturas abrangidas;
-
-c) Os termos de intervenção do fundo de calamidades, na situação prevista no artigo 6.º, designadamente as condições de contratação que susceptibilizam o acesso às medidas de apoio financeiro, bem como as condições de atribuição destas medidas de apoio, nomeadamente a sua forma e montantes;
-
-d) As contribuições dos agricultores para o fundo de calamidades e a respectiva forma de cobrança;
-
-e) Os termos e condições de atribuição às seguradoras da compensação de sinistralidade, nomeadamente a contribuição a prestar por aquelas.
+> Revogado pelo/a [Decreto-Lei n.º 162/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2015-70014794), publicado em 2015-08-14.
 
 ###### Artigo 19.º
 
-A remuneração do IFADAP a que se refere o n.º 5 do artigo 10.º é igualmente definida por portaria conjunta dos Ministros das Finanças e da Agricultura, do Desenvolvimento Rural e das Pescas.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 162/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2015-70014794), publicado em 2015-08-14.
 
 ###### Artigo 20.º
 
-Os direitos e obrigações do FCSC - Fundo de Compensação de Colheitas são assegurados, até à sua liquidação, nos termos a definir por portaria conjunta dos Ministros das Finanças e da Agricultura, do Desenvolvimento Rural e das Pescas.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 162/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2015-70014794), publicado em 2015-08-14.
 
 ###### Artigo 21.º
 
-São revogados os Decretos-Leis n.os 283/90, 253/91 e 326/95, de 18 de Setembro, 18 de Julho e 5 de Dezembro, respectivamente.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 162/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2015-70014794), publicado em 2015-08-14.
 
 ###### Artigo 22.º
 
-O presente diploma entra em vigor simultaneamente com as portarias nele previstas.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 162/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2015-70014794), publicado em 2015-08-14.
 
 Visto e aprovado em Conselho de Ministros de 15 de Fevereiro de 1996. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Fernando Manuel Van-Zeller Gomes da Silva - Elisa Maria da Costa Guimarães Ferreira.
 

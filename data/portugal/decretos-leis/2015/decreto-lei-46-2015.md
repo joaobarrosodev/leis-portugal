@@ -40,18 +40,23 @@ notes: []
 language: por
 version:
   kind: consolidated
-  label: Versão consolidada pelo DRE
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: '2015-04-09'
+  consolidation_date: '2015-05-06'
 version_history:
   file: decreto-lei-46-2015.versoes.json
-  count: 1
+  count: 2
   source_lastmod: '2024-06-25'
   versions:
   - date: '2015-04-09'
     amending: null
     amending_title: null
     changes: []
+  - date: '2015-05-06'
+    amending: pt:dre:67144140:por
+    amending_title: Declaração de Retificação n.º 19/2015
+    changes:
+    - Altera Artigo 5.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/46/2015/p/cons/20150506/pt/html
@@ -78,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre-consolidated
   generated_at: '2026-10-22T12:03:56Z'
-  notes: 1 versão(ões); histórico completo em decreto-lei-46-2015.versoes.json.
+  notes: 'Texto em vigor consolidado pelo leis-portugal sobre a versão consolidada pelo DRE de 2015-04-09 com as alterações
+    publicadas em: Declaração de Retificação n.º 19/2015. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2015/decreto-lei-46-2015.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -197,7 +203,9 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 2 - Como contrapartida pela cedência referida no número anterior, o Município de Santa Maria da Feira assume a responsabilidade integral pelos investimentos necessários para que o Complexo Europarque continue a ser utilizado no âmbito dos fins de interesse público a que se destina, como polo de desenvolvimento da região, e suporta todas as despesas e encargos de conservação e de manutenção do Complexo Europarque pelo período da cedência, nos termos legais.
 
-3 - Compete à diretora-geral do Tesouro e Finanças, com a faculdade de delegação, outorgar, em representação do Estado, o auto de cedência de utilização do Complexo Europarque a favor da Câmara Municipal de Santa Maria da Feira, no respeito pelo disposto nos artigos 53.º a 58.º do Decreto-Lei n.º 280/2007, de 7 de agosto.
+3 - Compete à diretora-geral do Tesouro e Finanças, com a faculdade de delegação, outorgar, em representação do Estado, o auto de cedência de utilização do Complexo Europarque a favor da Câmara Municipal de Santa Maria da Feira, no respeito pelo disposto nos artigos 56.º a 58.º do Decreto-Lei n.º 280/2007, de 7 de agosto.
+
+> Alterado pelo/a [Declaração de Retificação n.º 19/2015](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/19-2015-67144140), publicado em 2015-05-06.
 
 ###### Artigo 6.º — Entrada em vigor
 

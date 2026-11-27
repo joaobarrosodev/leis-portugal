@@ -103,6 +103,69 @@
      "date": "2015-08-13"
     }
    ]
+  },
+  {
+   "date": "2015-08-19",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:70014794:por",
+     "title": "Decreto-Lei n.º 162/2015",
+     "published": "2015-08-14",
+     "dre_path": "/dr/detalhe/decreto-lei/162-2015-70014794"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 1.º",
+    "Revoga Artigo 2.º",
+    "Revoga Artigo 3.º",
+    "Revoga Artigo 4.º",
+    "Revoga Artigo 5.º",
+    "Revoga Artigo 12.º",
+    "Revoga Artigo 13.º",
+    "Revoga Artigo 14.º",
+    "Revoga Artigo 15.º",
+    "Revoga Artigo 16.º",
+    "Revoga Artigo 17.º",
+    "Revoga Artigo 18.º",
+    "Revoga Artigo 19.º",
+    "Revoga Artigo 20.º",
+    "Revoga Artigo 21.º",
+    "Revoga Artigo 22.º"
+   ],
+   "consolidated_by": "leis-portugal (consolidacao/camada1.py, linha 9 «dre»): sobre a versão consolidada pelo DRE",
+   "fragments": [
+    "886671951",
+    "886671952",
+    "aa47576589ccf465",
+    "886671954",
+    "47c5fc75634a9044",
+    "b8a5278548492403",
+    "e4585f4326c6edec",
+    "a57ea7f408e0fb7d",
+    "886671959",
+    "886671960",
+    "886671961",
+    "886671962",
+    "886671963",
+    "886673900",
+    "886671965",
+    "886671966",
+    "886671967",
+    "886671968",
+    "9eab36f75d213200",
+    "3b29974d19bad00d",
+    "e62cc06ff5e33473",
+    "ea054c661b992704",
+    "55b823f27467be9b",
+    "3d09488436033ea6",
+    "886673875",
+    "92afc18bbe3e2e65",
+    "6d81f9f071304f5f",
+    "de25025312fe7423",
+    "d5b3dde537f69552",
+    "221be77b957d4e8a"
+   ]
   }
  ],
  "fragments": {
@@ -403,6 +466,170 @@
    "in_force_from": null,
    "changed_by": [],
    "markdown": "Visto e aprovado em Conselho de Ministros de 15 de Fevereiro de 1996. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Fernando Manuel Van-Zeller Gomes da Silva - Elisa Maria da Costa Guimarães Ferreira.\n\nPromulgado em 6 de Março de 1996.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 11 de Março de 1996.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "aa47576589ccf465": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": "2015-08-19",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 162/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2015-70014794), publicado em 2015-08-14."
+   ],
+   "markdown": "###### Artigo 1.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 162/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2015-70014794), publicado em 2015-08-14."
+  },
+  "47c5fc75634a9044": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": "2015-08-19",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 162/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2015-70014794), publicado em 2015-08-14."
+   ],
+   "markdown": "###### Artigo 2.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 162/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2015-70014794), publicado em 2015-08-14."
+  },
+  "b8a5278548492403": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": "2015-08-19",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 162/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2015-70014794), publicado em 2015-08-14."
+   ],
+   "markdown": "###### Artigo 3.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 162/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2015-70014794), publicado em 2015-08-14."
+  },
+  "e4585f4326c6edec": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": "2015-08-19",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 23/2000 - Diário da República n.º 52/2000, Série I-A de 2000-03-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2000-408475), em vigor a partir de 2000-03-07",
+    "Revogado pelo/a [Decreto-Lei n.º 162/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2015-70014794), publicado em 2015-08-14."
+   ],
+   "markdown": "###### Artigo 4.º\n\n(Revogado.)\n\n> Alterado pelo/a [Decreto-Lei n.º 23/2000 - Diário da República n.º 52/2000, Série I-A de 2000-03-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2000-408475), em vigor a partir de 2000-03-07\n\n> Revogado pelo/a [Decreto-Lei n.º 162/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2015-70014794), publicado em 2015-08-14."
+  },
+  "a57ea7f408e0fb7d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": "2015-08-19",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 23/2000 - Diário da República n.º 52/2000, Série I-A de 2000-03-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2000-408475), em vigor a partir de 2000-03-07",
+    "Revogado pelo/a [Decreto-Lei n.º 162/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2015-70014794), publicado em 2015-08-14."
+   ],
+   "markdown": "###### Artigo 5.º\n\n(Revogado.)\n\n> Alterado pelo/a [Decreto-Lei n.º 23/2000 - Diário da República n.º 52/2000, Série I-A de 2000-03-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2000-408475), em vigor a partir de 2000-03-07\n\n> Revogado pelo/a [Decreto-Lei n.º 162/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2015-70014794), publicado em 2015-08-14."
+  },
+  "9eab36f75d213200": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º",
+   "in_force_from": "2015-08-19",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 162/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2015-70014794), publicado em 2015-08-14."
+   ],
+   "markdown": "###### Artigo 12.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 162/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2015-70014794), publicado em 2015-08-14."
+  },
+  "3b29974d19bad00d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º",
+   "in_force_from": "2015-08-19",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 23/2000 - Diário da República n.º 52/2000, Série I-A de 2000-03-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2000-408475), em vigor a partir de 2000-03-07",
+    "Revogado pelo/a [Decreto-Lei n.º 162/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2015-70014794), publicado em 2015-08-14."
+   ],
+   "markdown": "###### Artigo 13.º\n\n(Revogado.)\n\n> Alterado pelo/a [Decreto-Lei n.º 23/2000 - Diário da República n.º 52/2000, Série I-A de 2000-03-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2000-408475), em vigor a partir de 2000-03-07\n\n> Revogado pelo/a [Decreto-Lei n.º 162/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2015-70014794), publicado em 2015-08-14."
+  },
+  "e62cc06ff5e33473": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º",
+   "in_force_from": "2015-08-19",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 162/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2015-70014794), publicado em 2015-08-14."
+   ],
+   "markdown": "###### Artigo 14.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 162/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2015-70014794), publicado em 2015-08-14."
+  },
+  "ea054c661b992704": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º",
+   "in_force_from": "2015-08-19",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 162/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2015-70014794), publicado em 2015-08-14."
+   ],
+   "markdown": "###### Artigo 15.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 162/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2015-70014794), publicado em 2015-08-14."
+  },
+  "55b823f27467be9b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º",
+   "in_force_from": "2015-08-19",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 23/2000 - Diário da República n.º 52/2000, Série I-A de 2000-03-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2000-408475), em vigor a partir de 2000-03-07",
+    "Revogado pelo/a [Decreto-Lei n.º 162/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2015-70014794), publicado em 2015-08-14."
+   ],
+   "markdown": "###### Artigo 16.º\n\n(Revogado.)\n\n> Alterado pelo/a [Decreto-Lei n.º 23/2000 - Diário da República n.º 52/2000, Série I-A de 2000-03-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2000-408475), em vigor a partir de 2000-03-07\n\n> Revogado pelo/a [Decreto-Lei n.º 162/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2015-70014794), publicado em 2015-08-14."
+  },
+  "3d09488436033ea6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º",
+   "in_force_from": "2015-08-19",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 162/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2015-70014794), publicado em 2015-08-14."
+   ],
+   "markdown": "###### Artigo 17.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 162/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2015-70014794), publicado em 2015-08-14."
+  },
+  "92afc18bbe3e2e65": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º",
+   "in_force_from": "2015-08-19",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 162/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2015-70014794), publicado em 2015-08-14."
+   ],
+   "markdown": "###### Artigo 18.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 162/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2015-70014794), publicado em 2015-08-14."
+  },
+  "6d81f9f071304f5f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º",
+   "in_force_from": "2015-08-19",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 162/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2015-70014794), publicado em 2015-08-14."
+   ],
+   "markdown": "###### Artigo 19.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 162/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2015-70014794), publicado em 2015-08-14."
+  },
+  "de25025312fe7423": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º",
+   "in_force_from": "2015-08-19",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 162/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2015-70014794), publicado em 2015-08-14."
+   ],
+   "markdown": "###### Artigo 20.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 162/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2015-70014794), publicado em 2015-08-14."
+  },
+  "d5b3dde537f69552": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º",
+   "in_force_from": "2015-08-19",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 162/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2015-70014794), publicado em 2015-08-14."
+   ],
+   "markdown": "###### Artigo 21.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 162/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2015-70014794), publicado em 2015-08-14."
+  },
+  "221be77b957d4e8a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º",
+   "in_force_from": "2015-08-19",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 162/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2015-70014794), publicado em 2015-08-14."
+   ],
+   "markdown": "###### Artigo 22.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 162/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2015-70014794), publicado em 2015-08-14.\n\nVisto e aprovado em Conselho de Ministros de 15 de Fevereiro de 1996. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Fernando Manuel Van-Zeller Gomes da Silva - Elisa Maria da Costa Guimarães Ferreira.\n\nPromulgado em 6 de Março de 1996.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 11 de Março de 1996.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
   }
  }
 }

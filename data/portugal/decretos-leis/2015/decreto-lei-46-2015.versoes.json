@@ -30,6 +30,33 @@
      "date": "2015-04-10"
     }
    ]
+  },
+  {
+   "date": "2015-05-06",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:67144140:por",
+     "title": "Declaração de Retificação n.º 19/2015",
+     "published": "2015-05-06",
+     "dre_path": "/dr/detalhe/declaracao-retificacao/19-2015-67144140"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º"
+   ],
+   "consolidated_by": "leis-portugal (consolidacao/camada1.py, linha 9 «dre»): sobre a versão consolidada pelo DRE",
+   "fragments": [
+    "70903021",
+    "70903022",
+    "70903023",
+    "70903024",
+    "70903025",
+    "0da546f0c2d5e513",
+    "70903027",
+    "70903028",
+    "70903029"
+   ]
   }
  ],
  "fragments": {
@@ -104,6 +131,16 @@
    "in_force_from": null,
    "changed_by": [],
    "markdown": "## Anexo II — (a que se refere o n.º 2 do artigo 2.º)\n\nDescrição do Complexo Europarque\n\nO Complexo Europarque é composto pelos seguintes edifícios:\n\nEdifício Técnico, com uma área total bruta de construção de 1682 m2, constituído por posto de seccionamento e transformação, sala de grupo gerador, central de produção de água fria e quente (AVAC), depósito e bombagem de água potável e de incêndio, torres de refrigeração (AVAC), túnel técnico, posto de seccionamento e transformação e sala do quadro geral, grupo gerador de emergência, central de produção e distribuição de água fria e quente para AVAC, reservatório de água potável e incêndio e respetivas centrais de bombagem, filtragem e tratamento de água, túnel técnico de apoio e ligação de infraestruturas aos diferentes edifícios do Complexo Europarque (Edifício Administrativo, Pavilhão de Exposições, Centro de Congressos e Auditório) e Instalações de Gestão Técnica Centralizada.\n\nEdifício Administrativo, com uma área bruta de construção de 1297 m2, constituído por régie central de audiovisuais e sala central de segurança e de gestão técnica, receção, atendimento e hall no piso térreo, áreas administrativas nos pisos elevados (1.º e 2.º pisos), sala de segurança e gestão técnica centralizada no 2.º piso, régie central no 2.º piso, equipamento de som, captação e distribuição de imagem, redes estruturadas de comunicações equipadas com fibra óptica, tetos falsos com elevada concentração de calhas técnicas destinadas à sala de segurança e gestão técnica centralizada e régie central de audiovisuais (1.º piso), ar condicionado, instalações especiais de segurança (CCTV, deteção e extinção automática de incêndio, alarme de intrusão) e instalações de gestão técnica centralizada.\n\nPavilhão de Exposições, com uma área total bruta de construção de 11 641 m2, régies de meios audiovisuais e cabines de tradução simultânea, galeria técnica do ar condicionado, caleiras de pavimento com rede de infraestruturas (água potável, águas residuais, energia elétrica, ar comprimido e rede estruturada de telecomunicações, dados, som e imagem), divisórias acústicas em painéis deslizantes para divisão em três espaços iguais, correção acústica do teto, equipamento de som, captação e distribuição de imagem, redes estruturadas de comunicações equipadas com fibra óptica, iluminação com controlo remoto a partir da sala de gestão técnica centralizada, acessibilidade técnica à estrutura metálica da cobertura para instalação de meios audiovisuais, cenários ou sinalética, régies de meios audiovisuais e cabines de tradução simultânea, instalações especiais de segurança (CCTV, deteção e extinção automática de incêndio, alarme de intrusão), instalações de gestão técnica centralizada.\n\nCentro de Congressos, com uma área total bruta de construção de 16 851 m2, constituído por cozinha industrial totalmente equipada, sala de refeições free flow, restaurante e bares de apoio, régies de meios audiovisuais e cabines de tradução simultânea, zona comercial, ar condicionado, calhas e caixas de pavimento com rede de infraestruturas (água potável, águas residuais, energia elétrica, rede estruturada de telecomunicações, dados, som e imagem), divisórias acústicas em painéis deslizantes para configuração de salas, equipamento de som, captação e distribuição de imagem, redes estruturadas de comunicações equipadas com fibra óptica, instalações especiais de segurança (CCTV, deteção e extinção automática de incêndio, alarme de intrusão), espelhos de água no hall e sala de refeições free flow, elementos escultóricos no espelho de água do hall e galeria, instalações de gestão técnica centralizada iluminação com controlo eletrónico do fluxo luminoso, cabines de tradução simultânea, zona comercial, hall e ponto de encontro.\n\nAuditório, com uma área total bruta de construção de 7089 m2, constituída por régies audiovisuais e cabines de tradução simultânea, palco, fosso do palco e teia do palco, bares de apoio, ar condicionado (insuflação pelo pavimento, extração pelo teto), régies de meios audiovisuais e cabines de tradução simultânea, equipamento de som, captação e distribuição de imagem, redes estruturadas de comunicações equipadas com fibra óptica, equipamentos eletromecânicos de palco (fosso e teia), iluminação cénica e som de espetáculo, acessibilidade técnica à estrutura metálica da cobertura e da teia do palco para manuseamento ou instalação de meios audiovisuais, instalações especiais de segurança (CCTV, deteção e extinção automática de incêndio, alarme de intrusão), instalações de gestão técnica centralizada, iluminação com controlo eletrónico do fluxo luminoso.\n\n«Restaurante do Lago», com uma área total bruta de construção de 1490 m2, constituída por cozinha industrial totalmente equipada, sala de refeições panorâmica, sala de espera e instalações sanitárias, snack-bar, áreas comerciais, ar condicionado. Conta também ancoradouro junto ao lago e múltiplos espaços técnicos de apoio, designadamente equipamento de som, captação e distribuição de imagem, redes estruturadas de comunicações equipadas com fibra óptica, instalações especiais de segurança (CCTV, deteção e extinção automática de incêndio, alarme de intrusão) e instalações de gestão técnica centralizada.\n\nArranjos Exteriores e Parque de Estacionamento, para estacionamento de viaturas ligeiras à superfície, com uma área de 27 589,3 m2 com lotação para 890 lugares de estacionamento, dispõe de equipamento de controlo de acessos e pagamento automático, parque de estacionamento de viaturas pesadas de apoio ao Pavilhão, vias de circulação e estacionamento automóvel, áreas ajardinadas de enquadramento, zonas de estada e circulação pedonal, incluindo jogo de água robotizado.\n\nHeliporto, com uma área de implantação de 3562 m2, constituído por heliporto certificado pelo Instituto Nacional de Aviação Civil, I. P., dispõe de todo o equipamento e sinalética de segurança aeronáutica necessário e exigido para a descolagem e aterragem de helicópteros, equipamento de proteção e extinção de incêndios e um edifício de apoio com cerca de 150 m2."
+  },
+  "0da546f0c2d5e513": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Gestão do património",
+   "in_force_from": "2015-05-06",
+   "changed_by": [
+    "Alterado pelo/a [Declaração de Retificação n.º 19/2015](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/19-2015-67144140), publicado em 2015-05-06."
+   ],
+   "markdown": "###### Artigo 5.º — Gestão do património\n\n1 - Na data da celebração do auto de dação, o Complexo Europarque é cedido ao Município de Santa Maria da Feira, pelo prazo de 50 anos, regressando o referido Complexo à posse do Estado, na totalidade, caso seja alterada a finalidade, ainda que parcialmente, dos usos associados ao reconhecimento do seu interesse público, ou caso o mesmo Complexo seja alterado de forma significativa sem o consentimento prévio e expresso do Estado, através da DGTF.\n\n2 - Como contrapartida pela cedência referida no número anterior, o Município de Santa Maria da Feira assume a responsabilidade integral pelos investimentos necessários para que o Complexo Europarque continue a ser utilizado no âmbito dos fins de interesse público a que se destina, como polo de desenvolvimento da região, e suporta todas as despesas e encargos de conservação e de manutenção do Complexo Europarque pelo período da cedência, nos termos legais.\n\n3 - Compete à diretora-geral do Tesouro e Finanças, com a faculdade de delegação, outorgar, em representação do Estado, o auto de cedência de utilização do Complexo Europarque a favor da Câmara Municipal de Santa Maria da Feira, no respeito pelo disposto nos artigos 56.º a 58.º do Decreto-Lei n.º 280/2007, de 7 de agosto.\n\n> Alterado pelo/a [Declaração de Retificação n.º 19/2015](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/19-2015-67144140), publicado em 2015-05-06."
   }
  }
 }

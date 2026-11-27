@@ -26,6 +26,29 @@
      "date": "2016-08-20"
     }
    ]
+  },
+  {
+   "date": "2016-09-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:75286796:por",
+     "title": "Declaração de Retificação n.º 16/2016",
+     "published": "2016-09-08",
+     "dre_path": "/dr/detalhe/declaracao-retificacao/16-2016-75286796"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "consolidated_by": "leis-portugal (consolidacao/camada1.py, linha 9 «dre»): sobre a versão consolidada pelo DRE",
+   "fragments": [
+    "75300075",
+    "75300076",
+    "75300077",
+    "78f4259ccb77bad5",
+    "75300079"
+   ]
   }
  ],
  "fragments": {
@@ -68,6 +91,16 @@
    "in_force_from": null,
    "changed_by": [],
    "markdown": "###### Artigo 4.º — Entrada em vigor\n\nA presente lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "78f4259ccb77bad5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Âmbito temporal do regime",
+   "in_force_from": "2016-09-08",
+   "changed_by": [
+    "Alterado pelo/a [Declaração de Retificação n.º 16/2016](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/16-2016-75286796), publicado em 2016-09-08."
+   ],
+   "markdown": "###### Artigo 3.º — Âmbito temporal do regime\n\nO regime especial aprovado em anexo à Lei n.º 61/2014, de 26 de agosto, não é aplicável aos gastos e às variações patrimoniais negativas contabilizados nos períodos de tributação que se iniciem em ou após 1 de janeiro de 2016, nem aos ativos por impostos diferidos a estes associados.\n\n> Alterado pelo/a [Declaração de Retificação n.º 16/2016](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/16-2016-75286796), publicado em 2016-09-08."
   }
  }
 }

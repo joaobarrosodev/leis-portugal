@@ -96,6 +96,100 @@
      "date": "2021-07-01"
     }
    ]
+  },
+  {
+   "date": "2021-07-09",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:166658247:por",
+     "title": "Declaração de Retificação n.º 22/2021",
+     "published": "2021-07-09",
+     "dre_path": "/dr/detalhe/declaracao-retificacao/22-2021-166658247"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 17.º",
+    "Altera Artigo Anexo — Lei-quadro do estatuto de utilidade pública::19.º"
+   ],
+   "consolidated_by": "leis-portugal (consolidacao/camada1.py, linha 9 «dre»): sobre a versão consolidada pelo DRE",
+   "fragments": [
+    "165010167",
+    "165010168",
+    "165010169",
+    "165010170",
+    "165010171",
+    "165010172",
+    "165010173",
+    "165010174",
+    "165089775",
+    "165089776",
+    "165089777",
+    "165089778",
+    "165089779",
+    "165089780",
+    "165089781",
+    "165089782",
+    "165089783",
+    "8942ae3c41fcb319",
+    "165089785",
+    "165089786",
+    "165089787",
+    "165089789",
+    "165089790",
+    "165089791",
+    "165089792",
+    "165089793",
+    "165089794",
+    "165089795",
+    "165089796",
+    "165089797",
+    "165089798",
+    "165089799",
+    "165089800",
+    "165089801",
+    "165089802",
+    "165089803",
+    "165089804",
+    "165089805",
+    "165089806",
+    "165089807",
+    "165089808",
+    "165089809",
+    "165089810",
+    "165089811",
+    "165089812",
+    "165089813",
+    "165089814",
+    "e61928ed7b6d28ae",
+    "165089816",
+    "165089817",
+    "165089818",
+    "165089819",
+    "165089820",
+    "165089821",
+    "165089822",
+    "165089823",
+    "165089824",
+    "165089825",
+    "165089826",
+    "165089827",
+    "165089828",
+    "165089829",
+    "165089830",
+    "165089831",
+    "165089832",
+    "165089833",
+    "165089834",
+    "165089835",
+    "165089836",
+    "165089837",
+    "165089838",
+    "165089839",
+    "165089840",
+    "165089841",
+    "165089842"
+   ]
   }
  ],
  "fragments": {
@@ -698,6 +792,26 @@
    "in_force_from": null,
    "changed_by": [],
    "markdown": "## Anexo IV\n\na) Instituto Marquês da Vale Flor, cujo estatuto de utilidade pública foi atribuído pelo Decreto n.º 38351, de 1 de agosto de 1951.\n\nb) Fundação Ricardo do Espírito Santo Silva, instituída pelo Decreto-Lei n.º 39190, de 27 de abril de 1953.\n\nc) Fundação Calouste Gulbenkian, constituída pelo Decreto-Lei n.º 40690, de 18 de julho de 1956.\n\nd) Fundação Amélia da Silva de Melo, cujos estatutos foram aprovados pelo Decreto-Lei n.º 45954, de 7 de outubro de 1964.\n\ne) Cofre de Previdência dos Funcionários e Agentes do Estado, cujos estatutos foram aprovados pelo Decreto-Lei n.º 465/76, de 11 de junho.\n\nf) Academia das Ciências de Lisboa, cujos estatutos foram aprovados pelo Decreto-Lei n.º 5/78, de 12 de janeiro.\n\ng) Fundação Edgar Cardoso, instituída pelo Decreto n.º 163/79, de 31 de dezembro.\n\nh) Fundação Luso-Americana para o Desenvolvimento, criada pelo Decreto-Lei n.º 168/85, de 20 de maio.\n\ni) Fundação de Serralves, instituída pelo Decreto-Lei n.º 240-A/89, de 27 de julho.\n\nj) Fundação Escola Portuguesa de Macau, criada pelo Decreto-Lei n.º 89-B/98, de 9 de abril.\n\nk) Universidade Católica Portuguesa, cujo enquadramento foi estabelecido pelo Decreto-Lei n.º 128/90, de 17 de abril.\n\nl) Fundação Arpad Szénes-Vieira da Silva, instituída pelo Decreto-Lei n.º 149/90, de 10 de maio.\n\nm) Fundação Centro Cultural de Belém, criada pelo Decreto-Lei n.º 361/91, de 3 de outubro, e renomeada pelo Decreto-Lei n.º 391/99, de 30 de setembro.\n\nn) Fundação Aga Khan, criada pelo Decreto-Lei n.º 27/96, de 30 de março.\n\no) Fundação para a Proteção e Gestão Ambiental das Salinas do Samouco, instituída pelo Decreto-Lei n.º 306/2000, de 28 de novembro.\n\np) Fundação Museu Nacional Ferroviário Armando Ginestal Machado, instituída pelo Decreto-Lei n.º 38/2005, de 17 de fevereiro.\n\nq) Fundação Casa da Música, criada pelo Decreto-Lei n.º 18/2006, de 26 de janeiro.\n\nr) Fundação de Arte Moderna e Contemporânea - coleção Berardo, criada pelo Decreto-Lei n.º 164/2006, de 9 de agosto.\n\ns) Fundação Museu do Douro, criada pelo Decreto-Lei n.º 70/2006, de 23 de março.\n\nt) Cruz Vermelha Portuguesa, cujo regime jurídico foi aprovado pelo Decreto-Lei n.º 281/2007, de 7 de agosto.\n\nu) Agência de Avaliação e Acreditação do Ensino Superior, criada pelo Decreto-Lei n.º 369/2007, de 5 de novembro.\n\nv) Fundação Martins Sarmento, criada pelo Decreto-Lei n.º 24/2008, de 8 de fevereiro.\n\nw) Fundação Inatel, instituída pelo Decreto-Lei n.º 106/2008, de 25 de junho.\n\nx) Santa Casa da Misericórdia de Lisboa, cujos estatutos foram aprovados pelo Decreto-Lei n.º 235/2008, de 3 de dezembro.\n\ny) Fundação Mata do Buçaco, criada pelo Decreto-Lei n.º 120/2009, de 19 de maio.\n\nz) SUCH - Serviço de Utilização Comum dos Hospitais, cujo regime foi aprovado em anexo ao Decreto-Lei n.º 209/2015, de 25 de setembro.\n\naa) Cooperativa António Sérgio para a Economia Social - Cooperativa de Interesse Público de Responsabilidade Limitada, cujo estatuto de utilidade pública é atribuído pelo Decreto-Lei n.º 39/2017, de 4 de abril.\n\nbb) Startup Portugal - Associação Portuguesa para a Promoção do Empreendedorismo, cujo regime jurídico foi aprovado pelo Decreto-Lei n.º 33/2019, de 4 de março.\n\n114311893"
+  },
+  "8942ae3c41fcb319": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Norma transitória",
+   "in_force_from": "2021-07-09",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Retificação n.º 22/2021](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/22-2021-166658247), publicado em 2021-07-09."
+   ],
+   "markdown": "###### Artigo 17.º — Norma transitória\n\n1 - Sem prejuízo do disposto nos n.os 2 e 3, ficam sujeitas ao disposto na lei-quadro do estatuto de utilidade pública, aprovada em anexo à presente lei, as pessoas coletivas às quais, à data de entrada em vigor da presente lei, tenha sido reconhecida, através de procedimento administrativo, utilidade pública ou utilidade pública administrativa, que passam a ser consideradas pessoas coletivas com estatuto de utilidade pública.\n\n2 - As normas da lei-quadro do estatuto de utilidade pública, aprovada em anexo à presente lei, não se aplicam aos procedimentos de atribuição, de renovação e de revogação do estatuto de utilidade pública que se encontrem pendentes à data da sua entrada em vigor, à exceção do disposto no seu artigo 18.º\n\n3 - As pessoas coletivas classificadas como de utilidade pública administrativa à data da entrada em vigor da presente lei mantêm a isenção automática de IRC sem necessidade de reconhecimento pelo membro do Governo responsável pela área das finanças.\n\n4 - Mantém-se a possibilidade de requerer registos sobre associações, nos termos do Decreto-Lei n.º 57/78, de 1 de abril, que, à data de entrada em vigor da presente lei, se mostrem inscritas no registo comercial, enquanto mantiverem o estatuto de utilidade pública.\n\n> Retificado pelo/a [Declaração de Retificação n.º 22/2021](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/22-2021-166658247), publicado em 2021-07-09."
+  },
+  "e61928ed7b6d28ae": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Procedimento de renovação",
+   "in_force_from": "2021-07-09",
+   "changed_by": [
+    "Alterado pelo/a [Declaração de Retificação n.º 22/2021](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/22-2021-166658247), publicado em 2021-07-09."
+   ],
+   "markdown": "###### Artigo 19.º — Procedimento de renovação\n\n1 - O estatuto de utilidade pública é suscetível de renovações sucessivas, por iguais períodos.\n\n2 - O procedimento administrativo de renovação do estatuto de utilidade pública é regulado pela portaria a que se refere o n.º 1 do artigo 17.º, nos termos dos números seguintes.\n\n3 - O pedido de renovação do estatuto de utilidade pública deve ser apresentado entre um ano e seis meses antes do respetivo termo.\n\n4 - Caso o pedido não seja apresentado com a antecedência prevista no número anterior, o estatuto caduca, uma vez decorrido o seu prazo de duração, e o requerente fica sujeito ao regime do procedimento de atribuição do estatuto de utilidade pública.\n\n5 - A fase da instrução deve prever um despacho de convite ao aperfeiçoamento e um despacho de indeferimento liminar, ambos da competência do órgão instrutor.\n\n6 - Quando o pedido referido no n.º 3 não tiver decisão final no prazo previsto no artigo 128.º do Código do Procedimento Administrativo, aprovado em anexo ao Decreto-Lei n.º 4/2015, de 7 de janeiro, na sua redação atual, ocorre deferimento tácito do mesmo, tendo o estatuto de utilidade pública duração idêntica ao do imediatamente anterior.\n\n7 - Para efeitos de renovação do estatuto a SGPCM notifica o titular do estatuto um ano antes do prazo estipulado no n.º 3.\n\n> Alterado pelo/a [Declaração de Retificação n.º 22/2021](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/22-2021-166658247), publicado em 2021-07-09."
   }
  }
 }

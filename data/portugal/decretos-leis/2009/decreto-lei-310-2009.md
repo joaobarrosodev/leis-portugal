@@ -43,18 +43,27 @@ notes:
 language: por
 version:
   kind: consolidated
-  label: Versão consolidada pelo DRE
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: '2009-10-26'
+  consolidation_date: '2009-12-24'
 version_history:
   file: decreto-lei-310-2009.versoes.json
-  count: 1
+  count: 2
   source_lastmod: '2024-06-25'
   versions:
   - date: '2009-10-26'
     amending: null
     amending_title: null
     changes: []
+  - date: '2009-12-24'
+    amending: pt:dre:332229:por
+    amending_title: Declaração de Rectificação n.º 94-A/2009
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo ANEXO I — ESTATUTO DA ORDEM DOS TÉCNICOS OFICIAIS DE CONTAS::16.º
+    - Altera Artigo ANEXO I — ESTATUTO DA ORDEM DOS TÉCNICOS OFICIAIS DE CONTAS::17.º-A
+    - Altera Artigo ANEXO I — ESTATUTO DA ORDEM DOS TÉCNICOS OFICIAIS DE CONTAS::12.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/310/2009/p/cons/20091224/pt/html
@@ -81,7 +90,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre-consolidated
   generated_at: '2026-10-22T12:51:19Z'
-  notes: 1 versão(ões); histórico completo em decreto-lei-310-2009.versoes.json.
+  notes: 'Texto em vigor consolidado pelo leis-portugal sobre a versão consolidada pelo DRE de 2009-10-26 com as alterações
+    publicadas em: Declaração de Rectificação n.º 94-A/2009. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2009/decreto-lei-310-2009.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -400,7 +410,7 @@ Artigo 16.º
 
 [...]
 
-1 - Os candidatos a técnico oficial de contas devem possuir a habilitação académica de licenciatura ou superior, ministrada por estabelecimento de ensino superior público, particular ou cooperativo, criado nos termos da lei e reconhecido pela Ordem como adequado para o exercício da profissão.
+1 - Os candidatos a técnico oficial de contas devem possuir a habilitação académica de licenciatura ou superior, ministrada por estabelecimento de ensino superior público, particular ou cooperativo, criada nos termos da lei e reconhecida pela Ordem como adequada para o exercício da profissão.
 
 2 - (Revogado.)
 
@@ -1064,6 +1074,8 @@ Notificação do acórdão
 
 2 - ...»
 
+> Alterado pelo/a [Declaração de Rectificação n.º 94-A/2009](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/94-a-2009-332229), publicado em 2009-12-24.
+
 ###### Artigo 3.º — Aditamento ao Estatuto da Câmara dos Técnicos Oficiais de Contas, aprovado pelo Decreto-Lei n.º 452/99, de 5 de Novembro
 
 São aditados ao Estatuto da Câmara dos Técnicos Oficiais de Contas, aprovado pelo Decreto-Lei n.º 452/99, de 5 de Novembro, os artigos 14.º-A, 17.º-A, 17.º-B, 17.º-C, 24.º-A, 33.º-A, 33.º-B, 33.º-C, 34.º-A e 85.º a 98.º, com a seguinte redacção:
@@ -1088,7 +1100,7 @@ Artigo 17.º-A
 
 Sociedades profissionais de técnicos oficiais de contas
 
-É admitida a inscrição de sociedades profissionais de técnicos oficiais de contas que preencham os requisitos previstos no título ii.
+É admitida a inscrição de sociedades de profissionais de técnicos oficiais de contas que preencham os requisitos previstos no capítulo viii.
 
 Artigo 17.º-B
 
@@ -1287,6 +1299,8 @@ Artigo 98.º
 Direito supletivo aplicável
 
 Na falta de disposição especial, é aplicável o regime jurídico estabelecido na legislação civil ou comercial, conforme o caso.»
+
+> Alterado pelo/a [Declaração de Rectificação n.º 94-A/2009](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/94-a-2009-332229), publicado em 2009-12-24.
 
 ###### Artigo 4.º — Alterações sistemáticas
 
@@ -1556,11 +1570,13 @@ g) Obter aprovação em exame profissional, em língua portuguesa ou noutra lín
 
 ###### Artigo 16.º — Habilitações académicas
 
-1 - Os candidatos a técnico oficial de contas devem possuir a habilitação académica de licenciatura ou superior, ministrada por estabelecimento de ensino superior público, particular ou cooperativo, criado nos termos da lei e reconhecido pela Ordem como adequado para o exercício da profissão.
+1 - Os candidatos a técnico oficial de contas devem possuir a habilitação académica de licenciatura ou superior, ministrada por estabelecimento de ensino superior público, particular ou cooperativo, criada nos termos da lei e reconhecida pela Ordem como adequada para o exercício da profissão.
 
 2 - (Revogado.)
 
 3 - O reconhecimento referido no n.º 1 deve basear-se em critérios objectivos, fundamentados nos currículos, nas unidades de crédito, nos meios de ensino e nos métodos de avaliação.
+
+> Alterado pelo/a [Declaração de Rectificação n.º 94-A/2009](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/94-a-2009-332229), publicado em 2009-12-24.
 
 ###### Artigo 17.º — Pedido de inscrição
 
@@ -1578,7 +1594,9 @@ d) Documentos comprovativos das habilitações académicas.
 
 ###### Artigo 17.º-A — Sociedades profissionais de técnicos oficiais de contas
 
-É admitida a inscrição de sociedades profissionais de técnicos oficiais de contas que preencham os requisitos previstos no título ii.
+É admitida a inscrição de sociedades de profissionais de técnicos oficiais de contas que preencham os requisitos previstos no capítulo viii.
+
+> Alterado pelo/a [Declaração de Rectificação n.º 94-A/2009](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/94-a-2009-332229), publicado em 2009-12-24.
 
 ###### Artigo 17.º-B — Sociedades de contabilidade
 
@@ -2586,7 +2604,7 @@ b) Fornecer todos os esclarecimentos necessários à compreensão dos relatório
 
 1 - Para além dos direitos previstos no Estatuto, os técnicos oficiais de contas, no exercício das suas funções, têm direito a obter das entidades a quem prestam serviços toda a informação e colaboração necessárias à prossecução das suas funções com elevado rigor técnico e profissional.
 
-2 - A negação das referidas informações ou de colaboração, pontual ou reiterada, desresponsabiliza os técnicos oficiais de contas pelas consequências que daí possam advir e confere-lhes o direito à recusa de assinatura das declarações fiscais, sem prejuízo do disposto no n.º 2 do artigo 55.º do Estatuto.
+2 - A negação das referidas informações ou de colaboração, pontual ou reiterada, desresponsabiliza os técnicos oficiais de contas pelas consequências que daí possam advir e confere-lhes o direito à recusa de assinatura das declarações fiscais, sem prejuízo do disposto no n.º 2 do artigo 54.º do Estatuto.
 
 3 - Para efeitos do número anterior, considera-se falta de colaboração a ocultação, omissão, viciação ou destruição de documentos de suporte contabilístico ou a sonegação de informação que tenha influência directa na situação contabilística e fiscal da entidade a quem o técnico oficial de contas presta serviços.
 
@@ -2595,6 +2613,8 @@ b) Fornecer todos os esclarecimentos necessários à compreensão dos relatório
 5 - A violação, por parte das entidades a quem prestam serviços, de qualquer dos deveres referidos nos números anteriores constitui justa causa para a rescisão do contrato, sendo que, nesse caso, o técnico oficial de contas deve, por carta registada com aviso de recepção, indicar o fundamento da rescisão e a data a partir da qual a mesma se torna eficaz.
 
 6 - Os técnicos oficiais de contas, antes de encerrarem o exercício fiscal, têm direito a exigir das entidades a quem prestam serviços uma declaração de responsabilidade, por escrito, da qual conste que não foram omitidos quaisquer documentos ou informações relevantes com efeitos na contabilidade e na verdade fiscal, sob pena de poderem socorrer-se do disposto no n.º 2.
+
+> Alterado pelo/a [Declaração de Rectificação n.º 94-A/2009](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/94-a-2009-332229), publicado em 2009-12-24.
 
 ###### Artigo 13.º — Conflitos de interesses entre as entidades a quem prestam serviços
 

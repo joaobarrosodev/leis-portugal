@@ -42,12 +42,12 @@ notes: []
 language: por
 version:
   kind: consolidated
-  label: Versão consolidada pelo DRE
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: '2019-10-01'
+  consolidation_date: '2025-07-01'
 version_history:
   file: decreto-lei-8-2007.versoes.json
-  count: 8
+  count: 9
   source_lastmod: '2024-06-25'
   versions:
   - date: '2007-01-17'
@@ -99,6 +99,11 @@ version_history:
     changes:
     - Adita Artigo 10.º-A
     - Altera Artigo 2.º
+  - date: '2025-07-01'
+    amending: pt:dre:912653926:por
+    amending_title: Decreto-Lei n.º 49/2025
+    changes:
+    - Altera Artigo 2.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/8/2007/p/cons/20250327/pt/html
@@ -125,7 +130,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre-consolidated
   generated_at: '2026-10-22T11:49:00Z'
-  notes: 8 versão(ões); histórico completo em decreto-lei-8-2007.versoes.json.
+  notes: 'Texto em vigor consolidado pelo leis-portugal sobre a versão consolidada pelo DRE de 2019-10-01 com as alterações
+    publicadas em: Decreto-Lei n.º 49/2025. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2007/decreto-lei-8-2007.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -317,9 +323,9 @@ g) A confirmação da informação sobre o beneficiário efetivo, nos termos pre
 
 a) A declaração anual de informação contabilística e fiscal prevista no n.º 1 do artigo 113.º do CIRS, quando respeite a pessoas singulares que não sejam titulares de estabelecimentos individuais de responsabilidade limitada;
 
-b) A declaração anual de informação contabilística e fiscal e os mapas recapitulativos previstos nas alíneas d) a f) do n.º 1 do artigo 29.º do Código do Imposto sobre o Valor Acrescentado;
+b) A declaração anual de informação contabilística e fiscal e os mapas recapitulativos previstos nas alíneas d) e f) do n.º 1 do artigo 29.º do Código do Imposto sobre o Valor Acrescentado;
 
-c) A declaração anual prevista nos n.os 1 e 2 do artigo 52.º do Código do Imposto do Selo.
+c) (Revogada.)
 
 3 - As obrigações legais previstas no n.º 1 do artigo 2.º são exclusivamente cumpridas através da entrega da IES.
 
@@ -340,6 +346,8 @@ c) A declaração anual prevista nos n.os 1 e 2 do artigo 52.º do Código do Im
 > Alterado pelo/a Artigo 15.º do/a [Lei n.º 89/2017 - Diário da República n.º 160/2017, Série I de 2017-08-21](https://diariodarepublica.pt/dr/detalhe/lei/89-2017-108028571), em vigor a partir de 2017-11-19
 
 > Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01
+
+> Alterado pelo/a [Decreto-Lei n.º 49/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2025-912653926), publicado em 2025-03-27.
 
 ###### Artigo 3.º — Modelos
 

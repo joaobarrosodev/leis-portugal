@@ -89,6 +89,48 @@
     "1080858975",
     "1080859175"
    ]
+  },
+  {
+   "date": "2026-10-09",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1178225508:por",
+     "title": "Decreto-Lei n.º 200/2026",
+     "published": "2026-10-08",
+     "dre_path": "/dr/detalhe/decreto-lei/200-2026-1178225508"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 7.º"
+   ],
+   "consolidated_by": "leis-portugal (consolidacao/camada1.py, linha 9 «dre»): sobre a versão consolidada pelo DRE",
+   "fragments": [
+    "1080854375",
+    "1080854575",
+    "1080854775",
+    "1080854975",
+    "1080855175",
+    "1080855375",
+    "1080855575",
+    "1080855775",
+    "1080855975",
+    "1146392475",
+    "e95fcfcfd54d410b",
+    "1080856575",
+    "1080856775",
+    "1146392675",
+    "1080857175",
+    "1080857375",
+    "1080857575",
+    "1090554075",
+    "1080857975",
+    "1080858175",
+    "1080858375",
+    "1080858575",
+    "1080858775",
+    "6f52946f0175c461"
+   ]
   }
  ],
  "fragments": {
@@ -321,6 +363,24 @@
     "Retificado pelo/a [Declaração de Retificação n.º 14/2026/1 - Diário da República n.º 79/2026, Série I de 2026-04-23](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/14-2026-1088732652), com efeitos a partir de 2026-04-01."
    ],
    "markdown": "###### Artigo 13.º — Forma e cálculo do apoio extraordinário\n\n1 - O apoio extraordinário é aplicável ao gasóleo rodoviário e à gasolina utilizados, nos meses de abril a junho de 2026, como carburantes em veículos:\n\na) De socorro e de combate a incêndio dos corpos de bombeiros e de transporte de doentes, no caso de associações humanitárias de bombeiros;\n\nb) Automóveis ligeiros de passageiros utilizados no transporte de passageiros em táxi com licença emitida pelo Instituto da Mobilidade e dos Transportes, I. P. (IMT, I. P.), que tenham inspeção periódica obrigatória válida.\n\n2 - O apoio a conferir entre 1 de abril e 30 de junho de 2026 é de 10 cêntimos por litro, considerando um consumo de 1200 litros por mês por viatura, no caso dos «Veículos classe S (Super)» abrangidos pela alínea a) do número anterior e de 400 litros por mês nos restantes casos, o que corresponde aos seguintes montantes:\n\na) 360 € por veículo, no caso dos «Veículos classe S (Super)» abrangidos pela alínea a) do número anterior;\n\nb) 120 € por veículo, nos restantes casos.\n\n3 - O apoio a conferir às entidades do setor social, nos meses de abril a junho de 2026, é efetivado de uma só vez e corresponde ao valor 600 €.\n\n> Retificado pelo/a [Declaração de Retificação n.º 14/2026/1 - Diário da República n.º 79/2026, Série I de 2026-04-23](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/14-2026-1088732652), com efeitos a partir de 2026-04-01."
+  },
+  "e95fcfcfd54d410b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Forma e cálculo do apoio extraordinário",
+   "in_force_from": "2026-10-09",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 200/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-2026-1178225508), publicado em 2026-10-08."
+   ],
+   "markdown": "###### Artigo 7.º — Forma e cálculo do apoio extraordinário\n\n1 - O apoio extraordinário de 10 cêntimos por litro é atribuído nas semanas em que o preço médio do gasóleo colorido e marcado, tal como divulgado pela DGEG, apresente um aumento superior a 10 cêntimos por litro, quando comparado com o preço médio registado na semana de 2 a 6 de março, sendo considerados os consumos efetuados entre 1 de abril e 30 de junho de 2026.\n\n2 - No caso das atividades agrícolas e florestais, são também considerados os consumos efetuados entre 1 de julho e 31 de dezembro de 2026.\n\n> Alterado pelo/a [Decreto-Lei n.º 200/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-2026-1178225508), publicado em 2026-10-08."
+  },
+  "6f52946f0175c461": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.\n\nVisto e aprovado em Conselho de Ministros de 27 de março de 2026. - Luís Montenegro - Joaquim Miranda Sarmento - Manuel Castro Almeida - Miguel Martinez de Castro Pinto Luz - Paulo Jorge Simões Ribeiro - João Manuel do Amaral Esteves - José Manuel Fernandes.\n\nPromulgado em 30 de março de 2026.\n\nPublique-se.\n\nO Presidente da República, António José Martins Seguro.\n\nReferendado em 31 de março de 2026.\n\nO Primeiro-Ministro, Luís Montenegro."
   }
  }
 }

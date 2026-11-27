@@ -44,6 +44,48 @@
      "date": "2006-01-02"
     }
    ]
+  },
+  {
+   "date": "2006-02-06",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:551868:por",
+     "title": "Declaração de Rectificação n.º 9/2006",
+     "published": "2006-02-06",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/9-2006-551868"
+    }
+   ],
+   "changes": [
+    "Altera Artigo Anexo I",
+    "Altera Artigo Anexo II — Certificado"
+   ],
+   "consolidated_by": "leis-portugal (consolidacao/camada1.py, linha 9 «dre»): sobre a versão consolidada pelo DRE",
+   "fragments": [
+    "74891089",
+    "74891090",
+    "74891091",
+    "74891092",
+    "74891093",
+    "74891094",
+    "74891095",
+    "74891096",
+    "74891097",
+    "74891098",
+    "74891099",
+    "74891100",
+    "74891101",
+    "74891102",
+    "74891103",
+    "74891104",
+    "74891105",
+    "74891106",
+    "74891107",
+    "74891108",
+    "74891109",
+    "3b921eecfb360ac7",
+    "a9d8b726963b75ad"
+   ]
   }
  ],
  "fragments": {
@@ -230,6 +272,26 @@
    "in_force_from": null,
    "changed_by": [],
    "markdown": "## Anexo II — Certificado\n\n(ver modelo no documento original)"
+  },
+  "3b921eecfb360ac7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Anexo I",
+   "in_force_from": "2006-02-06",
+   "changed_by": [
+    "Alterado pelo/a [Declaração de Rectificação n.º 9/2006](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/9-2006-551868), publicado em 2006-02-06."
+   ],
+   "markdown": "## Anexo I\n\n[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2006/02/026a00/08570857.pdf)](https://files.diariodarepublica.pt/1s/2006/02/026a00/08570857.pdf)\n\n> Alterado pelo/a [Declaração de Rectificação n.º 9/2006](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/9-2006-551868), publicado em 2006-02-06."
+  },
+  "a9d8b726963b75ad": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Anexo II — Certificado",
+   "in_force_from": "2006-02-06",
+   "changed_by": [
+    "Alterado pelo/a [Declaração de Rectificação n.º 9/2006](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/9-2006-551868), publicado em 2006-02-06."
+   ],
+   "markdown": "## Anexo II — Certificado\n\n[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2006/02/026a00/08570857.pdf)](https://files.diariodarepublica.pt/1s/2006/02/026a00/08570857.pdf)\n\n> Alterado pelo/a [Declaração de Rectificação n.º 9/2006](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/9-2006-551868), publicado em 2006-02-06."
   }
  }
 }

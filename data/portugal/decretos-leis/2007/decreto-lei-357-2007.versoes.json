@@ -43,6 +43,46 @@
      "date": "2007-10-30"
     }
    ]
+  },
+  {
+   "date": "2007-12-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:628024:por",
+     "title": "Declaração de Rectificação n.º 117/2007",
+     "published": "2007-12-28",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/117-2007-628024"
+    }
+   ],
+   "changes": [
+    "Altera Artigo Anexo A"
+   ],
+   "consolidated_by": "leis-portugal (consolidacao/camada1.py, linha 9 «dre»): sobre a versão consolidada pelo DRE",
+   "fragments": [
+    "64210915",
+    "64210916",
+    "64210917",
+    "64210918",
+    "64210919",
+    "64210920",
+    "64210921",
+    "64210922",
+    "64210923",
+    "64210924",
+    "64210925",
+    "64210926",
+    "64210927",
+    "64210928",
+    "64210929",
+    "64210930",
+    "64210931",
+    "64210932",
+    "64210933",
+    "64210934",
+    "60b9a979fd96e506",
+    "64210936"
+   ]
   }
  ],
  "fragments": {
@@ -221,6 +261,16 @@
    "in_force_from": null,
    "changed_by": [],
    "markdown": "## Anexo B — Conclusão e certificação generalista/indiferenciada de nível secundário de educação\n\nTABELA I\n\nDisciplinas dos cursos científico-humanísticos (Decreto-Lei n.º 74/2004, de 26 de Março)\n\n(ver documento original)\n\nTABELA II\n\n(ver documento original)"
+  },
+  "60b9a979fd96e506": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Anexo A",
+   "in_force_from": "2007-12-28",
+   "changed_by": [
+    "Alterado pelo/a [Declaração de Rectificação n.º 117/2007](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/117-2007-628024), publicado em 2007-12-28."
+   ],
+   "markdown": "## Anexo A\n\nConclusão e certificação do ensino secundário pela via escolar com afectação a uma área de formação e com classificação\n\nTABELA I\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/12/25000/0911009111.pdf)\n\nTABELA II\n\nDisciplinas das componentes de formação sócio-cultural e científica dos cursos profissionais (Decreto-Lei n.º 74/2004, de 26 de Março)\n\n(ver documento original)\n\nTABELA III\n\nClassificação nacional das áreas de educação e formação\n\n(ver documento original)\n\n> Alterado pelo/a [Declaração de Rectificação n.º 117/2007](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/117-2007-628024), publicado em 2007-12-28."
   }
  }
 }

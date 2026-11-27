@@ -107,6 +107,110 @@
      "date": "2019-08-15"
     }
    ]
+  },
+  {
+   "date": "2019-09-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:124917022:por",
+     "title": "Declaração de Retificação n.º 44/2019",
+     "published": "2019-09-23",
+     "dre_path": "/dr/detalhe/declaracao-retificacao/44-2019-124917022"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "consolidated_by": "leis-portugal (consolidacao/camada1.py, linha 9 «dre»): sobre a versão consolidada pelo DRE",
+   "fragments": [
+    "123956076",
+    "123956077",
+    "49d375cb8645b0e4",
+    "123956079",
+    "123956080",
+    "123956081",
+    "123956082",
+    "123956084",
+    "123956085",
+    "123956086",
+    "123956087",
+    "123956088",
+    "123956089",
+    "123956090",
+    "123956091",
+    "123956092",
+    "123956093",
+    "123956094",
+    "123956095",
+    "123956096",
+    "123956097",
+    "123956098",
+    "123956099",
+    "123956100",
+    "123956101",
+    "123956102",
+    "123956103",
+    "123956104",
+    "123956105",
+    "123956106",
+    "123956107",
+    "123956108",
+    "123956109",
+    "123956110",
+    "123956111",
+    "123956112",
+    "123956113",
+    "123956114",
+    "123956115",
+    "123956116",
+    "123956117",
+    "123956118",
+    "123956119",
+    "123956120",
+    "123956121",
+    "123956122",
+    "123956123",
+    "123956124",
+    "123956125",
+    "123956126",
+    "123956127",
+    "123956128",
+    "123956129",
+    "123956130",
+    "123956131",
+    "123956132",
+    "123956133",
+    "123956134",
+    "123956135",
+    "123956136",
+    "123956137",
+    "123956138",
+    "123956139",
+    "123956140",
+    "123956141",
+    "123956142",
+    "123956143",
+    "123956144",
+    "123956145",
+    "123956146",
+    "123956147",
+    "123956148",
+    "123956149",
+    "123956150",
+    "123956151",
+    "123956152",
+    "123956153",
+    "123956154",
+    "123956155",
+    "123956156",
+    "123956157",
+    "123956158",
+    "123956159",
+    "123956160",
+    "123956161",
+    "123956162"
+   ]
   }
  ],
  "fragments": {
@@ -797,6 +901,16 @@
    "in_force_from": null,
    "changed_by": [],
    "markdown": "###### Base XL — Arbitragem\n\nNos litígios emergentes do contrato de concessão pode a Região Autónoma da Madeira celebrar convenções de arbitragem.\n\n112488713"
+  },
+  "49d375cb8645b0e4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Alteração ao Decreto Legislativo Regional n.º 17/2014/M, de 16 de dezembro",
+   "in_force_from": "2019-09-23",
+   "changed_by": [
+    "Alterado pelo/a [Declaração de Retificação n.º 44/2019](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/44-2019-124917022), publicado em 2019-09-23."
+   ],
+   "markdown": "###### Artigo 2.º — Alteração ao Decreto Legislativo Regional n.º 17/2014/M, de 16 de dezembro\n\nOs artigos 3.º, 4.º, 21.º e 22.º ao Decreto Legislativo Regional n.º 17/2014/M, de 16 de dezembro, na sua atual redação, passam a ter a seguinte redação:\n\n«Artigo 3.º\n\n[...]\n\n1 - [...]\n\n2 - [...]:\n\na) [...]\n\nb) [...]\n\nc) [...]\n\nd) [...]\n\ne) [...]\n\nf) [...]\n\ng) Gestão de resíduos em regime de alta, incluindo as operações de valorização e eliminação de resíduos, nomeadamente transferência, triagem, valorização orgânica e energética, bem como outras formas de tratamento, e o envio ou deposição em destino final;\n\nh) Gestão de resíduos em regime de baixa, incluindo recolha seletiva e indiferenciada.\n\nArtigo 4.º\n\n[...]\n\n[...]\n\na) [...]\n\nb) [...]\n\nc) [...]\n\nd) [...]\n\ne) Recolha seletiva e indiferenciada de resíduos;\n\nf) Operações de valorização e eliminação de resíduos, nomeadamente transferência, triagem, valorização orgânica e energética, bem como outras formas de tratamento, e o envio ou deposição em destino final;\n\ng) [...]\n\nh) [...]\n\ni) [...]\n\nj) [...]\n\nk) [...]\n\nl) [...]\n\nm) [...]\n\nArtigo 21.º\n\n[...]\n\n1 - [...]\n\n2 - Os trabalhadores a que se refere o número anterior que exercem funções na concessionária ao abrigo de situações anteriores à vigência da Lei Geral do Trabalho em Funções Públicas, aprovada pela Lei n.º 35/2014, de 20 de junho, na sua atual redação, são integrados no correspondente grupo funcional da concessionária, sendo-lhes aplicável o respetivo regime de remunerações, suplementos e efeitos da avaliação do desempenho vigente na concessionária, sem prejuízo da manutenção do seu estatuto de origem.\n\n3 - [...]\n\n4 - [...]\n\n5 - [...]\n\nArtigo 22.º\n\n[...]\n\n1 - [...]\n\na) [...]\n\nb) [...]\n\nc) [...]\n\nd) [...]\n\ne) [...]\n\nf) A execução de ligações aos sistemas públicos de abastecimento de águas, de drenagem de águas residuais e de águas para regadio ou alteração das existentes sem a respetiva autorização da concessionária;\n\ng) [...]\n\nh) [...]\n\ni) [...]\n\nj) [...]\n\nk) [...]\n\nl) [...]\n\nm) [...]\n\nn) [...]\n\no) [...]\n\np) [...]\n\nq) [...]\n\nr) [...]\n\ns) [...]\n\nt) [...]\n\nu) O abandono de resíduos fora dos equipamentos de deposição nos respetivos pontos de recolha, em violação das normas regulamentares e legais vigentes;\n\nv) A alteração do posicionamento dos contentores de recolha de resíduos para fora dos respetivos pontos de recolha;\n\nw) [Anterior alínea u).]\n\nx) [Anterior alínea v).]\n\n2 - [...]»\n\n> Alterado pelo/a [Declaração de Retificação n.º 44/2019](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/44-2019-124917022), publicado em 2019-09-23."
   }
  }
 }

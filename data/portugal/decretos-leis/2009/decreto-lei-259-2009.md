@@ -41,18 +41,23 @@ notes: []
 language: por
 version:
   kind: consolidated
-  label: Versão consolidada pelo DRE
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: '2009-09-25'
+  consolidation_date: '2009-10-15'
 version_history:
   file: decreto-lei-259-2009.versoes.json
-  count: 1
+  count: 2
   source_lastmod: '2024-06-25'
   versions:
   - date: '2009-09-25'
     amending: null
     amending_title: null
     changes: []
+  - date: '2009-10-15'
+    amending: pt:dre:483075:por
+    amending_title: Declaração de Rectificação n.º 76/2009
+    changes:
+    - Altera Artigo 28.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/259/2009/p/cons/20091015/pt/html
@@ -79,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre-consolidated
   generated_at: '2026-10-22T11:55:01Z'
-  notes: 1 versão(ões); histórico completo em decreto-lei-259-2009.versoes.json.
+  notes: 'Texto em vigor consolidado pelo leis-portugal sobre a versão consolidada pelo DRE de 2009-09-25 com as alterações
+    publicadas em: Declaração de Rectificação n.º 76/2009. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2009/decreto-lei-259-2009.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -459,7 +465,9 @@ b) Custos suplementares com pessoal administrativo, devidamente comprovados.
 
 ###### Artigo 28.º — Encargos do processo de arbitragem de serviços mínimos
 
-Aos encargos do processo de arbitragem de serviços mínimos é aplicável o disposto nos n.os 1 e 4 do artigo 23.º
+Aos encargos do processo de arbitragem de serviços mínimos é aplicável o disposto no artigo 23.º
+
+> Alterado pelo/a [Declaração de Rectificação n.º 76/2009](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/76-2009-483075), publicado em 2009-10-15.
 
 ### Capítulo V — Disposições finais e transitórias
 

@@ -38,18 +38,28 @@ notes: []
 language: por
 version:
   kind: consolidated
-  label: Versão consolidada pelo DRE
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: '2017-09-06'
+  consolidation_date: '2017-11-02'
 version_history:
   file: decreto-lei-112-2017.versoes.json
-  count: 1
+  count: 2
   source_lastmod: '2024-06-25'
   versions:
   - date: '2017-09-06'
     amending: null
     amending_title: null
     changes: []
+  - date: '2017-11-02'
+    amending: pt:dre:114133924:por
+    amending_title: Declaração de Retificação n.º 37/2017
+    changes:
+    - Altera Artigo 19.º
+    - Altera Artigo 31.º
+    - Altera Artigo 42.º
+    - Altera Artigo 44.º
+    - Altera Artigo 45.º
+    - Altera Artigo 62.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/112/2017/p/cons/20171102/pt/html
@@ -76,7 +86,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre-consolidated
   generated_at: '2026-10-22T12:15:21Z'
-  notes: 1 versão(ões); histórico completo em decreto-lei-112-2017.versoes.json.
+  notes: 'Texto em vigor consolidado pelo leis-portugal sobre a versão consolidada pelo DRE de 2017-09-06 com as alterações
+    publicadas em: Declaração de Retificação n.º 37/2017. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2017/decreto-lei-112-2017.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -561,7 +572,7 @@ b) 30 dias, nos casos referidos na alínea b) do n.º 2;
 
 c) 15 dias, nos casos referidos na alínea c) do n.º 2.
 
-4 - Para os casos referidos na alínea c) do n.º 2 considera-se a pretensão deferida se não houver resposta do ICNF, I. P., no prazo ali indicado.
+4 - Para os casos referidos na alínea c) do n.º 2 considera-se a pretensão deferida se não houver resposta do ICNF, I. P., no prazo indicado na alínea c) do número anterior.
 
 5 - Nos casos de esvaziamento de emergência em que não seja possível a comunicação nos prazos indicados no n.º 2, ela deve ocorrer logo que seja possível, com justificação escrita da razão do esvaziamento e indicação das medidas de minimização adotadas pelo utilizador.
 
@@ -570,6 +581,8 @@ c) 15 dias, nos casos referidos na alínea c) do n.º 2.
 7 - A proposta de medidas a que se refere o n.º 2, assim como o relatório a que se refere o n.º 6 são efetuados segundo modelos próprios do ICNF, I. P., disponibilizados no seu sítio na Internet, sendo submetidos preferencialmente por via eletrónica.
 
 8 - As medidas excecionais previstas no n.º 3 do artigo 10.º da Lei n.º 7/2008, de 15 de fevereiro, alterada e republicada pelo Decreto-Lei n.º 221/2015, de 8 de outubro, são estabelecidas por deliberação do conselho diretivo do ICNF, I. P., e publicadas no seu sítio na Internet.
+
+> Alterado pelo/a [Declaração de Retificação n.º 37/2017](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/37-2017-114133924), publicado em 2017-11-02.
 
 ###### Artigo 20.º — Medidas de minimização dos impactos dos esvaziamentos
 
@@ -761,9 +774,11 @@ d) Utilizar na pesca fontes luminosas para efeito de chamariz de peixe, assim co
 
 e) Transportar em embarcações ou deter nas margens das águas interiores ou em veículos nelas estacionados substâncias suscetíveis de causar a morte ou atordoamento das espécies da fauna aquícola, sem prejuízo do disposto nos artigos 17.º e 19.º e em demais legislação aplicável;
 
-f) Lançar à água substâncias suscetíveis de causar a morte ou atordoamento das espécies da fauna aquícola, com exceção das autorizadas ao abrigo dos artigos 17.º e 19.º, ou a destruição dos seus habitats, mediante parecer vinculativo da APA, I. P.;
+f) Lançar à água substâncias suscetíveis de causar a morte ou atordoamento das espécies da fauna aquícola, com exceção das autorizadas ao abrigo dos artigos 17.º, 19.º e 20.º, ou a destruição dos seus habitats, mediante parecer vinculativo da APA, I. P.;
 
 g) Lançar à água ou deixar nas margens qualquer tipo de materiais, como restos de iscos ou engodos, que possam contribuir para a degradação das massas de água e das galerias ripícolas.
+
+> Alterado pelo/a [Declaração de Retificação n.º 37/2017](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/37-2017-114133924), publicado em 2017-11-02.
 
 ###### Artigo 32.º — Pesca em pegos
 
@@ -903,7 +918,7 @@ g) Proceder à remoção das placas de sinalização, no prazo de 15 dias após 
 
 3 - As entidades gestoras de ZPL são obrigadas a proceder à sinalização da zona, no prazo de seis meses após a publicação do respetivo despacho de criação.
 
-###### Artigo 42.º — Transferência de zonas de pesca lúdica concessionada
+###### Artigo 42.º — Transferência de zona de pesca lúdica concessionada
 
 1 - A transferência de ZPL concessionada só pode ser autorizada às entidades a que se refere o n.º 3 do artigo 21.º da Lei n.º 7/2008, de 15 de fevereiro, alterada e republicada pelo Decreto-Lei n.º 221/2015, de 8 de outubro, que não tenham dívidas ao ICNF, I. P., e ao Estado, e carece de acordo entre as duas entidades envolvidas.
 
@@ -912,6 +927,8 @@ g) Proceder à remoção das placas de sinalização, no prazo de 15 dias após 
 3 - É disponibilizado no sítio na Internet do ICNF, I. P., o modelo do requerimento para a transferência de ZPL concessionada e a documentação a apresentar.
 
 4 - A tramitação do processo de transferência está sujeita ao pagamento de taxa, a efetuar pela entidade para a qual é transferida a ZPL, à data do pedido.
+
+> Alterado pelo/a [Declaração de Retificação n.º 37/2017](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/37-2017-114133924), publicado em 2017-11-02.
 
 ###### Artigo 43.º — Renovação de concessão de zonas de pesca lúdica
 
@@ -925,7 +942,7 @@ g) Proceder à remoção das placas de sinalização, no prazo de 15 dias após 
 
 a) A pedido da entidade gestora;
 
-b) Por incumprimento das obrigações previstas no artigo 40.º ou no n.º 2 do artigo 41.º;
+b) Por incumprimento das obrigações previstas no artigo 40.º ou no n.º 3 do artigo 41.º;
 
 c) Por caducidade, se, terminado o prazo de concessão, esta não for renovada;
 
@@ -941,11 +958,13 @@ e) Por motivos de interesse público.
 
 5 - Excetuam-se do referido no número anterior as ZPL extintas por motivos de interesse público em que a remoção das tabuletas de sinalização é um encargo do ICNF, I. P.
 
+> Alterado pelo/a [Declaração de Retificação n.º 37/2017](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/37-2017-114133924), publicado em 2017-11-02.
+
 ##### Subsecção II — Zonas de pesca profissional
 
 ###### Artigo 45.º — Disposições gerais
 
-1 - As ZPP são criadas nos termos do disposto do artigo 21.º da Lei n.º 7/2008, de 15 de fevereiro, alterada e republicada pelo Decreto-Lei n.º 221/2015, de 8 de outubro, por despacho do membro Governo responsável pela área da pesca em águas interiores.
+1 - As ZPP são criadas nos termos do disposto no artigo 21.º da Lei n.º 7/2008, de 15 de fevereiro, alterada e republicada pelo Decreto-Lei n.º 221/2015, de 8 de outubro, por despacho do membro do Governo responsável pela área da pesca em águas interiores.
 
 2 - As ZPP são geridas pelo ICNF, I. P., devendo os respetivos planos de gestão e exploração assegurar a proteção, conservação e exploração sustentável dos recursos aquícolas, e não contribuir para a degradação do estado das massas de água.
 
@@ -956,6 +975,8 @@ e) Por motivos de interesse público.
 5 - Com vista à proteção e conservação dos recursos aquícolas, o exercício de atividades incompatíveis com a pesca nas ZPP pode ser condicionado por portaria do membro do Governo competente em razão de matéria.
 
 6 - As ZPP são sinalizadas com tabuletas cujos modelos, cores e dimensões são os definidos no anexo II ao presente decreto-lei.
+
+> Alterado pelo/a [Declaração de Retificação n.º 37/2017](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/37-2017-114133924), publicado em 2017-11-02.
 
 ##### Subsecção III — Provas de pesca desportiva
 
@@ -1237,7 +1258,7 @@ Instalação e exploração de unidades de aquicultura e a detenção de espéci
 
 2 - A permissão para a detenção de espécies aquícolas com objetivos didáticos ou ornamentais sujeita a comunicação prévia com prazo é válida por um período até 5 anos, sendo renovável em caso de manutenção das condições de permissão.
 
-3 - A permissão para a instalação e exploração de unidades de aquicultura ou detenção de espécies aquícolas com fins técnicos ou científicos é válida durante o período de duração do projeto, ação ou ensaio, podendo ser renovável por períodos iguais ao do prolongamento do projeto, ação ou ensaio.
+3 - A permissão para a instalação e exploração de unidades de aquicultura ou detenção de espécies aquícolas com fins técnicos ou científicos é válida durante o período de duração do projeto, ação ou ensaio, podendo ser renovada por períodos iguais aos do prolongamento do projeto, ação ou ensaio.
 
 4 - Quando o local de instalação da unidade for arrendado, o prazo da permissão não pode ser superior ao estabelecido no contrato de arrendamento, podendo a permissão ser renovada se se mantiverem as condições de permissão.
 
@@ -1246,6 +1267,8 @@ Instalação e exploração de unidades de aquicultura e a detenção de espéci
 6 - O ICNF, I. P., profere decisão no prazo de 30 dias.
 
 7 - Se o ICNF, I. P., não proferir decisão no prazo previsto no número anterior, considera-se deferido o pedido de renovação.
+
+> Alterado pelo/a [Declaração de Retificação n.º 37/2017](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/37-2017-114133924), publicado em 2017-11-02.
 
 ###### Artigo 63.º — Extinção da permissão de atividade
 

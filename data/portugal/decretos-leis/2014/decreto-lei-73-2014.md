@@ -40,18 +40,24 @@ notes: []
 language: por
 version:
   kind: consolidated
-  label: Versão consolidada pelo DRE
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: '2014-05-13'
+  consolidation_date: '2014-06-18'
 version_history:
   file: decreto-lei-73-2014.versoes.json
-  count: 1
+  count: 2
   source_lastmod: '2024-06-25'
   versions:
   - date: '2014-05-13'
     amending: null
     amending_title: null
     changes: []
+  - date: '2014-06-18'
+    amending: pt:dre:25676916:por
+    amending_title: Declaração de Retificação n.º 30/2014
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo Anexo — (a que se refere o artigo 7.º)::33.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/73/2014/p/cons/20140618/pt/html
@@ -78,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre-consolidated
   generated_at: '2026-10-22T12:06:17Z'
-  notes: 1 versão(ões); histórico completo em decreto-lei-73-2014.versoes.json.
+  notes: 'Texto em vigor consolidado pelo leis-portugal sobre a versão consolidada pelo DRE de 2014-05-13 com as alterações
+    publicadas em: Declaração de Retificação n.º 30/2014. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2014/decreto-lei-73-2014.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -486,7 +493,7 @@ b) De declaração de conformidade do dirigente competente do respetivo arquivo,
 
 Artigo 33.º
 
-[...]
+Substituição do atestado de residência pelo cartão de cidadão
 
 1 - O atestado de residência para instrução de processos administrativos, quando legalmente exigido, é substituído pela apresentação do cartão de cidadão ou de quaisquer outros elementos que sejam adequados a demonstrar inequivocamente a residência do cidadão.
 
@@ -683,6 +690,8 @@ Artigo 50.º
 1 - O presente decreto-lei prevalece sobre quaisquer disposições gerais relativas aos diversos serviços e organismos da Administração Pública.
 
 2 - [...].»
+
+> Alterado pelo/a [Declaração de Retificação n.º 30/2014](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/30-2014-25676916), publicado em 2014-06-18.
 
 ###### Artigo 3.º — Aditamento ao Decreto-Lei n.º 135/99, de 22 de abril
 
@@ -1138,7 +1147,7 @@ b) De declaração de conformidade do dirigente competente do respetivo arquivo,
 
 5 - As cópias simples de documentos, reconhecidas nos termos dos números anteriores, não produzem fé pública.
 
-###### Artigo 33.º — Substituição do atestado de residência pelo cartão de eleitor
+###### Artigo 33.º — Substituição do atestado de residência pelo cartão de cidadão
 
 1 - O atestado de residência para instrução de processos administrativos, quando legalmente exigido, é substituído pela apresentação do cartão de cidadão ou de quaisquer outros elementos que sejam adequados a demonstrar inequivocamente a residência do cidadão.
 
@@ -1147,6 +1156,8 @@ b) De declaração de conformidade do dirigente competente do respetivo arquivo,
 3 - No caso de envio de documentação por via eletrónica ou através dos serviços de correio, o interessado deve juntar ao processo cópia de documento de identificação civil.
 
 4 - Em caso de dúvida quanto à veracidade das declarações, os serviços devem promover oficiosamente a confirmação dos dados relativos à residência, junto das juntas de freguesia respetivas.
+
+> Alterado pelo/a [Declaração de Retificação n.º 30/2014](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/30-2014-25676916), publicado em 2014-06-18.
 
 ###### Artigo 34.º — Atestados emitidos pelas juntas de freguesia
 

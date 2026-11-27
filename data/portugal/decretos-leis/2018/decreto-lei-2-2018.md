@@ -40,18 +40,27 @@ notes: []
 language: por
 version:
   kind: consolidated
-  label: Versão consolidada pelo DRE
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: '2018-01-09'
+  consolidation_date: '2018-03-09'
 version_history:
   file: decreto-lei-2-2018.versoes.json
-  count: 1
+  count: 2
   source_lastmod: '2024-06-25'
   versions:
   - date: '2018-01-09'
     amending: null
     amending_title: null
     changes: []
+  - date: '2018-03-09'
+    amending: pt:dre:114834168:por
+    amending_title: Declaração de Retificação n.º 9/2018
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/2/2018/p/cons/20180309/pt/html
@@ -78,7 +87,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre-consolidated
   generated_at: '2026-10-22T12:16:36Z'
-  notes: 1 versão(ões); histórico completo em decreto-lei-2-2018.versoes.json.
+  notes: 'Texto em vigor consolidado pelo leis-portugal sobre a versão consolidada pelo DRE de 2018-01-09 com as alterações
+    publicadas em: Declaração de Retificação n.º 9/2018. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2018/decreto-lei-2-2018.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -197,11 +207,13 @@ No uso da autorização legislativa concedida pelo artigo 96.º da Lei n.º 42/2
 
 ###### Artigo 1.º — Objeto
 
-O presente decreto-lei procede à alteração do regime contributivo dos trabalhadores independentes, previsto no Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social, aprovado em anexo à Lei n.º 110/2009, de 16 de setembro, alterada pela Lei n.º 119/2009, de 30 de dezembro, pelo Decreto-Lei n.º 140-B/2010, de 30 de dezembro, e pelas Leis n.os 55-A/2010, de 31 de dezembro, 64-B/2011, de 30 de dezembro, 20/2012, de 14 de maio, 66-B/2012, de 31 de dezembro, 83-C/2013, de 31 de dezembro, 82-B/2014, de 31 de dezembro, 42/2016, de 28 de dezembro, e 93/2017, de 1 de agosto.
+O presente decreto-lei procede à alteração do regime contributivo dos trabalhadores independentes, previsto no Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social, aprovado em anexo à Lei n.º 110/2009, de 16 de setembro, alterada pela Lei n.º 119/2009, de 30 de dezembro, pelo Decreto-Lei n.º 140-B/2010, de 30 de dezembro, pelas Leis n.os 55-A/2010, de 31 de dezembro, 64-B/2011, de 30 de dezembro, 20/2012, de 14 de maio, 66-B/2012, de 31 de dezembro, 83-C/2013, de 31 de dezembro, 82-B/2014, de 31 de dezembro, e 42/2016, de 28 de dezembro, e pelo Decreto-Lei n.º 93/2017, de 1 de agosto.
+
+> Alterado pelo/a [Declaração de Retificação n.º 9/2018](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/9-2018-114834168), publicado em 2018-03-09.
 
 ###### Artigo 2.º — Alteração ao Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social
 
-Os artigos 139.º, 140.º, 145.º, 146.º, 151.º, 152.º, 155.º, 157.º, 159.º, 161.º, 162.º, 163.º, 164.º, 165.º, 166.º, 168.º e 283.º do Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social, aprovado em anexo à Lei n.º 110/2009, de 16 de setembro, alterada pela Lei n.º 119/2009, de 30 de dezembro, pelo Decreto-Lei n.º 140-B/2010, de 30 de dezembro, e pelas Leis n.os 55-A/2010, de 31 de dezembro, 64-B/2011, de 30 de dezembro, 20/2012, de 14 de maio, 66-B/2012, de 31 de dezembro, 83-C/2013, de 31 de dezembro, 82-B/2014, de 31 de dezembro, 42/2016, de 28 de dezembro, e 93/2017, de 1 de agosto, passam a ter a seguinte redação:
+Os artigos 139.º, 140.º, 145.º, 146.º, 151.º, 152.º, 155.º, 157.º, 159.º, 161.º, 162.º, 163.º, 164.º, 165.º, 166.º, 168.º e 283.º do Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social, aprovado em anexo à Lei n.º 110/2009, de 16 de setembro, alterada pela Lei n.º 119/2009, de 30 de dezembro, pelo Decreto-Lei n.º 140-B/2010, de 30 de dezembro, pelas Leis n.os 55-A/2010, de 31 de dezembro, 64-B/2011, de 30 de dezembro, 20/2012, de 14 de maio, 66-B/2012, de 31 de dezembro, 83-C/2013, de 31 de dezembro, 82-B/2014, de 31 de dezembro, e 42/2016, de 28 de dezembro, e pelo Decreto-Lei n.º 93/2017, de 1 de agosto, passam a ter a seguinte redação:
 
 «Artigo 139.º
 
@@ -371,7 +383,7 @@ Artigo 163.º
 
 3 - Sempre que o rendimento relevante seja apurado nos termos do n.º 3 do artigo anterior, a base de incidência mensal corresponde ao duodécimo do lucro tributável, com o limite mínimo de 1,5 vezes o valor do IAS, sendo fixada em outubro para produzir efeitos no ano civil seguinte.
 
-4 - A base de incidência contributiva dos trabalhadores independentes com rendimento relevante mensal médio apurado trimestralmente de montante igual ou superior a 4 vezes o valor do IAS, que acumulem atividade com atividade profissional por conta de outrem nos termos da alínea a) do artigo 157.º, corresponde ao valor que ultrapasse aquele limite.
+4 - A base de incidência contributiva dos trabalhadores independentes com rendimento relevante mensal médio apurado trimestralmente de montante igual ou superior a 4 vezes o valor do IAS, que acumulem atividade com atividade profissional por conta de outrem nos termos da alínea a) do n.º 1 do artigo 157.º, corresponde ao valor que ultrapasse aquele limite.
 
 5 - A base de incidência contributiva considerada em cada mês tem como limite máximo 12 vezes o valor do IAS.
 
@@ -447,9 +459,11 @@ Artigo 283.º
 
 3 - [...].»
 
+> Alterado pelo/a [Declaração de Retificação n.º 9/2018](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/9-2018-114834168), publicado em 2018-03-09.
+
 ###### Artigo 3.º — Aditamento ao Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social
 
-São aditados ao Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social, aprovado em anexo à Lei n.º 110/2009, de 16 de setembro, alterada pela Lei n.º 119/2009, de 30 de dezembro, pelo Decreto-Lei n.º 140-B/2010, de 30 de dezembro, e pelas Leis n.os 55-A/2010, de 31 de dezembro, 64-B/2011, de 30 de dezembro, 20/2012, de 14 de maio, 66-B/2012, de 31 de dezembro, 83-C/2013, de 31 de dezembro, 82-B/2014, de 31 de dezembro, 42/2016, de 28 de dezembro, e 93/2017, de 1 de agosto, os artigos 151.º-A, 164.º-A e 283.º-A, com a seguinte redação:
+São aditados ao Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social, aprovado em anexo à Lei n.º 110/2009, de 16 de setembro, alterada pela Lei n.º 119/2009, de 30 de dezembro, pelo Decreto-Lei n.º 140-B/2010, de 30 de dezembro, pelas Leis n.os 55-A/2010, de 31 de dezembro, 64-B/2011, de 30 de dezembro, 20/2012, de 14 de maio, 66-B/2012, de 31 de dezembro, 83-C/2013, de 31 de dezembro, 82-B/2014, de 31 de dezembro, e 42/2016, de 28 de dezembro, e pelo Decreto-Lei n.º 93/2017, de 1 de agosto, os artigos 151.º-A, 164.º-A e 283.º-A, com a seguinte redação:
 
 «Artigo 151.º-A
 
@@ -479,7 +493,7 @@ Artigo 164.º-A
 
 Revisão anual
 
-1 - Os serviços da segurança social procedem, anualmente, à revisão das declarações relativas ao ano anterior com base na comunicação de rendimentos efetuada nos termos do n.º 7 do artigo 162.º e notificam o trabalhador independente das diferenças apuradas.
+1 - Os serviços da segurança social procedem, anualmente, à revisão das declarações relativas ao ano anterior com base na comunicação de rendimentos efetuada nos termos do n.º 6 do artigo 162.º e notificam o trabalhador independente das diferenças apuradas.
 
 2 - O pagamento de contribuições resultante da revisão é considerado, para todos os efeitos, como efetuado fora do prazo.
 
@@ -489,6 +503,8 @@ Efeitos específicos no registo de remunerações
 
 As remunerações registadas nas situações dos trabalhadores independentes com rendimento relevante mensal médio apurado trimestralmente de montante igual ou superior a 4 vezes o valor do IAS, que acumulem atividade com atividade profissional por conta de outrem nos termos da alínea a) do artigo 157.º, apenas relevam para determinação da remuneração de referência nas eventualidades de invalidez, velhice e morte.»
 
+> Alterado pelo/a [Declaração de Retificação n.º 9/2018](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/9-2018-114834168), publicado em 2018-03-09.
+
 ###### Artigo 4.º — Extensão do âmbito de aplicação
 
 As alterações efetuadas pelo presente decreto-lei aplicam-se à Lei n.º 29/2016, de 23 de agosto, com as necessárias adaptações.
@@ -497,13 +513,17 @@ As alterações efetuadas pelo presente decreto-lei aplicam-se à Lei n.º 29/20
 
 1 - Até ao início da produção de efeitos das alterações ao Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social, aprovado em anexo à Lei n.º 110/2009, de 16 de setembro, previstas no presente decreto-lei, mantém-se em aplicação a base de incidência contributiva fixada em outubro de 2017.
 
-2 - Em outubro de 2018, os trabalhadores independentes abrangidos pelo regime de contabilidade organizada são notificados da base de incidência contributiva apurada com base no lucro tributável declarado para efeitos fiscais no ano de 2018, para exercício do direito de opção previsto no n.º 2 do artigo 164.º do Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social, aprovado em anexo à Lei n.º 110/2009, de 16 de setembro, com a redação dada pelo presente decreto-lei.
+2 - Em outubro de 2018, os trabalhadores independentes abrangidos pelo regime de contabilidade organizada são notificados da base de incidência contributiva apurada com base no lucro tributável declarado para efeitos fiscais no ano de 2018, para exercício do direito de opção previsto no n.º 3 do artigo 164.º do Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social, aprovado em anexo à Lei n.º 110/2009, de 16 de setembro, com a redação dada pelo presente decreto-lei.
 
 3 - A declaração trimestral a efetuar em janeiro de 2019, nos termos do artigo 151.º-A do Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social, aprovado em anexo à Lei n.º 110/2009, de 16 de setembro, com a redação dada pelo presente decreto-lei, tem por referência os rendimentos auferidos no trimestre imediatamente anterior.
 
+> Alterado pelo/a [Declaração de Retificação n.º 9/2018](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/9-2018-114834168), publicado em 2018-03-09.
+
 ###### Artigo 6.º — Norma revogatória
 
-São revogados o n.º 2 do artigo 145.º, o n.º 3 do artigo 147.º, o n.º 3 do artigo 152.º, o n.º 4 do artigo 164.º, os n.os 3 e 5 do artigo 165.º, o n.º 3 do artigo 168.º, o n.º 2 do artigo 217.º, o n.º 3 do artigo 276.º e o artigo 279.º do Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social, aprovado em anexo à Lei n.º 110/2009, de 16 de setembro, alterada pela Lei n.º 119/2009, de 30 de dezembro, pelo Decreto-Lei n.º 140-B/2010, de 30 de dezembro, e pelas Leis n.os 55-A/2010, de 31 de dezembro, 64-B/2011, de 30 de dezembro, 20/2012, de 14 de maio, 66-B/2012, de 31 de dezembro, 83-C/2013, de 31 de dezembro, 82-B/2014, de 31 de dezembro, 42/2016, de 28 de dezembro, e 93/2017, de 1 de agosto.
+São revogados o n.º 2 do artigo 145.º, o n.º 3 do artigo 147.º, o n.º 3 do artigo 152.º, o n.º 4 do artigo 164.º, os n.os 3 e 5 do artigo 165.º, o n.º 3 do artigo 168.º, o n.º 2 do artigo 217.º, o n.º 3 do artigo 276.º e o artigo 279.º do Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social, aprovado em anexo à Lei n.º 110/2009, de 16 de setembro, alterada pela Lei n.º 119/2009, de 30 de dezembro, pelo Decreto-Lei n.º 140-B/2010, de 30 de dezembro, pelas Leis n.os 55-A/2010, de 31 de dezembro, 64-B/2011, de 30 de dezembro, 20/2012, de 14 de maio, 66-B/2012, de 31 de dezembro, 83-C/2013, de 31 de dezembro, 82-B/2014, de 31 de dezembro, e 42/2016, de 28 de dezembro, e pelo Decreto-Lei n.º 93/2017, de 1 de agosto.
+
+> Alterado pelo/a [Declaração de Retificação n.º 9/2018](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/9-2018-114834168), publicado em 2018-03-09.
 
 ###### Artigo 7.º — Avaliação do regime
 

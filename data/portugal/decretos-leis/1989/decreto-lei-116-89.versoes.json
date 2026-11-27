@@ -32,6 +32,35 @@
      "date": "1989-04-19"
     }
    ]
+  },
+  {
+   "date": "1989-04-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:441487:por",
+     "title": "Declaração",
+     "published": "1989-04-29",
+     "dre_path": "/dr/detalhe/declaracao/1989-441487"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 8.º"
+   ],
+   "consolidated_by": "leis-portugal (consolidacao/camada1.py, linha 9 «dre»): sobre a versão consolidada pelo DRE",
+   "fragments": [
+    "122453295",
+    "122453296",
+    "122453297",
+    "122453298",
+    "122453299",
+    "122453300",
+    "122453301",
+    "122453302",
+    "964cd40819984b87",
+    "122453304",
+    "122453305"
+   ]
   }
  ],
  "fragments": {
@@ -122,6 +151,16 @@
    "in_force_from": null,
    "changed_by": [],
    "markdown": "###### Artigo 10.º\n\nA atribuição de exploração a que se refere o n.º 1 do artigo 3.º do presente diploma será precedida de concurso público, cabendo ao SNPRCN, à DGF e à Direcção-Geral do Planeamento e Agricultura a verificação do cumprimento das condições contratuais estabelecidas relativamente à área litoral de protecção e aos domínios florestais e agrícolas, respectivamente."
+  },
+  "964cd40819984b87": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": "1989-04-29",
+   "changed_by": [
+    "Alterado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1989-441487), publicado em 1989-04-29."
+   ],
+   "markdown": "###### Artigo 8.º\n\nOs funcionários e agentes que no GAS desempenhem, há pelo menos três anos, funções relativas às áreas florestais e agrícolas agora afectas à DGF podem solicitar, no prazo de 30 dias a partir da entrada em vigor do presente diploma, a sua integração no quadro de pessoal desta Direcção-Geral.\n\n2 - Os funcionários e agentes que no GAS desempenham há, pelo menos, três anos funções relativas à área de protecção litoral agora afecta ao SNPRCN podem solicitar, no prazo de 30 dias a partir da entrada em vigor do presente diploma, a sua integração na dotação de pessoal deste Serviço.\n\n3 - Sendo necessários e adequados às necessidades, o quadro de pessoal da DGF e a dotação do SNPRCN serão alargados na justa medida em que o permita a integração prevista nos números anteriores.\n\n4 - Os orçamentos ordinários para 1989 do SNPRCN e da DGF serão reforçados com as verbas necessárias a fazer face ao acréscimo de pessoal decorrente deste diploma.\n\n5 - Os funcionários e agentes a que se referem os n.os 1 e 2 deste artigo poderão ser constituídos em excedentes e integrados no quadro de efectivos interdepartamentais dos Ministérios do Planeamento e da Administração do Território e da Agricultura, Pescas e Alimentação.\n\n6 - Os contratos de trabalho celebrados pelo GAS, nos termos do Regime Jurídico do Contrato Individual de Trabalho, com pessoal que presta funções na zona de autuação directa caducam automaticamente na data da entrada em vigor do presente diploma, com as consequências legalmente estabelecidas naquele regime.\n\n> Alterado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1989-441487), publicado em 1989-04-29."
   }
  }
 }

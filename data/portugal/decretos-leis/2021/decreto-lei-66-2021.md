@@ -39,18 +39,23 @@ notes: []
 language: por
 version:
   kind: consolidated
-  label: Versão consolidada pelo DRE
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: '2021-07-30'
+  consolidation_date: '2021-09-16'
 version_history:
   file: decreto-lei-66-2021.versoes.json
-  count: 1
+  count: 2
   source_lastmod: '2024-06-25'
   versions:
   - date: '2021-07-30'
     amending: null
     amending_title: null
     changes: []
+  - date: '2021-09-16'
+    amending: pt:dre:171441501:por
+    amending_title: Declaração de Retificação n.º 30/2021
+    changes:
+    - Altera Artigo 14.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/66/2021/p/cons/20210916/pt/html
@@ -77,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre-consolidated
   generated_at: '2026-10-22T12:45:51Z'
-  notes: 1 versão(ões); histórico completo em decreto-lei-66-2021.versoes.json.
+  notes: 'Texto em vigor consolidado pelo leis-portugal sobre a versão consolidada pelo DRE de 2021-07-30 com as alterações
+    publicadas em: Declaração de Retificação n.º 30/2021. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2021/decreto-lei-66-2021.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -374,7 +380,9 @@ d) Se praticadas por grande empresa, de (euro) 20 000,00 a (euro) 5 000 000,00.
 
 6 - Compete à ANACOM determinar a alteração das tarifas, sempre que estas não observem as exigências estabelecidas.
 
-7 - Caso a ANACOM não se pronuncie no prazo de 10 dias a contar da comunicação referida no n.º 3 do presente artigo, as ofertas consideram-se aprovadas, devendo as empresas que oferecem serviços de acesso à Internet em banda larga dar início ao procedimento previsto no artigo 9.º
+7 - Caso a ANACOM não se pronuncie no prazo de 10 dias a contar da comunicação referida no n.º 4 do presente artigo, as ofertas consideram-se aprovadas, devendo as empresas que oferecem serviços de acesso à Internet em banda larga dar início ao procedimento previsto no artigo 9.º
+
+> Alterado pelo/a [Declaração de Retificação n.º 30/2021](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/30-2021-171441501), publicado em 2021-09-16.
 
 ###### Artigo 15.º — Entrada em vigor
 

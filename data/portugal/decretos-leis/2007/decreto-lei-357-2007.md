@@ -40,18 +40,23 @@ notes: []
 language: por
 version:
   kind: consolidated
-  label: Versão consolidada pelo DRE
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: '2007-10-29'
+  consolidation_date: '2007-12-28'
 version_history:
   file: decreto-lei-357-2007.versoes.json
-  count: 1
+  count: 2
   source_lastmod: '2024-06-25'
   versions:
   - date: '2007-10-29'
     amending: null
     amending_title: null
     changes: []
+  - date: '2007-12-28'
+    amending: pt:dre:628024:por
+    amending_title: Declaração de Rectificação n.º 117/2007
+    changes:
+    - Altera Artigo Anexo A
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/357/2007/p/cons/20071228/pt/html
@@ -78,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre-consolidated
   generated_at: '2026-10-22T11:57:14Z'
-  notes: 1 versão(ões); histórico completo em decreto-lei-357-2007.versoes.json.
+  notes: 'Texto em vigor consolidado pelo leis-portugal sobre a versão consolidada pelo DRE de 2007-10-29 com as alterações
+    publicadas em: Declaração de Rectificação n.º 117/2007. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2007/decreto-lei-357-2007.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -368,7 +374,7 @@ Conclusão e certificação do ensino secundário pela via escolar com afectaç�
 
 TABELA I
 
-(ver documento original)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/12/25000/0911009111.pdf)
 
 TABELA II
 
@@ -381,6 +387,8 @@ TABELA III
 Classificação nacional das áreas de educação e formação
 
 (ver documento original)
+
+> Alterado pelo/a [Declaração de Rectificação n.º 117/2007](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/117-2007-628024), publicado em 2007-12-28.
 
 ## Anexo B — Conclusão e certificação generalista/indiferenciada de nível secundário de educação
 

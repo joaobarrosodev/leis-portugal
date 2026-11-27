@@ -39,18 +39,24 @@ notes: []
 language: por
 version:
   kind: consolidated
-  label: Versão consolidada pelo DRE
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: '2012-07-31'
+  consolidation_date: '2012-09-28'
 version_history:
   file: decreto-lei-166-2012.versoes.json
-  count: 1
+  count: 2
   source_lastmod: '2024-06-25'
   versions:
   - date: '2012-07-31'
     amending: null
     amending_title: null
     changes: []
+  - date: '2012-09-28'
+    amending: pt:dre:175544:por
+    amending_title: Declaração de Retificação n.º 54/2012
+    changes:
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/166/2012/p/cons/19000102/pt/html
@@ -77,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre-consolidated
   generated_at: '2026-10-22T12:56:21Z'
-  notes: 1 versão(ões); histórico completo em decreto-lei-166-2012.versoes.json.
+  notes: 'Texto em vigor consolidado pelo leis-portugal sobre a versão consolidada pelo DRE de 2012-07-31 com as alterações
+    publicadas em: Declaração de Retificação n.º 54/2012. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2012/decreto-lei-166-2012.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -377,7 +384,7 @@ e) Em casos devidamente fundamentados, especialista superior de 1.ª classe com,
 
 5 - Os diretores dos Serviços de Clínica e Patologia Forenses estão sujeitos aos mesmos deveres e gozam dos mesmos direitos correspondentes aos cargos de direção de serviços no âmbito da carreira especial médica do Ministério da Saúde.
 
-6 - Para o exercício do cargo de diretor do Serviço de Tecnologias Forenses e Criminalista pode ser designado indivíduo detentor de qualificação académica superior, e com formação e perfil adequados, com, pelo menos, seis anos de experiência profissional.
+6 - Para o exercício do cargo de diretor do Serviço de Tecnologias Forenses e Criminalística pode ser designado indivíduo detentor de qualificação académica superior, e com formação e perfil adequados, com, pelo menos, seis anos de experiência profissional.
 
 7 - Os diretores dos serviços técnicos podem optar pela remuneração correspondente ao seu lugar e regime de origem, tendo direito, neste caso, a um acréscimo salarial mensal de montante igual a 25 % do seu vencimento base.
 
@@ -385,9 +392,11 @@ e) Em casos devidamente fundamentados, especialista superior de 1.ª classe com,
 
 9 - Os diretores dos serviços técnicos são substituídos nas suas ausências e impedimentos pelo elemento do serviço que para tanto seja por aqueles designado.
 
-###### Artigo 15.º — Coordenadores de unidades funcionais dos serviços de Genética e Biologia Forenses, de Química e Toxicologia Forenses e de Tecnologias Forenses e Criminalista
+> Alterado pelo/a [Declaração de Retificação n.º 54/2012](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/54-2012-175544), publicado em 2012-09-28.
 
-1 - Quando por razões de funcionalidade os serviços de Genética e Biologia Forenses, de Química e Toxicologia Forenses e de Tecnologias Forenses e Criminalista necessitarem de dispor de extensões funcionais fora da delegação onde estão instalados, pode ser designado um coordenador em cada uma destas, com a função de coadjuvar os diretores dos referidos serviços.
+###### Artigo 15.º — Coordenadores de unidades funcionais dos serviços de Genética e Biologia Forenses, de Química e Toxicologia Forenses e de Tecnologias Forenses e Criminalística
+
+1 - Quando por razões de funcionalidade os serviços de Genética e Biologia Forenses, de Química e Toxicologia Forenses e de Tecnologias Forenses e Criminalística necessitarem de dispor de extensões funcionais fora da delegação onde estão instalados, pode ser designado um coordenador em cada uma destas, com a função de coadjuvar os diretores dos referidos serviços.
 
 2 - Os coordenadores das extensões funcionais referidas no número anterior são designados pelo membro do Governo responsável pela área da justiça, sob proposta do conselho diretivo do INMLCF, I. P., e informação do diretor da respetiva delegação, por um período de três anos, renovável por iguais períodos.
 
@@ -402,6 +411,8 @@ b) A pedido do coordenador, desde que formulado com a antecedência mínima de 6
 c) A todo o tempo, por despacho fundamentado do membro do Governo responsável pela área da justiça sob proposta do conselho diretivo do INMLCF, I. P.
 
 5 - Pelo exercício das funções de coordenação é atribuído ao coordenador um subsídio mensal de função em 12 meses, correspondente a 10 % da remuneração devida ao 1.º escalão da categoria de chefe de serviço de medicina legal em dedicação exclusiva.
+
+> Alterado pelo/a [Declaração de Retificação n.º 54/2012](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/54-2012-175544), publicado em 2012-09-28.
 
 ###### Artigo 16.º — Coordenadores de unidades funcionais dos Serviços de Clínica e Patologia Forenses das Delegações
 

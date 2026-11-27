@@ -41,18 +41,23 @@ notes: []
 language: por
 version:
   kind: consolidated
-  label: Versão consolidada pelo DRE
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: '2019-08-19'
+  consolidation_date: '2019-09-16'
 version_history:
   file: decreto-lei-113-2019.versoes.json
-  count: 1
+  count: 2
   source_lastmod: '2024-06-25'
   versions:
   - date: '2019-08-19'
     amending: null
     amending_title: null
     changes: []
+  - date: '2019-09-16'
+    amending: pt:dre:124716450:por
+    amending_title: Declaração de Retificação n.º 42/2019
+    changes:
+    - Altera Artigo 14.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/113/2019/p/cons/20190916/pt/html
@@ -79,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre-consolidated
   generated_at: '2026-10-22T12:27:49Z'
-  notes: 1 versão(ões); histórico completo em decreto-lei-113-2019.versoes.json.
+  notes: 'Texto em vigor consolidado pelo leis-portugal sobre a versão consolidada pelo DRE de 2019-08-19 com as alterações
+    publicadas em: Declaração de Retificação n.º 42/2019. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2019/decreto-lei-113-2019.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -276,7 +282,9 @@ Os matadouros aprovados nos termos do Decreto-Lei n.º 28/96, de 2 de abril, e q
 
 ###### Artigo 14.º — Norma revogatória
 
-É revogado o Decreto-Lei n.º 28/96, de 2 de abril, sem prejuízo das disposições transitórias estabelecidas no artigo seguinte.
+É revogado o Decreto-Lei n.º 28/96, de 2 de abril, sem prejuízo das disposições transitórias estabelecidas no artigo anterior.
+
+> Alterado pelo/a [Declaração de Retificação n.º 42/2019](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/42-2019-124716450), publicado em 2019-09-16.
 
 ###### Artigo 15.º — Entrada em vigor
 
