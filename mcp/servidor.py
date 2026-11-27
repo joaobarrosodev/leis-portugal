@@ -168,7 +168,7 @@ FERRAMENTAS = {
         "inicio": {"type": "string", "description": "O dia do evento, AAAA-MM-DD (não conta)."},
         "quantidade": {"type": "integer"},
         "unidade": {"type": "string", "enum": ["dias", "semanas", "meses", "anos"]},
-        "regime": {"type": "string", "enum": ["civil", "civil_em_juizo", "processual", "processual_urgente", "uteis"]},
+        "regime": {"type": "string", "enum": ["civil", "civil_em_juizo", "processual", "processual_urgente", "uteis", "periodo"]},
         "dilacao": {"type": "integer", "description": "Dias de dilação contados com o prazo (CPC 142.º)."},
         "data_referencia": {"type": "string", "description": "Para dizer se já passou (por omissão, hoje)."}},
         ["inicio", "quantidade", "regime"]),

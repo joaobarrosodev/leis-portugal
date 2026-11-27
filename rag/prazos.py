@@ -15,6 +15,9 @@ Regimes (todos excluem o dia do evento, CC 279.º, b), e CPA 87.º, b)):
 - `processual_urgente`: o mesmo, sem suspensão nas férias (processos urgentes, por exemplo a insolvência, CIRE 9.º).
 - `uteis`: só contam os dias úteis (CPA 87.º, c), RGCO 60.º, os «dias úteis» do Código do Trabalho). Num prazo de mais de
   6 meses contam-se todos os dias (CPA 87.º, d)).
+- `periodo`: um período, e não um prazo para praticar um ato. Por exemplo, até quando dura uma presunção ou uma
+  responsabilidade, ou a partir de quando uma renda é exigível. Conta-se como o `civil`, mas o termo fica onde cai,
+  sem passar para dia útil.
 
 A dilação (`dilacao`, em dias) conta-se com o prazo que se lhe segue como um prazo só (CPC 142.º).
 
@@ -30,7 +33,7 @@ from datetime import date, timedelta
 from functools import cache
 
 
-REGIMES = ("civil", "civil_em_juizo", "processual", "processual_urgente", "uteis")
+REGIMES = ("civil", "civil_em_juizo", "processual", "processual_urgente", "uteis", "periodo")
 UNIDADES = ("dias", "semanas", "meses", "anos")
 AVISO = "Não conta feriados municipais nem tolerâncias de ponto."
 _MESES_SEM_SUSPENSAO = 6
@@ -124,7 +127,7 @@ def contar(c: Conta) -> Contado:
         raise ValueError("quantidade tem de ser positiva e dilação não negativa")
     passos: list[str] = []
     quantidade, unidade = c.quantidade, c.unidade
-    if c.regime in ("civil", "civil_em_juizo") and unidade == "dias" and quantidade in (8, 15) and not c.dilacao:
+    if c.regime in ("civil", "civil_em_juizo", "periodo") and unidade == "dias" and quantidade in (8, 15) and not c.dilacao:
         quantidade, unidade = (1 if quantidade == 8 else 2), "semanas"
         passos.append(f"{c.quantidade} dias valem {quantidade} semana(s) (CC 279.º, d))")
     longo = _meses_equivalentes(c) >= _MESES_SEM_SUSPENSAO
@@ -179,6 +182,8 @@ def contar(c: Conta) -> Contado:
         sem = " sem suspensão em férias" if c.regime in ("processual", "processual_urgente") else ""
         passos.append(f"{quantidade} {unidade}{sem} a contar de {inicio:%d/%m/%Y}, sem contar esse dia: {fim:%d/%m/%Y}")
     # Transferência do termo.
+    if c.regime == "periodo":
+        return Contado(c, fim, passos + ["é um período, e não um prazo para um ato: o termo não passa para dia útil"])
     if c.regime == "civil":
         aceita, regra = (lambda d: d.weekday() != 6 and not feriado(d)), "domingo ou feriado: primeiro dia útil (CC 279.º, e))"
         destino = _seguinte(fim, aceita)

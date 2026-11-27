@@ -210,7 +210,7 @@ Ficheiros: `resultados/completar/` (39), `resultados/casos2-antigo/` e `resultad
 
 **A calculadora contra as referências.** Um subagente passou os 152 prazos das respostas de referência (os 39 casos e os 16 novos) a contas, sem ver o que a calculadora dá (`prazos-referencia.jsonl`). 98 são contas de datas; os outros 54 não são (um período de referência, um prazo que ainda não começou). Nas 98, a data da calculadora é a da referência em **87**. As 11 diferenças:
 - **3 são erros da referência:** o termo cai num domingo ou feriado e não passou para o dia útil seguinte (3/06/2029 e 10/06/2029 são domingos; 31/10/2027 é domingo e 1/11/2027 é feriado).
-- **5 não são prazos para praticar um ato:** a data em que uma atualização se torna exigível, o fim de um aviso prévio, o período de uma presunção. A calculadora passa o termo para dia útil e a referência não. Falta um regime «período», sem transferência do termo. Não entrou nesta medição.
+- **5 não são prazos para praticar um ato:** a data em que uma atualização se torna exigível, o fim de um aviso prévio, o período de uma presunção. A calculadora passa o termo para dia útil e a referência não. Depois desta medição, entrou o regime `periodo`, que não passa o termo para dia útil (27/11, com testes; também nas regras de `rag/CASO-ANALISE.md`). O seu efeito no fluxo ainda não foi medido.
 - **1 é a leitura de «a partir do dia seguinte» à cessação** (CT 337.º). A calculadora dá a data mais cedo, que é a prudente.
 - **2 não têm data final na referência.**
 
