@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1976-01-28'
+version_history:
+  file: decreto-lei-562-71.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1971-12-17'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1976-01-28'
+    amending: pt:dre:506869:por
+    amending_title: Decreto-Lei n.º 85/76
+    changes:
+    - Altera Artigo unidades 104-104
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:21:19Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 85/76. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1971/decreto-lei-562-71.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -334,7 +349,9 @@ b) Em cada secção de processos, os mencionados nas alíneas a) e b) do artigo 
 
 2. Nos tribunais cuja secretaria seja composta de uma só secção haverá os livros mencionados nas alíneas a) e b) de número anterior, a cargo do respectivo chefe.
 
-Art. 2.º Com excepção das execuções, nos processos em que não haja preparos ou divisão de custas, estas são lançadas apenas no livro «Pagamentos» logo que sejam pagas.
+Art. 2.º (Revogado.)
+
+> Alterado pelo/a [Decreto-Lei n.º 85/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-1976-506869), publicado em 1976-01-28.
 
 Art. 3.º Na elaboração da conta dos processos cíveis observar-se-á, na parte aplicável, o disposto no artigo 11.º do [Decreto-Lei n.º 49213](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49213-1969-214886), de 29 de Agosto de 1969.
 

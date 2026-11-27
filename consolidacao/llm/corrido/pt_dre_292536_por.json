@@ -15,12 +15,12 @@
     }
   ],
   "insercoes": [],
-  "nao_aplicavel": null,
+  "nao_aplicavel": "Alterador 1, art. 2.º (efeitos da nova base XIX desde 6 de Outubro de 1988): não textual\nAlterador 2, art. 15.º, n.º 2 (extinção do Fundo de Garantia e Actualização de Pensões da base XLV): não textual\nAlterador 3, art. 97.º (cessação das responsabilidades do Fundo de Garantia e Actualização de Pensões da base XLV): não textual\nAlterador 4, art. 1.º (datas de entrada em vigor dos DL 142/99, 143/99 e 159/99) e art. 2.º (art. 74.º do DL 143/99): outro diploma",
   "instrucoes": [
-    "Alt. 1 (Lei 22/92), art. 1.º: nova redação das bases III (n.os 1-3, unidades 14-16) e XIX (n.os 1-3, unidades 104-111; n.os 4 e 5 com '...' ficam). Epígrafes iguais, mantidas.",
-    "Alt. 1, art. 2.º: produção de efeitos; ignorado.",
-    "Alt. 2 (DL 142/99) e Alt. 4 (DL 382-A/99): criam o FAT e alteram outros diplomas; sem instrução textual dirigida ao original.",
-    "Alt. 3 (DL 248/99), art. 97.º: cessam as responsabilidades do Fundo da base XLV; não é alteração textual."
+    "Alterador 1, art. 1.º: nova redação da base III (n.os 1 a 3, unidades 14 a 16 substituídas; título e epígrafe ficam).",
+    "Alterador 1, art. 1.º: nova redação da base XIX, n.os 1 (alíneas a) a d)), 2 e 3 (unidades 104 a 111 substituídas); n.os 4 e 5 «...» ficam (unidades 112 e 113).",
+    "Alterador 1, art. 2.º: produção de efeitos, não textual.",
+    "Alteradores 2, 3 e 4: nenhuma instrução textual sobre a Lei n.º 2127 (só referências à base XLV e a outros diplomas)."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

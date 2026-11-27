@@ -16,17 +16,19 @@
   ],
   "removidos": [],
   "titulos": [],
-  "nao_aplicavel": "Decreto-Lei n.º 181/2009, art. 1.º: a frase de abertura menciona também o artigo 155.º do Decreto-Lei n.º 380/99, mas não dá nova redação para ele e os artigos 2.º e 3.º do original não contêm nenhum artigo 155.º; nada aplicado quanto a esse artigo. O art. 2.º, n.º 2, do mesmo decreto-lei limita no tempo os efeitos das novas alíneas b) do n.º 4 do art. 107.º e j) do n.º 2 do art. 148.º (até à entrada em vigor do Decreto-Lei n.º 46/2009): regra de produção de efeitos, não textual.",
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, art. 1.º (nova redação dos arts. 77.º, 83.º-A, 92.º-A, 93.º, 95.º, 97.º-A, 100.º, 104.º, 107.º, 109.º, 112.º e 148.º do Decreto-Lei n.º 380/99) e republicação anexa: outro diploma: altera o Decreto-Lei n.º 380/99, que o original só alterou e republicou; não se aplica ao anexo de republicação\nAlterador 2, art. 1.º, a mesma nova redação dos arts. 75.º-B, 77.º, 85.º, 107.º e 148.º do Decreto-Lei n.º 380/99 no anexo de republicação: outro diploma: o anexo republica o Decreto-Lei n.º 380/99; a mudança ficou aplicada só ao texto dos arts. 2.º e 3.º do original\nAlterador 2, art. 1.º, art. 155.º do Decreto-Lei n.º 380/99 na lista: sem texto: o alterador não traz redação para o 155.º, que também não está nos arts. 2.º e 3.º do original\nAlterador 3, alteração do local de publicação dos elementos gráficos (Decreto-Lei n.º 380/99): outro diploma: o original só aparece na lista das alterações do Decreto-Lei n.º 380/99\nAlterador 4, suspensão de planos de ordenamento ao abrigo do art. 100.º do RJIGT: não textual: suspensão de planos ao abrigo do Decreto-Lei n.º 380/99; o original só aparece na lista das alterações",
   "instrucoes": [
-    "Alterador 1 (DL 46/2009), art. 1.º e excertos da republicação: alteram o Decreto-Lei n.º 380/99 (na redação dada pelo original), não o original; ignorados.",
-    "Alterador 2 (DL 181/2009), art. 1.º: nova redação do texto que o art. 2.º do original dá aos arts. 77.º (n.º 3), 85.º (n.º 2, proémio), 107.º (n.º 4, alínea b), com as alíneas a) a e) em '...') e 148.º (n.º 2, alínea j); n.º 4, alínea d); acrescenta 'f) ...' tal como no alterador) do DL 380/99; aplicado ao art. 2.º do original.",
-    "Alterador 2 (DL 181/2009), art. 1.º: nova redação do n.º 2 do art. 75.º-B aditado pelo art. 3.º do original ('n.º 4 do artigo anterior'); aplicado ao art. 3.º do original.",
-    "Alterador 2, art. 1.º: o artigo 155.º é referido mas sem texto nem alvo no original; não aplicado (ver nao_aplicavel). A republicação em anexo do original não é alvo da instrução e fica como está.",
-    "Alterador 2, art. 2.º: produção de efeitos retroativa e limitada no tempo; não textual.",
-    "Alterador 3 (DL 2/2011), art. 1.º: altera o DL 380/99, não o original; ignorado.",
-    "Alterador 4 (RCM 92/2012): suspende planos especiais ao abrigo do RJIGT; não altera o original; ignorado."
+    "Alterador 1 (DL 46/2009): altera e republica o DL 380/99; outro diploma, nada aplicado.",
+    "Alterador 2 (DL 181/2009), art. 1.º: nova redação conferida pelos arts. 2.º e 3.º do original aos arts. 75.º-B, 77.º, 85.º, 107.º e 148.º do DL 380/99. No art. 2.º do original: substituído o n.º 3 do art. 77.º, o proémio do n.º 2 do art. 85.º, acrescentadas as alíneas do n.º 4 do art. 107.º (com a nova b)), substituídas a alínea j) do n.º 2 e a alínea d) do n.º 4 do art. 148.º e acrescentada a f) («f) ...»). No art. 3.º: substituído o n.º 2 do art. 75.º-B (n.º 4 do artigo anterior). O art. 155.º não tem texto.",
+    "Alterador 2, art. 2.º: efeitos retroativos à entrada em vigor do original; as mudanças às alíneas b) do n.º 4 do art. 107.º e j) do n.º 2 do art. 148.º só vigoram até à entrada em vigor do DL 46/2009 (efeito temporal sobre o DL 380/99, o texto do art. 2.º do original fica alterado).",
+    "Alterador 3 (DL 2/2011): altera o DL 380/99; outro diploma.",
+    "Alterador 4 (RCM 92/2012): suspensão de planos; não textual."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 124,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

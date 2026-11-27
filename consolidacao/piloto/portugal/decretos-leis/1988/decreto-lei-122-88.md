@@ -7,9 +7,6 @@ consolidacao:
     sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
-  - id: pt:dre:647731:por
-    title: Decreto-Lei n.º 233/91
-    publication_date: '1991-06-26'
   - id: pt:dre:344942:por
     title: Lei n.º 55-A/2010
     publication_date: '2010-12-31'
@@ -42,12 +39,6 @@ Assim, ao abrigo da alínea a) do n.º 1 do artigo 201.º da Constituição e no
 ###### Artigo 1.º
 
 Os artigos 14.º, 19.º, 20.º, 28.º, 40.º, 50.º, 58.º, 60.º, 83.º, 84.º e 87.º do Código do Imposto sobre o Valor Acrescentado (CIVA), aprovado pelo [Decreto-Lei n.º 394-B/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/394-b-1984-605547), de 26 de Dezembro, passam a ter a seguinte redacção:
-
-###### Artigo 8.º
-
-São impenhoráveis os créditos de IVA, a menos que assumam a forma de reembolsos confirmados e comunicados nos termos previstos no Decreto-Lei n.º 229/95, de 11 de Setembro, alterado pelos Decretos-Leis n.os 472/99, de 8 de Novembro, 160/2003, de 19 de Julho, e 124/2005, de 3 de Agosto.
-
-> Aditado pelo/a [Decreto-Lei n.º 233/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/233-1991-647731) e [Lei n.º 55-A/2010](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), publicado em 2010-12-31.
 
 ###### Artigo 14.º
 
@@ -225,7 +216,7 @@ Art. 7.º A verba 3.13 da lista II anexa ao CIVA passa a ter a seguinte redacç�
 
 Exceptuam-se os espectáculos e divertimentos de carácter pornográfico ou obsceno, como tal considerados na legislação sobre a matéria.
 
-Art. 8.º São impenhoráveis os créditos de IVA, a menos que estes sejam oferecidos à penhora pelo próprio sujeito passivo.
+Art. 8.º São impenhoráveis os créditos de IVA, a menos que assumam a forma de reembolsos confirmados e comunicados nos termos previstos no Decreto-Lei n.º 229/95, de 11 de Setembro, alterado pelos Decretos-Leis n.os 472/99, de 8 de Novembro, 160/2003, de 19 de Julho, e 124/2005, de 3 de Agosto.
 
 Art. 9.º - 1 - O IVA correspondente às vendas de peixe, crustáceos e moluscos efectuadas pelas lotas será por estas entregue ao Estado, em substituição dos pescadores ou armadores por conta de quem as vendas são efectuadas.
 
@@ -296,6 +287,8 @@ Art. 14.º - 1 - ...
 3 - ...
 
 4 - Não serão considerados os pedidos de reembolso, constantes de declarações periódicas apresentadas fora do prazo legal, sem prejuízo da manutenção do respectivo crédito.
+
+> Alterado pelo/a [Lei n.º 55-A/2010](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), publicado em 2010-12-31.
 
 ###### Artigo 12.º
 

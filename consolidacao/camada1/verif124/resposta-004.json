@@ -1,0 +1,169 @@
+[
+ {
+  "id": "pt:dre:279609:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 27.º",
+    "veredicto": "certo",
+    "motivo": "Redação do DL 348/80 (n.os 1, 3 a 7); n.º 2 «...» mantém o texto vigente (igual ao original e à Lei 28/79).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 30.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação da Lei 28/79 (n.os 1 e 2).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 31.º",
+    "veredicto": "certo",
+    "motivo": "N.º 5 aditado pelo DL 348/80; n.os 1 a 4 originais.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 33.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação do DL 348/80 («Bom com distinção»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 38.º",
+    "veredicto": "certo",
+    "motivo": "N.º 1 com a redação do DL 348/80; n.os 2 e 3 originais.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 43.º",
+    "veredicto": "certo",
+    "motivo": "N.º 1 com a redação do DL 348/80; n.os 2 a 4 originais.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 45.º",
+    "veredicto": "certo",
+    "motivo": "N.º 1 com a redação do DL 348/80; n.º 2 original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 139.º",
+    "veredicto": "certo",
+    "motivo": "N.os 2 e 3 do DL 348/80; n.º 1 original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 140.º",
+    "veredicto": "certo",
+    "motivo": "N.os 4 e 5 do DL 348/80; n.os 1 a 3 originais.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 141.º",
+    "veredicto": "certo",
+    "motivo": "N.os 3 e 4 do DL 348/80; n.os 1 e 2 originais.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 152.º",
+    "veredicto": "certo",
+    "motivo": "Alíneas c), i) e j) do n.º 1 e n.os 2 a 4 com a redação do DL 348/80; restantes alíneas originais.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 153.º",
+    "veredicto": "certo",
+    "motivo": "Proémio do n.º 1 e alínea e) do DL 348/80; alíneas a) a d) e n.º 2 originais.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 154.º",
+    "veredicto": "certo",
+    "motivo": "Redação do DL 348/80, que substitui a da Lei 28/79.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 155.º",
+    "veredicto": "certo",
+    "motivo": "Redação do DL 348/80, que substitui a da Lei 28/79.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 156.º",
+    "veredicto": "certo",
+    "motivo": "N.º 6 aditado pelo DL 348/80; n.os 1 a 5 originais; epígrafe do DL 348/80.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 158.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação do DL 348/80.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 159.º",
+    "veredicto": "certo",
+    "motivo": "Alíneas b) e g) do DL 348/80; restantes originais.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 172.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação do DL 348/80.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 173.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação do DL 348/80.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 175.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação do DL 348/80.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 177.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação do DL 348/80.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 191.º",
+    "veredicto": "certo",
+    "motivo": "N.º 1 com a redação do DL 348/80; n.os 2 a 4 originais.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 193.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 13.º do DL 348/80; epígrafe mantida e corpo «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 195.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação do DL 348/80.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 264-C/81 (segundo a Resolução 189-A/82, deu nova redação aos arts. 34.º, n.º 2, e 43.º, n.º 2)",
+    "motivo": "O diploma que altera não traz o texto da alteração: o texto que vem na vista é o do DL 264-B/81 (estrangeiros), sem nenhuma instrução dirigida à Lei 85/77."
+   },
+   {
+    "instrucao": "Resolução 189-A/82: inconstitucionalidade dos arts. 34.º, n.º 2, e 43.º, n.º 2",
+    "motivo": "Não textual: declaração de inconstitucionalidade restrita «à parte em que se permite…», sem eliminar texto."
+   },
+   {
+    "instrucao": "Lei 21/85, art. 187.º (ressalvas: mantém o art. 196.º, n.os 1 a 3, e o art. 43.º, n.os 3 a 5, até data futura)",
+    "motivo": "Não textual: só ressalva a vigência; a vista não traz nenhuma norma da Lei 21/85 que revogue ou dê nova redação ao texto."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

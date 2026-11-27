@@ -1,0 +1,119 @@
+[
+ {
+  "id": "pt:dre:670028:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 61.º",
+    "veredicto": "certo",
+    "motivo": "Art. 2.º do DL 97/2014: n.os 1 e 2 mantidos ([...]) e aditados os n.os 3 e 4 (alíneas a) a f)), letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 62.º",
+    "veredicto": "certo",
+    "motivo": "N.os 10 e 11 com a nova redação do DL 97/2014; restantes números iguais ao original ([...]).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 63.º",
+    "veredicto": "certo",
+    "motivo": "N.os 1 e 4 com a nova redação do DL 97/2014; restantes iguais.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 64.º",
+    "veredicto": "certo",
+    "motivo": "N.º 2 (proémio e alíneas a) a c)) com a nova redação do DL 97/2014; n.º 1 e alínea d) mantidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 65.º",
+    "veredicto": "certo",
+    "motivo": "Alíneas c) (com i) e ii)) e d) do n.º 1 com a nova redação do DL 97/2014; restante igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 66.º",
+    "veredicto": "certo",
+    "motivo": "N.º 1 com a nova redação e n.º 2 revogado (arts. 2.º e 6.º do DL 97/2014).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 75.º",
+    "veredicto": "certo",
+    "motivo": "Aditados os n.os 15 e 16 pelo art. 11.º, n.º 1, do DL 53/2013; n.os 1 a 14 mantidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "ANEXO II",
+    "veredicto": "certo",
+    "motivo": "N.º 10 (epígrafe) e n.º 10.1 com a redação do anexo VI do DL 53/2013 (art. 11.º, n.º 2); restantes números mantidos ([...]).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "ANEXO XXX",
+    "veredicto": "certo",
+    "motivo": "Figuras 1a, 1b e 2 mantidas; aditadas figura 1c, figura 1d e quadro 1; figuras 3 e 4 substituídas e figura 5 aditada, conforme o anexo I do DL 97/2014 (as antigas figuras 3 do gancho e 4 da barra oscilante deixam de existir).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "ANEXO XXXI",
+    "veredicto": "certo",
+    "motivo": "N.º 2 e n.º 3.2 com a nova redação e imagens do anexo I do DL 97/2014; n.º 1 e 3.1 mantidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "ANEXO XXXII",
+    "veredicto": "certo",
+    "motivo": "N.º 1.5 com a nova redação do anexo I do DL 97/2014; restantes números mantidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "ANEXO XXXIII",
+    "veredicto": "certo",
+    "motivo": "Parágrafo («trator»), as duas fórmulas (imagens do alterador) e a frase final sobre as massas conforme o anexo I do DL 97/2014; cabeçalho e primeira imagem mantidos ([...]).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "ANEXO XXXIV",
+    "veredicto": "certo",
+    "motivo": "Exemplos e legenda substituídos pelo «Exemplo de uma marca de homologação CE», imagem do alterador e parágrafo novo, conforme o anexo I do DL 97/2014; parte inicial mantida ([...]).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "ANEXO XXXV",
+    "veredicto": "certo",
+    "motivo": "Título da comunicação (antes «Dados sobre a concessão…») substituído pelo novo título, n.os 2, 5.1 e 5.2 com a nova redação do anexo I do DL 97/2014; restantes números e notas mantidos ([...]). Mantém «Modelo de ficha de homologação CE» e a imagem inicial, leitura razoável dos [...] do alterador.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "ANEXO XXXVI",
+    "veredicto": "certo",
+    "motivo": "N.º 9 com a nova redação («... (Kg)») do anexo I do DL 97/2014; restante igual.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 53/2013, art. 9.º, n.os 1 a 4 (artigos 2.º-B e 4.º do DL 114/2002, artigos 2.º, 21.º, 22.º e 23.º do seu Regulamento, organização sistemática do capítulo III e anexo X)",
+    "motivo": "Outro diploma: o texto do art. 9.º dirige-se expressamente ao DL 114/2002 e ao Regulamento por ele aprovado, que o DL 81/2011 apenas alterou."
+   },
+   {
+    "instrucao": "DL 53/2013, art. 13.º (revogação do artigo 20.º do Regulamento aprovado pelo DL 114/2002)",
+    "motivo": "Outro diploma: a revogação visa o Regulamento aprovado pelo DL 114/2002."
+   },
+   {
+    "instrucao": "DL 53/2013, segundo «ANEXO VI (a que se refere o n.º 4 artigo 11.º)» com o «ANEXO X» dos limites do regime de flexibilidade",
+    "motivo": "Outro diploma: é o anexo X do Regulamento aprovado pelo DL 114/2002 (repete o anexo IV, a que se refere o n.º 4 do art. 9.º); o art. 11.º do DL 53/2013 não tem n.º 4 e não manda alterar o anexo X do DL 81/2011."
+   },
+   {
+    "instrucao": "DL 97/2014, art. 4.º (anexos II, III, VII e IX do Regulamento aprovado pelo DL 114/2002)",
+    "motivo": "Outro diploma: dirige-se ao Regulamento aprovado pelo DL 114/2002."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

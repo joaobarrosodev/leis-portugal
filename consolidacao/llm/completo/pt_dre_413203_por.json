@@ -39,15 +39,20 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "Alterador 3 (DL 371/79), art. 4.º e 5.º: revogações parciais 'quanto à admissão de serventes' (cláusula do n.º 2 do art. 39.º) e 'quanto ao pessoal auxiliar' (art. 52.º), não textuais. Alterador 4 (DL 57/80), art. 52.º, a): revogação do DL 513/73 'no que respeita ao pessoal auxiliar', sem indicação textual dos preceitos; não aplicada.",
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 3, art. 4.º (considera-se revogada, quanto à admissão de serventes, a cláusula inserta no n.º 2 do art. 39.º): alvo incerto: não diz qual é a cláusula e a revogação vale só quanto à admissão de serventes\nAlterador 3, art. 5.º (revogado, quanto ao pessoal auxiliar, o art. 52.º): revogação condicional: só «quanto ao pessoal auxiliar»; o artigo fica para o pessoal administrativo\nAlterador 4, art. 52.º, alínea a) (revogado o Decreto-Lei n.º 513/73 «no que respeita ao pessoal auxiliar»): revogação condicional: só quanto ao pessoal auxiliar, sem dizer que artigos",
   "instrucoes": [
-    "Alt. 1, art. 1.º: nova redacção dos arts. 14.º (n.º 2 e novo n.º 4), 18.º (n.º 3), 34.º (n.º 1), 39.º (n.os 1 e 2), 47.º (n.os 2 e 3 aditados) e 50.º (n.os 3 e 4 aditados); aplicado, mantendo os '...'.",
-    "Alt. 2, art. 1.º, n.º 1: nova redacção do n.º 2 do art. 14.º (alíneas mantidas); aplicado.",
-    "Alt. 2, art. 1.º, n.º 2: aditado n.º 5 ao art. 14.º; aplicado.",
-    "Alt. 3, arts. 4.º e 5.º: revogações parciais não textuais; não aplicadas.",
-    "Alt. 4, art. 52.º, a): revogação do DL 513/73 no que respeita ao pessoal auxiliar; não textual, não aplicada."
+    "Alterador 1, art. 1.º: nova redação dos arts. 14.º, 18.º, 34.º, 39.º, 47.º e 50.º — aplicada (o n.º 2 do 14.º fica com a redação do alterador 2; «...» e «(O actual corpo do artigo.)» com o texto atual).",
+    "Alterador 1, arts. 2.º a 7.º: normas próprias do alterador — não alteram o texto.",
+    "Alterador 2, art. 1.º: nova redação do n.º 2 do art. 14.º (alíneas a) e b) ficam) e aditado o n.º 5 — aplicado.",
+    "Alterador 3, arts. 4.º e 5.º: revogações parciais por matéria — em nao_aplicavel.",
+    "Alterador 4, art. 52.º: revogação do original quanto ao pessoal auxiliar — em nao_aplicavel."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 124,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

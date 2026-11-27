@@ -1,0 +1,36 @@
+[
+  {
+    "id": "pt:dre:487764:por",
+    "artigos": [
+      {"artigo": "Artigo único", "veredicto": "certo", "motivo": "Retificação aplicada: «1 de Dezembro de 1965» passa a «1 de Dezembro de 1964»; resto igual ao original.", "texto_esperado": ""}
+    ],
+    "instrucoes_em_falta": [],
+    "instrucoes_justificadas": [],
+    "artigos_a_mais": [],
+    "artigos_em_falta": [],
+    "fora_dos_artigos": "sem alterações"
+  },
+  {
+    "id": "pt:dre:213881447:por",
+    "artigos": [
+      {"artigo": "Artigo 16.º", "veredicto": "certo", "motivo": "N.º 3 e alínea e) do n.º 9 com a nova redação do art. 2.º do DL 116-B/2025, letra a letra; os números e alíneas com [...] mantêm o original.", "texto_esperado": ""}
+    ],
+    "instrucoes_em_falta": [],
+    "instrucoes_justificadas": [],
+    "artigos_a_mais": [],
+    "artigos_em_falta": [],
+    "fora_dos_artigos": "sem alterações"
+  },
+  {
+    "id": "pt:dre:115138846:por",
+    "artigos": [
+      {"artigo": "Artigo 5.º #4", "veredicto": "certo", "motivo": "Retificação no art. 5.º da republicação da Lei 19/2003 (Anexo III): aditado o n.º 8 tal como no «deve ler-se»; n.os 1 a 7 iguais.", "texto_esperado": ""},
+      {"artigo": "Artigo 12.º #3", "veredicto": "certo", "motivo": "Retificação do n.º 9 do art. 12.º (Anexo III, Lei 19/2003): o n.º 9 tem o texto do «deve ler-se» letra a letra; restantes números iguais.", "texto_esperado": ""}
+    ],
+    "instrucoes_em_falta": [],
+    "instrucoes_justificadas": [],
+    "artigos_a_mais": [],
+    "artigos_em_falta": [],
+    "fora_dos_artigos": "sem alterações"
+  }
+]

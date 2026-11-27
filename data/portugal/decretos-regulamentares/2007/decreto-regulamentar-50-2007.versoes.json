@@ -1,0 +1,328 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:521014:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2007-04-27",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "2bfb48f87a1b8ad6",
+    "964ad121986e63a2",
+    "6057ffbb7cbff3df",
+    "47b4dbe11632584a",
+    "1d9ec64776b161ea",
+    "c8dd7a04e510fa4a",
+    "f598d6b9d29d1b51",
+    "ab706b37560abc70",
+    "84951b5d6e407dab",
+    "60b58bdcbcf390e1",
+    "8d2f927fb6aceecd",
+    "0992c497b257410e",
+    "04cc43343ccc7041",
+    "583bf0240620ac67",
+    "3313d3061a053596"
+   ]
+  },
+  {
+   "date": "2012-08-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:179296:por",
+     "title": "Decreto-Lei n.º 162/2012",
+     "published": "2012-07-31",
+     "dre_path": "/dr/detalhe/decreto-lei/162-2012-179296"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 1.º",
+    "Revoga Artigo 2.º",
+    "Revoga Artigo 3.º",
+    "Revoga Artigo 4.º",
+    "Revoga Artigo 5.º",
+    "Revoga Artigo 6.º",
+    "Revoga Artigo 7.º",
+    "Revoga Artigo 9.º",
+    "Revoga Artigo 10.º",
+    "Revoga Artigo 11.º",
+    "Revoga Artigo 12.º",
+    "Revoga Artigo 13.º",
+    "Revoga Artigo ANEXO — (quadro a que se refere o artigo 9.º)"
+   ],
+   "fragments": [
+    "2bfb48f87a1b8ad6",
+    "f653849b28a8af9e",
+    "18c2ec4e3c4baef4",
+    "f5228c6f60e3d256",
+    "1702b89f7d6a36df",
+    "f3dcd7da1a002232",
+    "d89db03c241a6e63",
+    "2cdfbc2a61a7968b",
+    "84951b5d6e407dab",
+    "152c3e90238322b7",
+    "ed2060381f7712ae",
+    "5c7e1daafe2e2cdb",
+    "08252bb1ca923c46",
+    "3aeb94c748ce2db8",
+    "7da1be23d1596a6c"
+   ]
+  }
+ ],
+ "fragments": {
+  "2bfb48f87a1b8ad6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 27 de Abril\n\nNo quadro das orientações definidas pelo Programa de Reestruturação da Administração Central do Estado (PRACE) e dos objectivos do Programa do Governo no tocante à modernização administrativa, à melhoria da qualidade dos serviços públicos com ganhos de eficiência, importa concretizar o esforço de racionalização estrutural consagrado no [Decreto-Lei n.º 206/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-2006-545645), de 27 de Outubro, que aprovou a Lei Orgânica do Ministério da Justiça, avançando na definição dos modelos organizacionais dos serviços que integram a respectiva estrutura.\n\nEm razão da natureza das actividades da Secretaria-Geral do Ministério da Justiça (SGMJ), optou-se por uma estrutura interna de tipo hierarquizado, embora determinadas funções possam ser prosseguidas por estruturas dotadas de flexibilidade suficiente a garantir a contínua adaptação a novas realidades que o devir histórico venha a determinar: partilham desta característica as unidades orgânicas que tenham maior nível de responsabilidade na prossecução das atribuições ligadas à assessoria técnica e ao apoio administrativo e logístico aos gabinetes dos membros do Governo.\n\nFinalmente, cumpre assinalar que com a entrada em vigor da nova orgânica da SGMJ se consuma a extinção da Auditoria Jurídica e dos Serviços Sociais do Ministério da Justiça, com a consequente transferência de competências.\n\nAssim:\n\nAo abrigo do disposto no n.º 1 do artigo 24.º da [Lei n.º 4/2004](https://diariodarepublica.pt/dr/detalhe/lei/4-2004-603475), de 15 de Janeiro, e nos termos da alínea c) do artigo 199.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "964ad121986e63a2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza\n\nA Secretaria-Geral do Ministério da Justiça (MJ), abreviadamente designada por SGMJ, é um serviço central da administração directa do Estado, dotado de autonomia administrativa."
+  },
+  "6057ffbb7cbff3df": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Missão e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Missão e atribuições\n\n1 - A SGMJ tem por missão assegurar o apoio técnico e administrativo aos gabinetes dos membros do Governo integrados no MJ e aos órgãos e serviços sem estrutura de apoio administrativo, assegurar o apoio aos demais serviços e organismos do MJ nos domínios da gestão de recursos internos, do aprovisionamento centralizado, do apoio técnico-jurídico e contencioso, da documentação e informação e da comunicação, relações públicas e protocolo, bem como assegurar a gestão do subsistema de saúde da justiça.\n\n2 - A SGMJ prossegue as seguintes atribuições:\n\na) Prestar a assistência técnica e administrativa aos gabinetes dos membros do Governo integrados no MJ, não incluída nas atribuições dos demais serviços do Ministério, bem como aos órgãos não dotados de estrutura de apoio administrativo, elaborando e executando os respectivos orçamentos;\n\nb) Promover, coordenar e acompanhar no âmbito do MJ a política de organização e de recursos humanos definidas para a Administração Pública, apoiando os serviços e organismos na respectiva implementação;\n\nc) Praticar os actos de administração relativos ao pessoal em situação de mobilidade especial que lhe seja afecto e assegurar a articulação com a entidade gestora da mobilidade, nos termos legais;\n\nd) Assegurar, de forma gradual e progressiva, a gestão e administração centralizada dos recursos humanos do MJ, designadamente nos domínios do recrutamento e selecção, da mobilidade inter e intra departamental, da formação em áreas comuns e do processamento de vencimentos e outros abonos no que respeita ao pessoal integrado em carreiras do regime geral, ou de outros, por determinação do membro do Governo competente e em articulação com os competentes serviços do Ministério das Finanças;\n\ne) Promover a progressiva centralização dos processos de planeamento e de aprovisionamento no âmbito do MJ e assegurar, por determinação do membro do Governo competente, a gestão de serviços comuns não compreendidos em entidades prestadoras de serviços partilhados, em articulação com os competentes serviços do Ministério das Finanças, assegurando as funções de unidade ministerial de compras;\n\nf) Estudar, programar e coordenar a aplicação de medidas tendentes a promover, de forma permanente e sistemática, a inovação, modernização e a política de qualidade, no âmbito do MJ, acompanhando os processos de certificação da qualidade;\n\ng) Assegurar o serviço de consultadoria jurídica aos gabinetes dos membros do Governo integrados no MJ, designadamente através da emissão de estudos, informações e pareceres, apreciação de reclamações e recursos hierárquicos que àqueles sejam dirigidos e da elaboração de peças processuais em acções e recursos em que sejam visados actos praticados pelos membros do Governo, nas jurisdições comum ou administrativa, bem como de actos praticados por dirigentes de serviços do MJ, desde que solicitada pelo membro do Governo competente;\n\nh) Assegurar o acompanhamento de outros assuntos jurídicos atinentes ao MJ, designadamente em sede de execução de decisões judiciais proferidas por tribunais nacionais, comunitários ou internacionais, em matérias relacionadas com o funcionamento dos tribunais, com actuações do MJ não imputáveis a serviço ou organismo determinado, ou de qualquer outra decisão em que a referida execução tenha sido determinada pelo membro do Governo responsável pela área da justiça;\n\ni) Coordenar as acções referentes à organização e preservação do património e arquivo histórico, promovendo boas práticas de gestão de documentos nos serviços e organismos do ministério e procedendo à recolha, tratamento, conservação e comunicação dos arquivos que deixem de ser de uso corrente por parte dos organismos produtores, organizar e manter um centro de documentação com relevância para a área da justiça e desenvolver iniciativas de recolha, organização e divulgação de informação, nomeadamente legislativa e jurisprudencial que revelem interesse directo para o MJ;\n\nj) Representar, por intermédio do secretário-geral, e assegurar o normal funcionamento do MJ nas áreas que não sejam da competência específica de outros serviços ou organismos e desde que tal representação não seja directamente assumida pelos membros do Governo integrados no MJ;\n\nl) Assegurar o serviço geral de relações públicas e de protocolo do MJ, em articulação com os demais serviços e organismos;\n\nm) Assegurar o funcionamento do subsistema de saúde da justiça e, relativamente aos respectivos beneficiários, o funcionamento da acção social complementar, em articulação com o competente serviço do Ministério das Finanças e da Administração Pública.\n\n3 - Cabe ainda à SGMJ assegurar o funcionamento da Comissão da Liberdade Religiosa, órgão independente de aconselhamento da Assembleia da República e do Governo, objecto de regulamentação em diploma próprio."
+  },
+  "47b4dbe11632584a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Cargos de direcção superior",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Cargos de direcção superior\n\nA SGMJ é dirigida por um secretário-geral, coadjuvado por dois secretários-gerais-adjuntos."
+  },
+  "1d9ec64776b161ea": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Secretário-geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Secretário-geral\n\n1 - Sem prejuízo das competências que lhe forem conferidas por lei ou nele delegadas ou subdelegadas, compete ao secretário-geral:\n\na) Representar o MJ quando essa representação não seja assumida pelos membros do Governo e não pertença especificamente a outro órgão, serviço ou organismo;\n\nb) Representar o MJ no âmbito das actividades comuns partilhadas e o Estado nos respectivos contratos, até ao limite da competência própria para autorização da despesa ou da que lhe seja delegada ou subdelegada;\n\nc) Designar o representante do MJ em juízo, nos termos do n.º 3 do artigo 11.º do Código de Processo nos Tribunais Administrativos;\n\nd) Colaborar na definição da política de recursos humanos do MJ;\n\ne) Dirigir a elaboração dos projectos e executar os orçamentos dos gabinetes dos membros do Governo da área da justiça e, por determinação do membro do Governo responsável pela área da justiça, de outras entidades sem estrutura administrativa, acompanhar a respectiva execução, promover a sua avaliação e prestação de contas;\n\nf) Colaborar na definição da política de organização e participar nos projectos de reorganização, reestruturação, inovação, modernização e qualidade desenvolvidos no âmbito do MJ;\n\ng) Propor medidas e orientações no âmbito das funções comuns do MJ;\n\nh) Chefiar o protocolo do MJ.\n\n2 - Os secretários-gerais-adjuntos exercem as competências que neles forem delegadas ou subdelegadas pelo secretário-geral, devendo este identificar a quem compete substituí-lo nas suas faltas e impedimentos."
+  },
+  "c8dd7a04e510fa4a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Tipo de organização interna",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Tipo de organização interna\n\nA organização interna da SGMJ obedece ao modelo de estrutura hierarquizada."
+  },
+  "f598d6b9d29d1b51": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Receitas\n\n1 - A SGMJ dispõe das receitas provenientes de dotações que lhe forem atribuídas no Orçamento do Estado.\n\n2 - A SGMJ dispõe das receitas provenientes das transferências do IGFIJ, I. P.\n\n3 - A SGMJ é responsável pela arrecadação das seguintes receitas próprias resultantes da sua actividade:\n\na) As importâncias cobradas pelos serviços prestados ou pela venda de impressos, publicações ou outro material informativo;\n\nb) Os subsídios, subvenções, comparticipações, doações, heranças ou legados concedidos por entidades públicas ou privadas, nacionais ou estrangeiras;\n\nc) O rendimento dos bens que possua a qualquer título;\n\nd) Quaisquer outras receitas que lhe sejam atribuídas por lei, contrato ou outro título.\n\n4 - As receitas referidas nos n.os 2 e 3 são consignadas à realização de despesas da SGMJ durante a execução do orçamento do ano a que respeitam, podendo os saldos não utilizados transitar para o ano seguinte."
+  },
+  "ab706b37560abc70": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Despesas\n\nConstituem despesas da SGMJ as que resultem de encargos decorrentes da prossecução das atribuições que lhe estão cometidas."
+  },
+  "84951b5d6e407dab": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Receitas e as despesas do subsistema de saúde e acção social complementar da justiça",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Receitas e as despesas do subsistema de saúde e acção social complementar da justiça\n\n1 - As receitas e as despesas do subsistema de saúde e acção social complementar da justiça constituem um subsector do orçamento da SGMJ, sendo objecto de registo contabilístico autónomo.\n\n2 - Constituem receitas do subsistema de saúde e acção social complementar da justiça os descontos, as quotizações, as transferências do Instituto de Gestão Financeira e Infra-Estruturas da Justiça e outras receitas no âmbito do referido subsistema.\n\n3 - As receitas referidas no número anterior, são inscritas no orçamento do subsistema de saúde e acção social complementar da justiça como receita consignada com transição de saldo.\n\n4 - Constituem despesas do subsistema de saúde e acção social complementar da justiça as que resultem dos encargos e responsabilidade decorrentes dos respectivos regimes jurídicos, estabelecidos em diploma próprio."
+  },
+  "60b58bdcbcf390e1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Quadro de cargos de direcção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Quadro de cargos de direcção\n\nOs lugares de direcção superior de 1.º e 2.º graus e de direcção intermédia de 1.º grau constam do mapa anexo ao presente decreto regulamentar, do qual faz parte integrante."
+  },
+  "8d2f927fb6aceecd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Sucessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Sucessão\n\n1 - A SGMJ sucede nas atribuições da Auditoria Jurídica do Ministério da justiça, que se extingue.\n\n2 - A SGMJ sucede nas atribuições respeitantes ao subsistema de saúde da justiça e à organização da acção social complementar para os beneficiários daquele subsistema dos Serviços Sociais do Ministério da Justiça, que se extingue."
+  },
+  "0992c497b257410e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Critérios de selecção do pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Critérios de selecção do pessoal\n\nSão fixados os seguintes critérios gerais e abstractos de selecção do pessoal necessário à prossecução das atribuições fixadas no artigo 2.º:\n\na) O exercício de funções na Auditoria Jurídica do Ministério da Justiça;\n\nb) O exercício de funções nos Serviços Sociais do Ministério da Justiça."
+  },
+  "04cc43343ccc7041": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Efeitos revogatórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Efeitos revogatórios\n\nNos termos do artigo 5.º do [Decreto-Lei n.º 201/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2006-545644), de 27 de Outubro, consideram-se revogados, na data de entrada em vigor do presente decreto regulamentar:\n\na) O [Decreto-Lei n.º 129/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-2001-163641), de 18 de Abril, com excepção do disposto no artigo 24.º;\n\nb) O [Decreto-Lei n.º 871/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/871-1976-416430), de 28 de Dezembro;\n\nc) O [Decreto-Lei n.º 83/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2001-401290), de 9 de Março, com excepção do disposto nos n.os 1 a 3 do artigo 25.º"
+  },
+  "583bf0240620ac67": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Entrada em vigor\n\nO presente decreto regulamentar entra em vigor no 1.º dia do mês seguinte ao da sua publicação.\n\nVisto e aprovado em Conselho de Ministros de 21 de Dezembro de 2006. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Alberto Bernardes Costa.\n\nPromulgado em 27 de Março de 2007.\n\nPublique-se.\n\nO Presidente da República, ANÍBAL CAVACO SILVA.\n\nReferendado em 27 de Março de 2007.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "3313d3061a053596": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — (quadro a que se refere o artigo 9.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — (quadro a que se refere o artigo 9.º)\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/04/08200/26212624.pdf)"
+  },
+  "f653849b28a8af9e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": "2012-08-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 162/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2012-179296), publicado em 2012-07-31."
+   ],
+   "markdown": "###### Artigo 1.º — Natureza\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 162/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2012-179296), publicado em 2012-07-31."
+  },
+  "18c2ec4e3c4baef4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Missão e atribuições",
+   "in_force_from": "2012-08-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 162/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2012-179296), publicado em 2012-07-31."
+   ],
+   "markdown": "###### Artigo 2.º — Missão e atribuições\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 162/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2012-179296), publicado em 2012-07-31."
+  },
+  "f5228c6f60e3d256": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Cargos de direcção superior",
+   "in_force_from": "2012-08-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 162/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2012-179296), publicado em 2012-07-31."
+   ],
+   "markdown": "###### Artigo 3.º — Cargos de direcção superior\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 162/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2012-179296), publicado em 2012-07-31."
+  },
+  "1702b89f7d6a36df": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Secretário-geral",
+   "in_force_from": "2012-08-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 162/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2012-179296), publicado em 2012-07-31."
+   ],
+   "markdown": "###### Artigo 4.º — Secretário-geral\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 162/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2012-179296), publicado em 2012-07-31."
+  },
+  "f3dcd7da1a002232": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Tipo de organização interna",
+   "in_force_from": "2012-08-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 162/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2012-179296), publicado em 2012-07-31."
+   ],
+   "markdown": "###### Artigo 5.º — Tipo de organização interna\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 162/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2012-179296), publicado em 2012-07-31."
+  },
+  "d89db03c241a6e63": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Receitas",
+   "in_force_from": "2012-08-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 162/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2012-179296), publicado em 2012-07-31."
+   ],
+   "markdown": "###### Artigo 6.º — Receitas\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 162/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2012-179296), publicado em 2012-07-31."
+  },
+  "2cdfbc2a61a7968b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Despesas",
+   "in_force_from": "2012-08-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 162/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2012-179296), publicado em 2012-07-31."
+   ],
+   "markdown": "###### Artigo 7.º — Despesas\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 162/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2012-179296), publicado em 2012-07-31."
+  },
+  "152c3e90238322b7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Quadro de cargos de direcção",
+   "in_force_from": "2012-08-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 162/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2012-179296), publicado em 2012-07-31."
+   ],
+   "markdown": "###### Artigo 9.º — Quadro de cargos de direcção\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 162/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2012-179296), publicado em 2012-07-31."
+  },
+  "ed2060381f7712ae": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Sucessão",
+   "in_force_from": "2012-08-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 162/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2012-179296), publicado em 2012-07-31."
+   ],
+   "markdown": "###### Artigo 10.º — Sucessão\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 162/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2012-179296), publicado em 2012-07-31."
+  },
+  "5c7e1daafe2e2cdb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Critérios de selecção do pessoal",
+   "in_force_from": "2012-08-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 162/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2012-179296), publicado em 2012-07-31."
+   ],
+   "markdown": "###### Artigo 11.º — Critérios de selecção do pessoal\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 162/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2012-179296), publicado em 2012-07-31."
+  },
+  "08252bb1ca923c46": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Efeitos revogatórios",
+   "in_force_from": "2012-08-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 162/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2012-179296), publicado em 2012-07-31."
+   ],
+   "markdown": "###### Artigo 12.º — Efeitos revogatórios\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 162/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2012-179296), publicado em 2012-07-31."
+  },
+  "3aeb94c748ce2db8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Entrada em vigor",
+   "in_force_from": "2012-08-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 162/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2012-179296), publicado em 2012-07-31."
+   ],
+   "markdown": "###### Artigo 13.º — Entrada em vigor\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 162/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2012-179296), publicado em 2012-07-31.\n\nVisto e aprovado em Conselho de Ministros de 21 de Dezembro de 2006. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Alberto Bernardes Costa.\n\nPromulgado em 27 de Março de 2007.\n\nPublique-se.\n\nO Presidente da República, ANÍBAL CAVACO SILVA.\n\nReferendado em 27 de Março de 2007.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "7da1be23d1596a6c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — (quadro a que se refere o artigo 9.º)",
+   "in_force_from": "2012-08-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 162/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2012-179296), publicado em 2012-07-31."
+   ],
+   "markdown": "## ANEXO — (quadro a que se refere o artigo 9.º)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 162/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2012-179296), publicado em 2012-07-31."
+  }
+ }
+}

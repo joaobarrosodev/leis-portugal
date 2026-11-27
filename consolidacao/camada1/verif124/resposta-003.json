@@ -1,0 +1,31 @@
+[
+  {
+    "id": "pt:dre:241045:por",
+    "artigos": [
+      {"artigo": "Artigo 1.º", "veredicto": "certo", "motivo": "DL 69/2010, art. 2.º: corpo passa a n.º 1, aditada a alínea d) e o n.º 2, letra a letra; alíneas a) a c) do original", "texto_esperado": ""},
+      {"artigo": "Artigo 3.º", "veredicto": "certo", "motivo": "DL 66/2009, art. 2.º: novas alíneas p), q), r), s) e aditada ac), letra a letra; restantes iguais", "texto_esperado": ""},
+      {"artigo": "Artigo 4.º", "veredicto": "certo", "motivo": "n.º 3 na redação do DL 69/2010 (que substitui a do DL 66/2009); resto igual", "texto_esperado": ""},
+      {"artigo": "Artigo 6.º", "veredicto": "certo", "motivo": "DL 69/2010: aditada a alínea c) do n.º 2", "texto_esperado": ""},
+      {"artigo": "Artigo 8.º", "veredicto": "certo", "motivo": "DL 69/2010: nova redação do n.º 3 («alíneas a) e i)»)", "texto_esperado": ""},
+      {"artigo": "Artigo 9.º", "veredicto": "certo", "motivo": "DL 69/2010: nova redação da alínea h)", "texto_esperado": ""},
+      {"artigo": "Artigo 10.º", "veredicto": "certo", "motivo": "DL 66/2009: nova redação do proémio do n.º 4 e da alínea f), letra a letra", "texto_esperado": ""},
+      {"artigo": "Artigo 11.º", "veredicto": "certo", "motivo": "DL 69/2010: nova redação do n.º 6", "texto_esperado": ""},
+      {"artigo": "Artigo 12.º", "veredicto": "certo", "motivo": "DL 66/2009: nova redação da alínea a) do n.º 2 e dos n.os 3, 7 e 8; n.º 5 revogado (art. 4.º, n.º 2); resto igual", "texto_esperado": ""},
+      {"artigo": "Artigo 15.º", "veredicto": "certo", "motivo": "DL 66/2009: nova redação do n.º 1", "texto_esperado": ""},
+      {"artigo": "Artigo 16.º", "veredicto": "certo", "motivo": "DL 69/2010: nova redação do n.º 4", "texto_esperado": ""},
+      {"artigo": "Artigo 18.º", "veredicto": "certo", "motivo": "DL 66/2009: nova redação das alíneas b) e c) do n.º 1 e revogação das alíneas e) e f) (art. 4.º, n.º 2)", "texto_esperado": ""}
+    ],
+    "instrucoes_em_falta": [
+      "DL 66/2009, artigo 3.º: não está na vista (o texto salta do artigo 2.º para o 4.º, «Alterador completo: false»); não é possível confirmar se tem instruções dirigidas ao DL 37-A/2008 (alvo incerto)"
+    ],
+    "instrucoes_justificadas": [
+      {"instrucao": "DL 66/2009, art. 1.º e art. 4.º, n.º 1: alteração e revogações no DL 2/2008", "motivo": "instrução de outro diploma (DL 2/2008)"},
+      {"instrucao": "DL 69/2010, arts. 1.º e 3.º: alteração e revogações no DL 2/2008", "motivo": "instrução de outro diploma (DL 2/2008)"},
+      {"instrucao": "Portaria 253/2013: alterações e revogações nos regulamentos de aplicação das ações do PRODER", "motivo": "instrução de outro diploma (portarias que aprovam os regulamentos); o DL 37-A/2008 só é invocado «ao abrigo de» o artigo 4.º"},
+      {"instrucao": "Despacho 13279-E/2014: a autoridade de gestão do PDR 2020 assume as atribuições da autoridade de gestão do PRODER e do PRRN", "motivo": "não textual: transição de competências, sem nova redação do original"}
+    ],
+    "artigos_a_mais": [],
+    "artigos_em_falta": [],
+    "fora_dos_artigos": "sem alterações"
+  }
+]

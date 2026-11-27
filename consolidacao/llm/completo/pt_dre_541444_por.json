@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:541444:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, arts. 2.º a 4.º (aplicação à Escola Superior de Saúde do Alcoitão, produção de efeitos, regime de instalação): não textual — normas próprias do DL 280/97\nAlterador 2, aplicação do artigo 9.º à Escola do Serviço de Saúde Militar: não textual — sem nova redação do artigo\nAlterador 3, nova redação do anexo III da Portaria n.º 20/2001: outro diploma",
+  "instrucoes": [
+    "Alt. 1, art. 1.º: nova redação dos n.os 3 a 5 do art. 9.º — já aplicada pelo programa, correta; sem mudança",
+    "Alt. 1, arts. 2.º-4.º e Alt. 2: extensão do regime — não textual",
+    "Alt. 3: Portaria 20/2001 — outro diploma"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "ronda_camada1": 124,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
+}

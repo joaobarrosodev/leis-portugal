@@ -1,0 +1,65 @@
+[
+  {
+    "id": "pt:dre:503633:por",
+    "artigos": [],
+    "instrucoes_em_falta": [],
+    "instrucoes_justificadas": [
+      {"instrucao": "DL 51/97, art. 15.º, alínea a): revogação de todas as disposições do regulamento aprovado pelo DL 43015 respeitantes a agulhas magnéticas ou electromagnéticas e suas bitáculas", "motivo": "Efeito adiado para facto futuro: o art. 16.º do DL 51/97 faz o diploma entrar em vigor só com a publicação das duas portarias dos arts. 6.º e 14.º, que a vista não mostra (confirmado no texto). Nota: se essas portarias tiverem sido publicadas, a revogação tem alvo determinável (arts. 4.º a 25.º e 27.º do regulamento tratam só de agulhas; arts. 1.º e 3.º, § 3.º, em parte) e passa a instrução em falta."}
+    ],
+    "artigos_a_mais": [],
+    "artigos_em_falta": [],
+    "fora_dos_artigos": "sem alterações"
+  },
+  {
+    "id": "pt:dre:642184:por",
+    "artigos": [
+      {"artigo": "(preâmbulo)", "veredicto": "certo", "motivo": "Igual ao original, só sem os arts. 1.º a 3.º e o fecho, que passaram para artigos próprios (verificado: o conjunto é igual ao original).", "texto_esperado": ""},
+      {"artigo": "Artigo 1.º", "veredicto": "certo", "motivo": "Texto do art. 1.º do original, separado do preâmbulo sem alteração.", "texto_esperado": ""},
+      {"artigo": "Artigo 2.º", "veredicto": "certo", "motivo": "Texto do art. 2.º do original, separado do preâmbulo sem alteração.", "texto_esperado": ""},
+      {"artigo": "Artigo 3.º", "veredicto": "certo", "motivo": "Texto do art. 3.º do original e fecho (assinaturas, mapa anexo em imagem), sem alteração.", "texto_esperado": ""}
+    ],
+    "instrucoes_em_falta": [
+      "Declaração de rectificação n.º 125/91: no sumário e na epígrafe, onde se lê «Ministério das Finanças» deve ler-se «Ministério da Agricultura, Pescas e Alimentação». Alvo conhecido (sumário e epígrafe/entidade emitente do diploma), ausente do texto consolidado; «alvo incerto» não é motivo admitido."
+    ],
+    "instrucoes_justificadas": [],
+    "artigos_a_mais": [],
+    "artigos_em_falta": [],
+    "fora_dos_artigos": "sem alterações"
+  },
+  {
+    "id": "pt:dre:667168:por",
+    "artigos": [
+      {"artigo": "Artigo único", "veredicto": "certo", "motivo": "Rectificação aplicada: «é suspensa, até 31 de Dezembro de 1999,» → «é suspensa, até 31 de Janeiro de 1999,»; resto igual.", "texto_esperado": ""}
+    ],
+    "instrucoes_em_falta": [
+      "Declaração de Rectificação n.º 17-D/97, no sumário: onde se lê «Suspende, até 31 de Dezembro de 1999,» deve ler-se «Suspende, até 31 de Janeiro de 1999,». Alvo conhecido (sumário), ausente do texto consolidado; «alvo incerto» não é motivo admitido."
+    ],
+    "instrucoes_justificadas": [],
+    "artigos_a_mais": [],
+    "artigos_em_falta": [],
+    "fora_dos_artigos": "sem alterações"
+  },
+  {
+    "id": "pt:dre:75069303:por",
+    "artigos": [],
+    "instrucoes_em_falta": [],
+    "instrucoes_justificadas": [
+      {"instrucao": "DL 35/2017, arts. 2.º e 3.º: nova redação dos arts. 32.º, 54.º, 55.º e 58.º e revogação da alínea g) do n.º 4 do art. 32.º da Lei n.º 26/2013", "motivo": "Outro diploma: altera a Lei n.º 26/2013; o DL 42/2016 só é citado no novo n.º 4, a), do art. 32.º (confirmado no texto)."}
+    ],
+    "artigos_a_mais": [],
+    "artigos_em_falta": [],
+    "fora_dos_artigos": "sem alterações"
+  },
+  {
+    "id": "pt:dre:856211140:por",
+    "artigos": [],
+    "instrucoes_em_falta": [],
+    "instrucoes_justificadas": [
+      {"instrucao": "DL 7/2026, art. 2.º: nova redação dos arts. 18.º e 23.º do DL 79/2014", "motivo": "Outro diploma: altera o DL 79/2014, não o DL 23/2024 (que só é citado entre os diplomas que alteraram o DL 79/2014); o «Artigo 18.º» do consolidado é texto do DL 79/2014 citado no DL 23/2024 (confirmado no texto)."},
+      {"instrucao": "DL 7/2026, art. 3.º: nova redação do art. 8.º do DL 9-A/2025", "motivo": "Outro diploma (confirmado no texto)."}
+    ],
+    "artigos_a_mais": [],
+    "artigos_em_falta": [],
+    "fora_dos_artigos": "sem alterações"
+  }
+]

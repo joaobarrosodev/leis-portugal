@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2010-03-20'
+version_history:
+  file: decreto-legislativo-regional-5-92-m.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1992-03-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-03-20'
+    amending: pt:dre:611495:por
+    amending_title: Decreto Legislativo Regional n.º 3/2010/M
+    changes:
+    - Altera Artigo 2.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/declegreg/5/1992/03/20/m/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:38:46Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Legislativo Regional n.º
+    3/2010/M. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/madeira/decretos-legislativos-regionais/1992/decreto-legislativo-regional-5-92-m.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -165,7 +180,7 @@ e) Apresente uma estrutura financeira desequilibrada, mas demonstre que, corrigi
 
 1.ª Desenvolva a sua actividade em sector ou subsector com relevância económica e social, atendendo, designadamente, ao volume de emprego e à contribuição para a economia e desenvolvimento regionais;
 
-2.ª Tenha retomado e mantenha o pagamento das contribuições mensais há, pelo menos, três meses ou proceda ao seu pagamento acrescido de juros de mora, calculados à taxa estabelecida para as dívidas de impostos ao Estado e aplicada da mesma forma.
+2.ª (Revogada.)
 
 2 - A autorização a que se refere o número anterior é feita por despacho do membro do Governo Regional que tiver a seu cargo a área da segurança social.
 
@@ -178,6 +193,8 @@ e) Apresente uma estrutura financeira desequilibrada, mas demonstre que, corrigi
 6 - Por resolução do Conselho do Governo Regional, poderão ser aprovadas medidas excepcionais de regularização de dívidas à segurança social, por parte de pessoas colectivas de utilidade pública e organismos públicos da administração regional e local, quando estejam em causa relevantes interesses regionais.
 
 7 - A aprovação das medidas excepcionais referidas no número anterior será sempre precedida de parecer do secretário regional da tutela do respectivo sector.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 3/2010/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2010-611495), publicado em 2010-03-19.
 
 ###### Artigo 3.º — Arrematação em hasta pública
 

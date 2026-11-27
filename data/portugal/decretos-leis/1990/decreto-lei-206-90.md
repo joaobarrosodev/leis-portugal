@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1990-07-01'
+version_history:
+  file: decreto-lei-206-90.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1990-06-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1990-07-01'
+    amending: pt:dre:644099:por
+    amending_title: Declaração
+    changes:
+    - Retifica Artigo 95.º
+    - Altera Artigo 95.º
 identifiers:
   celex: null
   eli: null
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:00:15Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1990/decreto-lei-206-90.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -1024,7 +1040,7 @@ b) ...
 
 2 - Cada pagamento por conta é igual a 25% do montante calculado com base na fórmula seguinte, arredondado, por excesso, para escudos:
 
-(C - R - D) x ((RLB + RLC + RLD)/RLT)
+C x (RLB + RLC + RLD)/RTL - R - D
 
 em que as siglas utilizadas têm o seguinte significado:
 
@@ -1042,7 +1058,7 @@ RLT = rendimento líquido total do ano imediatamente anterior.
 
 a) O montante de cada um, calculado nos termos do n.º 2, seja inferior a 10000$00;
 
-b) Efectuando o primeiro, os sujeitos passivos verifiquem, pelos elementos de que disponham, que os montantes já pagos, acrescidos das retenções que tenham a mesma natureza efectuadas com referência aos mesmos rendimentos, no próprio ano, sejam iguais ou superiores ao imposto total que será devido;
+b) Efectuado o primeiro, os sujeitos passivos verifiquem, pelos elementos de que disponham, que os montantes já pagos, acrescidos das retenções que tenham a mesma natureza efectuadas com referência aos mesmos rendimentos, no próprio ano, sejam iguais ou superiores ao imposto total que será devido;
 
 c) Deixem de ser auferidos rendimentos de todas as categorias que os tornam obrigatórios, excepto quando deixem de ser auferidos rendimentos de alguma delas, caso em que poderão ser proporcionalmente reduzidos.
 
@@ -1055,6 +1071,10 @@ b) Uma vez declarada a cessação ou redução dos pagamentos por conta, não po
 5 - Verificando-se, pela declaração de rendimentos do ano a que respeita o imposto, que, em consequência da cessação ou redução dos pagamentos por conta, deixou de pagar-se uma importância superior a 20% da que, em condições normais, teria sido entregue, haverá lugar a juros compensatórios, liquidados nos termos do artigo 83.º, desde o termo do prazo em que cada pagamento deveria ter sido efectuado até à data em que por lei a liquidação deva ser feita.
 
 6 - Se o pagamento por conta a efectuar for superior à diferença entre o imposto total que os sujeitos passivos julgarem devido e os pagamentos já feitos, poderá aquele limitar-se a essa diferença, sendo de aplicar o disposto nos números anteriores, com as necessárias adaptações.
+
+> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1990-644099), publicado em 1990-07-31.
+
+> Alterado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1990-644099), publicado em 1990-07-31.
 
 ###### Artigo 107.º — Rendimentos de trabalho independente
 

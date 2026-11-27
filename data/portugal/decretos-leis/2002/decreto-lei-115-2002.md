@@ -43,7 +43,7 @@ version:
   kind: consolidated
   label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: '2008-07-26'
+  consolidation_date: '2013-10-25'
 version_history:
   file: decreto-lei-115-2002.versoes.json
   count: 2
@@ -53,13 +53,14 @@ version_history:
     amending: null
     amending_title: null
     changes: []
-  - date: '2008-07-26'
+  - date: '2013-10-25'
     amending: pt:dre:456790:por
-    amending_title: Decreto-Lei n.º 133/2008
+    amending_title: Decreto-Lei n.º 133/2008; Decreto-Lei n.º 148/2013
     changes:
     - Adita Artigo ANEXO::21.º-A
     - Altera Artigo ANEXO::26.º
     - Adita Artigo ANEXO::26.º-A
+    - Altera Artigo ANEXO X — (referente ao n.º 2 do artigo 27.º)
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/115/2002/04/20/p/dre/pt/html
@@ -85,8 +86,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:31:04Z'
-  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 133/2008. Método
-    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2002/decreto-lei-115-2002.alteracoes.json'
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 133/2008; Decreto-Lei
+    n.º 148/2013. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2002/decreto-lei-115-2002.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -1087,6 +1088,10 @@ A marca de homologação CE deve ser constituída por um rectângulo envolvendo 
 
 6 para a Bélgica;
 
+7 para a Hungria;
+
+8 para a República Checa;
+
 9 para a Espanha;
 
 11 para o Reino Unido;
@@ -1099,12 +1104,36 @@ A marca de homologação CE deve ser constituída por um rectângulo envolvendo 
 
 18 para a Dinamarca;
 
+19 para a Roménia;
+
+20 para a Polónia;
+
 21 para Portugal;
 
 23 para a Grécia;
 
+25 para a Croácia;
+
+26 para a Eslovénia;
+
+27 para a Eslováquia;
+
+29 para a Estónia;
+
+32 para a Letónia;
+
+34 para a Bulgária;
+
+36 para a Lituânia;
+
+CY para Chipre;
+
 IRL para a Irlanda;
+
+MT para Malta.
 
 Nota justificativa da necessidade e urgência do projecto de decreto-lei que visa a transposição para o direito interno da Directiva n.º [2000/8/CE](https://data.europa.eu/eli/dir/2000/8/oj?locale=pt), do Parlamento Europeu e do Conselho, de 20 de Março.
 
 A necessidade de aprovação imediata do diploma em causa advém do facto de a transposição para o direito nacional de directivas comunitárias constituir um acto jurídica e politicamente predominantemente vinculado do Governo (ou da Assembleia da República, quando seja esse o caso), nos termos do direito europeu e da Constituição da República Portuguesa, indispensável ao normal comércio jurídico e que, por isso mesmo, se enquadra no conceito mais restrito de «gestão».
+
+> Alterado pelo/a [Decreto-Lei n.º 148/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-2013-502980), publicado em 2013-10-24.

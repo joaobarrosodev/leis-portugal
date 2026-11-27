@@ -1,0 +1,49 @@
+[
+ {
+  "id": "pt:dre:229103:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "Lei n.º 3-B/2000, art. 44.º, n.º 10, dá nova redação integral ao artigo 4.º (n.os 1 a 6, sem «...»); o consolidado copia-a letra a letra e mantém a epígrafe; os antigos n.os 7 e 8 caem com a substituição integral.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "Lei n.º 3-B/2000, art. 44.º, n.º 10, dá nova redação ao artigo 5.º; o consolidado é igual letra a letra e mantém a epígrafe.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Decreto-Lei n.º 418-A/98, art. 1.º: os artigos 4.º e 5.º entram em vigor a 31 de Dezembro de 1999",
+    "motivo": "não textual: só difere a vigência dos artigos, sem nova redação"
+   },
+   {
+    "instrucao": "Decreto-Lei n.º 164/2000, artigo único, n.º 1: repristinação, a partir de 1 de Julho de 2000, do Decreto-Lei n.º 521/85 e do artigo 6.º do Decreto-Lei n.º 185/86",
+    "motivo": "não textual: repristina outros diplomas, sem nova redação do artigo 5.º do original"
+   },
+   {
+    "instrucao": "Decreto-Lei n.º 164/2000, artigo único, n.º 2: o regime normal do n.º 1 do artigo 4.º só substitui o especial quando os preços máximos deixarem de ser fixados administrativamente",
+    "motivo": "não textual e efeito adiado para um facto futuro; não traz nova redação do artigo 4.º"
+   },
+   {
+    "instrucao": "Decreto-Lei n.º 238/2006 e Leis n.os 55-A/2010, 64-B/2011, 66-B/2012 e 159-C/2015: artigos do Decreto-Lei n.º 20/90 «alterado pelo Decreto-Lei n.º 323/98»",
+    "motivo": "outro diploma: o original só aparece na lista de alterações do Decreto-Lei n.º 20/90"
+   },
+   {
+    "instrucao": "Decretos-Leis n.os 256/2003, 21/2007, 393/2007, 186/2009, 249/2009, 134/2010, 197/2012 e Leis n.os 57/2005, 33/2006 e restante articulado da Lei n.º 3-B/2000",
+    "motivo": "outro diploma: alteram o Código do IVA e outros diplomas; nenhuma instrução dirigida ao Decreto-Lei n.º 323/98 (confirmado na vista)"
+   },
+   {
+    "instrucao": "Leis n.os 55-B/2004, 53-A/2006, 67-A/2007, 3-B/2010, 82-D/2014 e Decreto-Lei n.º 102/2008",
+    "motivo": "o diploma que altera não traz o texto da alteração (só o título na vista); nenhuma instrução visível dirigida ao original"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

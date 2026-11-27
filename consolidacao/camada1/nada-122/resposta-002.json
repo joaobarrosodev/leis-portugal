@@ -1,0 +1,269 @@
+[
+ {
+  "id": "pt:dre:185721:por",
+  "artigos": [
+   {
+    "artigo": "(preâmbulo)",
+    "veredicto": "certo",
+    "motivo": "igual ao original, só sem os artigos, que passaram a blocos próprios; nenhuma instrução o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "não é artigo novo: é o parte do original: o texto do original (artigos em linha no preâmbulo) foi separado em artigos; texto igual letra a letra; a revogação do art. 13.º do DL 252/98 não tem recorte textual",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "não é artigo novo: é o parte do original: o texto do original (artigos em linha no preâmbulo) foi separado em artigos; texto igual letra a letra; a revogação do art. 13.º do DL 252/98 não tem recorte textual",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "não é artigo novo: é o parte do original: o texto do original (artigos em linha no preâmbulo) foi separado em artigos; texto igual letra a letra; a revogação do art. 13.º do DL 252/98 não tem recorte textual",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "não é artigo novo: é o parte do original: o texto do original (artigos em linha no preâmbulo) foi separado em artigos; texto igual letra a letra; a revogação do art. 13.º do DL 252/98 não tem recorte textual",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "não é artigo novo: é o parte do original: o texto do original (artigos em linha no preâmbulo) foi separado em artigos; texto igual letra a letra; a revogação do art. 13.º do DL 252/98 não tem recorte textual",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "não é artigo novo: é o parte do original: o texto do original (artigos em linha no preâmbulo) foi separado em artigos; texto igual letra a letra; a revogação do art. 13.º do DL 252/98 não tem recorte textual",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "certo",
+    "motivo": "não é artigo novo: é o parte do original: o texto do original (artigos em linha no preâmbulo) foi separado em artigos; texto igual letra a letra; a revogação do art. 13.º do DL 252/98 não tem recorte textual",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "não é artigo novo: é o parte do original: o texto do original (artigos em linha no preâmbulo) foi separado em artigos; texto igual letra a letra; a revogação do art. 13.º do DL 252/98 não tem recorte textual",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "não é artigo novo: é o parte do original: o texto do original (artigos em linha no preâmbulo) foi separado em artigos; texto igual letra a letra; a revogação do art. 13.º do DL 252/98 não tem recorte textual",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 10.º",
+    "veredicto": "certo",
+    "motivo": "não é artigo novo: é o parte do original: o texto do original (artigos em linha no preâmbulo) foi separado em artigos; texto igual letra a letra; a revogação do art. 13.º do DL 252/98 não tem recorte textual",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 252/98, art. 13.º: «É revogado o Decreto-Lei n.º 49/95, de 15 de Março, na parte que respeita às organizações de produtores previstas no presente diploma»",
+    "motivo": "confirmado no art. 13.º: revogação parcial por matéria, do tipo condicional («na parte que respeita a»); não indica artigos, números nem alíneas e os artigos do original tratam em conjunto organizações e agrupamentos de produtores, pelo que o texto fica como está (a secção chama-lhe «alvo incerto», mas o motivo real é a revogação condicional)"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:213881447:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 16.º",
+    "veredicto": "certo",
+    "motivo": "art. 2.º do DL 116-B/2025: n.º 3 e alínea e) do n.º 9 com a nova redação letra a letra; restantes números e epígrafe mantidos ([...])",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:218547:por",
+  "artigos": [
+   {
+    "artigo": "(preâmbulo)",
+    "veredicto": "certo",
+    "motivo": "igual ao original, só sem os artigos, que passaram a blocos próprios; nenhuma instrução o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "não é artigo novo: é o parte do original: o texto do original (artigos em linha no preâmbulo) foi separado em artigos; texto igual letra a letra; a alínea c) do n.º 1 do art. 2.º mantém-se (revogações só por matéria)",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "não é artigo novo: é o parte do original: o texto do original (artigos em linha no preâmbulo) foi separado em artigos; texto igual letra a letra; a alínea c) do n.º 1 do art. 2.º mantém-se (revogações só por matéria)",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "não é artigo novo: é o parte do original: o texto do original (artigos em linha no preâmbulo) foi separado em artigos; texto igual letra a letra; a alínea c) do n.º 1 do art. 2.º mantém-se (revogações só por matéria)",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "não é artigo novo: é o parte do original: o texto do original (artigos em linha no preâmbulo) foi separado em artigos; texto igual letra a letra; a alínea c) do n.º 1 do art. 2.º mantém-se (revogações só por matéria)",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 397/98, art. 16.º: revoga a alínea c) do n.º 1 do artigo 2.º do DL 214/86 «no que se refere à matéria abrangida pelo presente diploma» (comércio de armamento)",
+    "motivo": "confirmado: revogação condicional/parcial por matéria; a alínea c) abrange também produção e armas e munições que não são bens militares, continua a valer para o resto"
+   },
+   {
+    "instrucao": "DL 396/98, art. 17.º: revoga a alínea c) do n.º 1 do artigo 2.º do DL 214/86 «no que se refere à matéria abrangida pelo presente diploma» (indústria de armamento)",
+    "motivo": "confirmado: revogação condicional/parcial por matéria; mesmo em conjunto com o DL 397/98 não cobre toda a alínea (armas e munições não militares), pelo que não é eliminação limpa"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:258553:por",
+  "artigos": [
+   {
+    "artigo": "(preâmbulo)",
+    "veredicto": "errado",
+    "motivo": "a Declaração de Rectificação n.º 176/92 manda ler «prazo de diferimento.» onde está «prazo de deferimento.»; o preâmbulo existe no consolidado e a expressão está lá (penúltimo parágrafo antes de «Assim:»), mas não foi retificada",
+    "texto_esperado": "de 24 de Agosto\n\nActualmente, a rectificação dos actos de liquidação de direitos de importação ou de exportação e demais imposições cobradas pelas alfândegas, quando efectuada após a saída das mercadorias, depende, necessariamente, da organização de processo pelos serviços de conferência final, de acordo com o disposto nos n.os 5 e 6 do artigo 481.º do Regulamento das Alfândegas, na redacção que lhes foi conferida pelo [Decreto Regulamentar n.º 1/88](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-1988-283481), de 15 de Janeiro.\n\nA experiência tem, contudo, demonstrado que muitas vezes a rectificação é motivada pela ocorrência de erro evidente na indicação dos elementos de tributação ou nas operações de cálculo do montante da dívida ou de transcrição dos elementos de tributação que constam de documentos juntos à declaração aduaneira.\n\nPretende-se, com o presente diploma, tornar dispensável, naqueles casos, a tramitação processual prevista para os processos de cobrança a posteriori ou de dispensa do pagamento, consoante a correcção seja para mais ou para menos, passando antes a ser imediatamente resolvidos por decisão do chefe da estância aduaneira, desde que o pagamento ainda não tenha sido efectuado, por estar a decorrer o respectivo prazo de diferimento.\n\nCom tal medida libertam-se os serviços da conferência final de numerosos processos, que podem ter imediata solução na própria estância aduaneira.\n\nAssim:\n\nAo abrigo da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:"
+   },
+   {
+    "artigo": "Artigo único",
+    "veredicto": "certo",
+    "motivo": "não é artigo novo: é o artigo único do original separado do preâmbulo; texto igual",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [
+   "Declaração de Rectificação n.º 176/92: no penúltimo parágrafo do preâmbulo, onde se lê «prazo de deferimento.» deve ler-se «prazo de diferimento.» — o alvo é certo (o preâmbulo vem no consolidado e contém a expressão uma só vez), não aplicado"
+  ],
+  "instrucoes_justificadas": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:328601:por",
+  "artigos": [
+   {
+    "artigo": "(preâmbulo)",
+    "veredicto": "certo",
+    "motivo": "igual ao original, só sem os artigos, que passaram a blocos próprios; nenhuma instrução o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "não é artigo novo: é o parte do original: o texto do original (artigos em linha no preâmbulo) foi separado em artigos; texto igual letra a letra",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "não é artigo novo: é o parte do original: o texto do original (artigos em linha no preâmbulo) foi separado em artigos; texto igual letra a letra",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "não é artigo novo: é o parte do original: o texto do original (artigos em linha no preâmbulo) foi separado em artigos; texto igual letra a letra",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "não é artigo novo: é o parte do original: o texto do original (artigos em linha no preâmbulo) foi separado em artigos; texto igual letra a letra",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "não é artigo novo: é o parte do original: o texto do original (artigos em linha no preâmbulo) foi separado em artigos; texto igual letra a letra",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "não é artigo novo: é o parte do original: o texto do original (artigos em linha no preâmbulo) foi separado em artigos; texto igual letra a letra",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "certo",
+    "motivo": "não é artigo novo: é o parte do original: o texto do original (artigos em linha no preâmbulo) foi separado em artigos; texto igual letra a letra",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "não é artigo novo: é o parte do original: o texto do original (artigos em linha no preâmbulo) foi separado em artigos; texto igual letra a letra",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "não é artigo novo: é o parte do original: o texto do original (artigos em linha no preâmbulo) foi separado em artigos; texto igual letra a letra",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 10.º",
+    "veredicto": "certo",
+    "motivo": "não é artigo novo: é o parte do original: o texto do original (artigos em linha no preâmbulo) foi separado em artigos; texto igual letra a letra",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 11.º",
+    "veredicto": "certo",
+    "motivo": "não é artigo novo: é o parte do original: o texto do original (artigos em linha no preâmbulo) foi separado em artigos; texto igual letra a letra",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 12.º",
+    "veredicto": "certo",
+    "motivo": "não é artigo novo: é o parte do original: o texto do original (artigos em linha no preâmbulo) foi separado em artigos; texto igual letra a letra",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 181/80, arts. 1.º a 7.º: extinção do Serviço Distrital de Acolhimento de Lisboa e novo regime do Centro de Apoio Social de Lisboa",
+    "motivo": "confirmado: não textual; o DL 181/80 dispõe em texto próprio, sem dar nova redação a artigos do DL 301/78 nem os revogar expressamente"
+   },
+   {
+    "instrucao": "DL 6/85: integração do Centro de Apoio Social de Lisboa no Centro Regional de Segurança Social de Lisboa",
+    "motivo": "não textual (integração orgânica sem nova redação); o texto vem omitido na vista e só a citação da triagem o confirma"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

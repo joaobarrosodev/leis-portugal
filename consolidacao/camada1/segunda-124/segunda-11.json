@@ -1,0 +1,27 @@
+[
+  {
+    "id": "pt:dre:279609:por",
+    "veredicto": "reparos",
+    "problemas": [
+      "Alterador 3 (DL 264-C/81) não está aplicado, e o motivo aceite («sem texto: vem o do DL 264-B/81») não se mantém. O DRE trocou os sumários e os textos dos dois decretos-leis de 3/9/1981: a Declaração de 29/9/1981 (data/portugal/declaracoes/1981/declaracao-1981-10-15-561801.md) retifica os sumários, e o sumário certo do 264-C/81 é «Dá nova redacção a várias disposições das Leis n.os 82/77, 85/77 e 39/78». O texto que altera a Lei 85/77 está no acervo, no ficheiro do outro número: data/portugal/decretos-leis/1981/decreto-lei-264-b-81.md (pt:dre:517227), art. 2.º. A Resolução 189-A/82 confirma-o: declara inconstitucionais os arts. 34.º, n.º 2, e 43.º, n.º 2, «com a redacção que lhe foi dada pelo DL 264-C/81», e o n.º 2 do art. 43.º desse texto é o da transferência de magistrados classificados de Suficiente. As relações do registo (amended_by 517228) dão a mesma lista de artigos.",
+      "Falta a redação do art. 2.º desse texto nos arts. 8.º, 10.º, 27.º, 28.º, 31.º, 34.º, 42.º, 43.º, 49.º, 63.º, 68.º, 84.º, 152.º, 153.º e 177.º da Lei 85/77. O que tem de mudar: art. 8.º (epígrafe «(Transferências)», texto novo, com a remissão para o art. 43.º, n.os 2 e 4); art. 10.º, n.º 3 novo; art. 27.º, n.º 4 («3, 7, 11 e 15 anos») e n.º 7 («regiões autónomas ou no território de Macau»), por cima da redação do DL 348/80; art. 28.º, texto novo; art. 31.º, n.º 6 aditado (fica o n.º 5 do DL 348/80); art. 34.º, epígrafe «(Critérios de classificação e efeitos)» e n.os 2 a 5 novos; art. 42.º, n.º 2; art. 43.º, n.os 1 a 6 novos (substituem a redação do DL 348/80 que está no consolidado); art. 49.º, n.º 2, alínea a), e n.º 5; art. 63.º, n.os 2 e 4; art. 68.º, texto novo; art. 84.º, n.º 3; art. 152.º, n.º 1, alínea b), e proémio do n.º 2 («…sem prejuízo de, em casos justificados, poderem ser remetidos ao plenário:»); art. 153.º, epígrafe «(Regime de afectação e delegação de poderes)» e n.os 1 a 3 novos; art. 177.º, texto novo («O recurso não tem efeito suspensivo salvo se…»). Hoje o consolidado tem os arts. 8.º, 10.º, 28.º, 34.º, 42.º, 49.º, 63.º, 68.º e 84.º iguais ao original e os arts. 27.º, 31.º, 43.º, 152.º, 153.º e 177.º só na redação do DL 348/80.",
+      "Pormenor sem efeito no texto final: na vista, a Lei 28/79 traz «ARTIGO 54.º — (Funcionamento)» onde devia estar o art. 154.º (o corpo do art. 1.º diz 154.º). A redação foi depois toda substituída pelo DL 348/80, que é a que está no consolidado."
+    ],
+    "vigencia": {
+      "conclusao": "substituido",
+      "prova": "A Lei 21/85 aprovou um novo Estatuto dos Magistrados Judiciais. O seu art. 187.º («Ressalvas») só mantém em vigor o art. 196.º, n.os 1 a 3, da Lei 85/77 e, até à data do art. 189.º, n.º 2, o art. 43.º, n.os 3 a 5."
+    }
+  },
+  {
+    "id": "pt:dre:587622:por",
+    "veredicto": "certo",
+    "problemas": [],
+    "vigencia": null
+  },
+  {
+    "id": "pt:dre:372068:por",
+    "veredicto": "certo",
+    "problemas": [],
+    "vigencia": null
+  }
+]

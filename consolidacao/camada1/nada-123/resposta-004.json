@@ -1,0 +1,24 @@
+[
+ {
+  "id": "pt:dre:75542126:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "nova redação do DLR 1/2018/A, art. 57.º, aplicada letra a letra (incluindo a linha «(ver documento original)» do alterador), com o texto original no lugar de «[...]»; a nota «> Alterado» não é texto",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "nova redação do DLR 1/2018/A, art. 57.º, aplicada letra a letra (incluindo a linha «(ver documento original)» do alterador), com o texto original no lugar de «[...]»; a nota «> Alterado» não é texto",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": []
+ }
+]

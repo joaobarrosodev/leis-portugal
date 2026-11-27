@@ -1,0 +1,18 @@
+[
+ {
+  "id": "pt:dre:242052:por",
+  "substituicoes": [],
+  "insercoes": [
+   {
+    "depois_de": 6,
+    "texto": "3 - À remuneração ou pensão que resulta da aplicação do número anterior é acrescentado o montante necessário para que se verifique uma diferenciação de 3% em relação à categoria que detenha o índice imediatamente inferior, de acordo com os mapas mandados anexar pela [Lei n.º 2/90](https://diariodarepublica.pt/dr/detalhe/lei/2-1990-333792), de 20 de Janeiro, à [Lei n.º 21/85](https://diariodarepublica.pt/dr/detalhe/lei/21-1985-393601), de 30 de Julho, e à [Lei n.º 47/86](https://diariodarepublica.pt/dr/detalhe/lei/47-1986-222422), de 15 de Outubro.",
+    "alterador": 1
+   }
+  ],
+  "nao_aplicavel": "Alterador 2, entrada em vigor antecipada do artigo 1.º da Lei n.º 19/93 com efeitos a 1 de Janeiro de 1993: não textual — sem alteração ao texto do original",
+  "instrucoes": [
+   "Alt. 1, art. 1.º: aditado o n.º 3 ao art. 1.º — inserido a seguir à unidade 6",
+   "Alt. 2: entrada em vigor e efeitos — não textual"
+  ]
+ }
+]

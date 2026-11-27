@@ -35,7 +35,7 @@
    ]
   },
   {
-   "date": "1997-03-04",
+   "date": "2000-04-12",
    "future": false,
    "acts": [
     {
@@ -43,23 +43,31 @@
      "title": "Decreto-Lei n.º 48/97",
      "published": "1997-02-27",
      "dre_path": "/dr/detalhe/decreto-lei/48-1997-506429"
+    },
+    {
+     "id": "pt:dre:494838:por",
+     "title": "Decreto-Lei n.º 52/2000",
+     "published": "2000-04-07",
+     "dre_path": "/dr/detalhe/decreto-lei/52-2000-494838"
     }
    ],
    "changes": [
     "Altera Artigo 8.º",
     "Altera Artigo 10.º",
-    "Altera Artigo 13.º"
+    "Altera Artigo 13.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 8.º"
    ],
    "fragments": [
     "b98830be558b0a81",
     "f96ad12424e476c8",
-    "a80c7fbdf15da588",
+    "c52fc0218e068c93",
     "2676e73df468ff4a",
     "6a7868fe6bd910ae",
     "087c518a9b423359",
     "b948012bb551efa1",
     "3ec24131ba1cf194",
-    "5a7fcfc7c8e9aec3",
+    "c752f1f8050654a3",
     "38bf328658d8d77b",
     "1cf479fb23a3e82a",
     "411b871322bcd4a4",
@@ -244,21 +252,32 @@
    "changed_by": [],
    "markdown": "###### Artigo 20.º — Sigilo profissional\n\nAquele que, no exercício das suas funções, tome conhecimento de informação constante das bases de dados previstas no presente diploma fica obrigado a sigilo profissional, nos termos do artigo 32.º da [Lei n.º 10/91](https://diariodarepublica.pt/dr/detalhe/lei/10-1991-599769), de 29 de Abril.\n\nVisto e aprovado em Conselho de Ministros de 25 de Maio de 1995. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - Álvaro José Brilhante Laborinho Lúcio - Adalberto Paulo da Fonseca Mendo.\n\nPromulgado em 6 de Julho de 1995.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 10 de Julho de 1995.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
   },
-  "5a7fcfc7c8e9aec3": {
+  "c52fc0218e068c93": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Natureza",
+   "in_force_from": "2000-04-12",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 52/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2000-494838), publicado em 2000-04-07."
+   ],
+   "markdown": "###### Artigo 2.º — Natureza\n\n1 - O cartão de identificação do utente deve ser apresentado sempre que os utentes utilizem os serviços das instituições e serviços integrados no Serviço Nacional de Saúde ou com ele convencionado.\n\n2 - A não identificação dos utentes nos termos do número anterior não pode, em caso algum, determinar a recusa de prestações de saúde.\n\n3 - Aos utentes não é cobrada, com excepção das taxas moderadoras, quando devidas, qualquer importância relativa às prestações de saúde quando devidamente identificados nos termos deste diploma ou desde que façam prova, nos 10 dias seguintes à interpelação para pagamento dos encargos com os cuidados de saúde prestados, de que são titulares ou requereram a emissão do cartão de identificação de utente do Serviço Nacional de Saúde.\n\n> Alterado pelo/a [Decreto-Lei n.º 52/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2000-494838), publicado em 2000-04-07."
+  },
+  "c752f1f8050654a3": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 8.º — Taxas moderadoras",
-   "in_force_from": "1997-03-04",
+   "in_force_from": "2000-04-12",
    "changed_by": [
-    "Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 48/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-1997-506429), publicado em 1997-02-27."
+    "Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 48/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-1997-506429), publicado em 1997-02-27.",
+    "Alterado pelo/a [Decreto-Lei n.º 48/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-1997-506429), publicado em 1997-02-27."
    ],
-   "markdown": "###### Artigo 8.º — Taxas moderadoras\n\n1 - Sempre que o utente do Serviço Nacional de Saúde esteja numa das situações previstas no n.º 1 do artigo 2.º do Decreto-Lei n.º 54/92, de 11 de Abril, do seu cartão de identificação consta a titularidade do direito de isenção e respectivo limite temporal.\n\n2 - O disposto no número anterior é igualmente aplicável às demais situações legalmente previstas de isenção de pagamento de taxas moderadoras.\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 48/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-1997-506429), publicado em 1997-02-27."
+   "markdown": "###### Artigo 8.º — Taxas moderadoras\n\n1 - Sempre que o utente do Serviço Nacional de Saúde esteja numa das situações previstas no n.º 1 do artigo 2.º do [Decreto-Lei n.º 54/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-1992-199795), de 11 de Abril, do seu cartão de identificação consta a titularidade do direito de isenção e respectivo limite temporal.\n\n2 - O disposto no número anterior é igualmente aplicável às demais situações legalmente previstas de isenção de pagamento de taxas moderadoras.\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 48/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-1997-506429), publicado em 1997-02-27.\n\n> Alterado pelo/a [Decreto-Lei n.º 48/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-1997-506429), publicado em 1997-02-27."
   },
   "1cf479fb23a3e82a": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 10.º — Alteração de elementos",
-   "in_force_from": "1997-03-04",
+   "in_force_from": "2000-04-12",
    "changed_by": [
     "Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 48/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-1997-506429), publicado em 1997-02-27."
    ],
@@ -268,7 +287,7 @@
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 13.º — Bases de dados",
-   "in_force_from": "1997-03-04",
+   "in_force_from": "2000-04-12",
    "changed_by": [
     "Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 48/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-1997-506429), publicado em 1997-02-27."
    ],

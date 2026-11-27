@@ -1,0 +1,18 @@
+{
+  "id": "pt:dre:141259622:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, art. 2.º do DL 17/2022 (nova redação do art. 4.º do Decreto-Lei n.º 96/89): outro diploma: a instrução altera o Decreto-Lei n.º 96/89, que a Lei n.º 56/2020 só alterou e republicou em anexo; não se aplica ao original nem ao anexo que o republica.",
+  "instrucoes": [
+    "Alterador 1 (DL 17/2022), art. 1.º: objeto (décima alteração ao DL 96/89): não é instrução para o original.",
+    "Alterador 1, art. 2.º: nova redação do art. 4.º do DL 96/89: outro diploma, vai para nao_aplicavel; nem o art. 2.º da Lei 56/2020 nem o art. 4.º do anexo de republicação mudam."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "ronda_camada1": 123,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
+}

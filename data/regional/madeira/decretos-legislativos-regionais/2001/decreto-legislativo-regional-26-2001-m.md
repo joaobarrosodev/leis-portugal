@@ -32,10 +32,28 @@ notes:
   2026-11-20).'
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2003-07-24'
+version_history:
+  file: decreto-legislativo-regional-26-2001-m.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2001-08-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2003-07-24'
+    amending: pt:dre:673636:por
+    amending_title: Decreto Legislativo Regional n.º 20/2003/M
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 2.º
+    - Altera Artigo ANEXO I — 1.º ciclo
+    - Altera Artigo ANEXO II — 2.º ciclo
+    - Altera Artigo ANEXO III — 3.º ciclo
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/declegreg/26/2001/08/25/m/dre/pt/html
@@ -61,7 +79,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:39:58Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Legislativo Regional n.º
+    20/2003/M. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/madeira/decretos-legislativos-regionais/2001/decreto-legislativo-regional-26-2001-m.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -146,9 +165,13 @@ O presente diploma procede à adaptação à Região Autónoma da Madeira do [De
 
 1 - As referências feitas no [Decreto-Lei n.º 6/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-2001-338986), aos serviços centrais e regionais da administração da educação reportam-se, na administração regional autónoma, aos serviços da Secretaria Regional de Educação.
 
-2 - As competências atribuídas, no [Decreto-Lei n.º 6/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-2001-338986), ao Ministro da Educação reportam-se, na administração regional autónoma, ao Secretário Regional de Educação.
+2 - As competências atribuídas no [Decreto-Lei n.º 6/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-2001-338986), de 18 de Janeiro, na redacção dada pelo [Decreto-Lei n.º 209/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2002-432450), de 17 de Outubro, ao Ministério da Educação reportam-se, na administração regional autónoma, ao Secretário Regional de Educação, excepto a competência prevista na alínea b) do n.º 4 do artigo 13.º do mesmo diploma legal.
 
 3 - A competência para definir as orientações relativas à diversificação das ofertas curriculares atribuída, no n.º 3 do artigo 11.º do [Decreto-Lei n.º 6/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-2001-338986), aos Ministros da Educação e do Trabalho e da Solidariedade pertence, na administração regional autónoma, ao Secretário Regional de Educação.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 20/2003/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2003-673636), publicado em 2003-07-24.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 20/2003/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2003-673636), publicado em 2003-07-24.
 
 ###### Artigo 3.º
 
@@ -196,12 +219,24 @@ O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monte
 
 Componentes do currículo
 
-[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/08/197a00/54645467.pdf)](https://files.diariodarepublica.pt/1s/2001/08/197a00/54645467.pdf)](https://files.diariodarepublica.pt/1s/2001/08/197a00/54645467.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/07/169a00/43374341.pdf)](https://files.diariodarepublica.pt/1s/2003/07/169a00/43374341.pdf)](https://files.diariodarepublica.pt/1s/2003/07/169a00/43374341.pdf)
+
+O trabalho a desenvolver pelos alunos integrará, obrigatoriamente, actividades experimentais e actividades de pesquisa adequadas à natureza das diferentes áreas, nomeadamente no ensino das ciências.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 20/2003/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2003-673636), publicado em 2003-07-24.
 
 ## ANEXO II — 2.º ciclo
 
-[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/08/197a00/54645467.pdf)](https://files.diariodarepublica.pt/1s/2001/08/197a00/54645467.pdf)](https://files.diariodarepublica.pt/1s/2001/08/197a00/54645467.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/07/169a00/43374341.pdf)](https://files.diariodarepublica.pt/1s/2003/07/169a00/43374341.pdf)](https://files.diariodarepublica.pt/1s/2003/07/169a00/43374341.pdf)
+
+O trabalho a desenvolver pelos alunos integrará, obrigatoriamente, actividades experimentais e actividades de pesquisa adequadas à natureza das diferentes áreas ou disciplinas, nomeadamente no ensino das ciências.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 20/2003/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2003-673636), publicado em 2003-07-24.
 
 ## ANEXO III — 3.º ciclo
 
-[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/08/197a00/54645467.pdf)](https://files.diariodarepublica.pt/1s/2001/08/197a00/54645467.pdf)](https://files.diariodarepublica.pt/1s/2001/08/197a00/54645467.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/07/169a00/43374341.pdf)](https://files.diariodarepublica.pt/1s/2003/07/169a00/43374341.pdf)](https://files.diariodarepublica.pt/1s/2003/07/169a00/43374341.pdf)
+
+O trabalho a desenvolver pelos alunos integrará, obrigatoriamente, actividades experimentais e actividades de pesquisa adequadas à natureza das diferentes áreas ou disciplinas, nomeadamente no ensino das ciências.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 20/2003/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2003-673636), publicado em 2003-07-24.

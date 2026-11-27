@@ -1,20 +1,17 @@
 {
   "id": "pt:dre:234893:por",
-  "artigos": [
-    {
-      "chave": "2.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 1
-    }
-  ],
+  "artigos": [],
   "removidos": [],
-  "nao_aplicavel": "Alínea d) do n.º 1 do art. 15.º do DL 167/2014 revoga o DL 48283 'na parte respeitante às OGME': aplicada só ao artigo 2.º, que se refere expressamente às OGME; o artigo 1.º (mapa IV do DL 44322) não se identifica com segurança como respeitante só às OGME e fica como está.",
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, art. 15.º, n.º 1, al. d) (revoga o Decreto-Lei n.º 48283 na parte respeitante às OGME): revogação condicional — revogação parcial delimitada pela matéria («na parte respeitante às OGME»), sem indicar artigos; não se aplica ao texto.",
   "instrucoes": [
-    "Art. 15.º, n.º 1, d), do DL 167/2014: revogação na parte respeitante às OGME - artigo 2.º revogado; artigo 1.º mantido por dúvida",
-    "Art. 15.º, n.º 2: revogação genérica de legislação complementar - não textual"
+    "Alterador 1 (Decreto-Lei n.º 167/2014), art. 15.º, n.º 1, al. d): revogação do Decreto-Lei n.º 48283 só «na parte respeitante às OGME»; revogação condicional, não aplicada ao texto (os arts. 1.º e 2.º ficam como estão, confirmando o reparo). Restantes instruções (als. a) a c) e e), n.º 2) visam outros diplomas."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 123,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

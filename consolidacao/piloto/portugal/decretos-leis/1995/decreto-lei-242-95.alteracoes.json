@@ -40,5 +40,33 @@
     "unidade": [],
     "diploma": "pt:dre:563050:por",
     "alterador": "pt:dre:232134:por"
+  },
+  {
+    "artigo": "ANEXO — Normas Eurocontrol referidas no artigo 3.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "## ANEXO — Normas Eurocontrol referidas no artigo 3.º\nSistemas de comunicação\n\nADEXP (formato de mensagem ATS).\n\nOLDI (intercâmbio de dados).\n\nASTERIX (formato de mensagem radar).\n\nIntercâmbio de dados de voo-interface (parte I).\n\nSistemas de navegação\n\nRNAV.\n\nRastreio de infra-estruturas de navegação (WGS-84).\n\nSistemas de vigilância\n\nVigilância radar.\n\nAvaliação de sensores radar.",
+    "depois": "## ANEXO — Normas Eurocontrol referidas no artigo 3.º\n\na) Comunicações.\n\nb) Navegação.\n\nc) Vigilância.\n\nd) Sistemas de tratamento de dados.\n\ne) Procedimentos para a gestão do espaço aéreo e para a gestão do tráfego aéreo.\n\nf) Regras de trabalho e requisitos operacionais para a gestão do tráfego aéreo.\n\ng) Recursos humanos.\n\n> Alterado pelo/a [Decreto-Lei n.º 32/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-1998-232134), publicado em 1998-02-13.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:563050:por",
+    "alterador": "pt:dre:232134:por"
+  },
+  {
+    "artigo": "ANEXO — Normas Eurocontrol referidas no artigo 3.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "## ANEXO — Normas Eurocontrol referidas no artigo 3.º",
+    "depois": "## ANEXO — Lista dos domínios a que são aplicáveis as normas Eurocontrol referidas no artigo 3.º",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:563050:por",
+    "alterador": "pt:dre:232134:por"
   }
 ]

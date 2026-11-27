@@ -335,42 +335,25 @@
   "removidos": [
     "16.º"
   ],
-  "nao_aplicavel": "Alterador 1 (DL 135/96, art. 7.º n.º 3): derrogação parcial do n.º 1 do art. 13.º só quanto aos enfermeiros-directores dos hospitais abrangidos — não é alteração textual (e o n.º 1 do 13.º foi depois reescrito pelo alterador 2 e revogado pelo 5). Alterador 2 (DL 412/98, tabela anexa) e alterador 3 (DL 411/99, art. 2.º e anexos I/II): substituição das escalas indiciárias da tabela I e mapas de faseamento — só vêm em imagem, não aplicado. Alterador 4 (Acórdão n.º 682/2005): declaração de inconstitucionalidade da parte final da alínea b) do art. 12.º 'na medida em que' permite inversão remuneratória, com efeitos limitados — não é alteração textual, não aplicado.",
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, art. 7.º, n.º 3 (derrogação do n.º 1 do art. 13.º quanto à nomeação dos enfermeiros-directores): não textual; o art. 13.º fica revogado pelo alterador 5\nAlterador 2, tabela I e mapas I a IV anexos: só em imagem; não há título de anexo no texto atual\nAlterador 3, art. 2.º (anexos I e II, tabela indiciária e mapas): só em imagem; não há título de anexo no texto atual\nAlterador 4, declaração de inconstitucionalidade do art. 12.º, alínea b), in fine: não textual; o art. 12.º fica revogado pelo alterador 5\nAlterador 5 (e alterador 7), art. 28.º, cessação de vigência dos arts. 43.º a 57.º «até ao início da vigência de instrumento de regulamentação colectiva de trabalho»: efeito adiado; o pedido não mostra que esse instrumento entrou em vigor, e os arts. 43.º a 57.º ficam em vigor",
   "instrucoes": [
-    "Alterador 1 (DL 135/96): art. 7.º n.º 3 derroga parcialmente o n.º 1 do art. 13.º quanto a hospitais — não textual, registado em nao_aplicavel.",
-    "Alterador 2 (DL 412/98, art. 1.º): nova redação dos arts. 4.º, 5.º, 6.º, 7.º, 8.º, 9.º, 10.º, 11.º, 13.º, 14.º, 15.º, 24.º, 26.º, 29.º, 34.º, 35.º, 37.º, 40.º, 44.º, 48.º, 56.º e 63.º. Os 4.º, 5.º e 6.º já estavam no texto atual com essa redação (não devolvidos como tal). Dos restantes, só 44.º, 48.º e 56.º sobrevivem à revogação do alterador 5 e vão com o texto novo (48.º: n.ºs 6 e 7 novos, antigo n.º 6 cai, antigos 9-11 passam a 8-10; 56.º: n.ºs 7, 8 e 12 novos, antigos 7-9 passam a 9-11). Os outros (7.º-15.º, 24.º, 26.º, 29.º, 34.º, 35.º, 37.º, 40.º, 63.º) são devolvidos como '(Revogado.)' pelo alterador 5, com a epígrafe que o alterador 2 lhes deu (9.º, 11.º, 14.º, 15.º).",
-    "Alterador 2 (DL 412/98, art. 10.º n.º 1): art. 16.º eliminado — em removidos.",
-    "Alterador 2 (DL 412/98, tabela anexa): nova tabela I — só imagem, em nao_aplicavel.",
-    "Alterador 3 (DL 411/99, art. 1.º): nova redação do art. 19.º (n.ºs 4 e 5 novos, antigos 5 e 6 passam a 6 e 7) — absorvida pela revogação do alterador 5, art. 19.º devolvido como '(Revogado.)'. Art. 2.º (tabela I e mapas) — só imagem, em nao_aplicavel.",
-    "Alterador 4 (Acórdão n.º 682/2005): inconstitucionalidade parcial da alínea b) do art. 12.º — não textual, em nao_aplicavel; o 12.º é depois revogado pelo alterador 5.",
-    "Alterador 5 (DL 248/2009, art. 28.º): revoga o DL 437/91 com exceção dos arts. 43.º a 57.º — arts. 1.º a 42.º (menos o 16.º, já eliminado) e 58.º a 68.º passam a '(Revogado.)'; 43.º a 57.º mantêm-se (a ressalva 'na medida em que' não se aplica ao texto).",
-    "Alterador 6 (DL 122/2010): não contém nenhuma instrução dirigida ao DL 437/91; o artigo 6.º apenas declara subsistentes as categorias de enfermeiro-chefe e enfermeiro-supervisor e mantém o conteúdo funcional (sem alterar texto); os artigos 8.º e 9.º alteram os DL 247/2009 e 248/2009 (outros diplomas) - ignorados. Nada a alterar.",
-    "Alterador 7 (DL 71/2019, artigo 28.º): revoga o DL 437/91 com exceção dos artigos 43.º a 57.º, que se mantêm em vigor (com as necessárias adaptações, na medida em que não contrariem o novo regime - condição não textual). Todos os artigos fora de 43.º a 57.º (1.º a 42.º e 58.º a 68.º) já constam do texto atual como '(Revogado.)' e os artigos 43.º a 57.º mantêm-se sem alteração; nenhum artigo precisa de mudar."
+    "Alterador 1 (DL 135/96): só a derrogação parcial do n.º 1 do art. 13.º, não textual (nao_aplicavel).",
+    "Alterador 2 (DL 412/98), art. 1.º: nova redação dos arts. 4.º a 11.º, 13.º a 15.º, 24.º, 26.º, 29.º, 34.º, 35.º, 37.º, 40.º, 44.º, 48.º, 56.º e 63.º; só ficam em vigor (depois do alterador 5) as dos arts. 44.º, 48.º e 56.º, aplicadas; nos revogados mantêm-se as epígrafes novas (9.º, 11.º, 14.º, 15.º).",
+    "Alterador 2, art. 48.º: n.os 1 a 5 ficam; n.os 6 e 7 novos (o antigo n.º 6 desaparece e os antigos 7 e 8 dão os novos 6 e 7); os «...» dos n.os 8 a 10 da nova redação, que passa a ter 10 números, são os antigos n.os 9 a 11, renumerados.",
+    "Alterador 2, art. 56.º: n.os 1 a 6 ficam; 7 e 8 novos; 9 a 11 = antigos 7 a 9; 12 novo (substitui o antigo 10).",
+    "Alterador 2, art. 10.º, n.º 1: é eliminado o art. 16.º -> removidos.",
+    "Alterador 3 (DL 411/99): nova redação do art. 19.º, que fica revogado pelo alterador 5; tabelas só em imagem.",
+    "Alterador 4 (Acórdão 682/2005): inconstitucionalidade do art. 12.º, b), in fine, não textual.",
+    "Alterador 5 (DL 248/2009), art. 28.º: revoga o DL 437/91 com excepção dos arts. 43.º a 57.º -> todos os outros artigos (1.º a 15.º, 17.º a 42.º, 58.º a 68.º) ficam «(Revogado.)» com a epígrafe que tinham.",
+    "Alterador 6 (DL 122/2010): nenhuma instrução sobre o texto do original.",
+    "Alterador 7 (DL 71/2019): só traz o art. 28.º do DL 248/2009 republicado, a mesma revogação já aplicada."
   ],
-  "modelo": "claude-fable-5-1",
+  "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "passagens": [
-    {
-      "n": 1,
-      "alteradores": [
-        1,
-        2,
-        3,
-        4,
-        5
-      ],
-      "chars": 222519,
-      "artigos": 55
-    },
-    {
-      "n": 2,
-      "alteradores": [
-        6,
-        7
-      ],
-      "chars": 34253,
-      "artigos": 0
-    }
-  ],
-  "problemas": []
+  "ronda_camada1": 124,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

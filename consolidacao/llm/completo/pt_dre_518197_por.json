@@ -34,17 +34,23 @@
     {
       "chave": "7.º",
       "epigrafe": "",
-      "texto": "(Revogado.)",
+      "texto": "(Revogado.)\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 13 de Março de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.\n\nPara ser presente à Assembleia Nacional.\n\nTabela a que se refere o artigo 1.º do Decreto-Lei n.º 44234\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1962/03/05600/02260227.pdf)\n\nMinistério do Interior, 13 de Março de 1962. - O Ministro do Interior, Alfredo Rodrigues dos Santos Júnior.",
       "alterador": 2
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "Alterador 1: substitui a tabela de emolumentos e taxas anexa, que só vem em imagem; não aplicada (o artigo 7.º, onde figura a tabela, fica de qualquer modo revogado pelo alterador 2).",
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, artigo único, substituição da tabela de emolumentos e taxas aprovada pelo DL 44234 pela tabela anexa ao DL 44849: só em imagem — a tabela nova só vem em imagem e o texto atual não tem título de anexo onde a pôr (a tabela antiga está a seguir às assinaturas, no fim do art. 7.º); fica a linha de imagem atual. A tabela ficou depois revogada com o diploma pelo alterador 2.",
   "instrucoes": [
-    "Alterador 1, artigo único: substituição da tabela anexa (imagem); não aplicada.",
-    "Alterador 2, art. 42.º: revoga o Decreto-Lei n.º 44234 com excepção do artigo 2.º; artigos 1.º e 3.º a 7.º ficam (Revogado.)."
+    "Alterador 1 (DL 44849), artigo único: substitui a tabela aprovada pelo DL 44234 por outra, só em imagem; sem título de anexo no texto atual: vai em nao_aplicavel.",
+    "Alterador 2 (DL 521/71), art. 42.º: revoga o DL 44234, com exceção do seu art. 2.º. Aplicado artigo a artigo: arts. 1.º, 3.º, 4.º, 5.º, 6.º e 7.º «(Revogado.)»; o art. 2.º mantém-se. No art. 7.º mantêm-se, a seguir a «(Revogado.)», as fórmulas finais e assinaturas do diploma e as linhas da tabela (título, imagem e assinatura do Ministério), que vinham agarradas a esse artigo no texto atual e não são corpo do artigo.",
+    "Alterador 2, art. 42.º: a revogação do DL 36085, do DL 44849 e do Decreto 46525 é de outros diplomas."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 123,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

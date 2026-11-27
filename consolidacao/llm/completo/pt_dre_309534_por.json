@@ -9,13 +9,18 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "Alterador 2 (DL 382/86), art. 5.º, n.º 2: derroga o artigo 4.º apenas em relação ao ISEF de Lisboa, sem alteração textual. Alterador 3 (DL 153/88), art. 32.º, n.º 1: revoga o diploma 'em tudo o que respeite' ao ISEF da UTL, revogação parcial por âmbito, não textual; não se sabe com segurança que unidades ficam revogadas.",
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 2, art. 5.º, n.º 2, derrogação do art. 4.º em relação ao Instituto Superior de Educação Física de Lisboa: não textual: derrogação só para um dos institutos, sem mudar o texto\nAlterador 2, arts. 1.º a 4.º, objecto, atribuições e áreas do Instituto: não textual: normas autónomas que não dão nova redação ao original\nAlterador 3, art. 32.º, n.º 1, revogação do diploma «em tudo o que respeite ao Instituto Superior de Educação Física, da Universidade Técnica de Lisboa»: alvo incerto: revogação parcial por matéria, que não se reduz a artigos ou números identificados; o diploma continua a valer para o Instituto do Porto",
   "instrucoes": [
-    "Alterador 1 (DL 411/85), artigo único: adita os n.os 6 e 7 ao artigo 21.º; aplicado, mantendo os n.os 1 a 5 do texto atual.",
-    "Alterador 2 (DL 382/86): arts. 1.º a 4.º dispõem autonomamente sobre o ISEF; art. 5.º, n.º 1 revoga outro diploma (ignorado); art. 5.º, n.º 2 derroga o art. 4.º quanto ao Instituto - não textual, não aplicado.",
-    "Alterador 3 (DL 153/88): lei orgânica autónoma; art. 32.º, n.º 1 revoga o original em tudo o que respeite ao ISEF da UTL - revogação parcial de âmbito, não aplicada ao texto; art. 32.º, n.º 2 revoga outro diploma (ignorado)."
+    "Alterador 1: adita os n.os 6 e 7 ao art. 21.º; aplicado.",
+    "Alterador 2: derroga o art. 4.º em relação ao ISEF de Lisboa; não textual.",
+    "Alterador 3: revoga o diploma no que respeita ao ISEF de Lisboa; não aplicado (alvo incerto)."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 124,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

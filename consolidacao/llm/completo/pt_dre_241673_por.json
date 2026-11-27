@@ -40,7 +40,7 @@
     {
       "chave": "7.º",
       "epigrafe": "",
-      "texto": "(Revogado.)\n\nVisto e aprovado em Conselho de Ministros 5 de Junho de 1996. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - João Cardona Gomes Cravinho - Elisa Maria da Costa Guimarães Ferreira.\n\nPromulgado em 14 de Agosto de 1996.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 21 de Agosto de 1996.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres.",
+      "texto": "(Revogado.)",
       "alterador": 1
     },
     {
@@ -131,17 +131,19 @@
   "removidos": [],
   "titulos": [],
   "anexos": [],
-  "nao_aplicavel": "(1) DL 102/2014, art. 8.º, n.º 2: a nova redação do n.º 1 do art. 3.º do DL 166/96 e a nova redação do art. 3.º e o aditamento do art. 25.º-A dos estatutos só entram em vigor quando a ERSUC deixar de ser detida maioritariamente por entidades públicas (facto futuro): não aplicados (o n.º 1 do art. 3.º e o art. 3.º dos estatutos ficam com o texto atual; o art. 25.º-A não é aditado). A revogação dos n.os 2 e 3 do art. 3.º, feita também pelo art. 6.º, que não é diferido, aplica-se. (2) Estatutos, art. 5.º, n.º 1: a instrução dá «1 - [...].», que mantém o texto atual (315000000$00); o reparo do verificador (8 500 000,00 euros) vem só da republicação e de uma alteração registada (inscrição 10) que nenhuma instrução dá por escrito: não seguido. (3) Pela mesma razão não se aplicam as mudanças que só constam do preâmbulo/republicação: denominação «ERSUC - Resíduos Sólidos do Centro» no art. 1.º dos estatutos, nova redação dos arts. 21.º e 22.º dos estatutos, presente do indicativo e grafia atualizada nos restantes artigos, e epígrafe «Disposições gerais» do capítulo I.",
+  "nao_aplicavel": "Alterador 1, art. 2.º (nova redação do n.º 1 do art. 3.º do DL) e art. 8.º, n.º 2: efeito adiado: a nova redação do art. 3.º só entra em vigor na data em que a ERSUC, S. A., deixar de ser detida maioritariamente por entidades públicas; o n.º 1 fica com o texto atual (os n.os 2 e 3 ficam revogados pelo art. 6.º, que não é diferido).\nAlterador 1, art. 4.º (nova redação do art. 3.º dos estatutos) e art. 8.º, n.º 2: efeito adiado: entra em vigor na data em que a ERSUC, S. A., deixar de ser detida maioritariamente por entidades públicas.\nAlterador 1, art. 5.º (aditamento do art. 25.º-A dos estatutos) e art. 8.º, n.º 2: efeito adiado: entra em vigor na data em que a ERSUC, S. A., deixar de ser detida maioritariamente por entidades públicas.\nAlterador 1, art. 7.º (republicação, com o presente do indicativo em todas as normas, e os títulos de capítulo da republicação): não textual: a republicação não é instrução de alteração; os artigos e títulos que nenhuma instrução altera ficam com o texto atual.",
   "instrucoes": [
-    "Art. 2.º: nova redação do art. 1.º do DL (aplicada) e do art. 3.º (n.º 1 diferido pelo art. 8.º, n.º 2; não aplicado).",
-    "Art. 3.º: aditados os arts. 8.º e 9.º do DL (aplicados).",
-    "Art. 4.º: nova redação dos arts. 2.º, 4.º, 5.º (só o n.º 2), 8.º, 9.º, 10.º, 12.º, 14.º, 18.º, 19.º e 25.º dos estatutos (aplicados, com [...] a manter o texto atual); art. 3.º dos estatutos diferido (não aplicado).",
-    "Art. 5.º: aditamento do art. 25.º-A dos estatutos, diferido pelo art. 8.º, n.º 2 (não aplicado).",
-    "Art. 6.º: revogados os arts. 2.º, 4.º, 5.º, 6.º e 7.º do DL (no 7.º ficam as assinaturas), os n.os 2 e 3 do art. 3.º do DL, o art. 6.º, o n.º 3 do art. 8.º, os n.os 1 e 2 do art. 9.º e o n.º 3 do art. 10.º dos estatutos (aplicado).",
-    "Art. 7.º: republicação, sem instrução própria; não se copia texto dela."
+    "Alterador 1 (DL 102/2014), art. 2.º: nova redação do art. 1.º do DL: aplicada; nova redação do art. 3.º: diferida (nao_aplicavel), salvo os n.os 2 e 3, revogados pelo art. 6.º.",
+    "Art. 3.º: aditados os arts. 8.º e 9.º do DL: aplicado.",
+    "Art. 4.º: nova redação dos arts. 2.º, 4.º, 5.º, 8.º, 9.º, 10.º, 12.º, 14.º, 18.º, 19.º e 25.º dos estatutos, com «[...]» preenchido pelo texto atual: aplicado; art. 3.º dos estatutos diferido (nao_aplicavel).",
+    "Art. 5.º: aditamento do art. 25.º-A dos estatutos: diferido (nao_aplicavel).",
+    "Art. 6.º: revogados os arts. 2.º, 4.º a 7.º e os n.os 2 e 3 do art. 3.º do DL, o art. 6.º, o n.º 3 do art. 8.º, os n.os 1 e 2 do art. 9.º e o n.º 3 do art. 10.º dos estatutos: aplicado.",
+    "Art. 7.º: republicação: não é instrução de alteração (nao_aplicavel)."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
+  "ronda_camada1": 123,
   "problemas": [],
+  "numeracao_aceite": [],
   "avisos": []
 }

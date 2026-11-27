@@ -1,0 +1,75 @@
+[
+  {
+    "id": "pt:dre:341046:por",
+    "artigos": [
+      {"artigo": "Artigo 1.º", "veredicto": "certo", "motivo": "Art. 19.º, n.º 3, do DL 74/2002: n.º 1 mantido ('...'), n.os 2 e 3 com a nova redação letra a letra; epígrafe original mantida ('[...]').", "texto_esperado": ""},
+      {"artigo": "Artigo 6.º", "veredicto": "certo", "motivo": "Art. 19.º, n.º 3, do DL 74/2002: nova redação letra a letra (incluindo 'Vice-Presidente'); epígrafe mantida.", "texto_esperado": ""}
+    ],
+    "instrucoes_em_falta": [],
+    "instrucoes_justificadas": [
+      {"instrucao": "Art. 19.º, n.º 4, do DL 74/2002: todas as referências feitas no DL 188/2000 aos assessores passam a considerar-se feitas aos adjuntos", "motivo": "Não textual: mudança de designação por remissão, sem nova redação de qualquer artigo (confirmado no texto do n.º 4)."},
+      {"instrucao": "Art. 19.º, n.os 1 e 2, do DL 74/2002: nova redação dos arts. 12.º e 13.º do DL 186-A/99 e do art. 8.º do DL 177/2000", "motivo": "Outro diploma (confirmado no texto)."}
+    ],
+    "artigos_a_mais": [],
+    "artigos_em_falta": [],
+    "fora_dos_artigos": "sem alterações"
+  },
+  {
+    "id": "pt:dre:421462:por",
+    "artigos": [
+      {"artigo": "(preâmbulo)", "veredicto": "certo", "motivo": "Igual ao original, só sem os arts. 1.º a 4.º e o fecho, que passaram para artigos próprios; o alterador não toca no preâmbulo.", "texto_esperado": ""},
+      {"artigo": "Artigo 1.º", "veredicto": "certo", "motivo": "Texto do art. 1.º do original, separado do preâmbulo sem alteração (verificado: o conjunto preâmbulo + arts. 1.º-4.º é igual ao original).", "texto_esperado": ""},
+      {"artigo": "Artigo 2.º", "veredicto": "certo", "motivo": "Texto do art. 2.º do original, separado do preâmbulo sem alteração.", "texto_esperado": ""},
+      {"artigo": "Artigo 3.º", "veredicto": "certo", "motivo": "Texto do art. 3.º do original, separado do preâmbulo sem alteração.", "texto_esperado": ""},
+      {"artigo": "Artigo 4.º", "veredicto": "certo", "motivo": "Texto do art. 4.º do original e fecho (assinaturas, título das bases), sem alteração.", "texto_esperado": ""}
+    ],
+    "instrucoes_em_falta": [
+      "Artigo único do DL 109/90: nova redação da base II anexa ao DL 208/87 ('BASE II - Exclusivo', n.os 1 e 2). O alterador traz o texto completo e o alvo (base II das bases anexas) é conhecido; não teve efeito no consolidado porque o texto atual só tem os títulos dos capítulos I a V, sem o corpo das bases. Alvo incerto apenas quanto ao capítulo em que a base II fica (não se vê o conteúdo dos capítulos)."
+    ],
+    "instrucoes_justificadas": [],
+    "artigos_a_mais": [],
+    "artigos_em_falta": [],
+    "fora_dos_artigos": "sem alterações"
+  },
+  {
+    "id": "pt:dre:425523:por",
+    "artigos": [],
+    "instrucoes_em_falta": [
+      "Declaração de Rectificação n.º 13-A/98: no sumário, onde se lê «Adapta à Região Autónoma da Madeira o Decreto-Lei n.º 90/90, de 16 de Março, que estabelece o regime geral de revelação e aproveitamento dos recursos geológicos» deve ler-se «Adapta à Região Autónoma da Madeira o regulamento de pedreiras, previsto no Decreto-Lei n.º 89/90, de 16 de Março». Alvo conhecido (o sumário), ausente do texto consolidado; o motivo dado («alvo incerto») não é um dos motivos admitidos."
+    ],
+    "instrucoes_justificadas": [],
+    "artigos_a_mais": [],
+    "artigos_em_falta": [],
+    "fora_dos_artigos": "sem alterações"
+  },
+  {
+    "id": "pt:dre:431666:por",
+    "artigos": [
+      {"artigo": "Artigo 1.º", "veredicto": "certo", "motivo": "Rectificação aplicada no n.º 1: «Congelados de Bacalhau» → «Congelados e Bacalhau»; resto igual.", "texto_esperado": ""}
+    ],
+    "instrucoes_em_falta": [
+      "Declaração de Rectificação n.º 14-B/97, no 1.º parágrafo do preâmbulo: onde se lê «CRCB - Companhias Reunidas de Congelados de Bacalhau, S. A.,» deve ler-se «CRCB - Companhias Reunidas de Congelados e Bacalhau, S. A.,». O consolidado tem «(preâmbulo)» (na lista dos iguais ao original), ao contrário do que diz quem consolidou; a rectificação não foi aplicada.",
+      "Declaração de Rectificação n.º 14-B/97, no sumário: mesma rectificação («Congelados de Bacalhau» → «Congelados e Bacalhau»). Alvo conhecido (sumário), ausente do texto consolidado; «alvo incerto» não é motivo admitido."
+    ],
+    "instrucoes_justificadas": [],
+    "artigos_a_mais": [],
+    "artigos_em_falta": [],
+    "fora_dos_artigos": "sem alterações"
+  },
+  {
+    "id": "pt:dre:450847:por",
+    "artigos": [],
+    "instrucoes_em_falta": [],
+    "instrucoes_justificadas": [
+      {"instrucao": "Portaria n.º 869/84: aumento de lugar no quadro de pessoal da DGPE", "motivo": "Outro diploma: texto omitido na vista; a triagem indica que o quadro é o aprovado pelo DR 44/80 (o original só citado como tendo-o alterado) e o mapa vem em imagem."},
+      {"instrucao": "Portaria n.º 101/85, n.º 1.º: o quadro de pessoal da DGPE é acrescido dos lugares de primeiro-oficial e segundo-oficial constantes do mapa anexo", "motivo": "Confirmado: o quadro é o aprovado pelo DR 44/80 (alterado pelo original) e os lugares só constam do mapa anexo em imagem; não há anexo com título no consolidado onde o pôr."},
+      {"instrucao": "Portaria n.º 101/85, n.º 2.º: extinção do lugar de subdirector de gestão patrimonial criado pelo DR 40/83 e criação do lugar de chefe de repartição", "motivo": "Confirmado: não textual (extinção/criação de lugar no quadro, sem nova redação de artigo) e o lugar novo só consta do mapa anexo em imagem."},
+      {"instrucao": "Portaria n.º 116/85: criação da carreira de técnico superior de informática", "motivo": "Outro diploma: texto omitido na vista; a triagem indica que substitui carreiras previstas no DR 44/80."},
+      {"instrucao": "Portaria n.º 290/86: criação de um lugar de assessor no quadro da DGPE", "motivo": "Outro diploma: texto omitido na vista; a triagem indica o quadro do DR 44/80."},
+      {"instrucao": "Portaria n.º 73/87: substituição do quadro de pessoal da DGPE pelo mapa anexo", "motivo": "Outro diploma (quadro do DR 44/80, segundo a triagem; texto omitido na vista) e mapa só em imagem."}
+    ],
+    "artigos_a_mais": [],
+    "artigos_em_falta": [],
+    "fora_dos_artigos": "sem alterações"
+  }
+]

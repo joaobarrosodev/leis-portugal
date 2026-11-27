@@ -3,7 +3,8 @@ id: pt:dre:668899:por
 title: Decreto-Lei n.º 268/95
 original: data/portugal/decretos-leis/1995/decreto-lei-268-95.md
 consolidacao:
-  metodo: piloto da fase 2 (consolidacao/consolidar.py), sem valor oficial
+  metodo: piloto da fase 2 (consolidacao/consolidar.py e, pelo LLM, consolidacao/juntar.py),
+    sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
   - id: pt:dre:361886:por
@@ -139,11 +140,13 @@ d) Direcção de Exploração de Lisboa, com sede em Lisboa e abrangendo os dist
 
 e) Direcção de Exploração do Sul, com sede em Faro e abrangendo os distritos de Beja e Faro.
 
-2 - As direcções de exploração prosseguem as atribuições referidas na última redacção das alíneas b) e c) do artigo 2.º do Decreto-Lei n.º 184/78, de 18 de Julho, no que se refere aos itinerários principais e complementares constituídos, bem como às estradas nacionais que, provisoriamente, asseguram essa função.
+2 - As direcções de exploração prosseguem as atribuições referidas na última redacção das alíneas b) e c) do artigo 2.º do [Decreto-Lei n.º 184/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1978-297450), de 18 de Julho, no que se refere aos itinerários principais e complementares constituídos, bem como às estradas nacionais que, provisoriamente, asseguram essa função.
 
 3 - As direcções de exploração são chefiadas por directores de serviços, nomeados, nos termos da lei geral, em comissão de serviço.
 
 > Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 141/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1997-361886), publicado em 1997-06-06.
+
+> Alterado pelo/a [Decreto-Lei n.º 141/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1997-361886), publicado em 1997-06-06.
 
 ###### Artigo 9.º — Direcções de estradas
 
@@ -151,9 +154,11 @@ e) Direcção de Exploração do Sul, com sede em Faro e abrangendo os distritos
 
 2 - Cada direcção de estradas é chefiada por um director com categoria correspondente a chefe de divisão, nomeado, nos termos da lei geral, em comissão de serviço.
 
-3 - As direcções de estradas prosseguem as atribuições referidas na última redacção das alíneas b) e c) do artigo 2.º, bem como as previstas no artigo 63.º do Decreto-Lei n.º 184/78, de 18 de Julho, no que se refere às estradas nacionais e às estradas regionais, quando criadas.
+3 - As direcções de estradas prosseguem as atribuições referidas na última redacção das alíneas b) e c) do artigo 2.º, bem como as previstas no artigo 63.º do [Decreto-Lei n.º 184/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1978-297450), de 18 de Julho, no que se refere às estradas nacionais e às estradas regionais, quando criadas.
 
 > Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 141/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1997-361886), publicado em 1997-06-06.
+
+> Alterado pelo/a [Decreto-Lei n.º 141/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1997-361886), publicado em 1997-06-06.
 
 ###### Artigo 10.º
 

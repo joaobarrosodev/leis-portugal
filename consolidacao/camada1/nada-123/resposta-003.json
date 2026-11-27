@@ -1,0 +1,208 @@
+[
+ {
+  "id": "pt:dre:561379:por",
+  "artigos": [],
+  "instrucoes_em_falta": [
+   "DL 265/2002, art. 9.º, n.º 1: «Ao Decreto-Lei n.º 244/2000 é aditado o anexo B do presente diploma» — o texto do anexo B vem completo no alterador; não aplicado (criar o anexo novo não é alvo incerto)",
+   "DL 227/2004, art. 22.º, n.º 1: o anexo B do DL 244/2000, aditado pelo DL 265/2002, é substituído pelo anexo E do DL 227/2004 (texto completo no alterador) — não aplicado; o consolidado devia ter o ANEXO B com o texto do anexo E"
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 265/2002, art. 9.º, n.º 2: referências ao teste de rosa de Bengala e fixação do complemento entendem-se feitas ao anexo B",
+    "motivo": "não textual: confirmado, regra de remissão sem nova redação"
+   },
+   {
+    "instrucao": "DL 227/2004, art. 22.º, n.º 2: as mesmas referências entendem-se feitas ao anexo E",
+    "motivo": "não textual: confirmado, regra de remissão sem nova redação"
+   },
+   {
+    "instrucao": "DL 227/2004, art. 23.º: revoga o DL 265/2002",
+    "motivo": "outro diploma: confirmado, revoga o DL 265/2002, não o original"
+   }
+  ]
+ },
+ {
+  "id": "pt:dre:64797339:por",
+  "artigos": [],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Decreto-Lei n.º 111/2019",
+    "motivo": "sem texto: o diploma que altera vem vazio na vista; não se vê instrução dirigida ao original"
+   }
+  ]
+ },
+ {
+  "id": "pt:dre:657440:por",
+  "artigos": [
+   {
+    "artigo": "(preâmbulo)",
+    "veredicto": "certo",
+    "motivo": "texto igual ao original; só foi separado em artigos (nenhuma instrução o altera)",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 1.º-O",
+    "veredicto": "errado",
+    "motivo": "chave errada: «Artigo 1.º - O presente diploma…» foi lido como «Artigo 1.º-O» e perdeu-se o «O» inicial do texto",
+    "texto_esperado": "###### Artigo 1.º\n\nO presente diploma tem por objecto limitar o uso e comercialização das substâncias ou preparações previstas nos artigos seguintes e no anexo ao presente diploma, do qual faz parte integrante."
+   },
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "texto igual ao original; só foi separado em artigos (nenhuma instrução o altera)",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "texto igual ao original; só foi separado em artigos (nenhuma instrução o altera)",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "texto igual ao original; só foi separado em artigos (nenhuma instrução o altera)",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "dúvida",
+    "motivo": "texto igual ao original, mas o DL 208/2003, art. 5.º, revoga este artigo «na parte respeitante aos compostos de arsénio» (corpo e alínea b)); o alterador não diz que palavras saem",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "revogado pelo DL 256/2000, art. 6.º, n.º 1: «(Revogado.)»",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "certo",
+    "motivo": "texto igual ao original; só foi separado em artigos (nenhuma instrução o altera)",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "texto igual ao original; só foi separado em artigos (nenhuma instrução o altera)",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "texto igual ao original; só foi separado em artigos (nenhuma instrução o altera)",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 10.º",
+    "veredicto": "certo",
+    "motivo": "texto igual ao original; só foi separado em artigos (nenhuma instrução o altera)",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 11.º",
+    "veredicto": "certo",
+    "motivo": "texto igual ao original; só foi separado em artigos (nenhuma instrução o altera)",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 12.º",
+    "veredicto": "certo",
+    "motivo": "texto igual ao original; só foi separado em artigos (nenhuma instrução o altera)",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 13.º",
+    "veredicto": "certo",
+    "motivo": "texto igual ao original; só foi separado em artigos (nenhuma instrução o altera)",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [
+   "DL 208/2003, art. 5.º: revoga o art. 5.º do DL 54/93 «na parte respeitante aos compostos de arsénio» — sem efeito no consolidado; o alvo é o art. 5.º (corpo «e de compostos de arsénio» e ressalva da alínea b)), alvo incerto quanto às palavras a retirar; «alvo incerto» não justifica"
+  ],
+  "artigos_a_mais": [
+   "Artigo 1.º-O"
+  ],
+  "artigos_em_falta": [
+   "Artigo 1.º"
+  ],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 256/2000, arts. 2.º a 5.º: anexos I a III e art. 4.º do DL 264/98",
+    "motivo": "outro diploma: confirmado, visam o DL 264/98"
+   },
+   {
+    "instrucao": "DL 208/2003, arts. 2.º e 3.º: anexos I e II do DL 264/98",
+    "motivo": "outro diploma: confirmado"
+   }
+  ]
+ },
+ {
+  "id": "pt:dre:67051302:por",
+  "artigos": [],
+  "instrucoes_em_falta": [
+   "Declaração de Retificação n.º 22/2015: no título, «Trigésima quinta alteração ao Código Penal» deve ler-se «Trigésima sexta alteração ao Código Penal» — sem efeito; alvo incerto: o título não aparece no texto visto"
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Lei n.º 8/2017 (art. 5.º, artigos do Código Penal)",
+    "motivo": "outro diploma: texto omitido na vista; segundo a triagem altera o Código Penal"
+   },
+   {
+    "instrucao": "Lei n.º 102/2019 (arts. 2.º a 4.º, Código Penal e Código de Processo Penal)",
+    "motivo": "outro diploma: texto omitido na vista; segundo a triagem altera o Código Penal"
+   },
+   {
+    "instrucao": "Lei n.º 39/2020 (arts. 2.º a 5.º, Código Penal, CPP e Lei n.º 92/95)",
+    "motivo": "outro diploma: texto omitido na vista; segundo a triagem altera o Código Penal"
+   }
+  ]
+ },
+ {
+  "id": "pt:dre:69927762:por",
+  "artigos": [],
+  "instrucoes_em_falta": [
+   "Declaração de Retificação n.º 37/2015: na entidade emitente, «Presidência do Conselho de Ministros» deve ler-se «Ministério da Defesa Nacional» — sem efeito; alvo incerto: a entidade emitente não aparece no texto visto"
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Decreto-Lei n.º 68/2025 (alterações ao DL 183/2014)",
+    "motivo": "outro diploma: texto omitido na vista; segundo a triagem altera o DL 183/2014 e só cita o original como alteração anterior"
+   }
+  ]
+ },
+ {
+  "id": "pt:dre:75222134:por",
+  "artigos": [],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 63/2017, art. 41.º, n.º 2: revogação do DL 59/2016 com a entrada em vigor dos atos de execução do n.º 2 do art. 35.º da Diretiva 2014/90/UE",
+    "motivo": "efeito adiado para um facto futuro: confirmado no texto"
+   },
+   {
+    "instrucao": "DL 63/2017, art. 40.º: o anexo do DL 59/2016 continua a aplicar-se até aos atos de execução",
+    "motivo": "não textual: confirmado, disposição transitória sem nova redação"
+   }
+  ]
+ }
+]

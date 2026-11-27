@@ -15,16 +15,19 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "Alterador 2 (DLR 10/2016/M): os artigos 1.º, 2.º, 4.º e 6.º alteram, aditam e republicam as bases do anexo II (Bases da concessão), que não constam do texto atual por artigos; não há chave onde aplicar.",
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, artigo 2.º (futuras alterações aos Estatutos nos termos da lei comercial): não textual\nAlterador 1, artigo 3.º (revoga as normas que contrariem o diploma): revogação condicional\nAlterador 2, artigos 1.º e 2.º (nova redação das bases I, X, XIV, XV, XVI, XVII, XVIII, XXI, XXII e XXX e aditamento das bases XXII-A e XXII-B) e artigo 6.º (republicação das bases): alvo incerto: o texto atual do anexo II só tem os títulos dos capítulos, sem as bases, e o texto republicado reparte-as por esses capítulos, pelo que não há onde pôr cada base com segurança\nAlterador 2, artigo 4.º (referências a «o Concedente» e «ER 101» passam a «a Concedente» e «VR 1»): não textual\nAlterador 2, artigo 5.º (revoga o artigo 42.º do Decreto Legislativo Regional n.º 4-A/2001/M): outro diploma",
   "instrucoes": [
-    "Alt. 1, art. 1.º: nova redação do n.º 1 do artigo 3.º dos Estatutos (anexo I) — aplicada a Anexo I::3.º; o programa tinha-a colocado por engano no artigo 3.º do diploma, que se repõe sem esse número.",
-    "Alt. 1, arts. 2.º e 3.º: norma sobre futuras alterações e revogação de normas contrárias (condicional/de outros diplomas) — não textual, ignoradas.",
-    "Alt. 2, arts. 1.º e 2.º: alteração das bases I, X, XIV-XVIII, XXI, XXII, XXX e aditamento das bases XXII-A e XXII-B do anexo II — não aplicáveis (anexo II fora do texto atual).",
-    "Alt. 2, art. 4.º: referências 'o Concedente'/'ER 101' nas Bases — só às Bases, não aplicado.",
-    "Alt. 2, art. 5.º: revoga artigo de outro diploma — ignorado.",
-    "Alt. 2, art. 6.º: republicação das Bases — não aplicada."
+    "Alterador 1, art. 1.º: nova redação do n.º 1 do art. 3.º dos Estatutos (anexo I): aplicada ao art. 3.º do anexo I; o art. 3.º do decreto, onde o programa a tinha posto, volta ao texto original",
+    "Alterador 1, arts. 2.º e 3.º: não aplicados (não textual; revogação condicional)",
+    "Alterador 2, arts. 1.º, 2.º e 6.º: bases da concessão, ausentes do texto atual: não aplicados",
+    "Alterador 2, arts. 4.º e 5.º: referências e revogação de outro diploma: não aplicados"
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 124,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

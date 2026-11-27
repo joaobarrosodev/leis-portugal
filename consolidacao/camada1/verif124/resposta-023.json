@@ -1,0 +1,81 @@
+[
+  {
+    "id": "pt:dre:261964:por",
+    "artigos": [
+      {"artigo": "Artigo 6.º", "veredicto": "certo", "motivo": "DL 49174, art. 1.º: corpo mantido («...») e §§ 1.º e 2.º novos letra a letra em lugar do § único", "texto_esperado": ""}
+    ],
+    "instrucoes_em_falta": [],
+    "instrucoes_justificadas": [
+      {"instrucao": "DL 49174, art. 2.º: efeitos do § 1.º do artigo 6.º reportados a 1 de Março de 1969", "motivo": "não textual: produção de efeitos"},
+      {"instrucao": "DL 143/83, art. 9.º: extinção das subintendências de pecuária criadas pelo DL 48755", "motivo": "não textual: extinção sem revogar nem dar nova redação ao texto"},
+      {"instrucao": "DL 143/83, art. 5.º, n.º 5: absorção das quantias pagas pelo cargo de subintendente de pecuária", "motivo": "não textual: norma própria do DL 143/83, sem nova redação do original"}
+    ],
+    "artigos_a_mais": [],
+    "artigos_em_falta": [],
+    "fora_dos_artigos": "sem alterações"
+  },
+  {
+    "id": "pt:dre:264358:por",
+    "artigos": [
+      {"artigo": "Artigo único", "veredicto": "certo", "motivo": "Lei 13/2005 (que se diz primeira alteração ao DL 108/2004) dá nova redação às alíneas d) a f) do n.º 2 do artigo 30.º e à alínea a) do n.º 1 do artigo 31.º, tal como constam do artigo único do DL 108/2004; consolidado letra a letra, artigo 23.º e resto iguais", "texto_esperado": ""}
+    ],
+    "instrucoes_em_falta": [
+      "DL 138/2006: o texto do alterador não está na vista (só o título); não é possível confirmar se tem ou não instruções dirigidas ao DL 108/2004 (alvo incerto)"
+    ],
+    "instrucoes_justificadas": [
+      {"instrucao": "DL 19/2018, arts. 1.º a 6.º e anexo: alteração, revogações e republicação do DL 83/2000", "motivo": "instrução de outro diploma (DL 83/2000)"}
+    ],
+    "artigos_a_mais": [],
+    "artigos_em_falta": [],
+    "fora_dos_artigos": "sem alterações"
+  },
+  {
+    "id": "pt:dre:273637:por",
+    "artigos": [
+      {"artigo": "Artigo 8.º", "veredicto": "certo", "motivo": "DL 388/71, art. 2.º: nova redação da alínea a) do n.º 1 e do n.º 2 (dois parágrafos) letra a letra, resto igual ao original", "texto_esperado": ""},
+      {"artigo": "Artigo 10.º", "veredicto": "certo", "motivo": "DL 388/71, art. 2.º: nova redação da alínea d) letra a letra, resto igual", "texto_esperado": ""}
+    ],
+    "instrucoes_em_falta": [],
+    "instrucoes_justificadas": [
+      {"instrucao": "DL 388/71, art. 1.º: nova redação dos arts. 3.º, 14.º e 20.º do DL 48506", "motivo": "instrução de outro diploma (DL 48506)"},
+      {"instrucao": "DL 237/74, art. 1.º: exoneração dos membros da Junta Central", "motivo": "não textual: ato de exoneração"},
+      {"instrucao": "DL 237/74, art. 2.º: suspensão da aplicação dos artigos 4.º a 7.º do DL 48507", "motivo": "não textual: suspensão"},
+      {"instrucao": "DL 237/74, arts. 3.º a 6.º: comissão administrativa e sindicância", "motivo": "não textual: normas próprias do DL 237/74, sem nova redação do original"}
+    ],
+    "artigos_a_mais": [],
+    "artigos_em_falta": [],
+    "fora_dos_artigos": "sem alterações"
+  },
+  {
+    "id": "pt:dre:274440:por",
+    "artigos": [
+      {"artigo": "Artigo 6.º", "veredicto": "certo", "motivo": "DL 88/95 dá nova redação a todo o artigo 6.º (n.os 1 a 5); consolidado letra a letra, sem os antigos n.os 6", "texto_esperado": ""},
+      {"artigo": "Artigo 8.º", "veredicto": "certo", "motivo": "Lei 15/93 adita o n.º 12, letra a letra; n.os 1 a 11 iguais ao original", "texto_esperado": ""}
+    ],
+    "instrucoes_em_falta": [],
+    "instrucoes_justificadas": [
+      {"instrucao": "DL 25/96, art. 1.º: o termo do prazo do n.º 6 do artigo 8.º passa a ser 31 de Julho de 1996", "motivo": "não textual: prorrogação de prazo, sem nova redação do número"},
+      {"instrucao": "DL 25/96, arts. 2.º e 3.º: regime do pessoal docente que já transitou e que não transita", "motivo": "não textual: normas próprias do DL 25/96, sem nova redação do original"},
+      {"instrucao": "Portaria 459/2000: substituição do quadro de pessoal da Escola Superior de Enfermagem de São João de Deus", "motivo": "instrução de outro diploma (quadro aprovado pelo DL 151/88); o mapa só vem em imagem"}
+    ],
+    "artigos_a_mais": [],
+    "artigos_em_falta": [],
+    "fora_dos_artigos": "sem alterações"
+  },
+  {
+    "id": "pt:dre:274856:por",
+    "artigos": [
+      {"artigo": "Artigo 3.º", "veredicto": "certo", "motivo": "DL 306/70: nova redação das alíneas c) e d) do n.º 3 letra a letra, resto igual ao original", "texto_esperado": ""},
+      {"artigo": "Artigo 5.º", "veredicto": "certo", "motivo": "DL 306/70: nova redação do artigo 5.º letra a letra", "texto_esperado": ""}
+    ],
+    "instrucoes_em_falta": [],
+    "instrucoes_justificadas": [
+      {"instrucao": "DL 113/70, art. 2.º, n.º 2: a comissão da alínea b) do n.º 1 do artigo 3.º passa a ter mais dois membros", "motivo": "o diploma que altera não traz o texto da alteração (sem nova redação da alínea)"},
+      {"instrucao": "DL 113/70, art. 1.º e art. 2.º, n.º 1: novos encargos e aplicação do DL 48894", "motivo": "não textual: normas próprias do DL 113/70"},
+      {"instrucao": "DL 126/84: extinção das comissões do n.º 1 do artigo 3.º e criação da comissão liquidatária", "motivo": "não textual: extinção sem revogação nem nova redação"}
+    ],
+    "artigos_a_mais": [],
+    "artigos_em_falta": [],
+    "fora_dos_artigos": "sem alterações"
+  }
+]

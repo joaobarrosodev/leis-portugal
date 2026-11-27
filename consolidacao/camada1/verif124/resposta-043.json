@@ -1,0 +1,31 @@
+[
+ {
+  "id": "pt:dre:522614:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 97.º",
+    "veredicto": "certo",
+    "motivo": "O bloco contém o art. 2.º do DL 251-A/91; a alínea c) do n.º 1 tem a nova redação da Lei 71/93, art. 6.º, n.º 1 («sete exercícios», sem vírgula após «naqueles números»), letra a letra; restante igual.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Lei 71/93, art. 6.º, n.º 2: prorrogação até 31-12-1997 do prazo do n.º 2 do art. 2.º",
+    "motivo": "Prorrogação, não textual."
+   },
+   {
+    "instrucao": "Alterações e aditamentos aos artigos do Código do IRC (incl. 22.º, 41.º, 45.º, 59.º, 60.º, 71.º, 72.º, 82.º-87.º, 96.º, 97.º) pelos DL 123/92, 138/92, 263/92, 67/93, Lei 71/93, DL 121/95, 7/96, 3/97, 44/98, 45/98, 472/99, 55/2000, 221/2001, Lei 64/2008, 55-A/2012, 55/2013",
+    "motivo": "Outro diploma (Código do IRC, DL 442-B/88); os artigos do CIRC que o DL 251-A/91 contém não se alteram por essas instruções."
+   },
+   {
+    "instrucao": "Alterações ao CIRS, CIVA, Imposto do Selo, CIMSISD, CCA, CPT, EBF, LGT, IMI, Reforma Aduaneira, DL 442-B/88 art. 18.º-A, DL 42/91, DL 229/95, DR 2/90, DL 165/86 e outros",
+    "motivo": "Outro diploma."
+   }
+  ]
+ }
+]

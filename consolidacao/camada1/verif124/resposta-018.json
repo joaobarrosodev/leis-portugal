@@ -1,0 +1,110 @@
+[
+ {
+  "id": "pt:dre:177451:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 44.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação do art. 1.º do DL 74/86 (n.os 1 a 3), letra a letra.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Lei 6/2006",
+    "motivo": "O diploma que altera não traz texto na vista."
+   },
+   {
+    "instrucao": "Lei 31/2012, art. 2.º (nova redação de artigos do Código Civil, incl. 1083.º e 1106.º)",
+    "motivo": "Outro diploma: altera o Código Civil; a Lei 46/85 só aparece na lista de alterações do Código; os arts. 1051.º, 1083.º, 1106.º e 1111.º que estão no texto da Lei 46/85 não se atualizam por isso."
+   },
+   {
+    "instrucao": "Lei 24/2017 (aditamento ao Código Civil e alterações à Lei 112/2009, CPP, RGPTC e Lei 75/98)",
+    "motivo": "Outro diploma: nenhuma instrução dirigida à Lei 46/85."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:178503:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "N.º 2 com a redação do art. 3.º do DL 28/2015; n.º 1 original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "N.º 2 do DL 28/2015; restantes originais.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "Alínea d) do n.º 1 do DL 28/2015; restantes originais.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "Alíneas f) e g) novas e h) = anterior g), conforme o DL 28/2015; restantes originais.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 10.º",
+    "veredicto": "certo",
+    "motivo": "N.º 2 do DL 28/2015; n.º 1 original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 12.º",
+    "veredicto": "certo",
+    "motivo": "N.os 1 e 2 do DL 28/2015.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 28/2015, arts. 2.º, 4.º, 5.º, 6.º e 8.º (DL 167-C/2013, DL 117/2011 e seus anexos)",
+    "motivo": "Outro diploma."
+   },
+   {
+    "instrucao": "DL 28/2015, art. 7.º (convenção com a CGD; integração no MSESS)",
+    "motivo": "Não textual: norma autónoma."
+   },
+   {
+    "instrucao": "DL 14/2023 (transferência para a CGA das responsabilidades do FPCGD)",
+    "motivo": "Não textual: nenhuma norma dá nova redação ou revoga artigos do DL 131/2012."
+   },
+   {
+    "instrucao": "DL 251-A/2015",
+    "motivo": "O diploma que altera não traz texto na vista."
+   },
+   {
+    "instrucao": "DL 169-B/2019",
+    "motivo": "O diploma que altera não traz texto na vista."
+   },
+   {
+    "instrucao": "DL 32/2022",
+    "motivo": "O diploma que altera não traz texto na vista."
+   },
+   {
+    "instrucao": "DL 32/2024",
+    "motivo": "O diploma que altera não traz texto na vista."
+   },
+   {
+    "instrucao": "DL 87-A/2025",
+    "motivo": "O diploma que altera não traz texto na vista."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2002-11-03'
+version_history:
+  file: decreto-lei-187-2001.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2001-06-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2002-11-03'
+    amending: pt:dre:534588:por
+    amending_title: Decreto-Lei n.º 242-A/2001; Decreto-Lei n.º 234/2002
+    changes:
+    - Altera Artigo 4.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/187/2001/06/25/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:25:44Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 242-A/2001; Decreto-Lei
+    n.º 234/2002. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2001/decreto-lei-187-2001.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -171,7 +186,9 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 4 - Para o efeito da transmissão referida no n.º 1, é dispensado o acordo a que se refere o n.º 1 do artigo 148.º do Código das Sociedades Comerciais.
 
-5 - Sem prejuízo do disposto no n.º 1, o Estado, através da Direcção-Geral do Tesouro, poderá assumir, durante a liquidação e nos termos do número anterior, dívidas ou activos da sociedade, em casos devidamente fundamentados.
+5 - Sem prejuízo do disposto no n.º 1, o Estado, através da Direcção-Geral do Tesouro, transferirá para o património do Instituto Nacional de Intervenção e Garantia Agrícola (INGA) o património imobiliário remanescente das operações de liquidação levadas a cabo pela comissão liquidatária.
+
+> Alterado pelo/a [Decreto-Lei n.º 234/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2002-425929), publicado em 2002-11-02.
 
 ###### Artigo 5.º — Trabalhadores
 

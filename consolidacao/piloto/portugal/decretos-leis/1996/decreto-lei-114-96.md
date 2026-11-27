@@ -44,11 +44,11 @@ Nos termos da alínea a) do n.º 1 da Constituição, o Governo decreta o seguin
 
 ###### Artigo 3.º
 
-1 - A exploração e gestão do sistema multimunicipal do Vale do Lima e Baixo Cávado é adjudicada, em regime de concessão exclusiva, à RESULIMA - Valorização e Tratamento de Resíduos Sólidos, S. A., nos termos do [Decreto-Lei n.º 294/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1994-534587), de 16 de Novembro, por um período de 25 anos.
+1 - A exploração e gestão do sistema multimunicipal do Vale do Lima e Baixo Cávado é atribuída em regime de concessão exclusiva à RESULIMA - Valorização e Tratamento de Resíduos Sólidos, S. A., até 31 de dezembro de 2034.
 
-2 - (Revogado.)
+2 - [Revogado].
 
-3 - (Revogado.)
+3 - [Revogado].
 
 > Alterado pelo/a [Decreto-Lei n.º 101/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2014-25345603), publicado em 2014-07-02.
 
@@ -78,7 +78,7 @@ Nos termos da alínea a) do n.º 1 da Constituição, o Governo decreta o seguin
 
 (Revogado.)
 
-> Revogado pelo/a [Decreto-Lei n.º 101/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2014-25345603), publicado em 2014-07-02.
+> Alterado pelo/a [Decreto-Lei n.º 101/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2014-25345603), publicado em 2014-07-02.
 
 ###### Artigo 8.º
 
@@ -134,13 +134,19 @@ A sociedade adopta a denominação de RESULIMA - Valorização e Tratamento de R
 
 ###### Artigo 3.º
 
-1 - A sociedade tem por objecto social principal as actividades de recolha selectiva, triagem, tratamento e valorização de resíduos sólidos, nomeadamente através de:
+1 - A sociedade, tem por objeto social a exploração e gestão, em regime de serviço público, do sistema multimunicipal de tratamento e recolha seletiva de resíduos urbanos do Vale do Lima e Baixo Cávado.
 
-a) Promoção directa ou indirecta da concepção, construção e exploração de unidades integrantes dos sistemas de transporte, valorização, tratamento e destino final de resíduos sólidos;
+2 - A exploração e a gestão referidas no número anterior compreendem:
 
-b) Prestação de serviços de gestão, fiscalização e assessoria técnica e administrativa a entidades públicas ou privadas que prossigam total ou parcialmente actividade do mesmo ramo.
+a) A conceção e construção de todas as instalações necessárias ao tratamento de resíduos urbanos gerados nas áreas dos municípios utilizadores, incluindo, nomeadamente, a construção de centrais de processamento, a construção de aterros e de estações de transferência, respetivos acessos e sua extensão, reparação e renovação de acordo com as exigências técnicas e com os parâmetros de sanidade e qualidade ambiental exigíveis;
 
-2 - A sociedade poderá, desde que para o efeito esteja habilitada, exercer outras actividades para além daquelas que constituem o objecto da concessão, desde que consideradas acessórias ou complementares e devidamente autorizadas pela concedente.
+b) A aquisição, manutenção e renovação de todos os equipamentos e meios de transporte necessários ao tratamento dos resíduos urbanos que deva receber;
+
+c) O fornecimento, instalação, gestão, exploração, manutenção e renovação dos equipamentos necessários à recolha seletiva colocados em espaço público e ou privado de utilização pública.
+
+3 - A sociedade pode, desde que para o efeito esteja habilitada, exercer outras atividades para além daquelas que constituem o objeto da concessão, desde que consideradas complementares ou outras atividades nos termos do contrato de concessão e mediante autorização do concedente.
+
+> Alterado pelo/a [Decreto-Lei n.º 101/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2014-25345603), publicado em 2014-07-02.
 
 ###### Artigo 4.º
 
@@ -174,7 +180,7 @@ No exercício da sua atividade a sociedade pode participar em quaisquer outras s
 
 2 - Serão emitidos títulos que poderão representar 1, 5, 10, 100, 1000, 10000 ou 100000 acções, os quais poderão, em qualquer altura e a requerimento de qualquer accionista, que suportará o respectivo custo, ser substituídos por agrupamento ou divisão.
 
-3 - (Revogado.)
+3 - [Revogado].
 
 4 - Os títulos serão assinados por dois administradores, podendo a assinatura ser de chancela por eles autorizada.
 
@@ -184,9 +190,9 @@ No exercício da sua atividade a sociedade pode participar em quaisquer outras s
 
 ###### Artigo 9.º
 
-1 - (Revogado.)
+1 - [Revogado].
 
-2 - (Revogado.)
+2 - [Revogado].
 
 3 - A transmissão de ações fica subordinada ao consentimento da sociedade.
 
@@ -216,7 +222,7 @@ No exercício da sua atividade a sociedade pode participar em quaisquer outras s
 
 2 - No caso de amortização de acções nos termos deste artigo, o montante da contrapartida da amortização será o que resultar da deliberação dos accionistas relativa à amortização, que tomará em consideração a situação líquida da sociedade resultante do último balanço aprovado.
 
-3 - (Revogado.)
+3 - [Revogado].
 
 > Alterado pelo/a [Decreto-Lei n.º 101/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2014-25345603), publicado em 2014-07-02.
 
@@ -345,6 +351,20 @@ A sociedade obriga-se perante terceiros pela assinatura conjunta de dois adminis
 A fiscalização da sociedade compete a um fiscal único e a um suplente, ambos revisores oficiais de contas ou sociedade de revisores oficiais de contas, eleitos em assembleia geral.
 
 > Alterado pelo/a [Decreto-Lei n.º 101/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2014-25345603), publicado em 2014-07-02.
+
+###### Artigo 25.º-A
+
+1 - Compete ao conselho consultivo o acompanhamento da atividade geral da sociedade, designadamente dos níveis de serviços praticados pela mesma e da gestão das infraestruturas afetas à concessão.
+
+2 - O conselho consultivo pode aprovar, por sua iniciativa ou quando tal lhe seja solicitado pelo concedente, por maioria dos membros presentes, pareceres não vinculativos nas matérias da sua competência.
+
+3 - Fazem parte do conselho consultivo, por inerência, os presidentes das câmaras municipais servidos pela sociedade, bem como os membros do respetivo conselho de administração e o fiscal único.
+
+4 - O conselho consultivo reúne trimestralmente mediante convocatória do presidente do conselho de administração e extraordinariamente sempre que convocado para o efeito pelo presidente do conselho de administração ou por pelo menos 1/3 dos utilizadores do sistema.
+
+5 - A sociedade assegura o necessário apoio logístico e administrativo ao funcionamento do conselho consultivo.
+
+> Aditado pelo/a [Decreto-Lei n.º 101/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2014-25345603), publicado em 2014-07-02.
 
 ### CAPÍTULO IV — Disposições finais
 

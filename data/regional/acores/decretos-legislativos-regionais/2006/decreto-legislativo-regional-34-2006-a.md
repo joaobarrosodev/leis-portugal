@@ -38,10 +38,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2008-04-29'
+version_history:
+  file: decreto-legislativo-regional-34-2006-a.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2006-08-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-04-29'
+    amending: pt:dre:249569:por
+    amending_title: Decreto Legislativo Regional n.º 9/2008/A
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/2006/08/16700/63856387.pdf)
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/declegreg/34/2006/08/30/a/dre/pt/html
@@ -67,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:20:25Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Legislativo Regional n.º
+    9/2008/A. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/acores/decretos-legislativos-regionais/2006/decreto-legislativo-regional-34-2006-a.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -126,7 +142,9 @@ O presente diploma tem como objecto estabelecer medidas preventivas destinadas n
 
 ###### Artigo 2.º — Âmbito
 
-A zona referida no artigo anterior é definida pela área assinalada nas plantas anexas ao presente diploma, do qual fazem parte integrante, num total de 660,65 ha.
+A zona referida no artigo anterior é definida pela área assinalada na planta anexa ao presente diploma, do qual faz parte integrante.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 9/2008/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2008-249569), publicado em 2008-04-28.
 
 ###### Artigo 3.º — Sujeição a medidas preventivas
 
@@ -170,4 +188,4 @@ Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, José António Mesquita.
 
-## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/2006/08/16700/63856387.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/2008/04/08200/0243402435.pdf)

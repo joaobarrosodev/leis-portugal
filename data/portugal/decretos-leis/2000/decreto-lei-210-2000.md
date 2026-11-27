@@ -40,10 +40,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2013-10-25'
+version_history:
+  file: decreto-lei-210-2000.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2000-09-02'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-10-25'
+    amending: pt:dre:639283:por
+    amending_title: Decreto-Lei n.º 236/2007; Decreto-Lei n.º 150/2013
+    changes:
+    - Adita Artigo 8.º-A
+    - Altera Artigo 8.º-A
+    - Altera Artigo ANEXO I — Territórios a que alude o artigo 1.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/210/2000/09/02/p/dre/pt/html
@@ -69,7 +85,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:18:55Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 236/2007; Decreto-Lei
+    n.º 150/2013. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2000/decreto-lei-210-2000.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -292,6 +309,32 @@ O PIF deve:
 a) Estar situado na proximidade imediata do ponto de entrada de um dos territórios enumerados do anexo I e numa zona designada ou aprovada pelas autoridades aduaneiras quer seja uma estância aduaneira designada pela autoridade aduaneira ou a qualquer outro local designado ou autorizado por essas autoridades, podendo contudo aceitar-se, segundo o procedimento comunitariamente previsto, que o PIF esteja situado a uma certa distância do ponto de entrada, caso o exijam as limitações geográficas e, no caso de transporte por via férrea, na primeira estação designada pela autoridade competente;
 
 b) Estar sob a autoridade de um veterinário oficial que assuma efectivamente a responsabilidade pelos controlos, podendo o veterinário oficial ser coadjuvado por auxiliares formados especialmente para esse efeito e deverá velar pela actualização completa das bases de dados relativas às importações para a UE de animais e produtos no âmbito do projecto SHIFT mencionado no n.º 2 do artigo 6.º
+
+###### Artigo 8.º-A — Lista dos postos de inspecção fronteiriços
+
+1 - A lista dos PIF, em vigor à data da publicação do presente decreto-lei, pode ser alterada por aditamento ou por supressão daqueles.
+
+2 - O aditamento de PIF à lista a que se refere o número anterior depende do cumprimento das seguintes condições:
+
+a) Apresentação de proposta pela autoridade competente após verificação do cumprimento das condições previstas no anexo II do presente decreto-lei, do qual faz parte integrante, e na Decisão n.º [2001/812/CE](https://data.europa.eu/eli/dec/2001/812/oj?locale=pt), da Comissão, de 21 de Novembro, que estabelece as exigências para a aprovação dos PIF responsáveis pelo controlo veterinário dos produtos provenientes de países terceiros introduzidos na Comunidade;
+
+b) Inspecção da Comissão, em colaboração com a autoridade competente.
+
+3 - A supressão de PIF à lista referida no n.º 1 pode ocorrer nos seguintes casos:
+
+a) Se durante o controlo efectuado pela autoridade competente se verificar que não cumprem as condições previstas no anexo II do presente decreto-lei, que dele faz parte integrante;
+
+b) Se no decurso das inspecções efectuadas pela Comissão Europeia se verificar que não cumprem as condições previstas no anexo II do presente decreto-lei, que dele faz parte integrante, e o Estado membro não atender às conclusões dessa inspecção num prazo razoável, designadamente se as inspecções permitirem concluir haver riscos graves para a saúde pública ou para a saúde animal.
+
+4 - A autoridade competente suspende a aprovação de um posto de inspecção fronteiriço sempre que motivos graves, em especial de saúde pública ou animal, o exijam e informa a Comissão e os outros Estados membros da suspensão, bem como dos motivos que lhe deram origem.
+
+5 - A aprovação do posto de inspecção fronteiriço que tenha sido suspensa em conformidade com o disposto no número anterior só pode ser restabelecida nos termos da alínea a) do n.º 2.
+
+6 - A Comissão estabelece e publica a lista dos postos de inspecção fronteiriços aprovados, incluindo os casos de suspensão temporária de aprovação.
+
+> Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 236/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-2007-639283), publicado em 2007-06-19.
+
+> Alterado pelo/a [Decreto-Lei n.º 236/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-2007-639283), publicado em 2007-06-19.
 
 ###### Artigo 9.º — Importação
 
@@ -717,33 +760,61 @@ O Primeiro-Ministro, em exercício, Jaime José Matos da Gama.
 
 1 - O território do Reino da Bélgica.
 
-2 - O território do Reino da Dinamarca, com exclusão das ilhas Faroé e da Gronelândia.
+2 - O território da República da Bulgária.
 
-3 - O território da República Federal da Alemanha.
+3 - O território da República Checa.
 
-4 - O território do Reino de Espanha, com exclusão de Ceuta e Melilha.
+4 - O território do Reino da Dinamarca, com exclusão das Ilhas Faroé e da Gronelândia.
 
-5 - O território da República Helénica.
+5 - O território da República Federal da Alemanha.
 
-6 - O território da República Francesa.
+6 - O território da República da Estónia.
 
-7 - O território da Irlanda.
+7 - O território da República Helénica.
 
-8 - O território da República Italiana.
+8 - O território do Reino de Espanha, com exclusão de Ceuta e Melilha.
 
-9 - O território do Grão-Ducado do Luxemburgo.
+9 - O território da República Francesa.
 
-10 - O território do Reino dos Países Baixos.
+10 - O território da República da Croácia.
 
-11 - O território da República Portuguesa.
+11 - O território da Irlanda.
 
-12 - O território do Reino Unido da Grã-Bretanha e da Irlanda do Norte.
+12 - O território da República Italiana.
 
-13 - O território da República da Áustria.
+13 - O território da República de Chipre.
 
-14 - O território da República da Finlândia.
+14 - O território da República da Letónia.
 
-15 - O território do Reino da Suécia.
+15 - O território da República da Lituânia.
+
+16 - O território do Grão-Ducado do Luxemburgo.
+
+17 - O território da Hungria.
+
+18 - O território de Malta.
+
+19 - O território do Reino dos Países Baixos na Europa.
+
+20 - O território da República da Áustria.
+
+21 - O território da República da Polónia.
+
+22 - O território da República Portuguesa.
+
+23 - O território da Roménia.
+
+24 - O território da República da Eslovénia.
+
+25 - O território da República Eslovaca.
+
+26 - O território da República da Finlândia.
+
+27 - O território do Reino da Suécia.
+
+28 - O território do Reino Unido da Grã-Bretanha e Irlanda do Norte.
+
+> Alterado pelo/a [Decreto-Lei n.º 150/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-2013-502985), publicado em 2013-10-24.
 
 ## ANEXO II — Condições de aprovação dos postos de inspecção fronteiriços
 

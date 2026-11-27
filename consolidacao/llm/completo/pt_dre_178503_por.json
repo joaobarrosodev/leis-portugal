@@ -39,13 +39,19 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": null,
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, arts. 2.º, 4.º, 5.º, 6.º e 8.º, alterações aos Decretos-Leis n.os 167-C/2013 e 117/2011 e aos seus anexos: outro diploma: não são instruções sobre o original\nAlterador 1, art. 7.º, norma final sobre a convenção com a CGD e a integração no MSESS: não textual: norma autónoma\nAlterador 2, Decreto-Lei n.º 251-A/2015: sem texto: o pedido não traz nenhum artigo do alterador\nAlterador 3, Decreto-Lei n.º 169-B/2019: sem texto: o pedido não traz nenhum artigo do alterador\nAlterador 4, Decreto-Lei n.º 32/2022: sem texto: o pedido não traz nenhum artigo do alterador\nAlterador 5, transferência para a CGA das responsabilidades do Fundo de Pensões do Pessoal da CGD: não textual: não dá nova redação nem revoga artigos do original\nAlterador 6, Decreto-Lei n.º 32/2024: sem texto: o pedido não traz nenhum artigo do alterador\nAlterador 7, Decreto-Lei n.º 87-A/2025: sem texto: o pedido não traz nenhum artigo do alterador",
   "instrucoes": [
-    "DL 28/2015, art. 3.º: nova redação dos arts. 1.º (n.º 2), 5.º (n.º 2), 6.º (n.º 1, al. d)), 9.º (n.º 2, novas als. f) e g), anterior g) passa a h)), 10.º (n.º 2) e 12.º (n.os 1 e 2): aplicado",
-    "DL 28/2015, arts. 2.º, 4.º a 6.º e 8.º: alteram outros diplomas: ignorados; art. 7.º norma final autónoma",
-    "Alteradores 2, 3, 4, 6 e 7: sem texto; alterador 5 (DL 14/2023): não contém instruções dirigidas ao original"
+    "Alterador 1, art. 3.º: nova redação dos arts. 1.º (n.º 2), 5.º (n.º 2), 6.º (alínea d) do n.º 1), 9.º (alíneas f) a h) do n.º 2, a antiga g) passa a h)), 10.º (n.º 2) e 12.º; aplicada.",
+    "Alterador 1, restantes artigos: outros diplomas e normas autónomas.",
+    "Alteradores 2, 3, 4, 6 e 7: sem texto no pedido.",
+    "Alterador 5: não textual."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 124,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

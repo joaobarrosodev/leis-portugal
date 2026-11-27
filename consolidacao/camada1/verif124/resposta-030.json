@@ -1,0 +1,68 @@
+[
+ {
+  "id": "pt:dre:346075:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 11.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação do art. 1.º do DL 895/76, letra a letra.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Portaria 629/75: tabelas de equivalências das áreas beneficiadas dos aproveitamentos hidroagrícolas",
+    "motivo": "Texto novo só em imagem e o consolidado não tem anexo com título onde o pôr (a lista dos iguais só tem preâmbulo e artigos)."
+   },
+   {
+    "instrucao": "DL 895/76, art. 2.º (art. 9.º do DL 407-A/75) e art. 3.º",
+    "motivo": "Outro diploma / norma autónoma."
+   },
+   {
+    "instrucao": "Portaria 354/77: tabela de equivalência de Campo Maior e Beja",
+    "motivo": "Texto novo só em imagem e o consolidado não tem anexo com título onde o pôr."
+   },
+   {
+    "instrucao": "Lei 109/88, art. 51.º (revoga a legislação que se mostrar incompatível, mantendo as tabelas de pontuação do DL 406-A/75 salvo no que contrariar)",
+    "motivo": "Revogação condicional («que se mostrar incompatível»)."
+   },
+   {
+    "instrucao": "Lei 46/90 (altera a Lei 109/88)",
+    "motivo": "Outro diploma."
+   }
+  ]
+ },
+ {
+  "id": "pt:dre:370249:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "Epígrafe e n.º 1 na redação do art. 9.º, n.º 1, do DL 373/91; n.º 2 «...» mantém o original.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 373/91, art. 1.º, n.º 1, e art. 9.º, n.º 2 (a carreira passa a designar-se carreira técnica de inspecção; as referências entendem-se feitas à nova designação)",
+    "motivo": "Não textual: mudança de designação sem nova redação."
+   },
+   {
+    "instrucao": "DL 121/94, art. 16.º, n.º 7 (é extinta a área funcional de comunicações aeronáuticas do n.º 1 do art. 3.º)",
+    "motivo": "Não textual: extingue a área sem revogar nem dar nova redação ao art. 3.º (confirmado no texto)."
+   },
+   {
+    "instrucao": "DL 121/94, art. 22.º, n.º 1 (revoga os DL 242/79 e 363/89) e art. 21.º (DL 246/79)",
+    "motivo": "Outro diploma."
+   }
+  ]
+ }
+]

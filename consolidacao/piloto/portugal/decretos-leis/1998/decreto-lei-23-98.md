@@ -7,9 +7,6 @@ consolidacao:
     sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
-  - id: pt:dre:516030:por
-    title: Decreto-Lei n.º 114/98
-    publication_date: '1998-05-04'
   - id: pt:dre:540216:por
     title: Decreto-Lei n.º 323/2001
     publication_date: '2001-12-17'
@@ -67,9 +64,9 @@ c) Os créditos sejam inferiores a (euro) 4987,98, IVA incluído, deles sendo de
 
 13 - Nos casos em que se verificar a recuperação dos créditos, total ou parcialmente, os sujeitos passivos são obrigados a proceder à entrega do imposto, no período em que se verificar o seu recebimento, sem observância, neste caso, do prazo previsto no n.º 1 do artigo 88.º
 
-14 - (Anterior n.º 10.)'»
+14 - (Anterior n.º 10.)'
 
-> Alterado pelo/a [Decreto-Lei n.º 114/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-1998-516030) e [Decreto-Lei n.º 323/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-2001-540216), publicado em 2001-12-17.
+> Alterado pelo/a [Decreto-Lei n.º 323/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-2001-540216), publicado em 2001-12-17.
 
 Visto e aprovado em Conselho de Ministros de 30 de Outubro de 1997. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco.
 

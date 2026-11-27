@@ -7,15 +7,18 @@ consolidacao:
     sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
-  - id: pt:dre:214715:por
-    title: Decreto-Lei n.º 42/2003
-    publication_date: '2003-03-12'
+  - id: pt:dre:580330:por
+    title: Decreto-Lei n.º 74/2005
+    publication_date: '2005-03-24'
   - id: pt:dre:260417:por
     title: Decreto-Lei n.º 53/2013
     publication_date: '2013-04-17'
   - id: pt:dre:641415:por
     title: Decreto-Lei n.º 339/2007
     publication_date: '2007-10-12'
+  - id: pt:dre:502980:por
+    title: Decreto-Lei n.º 148/2013
+    publication_date: '2013-10-24'
 ---
 
 # Decreto-Lei n.º 291/2000
@@ -98,113 +101,73 @@ REGULAMENTO DA HOMOLOGAÇÃO DOS TRACTORES AGRÍCOLAS E FLORESTAIS DE RODAS
 
 ###### Artigo 1.º — Âmbito de aplicação
 
-1 - O presente Regulamento aplica-se exclusivamente aos tractores definidos no n.º 1 do artigo 2.º montados sobre pneus, tendo dois eixos e uma velocidade máxima, por construção, compreendida entre 6 km/h e 40 km/h.
+(Revogado.)
 
-2 - O disposto no presente Regulamento não se aplica à homologação individual de tractores nem a tractores anteriormente matriculados.
+> Revogado pelo/a [Decreto-Lei n.º 74/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2005-580330), publicado em 2005-03-24.
 
 ###### Artigo 2.º — Definições
 
-Para efeitos do presente Regulamento, entende-se por:
+(Revogado.)
 
-1 - Tractor agrícola ou florestal: veículo a motor, com rodas, tendo pelo menos dois eixos, cuja função principal reside na potência de tracção especialmente concebida para atrelar, empurrar, carregar ou accionar certas ferramentas, máquinas ou reboques destinados à utilização agrícola ou florestal, podendo estar equipado para transportar uma carga e passageiros.
-
-2 - Aprovação de âmbito nacional de modelo: acto pelo qual a Direcção-Geral de Viação certifica que um modelo de veículo, sistema, componente ou unidade técnica reúne as características técnicas fixadas para o efeito em conformidade com o estabelecido no Código da Estrada e legislação complementar aplicável.
-
-3) 'Homologação CE': acto pelo qual o serviço competente de um Estado membro verifica se um determinado modelo de tractor satisfaz as prescrições técnicas das directivas específicas fixadas no anexo II e as verificações previstas na ficha da homologação CE, cujo modelo figura naquele anexo;
-
-4 - Autoridade competente para homologar: autoridade nacional de um Estado membro da União Europeia, responsável por todos os aspectos de homologação de um modelo de tractor, reboque agrícola, sistemas, componentes ou unidade técnica, que procede à emissão e, se for caso disso, à revogação da ficha de homologação e assegura a ligação com as autoridades competentes para a homologação dos outros Estados membros, sendo responsável pela verificação das disposições tomadas pelo fabricante para assegurar a conformidade da produção.
-
-5 - Entidade técnica: entidade acreditada como laboratório de ensaios para efectuar os ensaios ou inspecções em nome da autoridade nacional ou de outro Estado membro da União Europeia, competente para a homologação.
-
-> Alterado pelo/a [Decreto-Lei n.º 42/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-2003-214715), publicado em 2003-03-12.
+> Revogado pelo/a [Decreto-Lei n.º 74/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2005-580330), publicado em 2005-03-24.
 
 #### SECÇÃO II — Homologação CE dos tractores
 
 ###### Artigo 3.º — Pedido de homologação
 
-1 - Todos os pedidos de homologação CE devem ser apresentados pelo fabricante ou pelo seu mandatário à autoridade competente para homologar.
+(Revogado.)
 
-2 - O pedido referido no número anterior deve ser acompanhado por uma lista exaustiva de informações ou por uma ficha de informações cujos modelos figuram no anexo I, bem como pelos documentos mencionados nessa ficha.
-
-3 - Para um mesmo modelo de tractor, o pedido de homologação CE apenas pode ser apresentado a uma única autoridade competente para homologar.
-
-> Alterado pelo/a [Decreto-Lei n.º 42/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-2003-214715), publicado em 2003-03-12.
+> Revogado pelo/a [Decreto-Lei n.º 74/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2005-580330), publicado em 2005-03-24.
 
 ###### Artigo 4.º — Homologação
 
-1 - Devem ser homologados os modelos de tractor definidos no anexo II, bem como a categoria a que pertencem, que:
+(Revogado.)
 
-a) Estejam em conformidade com os dados que figuram na ficha de informações;
-
-b) Satisfaçam os controlos previstos no modelo de ficha de homologação que consta do anexo II.
-
-2 - A Direcção-Geral de Viação, quando tiver procedido à homologação, deve tomar as medidas necessárias para controlar a conformidade da produção com o modelo homologado, se necessário em colaboração com as autoridades competentes dos outros Estados membros, devendo o controlo limitar-se a amostragens.
-
-3 - Para os modelos de tractor que homologar, a Direcção-Geral de Viação deve preencher todas as rubricas da ficha de homologação.
-
-> Alterado pelo/a [Decreto-Lei n.º 42/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-2003-214715), publicado em 2003-03-12.
+> Revogado pelo/a [Decreto-Lei n.º 74/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2005-580330), publicado em 2005-03-24.
 
 ###### Artigo 5.º — Fichas de informações e modelo do certificado de conformidade
 
-1 - A Direcção-Geral de Viação deve enviar às autoridades competentes para homologar dos outros Estados membros, no prazo de um mês, uma cópia das fichas de informações e de homologação estabelecidas para cada modelo de tractor que homologue ou recuse homologar.
+(Revogado.)
 
-2 - Para cada tractor construído em conformidade com o modelo homologado é emitido pelo fabricante, ou seu representante oficial, um certificado de conformidade cujo modelo figura no anexo III.
+> Revogado pelo/a [Decreto-Lei n.º 74/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2005-580330), publicado em 2005-03-24.
 
 ###### Artigo 6.º — Comunicação da paragem da produção e alteração da ficha de informações
 
-1 - A Direcção-Geral de Viação deve ser informada de eventual paragem da produção, bem como de todas as alterações das indicações que figurem na ficha de informações relativas à homologação que conceda.
+(Revogado.)
 
-2 - Quando as alterações referidas no número anterior não implicarem uma alteração da ficha de homologação existente ou a criação de uma nova ficha de homologação, a Direcção-Geral de Viação informará desse facto o fabricante e enviará às autoridades competentes dos outros Estados membros, em remessas agrupadas e periódicas, cópias das alterações introduzidas nas fichas de informações já difundidas.
-
-3 - Se for introduzida uma alteração na ficha de informações que justifique novas verificações ou novos ensaios e que implique uma alteração da ficha de homologação existente ou a criação de uma nova ficha de homologação, a Direcção-Geral de Viação informará desse facto o fabricante e transmitirá os novos documentos às autoridades competentes dos outros Estados membros no prazo de um mês a partir da data da alteração ou emissão da nova ficha de homologação.
-
-Quando uma ficha de homologação concedida pela Direcção-Geral de Viação for alterada ou substituída, ou quando parar a produção do modelo homologado, a Direcção-Geral de Viação comunicará às autoridades competentes dos outros Estados membros, no prazo de um mês, os números de série do último tractor produzido em conformidade com a antiga ficha e, se for caso disso, os números de série do primeiro tractor produzido em conformidade com a nova ficha ou com a ficha alterada.
+> Revogado pelo/a [Decreto-Lei n.º 74/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2005-580330), publicado em 2005-03-24.
 
 ###### Artigo 7.º — Conformidade com o modelo homologado
 
-1 - Não pode ser recusada a matrícula de qualquer tractor novo acompanhado por um certificado de conformidade válido.
+(Revogado.)
 
-2 - Sem prejuízo do disposto no número anterior, pode ser recusada a matrícula dos tractores que não estejam em conformidade com o modelo homologado.
-
-3 - Existe não conformidade com o modelo homologado sempre que se verifiquem divergências em relação à ficha de informações que não tenham sido autorizadas pela Direcção-Geral de Viação aquando da concessão da homologação.
-
-4 - Sempre que directivas específicas prevejam valores limite, não haverá divergências em relação ao modelo homologado quando esses valores limite forem respeitados.
+> Revogado pelo/a [Decreto-Lei n.º 74/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2005-580330), publicado em 2005-03-24.
 
 ###### Artigo 8.º — Verificação da não conformidade com o modelo homologado
 
-1 - Quando a Direcção-Geral de Viação tiver procedido à homologação CE e verifique que vários tractores, de um mesmo modelo, acompanhados de um certificado de conformidade, não são conformes com o modelo que homologou, tomará as medidas necessárias para que a conformidade do fabrico com aquele modelo seja assegurada.
+(Revogado.)
 
-2 - A Direcção-Geral de Viação avisará as autoridades competentes dos outros Estados membros das medidas tomadas, que podem ir, se necessário, à revogação da homologação CE.
-
-3 - A Direcção-Geral de Viação informará, no prazo de um mês, da revogação de uma homologação CE concedida, bem como dos motivos que fundamentem essa medida.
+> Revogado pelo/a [Decreto-Lei n.º 74/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2005-580330), publicado em 2005-03-24.
 
 ###### Artigo 9.º — Segurança da circulação rodoviária e no trabalho
 
-1 - Se a autoridade competente para homologar e matricular verificar que tractores pertencentes a um mesmo modelo, ainda que acompanhados de um certificado de conformidade regularmente emitido, comprometem a segurança da circulação rodoviária e a segurança no trabalho, pode, por um período máximo de seis meses, recusar a matrícula de tractores novos desse modelo.
+(Revogado.)
 
-2 - Sempre que a autoridade competente para homologar e matricular considerar que as condições de segurança no trabalho poderão estar comprometidas, deverá dar conhecimento desse facto às entidades nacionais competentes.
-
-3 - Nas situações previstas nos números anteriores, a autoridade competente para homologar e matricular deverá informar imediatamente os outros Estados membros e a Comissão da sua decisão, especificando os motivos.
+> Revogado pelo/a [Decreto-Lei n.º 74/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2005-580330), publicado em 2005-03-24.
 
 ###### Artigo 10.º — Homologação CE de unidades técnicas
 
-1 - Na medida em que as directivas específicas o prevejam expressamente, a homologação CE pode igualmente ser concedida a modelos de dispositivos ou partes de tractores que formem uma unidade técnica.
+(Revogado.)
 
-2 - Se a unidade técnica a homologar só cumprir a sua função ou só apresentar uma característica específica quando ligada a outros elementos do tractor e, por esse motivo, só for possível verificar que a mesma corresponde a uma ou várias prescrições quando estiver a funcionar em ligação com outros elementos dos tractores, simulados ou reais, o âmbito de homologação CE da unidade técnica deve ser limitado em conformidade.
-
-3 - No caso previsto no número anterior, a ficha de homologação de uma unidade técnica mencionará as restrições respeitantes à utilização e as eventuais prescrições de montagem.
-
-4 - A homologação CE de unidades técnicas bem como a recusa de homologação obedecem ao disposto nos artigos 3.º a 9.º e 11.º
-
-5 - O detentor de uma homologação de uma unidade técnica, concedida ao abrigo do presente artigo, é obrigado a emitir o certificado previsto no n.º 2 do artigo 5.º, bem como a apor, sobre cada entidade construída de acordo com o modelo homologado, a sua marca de fabrico ou comercial, indicando o modelo e, se a directiva específica o exigir, o número de homologação.
-
-6 - Aquando da homologação CE de um tractor, deve verificar-se a observância das prescrições referidas no número anterior.
+> Revogado pelo/a [Decreto-Lei n.º 74/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2005-580330), publicado em 2005-03-24.
 
 #### SECÇÃO III — Recusa ou revogação da homologação
 
 ###### Artigo 11.º — Recusa ou revogação de homologação, recusa de matrícula ou proibição de venda ou de utilização
 
-A decisão de recusa ou revogação de homologação, recusa de matrícula, proibição de venda ou de utilização, tomada em conformidade com as disposições do presente Regulamento, e respectivos fundamentos, deve ser notificada ao interessado, com a indicação das vias de recurso previstas na lei e dos prazos para interposição de recurso.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 74/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2005-580330), publicado em 2005-03-24.
 
 ### CAPÍTULO II — Dispositivos de iluminação e sinalização luminosa
 
@@ -520,605 +483,23 @@ A Direcção-Geral de Viação concede a homologação CE, bem como a homologaç
 
 No âmbito da homologação CE, qualquer tractor referido no presente capítulo deve estar equipado com um dispositivo de protecção em caso de capotagem que corresponda às prescrições dos anexos XXXII a XXXV.
 
-###### Artigo 66.º-A — Superfícies quentes e cobertura dos terminais das baterias
-
-1 - As superfícies quentes com as quais o operador possa eventualmente ter contacto durante a utilização normal do tractor devem ser cobertas ou isoladas, aplicando-se isto a superfícies quentes localizadas próximo de degraus, corrimãos, pegas e partes integrantes do tractor utilizadas como meios de embarque e que sejam susceptíveis de serem tocadas inadvertidamente.
-
-2 - Os terminais de baterias sem ligação à terra devem estar protegidos contra curto-circuitos não intencionais.
-
-> Aditado pelo/a [Decreto-Lei n.º 339/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/339-2007-641415), publicado em 2007-10-12.
-
 ## ANEXO I — (n.º 2 do artigo 3.º)
 
-Modelo de ficha de informações (ver nota a)
+(Revogado.)
 
-0 - Generalidades:
-
-0.1 - Marca (firma);
-
-0.2 - Tipo e denominação comercial (especificar eventualmente as variantes);
-
-0.3 - Nome e morada do fabricante;
-
-0.4 - Nome e morada do mandatário eventual do fabricante;
-
-0.5 - Localização e modo de fixação das chapas e inscrições regulamentares:
-
-0.5.1 - Na estrutura do tractor;
-
-0.5.2 - No motor;
-
-0.6 - Na estrutura do tractor, a numeração da série do modelo começa no número ...
-
-1 - Constituição geral do tractor (juntar fotografias a três quartos de frente e a três quartos da retaguarda, assim como esquema cotado do conjunto de tractor):
-
-1.1 - Número de eixos e de rodas:
-
-1.1.1 - Número de eixos com rodas duplas (eventualmente);
-
-1.2 - Rodas motoras (número, localização, ligação de um outro eixo);
-
-1.3 - Localização e disposição do motor.
-
-2 - Dimensões e pesos (ver nota b) (milímetros e quilogramas):
-
-2.1 - Distância entre eixos (ver nota c);
-
-2.2 - Vias de cada eixo (medidas entre os planos de simetria dos pneumáticos simples ou duplos normalmente montados) (a indicar pelo fabricante) (ver nota d);
-
-2.3 - Dimensões máximas (ou totais) do tractor sem acessórios opcionais e com dispositivo de atrelagem:
-
-2.3.1 - Comprimento (ver nota e);
-
-2.3.2 - Largura (ver nota f);
-
-2.3.3 - Altura (ver nota g);
-
-2.3.4 - Distância do eixo à extremidade da frente do tractor (ver nota h);
-
-2.3.5 - Distância do eixo à extremidade da retaguarda do tractor (ver nota i);
-
-2.3.6 - Distância ao solo (ver nota j);
-
-2.4 - Peso sem carga do tractor em ordem de marcha, sem acessórios opcionais, mas com fluido de arrefecimento, lubrificantes, combustível, ferramenta e condutor (ver nota k):
-
-2.4.1 - Repartição deste peso pelos eixos;
-
-2.5 - Massas de lastragem (descrição):
-
-2.5.1 - Repartição destas massas pelos eixos;
-
-2.6 - Pesos tecnicamente admissíveis declarados pelo fabricante:
-
-2.6.1 - Peso máximo do tractor em carga, consoante os tipos de pneumáticos previstos:
-
-2.6.1.1 - Repartição deste peso pelos eixos;
-
-2.6.2 - Limites de repartição deste peso pelos eixos (especificar os limites mínimos em percentagem sobre o eixo da frente ... e sobre o eixo da retaguarda ...);
-
-2.6.3 - Peso máximo sobre cada um dos eixos, consoante os modelos de pneumáticos previstos;
-
-2.6.4 - Peso rebocável;
-
-2.6.5 - Carga vertical máxima no ponto de atrelagem (gancho ou sistema especial na atrelagem de três pontos):
-
-2.6.5.1 - Posição do ponto de aplicação:
-
-2.6.5.1.1 - Altura acima do solo;
-
-2.6.5.1.2 - Distância ao plano vertical que passa pelo centro do eixo da retaguarda.
-
-3 - Motor:
-
-3.1 - Fabricante;
-
-3.2 - Denominação;
-
-3.3 - Tipo (de ignição comandada, ignição por compressão, etc.), ciclo;
-
-3.4 - Número e disposição dos cilindros;
-
-3.5 - Diâmetro do cilindro, curso, cilindrada;
-
-3.6 - Potência máxima (indicar a norma utilizada, por exemplo ISO, BSI, CUNA, DIN, DGM, SAE) a ... rotações por minuto com regulação de série;
-
-3.7 - Binário máximo a ... rotações por minuto (mesma norma que o n.º 3.6);
-
-3.8 - Combustível normalmente utilizado;
-
-3.9 - Reservatório de combustível (capacidade e localização);
-
-3.10 - Reservatório auxiliar de combustível (capacidade e localização);
-
-3.11 - Alimentação do motor (tipo);
-
-3.12 - Compressor eventual (tipo, comando, sobrepressão de alimentação do motor);
-
-3.13 - Regulador de velocidade eventual (princípio de funcionamento);
-
-3.14 - Distribuição eléctrica (voltagem, borne negativo à massa ou positivo à massa);
-
-3.15 - Gerador (tipo e potência nominal);
-
-3.16 - Ignição (tipo dos aparelhos, tipo de regulação do avanço);
-
-3.17 - Antiparasitagem (descrição);
-
-3.18 - Arrefecimento (ar, água);
-
-3.19 - Nível sonoro exterior;
-
-3.20 - Dispositivo de escape (silencioso) (esquema descritivo);
-
-3.21 - Medidas adoptadas contra a poluição do ar;
-
-3.22 - Dispositivo de paragem do motor.
-
-4 - Transmissão do movimento (esquema de transmissão com desenho) (ver nota m):
-
-4.1 - Tipo de transmissão (mecânica, hidráulica, eléctrica, etc.);
-
-4.2 - Embraiagem (tipo);
-
-4.3 - Caixa de velocidades (tipo, engate directo, modo de comando);
-
-4.4 - Transmissão do motor à caixa, diferencial (ou diferenciais), caixa de transferência acessória, roda livre acessória;
-
-4.5 - Desmultiplicação da transmissão, com e sem caixa de transferência:
-
-[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)
-
-4.6 - Velocidade máxima do tractor na combinação de caixa mais elevada calculada em quilómetro/hora (fornecer os elementos do cálculo) (ver nota n);
-
-4.7 - Avanço real das rodas motoras por rotação completa;
-
-4.8 - Indicador de velocidade, conta-rotações e eventual conta-horas;
-
-4.9 - Blocagem eventual do diferencial;
-
-4.10 - Tomadas de força (número de rotações por minuto e relação entre esse número de rotações e o do motor) (número e localização):
-
-4.10.1 - Principais;
-
-4.10.2 - Outras;
-
-4.11 - Protecção das tomadas de força;
-
-4.12 - Protecção dos componentes do motor, das peças salientes e das rodas:
-
-4.12.1 - Protecção de uma face;
-
-4.12.2 - Protecção de várias faces;
-
-4.12.3 - Protecções envolventes.
-
-5 - Órgãos de suspensão:
-
-5.1 - Pneumáticos normalmente montados (dimensões, características, pressão de enchimento em estrada e carga máxima admissível);
-
-5.2 - Tipo de suspensão eventual de cada eixo ou roda;
-
-5.3 - Outros dispositivos eventuais.
-
-6 - Dispositivo de direcção (esquema descritivo):
-
-6.1 - Tipo do mecanismo e da transmissão às rodas, modo de assistência eventual (modo e esquema de funcionamento, eventualmente marca e tipo) e esforço sobre o volante;
-
-6.2 - Ângulo de viragem máximo das rodas:
-
-6.2.1 - À direita ... (graus). Número de voltas do volante;
-
-6.2.2 - À esquerda ...(graus). Número de voltas do volante;
-
-6.3 - Diâmetro de viragem mínimo (sem travões) (ver nota o):
-
-6.3.1 - À direita;
-
-6.3.2 - À esquerda.
-
-7 - Travagem (esquema descritivo do conjunto e esquema de funcionamento) (ver nota p):
-
-7.1 - Dispositivo de travagem de serviço;
-
-7.2 - Dispositivo de travagem de emergência (eventual);
-
-7.3 - Dispositivo de travagem de estacionamento;
-
-7.4 - Dispositivos suplementares acessórios (nomeadamente retardador);
-
-7.5 - Cálculo do sistema de travagem: determinação da relação entre a soma das forças de travagem na periferia das rodas e a força exercida sobre o comando;
-
-7.6 - Ligação dos comandos de travagem direito e esquerdo;
-
-7.7 - Fontes eventuais de energia exterior (características, capacidades dos reservatórios de energia, pressões máxima e mínima, manómetro e avisador de nível mínimo de energia no painel de instrumentos, reservatórios de vácuo e válvula de alimentação, compressores de alimentação, cumprimento da regulamentação dos aparelhos de pressão);
-
-7.8 - Tractores aos quais está previsto atrelar um reboque:
-
-7.8.1 - Dispositivo de travagem do reboque;
-
-7.8.2 - Ligações, uniões, dispositivo de protecção.
-
-8 - Campo de visão, espelhos retrovisores, estruturas de protecção contra a capotagem, dispositivos de protecção contra as intempéries, bancos, plataforma de carga e nível sonoro à altura do ouvido do condutor:
-
-8.1 - Campo de visão;
-
-8.2 - Espelhos retrovisores;
-
-8.3 - Estruturas de protecção contra a capotagem:
-
-8.3.1 - Descrição (tipo, amovíveis ou não, etc.);
-
-8.3.2 - Dimensões interiores e exteriores;
-
-8.3.3 - Materiais e modo de construção empregues;
-
-8.4 - Cabina, prescrições gerais:
-
-8.4.1 - Portas (número, dimensões, sentido de abertura, fechos e dobradiças);
-
-8.4.2 - Pára-brisas e outros vidros eventuais (número e localização, materiais utilizados);
-
-8.4.3 - Limpa-pára-brisas;
-
-8.4.4 - Espaço de manobra do condutor;
-
-8.4.5 - Janelas;
-
-8.5 - Outros dispositivos de protecção contra as intempéries;
-
-8.6 - Bancos e apoios dos pés:
-
-8.6.1 - Banco do condutor (localização e características);
-
-8.6.2 - Banco para o passageiro (número, dimensões, localização e características);
-
-8.6.3 - Apoios dos pés;
-
-8.7 - Plataforma de carga:
-
-8.7.1 - Dimensões;
-
-8.7.2 - Localização;
-
-8.7.3 - Carga tecnicamente admissível;
-
-8.7.4 - Repartição das cargas pelos eixos do tractor;
-
-8.8 - Nível sonoro à altura dos ouvidos do condutor;
-
-8.9 - Facilidades de acesso ao posto de condução.
-
-9 - Dispositivos de iluminação e de sinalização luminosa (esquemas exteriores do tractor, com localização cotada das superfícies iluminantes de todos os dispositivos; cor das luzes):
-
-9.1 - Dispositivos obrigatórios:
-
-9.1.1 - Luzes de cruzamento;
-
-9.1.2 - Luzes de presença da frente;
-
-9.1.3 - Luzes de presença da retaguarda;
-
-9.1.4 - Indicadores de mudança de direcção;
-
-9.1.5 - Reflectores vermelhos da retaguarda;
-
-9.1.6 - Luzes da chapa de matrícula da retaguarda;
-
-9.2 - Dispositivos facultativos:
-
-9.2.1 - Luzes de estrada;
-
-9.2.2 - Luzes de nevoeiro;
-
-9.2.3 - Luzes de travagem;
-
-9.2.4 - Luzes de estacionamento.
-
-10 - Diversos:
-
-10.1 - Avisadores sonoros;
-
-10.2 - Dispositivo de atrelagem previsto para uma carga horizontal máxima de ... kg; eventualmente para uma carga vertical máxima de ... kg (ver nota q);
-
-10.3 - Sistema de levantamento hidráulico, atrelagem de três pontos;
-
-10.4 - Tomada de corrente para a alimentação dos dispositivos de iluminação e de sinalização luminosa do reboque (eventualmente);
-
-10.5 - Localização e identificação dos comandos;
-
-10.6 - Localização das chapas de matrícula;
-
-10.7 - Dispositivo frontal de reboque;
-
-10.8 - Sinal de perigo.
-
-Notas
-
-Indicar para cada rubrica a que devem ser anexadas fotografias ou esquemas os números dos anexos correspondentes.
-
-(nota a) Para qualquer dispositivo homologado, a descrição pode ser substituída por uma referência a essa homologação. A descrição também não é necessária para qualquer elemento resultante claramente dos esquemas ou esboços anexos à ficha.
-
-(nota b) Recomendação ISO R-612-1967 e R-1176-1970.
-
-(nota c) Recomendação ISO R-789-1968 (termo A.3).
-
-(nota d) Recomendação ISO R-789-1968 (termo A.2).
-
-(nota e) Recomendação ISO R-789-1968 (termo A.5).
-
-(nota f) Recomendação ISO R-789-1968 (termo A.6).
-
-(nota g) Recomendação ISO R-789-1968 (termo A.7).
-
-(nota h) Recomendação ISO R-612-1967 (termo 21).
-
-(nota i) Recomendação ISO R-612-1967 (termo 22).
-
-(nota j) Recomendação ISO R-612-1967 (termo 8).
-
-(nota k) O peso do condutor é fixado em 75 kg.
-
-(nota l) Recomendação ISO R-1176-1970 (termo 4.14).
-
-(nota m) Fornecer as informações pedidas para todas as variantes eventualmente previstas.
-
-(nota n) É admitida uma tolerância de 5%.
-
-(nota o) Recomendação ISO R-789-1968 (termo A.14).
-
-(nota p) Para cada um dos dispositivos de travagem, devem ser indicados:
-
-Tipo e natureza dos travões (esquema cotado) (de tambor, de disco, etc., rodas travadas, ligação com as rodas travadas, superfícies de atrito, sua natureza e área activa, raio dos tambores, maxilas ou discos, peso dos tambores, dispositivos de regulação);
-
-Transmissão e comando (anexar esquema) (constituição, regulação, relação das alavancas, acessibilidade do comando, sua localização, comandos de roquete, no caso de transmissão mecânica, características das peças essenciais da transmissão, cilindros e êmbolos de comando, cilindros receptores).
-
-(nota q) Valores em relação à resistência mecânica do dispositivo de atrelagem.
+> Revogado pelo/a [Decreto-Lei n.º 74/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2005-580330), publicado em 2005-03-24.
 
 ## ANEXO II — [alínea b) do n.º 1 do artigo 4.º]
 
-Ficha de homologação CE
+(Revogado.)
 
-A - Generalidades
-
-A remissão de uma ficha de homologação no âmbito do procedimento de homologação CE comporta as seguintes operações:
-
-1) Preencher as rubricas relevantes da ficha de homologação, cujo modelo figura em B do presente anexo, com base nos dados correspondentes que figuram na ficha de informações e após verificação da respectiva exactidão;
-
-2) Inscrever a ou as abreviaturas impressas à frente de cada rubrica do modelo de ficha de homologação, após ter efectuado as operações seguintes, correspondentes a essas abreviaturas:
-
-«CONF»: verificação da conformidade do elemento ou da característica em rubrica com as indicações que figuram na ficha de informações;
-
-«DE»: verificação da conformidade do elemento ou da característica em rubrica com as prescrições harmonizadas adoptadas pela directiva especial;
-
-«R»: emissão do relatório do ensaio, que deve ser anexado à ficha de homologação;
-
-«ESQ»: verificação da existência de um esquema.
-
-B - Modelo de ficha de homologação relativa a um tractor
-
-0 - Generalidades:
-
-0.1 - Marca (firma);
-
-0.2 - Tipo e denominação comercial (especificar eventualmente as variantes);
-
-0.3 - Nome e morada do fabricante;
-
-0.4 - Nome e morada do mandatário eventual do fabricante;
-
-0.5 - Localização e modo de fixação das chapas e inscrições regulamentares na estrutura do tractor DE;
-
-0.6 - Na estrutura do tractor, a numeração da série do modelo começa no número ...
-
-1 - Dimensões e pesos (em milímetros e quilogramas):
-
-1.1 - Distância entre eixos - CONF;
-
-1.2 - Comprimento - DE;
-
-1.3 - Largura - DE;
-
-1.4 - Altura - DE;
-
-1.5 - Massas de lastragem - DE;
-
-1.6 - Peso máximo em carga do tractor tecnicamente admissível - CONF:
-
-1.6.1 - Repartição deste peso pelos eixos - CONF;
-
-1.7 - Peso máximo em carga autorizado - DE:
-
-1.7.1 - Repartição deste peso pelos eixos DE;
-
-1.8 - Peso máximo tecnicamente admissível sobre cada eixo - CONF;
-
-1.9 - Peso máximo autorizado sobre cada eixo - DE;
-
-1.10 - Limites tecnicamente admissíveis da repartição do peso pelos eixos - CONF;
-
-1.11 - Limites autorizados da repartição do peso pelos eixos - DE;
-
-1.12 - Peso rebocável - DE;
-
-1.13 - Carga vertical máxima no ponto de atrelagem DE.
-
-2 - Motor:
-
-2.1 - Fabricante;
-
-2.2 - Potência máxima a ... rotações por minuto (indicar a norma utilizada) - CONF;
-
-2.3 - Reservatórios de combustível - DE:
-
-2.3.1 - Eventuais reservatórios auxiliares - DE;
-
-2.4 - Antiparasitagem - DE-R;
-
-2.5 - Regulador de velocidade eventual - DE;
-
-2.6 - Nível sonoro exterior (admissível) - DE-R;
-
-2.7 - Dispositivo de escape (silencioso) - DE-R-ESQ;
-
-2.8 - Poluição do ar:
-
-2.8.1 - Opacidade do fumo de motores diesel - DE-R;
-
-2.9 - Dispositivo de paragem do motor - DE.
-
-3 - Transmissão do movimento:
-
-3.1 - Velocidade máxima teórica calculada na relação mais alta (em quilómetros por hora) - CONF;
-
-3.2 - Velocidade máxima medida na relação mais alta (em quilómetros por hora) - DE;
-
-3.3 - Marcha atrás - DE;
-
-3.4 - Tomada(s) de força - DE;
-
-3.5 - Protecção dos componentes do motor, das peças salientes e das rodas - DE.
-
-4 - Órgãos de suspensão:
-
-4.1 - Pneumáticos normalmente montados - CONF.
-
-5 - Direcção:
-
-5.1 - Tipo de mecanismo e da transmissão às rodas - DE;
-
-5.2 - Modo de assistência e esforço sobre o volante - DE.
-
-6 - Travagem:
-
-6.1 - Dispositivo de travagem de serviço - DE;
-
-6.2 - Dispositivo de travagem de estacionamento - DE;
-
-6.3 - Dispositivos suplementares eventuais - CONF;
-
-6.4 - Dispositivo de accionamento da travagem do reboque (eventualmente) - DE;
-
-6.5 - Condições dos ensaios - R;
-
-6.6 - Resultados dos ensaios - R.
-
-7 - Campo de visão, espelhos retrovisores, estruturas de protecção contra a capotagem, dispositivos de protecção contra as intempéries, plataforma de carga e nível sonoro à altura do ouvido do condutor:
-
-7.1 - Campo de visão - DE;
-
-7.2 - Espelhos retrovisores - DE;
-
-7.3 - Estruturas de protecção contra a capotagem:
-
-7.3.1 - Arco de segurança - DE;
-
-7.3.2 - Quadro de segurança - DE;
-
-7.3.3 - Cabina de segurança - DE;
-
-7.3.4 - Outros dispositivos de segurança eventuais - CONF;
-
-7.4 - Cabina, prescrições gerais:
-
-7.4.1 - Portas - DE;
-
-7.4.2 - Pára-brisas e outros vidros - DE;
-
-7.4.3 - Limpa-pára-brisas - DE;
-
-7.4.4 - Espaço de manobra do condutor - DE;
-
-7.4.5 - Janelas - DE;
-
-7.5 - Outros dispositivos de protecção contra as intempéries - CONF;
-
-7.6 - Bancos e apoios dos pés:
-
-7.6.1 - Banco do condutor - DE;
-
-7.6.2 - Banco do passageiro - DE;
-
-7.6.3 - Apoios dos pés - CONF;
-
-7.7 - Plataforma de carga - DE;
-
-7.8 - Nível sonoro à altura do ouvido do condutor - DE;
-
-7.9 - Facilidades de acesso ao posto de condução - DE.
-
-8 - Dispositivos de iluminação e de sinalização luminosa:
-
-8.1 - Dispositivos obrigatórios:
-
-8.1.1 - Luzes de cruzamento - DE;
-
-8.1.2 - Luzes de presença da frente - DE;
-
-8.1.3 - Luzes de presença da retaguarda - DE;
-
-8.1.4 - Indicadores de mudança de direcção - DE;
-
-8.1.5 - Reflectores vermelhos da retaguarda - DE;
-
-8.1.6 - Luzes da chapa de matrícula da retaguarda - DE;
-
-8.2 - Dispositivos facultativos:
-
-8.2.1 - Luzes de estrada - DE;
-
-8.2.2 - Luzes de nevoeiro - DE;
-
-8.2.3 - Luzes de travagem - DE;
-
-8.2.4 - Faróis de trabalho - DE;
-
-8.2.5 - Luzes de estacionamento - DE.
-
-9 - Diversos:
-
-9.1 - Avisadores sonoros - DE;
-
-9.2 - Ligação entre tractor e reboque - DE;
-
-9.3 - Tomada de corrente para a alimentação dos dispositivos de iluminação e de sinalização luminosa do reboque - DE;
-
-9.4 - Localização e identificação dos comandos - DE;
-
-9.5 - Localização das chapas de matrícula - DE;
-
-9.6 - Sinal de perigo - DE.
-
-Eu, abaixo assinado, certifico que a descrição contida na ficha de informações n.º ..., fornecida pelo fabricante, corresponde ao tractor n.º ..., motor n.º ... (ver nota 1), apresentado pelo fabricante como protótipo do modelo ...
-
-Resulta das verificações efectuadas a pedido do fabricante que o tractor acima descrito e apresentado como protótipo de uma série satisfaz todas as rubricas da presente ficha.
-
-Feito em ..., em ...
-
-... (assinatura).
-
-(nota 1) Se for indicado pelo fabricante.
+> Revogado pelo/a [Decreto-Lei n.º 74/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2005-580330), publicado em 2005-03-24.
 
 ## ANEXO III — (n.º 2 do artigo 5.º)
 
-Modelo
+(Revogado.)
 
-Certificado de conformidade
-
-Eu, abaixo assinado, ... (nome do fabricante ou do seu mandatário), certifico que o tractor:
-
-1 - Marca: ...
-
-2 - Modelo: ...
-
-3 - Número na série do modelo: ...
-
-está inteiramente em conformidade com o modelo homologado em ..., em ..., por ..., descrito na ficha de homologação n.º ... e na ficha de informações n.º ...
-
-Feito em ..., em ...
-
-...(assinatura).
-
-... (função).
+> Revogado pelo/a [Decreto-Lei n.º 74/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2005-580330), publicado em 2005-03-24.
 
 ## ANEXO IV — (n.º 2 do artigo 13.º)
 
@@ -1600,7 +981,7 @@ v = 45º para o exterior e 30º para o interior se houver duas;
 
 4.5 - Luz indicadora de mudança de direcção:
 
-4.5.1 - Presença (v. apêndice 3 do presente anexo) - obrigatória. Os tipos de luzes indicadoras de mudança de direcção estão divididos em categorias (1, 2 e 5) cuja montagem num mesmo tractor forme um esquema de montagem (A a D). O esquema A só é admitido para tractores cujo comprimento total não ultrapasse 4,6 m, sem que a distância entre as arestas exteriores das superfícies iluminantes ultrapasse 1,6 m. Os esquemas B, C e D aplicam-se a todos os tractores;
+4.5.1 - Presença (v. apêndice 3 do presente anexo) - obrigatória. Os tipos de luzes indicadoras de mudança de direcção estão divididos em categorias (1, 2 e 5) cuja montagem num mesmo tractor forme um esquema de montagem (A a D). O esquema A só é admitido para tractores cujo comprimento total não ultrapasse 4,6 m, sem que a distância entre as arestas exteriores das superfícies iluminantes ultrapasse 1,6 m. Os esquemas B, C e D aplicam-se a todos os tractores. As luzes indicadoras de mudança de direcção adicionais são facultativas.
 
 4.5.2 - Número - o número dos dispositivos deve ser tal que possam dar as indicações correspondentes a um dos esquemas de montagem referidos no n.º 4.5.3;
 
@@ -1636,13 +1017,13 @@ Duas luzes indicadoras de mudança de direcção à retaguarda (categoria 2);
 
 4.5.4.2 - Em altura - acima do solo:
 
-500 mm no mínimo para as luzes indicadoras de mudança de direcção da categoria 5;
+500 mm, no mínimo, para as luzes indicadoras de mudança de direcção da categoria 5;
 
-400 mm no mínimo para as luzes indicadoras de mudança de direcção das categorias 1 e 2;
+400 mm, no mínimo, para as luzes indicadoras de mudança de direcção das categorias 1 e 2;
 
-1900 mm no máximo para todas as categorias.
+1900 mm, no máximo, para todas as categorias - se a estrutura do tractor não permitir respeitar este limite máximo, o ponto mais alto da superfície iluminante pode situar-se a 2300 mm para as luzes indicadoras de mudança de direcção da categoria 5, para as das categorias 1 e 2 do esquema A, para as das categorias 1 e 2 do esquema B e para as das categorias 1 e 2 do esquema D; pode situar-se a 2100 mm para as das categorias 1 e 2 dos outros esquemas;
 
-Se a estrutura do tractor não permitir respeitar este limite máximo, o ponto mais alto da superfície iluminante pode encontrar-se a 2300 mm para as luzes indicadoras de mudança de direcção da categoria 5, para as das categorias 1 e 2 do esquema A e as da categoria 1 do esquema B, e a 2100 mm para as das categorias 1 e 2 dos outros esquemas;
+Até 4000 mm para luzes indicadoras de mudança de direcção facultativas.
 
 4.5.4.3 - Ao comprimento - a distância entre o centro de referência da superfície iluminante da luz indicadora de mudança de direcção lateral repetitiva (esquemas B e C) e o plano transversal que limita à frente o comprimento total do tractor não deve ser superior a 1800 mm. Se a estrutura do tractor não permitir respeitar os ângulos mínimos de visibilidade, essa distância pode ser levada até 2600 mm;
 
@@ -1710,7 +1091,7 @@ O accionamento do comando do sinal luminoso deve ser seguido por uma ligação d
 
 4.7.4.1 - À largura - 500 mm no mínimo entre as duas luzes. Esta distância pode ser reduzida a 400 mm quando a largura total do tractor for inferior a 1400 mm;
 
-4.7.4.2 - Em altura - acima do solo: 400 mm no mínimo, 1900 mm, no máximo ou 2100 mm se a forma da carroçaria não permitir respeitar 1900 mm;
+4.7.4.2 - Em altura - acima do solo: 400 mm no mínimo, 1900 mm no máximo, ou 2300 mm se a forma da carroçaria não permitir respeitar 1900 mm.
 
 4.7.4.3 - Ao comprimento - na retaguarda do tractor;
 
@@ -1808,7 +1189,7 @@ O ângulo vertical abaixo da horizontal pode ser limitado a 10.º se a luz for c
 
 4.10.4.1 - À largura - o ponto da superfície iluminante mais afastado do plano longitudinal médio do tractor não deve encontrar-se a mais de 400 mm da aresta exterior extrema do tractor. O afastamento mínimo entre as arestas interiores das duas superfícies iluminantes deve ser de 500 mm. Esta distância pode ser reduzida a 400 mm quando a largura total do tractor for inferior a 1400 mm;
 
-4.10.4.2 - Em altura - acima do solo: 400 mm, no mínimo, 1900 mm, no máximo, ou 2100 mm, se a forma da carroçaria não permitir respeitar os 1900 mm;
+4.10.4.2 - Em altura - acima do solo: 400 mm no mínimo, 1900 mm no máximo, ou 2300 mm se a forma da carroçaria não permitir respeitar 1900 mm.
 
 4.10.4.3 - Ao comprimento - na retaguarda do tractor;
 
@@ -1980,7 +1361,7 @@ Proibida em qualquer outro tractor;
 
 4.14.5.2.1 - Dois reflectores devem estar a uma altura máxima de 900 mm acima do solo, respeitar um afastamento entre as arestas interiores de pelo menos 400 mm e ter um ângulo vertical de visibilidade acima da horizontal de 15º;
 
-4.14.5.2.2 - Os outros dois devem estar a uma altura máxima de 2100 mm acima do solo e respeitar as prescrições dos n.os 4.14.4.1 e 4.14.5.1 deste anexo;
+4.14.5.2.2 - Os outros dois devem estar a uma altura máxima de 2300 mm acima do solo e respeitar as prescrições dos n.os 4.14.4.1 e 4.14.5.1 do presente anexo.
 
 4.14.6 - Orientação - para a retaguarda;
 
@@ -2008,7 +1389,7 @@ Proibida em qualquer outro tractor;
 
 4.15.6 - Orientação - nenhuma especificação especial;
 
-4.15.7 - Não pode ser «agrupado» com nenhuma outra luz;
+4.15.7 - Pode ser agrupado.
 
 4.15.8 - Não pode ser «combinado» com nenhuma outra luz;
 
@@ -2025,6 +1406,8 @@ Parte V
 5.1 - Qualquer tractor da série deve estar em conformidade com o modelo de tractor homologado no que diz respeito à instalação dos dispositivos de iluminação e de sinalização luminosa e suas características referidas no presente Regulamento.
 
 [[[(ver figuras no documento original)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)
+
+> Alterado pelo/a [Decreto-Lei n.º 339/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/339-2007-641415), publicado em 2007-10-12.
 
 ## ANEXO VI — (n.º 5 do artigo 14.º)
 
@@ -2426,27 +1809,53 @@ Parte III
 
 4 para os Países Baixos;
 
-5 para a Suécia;
-
 6 para a Bélgica;
 
 9 para a Espanha;
 
 11 para o Reino Unido;
 
-12 para a Áustria;
-
 13 para o Luxemburgo;
-
-17 para a Finlândia;
 
 18 para a Dinamarca;
 
-21 para Portugal;
+EL para a Grécia;
 
-23 para a Grécia;
+IRL para a Irlanda;
 
-24 para a Irlanda;
+P para Portugal;
+
+12 para a Áustria;
+
+17 para a Finlândia;
+
+5 para a Suécia;
+
+8 para a República Checa;
+
+29 para a Estónia;
+
+CY para Chipre;
+
+32 para a Letónia;
+
+36 para a Lituânia;
+
+7 para a Hungria;
+
+MT para Malta;
+
+20 para a Polónia;
+
+26 para a Eslovénia;
+
+27 para a Eslováquia;
+
+34 para a Bulgária
+
+19 para a Roménia;
+
+25 para a Croácia.
 
 3.5.2.2 - Um número de homologação CE correspondente ao número da ficha de homologação CE emitida para o tipo de banco, aposto abaixo e próximo do rectângulo; e
 
@@ -2543,6 +1952,8 @@ APÊNDICE 8
 Exemplo de marca de homologação CE (v. n.º 3.5)
 
 [[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64396511.pdf)
+
+> Alterado pelo/a [Decreto-Lei n.º 148/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-2013-502980), publicado em 2013-10-24.
 
 ## ANEXO IX — (n.º 4 do artigo 19.º)
 
@@ -2692,9 +2103,17 @@ Massa máxima em carga autorizada
 
 1.1 - Que os controlos por parte da administração, nomeadamente os referentes à travagem e à direcção, sejam satisfatórios;
 
-1.2 - Que a massa máxima em carga de 14 t e a massa máxima de 10 t em cada eixo não sejam ultrapassadas.
+1.2 - Que a massa máxima em carga admissível e a massa máxima admissível em cada eixo, consoante a categoria do veículo, não sejam superiores aos valores indicados no quadro n.º 1.
+
+QUADRO N.º 1
+
+Massa máxima em carga admissível e massa máxima admissível em cada eixo por categoria do veículo
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/19700/0732807333.pdf)
 
 2 - Qualquer que seja o estado de carga do tractor, a carga transmitida à estrada pelas rodas do eixo dianteiro do tractor não deverá ser inferior a 20% da massa em vazio do tractor.
+
+> Alterado pelo/a [Decreto-Lei n.º 339/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/339-2007-641415), publicado em 2007-10-12.
 
 ## ANEXO XV — (artigo 28.º)
 
@@ -2878,11 +2297,13 @@ Velocidade máxima por construção
 
 2.1 - O centro de gravidade da plataforma deve estar situado entre os eixos.
 
-2.2 - As dimensões da plataforma devem ser tais que:
+2.2. - As dimensões da plataforma devem ser tais que:
 
-O comprimento não ultrapasse 1,4 vezes a maior via do tractor, à frente ou à retaguarda do tractor;
+- O cumprimento não ultrapasse 1,4 vezes a maior via do trator, à frente ou à retaguarda do trator;
 
-A largura não ultrapasse a largura máxima total do tractor sem equipamento.
+- A largura não ultrapasse a largura máxima total do trator sem equipamento;
+
+- No caso de tratores da categoria T4.3, o cumprimento da plataforma não deve ultrapassar 2,5 vezes a maior via do trator, à frente ou à retaguarda do trator, consoante a que for maior.
 
 2.3 - A plataforma deve estar disposta simetricamente em relação ao plano médio longitudinal do tractor.
 
@@ -2891,6 +2312,8 @@ A largura não ultrapasse a largura máxima total do tractor sem equipamento.
 2.5 - A montagem e o tipo da plataforma devem ser tais que, com uma carga normal, o campo de visibilidade do condutor continue a ser suficiente e que os diferentes dispositivos regulamentares de iluminação e de sinalização luminosa possam continuar a cumprir as suas funções.
 
 2.6 - A plataforma de carga deve ser amovível; a sua fixação ao tractor deve ser tal que não possa haver perigo de separação acidental.
+
+> Alterado pelo/a [Decreto-Lei n.º 53/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2013-260417), publicado em 2013-04-17.
 
 ## ANEXO XXI — (artigo 32.º)
 

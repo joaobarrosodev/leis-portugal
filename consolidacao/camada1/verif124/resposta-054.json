@@ -1,0 +1,55 @@
+[
+ {
+  "id": "pt:dre:392016:por",
+  "artigos": [
+   {
+    "artigo": "Trecho 1",
+    "veredicto": "certo",
+    "motivo": "Art. 1.º, n.º 3, com a redação do DL 273/93, e art. 2.º, n.º 1, com a redação do DL 58/92.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 2",
+    "veredicto": "certo",
+    "motivo": "Art. 2.º, n.º 3, com a redação do DL 58/92 e n.º 4 aditado pelo DL 142/94.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 3",
+    "veredicto": "certo",
+    "motivo": "Art. 6.º-A aditado pelo art. 47.º da Lei 127-B/97, letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 4",
+    "veredicto": "certo",
+    "motivo": "Art. 8.º aditado pelo art. 2.º do DL 273/93.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 5",
+    "veredicto": "certo",
+    "motivo": "Art. 4.º dos Estatutos com a redação do art. 2.º do DL 58/92.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Lei 127-B/97, arts. 39.º a 46.º e 48.º e seguintes",
+    "motivo": "Outro diploma: alteram outros códigos e diplomas; só o art. 47.º se dirige ao DL 453/91."
+   },
+   {
+    "instrucao": "DL 474-A/99 (Lei Orgânica do XIV Governo: a ANAM na lista de organismos do Ministro do Equipamento Social)",
+    "motivo": "Outro diploma / não textual: o DL 453/91 não recebe nenhuma instrução."
+   },
+   {
+    "instrucao": "DL 273/93, art. 3.º (reunião da assembleia geral para alterações estatutárias)",
+    "motivo": "Não textual: norma autónoma."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

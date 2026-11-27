@@ -10,18 +10,22 @@
     {
       "chave": "3.º",
       "epigrafe": "",
-      "texto": "O IPPC, a DGOT e a Câmara Municipal de Lisboa são competentes para promover a fiscalização do cumprimento das medidas estabelecidas neste diploma e para proceder em conformidade com o disposto no artigo 12.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro.",
+      "texto": "O IPPC, a DGOT e a Câmara Municipal de Lisboa são competentes para promover a fiscalização do cumprimento das medidas estabelecidas neste diploma e para proceder em conformidade com o disposto no artigo 12.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro.\n\nAníbal António Cavaco Silva - Luís Francisco Valente de Oliveira - João de Deus Rogado Salvador Pinheiro.\n\nPromulgado em 4 de Julho de 1987.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 15 de Julho de 1987.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/17200/29572957.pdf)",
       "alterador": 1
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "Alteradores 2 e 3 (Decretos Regulamentares n.os 21/89 e 27/90): prorrogam por um ano o prazo do art. 1.º sem dar nova redação; alteração não textual, não aplicada.",
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 2, prorrogação por um ano do prazo do artigo 1.º: não textual — prorrogação\nAlterador 3, prorrogação por um ano do prazo do artigo 1.º: não textual — prorrogação",
   "instrucoes": [
-    "Alterador 1, artigo único: nova redação dos arts. 2.º e 3.º",
-    "Alterador 2: prorrogação do prazo do art. 1.º - não textual",
-    "Alterador 3: prorrogação do prazo do art. 1.º - não textual"
+    "Alt. 1: nova redação dos arts. 2.º e 3.º — substituídos; no 3.º mantidas as linhas finais do texto atual (assinaturas e planta)",
+    "Alt. 2 e 3: prorrogação do prazo — não textual"
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 124,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

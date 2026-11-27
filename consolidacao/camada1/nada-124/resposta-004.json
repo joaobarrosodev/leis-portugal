@@ -1,0 +1,112 @@
+[
+ {
+  "id": "pt:dre:259898:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "nova redação do art. 29.º do DL 68-A/2015, letra a letra",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 68-A/2015, art. 25.º: nova redação de artigos do Decreto-Lei n.º 23/2010",
+    "motivo": "outro diploma"
+   },
+   {
+    "instrucao": "DL 152-C/2017, art. 8.º: nova redação dos artigos 4.º e 5.º do Decreto-Lei n.º 141/2010",
+    "motivo": "outro diploma; não se aplica ao anexo do DL 39/2013 que republica o DL 141/2010"
+   },
+   {
+    "instrucao": "DL 152-C/2017, art. 10.º, alínea d): revogação dos n.os 2 e 3 do artigo 4.º e do n.º 5 do artigo 5.º do Decreto-Lei n.º 141/2010",
+    "motivo": "outro diploma; não se aplica ao anexo que o republica"
+   }
+  ]
+ },
+ {
+  "id": "pt:dre:278524:por",
+  "artigos": [
+   {
+    "artigo": "(preâmbulo)",
+    "veredicto": "certo",
+    "motivo": "preâmbulo igual ao original; os artigos, que no original vinham no mesmo bloco, passam a artigos próprios com o mesmo texto",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "texto igual ao do original (só separado do preâmbulo em artigo próprio); nenhuma instrução textual o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "texto igual ao do original (só separado do preâmbulo em artigo próprio); nenhuma instrução textual o altera (a retirada e a restituição da autonomia pelos DL 44049 e 349/84 não são textuais)",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "texto igual ao do original (só separado do preâmbulo em artigo próprio); nenhuma instrução textual o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "texto igual ao do original (só separado do preâmbulo em artigo próprio); nenhuma instrução textual o altera (extinção e recriação do conselho administrativo não textuais)",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "revogado pelo art. 2.º do DL 44049; a revogação do DL 44049 pelo DL 349/84 não o repristina",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "texto igual ao do original (só separado do preâmbulo em artigo próprio); nenhuma instrução textual o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "certo",
+    "motivo": "texto igual ao do original (só separado do preâmbulo em artigo próprio); nenhuma instrução textual o altera",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "texto igual ao do original (só separado do preâmbulo em artigo próprio); nenhuma instrução textual o altera",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 44049, art. 1.º: retirada da autonomia administrativa e extinção do conselho administrativo",
+    "motivo": "não textual: não dá nova redação a nenhum artigo do original"
+   },
+   {
+    "instrucao": "DL 349/84, art. 1.º: o Lar passa a designar-se Lar Académico Militar",
+    "motivo": "não textual: mudança de designação sem nova redação"
+   },
+   {
+    "instrucao": "DL 349/84, arts. 2.º a 6.º: autonomia, conselho administrativo, receitas, orçamento, contas e saldos do Lar",
+    "motivo": "não textual: normas próprias do alterador, sem nova redação nem revogação de artigos do original"
+   },
+   {
+    "instrucao": "DL 349/84, art. 7.º: revogação do Decreto-Lei n.º 44049",
+    "motivo": "outro diploma (revoga o alterador 1); não faz renascer o art. 5.º"
+   }
+  ]
+ }
+]

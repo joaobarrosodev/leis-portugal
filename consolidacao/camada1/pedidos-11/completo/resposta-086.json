@@ -1,0 +1,22 @@
+[
+ {
+  "id": "pt:dre:514837:por",
+  "artigos": [
+   {
+    "chave": "5.º",
+    "epigrafe": "",
+    "texto": "O Conselho Corporativo poderá alterar o número, a composição e a designação dos agrupamentos de actividades e interesses previstos nos artigos anteriores, independentemente da forma como os mesmos se encontram estruturados nas corporações, nomeadamente para permitir a melhor representatividade de tais agrupamentos na Câmara Corporativa ou para adaptar a organização desta às corporações que forem instituídas.\n\n§ único. À medida que forem instituídas novas corporações, os respectivos representantes substituir-se-ão aos que estiverem a representar na Câmara os mesmos interesses, nos termos a fixar pelo Conselho Corporativo.",
+    "alterador": 1
+   }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 2, nova redação do § 2.º do artigo 1.º: alvo incerto — o § 2.º não está no texto atual do artigo 1.º (o texto só vai até à secção II)\nAlterador 3, arts. 1.º a 4.º (composição das secções VIII e IX, procuradores do ultramar, representação das ordens): não textual — normas próprias, sem nova redação do original\nAlterador 3, art. 5.º, n.º 2, revogação do Decreto-Lei n.º 45830: outro diploma",
+  "instrucoes": [
+   "Alt. 1: nova redação do art. 5.º — substituído por inteiro",
+   "Alt. 2: § 2.º do art. 1.º — ausente do texto atual, nao_aplicavel",
+   "Alt. 3: normas próprias — não textual"
+  ]
+ }
+]

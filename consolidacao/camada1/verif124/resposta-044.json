@@ -1,0 +1,112 @@
+[
+ {
+  "id": "pt:dre:546221:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "Alínea a) do n.º 2 (e proémio «O Fundo») com a redação do DL 160/94; resto original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "N.os 3 a 7 com a redação do DL 160/94; n.os 1 e 2 originais.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "N.º 4 novo do DL 160/94 e n.º 5 = anterior n.º 4.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "Redação do DL 160/94 (n.os 1 a 3), que substitui a do DL 73/91.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "certo",
+    "motivo": "Alíneas e) e f) do DL 160/94; a) a d) originais.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 14.º",
+    "veredicto": "certo",
+    "motivo": "N.os 2 e 3 do DL 160/94; restantes originais.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 15.º",
+    "veredicto": "certo",
+    "motivo": "N.os 1 e 3 do DL 76/2009; n.º 2 original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 16.º",
+    "veredicto": "certo",
+    "motivo": "N.os 3 a 5 do DL 328/91; n.os 1 e 2 originais.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 17.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação do DL 328/91.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 17.º-A",
+    "veredicto": "certo",
+    "motivo": "Aditado pelo art. 2.º do DL 328/91, letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 18.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação do DL 160/94.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 328/91, art. 3.º (reembolso das contribuições dos militares que desistiram antes da publicação)",
+    "motivo": "Não textual: norma própria do DL 328/91, sem nova redação do original."
+   },
+   {
+    "instrucao": "DL 166-A/2013, arts. 1.º a 12.º (não admissão de participantes, valor fixo dos complementos, reembolsos, transferência para a CGA, extinção do Fundo)",
+    "motivo": "Não textual: normas próprias, nenhuma dá nova redação ou revoga expressamente artigos do DL 269/90."
+   },
+   {
+    "instrucao": "DL 166-A/2013, art. 13.º (revoga as disposições que contrariem o decreto-lei)",
+    "motivo": "Revogação condicional («que contrariem»)."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:550008:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação do DL 43/95, letra a letra.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Portaria 1314/95: substitui o quadro de pessoal civil anexo ao DL 396/89",
+    "motivo": "O quadro novo só vem em imagem e o consolidado não tem um anexo com título onde o pôr (a lista de artigos não tem nenhum ANEXO)."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

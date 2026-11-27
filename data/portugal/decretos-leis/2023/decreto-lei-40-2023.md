@@ -46,10 +46,24 @@ legal_status_basis:
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2025-10-28'
+version_history:
+  file: decreto-lei-40-2023.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2023-06-02'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2025-10-28'
+    amending: pt:dre:942970465:por
+    amending_title: Decreto-Lei n.º 116-B/2025
+    changes:
+    - Altera Artigo 16.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/40/2023/06/02/p/dre/pt/html
@@ -75,7 +89,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T03:47:02Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 116-B/2025. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2023/decreto-lei-40-2023.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -424,7 +439,7 @@ c) Em balcão de atendimento sito na Região Autónoma da Madeira.
 
 2 - Para efeitos do disposto no presente artigo entende-se por «afetação funcional transitória» o exercício das funções de investigação e fiscalização do SEF, no âmbito das atribuições em matéria de segurança interna transferidas, nos termos do artigo 2.º da [Lei n.º 73/2021](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), de 12 de novembro, na sua redação atual, para a GNR e para a PSP.
 
-3 - A afetação funcional transitória tem lugar durante o período de um ano, renovável por igual período, e produz efeitos à data do despacho do dirigente máximo do serviço integrador e do responsável pela condução do processo de fusão a que se refere o n.º 3 do artigo 7.º
+3 - A afetação funcional transitória tem lugar durante o período de um ano, renovável por igual período, e produz efeitos à data do despacho do dirigente máximo do serviço integrador e do responsável pela condução do processo de fusão a que se refere o n.º 3 do artigo 7.º, e é excecionalmente prorrogada até 9 de abril de 2026, coincidente com o período de implementação do Sistema de Entradas e Saídas no Espaço Schengen.
 
 4 - O contingente de trabalhadores a afetar às forças de segurança é fixado por despacho dos membros do Governo responsáveis pelas áreas da administração interna e da justiça.
 
@@ -446,7 +461,7 @@ c) À manutenção do regime de disponibilidade e aposentação ou reforma aplic
 
 d) À manutenção dos direitos de proteção social da categoria de origem;
 
-e) À relevação da avaliação de desempenho atribuída em 2021, sem prejuízo do disposto no n.º 3 do artigo 6.º
+e) À relevação da avaliação de desempenho atribuída em 2021, sem prejuízo do disposto no n.º 3 do artigo 6.º, ainda que no ano em que cessa a afetação funcional transitória detenham menos de seis meses de serviço efetivo nessas funções.
 
 10 - Sem prejuízo da transição de trabalhadores prevista no capítulo ii, para efeitos do exercício de funções ao abrigo do regime previsto no presente artigo são considerados os conteúdos funcionais da carreira de investigação e fiscalização do corpo especial do SEF que constam do anexo ii do presente decreto-lei e do qual faz parte integrante.
 
@@ -455,6 +470,8 @@ e) À relevação da avaliação de desempenho atribuída em 2021, sem prejuízo
 a) À disciplina das entidades competentes da PJ;
 
 b) Ao poder de direção dos dirigentes máximos das forças de segurança a que sejam afetos.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 116-B/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-b-2025-942970465), publicado em 2025-10-28.
 
 ###### Artigo 17.º — Afetação funcional transitória na Agência para a Integração, Migrações e Asilo, I. P.
 

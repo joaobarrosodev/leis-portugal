@@ -1,0 +1,65 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:487764:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1966-04-15",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "997871088c09370e"
+   ]
+  },
+  {
+   "date": "1967-02-17",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:504371:por",
+     "title": "Decreto-Lei n.º 47541",
+     "published": "1967-02-17",
+     "dre_path": "/dr/detalhe/decreto-lei/47541-1967-504371"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo único"
+   ],
+   "fragments": [
+    "9d952f12d35b63d2",
+    "7e142efe0b9c7be7"
+   ]
+  }
+ ],
+ "fragments": {
+  "997871088c09370e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Considerando que no ano de 1965 terminaram o curso de engenharia militar da Academia Militar alunos que ingressaram naquele estabelecimento de ensino nos anos de 1957 e de 1958, sujeitos os primeiros à organização do [Decreto-Lei n.º 30874](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30874-1940-201406), de 13 de Novembro de 1940, e os segundos à do [Decreto-Lei n.º 42151](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42151-1959-590727), de 12 de Fevereiro de 1959;\n\nConsiderando que uns e outros frequentaram cursor idênticos com a mesma finalidade de ingresso no quadro permanente da arma de engenharia e que vão fazer conjuntamente o mesmo tirocínio;\n\nTornando-se necessário harmonizar o § 1.º do artigo 68.º do Estatuto do Oficial do Exército com o artigo 64.º do [Decreto-Lei n.º 42151](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42151-1959-590727), de 12 de Fevereiro de 1959, com o fim de evitar que os alunos do curso transitório, antiga organização, frequentem o referido tirocínio no posto de alferes enquanto os outros que ingressaram posteriormente na Academia Militar o frequentarão no posto de tenente;\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer com lei, o seguinte:\n\nArtigo único. Os alferes-alunos do curso transitório de engenharia militar que terminaram em 1965 o curso da Academia Militar são promovidos a tenentes-alunos no início do tirocínio, contando a antiguidade de tenente desde 1 de Dezembro de 1965.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 15 de Abril de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Games de Araújo - Alfredo Rodrigues das Santos Júnior - João de Matas Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho."
+  },
+  "9d952f12d35b63d2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Considerando que no ano de 1965 terminaram o curso de engenharia militar da Academia Militar alunos que ingressaram naquele estabelecimento de ensino nos anos de 1957 e de 1958, sujeitos os primeiros à organização do [Decreto-Lei n.º 30874](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30874-1940-201406), de 13 de Novembro de 1940, e os segundos à do [Decreto-Lei n.º 42151](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42151-1959-590727), de 12 de Fevereiro de 1959;\n\nConsiderando que uns e outros frequentaram cursor idênticos com a mesma finalidade de ingresso no quadro permanente da arma de engenharia e que vão fazer conjuntamente o mesmo tirocínio;\n\nTornando-se necessário harmonizar o § 1.º do artigo 68.º do Estatuto do Oficial do Exército com o artigo 64.º do [Decreto-Lei n.º 42151](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42151-1959-590727), de 12 de Fevereiro de 1959, com o fim de evitar que os alunos do curso transitório, antiga organização, frequentem o referido tirocínio no posto de alferes enquanto os outros que ingressaram posteriormente na Academia Militar o frequentarão no posto de tenente;\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer com lei, o seguinte:"
+  },
+  "7e142efe0b9c7be7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo único",
+   "in_force_from": "1967-02-17",
+   "changed_by": [
+    "Retificado pelo/a [Decreto-Lei n.º 47541](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47541-1967-504371), publicado em 1967-02-17."
+   ],
+   "markdown": "###### Artigo único\n\nOs alferes-alunos do curso transitório de engenharia militar que terminaram em 1965 o curso da Academia Militar são promovidos a tenentes-alunos no início do tirocínio, contando a antiguidade de tenente desde 1 de Dezembro de 1964.\n\n> Retificado pelo/a [Decreto-Lei n.º 47541](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47541-1967-504371), publicado em 1967-02-17.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 15 de Abril de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Games de Araújo - Alfredo Rodrigues das Santos Júnior - João de Matas Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho."
+  }
+ }
+}

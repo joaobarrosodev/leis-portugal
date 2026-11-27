@@ -1,0 +1,188 @@
+[
+ {
+  "id": "pt:dre:321289:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 17.º",
+    "veredicto": "certo",
+    "motivo": "alínea a) do n.º 1 com a nova redação do artigo único da Lei 89/2001, letra a letra; o resto igual ao original",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 18.º",
+    "veredicto": "certo",
+    "motivo": "n.º 2 com a nova redação do artigo único da Lei 89/2001, letra a letra; n.º 1 igual ao original",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [
+   "DL 121/2008, mapa VIII (republicado na redação corrigida pela Declaração de Rectificação 49/2008): revogação do Decreto-Lei n.º 55/2001 «com excepção das disposições relativas às categorias subsistentes» — sem efeito no consolidado; alvo incerto (a vista não diz que artigos regulam as categorias subsistentes); «alvo incerto» não é justificação; o DL 121/2008 vem sem texto na vista"
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": []
+ },
+ {
+  "id": "pt:dre:335688:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 20.º",
+    "veredicto": "certo",
+    "motivo": "revogado pela alínea b) do art. 73.º da Lei Orgânica 2/2013; epígrafe mantida",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 20.º-A",
+    "veredicto": "certo",
+    "motivo": "aditado pelo art. 94.º da Lei 55-A/2010, letra a letra, com a epígrafe «Execução»",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Lei 55-A/2010, arts. 93.º e 95.º: transferências e necessidades de financiamento das regiões autónomas",
+    "motivo": "não textual: normas próprias do Orçamento que só remetem para o original"
+   },
+   {
+    "instrucao": "Lei Orgânica 2/2013, art. 71.º, n.os 3 e 4: mantém em vigor o art. 5.º e disponibiliza as verbas do art. 6.º",
+    "motivo": "não textual: não dá nova redação"
+   },
+   {
+    "instrucao": "Lei 13/2014, art. 6.º: repristinação do art. 19.º durante 2014",
+    "motivo": "não textual: repristinação temporária, sem nova redação"
+   },
+   {
+    "instrucao": "Lei 82-B/2014, art. 258.º: repristinação dos arts. 2.º e 19.º durante 2015",
+    "motivo": "não textual: repristinação temporária, sem nova redação"
+   },
+   {
+    "instrucao": "Lei 7-A/2016, art. 43.º: repristinação dos arts. 2.º e 19.º durante 2016",
+    "motivo": "não textual: repristinação temporária, sem nova redação"
+   },
+   {
+    "instrucao": "Lei 42/2016, art. 59.º: repristinação dos arts. 2.º e 19.º durante 2017 e reafetação de saldos",
+    "motivo": "não textual: repristinação temporária e autorização, sem nova redação"
+   }
+  ]
+ },
+ {
+  "id": "pt:dre:335954:por",
+  "artigos": [
+   {
+    "artigo": "(preâmbulo)",
+    "veredicto": "certo",
+    "motivo": "preâmbulo igual ao original; os artigos passam a artigos próprios",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "revogado pela alínea f) do art. 51.º do DL 530/79",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "revogado pela alínea f) do art. 51.º do DL 530/79",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "revogado pela alínea f) do art. 51.º do DL 530/79",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "texto igual ao do original (só separado do preâmbulo em artigo próprio)",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "texto igual ao do original (só separado do preâmbulo em artigo próprio)",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "texto igual ao do original (só separado do preâmbulo em artigo próprio)",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "certo",
+    "motivo": "texto igual ao do original (só separado do preâmbulo em artigo próprio)",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "texto igual ao do original (só separado do preâmbulo em artigo próprio)",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "texto igual ao do original (só separado do preâmbulo em artigo próprio)",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 10.º",
+    "veredicto": "certo",
+    "motivo": "texto igual ao do original (só separado do preâmbulo em artigo próprio)",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 11.º",
+    "veredicto": "certo",
+    "motivo": "texto igual ao do original (só separado do preâmbulo em artigo próprio)",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 12.º",
+    "veredicto": "certo",
+    "motivo": "texto igual ao do original (só separado do preâmbulo em artigo próprio)",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 13.º",
+    "veredicto": "certo",
+    "motivo": "texto igual ao do original (só separado do preâmbulo em artigo próprio)",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 14.º",
+    "veredicto": "certo",
+    "motivo": "texto igual ao do original (só separado do preâmbulo em artigo próprio)",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 15.º",
+    "veredicto": "certo",
+    "motivo": "texto igual ao do original (só separado do preâmbulo em artigo próprio)",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 530/79, art. 42.º: extinção do Serviço de Luta Antituberculosa",
+    "motivo": "não textual: não revoga nem dá nova redação a artigos do original (a revogação textual é só a dos arts. 1.º a 3.º, aplicada)"
+   },
+   {
+    "instrucao": "DL 23/2008: criação do Centro Hospitalar Lisboa Norte, E. P. E., por fusão do Hospital Pulido Valente, E. P. E.",
+    "motivo": "não textual: o decreto-lei não tem instrução dirigida ao DL 260/75"
+   }
+  ]
+ }
+]

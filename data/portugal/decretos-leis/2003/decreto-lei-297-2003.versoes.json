@@ -1,0 +1,983 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:438042:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2003-11-21",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "5afe16ff9f5511bb",
+    "7342f7b1dcac3873",
+    "c572176f5beb6168",
+    "9d99c16d813115a7",
+    "dc5b358316e7ed49",
+    "7bfbec6adb92611a",
+    "e54289df8d5e55d8",
+    "ce530e71493b8b7a",
+    "f21c8d266df155df",
+    "c747a0aa8cdc491d",
+    "a94c678f96fd2eeb",
+    "52d7a0e31bc28d65",
+    "9b3dd06e2bd800f5",
+    "b885b292b9c91d2e",
+    "33bcf0d362b4bcec",
+    "35b08390fd4dbaec",
+    "56e08df389f39ca8",
+    "34e18774141afde4",
+    "6cf4c268416a91c8",
+    "5f02e6cc8781f7e9",
+    "a6aa57d3f54cec45",
+    "13a327257a0a4c10",
+    "065d72b815abe92c",
+    "46646244e3c53ed0",
+    "a167d08f2507a948",
+    "ad94fb122266ab10",
+    "0d1be3614d6d6fb4",
+    "a3b07805d845dfe7",
+    "640263a9a3aef9ce",
+    "e35036432ab4c769",
+    "5586ffbc1bba2371",
+    "1639a042e48ebeee",
+    "2658f22d7fb4ce0f",
+    "8827552efa296273",
+    "7f2393d702d7e16a",
+    "310975a7918ae5c3",
+    "fa0dcf7277a247de",
+    "b39723ce62508da3",
+    "2989975324e41053",
+    "d9b462b0cfd5364d",
+    "7e44df36dbd74b74",
+    "acf452117e038d57",
+    "1b6ea6917e131bb5",
+    "adec5a9f8c190e08",
+    "b858ff9f3261031e",
+    "0f23a5735fc4ebb0",
+    "0e0c98fb78a64d06",
+    "10f2f82834c4943e",
+    "72310813fb2e1f9c",
+    "4881af27859c8bea",
+    "78cd9d17572fc9ff",
+    "ccec5db14c9ce41f",
+    "0ad791eb919e2815"
+   ]
+  },
+  {
+   "date": "2007-05-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:521019:por",
+     "title": "Decreto-Lei n.º 155/2007",
+     "published": "2007-04-27",
+     "dre_path": "/dr/detalhe/decreto-lei/155-2007-521019"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 1.º",
+    "Revoga Artigo 2.º",
+    "Revoga Artigo 3.º",
+    "Revoga Artigo 4.º",
+    "Revoga Artigo 5.º",
+    "Revoga Artigo 6.º",
+    "Revoga Artigo 7.º",
+    "Revoga Artigo 8.º",
+    "Revoga Artigo 9.º",
+    "Revoga Artigo 10.º",
+    "Revoga Artigo 11.º",
+    "Revoga Artigo 12.º",
+    "Revoga Artigo 13.º",
+    "Revoga Artigo 14.º",
+    "Revoga Artigo 15.º",
+    "Revoga Artigo 16.º",
+    "Revoga Artigo 17.º",
+    "Revoga Artigo 18.º",
+    "Revoga Artigo 19.º",
+    "Revoga Artigo 20.º",
+    "Revoga Artigo 21.º",
+    "Revoga Artigo 22.º",
+    "Revoga Artigo 23.º",
+    "Revoga Artigo 24.º",
+    "Altera Artigo 25.º",
+    "Revoga Artigo 26.º",
+    "Revoga Artigo 27.º",
+    "Revoga Artigo 28.º",
+    "Revoga Artigo 29.º",
+    "Revoga Artigo 30.º",
+    "Revoga Artigo 31.º",
+    "Revoga Artigo 32.º",
+    "Revoga Artigo 33.º",
+    "Revoga Artigo 34.º",
+    "Revoga Artigo 35.º",
+    "Revoga Artigo 36.º",
+    "Revoga Artigo 37.º",
+    "Revoga Artigo ANEXO — Quadro de pessoal dirigente"
+   ],
+   "fragments": [
+    "5afe16ff9f5511bb",
+    "7342f7b1dcac3873",
+    "e6046b3f21915ae2",
+    "6cedd67320ab7c2a",
+    "9eb30474ddc0a3f8",
+    "21894256045872b2",
+    "92c1c0d9da5285c8",
+    "b32f9d7c28963c99",
+    "f21c8d266df155df",
+    "4b46871d05e0313a",
+    "a94c678f96fd2eeb",
+    "e9166ffe542fd84d",
+    "a96476bb1adf3a82",
+    "b885b292b9c91d2e",
+    "64827c6c3a931fab",
+    "744bef8bfb005db7",
+    "0709880031bee0fb",
+    "34e18774141afde4",
+    "a4d28fdfcd9c60b4",
+    "621a338cad11c5a0",
+    "a13244cfa9240754",
+    "13a327257a0a4c10",
+    "33039f9723e194b8",
+    "c23461a47d5544f8",
+    "9f275165a461f4e6",
+    "ad94fb122266ab10",
+    "872c30ff14a4b31a",
+    "427ca30a02511b3e",
+    "96776359e04c2d6e",
+    "e35036432ab4c769",
+    "f3c4a902c7c9443d",
+    "12a8f0c70d888987",
+    "2658f22d7fb4ce0f",
+    "8827552efa296273",
+    "cb40b12378067dc1",
+    "1d8c612e55e009a4",
+    "fa0dcf7277a247de",
+    "59f1f5d57761aecd",
+    "38e8755d8488227a",
+    "c607b4591eadc1b8",
+    "841e7775b971bd82",
+    "acf452117e038d57",
+    "ba411ff591967eaf",
+    "adec5a9f8c190e08",
+    "109bb39e1e2850a3",
+    "25adcb0be976f77b",
+    "0e0c98fb78a64d06",
+    "7f33015b0db9fee1",
+    "d710d512aac5839d",
+    "0bea287e36adab7e",
+    "25f71713ceb1a122",
+    "39ae27f992f5718b",
+    "c9b328d2eb24d4bf"
+   ]
+  }
+ ],
+ "fragments": {
+  "5afe16ff9f5511bb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 21 de Novembro\n\nO Instituto de Investigação Científica Tropical (IICT), sucessor da Junta de Investigações Científicas do Ultramar, foi reestruturado pelos Decretos-Leis n.os [532/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/532-1979-231283), de 31 de Dezembro, e [105/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-1982-607130), de 8 de Abril, vindo o [Decreto-Lei n.º 160/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-1983-311663), de 19 de Abril, a completar esse ciclo, por via da regulamentação da competência, do funcionamento e da estrutura dos departamentos e serviços e das situações do pessoal do Instituto.\n\nActualmente, o IICT é uma instituição científica, sujeita a tutela e superintendência do Ministério da Ciência e do Ensino Superior, que tem por missão a prossecução das políticas científicas e tecnológicas nacionais no âmbito da cooperação com os países das regiões tropicais.\n\nO IICT foi objecto de avaliação na primeira fase do exercício da avaliação independente dos laboratórios do Estado, promovida pelo Governo em 1997, tendo, então, sido evidenciada a necessidade de uma profunda reformulação da sua estrutura global.\n\nÀ semelhança de outros laboratórios do Estado, o IICT necessita de ter a sua missão redefinida e o estatuto de laboratório do Estado legalmente reconhecido, como passo inicial do processo de reforma desse laboratório, onde haverá que incrementar e dinamizar a produção científica, conferindo-lhe um cunho multidisciplinar e compatibilizando-a com as necessidades de cooperação com os países tropicais, com especial ênfase para os países lusófonos situados nessas regiões do globo, perspectivando o seu desenvolvimento e a manutenção de relações privilegiadas de intercâmbio cultural, científico e tecnológico com esses países e regiões e com as respectivas estruturas supranacionais.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "7342f7b1dcac3873": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Natureza e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Natureza e atribuições"
+  },
+  "c572176f5beb6168": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza\n\nO Instituto de Investigação Científica Tropical, designado abreviadamente por IICT, é um laboratório do Estado, sendo dotado de personalidade jurídica e autonomia administrativa."
+  },
+  "9d99c16d813115a7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Missão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Missão\n\n1 - O IICT tem por missão a prossecução das políticas científicas e tecnológicas nacionais no âmbito da cooperação com os países das regiões tropicais, sem prejuízo das atribuições próprias do Ministério dos Negócios Estrangeiros.\n\n2 - O IICT pode ainda desenvolver a sua acção em regiões não tropicais quando para tal for solicitado e o interesse nacional assim o justifique."
+  },
+  "dc5b358316e7ed49": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Princípios orientadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Princípios orientadores\n\nO IICT está sujeito, no exercício da sua actividade, aos seguintes princípios:\n\na) Estabelecimento de ligações entre as suas actividades e os sectores relevantes da economia e da sociedade, podendo para o efeito celebrar protocolos ou acordos de cooperação e contratos de investigação com entidades públicas e privadas, nacionais, estrangeiras e internacionais;\n\nb) Disponibilização dos meios que o IICT detém com vista à realização, designadamente em colaboração com estabelecimentos de ensino superior, de actividades científicas e tecnológicas e de actividades de formação técnica na sua área de competência;\n\nc) Estabelecimento de um planeamento por objectivos das actividades de investigação e desenvolvimento."
+  },
+  "7bfbec6adb92611a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Atribuições\n\n1 - São atribuições do IICT:\n\na) Apoiar, científica e tecnicamente, o Governo na execução das políticas nacionais de cooperação científica e tecnológica com os países das regiões tropicais;\n\nb) Realizar actividades de investigação científica, de desenvolvimento tecnológico e de cooperação nos domínios específicos e relevantes para o desenvolvimento das regiões tropicais;\n\nc) Realizar, coordenar e promover estudos e projectos de investigação científica e de desenvolvimento tecnológico programados de acordo com os planos de investigação e desenvolvimento estabelecidos pela instituição ou solicitados por entidades públicas ou privadas, nacionais ou estrangeiras, sempre que os mesmos se enquadrem no âmbito da sua actividade;\n\nd) Fomentar o intercâmbio e a cooperação com outros organismos ou instituições científicas, nacionais ou estrangeiras, por meio de convénios ou de outros acordos sobre matérias e assuntos de investigação científica e de desenvolvimento tecnológico nas regiões tropicais;\n\ne) Fomentar e apoiar a especialização ou actualização científica e técnica de quadros necessários às actividades de cooperação com países das regiões tropicais e, bem assim, apoiar a realização de acções de formação, nas suas áreas de competência;\n\nf) Conceder, em articulação com as entidades competentes, bolsas para especialização ou actualização relativamente às matérias referidas nas alíneas anteriores;\n\ng) Colaborar com outras entidades na realização de eventos internacionais nos seus domínios de actividade;\n\nh) Assegurar a manutenção e actualização de uma base de dados sobre as suas actividades científicas e de desenvolvimento tecnológico e promover a difusão dos conhecimentos, dos resultados dos trabalhos de investigação e das actividades próprias ou de entidades terceiras com interesse para os seus fins, bem como do acervo documental que constitui o seu património, através das novas tecnologias de informação e outros meios, nomeadamente editoriais.\n\n2 - O IICT poderá ser membro de agências, associações ou organismos internacionais relacionados com as actividades de investigação científica, tecnológicas, de cooperação e de desenvolvimento económico e social, e aí desempenhar os cargos para que for designado, mediante autorização do Ministro da Ciência e do Ensino Superior.\n\n3 - No âmbito das suas atribuições, o IICT deverá proceder, em colaboração com outros órgãos ou serviços da Administração Pública, nomeadamente os Ministérios dos Negócios Estrangeiros, da Economia e da Ciência e do Ensino Superior, à realização do inventário científico, técnico e tecnológico sobre as regiões tropicais, indispensável a acções de cooperação e de apoio ao desenvolvimento económico e social daquelas regiões.\n\n4 - O IICT, nas suas relações de cooperação com entidades estrangeiras ou organizações internacionais, actuará em articulação com as estruturas competentes dos Ministérios dos Negócios Estrangeiros, da Economia e da Ciência e do Ensino Superior, devendo ser parte activa na negociação de convénios e acordos, bem como participar, no que lhe disser respeito, na sua implementação, execução e apresentação de resultados."
+  },
+  "e54289df8d5e55d8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Cooperação com outras entidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Cooperação com outras entidades\n\nO IICT pode estabelecer formas de cooperação ou associação com outras entidades de direito público ou privado, nacionais ou internacionais, atinentes ao desempenho das suas atribuições quando isso se mostre necessário para a prossecução das respectivas atribuições."
+  },
+  "ce530e71493b8b7a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Tutela e superintendência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Tutela e superintendência\n\n1 - No desempenho da sua actividade, o IICT está sujeito à tutela do Ministro da Ciência e do Ensino Superior, a qual compreende:\n\na) A aprovação dos projectos de orçamento e respectivas alterações, bem como os planos de actividades anuais e plurianuais;\n\nb) A aprovação das contas anuais;\n\nc) A definição da política geral de preços dos serviços prestados;\n\nd) A autorização para aquisição, oneração ou alienação de bens imóveis;\n\ne) A aprovação da celebração de contratos de investigação, protocolos e acordos de cooperação com outras entidades;\n\nf) O exercício do poder de fiscalização sobre a organização e o funcionamento do IICT;\n\ng) O exercício da acção disciplinar sobre os titulares dos órgãos do IICT;\n\nh) A apreciação e decisão dos recursos cuja interposição para o Ministro da Ciência e do Ensino Superior esteja prevista na lei.\n\n2 - O Ministro da Ciência e do Ensino Superior superintende na actividade do IICT, determinando o enquadramento geral em que esta deve desenvolver-se e as linhas prioritárias de actuação."
+  },
+  "f21c8d266df155df": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Estrutura orgânica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Estrutura orgânica"
+  },
+  "c747a0aa8cdc491d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Órgãos\n\nSão órgãos do IICT:\n\na) O presidente;\n\nb) O conselho de orientação;\n\nc) O conselho científico;\n\nd) O conselho administrativo;\n\ne) A unidade de acompanhamento;\n\nf) A comissão paritária."
+  },
+  "a94c678f96fd2eeb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Presidente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Presidente"
+  },
+  "52d7a0e31bc28d65": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Presidente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Presidente\n\n1 - O IICT é dirigido pelo presidente, a quem compete coordenar e dirigir todos os serviços que o integram, bem como velar pelo desempenho concertado da actividade dos seus órgãos e executar as funções que lhe sejam superiormente determinadas, sendo coadjuvado no exercício das suas funções por um vice-presidente.\n\n2 - O presidente é recrutado de entre individualidades de reconhecido mérito possuidoras de currículo relevante nos domínios da investigação científica ou do desenvolvimento tecnológico e da cooperação.\n\n3 - O presidente e o vice-presidente são equiparados, para todos os efeitos legais, respectivamente, a director-geral e a subdirector-geral.\n\n4 - O presidente é substituído nas suas ausências e impedimentos pelo vice-presidente."
+  },
+  "9b3dd06e2bd800f5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Competências\n\nCompete ao presidente, designadamente:\n\na) Apresentar ao Ministro da Ciência e do Ensino Superior todos os assuntos que devam ser submetidos à sua apreciação ou aprovação, nos termos da lei;\n\nb) Executar as políticas de ciência e tecnologia e de cooperação definidas para o IICT e elaborar os respectivos planos e relatórios;\n\nc) Adoptar as medidas indispensáveis para o cumprimento dos objectivos definidos nos programas de actividades e orçamentos;\n\nd) Superintender nas relações internacionais do IICT e assegurar a sua representação em comissões, grupos de trabalho ou actividades de organismos internacionais, sem prejuízo das atribuições próprias do Ministério dos Negócios Estrangeiros;\n\ne) Submeter à aprovação do Ministro da Ciência e do Ensino Superior o plano anual de actividades, as propostas de orçamento, o relatório anual de gestão e de execução orçamental, as contas do exercício e demais instrumentos de prestação de contas previstos na lei;\n\nf) Representar o IICT em juízo e fora dele;\n\ng) Submeter à aprovação do Ministro da Ciência e do Ensino Superior a participação do IICT na celebração de protocolos, acordos e contratos de cooperação com outras entidades;\n\nh) Submeter à aprovação do Ministro da Ciência e do Ensino Superior a participação do IICT em parcerias estratégicas ou em outras pessoas colectivas;\n\ni) Praticar todos os actos necessários à prossecução das atribuições do IICT que não sejam da competência de outros órgãos;\n\nj) Exercer as competências que lhe sejam delegadas."
+  },
+  "b885b292b9c91d2e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Conselho de orientação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Conselho de orientação"
+  },
+  "33bcf0d362b4bcec": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Composição\n\n1 - O conselho de orientação é composto por:\n\na) Cinco membros designados, consoante os casos, pelo ou a solicitação do Ministro da Ciência e do Ensino Superior:\n\ni) Um representante do Ministro da Ciência e do Ensino Superior, que preside;\n\nii) Um representante do Ministro dos Negócios Estrangeiros e das Comunidades Portuguesas;\n\niii) Um representante do Ministro da Economia;\n\niv) Um representante da Comunidade dos Países de Língua Portuguesa;\n\nv) Um representante da Associação Portuguesa para o Desenvolvimento Económico e Cooperação;\n\nb) Quatro membros designados, de acordo com o plano de actividades do IICT, sob proposta do representante do Ministro da Ciência e do Ensino Superior referido na subalínea i) da alínea anterior:\n\ni) Dois representantes de ministérios;\n\nii) Um representante de organizações internacionais;\n\niii) Um representante de organizações de direito privado no âmbito da cooperação e investigação;\n\nc) Um representante do Conselho Superior de Ciência, Tecnologia e Inovação.\n\n2 - O mandato dos membros do conselho de orientação referidos na alínea a) do n.º 1 tem a duração de três anos, renovável por iguais períodos, mantendo-se o exercício de funções até à efectiva substituição.\n\n3 - Os membros do conselho de orientação referidos na subalínea i) da alínea b) são nomeados pelo respectivo ministro, a solicitação do Ministro da Ciência e do Ensino Superior.\n\n4 - O mandato dos membros do conselho de orientação referidos nas alíneas b) e c) do n.º 1 tem a duração de um ano.\n\n5 - Nas reuniões do conselho de orientação participa ainda o pessoal dirigente do IICT, sem direito a voto.\n\n6 - O presidente do conselho de orientação poderá convidar a participar nas suas reuniões, sem direito a voto, outras individualidades cuja presença considere conveniente em razão dos assuntos a tratar."
+  },
+  "35b08390fd4dbaec": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Competências\n\nAo conselho de orientação compete avaliar e acompanhar a actividade do IICT, aconselhando o seu presidente na concepção, no enquadramento e na execução das acções necessários à concretização das suas atribuições, produzindo, para o efeito, os pareceres e recomendações que entenda formular ou que lhe forem solicitados."
+  },
+  "56e08df389f39ca8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Funcionamento\n\n1 - O conselho de orientação reúne ordinariamente uma vez por semestre e extraordinariamente sempre que convocado pelo seu presidente, por sua iniciativa ou a solicitação de um terço dos seus membros.\n\n2 - As deliberações do conselho de orientação são tomadas por maioria de votos dos membros presentes, tendo o presidente voto de qualidade.\n\n3 - As normas de funcionamento constam de regimento interno a elaborar pelo próprio conselho.\n\n4 - A participação no conselho de orientação não é remunerada, com excepção do direito ao abono das despesas de transporte e ajudas de custo correspondentes ao escalão mais elevado da tabela fixada para o funcionalismo público."
+  },
+  "34e18774141afde4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO III — Conselho científico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — Conselho científico"
+  },
+  "6cf4c268416a91c8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Composição\n\n1 - O conselho científico é constituído por todos os que, a qualquer título, incluindo o de bolseiro, quer sejam cidadãos nacionais ou estrangeiros, exerçam actividade no IICT e desde que estejam habilitados com o grau de doutor ou equivalente e tenham obtido aprovação nas provas a que se refere o n.º 2 do artigo 17.º do [Decreto-Lei n.º 219/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/219-1992-226629), de 15 de Outubro, ou ainda os que, não possuindo qualquer dessas qualificações, integrem a carreira de investigação científica em categoria igual ou superior à de investigador auxiliar ou a carreira docente universitária em categoria igual ou superior à de professor auxiliar.\n\n2 - O presidente do conselho científico é eleito directamente de entre os seus membros, por escrutínio secreto e maioria simples dos votos expressos."
+  },
+  "5f02e6cc8781f7e9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Competências\n\n1 - O conselho científico é o órgão responsável pela apreciação e pelo acompanhamento da actividade de investigação científica e desenvolvimento tecnológico do IICT.\n\n2 - Compete ao conselho científico, em especial:\n\na) Emitir parecer sobre o orçamento, os planos e o relatório anuais ou plurianuais de actividades do IICT, nomeadamente no que respeita às actividades de investigação científica e de desenvolvimento tecnológico;\n\nb) Emitir parecer sobre a definição das áreas científicas do IICT;\n\nc) Colaborar com outras instituições em todos os assuntos relacionados com a avaliação e a formação de pessoal de investigação;\n\nd) Pronunciar-se sobre todas as questões que lhe forem submetidas pelo presidente;\n\ne) Elaborar o seu regulamento interno."
+  },
+  "a6aa57d3f54cec45": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Funcionamento\n\n1 - O mandato do presidente do conselho científico tem a duração de três anos.\n\n2 - As deliberações do conselho científico são tomadas por maioria de votos dos membros presentes, tendo o presidente voto de qualidade.\n\n3 - O conselho científico funciona em plenário e em secções, nos termos a fixar no regulamento interno.\n\n4 - A participação no conselho científico não é remunerada."
+  },
+  "13a327257a0a4c10": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO IV — Conselho administrativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO IV — Conselho administrativo"
+  },
+  "065d72b815abe92c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Composição\n\nO conselho administrativo tem a seguinte composição:\n\na) O presidente, que preside;\n\nb) O vice-presidente;\n\nc) O director de serviços de apoio."
+  },
+  "46646244e3c53ed0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Competências\n\nO conselho administrativo é o órgão deliberativo em matéria de gestão financeira, ao qual compete:\n\na) Promover a elaboração do orçamento do IICT e acompanhar a sua execução;\n\nb) Promover a elaboração dos planos financeiros anuais e plurianuais;\n\nc) Promover a elaboração e aprovar a conta de gerência a remeter ao Tribunal de Contas;\n\nd) Assegurar a arrecadação de receitas;\n\ne) Verificar e controlar a legalidade da realização das despesas e autorizar o respectivo pagamento;\n\nf) Proceder à verificação dos fundos em cofre e em depósito e fiscalizar a escrituração da contabilidade;\n\ng) Fixar o montante do fundo de maneio;\n\nh) Fixar o preço dos produtos e serviços prestados pelo IICT;\n\ni) Pronunciar-se sobre assuntos da sua competência que lhe sejam submetidos pelo presidente."
+  },
+  "a167d08f2507a948": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Funcionamento\n\n1 - O conselho administrativo reúne ordinariamente duas vezes por mês e extraordinariamente sempre que o presidente o convocar.\n\n2 - As reuniões são secretariadas por um funcionário, sem direito a voto, designado pelo presidente.\n\n3 - O conselho administrativo pode delegar, total ou parcialmente, as competências para a realização e o pagamento das despesas e a arrecadação das receitas no presidente ou no vice-presidente.\n\n4 - O IICT obriga-se mediante a assinatura de dois membros do conselho administrativo ou as de um dos seus membros e de um funcionário com poderes delegados para tal.\n\n5 - Pode participar nas reuniões do conselho administrativo, sem direito a voto, qualquer funcionário do IICT sempre que o presidente o entenda conveniente, em função dos assuntos constantes da respectiva ordem de trabalhos."
+  },
+  "ad94fb122266ab10": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO V — Unidade de acompanhamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO V — Unidade de acompanhamento"
+  },
+  "0d1be3614d6d6fb4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Composição\n\nA unidade de acompanhamento é constituída por cinco especialistas e individualidades exteriores ao IICT, designadamente os que constam do artigo 10.º, a quem seja reconhecida competência na área da sua actividade, devendo, sempre que possível, pelo menos dois deles exercer a sua actividade em instituições não nacionais, nomeados pelo Ministro da Ciência e do Ensino Superior, sob proposta do presidente."
+  },
+  "a3b07805d845dfe7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Competências\n\n1 - A unidade de acompanhamento exerce funções de avaliação e de aconselhamento interno, de acordo com os parâmetros definidos pelo presidente do IICT.\n\n2 - Compete, em especial, à unidade de acompanhamento:\n\na) Analisar regularmente e emitir parecer sobre o funcionamento do IICT;\n\nb) Emitir parecer sobre o plano e o relatório anuais ou plurianuais de actividades do IICT;\n\nc) Emitir parecer sobre todas as questões que lhe sejam submetidas pelo presidente."
+  },
+  "640263a9a3aef9ce": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Funcionamento\n\n1 - Os mandatos dos membros da unidade de acompanhamento têm a duração de três anos, renováveis por iguais períodos.\n\n2 - A participação nas reuniões da unidade de acompanhamento confere aos seus membros o direito ao abono das despesas de transporte e ajudas de custo correspondentes ao escalão mais elevado da tabela fixada para o funcionalismo público."
+  },
+  "e35036432ab4c769": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO VI — Comissão paritária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO VI — Comissão paritária"
+  },
+  "5586ffbc1bba2371": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Composição\n\n1 - A comissão paritária tem a seguinte composição:\n\na) Um representante do pessoal do IICT;\n\nb) Um representante do pessoal da carreira de investigação científica;\n\nc) Dois membros designados pelo presidente.\n\n2 - Os membros da comissão paritária são designados por um ano."
+  },
+  "1639a042e48ebeee": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Competências\n\n1 - A comissão paritária é um órgão consultivo do IICT.\n\n2 - Compete à comissão paritária:\n\na) Pronunciar-se sobre o plano e o relatório anuais e plurianuais de actividades do IICT;\n\nb) Pronunciar-se sobre questões laborais, nomeadamente de organização de trabalho e de formação profissional."
+  },
+  "2658f22d7fb4ce0f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Estrutura organizativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Estrutura organizativa"
+  },
+  "8827552efa296273": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Estrutura geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Estrutura geral"
+  },
+  "7f2393d702d7e16a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — Estrutura geral e organização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Estrutura geral e organização\n\n1 - O IICT compreende estruturas de investigação científica e de apoio à investigação e de gestão e administração.\n\n2 - As estruturas de investigação científica são constituídas pelos:\n\na) Departamento de Ciências Naturais;\n\nb) Departamento de Ciências Humanas.\n\n3 - As estruturas de apoio à investigação e de gestão e administração agrupam-se na Direcção de Serviços de Apoio.\n\n4 - Os directores dos departamentos são equiparados a director de serviços.\n\n5 - As atribuições e o funcionamento das estruturas referidas nos n.os 2 e 3 são aprovadas por decreto regulamentar, no prazo de 120 dias após a entrada em vigor do presente diploma."
+  },
+  "310975a7918ae5c3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Centros de actividades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Centros de actividades\n\n1 - As estruturas de investigação científica compreendem centros de actividades, compostos por investigadores não integrados em departamentos e directamente dependentes do presidente, cuja afectação aos diversos centros de actividades é feita em função do seu domínio de especialização e da temática dos projectos e das actividades a desenvolver.\n\n2 - Por despacho do Ministro da Ciência e do Ensino Superior e sob proposta do presidente do IICT, podem ser criados centros de actividades sem departamentalização formal, sempre que tal se mostre conveniente ao desenvolvimento das atribuições do IICT e em função do seu plano de actividades.\n\n3 - Os centros de actividades a criar não podem ultrapassar as 10 unidades.\n\n4 - Por despacho do presidente, pode ser atribuída a função de coordenador, em cada centro de actividades, a um dos trabalhadores que a integre, de acordo com o mérito e o perfil para o efeito identificados, o qual aufere um suplemento remuneratório mensal correspondente à percentagem de 10% da remuneração correspondente ao cargo de chefe de divisão, até ao limite máximo de 12 prestações por ano, e que não releva para efeitos de aposentação.\n\n5 - Sempre que um dos dirigentes do IICT acumule as suas funções com a coordenação dos centros de actividades, não se aplica o disposto no número anterior."
+  },
+  "fa0dcf7277a247de": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Gestão financeira e patrimonial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Gestão financeira e patrimonial"
+  },
+  "b39723ce62508da3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — Gestão financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Gestão financeira\n\n1 - A gestão do IICT realiza-se de forma a assegurar a prossecução das suas atribuições e o equilíbrio financeiro, com respeito pelos seguintes princípios:\n\na) Fixação de preços pelos serviços a prestar que permita a efectiva cobertura do custo real;\n\nb) Adopção de uma gestão previsional por objectivos;\n\nc) Primazia pela realização de investigação sob contrato;\n\nd) Subordinação da realização de actividades de investigação básica aos meios financeiros disponíveis e, nomeadamente, ao grau de risco e provável taxa de rendibilidade.\n\n2 - Para concretização dos princípios enunciados no número anterior, o IICT utiliza os seguintes instrumentos de avaliação e de controlo:\n\na) Planos de actividades anuais e plurianuais com definição de objectivos e respectivos planos de acção, devidamente quantificados;\n\nb) Orçamento anual;\n\nc) Relatório anual de actividades;\n\nd) Conta de gerência e relatórios financeiros;\n\ne) Balanço social."
+  },
+  "2989975324e41053": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Receitas\n\n1 - Constituem receitas do IICT, para além das dotações que lhe são atribuídas pelo Orçamento do Estado:\n\na) O produto resultante dos serviços prestados;\n\nb) As comparticipações e os subsídios concedidos por quaisquer entidades;\n\nc) O produto da venda das suas publicações;\n\nd) O produto da realização de estudos e outros trabalhos de carácter técnico confiados ao IICT por entidades nacionais, estrangeiras ou internacionais;\n\ne) O rendimento de bens próprios e, bem assim, o produto da sua alienação ou oneração, nos termos da lei;\n\nf) As liberalidades de que for beneficiário;\n\ng) Quaisquer outras receitas que, por lei, contrato ou outro título, lhe sejam atribuídas.\n\n2 - Constituem, ainda, receitas do IICT as decorrentes da celebração de contratos-programa com o Estado, para as actividades que este defina como obrigatórias, deles devendo constar o respectivo objecto, a duração e o financiamento."
+  },
+  "d9b462b0cfd5364d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º — Despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Despesas\n\nConstituem despesas do IICT:\n\na) Os encargos com o respectivo funcionamento;\n\nb) Os custos de aquisição, manutenção e conservação de bens ou serviços que tenha de utilizar."
+  },
+  "7e44df36dbd74b74": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º — Património",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Património\n\nO património do IICT é constituído pela universalidade dos seus bens, direitos e obrigações."
+  },
+  "acf452117e038d57": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO V — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Pessoal"
+  },
+  "1b6ea6917e131bb5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º — Quadro de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Quadro de pessoal\n\n1 - O quadro de pessoal dirigente do IICT é o constante do mapa anexo ao presente diploma, do qual faz parte integrante.\n\n2 - O quadro do restante pessoal do IICT, incluindo o do pessoal da carreira de investigação científica, é aprovado por portaria conjunta dos Ministros das Finanças e da Ciência e do Ensino Superior."
+  },
+  "adec5a9f8c190e08": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VI — Disposições diversas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VI — Disposições diversas"
+  },
+  "b858ff9f3261031e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º — Confidencialidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Confidencialidade\n\nOs membros e as individualidades não pertencentes ao IICT que participem no conselho de orientação estão sujeitos a compromisso de confidencialidade e dever de reserva no que respeita às informações que lhes sejam prestadas ou a que tenham acesso no âmbito dessa participação."
+  },
+  "0f23a5735fc4ebb0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º — Dever especial de sigilo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Dever especial de sigilo\n\nO pessoal do IICT só pode divulgar as actividades de ciência e tecnologia provenientes de contratos subscritos pela instituição, bem como os seus resultados, mediante prévia autorização do presidente, devendo, nomeadamente, guardar sigilo sobre as solicitações efectuadas por entidades públicas ou privadas, sem prejuízo do acesso a informações com interesse fiscal."
+  },
+  "0e0c98fb78a64d06": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VII — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VII — Disposições finais e transitórias"
+  },
+  "10f2f82834c4943e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 33.º — Normas transitórias de funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Normas transitórias de funcionamento\n\nAté à entrada em vigor dos diplomas referidos nos artigos 24.º e 30.º, o IICT mantém a estrutura orgânica e a organização interna decorrentes dos Decretos-Leis n.os [532/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/532-1979-231283), de 31 de Dezembro, [105/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-1982-607130), de 8 de Abril, e [160/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-1983-311663), de 19 de Abril, bem como o quadro de pessoal actualmente em vigor."
+  },
+  "72310813fb2e1f9c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 34.º — Disposições sobre património",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Disposições sobre património\n\nFicam sob a titularidade do IICT todos os bens e direitos de natureza patrimonial, mobiliária e imobiliária, que na data da entrada em vigor do presente diploma constituem o seu património próprio."
+  },
+  "4881af27859c8bea": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 35.º — Transição de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Transição de pessoal\n\nO pessoal pertencente ao quadro do IICT transita para o quadro de pessoal a que se refere o artigo 30.º do presente diploma, nos termos do [Decreto-Lei n.º 193/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/193-2002-647501), de 25 de Setembro."
+  },
+  "78cd9d17572fc9ff": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 36.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Norma revogatória\n\n1 - Sem prejuízo do disposto no artigo 33.º, são revogadas as disposições dos Decretos-Leis n.os [532/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/532-1979-231283), de 31 de Dezembro, [105/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-1982-607130), de 8 de Abril, e [160/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-1983-311663), de 19 de Abril, que contrariem o presente diploma.\n\n2 - Com a entrada em vigor do decreto regulamentar referido no artigo 24.º, são revogadas as restantes disposições dos diplomas aludidos no número anterior."
+  },
+  "ccec5db14c9ce41f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 37.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação.\n\nVisto e aprovado em Conselho de Ministros de 18 de Setembro de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - António Manuel de Mendonça Martins da Cruz - Carlos Manuel Tavares da Silva - Pedro Lynce de Faria.\n\nPromulgado em 6 de Novembro de 2003.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 12 de Novembro de 2003.\n\nO Primeiro-Ministro, José Manuel Durão Barroso."
+  },
+  "0ad791eb919e2815": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Quadro de pessoal dirigente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — Quadro de pessoal dirigente\n\n(artigo 30.º, n.º 1)\n\n[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/11/270a00/79427948.pdf)"
+  },
+  "e6046b3f21915ae2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 155/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-2007-521019), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 1.º — Natureza\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 155/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-2007-521019), publicado em 2007-04-27."
+  },
+  "6cedd67320ab7c2a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Missão",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 155/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-2007-521019), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 2.º — Missão\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 155/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-2007-521019), publicado em 2007-04-27."
+  },
+  "9eb30474ddc0a3f8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Princípios orientadores",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 155/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-2007-521019), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 3.º — Princípios orientadores\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 155/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-2007-521019), publicado em 2007-04-27."
+  },
+  "21894256045872b2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Atribuições",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 155/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-2007-521019), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 4.º — Atribuições\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 155/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-2007-521019), publicado em 2007-04-27."
+  },
+  "92c1c0d9da5285c8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Cooperação com outras entidades",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 155/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-2007-521019), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 5.º — Cooperação com outras entidades\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 155/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-2007-521019), publicado em 2007-04-27."
+  },
+  "b32f9d7c28963c99": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Tutela e superintendência",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 155/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-2007-521019), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 6.º — Tutela e superintendência\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 155/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-2007-521019), publicado em 2007-04-27."
+  },
+  "4b46871d05e0313a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Órgãos",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 155/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-2007-521019), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 7.º — Órgãos\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 155/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-2007-521019), publicado em 2007-04-27."
+  },
+  "e9166ffe542fd84d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Presidente",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 155/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-2007-521019), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 8.º — Presidente\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 155/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-2007-521019), publicado em 2007-04-27."
+  },
+  "a96476bb1adf3a82": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Competências",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 155/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-2007-521019), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 9.º — Competências\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 155/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-2007-521019), publicado em 2007-04-27."
+  },
+  "64827c6c3a931fab": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Composição",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 155/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-2007-521019), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 10.º — Composição\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 155/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-2007-521019), publicado em 2007-04-27."
+  },
+  "744bef8bfb005db7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Competências",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 155/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-2007-521019), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 11.º — Competências\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 155/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-2007-521019), publicado em 2007-04-27."
+  },
+  "0709880031bee0fb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Funcionamento",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 155/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-2007-521019), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 12.º — Funcionamento\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 155/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-2007-521019), publicado em 2007-04-27."
+  },
+  "a4d28fdfcd9c60b4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Composição",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 155/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-2007-521019), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 13.º — Composição\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 155/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-2007-521019), publicado em 2007-04-27."
+  },
+  "621a338cad11c5a0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Competências",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 155/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-2007-521019), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 14.º — Competências\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 155/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-2007-521019), publicado em 2007-04-27."
+  },
+  "a13244cfa9240754": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Funcionamento",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 155/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-2007-521019), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 15.º — Funcionamento\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 155/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-2007-521019), publicado em 2007-04-27."
+  },
+  "33039f9723e194b8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Composição",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 155/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-2007-521019), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 16.º — Composição\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 155/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-2007-521019), publicado em 2007-04-27."
+  },
+  "c23461a47d5544f8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Competências",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 155/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-2007-521019), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 17.º — Competências\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 155/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-2007-521019), publicado em 2007-04-27."
+  },
+  "9f275165a461f4e6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Funcionamento",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 155/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-2007-521019), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 18.º — Funcionamento\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 155/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-2007-521019), publicado em 2007-04-27."
+  },
+  "872c30ff14a4b31a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Composição",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 155/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-2007-521019), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 19.º — Composição\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 155/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-2007-521019), publicado em 2007-04-27."
+  },
+  "427ca30a02511b3e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Competências",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 155/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-2007-521019), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 20.º — Competências\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 155/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-2007-521019), publicado em 2007-04-27."
+  },
+  "96776359e04c2d6e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Funcionamento",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 155/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-2007-521019), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 21.º — Funcionamento\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 155/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-2007-521019), publicado em 2007-04-27."
+  },
+  "f3c4a902c7c9443d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Composição",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 155/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-2007-521019), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 22.º — Composição\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 155/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-2007-521019), publicado em 2007-04-27."
+  },
+  "12a8f0c70d888987": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Competências",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 155/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-2007-521019), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 23.º — Competências\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 155/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-2007-521019), publicado em 2007-04-27."
+  },
+  "cb40b12378067dc1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — Estrutura geral e organização",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 155/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-2007-521019), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 24.º — Estrutura geral e organização\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 155/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-2007-521019), publicado em 2007-04-27."
+  },
+  "1d8c612e55e009a4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Centros de actividades",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 155/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-2007-521019), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 25.º — Centros de actividades\n\n1 - (Revogado.)\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\n4 - Por despacho do presidente, pode ser atribuída a função de coordenador, em cada centro de actividades, a um dos trabalhadores que a integre, de acordo com o mérito e o perfil para o efeito identificados, o qual aufere um suplemento remuneratório mensal correspondente à percentagem de 10% da remuneração correspondente ao cargo de chefe de divisão, até ao limite máximo de 12 prestações por ano, e que não releva para efeitos de aposentação.\n\n5 - (Revogado.)\n\n> Alterado pelo/a [Decreto-Lei n.º 155/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-2007-521019), publicado em 2007-04-27."
+  },
+  "59f1f5d57761aecd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — Gestão financeira",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 155/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-2007-521019), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 26.º — Gestão financeira\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 155/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-2007-521019), publicado em 2007-04-27."
+  },
+  "38e8755d8488227a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º — Receitas",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 155/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-2007-521019), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 27.º — Receitas\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 155/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-2007-521019), publicado em 2007-04-27."
+  },
+  "c607b4591eadc1b8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º — Despesas",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 155/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-2007-521019), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 28.º — Despesas\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 155/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-2007-521019), publicado em 2007-04-27."
+  },
+  "841e7775b971bd82": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º — Património",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 155/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-2007-521019), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 29.º — Património\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 155/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-2007-521019), publicado em 2007-04-27."
+  },
+  "ba411ff591967eaf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º — Quadro de pessoal",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 155/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-2007-521019), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 30.º — Quadro de pessoal\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 155/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-2007-521019), publicado em 2007-04-27."
+  },
+  "109bb39e1e2850a3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º — Confidencialidade",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 155/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-2007-521019), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 31.º — Confidencialidade\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 155/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-2007-521019), publicado em 2007-04-27."
+  },
+  "25adcb0be976f77b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º — Dever especial de sigilo",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 155/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-2007-521019), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 32.º — Dever especial de sigilo\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 155/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-2007-521019), publicado em 2007-04-27."
+  },
+  "7f33015b0db9fee1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 33.º — Normas transitórias de funcionamento",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 155/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-2007-521019), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 33.º — Normas transitórias de funcionamento\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 155/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-2007-521019), publicado em 2007-04-27."
+  },
+  "d710d512aac5839d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 34.º — Disposições sobre património",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 155/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-2007-521019), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 34.º — Disposições sobre património\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 155/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-2007-521019), publicado em 2007-04-27."
+  },
+  "0bea287e36adab7e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 35.º — Transição de pessoal",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 155/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-2007-521019), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 35.º — Transição de pessoal\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 155/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-2007-521019), publicado em 2007-04-27."
+  },
+  "25f71713ceb1a122": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 36.º — Norma revogatória",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 155/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-2007-521019), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 36.º — Norma revogatória\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 155/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-2007-521019), publicado em 2007-04-27."
+  },
+  "39ae27f992f5718b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 37.º — Entrada em vigor",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 155/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-2007-521019), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 37.º — Entrada em vigor\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 155/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-2007-521019), publicado em 2007-04-27.\n\nVisto e aprovado em Conselho de Ministros de 18 de Setembro de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - António Manuel de Mendonça Martins da Cruz - Carlos Manuel Tavares da Silva - Pedro Lynce de Faria.\n\nPromulgado em 6 de Novembro de 2003.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 12 de Novembro de 2003.\n\nO Primeiro-Ministro, José Manuel Durão Barroso."
+  },
+  "c9b328d2eb24d4bf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Quadro de pessoal dirigente",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 155/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-2007-521019), publicado em 2007-04-27."
+   ],
+   "markdown": "## ANEXO — Quadro de pessoal dirigente\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 155/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-2007-521019), publicado em 2007-04-27."
+  }
+ }
+}

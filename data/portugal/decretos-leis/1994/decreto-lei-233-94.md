@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2008-03-01'
+version_history:
+  file: decreto-lei-233-94.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1994-09-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-03-01'
+    amending: pt:dre:468663:por
+    amending_title: Lei n.º 12-A/2008
+    changes:
+    - Altera Artigo 4.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/233/1994/09/15/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:32:58Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Lei n.º 12-A/2008. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1994/decreto-lei-233-94.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -169,9 +184,9 @@ a) ...
 
 b) ...
 
-Art. 2.º - 1 - Compete aos dirigentes máximos dos serviços e organismos públicos, no despacho de autorização de abertura do concurso para admissão a estágio para lugares de ingresso nas carreiras técnica superior e técnica, especificar as áreas de formação consideradas adequadas ao exercício das funções correspondentes aos lugares a prover.
+Art. 2.º - (Revogado.)
 
-2 - A especificação referida no número anterior deve constar do aviso de abertura do concurso respectivo.
+> Alterado pelo/a [Lei n.º 12-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663), publicado em 2008-02-27.
 
 Visto e aprovado em Conselho de Ministros de 21 de Julho de 1994. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga.
 

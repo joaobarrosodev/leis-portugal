@@ -1,0 +1,717 @@
+[
+ {
+  "id": "pt:dre:245747:por",
+  "artigos": [
+   {
+    "artigo": "Trecho 1",
+    "veredicto": "certo",
+    "motivo": "Só a formatação do título do capítulo; igual à republicação.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 2",
+    "veredicto": "dúvida",
+    "motivo": "Base I igual à republicação, mas a alínea nn) diverge do art. 1.º: o art. 1.º diz «nos termos da Base VII» e o consolidado (como a republicação) «nos termos do n.º 1 da base VII». Restantes diferenças são de pontuação.",
+    "texto_esperado": "nn) Empreendimento Concessionado - o conjunto dos bens que integram a Concessão, nos termos da Base VII;"
+   },
+   {
+    "artigo": "Trecho 3",
+    "veredicto": "certo",
+    "motivo": "Base II: Igual, letra a letra, à republicação (anexo do DL 214-C/2015, art. 6.º), que aplica as alterações dos arts. 1.º, 2.º e 5.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 4",
+    "veredicto": "certo",
+    "motivo": "Base II: Igual, letra a letra, à republicação (anexo do DL 214-C/2015, art. 6.º), que aplica as alterações dos arts. 1.º, 2.º e 5.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 5",
+    "veredicto": "certo",
+    "motivo": "Base II: Igual, letra a letra, à republicação (anexo do DL 214-C/2015, art. 6.º), que aplica as alterações dos arts. 1.º, 2.º e 5.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 6",
+    "veredicto": "certo",
+    "motivo": "Base III não alterada; texto da republicação (grafia e tempo verbal no presente, art. 6.º, n.º 2).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 7",
+    "veredicto": "certo",
+    "motivo": "Base IV: Igual, letra a letra, à republicação (anexo do DL 214-C/2015, art. 6.º), que aplica as alterações dos arts. 1.º, 2.º e 5.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 8",
+    "veredicto": "certo",
+    "motivo": "Base V: Igual, letra a letra, à republicação (anexo do DL 214-C/2015, art. 6.º), que aplica as alterações dos arts. 1.º, 2.º e 5.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 9",
+    "veredicto": "certo",
+    "motivo": "Base VI: Igual, letra a letra, à republicação (anexo do DL 214-C/2015, art. 6.º), que aplica as alterações dos arts. 1.º, 2.º e 5.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 10",
+    "veredicto": "certo",
+    "motivo": "Base VII: Igual, letra a letra, à republicação (anexo do DL 214-C/2015, art. 6.º), que aplica as alterações dos arts. 1.º, 2.º e 5.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 11",
+    "veredicto": "certo",
+    "motivo": "Base VII: Igual, letra a letra, à republicação (anexo do DL 214-C/2015, art. 6.º), que aplica as alterações dos arts. 1.º, 2.º e 5.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 12",
+    "veredicto": "certo",
+    "motivo": "Base VIII: Igual, letra a letra, à republicação (anexo do DL 214-C/2015, art. 6.º), que aplica as alterações dos arts. 1.º, 2.º e 5.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 13",
+    "veredicto": "errado",
+    "motivo": "Base IX: o art. 1.º dá nova redação com n.º 7 («A Concessionária apenas pode alienar…») e n.os 8 a 15; o consolidado segue a republicação, que omite o n.º 7 e renumera 8-15 como 7-14.",
+    "texto_esperado": "7 - A Concessionária apenas pode alienar os bens mencionados no número anterior se proceder à sua imediata substituição por outros com condições de operacionalidade, qualidade e funcionamento idênticas ou superiores, exceto tratando-se de bens que comprovadamente tenham perdido utilidade para a Concessão.\n\n8 - Os bens e direitos que tenham perdido a sua utilidade para a Concessão são abatidos ao inventário referido no n.º 3 da base VII, mediante prévia autorização do Concedente, que se considera concedida se este não se opuser no prazo de 30 dias contados da data da receção do pedido de abate.\n\n9 - Os termos dos negócios efetuados ao abrigo do n.º 5 devem ser comunicados ao Concedente, no prazo de 30 dias após a data da sua realização, sem prejuízo do disposto no número seguinte.\n\n10 - Ao longo dos últimos cinco anos de duração da Concessão, os termos dos negócios referidos no n.º 5 devem ser comunicados pela Concessionária ao Concedente com uma antecedência mínima de 30 dias, podendo este opor-se, fundamentadamente e de acordo com critérios de razoabilidade, à sua concretização nos 10 dias seguintes à receção daquela comunicação.\n\n11 - A oposição do Concedente nos termos do número anterior impede a Concessionária de realizar o negócio em vista, sob pena de nulidade.\n\n12 - As instalações e os equipamentos de via de cobrança de taxas de portagem, [...] para a sociedade cessionária.\n\n13 - Sem prejuízo do disposto nos n.os 7 e 8 da base LXXXI, revertem automaticamente para o Concedente, [...] o Estabelecimento da Concessão.\n\n14 - (anterior n.º 11) Os bens e direitos da Concessionária que não integram a Concessão [...] podem ser alienados, onerados ou substituídos pela Concessionária.\n\n15 - (anterior n.º 12) Os bens referidos no número anterior podem ser adquiridos pelo Concedente [...]."
+   },
+   {
+    "artigo": "Trecho 14",
+    "veredicto": "certo",
+    "motivo": "Só a formatação do título do capítulo; igual à republicação.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 15",
+    "veredicto": "certo",
+    "motivo": "Base XI: Igual, letra a letra, à republicação (anexo do DL 214-C/2015, art. 6.º), que aplica as alterações dos arts. 1.º, 2.º e 5.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 16",
+    "veredicto": "certo",
+    "motivo": "Base XII: Igual, letra a letra, à republicação (anexo do DL 214-C/2015, art. 6.º), que aplica as alterações dos arts. 1.º, 2.º e 5.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 17",
+    "veredicto": "certo",
+    "motivo": "Base XIII: Igual, letra a letra, à republicação (anexo do DL 214-C/2015, art. 6.º), que aplica as alterações dos arts. 1.º, 2.º e 5.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 18",
+    "veredicto": "certo",
+    "motivo": "Base XIII: Igual, letra a letra, à republicação (anexo do DL 214-C/2015, art. 6.º), que aplica as alterações dos arts. 1.º, 2.º e 5.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 19",
+    "veredicto": "certo",
+    "motivo": "Base XIV: Igual, letra a letra, à republicação (anexo do DL 214-C/2015, art. 6.º), que aplica as alterações dos arts. 1.º, 2.º e 5.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 20",
+    "veredicto": "certo",
+    "motivo": "Base XV: Igual, letra a letra, à republicação (anexo do DL 214-C/2015, art. 6.º), que aplica as alterações dos arts. 1.º, 2.º e 5.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 21",
+    "veredicto": "certo",
+    "motivo": "Base XVI: Igual, letra a letra, à republicação (anexo do DL 214-C/2015, art. 6.º), que aplica as alterações dos arts. 1.º, 2.º e 5.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 22",
+    "veredicto": "certo",
+    "motivo": "Base XVII: Igual, letra a letra, à republicação (anexo do DL 214-C/2015, art. 6.º), que aplica as alterações dos arts. 1.º, 2.º e 5.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 23",
+    "veredicto": "certo",
+    "motivo": "Base XVIII: Igual, letra a letra, à republicação (anexo do DL 214-C/2015, art. 6.º), que aplica as alterações dos arts. 1.º, 2.º e 5.º. Epígrafes de capítulo conforme o art. 3.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 24",
+    "veredicto": "certo",
+    "motivo": "Base XIX: Igual, letra a letra, à republicação (anexo do DL 214-C/2015, art. 6.º), que aplica as alterações dos arts. 1.º, 2.º e 5.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 25",
+    "veredicto": "certo",
+    "motivo": "Base XX: Igual, letra a letra, à republicação (anexo do DL 214-C/2015, art. 6.º), que aplica as alterações dos arts. 1.º, 2.º e 5.º. Epígrafes de capítulo conforme o art. 3.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 26",
+    "veredicto": "certo",
+    "motivo": "Base XXI não alterada; texto da republicação (grafia e tempo verbal no presente, art. 6.º, n.º 2).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 27",
+    "veredicto": "certo",
+    "motivo": "Base XXII: Igual, letra a letra, à republicação (anexo do DL 214-C/2015, art. 6.º), que aplica as alterações dos arts. 1.º, 2.º e 5.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 28",
+    "veredicto": "certo",
+    "motivo": "Base XXIII: Igual, letra a letra, à republicação (anexo do DL 214-C/2015, art. 6.º), que aplica as alterações dos arts. 1.º, 2.º e 5.º. Epígrafes de capítulo conforme o art. 3.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 29",
+    "veredicto": "certo",
+    "motivo": "Base XXIV: Igual, letra a letra, à republicação (anexo do DL 214-C/2015, art. 6.º), que aplica as alterações dos arts. 1.º, 2.º e 5.º. Epígrafes de capítulo conforme o art. 3.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 30",
+    "veredicto": "certo",
+    "motivo": "Base XXV: Igual, letra a letra, à republicação (anexo do DL 214-C/2015, art. 6.º), que aplica as alterações dos arts. 1.º, 2.º e 5.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 31",
+    "veredicto": "errado",
+    "motivo": "Base XXVI: o art. 1.º mantém os n.os 1 e 3 ([...]) e dá nova redação ao n.º 2; o consolidado (como a republicação) numera-os 4, 5 e 6.",
+    "texto_esperado": "1 - As datas limite de entrada em serviço de cada um dos Lanços referidos no n.º 1 da base II são as seguintes:\n\na) [...];\n\nb) [...].\n\n2 - Em qualquer alteração ao Programa de Trabalhos, ainda que permitida ao abrigo das disposições destas bases, deve a Concessionária respeitar os prazos limite indicados no número anterior e no n.º 2 da base XXV.\n\n3 - A Concessionária não pode ser responsabilizada por atrasos [...]."
+   },
+   {
+    "artigo": "Trecho 32",
+    "veredicto": "certo",
+    "motivo": "Base XXVII: Igual, letra a letra, à republicação (anexo do DL 214-C/2015, art. 6.º), que aplica as alterações dos arts. 1.º, 2.º e 5.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 33",
+    "veredicto": "certo",
+    "motivo": "Base XXVII: Igual, letra a letra, à republicação (anexo do DL 214-C/2015, art. 6.º), que aplica as alterações dos arts. 1.º, 2.º e 5.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 34",
+    "veredicto": "certo",
+    "motivo": "Base XXVIII: Igual, letra a letra, à republicação (anexo do DL 214-C/2015, art. 6.º), que aplica as alterações dos arts. 1.º, 2.º e 5.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 35",
+    "veredicto": "certo",
+    "motivo": "Base XXIX: Igual, letra a letra, à republicação (anexo do DL 214-C/2015, art. 6.º), que aplica as alterações dos arts. 1.º, 2.º e 5.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 36",
+    "veredicto": "certo",
+    "motivo": "Base XXIX: Igual, letra a letra, à republicação (anexo do DL 214-C/2015, art. 6.º), que aplica as alterações dos arts. 1.º, 2.º e 5.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 37",
+    "veredicto": "certo",
+    "motivo": "Base XXIX: Igual, letra a letra, à republicação (anexo do DL 214-C/2015, art. 6.º), que aplica as alterações dos arts. 1.º, 2.º e 5.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 38",
+    "veredicto": "dúvida",
+    "motivo": "Base XXIX, n.º 4: o art. 1.º letra as alíneas finais w) a bb) (w) = anterior u)); o consolidado segue a republicação, que salta o w) e as letra x) a cc). Conteúdo igual, letras diferentes.",
+    "texto_esperado": "w) Centro de assistência e manutenção;\n\nx) Áreas de Serviço e áreas de repouso;\n\ny) Projetos complementares;\n\nz) Expropriações;\n\naa) Relatório das medidas de minimização de impactes ambientais;\n\nbb) Auditoria de segurança."
+   },
+   {
+    "artigo": "Trecho 39",
+    "veredicto": "certo",
+    "motivo": "Base XXIX: Igual, letra a letra, à republicação (anexo do DL 214-C/2015, art. 6.º), que aplica as alterações dos arts. 1.º, 2.º e 5.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 40",
+    "veredicto": "certo",
+    "motivo": "Base XXX: Igual, letra a letra, à republicação (anexo do DL 214-C/2015, art. 6.º), que aplica as alterações dos arts. 1.º, 2.º e 5.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 41",
+    "veredicto": "certo",
+    "motivo": "Base XXXI: Igual, letra a letra, à republicação (anexo do DL 214-C/2015, art. 6.º), que aplica as alterações dos arts. 1.º, 2.º e 5.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 42",
+    "veredicto": "certo",
+    "motivo": "Base XXXII: Igual, letra a letra, à republicação (anexo do DL 214-C/2015, art. 6.º), que aplica as alterações dos arts. 1.º, 2.º e 5.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 43",
+    "veredicto": "certo",
+    "motivo": "Base XXXIII: Igual, letra a letra, à republicação (anexo do DL 214-C/2015, art. 6.º), que aplica as alterações dos arts. 1.º, 2.º e 5.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 44",
+    "veredicto": "certo",
+    "motivo": "Base XXXIV: Igual, letra a letra, à republicação (anexo do DL 214-C/2015, art. 6.º), que aplica as alterações dos arts. 1.º, 2.º e 5.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 45",
+    "veredicto": "certo",
+    "motivo": "Base XXXV: Igual, letra a letra, à republicação (anexo do DL 214-C/2015, art. 6.º), que aplica as alterações dos arts. 1.º, 2.º e 5.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 46",
+    "veredicto": "certo",
+    "motivo": "Base XXXVI não alterada; texto da republicação (grafia e tempo verbal no presente, art. 6.º, n.º 2).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 47",
+    "veredicto": "certo",
+    "motivo": "Base XXXVII: Igual, letra a letra, à republicação (anexo do DL 214-C/2015, art. 6.º), que aplica as alterações dos arts. 1.º, 2.º e 5.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 48",
+    "veredicto": "certo",
+    "motivo": "Base XXXVIII: Igual, letra a letra, à republicação (anexo do DL 214-C/2015, art. 6.º), que aplica as alterações dos arts. 1.º, 2.º e 5.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 49",
+    "veredicto": "certo",
+    "motivo": "Base XXXIX: Igual, letra a letra, à republicação (anexo do DL 214-C/2015, art. 6.º), que aplica as alterações dos arts. 1.º, 2.º e 5.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 50",
+    "veredicto": "certo",
+    "motivo": "Base XL: Igual, letra a letra, à republicação (anexo do DL 214-C/2015, art. 6.º), que aplica as alterações dos arts. 1.º, 2.º e 5.º. Epígrafes de capítulo conforme o art. 3.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 51",
+    "veredicto": "certo",
+    "motivo": "Base XLI: Igual, letra a letra, à republicação (anexo do DL 214-C/2015, art. 6.º), que aplica as alterações dos arts. 1.º, 2.º e 5.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 52",
+    "veredicto": "certo",
+    "motivo": "Base XLII: Igual, letra a letra, à republicação (anexo do DL 214-C/2015, art. 6.º), que aplica as alterações dos arts. 1.º, 2.º e 5.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 53",
+    "veredicto": "certo",
+    "motivo": "Base XLII: Igual, letra a letra, à republicação (anexo do DL 214-C/2015, art. 6.º), que aplica as alterações dos arts. 1.º, 2.º e 5.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 54",
+    "veredicto": "certo",
+    "motivo": "Base XLIII: Igual, letra a letra, à republicação (anexo do DL 214-C/2015, art. 6.º), que aplica as alterações dos arts. 1.º, 2.º e 5.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 55",
+    "veredicto": "certo",
+    "motivo": "Base XLIV não alterada; texto da republicação (grafia e tempo verbal no presente, art. 6.º, n.º 2). Epígrafes de capítulo conforme o art. 3.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 56",
+    "veredicto": "certo",
+    "motivo": "Base XLV: Igual, letra a letra, à republicação (anexo do DL 214-C/2015, art. 6.º), que aplica as alterações dos arts. 1.º, 2.º e 5.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 57",
+    "veredicto": "certo",
+    "motivo": "Base XLVI: Igual, letra a letra, à republicação (anexo do DL 214-C/2015, art. 6.º), que aplica as alterações dos arts. 1.º, 2.º e 5.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 58",
+    "veredicto": "certo",
+    "motivo": "Base XLVII: Igual, letra a letra, à republicação (anexo do DL 214-C/2015, art. 6.º), que aplica as alterações dos arts. 1.º, 2.º e 5.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 59",
+    "veredicto": "certo",
+    "motivo": "Base XLVIII: Igual, letra a letra, à republicação (anexo do DL 214-C/2015, art. 6.º), que aplica as alterações dos arts. 1.º, 2.º e 5.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 60",
+    "veredicto": "certo",
+    "motivo": "Base XLIX: Igual, letra a letra, à republicação (anexo do DL 214-C/2015, art. 6.º), que aplica as alterações dos arts. 1.º, 2.º e 5.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 61",
+    "veredicto": "certo",
+    "motivo": "Base L: Igual, letra a letra, à republicação (anexo do DL 214-C/2015, art. 6.º), que aplica as alterações dos arts. 1.º, 2.º e 5.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 62",
+    "veredicto": "certo",
+    "motivo": "Base L: Igual, letra a letra, à republicação (anexo do DL 214-C/2015, art. 6.º), que aplica as alterações dos arts. 1.º, 2.º e 5.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 63",
+    "veredicto": "certo",
+    "motivo": "Base L: Igual, letra a letra, à republicação (anexo do DL 214-C/2015, art. 6.º), que aplica as alterações dos arts. 1.º, 2.º e 5.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 64",
+    "veredicto": "certo",
+    "motivo": "Base LI: Igual, letra a letra, à republicação (anexo do DL 214-C/2015, art. 6.º), que aplica as alterações dos arts. 1.º, 2.º e 5.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 65",
+    "veredicto": "certo",
+    "motivo": "Base LII: Igual, letra a letra, à republicação (anexo do DL 214-C/2015, art. 6.º), que aplica as alterações dos arts. 1.º, 2.º e 5.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 66",
+    "veredicto": "certo",
+    "motivo": "Base LIII: Igual, letra a letra, à republicação (anexo do DL 214-C/2015, art. 6.º), que aplica as alterações dos arts. 1.º, 2.º e 5.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 67",
+    "veredicto": "certo",
+    "motivo": "Base LIV: Igual, letra a letra, à republicação (anexo do DL 214-C/2015, art. 6.º), que aplica as alterações dos arts. 1.º, 2.º e 5.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 68",
+    "veredicto": "certo",
+    "motivo": "Base LV: Igual, letra a letra, à republicação (anexo do DL 214-C/2015, art. 6.º), que aplica as alterações dos arts. 1.º, 2.º e 5.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 69",
+    "veredicto": "certo",
+    "motivo": "Base LVI: Igual, letra a letra, à republicação (anexo do DL 214-C/2015, art. 6.º), que aplica as alterações dos arts. 1.º, 2.º e 5.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 70",
+    "veredicto": "errado",
+    "motivo": "Capítulo X-A: falta o título da Subsecção III «Remuneração pelo serviço de cobrança de taxas de portagem» (bases LVII-M a LVII-R), mandado criar pelo art. 3.º, alínea f), v), C); a republicação também o omite. Dúvidas adicionais: a epígrafe da Secção II é «Sistemas de Cobrança de Portagens», e o art. 3.º diz «Sistema de cobrança de taxas de portagem»; na base LVII-G, n.º 1, a última alínea é l), e o art. 2.º diz k). Bases LVII-A a LVII-BB, quanto ao resto, iguais ao art. 2.º e à republicação.",
+    "texto_esperado": "SUBSECÇÃO III\n\nRemuneração pelo serviço de cobrança de taxas de portagem\n\n(antes de «Base LVII-M»); epígrafe da SECÇÃO II: «Sistema de cobrança de taxas de portagem»; base LVII-G, n.º 1: «k) Veículos afetos à ANSR - …»"
+   },
+   {
+    "artigo": "Trecho 71",
+    "veredicto": "certo",
+    "motivo": "Base LVIII: Igual, letra a letra, à republicação (anexo do DL 214-C/2015, art. 6.º), que aplica as alterações dos arts. 1.º, 2.º e 5.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 72",
+    "veredicto": "certo",
+    "motivo": "Base LVIII: Igual, letra a letra, à republicação (anexo do DL 214-C/2015, art. 6.º), que aplica as alterações dos arts. 1.º, 2.º e 5.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 73",
+    "veredicto": "certo",
+    "motivo": "Base LIX: Igual, letra a letra, à republicação (anexo do DL 214-C/2015, art. 6.º), que aplica as alterações dos arts. 1.º, 2.º e 5.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 74",
+    "veredicto": "certo",
+    "motivo": "Base LIX: Igual, letra a letra, à republicação (anexo do DL 214-C/2015, art. 6.º), que aplica as alterações dos arts. 1.º, 2.º e 5.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 75",
+    "veredicto": "certo",
+    "motivo": "Base LX: Igual, letra a letra, à republicação (anexo do DL 214-C/2015, art. 6.º), que aplica as alterações dos arts. 1.º, 2.º e 5.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 76",
+    "veredicto": "certo",
+    "motivo": "Base LXI: Igual, letra a letra, à republicação (anexo do DL 214-C/2015, art. 6.º), que aplica as alterações dos arts. 1.º, 2.º e 5.º. Epígrafes de capítulo conforme o art. 3.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 77",
+    "veredicto": "certo",
+    "motivo": "Base LXII: Igual, letra a letra, à republicação (anexo do DL 214-C/2015, art. 6.º), que aplica as alterações dos arts. 1.º, 2.º e 5.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 78",
+    "veredicto": "certo",
+    "motivo": "Base LXIII: Igual, letra a letra, à republicação (anexo do DL 214-C/2015, art. 6.º), que aplica as alterações dos arts. 1.º, 2.º e 5.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 79",
+    "veredicto": "certo",
+    "motivo": "Base LXIV: Igual, letra a letra, à republicação (anexo do DL 214-C/2015, art. 6.º), que aplica as alterações dos arts. 1.º, 2.º e 5.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 80",
+    "veredicto": "certo",
+    "motivo": "Base LXV: Igual, letra a letra, à republicação (anexo do DL 214-C/2015, art. 6.º), que aplica as alterações dos arts. 1.º, 2.º e 5.º. Epígrafes de capítulo conforme o art. 3.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 81",
+    "veredicto": "certo",
+    "motivo": "Base LXVI: Igual, letra a letra, à republicação (anexo do DL 214-C/2015, art. 6.º), que aplica as alterações dos arts. 1.º, 2.º e 5.º. Epígrafes de capítulo conforme o art. 3.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 82",
+    "veredicto": "certo",
+    "motivo": "Base LXVII: Igual, letra a letra, à republicação (anexo do DL 214-C/2015, art. 6.º), que aplica as alterações dos arts. 1.º, 2.º e 5.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 83",
+    "veredicto": "certo",
+    "motivo": "Base LXVII: Igual, letra a letra, à republicação (anexo do DL 214-C/2015, art. 6.º), que aplica as alterações dos arts. 1.º, 2.º e 5.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 84",
+    "veredicto": "certo",
+    "motivo": "Base LXVIII: Igual, letra a letra, à republicação (anexo do DL 214-C/2015, art. 6.º), que aplica as alterações dos arts. 1.º, 2.º e 5.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 85",
+    "veredicto": "certo",
+    "motivo": "Base LXVIII: Igual, letra a letra, à republicação (anexo do DL 214-C/2015, art. 6.º), que aplica as alterações dos arts. 1.º, 2.º e 5.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 86",
+    "veredicto": "certo",
+    "motivo": "Base LXIX: Igual, letra a letra, à republicação (anexo do DL 214-C/2015, art. 6.º), que aplica as alterações dos arts. 1.º, 2.º e 5.º. Epígrafes de capítulo conforme o art. 3.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 87",
+    "veredicto": "certo",
+    "motivo": "Base LXX: Igual, letra a letra, à republicação (anexo do DL 214-C/2015, art. 6.º), que aplica as alterações dos arts. 1.º, 2.º e 5.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 88",
+    "veredicto": "certo",
+    "motivo": "Base LXXI: Igual, letra a letra, à republicação (anexo do DL 214-C/2015, art. 6.º), que aplica as alterações dos arts. 1.º, 2.º e 5.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 89",
+    "veredicto": "certo",
+    "motivo": "Base LXXII: Igual, letra a letra, à republicação (anexo do DL 214-C/2015, art. 6.º), que aplica as alterações dos arts. 1.º, 2.º e 5.º. Epígrafes de capítulo conforme o art. 3.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 90",
+    "veredicto": "certo",
+    "motivo": "Base LXXIII não alterada; texto da republicação (grafia e tempo verbal no presente, art. 6.º, n.º 2).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 91",
+    "veredicto": "certo",
+    "motivo": "Base LXXIV: Igual, letra a letra, à republicação (anexo do DL 214-C/2015, art. 6.º), que aplica as alterações dos arts. 1.º, 2.º e 5.º. Epígrafes de capítulo conforme o art. 3.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 92",
+    "veredicto": "certo",
+    "motivo": "Base LXXV: Igual, letra a letra, à republicação (anexo do DL 214-C/2015, art. 6.º), que aplica as alterações dos arts. 1.º, 2.º e 5.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 93",
+    "veredicto": "certo",
+    "motivo": "Base LXXVI: Igual, letra a letra, à republicação (anexo do DL 214-C/2015, art. 6.º), que aplica as alterações dos arts. 1.º, 2.º e 5.º. Epígrafes de capítulo conforme o art. 3.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 94",
+    "veredicto": "certo",
+    "motivo": "Base LXXVII: Igual, letra a letra, à republicação (anexo do DL 214-C/2015, art. 6.º), que aplica as alterações dos arts. 1.º, 2.º e 5.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 95",
+    "veredicto": "certo",
+    "motivo": "Base LXXVIII: Igual, letra a letra, à republicação (anexo do DL 214-C/2015, art. 6.º), que aplica as alterações dos arts. 1.º, 2.º e 5.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 96",
+    "veredicto": "certo",
+    "motivo": "Base LXXVIII: Igual, letra a letra, à republicação (anexo do DL 214-C/2015, art. 6.º), que aplica as alterações dos arts. 1.º, 2.º e 5.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 97",
+    "veredicto": "dúvida",
+    "motivo": "Base LXXVIII, n.º 5: o art. 1.º diz «nos termos do capítulo II»; o consolidado (como a republicação e o original) diz «capítulo XII». Provável gralha do art. 1.º, mas é diferente do texto da alteração.",
+    "texto_esperado": "5 - … nos termos do capítulo II, …"
+   },
+   {
+    "artigo": "Trecho 98",
+    "veredicto": "certo",
+    "motivo": "Base LXXIX: Igual, letra a letra, à republicação (anexo do DL 214-C/2015, art. 6.º), que aplica as alterações dos arts. 1.º, 2.º e 5.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 99",
+    "veredicto": "certo",
+    "motivo": "Base LXXIX: Igual, letra a letra, à republicação (anexo do DL 214-C/2015, art. 6.º), que aplica as alterações dos arts. 1.º, 2.º e 5.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 100",
+    "veredicto": "certo",
+    "motivo": "Base LXXIX: Igual, letra a letra, à republicação (anexo do DL 214-C/2015, art. 6.º), que aplica as alterações dos arts. 1.º, 2.º e 5.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 101",
+    "veredicto": "certo",
+    "motivo": "Base LXXIX: Igual, letra a letra, à republicação (anexo do DL 214-C/2015, art. 6.º), que aplica as alterações dos arts. 1.º, 2.º e 5.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 102",
+    "veredicto": "certo",
+    "motivo": "Base LXXX: Igual, letra a letra, à republicação (anexo do DL 214-C/2015, art. 6.º), que aplica as alterações dos arts. 1.º, 2.º e 5.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 103",
+    "veredicto": "certo",
+    "motivo": "Base LXXXI: Igual, letra a letra, à republicação (anexo do DL 214-C/2015, art. 6.º), que aplica as alterações dos arts. 1.º, 2.º e 5.º. Epígrafes de capítulo conforme o art. 3.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 104",
+    "veredicto": "certo",
+    "motivo": "Base LXXXII: Igual, letra a letra, à republicação (anexo do DL 214-C/2015, art. 6.º), que aplica as alterações dos arts. 1.º, 2.º e 5.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 105",
+    "veredicto": "certo",
+    "motivo": "Base LXXXIII: Igual, letra a letra, à republicação (anexo do DL 214-C/2015, art. 6.º), que aplica as alterações dos arts. 1.º, 2.º e 5.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 106",
+    "veredicto": "certo",
+    "motivo": "Base LXXXIV: Igual, letra a letra, à republicação (anexo do DL 214-C/2015, art. 6.º), que aplica as alterações dos arts. 1.º, 2.º e 5.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 107",
+    "veredicto": "certo",
+    "motivo": "Base LXXXIV: Igual, letra a letra, à republicação (anexo do DL 214-C/2015, art. 6.º), que aplica as alterações dos arts. 1.º, 2.º e 5.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 108",
+    "veredicto": "certo",
+    "motivo": "Base LXXXIV: Igual, letra a letra, à republicação (anexo do DL 214-C/2015, art. 6.º), que aplica as alterações dos arts. 1.º, 2.º e 5.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 109",
+    "veredicto": "certo",
+    "motivo": "Base LXXXIV: Igual, letra a letra, à republicação (anexo do DL 214-C/2015, art. 6.º), que aplica as alterações dos arts. 1.º, 2.º e 5.º. Epígrafes de capítulo conforme o art. 3.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 110",
+    "veredicto": "certo",
+    "motivo": "Base LXXXV não alterada; texto da republicação (grafia e tempo verbal no presente, art. 6.º, n.º 2). Epígrafes de capítulo conforme o art. 3.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 111",
+    "veredicto": "certo",
+    "motivo": "Base LXXXVI: Igual, letra a letra, à republicação (anexo do DL 214-C/2015, art. 6.º), que aplica as alterações dos arts. 1.º, 2.º e 5.º. Epígrafes de capítulo conforme o art. 3.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 112",
+    "veredicto": "certo",
+    "motivo": "Base LXXXVII: Igual, letra a letra, à republicação (anexo do DL 214-C/2015, art. 6.º), que aplica as alterações dos arts. 1.º, 2.º e 5.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 113",
+    "veredicto": "certo",
+    "motivo": "Base LXXXVIII: Igual, letra a letra, à republicação (anexo do DL 214-C/2015, art. 6.º), que aplica as alterações dos arts. 1.º, 2.º e 5.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 114",
+    "veredicto": "certo",
+    "motivo": "Base LXXXIX: Igual, letra a letra, à republicação (anexo do DL 214-C/2015, art. 6.º), que aplica as alterações dos arts. 1.º, 2.º e 5.º. Epígrafes de capítulo conforme o art. 3.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 115",
+    "veredicto": "certo",
+    "motivo": "Base XC: Igual, letra a letra, à republicação (anexo do DL 214-C/2015, art. 6.º), que aplica as alterações dos arts. 1.º, 2.º e 5.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 116",
+    "veredicto": "certo",
+    "motivo": "Base XCI: Igual, letra a letra, à republicação (anexo do DL 214-C/2015, art. 6.º), que aplica as alterações dos arts. 1.º, 2.º e 5.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 117",
+    "veredicto": "certo",
+    "motivo": "Base XCI igual à republicação; no fim ficou uma nota «> Alterado pelo/a Decreto-Lei n.º 214-C/2015…», que não é texto do diploma (nota editorial, sem efeito na substância).",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [
+   "Art. 1.º, base IX, n.º 7 («A Concessionária apenas pode alienar os bens mencionados no número anterior…»): não está no consolidado (nem na republicação), e os n.os 8 a 15 ficaram como 7 a 14.",
+   "Art. 3.º, alínea f), v), C): a Subsecção III «Remuneração pelo serviço de cobrança de taxas de portagem» (bases LVII-M a LVII-R) não foi criada."
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": []
+ }
+]

@@ -39,10 +39,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1997-05-22'
+version_history:
+  file: decreto-legislativo-regional-3-94-a.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1994-01-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1997-05-22'
+    amending: pt:dre:398279:por
+    amending_title: Decreto Legislativo Regional n.º 5/97/A
+    changes:
+    - Altera Artigo 8.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/declegreg/3/1994/01/29/a/dre/pt/html
@@ -68,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:18:30Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Legislativo Regional n.º
+    5/97/A. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/acores/decretos-legislativos-regionais/1994/decreto-legislativo-regional-3-94-a.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -169,11 +186,11 @@ O número de candidatos a que se referem as alíneas a) e b) do n.º 2 do artigo
 
 2 - O recurso a entidades alheias à Administração Pública para a realização das operações referidas no número anterior que envolvam encargos financeiros fica condicionado a autorização do secretário regional competente, precedida de parecer da Secretaria Regional das Finanças, Planeamento e Administração Pública.
 
-###### Artigo 8.º — Correspondência de cargos e Jornal Oficial
+###### Artigo 8.º — Correspondência de cargos e publicitação
 
 1 - Na administração regional autónoma dos Açores as competências estabelecidas nas normas abaixo referidas do [Decreto-Lei n.º 498/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1988-401758), de 30 de Dezembro, são exercidas nos seguintes termos:
 
-a) Por despacho conjunto do Secretário Regional das Finanças, Planeamento e Administração Pública e do secretário regional competente, as competências previstas na alínea b) do artigo 7.º e no n.º 8 do artigo 26.º;
+a) Por despacho conjunto do Secretário Regional da Presidência para as Finanças e Planeamento e do secretário regional competente, as competências previstas na alínea b) do artigo 7.º e no n.º 8 do artigo 26.º;
 
 b) Por despacho do director regional de Organização e Administração Pública, a competência prevista na alínea c) do n.º 1 do artigo 14.º;
 
@@ -181,9 +198,17 @@ c) Por despacho da Direcção Regional de Organização e Administração Públi
 
 2 - As referências feitas no [Decreto-Lei n.º 498/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1988-401758), de 30 de Dezembro, ao Diário da República reportam-se, no que respeita à administração regional autónoma, ao Jornal Oficial.
 
-###### Artigo 9.º — Excepção ao regime previsto neste diploma
+3 - A publicitação do concurso deverá fazer-se, sempre que possível, através de órgãos de comunicação social de expansão nacional ou regional, obrigatória sempre que se trate de concursos externos, e de folhetos de divulgação.
 
-O regime previsto neste diploma não se aplica aos concursos abertos antes da sua entrada em vigor e até ao termo da sua validade.
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 5/97/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-1997-398279), publicado em 1997-05-21.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 5/97/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-1997-398279), publicado em 1997-05-21.
+
+###### Artigo 9.º
+
+O regime previsto no n.º 3 do artigo anterior aplica-se aos concursos que se encontrem pendentes à data da entrada em vigor do presente diploma.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 5/97/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-1997-398279), publicado em 1997-05-21.
 
 ###### Artigo 10.º — Entrada em vigor
 

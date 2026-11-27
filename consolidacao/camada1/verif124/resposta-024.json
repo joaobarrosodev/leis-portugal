@@ -1,0 +1,24 @@
+[
+  {
+    "id": "pt:dre:279796:por",
+    "artigos": [
+      {"artigo": "Artigo 34.º", "veredicto": "certo", "motivo": "Art. 1.º do DL 348/80: novo n.º 1 letra a letra; n.º 2 («...») mantido; epígrafe mantida.", "texto_esperado": ""},
+      {"artigo": "Artigo 46.º", "veredicto": "certo", "motivo": "Art. 1.º do DL 348/80: novo n.º 4 letra a letra; n.os 1 a 3 mantidos.", "texto_esperado": ""},
+      {"artigo": "Artigo 49.º", "veredicto": "certo", "motivo": "Art. 1.º do DL 348/80: novo corpo do n.º 1 («sucessivamente»), alíneas a) a d) mantidas, novo n.º 2, n.º 3 mantido.", "texto_esperado": ""},
+      {"artigo": "Artigo 66.º", "veredicto": "certo", "motivo": "Art. 1.º do DL 348/80: nova alínea i) letra a letra; restantes alíneas mantidas.", "texto_esperado": ""}
+    ],
+    "instrucoes_em_falta": [],
+    "instrucoes_justificadas": [
+      {"instrucao": "Lei 28/79, art. 1.º: nova redação dos arts. 27.º, 30.º, 54.º/154.º e 155.º da Lei 85/77", "motivo": "Confirmado: instrução dirigida à Lei 85/77, outro diploma."},
+      {"instrucao": "Lei 28/79, art. 2.º: nova redação dos arts. 89.º e 92.º da Lei 39/78", "motivo": "Confirmado: outro diploma."},
+      {"instrucao": "Lei 28/79, art. 3.º, alínea a): suspensão do n.º 2 do art. 49.º da Lei 82/77 até 31 de Dezembro de 1980", "motivo": "Confirmado: suspensão, não textual (e revogada pelo art. 13.º do DL 348/80)."},
+      {"instrucao": "DL 348/80, arts. 2.º a 4.º, 6.º e 13.º: alterações e revogações na Lei 85/77, no DL 269/78, na Lei 39/78 e na Lei 28/79", "motivo": "Confirmado: dirigidas a outros diplomas."},
+      {"instrucao": "DL 264-C/81", "motivo": "Confirmado: o texto que vem na vista é o do DL 264-B/81 (estrangeiros) e não menciona a Lei 82/77; o diploma que altera não traz o texto da alteração."},
+      {"instrucao": "Resolução 34/82: declaração de inconstitucionalidade com força obrigatória geral do n.º 3 do art. 83.º", "motivo": "Confirmado: declaração de inconstitucionalidade sem eliminar o texto; não textual."},
+      {"instrucao": "DL 118/85", "motivo": "Confirmado: só cita o art. 85.º da Lei 82/77 no preâmbulo; altera o Código das Custas Judiciais e revoga o DL 45698; nenhuma instrução dirigida ao original."}
+    ],
+    "artigos_a_mais": [],
+    "artigos_em_falta": [],
+    "fora_dos_artigos": "sem alterações"
+  }
+]

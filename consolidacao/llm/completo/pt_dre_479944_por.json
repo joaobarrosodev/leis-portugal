@@ -9,13 +9,18 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "Alteradores 1 (Decreto-Lei n.º 43704) e 3 (Decreto-Lei n.º 44906) elevam o subsídio do artigo 3.º (para 5400000$00 e 8150000$00) sem dar nova redação ao artigo; alteração não textual, artigo 3.º deixado como está.",
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, artigo único, elevação para 5400000$00 do subsídio previsto no art. 3.º: sem texto: o alterador eleva o montante sem dar nova redação ao art. 3.º\nAlterador 3, artigo único, elevação para 8150000$00 do subsídio previsto no art. 3.º: sem texto: o alterador eleva o montante sem dar nova redação ao art. 3.º",
   "instrucoes": [
-    "Alterador 1, artigo único: eleva para 5400000$00 o subsídio do artigo 3.º - sem nova redação, não aplicado ao texto.",
-    "Alterador 2, artigo único: nova redação dos §§ 1.º e 2.º do artigo 2.º e aditamento do § 4.º - aplicado; § 3.º mantido.",
-    "Alterador 3, artigo único: eleva para 8150000$00 o subsídio do artigo 3.º - sem nova redação, não aplicado ao texto."
+    "Alterador 1: eleva o subsídio do art. 3.º sem nova redação; em nao_aplicavel (sem texto).",
+    "Alterador 2: nova redação dos §§ 1.º e 2.º do art. 2.º e aditamento do § 4.º; corpo e § 3.º («...») ficam como no texto atual.",
+    "Alterador 3: eleva o subsídio do art. 3.º sem nova redação; em nao_aplicavel (sem texto)."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 124,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

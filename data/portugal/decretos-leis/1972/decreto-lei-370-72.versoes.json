@@ -1,0 +1,65 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:691069:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1972-09-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "93b7501e7e86b391"
+   ]
+  },
+  {
+   "date": "1976-09-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:408974:por",
+     "title": "Decreto-Lei n.º 698/76",
+     "published": "1976-09-27",
+     "dre_path": "/dr/detalhe/decreto-lei/698-1976-408974"
+    }
+   ],
+   "changes": [
+    "Altera Artigo único"
+   ],
+   "fragments": [
+    "a8970f19602ffc55",
+    "6ccbee1033a61008"
+   ]
+  }
+ ],
+ "fragments": {
+  "93b7501e7e86b391": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 30 de Setembro\n\nVerificando-se a necessidade de reajustar os efectivos da classe dos músicos da Armada, com vista a uma mais adequada estruturação das respectivas bandas;\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:\n\nArtigo único. Os efectivos da classe dos músicos da Armada fixados no mapa II anexo ao [Decreto-Lei n.º 48349](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48349-1968-234698), de 24 de Abril de 1968, passam a ser os seguintes:\n\nSargentos-ajudantes ... 2\n\nPrimeiros-sargentos e segundos-sargentos ... 68\n\nCabos ... 14\n\nMarinheiros ... 4\n\nPrimeiros-grumetes ... 4\n\n... 92\n\nVisto e aprovado em Conselho de Ministros. - Marcello Caetano - Horácio José de Sá Viana Rebelo - Manuel Artur Cotta Agostinho Dias - Manuel Pereira Crespo.\n\nPromulgado em 21 de Setembro de 1972.\n\nPublique-se.\n\nO Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ."
+  },
+  "a8970f19602ffc55": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 30 de Setembro\n\nVerificando-se a necessidade de reajustar os efectivos da classe dos músicos da Armada, com vista a uma mais adequada estruturação das respectivas bandas;\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:"
+  },
+  "6ccbee1033a61008": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo único",
+   "in_force_from": "1976-09-27",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 698/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/698-1976-408974), publicado em 1976-09-27."
+   ],
+   "markdown": "###### Artigo único\n\nOs efectivos da classe dos músicos da Armada fixados no mapa II anexo ao [Decreto-Lei n.º 48349](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48349-1968-234698), de 24 de Abril de 1968, passam a ser os seguintes:\n\nSargentos-ajudantes - 3.\n\nPrimeiros-sargentos e segundos-sargentos - 75.\n\nCabos - 26.\n\nPrimeiros-marinheiros - 8.\n\n> Alterado pelo/a [Decreto-Lei n.º 698/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/698-1976-408974), publicado em 1976-09-27.\n\nVisto e aprovado em Conselho de Ministros. - Marcello Caetano - Horácio José de Sá Viana Rebelo - Manuel Artur Cotta Agostinho Dias - Manuel Pereira Crespo.\n\nPromulgado em 21 de Setembro de 1972.\n\nPublique-se.\n\nO Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ."
+  }
+ }
+}

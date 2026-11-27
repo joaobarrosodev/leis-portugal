@@ -39,13 +39,18 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "Resolução n.º 139/79: declaração de inconstitucionalidade parcial do artigo 3.º ('na parte em que...'), referida ao texto inicial e sem alteração textual; não aplicada.",
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 2, declaração de inconstitucionalidade parcial da norma do artigo 3.º (na redação original): não textual (declaração de inconstitucionalidade sem eliminar o texto; o artigo 3.º já tinha nova redação dada pelo alterador 1)",
   "instrucoes": [
-    "Lei 1/77 art. 1.º: nova redação dos artigos 1.º (alínea c)), 2.º (alíneas a) e b), mantendo o proémio), 3.º, 4.º, 5.º e 6.º; aplicada.",
-    "Lei 1/77 art. 2.º: revoga o artigo 7.º; já consta como (Revogado.) no texto atual, nada a mudar.",
-    "Resolução 139/79: inconstitucionalidade parcial do art. 3.º; não textual, não aplicada."
+    "Alterador 1 (Lei n.º 1/77), art. 1.º: nova redação dos arts. 1.º a 6.º. No 1.º ficam o proémio e as alíneas a) e b) ('...') e muda a alínea c); no 2.º fica o proémio ('...') e mudam as alíneas a) e b); nos 3.º a 6.º o corpo é todo substituído pelo texto que vem depois do título ('...' no título do artigo, que não tem epígrafe)",
+    "Alterador 1, art. 2.º: revoga o art. 7.º; o texto atual (já alterado pelo programa) já tem '(Revogado.)': nada a mudar",
+    "Alterador 2 (Resolução n.º 139/79): inconstitucionalidade parcial do art. 3.º: não textual"
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 124,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

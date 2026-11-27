@@ -586,5 +586,19 @@
     "unidade": [],
     "diploma": "pt:dre:685034:por",
     "alterador": "pt:dre:520993:por"
+  },
+  {
+    "artigo": "ANEXO — Quadro de pessoal dirigente",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "## ANEXO — Quadro de pessoal dirigente\n(n.º 1 do artigo 32.º)\n\n[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/06/139a00/35843591.pdf)",
+    "depois": "## ANEXO — Quadro de pessoal dirigente\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 151/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2007-520993), publicado em 2007-04-27.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:685034:por",
+    "alterador": "pt:dre:520993:por"
   }
 ]

@@ -40,10 +40,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2013-10-25'
+version_history:
+  file: decreto-lei-163-2005.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2005-09-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-10-25'
+    amending: pt:dre:502985:por
+    amending_title: Decreto-Lei n.º 150/2013
+    changes:
+    - Altera Artigo ANEXO III
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/163/2005/09/22/p/dre/pt/html
@@ -69,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:48:40Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 150/2013. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2005/decreto-lei-163-2005.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -333,11 +348,13 @@ Marca especial de identificação para a carne proveniente de um território ou 
 
 2 - A marca de salubridade pode também ser constituída por um único carimbo, de forma oval e com as dimensões de 6,5 cm de comprimento e 4,5 cm de largura, dela devendo constar as seguintes informações, em caracteres perfeitamente legíveis:
 
-a) Na parte superior, o nome ou código ISO do Estado membro, em maiúsculas, sendo estes AT, BE, DE, DK, ES, FI, FR, GR, IE, IT, LU, NL, PT, SE e UK, e, no centro, o número de aprovação veterinária do matadouro;
+a) Na parte superior, o nome ou o código ISO do Estado membro, em maiúsculas, sendo estes AT, BE, DE, DK, ES, FI, FR, GR, HR, IE, IT, LU, NL, PT, SE e UK, e, no centro, o número de aprovação veterinária do matadouro;
 
-b) Na parte inferior, um dos seguintes conjuntos de iniciais: CE, EC, EF, EG, EK ou EY, duas linhas rectas que cruzam o carimbo no centro deste, de forma que as informações permaneçam legíveis, devendo as letras ter, pelo menos, 0,8 cm de altura e os algarismos 1 cm e carimbo conter informações que permitam identificar o veterinário que inspeccionou a carne.
+b) Na parte inferior, um dos seguintes conjuntos de iniciais: CE, EC, EF, EG, EK, EY ou EZ, duas linhas retas que cruzam o carimbo no centro deste, de forma que as informações permaneçam legíveis, devendo as letras ter, pelo menos, 0,8 cm de altura e os algarismos 1 cm e carimbo conter informações que permitam identificar o veterinário que inspecionou a carne.
 
 3 - A marca deve ser aposta sob a supervisão directa do veterinário oficial que controla a aplicação das disposições em matéria de polícia sanitária.
+
+> Alterado pelo/a [Decreto-Lei n.º 150/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-2013-502985), publicado em 2013-10-24.
 
 ## ANEXO IV — Princípios gerais da certificação
 

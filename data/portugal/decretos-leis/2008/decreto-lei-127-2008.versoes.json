@@ -1,0 +1,250 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:456784:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2008-07-21",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "7e142316776c29e0",
+    "193532a2decb4c55",
+    "2771bfd741ec906a",
+    "56d7f74b45271d5a",
+    "05647524e76ebeee",
+    "973e1aa0c32189d1",
+    "af1706adad9a3c73",
+    "ce1909f008f7cbf5",
+    "6e0ddf81b115bedd",
+    "0a7ac3c736f3990a",
+    "492d7447e813ff8f",
+    "83071d83360df08a",
+    "abd95340ffb29d77",
+    "8539a22d4f0b8fc1",
+    "e0e37c55d643ea2e",
+    "c5770b8b9e2a58da"
+   ]
+  },
+  {
+   "date": "2011-01-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:485629:por",
+     "title": "Decreto-Lei n.º 6/2011",
+     "published": "2011-01-10",
+     "dre_path": "/dr/detalhe/decreto-lei/6-2011-485629"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo ANEXO — Notas técnicas"
+   ],
+   "fragments": [
+    "7e142316776c29e0",
+    "193532a2decb4c55",
+    "2771bfd741ec906a",
+    "9cb422cc3b53187e",
+    "09cc52734c137b76",
+    "2921ed1793e4125d",
+    "af1706adad9a3c73",
+    "ce1909f008f7cbf5",
+    "b2a2dc807a6b644b",
+    "0a7ac3c736f3990a",
+    "492d7447e813ff8f",
+    "83071d83360df08a",
+    "abd95340ffb29d77",
+    "8539a22d4f0b8fc1",
+    "e0e37c55d643ea2e",
+    "53f733f8734bf7a5"
+   ]
+  }
+ ],
+ "fragments": {
+  "7e142316776c29e0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 21 de Julho\n\nNo quadro da Convenção de Aarhus e de modo a executar as disposições desta Convenção, a União Europeia adoptou regulamentação própria, designadamente a Directiva n.º [2003/4/CE](https://data.europa.eu/eli/dir/2003/4/oj?locale=pt), do Parlamento Europeu e do Conselho, de 28 de Janeiro, relativa ao acesso do público à informação sobre ambiente, transposta para a ordem jurídica interna pela Lei n.º 19/2006, de 12 de Junho, e a Directiva n.º [2003/35/CE](https://data.europa.eu/eli/dir/2003/35/oj?locale=pt), do Parlamento Europeu e do Conselho, de 26 de Maio, que estabelece a participação do público na elaboração de certos planos e programas relativos ao ambiente, transposta para a ordem jurídica interna através dos Decretos-Leis n.os 197/2005, de 8 de Novembro, 130/2005, de 16 de Agosto, e 232/2007, de 15 de Junho.\n\nPor outro lado, quer a União Europeia, quer Portugal, assumiram compromissos no âmbito do Protocolo sobre Registos de Emissões e Transferências de Poluentes, conhecido por Protocolo PRTR, adoptado no contexto das Nações Unidas, o qual visa facilitar o acesso do público à informação sobre ambiente e a divulgação dessa informação, contribuindo para uma maior sensibilização e participação do público no processo de tomada de decisão neste domínio.\n\nA nível europeu, o Registo Europeu de Emissões de Poluentes, já definido e em curso à data da assinatura pela União Europeia do referido Protocolo PRTR, foi considerado como o modelo que serviria de base ao desenvolvimento de um PRTR a nível europeu (E-PRTR).\n\nA adopção da Decisão n.º [2006/61/CE](https://data.europa.eu/eli/dec/2006/61/oj?locale=pt), de 2 de Dezembro de 2005, e do Regulamento (CE) n.º [166/2006](https://data.europa.eu/eli/reg/2006/166/oj?locale=pt), do Parlamento Europeu e do Conselho, de 18 de Janeiro, esteve na base da criação do Registo Europeu das Emissões e Transferências de Poluentes, viabilizando assim as condições para a ratificação e implementação do Protocolo PRTR pela União Europeia.\n\nNão obstante a obrigatoriedade e aplicabilidade directa em todos os Estados membros do citado Regulamento, existem matérias que carecem de desenvolvimento na ordem jurídica interna, tornando-se necessário definir o regime jurídico que o regulamente na ordem jurídica interna, fixando, designadamente, qual a autoridade nacional competente pela sua aplicação, quais os procedimentos necessários para o cumprimento do mesmo e ainda o estabelecimento das infracções e respectivas sanções no caso da violação das respectivas normas. Neste aspecto particular, chama-se a atenção para o facto de o presente decreto-lei ser subsidiário do regime quadro das contra-ordenações ambientais constante da Lei n.º 50/2006, de 29 de Agosto.\n\nForam ouvidos os órgãos de governo próprios das Regiões Autónomas.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "193532a2decb4c55": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente decreto-lei assegura a execução e garante o cumprimento, na ordem jurídica interna, das obrigações decorrentes para o Estado Português do Regulamento (CE) n.º [166/2006](https://data.europa.eu/eli/reg/2006/166/oj?locale=pt), do Parlamento Europeu e do Conselho, de 18 de Janeiro, relativo à criação do Registo Europeu das Emissões e Transferências de Poluentes e que altera as Directivas n.os [91/689/CEE](https://data.europa.eu/eli/dir/1991/689/oj?locale=pt), do Conselho, de 12 de Dezembro, relativa aos resíduos perigosos, e [96/61/CE](https://data.europa.eu/eli/dir/1996/61/oj?locale=pt), do Conselho, de 24 de Setembro, relativa à prevenção e controlo integrados da poluição, adiante abreviadamente designado Regulamento."
+  },
+  "2771bfd741ec906a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Autoridade competente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Autoridade competente\n\nA Agência Portuguesa do Ambiente (APA) é a autoridade nacional competente para desempenhar as funções administrativas necessárias à execução do Regulamento, competindo-lhe, designadamente:\n\na) Definir e disponibilizar no seu sítio na Internet o formato de entrega de dados pelos operadores e respectivas regras de preenchimento, com vista a assegurar a uniformização dos requisitos dos dados a comunicar;\n\nb) Prestar apoio técnico aos operadores e às entidades envolvidas na aplicação do Regulamento e do presente decreto-lei;\n\nc) Assegurar a qualidade e integridade da informação que lhe é transmitida nos termos do artigo 5.º;\n\nd) Elaborar, relativamente à informação que lhe deve ser transmitida nos termos do anexo ao presente decreto-lei, do qual faz parte integrante, estimativas de emissões e transferência de poluentes, quando os operadores não tenham cumprido as obrigações referidas no artigo 5.º;\n\ne) Desenvolver estimativas de emissões de fontes difusas de acordo com a informação prestada pelas autoridades que tutelam os subsectores abrangidos pelo âmbito de aplicação do Regulamento;\n\nf) Elaborar e manter o Registo de Emissões e Transferência de Poluentes e garantir a comunicação à Comissão Europeia do inventário anual das principais emissões e transferências de poluentes e fontes responsáveis, bem como do relatório único baseado nas informações relativas aos últimos três anos de referência, nos termos do artigo 7.º do Regulamento;\n\ng) Promover a sensibilização do público para o Registo de Emissões e Transferência de Poluentes e prestar-lhe apoio no acesso e esclarecimento relativamente à informação disponibilizada;\n\nh) Dar conhecimento à Inspecção-Geral do Ambiente e do Ordenamento do Território (IGAOT) da identificação dos operadores que não dêem cumprimento às obrigações decorrentes do presente decreto-lei."
+  },
+  "56d7f74b45271d5a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Competências das Comissões de Coordenação e Desenvolvimento Regional e das Administrações de Região Hidrográfica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Competências das Comissões de Coordenação e Desenvolvimento Regional e das Administrações de Região Hidrográfica\n\nCompete às Comissões de Coordenação e Desenvolvimento Regional (CCDR) ou às Administrações de Região Hidrográfica (ARH), de acordo com o estabelecido nas respectivas leis orgânicas:\n\na) Assegurar a qualidade e integridade da informação que lhe é transmitida nos termos do artigo 5.º;\n\nb) Elaborar, relativamente à informação que lhe deve ser transmitida nos termos do anexo ao presente decreto-lei, estimativas de emissões e transferência de poluentes, quando os operadores não tenham cumprido as obrigações referidas no artigo 5.º;\n\nc) Transmitir à APA, até 30 de Setembro de cada ano, a informação referida nas alíneas anteriores;\n\nd) Designar e comunicar à APA o técnico interlocutor para a gestão da informação transmitida nos termos do artigo 5.º"
+  },
+  "05647524e76ebeee": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Registo de emissões e transferência de poluentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Registo de emissões e transferência de poluentes\n\nO registo de emissões e transferência de poluentes contém informação sobre:\n\na) As emissões para o ar, água e solo dos poluentes listados no anexo ii do Regulamento, independentemente do limiar aí estipulado, provenientes das actividades enumeradas no anexo ao presente decreto-lei, correspondente ao anexo i do Regulamento;\n\nb) As transferências para fora do local dos resíduos perigosos e não perigosos e dos poluentes presentes em águas residuais, todos listados no anexo ii do Regulamento, independentemente do limiar aí estipulado, provenientes das actividades enumeradas no anexo ao presente decreto-lei, correspondente ao anexo i do Regulamento."
+  },
+  "973e1aa0c32189d1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Obrigações dos operadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Obrigações dos operadores\n\n1 - Sem prejuízo do disposto no artigo 5.º do Regulamento, os operadores que exercem as actividades especificadas no anexo ao presente decreto-lei estão obrigados a comunicar à APA, à CCDR ou à ARH competente, de acordo com o estabelecido no referido anexo, as informações referidas no artigo anterior.\n\n2 - Até à harmonização dos sistemas de recolha de dados ambientais, as informações referidas no número anterior são comunicadas através do sistema electrónico disponibilizado pela APA no seu sítio na Internet, até ao dia 31 de Março de cada ano e referem-se aos dados obtidos pelo operador no ano anterior.\n\n3 - Os operadores estão ainda obrigados a prestar à respectiva autoridade competente as informações adicionais que permitam verificar a qualidade e integridade da informação transmitida."
+  },
+  "af1706adad9a3c73": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Responsabilidade pela informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Responsabilidade pela informação\n\nA responsabilidade de assegurar a qualidade e integridade da informação transmitida compete:\n\na) Aos operadores, no que diz respeito à informação que comunicam à respectiva autoridade competente;\n\nb) Às CCDR, às ARH e às Regiões Autónomas no que diz respeito à informação que comunicam à APA;\n\nc) À APA, no que diz respeito à informação que comunica à Comissão Europeia."
+  },
+  "ce1909f008f7cbf5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Inspecção e fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Inspecção e fiscalização\n\nA inspecção e fiscalização do cumprimento do presente decreto-lei compete, respectivamente, à IGAOT, às CCDR e às ARH, no âmbito das suas competências próprias."
+  },
+  "6e0ddf81b115bedd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Contra-ordenações\n\n1 - Constitui contra-ordenação ambiental grave, punível nos termos da Lei n.º 50/2006, de 29 de Agosto, o não cumprimento, pelo operador, da obrigação de comunicação das informações referidas no n.º 1 do artigo 5.º\n\n2 - Constitui contra-ordenação ambiental leve, punível nos termos da Lei n.º 50/2006, de 29 de Agosto, a prática dos seguintes actos:\n\na) O não cumprimento, pelo operador, da obrigação de comunicação das informações referidas no n.º 1 do artigo 5.º nos prazos fixados no n.º 2 do mesmo artigo e no n.º 2 do artigo 11.º;\n\nb) O não cumprimento, pelo operador, da obrigação de manter durante cinco anos, contados a partir do final do ano de referência em causa, os registos dos dados de onde foram extraídas as informações comunicadas às autoridades competentes, nos termos do artigo 5.º do Regulamento, bem como dos registos dos métodos usados para a sua recolha.\n\n3 - As contra-ordenações previstas nos números anteriores são puníveis a título de negligência.\n\n4 - A tentativa é punível relativamente à contra-ordenação prevista no n.º 1, sendo os limites mínimos e máximos da respectiva coima reduzidos a metade.\n\n5 - Pode ser objecto de publicidade, nos termos do disposto no artigo 38.º da Lei n.º 50/2006, de 29 de Agosto, a condenação pela prática da infracção grave prevista no n.º 1, quando a medida concreta da coima aplicada ultrapasse metade do montante máximo da coima abstractamente aplicável."
+  },
+  "0a7ac3c736f3990a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Sanções acessórias e apreensão cautelar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Sanções acessórias e apreensão cautelar\n\n1 - Relativamente à infracção grave prevista no n.º 1 do artigo anterior, pode a autoridade competente, simultaneamente com a coima, determinar a aplicação de sanções acessórias nos termos previstos nos artigos 29.º a 39.º da Lei n.º 50/2006, de 29 de Agosto.\n\n2 - A autoridade administrativa pode ainda, sempre que necessário, determinar a apreensão provisória de bens e documentos, nos termos previstos no artigo 42.º da Lei n.º 50/2006, de 29 de Agosto."
+  },
+  "492d7447e813ff8f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Instrução de processos e aplicação de sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Instrução de processos e aplicação de sanções\n\nCompete à entidade que lavrou o auto de notícia da infracção instruir os processos contra-ordenacionais e proceder à aplicação das respectivas coimas e sanções acessórias."
+  },
+  "83071d83360df08a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Disposições transitórias\n\n1 - Até à entrada em funcionamento de cada ARH incumbe às CCDR o exercício das competências atribuídas pelo presente diploma às ARH.\n\n2 - As datas limite para a comunicação das informações referidas no n.º 1 do artigo 5.º, no ano de 2008, são as seguintes:\n\na) Um mês a contar da data de entrada em vigor do presente decreto-lei para os operadores abrangidos pelo âmbito de aplicação do Decreto-Lei n.º 194/2000, de 21 de Agosto;\n\nb) Dois meses a contar da data de entrada em vigor do presente decreto-lei para os restantes operadores.\n\n3 - A contra-ordenação prevista na alínea a) do n.º 2 do artigo 8.º, na parte referente à comunicação de dados sobre as emissões para o ar, água e solo dos poluentes, as transferências para fora do local dos resíduos perigosos e não perigosos e os poluentes presentes nas águas residuais, abaixo dos limiares fixados no anexo ii do Regulamento, não é aplicável para os dados a comunicar no ano de 2008."
+  },
+  "abd95340ffb29d77": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Norma revogatória\n\nSão revogadas as alíneas g) e h) do n.º 1 do artigo 5.º e o n.º 5 do artigo 8.º do Decreto-Lei n.º 194/2000, de 21 de Agosto, na redacção dada pelos Decretos-Leis n.os 152/2002, de 23 de Maio, 69/2003, de 10 de Abril, 233/2004, de 14 de Dezembro, 130/2005, de 16 de Agosto, 178/2006, de 5 de Setembro, e 183/2007, de 9 de Maio."
+  },
+  "8539a22d4f0b8fc1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Aplicação às Regiões Autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Aplicação às Regiões Autónomas\n\n1 - As disposições do presente decreto-lei aplicam-se às Regiões Autónomas dos Açores e da Madeira, sem prejuízo das adaptações decorrentes da estrutura própria da administração regional autónoma, a introduzir em decreto legislativo regional adequado.\n\n2 - Nas Regiões Autónomas dos Açores e da Madeira, o exercício das competências previstas no artigo 3.º é assegurada pelos serviços e organismos das respectivas administrações regionais autónomas."
+  },
+  "e0e37c55d643ea2e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.\n\nVisto e aprovado em Conselho de Ministros de 30 de Abril de 2008. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Rui José Simões Bayão de Sá Gomes - Alberto Bernardes Costa - Francisco Carlos da Graça Nunes Correia - António José de Castro Guerra - Jaime de Jesus Lopes Silva - Ana Maria Teodoro Jorge.\n\nPromulgado em 8 de Julho de 2008.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 9 de Julho de 2008.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "c5770b8b9e2a58da": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Notas técnicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — Notas técnicas\n\n1 - A capacidade de produção do estabelecimento é considerada para um período de laboração de vinte e quatro horas, independentemente do seu regime, turnos, horários de laboração, ou valor de produção efectiva para resposta à procura do mercado, de acordo com o regime, já em vigor, para as actividades abrangidas pelo Decreto-Lei n.º 194/2000, de 21 de Agosto.\n\n2 - No caso do operador desenvolver várias actividades da mesma rubrica no mesmo estabelecimento e no mesmo local, procede-se à soma das capacidades das referidas actividades, que se compara com o limiar de capacidade aplicável à actividade constante do mesmo anexo, de acordo com o Documento de Orientação para a Implementação do PRTR Europeu.\n\nCategorias de actividades referidas no artigo 4.º e respectiva autoridade competente\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/13900/0449804502.pdf)"
+  },
+  "9cb422cc3b53187e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Competências das Comissões de Coordenação e Desenvolvimento Regional e das Administrações de Região Hidrográfica",
+   "in_force_from": "2011-01-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 6/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-2011-485629), publicado em 2011-01-10."
+   ],
+   "markdown": "###### Artigo 3.º — Competências das Comissões de Coordenação e Desenvolvimento Regional e das Administrações de Região Hidrográfica\n\nCompete às Comissões de Coordenação e Desenvolvimento Regional (CCDR) ou às Administrações de Região Hidrográfica (ARH), de acordo com o estabelecido nas respectivas leis orgânicas:\n\na) Assegurar a qualidade e integridade da informação que lhe é transmitida nos termos do artigo 5.º;\n\nb) Elaborar, relativamente à informação que lhe deve ser transmitida nos termos do anexo ao presente decreto-lei, estimativas de emissões e transferência de poluentes, quando os operadores não tenham cumprido as obrigações referidas no artigo 5.º;\n\nc) Transmitir à APA, até 30 de Novembro de cada ano, a informação referida nas alíneas anteriores;\n\nd) Designar e comunicar à APA o técnico interlocutor para a gestão da informação transmitida nos termos do artigo 5.º\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 6/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-2011-485629), publicado em 2011-01-10."
+  },
+  "09cc52734c137b76": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Registo de emissões e transferência de poluentes",
+   "in_force_from": "2011-01-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 6/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-2011-485629), publicado em 2011-01-10."
+   ],
+   "markdown": "###### Artigo 4.º — Registo de emissões e transferência de poluentes\n\nO registo de emissões e transferência de poluentes contém informação sobre:\n\na) As emissões para o ar, água e solo dos poluentes listados no anexo ii do Regulamento, independentemente do limiar aí estipulado, provenientes das actividades enumeradas no anexo ao presente decreto-lei, correspondente ao anexo i do Regulamento;\n\nb) As transferências para fora do local do estabelecimento dos poluentes presentes em águas residuais destinadas a tratamento, listados no anexo ii do Regulamento, independentemente do limiar aí estipulado, provenientes das actividades enumeradas no anexo ao presente decreto-lei, correspondente ao anexo i do Regulamento;\n\nc) As transferências para fora do local do estabelecimento dos resíduos perigosos e não perigosos, de acordo com a classificação estabelecida pela Portaria n.º 209/2004, de 3 de Março, independentemente do limiar estabelecido na alínea b) do artigo 5.º do Regulamento, provenientes das actividades enumeradas no anexo ao presente decreto-lei, correspondente ao anexo i do Regulamento.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 6/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-2011-485629), publicado em 2011-01-10."
+  },
+  "2921ed1793e4125d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Obrigações dos operadores",
+   "in_force_from": "2011-01-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 6/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-2011-485629), publicado em 2011-01-10."
+   ],
+   "markdown": "###### Artigo 5.º — Obrigações dos operadores\n\n1 - Sem prejuízo do disposto no artigo 5.º do Regulamento, os operadores que exercem as actividades especificadas no anexo ao presente decreto-lei estão obrigados a comunicar à APA, à CCDR ou à ARH competente, de acordo com o estabelecido no referido anexo, as informações referidas no artigo anterior.\n\n2 - Até à harmonização dos sistemas de recolha de dados ambientais, as informações referidas no número anterior são comunicadas através do sistema electrónico disponibilizado pela APA no seu sítio na Internet, até ao dia 31 de Maio de cada ano e referem-se aos dados obtidos pelo operador no ano anterior.\n\n3 - Os operadores estão ainda obrigados a prestar à respectiva autoridade competente as informações adicionais que permitam verificar a qualidade e integridade da informação transmitida.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 6/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-2011-485629), publicado em 2011-01-10."
+  },
+  "b2a2dc807a6b644b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Contra-ordenações",
+   "in_force_from": "2011-01-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 6/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-2011-485629), publicado em 2011-01-10."
+   ],
+   "markdown": "###### Artigo 8.º — Contra-ordenações\n\n1 - Constitui contra-ordenação ambiental grave, punível nos termos da Lei n.º 50/2006, de 29 de Agosto, o não cumprimento, pelo operador, da obrigação de comunicação das informações referidas no n.º 1 do artigo 5.º\n\n2 - Constitui contra-ordenação ambiental leve, punível nos termos da Lei n.º 50/2006, de 29 de Agosto, a prática dos seguintes actos:\n\na) O não cumprimento, pelo operador, das obrigações de comunicação das informações referidas no artigo 5.º nos prazos fixados no presente decreto-lei;\n\nb) O não cumprimento, pelo operador, da obrigação de manter durante cinco anos, contados a partir do final do ano de referência em causa, os registos dos dados de onde foram extraídas as informações comunicadas às autoridades competentes, nos termos do artigo 5.º do Regulamento, bem como dos registos dos métodos usados para a sua recolha.\n\n3 - As contra-ordenações previstas nos números anteriores são puníveis a título de negligência.\n\n4 - A tentativa é punível relativamente à contra-ordenação prevista no n.º 1, sendo os limites mínimos e máximos da respectiva coima reduzidos a metade.\n\n5 - Pode ser objecto de publicidade, nos termos do disposto no artigo 38.º da Lei n.º 50/2006, de 29 de Agosto, a condenação pela prática da infracção grave prevista no n.º 1, quando a medida concreta da coima aplicada ultrapasse metade do montante máximo da coima abstractamente aplicável.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 6/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-2011-485629), publicado em 2011-01-10."
+  },
+  "53f733f8734bf7a5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Notas técnicas",
+   "in_force_from": "2011-01-15",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 6/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-2011-485629), publicado em 2011-01-10."
+   ],
+   "markdown": "## ANEXO — Notas técnicas\n\n1 - A obrigação de comunicação de dados existe sempre que o limiar de capacidade da actividade for excedido. Se não estiver especificado qualquer limiar de capacidade, todos os estabelecimentos dedicados à actividade PRTR em causa estão sujeitos à obrigação de comunicação de dados, de acordo com o estabelecido no artigo 5.º\n\n2 - A capacidade da actividade PRTR é considerada para um período de laboração de vinte e quatro horas, independentemente do seu regime, turnos, horários de laboração ou valor de produção efectiva para resposta à procura do mercado.\n\n3 - No caso de o operador desenvolver várias actividades da mesma rubrica no mesmo estabelecimento e no mesmo local, procede-se à soma das capacidades das referidas actividades, que se compara com o limiar de capacidade aplicável à actividade constante do mesmo anexo, de acordo com o documento de orientação para a implementação do PRTR europeu.\n\n4 - As actividades referidas na tabela que se encontrem igualmente abrangidas pelo regime jurídico da prevenção e controlo integrados da poluição, estabelecido no Decreto-Lei n.º 173/2008, de 26 de Agosto, são da responsabilidade da APA. As restantes actividades são da competência da CCDR ou da ARH territorialmente competente.\n\nCategorias de actividades referidas no artigo 4.º e respectiva autoridade competente\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/00600/0017500178.pdf)\n\n> Alterado pelo/a [Decreto-Lei n.º 6/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-2011-485629), publicado em 2011-01-10."
+  }
+ }
+}

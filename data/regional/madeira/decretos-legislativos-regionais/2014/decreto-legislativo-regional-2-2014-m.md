@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2018-08-22'
+version_history:
+  file: decreto-legislativo-regional-2-2014-m.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2014-04-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2018-08-22'
+    amending: pt:dre:116152180:por
+    amending_title: Decreto Legislativo Regional n.º 18/2018/M
+    changes:
+    - Altera Artigo ANEXO — Plano de Desenvolvimento Económico e Social para o período 2014-2020 - "Compromisso Madeira@2020"
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/declegreg/2/2014/04/10/m/dre/pt/html
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:41:49Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Legislativo Regional n.º
+    18/2018/M. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/madeira/decretos-legislativos-regionais/2014/decreto-legislativo-regional-2-2014-m.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -827,3 +842,25 @@ Nos domínios prioritários do incentivo ao desenvolvimento do Sistema Regional 
 Em matéria de Cooperação territorial, as orientações dos Regulamentos dos Fundos Estruturais e de Investimento Europeus, apontam para a necessidade de uma maior focalização das intervenções, privilegiando as dimensões associadas à cooperação nas áreas da I&D, mantendo as prioridades transversais aos territórios nas áreas do Ambiente e da Prevenção de riscos e das potencialidades económicas do Mar/RUP e da Biodiversidade, de grande relevância para a RAM.
 
 Paralelamente, deve ser atribuída prioridade ao estímulo da Comissão Europeia à inclusão de países terceiros, tomando as RUP atlânticas como "postos avançados da União Europeia" promovendo o envolvimento de Cabo Verde (pela continuidade das especializações económicas e proximidade de alguns problemas estruturais) e procurando desenvolver uma dimensão de ligação a África onde o conhecimento e as qualificações das pessoas e das empresas dos territórios europeus podem representar um valor acrescentado significativo, nomeadamente na procura de novos mercados.
+
+5 - Plano de Financiamento 2014-2020
+
+A concretização da estratégia de desenvolvimento para Região Autónoma da Madeira para o período 2014-2020 exige, a par de uma atenta monitorização política e técnica dos resultados alcançados, a mobilização de importantes recursos humanos, organizativos e materiais por parte quer das autoridades públicas da Região, designadamente dos órgãos e serviços da administração regional direta e indireta, quer dos agentes privados que intervêm e nalguns casos protagonizam o processo de desenvolvimento regional.
+
+No que respeita especificamente aos recursos financeiros, apresentam-se no quadro seguinte a quantificação dos investimentos a concretizar na Região Autónoma da Madeira entre 2014 e 2020, estratificados pelos cinco Pilares Estratégicos:
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/08/16100/0431204330.pdf)
+
+Este Plano de Financiamento teve por base um exercício de cenarização assente em perspetivas de investimento regional mais seletivas e com maior probabilidade de contribuírem de forma mais significativa, para a aceleração e sustentabilidade da economia regional.
+
+O Cenário adotado decorre, também, do propósito de introduzir um fator de eficiência correspondente à experiência obtida nas dinâmicas de definição e execução de anteriores Programas de Investimentos e Despesas de Desenvolvimento da Região (PIDDAR), ou seja, da otimização dos procedimentos nos concursos a lançar, da otimização da seleção das candidaturas apresentadas pelos promotores, bem como da utilização de taxas diferenciadas de comparticipação no financiamento dos projetos em função dos interesses estratégicos da RAM.
+
+Correspondendo este fator de eficiência a 15 %, então o montante estimável para investimento é fixado, em termos atualizados, em 3.784,5 milhões de euros e, em termos correntes, em 3.306,1 milhões de euros.
+
+Estas perspetivas gerariam valores disponíveis médios anuais para execução de 540,6 milhões de euros e 472,3 milhões de euros, tendo como benchmark o valor da execução PIDDAR referente a 2014 que se situou em 533,1 milhões de euros.
+
+O exercício deste Cenário tem utilidade na medida em que constitui uma aproximação ao esforço das finanças regionais e esclarece acerca da capacidade efetiva da dimensão desse esforço no passado recente.
+
+Trata-se de uma estimativa de investimento que permitiria acompanhar os sinais animadores nas atividades de especialização regional, bem como o esforço de promoção externa e de atração de Investimento Direto Estrangeiro que está a ser conduzido pelas instâncias competentes, em vista de um potencial relançamento de dinâmicas económico-empresariais e de emprego. A redução da dimensão atual do desemprego pressuporia, no entanto, um crescimento económico superior.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 18/2018/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-2018-116152180), publicado em 2018-08-22.

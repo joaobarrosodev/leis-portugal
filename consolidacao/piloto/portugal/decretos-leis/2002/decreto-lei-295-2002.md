@@ -3,7 +3,8 @@ id: pt:dre:438060:por
 title: Decreto-Lei n.º 295/2002
 original: data/portugal/decretos-leis/2002/decreto-lei-295-2002.md
 consolidacao:
-  metodo: piloto da fase 2 (consolidacao/consolidar.py), sem valor oficial
+  metodo: piloto da fase 2 (consolidacao/consolidar.py e, pelo LLM, consolidacao/juntar.py),
+    sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
   - id: pt:dre:692434:por
@@ -223,7 +224,7 @@ A sociedade adopta a forma de sociedade anónima de capitais exclusivamente púb
 
 2 - Poderá a assembleia geral deliberar a deslocação da sede para outro lugar, assim como a criação de delegações, centros e similares extensões da sede noutros lugares.
 
-> Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 126/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-2003-692434), publicado em 2003-06-24.
+> Alterado pelo/a [Decreto-Lei n.º 126/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-2003-692434), publicado em 2003-06-24.
 
 ###### Artigo 3.º — Objecto e duração
 

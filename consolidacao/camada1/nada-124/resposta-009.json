@@ -1,0 +1,62 @@
+[
+ {
+  "id": "pt:dre:522638:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 9.º, alínea b), do DL 270/2009; epígrafe mantida e corpo «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 9.º, alínea b), do DL 270/2009; epígrafe mantida e corpo «(Revogado.)».",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 200/2007, art. 27.º (repristinação do DL 232/87 e do n.º 4 do art. 27.º do Regime Jurídico da Formação Contínua)",
+    "motivo": "outro diploma: as normas repristinadas são do DL 232/87 e do DL 249/92; não dá nova redação nem revoga texto do original"
+   },
+   {
+    "instrucao": "DL 124/2008, arts. 2.º, 7.º e 9.º (alteração, revogação e republicação do DL 224/2006)",
+    "motivo": "outro diploma (DL 224/2006, ainda que alterado pelo original)"
+   },
+   {
+    "instrucao": "DL 75/2010, arts. 2.º e 18.º, alínea a) (alteração e revogação de artigos do Estatuto da Carreira Docente)",
+    "motivo": "outro diploma: ECD aprovado pelo DL 139-A/90; não se aplica ao anexo III que o republica"
+   },
+   {
+    "instrucao": "DL 75/2010, art. 3.º (alteração do anexo ao Estatuto da Carreira Docente)",
+    "motivo": "outro diploma: o anexo é do ECD, não do original"
+   },
+   {
+    "instrucao": "DL 75/2010, art. 12.º (fim do período de transição do n.º 2 do art. 10.º do original a 31/12/2010)",
+    "motivo": "não textual: fixa o termo de um prazo sem dar nova redação ao art. 10.º"
+   },
+   {
+    "instrucao": "DL 75/2010, art. 16.º, n.º 3 (fim do prazo do n.º 2 do art. 8.º do original a 31/12/2010)",
+    "motivo": "não textual: fixa o termo de um prazo sem dar nova redação ao art. 8.º"
+   },
+   {
+    "instrucao": "DL 146/2013, arts. 2.º e 3.º (arts. 2.º e 22.º do ECD e art. 41.º do DL 132/2012); art. 5.º (revoga o art. 4.º do DL 75/2010)",
+    "motivo": "outro diploma"
+   },
+   {
+    "instrucao": "Lei 16/2016, arts. 3.º e 6.º, alíneas a) a c) (art. 2.º e normas do art. 22.º do ECD; revogação do DL 146/2013 e do DR 3/2008)",
+    "motivo": "outro diploma"
+   },
+   {
+    "instrucao": "Lei 16/2016, art. 6.º, alínea d) (disposições que contrariem a presente lei)",
+    "motivo": "revogação condicional"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "observacoes": "DL 270/2009, art. 9.º, alínea b), revoga os arts. 7.º e 9.º do original: aplicado. DL 28/2017 (art. 49.º) só remete para o original. O Acórdão do TC 184/2008, o DL 41/2012 e a Lei 80/2013 vêm na vista sem texto: não se vê nenhuma instrução deles, nem justificada nem em falta."
+ }
+]

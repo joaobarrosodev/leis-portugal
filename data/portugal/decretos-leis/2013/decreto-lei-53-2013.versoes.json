@@ -1,0 +1,246 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:260417:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2013-04-17",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "e8a22b0049660b8a",
+    "edaeeac3eaf6d59a",
+    "6b14a61bdcf46716",
+    "6e93dc3cdc9beda8",
+    "64c7410d30a933e4",
+    "54ef3cc0eeb135c8",
+    "bf449322f758b6c4",
+    "a3ffbc4abc6580e5",
+    "b6e4728940d381a9",
+    "0f68b27ad11083af",
+    "54ec10a5ae26189e",
+    "110390133933781f",
+    "9e9e3e813417c6e1",
+    "f68e8506f74f2257",
+    "b9204179c490364a",
+    "98a184e213e7a7fb",
+    "5d45757b8c9b687e",
+    "85d13baf5153c55f",
+    "a23e6da2c508283d",
+    "23dd8b4921b2b5d8"
+   ]
+  },
+  {
+   "date": "2013-10-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:504726:por",
+     "title": "Decreto-Lei n.º 151/2013",
+     "published": "2013-10-30",
+     "dre_path": "/dr/detalhe/decreto-lei/151-2013-504726"
+    }
+   ],
+   "changes": [
+    "Altera Artigo ANEXO I — (a que se referem os artigos 4.º e 7.º)"
+   ],
+   "fragments": [
+    "e8a22b0049660b8a",
+    "edaeeac3eaf6d59a",
+    "6b14a61bdcf46716",
+    "6e93dc3cdc9beda8",
+    "64c7410d30a933e4",
+    "54ef3cc0eeb135c8",
+    "bf449322f758b6c4",
+    "a3ffbc4abc6580e5",
+    "b6e4728940d381a9",
+    "0f68b27ad11083af",
+    "54ec10a5ae26189e",
+    "110390133933781f",
+    "9e9e3e813417c6e1",
+    "f68e8506f74f2257",
+    "b9204179c490364a",
+    "9246b5e26fe4bc8c",
+    "5d45757b8c9b687e",
+    "85d13baf5153c55f",
+    "a23e6da2c508283d",
+    "23dd8b4921b2b5d8"
+   ]
+  }
+ ],
+ "fragments": {
+  "e8a22b0049660b8a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 17 de abril\n\nA segurança e o ambiente são dois dos principais pilares em que assenta a homologação de veículos, designadamente de tratores agrícolas ou florestais de rodas.\n\nAssim, com o propósito de reforçar a segurança, importa completar e adaptar ao progresso técnico os requisitos aplicáveis à homologação dos tratores agrícolas ou florestais de rodas, transpondo para a ordem jurídica interna a Diretiva n.º [2010/62/UE](https://data.europa.eu/eli/dir/2010/62/oj?locale=pt), da Comissão, de 8 de setembro de 2010, que altera, para a sua adaptação ao progresso técnico, as Diretivas n.os [80/720/CEE](https://data.europa.eu/eli/dir/1980/720/oj?locale=pt) e [86/297/CEE](https://data.europa.eu/eli/dir/1986/297/oj?locale=pt) do Conselho e as Diretivas n.os [2003/37/CE](https://data.europa.eu/eli/dir/2003/37/oj?locale=pt), [2009/60/CE](https://data.europa.eu/eli/dir/2009/60/oj?locale=pt) e [2009/144/CE](https://data.europa.eu/eli/dir/2009/144/oj?locale=pt) do Parlamento Europeu e do Conselho, relativas à homologação de tratores agrícolas ou florestais.\n\nTendo em vista a proteção e preservação do ambiente, cumpre proceder à transposição da Diretiva n.º [2011/72/UE](https://data.europa.eu/eli/dir/2011/72/oj?locale=pt), do Parlamento Europeu e do Conselho, de 14 de setembro de 2011, que altera a Diretiva n.º [2000/25/CE](https://data.europa.eu/eli/dir/2000/25/oj?locale=pt) do Parlamento Europeu e do Conselho, no que diz respeito às disposições aplicáveis aos tratores introduzidos no mercado ao abrigo do regime de flexibilidade, bem como da Diretiva n.º [2011/87/UE](https://data.europa.eu/eli/dir/2011/87/oj?locale=pt) do Parlamento Europeu e do Conselho, de 16 de novembro de 2011, que altera a Diretiva n.º [2000/25/CE](https://data.europa.eu/eli/dir/2000/25/oj?locale=pt), do Parlamento e do Conselho, no que respeita à aplicação de fases de emissões a tratores de via estreita.\n\nAcresce que o progresso técnico verificado nos últimos anos já permite efetuar a homologação de veículos completos no que diz respeito a tratores da categoria T4.3 (tratores de baixa distância ao solo), conforme definido no Regulamento da Homologação de Tratores Agrícolas ou Florestais, Seus Reboques e Máquinas Intermutáveis Rebocadas, e dos Sistemas, Componentes e Unidades Técnicas, aprovado pelo Decreto-Lei n.º 74/2005, de 24 de março, e alterado pelos Decretos-Leis n.os 89/2006, de 24 de maio, e 227/2007, de 4 de junho. Neste sentido, as disposições relativas à homologação, ao espaço de manobra, às facilidades de acesso ao lugar de condução, às portas e janelas, à velocidade máxima por construção, às plataformas de carga, bem como a determinados elementos e características dos tratores agrícolas ou florestais de rodas, são alteradas, a fim de se ter em consideração as especificidades dos tratores de baixa distância ao solo.\n\nPara assegurar níveis superiores de segurança dos ocupantes dos tratores, o presente decreto-lei inclui ainda disposições sobre tomadas de força e respetiva proteção, aplicáveis a todas as categorias de tratores abrangidas pelo Regulamento da Homologação de Tratores Agrícolas ou Florestais, Seus Reboques e Máquinas Intermutáveis Rebocadas, e dos Sistemas, Componentes e Unidades Técnicas.\n\nAs disposições aplicáveis às zonas livres e às dimensões da proteção principal da tomada de força também são alteradas, com o objetivo de se atingir uma harmonização a nível mundial daquelas zonas e dimensões e, facilitar, deste modo, a competitividade internacional dos fabricantes da União Europeia.\n\nPor outro lado, o Regulamento Respeitante às Medidas a Tomar Contra as Emissões de Gases Poluentes e de Partículas Poluentes Provenientes dos Motores Destinados à Propulsão dos Tratores Agrícolas ou Florestais, aprovado pelo Decreto-Lei n.º 114/2002, de 20 de abril, e alterado pelos Decretos-Leis n.os 227/2007, de 4 de junho e 81/2011, de 20 de junho, prevê que os limites de emissões aplicáveis em 2010 para a homologação da maioria dos motores de ignição por compressão, designados por limites da fase III-A, sejam substituídos pelos da fase III-B, mais estrita, entrando em vigor progressivamente a partir de 1 de janeiro de 2010, quanto à homologação, e a partir de 1 de janeiro de 2011, no respeitante à introdução no mercado.\n\nQuanto a limites de emissões, a fase IV (que prevê limites mais estritos do que a fase III-B), entrou em vigor em janeiro de 2013 no tocante à homologação desses motores e no que se refere à introdução no mercado apenas terá lugar a partir de 1 de janeiro de 2014. Refira-se que está prevista uma cláusula de revisão considerando as especificidades dos tratores das categorias T2, T4.1 e C.2.\n\nNeste enquadramento, o presente decreto-lei prevê um período transitório de três anos, durante o qual aquelas categorias de tratores podem continuar a ser homologados e colocados no mercado ou em circulação.\n\nPelo presente diploma procede-se ainda à regulamentação do n.º 3 do artigo 114.º do Código da Estrada, aprovado pelo Decreto-Lei n.º 114/94, de 3 de maio.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "edaeeac3eaf6d59a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - O presente decreto-lei transpõe para a ordem jurídica interna a Diretiva n.º [2010/62/UE](https://data.europa.eu/eli/dir/2010/62/oj?locale=pt) da Comissão, de 8 de setembro de 2010, que altera, para a sua adaptação ao progresso técnico, as Diretivas n.os [80/720/CEE](https://data.europa.eu/eli/dir/1980/720/oj?locale=pt) e [86/297/CEE](https://data.europa.eu/eli/dir/1986/297/oj?locale=pt) do Conselho e as Diretivas n.os [2003/37/CE](https://data.europa.eu/eli/dir/2003/37/oj?locale=pt), [2009/60/CE](https://data.europa.eu/eli/dir/2009/60/oj?locale=pt) e [2009/144/CE](https://data.europa.eu/eli/dir/2009/144/oj?locale=pt) do Parlamento Europeu e do Conselho, relativas à homologação de tratores agrícolas ou florestais, estabelecendo requisitos relativos às tomadas de força e respetiva proteção dos tratores agrícolas.\n\n2 - O presente decreto-lei transpõe também para ordem jurídica interna a Diretiva n.º [2011/72/UE](https://data.europa.eu/eli/dir/2011/72/oj?locale=pt), do Parlamento Europeu e do Conselho, de 14 de setembro de 2011, que altera a Diretiva n.º [2000/25/CE](https://data.europa.eu/eli/dir/2000/25/oj?locale=pt) do Parlamento e do Conselho, no que diz respeito às disposições aplicáveis aos tratores introduzidos no mercado ao abrigo do regime de flexibilidade, e a Diretiva n.º [2011/87/UE](https://data.europa.eu/eli/dir/2011/87/oj?locale=pt) do Parlamento Europeu e do Conselho, de 16 de novembro de 2011, que altera a Diretiva n.º [2000/25/CE](https://data.europa.eu/eli/dir/2000/25/oj?locale=pt) do Parlamento e do Conselho, no que respeita à aplicação de fases de emissões a tratores de via estreita, alterando o Regulamento Respeitante às Medidas a Tomar Contra as Emissões de Gases Poluentes e de Partículas Poluentes Provenientes dos Motores Destinados à Propulsão dos Tratores Agrícolas ou Florestais, aprovado pelo Decreto-Lei n.º 114/2002, de 20 de abril, e alterado pelos Decretos-Leis n.os 227/2007, de 4 de junho, e 81/2011, de 20 de junho."
+  },
+  "6b14a61bdcf46716": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1 - As disposições constantes do presente decreto-lei aplicam-se às categorias de tratores definidas no anexo II do Regulamento da Homologação de Tratores Agrícolas ou Florestais, Seus Reboques e Máquinas Intermutáveis Rebocadas, e dos Sistemas, Componentes e Unidades Técnicas, aprovado pelo Decreto-Lei n.º 74/2005, de 24 de março, e alterado pelos Decretos-Leis n.os 89/2006, de 24 de maio, e 227/2007, de 4 de junho.\n\n2 - Para efeitos do disposto no presente decreto-lei, entende-se por trator o veículo como tal definido pela alínea j) do artigo 2.º do Regulamento referido no número anterior."
+  },
+  "6e93dc3cdc9beda8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Definição de tomada de força",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definição de tomada de força\n\nPor «tomada de força» ou «tf» entende-se a parte externa do veio de transmissão do trator destinada a transmitir força de rotação aos equipamentos, situada na retaguarda ou na dianteira do trator."
+  },
+  "64c7410d30a933e4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Homologação CE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Homologação CE\n\n1 - O Instituto da Mobilidade e dos Transportes, I.P. (IMT, I.P.), não pode recusar a homologação CE ou a homologação nacional de um trator, nem recusar ou proibir a venda, a matrícula, a colocação em circulação ou a utilização de um trator por motivos relacionados com a sua tomada de força e a respetiva proteção, se, na data de apresentação do pedido, estas corresponderem às disposições que constam do anexo I ao presente decreto-lei, do qual faz parte integrante.\n\n2 - Sem prejuízo do disposto no número anterior, o IMT, I.P., pode definir os requisitos que considerar necessários para assegurar a proteção dos tratores em causa, desde que tal não implique modificações das tomadas de força e respetiva proteção em relação ao especificado nos artigos seguintes."
+  },
+  "54ef3cc0eeb135c8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Pedido de homologação CE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Pedido de homologação CE\n\n1 - O pedido de homologação de um modelo de trator no que diz respeito à sua tomada de força e à respetiva proteção deve ser apresentado pelo fabricante do trator ou por um seu mandatário, devidamente autorizado, utilizando o documento de informação cujo modelo consta da parte I do anexo II ao presente decreto-lei, do qual faz parte integrante.\n\n2 - O pedido referido no número anterior deve ser acompanhado de desenhos, em triplicado, a uma escala apropriada e suficientemente pormenorizada, no que diz respeito aos requisitos técnicos sobre tomadas de força e à respetiva proteção.\n\n3 - Para efeitos de homologação deve ser apresentado ao serviço técnico responsável pela realização dos ensaios, um trator representativo do modelo a homologar ou as partes do trator consideradas essenciais para a realização dos ensaios respetivos."
+  },
+  "bf449322f758b6c4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Certificado de homologação CE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Certificado de homologação CE\n\nPara cada homologação concedida ou recusada, deve ser preenchido um certificado conforme ao modelo que consta da parte II do anexo II ao presente decreto-lei."
+  },
+  "a3ffbc4abc6580e5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Especificações técnicas aplicáveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Especificações técnicas aplicáveis\n\nQuando os tratores estejam equipados com tomadas de força, estas devem cumprir os requisitos constantes do anexo I ao presente decreto-lei."
+  },
+  "b6e4728940d381a9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Alteração ao Decreto-Lei n.º 291/2000, de 14 de novembro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Alteração ao Decreto-Lei n.º 291/2000, de 14 de novembro\n\n1 - O artigo 30.º do Regulamento da Homologação de Tratores Agrícolas e Florestais de Rodas, aprovado pelo Decreto-Lei n.º 291/2000, de 14 de novembro, passa a ter a seguinte redação:\n\n«Artigo 30.º\n\n[...]\n\n1 - O Instituto da Mobilidade e dos Transportes, I.P., concede a homologação CE e a homologação de âmbito nacional a um modelo de trator se a velocidade máxima por construção ou as plataformas de carga corresponderem às prescrições constantes do anexo XX.\n\n2 - O presente capítulo é exclusivamente aplicável aos tratores montados sobre pneus e cuja velocidade máxima por construção não seja superior a 40 Km/h.»\n\n2 - O anexo XX do Regulamento da Homologação dos Tratores Agrícolas e Florestais de Rodas, aprovado pelo Decreto-Lei n.º 291/2000, de 14 de novembro, passa a ter a redação constante do anexo III ao presente decreto-lei, do qual faz parte integrante."
+  },
+  "0f68b27ad11083af": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Alteração ao Decreto-Lei n.º 114/2002, de 20 de abril",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Alteração ao Decreto-Lei n.º 114/2002, de 20 de abril\n\n1 - Os artigos 2.º-B e 4.º do Decreto-Lei n.º 114/2002, de 20 de abril, alterado pelos Decretos-Leis n.os 227/2007, de 4 de junho e 81/2011, de 20 de junho, passam a ter a seguinte redação:\n\n«Artigo 2.º-B\n\n[...]\n\n1 - Não obstante o disposto nos n.os 1 e 2 do artigo anterior, o Instituto da Mobilidade e dos Transportes, I.P. (IMT, I.P.), permite, a pedido do fabricante de tratores e na condição de a entidade homologadora de outro Estado-Membro ter emitido a licença relevante para colocação no mercado, nos termos dos procedimentos previsto no capítulo III, a entrada em serviço de um número limitado de motores equipados com motores aprovados nos termos dos requisitos da fase de limites de emissão imediatamente anterior à fase aplicável.\n\n2 - O regime de flexibilidade tem início quando se torne aplicável uma determinada fase e tem a duração dessa fase, sem prejuízo do regime de flexibilidade previsto nos n.os 6 a 10 do artigo 20.º do presente regulamento ser limitado à duração da fase III-B ou a três anos, se não houver nenhuma fase posterior.\n\nArtigo 4.º\n\n[...]\n\n1 - [...].\n\n2 - [...].\n\n3 - [...].\n\n4 - [...]\n\n5 - [...].\n\n6 - [...].\n\n7 - [...].\n\n8 - [...].\n\n9 - No que respeita aos tratores das categorias T2, T4.1 e C2, na aceção do anexo II do Regulamento da Homologação de Tratores Agrícolas ou Florestais, Seus Reboques e Máquinas Intermutáveis Rebocadas, e dos Sistemas, Componentes e Unidades Técnicas, aprovado pelo Decreto-Lei n.º 74/2005, de 24 de março, e alterado pelos Decretos-Leis n.os 89/2006, de 24 de maio, e 227/2007, de 4 de junho, e equipados com motores das categorias L a R, os prazos estabelecidos nas alíneas d) e e) do n.º 2 e no n.ºº 3 são adiados por três anos, continuando a ser aplicados os requisitos da fase III-A previstos no presente decreto-lei.»\n\n2 - Os artigos 2.º, 21.º, 22.º e 23.º do Regulamento Respeitante às Medidas a Tomar contra as Emissões de Gases Poluentes e de Partículas Poluentes Provenientes dos Motores Destinados à Propulsão dos Tratores Agrícolas ou Florestais, aprovado pelo Decreto-Lei n.º 114/2002, de 20 de abril, e alterado pelos Decretos-Leis n.os 227/2007, de 4 de junho e 81/2011, de 20 de junho, passam a ter a seguinte redação:\n\n«Artigo 2.º\n\n[...]\n\n[...]:\n\na) [...];\n\nb) [...];\n\nc) [...];\n\nd) [...];\n\ne) [...];\n\nf) [...];\n\ng) [...];\n\nh) [...];\n\ni) «Regime de flexibilidade» o procedimento de isenção através do qual é autorizada a colocação no mercado e a entrada em serviço de um número limitado de tratores nos termos dos requisitos fixados no artigo 2.º-B;\n\nj) «Categoria de motores» a classificação de motores que combina a gama de potências com a fase de limitação das emissões de escape;\n\nl) «Disponibilização no mercado» qualquer oferta de um trator ou motor para distribuição ou utilização no mercado da União no âmbito de uma atividade comercial, a título oneroso ou gratuito;\n\nm) «Colocação no mercado» a primeira disponibilização no mercado de um trator ou motor;\n\nn) «Entrada em serviço» primeira utilização na União de um trator ou motor, para o fim a que se destina, sendo a data de entrada em serviço, considerada como tendo lugar aquando do seu registo, se for caso disso, ou da sua colocação no mercado.\n\nArtigo 21.º\n\nAções a empreender pelos fabricantes dos tratores\n\n1 - Exceto durante a fase III-B, um fabricante de tratores que pretenda utilizar o regime de flexibilidade deve solicitar a autorização do Instituto da Mobilidade e dos Transportes, I.P. (IMT, I.P.), para colocar tratores no mercado de acordo com as disposições relevantes do presente capítulo, não devendo o número de tratores exceder os limites previstos nos n.os 3 a 5.\n\n2 - Os motores a que se refere o número anterior devem cumprir os requisitos estabelecidos no artigo 2.º-B.\n\n3 - O número de tratores colocados no mercado no quadro de um regime de flexibilidade não deve, para cada categoria de motor, ultrapassar 20 % do número anual de tratores colocados no mercado pelo fabricante de tratores com motores da categoria em questão, calculadas como a média das vendas dos cinco últimos anos no mercado da União.\n\n4 - Caso o fabricante de tratores tenha comercializado tratores na União por um período inferior a cinco anos, a média deve ser calculada com base no período de comercialização de tratores na União pelo referido fabricante.\n\n5 - Em alternativa à opção prevista nos n.os 3 e 4, o número de tratores colocados no mercado no quadro do regime de flexibilidade não deve exceder, em cada gama de potência, os limites referidos do quadro I constante do anexo X.\n\n6 - Durante a fase III-B, um fabricante de tratores que pretenda utilizar o regime de flexibilidade deve solicitar a autorização do IMT, I.P., para colocar tratores no mercado ao abrigo das disposições aplicáveis do presente capítulo, não devendo o número de tratores exceder os limites previstos nos n.os 8 a 10.\n\n7 - Os motores a que se refere o número anterior devem cumprir os requisitos estabelecidos no artigo 2.º-B.\n\n8 - O número de tratores colocados no mercado no quadro do regime de flexibilidade não deve, para cada categoria de motor, ultrapassar 40 % do número anual de tratores colocados no mercado pelo fabricante de tratores com motores da categoria em questão, calculados como a média das vendas dos cinco últimos anos no mercado da União.\n\n9 - Caso o fabricante de tratores tenha comercializado tratores na União por um período inferior a cinco anos, a média deve ser calculada com base no período de comercialização de tratores na União pelo referido fabricante.\n\n10 - Em alternativa à opção prevista nos n.os 8 e 9, o número de tratores colocados no mercado no quadro do regime de flexibilidade não deve exceder, em cada gama de potência, os limites referidos do quadro II constante do anexo X.\n\n11 - O pedido apresentado pelo fabricante de tratores ao IMT, I.P., deve incluir a seguinte informação:\n\na) Uma amostra das etiquetas que são apostas em cada trator em que está instalado um motor introduzido no mercado ao abrigo do regime de flexibilidade, devendo as etiquetas ostentar o seguinte texto: «TRATOR N.º ... (de sequência dos tratores) DE ... (número total de tratores na respetiva gama de potência) COM O MOTOR N.º ... e o N.º DE HOMOLOGAÇÃO»;\n\nb) Uma amostra da etiqueta adicional que é aposta ao motor e que ostente o texto constante do n.º 2.2 do artigo seguinte.\n\n12 - O fabricante do trator deve fornecer ao IMT, I.P., todas as informações necessárias relativas à aplicação do regime de flexibilidade que este solicite para tomar uma decisão.\n\n13 - O fabricante do trator deve apresentar semestralmente ao IMT, I.P., um relatório sobre a aplicação do regime de flexibilidade que adotou, devendo esse relatório incluir dados cumulativos sobre o número de tratores colocados no mercado ao abrigo do regime de flexibilidade, os números de série do motor e do trator, bem como os Estados-Membros onde o trator tenha sido posto em circulação.\n\n14 - O procedimento a que se refere o número anterior deve ser mantido, sem exceções, enquanto um regime de flexibilidade estiver em curso.\n\nArtigo 22.º\n\n[...]\n\n1 - Um fabricante de motores pode introduzir no mercado motores ao abrigo do regime de flexibilidade aprovado nos termos do presente capítulo.\n\n2 - O fabricante dos motores deve apor nesses motores uma etiqueta com o texto «Motor introduzido no mercado ao abrigo do regime de flexibilidade», nos termos dos requisitos estabelecidos no artigo 6.º\n\nArtigo 23.º\n\nAções a empreender pelo Instituto da Mobilidade e dos Transportes, I.P.\n\nO IMT, I.P., deve avaliar o conteúdo do pedido de regime de flexibilidade e dos documentos apensos, após o que informa o fabricante dos tratores da sua decisão de autorizar ou não o regime de flexibilidade solicitado.»\n\n3 - É alterada a organização sistemática do capítulo III do Regulamento Respeitante às Medidas a Tomar contra as Emissões de Gases Poluentes e de Partículas Poluentes Provenientes dos Motores Destinados à Propulsão dos Tratores Agrícolas ou Florestais, aprovado pelo Decreto-Lei n.º 114/2002, de 20 de abril, e alterado pelos Decretos-Leis n.os 227/2007, de 4 de junho e 81/2011, de 20 de junho, sendo eliminadas as Secções I e II.\n\n4 - O anexo X do Regulamento Respeitante às Medidas a Tomar contra as Emissões de Gases Poluentes e de Partículas Poluentes Provenientes dos Motores Destinados à Propulsão dos Tratores Agrícolas ou Florestais, aprovado pelo Decreto-Lei n.º 114/2002, de 20 de abril, e alterado pelos Decretos-Leis n.os 227/2007, de 4 de junho e 81/2011, de 20 de junho, passa a ter a redação constante do anexo IV ao presente decreto-lei, do qual faz parte integrante."
+  },
+  "54ec10a5ae26189e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Alteração ao Decreto-Lei n.º 74/2005, de 24 de março",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Alteração ao Decreto-Lei n.º 74/2005, de 24 de março\n\nO anexo II do Regulamento da Homologação de Tratores Agrícolas ou Florestais, Seus Reboques e Máquinas Intermutáveis Rebocadas, e dos Sistemas, Componentes e Unidades Técnicas, aprovado pelo Decreto-Lei n.º 74/2005, de 24 de março, e alterado pelos Decretos-Leis n.os 89/2006, de 24 de maio, e 227/2007, de 4 de junho, passa a ter a redação constante do anexo V ao presente decreto-lei, do qual faz parte integrante."
+  },
+  "110390133933781f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Alteração ao Decreto-Lei n.º 81/2011, de 20 de junho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Alteração ao Decreto-Lei n.º 81/2011, de 20 de junho\n\n1 - O artigo 75.º do Decreto-Lei n.º 81/2011, de 20 de junho, passa a ter a seguinte redação:\n\n«Artigo 75.º\n\n[...]\n\n1 - [...].\n\n2 - [...].\n\n3 - [...].\n\n4 - [...].\n\n5 - [...].\n\n6 - [...].\n\n7 - [...].\n\n8 - [...].\n\n9 - [...].\n\n10 - [...].\n\n11 - [...].\n\n12 - [...].\n\n13 - [...].\n\n14 - [...].\n\n15 - O presente capítulo aplica-se a tratores das categorias T1, T3 e T4, tal como definidos no anexo II do Regulamento da Homologação de Tratores Agrícolas ou Florestais, Seus Reboques e Máquinas Intermutáveis Rebocadas, e dos Sistemas, Componentes e Unidades Técnicas aprovado pelo Decreto-Lei n.º 74/2005, de 24 de março, alterado pelos Decretos-Leis n.os 89/2006, de 24 de Maio, e 227/2007, de 4 de junho.\n\n16 - O presente capítulo não é aplicável aos tratores da categoria T4.3, nos quais o ponto de referência do banco do condutor, conforme estabelecido no artigo 11.º, esteja a uma distância superior a 100 mm do plano longitudinal médio do trator.»\n\n2 - O anexo II do Decreto-Lei n.º 81/2011, de 20 de junho, passa a ter a redação constante do anexo VI ao presente decreto-lei, do qual faz parte integrante."
+  },
+  "9e9e3e813417c6e1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Alterações terminológicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Alterações terminológicas\n\nA referência feita no Decreto-Lei n.º 291/2000, de 14 de novembro e no Decreto-Lei n.º 114/2002, de 20 de abril, a «Direcção-Geral de Viação», é substituída, por «Instituto da Mobilidade e dos Transportes, I.P.»."
+  },
+  "f68e8506f74f2257": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Norma revogatória\n\nÉ revogado o artigo 20.º do Regulamento Respeitante às Medidas a Tomar contra as Emissões de Gases Poluentes e de Partículas Poluentes Provenientes dos Motores Destinados à Propulsão dos Tratores Agrícolas ou Florestais, aprovado pelo Decreto-Lei n.º 114/2002, de 20 de abril, e alterado pelos Decretos-Leis n.os 227/2007, de 4 de junho e 81/2011, de 20 de junho."
+  },
+  "b9204179c490364a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Produção de efeitos\n\nAs disposições relacionadas com tratores das categorias T4.3 produzem efeitos a partir de 29 de setembro de 2013 quanto aos novos modelos de veículos e a partir de 29 de setembro de 2016 quanto aos veículos novos.\n\nVisto e aprovado em Conselho de Ministros de 28 de fevereiro de 2013. - Pedro Passos Coelho - Paulo Sacadura Cabral Portas - Miguel Bento Martins Costa Macedo e Silva - António Joaquim Almeida Henriques - Maria de Assunção Oliveira Cristas Machado da Graça.\n\nPromulgado em 10 de abril de 2013.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 11 de abril de 2013.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  },
+  "98a184e213e7a7fb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO I — (a que se referem os artigos 4.º e 7.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — (a que se referem os artigos 4.º e 7.º)\n\nI - Disposições aplicáveis a tomadas de força à retaguarda\n\nAs especificações contidas nas normas ISO 500-1:2004, em conjunto com a retificação técnica de 1:2005, e ISO 500-2:2004 são aplicáveis aos tratores com tomadas de força à retaguarda, em conformidade com o quadro 1.\n\nQUADRO 1\n\nNormas aplicáveis a tomadas de força da retaguarda das seguintes categorias de tratores\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07500/0223902248.pdf)\n\nII - Disposições aplicáveis a tomadas de força dianteiras\n\nAs especificações da norma ISO 8759-1:1998 são aplicáveis aos tratores com tomadas de força dianteiras, em conformidade com o quadro 2.\n\nQUADRO 2\n\nNormas aplicáveis a tomadas de força dianteiras das seguintes categorias de tratores\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07500/0223902248.pdf)"
+  },
+  "5d45757b8c9b687e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO II — (a que se referem os artigos 5.º e 6.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — (a que se referem os artigos 5.º e 6.º)\n\nParte I\n\nFICHA DE INFORMAÇÕES N.º [...]\n\nNos termos do anexo I do Regulamento aprovado pelo Decreto-Lei n.º 74/2005, de 24 de março, relativo à homologação CE de um trator no que diz respeito à tomada de força dos tratores\n\nAs seguintes informações, se aplicáveis, devem ser fornecidas em triplicado e incluir um índice.\n\nSe houver desenhos, devem ser fornecidos à escala adequada e com pormenor suficiente, em formato A4 ou dobrados nesse formato. Se houver fotografias, estas devem ter o pormenor suficiente.\n\n0. Generalidades\n\n0.1. Marca(s) (marca registada do fabricante): ...\n\n0.2. Modelo (especificar eventuais variantes e versões): ...\n\n0.3. Meios de identificação do modelo/tipo, se marcados no veículo: ...\n\n0.3.1. Chapa do fabricante (localização e modo de fixação) ...\n\n0.4. Categoria do veículo (1): ...\n\n0.5. Nome e endereço do fabricante: ...\n\n0.8. Nome(s) e endereço(s) da(s) instalação(ões) de montagem: ...\n\n4.12. Tomada(s) de força (velocidade de rotação e relação com a do motor) (número, tipo e localização): ...\n\n4.12.1. Tomada(s) de força principal(ais): ...\n\n4.12.2. Outra(s): ...\n\n4.12.3. Proteção da(s) tomada(s) de força (descrição, dimensões, desenhos, fotografias): ...\n\nParte II\n\nDOCUMENTAÇÃO DE HOMOLOGAÇÃO\n\nMODELO\n\n[Formato máximo: A4 (210 x 297 mm)]\n\nCERTIFICADO DE HOMOLOGAÇÃO CE\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07500/0223902248.pdf)\n\nComunicação relativa a\n\n- Homologação CE (2)\n\n- Extensão da homologação CE (2)\n\n- Recusa da homologação CE (2)\n\n- Revogação da homologação CE (2)\n\nde um modelo de trator nos termos da Diretiva n.º [86/297/CEE](https://data.europa.eu/eli/dir/1986/297/oj?locale=pt), com a última redação conferida pela Diretiva n.º [2010/62/UE](https://data.europa.eu/eli/dir/2010/62/oj?locale=pt)\n\nNúmero de homologação: ...\n\nRazão da extensão: ..."
+  },
+  "85d13baf5153c55f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I\n\n0.1. Marca (firma do fabricante): ...\n\n0.2. Modelo do trator: ...\n\n0.3. Meios de identificação do modelo, se indicado no trator (3): ...\n\n0.3.1. Localização dessa marcação: ...\n\n0.4. Categoria do veículo (1): ...\n\n0.5. Nome e endereço do fabricante: ...\n\n0.8. Nome(s) e endereço(s) da(s) instalação(ões) de montagem: ..."
+  },
+  "a23e6da2c508283d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II\n\n1. Informações complementares (se aplicável): ver adenda.\n\n2. Serviço técnico responsável pela realização dos ensaios: ...\n\n3. Data do relatório de ensaio: ...\n\n4. Número do relatório de ensaio: ...\n\n5. Observações (se aplicável): ver adenda.\n\n6. Local: ...\n\n7. Data: ...\n\n8. Assinatura: ...\n\n9. Em anexo, figura o índice do processo de homologação apresentado às entidades homologadoras e que pode ser obtido a pedido.\n\n(1) Conforme definido no anexo II do Regulamento aprovado pelo Decreto-Lei n.º 74/2005, de 24 de março.\n\n(2) Riscar o que não interessa.\n\n(3) Se os meios de identificação do modelo contiverem caracteres não relevantes para a descrição dos modelos de trator abrangidos por este certificado de homologação, esses caracteres devem ser representados na documentação pelo símbolo «?» (exemplo: ABC??123??)"
+  },
+  "23dd8b4921b2b5d8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO III — (a que se refere o artigo 8.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — (a que se refere o artigo 8.º)\n\n«ANEXO XX\n\n[...]\n\n[...]\n\n1.1 - [...].\n\n1.2 - [...].\n\n1.3 - [...].\n\n1.4 - [...].\n\n1.5 - [...].\n\n1.6 - [...].\n\n2 - [...].\n\n2.1. - [...].\n\n2.2. - As dimensões da plataforma devem ser tais que:\n\n- O cumprimento não ultrapasse 1,4 vezes a maior via do trator, à frente ou à retaguarda do trator;\n\n- A largura não ultrapasse a largura máxima total do trator sem equipamento;\n\n- No caso de tratores da categoria T4.3, o cumprimento da plataforma não deve ultrapassar 2,5 vezes a maior via do trator, à frente ou à retaguarda do trator, consoante a que for maior.\n\n2.3 [...].\n\n2.4 [...].\n\n2.5 [...]\n\n2.6 [...]\n\nANEXO IV\n\n(a que se refere o n.º 4 artigo 9.º)\n\n«ANEXO X\n\n(a que se referem os n.os 5 e 10 do artigo 20.º)\n\nLimites de tratores a colocar no mercado no âmbito do regime de flexibilidade\n\n1 - Em alternativa à opção prevista nos n.os 3 e 4 do artigo 20.º, o número de tratores colocados no mercado no quadro do regime de flexibilidade não deve exceder, em cada gama de potência, os seguintes limites:\n\nQUADRO I\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07500/0223902248.pdf)\n\n2 - Em alternativa à opção prevista nos n.os 8 e 9 do artigo 20.º, o número de tratores colocados no mercado no quadro do regime de flexibilidade não deve exceder, em cada gama de potência, os seguintes limites:\n\nQUADRO II\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07500/0223902248.pdf)\n\nANEXO V\n\n(a que se refere o artigo 10.º)\n\n«CAPÍTULO II\n\nLista de requisitos a cumprir para efeitos da homologação CE de um veículo\n\nPARTE I\n\nLista de diretivas específicas\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07500/0223902248.pdf)\n\nApêndice n.º 1\n\nPARTE II\n\nAplicabilidade das diretivas específicas aos veículos destinados a utilizações específicas\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07500/0223902248.pdf)\n\nANEXO VI\n\n(a que se refere o n.º 2 do artigo 11.º)\n\n«ANEXO II\n\n1 - [...].\n\n2 - [...].\n\n3 - [...].\n\n4 - [...].\n\n5 - [...].\n\n6 - [...].\n\n7 - [...].\n\n8 - [...].\n\n9 - [...].\n\n10 - Tratores de via estreita e tratores da categoria T4.3\n\n10.1. - No caso de tratores de via estreita e de tratores da categoria T4.3, os requisitos do n.º 8 não são aplicáveis à zona situada abaixo de um plano inclinado a 45º para trás, transversalmente em relação ao sentido da marcha, e que passa por um ponto situado a 230 mm atrás do ponto índice do banco, conforme figura 7 ao presente anexo.\n\n10.2. - [...].\n\n10.3. - [...].\n\n10.4. - [...].\n\n10.5. - [...].\n\n10.6 - [...].\n\n10.7. - [...].\n\n11 - [...].\n\n12 - [...].\n\n13 - [...].\n\n14 - [...].\n\n15 - [...].\n\n16 - [...].\n\n17 - [...].\n\n18 - [...].\n\n19 - [...].\n\n20 - [...].\n\n21 - [...].\n\n22 - [...].\n\n23 - [...].\n\n24 - [...].\n\n25 - [...].\n\n26 - [...].»\n\nANEXO VI\n\n(a que se refere o n.º 4 artigo 11.º)\n\n«ANEXO X\n\n(a que se referem os n.os 5 e 10 do artigo 20.º)\n\nLimites de tratores a colocar no mercado no âmbito do regime de flexibilidade\n\n3 - Em alternativa à opção prevista nos n.os 3 e 4 do artigo 20.º, o número de tratores colocados no mercado no quadro do regime de flexibilidade não deve exceder, em cada gama de potência, os seguintes limites:\n\nQUADRO I\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07500/0223902248.pdf)\n\n4 - Em alternativa à opção prevista nos n.os 8 e 9 do artigo 20.º, o número de tratores colocados no mercado no quadro do regime de flexibilidade não deve exceder, em cada gama de potência, os seguintes limites:\n\nQUADRO II\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07500/0223902248.pdf)"
+  },
+  "9246b5e26fe4bc8c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO I — (a que se referem os artigos 4.º e 7.º)",
+   "in_force_from": "2013-10-31",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 151/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2013-504726), publicado em 2013-10-30."
+   ],
+   "markdown": "## ANEXO I — (a que se referem os artigos 4.º e 7.º)\n\nI - Disposições aplicáveis a tomadas de força à retaguarda\n\nAs especificações contidas nas normas ISO 500-1:2004, em conjunto com a retificação técnica de 1:2005, e ISO 500-2:2004 são aplicáveis aos tratores com tomadas de força à retaguarda, em conformidade com o quadro 1.\n\nQUADRO 1\n\nNormas aplicáveis a tomadas de força da retaguarda das seguintes categorias de tratores\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07500/0223902248.pdf)\n\nII - Disposições relativas às tomadas de força dianteiras\n\nAs especificações da norma ISO 87591:1998, com exceção do ponto 4.2, são aplicáveis aos tratores de todas as categorias T e C equipados com tomadas de força dianteiras, tal como especificado nessa norma.\n\n> Alterado pelo/a [Decreto-Lei n.º 151/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2013-504726), publicado em 2013-10-30."
+  }
+ }
+}

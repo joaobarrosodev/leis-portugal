@@ -1,0 +1,79 @@
+[
+ {
+  "id": "pt:dre:240271:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "N.º 2 com a nova redação do artigo único do DL 199/2005, letra a letra; n.º 1 mantido («1 - ...»).",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 291/2007, art. 2.º: nova redação do art. 9.º-A do DL 142/2000, aditado pelo art. 3.º do original",
+    "motivo": "outro diploma: altera o DL 142/2000 (republicado no anexo do original); aplicá-lo ao anexo seria errado"
+   },
+   {
+    "instrucao": "DL 72/2008",
+    "motivo": "o diploma que altera não traz o texto da alteração: a vista só tem o título, sem nenhum artigo"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:245683:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 5.º-A",
+    "veredicto": "certo",
+    "motivo": "Aditado pelo artigo único da Lei 1/2002, letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º-B",
+    "veredicto": "certo",
+    "motivo": "Aditado pelo artigo único da Lei 1/2002, letra a letra.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 113/2008, arts. 2.º a 4.º (arts. 131.º, 148.º, 169.º, 173.º e 177.º, designação do cap. I do tít. VIII e aditamento do art. 169.º-A do Código da Estrada)",
+    "motivo": "outro diploma: Código da Estrada aprovado pelo DL 114/94 e republicado pelo DL 44/2005, não o original nem o anexo que o republicou"
+   },
+   {
+    "instrucao": "DL 113/2009, art. 1.º (arts. 117.º, 118.º, 119.º, 161.º e 162.º do Código da Estrada)",
+    "motivo": "outro diploma: Código da Estrada aprovado pelo DL 114/94"
+   },
+   {
+    "instrucao": "DL 113/2009, arts. 2.º a 4.º (alteração, revogação e republicação da Lei 25/2006)",
+    "motivo": "outro diploma"
+   },
+   {
+    "instrucao": "Lei 78/2009, art. 1.º (art. 123.º do Código da Estrada)",
+    "motivo": "outro diploma: Código da Estrada aprovado pelo DL 114/94, republicado pelo DL 44/2005"
+   },
+   {
+    "instrucao": "Lei 46/2010, arts. 1.º a 5.º (Regulamento de Matrícula, DL 554/99, DL 112/2009, arts. 117.º-119.º, 161.º e 162.º do Código da Estrada, Lei 25/2006)",
+    "motivo": "outro diploma"
+   },
+   {
+    "instrucao": "Lei 46/2010, art. 7.º (revogação de normas do DL 112/2009, do Código da Estrada e da Lei 25/2006)",
+    "motivo": "outro diploma"
+   },
+   {
+    "instrucao": "Lei 46/2010, art. 7.º, «bem como qualquer disposição legal contrária à presente lei»",
+    "motivo": "revogação condicional"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "observacoes": "DL 44/2005, DL 138/2012, Lei 72/2013 e DL 102-B/2020 vêm na vista sem texto: não se vê nenhuma instrução deles, nem justificada nem em falta."
+ }
+]

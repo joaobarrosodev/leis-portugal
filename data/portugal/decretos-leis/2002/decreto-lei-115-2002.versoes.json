@@ -78,7 +78,7 @@
    ]
   },
   {
-   "date": "2008-07-26",
+   "date": "2013-10-25",
    "future": false,
    "acts": [
     {
@@ -86,12 +86,19 @@
      "title": "Decreto-Lei n.º 133/2008",
      "published": "2008-07-21",
      "dre_path": "/dr/detalhe/decreto-lei/133-2008-456790"
+    },
+    {
+     "id": "pt:dre:502980:por",
+     "title": "Decreto-Lei n.º 148/2013",
+     "published": "2013-10-24",
+     "dre_path": "/dr/detalhe/decreto-lei/148-2013-502980"
     }
    ],
    "changes": [
     "Adita Artigo ANEXO::21.º-A",
     "Altera Artigo ANEXO::26.º",
-    "Adita Artigo ANEXO::26.º-A"
+    "Adita Artigo ANEXO::26.º-A",
+    "Altera Artigo ANEXO X — (referente ao n.º 2 do artigo 27.º)"
    ],
    "fragments": [
     "3e92da2c0bb3a2a6",
@@ -159,7 +166,7 @@
     "7882ef2d863ceae6",
     "09a8ca0503c3fd66",
     "20a54ec20497755f",
-    "83fcb1f43ea1f30b"
+    "ae9d5d68e712aae3"
    ]
   }
  ],
@@ -672,7 +679,7 @@
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 21.º-A — Ensaio do veículo",
-   "in_force_from": "2008-07-26",
+   "in_force_from": "2013-10-25",
    "changed_by": [
     "Aditado pelo/a [Decreto-Lei n.º 133/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2008-456790), publicado em 2008-07-21."
    ],
@@ -682,7 +689,7 @@
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 26.º — Especificações",
-   "in_force_from": "2008-07-26",
+   "in_force_from": "2013-10-25",
    "changed_by": [
     "Alterado pelo/a [Decreto-Lei n.º 133/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2008-456790), publicado em 2008-07-21."
    ],
@@ -692,11 +699,21 @@
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 26.º-A — Veículos equipados com plataforma elevatória",
-   "in_force_from": "2008-07-26",
+   "in_force_from": "2013-10-25",
    "changed_by": [
     "Aditado pelo/a [Decreto-Lei n.º 133/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2008-456790), publicado em 2008-07-21."
    ],
    "markdown": "###### Artigo 26.º-A — Veículos equipados com plataforma elevatória\n\n1 - No caso de veículos equipados com uma plataforma elevatória, a instalação do dispositivo de protecção contra o encaixe pode ser interrompida para efeitos de montagem do mecanismo, aplicando-se neste caso, as seguintes disposições:\n\na) A distância lateral entre os elementos de fixação do dispositivo de protecção contra o encaixe e os elementos da plataforma elevatória, que tornam necessária essa interrupção, não pode ser superior a 2,5 cm;\n\nb) Os elementos individuais do dispositivo de protecção contra o encaixe devem possuir uma superfície efectiva de, pelo menos, 350 cm2, em cada caso;\n\nc) Os elementos individuais do dispositivo de protecção contra o encaixe devem ter dimensões suficientes para cumprir o disposto no n.º 7 do artigo anterior, pelo qual se determinam as posições relativas dos pontos de ensaio, e no caso de os pontos P1 estarem situados na área de interrupção mencionada no n.º 1, os pontos P1 a utilizar devem estar situados no centro de qualquer secção lateral do dispositivo de protecção à retaguarda contra o encaixe.\n\n2 - Não se aplica o disposto na alínea a) do n.º 5 do artigo anterior à área de interrupção do dispositivo de protecção contra o encaixe para efeitos de montagem da plataforma elevatória.\n\n> Aditado pelo/a [Decreto-Lei n.º 133/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2008-456790), publicado em 2008-07-21."
+  },
+  "ae9d5d68e712aae3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO X — (referente ao n.º 2 do artigo 27.º)",
+   "in_force_from": "2013-10-25",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 148/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-2013-502980), publicado em 2013-10-24."
+   ],
+   "markdown": "## ANEXO X — (referente ao n.º 2 do artigo 27.º)\n\nA marca de homologação CE deve ser constituída por um rectângulo envolvendo a letra «e», seguida das letras ou números distintivos do Estado-Membro que procedeu à homologação:\n\n1 para a Alemanha;\n\n2 para a França;\n\n3 para a Itália;\n\n4 para os Países Baixos;\n\n5 para a Suécia;\n\n6 para a Bélgica;\n\n7 para a Hungria;\n\n8 para a República Checa;\n\n9 para a Espanha;\n\n11 para o Reino Unido;\n\n12 para a Áustria;\n\n13 para o Luxemburgo;\n\n17 para a Finlândia;\n\n18 para a Dinamarca;\n\n19 para a Roménia;\n\n20 para a Polónia;\n\n21 para Portugal;\n\n23 para a Grécia;\n\n25 para a Croácia;\n\n26 para a Eslovénia;\n\n27 para a Eslováquia;\n\n29 para a Estónia;\n\n32 para a Letónia;\n\n34 para a Bulgária;\n\n36 para a Lituânia;\n\nCY para Chipre;\n\nIRL para a Irlanda;\n\nMT para Malta.\n\nNota justificativa da necessidade e urgência do projecto de decreto-lei que visa a transposição para o direito interno da Directiva n.º [2000/8/CE](https://data.europa.eu/eli/dir/2000/8/oj?locale=pt), do Parlamento Europeu e do Conselho, de 20 de Março.\n\nA necessidade de aprovação imediata do diploma em causa advém do facto de a transposição para o direito nacional de directivas comunitárias constituir um acto jurídica e politicamente predominantemente vinculado do Governo (ou da Assembleia da República, quando seja esse o caso), nos termos do direito europeu e da Constituição da República Portuguesa, indispensável ao normal comércio jurídico e que, por isso mesmo, se enquadra no conceito mais restrito de «gestão».\n\n> Alterado pelo/a [Decreto-Lei n.º 148/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-2013-502980), publicado em 2013-10-24."
   }
  }
 }

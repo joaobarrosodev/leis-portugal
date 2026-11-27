@@ -47,10 +47,26 @@ legal_status_basis:
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2015-12-31'
+version_history:
+  file: decreto-legislativo-regional-8-2014-m.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2014-07-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2015-12-31'
+    amending: pt:dre:72991305:por
+    amending_title: Decreto Legislativo Regional n.º 17/2015/M
+    changes:
+    - Altera Artigo 3.º
+    - Adita Artigo 3.º-A
+    - Adita Artigo 3.º-B
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/declegreg/8/2014/07/29/m/dre/pt/html
@@ -76,7 +92,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:41:52Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Legislativo Regional n.º
+    17/2015/M. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/madeira/decretos-legislativos-regionais/2014/decreto-legislativo-regional-8-2014-m.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -184,9 +201,29 @@ O [Decreto-Lei n.º 106/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/
 
 ###### Artigo 3.º — Abono de ajudas de custo e transporte nas deslocações em território nacional
 
-1 - Quando os membros do Governo Regional e dos respetivos gabinetes se desloquem do seu domicílio necessário, por motivo de serviço público, em território nacional, têm direito aos abonos previstos no [Decreto-Lei n.º 106/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-1998-176328), de 24 de abril, alterado pelo [Decreto-Lei n.º 137/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2010-306615), de 28 de dezembro, e pelas Leis n.os [64-B/2011](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769) de 30 de dezembro, e [66-B/2012](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), de 31 de dezembro, conforme as tabelas em vigor.
+1 - Os membros do Governo e respetivos membros dos gabinetes, quando se desloquem do seu domicílio necessário por motivo de serviço público, em território nacional, têm direito aos abonos de ajudas de custo previstos no Decreto-Lei n.º 106/98, de 24 de abril, alterado pelo Decreto-Lei n.º 137/2010, de 28 de dezembro, e pelas Leis n.os 64-B/2011, de 30 de dezembro, 66-B/2012, de 31 de dezembro, e 82-B/2014, de 31 de dezembro.
 
-2 - Nas deslocações referidas no número anterior, os membros do Governo Regional, têm ainda direito a alojamento em adequado estabelecimento hoteleiro, acrescido do montante correspondente a 50% das ajudas de custo diárias.
+2 - Os montantes das ajudas de custo a que se refere o número anterior são fixados por portaria conjunta do Presidente do Governo Regional e do membro do governo responsável pela área das finanças.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 17/2015/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2015-72991305), publicado em 2015-12-30.
+
+###### Artigo 3.º-A — Casos excecionais de reembolsos
+
+Em casos excecionais, os encargos com o alojamento inerentes a deslocações em serviço público podem ser satisfeitos através do reembolso da despesa efetuado pelo membro do governo ou respetivo membro do gabinete, desde que se verifiquem os seguintes requisitos cumulativos:
+
+a) O reembolso seja autorizado pelo membro do Governo responsável pela área das finanças, previamente à deslocação;
+
+b) Seja comprovado que o pagamento efetuado pelo interessado junto do estabelecimento hoteleiro é inferior àquele que é apresentado como o mais baixo preço, na consulta prévia à deslocação;
+
+c) Seja feita a consulta a, pelo menos, três entidades.
+
+> Aditado pelo/a [Decreto Legislativo Regional n.º 17/2015/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2015-72991305), publicado em 2015-12-30.
+
+###### Artigo 3.º-B — Deslocações ao estrangeiro
+
+O disposto no artigo 3.º-A é aplicável às deslocações dos membros do Governo e respetivos membros do gabinete ao estrangeiro, sendo, nesses casos, o abono de ajuda de custo o estabelecido na lei aplicável.
+
+> Aditado pelo/a [Decreto Legislativo Regional n.º 17/2015/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2015-72991305), publicado em 2015-12-30.
 
 ###### Artigo 4.º — Norma transitória
 

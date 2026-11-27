@@ -9,13 +9,17 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "As prorrogações da vigência dos artigos 1.º a 3.º (DL 322-A/75 por mais seis meses; DL 88/76 até à entrada em funcionamento da Assembleia Legislativa) não dão nova redação ao n.º 2 do artigo 6.º nem a outro artigo; alterações não textuais, não aplicadas.",
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 2, prorrogação por mais seis meses dos artigos 1.º, 2.º e 3.º: não textual — prorrogação\nAlterador 3, prorrogação dos artigos 1.º, 2.º e 3.º até à entrada em funcionamento da Assembleia Legislativa: não textual — prorrogação",
   "instrucoes": [
-    "Alterador 1 (DL 303/75), art. 1.º: nova redação do art. 4.º (n.º 2 'preço de venda', novo n.º 3, antigo n.º 3 passa a n.º 4); aplicada.",
-    "Alterador 2 (DL 322-A/75): prorroga por seis meses os arts. 1.º a 3.º; não textual, não aplicada.",
-    "Alterador 3 (DL 88/76): prorroga os arts. 1.º a 3.º até à entrada em funcionamento da Assembleia Legislativa; não textual, não aplicada."
+    "Alt. 1: nova redação do art. 4.º — substituído por inteiro (4 números)",
+    "Alt. 2 e 3: prorrogação da vigência dos arts. 1.º a 3.º — não textual"
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 124,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

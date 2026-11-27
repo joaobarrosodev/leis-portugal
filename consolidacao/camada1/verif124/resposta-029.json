@@ -1,0 +1,20 @@
+[
+  {
+    "id": "pt:dre:339395:por",
+    "artigos": [
+      {"artigo": "Artigo 10.º", "veredicto": "certo", "motivo": "DL 332/2000 dá nova redação ao n.º 3 do artigo 10.º («com efeitos a partir de 1 de Fevereiro de 2001»), mantendo o resto; consolidado igual", "texto_esperado": ""}
+    ],
+    "instrucoes_em_falta": [],
+    "instrucoes_justificadas": [
+      {"instrucao": "DL 219/2004: alteração dos mapas IV, V e VI anexos ao DL 186-A/99, na redação dada pelo DL 178/2000", "motivo": "instrução de outro diploma (DL 186-A/99)"},
+      {"instrucao": "DL 177/2006, art. 1.º: extinção dos 1.º, 2.º e 3.º Juízos de Pequena Instância Cível Liquidatários de Lisboa", "motivo": "não textual: extinção de juízos sem nova redação nem revogação de preceito do DL 178/2000"},
+      {"instrucao": "DL 250/2007: alteração do mapa VI anexo ao DL 186-A/99 e conversão/extinção de varas e juízos", "motivo": "instrução de outro diploma (DL 186-A/99)"},
+      {"instrucao": "DL 74/2011: criação das comarcas da Cova da Beira e de Lisboa e alterações ao DL 186-A/99", "motivo": "instrução de outro diploma; não visa o DL 178/2000"},
+      {"instrucao": "DL 113-A/2011: revogação do DL 74/2011, extinções e alteração do DL 186-A/99", "motivo": "instrução de outro diploma; não visa o DL 178/2000"},
+      {"instrucao": "DL 67/2012: alteração do artigo 37.º e dos mapas VI e VII do DL 186-A/99 (alterado, entre outros, pelo DL 178/2000)", "motivo": "instrução de outro diploma (DL 186-A/99)"}
+    ],
+    "artigos_a_mais": [],
+    "artigos_em_falta": [],
+    "fora_dos_artigos": "sem alterações"
+  }
+]

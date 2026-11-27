@@ -1,0 +1,48 @@
+[
+ {
+  "id": "pt:dre:605538:por",
+  "veredicto": "certo",
+  "problemas": [
+   "Nada a corrigir. O art. 2.º tem os novos n.os 1 e 2 do DL 15/2010 e os n.os 3 e 4 são os antigos n.os 2 e 3, letra a letra. Os DL 72/2010, 64/2012, 13/2013 e 153/2019 só alteram o DL 220/2006 («alterado pelo DL 68/2009»), e as relações do DRE confirmam-no («o art. … do Dec Lei 220/2006 … na redação do presente diploma»). Não há corrected_by nem repealed_by."
+  ],
+  "vigencia": null
+ },
+ {
+  "id": "pt:dre:195800:por",
+  "veredicto": "certo",
+  "problemas": [
+   "Nada a corrigir no que as instruções mudam: os arts. 1.º, 3.º, 8.º, 9.º, 10.º, 11.º e 17.º estão na redação do DL 136/2004 e os arts. 18.º a 20.º estão «(Revogado.)». O art. 11.º fica só com os n.os 1 e 2, porque a nova redação só traz esses dois números e a republicação confirma-o. Os DL 215-A/2004, 119/2013, 32/2024 e 87-A/2025 são leis orgânicas do Governo que mudam o ministério de que o Conselho depende, sem nova redação (confirmado no acervo).",
+   "Nota que não muda o veredicto: a republicação anexa ao DL 136/2004 difere do consolidado em partes que nenhuma instrução muda. No art. 17.º, n.º 3, diz «Ministério das Cidades, Ordenamento do Território e Ambiente» onde o consolidado tem «Ministério do Ambiente»; no art. 17.º, n.º 2, diz «de entre outros»; a epígrafe do art. 11.º é «Serviços de apoio técnico-administrativo»; no art. 2.º, n.º 1, diz «por solicitação». Pela regra («o que a instrução não muda fica como no texto atual»), o consolidado está certo. É o mesmo caso por decidir que o README regista no DLR 13/98/A e no DL 55-A/2000 (conta a republicação ou as instruções?)."
+  ],
+  "vigencia": null
+ },
+ {
+  "id": "pt:dre:339847:por",
+  "veredicto": "reparos",
+  "problemas": [
+   "Faltam duas declarações de retificação que estão nas relações (corrected_by) e não entre os alteradores. A primeira é a Declaração de Rectificação n.º 7-S/2000 (pt:dre:336713). No art. 8.º, onde se lê «O presente diploma entra em vigor no dia 1 de Janeiro de 2001.», deve ler-se «O presente diploma entra em vigor no dia 1 de Janeiro de 2001, com excepção do artigo 6.º, cuja vigência se inicia no dia subsequente ao da sua publicação.». No consolidado, o art. 8.º está igual ao original. No art. 1.º, na redação que dá ao art. 621.º do CPC, sai a linha final «h) ...» (a lista acaba em «g) Inquirição por telefone, ao abrigo do disposto no artigo 639.º-B.»). Na redação que dá ao art. 651.º do CPC, o n.º 3 deve ler-se «3 - Não é admissível o acordo das partes, nem pode adiar-se a audiência por mais do que uma vez, excepto no caso previsto na alínea a) do n.º 1.». A correção do art. 7.º, n.º 1 («n.os 1 a 3» em vez de «1 a 4»), já não tem efeito, porque esse número foi revogado.",
+   "A segunda é a Declaração de Rectificação n.º 11-A/2000 (pt:dre:235761). No art. 1.º, na redação que dá ao art. 629.º do CPC, o texto passa a ser o do «deve ler-se»: «3 - No caso de a parte não prescindir…», al. a) «Se ocorrer impossibilidade definitiva para depor, posterior à sua indicação, a parte tem a faculdade de a substituir;» em vez de «a) ...», e al. e) «Se faltar sem motivo justiticado e não for encontrada para vir depor nos termos do número seguinte, pode ser substituída.» em vez de «e) ...». O consolidado mantém o art. 1.º igual ao original, que ainda tem a redação errada (e o acento grave em «adiada`», na al. b)).",
+   "O resto está certo: os n.os 1 e 2 do art. 7.º estão «(Revogado.)» pelo art. 4.º, n.º 3, do DL 324/2003, que tira o objeto à nova redação dada antes a esses números pelo DL 320-B/2002. Os outros alteradores mudam o CPC ou o DL 269/98 «na redacção do» DL 183/2000, que são outros diplomas."
+  ],
+  "vigencia": null
+ },
+ {
+  "id": "pt:dre:524038:por",
+  "veredicto": "certo",
+  "problemas": [
+   "Nada a corrigir. Art. 42.º: a nova redação do DL 190/2006 põe um n.º 1 novo no lugar dos antigos n.os 1 e 2 e renumera os antigos n.os 3 a 22 para 2 a 21 («(Anterior n.º 3.)» … «(Anterior n.º 22.)»), e o consolidado tem isso letra a letra. As remissões internas que a renumeração deixou desatualizadas (por exemplo, «n.º 21» e «n.os 18, 19 e 20») ficam como estão, porque o alterador não as mudou. O n.º 1 do anexo 6.º está na redação do anexo II do DL 148/2013 e o n.º 2 fica como estava («2 - [...].»). Os outros artigos e anexos do DL 148/2013 alteram outros diplomas. Não há corrected_by nem repealed_by."
+  ],
+  "vigencia": null
+ },
+ {
+  "id": "pt:dre:438061:por",
+  "veredicto": "certo",
+  "problemas": [
+   "Nada a corrigir. O art. 22.º está na redação do art. 11.º do DL 126/2003 («É revogado o Decreto-Lei n.º 151/98, de 5 de Junho.»). Os outros artigos do DL 126/2003 alteram diplomas e estatutos de outros hospitais. O DL 27/2009 não dá nova redação ao DL 296/2002 nem o revoga, e o DL 233/2005 também não o revoga expressamente (confirmado no acervo)."
+  ],
+  "vigencia": {
+   "conclusao": "outro",
+   "prova": "Segundo as relações do DRE, o Hospital de S. Sebastião, E. P. E. (sociedade anónima pelo DL 296/2002, transformada em E. P. E. pelo DL 233/2005) foi extinto a partir de 1.02.2009 pelo DL 27/2009, por integração no Centro Hospitalar de Entre o Douro e Vouga, E. P. E., que lhe sucede em todos os direitos e obrigações. A entidade que o diploma regula já não existe, mas não houve revogação expressa."
+  }
+ }
+]

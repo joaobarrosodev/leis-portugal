@@ -1,0 +1,76 @@
+[
+ {
+  "id": "pt:dre:541444:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "n.º 3 substituído e n.os 4 e 5 aditados com a redação do art. 1.º do DL 280/97, letra a letra; n.os 1 e 2 iguais ao original",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 280/97, arts. 2.º a 4.º: aplicação do art. 9.º à Escola Superior de Saúde do Alcoitão, produção de efeitos e regime de instalação",
+    "motivo": "não textual: normas próprias do alterador, sem nova redação do original"
+   },
+   {
+    "instrucao": "DL 56/2000, artigo único: aplicação do art. 9.º à Escola do Serviço de Saúde Militar e competências dos ministros",
+    "motivo": "não textual: sem nova redação do art. 9.º"
+   },
+   {
+    "instrucao": "Portaria 535/2005, 1.º: nova redação do anexo III da Portaria n.º 20/2001",
+    "motivo": "outro diploma"
+   }
+  ]
+ },
+ {
+  "id": "pt:dre:543049:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 30.º",
+    "veredicto": "certo",
+    "motivo": "n.º 2 com a nova redação do art. 14.º da Lei 64/2012, letra a letra; restantes números iguais ao original",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 36/2013, art. 37.º: o regime do art. 39.º do DL 32/2012 mantém-se em vigor pelo prazo máximo de 270 dias",
+    "motivo": "não textual: prorrogação de vigência, sem nova redação"
+   },
+   {
+    "instrucao": "DL 36/2013, art. 69.º: nova redação do art. 6.º do DL 137/2010 (alterado pelo DL 32/2012)",
+    "motivo": "outro diploma"
+   },
+   {
+    "instrucao": "DL 70/2025, art. 1.º, alínea c): alteração ao DL 276/2007, alterado pelo DL 32/2012",
+    "motivo": "outro diploma"
+   }
+  ]
+ },
+ {
+  "id": "pt:dre:544172:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 10.º",
+    "veredicto": "certo",
+    "motivo": "n.º 2 com a nova redação do art. 2.º do DL 89/2012, letra a letra; n.os 1 e 3 iguais ao original",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": []
+ }
+]

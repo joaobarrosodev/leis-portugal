@@ -1,0 +1,31 @@
+[
+ {
+  "id": "pt:dre:682986:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "Lei n.º 3-B/2000, art. 69.º, n.º 3, dá nova redação ao artigo 9.º do DL 472/99; o corpo do consolidado é essa redação letra a letra (epígrafe mantida pelo [...]); a fórmula final de assinaturas fica como no original.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Lei n.º 53-A/2006, art. 66.º: nova redação do artigo 101.º da Reforma Aduaneira (DL 46311, com a última alteração do DL 472/99)",
+    "motivo": "outro diploma: altera a Reforma Aduaneira, não o DL 472/99"
+   },
+   {
+    "instrucao": "Lei n.º 64/2012, arts. 10.º a 12.º: alteração de artigos, aditamento do artigo 4.º-A e revogações no DL 229/95 (alterado pelo DL 472/99)",
+    "motivo": "outro diploma: altera o regime jurídico da cobrança do IVA aprovado pelo DL 229/95"
+   },
+   {
+    "instrucao": "Lei n.º 66-B/2012, art. 235.º: revogação do artigo 27.º do Regulamento da Contribuição Especial aprovado pelo DL 43/98 (alterado pelo DL 472/99)",
+    "motivo": "outro diploma: revoga um artigo do Regulamento anexo ao DL 43/98; o artigo 9.º do DL 472/99 só o menciona e não é alterado"
+   }
+  ]
+ }
+]

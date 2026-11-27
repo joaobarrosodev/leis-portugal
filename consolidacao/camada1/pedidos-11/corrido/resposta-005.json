@@ -1,0 +1,20 @@
+[
+ {
+  "id": "pt:dre:367047:por",
+  "substituicoes": [
+   {
+    "de": 22,
+    "ate": 22,
+    "texto": "Art. 2.º O presente diploma produz os seus efeitos a partir de 1 de Outubro de 1979, sendo apenas aplicável às pensões, incapacidades e remições fixadas a partir dessa data.",
+    "alterador": 1
+   }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 2, declaração de inconstitucionalidade do art. 2.º «na medida em que restringe» a aplicação do art. 50.º do Decreto n.º 360/71: não textual: declaração de inconstitucionalidade parcial, sem eliminar o texto\nAlterador 3, nova redação do art. 65.º e regime do n.º 2 do art. 50.º do Decreto n.º 360/71: outro diploma: altera o Decreto n.º 360/71, a que o original só tinha dado redação",
+  "instrucoes": [
+   "Alterador 1: nova redação do art. 2.º; substituída a unidade 22.",
+   "Alterador 2: Acórdão do TC declara inconstitucional o art. 2.º na medida em que restringe; não textual.",
+   "Alterador 3: altera o art. 65.º do Decreto n.º 360/71 (outro diploma); não aplicado."
+  ]
+ }
+]

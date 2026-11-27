@@ -1,0 +1,81 @@
+[
+  {
+    "id": "pt:dre:461471:por",
+    "artigos": [
+      {"artigo": "Artigo 1.º", "veredicto": "certo", "motivo": "A alínea a) do n.º 2 do art. 9.º do DL 193/88 revoga o n.º 2 do art. 1.º, que fica «2 - (Revogado.)». N.os 1 e 3 iguais. A revogação por matéria do DL 179/93 (coelhos) não se pode aplicar a este texto sem saber o alvo: está em instrucoes_em_falta.", "texto_esperado": ""}
+    ],
+    "instrucoes_em_falta": [
+      "DL 179/93, art. 9.º: revoga o DL 442/80 «na parte relativa à inspecção sanitária de coelhos», com efeito imediato; o consolidado não aplicou nada (alvo incerto: revogação por matéria sem indicar artigos; o n.º 1 do art. 1.º, por exemplo, refere a marcação de carcaças de coelho)"
+    ],
+    "instrucoes_justificadas": [
+      {"instrucao": "DL 222/90, art. 5.º, alínea c): revoga o DL 442/80 na parte referente à inspecção sanitária de aves", "motivo": "Efeito adiado para um facto futuro: «com efeitos a partir da entrada em vigor das normas regulamentares a que se refere o artigo 4.º» (confirmado no texto do DL 222/90)."}
+    ],
+    "artigos_a_mais": [],
+    "artigos_em_falta": [],
+    "fora_dos_artigos": "sem alterações"
+  },
+  {
+    "id": "pt:dre:515634:por",
+    "artigos": [
+      {"artigo": "Artigo 2.º", "veredicto": "certo", "motivo": "N.º 2 com a nova redação do art. 1.º do DLR 20/2003/M, letra a letra; n.os 1 e 3 («...») iguais.", "texto_esperado": ""},
+      {"artigo": "ANEXO I", "veredicto": "certo", "motivo": "Anexo substituído pelo art. 2.º do alterador: quadro com a imagem do alterador (2003/07/169a00) e a nota nova, letra a letra.", "texto_esperado": ""},
+      {"artigo": "ANEXO II", "veredicto": "certo", "motivo": "Anexo substituído: imagem do alterador e a nota nova, letra a letra.", "texto_esperado": ""},
+      {"artigo": "ANEXO III", "veredicto": "certo", "motivo": "Anexo substituído: imagem do alterador e a nota nova, letra a letra.", "texto_esperado": ""}
+    ],
+    "instrucoes_em_falta": [],
+    "instrucoes_justificadas": [],
+    "artigos_a_mais": [],
+    "artigos_em_falta": [],
+    "fora_dos_artigos": "sem alterações"
+  },
+  {
+    "id": "pt:dre:521014:por",
+    "artigos": [
+      {"artigo": "Artigo 1.º", "veredicto": "certo", "motivo": "O art. 10.º do DL 162/2012 revoga o DR 50/2007, salvo o art. 8.º: fica «(Revogado.)».", "texto_esperado": ""},
+      {"artigo": "Artigo 2.º", "veredicto": "certo", "motivo": "Revogado pelo art. 10.º do DL 162/2012.", "texto_esperado": ""},
+      {"artigo": "Artigo 3.º", "veredicto": "certo", "motivo": "Revogado pelo art. 10.º do DL 162/2012.", "texto_esperado": ""},
+      {"artigo": "Artigo 4.º", "veredicto": "certo", "motivo": "Revogado pelo art. 10.º do DL 162/2012.", "texto_esperado": ""},
+      {"artigo": "Artigo 5.º", "veredicto": "certo", "motivo": "Revogado pelo art. 10.º do DL 162/2012.", "texto_esperado": ""},
+      {"artigo": "Artigo 6.º", "veredicto": "certo", "motivo": "Revogado pelo art. 10.º do DL 162/2012.", "texto_esperado": ""},
+      {"artigo": "Artigo 7.º", "veredicto": "certo", "motivo": "Revogado pelo art. 10.º do DL 162/2012.", "texto_esperado": ""},
+      {"artigo": "Artigo 9.º", "veredicto": "certo", "motivo": "Revogado pelo art. 10.º do DL 162/2012.", "texto_esperado": ""},
+      {"artigo": "Artigo 10.º", "veredicto": "certo", "motivo": "Revogado pelo art. 10.º do DL 162/2012.", "texto_esperado": ""},
+      {"artigo": "Artigo 11.º", "veredicto": "certo", "motivo": "Revogado pelo art. 10.º do DL 162/2012.", "texto_esperado": ""},
+      {"artigo": "Artigo 12.º", "veredicto": "certo", "motivo": "Revogado pelo art. 10.º do DL 162/2012.", "texto_esperado": ""},
+      {"artigo": "Artigo 13.º", "veredicto": "certo", "motivo": "Revogado: o corpo passa a «(Revogado.)». O que fica a seguir é a fórmula de aprovação e assinatura do diploma, não texto do artigo, e mantém-se igual ao original.", "texto_esperado": ""},
+      {"artigo": "ANEXO", "veredicto": "certo", "motivo": "O anexo (quadro de cargos de direção) cai com a revogação do diploma: «(Revogado.)» com o título mantido.", "texto_esperado": ""}
+    ],
+    "instrucoes_em_falta": [],
+    "instrucoes_justificadas": [
+      {"instrucao": "DL 162/2012, art. 10.º: revogação do DR 50/2007 na parte do art. 8.º", "motivo": "Efeito adiado para um facto futuro: o art. 8.º «mantém-se em vigor até à liquidação do subsistema de saúde e ação social complementar da justiça» (confirmado no texto do DL 162/2012)."}
+    ],
+    "artigos_a_mais": [],
+    "artigos_em_falta": [],
+    "fora_dos_artigos": "sem alterações"
+  },
+  {
+    "id": "pt:dre:540386:por",
+    "artigos": [
+      {"artigo": "Artigo 2.º", "veredicto": "certo", "motivo": "Nova redação do art. 1.º do DLR 9/2008/A letra a letra (epígrafe mantida por «(...)»); igual à republicação.", "texto_esperado": ""},
+      {"artigo": "ANEXO", "veredicto": "certo", "motivo": "Planta substituída pela imagem do alterador (2008/04/08200), que é a planta anexa à republicação. O preâmbulo anuncia a revogação dos anexos antigos.", "texto_esperado": ""}
+    ],
+    "instrucoes_em_falta": [],
+    "instrucoes_justificadas": [],
+    "artigos_a_mais": [],
+    "artigos_em_falta": [],
+    "fora_dos_artigos": "sem alterações"
+  },
+  {
+    "id": "pt:dre:55028878:por",
+    "artigos": [
+      {"artigo": "Artigo 3.º", "veredicto": "certo", "motivo": "N.º 1 do art. 57.º do DLR 17/2015/M: n.os 1 e 2 com a nova redação letra a letra; epígrafe mantida ([...]).", "texto_esperado": ""},
+      {"artigo": "Artigo 3.º-A", "veredicto": "certo", "motivo": "Aditado pelo n.º 2 do art. 57.º, letra a letra, com a epígrafe do alterador.", "texto_esperado": ""},
+      {"artigo": "Artigo 3.º-B", "veredicto": "certo", "motivo": "Aditado pelo n.º 2 do art. 57.º, letra a letra, com a epígrafe do alterador.", "texto_esperado": ""}
+    ],
+    "instrucoes_em_falta": [],
+    "instrucoes_justificadas": [],
+    "artigos_a_mais": [],
+    "artigos_em_falta": [],
+    "fora_dos_artigos": "sem alterações"
+  }
+]

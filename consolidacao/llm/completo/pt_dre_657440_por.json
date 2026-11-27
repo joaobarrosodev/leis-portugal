@@ -2,12 +2,19 @@
   "id": "pt:dre:657440:por",
   "artigos": [],
   "removidos": [],
-  "nao_aplicavel": "Alterador 1 art. 5.º: revoga o artigo 5.º 'na parte respeitante aos compostos de arsénio' - revogação parcial material, sem indicação de texto a suprimir; não aplicada para não inventar redação.",
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 2, art. 5.º, revoga o art. 5.º na parte respeitante aos compostos de arsénio: alvo incerto: revogação parcial sem texto novo; o alterador não diz que palavras saem (o corpo proíbe «compostos de mercúrio e de compostos de arsénio» e a alínea b) ressalva as soluções do tipo CCA (cobre-crómio-arsénio)), e cortar o texto seria redigir sem fonte.",
   "instrucoes": [
-    "Alterador 1 art. 5.º: revogação parcial do art. 5.º quanto aos compostos de arsénio - não aplicada (não textual).",
-    "Alterador 1 arts. 2.º e 3.º: aditam números aos anexos do Decreto-Lei n.º 264/98 (outro diploma) - ignorados."
+    "Alterador 1 (DL 256/2000), art. 6.º, n.º 1: revoga o art. 6.º; o texto atual já tem «(Revogado.)» (programa), fica como está.",
+    "Alterador 1, arts. 2.º a 5.º e art. 6.º, n.º 2: alteram o DL 264/98 e a Portaria 968/94; não são do original.",
+    "Alterador 2 (DL 208/2003), arts. 2.º a 4.º: alteram os anexos I e II do DL 264/98; não são do original.",
+    "Alterador 2, art. 5.º: revogação parcial do art. 5.º quanto aos compostos de arsénio; não aplicada ao texto (ver nao_aplicavel)."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 123,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

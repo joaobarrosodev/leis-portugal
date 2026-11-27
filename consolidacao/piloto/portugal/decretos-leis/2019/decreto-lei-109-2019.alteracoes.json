@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "4.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 4.º — Norma transitória\n\nNão obstante o disposto no n.º 4 do artigo 10.º e no n.º 1 do artigo 13.º do [Decreto-Lei n.º 70/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-2007-520472), de 26 de março, com a redação introduzida pelo presente decreto-lei, os operadores económicos podem, até ao dia 30 de junho de 2020, notificar a Autoridade de Segurança Alimentar e Económica através de qualquer meio de comunicação legalmente admissível.",
+    "depois": "###### Artigo 4.º — Norma transitória\n\nNão obstante o disposto no n.º 5 do artigo 10.º e no n.º 1 do artigo 13.º do [Decreto-Lei n.º 70/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-2007-520472), de 26 de março, com a redação introduzida pelo presente decreto-lei, os operadores económicos podem, até ao dia 30 de junho de 2020, notificar a Autoridade de Segurança Alimentar e Económica através de qualquer meio de comunicação legalmente admissível.\n\n> Alterado pelo/a [Declaração de Retificação n.º 38/2019](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/38-2019-124097551), publicado em 2019-08-21.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:123968666:por",
+    "alterador": "pt:dre:124097551:por"
+  }
+]

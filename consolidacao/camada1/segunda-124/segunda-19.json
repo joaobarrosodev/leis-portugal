@@ -1,0 +1,85 @@
+[
+ {
+  "id": "pt:dre:198679:por",
+  "veredicto": "certo",
+  "problemas": [],
+  "vigencia": {
+   "conclusao": "outro",
+   "prova": "DL 602/75, art. 1.º, n.º 1: o Gabinete do Plano do Cunene é transferido para o Estado de Angola, ficando dependente do respetivo Governo; o n.º 5 manda aplicar as disposições em vigor só até ao novo diploma orgânico angolano. Não há revogação expressa do DL 49203."
+  }
+ },
+ {
+  "id": "pt:dre:242053:por",
+  "veredicto": "certo",
+  "problemas": [],
+  "vigencia": null
+ },
+ {
+  "id": "pt:dre:685448:por",
+  "veredicto": "certo",
+  "problemas": [],
+  "vigencia": {
+   "conclusao": "outro",
+   "prova": "DL 95/2009, art. 1.º: o ISCTE criado por este decreto-lei é transformado na fundação pública ISCTE-IUL, que se rege pelos Estatutos anexos ao DL 95/2009 (art. 4.º, n.º 1). Não há revogação expressa. Nota: a Rectificação de 12.03.1973 (corrected_by, pt:dre:684222) corrige o mapa anexo, mas o «onde se lê / deve ler-se» só vem em imagem e o mapa do consolidado também é só a ligação à imagem; não muda o texto."
+  }
+ },
+ {
+  "id": "pt:dre:293719:por",
+  "veredicto": "certo",
+  "problemas": [],
+  "vigencia": null
+ },
+ {
+  "id": "pt:dre:472903:por",
+  "veredicto": "reparos",
+  "problemas": [
+   "Artigos 3.º, 4.º e 5.º: falta a revogação feita pelo art. 2.º do Decreto-Lei n.º 633/70, de 22 de Dezembro (pt:dre:146059, relação repealed_by do registo): «É revogado o disposto no artigo 22.º da tabela de emolumentos consulares e os artigos 3.º, 4.º e 5.º do Decreto-Lei n.º 47010, de 16 de Maio de 1966.» O DL 633/70 não está entre os diplomas que alteram e o consolidado deixou os três artigos com o texto original (nova redação dos arts. 7.º e 8.º da tabela e eliminação da referência no art. 12.º). Texto certo: «###### Artigo 3.º / (Revogado.)», «###### Artigo 4.º / (Revogado.)», «###### Artigo 5.º / (Revogado.)». O texto atual em data/portugal/decretos-leis/1966/decreto-lei-47010.md já os tem revogados, com a nota «Revogado pelo/a Decreto-Lei n.º 633/70»; este consolidado perde essa revogação."
+  ],
+  "vigencia": null
+ },
+ {
+  "id": "pt:dre:475291:por",
+  "veredicto": "reparos",
+  "problemas": [
+   "Fim do diploma (bloco do art. 28.º, a seguir à imagem do mapa): falta o parágrafo da tabela do DL 504/71 que o texto atual tem e que a auditoria dos anexos deu por aplicado (consolidacao/auditoria/anexos-estado.jsonl, pt:dre:631654, estado «aplicado»): «Vencimentos do pessoal docente da Escola, constante do mapa anexo, estabelecidos na tabela anexa ao Decreto-Lei n.º 504/71:» seguido de «[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/11/27200/17761776.pdf)», com a nota «> Alterado pelo/a Decreto-Lei n.º 504/71». O consolidado novo volta ao mapa de 1966 sem esta inserção.",
+   "Dúvida no mesmo sítio: o DL 47784 (artigo único) substitui por inteiro o mapa do pessoal anexo ao DL 47102 («passa a ter a seguinte composição»), e o mapa novo vem em imagem (https://files.diariodarepublica.pt/1s/1967/07/15800/13291330.pdf). Pela regra de anexos (README, secção 11, «imagem substituída: troca-se a ligação»), a ligação do mapa devia ser esta e não a de 1966 (https://files.diariodarepublica.pt/1s/1966/07/16400/12681273.pdf). O verificador aceitou «só em imagem, sem título de anexo», mas o mapa tem título no texto («Mapa do pessoal da Escola Nacional de Saúde Pública e de Medicina Tropical»). O texto atual também não fez a troca."
+  ],
+  "vigencia": {
+   "conclusao": "substituido",
+   "prova": "DL 372/72, art. 1.º, n.º 1: a Escola Nacional de Saúde Pública e de Medicina Tropical, criada por este decreto-lei, é substituída pelo Instituto de Higiene e Medicina Tropical e pela Escola Nacional de Saúde Pública; o art. 5.º, n.º 3, só mantém a legislação da Escola «na parte aplicável» até aos novos diplomas orgânicos."
+  }
+ },
+ {
+  "id": "pt:dre:514056:por",
+  "veredicto": "certo",
+  "problemas": [],
+  "vigencia": null
+ },
+ {
+  "id": "pt:dre:621690:por",
+  "veredicto": "certo",
+  "problemas": [],
+  "vigencia": null
+ },
+ {
+  "id": "pt:dre:486774:por",
+  "veredicto": "certo",
+  "problemas": [],
+  "vigencia": null
+ },
+ {
+  "id": "pt:dre:252195:por",
+  "veredicto": "certo",
+  "problemas": [],
+  "vigencia": {
+   "conclusao": "outro",
+   "prova": "DL 98/91, arts. 1.º e 5.º: a Fábrica-Escola Irmãos Stephens, E. P., é transformada em sociedade anónima, regida pelos estatutos anexos ao DL 98/91 e pela lei das sociedades anónimas; o Estatuto da E. P. aprovado por este decreto-lei deixa de ter objeto, sem revogação expressa. Nota de texto, sem reparo: a nova alínea m) do n.º 2 do art. 18.º (DL 543/80) é dada por inteiro e por isso caiu a segunda frase da alínea original («Fica, no entanto, proibida a alienação dos bens ... Decreto n.º 47508 ...»); o consolidado segue a letra do alterador."
+  }
+ },
+ {
+  "id": "pt:dre:261964:por",
+  "veredicto": "certo",
+  "problemas": [],
+  "vigencia": null
+ }
+]

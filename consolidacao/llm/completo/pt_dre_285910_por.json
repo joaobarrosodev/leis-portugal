@@ -15,14 +15,19 @@
     }
   ],
   "removidos": [],
+  "titulos": [],
+  "anexos": [],
   "nao_aplicavel": null,
   "instrucoes": [
-    "Artigo único do DL 259/86 altera as importâncias dos arts. 1.º e 2.º para 200000$00 e 40000$00: substituídas 50000$00 e 10000$00."
+    "Alterador 1, artigo único: as importâncias dos artigos 1.º e 2.º passam a 200000$00 e 40000$00; aplicado trocando só os valores no texto atual (o resto copiado letra a letra), porque o alterador não dá nova redação aos artigos, só os valores. O reparo (parágrafo que não está no alterador nem no original) é inevitável numa alteração de valores: o valor vem do alterador e o resto do texto atual."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
+  "ronda_camada1": 123,
   "problemas": [
     "1.º: parágrafo que não está no alterador nem no original: Os comandantes distritais, da Escola Prática de Polícia, do Corpo de Intervenção",
     "2.º: parágrafo que não está no alterador nem no original: As decisões relativas a despesas superiores a 40000$00 são proferidas sobre proc"
-  ]
+  ],
+  "numeracao_aceite": [],
+  "avisos": []
 }

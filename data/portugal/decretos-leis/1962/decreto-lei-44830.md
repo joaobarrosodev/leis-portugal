@@ -42,10 +42,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1979-01-02'
+version_history:
+  file: decreto-lei-44830.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1962-12-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1979-01-02'
+    amending: pt:dre:476532:por
+    amending_title: Lei n.º 1/79
+    changes:
+    - Altera Artigo 2.º
 identifiers:
   celex: null
   eli: null
@@ -71,7 +85,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T21:43:44Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Lei n.º 1/79. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1962/decreto-lei-44830.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -135,15 +150,25 @@ Considerando que, adoptadas tais providências, bem se justificará que as impor
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º Os administradores e os secretários das administrações dos bairros de Lisboa e do Porto passam a ter direito à gratificação mensal de 1000$00 pelo exercício das funções de chefia.
+###### Artigo 1.º
 
-Art. 2.º É fixado em 2000$00 o ordenado mensal dos oficiais de diligências das administrações dos bairros.
+Os administradores e os secretários das administrações dos bairros de Lisboa e do Porto passam a ter direito à gratificação mensal de 1000$00 pelo exercício das funções de chefia.
 
-§ único. Os oficiais de diligências terão direito a passe em carros eléctricos concedido pelas câmaras municipais.
+###### Artigo 2.º
 
-Art. 3.º Reverte para as Câmaras Municipais de Lisboa e do Porto a totalidade das importâncias que, a título de emolumentos, vêm sendo cobradas nos processos de despejo sumário julgados nos termos do n.º 4.º e do § único do artigo 109.º do Código Administrativo.
+É fixado em 2000$00 o ordenado mensal dos oficiais de diligências das administrações dos bairros.
 
-Art. 4.º Este decreto-lei entra em vigor em 1 de Janeiro de 1963.
+§ único. (Revogado.)
+
+> Alterado pelo/a [Lei n.º 1/79](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), publicado em 1979-01-02.
+
+###### Artigo 3.º
+
+Reverte para as Câmaras Municipais de Lisboa e do Porto a totalidade das importâncias que, a título de emolumentos, vêm sendo cobradas nos processos de despejo sumário julgados nos termos do n.º 4.º e do § único do artigo 109.º do Código Administrativo.
+
+###### Artigo 4.º
+
+Este decreto-lei entra em vigor em 1 de Janeiro de 1963.
 
 Publique-se e cumpra-se como nele se contém.
 

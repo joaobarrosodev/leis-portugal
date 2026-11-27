@@ -1,0 +1,27 @@
+[
+ {
+  "id": "pt:dre:563050:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [
+   {
+    "atual": "## ANEXO — Normas Eurocontrol referidas no artigo 3.º",
+    "novo": "## ANEXO — Lista dos domínios a que são aplicáveis as normas Eurocontrol referidas no artigo 3.º",
+    "alterador": 1
+   }
+  ],
+  "anexos": [
+   {
+    "titulo": "## ANEXO — Normas Eurocontrol referidas no artigo 3.º",
+    "texto": "a) Comunicações.\n\nb) Navegação.\n\nc) Vigilância.\n\nd) Sistemas de tratamento de dados.\n\ne) Procedimentos para a gestão do espaço aéreo e para a gestão do tráfego aéreo.\n\nf) Regras de trabalho e requisitos operacionais para a gestão do tráfego aéreo.\n\ng) Recursos humanos.",
+    "alterador": 1
+   }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+   "DL 32/98, art. 1.º: nova redação dos arts. 3.º e 4.º — o texto atual (já alterado pelo programa) já tem essa redação; sem mudança",
+   "DL 32/98, art. 2.º: aditamento do art. 5.º — já presente no texto atual com a redação do alterador; sem mudança",
+   "DL 32/98, art. 3.º: o anexo passa a ter a redação do anexo do alterador — corpo substituído pela lista a) a g) e título do anexo mudado para o do anexo do alterador"
+  ]
+ }
+]

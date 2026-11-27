@@ -82,9 +82,9 @@ O número de candidatos a que se referem as alíneas a) e b) do n.º 2 do artigo
 
 a) Por despacho conjunto do Secretário Regional da Presidência para as Finanças e Planeamento e do secretário regional competente, as competências previstas na alínea b) do artigo 7.º e no n.º 8 do artigo 26.º;
 
-b) - ...
+b) Por despacho do director regional de Organização e Administração Pública, a competência prevista na alínea c) do n.º 1 do artigo 14.º;
 
-c) - ...
+c) Por despacho da Direcção Regional de Organização e Administração Pública, a competência prevista no n.º 10 do artigo 26.º e no n.º 1 do artigo 38.º e na alínea a) do n.º 1 do artigo 39.º
 
 2 - As referências feitas no [Decreto-Lei n.º 498/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1988-401758), de 30 de Dezembro, ao Diário da República reportam-se, no que respeita à administração regional autónoma, ao Jornal Oficial.
 
@@ -92,7 +92,9 @@ c) - ...
 
 > Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 5/97/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-1997-398279), publicado em 1997-05-21.
 
-###### Artigo 9.º — Excepção ao regime previsto neste diploma
+> Alterado pelo/a [Decreto Legislativo Regional n.º 5/97/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-1997-398279), publicado em 1997-05-21.
+
+###### Artigo 9.º
 
 O regime previsto no n.º 3 do artigo anterior aplica-se aos concursos que se encontrem pendentes à data da entrada em vigor do presente diploma.
 

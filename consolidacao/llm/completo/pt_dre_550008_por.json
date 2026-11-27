@@ -10,12 +10,16 @@
   ],
   "removidos": [],
   "titulos": [],
-  "nao_aplicavel": "A Portaria n.º 1314/95 (alterador 2) substitui o quadro anexo ao Decreto-Lei n.º 396/89 pelo seu anexo, que só vem em imagem (documento original), pelo que não se pode aplicar textualmente.",
+  "anexos": [],
+  "nao_aplicavel": "Alterador 2, substituição do quadro de pessoal civil anexo ao original: só em imagem — o quadro novo só vem em imagem e o quadro atual não tem título de anexo no texto atual (vem no fim do art. 8.º)",
   "instrucoes": [
-    "Alterador 1 (DL 43/95, artigo único): nova redação do artigo 2.º — aplicada.",
-    "Alterador 2 (Portaria 1314/95): substitui o quadro anexo — não aplicada, anexo só em imagem (nao_aplicavel)."
+    "Alt. 1: nova redação do art. 2.º — substituído",
+    "Alt. 2: novo quadro de pessoal em imagem — sem título de anexo, nao_aplicavel"
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 124,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

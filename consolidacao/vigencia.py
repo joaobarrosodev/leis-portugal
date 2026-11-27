@@ -100,6 +100,11 @@ CAMADA1_121 = {
     "pt:dre:222384:por": ("por_confirmar", "Decreto-Lei n.º 45527",
                           "regime de 1964, prorrogado para 1965 e 1966 (Decretos-Leis n.os 46111 e 46799); não há declaração expressa de caducidade."),
 }
+# Camada 1, onda 2, ronda 122 (segunda leitura em Opus).
+CAMADA1_122 = {
+    "pt:dre:540386:por": ("por_confirmar", "Decreto Legislativo Regional n.º 34/2006/A",
+                          "medidas preventivas pelo prazo de dois anos, prorrogável por não mais de um (art. 3.º, n.os 1 e 2); não se confirmou se houve prorrogação."),
+}
 TITULOS_BLOCO3 = {
     "pt:dre:1037778:por": "Portaria n.º 210/2007", "pt:dre:395573:por": "Portaria n.º 1171/91", "pt:dre:663299:por": "Portaria n.º 64/87",
     "pt:dre:522225:por": "Portaria n.º 317-B/2000", "pt:dre:459922:por": "Portaria n.º 22/2010", "pt:dre:460206:por": "Despacho Normativo n.º 32/95",
@@ -303,6 +308,8 @@ def construir(rotulos: Path, processos: Path) -> tuple[list[dict], list[dict]]:
         marcar(id_, titulo, marca, "camada1", motivo, [{"tipo": "segunda leitura", "ficheiro": "consolidacao/camada1/segunda-120/"}], "segunda leitura (Sonnet e Opus), camada 1, ronda 120")
     for id_, (marca, titulo, motivo) in CAMADA1_121.items():
         marcar(id_, titulo, marca, "camada1", motivo, [{"tipo": "segunda leitura", "ficheiro": "consolidacao/camada1/segunda-121/"}], "segunda leitura (Opus), camada 1, ronda 121")
+    for id_, (marca, titulo, motivo) in CAMADA1_122.items():
+        marcar(id_, titulo, marca, "camada1", motivo, [{"tipo": "segunda leitura", "ficheiro": "consolidacao/camada1/segunda-122/"}], "segunda leitura (Opus), camada 1, ronda 122")
     for v in vig:
         if v["prova"] == "legal_status":
             marcar(v["id"], v["titulo"], "nao_vigora", "revogado_dre", "o próprio registo do DRE dá-o como revogado ou sem vigência.", [{"tipo": "legal_status", "valor": v["legal_status"]}])

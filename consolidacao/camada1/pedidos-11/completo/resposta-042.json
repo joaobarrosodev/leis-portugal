@@ -1,0 +1,28 @@
+[
+ {
+  "id": "pt:dre:484575:por",
+  "artigos": [
+   {
+    "chave": "2.º",
+    "epigrafe": "Natureza",
+    "texto": "1 - O cartão de identificação do utente deve ser apresentado sempre que os utentes utilizem os serviços das instituições e serviços integrados no Serviço Nacional de Saúde ou com ele convencionado.\n\n2 - A não identificação dos utentes nos termos do número anterior não pode, em caso algum, determinar a recusa de prestações de saúde.\n\n3 - Aos utentes não é cobrada, com excepção das taxas moderadoras, quando devidas, qualquer importância relativa às prestações de saúde quando devidamente identificados nos termos deste diploma ou desde que façam prova, nos 10 dias seguintes à interpelação para pagamento dos encargos com os cuidados de saúde prestados, de que são titulares ou requereram a emissão do cartão de identificação de utente do Serviço Nacional de Saúde.",
+    "alterador": 2
+   },
+   {
+    "chave": "8.º",
+    "epigrafe": "Taxas moderadoras",
+    "texto": "1 - Sempre que o utente do Serviço Nacional de Saúde esteja numa das situações previstas no n.º 1 do artigo 2.º do [Decreto-Lei n.º 54/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-1992-199795), de 11 de Abril, do seu cartão de identificação consta a titularidade do direito de isenção e respectivo limite temporal.\n\n2 - O disposto no número anterior é igualmente aplicável às demais situações legalmente previstas de isenção de pagamento de taxas moderadoras.",
+    "alterador": 1
+   }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 3, nova redação de artigos do Decreto Regulamentar Regional n.º 13/99/M: outro diploma: altera o diploma regional, não o original",
+  "instrucoes": [
+   "Alterador 1: nova redação dos arts. 8.º, 10.º e 13.º; o 10.º e o 13.º já estão certos no texto atual; o 8.º é devolvido com o texto do alterador letra a letra (o programa perdeu a ligação do Decreto-Lei n.º 54/92).",
+   "Alterador 2: nova redação do art. 2.º (n.os 1 a 3); aplicada, mantida a epígrafe.",
+   "Alterador 3: altera o Decreto Regulamentar Regional n.º 13/99/M; outro diploma."
+  ]
+ }
+]

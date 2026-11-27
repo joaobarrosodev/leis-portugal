@@ -1,0 +1,23 @@
+[
+ {
+  "id": "pt:dre:682986:por",
+  "veredicto": "reparos",
+  "problemas": [
+   "Retificação por aplicar: a Declaração de Rectificação n.º 4-C/2000 (relação corrected_by pt:dre:596725:por; no acervo em data/portugal/declaracoes-retificacao/2000/declaracao-retificacao-4-c-2000.md) não está entre os alteradores e o consolidado novo volta ao texto publicado em 1999 nos arts. 1.º a 6.º. A versão atual em data/ já tem as 13 trocas (aplicadas pelo retificacoes_llm.py; auditoria/retificacoes-aplicadas.jsonl); o consolidado da ronda 124 só difere dela por não as ter. Faltam:",
+   "Art. 1.º, CIRS, art. 84.º, n.º 1: «bem como a reforma da liquidação só podem efectuar-se no prazo e nos termos previstos» deve ler-se «bem como a reforma da liquidação efectua-se nos prazos e nos termos previstos».",
+   "Art. 1.º, CIRS, art. 96.º, n.º 1: «ficando o substituto desobrigado» deve ler-se «ficando o substituído desobrigado».",
+   "Art. 1.º, CIRS, art. 124.º: «2 - (Actual n.º 2.)» deve ler-se «2 - (Actual n.º 1.)» e «3 - (Actual n.º 3.)» deve ler-se «3 - (Actual n.º 2.)».",
+   "Art. 2.º, CIRC, art. 51.º, n.º 2: «regularização ou apresentação sem que se mostre» deve ler-se «regularização ou apresentação, sem que se mostre».",
+   "Art. 2.º, CIRC, art. 80.º, n.º 1: «a pagar antecipadamente ou a reter» deve ler-se «a pagar antecipadamente, ou retido ou a reter».",
+   "Art. 2.º, CIRC, art. 81.º, n.º 2: «ou, no caso de o imposto já tiver sido pago,» deve ler-se «ou, no caso do imposto já tiver sido pago,».",
+   "Art. 3.º, CIVA, art. 75.º, n.º 2: «no artigo 56.º e no n.º 1 do artigo 58.º» deve ler-se «no artigo 56.º e no n.º 4 do artigo 58.º».",
+   "Art. 3.º, CIVA, art. 82.º, n.º 1: «nelas figure um imposto» deve ler-se «nelas figura um imposto».",
+   "Art. 4.º, CIMSISD, art. 155.º, § 2.º: «nos termos do Código de Procedimento e de Processo Tributário.» deve ler-se «nos termos do Código de Processo Tributário.».",
+   "Art. 5.º, CCA, art. 21.º, epígrafe: «Caducidade do direito à liquidação» deve ler-se «Caducidade do direito à liquidação e revisão oficiosa».",
+   "Art. 6.º, RCE do DL 51/95, art. 14.º: «alvará de licença de construção ou da obra.» deve ler-se «alvará de licença de construção ou de obra.».",
+   "Art. 6.º, RCE do DL 43/98, art. 26.º, n.º 3: «nos termos do Código de Procedimento e de Processo Tributário.» deve ler-se «nos termos do Código de Processo Tributário.».",
+   "Resto conferido sem reparos: o art. 9.º tem a redação do art. 69.º, n.º 3, da Lei 3-B/2000, letra a letra, com a epígrafe mantida ([...]); os arts. 7.º e 8.º ficam como no original. As três justificações do verificador (Lei 53-A/2006, art. 66.º, Reforma Aduaneira; Lei 64/2012, arts. 10.º a 12.º, DL 229/95; Lei 66-B/2012, art. 235.º, art. 27.º do RCE do DL 43/98) estão certas: alteram os diplomas que o DL 472/99 alterou, não o texto dele. Os restantes alteradores do registo mexem nos Códigos e não nos arts. 1.º a 9.º; no acervo nenhum diploma revoga ou altera artigos do DL 472/99 além da Lei 3-B/2000, e o registo não tem repealed_by."
+  ],
+  "vigencia": null
+ }
+]

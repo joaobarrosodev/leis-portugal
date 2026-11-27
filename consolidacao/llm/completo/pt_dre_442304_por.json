@@ -15,12 +15,18 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": null,
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 2, Lei Orgânica do Governo (Fundo de Fomento Cultural entre os serviços do Ministério da Cultura): não textual\nAlterador 3, artigos 5.º e 15.º (mantém em vigor os diplomas do Fundo de Fomento Cultural e define as suas atribuições): não textual",
   "instrucoes": [
-    "Alt. 1: nova redação do artigo 7.º (alíneas b) a g) do n.º 1 e n.º 2; alínea a) mantida) e do n.º 2 do artigo 9.º: aplicadas.",
-    "Alt. 2 (Lei Orgânica do Governo) e alt. 3 (orgânica do Ministério da Cultura): sem instruções textuais dirigidas ao original: nada aplicado."
+    "Alterador 1: nova redação dos artigos 7.º (alíneas b) a g) do n.º 1 e n.º 2) e 9.º (n.º 2), mantendo o que vem com «...»: aplicado",
+    "Alterador 2: Lei Orgânica do Governo, sem instrução textual ao original: não aplicado",
+    "Alterador 3: Lei Orgânica do Ministério da Cultura, sem instrução textual ao original (o art. 15.º define atribuições do Fundo, sem alterar o art. 2.º): não aplicado"
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 124,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

@@ -1,0 +1,22 @@
+[
+ {
+  "id": "pt:dre:479944:por",
+  "artigos": [
+   {
+    "chave": "2.º",
+    "epigrafe": "",
+    "texto": "Para os fins do artigo 19.º da [Lei n.º 2030](https://diariodarepublica.pt/dr/detalhe/lei/2030-1948-386461), de 22 de Junho de 1948, a Junta Geral do Distrito Autónomo do Funchal poderá conceder subsídios aos moradores desalojados em consequência das obras e que se encontrem nas demais condições previstas naquele artigo.\n\n§ 1.º A Junta Geral, para reinstalação dos desalojados, poderá ainda expropriar, ou adquirir por outra forma, imóveis urbanos ou rústicos, transmitindo-lhes a respectiva propriedade pela importância por que forem adquiridos ou expropriados e com isenção de quaisquer impostos.\n\n§ 2.º Os imóveis transmitidos na conformidade do § 1.º reverterão para os expropriados, ou, não querendo eles exercer tal direito, para a Junta Geral, mediante a restituição da importância ali referida, quando, destinando-se a construção, as habitações não forem concluídas no prazo marcado no acto da transmissão.\n\n§ 3.º Os registos da transmissão para os adquirentes só poderão ser feitos uma vez concluída a construção das respectivas habitações.\n\n§ 4.º A Junta Geral poderá ainda transmitir para os expropriados os terrenos sobrantes da reinstalação dos desalojados, com as isenções previstas na parte final do § 1.º até ao valor, para cada adquirente, dos bens que lhe forem expropriados.",
+    "alterador": 2
+   }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, artigo único, elevação para 5400000$00 do subsídio previsto no art. 3.º: sem texto: o alterador eleva o montante sem dar nova redação ao art. 3.º\nAlterador 3, artigo único, elevação para 8150000$00 do subsídio previsto no art. 3.º: sem texto: o alterador eleva o montante sem dar nova redação ao art. 3.º",
+  "instrucoes": [
+   "Alterador 1: eleva o subsídio do art. 3.º sem nova redação; em nao_aplicavel (sem texto).",
+   "Alterador 2: nova redação dos §§ 1.º e 2.º do art. 2.º e aditamento do § 4.º; corpo e § 3.º («...») ficam como no texto atual.",
+   "Alterador 3: eleva o subsídio do art. 3.º sem nova redação; em nao_aplicavel (sem texto)."
+  ]
+ }
+]

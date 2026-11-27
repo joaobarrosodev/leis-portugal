@@ -1,0 +1,25 @@
+{
+  "id": "pt:dre:424731:por",
+  "artigos": [
+    {
+      "chave": "3.º",
+      "epigrafe": "Transferência de atribuições, competências e património para o Instituto Nacional de Habitação",
+      "texto": "1 - São transferidas para o INH as atribuições e competências que, por lei ou regulamento, estejam cometidas ao IGAPHE, à excepção das referentes à gestão, conservação e alienação do seu parque habitacional edificado e equipamentos que o integram, as quais continuam a ser exercidas por este último até à sua efectiva extinção.\n\n2 - É também transferido para o INH todo o património imobiliário não edificado próprio do IGAPHE, constante de lista a elaborar para o efeito pelo IGAPHE, aprovada por despacho conjunto dos Ministros das Finanças e das Obras Públicas, Transportes e Habitação até à data de entrada em vigor do presente diploma.\n\n3 - As referências feitas ao IGAPHE na legislação ou regulamentação em vigor relativas às atribuições e competências transferidas entendem-se feitas ao INH.\n\n4 - A transferência de património, prevista no n.º 2, efectua-se com dispensa de quaisquer formalidades, salvo de registo, quando necessário.\n\n5 - Exceptuam-se do disposto no n.º 2 do presente artigo os terrenos cujos processos de concurso para alienação hajam já sido iniciados e que continuem a ser desenvolvidos pelo IGAPHE até ao seu termo.\n\n6 - Sem prejuízo do disposto no n.º 1 do presente artigo, reverte ainda para o domínio privado do Estado o património imobiliário edificado próprio do IGAPHE constante de lista a elaborar para o efeito pelo IGAPHE e aprovada por despacho conjunto dos Ministros das Finanças e das Obras Públicas, Transportes e Habitação, na data indicada no referido despacho.\n\n7 - O património a que se refere o número anterior é alienado ao INH, por ajuste directo, nos termos referidos no n.º 4, de acordo com o n.º 6 do artigo 3.º da [Lei n.º 107-B/2003](https://diariodarepublica.pt/dr/detalhe/lei/107-b-2003-669556), de 31 de Dezembro.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 2, transição do Instituto Nacional de Habitação e do IGAPHE para o Ministério das Cidades, Administração Local, Habitação e Desenvolvimento Regional (n.º 7 do artigo relativo a esse ministério): não textual, não altera o texto do original",
+  "instrucoes": [
+    "Alterador 1, art. 1.º: nova redação do artigo 3.º com os n.os 1 a 5 mantidos («...») e aditados os n.os 6 e 7: aplicado; o programa já os tinha posto, mas o n.º 7 perdia a ligação da Lei n.º 107-B/2003, que se repõe letra a letra do alterador.",
+    "Alterador 2: orgânica do XVI Governo; só refere o INH e o IGAPHE na transição de serviços, sem instrução textual: nao_aplicavel."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "ronda_camada1": 124,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
+}

@@ -17,15 +17,17 @@
       "alterador": 1
     }
   ],
-  "nao_aplicavel": "Decreto Legislativo Regional n.º 9/2016/M (alterador 2): altera o artigo 1.º e as bases i, iii, vii, xii, xiii, xxiv e xxvii do Decreto Legislativo Regional n.º 1/2004/M (VIAEXPRESSO) e republica as bases desse diploma; não são instruções ao original, nada aplicado.",
+  "nao_aplicavel": "Alterador 2, arts. 1.º e 2.º (artigo 1.º e bases i, iii, vii, xii, xiii, xxiv e xxvii do anexo II do Decreto Legislativo Regional n.º 1/2004/M, alterado pelo original) e art. 4.º (republicação dessas bases): outro diploma\nAlterador 2, art. 3.º (autorização para subscrever as alterações ao contrato de concessão da VIAEXPRESSO): outro diploma",
   "instrucoes": [
-    "Art. 2.º do DLR 23/2010/M, artigo 8.º: nova redação - o programa juntou ao corpo do artigo 8.º o texto das bases do anexo II; reposto só o parágrafo novo do artigo 8.º.",
-    "Art. 2.º do DLR 23/2010/M, bases VII, XIII, XIV, XXII, XXVII e XXX do anexo II: nova redação (epígrafes '[...]' mantidas) - aplicado no corpo do ANEXO II.",
-    "Art. 3.º do DLR 23/2010/M: revogada a base XLIV do anexo II - corpo '(Revogada.)' no ANEXO II.",
-    "DLR 9/2016/M: altera e republica o DLR 1/2004/M, não o original - não aplicado (nao_aplicavel)."
+    "Alterador 1, art. 2.º: nova redação do artigo 8.º; o programa juntou ao artigo o texto das bases do anexo II; reposto só o texto do artigo 8.º, copiado do alterador",
+    "Alterador 1, art. 2.º: nova redação das bases VII, XIII, XIV, XXII, XXVII e XXX do anexo II; aplicada no corpo do anexo II (ficam o título e a epígrafe de cada base, «[...]»)",
+    "Alterador 1, art. 3.º: revogada a base XLIV do anexo II; aplicada no corpo do anexo («(Revogada.)», com o título e a epígrafe)",
+    "Alterador 2: altera o Decreto Legislativo Regional n.º 1/2004/M: outro diploma"
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
+  "ronda_camada1": 124,
   "problemas": [],
+  "numeracao_aceite": [],
   "avisos": []
 }

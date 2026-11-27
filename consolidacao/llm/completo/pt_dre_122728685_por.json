@@ -1,0 +1,18 @@
+{
+  "id": "pt:dre:122728685:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, art. 2.º do DL 69/2022 (nova redação do art. 4.º-A do Decreto-Lei n.º 380/97): outro diploma: a instrução altera o Decreto-Lei n.º 380/97, que o DL 83/2019 só alterou e republicou em anexo; não se aplica ao original nem ao anexo que o republica.\nAlterador 2, arts. 2.º a 4.º da Portaria n.º 283/2022 (alteração do anexo B, aditamento do art. 3.º-A e republicação da Portaria n.º 7/98): outro diploma: a portaria altera a Portaria n.º 7/98 e só menciona o original no preâmbulo.",
+  "instrucoes": [
+    "Alterador 1 (DL 69/2022): nova redação do art. 4.º-A do DL 380/97: outro diploma, nao_aplicavel; o anexo de republicação do original não muda.",
+    "Alterador 2 (Portaria 283/2022): altera e republica a Portaria 7/98: outro diploma, nao_aplicavel."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "ronda_camada1": 123,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
+}

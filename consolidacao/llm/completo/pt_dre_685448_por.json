@@ -21,13 +21,18 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": null,
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, art. 2.º, n.º 3, alteração dos n.os 2.º e 3.º do art. 9.º do Decreto-Lei n.º 520/72: outro diploma: a instrução é do Decreto-Lei n.º 520/72\nAlterador 2, instituição da fundação ISCTE-IUL por transformação do ISCTE e aprovação dos seus Estatutos: não textual: não dá nova redação nem revoga artigos do original",
   "instrucoes": [
-    "DL 280/75 art. 1.º: nova redação do n.º 1 do art. 39.º, do art. 40.º e do art. 44.º; aplicado",
-    "DL 280/75 art. 2.º: acesso a licenciaturas e alteração do DL 520/72; não se dirige ao original, ignorado",
-    "DL 95/2009: transforma o ISCTE em fundação; sem instruções textuais ao original, ignorado"
+    "Alterador 1, art. 1.º: nova redação do n.º 1 do art. 39.º (mantém-se o n.º 2), do art. 40.º (n.os 1 e 2) e do art. 44.º; aplicadas.",
+    "Alterador 1, art. 2.º: regras de acesso e alteração do Decreto-Lei n.º 520/72; outro diploma.",
+    "Alterador 2: transforma o ISCTE em fundação pública; não textual."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 124,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

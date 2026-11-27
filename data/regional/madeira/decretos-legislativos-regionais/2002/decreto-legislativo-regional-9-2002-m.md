@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2012-12-08'
+version_history:
+  file: decreto-legislativo-regional-9-2002-m.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2002-06-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2012-12-08'
+    amending: pt:dre:191864:por
+    amending_title: Decreto Legislativo Regional n.º 29/2012/M
+    changes:
+    - Revoga Artigo 2.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/declegreg/9/2002/06/27/m/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:40:11Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Legislativo Regional n.º
+    29/2012/M. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/madeira/decretos-legislativos-regionais/2002/decreto-legislativo-regional-9-2002-m.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -155,13 +170,9 @@ A Assembleia Legislativa Regional da Madeira decreta, ao abrigo da alínea a) do
 
 ###### Artigo 2.º — Prescrição de medicamentos
 
-1 - Verificando-se a existência de medicamento genérico no mercado a opção, a que se refere o n.º 2 do artigo 2.º, deverá ser feita por este tipo de medicamento, excepto:
+(Revogado.)
 
-a) Se existir medicamento de marca similar, de preço mais baixo, que ofereça garantia de qualidade;
-
-b) Se o prescritor fundamentar na receita que o medicamento de marca tem mais vantagens para o utente.
-
-2 - Com base no Prontuário Nacional do Medicamento e no Formulário Nacional Hospitalar de Medicamentos, e tendo em consideração o disposto no número anterior, a Comissão de Farmácia e Terapêutica, no âmbito dos cuidados primários e dos cuidados hospitalares, elaborará um formulário que deverá ser actualizado anualmente.
+> Revogado pelo/a [Decreto Legislativo Regional n.º 29/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2012-191864), publicado em 2012-11-08.
 
 ###### Artigo 3.º — Promoção da prescrição de medicamentos genéricos
 

@@ -1,0 +1,58 @@
+[
+  {
+    "id": "pt:dre:303201:por",
+    "artigos": [
+      {
+        "artigo": "ANEXO VIII",
+        "veredicto": "certo",
+        "motivo": "Art. 8.º do DL 148/2013 dá nova redação ao anexo VIII (anexo V do alterador): intro [...] mantida, lista nova de 28 Estados-Membros letra a letra (incluindo 24 Irlanda e MT Malta) e parágrafo final [...] mantido. A «Nota justificativa» do Regulamento n.º 7/2002 que vinha colada a seguir no original não faz parte da nova redação do anexo e saiu.",
+        "texto_esperado": ""
+      }
+    ],
+    "instrucoes_em_falta": [],
+    "artigos_a_mais": [],
+    "artigos_em_falta": [],
+    "fora_dos_artigos": "sem alterações (o texto do DL 16/2010 vem vazio na vista; nada dele se pode conferir)",
+    "instrucoes_justificadas": [
+      {
+        "instrucao": "DL 148/2013, arts. 2.º a 7.º e 9.º a 18.º",
+        "motivo": "Confirmado no texto: alteram os DL 195/2000, 291/2000, 317/2000, 225/2001, 3/2002, 30/2002, 114/2002, 115/2002, 311/2003, 215/2004, 74/2005, 237/2006, 336/2007, 151/2008, 19/2009 e 16/2010; outro diploma."
+      }
+    ]
+  },
+  {
+    "id": "pt:dre:353534:por",
+    "artigos": [
+      {"artigo": "Artigo 2.º", "veredicto": "certo", "motivo": "DLR 17/2003/M, art. 64.º, al. c): revoga o DLR 2/94/M exceto o art. 1.º; epígrafe mantida e corpo «(Revogado.)».", "texto_esperado": ""},
+      {"artigo": "Artigo 3.º", "veredicto": "certo", "motivo": "Revogado pelo DLR 17/2003/M, art. 64.º, al. c).", "texto_esperado": ""},
+      {"artigo": "Artigo 4.º", "veredicto": "certo", "motivo": "Revogado pelo DLR 17/2003/M, art. 64.º, al. c).", "texto_esperado": ""},
+      {"artigo": "Artigo 5.º", "veredicto": "certo", "motivo": "Alterado pelos DLR 12/99/M e 14-A/2001/M e depois revogado pelo DLR 17/2003/M, art. 64.º, al. c); fica «(Revogado.)».", "texto_esperado": ""},
+      {"artigo": "Artigo 6.º", "veredicto": "certo", "motivo": "Alterado pelo DLR 14-A/2001/M e depois revogado pelo DLR 17/2003/M, art. 64.º, al. c).", "texto_esperado": ""},
+      {"artigo": "Artigo 7.º", "veredicto": "certo", "motivo": "Revogado pelo DLR 17/2003/M, art. 64.º, al. c).", "texto_esperado": ""},
+      {"artigo": "Artigo 8.º", "veredicto": "certo", "motivo": "Revogado pelo DLR 17/2003/M, art. 64.º, al. c).", "texto_esperado": ""},
+      {"artigo": "Artigo 9.º", "veredicto": "certo", "motivo": "Revogado pelo DLR 17/2003/M, art. 64.º, al. c).", "texto_esperado": ""},
+      {"artigo": "Artigo 10.º", "veredicto": "certo", "motivo": "Revogado pelo DLR 17/2003/M, art. 64.º, al. c).", "texto_esperado": ""},
+      {"artigo": "Artigo 11.º", "veredicto": "certo", "motivo": "Revogado pelo DLR 17/2003/M, art. 64.º, al. c).", "texto_esperado": ""},
+      {"artigo": "Artigo 12.º", "veredicto": "certo", "motivo": "Revogado pelo DLR 17/2003/M, art. 64.º, al. c).", "texto_esperado": ""},
+      {"artigo": "Artigo 13.º", "veredicto": "certo", "motivo": "Revogado pelo DLR 17/2003/M, art. 64.º, al. c).", "texto_esperado": ""},
+      {"artigo": "Artigo 14.º", "veredicto": "certo", "motivo": "Alterado pelo DLR 12/99/M e depois revogado pelo DLR 17/2003/M, art. 64.º, al. c).", "texto_esperado": ""},
+      {"artigo": "Artigo 15.º", "veredicto": "certo", "motivo": "Revogado pelo DLR 17/2003/M, art. 64.º, al. c).", "texto_esperado": ""},
+      {"artigo": "Artigo 16.º", "veredicto": "certo", "motivo": "Revogado pelo DLR 17/2003/M, art. 64.º, al. c).", "texto_esperado": ""},
+      {"artigo": "Artigo 17.º", "veredicto": "certo", "motivo": "Revogado pelo DLR 17/2003/M, art. 64.º, al. c).", "texto_esperado": ""},
+      {"artigo": "Artigo 18.º", "veredicto": "certo", "motivo": "Revogado pelo DLR 17/2003/M, art. 64.º, al. c).", "texto_esperado": ""},
+      {"artigo": "Artigo 19.º", "veredicto": "certo", "motivo": "Revogado pelo DLR 17/2003/M, art. 64.º, al. c).", "texto_esperado": ""},
+      {"artigo": "Artigo 20.º", "veredicto": "certo", "motivo": "Revogado pelo DLR 17/2003/M, art. 64.º, al. c).", "texto_esperado": ""},
+      {"artigo": "Artigo 21.º", "veredicto": "certo", "motivo": "Revogado pelo DLR 17/2003/M, art. 64.º, al. c); o bloco de aprovação e assinaturas que se segue é texto fora dos artigos e não texto antigo do artigo.", "texto_esperado": ""},
+      {"artigo": "ANEXO", "veredicto": "certo", "motivo": "DLR 4/98/M, art. 1.º: o mapa anexo passa a ter a disposição do mapa I do alterador; o consolidado aponta para a imagem do alterador (files.diariodarepublica.pt/1s/1998/04/095a00/18111813.pdf). O mapa é o que o art. 1.º (mantido em vigor) refere.", "texto_esperado": ""}
+    ],
+    "instrucoes_em_falta": [],
+    "artigos_a_mais": [],
+    "artigos_em_falta": [],
+    "fora_dos_artigos": "sem alterações",
+    "instrucoes_justificadas": [
+      {"instrucao": "DLR 15-A/2006/M, art. 61.º (revoga o DLR 17/2003/M; mantém em vigor o art. 1.º do original)", "motivo": "Confirmado no texto: não textual; revoga outro diploma e manter em vigor o art. 1.º não muda o texto; a revogação do revogatório não repristina."},
+      {"instrucao": "DLR 14/2009/M, art. 62.º (revoga o DLR 15-A/2006/M; mantém em vigor o art. 1.º do original)", "motivo": "Confirmado no texto: não textual; não muda o texto do original."},
+      {"instrucao": "DLR 25/2013/M, art. 56.º (revoga o DLR 14/2009/M; mantém em vigor o art. 1.º do original)", "motivo": "Confirmado no texto: não textual; não muda o texto do original."}
+    ]
+  }
+]

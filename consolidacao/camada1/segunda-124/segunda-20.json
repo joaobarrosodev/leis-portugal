@@ -1,0 +1,151 @@
+[
+ {
+  "id": "pt:dre:427826:por",
+  "veredicto": "certo",
+  "problemas": [],
+  "vigencia": null
+ },
+ {
+  "id": "pt:dre:294969:por",
+  "veredicto": "reparos",
+  "problemas": [
+   "Preâmbulo e art. 16.º: falta a Rectificação publicada no DG n.º 292, 1.ª série, de 27.12.1965 (corrected_by, pt:dre:508261; data/portugal/outros/rectificacao/1965/rectificacao-1965-12-27-508261.md), que não está entre os diplomas que alteram. Manda ler «Decreto-Lei n.º 26611» onde se lê «Decreto-Lei n.º 26111», no preâmbulo («... aprovado pelo [Decreto-Lei n.º 26611](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26611-1936-362693), ...») e no art. 16.º («Ficam revogadas as disposições do [Decreto-Lei n.º 26611](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26611-1936-362693), de 19 de Maio de 1936, relativas à Junta Nacional da Educação.»). O consolidado ficou com «26111» e a ligação 26111-1935-538229 nos dois sítios; o texto atual em data/ já tem «26611» nos dois."
+  ],
+  "vigencia": {
+   "conclusao": "outro",
+   "prova": "DL 70/77, art. 1.º: «É extinta a Junta Nacional da Educação, regulamentada pelo Decreto-Lei n.º 46348»; as funções passam a outros serviços (arts. 2.º a 9.º). Não há revogação expressa do diploma."
+  }
+ },
+ {
+  "id": "pt:dre:232942:por",
+  "veredicto": "reparos",
+  "problemas": [
+   "Estatuto, art. 17.º, alínea h) («A assunção de encargos com o pessoal.»): falta a revogação feita pelo Decreto-Lei n.º 208/79, de 10 de Julho (pt:dre:380545, data/portugal/decretos-leis/1979/decreto-lei-208-79.md), § único: «É revogada a alínea h) do artigo 17.º do Estatuto da Tabaqueira - Empresa Industrial de Tabacos, E. P., aprovado pelo Decreto-Lei n.º 503-G/76, de 30 de Junho.» O DL 208/79 não está entre os diplomas que alteram nem nas relações do registo. Texto certo: «h) (Revogada.)». O DL 32/2018 (anexo, al. nnnn)) declara depois a cessação de vigência do DL 208/79, mas a revogação já tinha produzido efeito e não há repristinação. O texto atual em data/ também tem a alínea h) por revogar."
+  ],
+  "vigencia": {
+   "conclusao": "outro",
+   "prova": "DL 117/91, art. 1.º: a Tabaqueira, E. P., é transformada em sociedade anónima, com estatutos próprios anexos ao DL 117/91; o Estatuto da E. P. aprovado por este decreto-lei deixa de ter objeto, sem revogação expressa."
+  }
+ },
+ {
+  "id": "pt:dre:273637:por",
+  "veredicto": "certo",
+  "problemas": [],
+  "vigencia": null
+ },
+ {
+  "id": "pt:dre:378319:por",
+  "veredicto": "duvida",
+  "problemas": [
+   "Articulado certo: art. 37.º, n.º 3 (aditado pelo DR 38/85, art. 1.º) e art. 44.º, n.º 3 «(Revogado.)» (DR 38/85, art. 3.º, n.º 3).",
+   "Quadros de pessoal (QUADRO I a III, só em imagem no texto, com título no texto atual: «QUADRO I», «Quadro II», «Quadro III»): a Portaria 248/85, n.º 1.º, aumenta o quadro do n.º 1 do art. 44.º «dos lugares constantes do mapa anexo» (imagem https://files.diariodarepublica.pt/1s/1985/05/10100/11601161.pdf) e o DR 38/85, art. 2.º, altera o quadro «de acordo com o mapa anexo» (imagem https://files.diariodarepublica.pt/1s/1985/06/14600/17381739.pdf). O verificador aceitou «só em imagem, sem anexo com título», mas os quadros têm título no texto; pela regra de anexos (README, secção 11: «alteração parcial a um quadro que só existe em imagem: insere-se a seguir ao quadro um parágrafo curto e a imagem do alterador»), estas duas alterações deviam entrar a seguir ao QUADRO I. A auditoria dos anexos só viu a Portaria 671/86 (não aplicada, em dúvida). Não decido se a regra se estende a estes dois alteradores."
+  ],
+  "vigencia": null
+ },
+ {
+  "id": "pt:dre:486306:por",
+  "veredicto": "certo",
+  "problemas": [],
+  "vigencia": null
+ },
+ {
+  "id": "pt:dre:665133:por",
+  "veredicto": "reparos",
+  "problemas": [
+   "Artigo 26.º: falta a revogação feita pelo Decreto-Lei n.º 797/76, de 6 de Novembro (pt:dre:407338, repealed_by no registo), art. 15.º, n.º 1: «Fica revogado o artigo 26.º do Decreto-Lei n.º 583/72, de 30 de Dezembro, sem prejuízo de, até à publicação do decreto a que se refere o n.º 1 do artigo 8.º do presente decreto-lei, se manterem em vigor as portarias publicadas em sua execução.» O DL 797/76 não está entre os diplomas que alteram; o consolidado deixou o art. 26.º com os n.os 1 e 2 originais e o n.º 3 do DL 209/76. Texto certo: «###### Artigo 26.º / (Revogado.)» (a ressalva das portarias não mantém o artigo). O texto atual em data/ já o tem revogado.",
+   "MAPA II: a Rectificação publicada no DG n.º 12, 1.ª série, de 15.01.1973 (corrected_by, pt:dre:683648; data/portugal/outros/rectificacao/1973/rectificacao-1973-01-15-683648.md) declara «sem efeito a publicação ... do mapa II anexo ao Decreto-Lei n.º 583/72». O consolidado (e o texto atual) mantêm «MAPA II / Pessoal abatido aos quadros do Ministério das Corporações e Previdência Social e respectivos vencimentos» com a ligação à imagem, como se valesse. Devia sair ou ficar marcado como sem efeito.",
+   "Dúvida: a Portaria 39/81, n.º 4.º, substitui o quadro de pessoal do Fundo (MAPA I, com título no texto) pelo quadro anexo IV, só em imagem (https://files.diariodarepublica.pt/1s/1981/01/01200/01120116.pdf, um PDF com os sete quadros). O verificador aceitou «sem título de anexo», mas o MAPA I tem título; pela regra de anexos (README, secção 11) seria troca de ligação ou inserção. A própria auditoria dos anexos deu a Portaria 528/80 como «reescrito depois (Portaria n.º 39/81)», o que supõe a 39/81 aplicada."
+  ],
+  "vigencia": null
+ },
+ {
+  "id": "pt:dre:517806:por",
+  "veredicto": "certo",
+  "problemas": [],
+  "vigencia": null
+ },
+ {
+  "id": "pt:dre:315161:por",
+  "veredicto": "certo",
+  "problemas": [],
+  "vigencia": null
+ },
+ {
+  "id": "pt:dre:662098:por",
+  "veredicto": "certo",
+  "problemas": [],
+  "vigencia": null
+ },
+ {
+  "id": "pt:dre:479944:por",
+  "veredicto": "certo",
+  "problemas": [],
+  "vigencia": null
+ },
+ {
+  "id": "pt:dre:223626:por",
+  "veredicto": "certo",
+  "problemas": [],
+  "vigencia": null
+ },
+ {
+  "id": "pt:dre:413845:por",
+  "veredicto": "reparos",
+  "problemas": [
+   "Mapa a que se refere o artigo 1.º (bloco do art. 4.º, depois das fórmulas finais): a Rectificação publicada no DG n.º 211, 1.ª série, de 08.09.1973 (corrected_by, pt:dre:413453; data/portugal/outros/rectificacao/1973/rectificacao-1973-09-08-413453.md) manda publicar de novo o mapa anexo, por ter saído com inexatidão. O consolidado ficou com a imagem de 28.08.1973 (https://files.diariodarepublica.pt/1s/1973/08/20100/15251525.pdf); devia ter a da rectificação (https://files.diariodarepublica.pt/1s/1973/09/21100/15951595.pdf), que é a que o texto atual em data/ já tem.",
+   "Dúvida no mesmo mapa: o Decreto 19/77, art. 1.º, n.º 1, põe o fotógrafo de 3.ª classe do quadro na categoria O (antes letra S). O alterador não traz imagem, mas traz o texto da alteração; pela regra de alteração parcial a um quadro só em imagem (README, secção 11) podia entrar a seguir ao mapa. O verificador deu «sem texto nem imagem»."
+  ],
+  "vigencia": null
+ },
+ {
+  "id": "pt:dre:417260:por",
+  "veredicto": "certo",
+  "problemas": [],
+  "vigencia": null
+ },
+ {
+  "id": "pt:dre:666750:por",
+  "veredicto": "certo",
+  "problemas": [],
+  "vigencia": {
+   "conclusao": "outro",
+   "prova": "DL 729-M/75: o Montepio Geral passa a ser gerido por uma direção (arts. 1.º e 2.º) e só se mantêm em vigor, com adaptações, as disposições deste decreto-lei que não contrariem o DL 729-M/75 (art. 5.º); a comissão administrativa deixa de existir."
+  }
+ },
+ {
+  "id": "pt:dre:462578:por",
+  "veredicto": "certo",
+  "problemas": [],
+  "vigencia": null
+ },
+ {
+  "id": "pt:dre:242052:por",
+  "veredicto": "certo",
+  "problemas": [],
+  "vigencia": null
+ },
+ {
+  "id": "pt:dre:372636:por",
+  "veredicto": "certo",
+  "problemas": [],
+  "vigencia": {
+   "conclusao": "outro",
+   "prova": "DL 88/76: os arts. 1.º, 2.º e 3.º só vigoram até à entrada em funcionamento da Assembleia Legislativa (caducidade parcial); o art. 4.º, com a redação do DL 303/75, não tem prazo."
+  }
+ },
+ {
+  "id": "pt:dre:171351:por",
+  "veredicto": "certo",
+  "problemas": [],
+  "vigencia": {
+   "conclusao": "outro",
+   "prova": "DL 458/83, art. 1.º: é extinta em 1 de Janeiro de 1984 a Comissão de Reapetrechamento dos Hospitais criada por este decreto-lei; não há revogação expressa."
+  }
+ },
+ {
+  "id": "pt:dre:419785:por",
+  "veredicto": "certo",
+  "problemas": [],
+  "vigencia": null
+ }
+]

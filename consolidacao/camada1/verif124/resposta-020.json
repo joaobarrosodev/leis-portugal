@@ -1,0 +1,37 @@
+[
+ {
+  "id": "pt:dre:219166:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 3.º #2",
+    "veredicto": "certo",
+    "motivo": "N.º 1 do art. 3.º dos Estatutos (anexo I) na redação do art. 1.º do DLR 15/2007/M, letra a letra; n.os 2 e 3 iguais.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [
+   "DLR 10/2016/M, arts. 1.º, 2.º e 6.º: nova redação das bases I, X, XIV, XV, XVI, XVII, XVIII, XXI, XXII e XXX, aditamento das bases XXII-A e XXII-B e republicação integral das Bases (anexo II). «Alvo incerto» não justifica: o alvo é conhecido — o ANEXO II do consolidado tem os mesmos capítulos I a XII da republicação, e esta dá o texto completo de cada base dentro do seu capítulo (Bases I a XXXVIII, com XXII-A e XXII-B). Os capítulos do anexo II ficaram iguais ao original, sem as bases."
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DLR 15/2007/M, art. 2.º (futuras alterações aos Estatutos nos termos da lei comercial)",
+    "motivo": "Não textual."
+   },
+   {
+    "instrucao": "DLR 15/2007/M, art. 3.º (revoga as normas que contrariem o diploma)",
+    "motivo": "Revogação condicional."
+   },
+   {
+    "instrucao": "DLR 10/2016/M, art. 4.º (referências a «o Concedente» e «ER 101» entendem-se feitas a «a Concedente» e «VR 1»)",
+    "motivo": "Não textual: mudança de designação sem nova redação (a republicação já a incorpora)."
+   },
+   {
+    "instrucao": "DLR 10/2016/M, art. 5.º (revoga o art. 42.º do DLR 4-A/2001/M)",
+    "motivo": "Outro diploma."
+   }
+  ]
+ }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "id": "pt:dre:461650:por",
+    "artigos": [
+      {"artigo": "Artigo 2.º", "veredicto": "certo", "motivo": "N.º 3 aditado pelo DL 124/83; n.os 1 e 2 originais («...»).", "texto_esperado": ""},
+      {"artigo": "Artigo 5.º", "veredicto": "certo", "motivo": "N.os 1.1 e 1.2 na redação do DL 460/85; corpo do n.º 1 e n.º 2 originais.", "texto_esperado": ""},
+      {"artigo": "Artigo 18.º", "veredicto": "certo", "motivo": "N.os 1 e 2 na redação do DL 301/81, com a epígrafe nova que o alterador publica com eles.", "texto_esperado": ""}
+    ],
+    "instrucoes_em_falta": [],
+    "artigos_a_mais": [],
+    "artigos_em_falta": [],
+    "fora_dos_artigos": "sem alterações",
+    "instrucoes_justificadas": [
+      {"instrucao": "DL 460/85, art. 2.º (aplicação no ano letivo de 1985-1986)", "motivo": "Não textual: produção de efeitos."},
+      {"instrucao": "DL 20/2006, art. 69.º (o art. 22.º mantém-se em vigor até à revisão das disposições sobre a rede escolar)", "motivo": "Não textual: ressalva de vigência, sem mudar o texto."}
+    ]
+  },
+  {
+    "id": "pt:dre:472903:por",
+    "artigos": [
+      {"artigo": "Artigo 1.º", "veredicto": "certo", "motivo": "Redação do DL 115/88 (última, sobre a do DL 2/85), letra a letra.", "texto_esperado": ""}
+    ],
+    "instrucoes_em_falta": [],
+    "artigos_a_mais": [],
+    "artigos_em_falta": [],
+    "fora_dos_artigos": "sem alterações",
+    "instrucoes_justificadas": [
+      {"instrucao": "DL 463/82, art. 1.º (arts. 1.º, 20.º e 22.º da tabela de emolumentos consulares)", "motivo": "Outro diploma: a tabela foi aprovada pelo DL 46641."},
+      {"instrucao": "DL 115/88, art. 2.º (fim da produção de algumas denominações de estampilhas)", "motivo": "Não textual: norma própria do alterador."},
+      {"instrucao": "DL 84/89, art. 1.º (n.os 4.º e 7.º do art. 1.º da tabela de emolumentos consulares)", "motivo": "Outro diploma: a tabela foi aprovada pelo DL 46641."}
+    ]
+  },
+  {
+    "id": "pt:dre:475291:por",
+    "artigos": [
+      {"artigo": "Artigo 23.º", "veredicto": "certo", "motivo": "Regra 3.ª na redação do DL 47755, letra a letra («3.ª» como no alterador); restantes regras originais.", "texto_esperado": ""}
+    ],
+    "instrucoes_em_falta": [],
+    "artigos_a_mais": [],
+    "artigos_em_falta": [],
+    "fora_dos_artigos": "sem alterações",
+    "instrucoes_justificadas": [
+      {"instrucao": "DL 47366, arts. 1.º a 3.º (Hospital do Ultramar: mapa do Decreto 45664, quadros e estágios)", "motivo": "Outro diploma ou norma própria, sem instrução ao DL 47102."},
+      {"instrucao": "DL 47366, arts. 4.º e 5.º (número de assistentes e lugar novo no quadro da Escola)", "motivo": "Não textual: mexem no quadro de pessoal sem nova redação; o consolidado não tem o mapa anexo com título."},
+      {"instrucao": "DL 47784: nova composição do mapa do pessoal da Escola anexo ao DL 47102", "motivo": "O mapa novo só vem em imagem e o consolidado não tem anexo com título onde o pôr (nenhum ANEXO na lista)."},
+      {"instrucao": "DL 504/71, art. 1.º (vencimentos do pessoal docente pela tabela anexa) e arts. 2.º a 6.º", "motivo": "Não textual: normas próprias e tabela em imagem, sem nova redação do original."},
+      {"instrucao": "DL 372/72 (substituição da Escola por duas instituições)", "motivo": "Não textual: não dá nova redação nem revoga artigos do original."}
+    ]
+  },
+  {
+    "id": "pt:dre:476695:por",
+    "artigos": [
+      {"artigo": "Artigo 5.º", "veredicto": "certo", "motivo": "N.º 2 na redação da Lei 2/81, letra a letra; n.os 1, 3, 4 e 5 originais.", "texto_esperado": ""}
+    ],
+    "instrucoes_em_falta": [],
+    "artigos_a_mais": [],
+    "artigos_em_falta": [],
+    "fora_dos_artigos": "sem alterações",
+    "instrucoes_justificadas": [
+      {"instrucao": "Lei 31/87, art. 26.º do DL 125/82 ratificado (extinção do CNAEBA e transferência das suas competências)", "motivo": "Não textual: extingue o órgão sem revogar nem dar nova redação à Lei 3/79."},
+      {"instrucao": "Lei 31/87, art. 27.º do DL 125/82 ratificado (revoga a legislação que contrarie)", "motivo": "Revogação condicional."},
+      {"instrucao": "DL 241/96 (alteração e republicação do DL 125/82)", "motivo": "Outro diploma."}
+    ]
+  },
+  {
+    "id": "pt:dre:479944:por",
+    "artigos": [
+      {"artigo": "Artigo 2.º", "veredicto": "certo", "motivo": "§§ 1.º e 2.º na redação do DL 44023 e § 4.º aditado; corpo e § 3.º originais.", "texto_esperado": ""}
+    ],
+    "instrucoes_em_falta": [],
+    "artigos_a_mais": [],
+    "artigos_em_falta": [],
+    "fora_dos_artigos": "sem alterações",
+    "instrucoes_justificadas": [
+      {"instrucao": "DL 43704, artigo único: é elevado para 5400000$00 o subsídio previsto no art. 3.º", "motivo": "O alterador muda o montante sem dar nova redação ao art. 3.º (não traz o texto da alteração)."},
+      {"instrucao": "DL 44906, artigo único: é elevado para 8150000$00 o subsídio previsto no art. 3.º", "motivo": "O alterador muda o montante sem dar nova redação ao art. 3.º (não traz o texto da alteração)."}
+    ]
+  }
+]

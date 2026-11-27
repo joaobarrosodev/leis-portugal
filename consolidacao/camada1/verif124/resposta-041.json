@@ -1,0 +1,88 @@
+[
+  {
+    "id": "pt:dre:486306:por",
+    "artigos": [
+      {"artigo": "Artigo 3.º", "veredicto": "certo", "motivo": "N.º 2 e n.º 2-A) na redação do DL 406/75; n.os 1, 3 e 4 originais (o alterador só mexe no n.º 2 e adita o 2-A).", "texto_esperado": ""},
+      {"artigo": "Artigo 7.º", "veredicto": "certo", "motivo": "N.os 1 a 4 originais («...»); n.os 5 e 6 na redação do DL 406/75, que substitui o antigo n.º 5.", "texto_esperado": ""}
+    ],
+    "instrucoes_em_falta": [],
+    "artigos_a_mais": [],
+    "artigos_em_falta": [],
+    "fora_dos_artigos": "sem alterações",
+    "instrucoes_justificadas": [
+      {"instrucao": "DL 427/75, arts. 1.º a 3.º e 4.º, n.º 1 (Comissão Directiva provisória, transição de competências, composição do Conselho Administrativo)", "motivo": "Não textual: normas próprias sem nova redação do original; o DL 427/75 foi depois revogado pelo DL 158/79."},
+      {"instrucao": "DL 427/75, art. 4.º, n.º 2: revogação do n.º 1 do art. 2.º", "motivo": "O DL 158/79, art. 1.º, n.º 2, repõe em vigor o n.º 1 do art. 2.º; o efeito final é o texto original, que o consolidado mantém."}
+    ]
+  },
+  {
+    "id": "pt:dre:486774:por",
+    "artigos": [
+      {"artigo": "Artigo 14.º", "veredicto": "certo", "motivo": "Nova redação dada pelo DL 47320, letra a letra.", "texto_esperado": ""},
+      {"artigo": "Artigo 15.º", "veredicto": "certo", "motivo": "Nova redação dada pelo DL 47320, letra a letra.", "texto_esperado": ""}
+    ],
+    "instrucoes_em_falta": [],
+    "artigos_a_mais": [],
+    "artigos_em_falta": [],
+    "fora_dos_artigos": "sem alterações",
+    "instrucoes_justificadas": [
+      {"instrucao": "DL 48301, art. 11.º: extinção do Gabinete de Estudos (al. a) do art. 2.º) e redistribuição das funções do art. 4.º", "motivo": "Não textual: extingue o serviço sem revogar nem dar nova redação a artigos ou alíneas do original."},
+      {"instrucao": "DL 48301, arts. 1.º a 10.º e 12.º (Centro de Estudos de Planeamento)", "motivo": "Não textual: normas autónomas do alterador."},
+      {"instrucao": "DL 49132, art. 9.º: extinção dos grupos de trabalho do art. 19.º", "motivo": "Não textual: extingue os grupos sem revogar nem dar nova redação ao art. 19.º."},
+      {"instrucao": "DL 49132, arts. 1.º a 8.º (comissões de planeamento e grupos de trabalho)", "motivo": "Não textual: normas autónomas do alterador."}
+    ]
+  },
+  {
+    "id": "pt:dre:501979:por",
+    "artigos": [
+      {"artigo": "Artigo 1.º", "veredicto": "certo", "motivo": "Corpo na redação do DL 49106 (com as alíneas a) a h)); §§ 1.º a 5.º originais.", "texto_esperado": ""},
+      {"artigo": "Artigo 2.º", "veredicto": "certo", "motivo": "Al. b) na redação do DL 683/73 e al. d) na do DL 49106; restantes alíneas originais.", "texto_esperado": ""},
+      {"artigo": "Artigo 9.º", "veredicto": "certo", "motivo": "Corpo e als. a) a g) na redação do DL 49106; § único mantido (o alterador termina com «...»).", "texto_esperado": ""},
+      {"artigo": "Artigo 10.º", "veredicto": "certo", "motivo": "Corpo na redação do DL 683/73 (três parágrafos); § único original («§ único ...»).", "texto_esperado": ""},
+      {"artigo": "Artigo 20.º", "veredicto": "certo", "motivo": "§ único na redação do DL 683/73; corpo original.", "texto_esperado": ""},
+      {"artigo": "Artigo 22.º", "veredicto": "certo", "motivo": "Redação do DL 683/73 (última), que substitui a do DL 49106, letra a letra.", "texto_esperado": ""}
+    ],
+    "instrucoes_em_falta": [],
+    "artigos_a_mais": [],
+    "artigos_em_falta": [],
+    "fora_dos_artigos": "sem alterações",
+    "instrucoes_justificadas": [
+      {"instrucao": "DL 47774, art. 1.º e § único (presidente e chefe da contabilidade do conselho administrativo; o quadro I anexo considera-se alterado)", "motivo": "Não textual: o corpo é norma própria e o § único não traz o texto do quadro alterado (o diploma que altera não traz o texto da alteração)."},
+      {"instrucao": "DL 49106, art. 2.º (remodelação do Secretariado-Geral da Defesa Nacional)", "motivo": "Não textual: norma própria, sem nova redação do original."},
+      {"instrucao": "DL 683/73, art. 2.º (vencimentos, distintivos e despesas de representação do vice-chefe do EMGFA)", "motivo": "Não textual: norma própria do alterador."},
+      {"instrucao": "Portaria 672-B/78 (cria o QPC/EMGFA e faz transitar o pessoal dos quadros do DL 43077)", "motivo": "Não textual: não revoga nem dá nova redação aos quadros anexos ou artigos do original."}
+    ]
+  },
+  {
+    "id": "pt:dre:508223:por",
+    "artigos": [
+      {"artigo": "Artigo 28.º", "veredicto": "certo", "motivo": "Nova redação dada pelo art. 1.º do DL 752/74, letra a letra.", "texto_esperado": ""}
+    ],
+    "instrucoes_em_falta": [],
+    "artigos_a_mais": [],
+    "artigos_em_falta": [],
+    "fora_dos_artigos": "sem alterações",
+    "instrucoes_justificadas": [
+      {"instrucao": "DReg 44/77, art. 2.º (integração de lugares do Museu Nacional do Trajo nos quadros únicos criados pelo art. 32.º)", "motivo": "Não textual: não dá nova redação ao art. 32.º."},
+      {"instrucao": "DL 342/99, art. 28.º (revoga o DL 383/80)", "motivo": "Outro diploma."},
+      {"instrucao": "DL 342/99, art. 25.º (extinção do Instituto de José de Figueiredo; referências passam ao IPCR)", "motivo": "Não textual: extinção e sucessão, sem revogar nem alterar artigos do original."}
+    ]
+  },
+  {
+    "id": "pt:dre:514056:por",
+    "artigos": [
+      {"artigo": "Artigo 2.º", "veredicto": "certo", "motivo": "Nova redação dada pelo art. 2.º do DL 49479, letra a letra.", "texto_esperado": ""},
+      {"artigo": "Artigo 6.º", "veredicto": "certo", "motivo": "Nova redação dada pelo DL 49479, letra a letra.", "texto_esperado": ""},
+      {"artigo": "Artigo 7.º", "veredicto": "certo", "motivo": "Corpo original («Art. 7.º ...»); §§ 1.º e 2.º do DL 49479 em vez do § único.", "texto_esperado": ""},
+      {"artigo": "Artigo 8.º", "veredicto": "certo", "motivo": "Nova redação dada pelo DL 49479, letra a letra.", "texto_esperado": ""},
+      {"artigo": "Artigo 11.º", "veredicto": "certo", "motivo": "Nova redação dada pelo DL 49479; fórmula final e assinaturas mantidas.", "texto_esperado": ""}
+    ],
+    "instrucoes_em_falta": [],
+    "artigos_a_mais": [],
+    "artigos_em_falta": [],
+    "fora_dos_artigos": "sem alterações",
+    "instrucoes_justificadas": [
+      {"instrucao": "DL 49479, art. 1.º (§ 3.º do art. 174.º e arts. 175.º e 183.º do Código Administrativo)", "motivo": "Outro diploma."},
+      {"instrucao": "DL 5/72, art. 14.º (o n.º 2 do art. 2.º do DL 5/72 é aplicável à Federação criada pelo original)", "motivo": "Não textual: extensão de regime, sem nova redação do original."}
+    ]
+  }
+]

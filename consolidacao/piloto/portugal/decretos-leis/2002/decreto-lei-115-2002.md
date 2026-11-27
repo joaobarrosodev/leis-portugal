@@ -10,6 +10,9 @@ consolidacao:
   - id: pt:dre:456790:por
     title: Decreto-Lei n.º 133/2008
     publication_date: '2008-07-21'
+  - id: pt:dre:502980:por
+    title: Decreto-Lei n.º 148/2013
+    publication_date: '2013-10-24'
 ---
 
 # Decreto-Lei n.º 115/2002
@@ -956,6 +959,10 @@ A marca de homologação CE deve ser constituída por um rectângulo envolvendo 
 
 6 para a Bélgica;
 
+7 para a Hungria;
+
+8 para a República Checa;
+
 9 para a Espanha;
 
 11 para o Reino Unido;
@@ -968,12 +975,36 @@ A marca de homologação CE deve ser constituída por um rectângulo envolvendo 
 
 18 para a Dinamarca;
 
+19 para a Roménia;
+
+20 para a Polónia;
+
 21 para Portugal;
 
 23 para a Grécia;
 
+25 para a Croácia;
+
+26 para a Eslovénia;
+
+27 para a Eslováquia;
+
+29 para a Estónia;
+
+32 para a Letónia;
+
+34 para a Bulgária;
+
+36 para a Lituânia;
+
+CY para Chipre;
+
 IRL para a Irlanda;
+
+MT para Malta.
 
 Nota justificativa da necessidade e urgência do projecto de decreto-lei que visa a transposição para o direito interno da Directiva n.º [2000/8/CE](https://data.europa.eu/eli/dir/2000/8/oj?locale=pt), do Parlamento Europeu e do Conselho, de 20 de Março.
 
 A necessidade de aprovação imediata do diploma em causa advém do facto de a transposição para o direito nacional de directivas comunitárias constituir um acto jurídica e politicamente predominantemente vinculado do Governo (ou da Assembleia da República, quando seja esse o caso), nos termos do direito europeu e da Constituição da República Portuguesa, indispensável ao normal comércio jurídico e que, por isso mesmo, se enquadra no conceito mais restrito de «gestão».
+
+> Alterado pelo/a [Decreto-Lei n.º 148/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-2013-502980), publicado em 2013-10-24.

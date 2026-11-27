@@ -7,12 +7,12 @@ consolidacao:
     sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
-  - id: pt:dre:632385:por
-    title: Decreto Legislativo Regional n.º 14-A/2001/M
-    publication_date: '2001-05-28'
-  - id: pt:dre:544776:por
-    title: Decreto Legislativo Regional n.º 12/99/M
-    publication_date: '1999-04-15'
+  - id: pt:dre:669864:por
+    title: Decreto Legislativo Regional n.º 17/2003/M
+    publication_date: '2003-07-22'
+  - id: pt:dre:176034:por
+    title: Decreto Legislativo Regional n.º 4/98/M
+    publication_date: '1998-04-23'
 ---
 
 # Decreto Legislativo Regional n.º 2/94/M
@@ -41,217 +41,125 @@ Assim, a Assembleia Legislativa Regional da Madeira, nos termos da alínea a) do
 
 ###### Artigo 2.º — Objectivos
 
-1 - Os quadros de zona pedagógica visam:
+(Revogado.)
 
-a) Garantir a satisfação de necessidades não permanentes dos estabelecimentos de ensino e a promoção do sucesso educativo;
-
-b) Assegurar o desenvolvimento de actividade de educação extra-escolar, com especial incidência na educação recorrente;
-
-c) Apoiar estabelecimentos de ensino que ministrem o ensino em áreas curriculares específicas ou onde existam crianças com necessidades educativas especiais;
-
-d) Substituir docentes do quadro de escola que, por motivos previstos na lei, se encontrem ausentes.
-
-2 - A substituição de docentes prevista na alínea d) do número anterior abrange:
-
-a) Ausência anual;
-
-b) Ausências temporárias de duração superior a 5 ou 10 dias lectivos, consoante se trate da educação pré-escolar e do 1.º ciclo do ensino básico ou dos 2.º e 3.º ciclos do ensino básico;
-
-c) Ausências temporárias no ensino secundário, sem prejuízo das tarefas de ocupação educativa dos alunos, a promover pelo respectivo estabelecimento de ensino, nos casos de ausência de curta duração.
+> Revogado pelo/a [Decreto Legislativo Regional n.º 17/2003/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2003-669864), publicado em 2003-07-22.
 
 ###### Artigo 3.º — Dotação dos quadros
 
-1 - O número de lugares atribuídos a cada um dos quadros de zona pedagógica será definido, anualmente, por portaria a publicar no Jornal Oficial da Região Autónoma da Madeira e no Diário da República até ao dia 31 de Dezembro de cada ano, tendo em conta as necessidades de pessoal docente do sistema educativo da Região.
+(Revogado.)
 
-2 - A portaria a que se refere o número anterior é da competência conjunta dos Secretários Regionais das Finanças e da Educação ou apenas do Secretário Regional da Educação, consoante da atribuição de lugares a cada quadro resulte ou não aumento dos valores totais globais.
+> Revogado pelo/a [Decreto Legislativo Regional n.º 17/2003/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2003-669864), publicado em 2003-07-22.
 
 ###### Artigo 4.º — Concurso de provimento
 
-O provimento nos quadros de zona pedagógica far-se-á por concurso anual, a abrir, mediante aviso a publicar no Jornal Oficial da Região Autónoma da Madeira e no Diário da República, em simultâneo com os concursos para os quadros dos estabelecimentos dos 2.º e 3.º ciclos do ensino básico e do ensino secundário da Região.
+(Revogado.)
+
+> Revogado pelo/a [Decreto Legislativo Regional n.º 17/2003/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2003-669864), publicado em 2003-07-22.
 
 ###### Artigo 5.º — Candidatos
 
-Podem ser opositores ao concurso referido no artigo anterior, além dos professores já pertencentes a um dos quadros de zona pedagógica, os professores dos ensinos básico ou secundário que reúnam, cumulativamente, as seguintes condições:
+(Revogado.)
 
-a) Serem professores já pertencentes a um dos quadros de zona pedagógica;
-
-b) Terem obtido colocação e prestado serviço docente nos últimos dois anos lectivos;
-
-c) Terem completado, até 31 de Agosto do ano anterior ao da abertura do concurso, três ou mais anos de serviço docente;
-
-2 - Podem, ainda, ser opositores ao mesmo concurso, para efeitos de transição de nível de docência, os educadores de infância e os professores do 1.º ciclo do ensino básico que pertençam aos quadros referidos no n.º 2 do artigo 1.º, desde que possuam habilitação profissional ou própria para o nível e para o grau de ensino e grupo de docência a que se candidatam e tenham sido colocados, nos dois últimos anos lectivos, em regime de mobilidade, no referido nível e grau de ensino.
-
-> Alterado pelo/a [Decreto Legislativo Regional n.º 14-A/2001/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-a-2001-632385), publicado em 2001-05-28.
+> Revogado pelo/a [Decreto Legislativo Regional n.º 17/2003/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2003-669864), publicado em 2003-07-22.
 
 ###### Artigo 6.º — Ordenação dos candidatos
 
-1 - Os candidatos são ordenados de acordo com as seguintes prioridades:
+(Revogado.)
 
-a) Professores profissionalizados já pertencentes a um dos quadros de zona pedagógica, no grupo em que estão colocados;
-
-b) Outros professores já pertencentes a um dos quadros de zona pedagógica, no grupo em que estão colocados;
-
-c) Professores profissionalizados vinculados à Região Autónoma da Madeira;
-
-d) Professores portadores de habilitação própria vinculados à Região Autónoma da Madeira;
-
-e) Professores incluídos na alínea b) do artigo anterior, em grupos para que possuem habilitação profissional;
-
-f) Professores incluídos na alínea b) do artigo anterior, em grupos para que possuem habilitação própria.
-
-2 - Dentro de cada uma das prioridades referidas no número anterior, os candidatos serão ordenados nos termos previstos no [Decreto Legislativo Regional n.º 4/88/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-1988-374778), de 18 de Maio.
-
-3 - Nenhum candidato pode ser incluído em mais de uma das alíneas do n.º 1.
-
-4 - Os professores incluídos nas alíneas e) e f) do n.º 1 podem concorrer no máximo a dois grupos de docência.
-
-> Alterado pelo/a [Decreto Legislativo Regional n.º 14-A/2001/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-a-2001-632385), publicado em 2001-05-28.
+> Revogado pelo/a [Decreto Legislativo Regional n.º 17/2003/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2003-669864), publicado em 2003-07-22.
 
 ###### Artigo 7.º — Apresentação a concurso
 
-1 - A admissão ao concurso previsto no artigo 4.º é feita através do preenchimento de um só boletim normalizado, do qual constam obrigatoriamente:
+(Revogado.)
 
-a) Os elementos legais de identificação do candidato;
-
-b) Todos os elementos necessários à ordenação do candidato;
-
-c) O código dos quadros de zona pedagógica a que concorre.
-
-2 - Os modelos do boletim, bem como os da ficha anexa e que são os mesmos do concurso para o quadro dos estabelecimentos de ensino dos 2.º e 3.º ciclos do ensino básico e do ensino secundário, são indicados no respectivo aviso de abertura.
-
-3 - Os prazos, condições e locais de apresentação dos modelos de boletim são igualmente fixados no aviso de abertura de concurso.
-
-4 - Os candidatos ao concurso referido no artigo 4.º deste diploma mencionam as suas preferências num só boletim, podendo nele indicar todas as zonas pedagógicas da Região, bem como os ciclos e grupos disciplinares a que concorrem.
+> Revogado pelo/a [Decreto Legislativo Regional n.º 17/2003/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2003-669864), publicado em 2003-07-22.
 
 ###### Artigo 8.º — Mecanismo do concurso
 
-1 - O concurso realiza-se com recuperação automática de lugares, de forma que nenhum concorrente seja ultrapassado em qualquer das suas preferências por outro candidato com inferior prioridade.
+(Revogado.)
 
-2 - Pode não haver recuperação de vagas sempre que os lugares já providos em anteriores concursos excedam as necessidades reais da zona pedagógica.
-
-3 - As vagas não recuperáveis são publicitadas no aviso de abertura do concurso como vagas negativas.
-
-4 - Os professores que tiverem obtido colocação nos quadros de escolas deixam, automaticamente, de ser considerados no concurso para preenchimento dos quadros de zona pedagógica.
-
-5 - As listas provisórias de ordenação dos candidatos e a de colocações serão publicadas nos termos legais em vigor.
-
-6 - Das listas provisórias de ordenação dos candidatos, bem como dos elementos constantes do verbete individual, cabe reclamação no prazo de oito dias úteis a contar do dia seguinte ao da data da sua publicação.
-
-7 - O verbete individual contém todos os elementos que o candidato registou no seu boletim de concurso e deve ser levantado no serviço oficial onde foi apresentada a candidatura.
-
-8 - Decididas as reclamações e consideradas as alterações provenientes das desistências, as listas definitivas de ordenação e colocação, devidamente homologadas, são publicitadas nos termos legais em vigor.
-
-9 - Das listas referidas no número anterior caberá recurso hierárquico, sem efeito suspensivo.
-
-10 - As desistências do concurso só são permitidas até ao termo do prazo previsto no n.º 6.
-
-11 - A lista de colocações constitui o único meio para comunicar aos interessados as respectivas colocações.
-
-12 - Para todos os efeitos, considera-se que a não apresentação de reclamação da lista provisória de graduação e dos elementos constantes do verbete referido no n.º 6 equivale a aceitação tácita da mesma lista e do conjunto de elementos do mesmo verbete.
+> Revogado pelo/a [Decreto Legislativo Regional n.º 17/2003/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2003-669864), publicado em 2003-07-22.
 
 ###### Artigo 9.º — Forma de provimento
 
-O provimento dos professores dos quadros de zona pedagógica entende-se sempre feito por urgente conveniência de serviço, sendo-lhes devidos os respectivos abonos a partir da data do início do exercício de funções.
+(Revogado.)
+
+> Revogado pelo/a [Decreto Legislativo Regional n.º 17/2003/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2003-669864), publicado em 2003-07-22.
 
 ###### Artigo 10.º — Transferência de quadro
 
-Os professores pertencentes a um dos quadros de zona pedagógica que, tendo sido opositores ao concurso previsto no artigo 4.º, obtiverem colocação em zona pedagógica diferente daquela a cujo quadro pertenciam consideram-se providos, por transferência, no quadro da zona pedagógica em que obtiveram colocação, consoante a lista ordenada definitiva.
+(Revogado.)
+
+> Revogado pelo/a [Decreto Legislativo Regional n.º 17/2003/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2003-669864), publicado em 2003-07-22.
 
 ###### Artigo 11.º — Da posse
 
-A posse dos professores dos quadros de zona pedagógica é da competência do órgão de gestão e administração do estabelecimento de ensino onde o docente se encontra afecto.
+(Revogado.)
+
+> Revogado pelo/a [Decreto Legislativo Regional n.º 17/2003/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2003-669864), publicado em 2003-07-22.
 
 ###### Artigo 12.º — Obrigações dos docentes
 
-O ingresso e a manutenção na situação de titular do quadro de zona pedagógica ficam condicionados, cumulativamente, às seguintes obrigações:
+(Revogado.)
 
-a) Aceitar, em cada ano, o serviço docente que lhe for distribuído em qualquer escola da área da zona pedagógica a que pertence;
-
-b) Aceitar participar nos acréscimos de formação ou acções de reconversão para que forem convocados em função das necessidades decorrentes da reforma em curso.
+> Revogado pelo/a [Decreto Legislativo Regional n.º 17/2003/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2003-669864), publicado em 2003-07-22.
 
 ###### Artigo 13.º — Efeitos do incumprimento das obrigações
 
-O não cumprimento das obrigações referidas no artigo anterior implica:
+(Revogado.)
 
-a) No caso de incumprimento da alínea a), a afectação a qualquer das escolas de uma das zonas definidas no [Decreto Legislativo Regional n.º 4/88/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-1988-374778), de 18 de Maio, no exclusivo interesse da Administração, sem prejuízo de procedimento disciplinar a que haja lugar;
-
-b) No caso de incumprimento da alínea b), a exoneração do quadro de zona pedagógica e a aplicação do disposto na parte final do n.º 2 do artigo 15.º do [Decreto-Lei n.º 287/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/287-1988-380135), de 19 de Agosto.
+> Revogado pelo/a [Decreto Legislativo Regional n.º 17/2003/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2003-669864), publicado em 2003-07-22.
 
 ###### Artigo 14.º — Vinculação e remuneração
 
-1 - Os docentes que tenham obtido provimento num lugar do quadro de zona pedagógica ficam vinculados a esse quadro em 1 de Setembro do ano em que nele ingressem, nos termos do disposto no artigo 30.º e na alínea b) do artigo 31.º do ECD e sem prejuízo do disposto no artigo 12.º do presente diploma, revestindo tal vinculação as seguintes formas:
+(Revogado.)
 
-a) Nomeação definitiva, se forem profissionalizados e titulares das habilitações profissionais definidas para os grupos de docência que vão integrar;
-
-b) Nomeação provisória, se tiverem habilitação própria, convertendo-se em definitiva no início do ano escolar subsequente à conclusão da profissionalização em exercício.
-
-2 - Os docentes a que se refere a alínea b), até à conclusão da profissionalização em exercício, são remunerados pelos índices correspondentes à pré-carreira.
-
-3 - Os docentes referidos na alínea b) do n.º 1 serão chamados a realizar a profissionalização em serviço nos termos definidos no [Decreto-Lei n.º 287/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/287-1988-380135), de 19 de Agosto, com as alterações introduzidas pelo [Decreto-Lei n.º 345/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/345-1989-548825), de 11 de Outubro.
-
-> Alterado pelo/a [Decreto Legislativo Regional n.º 12/99/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-1999-544776), publicado em 1999-04-15.
+> Revogado pelo/a [Decreto Legislativo Regional n.º 17/2003/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2003-669864), publicado em 2003-07-22.
 
 ###### Artigo 15.º — Afectação
 
-1 - Os professores dos quadros de zona pedagógica serão afectados a escolas, por um ano escolar, nas vagas da 2.ª parte do concurso regulado pelo [Decreto Legislativo Regional n.º 4/88/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-1988-374778), de 18 de Maio, sendo posicionados imediatamente após a 4.ª prioridade.
+(Revogado.)
 
-2 - Para efeitos do número anterior, os professores nele referidos mencionarão as suas preferências na zona pedagógica através do preenchimento de um boletim, a editar pela imprensa regional, onde indicarão o código das escolas da referida zona pedagógica.
-
-3 - Não sendo possível proceder à afectação nas vagas referidas no n.º 1, será posteriormente afectado nas vagas que forem surgindo, com observância das preferências por ele indicadas.
+> Revogado pelo/a [Decreto Legislativo Regional n.º 17/2003/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2003-669864), publicado em 2003-07-22.
 
 ###### Artigo 16.º — Apresentação ao serviço
 
-1 - Os professores dos quadros de zona pedagógica devem apresentar-se, no início de cada ano escolar, na escola onde obtiveram colocação nesse ano ou na escola onde trabalharam no ano anterior, assegurando nesta o serviço docente que lhes for atribuído enquanto aguardam a sua afectação para o ano que se inicia.
+(Revogado.)
 
-2 - A não apresentação dos professores ao serviço docente que lhes for distribuído tem os efeitos previstos no n.º 1 do artigo 25.º do [Decreto Legislativo Regional n.º 4/88/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-1988-374778), de 18 de Maio.
+> Revogado pelo/a [Decreto Legislativo Regional n.º 17/2003/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2003-669864), publicado em 2003-07-22.
 
 ###### Artigo 17.º — Candidatos que concorrem simultaneamente às zonas pedagógicas da Região Autónoma da Madeira e às do continente e ou às dos Açores
 
-1 - Os candidatos que concorreram aos quadros da zona pedagógica do concurso regulado pelo [Decreto-Lei n.º 384/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/384-1993-676429), de 18 de Novembro, a nível do continente, ou pelo diploma que vier a regulamentar o referido concurso na Região Autónoma dos Açores poderão igualmente ser opositores ao concurso regulado por este diploma, devendo indicar no impresso de candidatura a qual deles atribuem prioridade.
+(Revogado.)
 
-2 - Os candidatos referidos no número anterior serão ordenados de acordo com os critérios definidos neste diploma após a ordenação dos candidatos que foram unicamente opositores ao concurso da Região Autónoma da Madeira ou que optaram por este último.
-
-3 - Para efeitos da ordenação prevista no número anterior, os candidatos opositores ao concurso da Região Autónoma da Madeira consideram-se integrados nas situações 1 e 2 de acordo com as alíneas seguintes:
-
-a) Na situação 1, os candidatos que concorram exclusivamente ou que optaram pelo concurso da Região Autónoma da Madeira;
-
-b) Na situação 2, os candidatos que, tendo concorrido ao concurso da Região Autónoma da Madeira, optaram pelos concursos do continente ou da Região Autónoma dos Açores.
-
-4 - Os candidatos que, concorrendo na situação prevista no n.º 1 deste artigo, optem pelo concurso da Região Autónoma da Madeira e venham a desistir fora de prazo ou a não aceitar a colocação que lhes foi atribuída são exonerados do lugar de quadro de zona pedagógica, apenas podendo concorrer nos concursos ao quadro de zona pedagógica nos três anos lectivos seguintes na situação prevista na alínea b) do número anterior.
+> Revogado pelo/a [Decreto Legislativo Regional n.º 17/2003/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2003-669864), publicado em 2003-07-22.
 
 ### CAPÍTULO II — Disposições transitórias
 
 ###### Artigo 18.º — Dotação dos quadros para 1993-1994
 
-Na portaria referida no artigo 3.º deste diploma, o número de lugares atribuídos para 1993-1994 a cada um dos quadros de zona pedagógica não será inferior ao número de professores em condições de serem providos nesses quadros, colocados ao abrigo de qualquer dos concursos referidos no [Decreto Legislativo Regional n.º 4/88/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-1988-374778), de 18 de Maio.
+(Revogado.)
+
+> Revogado pelo/a [Decreto Legislativo Regional n.º 17/2003/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2003-669864), publicado em 2003-07-22.
 
 ###### Artigo 19.º — Lugares do quadro de zona pedagógica para o ano lectivo de 1994-1995
 
-Excepcionalmente, o prazo referido no n.º 1 do artigo 3.º será alargado, para o ano lectivo de 1994-1995, até 28 de Fevereiro de 1994.
+(Revogado.)
+
+> Revogado pelo/a [Decreto Legislativo Regional n.º 17/2003/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2003-669864), publicado em 2003-07-22.
 
 ###### Artigo 20.º — Normas para o provimento em 1993-1994
 
-1 - No ano lectivo de 1993-1994, consideram-se providos nos quadros de zona pedagógica todos os docentes contratados dos 2.º e 3.º ciclos do ensino básico e do ensino secundário que declarem aceitar as condições previstas no artigo 12.º e, cumulativamente:
+(Revogado.)
 
-a) Tenham concorrido a qualquer dos concursos previstos no [Decreto Legislativo Regional n.º 4/88/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-1988-374778), de 18 de Maio, para o ano lectivo de 1993-1994;
-
-b) Tenham completado até 31 de Agosto de 1993 três anos completos de serviço docente;
-
-c) Tenham prestado, consecutivamente, serviço docente nos últimos três anos lectivos como titulares de habilitação profissional ou própria;
-
-d) Venham a obter colocação até 31 de Outubro de 1993.
-
-2 - Os docentes referidos no número anterior, colocados na 2.ª parte do concurso, consideram-se, para todos os efeitos, como providos no quadro de zona pedagógica a que pertence a escola onde obtiveram lugar para o ano lectivo de 1993-1994 ou em que forem colocados ao abrigo da [Portaria n.º 114/93](https://diariodarepublica.pt/dr/detalhe/portaria/114-1993-600108), de 25 de Junho.
-
-3 - Os docentes que, satisfazendo os requisitos previstos no n.º 1, não obtenham lugar até 31 de Outubro do corrente ano, integrarão transitoriamente o quadro de zona pedagógica a que pertence a escola onde obtiveram lugar para o ano lectivo de 1992-1993, devendo, para o efeito, aceitar o serviço docente que lhe for distribuído no prazo de oito dias após a publicação do presente diploma.
-
-4 - Os docentes referidos no número anterior têm, no concurso seguinte, de concorrer aos lugares dos quadros das duas zonas pedagógicas.
-
-5 - Os docentes que reúnam as condições previstas no n.º 1 devem requerer o respectivo ingresso à Direcção Regional de Administração e Pessoal da Secretaria Regional de Educação no prazo de 10 dias após a entrada em vigor deste diploma.
+> Revogado pelo/a [Decreto Legislativo Regional n.º 17/2003/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2003-669864), publicado em 2003-07-22.
 
 ###### Artigo 21.º — Entrada em vigor
 
-O presente diploma produz efeitos a partir de 1 de Setembro de 1993.
+(Revogado.)
+
+> Revogado pelo/a [Decreto Legislativo Regional n.º 17/2003/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2003-669864), publicado em 2003-07-22.
 
 Aprovado em sessão plenária em 3 de Fevereiro de 1994.
 
@@ -265,4 +173,6 @@ O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Tei
 
 ## ANEXO — Mapa a que se refere o n.º 1 do artigo 1.º do Decreto Legislativo Regional n.º 2/94/M, de 23 de Fevereiro
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/02/045a01/00020005.pdf)
+[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/1998/04/095a00/18111813.pdf)](https://files.diariodarepublica.pt/1s/1998/04/095a00/18111813.pdf)
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 4/98/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-1998-176034), publicado em 1998-04-23.

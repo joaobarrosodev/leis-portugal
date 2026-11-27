@@ -2,22 +2,38 @@
   "id": "pt:dre:470841:por",
   "substituicoes": [
     {
+      "de": 51,
+      "ate": 53,
+      "texto": "Art. 5.º - (Revogado.)",
+      "alterador": 2
+    },
+    {
       "de": 54,
       "ate": 54,
       "texto": "Art. 6.º - 1. (Revogado.)",
-      "alterador": 3
+      "alterador": 4
+    },
+    {
+      "de": 55,
+      "ate": 55,
+      "texto": "2. (Revogado.)",
+      "alterador": 2
     }
   ],
   "insercoes": [],
-  "nao_aplicavel": null,
+  "nao_aplicavel": "Alterador 3, art. 1.º, nova redação da alínea a) do n.º 1 do artigo 8.º do Código das Custas Judiciais: outro diploma: é uma norma do Código das Custas Judiciais, a que o original (art. 4.º) só deu a redação; o texto do art. 4.º do original fica como está.",
   "instrucoes": [
-    "Alterador 1 (DL 242/85): altera o Código de Processo Civil, o Código das Custas Judiciais e o DL 49213; nenhuma instrução dirigida ao DL 696/73; nada feito.",
-    "Alterador 2 (DL 92/88): altera o Código das Custas Judiciais e o CPC; nenhuma instrução dirigida ao original; nada feito.",
-    "Alterador 3 (DL 212/89), art. 8.º, alínea c): revoga o n.º 1 do artigo 6.º do DL 696/73; unidade 54 substituída por 'Art. 6.º - 1. (Revogado.)'. As restantes revogações e alterações são de outros diplomas; ignoradas."
+    "Alterador 2 (DL 387-D/87), art. 5.º, n.º 1, alínea c): revoga o artigo 5.º e o n.º 2 do artigo 6.º do DL 696/73; o art. 5.º (unidades 51-53) passa a «Art. 5.º - (Revogado.)», com o prefixo do texto atual, e o n.º 2 do art. 6.º (unidade 55) a «2. (Revogado.)». Entrada em vigor com o CPP de 1987, já passada.",
+    "Alterador 4 (DL 212/89), art. 8.º, alínea c): revoga o n.º 1 do artigo 6.º do DL 696/73; a unidade 54 passa a «Art. 6.º - 1. (Revogado.)», mantendo o título «Art. 6.º - » e a numeração «1.» do texto atual, como manda a regra das unidades revogadas. O reparo da verificação letra a letra não se confirma: a forma vem da regra (título do texto atual + numeração + «(Revogado.)»), não de um texto inventado.",
+    "Alterador 1 (DL 242/85): altera o Código de Processo Civil e o Código das Custas Judiciais; nenhuma instrução dirigida ao original.",
+    "Alterador 3 (DL 92/88): altera a alínea a) do n.º 1 do art. 8.º do CCJ, a que o original deu redação; outro diploma, vai para nao_aplicavel."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",
   "problemas": [
     "substituição 54-54: parágrafo que não está no alterador nem no original: Art. 6.º - 1. (Revogado.)"
+  ],
+  "numeracao_aceite": [
+    "substituição 51-53: parágrafo que não está no alterador nem no original: Art. 5.º - (Revogado.)"
   ]
 }

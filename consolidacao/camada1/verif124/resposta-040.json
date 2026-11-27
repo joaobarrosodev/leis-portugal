@@ -1,0 +1,63 @@
+[
+ {
+  "id": "pt:dre:483459:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "Lei 53-A/2006, art. 102.º, adita o n.º 6 ao artigo 6.º do RERT aprovado pelo art. 5.º (n.os 1 a 5 mantidos); o consolidado insere o n.º 6 letra a letra a seguir ao n.º 5, resto igual ao original.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 211/2005, arts. 1.º a 11.º: alterações aos Códigos do IRS, IRC, Selo, IMI, IMT, DL 287/2003, DL 42/91, DR 2/90, RITI e aditamento do art. 90.º-A do CIRC",
+    "motivo": "outro diploma (confirmado: cada artigo visa esses códigos/diplomas, nenhum a Lei 39-A/2005)"
+   },
+   {
+    "instrucao": "DL 238/2006, arts. 1.º a 4.º: alterações aos Códigos do IRS, IRC, IVA e RITI",
+    "motivo": "outro diploma (confirmado)"
+   },
+   {
+    "instrucao": "DL 277/2007, art. 1.º: alteração aos arts. 26.º e 28.º do Código do Imposto do Selo",
+    "motivo": "outro diploma (confirmado)"
+   },
+   {
+    "instrucao": "DL 361/2007, art. 1.º: alteração aos arts. 10.º, 57.º e 119.º do Código do IRS",
+    "motivo": "outro diploma (confirmado)"
+   },
+   {
+    "instrucao": "DL 249/2009: aprovação do Código Fiscal do Investimento, alterações aos Códigos do IVA e IRS e ao EBF, revogações do DL 401/99 e DL 409/99",
+    "motivo": "outro diploma (confirmado)"
+   },
+   {
+    "instrucao": "Lei 15/2010: alterações e revogações no Código do IRS, alteração e aditamento ao EBF",
+    "motivo": "outro diploma (confirmado)"
+   },
+   {
+    "instrucao": "Lei 9/2012, arts. 1.º a 3.º e 6.º: alterações, aditamento, denominação do capítulo V e republicação da Lei n.º 1/2005 («alterada pela Lei n.º 39-A/2005»)",
+    "motivo": "outro diploma (confirmado: o alvo é a Lei 1/2005, não a Lei 39-A/2005)"
+   },
+   {
+    "instrucao": "Lei 55-A/2012: alterações aos Códigos do IRS, IRC, Selo, Tabela Geral do IS e LGT",
+    "motivo": "outro diploma (confirmado)"
+   },
+   {
+    "instrucao": "DL 6/2013: alterações ao RCPIT, DL 433/99, CPPT, RGIT, DL 118/2011 e LGT",
+    "motivo": "outro diploma (confirmado)"
+   },
+   {
+    "instrucao": "DL 7/2015: alterações ao EBF, Código do Imposto do Selo, Tabela Geral e regime dos FIIAH (art. 102.º da Lei 64-A/2008)",
+    "motivo": "outro diploma (confirmado)"
+   },
+   {
+    "instrucao": "DL 41/2016: alterações aos Códigos do Selo, IUC, IVA, IRS, IRC, IMI, DL 185/86 e RITI",
+    "motivo": "outro diploma (confirmado)"
+   }
+  ]
+ }
+]

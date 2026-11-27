@@ -1,0 +1,34 @@
+[
+ {
+  "id": "pt:dre:385797:por",
+  "artigos": [
+   {
+    "chave": "único",
+    "epigrafe": "",
+    "texto": "Pela prestação de todos os serviços aduaneiros conducentes ao desalfandegamento das mercadorias importadas e verificadas cobrar-se-á, por cada bilhete de despacho, a taxa de serviço englobada de 0,2% sobre o valor CIF das mercadorias importadas.\n\nDa totalidade da receita proveniente desta taxa 50% constituirá receita do Estado, 25% constituirá receita a repartir equitativamente pelos cofres de emolumentos referidos no artigo 319.º da Reforma Aduaneira e o remanescente reverterá a favor do cofre de subsídios de deslocação.\n\nTerminal Internacional Rodoviário de Alverca\n\nREGULAMENTO INTERNO",
+    "alterador": 1
+   }
+  ],
+  "removidos": [],
+  "titulos": [
+   {
+    "atual": "#### SECÇÃO II — (Da emissão e legalização dos títulos de propriedade)",
+    "novo": "#### SECÇÃO II — Da emissão do título de depósito",
+    "alterador": 2
+   },
+   {
+    "atual": "#### SECÇÃO II — (Da emissão e legalização dos títulos de propriedade)",
+    "novo": "#### SECÇÃO II — Da emissão do título de depósito",
+    "alterador": 2
+   }
+  ],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 2, art. 13.º, nova redação do n.º 3) do artigo 2.º dos Regulamentos Internos dos TIR de Alverca e do Freixieiro: alvo incerto — os artigos dos regulamentos não estão no texto atual (só os títulos de divisão)\nAlterador 2, art. 14.º, nova redação do art. 9.º da secção II dos Regulamentos Internos: alvo incerto — o artigo não está no texto atual (aplicado só o título da secção)\nAlterador 2, arts. 11.º, 12.º, 15.º e 16.º (Regulamento das Alfândegas, Reforma Aduaneira, DL 281/86): outro diploma\nAlterador 2, art. 17.º, revogação das disposições contrárias: revogação condicional",
+  "instrucoes": [
+   "Alt. 1: nova redação do artigo único da tabela III — substituídos os dois parágrafos; mantidas as linhas seguintes do texto atual (título do regulamento)",
+   "Alt. 2, art. 14.º: nova designação da secção II nos dois regulamentos — aplicada aos dois títulos",
+   "Alt. 2, art. 13.º e art. 9.º dos regulamentos: artigos ausentes do texto atual — nao_aplicavel",
+   "Alt. 2, restantes: outros diplomas / revogação condicional"
+  ]
+ }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "id": "pt:dre:420987:por",
+    "artigos": [
+      {"artigo": "Trecho 1", "veredicto": "certo", "motivo": "Retificação do art. 6.º aplicada: «É eliminado o artigo 501.º da Reforma Aduaneira».", "texto_esperado": ""}
+    ],
+    "instrucoes_em_falta": [],
+    "artigos_a_mais": [],
+    "artigos_em_falta": [],
+    "fora_dos_artigos": "sem alterações",
+    "instrucoes_justificadas": [
+      {"instrucao": "DL 116/79, art. 1.º: nova redação do n.º 1.º do art. 217.º, do corpo e do n.º 1.º do art. 328.º, do § 1.º do art. 330.º, do corpo do art. 344.º e do art. 345.º da Reforma Aduaneira", "motivo": "Outro diploma: dirige-se à Reforma Aduaneira, aprovada pelo DL 46311."},
+      {"instrucao": "DL 116/79, art. 2.º: substituição dos mapas III e IV «que, por força do artigo 4.º do Decreto-Lei n.º 315/73, integram a citada Reforma Aduaneira»", "motivo": "Outro diploma: os mapas são substituídos enquanto parte da Reforma Aduaneira, a que o art. 4.º do original os integrou. Além disso, os mapas novos vêm só em imagem («(ver documento original)»)."}
+    ]
+  },
+  {
+    "id": "pt:dre:632249:por",
+    "artigos": [
+      {"artigo": "Trecho 1", "veredicto": "certo", "motivo": "O art. 2.º do DL 85/76 revoga o art. 2.º do DL 562/71 (o artigo do próprio diploma, não o do Código): «Art. 2.º (Revogado.)».", "texto_esperado": ""}
+    ],
+    "instrucoes_em_falta": [],
+    "artigos_a_mais": [],
+    "artigos_em_falta": [],
+    "fora_dos_artigos": "sem alterações",
+    "instrucoes_justificadas": [
+      {"instrucao": "DL 85/76, art. 1.º: nova redação dos arts. 37.º, 39.º, 43.º, 46.º, 50.º, 56.º, 57.º, 84.º, 105.º, 112.º, 118.º, 122.º, 123.º, 128.º, 133.º, 134.º, 135.º, 138.º, 150.º e 153.º do Código das Custas Judiciais do Trabalho", "motivo": "Outro diploma: dirige-se ao Código das Custas Judiciais do Trabalho (DL 45698), ainda que alterado pelo DL 562/71. Não se aplica ao texto do art. 1.º do original."},
+      {"instrucao": "DL 85/76, art. 3.º: substituição da expressão «Fundo de Garantia de Despesas de Emergência» por «Cofre dos Tribunais do Trabalho» no Código das Custas Judiciais do Trabalho", "motivo": "Outro diploma: a substituição é expressamente para a expressão «usada no Código das Custas Judiciais do Trabalho»."}
+    ]
+  },
+  {
+    "id": "pt:dre:674435:por",
+    "artigos": [
+      {"artigo": "Trecho 1", "veredicto": "certo", "motivo": "O art. 15.º do DL 122/98 (e o art. 18.º, n.º 2, aditado pelo DL 34/2000) revoga o art. 4.º do DL 312/91: «Art. 4.º - (Revogado.)».", "texto_esperado": ""},
+      {"artigo": "Trecho 2", "veredicto": "certo", "motivo": "O art. 15.º do DL 122/98 (e o art. 18.º, n.º 2, aditado pelo DL 34/2000) revoga o art. 8.º do DL 312/91: «Art. 8.º - (Revogado.)».", "texto_esperado": ""}
+    ],
+    "instrucoes_em_falta": [],
+    "artigos_a_mais": [],
+    "artigos_em_falta": [],
+    "fora_dos_artigos": "sem alterações",
+    "instrucoes_justificadas": [
+      {"instrucao": "DL 258/98, artigo único, n.º 1: revoga a isenção fiscal da TAP «mantida ... pelos artigos 2.º e 3.º do Decreto-Lei n.º 312/91»", "motivo": "Não textual: revoga um benefício fiscal, não o texto dos arts. 2.º e 3.º, e não traz nova redação."},
+      {"instrucao": "DL 34/2000, arts. 1.º e 2.º: nova redação dos arts. 1.º, 3.º, 9.º, 10.º, 14.º, 15.º e 16.º e aditamento dos arts. 17.º e 18.º do DL 122/98", "motivo": "Outro diploma: dirigem-se ao DL 122/98. A única parte que toca o original (o art. 18.º, n.º 2, que revoga os arts. 4.º e 8.º) já está refletida."}
+    ]
+  }
+]

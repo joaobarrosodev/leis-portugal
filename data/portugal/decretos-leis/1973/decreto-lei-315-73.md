@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1973-06-19'
+version_history:
+  file: decreto-lei-315-73.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1973-06-19'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1973-06-19'
+    amending: pt:dre:421236:por
+    amending_title: Rectificação
+    changes:
+    - Altera Artigo unidades 55-55
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:27:26Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Rectificação. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1973/decreto-lei-315-73.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -205,7 +220,9 @@ Art. 4.º Os mapas III, IV, VI e VIII anexos à Reforma Aduaneira são substitu�
 
 Art. 5.º São considerados investidos na categoria de preparador os actuais manipuladores dos quadros do pessoal do laboratório.
 
-Art. 6.º É eliminado o artigo 500.º da Reforma Aduaneira.
+Art. 6.º É eliminado o artigo 501.º da Reforma Aduaneira.
+
+> Alterado pelo/a [Rectificação](https://diariodarepublica.pt/dr/detalhe/rectificacao/1973-421236), publicado em 1973-07-03.
 
 Art. 7.º Na satisfação dos encargos com pessoal resultantes da execução deste diploma poderão ser utilizadas as disponibilidades das verbas orçamentais consignadas ao pagamento do pessoal dos quadros aprovados da Direcção-Geral das Alfândegas.
 

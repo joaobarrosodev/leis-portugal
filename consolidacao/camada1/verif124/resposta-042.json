@@ -1,0 +1,29 @@
+[
+ {
+  "id": "pt:dre:514837:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação do DL 46596 (artigo único), corpo e § único, letra a letra.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [
+   "DL 48698, artigo único: nova redação do § 2.º do artigo 1.º (representação dos interesses da defesa nacional: um dos secretários-adjuntos do Secretariado-Geral da Defesa Nacional e um oficial general do Exército, um da Armada e outro da Força Aérea designados pelos chefes de estado-maior). O alvo é conhecido (artigo 1.º, § 2.º; o próprio preâmbulo do DL 48698 cita o texto vigente desse §); o artigo 1.º parece estar partido nos blocos «Secção III/IV/V», todos iguais ao original, e não tem a nova redação. «Alvo incerto» não justifica."
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 49384, arts. 1.º a 4.º (composição das secções VIII e IX, procuradores do ultramar, representação das ordens)",
+    "motivo": "Normas próprias, sem nova redação de artigo do DL 43178 (não textual; o diploma não traz texto de alteração)."
+   },
+   {
+    "instrucao": "DL 49384, art. 5.º, n.º 2 (revogação do DL 45830)",
+    "motivo": "Outro diploma."
+   }
+  ]
+ }
+]

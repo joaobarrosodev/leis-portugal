@@ -384,7 +384,7 @@ A comissão de fiscalização reunirá ordinariamente uma vez por mês e extraor
 
 > Alterado pelo/a [Decreto-Lei n.º 427/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1982-376043), publicado em 1982-10-21.
 
-#### SECÇÃO V — Órgãos de articulação com o poder local
+#### SECÇÃO V — Comissão de fiscalização
 
 ###### Artigo 21.º
 

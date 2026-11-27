@@ -66,5 +66,6 @@
   "pt:dre:509406:por": "ronda 113: o Código é revogado por inteiro, com as alterações, pelo DL 224/84, art. 9.º",
   "pt:dre:343382:por": "ronda 114: revogado por inteiro pelo DLR 29/2012/M, art. 6.º",
   "pt:dre:604839:por": "ronda 114: revogado por inteiro pelo DRR 30/2012/M, art. 2.º, n.º 1",
-  "pt:dre:512780:por": "ronda 114: as disposições do DL 43385 são revogadas pelo DL 44600, art. 1.º"
+  "pt:dre:512780:por": "ronda 114: as disposições do DL 43385 são revogadas pelo DL 44600, art. 1.º",
+  "pt:dre:139401:por": "revogado por inteiro (o DL 241/75 revoga o DL 389/70, só ressalvando os alunos que então frequentavam os cursos; a resposta devolveu todos os artigos como revogados): fica fora da aplicação, por regra (README, ronda 80); a revogação está em reports/vigencia-manual.jsonl"
 }

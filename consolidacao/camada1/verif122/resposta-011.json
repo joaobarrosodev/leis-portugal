@@ -1,0 +1,125 @@
+[
+  {
+    "id": "pt:dre:575301:por",
+    "artigos": [
+      {"artigo": "Artigo 95.º", "veredicto": "certo", "motivo": "Declaração de retificação: fórmula do n.º 2 e «Efectuado o primeiro» na alínea b) do n.º 3 aplicadas letra a letra; resto igual ao original.", "texto_esperado": ""}
+    ],
+    "instrucoes_em_falta": [],
+    "artigos_a_mais": [],
+    "artigos_em_falta": [],
+    "fora_dos_artigos": "sem alterações",
+    "instrucoes_justificadas": [
+      {"instrucao": "Lei n.º 75/93: aditamento de um item à lista do n.º 2 do artigo 3.º do CIRS, «com a redacção constante do Decreto-Lei n.º 206/90»", "motivo": "Outro diploma: pelo trecho citado na vista, a instrução é dirigida ao Código do IRS, não ao Decreto-Lei n.º 206/90 (que só lhe deu a redação)."}
+    ]
+  },
+  {
+    "id": "pt:dre:579159:por",
+    "artigos": [
+      {"artigo": "Artigo 2.º", "veredicto": "certo", "motivo": "Novos montantes do art. 2.º do DR 25/82 (substitui os valores do art. 2.º do DR 26/81, art. 1.º do alterador) copiados letra a letra.", "texto_esperado": ""},
+      {"artigo": "Artigo 3.º", "veredicto": "certo", "motivo": "Novos montantes do art. 3.º do DR 25/82 copiados letra a letra.", "texto_esperado": ""},
+      {"artigo": "Artigo 4.º", "veredicto": "certo", "motivo": "Novos montantes do art. 4.º do DR 25/82 copiados letra a letra.", "texto_esperado": ""}
+    ],
+    "instrucoes_em_falta": [],
+    "artigos_a_mais": [],
+    "artigos_em_falta": [],
+    "fora_dos_artigos": "sem alterações",
+    "instrucoes_justificadas": []
+  },
+  {
+    "id": "pt:dre:580792:por",
+    "artigos": [
+      {"artigo": "Artigo 8.º-A", "veredicto": "certo", "motivo": "Aditado pelo art. 1.º do DL 236/2007; texto e epígrafe conferem letra a letra.", "texto_esperado": ""},
+      {"artigo": "ANEXO I", "veredicto": "certo", "motivo": "Nova redação do anexo I pelo art. 2.º e anexo I do DL 150/2013 (28 territórios), com o título original no lugar do «[...]».", "texto_esperado": ""}
+    ],
+    "instrucoes_em_falta": [],
+    "artigos_a_mais": [],
+    "artigos_em_falta": [],
+    "fora_dos_artigos": "sem alterações",
+    "instrucoes_justificadas": [
+      {"instrucao": "DL 150/2013, art. 3.º e anexo II: nova redação do anexo III ao Decreto-Lei n.º 163/2005", "motivo": "Outro diploma: o art. 3.º dirige-se expressamente ao anexo III do Decreto-Lei n.º 163/2005."}
+    ]
+  },
+  {
+    "id": "pt:dre:644481:por",
+    "artigos": [
+      {"artigo": "Artigo 3.º", "veredicto": "errado", "motivo": "O art. 6.º do DL 603/71 altera a redação das posições ex 29.39, 82.05, 85.15 e 85.19 da LISTA B. O consolidado pôs as quatro posições novas soltas, logo a seguir ao texto do art. 3.º (antes de «Visto e aprovado»), e deixou a LISTA B com a redação antiga.", "texto_esperado": "Texto do art. 3.º igual ao original (sem as quatro posições soltas a seguir). Na LISTA B: «ex 29.39 Hormonas, naturais ou reproduzidas por síntese; seus derivados utilizados principalmente como hormonas.» em lugar de «29.39 ... Hormonas, naturais ou sintéticas, bem como os seus derivados utilizados principalmente como hormonas.»; «82.05 Ferramentas intermutáveis para máquinas-ferramentas e para aparelhos de uso manual, mesmo mecânicos (de cunhar, estampar, roscar, alisar, fresar, mandrilar, cortar e entalhar, tornear e para outros usos), compreendendo as fieiras de extrusão e estiragem de metais e as ferramentas destinadas a perfurar terrenos:» seguida de «ex 02 ... Barrenas.»; «85.15 Aparelhos transmissores e receptores de radiotelefonia e radiotelegrafia; aparelhos emissores e receptores de radiodifusão e televisão (compreendendo os receptores combinados com um aparelho de registo ou de reprodução de som) e aparelhos de tomada de vistas para televisão; aparelhos de radiodirecção, radiodetecção, radiossondagem e radiotelecomando:» seguida de «01 ... Aparelhos receptores para radiodifusão.»; «85.19 Aparelhagem para interrupção, seccionamento, protecção, derivação e ligação dos circuitos eléctricos (tais como interruptores, comutadores, relais, corta-circuitos, pára-raios, eliminadores de onda, tomadas de corrente, suportes de lâmpadas e caixas de junção); resistências, com excepção das que se destinem a aquecimento, potenciómetros e reóstatos; circuitos impressos; quadros de manobra e de distribuição:» seguida de «10 ... Relais para centrais telefónicas automáticas.». O resto (LISTA A, demais posições da LISTA B, LISTA C) fica igual."}
+    ],
+    "instrucoes_em_falta": [
+      "DL 603/71, art. 6.º: nova redação das posições ex 29.39, 82.05, 85.15 e 85.19 da LISTA B. A LISTA B ficou com a redação antiga, e o texto novo foi posto no sítio errado, a seguir ao art. 3.º."
+    ],
+    "artigos_a_mais": [],
+    "artigos_em_falta": [],
+    "fora_dos_artigos": "sem alterações",
+    "instrucoes_justificadas": [
+      {"instrucao": "DL 603/71, arts. 1.º a 5.º, 7.º e 8.º (listas dos DL 47958, 86/70, 47957, 363/70, 46463, taxas de base e calendário da AECL)", "motivo": "Outro diploma ou não textual: dirigem-se a listas de outros diplomas ou não alteram texto do DL 193/71."}
+    ]
+  },
+  {
+    "id": "pt:dre:654532:por",
+    "artigos": [
+      {"artigo": "Artigo 5.º", "veredicto": "certo", "motivo": "Retificação aplicada nas alíneas a) e b) do n.º 3 («âmbito, o da indicada»).", "texto_esperado": ""}
+    ],
+    "instrucoes_em_falta": [
+      "Declaração de Rectificação n.º 250/94: no artigo 7.º, n.º 2, alínea b), onde se lê «dos Utilizadores,» deve ler-se «aos Utilizadores,». O artigo 7.º está na lista dos iguais ao original. «Alvo incerto/artigo vazio» não é justificação: o alvo é conhecido (art. 7.º, n.º 2, alínea b))."
+    ],
+    "artigos_a_mais": [],
+    "artigos_em_falta": [],
+    "fora_dos_artigos": "sem alterações",
+    "instrucoes_justificadas": []
+  },
+  {
+    "id": "pt:dre:659920:por",
+    "artigos": [
+      {"artigo": "ANEXO I", "veredicto": "certo", "motivo": "O anexo passa a designar-se anexo I (art. 3.º, n.º 2, do DL 210/2005); título mantido.", "texto_esperado": ""},
+      {"artigo": "ANEXO", "veredicto": "certo", "motivo": "Removido por renomeação para ANEXO I (art. 3.º, n.º 2, do DL 210/2005).", "texto_esperado": ""}
+    ],
+    "instrucoes_em_falta": [
+      "DL 107/2004, art. 2.º: substituição do texto da secção 5.1 do capítulo III do anexo (agora anexo I) pelo texto do anexo do DL 107/2004 («5.1 - Navios ro-ro de passageiros (R 26)» ... até 5.1.9.2). O CAPÍTULO III está na lista dos iguais; «alvo incerto» não é justificação.",
+      "DL 210/2005, art. 3.º, n.º 1: aditamento das secções 8.A e 8.B à parte B do capítulo II-1 do anexo, a seguir à secção 8. O texto completo vem no alterador; a PARTE B está na lista dos iguais.",
+      "DL 210/2005, art. 3.º, n.º 2: aditamento do anexo II («Orientações relativas às prescrições de segurança aplicáveis aos navios de passageiros e embarcações de passageiros de alta velocidade em benefício das pessoas com mobilidade reduzida...», n.os 1 a 5), cujo texto e título vêm no alterador. O anexo não existe no consolidado."
+    ],
+    "artigos_a_mais": [],
+    "artigos_em_falta": ["ANEXO II (aditado pelo art. 3.º, n.º 2, do DL 210/2005)"],
+    "fora_dos_artigos": "sem alterações",
+    "instrucoes_justificadas": [
+      {"instrucao": "DL 210/2005, art. 2.º: nova redação dos artigos 3.º e 4.º do Decreto-Lei n.º 293/2001", "motivo": "Outro diploma: dirige-se expressamente ao Decreto-Lei n.º 293/2001."}
+    ]
+  },
+  {
+    "id": "pt:dre:691069:por",
+    "artigos": [
+      {"artigo": "Artigo único", "veredicto": "certo", "motivo": "Art. 5.º, n.º 1, do DL 698/76 fixa os novos efectivos da classe dos músicos fixados pelo DL 370/72. A lista foi substituída letra a letra e a linha do total antigo («... 92») saiu.", "texto_esperado": ""}
+    ],
+    "instrucoes_em_falta": [],
+    "artigos_a_mais": [],
+    "artigos_em_falta": [],
+    "fora_dos_artigos": "sem alterações",
+    "instrucoes_justificadas": []
+  },
+  {
+    "id": "pt:dre:70373436:por",
+    "artigos": [
+      {"artigo": "Artigo 2.º", "veredicto": "certo", "motivo": "A Declaração de Retificação n.º 46/2015 retifica o texto do próprio DL 207/2015 (alínea j) do n.º 3 do art. 18.º na redação que ele dá): «n.º 8 do artigo 9.º». Aplicada letra a letra; resto igual.", "texto_esperado": ""}
+    ],
+    "instrucoes_em_falta": [],
+    "artigos_a_mais": [],
+    "artigos_em_falta": [],
+    "fora_dos_artigos": "sem alterações",
+    "instrucoes_justificadas": []
+  },
+  {
+    "id": "pt:dre:346076:por",
+    "artigos": [
+      {"artigo": "Trecho 1", "veredicto": "errado", "motivo": "Nenhum alterador na vista revoga os artigos 1.º a 7.º. A Lei n.º 77/77 vem omitida, com a nota de que não menciona o DL 406-B/75. O consolidado pôs todos como (Revogado.) e deixou por aplicar as novas redações do art. 3.º (DL 541-B/75) e do art. 2.º (DL 262/76).", "texto_esperado": "Artigo 1.º igual ao original. «Art. 2.º - 1. O reconhecimento das novas unidades de produção compete ao Ministro da Agricultura e Pescas, sob proposta do Secretário de Estado da Estruturação Agrária, verificados os seguintes requisitos:\n\na) Requerimento a pedir o reconhecimento, dirigido ao Ministro da Agricultura e Pescas, acompanhado de documento que apresente a análise estrutural da exploração antes da intervenção e, bem assim, o plano da exploração do ponto de vista técnico e económico;\n\nb) Acta da reunião dos interessados, de que conste a identificação da unidade de produção, através da sua designação, sede social e situação dos prédios ou baldios objecto da exploração, bem como a identificação de todos os interessados, com indicação da profissão exercida até data da integração na unidade colectiva e constituição da comissão directiva eleita.\n\n2. As unidades de produção já reconhecidas deverão, no prazo de sessenta dias, apresentar os elementos referidos no número anterior, para efeitos da sua reorganização.»\n\n«Art. 3.º - 1. As unidades colectivas de produção poderão beneficiar de crédito para melhoramentos agrícolas e fundo de maneio, nas mesmas condições das cooperativas agrícolas, e ainda do crédito agrícola de emergência, nos termos do Decreto-Lei n.º 251/75, de 23 de Maio.\n\n2. O crédito agrícola de emergência referido no número anterior poderá também, no caso de unidades colectivas de produção, abranger o pagamento de salários.\n\n3. O Ministro da Agricultura e Pescas fica a dispor dos poderes necessários para acompanhar a gestão do crédito concedido e velar pela sua correcta aplicação, podendo exercer esses poderes por delegação.»\n\nArts. 4.º a 7.º iguais ao original (com o texto do art. 5.º sobre o DL 43355)."},
+      {"artigo": "Trecho 2", "veredicto": "certo", "motivo": "A Declaração retifica a data de promulgação: 29 de Julho de 1975.", "texto_esperado": ""}
+    ],
+    "instrucoes_em_falta": [
+      "DL 541-B/75, art. 1.º: nova redação do art. 3.º (n.os 1 a 3). Não aplicada: o consolidado tem «Art. 3.º - (Revogado.)».",
+      "DL 262/76, art. 1.º: nova redação do art. 2.º (n.os 1 e 2). Não aplicada: o consolidado tem «Art. 2.º (Revogado.)»."
+    ],
+    "artigos_a_mais": [],
+    "artigos_em_falta": [],
+    "fora_dos_artigos": "Os artigos 1.º a 7.º foram todos dados como revogados, sem instrução visível na vista (Trecho 1). A data de promulgação foi retificada (Trecho 2).",
+    "instrucoes_justificadas": []
+  }
+]

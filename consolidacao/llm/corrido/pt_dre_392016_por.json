@@ -43,16 +43,15 @@
       "alterador": 2
     }
   ],
-  "nao_aplicavel": null,
+  "nao_aplicavel": "Alterador 4, artigos 39.º a 46.º e 48.º e seguintes da Lei n.º 127-B/97: outro diploma: alteram outros códigos e diplomas; só o artigo 47.º se dirige ao original.\nAlterador 5, Decreto-Lei n.º 474-A/99 (Lei Orgânica do Governo, ANAM na lista de organismos dependentes do Ministro do Equipamento Social): outro diploma: o original só aparece numa lista e não recebe instrução.",
   "instrucoes": [
-    "Alterador 1 art. 1.º: nova redacção do artigo 2.º (n.os 1 e 3; n.º 2 '...' mantido): unidades 14 e 16.",
-    "Alterador 1 art. 2.º: nova redacção do artigo 4.º dos Estatutos: unidade 37.",
-    "Alterador 2 art. 1.º: nova redacção do n.º 3 do artigo 1.º (n.os 1 e 2 '...' mantidos): unidade 13.",
-    "Alterador 2 art. 2.º: aditado o artigo 8.º, inserido depois da unidade 24 (artigo 7.º).",
-    "Alterador 2 art. 3.º: reunião da assembleia geral para alterações estatutárias: norma avulsa, sem texto a aplicar.",
-    "Alterador 3: aditado n.º 4 ao artigo 2.º (n.os 1 a 3 '...'), inserido depois da unidade 16.",
-    "Alterador 4 art. 47.º: aditado o artigo 6.º-A, inserido depois da unidade 23 (fim do artigo 6.º).",
-    "Alterador 5: lei orgânica do Governo; só menciona a ANAM na lista de empresas tuteladas; nada a aplicar."
+    "Alterador 1 (DL 58/92), art. 1.º: nova redação do art. 2.º, n.os 1 e 3 (n.º 2 «...»); substituídas as unidades 14 e 16.",
+    "Alterador 1, art. 2.º: nova redação do art. 4.º dos Estatutos; substituída a unidade 37.",
+    "Alterador 2 (DL 273/93), art. 1.º: nova redação do art. 1.º, n.º 3 (n.os 1 e 2 «...»); substituída a unidade 13.",
+    "Alterador 2, art. 2.º: adita o art. 8.º ao decreto-lei; inserido depois do art. 7.º (unidade 24).",
+    "Alterador 3 (DL 142/94), artigo único: art. 2.º com n.os 1 a 3 «...» e novo n.º 4; inserido o n.º 4 depois da unidade 16.",
+    "Alterador 4 (Lei 127-B/97), art. 47.º: adita o art. 6.º-A; inserido depois do art. 6.º (unidade 23), com o texto do alterador.",
+    "Alterador 5: sem instrução ao original; em nao_aplicavel."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

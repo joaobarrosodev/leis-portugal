@@ -9,12 +9,17 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": null,
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 2, quadro de pessoal da Escola Superior de Belas-Artes do Porto (aprovado pelo DL 41362): outro diploma — só em imagem\nAlterador 3, quadro de pessoal da Escola Superior de Belas-Artes de Lisboa (aprovado pelo DL 41362): outro diploma — só em imagem",
   "instrucoes": [
-    "Alt.1 artigo único: nova redação do art. 5.º; aplicado.",
-    "Alt.2 e alt.3: fixam a composição dos quadros de pessoal das Escolas Superiores de Belas-Artes do Porto e de Lisboa (aprovados pelo Decreto-Lei n.º 41362); não alteram o texto do original; ignorados."
+    "Alt. 1: nova redação do art. 5.º — substituído",
+    "Alt. 2 e 3: quadros de pessoal aprovados pelo DL 41362 — outro diploma"
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 124,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

@@ -1,0 +1,37 @@
+[
+  {
+    "id": "pt:dre:533376:por",
+    "artigos": [
+      {"artigo": "Artigo 32.º", "veredicto": "certo", "motivo": "Art. 1.º do DL 42/97: nova epígrafe e n.os 1 a 5; alíneas a) a d) do n.º 1 («...») com o texto original.", "texto_esperado": ""},
+      {"artigo": "Artigo 33.º", "veredicto": "certo", "motivo": "Art. 1.º do DL 42/97: nova epígrafe e novo corpo do n.º 1; alíneas a) a c) e n.os 2 a 6 mantidos.", "texto_esperado": ""},
+      {"artigo": "Artigo 36.º", "veredicto": "certo", "motivo": "Art. 1.º do DL 42/97: nova alínea b) do n.º 1 e novo n.º 6; resto mantido.", "texto_esperado": ""},
+      {"artigo": "Artigo 37.º", "veredicto": "certo", "motivo": "Art. 1.º do DL 42/97: novo n.º 1; n.º 2 mantido.", "texto_esperado": ""},
+      {"artigo": "Artigo 38.º", "veredicto": "certo", "motivo": "Art. 1.º do DL 42/97: redação integral nova (epígrafe «Quadros de pessoal», n.os 1 a 5), letra a letra.", "texto_esperado": ""},
+      {"artigo": "Artigo 39.º", "veredicto": "certo", "motivo": "Art. 1.º do DL 42/97: nova epígrafe «Subdirectores-gerais e directores de serviços» e n.os 1 e 2, letra a letra.", "texto_esperado": ""},
+      {"artigo": "Artigo 40.º", "veredicto": "certo", "motivo": "Art. 1.º do DL 42/97: nova epígrafe «Directores distritais de finanças e directores de finanças» e novo corpo, letra a letra.", "texto_esperado": ""},
+      {"artigo": "Artigo 41.º", "veredicto": "certo", "motivo": "Art. 1.º do DL 42/97: novo corpo, letra a letra.", "texto_esperado": ""},
+      {"artigo": "Artigo 42.º", "veredicto": "certo", "motivo": "Art. 1.º do DL 42/97: n.º 1 mantido («...»), n.os 2 a 15 com a nova redação letra a letra (os antigos n.os 4 a 7 substituídos).", "texto_esperado": ""},
+      {"artigo": "Artigo 44.º", "veredicto": "certo", "motivo": "Art. 1.º do DL 42/97: n.º 1 corpo e alíneas a) e c) mantidos, nova alínea b), n.os 2 a 5 com a nova redação.", "texto_esperado": ""},
+      {"artigo": "Artigo 46.º", "veredicto": "certo", "motivo": "Art. 1.º do DL 42/97: novos n.os 1 e 2; n.º 3 mantido.", "texto_esperado": ""},
+      {"artigo": "Artigo 55.º", "veredicto": "certo", "motivo": "Art. 1.º do DL 42/97: o art. 55.º passa a ter só dois números (n.º 1 = DR 42/83, n.º 2 = DL 434/91); o antigo n.º 1 (alteração dos arts. 4.º, 9.º e 10.º do DL 187/90) sai.", "texto_esperado": ""},
+      {"artigo": "Artigo 52.º #2", "veredicto": "certo", "motivo": "Texto citado do art. 52.º do DR 42/83 vem todo com «...» na nova redação e fica o original; o número seguinte passa de «3 -» a «2 - O artigo 2.º do Decreto-Lei n.º 434/91...», como na nova redação do art. 55.º.", "texto_esperado": ""},
+      {"artigo": "Artigo 4.º #2", "veredicto": "certo", "motivo": "Texto citado do art. 4.º do DL 187/90, que pertencia ao antigo n.º 1 do art. 55.º; sai com a nova redação do art. 55.º dada pelo DL 42/97.", "texto_esperado": ""},
+      {"artigo": "Artigo 9.º #2", "veredicto": "certo", "motivo": "Texto citado do art. 9.º do DL 187/90 (antigo n.º 1 do art. 55.º); sai com a nova redação do art. 55.º.", "texto_esperado": ""},
+      {"artigo": "Artigo 10.º #2", "veredicto": "certo", "motivo": "Texto citado do art. 10.º do DL 187/90 (antigo n.º 1 do art. 55.º); sai com a nova redação; a frase «2 - O artigo 52.º do Decreto Regulamentar n.º 42/83...» que vinha no fim passou a n.º 1 do art. 55.º.", "texto_esperado": ""}
+    ],
+    "instrucoes_em_falta": [],
+    "instrucoes_justificadas": [
+      {"instrucao": "Portaria 663/94, n.º 2.º: aditamento de dois lugares de director distrital de finanças e quatro de chefe de divisão ao quadro anexo ao DL 408/93", "motivo": "Confirmado: a portaria não traz o texto do mapa alterado (só o número de lugares); o diploma que altera não traz o texto da alteração."},
+      {"instrucao": "Portaria 225/95, n.os 6.º e 8.º: abate de lugares ao mapa anexo ao DL 408/93 (mapas I e II da portaria)", "motivo": "Confirmado: os lugares abatidos só vêm em imagem (mapas I e II) e o consolidado não tem anexo com título onde os pôr."},
+      {"instrucao": "Portaria 515/95, n.º 6.º: abate de lugares ao mapa anexo ao DL 408/93", "motivo": "Confirmado: os lugares só vêm em imagem (mapa da portaria); sem anexo com título no consolidado. O n.º 8.º altera a Portaria 225/95, outro diploma."},
+      {"instrucao": "Portaria 1141-A/95, n.º 1.º: aditamento de três lugares de chefe de divisão ao quadro anexo ao DL 408/93", "motivo": "Confirmado: a portaria não traz o texto do mapa alterado; o n.º 2.º altera o quadro da Portaria 663/94, outro diploma."},
+      {"instrucao": "DL 158/96, art. 39.º, n.º 1: as direcções de serviços dos arts. 28.º a 31.º do DL 408/93 transitam para a DGITA", "motivo": "Confirmado: transição de serviços sem nova redação dos artigos; não textual."},
+      {"instrucao": "DL 42/97, art. 2.º: nova redação dos arts. 4.º, 9.º e 10.º do DL 187/90", "motivo": "Confirmado: instrução dirigida ao DL 187/90, outro diploma (o texto citado no antigo n.º 1 do art. 55.º saiu pela nova redação do art. 55.º, não por esta instrução)."},
+      {"instrucao": "DL 262/2002, art. 2.º, n.º 2: repristinação dos arts. 17.º, 18.º e 25.º do DL 408/93, revogados pelo art. 28.º, n.º 1, do DL 366/99, enquanto não for publicada a portaria do art. 24.º do DL 366/99", "motivo": "Confirmado: os artigos repristinados estão no consolidado com a redação original (o DL 366/99 não é alterador desta vista), pelo que não há texto a mudar; repristinação dependente da não publicação da portaria. Os n.º 1 do art. 2.º e arts. 3.º a 5.º alteram outros diplomas."},
+      {"instrucao": "DL 237/2004, art. 3.º: nova redação do n.º 2 do art. 2.º do DL 262/2002 (repristina os arts. 17.º, 18.º, 25.º e 26.º do DL 408/93)", "motivo": "Confirmado: altera o DL 262/2002, outro diploma; os arts. 17.º, 18.º, 25.º e 26.º estão no consolidado."}
+    ],
+    "artigos_a_mais": [],
+    "artigos_em_falta": [],
+    "fora_dos_artigos": "sem alterações"
+  }
+]

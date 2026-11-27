@@ -7,9 +7,9 @@ consolidacao:
     pelo LLM), sem valor oficial'
   estado: por verificar às cegas
   alteracoes_aplicadas:
-  - id: pt:dre:335950:por
-    title: Decreto-Lei n.º 269/75
-    publication_date: '1975-05-30'
+  - id: pt:dre:506867:por
+    title: Decreto-Lei n.º 81/76
+    publication_date: '1976-01-28'
 ---
 
 # Decreto-Lei n.º 782/74
@@ -60,279 +60,147 @@ REGULAMENTO DO IMPOSTO SOBRE VEÍCULOS
 
 ### CAPÍTULO I — Incidência
 
-Artigo 1.º - 1. O imposto sobre veículos incide sobre o uso e fruição dos veículos a seguir mencionados, matriculados ou registados no território do continente e ilhas adjacentes, ou, quando não sujeitos a essas formalidades, logo que, decorridos cento e oitenta dias a contar da sua entrada no mesmo território, venham a circular ou a ser usados em condições normais da sua utilização:
+Artigo 1.º - (Revogado.)
 
-a) Automóveis ligeiros, de passageiros ou mistos, e motociclos de passageiros com ou sem carro;
+> Alterado pelo/a [Decreto-Lei n.º 81/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1976-506867), publicado em 1976-01-28.
 
-> Alterado pelo/a [Decreto-Lei n.º 269/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-1975-335950), publicado em 1975-05-30.
+Art. 2.º - (Revogado.)
 
-b) Aeronaves de uso particular;
+> Alterado pelo/a [Decreto-Lei n.º 81/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1976-506867), publicado em 1976-01-28.
 
-c) Barcos de recreio de uso particular.
+Art. 3.º - (Revogado.)
 
-2. A matrícula ou o registo a que se refere o n.º 1 é o que, conforme o caso, deva ser efectuado nos serviços competentes de viação, da aeronáutica civil, da marinha mercante e dos serviços hidráulicos.
+> Alterado pelo/a [Decreto-Lei n.º 81/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1976-506867), publicado em 1976-01-28.
 
-> Alterado pelo/a [Decreto-Lei n.º 269/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-1975-335950), publicado em 1975-05-30.
+Art. 4.º - (Revogado.)
 
-3. Consideram-se potencialmente em uso os veículos automóveis que circulem pelos seus próprios meios ou estacionem nas vias ou recintos públicos e os barcos de recreio e as aeronaves desde que sejam detentores dos certificados de navegabilidade, devidamente válidos.
-
-Art. 2.º O imposto sobre veículos é devido por inteiro em cada ano civil.
-
-Art. 3.º O imposto é devido pelos proprietários dos veículos, presumindo-se como tais, até prova em contrário, as pessoas em nome de quem os mesmos se encontrem matriculados ou registados.
-
-Art. 4.º O imposto sobre veículos será determinado tendo em consideração:
-
-a) Para automóveis - o combustível utilizado, a cilindrada do motor, a voltagem quando movidos a electricidade e a antiguidade;
-
-b) Para aeronaves - o peso máximo autorizado à descolagem;
-
-c) Para barcos de recreio - a propulsão, a tonelagem da arqueação bruta e a antiguidade.
+> Alterado pelo/a [Decreto-Lei n.º 81/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1976-506867), publicado em 1976-01-28.
 
 ### CAPÍTULO II — Isenções
 
-Art. 5.º - 1. Estão isentos do imposto sobre veículos:
+Art. 5.º - (Revogado.)
 
-a) O Estado e qualquer dos seus serviços, estabelecimentos e organismos, ainda que personalizados, compreendidos os órgãos de coordenação da assistência;
+> Alterado pelo/a [Decreto-Lei n.º 81/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1976-506867), publicado em 1976-01-28.
 
-b) As autarquias locais e suas federações e uniões;
+Art. 6.º - (Revogado.)
 
-c) As pessoas colectivas de utilidade pública administrativa, nos termos do n.º 2 deste artigo;
+> Alterado pelo/a [Decreto-Lei n.º 81/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1976-506867), publicado em 1976-01-28.
 
-d) Os Estados estrangeiros, quando haja reciprocidade de tratamento;
+Art. 7.º - (Revogado.)
 
-e) O pessoal das missões diplomáticas e consulares, nos termos das respectivas convenções;
-
-f) As organizações estrangeiras ou internacionais, nos termos de acordos celebrados pelo Estado Português;
-
-g) Os militares abrangidos pelo [Decreto-Lei n.º 210/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-1973-421985), de 9 de Maio, cujo grau de invalidez seja igual ou superior a 60%.
-
-h) Outros deficientes cujo grau de invalidez seja igual ou superior a 60%, nos termos do n.º 4 deste artigo.
-
-> Aditado pelo/a [Decreto-Lei n.º 269/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-1975-335950), publicado em 1975-05-30.
-
-2. Na hipótese da alínea c) do número anterior, a mera aprovação dos estatutos não confere, só por si, isenção deste imposto, devendo cada caso ser submetido à apreciação do Secretário de Estado do Orçamento, que, ouvida a Direcção-Geral das Contribuições e Impostos, e conforme as circunstâncias, definirá, em despacho, a amplitude da respectiva isenção; é dispensado este condicionalismo relativamente a isenções concedidas em anos anteriores.
-
-3. As isenções previstas nas alíneas g) e h) do n.º 1 não podem ser fruídas por cada beneficiário em relação a mais de um veículo, devendo o grau de invalidez ser comprovado por documento emitido por entidade competente para o efeito.
-
-> Alterado pelo/a [Decreto-Lei n.º 269/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-1975-335950), publicado em 1975-05-30.
-
-4. A isenção prevista na alínea h) do n.º 1 respeita apenas aos seguintes veículos, cuja propriedade esteja registada em nome do beneficiário:
-
-a) Automóveis compreendidos nos grupos A, B e C da tabela I do n.º 1, alínea a), do artigo 8.º;
-
-b) Motociclos compreendidos nos grupos G a I da tabela II do n.º 1, alínea b), do mesmo artigo.
-
-> Aditado pelo/a [Decreto-Lei n.º 269/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-1975-335950), publicado em 1975-05-30.
-
-Art. 6.º - 1. Ficam igualmente isentos de imposto:
-
-a) Os automóveis utilizados em serviço público e como tal averbados no respectivo livrete;
-
-b) As aeronaves de instrução e treino quando propriedade de escolas e aeroclubes cujo funcionamento esteja autorizado pela Direcção-Geral da Aeronáutica Civil;
-
-c) As aeronaves concebidas ou preparadas para (trabalho aéreo» (aerial-work), quando autorizadas pela Direcção-Geral da Aeronáutica Civil e exclusivamente utilizadas em actividades no âmbito do «trabalho aéreo»;
-
-d) As aeronaves sem motor e os barcos de arqueação bruta até 2 t sem motor ou com motor de potência não excedente a 25 H. P.;
-
-e) Os barcos, com ou sem motor, pertencentes a clubes náuticos cuja actividade esteja autorizada pela entidade competente;
-
-f) Os barcos, com ou sem motor, com arqueação bruta não superior a 10 t construídos pelo seu proprietário;
-
-g) Os barcos, com ou sem motor, com arqueação bruta não superior a 20 t, transformados a partir de embarcações de pesca, de comércio, salva-vidas ou de sucata;
-
-> Alterado pelo/a [Decreto-Lei n.º 269/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-1975-335950), publicado em 1975-05-30.
-
-h) Os veículos que, tendo mais de 20 anos e constituindo peças de museus públicos, só ocasionalmente sejam usados em condições normais da sua utilização;
-
-i) No ano da aquisição, os veículos novos adquiridos posteriormente a 30 de Setembro.
-
-2. Ficam temporariamente isentos de imposto, nas condições a estabelecer em portaria do Secretário de Estado do Orçamento:
-
-a) Os automóveis novos destinados a venda; e, no período que anteceder o licenciamento, os automóveis novos adquiridos para aluguer;
-
-b) Os automóveis antigos detentores de certificado de autenticidade e de placa de homologação concedidos pelo Clube Português de Automóveis Antigos, quando ocasionalmente circulem para conservação da sua mecânica ou participem em manifestações desportivas ou cortejos.
-
-3. A isenção prevista na alínea f) do n.º 1 será concedida mediante a apresentação de documento, emitido pelos serviços competentes da Inspecção-Geral de Navios, comprovativo de a embarcação ter sido construída pelo próprio («autoconstrução»).
-
-4. Para efeitos da isenção estabelecida na alínea g) do n.º 1 e da redução do imposto prevista na tabela IV do n.º 1, alínea d), do artigo 8.º, deverá ser apresentado documento comprovativo da transformação do barco, emitido pelos serviços a que se refere o número anterior.
-
-> Aditado pelo/a [Decreto-Lei n.º 269/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-1975-335950), publicado em 1975-05-30.
-
-Art. 7.º - 1. A isenção do imposto será concedida pela repartição de finanças do concelho ou bairro da área da residência ou sede da entidade interessada, mediante requisição escrita, devendo ser exibidos, para o efeito, o título de propriedade e o livrete ou certificado de registo ou matrícula do veículo, bem como, no caso da alínea i) do n.º 1 do artigo 6.º, o documento a que se refere o artigo 15.º
-
-2. Nos casos previstos nas alíneas d), e) e f) do n.º 1 do artigo 5.º a requisição será dirigida ao director-geral das Contribuições e Impostos e satisfeita através da repartição de finanças competente nos termos do número anterior.
-
-3. Para cada aeronave e barco de recreio, isentos de imposto, será concedido um título de isenção modelo n.º 1; e para automóveis um dístico de isenção modelo n.º 2, destinado a ser afixado nos termos do n.º 2 do artigo 13.º
-
-4. O disposto nos n.os 1 e 3 deste artigo não é aplicável relativamente aos veículos pertencentes ao Estado portadores de chapas «PR» ou «Estado» ou afectos às forças armadas e militarizadas e, bem assim, aos automóveis de serviço público de aluguer que ostentem as indicações que obrigatoriamente os identifiquem como tal.
-
-5. Os títulos e dísticos de isenção serão adquiridos pelos interessados na tesouraria da Fazenda Pública do concelho ou bairro a que se refere o n.º 1 deste artigo, mediante a respectiva requisição devidamente despachada pelo chefe da repartição de finanças.
-
-6. Os títulos e dísticos de isenção serão requisitados nos prazos estabelecidos no n.º 1 do artigo 9.º e válidos apenas no ano para que forem emitidos.
-
-7. Os títulos de isenção serão registados no livro modelo n.º 3 e os dísticos de isenção na caderneta modelo n.º 6, nos termos do artigo 10.º, sendo, quanto a estes, fornecida aos interessados a competente nota de registo.
+> Alterado pelo/a [Decreto-Lei n.º 81/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1976-506867), publicado em 1976-01-28.
 
 ### CAPÍTULO III — Taxas
 
-Art. 8.º - 1. As taxas do imposto são as seguintes:
+Art. 8.º - (Revogado.)
 
-a) Para automóveis:
-
-TABELA I
-
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/12/30303/00460054.pdf)
-
-b) Para motociclos:
-
-TABELA II
-
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/05/12400/07500752.pdf)
-
-c) Para aeronaves:
-
-TABELA III
-
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/05/12400/07500752.pdf)
-
-d) Para barcos de recreio:
-
-TABELA IV
-
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/05/12400/07500752.pdf)
-
-> Alterado pelo/a [Decreto-Lei n.º 269/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-1975-335950), publicado em 1975-05-30.
-
-2. A antiguidade dos automóveis e motociclos e dos barcos de recreio será reportada a 1 de Janeiro do ano a que respeita o imposto e contada por anos civis, incluindo, quanto aos automóveis e motociclos, o ano da matrícula constante do respectivo livrete e, quanto aos barcos, o do registo constante do respectivo título.
-
-> Alterado pelo/a [Decreto-Lei n.º 269/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-1975-335950), publicado em 1975-05-30.
-
-3. A antiguidade dos veículos usados, inicialmente matriculados ou registados no ultramar ou no estrangeiro e que só posteriormente recebam matrícula ou registo no continente e ilhas adjacentes, poderá ser determinada pela data da matrícula ou registo iniciais se for feita prova dessa formalidade através do correspondente livrete ou título de registo ou, na sua falta, de outro documento bastante.
-
-4. Os automóveis que, segundo o livrete e o título de registo, estejam simultaneamente classificados como automóveis e barcos de recreio ficam sujeitos às taxas da tabela I ou da tabela IV, conforme as que produzirem maior imposto.
-
-5. A alteração da cilindrada ou do combustível utilizado pelos automóveis e motociclos e, bem assim, da potência da propulsão dos barcos de recreio não implica correcção do imposto já pago, respeitante ao ano em que a alteração se verificar.
-
-> Alterado pelo/a [Decreto-Lei n.º 269/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-1975-335950), publicado em 1975-05-30.
+> Alterado pelo/a [Decreto-Lei n.º 81/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1976-506867), publicado em 1976-01-28.
 
 ### CAPÍTULO IV — Liquidação e cobrança
 
-Art. 9.º - 1. O imposto será liquidado e pago nos meses de Janeiro e Fevereiro de cada ano, ou antes do uso ou fruição dos veículos quando tenha lugar posteriormente a esse período, nos termos seguintes:
+Art. 9.º - (Revogado.)
 
-a) Relativamente a automóveis - por meio de dísticos modelo n.º 4 das taxas correspondentes, segundo a tabela I do artigo 8.º;
+> Alterado pelo/a [Decreto-Lei n.º 81/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1976-506867), publicado em 1976-01-28.
 
-b) Relativamente a aeronaves e barcos de recreio - mediante guia modelo n.º 5.
+Art. 10.º - (Revogado.)
 
-2. Será pago por meio de guia o imposto respeitante a automóveis quando, por virtude de transgressão, o pagamento se efectuar em ano posterior àquele a que o imposto respeite.
+> Alterado pelo/a [Decreto-Lei n.º 81/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1976-506867), publicado em 1976-01-28.
 
-3. Quando haja sido adquirido dístico de taxa inferior à devida, poderá ser utilizado outro ou outros dísticos para completar o imposto exacto, os quais, depois de preenchidos, serão afixados conjuntamente, nos termos prescritos no n.º 2 do artigo 13.º
+Art. 11.º - (Revogado.)
 
-4. Os dísticos modelo n.º 4, a que se refere a alínea a) do n.º 1, serão fornecidos às tesourarias da Fazenda Pública nos mesmos termos em que o são os valores selados.
-
-Art. 10.º - 1. Os dísticos modelo n.º 4, comprovativos do pagamento do imposto, serão adquiridos em qualquer tesouraria da Fazenda Pública, mediante o pagamento do respectivo imposto, sendo obrigatoriamente registados na correspondente repartição de finanças.
-
-2. O registo será efectuado em cadernetas do modelo n.º 6, no prazo estabelecido no n.º 1 do artigo 9.º e mediante a apresentação do respectivo livrete do automóvel, sendo fornecida aos interessados a competente nota de registo.
-
-3. As notas de registo serão processadas em triplicado, destinando-se o original ao interessado e o duplicado à Direcção-Geral de Transportes Terrestres, à qual será remetido, através das direcções de finanças, durante o mês seguinte ao do registo.
-
-4. Não é permitido o registo de dísticos deficientemente preenchidos ou que contenham emendas ou rasuras.
-
-Art. 11.º - 1. O imposto relativo a aeronaves e a barcos de recreio será pago na tesouraria da Fazenda Pública do concelho ou bairro da área da residência ou sede do contribuinte, quando situada no território do continente e ilhas adjacentes, ou, sendo fora deste território, em qualquer outra tesouraria, mediante a guia modelo n.º 5, a processar na respectiva repartição de finanças.
-
-2. O processamento da guia será solicitado pelo contribuinte, devendo para o efeito ser exibido o título de matrícula ou registo do veículo e, no caso das aeronaves, também o certificado de navigabilidade.
-
-> Alterado pelo/a [Decreto-Lei n.º 269/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-1975-335950), publicado em 1975-05-30.
+> Alterado pelo/a [Decreto-Lei n.º 81/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1976-506867), publicado em 1976-01-28.
 
 ### CAPÍTULO V — Fiscalização
 
-Art. 12.º - 1. O cumprimento das obrigações impostas por este diploma será fiscalizado, em geral, e dentro dos limites da respectiva competência, por todas as autoridades e, em especial, pelo pessoal das Direcções-Gerais das Contribuições e Impostos, de Transportes Terrestres, de Viação, dos Serviços Hidráulicos e das Alfândegas, da Guarda Nacional Republicana, da Polícia de Segurança Pública, da Guarda Fiscal, das conservatórias do registo comercial e de automóveis, das capitanias dos portos e da Polícia Marítima e, bem assim, pelo pessoal privativo dos serviços de estradas e dos aeroportos.
+Art. 12.º - (Revogado.)
 
-> Alterado pelo/a [Decreto-Lei n.º 269/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-1975-335950), publicado em 1975-05-30.
+> Alterado pelo/a [Decreto-Lei n.º 81/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1976-506867), publicado em 1976-01-28.
 
-2. Os funcionários a quem incumbe a fiscalização prevista no número anterior, sempre que verifiquem qualquer transgressão dos preceitos estabelecidos neste diploma e quando para tal tenham competência, deverão levantar o respectivo auto de notícia, que, nos termos e para os efeitos do Código de Processo das Contribuições e Impostos, será remetido ao chefe da repartição de finanças do concelho ou bairro da área da residência ou sede do infractor.
+Art. 13.º - (Revogado.)
 
-3. Os funcionários que no exercício ou por causa do exercício das suas funções verificarem transgressões ao presente diploma e não forem competentes para levantar autos de notícia e, bem assim, quaisquer outras pessoas que delas tenham conhecimento deverão participá-las ou denunciá-las, nos termos dos artigos 110.º ou 111.º do referido Código, à repartição de finanças mencionada no número anterior.
+> Alterado pelo/a [Decreto-Lei n.º 81/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1976-506867), publicado em 1976-01-28.
 
-Art. 13.º - 1. O condutor de veículos sujeitos a imposto, mesmo quando dele isentos, com excepção dos referidos no n.º 4 do artigo 7.º, será obrigatoriamente portador, conforme o caso, da guia de pagamento do imposto, do título de isenção, da nota de registo modelo n.º 6 ou da certidão a que se refere o n.º 1 do artigo 31.º, documentos que deverão ser exibidos sempre que sejam solicitados por qualquer das entidades mencionadas no n.º 1 do artigo anterior.
+Art. 14.º - (Revogado.)
 
-2. Os dísticos modelos n.os 2, 4 e 7, depois de inscritas no verso, de forma indelével, a tinta ou esferográfica, a marca e a matrícula do veículo, serão obrigatoriamente afixados ou colocados:
+> Alterado pelo/a [Decreto-Lei n.º 81/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1976-506867), publicado em 1976-01-28.
 
-a) Nos automóveis - no canto superior direito do pára-brisas e em lugar bem visível do exterior;
+Art. 15.º - (Revogado.)
 
-b) Nos motociclos - à frente, do lado direito, em lugar visível e preservados da humidade, devendo para o efeito ser utilizados suportes apropriados.
-
-> Alterado pelo/a [Decreto-Lei n.º 269/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-1975-335950), publicado em 1975-05-30.
-
-Art. 14.º - 1. Os pedidos de revalidação dos certificados de navegabilidade de aeronaves ou de barcos de recreio não poderão ter seguimento sem que seja exibido à respectiva entidade o documento comprovativo do pagamento ou da isenção do imposto relativo ao ano em que o pedido for apresentado.
-
-2. A apresentação dos documentos referidos no número anterior será averbada no processo ou registo de revalidação do certificado, devendo o averbamento fazer referência ao número e data do documento, bem como à repartição de finanças processadora, e rubricado pelo funcionário competente, que o restituirá ao apresentante.
-
-Art. 15.º Os vendedores de veículos novos, transaccionados de 1 de Outubro a 31 de Dezembro de cada ano, fornecerão obrigatoriamente ao adquirente documento comprovativo da aquisição para os efeitos do disposto no n.º 1 do artigo 7.º
+> Alterado pelo/a [Decreto-Lei n.º 81/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1976-506867), publicado em 1976-01-28.
 
 ### CAPÍTULO VI — Reclamações e recursos
 
-Art. 16.º - 1. Os contribuintes e as pessoas solidária ou subsidiariamente responsáveis pelo pagamento do imposto poderão reclamar contra a liquidação deste, ou impugná-la, com os fundamentos e nos termos estabelecidos no Código de Processo das Contribuições e Impostos.
+Art. 16.º - (Revogado.)
 
-2. As reclamações ou impugnações serão apresentadas na repartição de finanças onde tiver sido efectuado o registo dos dísticos ou processada a guia de pagamento nos termos dos artigos 10.º e 11.º
-
-3. Nos casos de pagamento do imposto por meio de dístico, a que se refere a alínea a) do n.º 1 do artigo 9.º, os prazos para reclamação ou impugnação contar-se-ão nos termos estabelecidos para a cobrança eventual, a qual se considera efectuada na data do registo do dístico na repartição de finanças.
+> Alterado pelo/a [Decreto-Lei n.º 81/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1976-506867), publicado em 1976-01-28.
 
 ### CAPÍTULO VII — Penalidades
 
-Art. 17.º As transgressões ao disposto no presente diploma serão punidas nos termos dos artigos seguintes, devendo a graduação das penas, quando a isso houver lugar, fazer-se de harmonia com a gravidade da culpa, a importância do imposto a pagar e as demais circunstâncias do caso.
+Art. 17.º - (Revogado.)
 
-Art. 18.º - 1. A utilização de qualquer veículo compreendido no artigo 1.º sem o pagamento do imposto, quando devido, é punida com multa igual ao triplo do imposto, por cujo pagamento é solidariamente responsável o condutor do veículo.
+> Alterado pelo/a [Decreto-Lei n.º 81/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1976-506867), publicado em 1976-01-28.
 
-2. Quando se verifique a utilização abusiva do veículo, a responsabilidade pela transgressão caberá ao seu condutor.
+Art. 18.º - (Revogado.)
 
-Art. 19.º A falta de aposição dos dísticos nos termos do n.º 2 do artigo 13.º será punida com multa de 100$00 a 1000$00, sem prejuízo da aplicação da penalidade prevista no artigo 21.º, se for caso disso.
+> Alterado pelo/a [Decreto-Lei n.º 81/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1976-506867), publicado em 1976-01-28.
 
-Art. 20.º A aposição dos dísticos modelos n.os 2, 4 e 7, a que se referem o artigo 7.º, n.º 3, o artigo 9.º, n.º 1, alínea a), e o artigo 31.º, n.º 2, em veículo diferente daquele a que respeita, será punida com multa igual a cinco vezes o imposto correspondente ao veículo em falta, nunca inferior a 5000$00.
+Art. 19.º - (Revogado.)
 
-Art. 21.º A falta de registo dos dísticos modelos n.os 2 e 4, nos termos do artigo 10.º, será punida com multa de 100$00 a 1000$00.
+> Alterado pelo/a [Decreto-Lei n.º 81/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1976-506867), publicado em 1976-01-28.
 
-Art. 22.º A falsificação ou viciação de qualquer dístico, guia de pagamento, título de isenção ou nota de registo, a que se referem os artigos 7.º, 9.º, 10.º e 31.º, será punida com multa de 10000$00 a 300000$00, sem prejuízo do procedimento criminal que no caso couber.
+Art. 20.º - (Revogado.)
 
-Art. 23.º - 1. A falta de apresentação dos documentos referidos no n.º 1 do artigo 13.º, quando o condutor declare encontrar-se a situação tributária do veículo devidamente regularizada, será punida com multa de 200$00, desde que os documentos venham a ser exibidos, em prazo a fixar no auto de notícia, perante a repartição de finanças competente para a instrução do processo.
+> Alterado pelo/a [Decreto-Lei n.º 81/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1976-506867), publicado em 1976-01-28.
 
-2. Na falta de exibição dos documentos dentro do prazo fixado, será a multa elevada a 500$00 sem prejuízo do procedimento contra os respectivos responsáveis por quaisquer outras infracções eventualmente verificadas.
+Art. 21.º - (Revogado.)
 
-Art. 24.º Por qualquer infracção às disposições do presente diploma, não especialmente prevenida nos artigos anteriores, será aplicada a multa de 200$00 a 50000$00.
+> Alterado pelo/a [Decreto-Lei n.º 81/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1976-506867), publicado em 1976-01-28.
 
-Art. 25.º - 1. Sendo infractor uma pessoa colectiva, responderão pelo pagamento da multa, solidariamente com aquela, os directores, administradores, gerentes, membros do conselho fiscal, liquidatários ou administradores da massa falida ao tempo em que foi cometida a infracção.
+Art. 22.º - (Revogado.)
 
-2. A responsabilidade prevista no número anterior só terá lugar quanto às pessoas nele referidas que hajam praticado ou sancionado os actos a que respeite a infracção.
+> Alterado pelo/a [Decreto-Lei n.º 81/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1976-506867), publicado em 1976-01-28.
 
-3. Após a extinção das pessoas colectivas, responderão solidariamente entre si as restantes pessoas neste artigo mencionadas.
+Art. 23.º - (Revogado.)
 
-Art. 26.º - 1. Tratando-se de veículos pertencentes a entidades a que a lei reconhece o direito de isenção do imposto, são considerados pessoalmente responsáveis pelas infracções imputáveis ao proprietário e ainda pelo imposto eventualmente devido, os administradores, chefes ou outros dirigentes dos serviços a que os veículos estejam afectos.
+> Alterado pelo/a [Decreto-Lei n.º 81/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1976-506867), publicado em 1976-01-28.
 
-2. Fora dos casos previstos no número anterior, os funcionários públicos que deixarem de cumprir alguma das obrigações impostas neste diploma incorrerão em responsabilidade disciplinar, se for caso disso, sem prejuízo da responsabilidade penal prevista noutras leis.
+Art. 24.º - (Revogado.)
 
-Art. 27.º Se o processo de transgressão em que houver também de ser liquidado imposto estiver parado durante cinco anos, ficará extinto o procedimento para aplicação da multa, prosseguindo, no entanto, para arrecadação do imposto devido.
+> Alterado pelo/a [Decreto-Lei n.º 81/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1976-506867), publicado em 1976-01-28.
 
-Art. 28.º Sobre as multas fixadas neste diploma não incidirá nenhum adicional, mas os autuantes, participantes ou denunciantes da transgressão terão direito a 20% da importância da multa cobrada.
+Art. 25.º - (Revogado.)
 
-Art. 29.º - 1. Levantado auto de notícia pela verificação de qualquer infracção, será entregue ao autuado uma nota com a indicação do levantamento do auto e da falta verificada.
+> Alterado pelo/a [Decreto-Lei n.º 81/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1976-506867), publicado em 1976-01-28.
 
-2. Durante o prazo de dez dias a contar do levantamento do auto não poderá a mesma infracção ser objecto de nova autuação, sempre que seja exibida a nota referida no número anterior.
+Art. 26.º - (Revogado.)
+
+> Alterado pelo/a [Decreto-Lei n.º 81/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1976-506867), publicado em 1976-01-28.
+
+Art. 27.º - (Revogado.)
+
+> Alterado pelo/a [Decreto-Lei n.º 81/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1976-506867), publicado em 1976-01-28.
+
+Art. 28.º - (Revogado.)
+
+> Alterado pelo/a [Decreto-Lei n.º 81/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1976-506867), publicado em 1976-01-28.
+
+Art. 29.º - (Revogado.)
+
+> Alterado pelo/a [Decreto-Lei n.º 81/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1976-506867), publicado em 1976-01-28.
 
 ### CAPÍTULO VIII — Disposições diversas
 
-Art. 30.º Os veículos susceptíveis de beneficiar das isenções previstas nos artigos 5.º e 6.º consideram-se sujeitos a imposto enquanto não forem processados os títulos de isenção ou não estiverem registados e afixados os respectivos dísticos.
+Art. 30.º - (Revogado.)
 
-Art. 31.º - 1. Quando se verifique extravio, furto ou inutilização de guias de pagamento, de títulos de isenção ou de notas de registo, a que se referem os artigos 7.º, 9.º e 10.º, poderá ser passada, a requerimento do proprietário do veículo, certidão comprovativa do imposto, da concessão da isenção ou do registo efectuado, a qual substituirá para todos os efeitos o documento respectivo.
+> Alterado pelo/a [Decreto-Lei n.º 81/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1976-506867), publicado em 1976-01-28.
 
-2. No caso de extravio, furto ou inutilização dos dísticos modelos n.os 2 e 4, poderá ser concedido um dístico especial do modelo n.º 7, mediante requerimento do proprietário do automóvel, dirigido ao chefe da repartição de finanças onde foi efectuado o registo nos termos do n.º 7 do artigo 7.º e n.º 1 do artigo 10.º e documentado com a nota de registo do dístico extraviado ou inutilizado.
+Art. 31.º - (Revogado.)
 
-3. Deferido o pedido, será o dístico especial adquirido na respectiva tesouraria da Fazenda Pública, mediante nota de fornecimento a processar pelo chefe da repartição de finanças, a qual, uma vez satisfeita, ficará arquivada na tesouraria, averbando-se o deferimento do pedido no original e no triplicado da respectiva nota de registo, com indicação da série e do número do dístico especial fornecido, e devolvendo-se o original ao requerente.
+> Alterado pelo/a [Decreto-Lei n.º 81/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1976-506867), publicado em 1976-01-28.
 
-4. É aplicável o disposto nos n.os 2 e 3 aos dísticos que, no seu preenchimento, apresentem deficiências, emendas ou rasuras, os quais serão juntos ao pedido e inutilizados pelo chefe da repartição de finanças com a palavra «Nulo» aposta no rosto e no verso dos dísticos.
+Art. 32.º - (Revogado.)
 
-5. Os dísticos especiais substituirão para todos os efeitos os dísticos modelos n.os 2 e 4 extraviados ou inutilizados.
-
-Art. 32.º - 1. É fixado em 30$00, a título de reembolso do custo do papel e impressão, o preço dos títulos de isenção modelo n.º 1 e dos dísticos modelos n.os 2 e 7.
-
-2. Os títulos e dísticos referidos no número anterior serão fornecidos às tesourarias da Fazenda Pública nos mesmos termos em que o são os valores selados.
+> Alterado pelo/a [Decreto-Lei n.º 81/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1976-506867), publicado em 1976-01-28.
 
 O Ministro das Finanças, José da Silva Lopes
 

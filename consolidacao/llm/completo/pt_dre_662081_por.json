@@ -2,15 +2,31 @@
   "id": "pt:dre:662081:por",
   "artigos": [],
   "removidos": [],
-  "nao_aplicavel": "Alterador 1, arts. 3.º, 4.º e 6.º: alteram as bases I, III, XI, XII, XIII, XVII, XIX e XXVIII, os anexos I e II às bases e revogam a base XV e o n.º 2 da base XIX; as bases da concessão não constam do texto atual (só o título «Bases da concessão») e o anexo I só vem em imagem.",
+  "titulos": [],
+  "anexos": [
+    {
+      "titulo": "## ANEXO I — [(ver planta no documento original)](https://files.diariodarepublica.pt/1s/1999/09/224a01/00020008.pdf)",
+      "texto": "[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/15300/0001000016.pdf)",
+      "alterador": 1
+    },
+    {
+      "titulo": "## ANEXO II",
+      "texto": "A área da concessão é constituída pelos terrenos e leito do mar do porto de Sines, delimitada pelos alinhamentos retos dos pontos/coordenada de P1, P2, P3, P4, P5, P6, P7, P8, P9, P10, P11, P12, P13, P14, P15, P16, P17, P18, P19, P20 e P21 do anexo, assim definidos:\n\na) Alinhamento reto da ordem de 1750 m, entre o ponto (P1) de coordenadas x = -061 646,87 e y = -193 267,92 e o ponto (P2) de coordenadas x = -063 029,38 e y = -192 194,42, coincidente com a linha de cais;\n\nb) Alinhamento reto da ordem de 320 m, entre o ponto (P2) de coordenadas x = -063 029,38 e y = -192 194,42 e o ponto (P3) de coordenadas x = -062 831,59 e y = -191 941,26;\n\nc) Alinhamento reto da ordem de 26 m, entre o ponto (P3) de coordenadas x = -062 831,59 e y = -191 941,26 e o ponto (P4) de coordenadas x = -062 811,23 e y = -191 957,11;\n\nd) Alinhamento reto da ordem de 370 m, entre o ponto (P4) de coordenadas x = -062 937,53 e y = -191 912,04 e o ponto (P5) de coordenadas x = -062 583,88 e y = -191 665,50;\n\ne) Alinhamento reto da ordem de 48 m, entre o ponto (P5) de coordenadas x = -062 583,88 e y = -191 665,50 e o ponto (P6) de coordenadas x = -62 545,81 e y = -191 695,14;\n\nf) Alinhamento reto da ordem de 92 m, entre o ponto (P6) de coordenadas x = -62 545,81 e y = -191 695,14 e o ponto (P7) de coordenadas x = -62 454,31 e y = -191 682,89;\n\ng) Alinhamento reto da ordem de 145 m, entre o ponto (P7) de coordenadas x = -62 454,31 e y = -191 682,89 e o ponto (P8) de coordenadas x = -62 309,11 e y = -191 677,06;\n\nh) Alinhamento reto da ordem de 492,5 m, entre o ponto (P8) de coordenadas x = -62 309,11 e y = -191 677,06 e o ponto (P9) de coordenadas x = -61 829,66 e y = -191 789,87;\n\ni) Alinhamento reto da ordem de 61 m, entre o ponto (P9) de coordenadas x = -61 829,66 e y = -191 789,87 e o ponto (P10) de coordenadas x = -61 780,83 e y = -191 826,57;\n\nj) Alinhamento reto da ordem de 100 m, entre o ponto (P10) de coordenadas x = -61 780,83 e y = -191 826,57 e o ponto (P11) de coordenadas x = -61 686,48 e y = -191 859,72;\n\nk) Alinhamento reto da ordem de 13 m, entre o ponto (P11) de coordenadas x = -61 686,48 e y = -191 859,72 e o ponto (P12) de coordenadas x = -61 689,67 e y = -191 872,81;\n\nl) Alinhamento reto da ordem de 87 m, entre o ponto (P12) de coordenadas x = -61 689,67 e y = -191 872,81 e o ponto (P13) de coordenadas x = -61 605,16 e y = -191 893,93;\n\nm) Alinhamento reto da ordem de 21 m, entre o ponto (P13) de coordenadas x = -61 605,16 e y = -191 893,93 e o ponto (P14) de coordenadas x = -61 591,52 e y = -191 910,29;\n\nn) Alinhamento reto da ordem de 161 m, entre o ponto (P14) de coordenadas x = -61 591,52 e y = -191 910,29 e o ponto (P15) de coordenadas x = -61 430,52 e y = -191 923,35;\n\no) Alinhamento reto da ordem de 22,5 m, entre o ponto (P15) de coordenadas x = -61 430,52 e y = -191 923,35 e o ponto (P16) de coordenadas x = -61 430,61 e y = -191 945,85;\n\np) Alinhamento reto da ordem de 50 m, entre o ponto (P16) de coordenadas x = -61 430,61 e y = -191 945,85 e o ponto (P17) de coordenadas x = -61 480,56 e y = -191 945,84;\n\nq) Alinhamento reto da ordem de 107 m, entre o ponto (P17) de coordenadas x = -61 480,56 e y = -191 945,84 e o ponto (P18) de coordenadas x = -61 587,65 e y = -191 954,57;\n\nr) Alinhamento reto da ordem de 37 m, entre o ponto (P18) de coordenadas x = -61 587,65 e y = -191 954,57 e o ponto (P19) de coordenadas x = -61 596,04 e y = -191 990,63;\n\ns) Alinhamento reto da ordem de 730 m, entre o ponto (P19) de coordenadas x = -61 596,04 e y = -191 990,63 e o ponto (P20) de coordenadas x = -62 049,12 e y = -192 563,30;\n\nt) Alinhamento reto da ordem de 750 m, entre o ponto (P20) de coordenadas x = -62 049,12 e y = -192 563,30 e o ponto (P21) de coordenadas x = -61 457,06 e y = -193 023,95;\n\nu) Alinhamento reto da ordem de 750 m, entre o ponto (P21) de coordenadas x = -61 457,06 e y = -193 023,95 e o ponto (P1) de coordenadas x = -061 646,87 e y = -193 267,92, fechando o limite da área.\n\nNota. - As coordenadas dos pontos encontram-se no sistema de coordenadas EPSG 3763 (PT-TM06/ETRS89, origem no ponto central).",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Alterador 1, nova redação das bases I, III, XI, XII, XIII, XVII, XIX e XXVIII (art. 3.º): alvo incerto: as bases da concessão não vêm no texto atual (só os títulos dos capítulos), não há onde as aplicar\nAlterador 1, revogação da base XV e do n.º 2 da base XIX (art. 6.º): alvo incerto: as bases da concessão não vêm no texto atual",
   "instrucoes": [
-    "Alterador 1, art. 2.º: nova redação do artigo 2.º — já estava no texto atual, nada a mudar.",
-    "Alterador 1, art. 3.º: nova redação de bases do anexo — bases ausentes do texto atual, não aplicado.",
-    "Alterador 1, art. 4.º: nova redação dos anexos I e II às bases — ausentes (anexo I em imagem), não aplicado.",
-    "Alterador 1, art. 6.º: revogação da base XV e do n.º 2 da base XIX — bases ausentes, não aplicado.",
-    "Alterador 1, arts. 1.º, 5.º e 7.º: objeto, aditamento ao contrato e entrada em vigor — não alteram o texto."
+    "Art. 2.º DL 107/2019: nova redação do art. 2.º — o texto atual (já alterado pelo programa) já tem essa redação; sem mudança",
+    "Art. 3.º: nova redação das bases — não estão no texto atual; nao_aplicavel",
+    "Art. 4.º: anexos I e II com nova redação — corpo do Anexo I passa a ser a imagem do alterador; corpo do Anexo II substituído pelo texto do alterador",
+    "Art. 5.º: autorização de aditamento ao contrato — não textual",
+    "Art. 6.º: revoga a base XV e o n.º 2 da base XIX — bases não estão no texto atual; nao_aplicavel"
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 123,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

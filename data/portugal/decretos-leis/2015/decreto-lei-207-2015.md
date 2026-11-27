@@ -47,10 +47,24 @@ legal_status_basis:
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2015-09-29'
+version_history:
+  file: decreto-lei-207-2015.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2015-09-24'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2015-09-29'
+    amending: pt:dre:70716379:por
+    amending_title: Declaração de Retificação n.º 46/2015
+    changes:
+    - Altera Artigo 2.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/207/2015/09/24/p/dre/pt/html
@@ -76,7 +90,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T03:28:20Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Retificação n.º 46/2015.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2015/decreto-lei-207-2015.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -290,9 +305,11 @@ h) [...]
 
 i) [...]
 
-j) A cobrança do valor pelo reabastecimento do veículo sem observância dos critérios de cálculo referidos no n.º 9 do artigo 9.º
+j) A cobrança do valor pelo reabastecimento do veículo sem observância dos critérios de cálculo referidos no n.º 8 do artigo 9.º
 
 4 - É sancionado com coima de (euro) 60 a (euro) 150, no caso de pessoas singulares ou coletivas, o estacionamento na via pública, fora dos locais especialmente fixados para o efeito, de veículos afetos à atividade de rent-a-car, quando não alugados, em infração ao disposto no n.º 4 do artigo 6.º»
+
+> Alterado pelo/a [Declaração de Retificação n.º 46/2015](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/46-2015-70716379), publicado em 2015-10-16.
 
 ###### Artigo 3.º — Norma revogatória
 

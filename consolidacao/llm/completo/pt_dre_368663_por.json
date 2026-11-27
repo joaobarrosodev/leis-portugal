@@ -3,12 +3,16 @@
   "artigos": [],
   "removidos": [],
   "titulos": [],
-  "nao_aplicavel": "O artigo 4.º do Decreto-Lei n.º 42/2003 substitui o anexo IX do Regulamento pelo anexo II desse decreto-lei, cujo conteúdo não vem no pedido e o anexo IX atual só existe como título (sem texto articulado), pelo que a substituição não se pode aplicar com segurança.",
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, art. 4.º, substituição do anexo IX do Regulamento pelo anexo II do Decreto-Lei n.º 42/2003: sem texto: o pedido só traz o artigo 4.º do alterador e não o anexo II com a nova ficha de informações (nem em texto nem em imagem), por isso o corpo do ANEXO IX fica como está.\nAlterador 2, Decreto-Lei n.º 74/2005: sem texto: o pedido não traz nenhum artigo deste alterador.",
   "instrucoes": [
-    "Alterador 1 (DL 42/2003), art. 4.º: substitui o anexo IX do Regulamento pelo anexo II do DL 42/2003; texto do novo anexo ausente do pedido; não aplicado (nao_aplicavel).",
-    "Alterador 2 (DL 74/2005): sem artigos que mencionem o original; nada a aplicar."
+    "Alterador 1, art. 4.º: substitui o anexo IX do Regulamento pelo anexo II do DL 42/2003; o texto do anexo II não vem no pedido, vai para nao_aplicavel (sem texto). O reparo da triagem confirma-se quanto à instrução, mas não há fonte para o novo corpo.",
+    "Alterador 2 (DL 74/2005): o pedido não traz texto; nao_aplicavel."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 123,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

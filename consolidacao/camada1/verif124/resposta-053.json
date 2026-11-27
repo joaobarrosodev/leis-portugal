@@ -1,0 +1,34 @@
+[
+  {"id": "pt:dre:242052:por",
+   "artigos": [
+     {"artigo": "Trecho 1", "veredicto": "certo", "motivo": "N.º 3 aditado ao artigo 1.º pelo art. 1.º da Lei 19/93, letra a letra.", "texto_esperado": ""}
+   ],
+   "instrucoes_em_falta": [],
+   "instrucoes_justificadas": [
+     {"instrucao": "DL 339/93, art. 1.º: entrada em vigor do art. 1.º da Lei 19/93 no dia seguinte, com efeitos a 1 de Janeiro de 1993", "motivo": "Não textual: só fixa a entrada em vigor e os efeitos da alteração; não dá nova redação à Lei 63/90."}
+   ],
+   "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"},
+  {"id": "pt:dre:292536:por",
+   "artigos": [
+     {"artigo": "Trecho 1", "veredicto": "certo", "motivo": "Nova redação da base III (Lei 22/92, art. 1.º), n.os 1 a 3 letra a letra.", "texto_esperado": ""},
+     {"artigo": "Trecho 2", "veredicto": "certo", "motivo": "Nova redação dos n.os 1 a 3 da base XIX (Lei 22/92, art. 1.º) letra a letra; os n.os 4 e 5 («...») ficam com o texto original.", "texto_esperado": ""}
+   ],
+   "instrucoes_em_falta": [],
+   "instrucoes_justificadas": [
+     {"instrucao": "Lei 22/92, art. 2.º: a nova base XIX produz efeitos desde 6 de Outubro de 1988", "motivo": "Não textual: regra de efeitos no tempo, sem nova redação."},
+     {"instrucao": "DL 142/99, art. 15.º, n.º 2: extinção do FGAP (base XLV)", "motivo": "Não textual: extingue o fundo e transfere responsabilidades por portaria; não revoga nem dá nova redação à base XLV."},
+     {"instrucao": "DL 248/99, art. 97.º: cessação das responsabilidades do FGAP da base XLV", "motivo": "Não textual: não revoga nem altera o texto da base XLV."},
+     {"instrucao": "DL 382-A/99, arts. 1.º e 2.º: datas de entrada em vigor dos DL 142/99, 143/99 e 159/99 e nova redação do art. 74.º do DL 143/99", "motivo": "Instruções de outros diplomas; nada dirigido à Lei 2127."}
+   ],
+   "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"},
+  {"id": "pt:dre:367047:por",
+   "artigos": [
+     {"artigo": "Trecho 1", "veredicto": "certo", "motivo": "Nova redação do art. 2.º dada pelo artigo único do DL 231/80, letra a letra.", "texto_esperado": ""}
+   ],
+   "instrucoes_em_falta": [],
+   "instrucoes_justificadas": [
+     {"instrucao": "Acórdão 12/88: inconstitucionalidade do art. 2.º na redação do DL 231/80, «na medida em que restringe» a aplicação do art. 50.º do Decreto 360/71", "motivo": "Declaração de inconstitucionalidade parcial que não elimina o texto: não textual."},
+     {"instrucao": "DL 304/93, arts. 1.º e 2.º: nova redação do art. 65.º e regime do n.º 2 do art. 50.º do Decreto 360/71", "motivo": "Instruções de outro diploma (Decreto 360/71), cujo texto o original só tinha alterado."}
+   ],
+   "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+]

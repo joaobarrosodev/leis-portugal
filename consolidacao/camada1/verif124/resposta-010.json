@@ -1,0 +1,14 @@
+[
+  {
+    "id": "pt:dre:524038:por",
+    "artigos": [
+      {"artigo": "Artigo 42.º", "veredicto": "certo", "motivo": "DL 190/2006, art. 2.º: novo n.º 1 letra a letra e n.os 2 a 21 com o texto dos anteriores n.os 3 a 22 (antigos n.os 1 e 2 desaparecem)", "texto_esperado": ""},
+      {"artigo": "ANEXO 6.º", "veredicto": "certo", "motivo": "DL 148/2013, art. 5.º e anexo II: nova lista do n.º 1 letra a letra, proémio do n.º 1 e n.º 2 mantidos («[...]»)", "texto_esperado": ""}
+    ],
+    "instrucoes_em_falta": [],
+    "instrucoes_justificadas": [],
+    "artigos_a_mais": [],
+    "artigos_em_falta": [],
+    "fora_dos_artigos": "sem alterações"
+  }
+]

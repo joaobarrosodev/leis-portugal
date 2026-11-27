@@ -1,0 +1,17 @@
+{
+  "id": "pt:dre:183941512:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, alteração ao art. 5.º do Decreto Legislativo Regional n.º 16/2015/A: outro diploma: visa o DLR 16/2015/A, que o original apenas alterou e republica em anexo; além disso o texto do alterador não vem no pedido (sem texto)",
+  "instrucoes": [
+    "DLR 1/2023/A: o pedido não traz nenhum artigo do alterador; segundo a triagem, altera o DLR 16/2015/A (outro diploma, republicado em anexo ao original) — nada aplicado ao original nem ao anexo"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "ronda_camada1": 123,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
+}

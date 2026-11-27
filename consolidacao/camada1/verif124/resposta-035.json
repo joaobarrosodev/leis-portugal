@@ -1,0 +1,146 @@
+[
+ {
+  "id": "pt:dre:419785:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação do artigo único do DL 447/79, letra a letra.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Portaria 848/81: novo quadro de pessoal da ESBA do Porto",
+    "motivo": "Quadro aprovado pelo DL 41362 (outro diploma); o novo quadro só vem em imagem e o consolidado não tem anexo com título."
+   },
+   {
+    "instrucao": "Portaria 619/82: novo quadro de pessoal da ESBA de Lisboa",
+    "motivo": "Idem: quadro do DL 41362, só em imagem, sem anexo com título no consolidado."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:421996:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 12.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação do DL 286/75 (só n.os 1 e 2, letra a letra); o antigo n.º 3 cai, porque a redação dada não o tem.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 18.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação do DL 29/74, letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 23.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação do DL 29/74, letra a letra.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Lei 82/77, art. 83.º, n.º 2, d): extinção dos tribunais municipais",
+    "motivo": "Não textual: extingue os órgãos, não revoga nem dá nova redação a artigos do DL 192/73."
+   },
+   {
+    "instrucao": "Lei 82/77, art. 84.º: extinta a competência da alínea a) do art. 5.º",
+    "motivo": "Não textual: extinção de competência (por efeito da extinção dos tribunais), sem revogar o texto da alínea."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:427826:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "Alínea c) com a redação da Lei 1/77; corpo e alíneas a) e b) mantidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "Alíneas a) e b) com a redação da Lei 1/77; corpo mantido («Art. 2.º ...»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação da Lei 1/77, letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação da Lei 1/77, letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação da Lei 1/77 (n.os 1 e 2), letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação da Lei 1/77, letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 2.º da Lei 1/77.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Resolução 139/79: inconstitucionalidade parcial, com força obrigatória geral, do art. 3.º",
+    "motivo": "Declaração de inconstitucionalidade sem eliminar texto (e incide sobre a redação original do art. 3.º, já substituída pela Lei 1/77)."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:438060:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 2.º #2",
+    "veredicto": "certo",
+    "motivo": "Art. 2.º dos Estatutos: n.º 1 com a redação do art. 10.º do DL 126/2003; n.º 2 mantido («2 - ...»).",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 126/2003, arts. 1.º a 9.º, 11.º e 12.º: alterações a decretos-leis e estatutos de outros hospitais",
+    "motivo": "Outro diploma."
+   },
+   {
+    "instrucao": "DL 183/2008: criação da ULS do Alto Minho por integração do Centro Hospitalar do Alto Minho e extinção deste",
+    "motivo": "Não textual: extingue a entidade e cria outra com estatutos próprios; não revoga nem dá nova redação a artigos do DL 295/2002."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

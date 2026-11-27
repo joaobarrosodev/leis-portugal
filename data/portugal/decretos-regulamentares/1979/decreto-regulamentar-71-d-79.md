@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1984-11-04'
+version_history:
+  file: decreto-regulamentar-71-d-79.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1979-12-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1984-11-04'
+    amending: pt:dre:400590:por
+    amending_title: Decreto-Lei n.º 354/84
+    changes:
+    - Altera Artigo 1.º
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:01:10Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 354/84. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-regulamentares/1979/decreto-regulamentar-71-d-79.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -106,25 +121,35 @@ Considerando o disposto no [Decreto-Lei n.º 149/79](https://diariodarepublica.p
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-Artigo 1.º - 1 - O quadro de supranumerários criado pelo artigo 2.º do [Decreto-Lei n.º 149/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-1979-383647), de 26 de Maio, é o constante do mapa anexo a este diploma.
+###### Artigo 1.º
+
+1 - O quadro de supranumerários criado pelo artigo 2.º do [Decreto-Lei n.º 149/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-1979-383647), de 26 de Maio, é o constante do mapa anexo a este diploma.
 
 2 - O pessoal será integrado no quadro com as categorias resultantes das equivalências estabelecidas naquele mapa, sem prejuízo das habilitações legais.
 
-3 - O pessoal que não reúna os requisitos exigíveis será provido em categoria para a qual detenha os requisitos legais mínimos, sem prejuízo da manutenção da actual remuneração, até que as respectivas diferenças sejam absorvidas por futuros aumentos consignados nas tabelas de vencimentos.
+3 - Para provimento do pessoal será tida em conta a sua situação à data da publicação do [Decreto-Lei n.º 149/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-1979-383647), de 26 de Maio, sendo aplicável aos oficiais administrativos o disposto no artigo 11.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho.
 
-4 - O disposto na parte final do número anterior aplica-se igualmente aos agentes que, por força da tabela de equivalências, tenham provimento em categoria a que corresponda vencimento inferior ao actualmente auferido.
+4 - O pessoal que não reúna os requisitos para provimento nas categorias constantes do mapa referido, bem como o pessoal com categorias sem equivalência, manterá a actual categoria, podendo transitar para nova situação logo que obtenha os requisitos legais, sendo extintos os lugares à medida que vagarem.
 
-Art. 2.º - 1 - A verificação das condições de ingresso no quadro de supranumerários competirá à Secretaria-Geral do Ministério da Agricultura e Pescas, que elaborará relações discriminadas do pessoal de acordo com as condições mencionadas nos n.os 2, 3 e 4 do artigo anterior e as submeterá a homologação ministerial.
+> Alterado pelo/a [Decreto-Lei n.º 354/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-1984-400590), publicado em 1984-10-30.
+
+###### Artigo 2.º
+
+1 - A verificação das condições de ingresso no quadro de supranumerários competirá à Secretaria-Geral do Ministério da Agricultura e Pescas, que elaborará relações discriminadas do pessoal de acordo com as condições mencionadas nos n.os 2, 3 e 4 do artigo anterior e as submeterá a homologação ministerial.
 
 2 - A Direcção-Geral do Ordenamento e Gestão Florestal organizará, no prazo de sessenta dias a contar da vigência deste diploma, os processos individuais de integração, devendo os interessados fazer entrega da documentação necessária à sua instrução no prazo de trinta dias.
 
 3 - A integração de pessoal far-se-á mediante listas nominativas aprovadas por despacho do Ministro da Agricultura e Pescas, independentemente de quaisquer formalidades, salvo o visto do Tribunal de Contas e publicação no Diário da República.
 
-Art. 3.º - 1 - Aos funcionários integrados no quadro de supranumerários aplicar-se-á o regime de pessoal dos quadros únicos do MAP.
+###### Artigo 3.º
+
+1 - Aos funcionários integrados no quadro de supranumerários aplicar-se-á o regime de pessoal dos quadros únicos do MAP.
 
 2 - O quadro de supranumerários é de natureza transitória, pelo que serão extintos os lugares à medida que vagarem.
 
-Art. 4.º - 1 - Compete à Secretaria-Geral, em colaboração com a Direcção-Geral do Ordenamento e Gestão Florestal, a gestão do quadro de supranumerários.
+###### Artigo 4.º
+
+1 - Compete à Secretaria-Geral, em colaboração com a Direcção-Geral do Ordenamento e Gestão Florestal, a gestão do quadro de supranumerários.
 
 2 - A integração nos quadros únicos e a consequente extinção dos lugares no quadro a que se refere o artigo 1.º poderão ter lugar desde que se trate:
 
@@ -136,19 +161,27 @@ c) De lugares resultantes do redimensionamento dos quadros únicos do MAP, sem p
 
 3 - Nos casos das alíneas b) e c) do número anterior, os supranumerários serão opositores obrigatórios aos concursos conjuntamente com os funcionários dos quadros únicos, sendo incluídos na lista única da classificação.
 
-Art. 5.º - 1 - O pessoal integrado nos termos deste diploma será prioritariamente afectado à vigilância da caça e a outras tarefas cometidas à Direcção-Geral do Ordenamento e Gestão Florestal, sem prejuízo da sua afectação a outros órgãos e serviços do Ministério da Agricultura e Pescas quando tal se mostre conveniente.
+###### Artigo 5.º
+
+1 - O pessoal integrado nos termos deste diploma será prioritariamente afectado à vigilância da caça e a outras tarefas cometidas à Direcção-Geral do Ordenamento e Gestão Florestal, sem prejuízo da sua afectação a outros órgãos e serviços do Ministério da Agricultura e Pescas quando tal se mostre conveniente.
 
 2 - Com vista à plena integração dos supranumerários nos métodos de actuação e no desempenho das atribuições cometidas à Direcção-Geral do Ordenamento e Gestão Florestal, realizar-se-ão acções intensivas de formação e reciclagem, destinadas especialmente ao pessoal empenhado na vigilância da caça.
 
 3 - O pessoal que, por impossibilidade física ou outras razões ponderosas, venha a ser considerado incapacitado para o exercício de funções de vigilância poderá ser afectado a outras funções, nomeadamente às que competem ao pessoal agrícola e auxiliar, sem prejuízo do nível de remuneração a que tenha direito.
 
-Art. 6.º - 1 - Até ao final do corrente ano económico, os encargos com pessoal do quadro de supranumerários e pensões complementares de aposentação serão suportados pelo Fundo Especial da Caça e Pesca.
+###### Artigo 6.º
+
+1 - Até ao final do corrente ano económico, os encargos com pessoal do quadro de supranumerários e pensões complementares de aposentação serão suportados pelo Fundo Especial da Caça e Pesca.
 
 2 - A partir de 1 de Janeiro de 1980 essas despesas constituirão encargo do orçamento de contas de ordem da Direcção-Geral do Ordenamento e Gestão Florestal.
 
-Art. 7.º As dúvidas resultantes da aplicação deste diploma serão resolvidas por despacho dos Ministros da Agricultura e Pescas e das Finanças e do membro do Governo que tiver a seu cargo a função pública, de harmonia com as respectivas competências.
+###### Artigo 7.º
 
-Art. 8.º Este diploma entra imediatamente em vigor.
+As dúvidas resultantes da aplicação deste diploma serão resolvidas por despacho dos Ministros da Agricultura e Pescas e das Finanças e do membro do Governo que tiver a seu cargo a função pública, de harmonia com as respectivas competências.
+
+###### Artigo 8.º
+
+Este diploma entra imediatamente em vigor.
 
 Maria de Lourdes Ruivo da Silva Matos Pintasilgo - António Luciano Pacheco de Sousa Franco - Joaquim da Silva Lourenço - Gabriela Guedes Salgueiro.
 

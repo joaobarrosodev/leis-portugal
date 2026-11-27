@@ -1,0 +1,425 @@
+[
+ {
+  "id": "pt:dre:107047290:por",
+  "artigos": [],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Decreto-Lei n.º 33/2018 (repristinação do Decreto-Lei n.º 389/99, segundo a triagem)",
+    "motivo": "sem texto: o diploma que altera vem vazio na vista; não se vê instrução dirigida ao original"
+   },
+   {
+    "instrucao": "Decreto-Lei n.º 32/2022 (tutela conjunta sobre o CNPSSS)",
+    "motivo": "texto omitido na vista; segundo a triagem é não textual, sem nova redação; não há instrução visível dirigida ao original"
+   }
+  ]
+ },
+ {
+  "id": "pt:dre:122728685:por",
+  "artigos": [],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 69/2022, art. 2.º: nova redação do art. 4.º-A do Decreto-Lei n.º 380/97",
+    "motivo": "outro diploma: confirmado no texto, altera o DL 380/97 «na sua redação atual»; o original (DL 83/2019) só o alterou e republicou em anexo"
+   },
+   {
+    "instrucao": "Portaria n.º 283/2022 (alteração da Portaria n.º 7/98)",
+    "motivo": "outro diploma: texto omitido na vista; segundo a triagem altera a Portaria n.º 7/98, não o original"
+   }
+  ]
+ },
+ {
+  "id": "pt:dre:138571583:por",
+  "artigos": [],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 10/2025, art. 2.º: nova redação dos arts. 5.º, 16.º, 17.º, 19.º, 21.º e 22.º do DL 8/2017",
+    "motivo": "outro diploma: confirmado, a instrução visa o DL 8/2017 «na sua redação atual»; o original (DL 44/2020) só o republica em anexo"
+   },
+   {
+    "instrucao": "DL 10/2025, art. 3.º: revogação do n.º 4 do art. 5.º do DL 8/2017",
+    "motivo": "outro diploma: confirmado, visa o DL 8/2017"
+   }
+  ]
+ },
+ {
+  "id": "pt:dre:141259622:por",
+  "artigos": [],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 17/2022, art. 2.º: nova redação do art. 4.º do Decreto-Lei n.º 96/89",
+    "motivo": "outro diploma: confirmado, altera o DL 96/89 «na sua redação atual»; a Lei n.º 56/2020 só aparece na lista das suas alterações"
+   }
+  ]
+ },
+ {
+  "id": "pt:dre:183801105:por",
+  "artigos": [],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DLR n.º 1/2023/A (alteração ao DLR 8/2002/A, segundo quem consolidou)",
+    "motivo": "sem texto: o diploma que altera vem vazio na vista; não se vê instrução dirigida ao original"
+   }
+  ]
+ },
+ {
+  "id": "pt:dre:183941512:por",
+  "artigos": [],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DLR n.º 1/2023/A (alteração ao art. 5.º do DLR 16/2015/A, segundo quem consolidou)",
+    "motivo": "sem texto: o diploma que altera vem vazio na vista; não se vê instrução dirigida ao original"
+   }
+  ]
+ },
+ {
+  "id": "pt:dre:194828:por",
+  "artigos": [
+   {
+    "artigo": "(preâmbulo)",
+    "veredicto": "certo",
+    "motivo": "texto igual ao original; só foi separado em artigos (nenhuma instrução o altera)",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "texto igual ao original; só foi separado em artigos (nenhuma instrução o altera)",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "texto igual ao original; só foi separado em artigos (nenhuma instrução o altera)",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "texto igual ao original; só foi separado em artigos (nenhuma instrução o altera)",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "texto igual ao original; só foi separado em artigos (nenhuma instrução o altera)",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 309-A/75, art. 1.º: extinção do 2.º Tribunal Militar Territorial de Angola e nova designação do 1.º",
+    "motivo": "não textual: confirmado, extingue o órgão e muda a designação sem revogar nem dar nova redação a artigos do original"
+   },
+   {
+    "instrucao": "DL 309-A/75, arts. 2.º e 3.º: jurisdição e processos pendentes",
+    "motivo": "não textual: normas próprias do alterador, sem nova redação do original"
+   }
+  ]
+ },
+ {
+  "id": "pt:dre:234499:por",
+  "artigos": [
+   {
+    "artigo": "(preâmbulo)",
+    "veredicto": "certo",
+    "motivo": "texto igual ao original; só foi separado em artigos (nenhuma instrução o altera)",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "texto igual ao original; só foi separado em artigos (nenhuma instrução o altera)",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "texto igual ao original; só foi separado em artigos (nenhuma instrução o altera)",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "texto igual ao original; só foi separado em artigos (nenhuma instrução o altera)",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "texto igual ao original; só foi separado em artigos (nenhuma instrução o altera)",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "texto igual ao original; só foi separado em artigos (nenhuma instrução o altera)",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "texto igual ao original; só foi separado em artigos (nenhuma instrução o altera)",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "certo",
+    "motivo": "texto igual ao original; só foi separado em artigos (nenhuma instrução o altera)",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "texto igual ao original; só foi separado em artigos (nenhuma instrução o altera)",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "texto igual ao original; só foi separado em artigos (nenhuma instrução o altera)",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 10.º",
+    "veredicto": "certo",
+    "motivo": "texto igual ao original; só foi separado em artigos (nenhuma instrução o altera)",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 11.º",
+    "veredicto": "certo",
+    "motivo": "texto igual ao original; só foi separado em artigos (nenhuma instrução o altera)",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 12.º",
+    "veredicto": "certo",
+    "motivo": "texto igual ao original; só foi separado em artigos (nenhuma instrução o altera)",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 13.º",
+    "veredicto": "certo",
+    "motivo": "texto igual ao original; só foi separado em artigos (nenhuma instrução o altera)",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 14.º",
+    "veredicto": "certo",
+    "motivo": "texto igual ao original; só foi separado em artigos (nenhuma instrução o altera)",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 15.º",
+    "veredicto": "certo",
+    "motivo": "texto igual ao original; só foi separado em artigos (nenhuma instrução o altera)",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 16.º",
+    "veredicto": "certo",
+    "motivo": "texto igual ao original; só foi separado em artigos (nenhuma instrução o altera)",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 394/90, art. 22.º: revoga o DL 5/89 «em tudo o que se refere à apresentação de novas candidaturas» (produtos agrícolas)",
+    "motivo": "revogação condicional: confirmado, revoga só por matéria e para novas candidaturas, sem designar artigos, números ou alíneas"
+   },
+   {
+    "instrucao": "DL 443/91, art. 15.º: revoga o DL 5/89 na mesma medida para produtos da pesca e aquicultura",
+    "motivo": "revogação condicional: segundo o excerto da triagem, revogação parcial por matéria sem artigo identificado (texto omitido na vista)"
+   }
+  ]
+ },
+ {
+  "id": "pt:dre:234893:por",
+  "artigos": [
+   {
+    "artigo": "(preâmbulo)",
+    "veredicto": "certo",
+    "motivo": "texto igual ao original; só foi separado em artigos (nenhuma instrução o altera)",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "errado",
+    "motivo": "o DL 167/2014, art. 15.º, n.º 1, al. d), revoga o DL 48283 na parte respeitante às OGME, e todo o artigo respeita às OGME (lugares do mapa IV do DL 44322, quadro orgânico das OGME): devia estar revogado",
+    "texto_esperado": "###### Artigo 1.º\n\n(Revogado.)"
+   },
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "errado",
+    "motivo": "o artigo trata só do quadro orgânico das OGME; revogado pelo DL 167/2014, art. 15.º, n.º 1, al. d)",
+    "texto_esperado": "###### Artigo 2.º\n\n(Revogado.)\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 21 de Março de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho."
+   }
+  ],
+  "instrucoes_em_falta": [
+   "DL 167/2014, art. 15.º, n.º 1, al. d): revoga o DL 48283 «na parte respeitante às OGME»; todo o diploma (arts. 1.º e 2.º) respeita às OGME, pelo que os arts. 1.º e 2.º deviam ficar «(Revogado.)» — não é revogação condicional, o alvo é conhecido"
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": []
+ },
+ {
+  "id": "pt:dre:235936:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "mesmo texto do original; só a chave e o título passaram de «ARTIGO» para «Artigo»",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "mesmo texto do original; só a chave e o título passaram de «ARTIGO» para «Artigo»",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "mesmo texto do original; só a chave e o título passaram de «ARTIGO» para «Artigo»",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "mesmo texto do original; só a chave e o título passaram de «ARTIGO» para «Artigo»",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "mesmo texto do original; só a chave e o título passaram de «ARTIGO» para «Artigo»",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "mesmo texto do original; só a chave e o título passaram de «ARTIGO» para «Artigo»",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "certo",
+    "motivo": "mesmo texto do original; só a chave e o título passaram de «ARTIGO» para «Artigo»",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "mesmo texto do original; só a chave e o título passaram de «ARTIGO» para «Artigo»",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "mesmo texto do original; só a chave e o título passaram de «ARTIGO» para «Artigo»",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "ARTIGO 1.º",
+    "veredicto": "certo",
+    "motivo": "mesmo texto do original; só a chave e o título passaram de «ARTIGO» para «Artigo»",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "ARTIGO 2.º",
+    "veredicto": "certo",
+    "motivo": "mesmo texto do original; só a chave e o título passaram de «ARTIGO» para «Artigo»",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "ARTIGO 3.º",
+    "veredicto": "certo",
+    "motivo": "mesmo texto do original; só a chave e o título passaram de «ARTIGO» para «Artigo»",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "ARTIGO 4.º",
+    "veredicto": "certo",
+    "motivo": "mesmo texto do original; só a chave e o título passaram de «ARTIGO» para «Artigo»",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "ARTIGO 5.º",
+    "veredicto": "certo",
+    "motivo": "mesmo texto do original; só a chave e o título passaram de «ARTIGO» para «Artigo»",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "ARTIGO 6.º",
+    "veredicto": "certo",
+    "motivo": "mesmo texto do original; só a chave e o título passaram de «ARTIGO» para «Artigo»",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "ARTIGO 7.º",
+    "veredicto": "certo",
+    "motivo": "mesmo texto do original; só a chave e o título passaram de «ARTIGO» para «Artigo»",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "ARTIGO 8.º",
+    "veredicto": "certo",
+    "motivo": "mesmo texto do original; só a chave e o título passaram de «ARTIGO» para «Artigo»",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "ARTIGO 9.º",
+    "veredicto": "certo",
+    "motivo": "mesmo texto do original; só a chave e o título passaram de «ARTIGO» para «Artigo»",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 532-A/75, art. 1.º, n.º 2: o GCC é integrado no Ministério da Cooperação",
+    "motivo": "não textual: texto omitido na vista; segundo a triagem é integração orgânica sem nova redação de artigos do original"
+   },
+   {
+    "instrucao": "DL 439-A/83, art. 1.º: é extinto o GCC criado pelo DL 791/74",
+    "motivo": "não textual: confirmado, extinção do organismo sem norma que revogue o original ou dê nova redação; o alterador não tem norma revogatória"
+   }
+  ]
+ }
+]

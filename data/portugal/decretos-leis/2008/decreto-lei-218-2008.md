@@ -40,10 +40,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2010-02-17'
+version_history:
+  file: decreto-lei-218-2008.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2008-11-11'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-02-17'
+    amending: pt:dre:610216:por
+    amending_title: Decreto-Lei n.º 11/2010
+    changes:
+    - Altera Artigo ANEXO III — (a que se referem os artigos 5.º e 6.º)
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/218/2008/11/11/p/dre/pt/html
@@ -69,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T03:04:52Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 11/2010. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2008/decreto-lei-218-2008.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -410,7 +425,7 @@ Adenda à ficha de homologação CE n.º ... relativa à homologação de um ve�
 
 ## ANEXO III — (a que se referem os artigos 5.º e 6.º)
 
-1 - Os requisitos técnicos são os previstos nos n.os 2, 5 e 6 nos anexos n.os3 a 9 do Regulamento UNECE n.º 48 (*).
+1 - Os requisitos técnicos são os previstos nos n.os 2, 5 e 6 e nos anexos 3 a 11 do Regulamento UNECE n.º 48.
 
 2 - Para efeitos da aplicação das disposições constantes do n.º 1, é aplicável o seguinte:
 
@@ -432,4 +447,4 @@ g) No anexo n.º 5, a nota de rodapé 1 passa a ter a seguinte redacção:
 
 3 - Sem prejuízo do disposto nos artigos 24.º e 25.º do Regulamento referido na alínea g) do número anterior, dos requisitos constantes no presente anexo e de quaisquer outros requisitos de qualquer das directivas específicas, é proibida a instalação de qualquer outro dispositivo de iluminação ou sinalização luminosa para além dos definidos no n.º 2.7 do Regulamento UNECE n.º 48.
 
-(*) JO, n.º L 137, de 30 de Maio de 2007, p. 1.
+> Alterado pelo/a [Decreto-Lei n.º 11/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2010-610216), publicado em 2010-02-12.

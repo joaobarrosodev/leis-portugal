@@ -1,0 +1,41 @@
+[
+  {
+    "id": "pt:dre:154850:por",
+    "artigos": [
+      {"artigo": "Artigo 2.º", "veredicto": "certo", "motivo": "O § único do art. 2.º foi substituído pelo art. 8.º do DL 56/74 e depois revogado expressamente pela alínea d) do art. 27.º da Lei 1/79 («o § único do artigo 2.º do Decreto-Lei n.º 44830 ... com a redacção que lhe foi dada pelo Decreto-Lei n.º 56/74»); fica «§ único. (Revogado.)», corpo igual.", "texto_esperado": ""}
+    ],
+    "instrucoes_em_falta": [],
+    "instrucoes_justificadas": [
+      {"instrucao": "DL 47801, art. 2.º: o disposto no art. 2.º do DL 44830 é aplicável aos oficiais de diligências das Câmaras Municipais de Lisboa e do Porto", "motivo": "Não textual: extensão do âmbito de aplicação, sem nova redação (confirmado no texto do DL 47801)."}
+    ],
+    "artigos_a_mais": [],
+    "artigos_em_falta": [],
+    "fora_dos_artigos": "sem alterações"
+  },
+  {
+    "id": "pt:dre:155655:por",
+    "artigos": [
+      {"artigo": "Artigo 1.º", "veredicto": "dúvida", "motivo": "O art. 9.º do DL 388/78 (e da Lei 10/79) revoga «os artigos 1.º e 2.º, com excepção do § 1.º». Há um § 1.º que fica em vigor e o consolidado revogou o art. 1.º por inteiro. A instrução não diz se o § 1.º ressalvado é o do art. 1.º (senhas de presença dos vogais) ou o do art. 2.º (delegado da Inspecção de Seguros). Se for o do art. 1.º, deve ficar o § 1.º (com o parágrafo seguinte) e o resto «(Revogado.)».", "texto_esperado": "(Revogado.) [corpo e § 2.º]; se a ressalva visar este artigo: «§ 1.º Os vogais do Conselho Nacional dos Serviços de Incêndios que forem funcionários exercem os cargos sem direito a remuneração; ... Os vogais que não residirem em Lisboa terão ainda direito a abono de transporte e a ajudas de custo.» mantido"},
+      {"artigo": "Artigo 2.º", "veredicto": "dúvida", "motivo": "Mesma revogação com ressalva do § 1.º. O consolidado revogou o art. 2.º por inteiro. Se o § 1.º ressalvado é o do art. 2.º, deve manter-se esse § 1.º e o resto fica «(Revogado.)».", "texto_esperado": "Se a ressalva visar este artigo: corpo, n.os 1.º a 6.º e § 2.º «(Revogado.)»; «§ 1.º No exercício da competência a que se refere o n.º 2.º será o Conselho Nacional dos Serviços de Incêndios assistido de um delegado da Inspecção de Seguros, com direito de voto.» mantido"},
+      {"artigo": "Artigo 6.º", "veredicto": "certo", "motivo": "Redação do art. 1.º do DL 36/94 (que substitui a do DL 36/80), letra a letra, n.os 1 e 2.", "texto_esperado": ""}
+    ],
+    "instrucoes_em_falta": [
+      "DL 388/78, art. 9.º (e Lei 10/79, art. 9.º): ressalva «com excepção do § 1.º» na revogação dos artigos 1.º e 2.º; o consolidado revogou os dois artigos por inteiro e não manteve nenhum § 1.º (alvo incerto: § 1.º do art. 1.º ou do art. 2.º)"
+    ],
+    "instrucoes_justificadas": [],
+    "artigos_a_mais": [],
+    "artigos_em_falta": [],
+    "fora_dos_artigos": "sem alterações"
+  },
+  {
+    "id": "pt:dre:163631:por",
+    "artigos": [
+      {"artigo": "Artigo 5.º", "veredicto": "errado", "motivo": "O § único do art. 4.º do DL 44970 revoga o § único do art. 5.º. O consolidado apagou o parágrafo em vez de o marcar como revogado.", "texto_esperado": "É criado na Secretaria de Estado, e integrado na Direcção-Geral dos Negócios Políticos e da Administração Interna, mais um lugar de adjunto do director-geral, com a categoria de ministro plenipotenciário de 2.ª classe, cujas funções serão definidas por despacho ministerial.\n\n§ único. (Revogado.)"}
+    ],
+    "instrucoes_em_falta": [],
+    "instrucoes_justificadas": [],
+    "artigos_a_mais": [],
+    "artigos_em_falta": [],
+    "fora_dos_artigos": "sem alterações"
+  }
+]

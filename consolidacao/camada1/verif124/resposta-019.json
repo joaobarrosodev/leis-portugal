@@ -1,0 +1,154 @@
+[
+ {
+  "id": "pt:dre:195800:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "N.º 3 com a redação do art. 1.º do DL 136/2004; n.os 1 e 2 originais.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "Alíneas b), g), m), n), o) e p) com a redação do DL 136/2004; restantes («...») originais.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "Alíneas b) a i) do n.º 1 com a redação do art. 1.º do DL 136/2004; n.os 2 a 4 originais.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "N.º 1 do DL 136/2004; n.os 2 e 3 originais («...»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 10.º",
+    "veredicto": "certo",
+    "motivo": "N.os 1 e 4 do DL 136/2004; n.os 2 e 3 originais.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 11.º",
+    "veredicto": "certo",
+    "motivo": "N.º 1 do DL 136/2004, n.º 2 original; o n.º 3 cai porque a nova redação só tem dois números (a republicação confirma).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 17.º",
+    "veredicto": "certo",
+    "motivo": "N.º 1 do DL 136/2004; n.os 2 e 3 «...» mantêm o texto original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 18.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 2.º do DL 136/2004.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 19.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 2.º do DL 136/2004.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 20.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 2.º do DL 136/2004; a fórmula final e as assinaturas do original ficam.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 215-A/2004 (Lei Orgânica do XVI Governo), art. 25.º, n.º 3, j): o Conselho transita para o Ministério do Ambiente e do Ordenamento do Território",
+    "motivo": "Não textual: mudança de enquadramento ministerial, sem nova redação do DL 221/97."
+   },
+   {
+    "instrucao": "DL 119/2013",
+    "motivo": "O diploma que altera não traz texto na vista."
+   },
+   {
+    "instrucao": "DL 32/2024",
+    "motivo": "O diploma que altera não traz texto na vista."
+   },
+   {
+    "instrucao": "DL 87-A/2025",
+    "motivo": "O diploma que altera não traz texto na vista."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:198679:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação do art. 2.º do DL 19/73.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "Proémio e alíneas a) a h) do DL 19/73, alínea i) original («...») e § único aditado.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação do DL 19/73 (corpo e §§ 1.º a 6.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação do DL 19/73 (corpo e §§ 1.º a 4.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 10.º",
+    "veredicto": "certo",
+    "motivo": "Corpo e §§ 3.º e 4.º do DL 19/73; §§ 1.º e 2.º originais.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 15.º",
+    "veredicto": "certo",
+    "motivo": "Corpo e §§ 1.º e 3.º do DL 19/73 (o § 1.º novo substitui o antigo com as suas rubricas); §§ 2.º e 4.º originais.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 17.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação do DL 19/73.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 19/73, art. 1.º (autonomia administrativa e financeira e património próprio do Gabinete)",
+    "motivo": "Não textual: não dá nova redação a nenhum artigo do DL 49203."
+   },
+   {
+    "instrucao": "DL 19/73, arts. 3.º a 9.º (extinção da Brigada Técnica, transferência de bens e pessoal, representações, encargos)",
+    "motivo": "Não textual: normas autónomas do DL 19/73."
+   },
+   {
+    "instrucao": "DL 602/75 (transferência do Gabinete do Plano do Cunene para o Estado de Angola)",
+    "motivo": "Não textual: não dá nova redação nem revoga artigos do DL 49203."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

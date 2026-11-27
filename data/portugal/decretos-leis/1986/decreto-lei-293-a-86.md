@@ -62,7 +62,6 @@ version_history:
     - Altera Artigo unidades 19-21
     - Altera Artigo unidades 23-23
     - Altera Artigo unidades 26-27
-    - Adita Artigo depois da unidade 27
     - Altera Artigo unidades 30-35
     - Altera Artigo unidades 36-37
     - Altera Artigo unidades 38-38
@@ -70,7 +69,8 @@ version_history:
     - Altera Artigo unidades 44-44
     - Altera Artigo unidades 47-47
     - Altera Artigo unidades 54-54
-    - Altera Artigo unidades 56-57
+    - Altera Artigo unidades 56-56
+    - Altera Artigo unidades 57-57
     - Adita Artigo depois da unidade 58
     - Altera Artigo unidades 65-150
 identifiers:
@@ -226,13 +226,11 @@ d) As instalações mecânicas situadas no cais do Seixalinho.
 
 7 - A SILOPOR celebrará com a EPAC um acordo onde se estabeleça a composição, categorias e funções do pessoal actualmente ao serviço da EPAC que eventualmente venham a integrar o quadro de pessoal da nova sociedade, sem prejuízo da natureza do vínculo laboral, garantindo-se os direitos e regalias adquiridos pelos trabalhadores que transitam para a SILOPOR à data da transferência.
 
-> Alterado pelo/a [Decreto-Lei n.º 376/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/376-1988-354087), publicado em 1988-10-21.
-
 8 - A SILOPOR constituirá o seu quadro inicial, reportado à data de 12 de Setembro de 1986, com pessoal exclusivamente transferido dos quadros da EPAC.
 
 9 - Uma comissão composta por três elementos, sendo um escolhido pela EPAC, outro pela SILOPOR e um terceiro, que presidirá, pelo Ministro das Finanças, elaborará, até 31 de Outubro de 1988, um relatório onde esteja determinado o valor real da dívida referida no n.º 6 anterior e se proponha a metodologia a adaptar para a respectiva liquidação.
 
-> Aditado pelo/a [Decreto-Lei n.º 376/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/376-1988-354087), publicado em 1988-10-21.
+> Alterado pelo/a [Decreto-Lei n.º 376/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/376-1988-354087), publicado em 1988-10-21.
 
 Art. 3.º - 1 - A SILOPOR terá inicialmente um capital social de 3500000 contos, integralmente subscrito e realizado pelo Estado, obtido mediante destaque do capital social da EPAC.
 
@@ -305,6 +303,8 @@ Art. 9.º São aprovados os estatutos da SILOPOR anexos, que se consideram parte
 2 - Os presentes estatutos não carecem de redução a escritura pública, devendo o registo comercial competente ser feito com base no Diário da República em que hajam sido publicados.
 
 3 - As eventuais alterações aos estatutos em anexo poderão ser efectuadas de harmonia com as disposições aplicáveis da lei comercial e dos próprios estatutos e produzirão todos os seus efeitos, independentemente da forma legislativa, desde que não contradigam o disposto nos artigos deste diploma, sendo bastante a sua redução a escritura pública e o subsequente registo.
+
+> Alterado pelo/a [Lei n.º 32/87](https://diariodarepublica.pt/dr/detalhe/lei/32-1987-420029), publicado em 1987-07-10.
 
 Art. 10.º - 1 - A cisão determinada pelo presente diploma produz os seus efeitos na data da entrada em vigor do mesmo.
 

@@ -1,0 +1,45 @@
+[
+ {
+  "id": "pt:dre:642219:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "O art. 1.º do DL 181/2009 altera a redação dada pelo art. 2.º do original aos arts. 77.º (n.º 3), 85.º (n.º 2), 107.º (n.º 4, b)) e 148.º (n.º 2, j), n.º 4, d)) do DL 380/99; o consolidado tem essa redação letra a letra e o resto igual. As linhas «a) ...», «f) ...» vêm do alterador. Nota: o art. 2.º, n.º 2, do DL 181/2009 limita os efeitos de 107.º/4/b) e 148.º/2/j) ao período até ao DL 46/2009, sem mudar o texto.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "Art. 75.º-B, n.º 2, aditado pelo art. 3.º do original, com a redação do DL 181/2009 («n.º 4 do artigo anterior») letra a letra.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 46/2009, art. 1.º: nova redação dos arts. 77.º, 83.º-A, 92.º-A, 93.º, 95.º, 97.º-A, 100.º, 104.º, 107.º, 109.º, 112.º e 148.º do DL 380/99 (e a republicação)",
+    "motivo": "Outro diploma: altera o DL 380/99; o original só aparece na lista das alterações."
+   },
+   {
+    "instrucao": "DL 181/2009, art. 1.º, no anexo de republicação",
+    "motivo": "A instrução visa a redação dada pelos arts. 2.º e 3.º do original, onde está aplicada; o anexo republica o DL 380/99 (outro diploma)."
+   },
+   {
+    "instrucao": "DL 181/2009, art. 1.º: art. 155.º do DL 380/99",
+    "motivo": "O alterador não traz o texto da alteração do 155.º (e o 155.º não está nos arts. 2.º e 3.º do original)."
+   },
+   {
+    "instrucao": "DL 2/2011: local de publicação dos elementos gráficos dos instrumentos de gestão territorial",
+    "motivo": "Outro diploma (DL 380/99); o original só aparece na lista das alterações."
+   },
+   {
+    "instrucao": "RCM 92/2012: suspensão de planos de ordenamento ao abrigo do art. 100.º do RJIGT",
+    "motivo": "Não textual: suspensão de planos, outro diploma."
+   }
+  ]
+ }
+]

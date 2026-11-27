@@ -1,0 +1,142 @@
+[
+ {
+  "id": "pt:dre:615043:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 1.º #2",
+    "veredicto": "certo",
+    "motivo": "Capítulo I do Regulamento revogado pelo DL 74/2005, art. 2.º; título e epígrafe mantidos, corpo «(Revogado.)». As alterações anteriores (DL 42/2003 aos arts. 2.º-4.º) ficam absorvidas pela revogação.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 2.º #2",
+    "veredicto": "certo",
+    "motivo": "Capítulo I do Regulamento revogado pelo DL 74/2005, art. 2.º; título e epígrafe mantidos, corpo «(Revogado.)». As alterações anteriores (DL 42/2003 aos arts. 2.º-4.º) ficam absorvidas pela revogação.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º #2",
+    "veredicto": "certo",
+    "motivo": "Capítulo I do Regulamento revogado pelo DL 74/2005, art. 2.º; título e epígrafe mantidos, corpo «(Revogado.)». As alterações anteriores (DL 42/2003 aos arts. 2.º-4.º) ficam absorvidas pela revogação.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º #2",
+    "veredicto": "certo",
+    "motivo": "Capítulo I do Regulamento revogado pelo DL 74/2005, art. 2.º; título e epígrafe mantidos, corpo «(Revogado.)». As alterações anteriores (DL 42/2003 aos arts. 2.º-4.º) ficam absorvidas pela revogação.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º #2",
+    "veredicto": "certo",
+    "motivo": "Capítulo I do Regulamento revogado pelo DL 74/2005, art. 2.º; título e epígrafe mantidos, corpo «(Revogado.)». As alterações anteriores (DL 42/2003 aos arts. 2.º-4.º) ficam absorvidas pela revogação.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º #2",
+    "veredicto": "certo",
+    "motivo": "Capítulo I do Regulamento revogado pelo DL 74/2005, art. 2.º; título e epígrafe mantidos, corpo «(Revogado.)». As alterações anteriores (DL 42/2003 aos arts. 2.º-4.º) ficam absorvidas pela revogação.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "certo",
+    "motivo": "Capítulo I do Regulamento revogado pelo DL 74/2005, art. 2.º; título e epígrafe mantidos, corpo «(Revogado.)». As alterações anteriores (DL 42/2003 aos arts. 2.º-4.º) ficam absorvidas pela revogação.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "Capítulo I do Regulamento revogado pelo DL 74/2005, art. 2.º; título e epígrafe mantidos, corpo «(Revogado.)». As alterações anteriores (DL 42/2003 aos arts. 2.º-4.º) ficam absorvidas pela revogação.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "Capítulo I do Regulamento revogado pelo DL 74/2005, art. 2.º; título e epígrafe mantidos, corpo «(Revogado.)». As alterações anteriores (DL 42/2003 aos arts. 2.º-4.º) ficam absorvidas pela revogação.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 10.º",
+    "veredicto": "certo",
+    "motivo": "Capítulo I do Regulamento revogado pelo DL 74/2005, art. 2.º; título e epígrafe mantidos, corpo «(Revogado.)». As alterações anteriores (DL 42/2003 aos arts. 2.º-4.º) ficam absorvidas pela revogação.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 11.º",
+    "veredicto": "certo",
+    "motivo": "Capítulo I do Regulamento revogado pelo DL 74/2005, art. 2.º; título e epígrafe mantidos, corpo «(Revogado.)». As alterações anteriores (DL 42/2003 aos arts. 2.º-4.º) ficam absorvidas pela revogação.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 30.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação dada pelo DL 53/2013, art. 8.º, n.º 1, copiada letra a letra (n.os 1 e 2).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "ANEXO I",
+    "veredicto": "certo",
+    "motivo": "Anexos I a III revogados pelo DL 74/2005, art. 2.º; título mantido e corpo «(Revogado.)». Alterações anteriores (DL 114/2002 art. 3.º e DL 124/2002 art. 2.º ao anexo I/II) absorvidas pela revogação.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "ANEXO II",
+    "veredicto": "certo",
+    "motivo": "Anexos I a III revogados pelo DL 74/2005, art. 2.º; título mantido e corpo «(Revogado.)». Alterações anteriores (DL 114/2002 art. 3.º e DL 124/2002 art. 2.º ao anexo I/II) absorvidas pela revogação.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "ANEXO III",
+    "veredicto": "certo",
+    "motivo": "Anexos I a III revogados pelo DL 74/2005, art. 2.º; título mantido e corpo «(Revogado.)». Alterações anteriores (DL 114/2002 art. 3.º e DL 124/2002 art. 2.º ao anexo I/II) absorvidas pela revogação.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "ANEXO V",
+    "veredicto": "certo",
+    "motivo": "DL 339/2007, anexo, n.º 1: novas redações dos n.os 4.5.1, 4.5.4.2, 4.7.4.2, 4.10.4.2, 4.14.5.2.2 e 4.15.7 aplicadas letra a letra; o resto («...») igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "ANEXO VIII",
+    "veredicto": "certo",
+    "motivo": "DL 148/2013, art. 3.º e anexo I: só a lista do n.º 3.5.2.1 tem texto novo; substituída letra a letra (incl. Croácia); o resto «[...]» igual ao original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "ANEXO XIV",
+    "veredicto": "certo",
+    "motivo": "DL 339/2007, anexo, n.º 2: nova redação do n.º 1.2 com o quadro n.º 1 (imagem do alterador); resto igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "ANEXO XX",
+    "veredicto": "certo",
+    "motivo": "DL 53/2013, art. 8.º, n.º 2 e anexo III: só o n.º 2.2 tem texto novo, aplicado letra a letra (incl. a alínea T4.3; efeitos de 2013/2016 já decorridos); resto «[...]» igual ao original.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [
+   "DL 339/2007, art. 2.º, n.º 1: nova redação das alíneas p) e q) do artigo 50.º, da alínea c) do artigo 74.º, da alínea b) do n.º 3 do artigo 158.º e do n.º 13 do artigo 159.º do Regulamento — sem efeito: estes artigos (capítulo XI aditado pelo DL 305/2001) não estão no consolidado; o alvo é conhecido, falta a base (capítulo XI), por isso não é justificação admitida.",
+   "DL 339/2007, art. 3.º: aditamento do artigo 66.º-A «Superfícies quentes e cobertura dos terminais das baterias» (texto integral no alterador) — não está no consolidado; o alvo (a seguir ao artigo 66.º do capítulo XI) depende do capítulo XI não aditado."
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 305/2001, art. 1.º, n.º 2: aditamento do capítulo XI e seus anexos ao Regulamento",
+    "motivo": "O diploma que altera não traz o texto da alteração: na vista só vem o art. 1.º; o texto do capítulo XI e anexos (publicado em anexo) não está."
+   },
+   {
+    "instrucao": "DL 339/2007, art. 2.º, n.º 2 e anexo, n.º 3: nova redação do anexo LXXI",
+    "motivo": "O texto novo só vem em imagem (figuras 1a a 4 com ligação ao PDF) e o consolidado não tem um anexo LXXI com título onde o pôr (o último é o XL)."
+   },
+   {
+    "instrucao": "DL 53/2013, art. 12.º: substituição da referência a «Direcção-Geral de Viação» por «Instituto da Mobilidade e dos Transportes, I.P.» no DL 291/2000",
+    "motivo": "Não é textual: mudança de designação sem nova redação dos artigos (confirmado no art. 12.º do alterador)."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

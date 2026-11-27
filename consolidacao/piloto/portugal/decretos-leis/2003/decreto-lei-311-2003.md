@@ -736,9 +736,7 @@ b) Num ponto situado no interior do veículo, a menos de 1 m da saída do ar aqu
 
 3 - Repete-se o ensaio em condições equivalentes a uma velocidade do veículo de 100 km/h. Em tais condições, a concentração de CO não poderá exceder 0,2% em volume. Se o ensaio tiver sido efectuado com o aquecedor entendido como componente, não é necessário repeti-lo no caso do modelo de veículo em que o aquecedor está instalado.
 
-## ANEXO X — Requisitos de segurança aplicáveis aos aquecedores de combustão a GPL
-
-(referente ao artigo 26.º)
+## ANEXO X — (referente ao artigo 26.º)
 
 Requisitos de segurança aplicáveis aos aquecedores de combustão a GPL e sistemas de aquecimento a GPL
 

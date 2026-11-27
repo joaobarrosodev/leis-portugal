@@ -1,0 +1,343 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:391584:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1999-06-22",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "121fcdef88468af4",
+    "74186a35ac3bd740",
+    "6a16700608351a79",
+    "1a2e09ad4aaafa12",
+    "9c5a9d16690f3152",
+    "fa3499d2c07b9596",
+    "3bc61a9e82c5f7b5",
+    "f4a728c33e08ca95",
+    "91bb83b7927f3ff6",
+    "1d6928f9ca27b7bd",
+    "3bbfa311bacfb14a",
+    "82495e7f1a1b2d46",
+    "f59b522cbd7bdc89",
+    "d1da648ab0984832",
+    "2a2442b11ad51074",
+    "48dc813e7fad52ff",
+    "9dcbe02286f6cd18",
+    "94f1492046eaad74"
+   ]
+  },
+  {
+   "date": "2010-07-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:247678:por",
+     "title": "Decreto-Lei n.º 27/2008",
+     "published": "2008-02-22",
+     "dre_path": "/dr/detalhe/decreto-lei/27-2008-247678"
+    },
+    {
+     "id": "pt:dre:334961:por",
+     "title": "Decreto-Lei n.º 81/2010",
+     "published": "2010-06-30",
+     "dre_path": "/dr/detalhe/decreto-lei/81-2010-334961"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 14.º",
+    "Revoga Artigo 8.º",
+    "Revoga Artigo 12.º",
+    "Revoga Artigo 13.º",
+    "Altera Artigo 3.º",
+    "Revoga Artigo 12.º",
+    "Revoga Artigo 13.º",
+    "Altera Artigo ANEXO I — Composição essencial dos alimentos destinados a dietas de restrição calórica"
+   ],
+   "fragments": [
+    "121fcdef88468af4",
+    "74186a35ac3bd740",
+    "6a16700608351a79",
+    "6dfe4f98f558bdc4",
+    "9c5a9d16690f3152",
+    "fa3499d2c07b9596",
+    "0c400e65608f53e1",
+    "cf0771d672afbb08",
+    "333f6496038af3fa",
+    "6ee98df61a80084f",
+    "3bbfa311bacfb14a",
+    "84482e1d5452a4aa",
+    "ed7074b35372ad84",
+    "c002b17e09232202",
+    "50a9592029ea6f5f",
+    "48dc813e7fad52ff",
+    "009cc2156267ffa0",
+    "94f1492046eaad74"
+   ]
+  }
+ ],
+ "fragments": {
+  "121fcdef88468af4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 22 de Junho\n\nPela Directiva n.º [89/398/CEE](https://data.europa.eu/eli/dir/1989/398/oj?locale=pt), do Conselho, de 3 de Maio, foram estabelecidas as regras respeitantes aos géneros alimentícios destinados a uma alimentação especial, a qual dispõe no n.º 1 do artigo 4.º que, por meio de directivas específicas, serão estabelecidas as disposições aplicáveis a determinados grupos de géneros alimentícios.\n\nEm conformidade com o disposto naquela directiva, a Comissão das Comunidades Europeias adoptou, em 26 de Fevereiro de 1996, a Directiva n.º [96/8/CE](https://data.europa.eu/eli/dir/1996/8/oj?locale=pt) e estabeleceu as disposições específicas aplicáveis aos alimentos destinados a serem utilizados em dietas de restrição calórica para redução do peso.\n\nTorna-se, assim, necessário transpor para o direito interno a Directiva n.º [96/8/CE](https://data.europa.eu/eli/dir/1996/8/oj?locale=pt), aprovando as regras de composição e os requisitos nutricionais essenciais dos alimentos destinados a ser utilizados em dietas de restrição calórica para redução do peso, de modo a satisfazer as necessidades diárias de nutrientes essenciais, ou fornecer uma sua fracção significativa às pessoas a que se destinam.\n\nPelo presente diploma são ainda aprovadas as normas sobre rotulagem, publicidade e apresentação dos alimentos destinados a serem utilizados em dietas de restrição calórica para redução do peso e estabelecidos aditamentos e excepções às regras gerais em matéria de rotulagem e publicidade dos géneros alimentícios.\n\nForam ouvidos os órgãos de governo próprios das Regiões Autónomas dos Açores e da Madeira.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta, para valer como lei geral da República, o seguinte:"
+  },
+  "74186a35ac3bd740": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objecto e âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito\n\nO presente diploma transpõe para o direito interno a Directiva n.º [96/8/CE](https://data.europa.eu/eli/dir/1996/8/oj?locale=pt), da Comissão, de 26 de Fevereiro, e estabelece o regime jurídico aplicável aos alimentos para fins nutricionais específicos, destinados a serem utilizados em dietas de restrição calórica para redução do peso e como tal apresentados."
+  },
+  "6a16700608351a79": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\n1 - Para efeitos do presente diploma, entende-se por «alimentos destinados a serem utilizados em dietas de restrição calórica para redução do peso» os alimentos de composição especial que, se utilizados de acordo com as instruções do fabricante, substituem total ou parcialmente toda a dieta diária.\n\n2 - Os alimentos referidos no número anterior podem ser apresentados como substitutos de toda a dieta diária, ou como substitutos de uma ou mais refeições da dieta diária."
+  },
+  "1a2e09ad4aaafa12": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Entidades competentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Entidades competentes\n\n1 - No âmbito do presente diploma, compete à Direcção-Geral da Saúde (DGS):\n\na) Recolher as informações e documentos para os efeitos previstos no artigo 7.º e exigir, se necessário, esclarecimentos suplementares aos fabricantes ou importadores;\n\nb) Suspender ou limitar provisoriamente a comercialização dos produtos, nos termos do artigo 8.º;\n\nc) Comunicar às instâncias comunitárias e aos restantes Estados membros da Comunidade Europeia as decisões tomadas ao abrigo do artigo 8.º;\n\nd) Fiscalizar e controlar o cumprimento das disposições do presente diploma, nomeadamente através das autoridades de saúde;\n\ne) Aplicar as medidas de ordem sanitária que as actividades de fiscalização revelem necessárias.\n\n2 - No cumprimento das funções de fiscalização e controlo referidas na alínea d) do número anterior, a DGS é coadjuvada:\n\na) Pelo Instituto Nacional de Saúde Dr. Ricardo Jorge (INSA), para efeitos de apoio laboratorial;\n\nb) Pela Inspecção-Geral das Actividades Económicas (IGAE), para efeitos do disposto no artigo 11.º"
+  },
+  "9c5a9d16690f3152": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Composição\n\nOs alimentos referidos no artigo 1.º devem observar os critérios de composição constantes dos anexos I e II ao presente diploma, do qual fazem parte integrante."
+  },
+  "fa3499d2c07b9596": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Denominação de venda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Denominação de venda\n\nA denominação utilizada para a venda dos produtos definidos no artigo 2.º do presente diploma deve ser «substituto integral da dieta para controlo do peso» ou «substituto de refeição para controlo de peso», consoante se trate de produtos apresentados como substitutos de toda a dieta diária, ou de produtos apresentados como substitutos de uma ou mais refeições da dieta diária."
+  },
+  "3bc61a9e82c5f7b5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Rotulagem, apresentação e publicidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Rotulagem, apresentação e publicidade\n\n1 - A rotulagem, apresentação e publicidade dos produtos abrangidos pelo presente diploma regem-se pela legislação geral em vigor nessas matérias e pelas normas especiais estabelecidas nos números seguintes.\n\n2 - A rotulagem destes produtos deve, obrigatoriamente, mencionar:\n\na) O nome, firma ou denominação social e o endereço completo ou a sede social do fabricante, importador, embalador ou do responsável pelo lançamento do produto no mercado nacional;\n\nb) O valor energético disponível, expresso em quilojoules (kJ) ou quilocalorias (kcal), o teor em proteínas, glícidos e lípidos, expresso sob forma numérica por quantidade especificada do produto pronto a ser utilizado tal como proposto para consumo;\n\nc) A quantidade média de todas as substâncias minerais e vitaminas do produto em questão relativamente às quais o n.º 5 do anexo I ao presente diploma fixa requisitos obrigatórios, expressa sob forma numérica por quantidade especificada do produto pronto a ser utilizado tal como proposto para consumo.\n\nd) No que respeita aos produtos apresentados como substituto de uma ou mais refeições da dieta diária, esta informação relativa às vitaminas e minerais constantes do quadro do n.º 5 do anexo I ao presente diploma deve também ser expressa em termos de percentagem dos valores definidos no anexo I da Portaria n.º 751/93, de 23 de Agosto;\n\ne) Se necessário, instruções para a sua preparação adequada, bem como a indicação da importância de as observar;\n\nf) Caso um produto, utilizado de acordo com as instruções do fabricante, resulte numa ingestão diária de polióis provenientes de açúcares superior a 20 g por dia, deve existir a menção de que o alimento pode ter efeitos laxantes;\n\ng) A menção da importância de se manter uma ingestão diária de fluidos adequada;\n\nh) No que respeita aos produtos apresentados como substituto de toda a dieta diária, a menção de que o produto fornece quantidades diárias adequadas de todos os nutrientes essenciais e de que o produto não deve ser utilizado durante mais de três semanas sem indicação médica;\n\ni) No que respeita aos produtos apresentados como substituto de uma ou mais refeições da dieta diária, a menção de que os referidos produtos apenas são úteis para o fim pretendido se integrados numa dieta com restrição calórica e de que a referida dieta inclua outros géneros alimentícios.\n\n3 - Todos os componentes específicos dos produtos apresentados para venda como substitutos de toda a dieta diária devem estar contidos na mesma embalagem.\n\n4 - A rotulagem, publicidade e apresentação dos produtos em questão não deve fazer referência à eventual velocidade ou quantidade de perda de peso resultante da sua utilização, nem a qualquer redução do apetite ou saciedade fácil."
+  },
+  "f4a728c33e08ca95": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Comercialização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Comercialização\n\n1 - Tratando-se da primeira comercialização do produto, o fabricante ou o importador, consoante se trate de produto nacional ou fabricado no estrangeiro, envia à DGS um modelo da rotulagem respectiva.\n\n2 - Se o produto já tiver sido comercializado noutro Estado membro da Comunidade Europeia, o fabricante ou o importador transmite também à DGS a indicação da entidade destinatária da primeira notificação de comercialização.\n\n3 - Sempre que necessário, a DGS pode, no prazo de 90 dias sobre a recepção da rotulagem do produto comercializado, exigir ao comerciante ou importador a apresentação de trabalhos científicos e dos dados que comprovam a conformidade dos produtos com as regras constantes deste diploma."
+  },
+  "91bb83b7927f3ff6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Restrições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Restrições\n\n1 - Sem prejuízo do procedimento contra-ordenacional a que houver lugar, a DGS pode suspender ou limitar provisoriamente a comercialização dos produtos abrangidos por este diploma, ainda que circulem livremente em qualquer outro Estado membro da Comunidade Europeia, desde que verifique, fundamentadamente, que não obedecem aos critérios de composição definidos no artigo 4.º ou que põem em perigo a saúde humana.\n\n2 - A DGS comunica de imediato à Comissão das Comunidades Europeias a decisão, devidamente fundamentada, de suspender ou limitar a comercialização dos produtos."
+  },
+  "1d6928f9ca27b7bd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Contra-ordenações\n\n1 - Constitui contra-ordenação, punível com coima mínima de 10000$00 e máxima de 750000$00 ou 3000000$00, consoante se trate de pessoa singular ou colectiva:\n\na) A comercialização de produtos cuja composição não obedece aos critérios referidos no artigo 4.º;\n\nb) A comercialização de produtos em violação do disposto no artigo 5.º;\n\nc) A falta de menção na rotulagem do produto de qualquer das indicações estabelecidas nos n.os 1 e 2 do artigo 6.º;\n\nd) A comercialização dos produtos em contravenção ao disposto nos n.os 3 e 4 do artigo 6.º;\n\ne) A falta das comunicações a que se refere o artigo 7.º\n\n2 - A negligencia é sempre punível."
+  },
+  "3bbfa311bacfb14a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Sanções acessórias\n\nSimultaneamente com a coima pode ser determinada, nos termos da lei geral:\n\na) A perda de objectos pertencentes ao agente;\n\nb) A suspensão da comercialização do produto."
+  },
+  "82495e7f1a1b2d46": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Tramitação processual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Tramitação processual\n\n1 - A fiscalização e instrução dos processos por infracção ao disposto no presente diploma compete à DGS, coadjuvada pelas autoridades de saúde, sem prejuízo das competências de fiscalização e instrução conferidas à IGAE.\n\n2 - Finda a instrução, serão os processos remetidos à DGS para a aplicação das coimas respectivas.\n\n3 - O produto da aplicação das coimas reverte a favor das seguintes entidades:\n\na) 10% para a entidade que fiscaliza;\n\nb) 10% para a entidade que faz a instrução do processo;\n\nc) 20% para a entidade que aplica a coima;\n\nd) 60% para os cofres do Estado."
+  },
+  "f59b522cbd7bdc89": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Regiões Autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Regiões Autónomas\n\n1 - As competências previstas no artigo 11.º serão exercidas, nas Regiões Autónomas, pelos organismos definidos pelos órgãos de governo próprio.\n\n2 - As percentagens previstas no n.º 3 do artigo anterior, provenientes das coimas aplicadas nas Regiões Autónomas dos Açores e da Madeira, constituem receita própria de cada uma delas."
+  },
+  "d1da648ab0984832": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Recurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Recurso\n\nDas decisões finais proferidas pela DGS, nos termos dos artigos 7.º e 8.º deste diploma, cabe recurso para o Ministro da Saúde, a interpor no prazo de 20 dias a contar da notificação."
+  },
+  "2a2442b11ad51074": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Taxas\n\n1 - Pela recolha e apreciação dos documentos e informações previstos no artigo 7.º do presente diploma e pelo controlo da rotulagem dos produtos são cobradas taxas a pagar pelos utentes dos serviços prestados pela DGS, cujos quantitativos são fixados por portaria do Ministro da Saúde.\n\n2 - As receitas previstas no número anterior destinam-se a pagar as despesas decorrentes da prestação do serviço respectivo e constituem receita própria da DGS."
+  },
+  "48dc813e7fad52ff": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia imediato ao da sua publicação.\n\nVisto e aprovado em Conselho de Ministros de 15 de Abril de l999. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes de Pina Moura - Maria de Belém Roseira Martins Coelho Henriques de Pina - José Sócrates Carvalho Pinto de Sousa.\n\nPromulgado em 27 de Maio de 1999.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 9 de Junho de 1999.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "9dcbe02286f6cd18": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO I — Composição essencial dos alimentos destinados a dietas de restrição calórica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — Composição essencial dos alimentos destinados a dietas de restrição calórica\n\nAs especificações previstas neste diploma referem-se aos produtos prontos a utilizar e como tal comercializados ou reconstituídos de acordo com as instruções do fabricante.\n\n1 - Energia:\n\n1.1 - A energia fornecida pelos substitutos integrais da dieta para controlo do peso não deve ser inferior a 3360 kJ (800 kcal) nem exceder 5040 kJ (1200 kcal), no que respeita à dose total diária.\n\n1.2 - A energia fornecida pelos substitutos de refeição para controlo do peso não deve ser inferior a 840 kJ (200 kcal) nem exceder 1680 kJ (400 kcal) por refeição.\n\n2 - Proteínas:\n\n2.1 - As proteínas presentes nos produtos referidos no artigo 2.º do presente diploma não devem constituir menos de 25% nem mais de 50% do valor energético total desses produtos. Em qualquer caso, a quantidade total de proteínas nos substitutos integrais da dieta para controlo do peso não deve exceder 125 g.\n\n2.2 - As disposições supracitadas relativas às proteínas aplicam-se a proteínas cujo índice químico é igual ao da proteína de referência da FAO/OMS (1985), constante do anexo II. Caso o índice químico seja inferior a 100% do da proteína de referência, os níveis proteicos mínimos devem ser aumentados em conformidade. Em qualquer caso, o índice químico da proteína deve ser pelo menos igual a 80% do da proteína de referência.\n\n2.3 - Deve entender-se por «índice químico» o menor dos quocientes entre a quantidade de aminoácido na proteína em questão e a desse mesmo aminoácido na proteína de referência.\n\n2.4 - A incorporação de aminoácidos apenas é permitida com vista a aumentar o valor nutritivo das proteínas unicamente nas proporções necessárias para o efeito.\n\n3 - Lípidos:\n\n3.1 - A energia fornecida pelos lípidos não deve exceder 30% do valor energético total do produto.\n\n3.2 - No que respeita aos substitutos integrais da dieta para controlo do peso, a quantidade de ácido linoleico (sob a forma de glicéridos) não deve ser inferior a 4,5 g.\n\n3.3 - No que respeita aos substitutos de refeição para controlo do peso, a quantidade de ácido linoleico (sob a forma de glicéridos) não deve ser inferior a 1 g.\n\n4 - Fibras dietéticas. - O teor em fibras dietéticas dos substitutos integrais da dieta para controlo do peso não deve ser inferior a 10 g nem exceder 30 g, no que respeita à dose diária.\n\n5 - Vitaminas e minerais:\n\n5.1 - Os substitutos integrais da dieta para controlo do peso deverão conter, no mínimo, no que respeita a toda a dieta diária, 100% das quantidades de vitaminas e minerais especificadas no quadro I.\n\nOs substitutos de refeição para controlo do peso devem fornecer por refeição, pelo menos, 30% das quantidades de vitaminas e minerais especificadas no quadro I; no entanto, a quantidade de potássio por refeição fornecida por estes produtos não deve ser inferior a 500 mg.\n\nQUADRO I\n\n[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/06/143a00/35813584.pdf)](https://files.diariodarepublica.pt/1s/1999/06/143a00/35813584.pdf)"
+  },
+  "94f1492046eaad74": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO II — Requisitos em aminoácidos (ver nota 1)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — Requisitos em aminoácidos (ver nota 1)\n\n[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/06/143a00/35813584.pdf)](https://files.diariodarepublica.pt/1s/1999/06/143a00/35813584.pdf)\n\n(nota 1) Organização Mundial de Saúde, Energy and protein requirements. Report of a Joint FAO/WHO/UNU Meeting, Genebra: Organização Mundial de Saúde, 1985. (WHO Technical Report Series; 724)."
+  },
+  "6dfe4f98f558bdc4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Autoridade competente",
+   "in_force_from": "2010-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 81/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2010-334961), publicado em 2010-06-30.",
+    "Alterado pelo/a [Decreto-Lei n.º 81/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2010-334961), publicado em 2010-06-30."
+   ],
+   "markdown": "###### Artigo 3.º — Autoridade competente\n\n1 - O Gabinete de Planeamento e Políticas é o organismo responsável pelas medidas de política relativas à qualidade e segurança dos produtos abrangidos pelo presente decreto-lei, adiante designado autoridade competente, competindo-lhe, designadamente:\n\na) Seleccionar e aplicar as opções apropriadas de prevenção e controlo no âmbito do Regulamento (CE) n.º [178/2002](http://data.europa.eu/eli/reg/2002/178/oj?locale=pt), do Parlamento Europeu e do Conselho, de 28 de Janeiro;\n\nb) Recolher as informações e documentos necessários para os efeitos de comercialização e notificação e exigir, se necessário, esclarecimentos suplementares aos fabricantes ou importadores;\n\nc) Comunicar às instâncias comunitárias e aos restantes Estados membros da Comissão Europeia as decisões relativas à suspensão ou restrição provisória da comercialização dos produtos abrangidos pelo presente decreto-lei;\n\nd) Elaborar e coordenar a execução do plano de controlo oficial para verificação do cumprimento das normas previstas no presente decreto-lei.\n\n2 - Os serviços competentes nas Regiões Autónomas e as direcções regionais de agricultura e pescas executam o plano de controlo oficial previsto no número anterior.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 81/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2010-334961), publicado em 2010-06-30.\n\n> Alterado pelo/a [Decreto-Lei n.º 81/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2010-334961), publicado em 2010-06-30."
+  },
+  "0c400e65608f53e1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Rotulagem, apresentação e publicidade",
+   "in_force_from": "2010-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 27/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2008-247678), publicado em 2008-02-22.",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 81/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2010-334961), publicado em 2010-06-30."
+   ],
+   "markdown": "###### Artigo 6.º — Rotulagem, apresentação e publicidade\n\n1 - A rotulagem, apresentação e publicidade dos produtos abrangidos pelo presente diploma regem-se pela legislação geral em vigor nessas matérias e pelas normas especiais estabelecidas nos números seguintes.\n\n2 - A rotulagem destes produtos deve, obrigatoriamente, mencionar:\n\na) O nome, firma ou denominação social e o endereço completo ou a sede social do fabricante, importador, embalador ou do responsável pelo lançamento do produto no mercado nacional;\n\nb) O valor energético disponível, expresso em quilojoules (kJ) e quilocalorias (kcal), bem como o teor de proteínas, hidratos de carbono e lípidos, expresso sob forma numérica por quantidade especificada do produto pronto a ser consumido;\n\nc) A quantidade média de todas as substâncias minerais e vitaminas do produto em questão relativamente às quais o n.º 5 do anexo i do presente diploma fixa requisitos obrigatórios, expressa sob forma numérica, por quantidade especificada do produto pronto a ser consumido;\n\nd) No que respeita aos produtos apresentados como substitutos de uma ou mais refeições da dieta diária, a informação referida na alínea anterior relativa às vitaminas e minerais constantes do quadro do n.º 5 do anexo i do presente diploma deve também ser expressa em termos de percentagem dos valores definidos no anexo i do Decreto-Lei n.º 167/2004, de 7 de Julho;\n\ne) Se necessário, instruções para a sua preparação adequada, bem como a indicação da importância de as observar;\n\nf) Caso um produto, utilizado de acordo com as instruções do fabricante, resulte numa ingestão diária de polióis superior a 20 g por dia, deve existir a menção de que o alimento pode ter efeitos laxativos;\n\ng) A menção da importância de se manter uma ingestão diária de fluidos adequada;\n\nh) No que respeita aos produtos apresentados como substituto de toda a dieta diária, a menção de que o produto fornece quantidades diárias adequadas de todos os nutrientes essenciais e de que o produto não deve ser utilizado durante mais de três semanas sem indicação médica;\n\ni) No que respeita aos produtos apresentados como substituto de uma ou mais refeições da dieta diária, a menção de que os referidos produtos apenas são úteis para o fim pretendido se integrados numa dieta com restrição calórica e de que a referida dieta inclua outros géneros alimentícios.\n\n3 - Todos os componentes específicos dos produtos apresentados para venda como substitutos de toda a dieta diária devem estar contidos na mesma embalagem.\n\n4 - A rotulagem, publicidade e apresentação dos produtos em questão não deve fazer referência à eventual velocidade ou quantidade de perda de peso resultante da sua utilização.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 27/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2008-247678), publicado em 2008-02-22.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 81/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2010-334961), publicado em 2010-06-30."
+  },
+  "cf0771d672afbb08": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Comercialização e notificação",
+   "in_force_from": "2010-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 81/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2010-334961), publicado em 2010-06-30."
+   ],
+   "markdown": "###### Artigo 7.º — Comercialização e notificação\n\n1 - Quando se tratar da primeira comercialização de alimentos destinados a serem utilizados em dietas de restrição calórica para redução do peso na Comunidade, o fabricante, se o produto tiver origem num dos Estados membros, ou o importador, se o produto tiver origem em país terceiro, notifica a autoridade competente do modelo da respectiva rotulagem.\n\n2 - Se o produto já tiver sido comercializado na Comunidade, o fabricante ou importador, para além do modelo de rotulagem do produto, notifica a autoridade competente da identidade da entidade destinatária da primeira notificação de comercialização.\n\n3 - A autoridade competente pode exigir, a todo o tempo, ao comerciante ou importador, a apresentação de trabalhos científicos e dados que comprovam a conformidade com as regras estabelecidas neste decreto-lei.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 81/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2010-334961), publicado em 2010-06-30."
+  },
+  "333f6496038af3fa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Restrições",
+   "in_force_from": "2010-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 81/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2010-334961), publicado em 2010-06-30."
+   ],
+   "markdown": "###### Artigo 8.º — Restrições\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 81/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2010-334961), publicado em 2010-06-30."
+  },
+  "6ee98df61a80084f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Contra-ordenações",
+   "in_force_from": "2010-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 81/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2010-334961), publicado em 2010-06-30."
+   ],
+   "markdown": "###### Artigo 9.º — Contra-ordenações\n\n1 - Constitui contra-ordenação punível com coima mínima de (euro) 100 a (euro) 3740 ou de (euro) 250 a (euro) 44 890, consoante o infractor seja pessoa singular ou colectiva:\n\na) A comercialização de produtos cuja composição não obedece aos critérios referidos no artigo 4.º;\n\nb) A comercialização de produtos em violação do disposto no artigo 5.º;\n\nc) A falta de menção na rotulagem do produto de qualquer das indicações estabelecidas nos n.os 1 e 2 do artigo 6.º;\n\nd) A comercialização dos produtos em contravenção ao disposto nos n.os 3 e 4 do artigo 6.º;\n\ne) A falta das comunicações a que se refere o artigo 7.º\n\n2 - A negligência é punível, sendo os limites máximos e mínimos das coimas reduzidos para metade.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 81/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2010-334961), publicado em 2010-06-30."
+  },
+  "84482e1d5452a4aa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Tramitação processual",
+   "in_force_from": "2010-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 81/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2010-334961), publicado em 2010-06-30."
+   ],
+   "markdown": "###### Artigo 11.º — Tramitação processual\n\n1 - A fiscalização e a instrução dos processos por infracção ao disposto no presente diploma competem à Autoridade de Segurança Alimentar e Económica (ASAE).\n\n2 - Finda a instrução, os processos são remetidos à Comissão de Aplicação de Coimas em Matéria Económica e de Publicidade (CACMEP) para aplicação das coimas respectivas.\n\n3 - O produto da aplicação das coimas reverte a favor das seguintes entidades:\n\na) 60 % para os cofres do Estado;\n\nb) 10 % para a entidade autuante;\n\nc) 20 % para a entidade que instruiu o processo;\n\nd) 10 % para a CACMEP.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 81/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2010-334961), publicado em 2010-06-30."
+  },
+  "ed7074b35372ad84": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Regiões Autónomas",
+   "in_force_from": "2010-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 81/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2010-334961), publicado em 2010-06-30.",
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 81/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2010-334961), publicado em 2010-06-30.",
+    "Revogado pelo/a [Decreto-Lei n.º 81/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2010-334961), publicado em 2010-06-30."
+   ],
+   "markdown": "###### Artigo 12.º — Regiões Autónomas\n\n(Revogado.)\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 81/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2010-334961), publicado em 2010-06-30.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 81/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2010-334961), publicado em 2010-06-30.\n\n> Revogado pelo/a [Decreto-Lei n.º 81/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2010-334961), publicado em 2010-06-30."
+  },
+  "c002b17e09232202": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Recurso",
+   "in_force_from": "2010-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 81/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2010-334961), publicado em 2010-06-30.",
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 81/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2010-334961), publicado em 2010-06-30.",
+    "Revogado pelo/a [Decreto-Lei n.º 81/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2010-334961), publicado em 2010-06-30."
+   ],
+   "markdown": "###### Artigo 13.º — Recurso\n\n(Revogado.)\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 81/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2010-334961), publicado em 2010-06-30.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 81/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2010-334961), publicado em 2010-06-30.\n\n> Revogado pelo/a [Decreto-Lei n.º 81/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2010-334961), publicado em 2010-06-30."
+  },
+  "50a9592029ea6f5f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Taxas",
+   "in_force_from": "2010-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 81/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2010-334961), publicado em 2010-06-30."
+   ],
+   "markdown": "###### Artigo 14.º — Taxas\n\n1 - Pelas acções desenvolvidas pela autoridade competente no âmbito do presente decreto-lei, designadamente de controlo e de prevenção, de apreciação dos documentos e informações e, ainda, de controlo da rotulagem dos produtos, são cobradas taxas a fixar por portaria do membro do Governo responsável pela área da agricultura.\n\n2 - As receitas previstas no número anterior constituem receita própria da autoridade competente.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 81/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2010-334961), publicado em 2010-06-30."
+  },
+  "009cc2156267ffa0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO I — Composição essencial dos alimentos destinados a dietas de restrição calórica",
+   "in_force_from": "2010-07-01",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 81/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2010-334961), publicado em 2010-06-30."
+   ],
+   "markdown": "## ANEXO I — Composição essencial dos alimentos destinados a dietas de restrição calórica\n\nAs especificações previstas neste diploma referem-se aos produtos prontos a utilizar e como tal comercializados ou reconstituídos de acordo com as instruções do fabricante.\n\n1 - Energia:\n\n1.1 - A energia fornecida pelos substitutos integrais da dieta diária não deve ser inferior a 3360 kJ (800 kcal) nem exceder 5040 kJ (1200 kcal) no que respeita à dose total diária.\n\n1.2 - A energia fornecida pelos substitutos de uma ou mais refeições da dieta diária não deve ser inferior a 840 kJ (200 kcal) nem exceder 1680 kJ (400 kcal) por refeição.\n\n2 - Proteínas:\n\n2.1 - A proteína presente nos produtos referidos no artigo 2.º do presente diploma não deve constituir menos de 25 % nem mais de 50 % do valor energético total desses produtos. Em qualquer caso, a quantidade total de proteínas nos substitutos integrais da dieta diária não deve exceder 125 g.\n\n2.2 - As disposições supracitadas relativas às proteínas aplicam-se a proteínas cujo índice químico é igual ao da proteína de referência da FAO/OMS (1985), constante do anexo II. Caso o índice químico seja inferior a 100% do da proteína de referência, os níveis proteicos mínimos devem ser aumentados em conformidade. Em qualquer caso, o índice químico da proteína deve ser pelo menos igual a 80% do da proteína de referência.\n\n2.3 - Deve entender-se por «índice químico» o menor dos quocientes entre a quantidade de aminoácido na proteína em questão e a desse mesmo aminoácido na proteína de referência.\n\n2.4 - A incorporação de aminoácidos apenas é permitida com vista a aumentar o valor nutritivo das proteínas unicamente nas proporções necessárias para o efeito.\n\n3 - Lípidos:\n\n3.1 - A energia fornecida pelos lípidos não deve exceder 30% do valor energético total do produto.\n\n3.2 - No que respeita aos substitutos integrais da dieta diária, a quantidade de ácido linoleico, sob a forma de glicéridos, não deve ser inferior a 4,5 g.\n\n3.3 - No que respeita aos substitutos de uma ou mais refeições da dieta diária, a quantidade de ácido linoleico, sob a forma de glicéridos, não deve ser inferior a 1 g.\n\n4 - Fibras dietéticas. - O teor em fibras dietéticas dos substitutos integrais da dieta diária não deve ser inferior a 10 g nem exceder 30 g no que respeita à dose diária.\n\n5 - Vitaminas e minerais:\n\n5.1 - Os substitutos integrais da dieta diária devem conter, no mínimo, no que respeita a toda a dieta diária, 100 % das quantidades de vitaminas e minerais especificadas no quadro i.\n\nOs substitutos de uma ou mais refeições da dieta diária devem fornecer por refeição, pelo menos, 30 % das quantidades de vitaminas e minerais especificadas no quadro i; no entanto, a quantidade de potássio por refeição fornecida por estes produtos não deve ser inferior a 500 mg.\n\nQUADRO I\n\n[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/06/143a00/35813584.pdf)](https://files.diariodarepublica.pt/1s/1999/06/143a00/35813584.pdf)\n\n> Alterado pelo/a [Decreto-Lei n.º 81/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2010-334961), publicado em 2010-06-30."
+  }
+ }
+}

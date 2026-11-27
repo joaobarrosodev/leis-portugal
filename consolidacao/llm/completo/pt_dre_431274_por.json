@@ -139,23 +139,22 @@
       "atual": "#### SECÇÃO IV — Direcção-Geral",
       "novo": "#### SECÇÃO IV — Comissão de fiscalização",
       "alterador": 1
-    },
-    {
-      "atual": "#### SECÇÃO V — Comissão de fiscalização",
-      "novo": "#### SECÇÃO V — Órgãos de articulação com o poder local",
-      "alterador": 1
     }
   ],
-  "nao_aplicavel": "Alterador 1, art. 5.º (as referências a ministros ou ministérios entendem-se feitas aos que lhes correspondam): regra interpretativa, não altera o texto. Alterador 2 (Decreto-Lei n.º 7/91): transforma a EDP em sociedade anónima e aprova novos estatutos (anexo I), mas não contém instrução textual expressa (substituição ou revogação) dirigida aos artigos do estatuto do Decreto-Lei n.º 502/76; não aplicado.",
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, art. 2.º, nova redação do capítulo III (SECÇÃO V — Órgãos de articulação com o poder local, antes do art. 23.º): alvo incerto: a nova redação muda os títulos de divisão de sítio (a atual SECÇÃO V — Comissão de fiscalização está antes do art. 21.º e a nova SECÇÃO V fica antes do art. 23.º)\nAlterador 2, transformação da EDP, E. P., em sociedade anónima e aprovação de novos estatutos (arts. 1.º a 17.º e anexos I e II): não textual (não altera nem revoga expressamente o estatuto aprovado pelo original)",
   "instrucoes": [
-    "Alt. 1, art. 2.º: nova redação do capítulo III (arts. 7.º a 25.º) — aplicada artigo a artigo; epígrafe do capítulo III e das secções IV e V mudadas; secções I a III mantêm o título",
-    "Alt. 1, art. 3.º: nova redação do art. 50.º — aplicada",
-    "Alt. 1, art. 4.º: nova redação do art. 51.º — aplicada",
-    "Alt. 1, art. 5.º: regra de atualização de referências a ministérios — não textual",
-    "Alt. 1, arts. 6.º e 7.º: transitórios/dúvidas — não alteram o original",
-    "Alt. 2: transformação em S.A. e novos estatutos sem instrução textual sobre o original — não aplicado"
+    "Alterador 1, art. 1.º: o Estatuto é alterado nos termos dos artigos seguintes - sem texto próprio",
+    "Alterador 1, art. 2.º: nova redação do capítulo III (arts. 7.º a 25.º) - aplicada aos artigos; títulos do capítulo III e da secção IV renomeados no mesmo sítio; secção V em nao_aplicavel",
+    "Alterador 1, art. 3.º: nova redação do art. 50.º - aplicada",
+    "Alterador 1, art. 4.º: nova redação do art. 51.º - aplicada",
+    "Alterador 1, arts. 5.º a 7.º: referências a ministérios, disposição transitória e dúvidas - não textuais",
+    "Alterador 2: transforma a EDP em sociedade anónima e aprova estatutos novos - não textual"
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 124,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

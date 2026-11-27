@@ -1,0 +1,121 @@
+[
+ {
+  "id": "pt:dre:372636:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação do art. 4.º dada pelo DL 303/75 (n.º 3 novo, antigo n.º 3 passa a n.º 4), letra a letra.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 322-A/75, artigo único: prorrogação por mais seis meses dos arts. 1.º, 2.º e 3.º",
+    "motivo": "Não textual: prorrogação, sem nova redação (confirmado no texto)."
+   },
+   {
+    "instrucao": "DL 88/76, artigo único: prorrogação dos arts. 1.º, 2.º e 3.º até à entrada em funcionamento da Assembleia Legislativa",
+    "motivo": "Não textual: prorrogação, sem nova redação (confirmado no texto)."
+   }
+  ]
+ },
+ {
+  "id": "pt:dre:378319:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 37.º",
+    "veredicto": "certo",
+    "motivo": "N.º 3 aditado pelo art. 1.º do DR 38/85, letra a letra; n.os 1 e 2 mantidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 44.º",
+    "veredicto": "certo",
+    "motivo": "N.º 3 revogado pelo art. 3.º, n.º 3, do DR 38/85.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Portaria 248/85, 1.º: quadro de pessoal (n.º 1 do art. 44.º) aumentado dos lugares do mapa anexo",
+    "motivo": "O mapa só vem em imagem e o consolidado não tem anexo com título (a lista dos iguais não tem quadro/anexo)."
+   },
+   {
+    "instrucao": "DR 38/85, art. 2.º: quadro de pessoal alterado de acordo com o mapa anexo",
+    "motivo": "O mapa só vem em imagem e o consolidado não tem anexo com título onde o pôr."
+   },
+   {
+    "instrucao": "Portaria 671/86, 1.º: quadro alargado de um lugar de assessor, letra C",
+    "motivo": "Não textual: o alterador não traz texto nem quadro novo."
+   }
+  ]
+ },
+ {
+  "id": "pt:dre:382439:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 63.º",
+    "veredicto": "certo",
+    "motivo": "Alínea c) do n.º 1 com a redação do art. 11.º do DL 500/79, letra a letra; resto igual (epígrafe sem parênteses é só forma).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 109.º",
+    "veredicto": "certo",
+    "motivo": "N.º 5 com a redação do art. 11.º do DL 500/79, letra a letra; n.os 1 a 4 mantidos (epígrafe sem parênteses é só forma).",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 500/79, arts. 1.º a 3.º e 7.º a 10.º (CPCI, Regulamento das Custas, DL 48699, tabela de emolumentos do Decreto 9605)",
+    "motivo": "Outro diploma (o art. 22.º do Regulamento das Custas só remete para o DR 12/79). Os arts. 4.º a 6.º, 12.º e 13.º são normas próprias do DL 500/79."
+   },
+   {
+    "instrucao": "Portaria 98/80: distribuição do pessoal do quadro pelos mapas anexos",
+    "motivo": "Os mapas só vêm em imagem e o consolidado não tem anexo com título."
+   },
+   {
+    "instrucao": "Portaria 531/80, 2.º: alteração do mapa I anexo ao DR 12/79 (mapa II da portaria)",
+    "motivo": "Só em imagem; o consolidado não tem anexo com título (a lista dos iguais acaba no art. 160.º, sem anexo)."
+   },
+   {
+    "instrucao": "Portaria 531/80, 1.º e 3.º a 6.º: classificação das repartições (mapa I), contingentação (mapa III) e regras transitórias",
+    "motivo": "Mapas só em imagem e regras próprias da portaria, sem nova redação do original."
+   },
+   {
+    "instrucao": "Portaria 108/81, 1.º: alteração do quadro de pessoal anexo (mapa I)",
+    "motivo": "Só em imagem; sem anexo com título no consolidado."
+   },
+   {
+    "instrucao": "Portaria 108/81, 2.º: vencimentos do pessoal contratado ao abrigo da Portaria 608/76",
+    "motivo": "Outro diploma."
+   },
+   {
+    "instrucao": "Portaria 263/82, 1.º: novo quadro geral do pessoal (mapa anexo)",
+    "motivo": "Só em imagem; sem anexo com título no consolidado."
+   },
+   {
+    "instrucao": "Portaria 263/82, 2.º e 3.º: lugares acrescentados transitoriamente",
+    "motivo": "Não textual: sem nova redação do original."
+   },
+   {
+    "instrucao": "Portaria 376/89: distribuição dos lugares de subinspector do mapa anexo à Portaria 431/87",
+    "motivo": "Outro diploma."
+   }
+  ]
+ }
+]

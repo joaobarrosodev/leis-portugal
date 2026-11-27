@@ -1,0 +1,31 @@
+[
+  {
+    "id": "pt:dre:392016:por",
+    "veredicto": "reparos",
+    "problemas": [
+      "Falta aplicar uma retificação. A Declaração de rectificação n.º 102/92 (data/portugal/declaracoes-retificacao/1992/declaracao-retificacao-102-92.md, de 14/7/1992) corrige o DL 58/92 na nova redação do art. 4.º dos Estatutos da ANAM. Onde se lê «por acções nominativas com o valor nominal de 1000000$00 cada uma», deve ler-se «por acções nominativas com o valor nominal de 1000$00 cada uma». O consolidado (anexo, art. 4.º) ainda diz «1000000$00». Texto certo do art. 4.º dos Estatutos: «Art. 4.º O capital social é de 50000000$00, integralmente realizado em dinheiro pelo Estado, no montante de 30000000$00, pela Região Autónoma da Madeira, no montante de 10000000$00, e pela ANA - Aeroportos e Navegação Aérea, E. P., no montante de 10000000$00, encontrando-se representado por acções nominativas com o valor nominal de 1000$00 cada uma.» A retificação não está entre os alteradores nem nas relações do DL 453/91, porque é retificação do DL 58/92."
+    ],
+    "vigencia": null
+  },
+  {
+    "id": "pt:dre:236100:por",
+    "veredicto": "certo",
+    "problemas": [],
+    "vigencia": null
+  },
+  {
+    "id": "pt:dre:229973:por",
+    "veredicto": "certo",
+    "problemas": [],
+    "vigencia": null
+  },
+  {
+    "id": "pt:dre:274856:por",
+    "veredicto": "certo",
+    "problemas": [],
+    "vigencia": {
+      "conclusao": "outro",
+      "prova": "O DL 126/84, art. 1.º, extinguiu as comissões do n.º 1 do art. 3.º, com efeitos desde 20/7/1983 (art. 3.º). A comissão liquidatária que criou cessou a atividade em 30/6/1984 (art. 2.º, n.º 3). O regime ficou sem objeto, mas sem revogação expressa."
+    }
+  }
+]

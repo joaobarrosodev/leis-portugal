@@ -1,0 +1,63 @@
+[
+ {
+  "id": "pt:dre:220944:por",
+  "artigos": [
+   {
+    "artigo": "Trecho 1",
+    "veredicto": "certo",
+    "motivo": "N.os 3, 4 e 5 aditados ao artigo 21.º (Normas transitórias) pelo artigo 3.º do DL 199/2003; texto igual letra a letra à nova redação; n.os 1 e 2 ficam com o texto original («1 - ...», «2 - ...»).",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 199/2003, art. 1.º: alteração dos artigos 138.º, 222.º, 252.º-A, 388.º, 389.º, 694.º, 696.º, 724.º, 776.º, 806.º, 812.º, 860.º, 864.º-A, 878.º, 890.º, 928.º, 929.º e 930.º do Código de Processo Civil",
+    "motivo": "Outro diploma: altera o CPC («alterado ... pelo Decreto-Lei n.º 38/2003»); não se aplica ao texto do art. 1.º do original nem ao anexo que republica o título III do livro III do CPC."
+   },
+   {
+    "instrucao": "DL 199/2003, art. 2.º: alteração do artigo 820.º do Código Civil",
+    "motivo": "Outro diploma: altera o Código Civil, não o original."
+   },
+   {
+    "instrucao": "DL 53/2004, art. 4.º: alteração dos artigos 222.º e 806.º do CPC",
+    "motivo": "Outro diploma: o original só aparece na lista de alterações do CPC."
+   },
+   {
+    "instrucao": "Lei 42/2005, arts. 1.º a 7.º: alteração da Lei 3/99 (arts. 12.º, 77.º, 97.º, 102.º-A, 103.º), da Lei 21/85, da Lei 47/86 e do DL 343/99",
+    "motivo": "Outro diploma: o original só aparece na lista de alterações da Lei 3/99."
+   },
+   {
+    "instrucao": "Lei 14/2006, arts. 1.º a 5.º: alteração dos artigos 74.º, 90.º, 94.º, 110.º e 808.º do CPC, aditamento do 138.º-A, alteração do Estatuto da Câmara dos Solicitadores, dos arts. 10.º e 11.º do regime anexo ao DL 269/98 e do DL 202/2003",
+    "motivo": "Outro diploma: altera o CPC e outros diplomas; o original só aparece nas listas de alterações."
+   },
+   {
+    "instrucao": "DL 295/2009, art. 96.º («Revogado pelo Decreto-Lei n.º 38/2003»)",
+    "motivo": "Não é instrução dirigida ao original: é menção de uma revogação feita pelo original noutro diploma."
+   },
+   {
+    "instrucao": "DL 52/2011, arts. 1.º a 4.º: alteração do Regulamento das Custas Processuais e dos artigos 447.º-A, 833.º-A e 861.º-A do CPC",
+    "motivo": "Outro diploma: o original só aparece na lista de alterações do CPC."
+   },
+   {
+    "instrucao": "Lei 63/2011, arts. 3.º a 5.º: revogação da Lei 31/86 «com a redacção que lhe foi dada pelo DL 38/2003» e remissões para ela",
+    "motivo": "Outro diploma: revoga a Lei 31/86 (LAV), não o original."
+   },
+   {
+    "instrucao": "Lei 60/2012, art. 1.º: alteração dos artigos 834.º, 886.º-A e 889.º do CPC",
+    "motivo": "Outro diploma: o original só aparece na lista de alterações do CPC."
+   },
+   {
+    "instrucao": "DL 36/2016: alteração do CPPT, do RCPITA e do Regulamento das Custas dos Processos Tributários",
+    "motivo": "Outro diploma: não há instrução dirigida ao original."
+   },
+   {
+    "instrucao": "Lei 39/2020: alteração do Código Penal, do Código de Processo Penal e da Lei 92/95",
+    "motivo": "Outro diploma: o original só aparece na lista de alterações do Código Penal."
+   }
+  ]
+ }
+]

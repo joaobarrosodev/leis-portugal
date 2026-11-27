@@ -1,0 +1,39 @@
+[
+ {
+  "id": "pt:dre:685448:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 39.º",
+    "veredicto": "certo",
+    "motivo": "N.º 1 com a nova redação do art. 1.º do DL 280/75, letra a letra; n.º 2 mantido.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 40.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação do art. 40.º (n.os 1 e 2) do DL 280/75, letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 44.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação do art. 44.º do DL 280/75, letra a letra.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 280/75, art. 2.º, n.º 3: altera os n.os 2.º e 3.º do art. 9.º do DL 520/72",
+    "motivo": "Confirmado: a instrução é de outro diploma (DL 520/72). Os n.os 1 e 2 do art. 2.º são normas autónomas, sem nova redação de artigos do DL 522/72."
+   },
+   {
+    "instrucao": "DL 95/2009: instituição da fundação ISCTE-IUL e aprovação dos seus Estatutos",
+    "motivo": "Confirmado: não textual; o DL 95/2009 não dá nova redação nem revoga artigos do DL 522/72."
+   }
+  ]
+ }
+]

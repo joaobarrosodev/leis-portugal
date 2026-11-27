@@ -1,0 +1,222 @@
+[
+ {
+  "id": "pt:dre:241673:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação do art. 1.º do DL dada pelo art. 2.º do DL 102/2014, letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 6.º do DL 102/2014.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "N.º 1 fica com o texto original porque a nova redação do art. 3.º só entra em vigor quando a ERSUC deixar de ser detida maioritariamente por entidades públicas (art. 8.º, n.º 2), facto que a vista não mostra; n.os 2 e 3 revogados pelo art. 6.º, de efeito imediato.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 6.º do DL 102/2014.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 6.º do DL 102/2014.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 6.º do DL 102/2014.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 6.º do DL 102/2014; as fórmulas finais passam para depois do novo art. 9.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "A chave compara o art. 8.º dos estatutos do original com o novo art. 8.º do DL, aditado pelo art. 3.º do DL 102/2014 (de efeito imediato); o texto é o do alterador. O art. 8.º dos estatutos está em «Artigo 8.º #2».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "A chave compara o art. 9.º dos estatutos do original com o novo art. 9.º do DL, aditado pelo art. 3.º do DL 102/2014 (de efeito imediato); texto do alterador, seguido das fórmulas finais do DL. O art. 9.º dos estatutos está em «Artigo 9.º #2».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 2.º #2",
+    "veredicto": "certo",
+    "motivo": "Estatutos, art. 2.º: n.º 1 com a nova redação; n.os 2 e 3 são [...] e ficam como no original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º #2",
+    "veredicto": "certo",
+    "motivo": "Estatutos, art. 4.º: nova redação letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º #2",
+    "veredicto": "certo",
+    "motivo": "Estatutos, art. 5.º: n.º 1 é [...] (original); n.º 2 com a nova redação («(euro)5,00» como no alterador).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º #2",
+    "veredicto": "certo",
+    "motivo": "Estatutos, art. 6.º revogado pelo art. 6.º do DL 102/2014.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 8.º #2",
+    "veredicto": "certo",
+    "motivo": "Estatutos, art. 8.º: n.º 1 novo; n.os 2, 4 e 5 são [...] e ficam com o texto original; n.º 3 revogado (art. 6.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 9.º #2",
+    "veredicto": "certo",
+    "motivo": "Estatutos, art. 9.º: n.os 1 e 2 revogados (art. 6.º); n.os 3 a 12 com a nova redação letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 10.º",
+    "veredicto": "certo",
+    "motivo": "Estatutos, art. 10.º: n.º 1 novo; n.º 2 é [...] (original); n.º 3 revogado.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 12.º",
+    "veredicto": "certo",
+    "motivo": "Estatutos, art. 12.º: nova redação dos n.os 1 e 2.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 14.º",
+    "veredicto": "certo",
+    "motivo": "Estatutos, art. 14.º: n.º 1 novo; n.º 2 é [...] (original).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 18.º",
+    "veredicto": "certo",
+    "motivo": "Estatutos, art. 18.º: só a alínea a) do n.º 2 muda; o resto é [...] e fica como no original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 19.º",
+    "veredicto": "certo",
+    "motivo": "Estatutos, art. 19.º: só o n.º 2 muda; n.os 1, 3 e 4 são [...] (original).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 25.º",
+    "veredicto": "certo",
+    "motivo": "Estatutos, art. 25.º: nova redação (n.os 1 a 3) letra a letra.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Art. 2.º do DL 102/2014: nova redação do n.º 1 do art. 3.º do DL 166/96",
+    "motivo": "Efeito adiado para um facto futuro: o art. 8.º, n.º 2, faz depender a entrada em vigor do dia em que a ERSUC deixar de ser detida maioritariamente por entidades públicas; a vista não mostra que isso aconteceu."
+   },
+   {
+    "instrucao": "Art. 4.º do DL 102/2014: nova redação do art. 3.º dos estatutos",
+    "motivo": "Efeito adiado para o mesmo facto futuro (art. 8.º, n.º 2)."
+   },
+   {
+    "instrucao": "Art. 5.º do DL 102/2014: aditamento do art. 25.º-A dos estatutos",
+    "motivo": "Efeito adiado para o mesmo facto futuro (art. 8.º, n.º 2)."
+   },
+   {
+    "instrucao": "Art. 7.º do DL 102/2014: republicação, com o presente do indicativo",
+    "motivo": "Não é textual: o n.º 2 adota o presente do indicativo só «para efeitos da republicação»; não é uma instrução de alteração dos artigos que nenhuma outra instrução muda."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:246317:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 22.º, al. c), do DLR 19/2010/M (só ficam o art. 5.º e parte do n.º 4 do art. 2.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "errado",
+    "motivo": "N.os 1 a 3 bem revogados, mas o n.º 4 só fica «na parte em que remete para o referido artigo 5.º» (art. 22.º, al. c)). A remissão para o capítulo iv do DL 112/2001 é revogada sem condição e o consolidado ainda a mantém. A revogação é parcial e exata, não condicional.",
+    "texto_esperado": "1 - (Revogado.)\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\n4 - Ao pessoal dirigente da Inspecção Regional da Saúde e Assuntos Sociais é aplicável [revogada a parte «o disposto no capítulo iv do Decreto-Lei n.º 112/2001, de 6 de Abril, e»] as disposições constantes do artigo 5.º do presente diploma."
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 22.º, al. c), do DLR 19/2010/M.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 22.º, al. c), do DLR 19/2010/M.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 22.º, al. c), do DLR 19/2010/M.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 22.º, al. c); ficam só as fórmulas finais de aprovação e assinatura, que não são texto do artigo.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [
+   "DLR 19/2010/M, art. 22.º, al. c): revogação do n.º 4 do art. 2.º na parte que não remete para o art. 5.º, ou seja, a remissão para o capítulo iv do DL 112/2001. O alvo é conhecido; a justificação «alvo incerto» não vale."
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DLR 19/2010/M, art. 22.º, proémio: revogação das «disposições legais contrárias ao regime nele contido»",
+    "motivo": "Revogação condicional («contrárias»), que não se aplica ao texto."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:300610:por",
+  "artigos": [],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 47/2005, art. 39.º, al. c): revogação do DL 269/2000, «com a redacção dada pelo artigo 1.º do Decreto-Lei n.º 78/2002»",
+    "motivo": "Outro diploma: revoga o DL 269/2000; a menção ao DL 78/2002 só identifica a redação. Não há outra referência ao DL 78/2002 no alterador."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

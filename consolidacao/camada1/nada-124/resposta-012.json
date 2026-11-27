@@ -1,0 +1,47 @@
+[
+ {
+  "id": "pt:dre:687466:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 11.º",
+    "veredicto": "certo",
+    "motivo": "DL 438/99, art. 1.º: n.º 4 aditado letra a letra, n.os 1 a 3 mantidos («...»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 13.º",
+    "veredicto": "certo",
+    "motivo": "DL 438/99, art. 1.º: nova epígrafe e n.os 1 e 2 letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 13.º-A",
+    "veredicto": "certo",
+    "motivo": "Aditado pelo art. 2.º do DL 438/99, letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 13.º-B",
+    "veredicto": "certo",
+    "motivo": "Aditado pelo art. 2.º do DL 438/99, letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 14.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 3.º do DL 438/99; epígrafe mantida e corpo «(Revogado.)».",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 160/2004, art. 10.º, n.º 1: cessa o pagamento das contribuições em curso ao abrigo do DL 311/97",
+    "motivo": "Confirmado: norma própria do DL 160/2004, sem nova redação nem revogação de qualquer artigo do DL 311/97 (não textual). Os arts. 7.º e 8.º só remetem para o DL 311/97."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

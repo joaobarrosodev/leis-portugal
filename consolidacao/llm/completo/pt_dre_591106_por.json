@@ -9,14 +9,22 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": null,
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, art. 116.º, proémio (revogação de todas as disposições contrárias): revogação condicional: «disposições legais contrárias ao disposto na presente lei»",
   "instrucoes": [
-    "Alterador 1 art. 116.º alínea ae): revoga o artigo 2.º do Decreto-Lei n.º 233/94; esse artigo vem no texto atual dentro do corpo da chave '4.º' (a seguir à redação do art. 4.º) - os seus n.os 1 e 2 foram substituídos por 'Art. 2.º - (Revogado.)', mantendo o resto letra a letra.",
-    "Restante corpo do art. 116.º: revogações de outros diplomas e revogação genérica de disposições contrárias - não aplicadas."
+    "Lei 12-A/2008, art. 116.º, alínea ae): revoga o artigo 2.º do DL 233/94 — o «Art. 2.º» vem no texto atual dentro do corpo da chave 4.º; os seus dois números passam a «Art. 2.º - (Revogado.)», mantendo o prefixo do texto atual, e a fórmula final segue como estava",
+    "Lei 12-A/2008, art. 116.º, restantes alíneas: revogam outros diplomas — outro diploma",
+    "Lei 12-A/2008, art. 116.º, proémio: revogação das disposições contrárias — revogação condicional"
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": [
+  "ronda_camada1": 123,
+  "problemas": [],
+  "numeracao_aceite": [
     "4.º: parágrafo que não está no alterador nem no original: Art. 2.º - (Revogado.)"
+  ],
+  "avisos": [
+    "2.º: o DRE diz «Revogado a partir da entrada em vigor do RCTFP, o art. 2º, pela LEI.12-A/2008.27.02.2008.A» (Lei n.º 12-A/2008) e nem a resposta nem as regras o mudam"
   ]
 }

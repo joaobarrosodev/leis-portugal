@@ -40,5 +40,33 @@
     "unidade": [],
     "diploma": "pt:dre:484575:por",
     "alterador": "pt:dre:506429:por"
+  },
+  {
+    "artigo": "2.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 2.º — Natureza\n\n1 - O cartão de identificação do utente constitui um meio facultativo, e com natureza substitutiva, de comprovação da identidade do seu titular perante as instituições e serviços integrados no Serviço Nacional de Saúde e as entidades privadas com actividade na área da saúde.\n\n2 - O cartão de identificação do utente é de emissão gratuita e substitui, para os efeitos referidos no número anterior, qualquer outro cartão ou documento de identificação do seu titular.",
+    "depois": "###### Artigo 2.º — Natureza\n\n1 - O cartão de identificação do utente deve ser apresentado sempre que os utentes utilizem os serviços das instituições e serviços integrados no Serviço Nacional de Saúde ou com ele convencionado.\n\n2 - A não identificação dos utentes nos termos do número anterior não pode, em caso algum, determinar a recusa de prestações de saúde.\n\n3 - Aos utentes não é cobrada, com excepção das taxas moderadoras, quando devidas, qualquer importância relativa às prestações de saúde quando devidamente identificados nos termos deste diploma ou desde que façam prova, nos 10 dias seguintes à interpelação para pagamento dos encargos com os cuidados de saúde prestados, de que são titulares ou requereram a emissão do cartão de identificação de utente do Serviço Nacional de Saúde.\n\n> Alterado pelo/a [Decreto-Lei n.º 52/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2000-494838), publicado em 2000-04-07.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:484575:por",
+    "alterador": "pt:dre:494838:por;pt:dre:506429:por"
+  },
+  {
+    "artigo": "8.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 8.º — Taxas moderadoras\n\n1 - Sempre que o utente do Serviço Nacional de Saúde esteja numa das situações previstas no n.º 1 do artigo 2.º do Decreto-Lei n.º 54/92, de 11 de Abril, do seu cartão de identificação consta a titularidade do direito de isenção e respectivo limite temporal.\n\n2 - O disposto no número anterior é igualmente aplicável às demais situações legalmente previstas de isenção de pagamento de taxas moderadoras.\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 48/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-1997-506429), publicado em 1997-02-27.",
+    "depois": "###### Artigo 8.º — Taxas moderadoras\n\n1 - Sempre que o utente do Serviço Nacional de Saúde esteja numa das situações previstas no n.º 1 do artigo 2.º do [Decreto-Lei n.º 54/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-1992-199795), de 11 de Abril, do seu cartão de identificação consta a titularidade do direito de isenção e respectivo limite temporal.\n\n2 - O disposto no número anterior é igualmente aplicável às demais situações legalmente previstas de isenção de pagamento de taxas moderadoras.\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 48/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-1997-506429), publicado em 1997-02-27.\n\n> Alterado pelo/a [Decreto-Lei n.º 48/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-1997-506429), publicado em 1997-02-27.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:484575:por",
+    "alterador": "pt:dre:494838:por;pt:dre:506429:por"
   }
 ]

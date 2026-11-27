@@ -38,10 +38,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1998-05-10'
+version_history:
+  file: decreto-lei-312-91.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1991-08-17'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1998-05-10'
+    amending: pt:dre:516726:por
+    amending_title: Decreto-Lei n.º 122/98
+    changes:
+    - Altera Artigo unidades 12-13
+    - Altera Artigo unidades 21-24
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/312/1991/08/17/p/dre/pt/html
@@ -67,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:11:02Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 122/98. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1991/decreto-lei-312-91.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -155,9 +171,9 @@ Art. 2.º - 1 - A TAP, S. A., sucede automática e globalmente à empresa públi
 
 Art. 3.º - A TAP, S. A., assegurará a exploração dos serviços públicos de transporte aéreo de passageiros, carga e correio e as actividades que lhes sejam complementares, subsidiárias ou acessórias, no mesmo âmbito e com os direitos, obrigações e demais condições, nomeadamente os derivados do contrato de concessão previsto no [Decreto-Lei n.º 39188](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39188-1953-528399), de 25 de Abril de 1953, bem como da legislação complementar, que vinham sendo observadas pela TAP, E. P.
 
-Art. 4.º - 1 - As acções representativas do capital subscrito pelo Estado serão detidas pela Direcção-Geral do Tesouro.
+Art. 4.º - (Revogado.)
 
-2 - Os direitos do Estado, como accionista da sociedade, são exercidos por um representante designado por despacho conjunto do Ministro das Finanças e do Ministro das Obras Públicas, Transportes e Comunicações.
+> Alterado pelo/a [Decreto-Lei n.º 122/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-1998-516726), publicado em 1998-05-09.
 
 Art. 5.º - O capital inicial da TAP, S. A., é de 12006036000$00 e encontra-se realizado pelos valores integrantes do património da sociedade.
 
@@ -173,13 +189,9 @@ Art. 7.º - 1 - Enquanto não forem eleitos os membros dos órgãos sociais, os 
 
 3 - A assembleia geral referida no n.º 2 será presidida pelo presidente do conselho de administração da sociedade, servindo de secretário uma pessoa por aquele designada.
 
-Art. 8.º - 1 - Sem prejuízo do disposto na lei comercial quanto à prestação de informação aos accionistas, o conselho de administração enviará ao Ministério das Finanças, pelo menos 30 dias antes da data da assembleia geral anual:
+Art. 8.º - (Revogado.)
 
-a) O relatório de gestão e as contas do exercício;
-
-b) Quaisquer elementos adequados à compreensão integral da situação económica e financeira da empresa, eficiência da gestão e perspectivas da sua evolução.
-
-2 - O conselho fiscal enviará trimestralmente ao Ministério das Finanças um relatório sucinto em que se refiram os controlos efectuados, as anomalias detectadas e os principais desvios em relação às previsões.
+> Alterado pelo/a [Decreto-Lei n.º 122/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-1998-516726), publicado em 1998-05-09.
 
 Art. 9.º - Até ao termo dos correspondentes contratos, o Estado mantém, perante as instituições financeiras ou outras entidades que celebraram contratos com a TAP, E. P., as mesmas relações de suporte que mantinha relativamente àquela empresa pública, não podendo o presente decreto-lei ser considerado como causa de alteração de circunstâncias ou de default para efeitos dos referidos contratos.
 

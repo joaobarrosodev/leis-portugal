@@ -38,10 +38,6 @@ As obrigações entre a Região Autónoma da Madeira e a VIALITORAL serão as de
 
 Fica o Governo Regional autorizado a adjudicar à VIALITORAL, Concessões Rodoviárias da Madeira, S. A., a concessão da exploração e manutenção, em regime de serviço público de exclusividade e de portagem sem cobrança aos utilizadores (SCUT), o troço rodoviário da ER 101 compreendido entre Ribeira Brava e Machico.
 
-> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 15/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2007-629169), publicado em 2007-11-07.
-
-> Alterado pelo/a [Decreto Legislativo Regional n.º 15/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2007-629169), publicado em 2007-11-07.
-
 ###### Artigo 4.º
 
 1 - Fica a VIALITORAL, Concessões Rodoviárias da Madeira, S. A., autorizada a proceder a quaisquer aumentos do seu capital, desde que a Região Autónoma da Madeira mantenha uma participação social de percentagem não inferior a 20%.

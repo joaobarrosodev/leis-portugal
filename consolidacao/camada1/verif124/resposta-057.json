@@ -1,0 +1,351 @@
+[
+ {
+  "id": "pt:dre:636761:por",
+  "artigos": [
+   {
+    "artigo": "Trecho 1",
+    "veredicto": "errado",
+    "motivo": "Art. 2.º, n.º 2: nenhum alterador o muda; «Tratado Que Institui» com maiúsculas não está no original nem nas republicações (que dizem «Tratado que institui»).",
+    "texto_esperado": "2 - O SIDER não abrange os projectos de investimento relacionados com a produção primária de produtos agrícolas enumerados no anexo i do Tratado que institui a Comunidade Europeia."
+   },
+   {
+    "artigo": "Trecho 2",
+    "veredicto": "certo",
+    "motivo": "Art. 3.º, n.º 1 (corpo) na redação do DLR 2/2009/A.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 3",
+    "veredicto": "errado",
+    "motivo": "Art. 3.º: o DLR 26/2011/A revoga a alínea e) do n.º 1, que tem de ficar «e) (Revogada.)» (o consolidado apaga-a e põe ponto final na d)); no n.º 4 (anterior n.º 2) o texto é «do número anterior», como na republicação de 2010, não «do n.º 1». N.os 2 e 3 certos (2010 e 2011).",
+    "texto_esperado": "d) Possuir situação financeira equilibrada, verificada pelo cumprimento do indicador de autonomia financeira igual ou superior a 15 %;\n\ne) (Revogada.)\n\n2 - As condições referidas nas alíneas a), c) e d) são exigíveis na data da apresentação da candidatura.\n\n3 - A condição referida na alínea b) apenas é exigível no momento da assinatura do contrato de concessão de incentivos.\n\n4 - No caso de empresas a constituir, o cumprimento das condições referidas nas alíneas a) a c) do número anterior é exigível até à data da celebração do contrato de concessão de incentivos.\n\n5 - Quando os promotores sejam agrupamentos complementares de empresas, os indicadores económicos e financeiros mencionados no presente diploma referem-se ao conjunto das empresas agrupadas."
+   },
+   {
+    "artigo": "Trecho 4",
+    "veredicto": "certo",
+    "motivo": "Art. 4.º, n.º 1, b): 20 % (DLR 10/2010/A).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 5",
+    "veredicto": "certo",
+    "motivo": "Art. 4.º, n.º 1, d): três anos (DLR 10/2010/A).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 6",
+    "veredicto": "errado",
+    "motivo": "Art. 4.º, n.º 2 (DLR 2/2009/A): o consolidado troca as palavras («até à de data encerramento»); o alterador diz «até à data de encerramento». N.º 3 certo.",
+    "texto_esperado": "2 - O comprovativo da condição referida na alínea e) do número anterior pode ser feito até à data de encerramento do projecto, devendo à data de apresentação da candidatura ser comprovado o início do respectivo processo de licenciamento.\n\n3 - A condição referida na alínea f) do n.º 1 apenas é exigível no momento da celebração do contrato de concessão de incentivo."
+   },
+   {
+    "artigo": "Trecho 7",
+    "veredicto": "certo",
+    "motivo": "Art. 5.º, n.º 1, na redação do DLR 26/2011/A, letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 8",
+    "veredicto": "errado",
+    "motivo": "Art. 5.º, n.º 5: o DLR 26/2011/A revoga-o («5 - (Revogado.)»); o consolidado apaga o número em vez de o deixar revogado.",
+    "texto_esperado": "5 - (Revogado.)"
+   },
+   {
+    "artigo": "Trecho 9",
+    "veredicto": "errado",
+    "motivo": "Art. 6.º, a) e b) (DLR 26/2011/A): o alterador diz «A aquisição de terrenos…» e «A aquisição de edifícios…»; o consolidado tira o artigo «A».",
+    "texto_esperado": "a) A aquisição de terrenos, com excepção do disposto na subalínea i) da alínea a) do n.º 1 do artigo anterior;\n\nb) A aquisição de edifícios, com excepção do disposto na subalínea ii) da alínea a) do n.º 1 do artigo anterior;"
+   },
+   {
+    "artigo": "Trecho 10",
+    "veredicto": "errado",
+    "motivo": "Art. 6.º (DLR 26/2011/A): i) e j) novas certas; l) é a anterior alínea j), que na republicação de 2010 diz «com a excepção dos referidos…»; o consolidado tira o «a». m) certa.",
+    "texto_esperado": "i) Publicidade corrente;\n\nj) Despesas de funcionamento da empresa;\n\nl) Bens que se destinem unicamente a substituição ou reposição, com a excepção dos referidos nos projectos previstos no n.º 3 do artigo 29.º;\n\nm) Todas as rubricas de investimento que não apresentem suficiente justificação ou relevante importância para o desenvolvimento do projecto."
+   },
+   {
+    "artigo": "Trecho 11",
+    "veredicto": "certo",
+    "motivo": "Art. 7.º, n.º 3 novo e n.º 4 (anterior n.º 3), DLR 10/2010/A.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 12",
+    "veredicto": "certo",
+    "motivo": "Art. 8.º na redação do DLR 26/2011/A.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 13",
+    "veredicto": "certo",
+    "motivo": "Art. 9.º, n.os 1 e 2 (DLR 26/2011/A); art. 10.º (Avocação) aditado pelo DLR 2/2009/A como 9.º-A e renumerado; o texto segue o das republicações de 2009 e 2010 («O departamento do Governo em matéria de economia»), embora o artigo de aditamento diga «com competência em matéria de economia».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 14",
+    "veredicto": "certo",
+    "motivo": "Art. 12.º (antigo 11.º), n.os 1 a 3 do DLR 26/2011/A e n.º 4 = anterior n.º 3; renumeração.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 15",
+    "veredicto": "certo",
+    "motivo": "Renumeração: art. 13.º passa a 14.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 16",
+    "veredicto": "certo",
+    "motivo": "Art. 14.º, n.º 2, DLR 26/2011/A («90 dias úteis», «acrescidas»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 17",
+    "veredicto": "certo",
+    "motivo": "Renumeração: art. 14.º passa a 15.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 18",
+    "veredicto": "certo",
+    "motivo": "Art. 15.º, n.º 2, na redação do DLR 3/2012/A (que substitui a de 2011).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 19",
+    "veredicto": "certo",
+    "motivo": "Art. 15.º, n.º 4, na redação do DLR 1/2016/A («trinta dias úteis», 10 %); art. 16.º aditado pelo DLR 2/2009/A (14.º-A), com os n.os 3, 5 e 6 do DLR 26/2011/A.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 20",
+    "veredicto": "certo",
+    "motivo": "Art. 17.º, j), DLR 26/2011/A; só muda o ponto final para ponto e vírgula por haver alíneas seguintes.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 21",
+    "veredicto": "certo",
+    "motivo": "Renumeração: art. 16.º passa a 18.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 22",
+    "veredicto": "errado",
+    "motivo": "Art. 19.º (antigo 17.º): o DLR 26/2011/A mantém o corpo do n.º 1 («1 - ...») e revoga os n.os 2 e 3; o consolidado tira o «1 -» e apaga os n.os 2 e 3 em vez de «(Revogado.)». Além disso, na subalínea v) acrescenta «na» («e na subclasse 52102», o alterador diz «e subclasse 52102») e na alínea c) tira o espaço em «(euro) 15 000».",
+    "texto_esperado": "###### Artigo 19.º — Âmbito\n\n1 - São susceptíveis de apoio, no âmbito do Desenvolvimento Local:\n\na) Projectos vocacionados essencialmente para a satisfação do mercado local com investimentos iguais ou superiores a (euro) 15 000 nas seguintes áreas, classificadas de acordo com a Classificação Portuguesa de Actividades Económicas (CAE - Rev. 3), revista pelo Decreto-Lei n.º 381/2007, de 14 de Novembro:\n\ni) Indústria - divisões 05 a 33 da CAE;\n\nii) Construção - divisões 41 a 43 da CAE, com excepção do grupo 411;\n\niii) Comércio - divisões 45 a 47 da CAE, com excepção da classe 4773;\n\niv) Restauração e similares - actividades incluídas na divisão 56;\n\nv) Serviços - divisões 37, 38, 39, 62, 71, 72, 78, 79, 82, 88 e 95, grupos 582, 592, 631, 812, 813 e 851, classes 5911, 5912, 9313, 9601, 9602 e 9604 e subclasse 52102 da CAE;\n\nb) Projectos com investimentos iguais ou superiores a (euro) 15 000 e iguais ou inferiores a (euro) 80 000, destinados à promoção da segurança e qualidade alimentar dos estabelecimentos do comércio e indústria do ramo alimentar e de restauração e bebidas, existentes há mais de três anos;\n\nc) Projectos de urbanismo comercial, com despesas iguais ou superiores a (euro) 15 000, que visem a qualificação do espaço público envolvente ao comércio, em áreas delimitadas dos centros urbanos das vilas e cidades, incluindo a modernização das fachadas dos estabelecimentos comerciais que confrontem com o espaço público, desde que os mesmos se encontrem previamente aprovados pela Câmara Municipal competente.\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\n###### Artigo 20.º — Promotores"
+   },
+   {
+    "artigo": "Trecho 23",
+    "veredicto": "errado",
+    "motivo": "Art. 20.º, n.º 2 (DLR 26/2011/A): o alterador diz «na alínea c) do n.º 1 do artigo anterior»; o consolidado tira «do n.º 1».",
+    "texto_esperado": "2 - Podem beneficiar dos incentivos previstos na alínea c) do n.º 1 do artigo anterior estruturas associativas do comércio ou as associações empresariais.\n\n###### Artigo 21.º — Critérios de selecção"
+   },
+   {
+    "artigo": "Trecho 24",
+    "veredicto": "certo",
+    "motivo": "Art. 21.º, alínea i) aditada pelo DLR 26/2011/A.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 25",
+    "veredicto": "errado",
+    "motivo": "Art. 22.º (DLR 26/2011/A): nos n.os 1, 4 e 5 o alterador diz «alínea a)/b)/c) do n.º 1 do artigo 19.º»; o consolidado tira «do n.º 1». Também acrescenta vírgula em «15 %, para» (c) do n.º 1) e «de 60 %» no n.º 4 (o alterador diz «e 60 %»).",
+    "texto_esperado": "###### Artigo 22.º — Natureza e montante do incentivo\n\n1 - O incentivo a conceder às despesas elegíveis para os projectos a que se refere a alínea a) do n.º 1 do artigo 19.º reveste a forma de subsídio não reembolsável e reembolsável sem juros, de acordo com os seguintes escalões de investimento:\n\na) Até (euro) 200 000, subsídio não reembolsável, com uma taxa base de 40 % para as ilhas de São Miguel e Terceira, 45 % para as ilhas de Faial e Pico e 50 % para as restantes ilhas;\n\nb) Superior a (euro) 200 000 e inferior ou igual a (euro) 500 000, subsídio não reembolsável, com uma taxa base de 20 % para as ilhas de São Miguel e Terceira, 25 % para as ilhas de Faial e Pico e 30 % para as restantes ilhas, e subsídio reembolsável, com uma taxa de comparticipação de 25 %;\n\nc) Superior a (euro) 500 000, subsídio não reembolsável, com uma taxa base de 15 % para as ilhas de São Miguel e Terceira, 20 % para as ilhas de Faial e Pico e 25 % para as restantes ilhas, e subsídio reembolsável, com uma taxa de comparticipação de 25 %.\n\n2 - Às taxas de incentivo não reembolsável referidas no número anterior podem ser acrescidas majorações, a definir na regulamentação deste subsistema, relativas à certificação da qualidade, eficiência energética, mais-valia ambiental, criação de emprego com habilitação adequada, localização do projecto, transformação e valorização de recursos endógenos, incremento da capacidade exportadora e, no caso dos projectos que se desenvolvam nas áreas de actividade inseridas nas divisões 56 e 79 da CAE, desde que reconhecidos de interesse para o turismo.\n\n3 - O prazo de financiamento do incentivo reembolsável é de 10 anos, dos quais os 3 primeiros são de carência de capital, contados a partir da data do primeiro pagamento do incentivo, sendo de 12 anos, dos quais os 4 primeiros são de carência de capital, para projectos com despesas elegíveis iguais ou superiores a (euro) 4 000 000.\n\n4 - O incentivo a conceder às despesas elegíveis para os projectos a que se refere a alínea b) do n.º 1 do artigo 19.º reveste a forma de subsídio não reembolsável, com uma taxa de comparticipação de 50 % para as ilhas de São Miguel e Terceira, 55 % para as ilhas de Faial e Pico e 60 % para as restantes ilhas.\n\n5 - O incentivo a conceder às despesas elegíveis para os projectos da alínea c) do n.º 1 do artigo 19.º reveste a forma de subsídio não reembolsável, sendo a taxa de comparticipação de 55 % para as ilhas de São Miguel e Terceira, 60 % para as ilhas de Faial e Pico e 65 % para as restantes ilhas."
+   },
+   {
+    "artigo": "Trecho 26",
+    "veredicto": "errado",
+    "motivo": "Art. 22.º, n.º 7: o DLR 26/2011/A revoga-o; tem de ficar «7 - (Revogado.)» e o consolidado apaga-o. O título do art. 23.º (renumeração) está certo.",
+    "texto_esperado": "7 - (Revogado.)\n\n###### Artigo 23.º — Entidades gestoras"
+   },
+   {
+    "artigo": "Trecho 27",
+    "veredicto": "errado",
+    "motivo": "Art. 23.º (DLR 26/2011/A): a alínea a) é revogada e fica «a) (Revogada.)»; b) e c) recebem a nova redação e d) fica. O consolidado apaga a a) e volta a letrar b), c), d) como a), b), c).",
+    "texto_esperado": "a) (Revogada.)\n\nb) Organismos avaliadores - direcção regional com competência em matéria de apoio ao investimento ou Câmara do Comércio e Indústria dos Açores, através das suas associadas;\n\nc) Organismo coordenador - direcção regional com competência em matéria de apoio ao investimento;\n\nd) Organismo de selecção - comissão de selecção."
+   },
+   {
+    "artigo": "Trecho 28",
+    "veredicto": "errado",
+    "motivo": "Art. 24.º (DLR 26/2011/A): mantém «1 -», a alínea b) é revogada («b) (Revogada.)»), a c) fica c) e o n.º 2 é revogado («2 - (Revogado.)»). O consolidado tira o «1 -», apaga a b) e o n.º 2 e passa a c) a b); escreve ainda «Actividades Termais» (o alterador diz «Actividades termais»). A subalínea iv) (anterior iii), na redação de 2010) está certa.",
+    "texto_esperado": "###### Artigo 24.º — Âmbito\n\n1 - São susceptíveis de apoio, no âmbito do Desenvolvimento do Turismo:\n\na) Projectos com investimento igual ou superior a (euro) 15 000, que se desenvolvam nas seguintes áreas, classificadas de acordo com a Classificação Portuguesa de Actividades Económicas (CAE - Rev. 3), revista pelo Decreto-Lei n.º 381/2007, de 14 de Novembro:\n\ni) Alojamento - divisão 55 da CAE;\n\nii) Aluguer de veículos automóveis - classe 7711 da CAE;\n\niii) Actividades termais - subclasse 86905 da CAE;\n\niv) Animação turística - actividades incluídas no Decreto-Lei n.º 108/2009, de 15 de Maio, desde que sejam reconhecidas de interesse para o desenvolvimento e consolidação da oferta turística regional pela direcção regional com competência em matéria de turismo;\n\nb) (Revogada.)\n\nc) Projectos com despesas iguais ou superiores a (euro) 5000 que visem a realização de acções e eventos de animação e promoção turísticas cujo interesse seja previamente reconhecido pela direcção regional com competência em matéria de turismo.\n\n2 - (Revogado.)\n\n###### Artigo 25.º — Promotores"
+   },
+   {
+    "artigo": "Trecho 29",
+    "veredicto": "certo",
+    "motivo": "Renumeração: art. 24.º passa a 26.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 30",
+    "veredicto": "errado",
+    "motivo": "Art. 26.º (DLR 26/2011/A, arts. 1.º e 3.º): as alíneas g) e h) são revogadas e fica uma nova i); o consolidado põe o texto novo na g) e apaga as revogadas.",
+    "texto_esperado": "g) (Revogada.)\n\nh) (Revogada.)\n\ni) Contributo do projecto para a sustentabilidade económica, ambiental e social."
+   },
+   {
+    "artigo": "Trecho 31",
+    "veredicto": "errado",
+    "motivo": "Art. 27.º, n.º 1 (DLR 26/2011/A): o alterador diz «alínea a) do n.º 1 do artigo 24.º»; o consolidado tira «do n.º 1». Tira também a vírgula antes de «para os projectos» nas subalíneas e põe ponto final no fim da c) i) em vez de ponto e vírgula.",
+    "texto_esperado": "###### Artigo 27.º — Natureza e montante do incentivo\n\n1 - O incentivo a conceder às despesas elegíveis para os projectos a que se refere a alínea a) do n.º 1 do artigo 24.º reveste a forma de subsídio não reembolsável e reembolsável sem juros, de acordo com os seguintes escalões de investimento:\n\na) Até (euro) 200 000:\n\ni) Subsídio não reembolsável, com uma taxa base de 40 % para as ilhas de São Miguel e Terceira, 45 % para as ilhas de Faial e Pico e 50 % para as restantes ilhas, para os projectos a que se referem as subalíneas i) e ii);\n\nii) Subsídio não reembolsável, com uma taxa base de 50 % para as ilhas de São Miguel e Terceira, 55 % para as ilhas de Faial e Pico e 60 % para as restantes ilhas, para os projectos a que se referem as subalíneas iii) e iv);\n\nb) Superior a (euro) 200 000 e inferior ou igual a (euro) 500 000:\n\ni) Subsídio não reembolsável, com uma taxa base de 25 % para as ilhas de São Miguel e Terceira, 30 % para as ilhas de Faial e Pico e 35 % para as restantes ilhas, e subsídio reembolsável, com uma taxa de comparticipação de 25 %, para os projectos a que se referem as subalíneas i) e ii);\n\nii) Subsídio não reembolsável, com uma taxa base de 35 % para as ilhas de São Miguel e Terceira, 40 % para as ilhas de Faial e Pico e 45 % para as restantes ilhas, e subsídio reembolsável, com uma taxa de comparticipação de 25 %, para os projectos a que se referem as subalíneas iii) e iv);\n\nc) Superior a (euro) 500 000:\n\ni) Subsídio não reembolsável, com uma taxa base de 20 % para as ilhas de São Miguel e Terceira, 25 % para as ilhas de Faial e Pico e 30 % para as restantes ilhas, e subsídio reembolsável, com uma taxa de comparticipação de 25 %, para os projectos a que se referem as subalíneas i) e ii);\n\nii) Subsídio não reembolsável, com uma taxa base de 30 % para as ilhas de São Miguel e Terceira, 35 % para as ilhas de Faial e Pico e 40 % para as restantes ilhas, e subsídio reembolsável, com uma taxa de comparticipação de 25 %, para os projectos a que se referem as subalíneas iii) e iv)."
+   },
+   {
+    "artigo": "Trecho 32",
+    "veredicto": "errado",
+    "motivo": "Art. 27.º (DLR 26/2011/A): o n.º 4 é revogado («4 - (Revogado.)»), o texto de minimis é o n.º 5 e refere a «alínea c) do n.º 1 do artigo 24.º», o n.º 6 (valor máximo) fica n.º 6 e o n.º 7 é revogado. O consolidado apaga os revogados, renumera os n.os 5 e 6 para 4 e 5 e muda a alínea c) para b). No art. 28.º o alterador diz «alínea a) do n.º 1 do artigo 24.º» e «alínea b) do n.º 1 do artigo 24.º»; o consolidado tira «do n.º 1». O n.º 3 está certo.",
+    "texto_esperado": "3 - O prazo de financiamento do incentivo reembolsável é de 10 anos, dos quais os 3 primeiros são de carência de capital, contados a partir da data do primeiro pagamento do incentivo, sendo de 12 anos, dos quais os 4 primeiros são de carência de capital, para projectos com despesas elegíveis iguais ou superiores a (euro) 4 000 000.\n\n4 - (Revogado.)\n\n5 - O incentivo a conceder às despesas elegíveis para os projectos a que se refere a alínea c) do n.º 1 do artigo 24.º reveste a forma de subsídio não reembolsável, a atribuir ao abrigo do Regulamento (CE) n.º [1998/2006](http://data.europa.eu/eli/reg/2006/1998/oj?locale=pt), da Comissão, de 15 de Dezembro (auxílios de minimis), com uma taxa de 50 % para as ilhas de São Miguel e Terceira, 55 % para as ilhas de Faial e Pico e 60 % para as restantes ilhas.\n\n6 - O valor máximo do apoio a conceder é de (euro) 3 500 000, sob a forma de subsídio não reembolsável, e (euro) 3 500 000, sob a forma de subsídio reembolsável, por projecto, à excepção do disposto no número anterior.\n\n7 - (Revogado.)\n\n###### Artigo 28.º — Entidades gestoras\n\nAs entidades responsáveis pela gestão do Desenvolvimento do Turismo são a direcção regional com competência em matéria de apoio ao investimento, para os projectos a que se refere a alínea a) do n.º 1 do artigo 24.º, e a direcção regional com competência em matéria de turismo, para os projectos a que se refere a alínea b) do n.º 1 do artigo 24.º, e a comissão de selecção."
+   },
+   {
+    "artigo": "Trecho 33",
+    "veredicto": "certo",
+    "motivo": "Renumeração: art. 27.º passa a 29.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 34",
+    "veredicto": "certo",
+    "motivo": "Art. 29.º, d) (DLR 26/2011/A) e e) (DLR 10/2010/A).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 35",
+    "veredicto": "errado",
+    "motivo": "Art. 29.º, j): nenhum alterador a muda; o consolidado escreve «inter-ilhas», que não está no original nem nas republicações («interilhas»).",
+    "texto_esperado": "j) Transporte marítimo interilhas;"
+   },
+   {
+    "artigo": "Trecho 36",
+    "veredicto": "errado",
+    "motivo": "Art. 29.º (DLR 26/2011/A): m), n) e n.º 2 certos, mas o n.º 4 é revogado e tem de ficar «4 - (Revogado.)»; o consolidado apaga-o. No n.º 3, que nenhum alterador muda, acrescenta vírgula («que incluam, pelo menos,»).",
+    "texto_esperado": "m) Aproveitamento de fontes renováveis de energia para a produção de biocombustíveis ou para a substituição do consumo de combustíveis fósseis;\n\nn) Investigação e desenvolvimento tecnológico, que visem o reforço da competitividade.\n\n2 - Para efeitos do disposto na alínea a) do número anterior, consideram-se apenas os projectos que demonstrem contribuir de forma regular e continuada para o incremento das vendas ao mercado externo.\n\n3 - Para efeitos do disposto na alínea j) do n.º 1, consideram-se apenas os projectos de substituição de equipamentos e embarcações destinados ao transporte marítimo regular, que incluam pelo menos uma das seguintes ilhas: Santa Maria, Graciosa, São Jorge, Flores e Corvo.\n\n4 - (Revogado.)\n\n###### Artigo 30.º — Promotores"
+   },
+   {
+    "artigo": "Trecho 37",
+    "veredicto": "certo",
+    "motivo": "Renumeração: art. 29.º passa a 31.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 38",
+    "veredicto": "certo",
+    "motivo": "Art. 31.º, alínea f) aditada pelo DLR 26/2011/A.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 39",
+    "veredicto": "certo",
+    "motivo": "Art. 32.º, n.os 1 a 5 na redação do DLR 26/2011/A, letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 40",
+    "veredicto": "errado",
+    "motivo": "Art. 32.º, n.º 7: o DLR 26/2011/A revoga-o («7 - (Revogado.)»); o consolidado apaga-o. O art. 33.º está certo.",
+    "texto_esperado": "7 - (Revogado.)\n\n###### Artigo 33.º — Entidades gestoras\n\nAs entidades responsáveis pela gestão do Desenvolvimento Estratégico são a direcção regional com competência em matéria de apoio ao investimento e a comissão de selecção."
+   },
+   {
+    "artigo": "Trecho 41",
+    "veredicto": "errado",
+    "motivo": "Art. 34.º (DLR 26/2011/A): o novo texto é o n.º 1 («1 - São susceptíveis…») e os n.os 2 e 3 são revogados; o consolidado tira o «1 -» e apaga os revogados.",
+    "texto_esperado": "###### Artigo 34.º — Âmbito\n\n1 - São susceptíveis de apoio, no âmbito do Desenvolvimento da Qualidade e Inovação, projectos vocacionados para estimular a qualidade e inovação nas empresas, com investimento igual ou superior a (euro) 15 000 e igual ou inferior a (euro) 500 000.\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\n###### Artigo 35.º — Promotores"
+   },
+   {
+    "artigo": "Trecho 42",
+    "veredicto": "certo",
+    "motivo": "Renumeração: art. 34.º passa a 36.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 43",
+    "veredicto": "certo",
+    "motivo": "Art. 36.º, alínea e) aditada pelo DLR 26/2011/A.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 44",
+    "veredicto": "errado",
+    "motivo": "Art. 37.º (DLR 26/2011/A): no n.º 2 o alterador diz «inovadoras, criação de emprego»; o consolidado põe «inovadoras e criação de emprego»; o n.º 3 é revogado e tem de ficar «3 - (Revogado.)». N.º 1 e art. 38.º certos.",
+    "texto_esperado": "###### Artigo 37.º — Natureza e montante do incentivo\n\n1 - O incentivo a conceder às despesas elegíveis reveste a forma de subsídio não reembolsável, com uma taxa base de 55 % para as ilhas de São Miguel e Terceira, 60 % para as ilhas de Faial e Pico e 65 % para as restantes ilhas.\n\n2 - Às taxas de incentivo mencionadas no número anterior podem ser acrescidas majorações, a definir na regulamentação deste subsistema, relativas à implementação de parcerias entre empresas ou entre empresas e instituições de I&D, projectos piloto demonstradores de soluções tecnologicamente inovadoras, criação de emprego com habilitação adequada, dimensão da empresa e investigação industrial.\n\n3 - (Revogado.)\n\n###### Artigo 38.º — Entidades gestoras\n\nAs entidades responsáveis pela gestão do Desenvolvimento da Qualidade e Inovação são a direcção regional com competência em matéria de apoio ao investimento e a comissão de selecção."
+   },
+   {
+    "artigo": "Trecho 45",
+    "veredicto": "certo",
+    "motivo": "Renumeração: art. 37.º passa a 39.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 46",
+    "veredicto": "certo",
+    "motivo": "Renumeração: art. 38.º passa a 40.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 47",
+    "veredicto": "certo",
+    "motivo": "Art. 40.º: n.º 2 na redação do DLR 1/2016/A, n.º 3 mantido («[...]») na redação do DLR 1/2015/A, n.º 4 = a norma do antigo n.º 2 (despesas após 1/1/2007), que o DLR 2/2013/A passou a n.º 3 e os DLR 2/2014/A, 1/2015/A e 1/2016/A mantêm como n.º 4 com a remissão «[Anterior n.º 2]».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 48",
+    "veredicto": "certo",
+    "motivo": "Art. 42.º: renumeração e remissão para o art. 40.º, como na republicação de 2010.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 49",
+    "veredicto": "certo",
+    "motivo": "Renumeração: art. 41.º passa a 43.º.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações (a ordem dos títulos está certa: com a renumeração do DLR 2/2009/A, os capítulos II a VI ficam antes dos arts. 19.º, 24.º, 29.º, 34.º e 39.º, como na republicação de 2010)",
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DLR 26/2011/A, art. 3.º: revogação do Decreto Regulamentar Regional n.º 14/2009/A",
+    "motivo": "Instrução de outro diploma."
+   },
+   {
+    "instrucao": "DLR 26/2011/A, art. 4.º: republicação e renumeração em anexo",
+    "motivo": "O diploma que altera, na vista, não traz o anexo da republicação: não há texto nem quadro de renumeração; os alteradores seguintes (arts. 15.º, 22.º, 27.º, 32.º e 40.º) usam a numeração de 2010."
+   },
+   {
+    "instrucao": "DLR 3/2012/A, art. 36.º, n.os 2 e 3 (aplicação aos projetos em análise e contratualizados; notificação)",
+    "motivo": "Não textual: norma de aplicação."
+   },
+   {
+    "instrucao": "DLR 2/2013/A, art. 37.º: suspensão em 2013 do reembolso dos arts. 22.º, n.º 3, 27.º, n.º 3, e 32.º, n.º 4",
+    "motivo": "Não textual: suspensão."
+   },
+   {
+    "instrucao": "DLR 2/2014/A, art. 39.º: suspensão em 2014 do reembolso",
+    "motivo": "Não textual: suspensão."
+   },
+   {
+    "instrucao": "DLR 1/2015/A, art. 35.º: suspensão em 2015 do reembolso",
+    "motivo": "Não textual: suspensão."
+   },
+   {
+    "instrucao": "DLR 1/2016/A, art. 36.º: suspensão em 2016 do reembolso",
+    "motivo": "Não textual: suspensão."
+   },
+   {
+    "instrucao": "DLR 3/2017/A, art. 41.º: suspensão em 2017 do reembolso",
+    "motivo": "Não textual: suspensão."
+   },
+   {
+    "instrucao": "DLR 12/2020/A, art. 5.º, n.º 2, c): suspensão da devolução das prestações do incentivo reembolsável",
+    "motivo": "Não textual: suspensão."
+   },
+   {
+    "instrucao": "DLR 2/2021/A, arts. 1.º e 2.º: diferimento das prestações e majoração",
+    "motivo": "Não textual: diferimento e majoração, sem nova redação do original."
+   },
+   {
+    "instrucao": "DLR 28/2021/A, arts. 2.º e 3.º: diferimento das prestações e majoração",
+    "motivo": "Não textual: diferimento e majoração, sem nova redação do original."
+   }
+  ]
+ }
+]

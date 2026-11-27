@@ -1,0 +1,206 @@
+[
+ {
+  "id": "pt:dre:236100:por",
+  "substituicoes": [
+   {
+    "de": 25,
+    "ate": 30,
+    "texto": "Artigo 1.º - (Revogado.)",
+    "alterador": 2
+   },
+   {
+    "de": 31,
+    "ate": 31,
+    "texto": "Art. 2.º - (Revogado.)",
+    "alterador": 2
+   },
+   {
+    "de": 32,
+    "ate": 32,
+    "texto": "Art. 3.º - (Revogado.)",
+    "alterador": 2
+   },
+   {
+    "de": 33,
+    "ate": 36,
+    "texto": "Art. 4.º - (Revogado.)",
+    "alterador": 2
+   },
+   {
+    "de": 38,
+    "ate": 47,
+    "texto": "Art. 5.º - (Revogado.)",
+    "alterador": 2
+   },
+   {
+    "de": 48,
+    "ate": 60,
+    "texto": "Art. 6.º - (Revogado.)",
+    "alterador": 2
+   },
+   {
+    "de": 61,
+    "ate": 67,
+    "texto": "Art. 7.º - (Revogado.)",
+    "alterador": 2
+   },
+   {
+    "de": 69,
+    "ate": 82,
+    "texto": "Art. 8.º - (Revogado.)",
+    "alterador": 2
+   },
+   {
+    "de": 84,
+    "ate": 89,
+    "texto": "Art. 9.º - (Revogado.)",
+    "alterador": 2
+   },
+   {
+    "de": 90,
+    "ate": 93,
+    "texto": "Art. 10.º - (Revogado.)",
+    "alterador": 2
+   },
+   {
+    "de": 94,
+    "ate": 95,
+    "texto": "Art. 11.º - (Revogado.)",
+    "alterador": 2
+   },
+   {
+    "de": 97,
+    "ate": 99,
+    "texto": "Art. 12.º - (Revogado.)",
+    "alterador": 2
+   },
+   {
+    "de": 100,
+    "ate": 101,
+    "texto": "Art. 13.º - (Revogado.)",
+    "alterador": 2
+   },
+   {
+    "de": 102,
+    "ate": 103,
+    "texto": "Art. 14.º - (Revogado.)",
+    "alterador": 2
+   },
+   {
+    "de": 104,
+    "ate": 104,
+    "texto": "Art. 15.º - (Revogado.)",
+    "alterador": 2
+   },
+   {
+    "de": 106,
+    "ate": 108,
+    "texto": "Art. 16.º - (Revogado.)",
+    "alterador": 2
+   },
+   {
+    "de": 110,
+    "ate": 110,
+    "texto": "Art. 17.º - (Revogado.)",
+    "alterador": 2
+   },
+   {
+    "de": 111,
+    "ate": 112,
+    "texto": "Art. 18.º - (Revogado.)",
+    "alterador": 2
+   },
+   {
+    "de": 113,
+    "ate": 113,
+    "texto": "Art. 19.º - (Revogado.)",
+    "alterador": 2
+   },
+   {
+    "de": 114,
+    "ate": 114,
+    "texto": "Art. 20.º - (Revogado.)",
+    "alterador": 2
+   },
+   {
+    "de": 115,
+    "ate": 115,
+    "texto": "Art. 21.º - (Revogado.)",
+    "alterador": 2
+   },
+   {
+    "de": 116,
+    "ate": 116,
+    "texto": "Art. 22.º - (Revogado.)",
+    "alterador": 2
+   },
+   {
+    "de": 117,
+    "ate": 118,
+    "texto": "Art. 23.º - (Revogado.)",
+    "alterador": 2
+   },
+   {
+    "de": 119,
+    "ate": 119,
+    "texto": "Art. 24.º - (Revogado.)",
+    "alterador": 2
+   },
+   {
+    "de": 120,
+    "ate": 122,
+    "texto": "Art. 25.º - (Revogado.)",
+    "alterador": 2
+   },
+   {
+    "de": 123,
+    "ate": 124,
+    "texto": "Art. 26.º - (Revogado.)",
+    "alterador": 2
+   },
+   {
+    "de": 125,
+    "ate": 125,
+    "texto": "Art. 27.º - (Revogado.)",
+    "alterador": 2
+   },
+   {
+    "de": 126,
+    "ate": 126,
+    "texto": "Art. 28.º - (Revogado.)",
+    "alterador": 2
+   },
+   {
+    "de": 127,
+    "ate": 128,
+    "texto": "Art. 29.º - (Revogado.)",
+    "alterador": 2
+   },
+   {
+    "de": 130,
+    "ate": 130,
+    "texto": "Art. 30.º - (Revogado.)",
+    "alterador": 2
+   },
+   {
+    "de": 131,
+    "ate": 135,
+    "texto": "Art. 31.º - (Revogado.)",
+    "alterador": 2
+   },
+   {
+    "de": 136,
+    "ate": 137,
+    "texto": "Art. 32.º - (Revogado.)",
+    "alterador": 2
+   }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, arts. 1.º, 3.º e 4.º (sujeição dos motociclos, aplicação do Regulamento, prazo de 1975): não textual: não alteram o texto do original\nAlterador 2, arts. 2.º a 5.º (modelos de impressos, regime de 1976): não textual: não alteram o texto do original\nAlterador 3, n.º 5.º, 2 (mantém em vigor os impressos modelos n.os 3, 5 e 8 anexos ao Regulamento): não textual: os impressos só existem em imagem e a instrução não altera o texto",
+  "instrucoes": [
+   "Alterador 1, art. 2.º: nova redação de artigos do Regulamento — fica sem efeito no texto final porque o alterador 2 substitui o Regulamento.",
+   "Alterador 2, art. 1.º: o novo Regulamento (do Decreto-Lei n.º 81/76) substitui o Regulamento aprovado pelo original — os arts. 1.º a 32.º do Regulamento ficam «(Revogado.)», com o prefixo do texto atual; os títulos dos capítulos, o título do Regulamento, a assinatura e a imagem dos modelos ficam.",
+   "Alterador 3: portaria de execução do novo Regulamento — não textual, em nao_aplicavel."
+  ]
+ }
+]

@@ -21,12 +21,17 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "DLR 4/87/M, art. 1.º: suspende a aplicação do artigo 1.º; suspensão não é alteração textual, não aplicada.",
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 2, artigos 1.º a 3.º (suspende a aplicação do artigo 1.º e regula a situação enquanto durar a suspensão): não textual",
   "instrucoes": [
-    "DLR 4/85/M, art. 1.º: nova redação dos artigos 1.º, 4.º e 5.º; aplicado.",
-    "DLR 4/87/M: suspensão da aplicação do artigo 1.º e regras durante a suspensão; não textual, não aplicado."
+    "Alterador 1, art. 1.º: nova redação dos artigos 1.º (n.os 1 e 2), 4.º e 5.º: aplicada",
+    "Alterador 2: suspensão da aplicação do artigo 1.º: não textual"
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 124,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

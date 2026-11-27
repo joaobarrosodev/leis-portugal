@@ -1,0 +1,75 @@
+[
+ {
+  "id": "pt:dre:229284:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 3.º, n.º 7, da Lei 30-G/2000 (redação da Lei 85/2001, art. 7.º, que mantém a revogação e só ressalva o regime anterior para pré-reformas iniciadas até 31-12-2000); corpo «(Revogado.)».",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 44/98, art. 1.º: aditamento dos arts. 83.º-A e 74.º-A e nova redação dos arts. 69.º, 71.º, 80.º, 83.º e 111.º do Código do IRC",
+    "motivo": "Confirmado: outro diploma (Código do IRC, DL 442-B/88)."
+   },
+   {
+    "instrucao": "DL 366/98: nova redação do art. 10.º do Código do IRS e dos arts. 38.º, 57.º-A, 57.º-B, 62.º, 64.º-A, 75.º e 103.º do Código do IRC; revogação do n.º 9 do art. 62.º-A do Código do IRC",
+    "motivo": "Confirmado: outro diploma (Códigos do IRS e do IRC)."
+   },
+   {
+    "instrucao": "Lei 30-F/2000: aditamento do art. 41.º-A ao Estatuto dos Benefícios Fiscais",
+    "motivo": "Confirmado: outro diploma (EBF, DL 215/89)."
+   },
+   {
+    "instrucao": "Lei 30-G/2000, art. 3.º, n.os 1 a 6, 8 e 9: art. 4.º do DL 442-A/88, normas interpretativas e transitórias do Código do IRS, designação de secções do Código do IRS, regime simplificado",
+    "motivo": "Confirmado: outro diploma (DL 442-A/88 e Códigos do IRS e do IRC). O n.º 7 (revogação do art. 2.º do DL 25/98) está aplicado."
+   },
+   {
+    "instrucao": "Lei 85/2001: alterações à Lei 30-C/2000, ao EBF, ao DL 204/95, aos Códigos do IRS e do IRC, à Lei 30-G/2000 (arts. 3.º, n.º 7, 7.º e 10.º) e aditamento ao DL 40/93",
+    "motivo": "Confirmado: outro diploma. A nova redação do n.º 7 do art. 3.º da Lei 30-G/2000 mantém a revogação do art. 2.º do DL 25/98 (só ressalva o regime anterior para as pré-reformas contratadas e iniciadas até 31-12-2000), e essa revogação está aplicada."
+   },
+   {
+    "instrucao": "DL 221/2001: Código do IRC, art. 18.º-A do DL 442-B/88, Código do IRS e art. 7.º do DR 2/90",
+    "motivo": "Confirmado: outro diploma."
+   },
+   {
+    "instrucao": "DL 228/2002: arts. 10.º, 22.º, 43.º, 55.º, 72.º e 101.º do Código do IRS e art. 22.º do EBF",
+    "motivo": "Confirmado: outro diploma."
+   },
+   {
+    "instrucao": "Lei 39-A/2005: Lei 55-B/2004, DL 331/2001, DL 62/2005, Códigos do IRS, do IRC, do IVA e do Imposto do Selo, RGIT, DL 37/88, DL 77/89, Lei 1/2005",
+    "motivo": "Confirmado: outro diploma."
+   },
+   {
+    "instrucao": "DL 211/2005: Códigos do IRS, do IRC, do Imposto do Selo, CIMI, CIMT, DL 287/2003, DL 42/91, DR 2/90, RITI",
+    "motivo": "Confirmado: outro diploma."
+   },
+   {
+    "instrucao": "DL 361/2007: arts. 10.º, 57.º e 119.º do Código do IRS",
+    "motivo": "Confirmado: outro diploma."
+   },
+   {
+    "instrucao": "DL 175/2009: Código do IRS, Código do Imposto do Selo e Tabela Geral",
+    "motivo": "Confirmado: outro diploma."
+   },
+   {
+    "instrucao": "DL 249/2009: Código do IVA, Código do IRS, art. 41.º do EBF, Código Fiscal do Investimento (anexo) e revogações no DL 401/99 e DL 409/99",
+    "motivo": "Confirmado: outro diploma."
+   },
+   {
+    "instrucao": "DL 292/2009: Códigos do IVA, do IRS e do IRC, EBF, Código do Registo Comercial e DL 8/2007",
+    "motivo": "Confirmado: outro diploma."
+   },
+   {
+    "instrucao": "Lei 15/2010: Código do IRS (incl. revogação dos n.os 2 e 12 do art. 10.º) e EBF",
+    "motivo": "Confirmado: outro diploma."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

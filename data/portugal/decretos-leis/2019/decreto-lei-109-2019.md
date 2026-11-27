@@ -47,10 +47,24 @@ legal_status_basis:
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2019-10-13'
+version_history:
+  file: decreto-lei-109-2019.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2019-08-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2019-10-13'
+    amending: pt:dre:124097551:por
+    amending_title: Declaração de Retificação n.º 38/2019
+    changes:
+    - Altera Artigo 4.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/109/2019/08/14/p/dre/pt/html
@@ -76,7 +90,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T03:36:48Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Retificação n.º 38/2019.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2019/decreto-lei-109-2019.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -333,7 +348,9 @@ Regiões Autónomas
 
 ###### Artigo 4.º — Norma transitória
 
-Não obstante o disposto no n.º 4 do artigo 10.º e no n.º 1 do artigo 13.º do [Decreto-Lei n.º 70/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-2007-520472), de 26 de março, com a redação introduzida pelo presente decreto-lei, os operadores económicos podem, até ao dia 30 de junho de 2020, notificar a Autoridade de Segurança Alimentar e Económica através de qualquer meio de comunicação legalmente admissível.
+Não obstante o disposto no n.º 5 do artigo 10.º e no n.º 1 do artigo 13.º do [Decreto-Lei n.º 70/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-2007-520472), de 26 de março, com a redação introduzida pelo presente decreto-lei, os operadores económicos podem, até ao dia 30 de junho de 2020, notificar a Autoridade de Segurança Alimentar e Económica através de qualquer meio de comunicação legalmente admissível.
+
+> Alterado pelo/a [Declaração de Retificação n.º 38/2019](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/38-2019-124097551), publicado em 2019-08-21.
 
 ###### Artigo 5.º — Republicação
 

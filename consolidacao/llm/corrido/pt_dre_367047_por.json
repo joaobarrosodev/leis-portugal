@@ -9,11 +9,11 @@
     }
   ],
   "insercoes": [],
-  "nao_aplicavel": "Alterador 2 (Acórdão n.º 12/88): declara a inconstitucionalidade do artigo 2.º apenas 'na medida em que' restringe a aplicação da nova redacção do artigo 50.º do Decreto n.º 360/71; é parcial e não textual, pelo que não se altera o texto.",
+  "nao_aplicavel": "Alterador 2, declaração de inconstitucionalidade do art. 2.º «na medida em que restringe» a aplicação do art. 50.º do Decreto n.º 360/71: não textual: declaração de inconstitucionalidade parcial, sem eliminar o texto\nAlterador 3, nova redação do art. 65.º e regime do n.º 2 do art. 50.º do Decreto n.º 360/71: outro diploma: altera o Decreto n.º 360/71, a que o original só tinha dado redação",
   "instrucoes": [
-    "Alterador 1 (DL 231/80, artigo único): nova redacção do artigo 2.º; substituída a unidade 22.",
-    "Alterador 2 (Acórdão 12/88): inconstitucionalidade parcial do artigo 2.º; não textual, não aplicada (nao_aplicavel).",
-    "Alterador 3 (DL 304/93): altera o artigo 65.º do Decreto n.º 360/71 e dispõe sobre o artigo 50.º desse decreto; dirigido a outro diploma, ignorado."
+    "Alterador 1: nova redação do art. 2.º; substituída a unidade 22.",
+    "Alterador 2: Acórdão do TC declara inconstitucional o art. 2.º na medida em que restringe; não textual.",
+    "Alterador 3: altera o art. 65.º do Decreto n.º 360/71 (outro diploma); não aplicado."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

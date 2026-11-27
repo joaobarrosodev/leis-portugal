@@ -10,6 +10,9 @@ consolidacao:
   - id: pt:dre:327824:por
     title: Decreto-Lei n.º 36/85
     publication_date: '1985-02-06'
+  - id: pt:dre:546985:por
+    title: Decreto-Lei n.º 291/89
+    publication_date: '1989-09-02'
 ---
 
 # Decreto-Lei n.º 242/84
@@ -330,7 +333,7 @@ Art. 8.º A conferência da descarga das mercadorias e respectiva entrada para o
 
 5) Para efeito do controle das existências em armazém, será instalado na delegação aduaneira um terminal do sistema informático da TERTIR, que, em função do número de contramarca fiscal, fornecerá a informação respeitaste à quantidade e posicionamento da mercadoria da contramarca a controlar.
 
-#### SECÇÃO II — (Da emissão e legalização dos títulos de propriedade)
+#### SECÇÃO II — Da emissão do título de depósito
 
 Art. 9.º - 1 - Os títulos de propriedade das mercadorias armazenadas no depósito TIR obedecem ao modelo do anexo II ao presente Regulamento e serão emitidos pela TERTIR com base no manifesto e no relatório de descarga, devendo ser apresentados nos serviços aduaneiros para efeito de conferência dos respectivos bilhetes de despacho.
 
@@ -550,7 +553,7 @@ Art. 8.º A conferência da descarga das mercadorias e a respectiva entrada para
 
 5) Para efeito do controle das existências em armazém, será instalado na delegação um terminal do sistema informático da TERTIR, que, em função do número de contramarca fiscal, fornecerá a informação respeitante à quantidade e posicionamento da mercadoria da contramarca a controlar.
 
-#### SECÇÃO II — (Da emissão e legalização dos títulos de propriedade)
+#### SECÇÃO II — Da emissão do título de depósito
 
 Art. 9.º - 1 - Os títulos de propriedade das mercadorias armazenadas no depósito TIR obedecem ao modelo do anexo II ao presente Regulamento e serão emitidos pela TERTIR com base no manifesto e no relatório de descarga, devendo ser apresentados nos serviços aduaneiros para efeito de conferência dos respectivos bilhetes de despacho.
 

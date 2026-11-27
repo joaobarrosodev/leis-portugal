@@ -1,0 +1,159 @@
+[
+ {
+  "id": "pt:dre:372068:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "N.os 4, 5 e 7 com a redação do art. 1.º do DLR 25/2003/M e n.º 6 = anterior n.º 5; n.os 1 a 3 originais.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "Alíneas h) a k) do n.º 2 e n.os 3 e 4 do DLR 25/2003/M; n.º 5 = anterior n.º 4; resto original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 12.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação do DLR 25/2003/M (corpo único; os antigos n.os 2 e 3 caem).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º #2",
+    "veredicto": "certo",
+    "motivo": "Art. 3.º dos Estatutos (anexo I) com a redação do art. 2.º do DLR 25/2003/M.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 10.º #2",
+    "veredicto": "certo",
+    "motivo": "Alínea m) do art. 10.º dos Estatutos com a redação do art. 2.º do DLR 25/2003/M; restantes alíneas originais.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 1.º #3",
+    "veredicto": "certo",
+    "motivo": "Art. 1.º do anexo II com a redação do art. 3.º do DLR 25/2003/M; epígrafe e texto (coordenadas incluídas) conferidos linha a linha, sem diferenças.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 2.º #3",
+    "veredicto": "certo",
+    "motivo": "Art. 2.º do anexo II com a redação do art. 3.º do DLR 25/2003/M; epígrafe e texto (coordenadas incluídas) conferidos linha a linha, sem diferenças.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º #3",
+    "veredicto": "certo",
+    "motivo": "Art. 3.º do anexo II com a redação do art. 3.º do DLR 25/2003/M; epígrafe e texto (coordenadas incluídas) conferidos linha a linha, sem diferenças.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º #3",
+    "veredicto": "certo",
+    "motivo": "Art. 4.º do anexo II com a redação do art. 3.º do DLR 25/2003/M; epígrafe e texto (coordenadas incluídas) conferidos linha a linha, sem diferenças.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º #3",
+    "veredicto": "certo",
+    "motivo": "Art. 5.º do anexo II com a redação do art. 3.º do DLR 25/2003/M; epígrafe e texto (coordenadas incluídas) conferidos linha a linha, sem diferenças.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º #3",
+    "veredicto": "certo",
+    "motivo": "Art. 6.º do anexo II com a redação do art. 3.º do DLR 25/2003/M; epígrafe e texto (coordenadas incluídas) conferidos linha a linha, sem diferenças.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 7.º #3",
+    "veredicto": "certo",
+    "motivo": "Art. 7.º do anexo II com a redação do art. 3.º do DLR 25/2003/M; epígrafe e texto (coordenadas incluídas) conferidos linha a linha, sem diferenças.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 8.º #3",
+    "veredicto": "certo",
+    "motivo": "Art. 8.º do anexo II com a redação do art. 3.º do DLR 25/2003/M; epígrafe e texto (coordenadas incluídas) conferidos linha a linha, sem diferenças.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 9.º #3",
+    "veredicto": "certo",
+    "motivo": "Art. 9.º do anexo II com a redação do art. 3.º do DLR 25/2003/M; epígrafe e texto (coordenadas incluídas) conferidos linha a linha, sem diferenças.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 10.º #3",
+    "veredicto": "certo",
+    "motivo": "Art. 10.º do anexo II com a redação do art. 3.º do DLR 25/2003/M; epígrafe e texto (coordenadas incluídas) conferidos linha a linha, sem diferenças.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 11.º #3",
+    "veredicto": "certo",
+    "motivo": "Art. 11.º do anexo II com a redação do art. 3.º do DLR 25/2003/M; epígrafe e texto (coordenadas incluídas) conferidos linha a linha, sem diferenças.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 12.º #3",
+    "veredicto": "certo",
+    "motivo": "Art. 12.º do anexo II com a redação do art. 3.º do DLR 25/2003/M; epígrafe e texto (coordenadas incluídas) conferidos linha a linha, sem diferenças.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 13.º #3",
+    "veredicto": "certo",
+    "motivo": "Art. 13.º do anexo II com a redação do art. 3.º do DLR 25/2003/M; epígrafe e texto (coordenadas incluídas) conferidos linha a linha, sem diferenças.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 14.º #3",
+    "veredicto": "certo",
+    "motivo": "Art. 14.º do anexo II com a redação do art. 3.º do DLR 25/2003/M; epígrafe e texto (coordenadas incluídas) conferidos linha a linha, sem diferenças.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 15.º #3",
+    "veredicto": "certo",
+    "motivo": "Art. 15.º do anexo II com a redação do art. 3.º do DLR 25/2003/M; epígrafe e texto (coordenadas incluídas) conferidos linha a linha, sem diferenças.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 16.º #3",
+    "veredicto": "certo",
+    "motivo": "Art. 16.º do anexo II com a redação do art. 3.º do DLR 25/2003/M; epígrafe e texto (coordenadas incluídas) conferidos linha a linha, sem diferenças.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 17.º #3",
+    "veredicto": "certo",
+    "motivo": "Art. 17.º do anexo II com a redação do art. 3.º do DLR 25/2003/M; epígrafe e texto (coordenadas incluídas) conferidos linha a linha, sem diferenças.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 18.º #3",
+    "veredicto": "certo",
+    "motivo": "Art. 18.º do anexo II com a redação do art. 3.º do DLR 25/2003/M; epígrafe e texto (coordenadas incluídas) conferidos linha a linha, sem diferenças.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Acórdão do Tribunal Constitucional n.º 654/2009",
+    "motivo": "O diploma que altera não traz texto na vista (só o título)."
+   },
+   {
+    "instrucao": "DLR 25/2003/M, art. 4.º (efeitos retroativos; h) do n.º 2 e n.º 3 do art. 3.º só a partir do dia seguinte à publicação)",
+    "motivo": "Não textual: regra de produção de efeitos."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

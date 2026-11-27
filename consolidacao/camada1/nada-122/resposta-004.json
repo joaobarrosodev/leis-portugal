@@ -1,0 +1,57 @@
+[
+  {
+    "id": "pt:dre:461400:por",
+    "artigos": [
+      {"artigo": "(preâmbulo)", "veredicto": "certo", "motivo": "Igual ao original, só sem os arts. 1.º e 2.º e o resto do texto, que passaram para artigos próprios (verificado: o conjunto é igual ao original); nenhum alterador toca no preâmbulo.", "texto_esperado": ""},
+      {"artigo": "Artigo 1.º", "veredicto": "certo", "motivo": "Texto do art. 1.º do original (redação do art. 22.º do Código), separado do preâmbulo sem alteração.", "texto_esperado": ""},
+      {"artigo": "Artigo 2.º", "veredicto": "certo", "motivo": "Texto do art. 2.º do original, fecho e listas A, B e C, sem alteração.", "texto_esperado": ""}
+    ],
+    "instrucoes_em_falta": [],
+    "instrucoes_justificadas": [
+      {"instrucao": "DL 95/76, art. 1.º, n.º 1: aprovação das novas listas I a IV, inseridas no Código do Imposto de Transacções, que substituem as listas A, B e C aprovadas pelo DL 756/74", "motivo": "Outro diploma: as listas consideram-se inseridas no Código do Imposto de Transacções; substitui as listas do Código, não o texto do DL 756/74 (como o próprio art. 2.º do original fez às listas do DL 375/74)."},
+      {"instrucao": "DL 95/76, art. 1.º, n.º 2: as referências do Código à lista A passam a entender-se feitas à lista I", "motivo": "Outro diploma (Código do Imposto de Transacções) e não textual (remissão)."},
+      {"instrucao": "DL 95/76, art. 2.º: nova redação dos arts. 3.º e 22.º do Código do Imposto de Transacções", "motivo": "Outro diploma: altera o Código, não o DL 756/74 (o original apenas deu redação ao art. 22.º do Código)."},
+      {"instrucao": "DL 58/84: alterações", "motivo": "Outro diploma: texto omitido na vista; a triagem indica que altera o DL 3/74 e só cita o original."}
+    ],
+    "artigos_a_mais": [],
+    "artigos_em_falta": [],
+    "fora_dos_artigos": "sem alterações"
+  },
+  {
+    "id": "pt:dre:487764:por",
+    "artigos": [
+      {"artigo": "(preâmbulo)", "veredicto": "certo", "motivo": "Igual ao original, só sem o artigo único e o fecho, que passaram para o artigo próprio; o alterador não toca no preâmbulo.", "texto_esperado": ""},
+      {"artigo": "Artigo único", "veredicto": "certo", "motivo": "Rectificação do DL 47541 aplicada: «1 de Dezembro de 1965» → «1 de Dezembro de 1964» (a outra ocorrência de 1965, «terminaram em 1965», não é alvo); fecho igual ao original.", "texto_esperado": ""}
+    ],
+    "instrucoes_em_falta": [],
+    "instrucoes_justificadas": [],
+    "artigos_a_mais": [],
+    "artigos_em_falta": [],
+    "fora_dos_artigos": "sem alterações"
+  },
+  {
+    "id": "pt:dre:490902:por",
+    "artigos": [],
+    "instrucoes_em_falta": [
+      "DL 45248, art. 42.º: «Este diploma revoga e substitui os artigos 3.º e seguintes do Decreto-Lei n.º 38065». Revogação expressa, incondicional e com alvo determinado (arts. 3.º e seguintes); não teve efeito no consolidado (o «(preâmbulo)», onde está todo o texto do original, ficou igual). «Alvo incerto» não é motivo admitido: os arts. 3.º e seguintes devem ficar «(Revogado.)»."
+    ],
+    "instrucoes_justificadas": [
+      {"instrucao": "DL 530/74: alterações aos arts. 405.º e 406.º e à tabela A do Código Administrativo", "motivo": "Outro diploma: texto omitido na vista; a triagem indica que não menciona o DL 38065."}
+    ],
+    "artigos_a_mais": [],
+    "artigos_em_falta": [],
+    "fora_dos_artigos": "sem alterações"
+  },
+  {
+    "id": "pt:dre:497410:por",
+    "artigos": [],
+    "instrucoes_em_falta": [],
+    "instrucoes_justificadas": [
+      {"instrucao": "DLR 28/2016/M, art. 60.º, n.º 1, alínea e): revogação do DLR 22/2013/M", "motivo": "Efeito adiado para facto futuro: o n.º 2 do art. 60.º faz a revogação produzir efeitos só com a entrada em vigor da portaria do art. 56.º (confirmado no texto)."},
+      {"instrucao": "DLR 28/2016/M, art. 57.º, n.º 3: extinção do quadro de vinculação da RAM criado pelo DLR 22/2013/M", "motivo": "Não textual (não dá nova redação ao original) e efeito adiado para a entrada em vigor da mesma portaria; o art. 57.º foi entretanto revogado pelo DLR 8/2026/M (confirmado no texto)."}
+    ],
+    "artigos_a_mais": [],
+    "artigos_em_falta": [],
+    "fora_dos_artigos": "sem alterações"
+  }
+]

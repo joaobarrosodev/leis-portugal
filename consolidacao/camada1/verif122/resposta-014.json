@@ -1,0 +1,26 @@
+[
+  {
+    "id": "pt:dre:612845:por",
+    "artigos": [
+      {"artigo": "Artigo 1.º", "veredicto": "certo", "motivo": "DL 234/95, artigo único: n.º 3 aditado letra a letra; n.os 1 e 2 («...») iguais ao original.", "texto_esperado": ""},
+      {"artigo": "Artigo 4.º", "veredicto": "certo", "motivo": "Não alterado; só saiu o fecho (assinaturas), que passou para depois do novo artigo 5.º.", "texto_esperado": ""},
+      {"artigo": "Artigo 5.º", "veredicto": "certo", "motivo": "Aditado pelo artigo 21.º da Lei 39-A/2005, letra a letra; o fecho do original vem a seguir, como fim do diploma.", "texto_esperado": ""}
+    ],
+    "instrucoes_em_falta": [],
+    "instrucoes_justificadas": [],
+    "artigos_a_mais": [],
+    "artigos_em_falta": [],
+    "fora_dos_artigos": "sem alterações (o fecho com as assinaturas passou do fim do artigo 4.º para o fim do artigo 5.º, que é agora o último)"
+  },
+  {
+    "id": "pt:dre:234946:por",
+    "artigos": [
+      {"artigo": "Trecho 1", "veredicto": "certo", "motivo": "Lei 139/85, artigo 1.º: nova redação do artigo 2.º copiada letra a letra (confirmado por comparação exata), mantendo o rótulo «Art. 2.º» do original. O artigo 2.º da lei faz depender os efeitos da criação da freguesia de Santa Catarina (Vagos), facto que a vista não confirma.", "texto_esperado": ""}
+    ],
+    "instrucoes_em_falta": [],
+    "instrucoes_justificadas": [],
+    "artigos_a_mais": [],
+    "artigos_em_falta": [],
+    "fora_dos_artigos": "sem alterações"
+  }
+]

@@ -1,0 +1,114 @@
+[
+ {
+  "id": "pt:dre:236100:por",
+  "artigos": [
+   {
+    "artigo": "Trecho 1",
+    "veredicto": "certo",
+    "motivo": "Regulamento do DL 782/74 substituído na íntegra, desde 1/1/1976, pelo novo Regulamento aprovado pelo art. 1.º do DL 81/76; os artigos ficam «(Revogado.)» (as alterações do DL 269/75 ficam absorvidas). Arts. 1.º a 4.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 2",
+    "veredicto": "certo",
+    "motivo": "Regulamento do DL 782/74 substituído na íntegra, desde 1/1/1976, pelo novo Regulamento aprovado pelo art. 1.º do DL 81/76; os artigos ficam «(Revogado.)» (as alterações do DL 269/75 ficam absorvidas). Arts. 5.º a 7.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 3",
+    "veredicto": "certo",
+    "motivo": "Regulamento do DL 782/74 substituído na íntegra, desde 1/1/1976, pelo novo Regulamento aprovado pelo art. 1.º do DL 81/76; os artigos ficam «(Revogado.)» (as alterações do DL 269/75 ficam absorvidas). Art. 8.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 4",
+    "veredicto": "certo",
+    "motivo": "Regulamento do DL 782/74 substituído na íntegra, desde 1/1/1976, pelo novo Regulamento aprovado pelo art. 1.º do DL 81/76; os artigos ficam «(Revogado.)» (as alterações do DL 269/75 ficam absorvidas). Arts. 9.º a 11.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 5",
+    "veredicto": "certo",
+    "motivo": "Regulamento do DL 782/74 substituído na íntegra, desde 1/1/1976, pelo novo Regulamento aprovado pelo art. 1.º do DL 81/76; os artigos ficam «(Revogado.)» (as alterações do DL 269/75 ficam absorvidas). Arts. 12.º a 15.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 6",
+    "veredicto": "certo",
+    "motivo": "Regulamento do DL 782/74 substituído na íntegra, desde 1/1/1976, pelo novo Regulamento aprovado pelo art. 1.º do DL 81/76; os artigos ficam «(Revogado.)» (as alterações do DL 269/75 ficam absorvidas). Art. 16.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 7",
+    "veredicto": "certo",
+    "motivo": "Regulamento do DL 782/74 substituído na íntegra, desde 1/1/1976, pelo novo Regulamento aprovado pelo art. 1.º do DL 81/76; os artigos ficam «(Revogado.)» (as alterações do DL 269/75 ficam absorvidas). Arts. 17.º a 29.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 8",
+    "veredicto": "certo",
+    "motivo": "Regulamento do DL 782/74 substituído na íntegra, desde 1/1/1976, pelo novo Regulamento aprovado pelo art. 1.º do DL 81/76; os artigos ficam «(Revogado.)» (as alterações do DL 269/75 ficam absorvidas). Arts. 30.º a 32.º (todos os artigos do Regulamento).",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 269/75, arts. 1.º, 3.º e 4.º: sujeição dos motociclos, aplicação do Regulamento aos motociclos, prazo de pagamento de 1975",
+    "motivo": "Não textual: normas autónomas e prazo para um ano, sem nova redação."
+   },
+   {
+    "instrucao": "DL 269/75, art. 2.º: nova redação dos arts. 1.º, 5.º, 6.º, 8.º, 11.º, 12.º e 13.º do Regulamento",
+    "motivo": "Sem efeito no texto final porque o Regulamento inteiro foi depois substituído pelo DL 81/76 (artigos «(Revogado.)»)."
+   },
+   {
+    "instrucao": "DL 81/76, arts. 2.º a 5.º: portaria dos modelos, escalão de antiguidade, regime dos retornados e prazo de 1976",
+    "motivo": "Não textual: normas autónomas/transitórias do novo Regulamento."
+   },
+   {
+    "instrucao": "Portaria 175/76 (n.os 1.º a 6.º), incluindo o n.º 5.º, 2, que mantém os impressos modelos 3, 5 e 8 do regulamento do DL 782/74",
+    "motivo": "Executa o novo Regulamento (outro diploma); a manutenção dos impressos (só em imagem) não altera o texto."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:138828:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação do art. 5.º do DL 637/70, letra a letra.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 637/70, arts. 1.º e 2.º: alterações aos DL 132/70 e 45652",
+    "motivo": "Outro diploma."
+   },
+   {
+    "instrucao": "DL 637/70, arts. 3.º e 4.º: provimento de pessoal técnico e terceiro-oficial das tesourarias",
+    "motivo": "Normas autónomas; não dão nova redação ao original."
+   },
+   {
+    "instrucao": "DL 259/72: a Faculdade de Ciências de Coimbra passa a Faculdade de Ciências e Tecnologia; quadro anexo",
+    "motivo": "Mudança de designação sem nova redação e normas próprias; o mapa só vem em imagem."
+   },
+   {
+    "instrucao": "Portarias 741/81, 739/81, 846/81, 847/81, 851/81, 853/81, 1069/81, 179/82, 262/82, 7/83, 592/86: novos quadros, lugares extintos e criados",
+    "motivo": "Os mapas novos só vêm em imagem e o consolidado não tem anexo com título onde os pôr."
+   },
+   {
+    "instrucao": "Portarias 907/82, 316/83, 586/83, 482/86, 186/87, 78/88: extinção/criação de lugares do quadro anexo ao DL 407/70",
+    "motivo": "Alteram o quadro anexo, que não existe como anexo com título no consolidado (só os arts. 1.º a 11.º); os novos quadros vêm em imagem; não há texto onde aplicar."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

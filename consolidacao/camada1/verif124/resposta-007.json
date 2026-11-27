@@ -1,0 +1,111 @@
+[
+ {
+  "id": "pt:dre:385797:por",
+  "artigos": [
+   {
+    "artigo": "Artigo único",
+    "veredicto": "certo",
+    "motivo": "Nova redação do artigo único da tabela III dada pelo DL 36/85.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "SECÇÃO II #3",
+    "veredicto": "errado",
+    "motivo": "O art. 14.º do DL 291/89 dá nova redação à secção II inteira (título e art. 9.º) do Regulamento do TIR de Alverca; o consolidado mudou só o título e deixou o art. 9.º antigo (títulos de propriedade, TERTIR, art. 174.º), que está dentro do bloco da secção.",
+    "texto_esperado": "#### SECÇÃO II — Da emissão do título de depósito\n\nArt. 9.º - 1 - Os títulos de depósito das mercadorias armazenadas no depósito TIR serão emitidos pela concessionária, com base no manifesto e no relatório de descarga.\n\n2 - As mercadorias constantes do documento referido no número anterior só serão restituídas pela concessionária ao depositante ou a quem este expressamente ordenar naquele título de depósito."
+   },
+   {
+    "artigo": "SECÇÃO II #7",
+    "veredicto": "errado",
+    "motivo": "Mesma instrução (art. 14.º do DL 291/89) para o Regulamento do TIR do Freixieiro: título novo mas art. 9.º antigo mantido.",
+    "texto_esperado": "#### SECÇÃO II — Da emissão do título de depósito\n\nArt. 9.º - 1 - Os títulos de depósito das mercadorias armazenadas no depósito TIR serão emitidos pela concessionária, com base no manifesto e no relatório de descarga.\n\n2 - As mercadorias constantes do documento referido no número anterior só serão restituídas pela concessionária ao depositante ou a quem este expressamente ordenar naquele título de depósito."
+   }
+  ],
+  "instrucoes_em_falta": [
+   "DL 291/89, art. 13.º: nova redação do n.º 3) do art. 2.º do Regulamento Interno do TIR de Alverca («3) Depositante - o transportador ou o seu representante, o transitário devidamente licenciado ou o importador a quem é autorizada a descarga de mercadorias para o depósito TIR;»). O alvo é conhecido: os artigos dos regulamentos estão no texto dentro dos blocos das divisões, como mostra o art. 9.º na secção II; «alvo incerto» não justifica.",
+   "DL 291/89, art. 13.º: a mesma nova redação do n.º 3) do art. 2.º do Regulamento Interno do TIR do Freixieiro."
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 291/89, arts. 11.º, 12.º, 15.º e 16.º (Regulamento das Alfândegas, Reforma Aduaneira, DL 281/86)",
+    "motivo": "Outro diploma."
+   },
+   {
+    "instrucao": "DL 291/89, art. 17.º (revoga as disposições contrárias, «nomeadamente» normas de outros diplomas)",
+    "motivo": "Revogação condicional; a lista exemplificativa não inclui o DL 242/84."
+   },
+   {
+    "instrucao": "DL 291/89, arts. 1.º a 10.º e 18.º (eliminação do título de propriedade, regime do depósito, regulamentação)",
+    "motivo": "Não textual: normas autónomas, sem nova redação do DL 242/84."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:405684:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "N.º 1 com a redação do DL 235-A/96; n.os 2 a 4 originais.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "N.º 1 (proémio) do DL 235-A/96; alíneas e n.os 2 a 5 originais.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "Epígrafe e n.os 1, 2 e 6 a 9 do DL 235-A/96; n.os 3 a 5 originais («...»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "Alínea b) do n.º 2 do DL 235-A/96; resto original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 14.º",
+    "veredicto": "certo",
+    "motivo": "N.os 1, 6 e 11 do DL 235-A/96; restantes originais.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 15.º",
+    "veredicto": "certo",
+    "motivo": "N.º 3 do DL 235-A/96; restantes originais.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 17.º-A",
+    "veredicto": "certo",
+    "motivo": "Aditado pelo art. 2.º do DL 235-A/96, letra a letra.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Lei 127-B/97, art. 54.º, n.º 4 (o regime de alienação do art. 10.º aplica-se em 1998 a quaisquer créditos) e art. 50.º (isenção de selo das garantias)",
+    "motivo": "Não textual: normas da lei do Orçamento para 1998, sem nova redação do DL 124/96."
+   },
+   {
+    "instrucao": "DL 201/99, artigo único (prazo das garantias para efeitos do art. 9.º do DL 73/99)",
+    "motivo": "Não textual (prorrogação de prazo de outro diploma); não altera o texto do DL 124/96."
+   },
+   {
+    "instrucao": "DL 235-A/96, art. 3.º (efeitos reportados à entrada em vigor do DL 124/96)",
+    "motivo": "Não textual."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

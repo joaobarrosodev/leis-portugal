@@ -1,0 +1,213 @@
+[
+ {
+  "id": "pt:dre:587622:por",
+  "artigos": [
+   {
+    "artigo": "Trecho 1",
+    "veredicto": "certo",
+    "motivo": "Art. 1.º, n.º 1, na redação do art. 1.º da Lei 32/87, letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 2",
+    "veredicto": "certo",
+    "motivo": "Art. 1.º, n.º 3, na redação da Lei 32/87; proémio do art. 2.º, n.º 1, na redação do DL 376/88 (a última), letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 3",
+    "veredicto": "certo",
+    "motivo": "Alíneas c) e d) do art. 2.º, n.º 1, na redação do DL 376/88; a antiga alínea e) sai; a) e b) iguais ao original e ao DL 376/88.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 4",
+    "veredicto": "certo",
+    "motivo": "Art. 2.º, n.º 3, na redação do DL 376/88, letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 5",
+    "veredicto": "certo",
+    "motivo": "Art. 2.º, n.os 6 a 9, na redação do DL 376/88 (que substitui os n.os 6 a 9 da Lei 32/87); n.os 4 e 5 do original ('...').",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 6",
+    "veredicto": "certo",
+    "motivo": "Art. 4.º na redação do DL 376/88 (n.os 1 a 6); art. 5.º eliminado pela Lei 32/87 (art. 4.º) e antigo art. 6.º renumerado 5.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 7",
+    "veredicto": "certo",
+    "motivo": "Renumeração da Lei 32/87, art. 4.º: antigos arts. 7.º e 8.º passam a 6.º e 7.º; texto igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 8",
+    "veredicto": "certo",
+    "motivo": "Renumeração: antigo art. 9.º passa a 8.º; texto igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 9",
+    "veredicto": "certo",
+    "motivo": "Renumeração: antigo art. 10.º passa a 9.º; texto igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 10",
+    "veredicto": "certo",
+    "motivo": "N.º 3 do antigo art. 10.º (novo 9.º) na redação da Lei 32/87, letra a letra; antigo art. 11.º renumerado 10.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 11",
+    "veredicto": "certo",
+    "motivo": "Arts. 11.º e 12.º aditados pelo art. 5.º da Lei 32/87, letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 12",
+    "veredicto": "certo",
+    "motivo": "Estatutos substituídos pelo anexo do DL 376/88 (art. 3.º): título, capítulo I e arts. 1.º a 3.º, n.º 1, iguais ao anexo, letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 13",
+    "veredicto": "certo",
+    "motivo": "Parte dos estatutos substituídos pelo anexo do DL 376/88 (art. 3.º): igual ao anexo, letra a letra (reconstruídos, os estatutos do consolidado coincidem parágrafo a parágrafo com o anexo).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 14",
+    "veredicto": "certo",
+    "motivo": "Parte dos estatutos substituídos pelo anexo do DL 376/88 (art. 3.º): igual ao anexo, letra a letra (reconstruídos, os estatutos do consolidado coincidem parágrafo a parágrafo com o anexo).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 15",
+    "veredicto": "certo",
+    "motivo": "Parte dos estatutos substituídos pelo anexo do DL 376/88 (art. 3.º): igual ao anexo, letra a letra (reconstruídos, os estatutos do consolidado coincidem parágrafo a parágrafo com o anexo).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 16",
+    "veredicto": "certo",
+    "motivo": "Parte dos estatutos substituídos pelo anexo do DL 376/88 (art. 3.º): igual ao anexo, letra a letra (reconstruídos, os estatutos do consolidado coincidem parágrafo a parágrafo com o anexo).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 17",
+    "veredicto": "certo",
+    "motivo": "Parte dos estatutos substituídos pelo anexo do DL 376/88 (art. 3.º): igual ao anexo, letra a letra (reconstruídos, os estatutos do consolidado coincidem parágrafo a parágrafo com o anexo).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 18",
+    "veredicto": "certo",
+    "motivo": "Parte dos estatutos substituídos pelo anexo do DL 376/88 (art. 3.º): igual ao anexo, letra a letra (reconstruídos, os estatutos do consolidado coincidem parágrafo a parágrafo com o anexo).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 19",
+    "veredicto": "certo",
+    "motivo": "Parte dos estatutos substituídos pelo anexo do DL 376/88 (art. 3.º): igual ao anexo, letra a letra (reconstruídos, os estatutos do consolidado coincidem parágrafo a parágrafo com o anexo).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 20",
+    "veredicto": "certo",
+    "motivo": "Parte dos estatutos substituídos pelo anexo do DL 376/88 (art. 3.º): igual ao anexo, letra a letra (reconstruídos, os estatutos do consolidado coincidem parágrafo a parágrafo com o anexo).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 21",
+    "veredicto": "certo",
+    "motivo": "Parte dos estatutos substituídos pelo anexo do DL 376/88 (art. 3.º): igual ao anexo, letra a letra (reconstruídos, os estatutos do consolidado coincidem parágrafo a parágrafo com o anexo).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 22",
+    "veredicto": "certo",
+    "motivo": "Parte dos estatutos substituídos pelo anexo do DL 376/88 (art. 3.º): igual ao anexo, letra a letra (reconstruídos, os estatutos do consolidado coincidem parágrafo a parágrafo com o anexo).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 23",
+    "veredicto": "certo",
+    "motivo": "Parte dos estatutos substituídos pelo anexo do DL 376/88 (art. 3.º): igual ao anexo, letra a letra (reconstruídos, os estatutos do consolidado coincidem parágrafo a parágrafo com o anexo).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 24",
+    "veredicto": "certo",
+    "motivo": "Parte dos estatutos substituídos pelo anexo do DL 376/88 (art. 3.º): igual ao anexo, letra a letra (reconstruídos, os estatutos do consolidado coincidem parágrafo a parágrafo com o anexo).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 25",
+    "veredicto": "certo",
+    "motivo": "Parte dos estatutos substituídos pelo anexo do DL 376/88 (art. 3.º): igual ao anexo, letra a letra (reconstruídos, os estatutos do consolidado coincidem parágrafo a parágrafo com o anexo).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 26",
+    "veredicto": "certo",
+    "motivo": "Parte dos estatutos substituídos pelo anexo do DL 376/88 (art. 3.º): igual ao anexo, letra a letra (reconstruídos, os estatutos do consolidado coincidem parágrafo a parágrafo com o anexo).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 27",
+    "veredicto": "certo",
+    "motivo": "Parte dos estatutos substituídos pelo anexo do DL 376/88 (art. 3.º): igual ao anexo, letra a letra (reconstruídos, os estatutos do consolidado coincidem parágrafo a parágrafo com o anexo).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 28",
+    "veredicto": "certo",
+    "motivo": "Parte dos estatutos substituídos pelo anexo do DL 376/88 (art. 3.º): igual ao anexo, letra a letra (reconstruídos, os estatutos do consolidado coincidem parágrafo a parágrafo com o anexo).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 29",
+    "veredicto": "certo",
+    "motivo": "Parte dos estatutos substituídos pelo anexo do DL 376/88 (art. 3.º): igual ao anexo, letra a letra (reconstruídos, os estatutos do consolidado coincidem parágrafo a parágrafo com o anexo).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 30",
+    "veredicto": "certo",
+    "motivo": "Parte dos estatutos substituídos pelo anexo do DL 376/88 (art. 3.º): igual ao anexo, letra a letra (reconstruídos, os estatutos do consolidado coincidem parágrafo a parágrafo com o anexo).",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações (fica, no fim dos estatutos, a linha de assinaturas do original, que não faz parte do anexo do DL 376/88; não é texto normativo)",
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Resolução da AR n.º 27/86 (suspensão da vigência do DL 293-A/86)",
+    "motivo": "Não textual: suspensão, sem nova redação."
+   },
+   {
+    "instrucao": "Lei 32/87, art. 6.º e art. 7.º (alteração dos arts. 1.º, 4.º e 6.º dos estatutos, supressão do art. 5.º e renumeração; leitura da remissão do art. 17.º)",
+    "motivo": "Os estatutos foram depois substituídos por inteiro pelo anexo do DL 376/88 (art. 3.º), que está aplicado; a remissão do n.º 2 do art. 7.º não é textual."
+   },
+   {
+    "instrucao": "DL 376/88, art. 1.º e art. 4.º, n.os 1 a 3 (natureza da SILOPOR; início da actividade; efeitos do destacamento)",
+    "motivo": "Não textual: normas próprias do DL 376/88, sem nova redação de preceito do DL 293-A/86."
+   },
+   {
+    "instrucao": "DL 376/88, art. 4.º, n.º 4 (revoga as disposições do DL 293-A/86 e da Lei 32/87 que contradigam o presente diploma)",
+    "motivo": "Revogação condicional («que contradigam»)."
+   },
+   {
+    "instrucao": "DL 474-A/99 (Lei Orgânica do XIV Governo: tutela da Empresa de Silos Portuários, S. A.)",
+    "motivo": "Não textual: só a enumera entre as empresas sob tutela; nenhuma instrução dirigida ao texto do original."
+   }
+  ]
+ }
+]

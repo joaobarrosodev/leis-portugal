@@ -243,6 +243,8 @@ Art. 29.º - 1. Os conservadores e notários que terminem o desempenho de uma co
 
 Art. 30.º - 1. O pessoal auxiliar dos serviços de registo e do notariado compreende as seguintes categorias de funcionários:
 
+> Alterado pelo/a [Decreto-Lei n.º 15/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-1970-227266), publicado em 1970-01-14.
+
 a) Primeiros, segundos e terceiros-ajudantes;
 
 b) Escriturários-dactilógrafos de 1.ª e 2.ª classes;
@@ -269,7 +271,7 @@ Art. 33.º - 1. Os funcionários dos quadros auxiliares gozam de todos os direit
 
 2. Os contínuos da Conservatória dos Registos Centrais têm direito à concessão do fardamento previsto pelo [Decreto-Lei n.º 22848](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22848-1933-317693), de 19 de Junho de 1933.
 
-3. Aos funcionários que à data da publicação do [Decreto-Lei n.º 37666](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37666-1949-268041), de 19 de Dezembro de 1949, desempenhavam as funções de ajudante de conservador ou notário é contado o tempo de serviço prestado nessas funções para efeito da aposentação, desde que paguem à Caixa as respectivas quotas.
+> Alterado pelo/a [Decreto-Lei n.º 15/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-1970-227266), publicado em 1970-01-14.
 
 Art. 34.º - 1. Os funcionários auxiliares estão sujeitos às incompatibilidades e inibições estabelecidas na lei geral para os funcionários públicos e não podem exercer a profissão de solicitador, comerciante ou industrial, salvo quando autorizados pelo Ministro da Justiça.
 

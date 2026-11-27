@@ -10,6 +10,9 @@ consolidacao:
   - id: pt:dre:583413:por
     title: Decreto-Lei n.º 191/2005
     publication_date: '2005-11-07'
+  - id: pt:dre:502980:por
+    title: Decreto-Lei n.º 148/2013
+    publication_date: '2013-10-24'
 ---
 
 # Decreto-Lei n.º 215/2004
@@ -508,7 +511,65 @@ Marca de homologação CE
 
 1 - Generalidades:
 
-1.1 - A marca de homologação CE é composta por um rectângulo no interior do qual se insere a letra «e» minúscula, seguida do número ou letras distintivos do Estado membro que concedeu a homologação: 1 para a República Federal da Alemanha, 2 para a França, 3 para a Itália, 4 para os Países Baixos, 5 para a Suécia, 6 para a Bélgica, 9 para a Espanha, 11 para o Reino Unido, 12 para a Áustria, 13 para o Luxemburgo, 17 para a Finlândia, 18 para a Dinamarca, 21 para Portugal, 23 para a Grécia e 24 para a Irlanda. Deve também incluir o número de homologação CE colocado na proximidade do rectângulo. Este número é constituído pelo número de homologação, que figura na ficha estabelecida para o tipo (v. anexo IV), precedido de dois algarismos indicando o número de ordem da última alteração à Directiva n.º [2003/97/CE](https://data.europa.eu/eli/dir/2003/97/oj?locale=pt) à data da emissão da homologação CE. O número de ordem da alteração e o número de homologação que figuram na ficha serão separados por um asterisco. No presente Regulamento o número de ordem é 03.
+1.1 - A marca de homologação CE é composta por um rectângulo no interior do qual se insere a letra 'e' minúscula, seguida do número ou letras distintivos do Estado membro que concedeu a homologação:
+
+1 para a Alemanha;
+
+2 para a França;
+
+3 para a Itália;
+
+4 para os Países Baixos;
+
+5 para a Suécia;
+
+6 para a Bélgica;
+
+7 para a Hungria;
+
+8 para a República Checa;
+
+9 para a Espanha;
+
+11 para o Reino Unido;
+
+12 para a Áustria;
+
+13 para o Luxemburgo;
+
+17 para a Finlândia;
+
+18 para a Dinamarca;
+
+19 para a Roménia;
+
+20 para a Polónia;
+
+21 para Portugal;
+
+23 para a Grécia;
+
+24 para a Irlanda;
+
+25 para a Croácia;
+
+26 para a Eslovénia;
+
+27 para a Eslováquia;
+
+29 para a Estónia;
+
+32 para a Letónia;
+
+34 para a Bulgária;
+
+36 para a Lituânia;
+
+49 para Chipre;
+
+50 para Malta.
+
+Deve também incluir o número de homologação CE colocado na proximidade do rectângulo. Este número é constituído pelo número de homologação, que figura na ficha estabelecida para o tipo (v. anexo IV), precedido de dois algarismos indicando o número de ordem da última alteração à Directiva n.º [2003/97/CE](https://data.europa.eu/eli/dir/2003/97/oj?locale=pt) à data da emissão da homologação CE. O número de ordem da alteração e o número de homologação que figuram na ficha serão separados por um asterisco. No presente Regulamento, o número de ordem é 03.
 
 1.2 - A marca de homologação CE será completada pela adição dos símbolos I ou II, ou III, ou IV, ou V ou VI, que especificam a classe a que o tipo de espelho pertence, ou do símbolo S, no caso de um dispositivo para visão indirecta. O símbolo adicional deve ser colocado numa posição conveniente na proximidade do rectângulo que contém a letra «e».
 
@@ -549,6 +610,8 @@ Exemplo n.º 5
 [(ver documento original)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)
 
 Explicação: o dispositivo para visão indirecta que exibe a marca de homologação CE, acima, é um dispositivo para visão indirecta (S) que não seja um espelho, homologado nos Países Baixos (e4) com o n.º 03*3002.
+
+> Alterado pelo/a [Decreto-Lei n.º 148/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-2013-502980), publicado em 2013-10-24.
 
 ## ANEXO VII — [alínea o) do artigo 2.º]
 
@@ -876,7 +939,7 @@ Espelhos
 
 2.1.1 - Os campos de visão prescritos no n.º 5 devem ser obtidos pelo número mínimo obrigatório de espelhos constante do quadro seguinte. Quando não for obrigatória a presença de um espelho, tal significa que nenhum outro dispositivo para visão indirecta poderá ser exigido.
 
-[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/11/213a00/63496352.pdf)](https://files.diariodarepublica.pt/1s/2005/11/213a00/63496352.pdf)](https://files.diariodarepublica.pt/1s/2005/11/213a00/63496352.pdf)
 
 2.1.2 - No caso de o campo de visão de um espelho frontal previsto no n.º 5.6 poder ser obtido por um outro dispositivo para visão indirecta, homologado em conformidade com a parte B do anexo VIII do presente Regulamento e montado em conformidade com as disposições desse anexo, poderá ser utilizado esse sistema em vez de um espelho frontal.
 
@@ -1041,6 +1104,8 @@ Dois planos longitudinais verticais paralelos ao plano longitudinal vertical mé
 Figura 12 - Campo de visão dos dispositivos para visão indirecta instalados à rectaguarda
 
 [[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57205738.pdf)
+
+> Alterado pelo/a [Decreto-Lei n.º 191/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-2005-583413), publicado em 2005-11-07.
 
 ## ANEXO IX-A — (referente ao n.º 8 do anexo IX)
 
