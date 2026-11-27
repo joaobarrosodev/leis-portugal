@@ -106,8 +106,29 @@ def vista(d: dict) -> str:
     linhas.append(f"### ARTIGOS DO ORIGINAL QUE NÃO ESTÃO NO CONSOLIDADO ({len(c['removidos'])})")
     for chave, antes in c["removidos"]:
         linhas += [f"#### ARTIGO: {chave}", antes, ""]
+    if renumera(d):
+        linhas += [ORDEM, "Original: " + " | ".join(ordem(d, "texto_original")), "",
+                   "Consolidado: " + " | ".join(ordem(d, "texto_consolidado")), ""]
     linhas.append("")
     return "\n".join(linhas)
+
+
+# Ronda 122: quando um alterador renumera artigos, os títulos de divisão (capítulos, secções) podem ficar na
+# posição antiga (DLR 18/93/M, ronda 121). A vista mostra a ordem inteira para o verificador a conferir.
+_RENUMERA = re.compile(r"renumerad|passa a ser o artigo|passam a ser os artigos", re.I)
+ORDEM = ("### ORDEM DOS TÍTULOS E DOS ARTIGOS (um alterador renumera: confirma que cada título de divisão — capítulo, "
+         "secção, subsecção — fica antes dos artigos que lhe pertencem na nova ordem, como no alterador ou na republicação; "
+         "um título fora do sítio vai em `fora_dos_artigos` e o diploma não passa)")
+
+
+def renumera(d: dict) -> bool:
+    textos = [d.get("texto_alterador") or ""] + [a.get("texto") or "" for a in d.get("alteradores") or []]
+    return any(_RENUMERA.search(t) for t in textos)
+
+
+def ordem(d: dict, campo: str) -> list[str]:
+    """Os títulos (divisões e artigos) pela ordem do texto, sem as epígrafes dos artigos."""
+    return [chave for chave, _ in blocos(d.get(campo) or "")]
 
 
 def _entradas(ronda: int) -> list[tuple[Path, dict]]:

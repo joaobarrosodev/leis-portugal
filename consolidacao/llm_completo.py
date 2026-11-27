@@ -108,6 +108,15 @@ Regras:
   copiado letra a letra do diploma que altera) ou null para o eliminar, "alterador": o número}.
   Não inventes títulos que não estão no texto atual. Põe-nos pela ordem do texto: um título que
   se repete (o mesmo "TÍTULO II" em dois livros) entende-se o primeiro a seguir ao anterior da lista.
+- Numa renumeração, os títulos de divisão ficam no sítio onde estão no texto atual, antes do mesmo
+  número de artigo: "titulos" muda a designação de um título, não o põe noutro sítio. Por isso,
+  nunca troques as designações dos títulos para os acertar com a nova ordem. Exemplo: o alterador
+  adita um novo art. 8.º e renumera o 8.º a 15.º, que passam a 9.º a 16.º, e na republicação a
+  «SUBSECÇÃO I» fica antes do novo 9.º. Se mudasses as designações dos títulos pela posição, a
+  «SUBSECÇÃO I» ficaria antes do art. 8.º, e cada título seguinte ficaria um artigo antes do sítio
+  certo. Quando a nova ordem obriga a mudar um título de sítio, aplica os artigos e põe a mudança
+  dos títulos em "nao_aplicavel", com «alvo incerto: a renumeração muda os títulos de divisão de
+  sítio».
 - O texto de um anexo que está fora dos artigos (um quadro, uma lista, uma tabela) vem logo a seguir
   ao título dele, como "#### Corpo do anexo:" (ou "#### Corpo do anexo: (vazio)"). Uma instrução que
   substitui ou altera esse texto vai em "anexos": {"titulo": a linha do título tal como vem, sem
