@@ -793,6 +793,8 @@ leis-portugal reports
 
 O guia completo — preparar o ambiente, convenções do código, testes, como acrescentar uma fonte e o que não fazer nos dados — está em [`CONTRIBUTING.md`](CONTRIBUTING.md). As alterações ao formato dos registos estão em [`CHANGELOG.md`](CHANGELOG.md).
 
+Como se decide no projeto, como se mede uma mudança e o que precisa de quem o mantém está em [`COMO-DECIDIMOS.md`](COMO-DECIDIMOS.md).
+
 Contribuições são bem-vindas, incluindo:
 
 - Integração de novas fontes oficiais.
