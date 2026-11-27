@@ -49,10 +49,25 @@ legal_status_basis:
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2018-04-20'
+version_history:
+  file: lei-organica-1-2018.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2018-04-19'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2018-04-20'
+    amending: pt:dre:115524261:por
+    amending_title: Declaração de Retificação n.º 17/2018
+    changes:
+    - Altera Artigo ANEXO III — (a que se refere o n.º 3 do artigo 9.º)::5.º
+    - Altera Artigo ANEXO III — (a que se refere o n.º 3 do artigo 9.º)::12.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/leiorg/1/2018/04/19/p/dre/pt/html
@@ -78,7 +93,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T10:01:32Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Retificação n.º 17/2018.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/leis-organicas/2018/lei-organica-1-2018.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -2539,6 +2555,10 @@ c) Outras legalmente previstas.
 
 7 - A subvenção prevista nos números anteriores é também concedida aos partidos que, tendo concorrido à eleição para a Assembleia da República e não tendo conseguido representação parlamentar, obtenham um número de votos superior a 50 000, desde que a requeiram ao Presidente da Assembleia da República.
 
+8 - A cada partido que haja concorrido a ato eleitoral, ainda que em coligação, e que obtenha representação na Assembleia Legislativa da região autónoma é concedida uma subvenção anual, desde que a requeira ao Presidente dessa Assembleia Legislativa, que consiste numa quantia em dinheiro fixada no diploma que estabelece a orgânica dos serviços da respetiva Assembleia Legislativa, adequada às suas necessidades de organização e de funcionamento, sendo paga em duodécimos, por conta de dotações especiais para esse efeito inscritas no Orçamento da respetiva Assembleia Legislativa, aplicando-se, em caso de coligação, o n.º 3.
+
+> Alterado pelo/a [Declaração de Retificação n.º 17/2018](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/17-2018-115524261), publicado em 2018-06-18.
+
 ###### Artigo 6.º — Angariação de fundos
 
 1 - As receitas de angariação de fundos são obrigatoriamente registadas nos termos do n.º 7 do artigo 12.º
@@ -2673,9 +2693,11 @@ c) O património imobiliário dos partidos, sem prejuízo do disposto na alínea
 
 8 - São igualmente anexas às contas nacionais dos partidos, para efeitos da apreciação e fiscalização a que se referem os artigos 23.º e seguintes, as contas dos grupos parlamentares e do deputado único representante de partido da Assembleia da República.
 
-9 - As contas das estruturas regionais referidas no n.º 4 devem incluir, em anexo, para efeitos de apreciação e fiscalização da totalidade das suas receitas e despesas a que se referem os artigos 23.º e seguintes, as relativas às subvenções auferidas diretamente, ou por intermédio dos grupos parlamentares e do deputado único representante de um partido, das Assembleias Legislativas das Regiões Autónomas.
+9 - Para os efeitos previstos no número anterior, as contas das estruturas regionais referidas no n.º 4 anexam as contas dos grupos parlamentares e do Deputado único representante de partido da Assembleia Legislativa da região autónoma, assim discriminando, quanto aos apoios pecuniários para a atividade política, parlamentar e partidária, atribuídos por essa Assembleia Legislativa, os montantes utilizados pelos partidos e os montantes utilizados pelos grupos parlamentares ou Deputado único representante de partido.
 
 10 - Para efeitos da necessária apreciação e fiscalização, a que se referem os artigos 23.º e seguintes, com as necessárias adaptações, os deputados não inscritos em grupo parlamentar da Assembleia da República e os deputados independentes das Assembleias Legislativas das Regiões Autónomas apresentam, à Entidade das Contas e Financiamentos Políticos, as contas relativas às subvenções auferidas, nos termos da presente lei.
+
+> Alterado pelo/a [Declaração de Retificação n.º 17/2018](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/17-2018-115524261), publicado em 2018-06-18.
 
 ###### Artigo 13.º — Fiscalização interna
 

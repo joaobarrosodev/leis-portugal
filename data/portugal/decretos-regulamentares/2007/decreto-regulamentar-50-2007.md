@@ -38,10 +38,36 @@ legal_status: partially_in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2012-08-01'
+version_history:
+  file: decreto-regulamentar-50-2007.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2007-04-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2012-08-01'
+    amending: pt:dre:179296:por
+    amending_title: Decreto-Lei n.º 162/2012
+    changes:
+    - Revoga Artigo 1.º
+    - Revoga Artigo 2.º
+    - Revoga Artigo 3.º
+    - Revoga Artigo 4.º
+    - Revoga Artigo 5.º
+    - Revoga Artigo 6.º
+    - Revoga Artigo 7.º
+    - Revoga Artigo 9.º
+    - Revoga Artigo 10.º
+    - Revoga Artigo 11.º
+    - Revoga Artigo 12.º
+    - Revoga Artigo 13.º
+    - Revoga Artigo ANEXO — (quadro a que se refere o artigo 9.º)
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/decregul/50/2007/04/27/p/dre/pt/html
@@ -67,7 +93,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:30:50Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 162/2012. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-regulamentares/2007/decreto-regulamentar-50-2007.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -149,91 +176,45 @@ Ao abrigo do disposto no n.º 1 do artigo 24.º da [Lei n.º 4/2004](https://dia
 
 ###### Artigo 1.º — Natureza
 
-A Secretaria-Geral do Ministério da Justiça (MJ), abreviadamente designada por SGMJ, é um serviço central da administração directa do Estado, dotado de autonomia administrativa.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 162/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2012-179296), publicado em 2012-07-31.
 
 ###### Artigo 2.º — Missão e atribuições
 
-1 - A SGMJ tem por missão assegurar o apoio técnico e administrativo aos gabinetes dos membros do Governo integrados no MJ e aos órgãos e serviços sem estrutura de apoio administrativo, assegurar o apoio aos demais serviços e organismos do MJ nos domínios da gestão de recursos internos, do aprovisionamento centralizado, do apoio técnico-jurídico e contencioso, da documentação e informação e da comunicação, relações públicas e protocolo, bem como assegurar a gestão do subsistema de saúde da justiça.
+(Revogado.)
 
-2 - A SGMJ prossegue as seguintes atribuições:
-
-a) Prestar a assistência técnica e administrativa aos gabinetes dos membros do Governo integrados no MJ, não incluída nas atribuições dos demais serviços do Ministério, bem como aos órgãos não dotados de estrutura de apoio administrativo, elaborando e executando os respectivos orçamentos;
-
-b) Promover, coordenar e acompanhar no âmbito do MJ a política de organização e de recursos humanos definidas para a Administração Pública, apoiando os serviços e organismos na respectiva implementação;
-
-c) Praticar os actos de administração relativos ao pessoal em situação de mobilidade especial que lhe seja afecto e assegurar a articulação com a entidade gestora da mobilidade, nos termos legais;
-
-d) Assegurar, de forma gradual e progressiva, a gestão e administração centralizada dos recursos humanos do MJ, designadamente nos domínios do recrutamento e selecção, da mobilidade inter e intra departamental, da formação em áreas comuns e do processamento de vencimentos e outros abonos no que respeita ao pessoal integrado em carreiras do regime geral, ou de outros, por determinação do membro do Governo competente e em articulação com os competentes serviços do Ministério das Finanças;
-
-e) Promover a progressiva centralização dos processos de planeamento e de aprovisionamento no âmbito do MJ e assegurar, por determinação do membro do Governo competente, a gestão de serviços comuns não compreendidos em entidades prestadoras de serviços partilhados, em articulação com os competentes serviços do Ministério das Finanças, assegurando as funções de unidade ministerial de compras;
-
-f) Estudar, programar e coordenar a aplicação de medidas tendentes a promover, de forma permanente e sistemática, a inovação, modernização e a política de qualidade, no âmbito do MJ, acompanhando os processos de certificação da qualidade;
-
-g) Assegurar o serviço de consultadoria jurídica aos gabinetes dos membros do Governo integrados no MJ, designadamente através da emissão de estudos, informações e pareceres, apreciação de reclamações e recursos hierárquicos que àqueles sejam dirigidos e da elaboração de peças processuais em acções e recursos em que sejam visados actos praticados pelos membros do Governo, nas jurisdições comum ou administrativa, bem como de actos praticados por dirigentes de serviços do MJ, desde que solicitada pelo membro do Governo competente;
-
-h) Assegurar o acompanhamento de outros assuntos jurídicos atinentes ao MJ, designadamente em sede de execução de decisões judiciais proferidas por tribunais nacionais, comunitários ou internacionais, em matérias relacionadas com o funcionamento dos tribunais, com actuações do MJ não imputáveis a serviço ou organismo determinado, ou de qualquer outra decisão em que a referida execução tenha sido determinada pelo membro do Governo responsável pela área da justiça;
-
-i) Coordenar as acções referentes à organização e preservação do património e arquivo histórico, promovendo boas práticas de gestão de documentos nos serviços e organismos do ministério e procedendo à recolha, tratamento, conservação e comunicação dos arquivos que deixem de ser de uso corrente por parte dos organismos produtores, organizar e manter um centro de documentação com relevância para a área da justiça e desenvolver iniciativas de recolha, organização e divulgação de informação, nomeadamente legislativa e jurisprudencial que revelem interesse directo para o MJ;
-
-j) Representar, por intermédio do secretário-geral, e assegurar o normal funcionamento do MJ nas áreas que não sejam da competência específica de outros serviços ou organismos e desde que tal representação não seja directamente assumida pelos membros do Governo integrados no MJ;
-
-l) Assegurar o serviço geral de relações públicas e de protocolo do MJ, em articulação com os demais serviços e organismos;
-
-m) Assegurar o funcionamento do subsistema de saúde da justiça e, relativamente aos respectivos beneficiários, o funcionamento da acção social complementar, em articulação com o competente serviço do Ministério das Finanças e da Administração Pública.
-
-3 - Cabe ainda à SGMJ assegurar o funcionamento da Comissão da Liberdade Religiosa, órgão independente de aconselhamento da Assembleia da República e do Governo, objecto de regulamentação em diploma próprio.
+> Revogado pelo/a [Decreto-Lei n.º 162/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2012-179296), publicado em 2012-07-31.
 
 ###### Artigo 3.º — Cargos de direcção superior
 
-A SGMJ é dirigida por um secretário-geral, coadjuvado por dois secretários-gerais-adjuntos.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 162/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2012-179296), publicado em 2012-07-31.
 
 ###### Artigo 4.º — Secretário-geral
 
-1 - Sem prejuízo das competências que lhe forem conferidas por lei ou nele delegadas ou subdelegadas, compete ao secretário-geral:
+(Revogado.)
 
-a) Representar o MJ quando essa representação não seja assumida pelos membros do Governo e não pertença especificamente a outro órgão, serviço ou organismo;
-
-b) Representar o MJ no âmbito das actividades comuns partilhadas e o Estado nos respectivos contratos, até ao limite da competência própria para autorização da despesa ou da que lhe seja delegada ou subdelegada;
-
-c) Designar o representante do MJ em juízo, nos termos do n.º 3 do artigo 11.º do Código de Processo nos Tribunais Administrativos;
-
-d) Colaborar na definição da política de recursos humanos do MJ;
-
-e) Dirigir a elaboração dos projectos e executar os orçamentos dos gabinetes dos membros do Governo da área da justiça e, por determinação do membro do Governo responsável pela área da justiça, de outras entidades sem estrutura administrativa, acompanhar a respectiva execução, promover a sua avaliação e prestação de contas;
-
-f) Colaborar na definição da política de organização e participar nos projectos de reorganização, reestruturação, inovação, modernização e qualidade desenvolvidos no âmbito do MJ;
-
-g) Propor medidas e orientações no âmbito das funções comuns do MJ;
-
-h) Chefiar o protocolo do MJ.
-
-2 - Os secretários-gerais-adjuntos exercem as competências que neles forem delegadas ou subdelegadas pelo secretário-geral, devendo este identificar a quem compete substituí-lo nas suas faltas e impedimentos.
+> Revogado pelo/a [Decreto-Lei n.º 162/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2012-179296), publicado em 2012-07-31.
 
 ###### Artigo 5.º — Tipo de organização interna
 
-A organização interna da SGMJ obedece ao modelo de estrutura hierarquizada.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 162/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2012-179296), publicado em 2012-07-31.
 
 ###### Artigo 6.º — Receitas
 
-1 - A SGMJ dispõe das receitas provenientes de dotações que lhe forem atribuídas no Orçamento do Estado.
+(Revogado.)
 
-2 - A SGMJ dispõe das receitas provenientes das transferências do IGFIJ, I. P.
-
-3 - A SGMJ é responsável pela arrecadação das seguintes receitas próprias resultantes da sua actividade:
-
-a) As importâncias cobradas pelos serviços prestados ou pela venda de impressos, publicações ou outro material informativo;
-
-b) Os subsídios, subvenções, comparticipações, doações, heranças ou legados concedidos por entidades públicas ou privadas, nacionais ou estrangeiras;
-
-c) O rendimento dos bens que possua a qualquer título;
-
-d) Quaisquer outras receitas que lhe sejam atribuídas por lei, contrato ou outro título.
-
-4 - As receitas referidas nos n.os 2 e 3 são consignadas à realização de despesas da SGMJ durante a execução do orçamento do ano a que respeitam, podendo os saldos não utilizados transitar para o ano seguinte.
+> Revogado pelo/a [Decreto-Lei n.º 162/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2012-179296), publicado em 2012-07-31.
 
 ###### Artigo 7.º — Despesas
 
-Constituem despesas da SGMJ as que resultem de encargos decorrentes da prossecução das atribuições que lhe estão cometidas.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 162/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2012-179296), publicado em 2012-07-31.
 
 ###### Artigo 8.º — Receitas e as despesas do subsistema de saúde e acção social complementar da justiça
 
@@ -247,35 +228,33 @@ Constituem despesas da SGMJ as que resultem de encargos decorrentes da prossecu�
 
 ###### Artigo 9.º — Quadro de cargos de direcção
 
-Os lugares de direcção superior de 1.º e 2.º graus e de direcção intermédia de 1.º grau constam do mapa anexo ao presente decreto regulamentar, do qual faz parte integrante.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 162/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2012-179296), publicado em 2012-07-31.
 
 ###### Artigo 10.º — Sucessão
 
-1 - A SGMJ sucede nas atribuições da Auditoria Jurídica do Ministério da justiça, que se extingue.
+(Revogado.)
 
-2 - A SGMJ sucede nas atribuições respeitantes ao subsistema de saúde da justiça e à organização da acção social complementar para os beneficiários daquele subsistema dos Serviços Sociais do Ministério da Justiça, que se extingue.
+> Revogado pelo/a [Decreto-Lei n.º 162/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2012-179296), publicado em 2012-07-31.
 
 ###### Artigo 11.º — Critérios de selecção do pessoal
 
-São fixados os seguintes critérios gerais e abstractos de selecção do pessoal necessário à prossecução das atribuições fixadas no artigo 2.º:
+(Revogado.)
 
-a) O exercício de funções na Auditoria Jurídica do Ministério da Justiça;
-
-b) O exercício de funções nos Serviços Sociais do Ministério da Justiça.
+> Revogado pelo/a [Decreto-Lei n.º 162/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2012-179296), publicado em 2012-07-31.
 
 ###### Artigo 12.º — Efeitos revogatórios
 
-Nos termos do artigo 5.º do [Decreto-Lei n.º 201/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2006-545644), de 27 de Outubro, consideram-se revogados, na data de entrada em vigor do presente decreto regulamentar:
+(Revogado.)
 
-a) O [Decreto-Lei n.º 129/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-2001-163641), de 18 de Abril, com excepção do disposto no artigo 24.º;
-
-b) O [Decreto-Lei n.º 871/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/871-1976-416430), de 28 de Dezembro;
-
-c) O [Decreto-Lei n.º 83/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2001-401290), de 9 de Março, com excepção do disposto nos n.os 1 a 3 do artigo 25.º
+> Revogado pelo/a [Decreto-Lei n.º 162/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2012-179296), publicado em 2012-07-31.
 
 ###### Artigo 13.º — Entrada em vigor
 
-O presente decreto regulamentar entra em vigor no 1.º dia do mês seguinte ao da sua publicação.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 162/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2012-179296), publicado em 2012-07-31.
 
 Visto e aprovado em Conselho de Ministros de 21 de Dezembro de 2006. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Alberto Bernardes Costa.
 
@@ -291,4 +270,6 @@ O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (quadro a que se refere o artigo 9.º)
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/04/08200/26212624.pdf)
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 162/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2012-179296), publicado em 2012-07-31.

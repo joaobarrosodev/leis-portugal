@@ -39,10 +39,28 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2011-01-15'
+version_history:
+  file: decreto-lei-127-2008.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2008-07-21'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2011-01-15'
+    amending: pt:dre:485629:por
+    amending_title: Decreto-Lei n.º 6/2011
+    changes:
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 8.º
+    - Altera Artigo ANEXO — Notas técnicas
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/127/2008/07/21/p/dre/pt/html
@@ -68,7 +86,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T03:03:14Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 6/2011. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2008/decreto-lei-127-2008.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -191,9 +210,11 @@ a) Assegurar a qualidade e integridade da informação que lhe é transmitida no
 
 b) Elaborar, relativamente à informação que lhe deve ser transmitida nos termos do anexo ao presente decreto-lei, estimativas de emissões e transferência de poluentes, quando os operadores não tenham cumprido as obrigações referidas no artigo 5.º;
 
-c) Transmitir à APA, até 30 de Setembro de cada ano, a informação referida nas alíneas anteriores;
+c) Transmitir à APA, até 30 de Novembro de cada ano, a informação referida nas alíneas anteriores;
 
 d) Designar e comunicar à APA o técnico interlocutor para a gestão da informação transmitida nos termos do artigo 5.º
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 6/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-2011-485629), publicado em 2011-01-10.
 
 ###### Artigo 4.º — Registo de emissões e transferência de poluentes
 
@@ -201,15 +222,21 @@ O registo de emissões e transferência de poluentes contém informação sobre:
 
 a) As emissões para o ar, água e solo dos poluentes listados no anexo ii do Regulamento, independentemente do limiar aí estipulado, provenientes das actividades enumeradas no anexo ao presente decreto-lei, correspondente ao anexo i do Regulamento;
 
-b) As transferências para fora do local dos resíduos perigosos e não perigosos e dos poluentes presentes em águas residuais, todos listados no anexo ii do Regulamento, independentemente do limiar aí estipulado, provenientes das actividades enumeradas no anexo ao presente decreto-lei, correspondente ao anexo i do Regulamento.
+b) As transferências para fora do local do estabelecimento dos poluentes presentes em águas residuais destinadas a tratamento, listados no anexo ii do Regulamento, independentemente do limiar aí estipulado, provenientes das actividades enumeradas no anexo ao presente decreto-lei, correspondente ao anexo i do Regulamento;
+
+c) As transferências para fora do local do estabelecimento dos resíduos perigosos e não perigosos, de acordo com a classificação estabelecida pela Portaria n.º 209/2004, de 3 de Março, independentemente do limiar estabelecido na alínea b) do artigo 5.º do Regulamento, provenientes das actividades enumeradas no anexo ao presente decreto-lei, correspondente ao anexo i do Regulamento.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 6/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-2011-485629), publicado em 2011-01-10.
 
 ###### Artigo 5.º — Obrigações dos operadores
 
 1 - Sem prejuízo do disposto no artigo 5.º do Regulamento, os operadores que exercem as actividades especificadas no anexo ao presente decreto-lei estão obrigados a comunicar à APA, à CCDR ou à ARH competente, de acordo com o estabelecido no referido anexo, as informações referidas no artigo anterior.
 
-2 - Até à harmonização dos sistemas de recolha de dados ambientais, as informações referidas no número anterior são comunicadas através do sistema electrónico disponibilizado pela APA no seu sítio na Internet, até ao dia 31 de Março de cada ano e referem-se aos dados obtidos pelo operador no ano anterior.
+2 - Até à harmonização dos sistemas de recolha de dados ambientais, as informações referidas no número anterior são comunicadas através do sistema electrónico disponibilizado pela APA no seu sítio na Internet, até ao dia 31 de Maio de cada ano e referem-se aos dados obtidos pelo operador no ano anterior.
 
 3 - Os operadores estão ainda obrigados a prestar à respectiva autoridade competente as informações adicionais que permitam verificar a qualidade e integridade da informação transmitida.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 6/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-2011-485629), publicado em 2011-01-10.
 
 ###### Artigo 6.º — Responsabilidade pela informação
 
@@ -231,7 +258,7 @@ A inspecção e fiscalização do cumprimento do presente decreto-lei compete, r
 
 2 - Constitui contra-ordenação ambiental leve, punível nos termos da Lei n.º 50/2006, de 29 de Agosto, a prática dos seguintes actos:
 
-a) O não cumprimento, pelo operador, da obrigação de comunicação das informações referidas no n.º 1 do artigo 5.º nos prazos fixados no n.º 2 do mesmo artigo e no n.º 2 do artigo 11.º;
+a) O não cumprimento, pelo operador, das obrigações de comunicação das informações referidas no artigo 5.º nos prazos fixados no presente decreto-lei;
 
 b) O não cumprimento, pelo operador, da obrigação de manter durante cinco anos, contados a partir do final do ano de referência em causa, os registos dos dados de onde foram extraídas as informações comunicadas às autoridades competentes, nos termos do artigo 5.º do Regulamento, bem como dos registos dos métodos usados para a sua recolha.
 
@@ -240,6 +267,8 @@ b) O não cumprimento, pelo operador, da obrigação de manter durante cinco ano
 4 - A tentativa é punível relativamente à contra-ordenação prevista no n.º 1, sendo os limites mínimos e máximos da respectiva coima reduzidos a metade.
 
 5 - Pode ser objecto de publicidade, nos termos do disposto no artigo 38.º da Lei n.º 50/2006, de 29 de Agosto, a condenação pela prática da infracção grave prevista no n.º 1, quando a medida concreta da coima aplicada ultrapasse metade do montante máximo da coima abstractamente aplicável.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 6/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-2011-485629), publicado em 2011-01-10.
 
 ###### Artigo 9.º — Sanções acessórias e apreensão cautelar
 
@@ -291,10 +320,16 @@ O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — Notas técnicas
 
-1 - A capacidade de produção do estabelecimento é considerada para um período de laboração de vinte e quatro horas, independentemente do seu regime, turnos, horários de laboração, ou valor de produção efectiva para resposta à procura do mercado, de acordo com o regime, já em vigor, para as actividades abrangidas pelo Decreto-Lei n.º 194/2000, de 21 de Agosto.
+1 - A obrigação de comunicação de dados existe sempre que o limiar de capacidade da actividade for excedido. Se não estiver especificado qualquer limiar de capacidade, todos os estabelecimentos dedicados à actividade PRTR em causa estão sujeitos à obrigação de comunicação de dados, de acordo com o estabelecido no artigo 5.º
 
-2 - No caso do operador desenvolver várias actividades da mesma rubrica no mesmo estabelecimento e no mesmo local, procede-se à soma das capacidades das referidas actividades, que se compara com o limiar de capacidade aplicável à actividade constante do mesmo anexo, de acordo com o Documento de Orientação para a Implementação do PRTR Europeu.
+2 - A capacidade da actividade PRTR é considerada para um período de laboração de vinte e quatro horas, independentemente do seu regime, turnos, horários de laboração ou valor de produção efectiva para resposta à procura do mercado.
+
+3 - No caso de o operador desenvolver várias actividades da mesma rubrica no mesmo estabelecimento e no mesmo local, procede-se à soma das capacidades das referidas actividades, que se compara com o limiar de capacidade aplicável à actividade constante do mesmo anexo, de acordo com o documento de orientação para a implementação do PRTR europeu.
+
+4 - As actividades referidas na tabela que se encontrem igualmente abrangidas pelo regime jurídico da prevenção e controlo integrados da poluição, estabelecido no Decreto-Lei n.º 173/2008, de 26 de Agosto, são da responsabilidade da APA. As restantes actividades são da competência da CCDR ou da ARH territorialmente competente.
 
 Categorias de actividades referidas no artigo 4.º e respectiva autoridade competente
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/13900/0449804502.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/00600/0017500178.pdf)
+
+> Alterado pelo/a [Decreto-Lei n.º 6/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-2011-485629), publicado em 2011-01-10.

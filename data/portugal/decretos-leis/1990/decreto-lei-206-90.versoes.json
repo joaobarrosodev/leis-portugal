@@ -1,0 +1,358 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:575301:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1990-06-26",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "c483181d3620fb26",
+    "f42bff4bc4b75282",
+    "70fe33e2ee9de285",
+    "ab62ca5c5dc2ff16",
+    "f55ce2d4af71944b",
+    "020c9363fa777135",
+    "aaf982d68f076aff",
+    "44af940a861d4417",
+    "aa83a935830968ae",
+    "9bebd2449974fcbb",
+    "d264ce6273caf5b1",
+    "062884a9f098b197",
+    "2ab20c5ee7bfb543",
+    "f71907066db7fd2c",
+    "730d4b68d33a90e5",
+    "ad56d922f3d64ebb",
+    "3346bc1faf2a94ae",
+    "c7e01b1525acf951",
+    "4b3531c67f6710fc",
+    "e0223438d008c180",
+    "e9f1723894f162b0",
+    "48dc69d2176fff90",
+    "3feec73ce7faa604",
+    "0ee8b2585018b4d1",
+    "136e97b359abf7da",
+    "025a3a5264676acb",
+    "5a15d2b9c746bddc",
+    "28cce781562471d6",
+    "031fc450d025d7d9",
+    "d3f50a71d393c831",
+    "726014c0b387ef32"
+   ]
+  },
+  {
+   "date": "1990-07-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:644099:por",
+     "title": "Declaração",
+     "published": "1990-07-31",
+     "dre_path": "/dr/detalhe/declaracao/1990-644099"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 95.º",
+    "Altera Artigo 95.º"
+   ],
+   "fragments": [
+    "c483181d3620fb26",
+    "f42bff4bc4b75282",
+    "70fe33e2ee9de285",
+    "ab62ca5c5dc2ff16",
+    "f55ce2d4af71944b",
+    "020c9363fa777135",
+    "aaf982d68f076aff",
+    "44af940a861d4417",
+    "aa83a935830968ae",
+    "9bebd2449974fcbb",
+    "d264ce6273caf5b1",
+    "062884a9f098b197",
+    "2ab20c5ee7bfb543",
+    "f71907066db7fd2c",
+    "730d4b68d33a90e5",
+    "ad56d922f3d64ebb",
+    "3346bc1faf2a94ae",
+    "c7e01b1525acf951",
+    "4b3531c67f6710fc",
+    "e0223438d008c180",
+    "e9f1723894f162b0",
+    "48dc69d2176fff90",
+    "3feec73ce7faa604",
+    "0ee8b2585018b4d1",
+    "136e97b359abf7da",
+    "025a3a5264676acb",
+    "5a15d2b9c746bddc",
+    "28cce781562471d6",
+    "fcdc2a3a35b0bee6",
+    "d3f50a71d393c831",
+    "726014c0b387ef32"
+   ]
+  }
+ ],
+ "fragments": {
+  "c483181d3620fb26": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 26 de Junho\n\nA experiência recolhida ao longo de um ano de vigência do Código do Imposto sobre o Rendimento das Pessoas Singulares (IRS), se, por um lado, revelou que, na generalidade, as soluções consagradas para a tributação do rendimento das pessoas singulares segundo um sistema de tributação unitária são eficazes e adequadas à realidade, aconselha, por outro, a introdução de algumas alterações, com a finalidade exclusiva de prosseguir os objectivos de simplicidade, eficiência e equidade, desde sempre assumidos como pontos de referência indiscutíveis da reforma da tributação do rendimento.\n\nA actualização geral a que se procede nos montantes das deduções e abatimentos e nos escalões de tributação, em valor significativamente superior à inflação esperada, é determinada por razões de justiça social e concretiza um efectivo desagravamento da carga fiscal.\n\nAs alterações que se traduzem na reformulação de algumas normas de incidência objectiva e subjectiva visam aperfeiçoar o tratamento unitário da tributação do rendimento, com o objectivo de tornar o sistema mais eficiente.\n\nMerecem ainda referência especial algumas das alterações agora introduzidas, quer pelo alcance de que se revestem, quer pela novidade que representam.\n\nDesde logo, a inclusão expressa na categoria A dos rendimentos derivados dos contratos de aquisição de serviços e outros de idêntica natureza, quando subjacente a tais contratos se encontre uma realidade muito mais próxima do contrato individual de trabalho do que um verdadeiro contrato de aquisição de serviços, é ditada por evidentes razões de justiça social, porquanto, pretendendo-se a neutralidade das normas fiscais face às decisões dos agentes económicos, não pode, todavia, permitir-se que, perante uma certa permissividade da lei, a realidade seja desvirtuada, em prejuízo evidente da parte colocada em posição menos favorável.\n\nA definição legal das condições em que o rendimento do valor de realização obtido na alienação de habitação própria deve ser efectuado para poder beneficiar da exclusão tributária consignada no n.º 5 do artigo 10.º, se, por um lado, supre uma notória lacuna, por outro, traça com precisão o quadro legal em que a referida operação, para poder usufruir do benefício, deve realizar-se.\n\nA consideração como obtidos em Portugal dos rendimentos derivados de comissões pela intermediação em quaisquer negócios, sempre que o seu pagamento seja imputável a estabelecimento estável situado em território português, tem em vista a sua tributação quando auferidos por não residentes, assim se colocando em pé de igualdade todos os sujeitos passivos que aufiram rendimentos daquela natureza.\n\nNo âmbito dos princípios gerais que devem presidir à retenção na fonte sobre rendimentos de trabalho dependente e aos pagamentos por conta a efectuar em função da titularidade de rendimentos do trabalho independente, comerciais, industriais e agrícolas, reformularam-se as respectivas normas. Num caso como noutro foi determinante a experiência colhida, tendo-se agora consignado as soluções que a prática revelou como mais adequadas ao fim visado, ou seja, o de aproximar, quer o montante da retenção, quer o dos pagamentos por conta, do imposto que, no final, se mostre devido.\n\nAssim:\n\nNo uso da autorização legislativa concedida pelo n.º 3 do artigo 24.º da [Lei n.º 101/89](https://diariodarepublica.pt/dr/detalhe/lei/101-1989-590339), de 29 de Dezembro, e nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:\n\nArtigo 1.º Os artigos 2.º, 6.º, 9.º, 10.º, 14.º, 17.º, 21.º, 40.º, 41.º, 51.º, 52.º, 54.º, 55.º, 57.º, 58.º, 60.º, 65.º, 74.º, 75.º, 78.º, 79.º, 80.º, 84.º, 91.º, 92.º, 93.º, 94.º, 95.º, 107.º e 114.º do Código do Imposto sobre o Rendimento das Pessoas Singulares, aprovado pelo [Decreto-Lei n.º 442-A/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-a-1988-518992), de 30 de Novembro, passam a ter a seguinte redacção:"
+  },
+  "f42bff4bc4b75282": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Rendimentos da categoria A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Rendimentos da categoria A\n\n1 - Consideram-se rendimentos do trabalho dependente todas as remunerações pagas ou postas à disposição do seu titular provenientes de:\n\na) Trabalho por conta de outrem prestado ao abrigo de contrato individual de trabalho ou de outro a ele legalmente equiparado;\n\nb) Trabalho prestado ao abrigo de contrato de aquisição de serviços ou outro de idêntica natureza, sob a autoridade e a direcção da pessoa ou entidade que ocupa a posição de sujeito activo na relação jurídica dele resultante;\n\nc) Exercício de função, serviço ou cargo públicos;\n\nd) Atribuição a título de pré-reforma ou de abonos relativos à situação de reserva.\n\n2 - ...\n\n3 - ...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) ...\n\nf) ...\n\ng) ...\n\nh) ...\n\n4 - Quando, por qualquer forma, cessem os contratos subjacentes às situações previstas nas alíneas a), b) e c) do n.º 1 ou se verifique a cessação de funções de gestor, administrador ou gerente de pessoa colectiva, as importâncias recebidas a qualquer título ficam sempre sujeitas a tributação na parte que exceda o valor da remuneração correspondente a um mês e meio multiplicado pelo número de anos ou fracção de antiguidade ou de exercício de funções na entidade devedora, salvo quando nos 12 meses seguintes seja criado novo vínculo com a mesma entidade ou outra que com ela esteja em relação de domínio ou de grupo, caso em que as importâncias serão tributadas pela totalidade.\n\n5 - ...\n\n6 - ..."
+  },
+  "70fe33e2ee9de285": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Rendimentos da categoria E",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Rendimentos da categoria E\n\nConsideram-se rendimentos de capitais:\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) ...\n\nf) ...\n\ng) Os juros ou quaisquer acréscimos de crédito pecuniário resultantes da dilação do respectivo vencimento ou de mora no seu pagamento, sejam legais, sejam contratuais, com excepção dos juros devidos ao Estado ou a outros entes públicos por atraso na liquidação ou mora no pagamento de quaisquer contribuições, impostos ou taxas;\n\nh)...\n\ni)...\n\nj)...\n\nl)...\n\nm)...\n\nn)...\n\no)..."
+  },
+  "ab62ca5c5dc2ff16": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Rendimentos da categoria F",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Rendimentos da categoria F\n\n1 - ...\n\n2 - ...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) As importâncias relativas à cessão temporária de exploração de estabelecimento comercial, industrial ou agrícola, deduzidas da renda paga, quando o cedente não seja titular da propriedade do imóvel onde o estabelecimento esteja instalado;\n\ne)...\n\nf)...\n\n3 - ...\n\n4 - ..."
+  },
+  "f55ce2d4af71944b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Rendimentos da categoria G",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Rendimentos da categoria G\n\n1 - ...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\n2 - ...\n\na) ...\n\nb) ...\n\nc) ...\n\n3 - ...\n\n4 - ...\n\na) ...\n\nb) ...\n\n5 - São excluídos da tributação os ganhos provenientes da transmissão onerosa de imóveis destinados a habitação do sujeito passivo ou do seu agregado familiar se, no prazo de 24 meses contados da data da realização, o produto da alienação for reinvestido na aquisição de outro imóvel, de terreno para a construção de imóvel ou na construção, ampliação ou melhoramento de outro imóvel exclusivamente com o mesmo destino.\n\n6 - Não haverá lugar ao benefício referido no número anterior quando:\n\na) Tratando-se de reinvestimento na aquisição de outro imóvel, o adquirente o não afecte à sua habitação ou do seu agregado familiar até decorridos seis meses após o termo do prazo em que o reinvestimento deva ser efectuado;\n\nb) Tratando-se de reinvestimento na aquisição de terreno para construção, o adquirente não inicie, excepto por motivo imputável a entidades públicas, a construção até decorridos seis meses após o termo do prazo em que o reinvestimento deva ser efectuado ou não requeira a inscrição do imóvel na matriz até decorridos 24 meses sobre a data de início das obras, devendo, em qualquer caso, afectar o imóvel à sua habitação ou do seu agregado familiar até ao fim do quinto ano seguinte ao da realização;\n\nc) Tratando-se de reinvestimento na construção, ampliação ou melhoramento de imóvel, não sejam iniciadas as obras até decorridos seis meses após o termo do prazo em que o reinvestimento deva ser efectuado ou não seja requerida a inscrição do imóvel ou das alterações na matriz até decorridos 24 meses sobre a data do início das obras, devendo, em qualquer caso, afectar o imóvel à sua habitação ou do seu agregado familiar até ao fim do quinto ano seguinte ao da realização.\n\n7 - No caso do reinvestimento parcial do valor de realização e verificadas as condições estabelecidas no número anterior, o benefício a que se refere o n.º 5 respeitará apenas à parte proporcional dos ganhos correspondente ao valor reinvestido."
+  },
+  "020c9363fa777135": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Sujeito passivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Sujeito passivo\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\n4 - Para efeitos do disposto no número anterior, consideram-se dependentes:\n\na) Os filhos, adoptados e enteados, menores não emancipados, que não tenham rendimentos ou que, tendo-os, a respectiva administração pertença, no todo, a qualquer das pessoas a quem incumbe a direcção do agregado familiar;\n\nb) Os filhos, adoptados e enteados, maiores, que, não tendo mais de 25 anos nem auferindo anualmente rendimentos superiores ao salário mínimo nacional, tenham frequentado no ano a que o imposto respeita o 11.º ou 12.º anos de escolaridade ou estabelecimento de ensino médio ou superior;\n\nc) ...\n\nd) ...\n\n5 - O disposto nas alíneas b) e c) do n.º 4 não prejudica a opção pela tributação autónoma das pessoas nelas referidas.\n\n6 - As pessoas referidas nos números anteriores não podem, simultaneamente, fazer parte de mais de um agregado familiar nem, integrando um agregado familiar, ser consideradas sujeitos passivos autónomos."
+  },
+  "aaf982d68f076aff": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Rendimentos obtidos em Portugal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Rendimentos obtidos em Portugal\n\n1 - Consideram-se obtidos em território português:\n\na)...\n\nb)...\n\nc)...\n\nd) Os rendimentos comerciais, industriais ou agrícolas imputáveis a estabelecimento estável nele situado, ou, tratando-se de comissões devidas por intermediação na celebração de quaisquer contratos, aquelas cujo pagamento seja imputável a um estabelecimento estável nele situado;\n\ne) Os rendimentos de capitais devidos por entidades que nele tenham residência, sede, direcção efectiva ou estabelecimento estável a que deva imputar-se o pagamento, os rendimentos de capitais por elas pagos ou colocados à disposição de residentes em território português por conta de entidades não residentes que em território português não tenham estabelecimento estável ao qual o respectivo pagamento possa ser imputado, bem como, salvo prova em contrário, os rendimentos de capitais nele colocados através de actos aí celebrados ou cuja restituição seja garantida com bens nele existentes, funcionando a presunção, neste caso, a partir da prestação dessa garantia;\n\nf) ...\n\ng) ...\n\nh) ...\n\ni) ...\n\nj) ...\n\n2 - ...\n\n3 - ..."
+  },
+  "44af940a861d4417": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Englobamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Englobamento\n\n1 - ...\n\n2 - Nas situações de contitularidade, o englobamento far-se-á nos seguintes termos:\n\na) Tratando-se de rendimentos das categorias C e D, cada contitular englobará na parte do lucro tributável que lhe couber, na proporção das respectivas quotas;\n\nb) Tratando-se de rendimentos das restantes categorias, cada contitular englobará os rendimentos ilíquidos e as deduções legalmente admitidas, na proporção das respectivas quotas.\n\n3 - Não são englobados:\n\na) Os rendimentos referidos nos artigos 74.º e 75.º;\n\nb) Os rendimentos que beneficiam de isenção, salvo quando a lei imponha esse englobamento para efeito de determinação da taxa a aplicar aos restantes rendimentos.\n\n4 - O sujeito passivo poderá, porém, optar pelo englobamento nos casos previstos nas alíneas a) e b) do artigo 74.º e no artigo 75.º\n\n5 - Quando o sujeito passivo exerça a opção referida no número anterior, fica, por esse facto, obrigado a declarar a totalidade dos rendimentos compreendidos em cada uma das alíneas relativamente às quais optou pelo englobamento.\n\n6 - Quando o sujeito passivo aufira rendimentos que dêem direito a crédito de imposto nos termos do n.º 3 do artigo 80.º, adicionar-se-á aos correspondentes rendimentos englobados o montante desse crédito.\n\n7 - Sempre que a lei imponha o englobamento de rendimentos isentos, observar-se-á o seguinte:\n\na) Os rendimentos isentos serão considerados, sem deduções, para efeitos do disposto no artigo 72.º, sendo caso disso, e para determinação das taxas a aplicar ao restante rendimento colectável;\n\nb) Para efeitos da alínea anterior, quando seja de aplicar o disposto no artigo 72.º, o quociente da divisão por 2 ou por 1,85, consoante os casos, dos rendimentos isentos será imputado proporcionalmente à fracção de rendimento a que corresponde a taxa média e a taxa normal."
+  },
+  "aa83a935830968ae": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 40.º — Deduções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Deduções\n\n1 - ...\n\n2 - ...\n\na) ...\n\nb) ...\n\n3 - ...\n\n4 - ...\n\n5 - Na sublocação e na cessão temporária de exploração de estabelecimento comercial, industrial ou agrícola, a diferença entre a renda ou as importâncias recebidas pelo sublocador ou pelo cedente, respectivamente, e a parte por cada um paga não beneficiará de qualquer dedução.\n\n6 - ..."
+  },
+  "9bebd2449974fcbb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 41.º — Mais-valias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Mais-valias\n\n1 - ...\n\n2 - O saldo referido no número anterior, respeitante às transmissões previstas nas alíneas a), c) e d) do n.º 1 do artigo 10.º, positivo ou negativo, é apenas considerado em 50% do seu valor."
+  },
+  "d264ce6273caf5b1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 51.º — Pensões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Pensões\n\n1 - Os rendimentos da categoria H de valor anual igual ou inferior a 500000$00, por cada titular que os tenha auferido, são deduzidos pela totalidade do seu quantitativo.\n\n2 - Se, porém, o rendimento anual, por titular, for superior ao valor referido no número anterior, a dedução é igual àquele montante, acrescido de metade da parte que o excede, até ao máximo de 1250000$00."
+  },
+  "062884a9f098b197": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 52.º — Rendas temporárias e vitalícias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Rendas temporárias e vitalícias\n\n1 - Quando as rendas temporárias e vitalícias compreendam importâncias pagas a título de reembolso de capital, deduzir-se-á, na determinação do valor tributável, a parte correspondente ao capital.\n\n2 - Quando a parte correspondente ao capital não puder ser discriminada, à totalidade da renda abater-se-á, para efeitos de determinação do valor tributável, uma importância igual a 65%."
+  },
+  "2ab20c5ee7bfb543": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 54.º — Deduções de perdas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — Deduções de perdas\n\n1 - ...\n\n2 - O resultado líquido negativo apurado nas categorias B, C e D, bem como a percentagem do saldo negativo a que se refere o n.º 2 do artigo 41.º, só poderão ser reportados aos cinco anos seguintes àquele a que respeitam, deduzindo-se aos rendimentos líquidos da mesma categoria ou à percentagem do saldo positivo apurado entre as mais e as menos-valias realizadas no ano em causa, de harmonia com a parte aplicável do artigo 46.º do Código do IRC.\n\n3 - ...\n\n4 - No caso em que, relativamente aos rendimentos referidos no artigo 75.º, tenha sido utilizada a faculdade prevista no n.º 4 do artigo 21.º, o resultado negativo apurado num determinado ano poderá ser reportado aos dois anos seguintes, dentro da mesma categoria."
+  },
+  "f71907066db7fd2c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 55.º — Abatimentos ao rendimento líquido total",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º — Abatimentos ao rendimento líquido total\n\n1 - ...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) ...\n\nf) Os prémios de seguros de vida, de doença ou de acidentes pessoais, as quotizações sindicais, bem como as contribuições para sistemas facultativos de segurança social, relativos ao sujeito passivo ou aos seus dependentes, desde que quaisquer deles não tenham sido deduzidos nos termos das secções precedentes:\n\ng) ...\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\n5 - ..."
+  },
+  "730d4b68d33a90e5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 57.º — Declaração de rendimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º — Declaração de rendimentos\n\n1 - ...\n\na) ...\n\nb) ...\n\n2 - Nas situações de contitularidade, tratando-se de rendimentos das categorias C e D, incumbe ao contitular a quem pertença a respectiva administração apresentar na sua declaração de rendimentos a totalidade dos elementos contabilísticos exigidos nos termos das secções precedentes para o apuramento do lucro tributável, nela identificando os restantes contitulares e a parte que lhes couber.\n\n3 - ...\n\n4 - Para efeitos do disposto nos n.os 5 e 7 do artigo 10.º, os sujeitos passivos mencionarão a intenção de efectuar o reinvestimento na declaração do ano de realização, comprovando na mesma e nas declarações dos dois anos seguintes os investimentos efectuados.\n\n5 - ...\n\n6 - ..."
+  },
+  "ad56d922f3d64ebb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 58.º — Dispensa das declarações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 58.º — Dispensa das declarações\n\n1 - ...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\n2 - ...\n\na) ...\n\nb) ...\n\nc) O sujeito passivo se encontre na situação de separado de facto."
+  },
+  "3346bc1faf2a94ae": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 60.º — Prazo de entrega das declarações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 60.º — Prazo de entrega das declarações\n\n1 - As declarações a que se refere o n.º 1 do artigo 57.º serão entregues:\n\na) Até ao fim do mês de Fevereiro, a declaração modelo n.º 1;\n\nb) Até ao dia 10 de Maio, a declaração modelo n.º 2.\n\n2 - As declarações a que se refere o número anterior serão ainda apresentadas nos 30 dias imediatos à ocorrência de qualquer facto que determine alteração dos rendimentos já declarados ou implique, relativamente a anos anteriores, a obrigação de os declarar."
+  },
+  "c7e01b1525acf951": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 65.º — Fraccionamento de rendimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 65.º — Fraccionamento de rendimentos\n\n1 - ...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) Os rendimentos das categorias C e D são considerados como respeitando ao ano completo, determinando-se a parte relativa a cada período pela divisão proporcional ao número de dias que nele se contém, sem prejuízo do disposto na alínea seguinte;\n\ne) Se as actividades comerciais, industriais ou agrícolas se iniciarem ou tiverem cessado no decurso do ano, os rendimentos respectivos são considerados como respeitando ao período em que aquelas foram exercidas, determinando-se, pela forma prevista na alínea anterior, a parte relativa a cada período de fraccionamento.\n\n2 - ..."
+  },
+  "4b3531c67f6710fc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 74.º — Taxas liberatórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 74.º — Taxas liberatórias\n\n1 - ...\n\na) ...\n\nb) ...\n\nc) 25%, os rendimentos referidos no artigo 12.º;\n\nd) 25%, os rendimentos das categorias A e B e as comissões devidas por intermediação na celebração de quaisquer contratos, quando quaisquer deles sejam auferidos por não residentes em Portugal;\n\ne) ...\n\nf) 20%, outros rendimentos de aplicação de capitais, não mencionados nas alíneas anteriores, dos não residentes em Portugal, excepto no que respeita aos rendimentos referidos na alínea h) do artigo 6.º, em que a taxa é de 25%:\n\ng) ...\n\n2 - ..."
+  },
+  "e0223438d008c180": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 75.º — Taxa especial - mais-valias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 75.º — Taxa especial - mais-valias\n\n1 - O saldo positivo entre as mais-valias e as menos-valias apuradas na transmissão onerosa de partes sociais e outros valores mobiliários é tributado à taxa liberatória de 10%.\n\n2 - ..."
+  },
+  "e9f1723894f162b0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 78.º — Procedimentos e formas de liquidação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 78.º — Procedimentos e formas de liquidação\n\n1 - ...\n\na) ...\n\nb) Pela totalidade do rendimento colectável do ano mais próximo que se encontra determinado e em cujo apuramento tenham sido considerados rendimentos das categorias B, C ou D, se, não tendo sido ainda declarada a respectiva cessação de actividade, a declaração a que se refere a alínea b) do n.º 1 do artigo 60.º não tiver sido apresentada dentro do prazo legal, salvo se for possível efectuar a liquidação com base em declaração entretanto apresentada;\n\nc) ...\n\n2 - ..."
+  },
+  "48dc69d2176fff90": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 79.º — Prazo para liquidação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 79.º — Prazo para liquidação\n\n1 - A liquidação do IRS deve ser efectuada no ano imediato àquele a que os rendimentos respeitam nos seguintes prazos:\n\na) Até ao dia 15 de Abril, com base na declaração modelo n.º 1 apresentada dentro do prazo legal e ainda nos casos em que sujeito passivo não esteja obrigado à apresentação da declaração;\n\nb) Até ao dia 15 de Junho, com base na declaração modelo n.º 2 apresentada dentro do prazo legal e ainda no caso previsto na alínea b) do n.º 1 do artigo 78.º"
+  },
+  "3feec73ce7faa604": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 80.º — Deduções à colecta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 80.º — Deduções à colecta\n\n1 - À colecta do IRS devido por sujeitos passivos residentes em território português e até ao seu montante serão deduzidos:\n\na) ...\n\nb) ...\n\nc) ...\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\n5 - ...\n\n6 - ...\n\n7 - ...\n\n8 - ..."
+  },
+  "0ee8b2585018b4d1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 84.º — Prazo de caducidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 84.º — Prazo de caducidade\n\n1 - ...\n\n2 - ...\n\n3 - A opção do sujeito passivo pelo reporte de rendimentos, bem como a não afectação de imóvel à sua habitação ou do seu agregado familiar no prazo referido nas alíneas b) e c) do n.º 6 do artigo 10.º, determinam o início da contagem do prazo de caducidade para as liquidações a que deva proceder-se."
+  },
+  "136e97b359abf7da": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 91.º — Retenção na fonte - regra geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 91.º — Retenção na fonte - regra geral\n\n1 - Nos casos previstos nos artigos 92.º, 93.º e 94.º e noutros estabelecidos na lei, o devedor dos rendimentos sujeitos a tributação é obrigado, no acto do pagamento, do vencimento, ainda que presumido, da colocação dos mesmos à disposição ou do apuramento do respectivo quantitativo, consoante os casos, a deduzir o valor neles previstos por conta do IRS respeitante ao ano em que esses actos ocorrem.\n\n2 - ...\n\n3 - ...\n\na) ...\n\nb) ...\n\nc) ...\n\n4 - ..."
+  },
+  "025a3a5264676acb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 92.º — Retenções na fonte - remunerações fixas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 92.º — Retenções na fonte - remunerações fixas\n\n1 - As entidades que paguem ou coloquem à disposição rendimentos da categoria A não compreendidos na alínea h) do n.º 3 do artigo 2.º devem, quando a remuneração mensal seja fixa, no momento do seu pagamento ou da sua colocação à disposição, reter o imposto mediante a aplicação das fórmulas de retenção mensais aprovadas por decreto regulamentar, ou, em sua substituição, nos casos permitidos, por aplicação das tabelas mensais constantes do mesmo diploma.\n\n2 - ...\n\n3 - Para determinação da importância a reter nos termos do n.º 1 considera-se remuneração mensal o montante pago a título de remuneração fixa, acrescido, salvo disposição em contrário, de quaisquer outras importâncias que tenham a natureza de rendimentos do trabalho dependente, tal como são definidos no artigo 2.º do Código, pagos ou colocados à disposição do seu titular no mesmo período, ainda que respeitantes a meses anteriores, e, sempre que o titular o solicite, as gratificações referidas na alínea h) do n.º 3 do artigo 2.º\n\n4 - No último período de retenção anual é efectuada a regularização do imposto mediante a aplicação das fórmulas anuais ou, em sua substituição e nos casos permitidos, por aplicação das tabelas anuais, procedendo-se à retenção das importâncias em falta ou à restituição das importâncias em excesso, quando possível.\n\n5 - Não será aplicável o disposto no número anterior quando no decurso do ano tenha ocorrido alteração no estado civil do titular dos rendimentos ou na respectiva titularidade e ainda quando o vínculo jurídico-laboral entre a entidade retentora e o sujeito passivo se constitua ou se extinga após o início do ano civil.\n\n6 - ...\n\n7 - Para efeitos do disposto nos números anteriores, deve a entidade patronal solicitar ao sujeito passivo, no início do exercício de funções, os dados indispensáveis relativos à sua situação pessoal e familiar, ficando este obrigado a comunicar qualquer alteração que se venha a verificar.\n\n8 - ..."
+  },
+  "5a15d2b9c746bddc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 93.º — Retenção na fonte - remunerações não fixas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 93.º — Retenção na fonte - remunerações não fixas\n\n1 - Sem prejuízo do disposto no artigo anterior, as entidades que paguem ou coloquem à disposição remunerações do trabalho dependente que compreendam, exclusivamente, montantes variáveis devem, no momento do seu pagamento ou colocação à disposição, reter o imposto de harmonia com a seguinte tabela de taxas:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/06/14500/26482656.pdf)\n\n2 - ...\n\n3 - Quando, não havendo possibilidade de estimação da remuneração anual esperada, sejam pagos ou colocados à disposição rendimentos que excedem o limite de 516000$00, aplica-se o disposto no n.º 1 do presente artigo.\n\n4 -..."
+  },
+  "28cce781562471d6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 94.º — Retenção na fonte - rendimentos de outras categorias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 94.º — Retenção na fonte - rendimentos de outras categorias\n\n1 - ...\n\n2 - Tratando-se de rendimentos sujeitos a tributação pelas taxas previstas no artigo 74.º:\n\na) As entidades devedoras dos rendimentos deduzirão a importância correspondente às taxas nele fixadas;\n\nb) As entidades que paguem ou coloquem à disposição dos respectivos titulares, residentes em território português, por conta de entidades que não tenham aqui residência, sede, direcção efectiva ou estabelecimento estável a que possa imputar-se o pagamento, rendimentos de títulos nominativos ou ao portador deduzirão a importância correspondente à taxa mais elevada prevista na alínea b) do n.º 1 daquele artigo.\n\n3 - ...\n\na) ...\n\nb) ...\n\n4 - ...\n\n5 - ...\n\n6 - ..."
+  },
+  "031fc450d025d7d9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 95.º — Pagamentos por conta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 95.º — Pagamentos por conta\n\n1 - A titularidade de rendimentos das categorias B, C ou D determina, para os respectivos sujeitos passivos, a obrigatoriedade de efectuarem três pagamentos por conta do imposto devido a final no próprio ano a que os rendimentos respeitam, com vencimento no dia 20 de cada um dos meses de Julho, Outubro e Dezembro, que não sofre alteração, ainda que a liquidação se atrase por facto que lhes seja imputável.\n\n2 - Cada pagamento por conta é igual a 25% do montante calculado com base na fórmula seguinte, arredondado, por excesso, para escudos:\n\n(C - R - D) x ((RLB + RLC + RLD)/RLT)\n\nem que as siglas utilizadas têm o seguinte significado:\n\nC = colecta do ano imediatamente anterior, antes das deduções a que se refere o artigo 80.º;\n\nR = total das retenções efectuadas no ano anterior aos rendimentos das categorias B, C e D;\n\nD = dedução a que se refere o n.º 1 do artigo 80.º referente ao próprio ano a que os rendimentos respeitam;\n\nRLB, RLC e RLD = rendimento líquido positivo do ano anterior de cada uma das categorias B, C e D;\n\nRLT = rendimento líquido total do ano imediatamente anterior.\n\n3 - A obrigatoriedade de serem efectuados pagamentos por conta não se verificará quando:\n\na) O montante de cada um, calculado nos termos do n.º 2, seja inferior a 10000$00;\n\nb) Efectuando o primeiro, os sujeitos passivos verifiquem, pelos elementos de que disponham, que os montantes já pagos, acrescidos das retenções que tenham a mesma natureza efectuadas com referência aos mesmos rendimentos, no próprio ano, sejam iguais ou superiores ao imposto total que será devido;\n\nc) Deixem de ser auferidos rendimentos de todas as categorias que os tornam obrigatórios, excepto quando deixem de ser auferidos rendimentos de alguma delas, caso em que poderão ser proporcionalmente reduzidos.\n\n4 - Na cessação ou redução dos pagamentos por conta a que se referem as alíneas b) e c) do número anterior observar-se-á o seguinte:\n\na) Os sujeitos passivos remeterão ao serviço fiscal competente uma declaração, devidamente assinada e datada, até 15 dias antes do termo do prazo do respectivo pagamento, da qual devem obrigatoriamente constar os motivos da cessação ou redução dos pagamentos por conta;\n\nb) Uma vez declarada a cessação ou redução dos pagamentos por conta, não podem os sujeitos passivos retomá-los ou alterar o respectivo montante, sem prejuízo das sanções que a lei no caso cominar.\n\n5 - Verificando-se, pela declaração de rendimentos do ano a que respeita o imposto, que, em consequência da cessação ou redução dos pagamentos por conta, deixou de pagar-se uma importância superior a 20% da que, em condições normais, teria sido entregue, haverá lugar a juros compensatórios, liquidados nos termos do artigo 83.º, desde o termo do prazo em que cada pagamento deveria ter sido efectuado até à data em que por lei a liquidação deva ser feita.\n\n6 - Se o pagamento por conta a efectuar for superior à diferença entre o imposto total que os sujeitos passivos julgarem devido e os pagamentos já feitos, poderá aquele limitar-se a essa diferença, sendo de aplicar o disposto nos números anteriores, com as necessárias adaptações."
+  },
+  "d3f50a71d393c831": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 107.º — Rendimentos de trabalho independente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 107.º — Rendimentos de trabalho independente\n\n1 - ...\n\na) ...\n\nb) ...\n\nc) ...\n\n2 - ...\n\n3 - Os titulares dos rendimentos referidos na alínea b) do n.º 5 do artigo 3.º ficam dispensados do cumprimento das obrigações previstas nas alíneas a) a c) do n.º 1, sem prejuízo de deverem emitir recibo de quitação das importâncias recebidas.\n\n4 - As pessoas que paguem rendimentos previstos no n.º 1 do artigo 3.º são obrigadas a exigir os respectivos recibos e a conservá-los durante os cinco anos civis subsequentes, salvo se tiverem de dar-lhes outro destino, devidamente justificado.\n\n5 - Os sujeitos passivos que aproveitem da dispensa da dedução do imposto nos termos do n.º 3 do artigo 94.º deverão apor a seguinte menção nos recibos emitidos: «Sem retenção nos termos do n.º 3 do artigo 94.º»"
+  },
+  "726014c0b387ef32": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 114.º — Comunicação de rendimentos e retenções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 114.º — Comunicação de rendimentos e retenções\n\n1 - Os devedores de rendimentos que estejam obrigados à retenção, total ou parcial, do imposto, com excepção dos previstos no artigo 74.º em que a retenção tenha natureza liberatória, as entidades que paguem rendimentos compreendidos na categoria H que não sejam pensões de alimentos e ainda as entidades que, dispondo ou devendo dispor de contabilidade organizada, devam comissões enquadráveis na categoria C são obrigados a:\n\na) ...\n\nb) ...\n\nc) Entregar à Direcção-Geral das Contribuições e Impostos uma declaração relativa àqueles rendimentos, em impresso de modelo oficial, até ao dia 15 do mês de Fevereiro de cada ano, com os elementos nela exigidos.\n\n2 - Tratando-se de rendimentos de quaisquer títulos nominativos ou ao portador e de juros de depósitos à ordem ou a prazo cujos titulares sejam residentes em território português, o documento referido na alínea b) do número anterior apenas será emitido a solicitação expressa dos sujeitos passivos que pretendam optar pelo englobamento, ficando, neste caso, a entidade devedora obrigada a dar cumprimento ao disposto nas alíneas a) e c) do número anterior.\n\n3 - ...\n\n4 - ...\n\n5 - O registo, documento e declaração a que se referem as alíneas a) a c) do n.º 1 devem individualizar os rendimentos devidos que, nos termos do artigo 94.º ou noutros estabelecidos na lei, não foram objecto de retenção na fonte.\n\nArt. 2.º A lista a que se refere o n.º 2 do artigo 3.º do Código do Imposto sobre o Rendimento das Pessoas Singulares, aprovado pelo [Decreto-Lei n.º 442-A/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-a-1988-518992), de 30 de Novembro, passa a ter a seguinte composição:\n\nLista a que se refere o artigo 3.º do Código do IRS\n\n02 - Arquitectos, engenheiros e técnicos similares:\n\n0201 - Arquitectos;\n\n0202 - Construtores civis diplomados;\n\n0203 - Engenheiros;\n\n0204 - Engenheiros técnicos;\n\n0205 - Topógrafos;\n\n0206 - Desenhadores;\n\n0207 - Geólogos.\n\n03 - Artistas plásticos e assimilados, actores, músicos, jornalistas e repórteres:\n\n0301 - Pintores;\n\n0302 - Escultores;\n\n0303 - Decoradores;\n\n0304 - Outros artistas plásticos;\n\n0305 - Artistas de teatro, bailado, cinema, rádio e televisão;\n\n0306 - Artistas de circo;\n\n0307 - Músicos;\n\n0308 - Jornalistas e repórteres.\n\n04 - Artistas tauromáquicos:\n\n0401 - Toureiros e outros artistas tauromáquicos:\n\n05 - Economistas, contabilistas, actuários e técnicos similares:\n\n0501 - Economistas e consultores fiscais;\n\n0502 - Contabilistas, técnicos de contas e guarda-livros;\n\n0503 - Actuários.\n\n06 - Enfermeiros, parteiras e outros técnicos paramédicos:\n\n0601 - Enfermeiros;\n\n0602 - Nutricionistas;\n\n0603 - Parteiras;\n\n0604 - Outros técnicos paramédicos.\n\n07 - Juristas:\n\n0701 - Jurisconsultos;\n\n0702 - Advogados;\n\n0703 - Solicitadores.\n\n08 - Médicos e dentistas:\n\n0801 - Médicos analistas;\n\n0802 - Médicos de clínica geral;\n\n0803 - Médicos cirurgiões;\n\n0804 - Médicos estomatologistas;\n\n0805 - Médicos fisiatras;\n\n0806 - Médicos gastrenterologistas;\n\n0807 - Médicos oftalmologistas;\n\n0808 - Médicos otorrinolaringologistas;\n\n0809 - Médicos radiologistas;\n\n0810 - Médicos de outras especialidades;\n\n0811 - Médicos de bordo em navios;\n\n0812 - Médicos dentistas.\n\n0813 - Dentistas.\n\n10 - Profissionais dependentes de nomeação oficial:\n\n1001 - Revisores oficiais de contas.\n\n11 - Psicólogos e sociólogos:\n\n1101 - Psicólogos;\n\n1102 - Sociólogos.\n\n12 - Químicos:\n\n1201 - Analistas.\n\n13 - Sacerdotes:\n\n1301 - Sacerdotes de qualquer religião.\n\n14 - Veterinários:\n\n1401 - Veterinários.\n\n15 - Outras pessoas exercendo profissões liberais, técnicos e assimilados:\n\n1501 - Analistas de sistemas e programadores informáticos;\n\n1502 - Editores de obras de sua autoria;\n\n1503 - Peritos avaliadores;\n\n1504 - Astrólogos e parapsicólogos;\n\n1505 - Desportistas;\n\n1506 - Biólogos.\n\nArt. 3.º Os sujeitos passivos que, em virtude da alteração introduzida pela [Lei n.º 101/89](https://diariodarepublica.pt/dr/detalhe/lei/101-1989-590339), de 29 de Dezembro, ao n.º 3 do artigo 4.º do [Decreto-Lei n.º 442-A/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-a-1988-518992), de 30 de Novembro, passam a estar sujeitos a tributação devem, no prazo de 90 dias a contar da entrada em vigor do presente diploma, apresentar a declaração de inscrição a que se refere o artigo 105.º do Código do IRS.\n\nVisto e aprovado em Conselho de Ministros de 3 de Maio de 1990. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza.\n\nPromulgado em 25 de Maio de 1990.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 29 de Maio de 1990.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "fcdc2a3a35b0bee6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 95.º — Pagamentos por conta",
+   "in_force_from": "1990-07-01",
+   "changed_by": [
+    "Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1990-644099), publicado em 1990-07-31.",
+    "Alterado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1990-644099), publicado em 1990-07-31."
+   ],
+   "markdown": "###### Artigo 95.º — Pagamentos por conta\n\n1 - A titularidade de rendimentos das categorias B, C ou D determina, para os respectivos sujeitos passivos, a obrigatoriedade de efectuarem três pagamentos por conta do imposto devido a final no próprio ano a que os rendimentos respeitam, com vencimento no dia 20 de cada um dos meses de Julho, Outubro e Dezembro, que não sofre alteração, ainda que a liquidação se atrase por facto que lhes seja imputável.\n\n2 - Cada pagamento por conta é igual a 25% do montante calculado com base na fórmula seguinte, arredondado, por excesso, para escudos:\n\nC x (RLB + RLC + RLD)/RTL - R - D\n\nem que as siglas utilizadas têm o seguinte significado:\n\nC = colecta do ano imediatamente anterior, antes das deduções a que se refere o artigo 80.º;\n\nR = total das retenções efectuadas no ano anterior aos rendimentos das categorias B, C e D;\n\nD = dedução a que se refere o n.º 1 do artigo 80.º referente ao próprio ano a que os rendimentos respeitam;\n\nRLB, RLC e RLD = rendimento líquido positivo do ano anterior de cada uma das categorias B, C e D;\n\nRLT = rendimento líquido total do ano imediatamente anterior.\n\n3 - A obrigatoriedade de serem efectuados pagamentos por conta não se verificará quando:\n\na) O montante de cada um, calculado nos termos do n.º 2, seja inferior a 10000$00;\n\nb) Efectuado o primeiro, os sujeitos passivos verifiquem, pelos elementos de que disponham, que os montantes já pagos, acrescidos das retenções que tenham a mesma natureza efectuadas com referência aos mesmos rendimentos, no próprio ano, sejam iguais ou superiores ao imposto total que será devido;\n\nc) Deixem de ser auferidos rendimentos de todas as categorias que os tornam obrigatórios, excepto quando deixem de ser auferidos rendimentos de alguma delas, caso em que poderão ser proporcionalmente reduzidos.\n\n4 - Na cessação ou redução dos pagamentos por conta a que se referem as alíneas b) e c) do número anterior observar-se-á o seguinte:\n\na) Os sujeitos passivos remeterão ao serviço fiscal competente uma declaração, devidamente assinada e datada, até 15 dias antes do termo do prazo do respectivo pagamento, da qual devem obrigatoriamente constar os motivos da cessação ou redução dos pagamentos por conta;\n\nb) Uma vez declarada a cessação ou redução dos pagamentos por conta, não podem os sujeitos passivos retomá-los ou alterar o respectivo montante, sem prejuízo das sanções que a lei no caso cominar.\n\n5 - Verificando-se, pela declaração de rendimentos do ano a que respeita o imposto, que, em consequência da cessação ou redução dos pagamentos por conta, deixou de pagar-se uma importância superior a 20% da que, em condições normais, teria sido entregue, haverá lugar a juros compensatórios, liquidados nos termos do artigo 83.º, desde o termo do prazo em que cada pagamento deveria ter sido efectuado até à data em que por lei a liquidação deva ser feita.\n\n6 - Se o pagamento por conta a efectuar for superior à diferença entre o imposto total que os sujeitos passivos julgarem devido e os pagamentos já feitos, poderá aquele limitar-se a essa diferença, sendo de aplicar o disposto nos números anteriores, com as necessárias adaptações.\n\n> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1990-644099), publicado em 1990-07-31.\n\n> Alterado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1990-644099), publicado em 1990-07-31."
+  }
+ }
+}

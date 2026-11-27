@@ -38,10 +38,27 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1984-10-29'
+version_history:
+  file: decreto-regulamentar-33-83.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1983-04-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1984-10-29'
+    amending: pt:dre:423431:por
+    amending_title: Declaração; Decreto Regulamentar n.º 83/84
+    changes:
+    - Retifica Artigo 2.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
 identifiers:
   celex: null
   eli: null
@@ -67,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:07:23Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração; Decreto Regulamentar
+    n.º 83/84. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-regulamentares/1983/decreto-regulamentar-33-83.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -129,39 +147,57 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-Artigo 1.º Os valores das prestações pecuniárias fixadas no [Decreto Regulamentar n.º 25/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/25-1982-392817), de 5 de Maio, são alterados nos termos do presente diploma.
+###### Artigo 1.º
 
-Art. 2.º - 1 - O abono de família é atribuído nos montantes mensais seguintes:
+Os valores das prestações pecuniárias fixadas no [Decreto Regulamentar n.º 25/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/25-1982-392817), de 5 de Maio, são alterados nos termos do presente diploma.
 
-a) 1 descendente, 550$00;
+###### Artigo 2.º
 
-b) 2 descendentes, 1110$00;
+1 - O abono de família é atribuído nos montantes mensais seguintes:
 
-c) 3 descendentes, 1750$00;
+a) 1 descendente, 660$00;
 
-d) Por cada descendente a mais, 750$00.
+b) 2 descendentes, 1320$00;
 
-2 - O montante mensal do abono de família relativamente ao quarto descendente e seguintes será, porém, de 950$00 tratando-se de agregados familiares cujos rendimentos ilíquidos mensais sejam inferiores a uma vez e meia a remuneração mínima garantida à generalidade dos trabalhadores.
+c) 3 descendentes, 2100$00;
 
-Art. 3.º - 1 - O abono complementar a crianças e jovens deficientes é atribuído nos montantes mensais e dentro dos limites de idades seguintes:
+d) Por cada descendente a mais, 900$00.
 
-a) 1200$00, até aos 14 anos de idade;
+2 - O montante mensal do abono de família relativamente ao quarto descendente e seguintes será, porém, de 1140$00, tratando-se de agregados familiares cujos rendimentos ilíquidos mensais sejam inferiores a uma vez e meia a remuneração mínima garantida à generalidade dos trabalhadores.
 
-b) 1800$00, até aos 18 anos de idade;
+> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1983-423431), publicado em 1983-05-31.
 
-c) 2400$00, até aos 24 anos de idade.
+> Alterado pelo/a [Decreto Regulamentar n.º 83/84](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/83-1984-400222), publicado em 1984-10-24.
 
-2 - O subsídio mensal vitalício é concedido no montante mensal de 3000$00.
+###### Artigo 3.º
 
-Art. 4.º - 1 - O montante do subsídio de nascimento é de 7000$00.
+1 - O abono complementar a crianças e jovens deficientes é atribuído nos montantes mensais e dentro dos limites de idade seguintes:
 
-2 - O quantitativo mensal do subsídio de aleitação é de 1350$00.
+a) 1500$00, até aos 14 anos de idade;
 
-3 - O montante do subsídio de casamento é de 6000$00.
+b) 2250$00, até aos 18 anos de idade;
 
-4 - O montante do subsídio de funeral é de 8500$00.
+c) 3000$00, até aos 24 anos de idade.
 
-Art. 5.º O presente diploma entra em vigor em 1 de Junho de 1983.
+2 - O subsídio mensal vitalício é concedido no montante mensal de 3750$00.
+
+> Alterado pelo/a [Decreto Regulamentar n.º 83/84](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/83-1984-400222), publicado em 1984-10-24.
+
+###### Artigo 4.º
+
+1 - O montante do subsídio de nascimento é de 8400$00.
+
+2 - O quantitativo mensal do subsídio de aleitação é de 1600$00.
+
+3 - O montante do subsídio de casamento é de 7200$00.
+
+4 - O montante do subsídio de funeral é de 10200$00.
+
+> Alterado pelo/a [Decreto Regulamentar n.º 83/84](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/83-1984-400222), publicado em 1984-10-24.
+
+###### Artigo 5.º
+
+O presente diploma entra em vigor em 1 de Junho de 1983.
 
 Francisco José Pereira Pinto Balsemão - João Maurício Fernandes Salgueiro - Luís Eduardo da Silva Barbosa - José Manuel Meneres Sampaio Pimentel.
 

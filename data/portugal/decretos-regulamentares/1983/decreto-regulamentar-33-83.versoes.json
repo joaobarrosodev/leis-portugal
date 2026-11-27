@@ -1,0 +1,115 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:311837:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1983-04-22",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "181101a26dfdc313"
+   ]
+  },
+  {
+   "date": "1984-10-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:423431:por",
+     "title": "Declaração",
+     "published": "1983-05-31",
+     "dre_path": "/dr/detalhe/declaracao/1983-423431"
+    },
+    {
+     "id": "pt:dre:400222:por",
+     "title": "Decreto Regulamentar n.º 83/84",
+     "published": "1984-10-24",
+     "dre_path": "/dr/detalhe/decreto-regulamentar/83-1984-400222"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 2.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "226595f4fba8540e",
+    "988aa899de07c440",
+    "3d8ca55e8c409e78",
+    "2fd3794c3b4b1815",
+    "9e98cc6d85a4d17e",
+    "3a4e9a442c7185e0"
+   ]
+  }
+ ],
+ "fragments": {
+  "181101a26dfdc313": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 22 de Abril\n\nPelo presente diploma elevam-se, pelo quarto ano consecutivo, os montantes das prestações de compensação de encargos familiares, o que significa, na prática, a concretização do princípio da revisão anual das prestações, princípio que foi assumido pelos programas dos diversos governos desde 1980 e que tem sido fielmente cumprido.\n\nDeve acrescentar-se, ainda, que as actualizações agora determinadas para os vários regimes de segurança social, incluindo os da Administração Pública, são pelo menos equivalentes à taxa de inflação e, na maior parte dos casos, ultrapassam-na mesmo, assim se melhorando o poder de compra dos beneficiários, em ordem a garantir uma cobertura social mais eficiente no domínio das prestações familiares.\n\nNestes termos:\n\nO Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:\n\nArtigo 1.º Os valores das prestações pecuniárias fixadas no [Decreto Regulamentar n.º 25/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/25-1982-392817), de 5 de Maio, são alterados nos termos do presente diploma.\n\nArt. 2.º - 1 - O abono de família é atribuído nos montantes mensais seguintes:\n\na) 1 descendente, 550$00;\n\nb) 2 descendentes, 1110$00;\n\nc) 3 descendentes, 1750$00;\n\nd) Por cada descendente a mais, 750$00.\n\n2 - O montante mensal do abono de família relativamente ao quarto descendente e seguintes será, porém, de 950$00 tratando-se de agregados familiares cujos rendimentos ilíquidos mensais sejam inferiores a uma vez e meia a remuneração mínima garantida à generalidade dos trabalhadores.\n\nArt. 3.º - 1 - O abono complementar a crianças e jovens deficientes é atribuído nos montantes mensais e dentro dos limites de idades seguintes:\n\na) 1200$00, até aos 14 anos de idade;\n\nb) 1800$00, até aos 18 anos de idade;\n\nc) 2400$00, até aos 24 anos de idade.\n\n2 - O subsídio mensal vitalício é concedido no montante mensal de 3000$00.\n\nArt. 4.º - 1 - O montante do subsídio de nascimento é de 7000$00.\n\n2 - O quantitativo mensal do subsídio de aleitação é de 1350$00.\n\n3 - O montante do subsídio de casamento é de 6000$00.\n\n4 - O montante do subsídio de funeral é de 8500$00.\n\nArt. 5.º O presente diploma entra em vigor em 1 de Junho de 1983.\n\nFrancisco José Pereira Pinto Balsemão - João Maurício Fernandes Salgueiro - Luís Eduardo da Silva Barbosa - José Manuel Meneres Sampaio Pimentel.\n\nPromulgado em 8 de Abril de 1983.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nPromulgado em 8 de Abril de 1983.\n\nO Primeiro-Ministro, Francisco José Pereira Pinto Balsemão."
+  },
+  "226595f4fba8540e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 22 de Abril\n\nPelo presente diploma elevam-se, pelo quarto ano consecutivo, os montantes das prestações de compensação de encargos familiares, o que significa, na prática, a concretização do princípio da revisão anual das prestações, princípio que foi assumido pelos programas dos diversos governos desde 1980 e que tem sido fielmente cumprido.\n\nDeve acrescentar-se, ainda, que as actualizações agora determinadas para os vários regimes de segurança social, incluindo os da Administração Pública, são pelo menos equivalentes à taxa de inflação e, na maior parte dos casos, ultrapassam-na mesmo, assim se melhorando o poder de compra dos beneficiários, em ordem a garantir uma cobertura social mais eficiente no domínio das prestações familiares.\n\nNestes termos:\n\nO Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:"
+  },
+  "988aa899de07c440": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nOs valores das prestações pecuniárias fixadas no [Decreto Regulamentar n.º 25/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/25-1982-392817), de 5 de Maio, são alterados nos termos do presente diploma."
+  },
+  "3d8ca55e8c409e78": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": "1984-10-29",
+   "changed_by": [
+    "Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1983-423431), publicado em 1983-05-31.",
+    "Alterado pelo/a [Decreto Regulamentar n.º 83/84](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/83-1984-400222), publicado em 1984-10-24."
+   ],
+   "markdown": "###### Artigo 2.º\n\n1 - O abono de família é atribuído nos montantes mensais seguintes:\n\na) 1 descendente, 660$00;\n\nb) 2 descendentes, 1320$00;\n\nc) 3 descendentes, 2100$00;\n\nd) Por cada descendente a mais, 900$00.\n\n2 - O montante mensal do abono de família relativamente ao quarto descendente e seguintes será, porém, de 1140$00, tratando-se de agregados familiares cujos rendimentos ilíquidos mensais sejam inferiores a uma vez e meia a remuneração mínima garantida à generalidade dos trabalhadores.\n\n> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1983-423431), publicado em 1983-05-31.\n\n> Alterado pelo/a [Decreto Regulamentar n.º 83/84](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/83-1984-400222), publicado em 1984-10-24."
+  },
+  "2fd3794c3b4b1815": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": "1984-10-29",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Regulamentar n.º 83/84](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/83-1984-400222), publicado em 1984-10-24."
+   ],
+   "markdown": "###### Artigo 3.º\n\n1 - O abono complementar a crianças e jovens deficientes é atribuído nos montantes mensais e dentro dos limites de idade seguintes:\n\na) 1500$00, até aos 14 anos de idade;\n\nb) 2250$00, até aos 18 anos de idade;\n\nc) 3000$00, até aos 24 anos de idade.\n\n2 - O subsídio mensal vitalício é concedido no montante mensal de 3750$00.\n\n> Alterado pelo/a [Decreto Regulamentar n.º 83/84](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/83-1984-400222), publicado em 1984-10-24."
+  },
+  "9e98cc6d85a4d17e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": "1984-10-29",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Regulamentar n.º 83/84](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/83-1984-400222), publicado em 1984-10-24."
+   ],
+   "markdown": "###### Artigo 4.º\n\n1 - O montante do subsídio de nascimento é de 8400$00.\n\n2 - O quantitativo mensal do subsídio de aleitação é de 1600$00.\n\n3 - O montante do subsídio de casamento é de 7200$00.\n\n4 - O montante do subsídio de funeral é de 10200$00.\n\n> Alterado pelo/a [Decreto Regulamentar n.º 83/84](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/83-1984-400222), publicado em 1984-10-24."
+  },
+  "3a4e9a442c7185e0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nO presente diploma entra em vigor em 1 de Junho de 1983.\n\nFrancisco José Pereira Pinto Balsemão - João Maurício Fernandes Salgueiro - Luís Eduardo da Silva Barbosa - José Manuel Meneres Sampaio Pimentel.\n\nPromulgado em 8 de Abril de 1983.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nPromulgado em 8 de Abril de 1983.\n\nO Primeiro-Ministro, Francisco José Pereira Pinto Balsemão."
+  }
+ }
+}

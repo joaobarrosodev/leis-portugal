@@ -41,10 +41,35 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2013-06-04'
+version_history:
+  file: decreto-lei-204-97.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1997-08-09'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-06-04'
+    amending: pt:dre:513603:por
+    amending_title: Decreto-Lei n.º 71/2013
+    changes:
+    - Revoga Artigo 1.º
+    - Revoga Artigo 2.º
+    - Revoga Artigo 3.º
+    - Revoga Artigo 4.º
+    - Revoga Artigo 5.º
+    - Revoga Artigo 6.º
+    - Revoga Artigo 7.º
+    - Revoga Artigo 8.º
+    - Revoga Artigo 9.º
+    - Revoga Artigo 10.º
+    - Revoga Artigo 11.º
+    - Revoga Artigo 12.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/204/1997/08/09/p/dre/pt/html
@@ -70,7 +95,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:51:00Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 71/2013. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1997/decreto-lei-204-97.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -540,79 +566,75 @@ REGIME ESPECIAL DE EXIGIBILIDADE DO IMPOSTO SOBRE O VALOR ACRESCENTADO NAS EMPRE
 
 ###### Artigo 1.º
 
-Encontram-se abrangidas pelo Regime Especial de Exigibilidade do Imposto sobre o Valor Acrescentado as empreitadas e subempreitadas de obras públicas em que é dono da obra o Estado.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 71/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2013-513603), publicado em 2013-05-30.
 
 ###### Artigo 2.º
 
-Para efeitos do presente Regime Especial, entende-se por Estado a administração central e os seus serviços locais.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 71/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2013-513603), publicado em 2013-05-30.
 
 ###### Artigo 3.º
 
-1 - O imposto relativo às prestações de serviços a que se refere o artigo 1.º é exigível no momento do recebimento total ou parcial do preço, pelo montante recebido.
+(Revogado.)
 
-2 - Sem prejuízo do disposto no número anterior, relativamente às subempreitadas presume-se que o recebimento total do preço ocorre no último dia útil do mês seguinte àquele em que for efectuado o pagamento total da empreitada, o qual se tem por verificado ainda que existam montantes retidos a título de garantia.
-
-3 - O empreiteiro deve comunicar ao subempreiteiro a data do recebimento total do preço da empreitada, para efeitos do disposto no número anterior, não ficando a exigibilidade do imposto dependente daquela comunicação.
-
-4 - O imposto é ainda exigível quando o recebimento total ou parcial do preço preceda o momento da realização das operações tributáveis.
+> Revogado pelo/a [Decreto-Lei n.º 71/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2013-513603), publicado em 2013-05-30.
 
 ###### Artigo 4.º
 
-1 - Os sujeitos passivos podem optar pela aplicação das regras de exigibilidade do imposto previstas nos n.os 1 e 2 do artigo 8.º do Código do Imposto sobre o Valor Acrescentado às operações previstas no artigo 1.º
+(Revogado.)
 
-2 - A opção será exercida relativamente ao conjunto das operações referidas no artigo 1.º, mediante a apresentação de um requerimento na repartição de finanças da área da sede ou domicílio do sujeito passivo, o qual, uma vez deferido pelo director distrital de finanças, produzirá efeitos a partir do mês seguinte ao da data do deferimento.
-
-3 - Os requerimentos referidos no número anterior consideram-se tacitamente deferidos se a decisão não for notificada no prazo de 30 dias após a sua entrega na repartição de finanças.
-
-4 - Os sujeitos passivos poderão voltar a aplicar as regras de exigibilidade do imposto previstas neste Regime Especial, mediante a apresentação de um requerimento nesse sentido, sendo-lhe aplicável o disposto nos n.os 2 e 3.
+> Revogado pelo/a [Decreto-Lei n.º 71/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2013-513603), publicado em 2013-05-30.
 
 ###### Artigo 5.º
 
-Para efeitos da aplicação do disposto nos artigos 19.º e 20.º do Código do Imposto sobre o Valor de Acrescentado, o imposto respeitante às operações a que se refere o artigo 1.º só poderá ser deduzido desde que o sujeito passivo tenha na sua posse os recibos de pagamento referidos nos n.os 2 e 3 do artigo 7.º, passados em forma legal.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 71/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2013-513603), publicado em 2013-05-30.
 
 ###### Artigo 6.º
 
-1 - Para efeitos do n.º 1 do artigo 22.º do Código do Imposto sobre o Valor Acrescentado, o imposto exigível na situação prevista no n.º 2 do artigo 3.º só é dedutível no momento do pagamento efectivo do preço.
+(Revogado.)
 
-2 - A dedução do imposto exigível nos termos deste Regime Especial deverá ser efectuada na declaração do período em que se tiver verificado a recepção dos recibos de pagamento referidos nos n.os 2 e 3 do artigo 7.º
+> Revogado pelo/a [Decreto-Lei n.º 71/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2013-513603), publicado em 2013-05-30.
 
 ###### Artigo 7.º
 
-1 - As facturas relativas a operações abrangidas pelo artigo 1.º devem ser numeradas seguidamente numa série especial, convenientemente referenciada, e conter a menção «IVA exigível e dedutível no pagamento».
+(Revogado.)
 
-2 - No pagamento total ou parcial das facturas referidas no número anterior e nas situações referidas no n.º 4 do artigo 3.º é obrigatória a emissão de recibo pelos montantes recebidos, numa série convenientemente referenciada, devendo constar do mesmo a taxa de IVA aplicável e a referência à factura a que respeita o pagamento, quando for caso disso.
-
-3 - O disposto no número anterior é ainda aplicável relativamente às importâncias recebidas em data posterior à verificação da exigibilidade do imposto, nos termos do disposto no n.º 2 do artigo 3.º, devendo, nestes casos, ser mencionada no recibo a data em que ocorreu a exigibilidade
-
-4 - A data de emissão dos recibos a que se referem os n.os 2 e 3 deve coincidir sempre com a do pagamento, devendo o mesmo ser processado em duplicado, destinando-se o original ao cliente e a cópia ao arquivo do prestador dos serviços.
+> Revogado pelo/a [Decreto-Lei n.º 71/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2013-513603), publicado em 2013-05-30.
 
 ###### Artigo 8.º
 
-Nos pagamentos das prestações de serviços de empreitadas e subempreitadas de obras públicas e, bem assim, nos recebimentos previstos no n.º 4 do artigo 3.º, o imposto considera-se incluído no recibo a que se referem os n.os 2 e 3 do artigo anterior para efeitos da sua exigência aos adquirentes dos serviços.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 71/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2013-513603), publicado em 2013-05-30.
 
 ###### Artigo 9.º
 
-1 - Para efeitos do disposto no n.º 3 do artigo 44.º do Código do Imposto sobre o Valor Acrescentado, as operações abrangidas por este Regime Especial deverão ser registadas de forma a evidenciar:
+(Revogado.)
 
-a) O valor das operações a que se refere o n.º 1 do artigo 3.º, líquidas de imposto;
-
-b) O valor do imposto respeitante às operações mencionadas na alínea anterior, com relevação distinta do montante ainda não exigível.
-
-2 - O registo das operações mencionadas no número anterior deverá ser evidenciado de modo a permitir o cálculo do imposto devido em cada período respeitante aos montantes recebidos.
+> Revogado pelo/a [Decreto-Lei n.º 71/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2013-513603), publicado em 2013-05-30.
 
 ###### Artigo 10.º
 
-1 - Para efeitos do disposto no artigo 45.º do Código do Imposto sobre o Valor Acrescentado, as facturas e os recibos a que se referem os n.os 1, 2 e 3 do artigo 7.º serão numerados seguidamente, em uma ou mais séries, convenientemente referenciadas, devendo conservar-se na respectiva ordem os seus duplicados e, bem assim, todos os exemplares dos que tiverem sido anulados ou inutilizados, com os averbamentos indispensáveis à identificação daqueles que os substituíram, se for caso disso.
+(Revogado.)
 
-2 - A numeração dos documentos referidos no número anterior deve obedecer ao disposto no artigo 5.º do [Decreto-Lei n.º 198/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-1990-574957), de 16 de Junho.
+> Revogado pelo/a [Decreto-Lei n.º 71/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2013-513603), publicado em 2013-05-30.
 
 ###### Artigo 11.º
 
-A disciplina do Código do Imposto sobre o Valor Acrescentado será aplicável em tudo o que não se revelar contrário ao disposto no presente Regime.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 71/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2013-513603), publicado em 2013-05-30.
 
 ###### Artigo 12.º
 
-O presente Regime entra em vigor no dia 31 de Outubro de 1997.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 71/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2013-513603), publicado em 2013-05-30.
 
 Visto e aprovado em Conselho de Ministros de 19 de Junho de 1997. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco.
 

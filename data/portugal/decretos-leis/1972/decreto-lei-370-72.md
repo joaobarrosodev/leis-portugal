@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1976-09-27'
+version_history:
+  file: decreto-lei-370-72.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1972-09-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1976-09-27'
+    amending: pt:dre:408974:por
+    amending_title: Decreto-Lei n.º 698/76
+    changes:
+    - Altera Artigo único
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:23:58Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 698/76. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1972/decreto-lei-370-72.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -104,19 +119,19 @@ Verificando-se a necessidade de reajustar os efectivos da classe dos músicos da
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo único. Os efectivos da classe dos músicos da Armada fixados no mapa II anexo ao [Decreto-Lei n.º 48349](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48349-1968-234698), de 24 de Abril de 1968, passam a ser os seguintes:
+###### Artigo único
 
-Sargentos-ajudantes ... 2
+Os efectivos da classe dos músicos da Armada fixados no mapa II anexo ao [Decreto-Lei n.º 48349](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48349-1968-234698), de 24 de Abril de 1968, passam a ser os seguintes:
 
-Primeiros-sargentos e segundos-sargentos ... 68
+Sargentos-ajudantes - 3.
 
-Cabos ... 14
+Primeiros-sargentos e segundos-sargentos - 75.
 
-Marinheiros ... 4
+Cabos - 26.
 
-Primeiros-grumetes ... 4
+Primeiros-marinheiros - 8.
 
-... 92
+> Alterado pelo/a [Decreto-Lei n.º 698/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/698-1976-408974), publicado em 1976-09-27.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Horácio José de Sá Viana Rebelo - Manuel Artur Cotta Agostinho Dias - Manuel Pereira Crespo.
 

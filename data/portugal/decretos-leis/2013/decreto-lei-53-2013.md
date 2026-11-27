@@ -41,10 +41,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2013-10-31'
+version_history:
+  file: decreto-lei-53-2013.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2013-04-17'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-10-31'
+    amending: pt:dre:504726:por
+    amending_title: Decreto-Lei n.º 151/2013
+    changes:
+    - Altera Artigo ANEXO I — (a que se referem os artigos 4.º e 7.º)
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/53/2013/04/17/p/dre/pt/html
@@ -70,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T03:22:23Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 151/2013. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2013/decreto-lei-53-2013.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -452,15 +467,11 @@ Normas aplicáveis a tomadas de força da retaguarda das seguintes categorias de
 
 [(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07500/0223902248.pdf)
 
-II - Disposições aplicáveis a tomadas de força dianteiras
+II - Disposições relativas às tomadas de força dianteiras
 
-As especificações da norma ISO 8759-1:1998 são aplicáveis aos tratores com tomadas de força dianteiras, em conformidade com o quadro 2.
+As especificações da norma ISO 87591:1998, com exceção do ponto 4.2, são aplicáveis aos tratores de todas as categorias T e C equipados com tomadas de força dianteiras, tal como especificado nessa norma.
 
-QUADRO 2
-
-Normas aplicáveis a tomadas de força dianteiras das seguintes categorias de tratores
-
-[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07500/0223902248.pdf)
+> Alterado pelo/a [Decreto-Lei n.º 151/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2013-504726), publicado em 2013-10-30.
 
 ## ANEXO II — (a que se referem os artigos 5.º e 6.º)
 

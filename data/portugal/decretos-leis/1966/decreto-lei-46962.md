@@ -30,10 +30,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1967-02-17'
+version_history:
+  file: decreto-lei-46962.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1966-04-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1967-02-17'
+    amending: pt:dre:504371:por
+    amending_title: Decreto-Lei n.º 47541
+    changes:
+    - Retifica Artigo único
 identifiers:
   celex: null
   eli: null
@@ -59,7 +73,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T21:56:46Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 47541. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1966/decreto-lei-46962.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -113,7 +128,11 @@ Tornando-se necessário harmonizar o § 1.º do artigo 68.º do Estatuto do Ofic
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer com lei, o seguinte:
 
-Artigo único. Os alferes-alunos do curso transitório de engenharia militar que terminaram em 1965 o curso da Academia Militar são promovidos a tenentes-alunos no início do tirocínio, contando a antiguidade de tenente desde 1 de Dezembro de 1965.
+###### Artigo único
+
+Os alferes-alunos do curso transitório de engenharia militar que terminaram em 1965 o curso da Academia Militar são promovidos a tenentes-alunos no início do tirocínio, contando a antiguidade de tenente desde 1 de Dezembro de 1964.
+
+> Retificado pelo/a [Decreto-Lei n.º 47541](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47541-1967-504371), publicado em 1967-02-17.
 
 Publique-se e cumpra-se como nele se contém.
 

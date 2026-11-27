@@ -1,0 +1,135 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:540386:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2006-08-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "cb302afa2df77bbf",
+    "f1069b894c519cc3",
+    "d5277417bfff1235",
+    "951cec5f0b84d3d9",
+    "742ba698bec99f31",
+    "8fa1bd91934e5860",
+    "70ac0daa5742a2d2",
+    "ee788f0993d59ac3"
+   ]
+  },
+  {
+   "date": "2008-04-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:249569:por",
+     "title": "Decreto Legislativo Regional n.º 9/2008/A",
+     "published": "2008-04-28",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/9-2008-249569"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/2006/08/16700/63856387.pdf)"
+   ],
+   "fragments": [
+    "cb302afa2df77bbf",
+    "f1069b894c519cc3",
+    "4a28308834bb4d7f",
+    "951cec5f0b84d3d9",
+    "742ba698bec99f31",
+    "8fa1bd91934e5860",
+    "70ac0daa5742a2d2",
+    "7fc06790e3e1de71"
+   ]
+  }
+ ],
+ "fragments": {
+  "cb302afa2df77bbf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Sujeita a medidas preventivas os terrenos envolventes ao Aeroporto de Santa Maria\n\nNa Região Autónoma dos Açores, a eliminação ou redução efectiva das desvantagens estruturais existentes está dependente do esforço de promoção do investimento como factor de valorização das potencialidades económicas, do crescimento sustentado da economia local e do reforço da coesão económica e social.\n\nNas áreas abrangidas pelo presente diploma, será implementado um conjunto de infra-estruturas essenciais ao desenvolvimento da ilha de Santa Maria, mostrando-se conveniente e urgente que sejam decretadas medidas preventivas para a referida zona, por forma a evitar que a alteração indiscriminada das circunstâncias e condições existentes crie dificuldades à futura execução de tais infra-estruturas.\n\nAssim, a Assembleia Legislativa da Região Autónoma dos Açores, nos termos da alínea a) do n.º 1 do artigo 227.º, conjugada com o n.º 4 do artigo 112.º, da Constituição da República Portuguesa e das alíneas g) do artigo 8.º e c) do n.º 1 do artigo 31.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, decreta o seguinte:"
+  },
+  "f1069b894c519cc3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma tem como objecto estabelecer medidas preventivas destinadas nas áreas envolventes ao Aeroporto de Santa Maria, destinadas à implementação de infra-estruturas necessárias ao desenvolvimento desta ilha."
+  },
+  "d5277417bfff1235": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\nA zona referida no artigo anterior é definida pela área assinalada nas plantas anexas ao presente diploma, do qual fazem parte integrante, num total de 660,65 ha."
+  },
+  "951cec5f0b84d3d9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Sujeição a medidas preventivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Sujeição a medidas preventivas\n\n1 - Durante o prazo de dois anos, fica dependente de prévia autorização do departamento do Governo Regional com competência em matéria do ordenamento do território, sem prejuízo de quaisquer outros condicionalismos legalmente exigidos, a prática, na área definida nas plantas anexas a este diploma, dos actos ou actividades seguintes:\n\na) Criação de novos núcleos habitacionais;\n\nb) Construção, reconstrução ou ampliação de edifícios ou de outras instalações;\n\nc) Instalação de explorações ou ampliação das já existentes;\n\nd) Alterações importantes, por meio de aterros ou escavações, à configuração geral do terreno;\n\ne) Derrube de árvores em maciço, com qualquer área;\n\nf) Destruição do solo vivo e do coberto vegetal;\n\ng) Quaisquer outras actividades ou trabalhos que afectem a integridade e ou características da área delimitada.\n\n2 - O período fixado no número anterior não prejudica a respectiva prorrogação, quando tal se mostre necessário, por prazo não superior a um ano."
+  },
+  "742ba698bec99f31": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Regime supletivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Regime supletivo\n\nÀs medidas preventivas estabelecidas por este diploma aplicam-se, supletivamente, as disposições constantes do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro."
+  },
+  "8fa1bd91934e5860": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Fiscalização e publicidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Fiscalização e publicidade\n\nÉ competente para promover o cumprimento das medidas estabelecidas neste diploma e de proceder em conformidade com o disposto no artigo 12.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, o departamento do Governo Regional com competência em matéria do ordenamento do território, que as publicitará junto das entidades públicas ou privadas directamente envolvidas na sua aplicação."
+  },
+  "70ac0daa5742a2d2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação.\n\nAprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 29 de Junho de 2006.\n\nO Presidente da Assembleia Legislativa, Fernando Manuel Machado Menezes.\n\nAssinado em Angra do Heroísmo em 16 de Agosto de 2006.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma dos Açores, José António Mesquita."
+  },
+  "ee788f0993d59ac3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/2006/08/16700/63856387.pdf)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/2006/08/16700/63856387.pdf)"
+  },
+  "4a28308834bb4d7f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": "2008-04-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 9/2008/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2008-249569), publicado em 2008-04-28."
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito\n\nA zona referida no artigo anterior é definida pela área assinalada na planta anexa ao presente diploma, do qual faz parte integrante.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 9/2008/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2008-249569), publicado em 2008-04-28."
+  },
+  "7fc06790e3e1de71": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/2008/04/08200/0243402435.pdf)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/2008/04/08200/0243402435.pdf)"
+  }
+ }
+}

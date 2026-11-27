@@ -1,0 +1,86 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:70373436:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2015-09-24",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "038f4fb3d503764c",
+    "e0ca36994de5043e",
+    "dd05d5384762c005",
+    "fe51a44195475b1f"
+   ]
+  },
+  {
+   "date": "2015-09-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:70716379:por",
+     "title": "Declaração de Retificação n.º 46/2015",
+     "published": "2015-10-16",
+     "dre_path": "/dr/detalhe/declaracao-retificacao/46-2015-70716379"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "038f4fb3d503764c",
+    "e0ca36994de5043e",
+    "878fe1d0396ca6eb",
+    "fe51a44195475b1f"
+   ]
+  }
+ ],
+ "fragments": {
+  "038f4fb3d503764c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 24 de setembro\n\nO [Decreto-Lei n.º 181/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/181-2012-178993), de 6 de agosto, veio regular as condições de acesso e de exercício da atividade de aluguer de veículos de passageiros sem condutor, também designada por atividade de rent-a-car, por pessoas singulares ou coletivas estabelecidas em território nacional.\n\nEntre os vários princípios orientadores deste regime foram estabelecidas algumas normas tendentes a garantir que os contratos de aluguer de veículos se regem por uma maior transparência e maior proteção do locatário face ao locador. Neste âmbito, passou a prever-se, no n.º 7 do artigo 9.º do referido decreto-lei, um conjunto de cláusulas proibidas e nulas, não incluídas no regime do [Decreto-Lei n.º 446/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/446-1985-177869), de 25 de outubro, alterado pelos [Decretos-Leis n.os 220/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/220-1995-548467), de 31 de agosto, [249/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1999-374617), de 7 de julho, e [323/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-2001-540216), de 17 de dezembro, por se considerarem desequilibradas e prejudiciais para o locatário.\n\nTendo aquele decreto-lei entrado em vigor 180 dias após a sua publicação, o mesmo previa no n.º 1 do artigo 25.º um período transitório de um ano durante o qual as empresas titulares de alvará para o exercício da atividade de rent-a-car, obtido antes da entrada em vigor do novo regime deviam conformar-se com as disposições resultantes deste, nomeadamente eliminando as cláusulas proibidas por força no mencionado n.º 7 do artigo 9.º dos seus contratos. Não obstante, expirado esse período transitório, verificou-se que a proibição resultante da alínea c) do n.º 7 do artigo 9.º, respeitante à cobrança de taxas pelo reabastecimento do veículo pelo locador, ao invés de equilibrar as relações entre este e o locatário, prejudica-o gravemente.\n\nPor um lado, o reabastecimento do veículo não acarreta apenas custos ao nível do combustível, implicando também custos referentes à afetação de recursos humanos e deslocação do veículo, os quais não devem ser suportados pelo locador. Outrossim, após uma análise de direito comparado a outros ordenamentos jurídicos da União Europeia e do Espaço Económico Europeu, verifica-se que essa taxa é legal e prática corrente nas empresas desses Estados, implicando assim que as pessoas singulares ou coletivas que exercem a atividade de aluguer de veículos de passageiros sem condutor em território nacional se encontram numa situação de clara desvantagem competitiva face às suas congéneres europeias. Atenta esta factualidade, revoga-se agora essa proibição.\n\nOutrossim, no que concerne ao requisito correspondente ao número mínimo de veículos, o referido decreto-lei prevê atualmente, no n.º 2 do artigo 4.º, que o requerente possua, pelo menos, sete automóveis ligeiros de passageiros, ou três motociclos, triciclos ou quadriciclos. Considerando que os requisitos de acesso à atividade devem ser verificados previamente ao pedido de autorização, tal significa que o requerente se vê na obrigação de adquirir as viaturas para o exercício da atividade de aluguer sem condutor em momento anterior à própria autorização para exercer a atividade ser concedida, daqui resultando entraves significativos às empresas que pretendem iniciar o exercício da atividade, o que obstaculiza um processo de licenciamento mais fácil e expedito, a par de um período de paralisação das viaturas correspondente ao tempo em que se está a aguardar a autorização administrativa.\n\nAdemais, promove-se a harmonização dos limites mínimo e máximo da coima aplicável em caso de estacionamento na via pública de veículos afetos à atividade de rent-a-car com o consignado no artigo 50.º do Código da Estrada.\n\nPor último, atentas as múltiplas situações em que um veículo afeto ao aluguer sem condutor necessita de circular fora do âmbito do contrato de aluguer, sendo as situações mais frequentes a deslocação para entrega ao locatário, lavagem, limpeza, abastecimento, reparação ou manutenção do veículo, consagra-se a emissão de um documento de identificação específico para trabalhadores ou representantes da empresa, de utilização obrigatória aquando da circulação do veículo fora do contrato de aluguer, de modo que sempre que seja solicitado o contrato de aluguer e o condutor apresente esse documento, fique comprovado que o veículo não se encontra locado naquele momento.\n\nFoi ouvida, a título facultativo, a ARAC - Associação dos Industriais de Aluguer de Automóveis sem Condutor.\n\nFoi promovida a audição do Conselho Nacional do Consumo.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "e0ca36994de5043e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei procede à primeira alteração ao [Decreto-Lei n.º 181/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/181-2012-178993), de 6 de agosto, que regula as condições de acesso e de exercício da atividade de aluguer de veículos de passageiros sem condutor, também designada por atividade de rent-a-car, por pessoas singulares ou coletivas estabelecidas em território nacional."
+  },
+  "dd05d5384762c005": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Alteração ao [Decreto-Lei n.º 181/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/181-2012-178993), de 6 de agosto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Alteração ao [Decreto-Lei n.º 181/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/181-2012-178993), de 6 de agosto\n\nOs artigos 4.º, 9.º, 15.º e 18.º do [Decreto-Lei n.º 181/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/181-2012-178993), de 6 de agosto, passam a ter a seguinte redação:\n\n«Artigo 4.º\n\n[...]\n\n1 - [...].\n\n2 - [...].\n\n3 - [...].\n\n4 - [...].\n\n5 - Caso se verifique que o requerente preenche todos os requisitos, à exceção do número mínimo de veículos, deve o IMT, I. P., conceder a permissão administrativa a título provisório, pelo período de nove meses, convertendo-se automaticamente em definitiva na data da notificação pelo requerente ao IMT, I. P., dos veículos a utilizar na atividade, em conformidade com o disposto nos n.os 2 e 3.\n\n6 - O IMT, I. P., deve notificar o requerente da concessão da permissão administrativa a título provisório, no prazo definido no n.º 2 do artigo anterior, com a menção de que a falta de notificação por parte do requerente dos veículos a utilizar no prazo de nove meses determina a revogação imediata da permissão administrativa.\n\nArtigo 9.º\n\n[...]\n\n1 - [...].\n\n2 - [...].\n\n3 - [...]:\n\na) [...]\n\nb) [...]\n\nc) [...]\n\nd) [...]\n\ne) [...]\n\nf) A data e local do início e fim do aluguer, bem como as condições a observar pelo locatário aquando da entrega do veículo no termo do contrato, com menção clara de que a devolução do veículo com nível de combustível inferior ao que tinha à data do seu levantamento pode implicar a cobrança de determinado valor a fixar de acordo com o n.º 9;\n\ng) [...].\n\n4 - [...].\n\n5 - [...].\n\n6 - [...].\n\n7 - [...]:\n\na) [...]\n\nb) [...]\n\nc) (Revogada.)\n\nd) [...]\n\ne) [...]\n\nf) [...].\n\n8 - Nos casos em que o locatário devolva o veículo com o nível de combustível inferior àquele que tinha à data do seu levantamento, o locador pode cobrar um valor fixado de acordo com o princípio da proporcionalidade, que não ultrapasse a média dos custos incorridos pelo locador para o reabastecimento dos veículos, devendo a média ser calculada, em cada estabelecimento, tendo por base os custos relativos à afetação de recursos humanos e à deslocação do veículo para o reabastecimento.\n\nArtigo 15.º\n\n[...]\n\n1 - [...].\n\n2 - [...].\n\n3 - [...].\n\n4 - [...].\n\n5 - Sempre que o veículo circule na via pública fora do âmbito de um contrato de aluguer, o condutor deverá ser portador de documento de identificação dos trabalhadores ou representantes legais da empresa emitido pelas associações nacionais de empregadores representativas do sector, em termos a definir por deliberação do conselho diretivo do IMT, I. P.\n\nArtigo 18.º\n\n[...]\n\n1 - [...].\n\n2 - [...].\n\n3 - [...]:\n\na) [...]\n\nb) (Revogada.)\n\nc) [...]\n\nd) [...]\n\ne) [...]\n\nf) [...]\n\ng) [...]\n\nh) [...]\n\ni) [...]\n\nj) A cobrança do valor pelo reabastecimento do veículo sem observância dos critérios de cálculo referidos no n.º 9 do artigo 9.º\n\n4 - É sancionado com coima de (euro) 60 a (euro) 150, no caso de pessoas singulares ou coletivas, o estacionamento na via pública, fora dos locais especialmente fixados para o efeito, de veículos afetos à atividade de rent-a-car, quando não alugados, em infração ao disposto no n.º 4 do artigo 6.º»"
+  },
+  "fe51a44195475b1f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Norma revogatória\n\nSão revogadas a alínea c) do n.º 7 do artigo 9.º e a alínea b) do n.º 3 do artigo 18.º do [Decreto-Lei n.º 181/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/181-2012-178993), de 6 de agosto.\n\nVisto e aprovado em Conselho de Ministros de 13 de agosto de 2015. - Paulo Sacadura Cabral Portas - Maria Luís Casanova Morgado Dias de Albuquerque - Leonardo Bandeira de Melo Mathias.\n\nPromulgado em 17 de setembro de 2015.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 20 de setembro de 2015.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  },
+  "878fe1d0396ca6eb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Alteração ao [Decreto-Lei n.º 181/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/181-2012-178993), de 6 de agosto",
+   "in_force_from": "2015-09-29",
+   "changed_by": [
+    "Alterado pelo/a [Declaração de Retificação n.º 46/2015](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/46-2015-70716379), publicado em 2015-10-16."
+   ],
+   "markdown": "###### Artigo 2.º — Alteração ao [Decreto-Lei n.º 181/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/181-2012-178993), de 6 de agosto\n\nOs artigos 4.º, 9.º, 15.º e 18.º do [Decreto-Lei n.º 181/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/181-2012-178993), de 6 de agosto, passam a ter a seguinte redação:\n\n«Artigo 4.º\n\n[...]\n\n1 - [...].\n\n2 - [...].\n\n3 - [...].\n\n4 - [...].\n\n5 - Caso se verifique que o requerente preenche todos os requisitos, à exceção do número mínimo de veículos, deve o IMT, I. P., conceder a permissão administrativa a título provisório, pelo período de nove meses, convertendo-se automaticamente em definitiva na data da notificação pelo requerente ao IMT, I. P., dos veículos a utilizar na atividade, em conformidade com o disposto nos n.os 2 e 3.\n\n6 - O IMT, I. P., deve notificar o requerente da concessão da permissão administrativa a título provisório, no prazo definido no n.º 2 do artigo anterior, com a menção de que a falta de notificação por parte do requerente dos veículos a utilizar no prazo de nove meses determina a revogação imediata da permissão administrativa.\n\nArtigo 9.º\n\n[...]\n\n1 - [...].\n\n2 - [...].\n\n3 - [...]:\n\na) [...]\n\nb) [...]\n\nc) [...]\n\nd) [...]\n\ne) [...]\n\nf) A data e local do início e fim do aluguer, bem como as condições a observar pelo locatário aquando da entrega do veículo no termo do contrato, com menção clara de que a devolução do veículo com nível de combustível inferior ao que tinha à data do seu levantamento pode implicar a cobrança de determinado valor a fixar de acordo com o n.º 9;\n\ng) [...].\n\n4 - [...].\n\n5 - [...].\n\n6 - [...].\n\n7 - [...]:\n\na) [...]\n\nb) [...]\n\nc) (Revogada.)\n\nd) [...]\n\ne) [...]\n\nf) [...].\n\n8 - Nos casos em que o locatário devolva o veículo com o nível de combustível inferior àquele que tinha à data do seu levantamento, o locador pode cobrar um valor fixado de acordo com o princípio da proporcionalidade, que não ultrapasse a média dos custos incorridos pelo locador para o reabastecimento dos veículos, devendo a média ser calculada, em cada estabelecimento, tendo por base os custos relativos à afetação de recursos humanos e à deslocação do veículo para o reabastecimento.\n\nArtigo 15.º\n\n[...]\n\n1 - [...].\n\n2 - [...].\n\n3 - [...].\n\n4 - [...].\n\n5 - Sempre que o veículo circule na via pública fora do âmbito de um contrato de aluguer, o condutor deverá ser portador de documento de identificação dos trabalhadores ou representantes legais da empresa emitido pelas associações nacionais de empregadores representativas do sector, em termos a definir por deliberação do conselho diretivo do IMT, I. P.\n\nArtigo 18.º\n\n[...]\n\n1 - [...].\n\n2 - [...].\n\n3 - [...]:\n\na) [...]\n\nb) (Revogada.)\n\nc) [...]\n\nd) [...]\n\ne) [...]\n\nf) [...]\n\ng) [...]\n\nh) [...]\n\ni) [...]\n\nj) A cobrança do valor pelo reabastecimento do veículo sem observância dos critérios de cálculo referidos no n.º 8 do artigo 9.º\n\n4 - É sancionado com coima de (euro) 60 a (euro) 150, no caso de pessoas singulares ou coletivas, o estacionamento na via pública, fora dos locais especialmente fixados para o efeito, de veículos afetos à atividade de rent-a-car, quando não alugados, em infração ao disposto no n.º 4 do artigo 6.º»\n\n> Alterado pelo/a [Declaração de Retificação n.º 46/2015](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/46-2015-70716379), publicado em 2015-10-16."
+  }
+ }
+}

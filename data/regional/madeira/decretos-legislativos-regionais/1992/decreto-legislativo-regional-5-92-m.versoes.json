@@ -1,0 +1,126 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:176773:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1992-03-20",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "fe0deeb3e6539e40",
+    "91d1129e5af13665",
+    "820486f378d6075b",
+    "c2075bc5e9528c07",
+    "b3589103d8a63da3",
+    "3b8961af93177134",
+    "b27162bc7644234e",
+    "33880e10a24fd22e"
+   ]
+  },
+  {
+   "date": "2010-03-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:611495:por",
+     "title": "Decreto Legislativo Regional n.º 3/2010/M",
+     "published": "2010-03-19",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/3-2010-611495"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "fe0deeb3e6539e40",
+    "91d1129e5af13665",
+    "382b2c1d57d23a5b",
+    "c2075bc5e9528c07",
+    "b3589103d8a63da3",
+    "3b8961af93177134",
+    "b27162bc7644234e",
+    "33880e10a24fd22e"
+   ]
+  }
+ ],
+ "fragments": {
+  "fe0deeb3e6539e40": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Adapta à Região Autónoma da Madeira o novo regime jurídico de regularização das dívidas a segurança social, aprovado pelo [Decreto-Lei n.º 411/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/411-1991-288977), de 17 de Outubro.\n\nO [Decreto-Lei n.º 411/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/411-1991-288977), de 17 de Outubro, instituiu o novo regime jurídico de regularização das dívidas à segurança social.\n\nConsiderando que aquele diploma legal não contemplou as especificidades regionais, máxime as da sua realidade económica, cuja estrutura é fundamentalmente suportada pelo sector dos serviços, pequena indústria e pequeno comércio e as decorrentes da regionalização dos serviços de segurança social, procede-se agora à sua aplicação e adaptação à Região Autónoma da Madeira.\n\nNeste contexto, para além da adequação do diploma à estrutura orgânica dos serviços regionais de segurança social, introduz-se um alargamento do leque das situações excepcionais previstas no artigo 2.º do citado Decerto-Lei n.º 411/91, de 17 de Outubro, por forma a abranger as empresas, pessoas colectivas de utilidade pública e organismos públicos da administração regional autónoma que apresentem dificuldades de ordem económica e financeira.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 229.º da Constituição e da alínea c) do n.º 1 do artigo 29.º da [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de Junho, a Assembleia Legislativa Regional decreta o seguinte:"
+  },
+  "91d1129e5af13665": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Aplicação\n\nÉ aplicado à Região Autónoma da Madeira o [Decreto-Lei n.º 411/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/411-1991-288977), de 17 de Outubro, que estabelece o novo regime jurídico de regularização das dívidas à segurança social, com as especificidades a seguir indicadas."
+  },
+  "820486f378d6075b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Situações excepcionais para a regularização da dívida",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Situações excepcionais para a regularização da dívida\n\n1 - A regularização da dívida ao Centro de Segurança Social da Madeira pode ser autorizada se tal se revelar indispensável para assegurar a viabilidade da empresa devedora e se esta se encontrar numa das seguintes situações:\n\na) For declarada em situação económica difícil, nos termos do [Decreto-Lei n.º 353-H/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-h-1977-240853), de 29 de Agosto;\n\nb) For objecto de processo especial de recuperação de empresas e de protecção dos credores, nos termos dos Decretos-Leis n.os [177/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-1986-228619), de 2 de Julho, e [10/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-1990-313858), de 5 de Janeiro;\n\nc) Estiver inserida em sector ou subsector com relevância económica e social, declarado em reestruturação, ao abrigo do [Decreto-Lei n.º 251/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1986-219119), de 25 de Agosto;\n\nd) Tiver sido objecto de ocupação, autogestão ou intervenção;\n\ne) Apresente uma estrutura financeira desequilibrada, mas demonstre que, corrigidas as assimetrias dessa estrutura, pode atingir uma situação de viabilidade, desde que reúna as condições seguintes:\n\n1.ª Desenvolva a sua actividade em sector ou subsector com relevância económica e social, atendendo, designadamente, ao volume de emprego e à contribuição para a economia e desenvolvimento regionais;\n\n2.ª Tenha retomado e mantenha o pagamento das contribuições mensais há, pelo menos, três meses ou proceda ao seu pagamento acrescido de juros de mora, calculados à taxa estabelecida para as dívidas de impostos ao Estado e aplicada da mesma forma.\n\n2 - A autorização a que se refere o número anterior é feita por despacho do membro do Governo Regional que tiver a seu cargo a área da segurança social.\n\n3 - Para efeitos do disposto no n.º 1 devem as empresas que pretendam regularizar a sua dívida apresentar um estudo económico-financeiro que demonstre a indispensabilidade das medidas pretendidas para a sua viabilidade.\n\n4 - A primeira condição estabelecida na alínea e) do n.º 1 deve ser comprovada por parecer favorável do secretário regional da tutela.\n\n5 - A instituição credora pode exigir, complementarmente, à empresa devedora a realização de estudos de viabilização por entidade que considerar idónea.\n\n6 - Por resolução do Conselho do Governo Regional, poderão ser aprovadas medidas excepcionais de regularização de dívidas à segurança social, por parte de pessoas colectivas de utilidade pública e organismos públicos da administração regional e local, quando estejam em causa relevantes interesses regionais.\n\n7 - A aprovação das medidas excepcionais referidas no número anterior será sempre precedida de parecer do secretário regional da tutela do respectivo sector."
+  },
+  "c2075bc5e9528c07": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Arrematação em hasta pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Arrematação em hasta pública\n\n1 - Os bens imóveis adquiridos pelo Centro de Segurança Social da Madeira por arrematação em hasta pública integram o respectivo património, devendo ser transferidos para a sua titularidade.\n\n2 - O Centro de Segurança Social da Madeira, quando seja arrematante em hasta pública de bens imobiliários, não está sujeito à obrigação do depósito do preço nem à obrigação de pagar as despesas da praça."
+  },
+  "b3589103d8a63da3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Depósito de importâncias pagas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Depósito de importâncias pagas\n\n1 - As importâncias pagas pelos executados em processo de execução fiscal e devidas ao Centro de Segurança Social da Madeira, quando exequente, são mensalmente depositadas à sua ordem na Caixa Geral de Depósitos.\n\n2 - As importâncias do produto da venda judicial de bens que competem ao Centro de Segurança Social da Madeira na qualidade de credor preferencial são mensalmente depositadas à sua ordem na Caixa Geral de Depósitos."
+  },
+  "3b8961af93177134": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Dação em cumprimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Dação em cumprimento\n\nA avaliação dos bens móveis ou imóveis objecto da dação em pagamento proposta ao Centro de Segurança Social da Madeira será efectuada na Região Autónoma da Madeira pela Secretaria Regional do Equipamento Social, departamento do Governo Regional a quem é atribuída tal competência."
+  },
+  "b27162bc7644234e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Competências orgânicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Competências orgânicas\n\nAs referências feitas no [Decreto-Lei n.º 411/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/411-1991-288977), de 17 de Outubro, ao Instituto de Gestão Financeira da Segurança Social e ao membro do Governo que tiver a seu cargo a área da segurança social devem considerar-se reportadas na Região Autónoma da Madeira, respectivamente, ao Centro de Segurança Social da Madeira e ao membro do Governo Regional que venha a exercer a tutela na área da segurança social."
+  },
+  "33880e10a24fd22e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Entrada em vigor\n\nO presente diploma entra em vigor na mesma data da entrada em vigor do [Decreto-Lei n.º 411/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/411-1991-288977), de 17 de Outubro.\n\nAprovado em sessão plenária de 11 de Fevereiro de 1992.\n\nO Presidente da Assembleia Legislativa Regional, Jorge Nélio Praxedes Ferraz Mendonça.\n\nAssinado em 4 de Março de 1992.\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado."
+  },
+  "382b2c1d57d23a5b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Situações excepcionais para a regularização da dívida",
+   "in_force_from": "2010-03-20",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Legislativo Regional n.º 3/2010/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2010-611495), publicado em 2010-03-19."
+   ],
+   "markdown": "###### Artigo 2.º — Situações excepcionais para a regularização da dívida\n\n1 - A regularização da dívida ao Centro de Segurança Social da Madeira pode ser autorizada se tal se revelar indispensável para assegurar a viabilidade da empresa devedora e se esta se encontrar numa das seguintes situações:\n\na) For declarada em situação económica difícil, nos termos do [Decreto-Lei n.º 353-H/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-h-1977-240853), de 29 de Agosto;\n\nb) For objecto de processo especial de recuperação de empresas e de protecção dos credores, nos termos dos Decretos-Leis n.os [177/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-1986-228619), de 2 de Julho, e [10/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-1990-313858), de 5 de Janeiro;\n\nc) Estiver inserida em sector ou subsector com relevância económica e social, declarado em reestruturação, ao abrigo do [Decreto-Lei n.º 251/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1986-219119), de 25 de Agosto;\n\nd) Tiver sido objecto de ocupação, autogestão ou intervenção;\n\ne) Apresente uma estrutura financeira desequilibrada, mas demonstre que, corrigidas as assimetrias dessa estrutura, pode atingir uma situação de viabilidade, desde que reúna as condições seguintes:\n\n1.ª Desenvolva a sua actividade em sector ou subsector com relevância económica e social, atendendo, designadamente, ao volume de emprego e à contribuição para a economia e desenvolvimento regionais;\n\n2.ª (Revogada.)\n\n2 - A autorização a que se refere o número anterior é feita por despacho do membro do Governo Regional que tiver a seu cargo a área da segurança social.\n\n3 - Para efeitos do disposto no n.º 1 devem as empresas que pretendam regularizar a sua dívida apresentar um estudo económico-financeiro que demonstre a indispensabilidade das medidas pretendidas para a sua viabilidade.\n\n4 - A primeira condição estabelecida na alínea e) do n.º 1 deve ser comprovada por parecer favorável do secretário regional da tutela.\n\n5 - A instituição credora pode exigir, complementarmente, à empresa devedora a realização de estudos de viabilização por entidade que considerar idónea.\n\n6 - Por resolução do Conselho do Governo Regional, poderão ser aprovadas medidas excepcionais de regularização de dívidas à segurança social, por parte de pessoas colectivas de utilidade pública e organismos públicos da administração regional e local, quando estejam em causa relevantes interesses regionais.\n\n7 - A aprovação das medidas excepcionais referidas no número anterior será sempre precedida de parecer do secretário regional da tutela do respectivo sector.\n\n> Alterado pelo/a [Decreto Legislativo Regional n.º 3/2010/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2010-611495), publicado em 2010-03-19."
+  }
+ }
+}

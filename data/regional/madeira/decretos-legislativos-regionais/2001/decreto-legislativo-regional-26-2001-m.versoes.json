@@ -1,0 +1,211 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:515634:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2001-08-25",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "ab221cf077a77c13",
+    "6b3553b87626e03b",
+    "728170a5d047c6cf",
+    "24186d2fd7e087f6",
+    "363b7ee9b1697478",
+    "708761bf37005fe6",
+    "cff75a1fab0821d4",
+    "7770b41f074fe216",
+    "2d8b390a4441b908",
+    "b48a0640f24b7ba7",
+    "34962941a4d1c4e9",
+    "3f10e056f50c45b1",
+    "a2d46be865f4089e"
+   ]
+  },
+  {
+   "date": "2003-07-24",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:673636:por",
+     "title": "Decreto Legislativo Regional n.º 20/2003/M",
+     "published": "2003-07-24",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/20-2003-673636"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo ANEXO I — 1.º ciclo",
+    "Altera Artigo ANEXO II — 2.º ciclo",
+    "Altera Artigo ANEXO III — 3.º ciclo"
+   ],
+   "fragments": [
+    "ab221cf077a77c13",
+    "6b3553b87626e03b",
+    "5573937ed6a46b01",
+    "24186d2fd7e087f6",
+    "363b7ee9b1697478",
+    "708761bf37005fe6",
+    "cff75a1fab0821d4",
+    "7770b41f074fe216",
+    "2d8b390a4441b908",
+    "b48a0640f24b7ba7",
+    "2f109e76d30decca",
+    "bfd0ce24f4c1ea22",
+    "cf355413421d5fbc"
+   ]
+  }
+ ],
+ "fragments": {
+  "ab221cf077a77c13": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Adapta à Região Autónoma da Madeira o [Decreto-Lei n.º 6/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-2001-338986), de 18 de Janeiro\n\nO [Decreto-Lei n.º 6/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-2001-338986), de 18 de Janeiro, estabelece os princípios orientadores da organização e da gestão curricular do ensino básico, bem como da avaliação das aprendizagens e do processo de desenvolvimento do currículo nacional.\n\nO citado diploma legal define um quadro flexível, prevendo a competência das escolas para, no desenvolvimento da sua autonomia e no âmbito do seu projecto educativo, adequar o currículo ao contexto em que se inserem, concebendo um projecto curricular de escola que é desenvolvido, em função do contexto de cada turma, num projecto curricular de turma.\n\nO regime estabelecido no [Decreto-Lei n.º 6/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-2001-338986) mostra-se, nalguns aspectos, susceptível de adaptação à realidade regional, na medida em que as especificidades desta Região justificam alguns ajustamentos na organização e gestão das áreas curriculares previstas naquele diploma.\n\nA necessidade de adaptação do [Decreto-Lei n.º 6/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-2001-338986) verifica-se igualmente no domínio das competências atribuídas no mesmo, decorrente das especificidades orgânicas desta administração regional autónoma.\n\nExiste, pois, um interesse específico da Região nesta matéria.\n\nAssim:\n\nA Assembleia Legislativa Regional da Madeira decreta, ao abrigo do disposto nas alíneas a) do n.º 1 do artigo 227.º e o) do artigo 228.º da Constituição da República Portuguesa e nas alíneas c) do n.º 1 do artigo 37.º e o) do artigo 40.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de Junho, com as alterações introduzidas pela [Lei n.º 130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de Agosto, e pela [Lei n.º 12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de Junho, o seguinte:"
+  },
+  "6b3553b87626e03b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO presente diploma procede à adaptação à Região Autónoma da Madeira do [Decreto-Lei n.º 6/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-2001-338986), de 18 de Janeiro, que estabelece os princípios orientadores da organização e da gestão curricular do ensino básico, bem como da avaliação das aprendizagens e do processo de desenvolvimento do currículo nacional."
+  },
+  "728170a5d047c6cf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1 - As referências feitas no [Decreto-Lei n.º 6/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-2001-338986), aos serviços centrais e regionais da administração da educação reportam-se, na administração regional autónoma, aos serviços da Secretaria Regional de Educação.\n\n2 - As competências atribuídas, no [Decreto-Lei n.º 6/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-2001-338986), ao Ministro da Educação reportam-se, na administração regional autónoma, ao Secretário Regional de Educação.\n\n3 - A competência para definir as orientações relativas à diversificação das ofertas curriculares atribuída, no n.º 3 do artigo 11.º do [Decreto-Lei n.º 6/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-2001-338986), aos Ministros da Educação e do Trabalho e da Solidariedade pertence, na administração regional autónoma, ao Secretário Regional de Educação."
+  },
+  "24186d2fd7e087f6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nO ano lectivo corresponde, na Região Autónoma da Madeira, a um mínimo de 164 dias efectivos de actividades escolares."
+  },
+  "363b7ee9b1697478": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1 - Nas áreas disciplinares susceptíveis de serem abordados conteúdos de índole regional, nomeadamente de História da Madeira, tais conteúdos devem ser inseridos nos respectivos currículos.\n\n2 - As áreas referidas no número anterior são, designadamente, as áreas de História, Geografia, Literatura e Ciências."
+  },
+  "708761bf37005fe6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nNuma perspectiva de educação para a cidadania, a área de formação pessoal e social, no domínio da formação cívica, integra, designadamente, conteúdos de educação para o ambiente, de educação para a sexualidade e de educação para a saúde, competindo à escola a definição da carga horária correspondente, sem prejuízo dos limites previstos nos desenhos curriculares constantes dos anexos ao [Decreto-Lei n.º 6/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-2001-338986)."
+  },
+  "cff75a1fab0821d4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nAs aulas de noventa minutos podem ser organizadas em dois períodos de quarenta e cinco minutos."
+  },
+  "7770b41f074fe216": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1 - A carga horária das actividades de enriquecimento previstas no anexo I do [Decreto-Lei n.º 6/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-2001-338986), a serem desenvolvidas nas escolas a tempo inteiro, resulta do produto do número de turmas pelo valor máximo de treze horas semanais e mínimo de oito.\n\n2 - O funcionamento das actividades referidas no número anterior é definido por despacho anual do Secretário Regional de Educação."
+  },
+  "2d8b390a4441b908": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nOs desenhos curriculares previstos no [Decreto-Lei n.º 6/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-2001-338986), com as adaptações constantes deste decreto legislativo regional, são publicados em anexo ao presente diploma, do qual fazem parte integrante."
+  },
+  "b48a0640f24b7ba7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nO presente diploma produz efeitos de acordo com a calendarização estabelecida no artigo 20.º do [Decreto-Lei n.º 6/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-2001-338986).\n\nAprovado em sessão plenária da Assembleia Legislativa Regional da Madeira em 26 de Julho de 2001.\n\nO Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.\n\nAssinado em 9 de Agosto de 2001.\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz."
+  },
+  "34962941a4d1c4e9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO I — 1.º ciclo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — 1.º ciclo\n\nComponentes do currículo\n\n[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/08/197a00/54645467.pdf)](https://files.diariodarepublica.pt/1s/2001/08/197a00/54645467.pdf)](https://files.diariodarepublica.pt/1s/2001/08/197a00/54645467.pdf)"
+  },
+  "3f10e056f50c45b1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO II — 2.º ciclo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — 2.º ciclo\n\n[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/08/197a00/54645467.pdf)](https://files.diariodarepublica.pt/1s/2001/08/197a00/54645467.pdf)](https://files.diariodarepublica.pt/1s/2001/08/197a00/54645467.pdf)"
+  },
+  "a2d46be865f4089e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO III — 3.º ciclo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — 3.º ciclo\n\n[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/08/197a00/54645467.pdf)](https://files.diariodarepublica.pt/1s/2001/08/197a00/54645467.pdf)](https://files.diariodarepublica.pt/1s/2001/08/197a00/54645467.pdf)"
+  },
+  "5573937ed6a46b01": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": "2003-07-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 20/2003/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2003-673636), publicado em 2003-07-24.",
+    "Alterado pelo/a [Decreto Legislativo Regional n.º 20/2003/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2003-673636), publicado em 2003-07-24."
+   ],
+   "markdown": "###### Artigo 2.º\n\n1 - As referências feitas no [Decreto-Lei n.º 6/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-2001-338986), aos serviços centrais e regionais da administração da educação reportam-se, na administração regional autónoma, aos serviços da Secretaria Regional de Educação.\n\n2 - As competências atribuídas no [Decreto-Lei n.º 6/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-2001-338986), de 18 de Janeiro, na redacção dada pelo [Decreto-Lei n.º 209/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2002-432450), de 17 de Outubro, ao Ministério da Educação reportam-se, na administração regional autónoma, ao Secretário Regional de Educação, excepto a competência prevista na alínea b) do n.º 4 do artigo 13.º do mesmo diploma legal.\n\n3 - A competência para definir as orientações relativas à diversificação das ofertas curriculares atribuída, no n.º 3 do artigo 11.º do [Decreto-Lei n.º 6/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-2001-338986), aos Ministros da Educação e do Trabalho e da Solidariedade pertence, na administração regional autónoma, ao Secretário Regional de Educação.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 20/2003/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2003-673636), publicado em 2003-07-24.\n\n> Alterado pelo/a [Decreto Legislativo Regional n.º 20/2003/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2003-673636), publicado em 2003-07-24."
+  },
+  "2f109e76d30decca": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO I — 1.º ciclo",
+   "in_force_from": "2003-07-24",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Legislativo Regional n.º 20/2003/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2003-673636), publicado em 2003-07-24."
+   ],
+   "markdown": "## ANEXO I — 1.º ciclo\n\nComponentes do currículo\n\n[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/07/169a00/43374341.pdf)](https://files.diariodarepublica.pt/1s/2003/07/169a00/43374341.pdf)](https://files.diariodarepublica.pt/1s/2003/07/169a00/43374341.pdf)\n\nO trabalho a desenvolver pelos alunos integrará, obrigatoriamente, actividades experimentais e actividades de pesquisa adequadas à natureza das diferentes áreas, nomeadamente no ensino das ciências.\n\n> Alterado pelo/a [Decreto Legislativo Regional n.º 20/2003/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2003-673636), publicado em 2003-07-24."
+  },
+  "bfd0ce24f4c1ea22": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO II — 2.º ciclo",
+   "in_force_from": "2003-07-24",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Legislativo Regional n.º 20/2003/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2003-673636), publicado em 2003-07-24."
+   ],
+   "markdown": "## ANEXO II — 2.º ciclo\n\n[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/07/169a00/43374341.pdf)](https://files.diariodarepublica.pt/1s/2003/07/169a00/43374341.pdf)](https://files.diariodarepublica.pt/1s/2003/07/169a00/43374341.pdf)\n\nO trabalho a desenvolver pelos alunos integrará, obrigatoriamente, actividades experimentais e actividades de pesquisa adequadas à natureza das diferentes áreas ou disciplinas, nomeadamente no ensino das ciências.\n\n> Alterado pelo/a [Decreto Legislativo Regional n.º 20/2003/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2003-673636), publicado em 2003-07-24."
+  },
+  "cf355413421d5fbc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO III — 3.º ciclo",
+   "in_force_from": "2003-07-24",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Legislativo Regional n.º 20/2003/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2003-673636), publicado em 2003-07-24."
+   ],
+   "markdown": "## ANEXO III — 3.º ciclo\n\n[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/07/169a00/43374341.pdf)](https://files.diariodarepublica.pt/1s/2003/07/169a00/43374341.pdf)](https://files.diariodarepublica.pt/1s/2003/07/169a00/43374341.pdf)\n\nO trabalho a desenvolver pelos alunos integrará, obrigatoriamente, actividades experimentais e actividades de pesquisa adequadas à natureza das diferentes áreas ou disciplinas, nomeadamente no ensino das ciências.\n\n> Alterado pelo/a [Decreto Legislativo Regional n.º 20/2003/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2003-673636), publicado em 2003-07-24."
+  }
+ }
+}

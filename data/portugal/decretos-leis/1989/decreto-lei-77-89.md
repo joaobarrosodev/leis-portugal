@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2005-08-03'
+version_history:
+  file: decreto-lei-77-89.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1989-03-03'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2005-08-03'
+    amending: pt:dre:563034:por
+    amending_title: Decreto-Lei n.º 234/95; Lei n.º 39-A/2005
+    changes:
+    - Altera Artigo 1.º
+    - Adita Artigo 5.º
 identifiers:
   celex: null
   eli: null
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T00:57:09Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 234/95; Lei n.º 39-A/2005.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1989/decreto-lei-77-89.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -146,19 +162,37 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-Artigo 1.º - 1 - Os créditos do Estado decorrentes de empréstimos concedidos a cooperativas de habitação e a associações de moradores pelo Fundo de Fomento da Habitação, ou pela comissão liquidatária do Fundo de Fomento da Habitação, cuja posição foi transmitida para a Direcção-Geral do Tesouro pelo artigo 6.º do [Decreto-Lei n.º 410/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/410-1987-406131), de 31 de Dezembro, poderão, por opção do mutuário, ser convertidos, total ou parcialmente, em empréstimos individuais aos respectivos cooperadores ou moradores, com a correspondente alteração do regime de propriedade.
+###### Artigo 1.º
+
+1 - Os créditos do Estado decorrentes de empréstimos concedidos a cooperativas de habitação e a associações de moradores pelo Fundo de Fomento da Habitação, ou pela comissão liquidatária do Fundo de Fomento da Habitação, cuja posição foi transmitida para a Direcção-Geral do Tesouro pelo artigo 6.º do [Decreto-Lei n.º 410/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/410-1987-406131), de 31 de Dezembro, poderão, por opção do mutuário, ser convertidos, total ou parcialmente, em empréstimos individuais aos respectivos cooperadores ou moradores, com a correspondente alteração do regime de propriedade.
 
 2 - Aos empréstimos referidos no número anterior aplica-se o disposto no [Decreto-Lei n.º 328-B/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/328-b-1986-148780), de 30 de Setembro, salvo no que diz respeito aos prazos dos empréstimos, que não podem ultrapassar vinte anos.
 
-Art. 2.º A Direcção-Geral do Tesouro pode delegar em uma ou mais instituições especiais de crédito a sua representação em todos os actos inerentes à conversão dos créditos a que se refere o artigo anterior e confiar a essas mesmas instituições a gestão dos empréstimos individuais que venham a ser concedidos em aplicação do presente decreto-lei.
+3 - Os mutuários portadores de deficiência com um grau de incapacidade igual ou superior a 60% têm direito à aquisição ou construção de habitação própria, nos termos do n.º 8 do artigo 14.º do [Decreto-Lei n.º 43/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-1976-506028), de 20 de Janeiro, independentemente de terem procedido à conversão a que se refere o n.º 1.
 
-Art. 3.º As escrituras públicas efectuadas ao abrigo do presente diploma e os consequentes actos de registo estão isentos de emolumentos.
+> Alterado pelo/a [Decreto-Lei n.º 234/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-1995-563034), publicado em 1995-09-13.
 
-Art. 4.º - 1 - Na celebração das escrituras públicas previstas no presente diploma e no [Decreto-Lei n.º 37/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-1988-283095), de 5 de Fevereiro, é obrigatória a apresentação de certidão emitida pelo Instituto Nacional de Habitação, autenticada com o respectivo selo branco, comprovativa da regularidade da dívida decorrente do empréstimo.
+###### Artigo 2.º
+
+A Direcção-Geral do Tesouro pode delegar em uma ou mais instituições especiais de crédito a sua representação em todos os actos inerentes à conversão dos créditos a que se refere o artigo anterior e confiar a essas mesmas instituições a gestão dos empréstimos individuais que venham a ser concedidos em aplicação do presente decreto-lei.
+
+###### Artigo 3.º
+
+As escrituras públicas efectuadas ao abrigo do presente diploma e os consequentes actos de registo estão isentos de emolumentos.
+
+###### Artigo 4.º
+
+1 - Na celebração das escrituras públicas previstas no presente diploma e no [Decreto-Lei n.º 37/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-1988-283095), de 5 de Fevereiro, é obrigatória a apresentação de certidão emitida pelo Instituto Nacional de Habitação, autenticada com o respectivo selo branco, comprovativa da regularidade da dívida decorrente do empréstimo.
 
 2 - A certidão referida no número anterior deve fazer menção obrigatória e expressa do montante em dívida e de que o correspondente crédito goza de privilégio imobiliário nos termos do artigo 3.º do [Decreto-Lei n.º 37/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-1988-283095), de 5 de Fevereiro.
 
 3 - A não observância do disposto nos números anteriores determina a nulidade dos actos.
+
+###### Artigo 5.º
+
+Para garantia dos créditos privilegiados do Estado resultantes dos empréstimos abrangidos pelo presente diploma, a Direcção-Geral do Tesouro dispõe do direito de constituir, nos termos da lei, hipoteca legal sobre as construções financiadas.
+
+> Aditado pelo/a [Lei n.º 39-A/2005](https://diariodarepublica.pt/dr/detalhe/lei/39-a-2005-483459), publicado em 2005-07-29.
 
 Visto e aprovado em Conselho de Ministros de 26 de Janeiro de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - João Maria Leitão de Oliveira Martins.
 
