@@ -1,0 +1,47 @@
+[
+ {
+  "id": "pt:dre:67664950:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "Retificações n.os 1 a 9 aplicadas letra a letra no texto do artigo 2.º (art. 7.º n.º 4, art. 20.º n.os 4 e 7, art. 24.º n.º 1 alíneas k)-m), s), u), ee)-jj) e n.os 4 e 5, art. 26.º n.º 1 alíneas a) e b)); resto igual",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 7.º #2",
+    "veredicto": "certo",
+    "motivo": "Republicação: n.º 4 com a redação retificada pelo n.º 1 da retificação",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 20.º",
+    "veredicto": "certo",
+    "motivo": "Republicação: n.º 4 e n.º 7 com a redação retificada pelos n.os 2 e 3 da retificação",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 24.º",
+    "veredicto": "certo",
+    "motivo": "Republicação: alíneas k), l), m), s), u), ee) a jj) do n.º 1 e n.os 4 e 5 com a redação retificada pelos n.os 4 a 8",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 26.º",
+    "veredicto": "certo",
+    "motivo": "Republicação: alíneas a) e b) do n.º 1 com a redação retificada pelo n.º 9",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [
+   "N.º 10 da retificação: anexo I, tabela, coluna «1 de novembro a 1 de abril», alíneas h) a j) (o alterador traz texto; a vista não mostra que o anexo I esteja só em imagem: Anexo I vem na lista dos IGUAIS sem conteúdo)",
+   "N.º 11 da retificação: republicação, anexo I (Anexo I #2), coluna «1 de novembro a 1 de abril», alíneas h) a j) (mesmo motivo não confirmado na vista)",
+   "N.º 12 da retificação: anexo I, coluna «2 de abril a 31 de outubro», alíneas k) a m) (mesmo motivo não confirmado na vista)",
+   "N.º 13 da retificação: republicação, anexo I (Anexo I #2), coluna «2 de abril a 31 de outubro», alíneas k) a m) (mesmo motivo não confirmado na vista)"
+  ],
+  "instrucoes_justificadas": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

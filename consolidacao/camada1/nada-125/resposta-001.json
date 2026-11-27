@@ -1,0 +1,55 @@
+[
+  {
+    "id": "pt:dre:122345224:por",
+    "artigos": [],
+    "instrucoes_em_falta": [
+      "Declaração de Retificação n.º 30/2019: no anexo (a que se referem o n.º 1 do artigo 2.º e o n.º 1 do artigo 4.º), parte referente aos magistrados, eliminar a «Nota. - Auditores do Tribunal de Contas com a escala de progressão dos juízes de direito.» Sem efeito no consolidado (o Anexo está na lista dos iguais). O motivo dado («alvo incerto»: a nota não está no texto atual, o quadro só vem em imagem) não é dos admitidos e a vista não mostra o anexo para o confirmar; o alvo é conhecido (Anexo, parte dos magistrados)."
+    ],
+    "instrucoes_justificadas": [],
+    "artigos_a_mais": [],
+    "artigos_em_falta": [],
+    "fora_dos_artigos": "sem alterações"
+  },
+  {
+    "id": "pt:dre:123666144:por",
+    "artigos": [],
+    "instrucoes_em_falta": [],
+    "instrucoes_justificadas": [
+      {
+        "instrucao": "Declaração de Retificação n.º 39/2019 (retificação à Lei n.º 56/2019)",
+        "motivo": "O diploma que altera não traz o texto da alteração: na vista só vem o título, sem nenhuma parte da retificação (Alterador completo: false)."
+      }
+    ],
+    "artigos_a_mais": [],
+    "artigos_em_falta": [],
+    "fora_dos_artigos": "sem alterações"
+  },
+  {
+    "id": "pt:dre:145440393:por",
+    "artigos": [],
+    "instrucoes_em_falta": [],
+    "instrucoes_justificadas": [
+      {
+        "instrucao": "Acórdão do Tribunal Constitucional n.º 476/2025 (sobre o Decreto Legislativo Regional n.º 26/2020/A)",
+        "motivo": "O diploma que altera não traz o texto da alteração: na vista só vem o título do acórdão, sem decisão nem excerto (Alterador completo: false)."
+      }
+    ],
+    "artigos_a_mais": [],
+    "artigos_em_falta": [],
+    "fora_dos_artigos": "sem alterações"
+  },
+  {
+    "id": "pt:dre:152530:por",
+    "artigos": [],
+    "instrucoes_em_falta": [],
+    "instrucoes_justificadas": [
+      {
+        "instrucao": "Decreto-Lei n.º 79/2005, art. 19.º, n.º 7 (orientações estratégicas em reabilitação urbana no quadro do Instituto dos Mercados de Obras Públicas e Particulares e do Imobiliário)",
+        "motivo": "Não textual: confirmado no texto, o DL 79/2005 (orgânica do XVII Governo) não menciona o Decreto-Lei n.º 60/99 nem lhe dá nova redação, aditamento ou revogação; só define tutelas e articulação entre ministros."
+      }
+    ],
+    "artigos_a_mais": [],
+    "artigos_em_falta": [],
+    "fora_dos_artigos": "sem alterações"
+  }
+]

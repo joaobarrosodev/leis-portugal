@@ -1,0 +1,124 @@
+[
+ {
+  "id": "pt:dre:119397715:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "Alínea b) retificada: «sexta alteração» e acrescentada a Lei 12/2019.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "Alíneas c), d) e e) do n.º 1 e n.os 2, 3 e 4 do artigo 15.º-T do NRAU retificados letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "«na secção IV do capítulo II do título I», como no «deve ler-se».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 10.º",
+    "veredicto": "certo",
+    "motivo": "Alínea e) do n.º 1 do artigo 2.º, n.º 1 do artigo 5.º e alíneas a) a c) do n.º 3 do artigo 7.º do DL 156/2015 retificados letra a letra.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": []
+ },
+ {
+  "id": "pt:dre:123930788:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "No artigo 3.º do DLR 17/2014/M, no texto do artigo 2.º, ficam e) e f) «[...]» e as novas alíneas g) e h), como no «deve ler-se». A republicação em anexo (Artigo 3.º #2) está na lista dos iguais e não se vê na vista.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": []
+ },
+ {
+  "id": "pt:dre:124044595:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 14.º",
+    "veredicto": "certo",
+    "motivo": "«no artigo anterior» em vez de «no artigo seguinte».",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": []
+ },
+ {
+  "id": "pt:dre:124609256:por",
+  "artigos": [
+   {
+    "artigo": "Anexo",
+    "veredicto": "certo",
+    "motivo": "Indicação do anexo retificada para «(a que se refere o artigo 7.º)».",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [
+   "Renumeração dos artigos 5.º a 9.º da Lei 113/2019 (Alteração ao título, Norma transitória, Norma revogatória, Republicação, Entrada em vigor) para 4.º a 8.º: sem efeito no consolidado. Alvo incerto: esses artigos da própria lei não aparecem na vista (a lista dos iguais só tem os artigos 1.º a 3.º antes do Capítulo I da republicação, e os artigos 4.º a 9.º que lá estão são os da Lei 39/2009 republicada). O motivo dado («não estão no texto atual») não é nenhum dos aceites."
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": []
+ },
+ {
+  "id": "pt:dre:127504232:por",
+  "artigos": [
+   {
+    "artigo": "Anexo",
+    "veredicto": "certo",
+    "motivo": "Artigo 2.º do anexo termina na alínea g) do n.º 3; retirados os n.os 4, 5 e 6, como no «deve ler-se».",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": []
+ },
+ {
+  "id": "pt:dre:141382321:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "Proémio retificado: «do Regime Geral das Infrações Tributárias, aprovado em anexo à Lei n.º 15/2001».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 14.º",
+    "veredicto": "certo",
+    "motivo": "Proémio retificado: «do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado em anexo ao Decreto-Lei n.º 298/92».",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": []
+ }
+]

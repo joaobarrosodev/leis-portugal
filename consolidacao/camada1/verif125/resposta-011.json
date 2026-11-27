@@ -1,0 +1,96 @@
+[
+ {
+  "id": "pt:dre:483145:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "N.º 1 do art. 16.º do Estatuto no texto do artigo 2.º com a redação retificada (n.º 1 da retificação)",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "Art. 17.º-A aditado com a redação retificada (n.º 2 da retificação)",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 16.º",
+    "veredicto": "certo",
+    "motivo": "Republicação: n.º 1 com a redação retificada",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 17.º-A",
+    "veredicto": "certo",
+    "motivo": "Republicação: redação retificada letra a letra («sociedades de profissionais… capítulo viii»)",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 12.º #2",
+    "veredicto": "certo",
+    "motivo": "Código Deontológico republicado: n.º 2 remete para o artigo 54.º do Estatuto (n.º 3 da retificação)",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:490467:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 28.º",
+    "veredicto": "certo",
+    "motivo": "Redação retificada letra a letra",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:494186:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "Alínea a) do n.º 1 com a redação retificada; resto igual",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:494224:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "Proémio do n.º 1 e alíneas a), d)-f), h)-j), m)-p), s), v), x) e ab)-ai) com a redação retificada; aa) e restantes iguais",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Anexo",
+    "veredicto": "certo",
+    "motivo": "Anexo em imagem substituído pela imagem da retificação (endereço do alterador)",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

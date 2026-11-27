@@ -1,0 +1,22 @@
+[
+  {"id": "pt:dre:207272800:por", "artigos": [
+    {"artigo": "Artigo 3.º", "veredicto": "certo", "motivo": "Pontos 1 a 3 na parte que altera o DL 151-B/2013: n.º 10 do art. 3.º («n.º 4»), alínea d) do n.º 1 do art. 18.º («n.os 4 a 7») e n.º 4 do art. 19.º («4 - [...]» em vez de «(Revogado.)»), letra a letra; resto igual.", "texto_esperado": ""},
+    {"artigo": "Artigo 18.º", "veredicto": "certo", "motivo": "Pontos 8 a 11 na parte que altera o DL 119/2019: alíneas b) e c) do n.º 1 do art. 9.º e alínea a) e subalínea viii) da alínea c) do n.º 1 do art. 24.º com a redação retificada; a pontuação final («.» e «;») é a da retificação.", "texto_esperado": ""},
+    {"artigo": "Artigo 38.º", "veredicto": "certo", "motivo": "Ponto 13: n.º 2 passa a «artigos 2.º e 31.º».", "texto_esperado": ""},
+    {"artigo": "Anexo V", "veredicto": "certo", "motivo": "Ponto 12: n.º 1 do anexo VII-A no anexo V passa a «artigo 13.º -A», como na retificação.", "texto_esperado": ""},
+    {"artigo": "Artigo 3.º #3", "veredicto": "certo", "motivo": "Ponto 1 na republicação do DL 151-B/2013: n.º 10 passa a «n.º 4».", "texto_esperado": ""},
+    {"artigo": "Artigo 18.º #3", "veredicto": "certo", "motivo": "Ponto 2 na republicação: alínea d) do n.º 1 passa a «n.os 4 a 7».", "texto_esperado": ""},
+    {"artigo": "Artigo 9.º #4", "veredicto": "certo", "motivo": "Pontos 8 e 9 na republicação do DL 119/2019: alíneas b) e c) do n.º 1 com «artigo 13.º-A».", "texto_esperado": ""},
+    {"artigo": "Artigo 24.º #4", "veredicto": "certo", "motivo": "Pontos 10 e 11 na republicação: alínea a) do n.º 1 («13.º-A.») e subalínea viii) («n.º 3 do artigo 13.º-B;») com o texto e a pontuação da retificação.", "texto_esperado": ""},
+    {"artigo": "Anexo VII-A", "veredicto": "certo", "motivo": "Ponto 12 na republicação: n.º 1 passa a «artigo 13.º -A».", "texto_esperado": ""}
+  ], "instrucoes_em_falta": [
+    "Ponto 3, parte «na respetiva republicação» (n.º 4 do artigo 19.º do DL 151-B/2013 republicado, Artigo 19.º #3): não confirmável na vista; o artigo está entre os iguais e não se vê se o n.º 4 tem texto ou «(Revogado.)»; o motivo dado («já tem texto») não está na lista dos aceites",
+    "Pontos 4 a 7 (anexo I, ponto 3 - indústria da energia, alíneas a) e d), colunas «caso geral» e «áreas sensíveis», e respetiva republicação): a retificação traz o texto novo em texto, não em imagem; que o corpo do anexo I só tem imagem não é confirmável na vista (o Anexo I está entre os iguais) nem no texto da retificação"
+  ], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações", "instrucoes_justificadas": []},
+  {"id": "pt:dre:230889:por", "artigos": [
+    {"artigo": "Artigo 3.º", "veredicto": "certo", "motivo": "Art. 9.º do DL 387/90 revoga o n.º 2 do artigo 3.º do DL 542/79 (o artigo 3.º só existe no estatuto em anexo); n.º 2 passa a «(Revogado.)».", "texto_esperado": ""}
+  ], "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações", "instrucoes_justificadas": []},
+  {"id": "pt:dre:249819:por", "artigos": [
+    {"artigo": "Artigo 10.º", "veredicto": "certo", "motivo": "Alínea d) do n.º 2 com a redação retificada, letra a letra.", "texto_esperado": ""}
+  ], "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações", "instrucoes_justificadas": []}
+]

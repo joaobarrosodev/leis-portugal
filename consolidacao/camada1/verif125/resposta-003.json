@@ -1,0 +1,54 @@
+[
+ {
+  "id": "pt:dre:115235757:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "Retificação 1: na alínea g) o DL 202/78 passa a «de 22 de julho»; aplicada, resto igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "Retificação 2: na alínea z) «674-A/75» passa a «674-D/75»; aplicada, resto igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "certo",
+    "motivo": "Retificação 3: na alínea b) «93-D/75» passa a «93-B/75»; aplicada, resto igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 11.º",
+    "veredicto": "certo",
+    "motivo": "Retificação 4: na alínea y) o DL 225-E/76 passa a «de 31 de março»; aplicada, resto igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 14.º",
+    "veredicto": "certo",
+    "motivo": "Retificações 5, 6 e 7: alínea a) «de 17 de fevereiro», alínea e) «de 2 de agosto», alínea t) «de 4 de fevereiro»; todas aplicadas, resto igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 15.º",
+    "veredicto": "certo",
+    "motivo": "Retificação 8: na alínea w) o DL 120/80 passa a «de 15 de maio»; aplicada, resto igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 16.º",
+    "veredicto": "certo",
+    "motivo": "Retificação 9: na alínea cc) o DL 546/77 passa a «de 31 de dezembro»; aplicada, resto igual.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": []
+ }
+]

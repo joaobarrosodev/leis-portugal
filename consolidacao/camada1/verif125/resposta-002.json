@@ -1,0 +1,106 @@
+[
+ {
+  "id": "pt:dre:114425586:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "Alíneas a) dos n.os 1 e 3 («se destine») e a) do n.º 5 («n.º 9 do artigo 109.º») retificadas, letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 35.º",
+    "veredicto": "certo",
+    "motivo": "«artigo 18.º da presente lei», como retificado.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 37.º",
+    "veredicto": "certo",
+    "motivo": "N.º 2: «nas suas redações atuais», como retificado.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 42.º",
+    "veredicto": "certo",
+    "motivo": "N.º 6: «homotransplantação de cadáver», como retificado.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 155.º",
+    "veredicto": "certo",
+    "motivo": "N.º 4: «artigo 148.º da presente lei», como retificado.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 264.º",
+    "veredicto": "certo",
+    "motivo": "Proémio retificado («59.º-H e 59.º-I»), letra a letra. A retificação só corrige o proémio; os títulos dos artigos aditados (59.º-G, 59.º-H) ficam como estavam, tal como a retificação os deixa.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 268.º",
+    "veredicto": "certo",
+    "motivo": "Art. 19.º da LGT: n.º 8 «...», n.os 9 e 10 com o texto novo, n.os 11 a 15 «(Anterior n.º 9.)»…«(Anterior n.º 13.)», como retificado.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 273.º",
+    "veredicto": "certo",
+    "motivo": "«Decreto-Lei n.º 68/2007», como retificado.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 289.º",
+    "veredicto": "certo",
+    "motivo": "Art. 738.º do CPC termina na alínea g) do n.º 8, sem o «9 - ...», como retificado.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": []
+ },
+ {
+  "id": "pt:dre:114484243:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "Lista de alterações retificada («pelas Leis… e 42/2016… e pelo Decreto-Lei n.º 93/2017»), letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "Proémio retificado e n.º 4 do art. 163.º com «alínea a) do n.º 1 do artigo 157.º», letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "Proémio retificado e n.º 1 do art. 164.º-A com «n.º 6 do artigo 162.º», letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "N.º 2: «n.º 3 do artigo 164.º», como retificado.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "Lista de alterações retificada, letra a letra.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": []
+ }
+]

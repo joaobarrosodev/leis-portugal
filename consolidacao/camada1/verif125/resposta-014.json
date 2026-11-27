@@ -1,0 +1,34 @@
+[
+ {
+  "id": "pt:dre:70133815:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "certo",
+    "motivo": "Retificação da alínea f) do n.º 1: «pinha» passa a «resina», aplicada letra a letra.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": []
+ },
+ {
+  "id": "pt:dre:75170385:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "Retificação do corpo: «impostos por ativos diferidos» passa a «ativos por impostos diferidos», aplicada.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": []
+ }
+]

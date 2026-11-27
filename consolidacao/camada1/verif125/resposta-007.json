@@ -1,0 +1,138 @@
+[
+ {
+  "id": "pt:dre:146809939:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "N.º 3 do art. 24.º da Lei 43/90 (no art. 2.º) retificado: «períodos de suspensão do funcionamento», letra a letra.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": []
+ },
+ {
+  "id": "pt:dre:161518655:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "Art. 58.º: proémio do n.º 18 e alínea b) passam a «[...]:»; n.os 24-26 passam a 24 «[...]», 25, 26 e 27 com o texto retificado, letra a letra.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": []
+ },
+ {
+  "id": "pt:dre:161587773:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "Na alteração ao n.º 8 do art. 9.º, alínea d) passa a ter o texto retificado (alínea b) do n.º 6); resto igual. As duas retificações são idênticas.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "Anexo, art. 9.º, n.º 8, alínea d): «alínea b) do n.º 6» em vez de «do número anterior», como retificado.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": []
+ },
+ {
+  "id": "pt:dre:163012626:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "Art. 46.º: n.os 2, 5 e 8 com o texto retificado, letra a letra.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": []
+ },
+ {
+  "id": "pt:dre:164454929:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 11.º",
+    "veredicto": "certo",
+    "motivo": "N.º 17: «de 2 de dezembro», como retificado.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 38.º",
+    "veredicto": "certo",
+    "motivo": "N.º 1, alíneas c) e d) com o texto retificado («e Comunicações»; «dos transportes terrestres, e da habitação»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 79.º",
+    "veredicto": "certo",
+    "motivo": "Alteração à alínea h) do art. 6.º sem o «no caso de pensionistas» repetido, como retificado.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": []
+ },
+ {
+  "id": "pt:dre:165036155:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 17.º",
+    "veredicto": "certo",
+    "motivo": "N.º 2: «artigo 18.º», como retificado.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 19.º #2",
+    "veredicto": "certo",
+    "motivo": "Anexo, art. 19.º, n.º 6: «pedido referido no n.º 3», como retificado.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": []
+ },
+ {
+  "id": "pt:dre:168697989:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 14.º",
+    "veredicto": "certo",
+    "motivo": "N.º 7: «n.º 4 do presente artigo», como retificado.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": []
+ }
+]

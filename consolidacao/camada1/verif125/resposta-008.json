@@ -1,0 +1,21 @@
+[
+  {"id": "pt:dre:169780055:por", "artigos": [
+    {"artigo": "Artigo 30.º", "veredicto": "certo", "motivo": "Retificação do n.º 1 do artigo 30.º do anexo: «alínea p)» passa a «alínea q)», letra a letra; resto igual.", "texto_esperado": ""}
+  ], "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações", "instrucoes_justificadas": []},
+  {"id": "pt:dre:170221042:por", "artigos": [
+    {"artigo": "Artigo 3.º #2", "veredicto": "certo", "motivo": "Artigo 3.º do anexo (republicação): alíneas a), e) e f) do n.º 1 substituídas letra a letra pelo texto da retificação (com as subalíneas i) a iv) e i) a vi)); restantes alíneas iguais.", "texto_esperado": ""}
+  ], "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações", "instrucoes_justificadas": []},
+  {"id": "pt:dre:174824638:por", "artigos": [
+    {"artigo": "Artigo 66.º", "veredicto": "certo", "motivo": "Artigo 66.º do anexo, n.º 1: «bem-estar» passa a «bem estar», como na retificação; resto igual.", "texto_esperado": ""}
+  ], "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações", "instrucoes_justificadas": []},
+  {"id": "pt:dre:179288:por", "artigos": [
+    {"artigo": "Artigo 14.º", "veredicto": "certo", "motivo": "Ponto 1: n.º 6 «Criminalista» passa a «Criminalística»; resto igual.", "texto_esperado": ""},
+    {"artigo": "Artigo 15.º", "veredicto": "certo", "motivo": "Pontos 2 e 3: epígrafe e n.º 1 com «Criminalística»; resto igual.", "texto_esperado": ""}
+  ], "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações", "instrucoes_justificadas": []},
+  {"id": "pt:dre:184108568:por", "artigos": [
+    {"artigo": "Artigo 17.º", "veredicto": "certo", "motivo": "N.os 2 e 3 substituídos letra a letra pela redação retificada (Lei n.º 39/2012, sem «não licenciados», prazo de 90 dias); resto igual.", "texto_esperado": ""}
+  ], "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações", "instrucoes_justificadas": []},
+  {"id": "pt:dre:185224662:por", "artigos": [
+    {"artigo": "Artigo 303.º", "veredicto": "certo", "motivo": "A retificação do artigo 303.º (tabelas das alíneas a) e b) do n.º 1 do artigo 17.º do CIMT) só vem em imagem; as duas linhas «(ver documento original)» dessas alíneas passam a apontar para a imagem da retificação (files.diariodarepublica.pt/1s/2022/07/14300/0000300004.pdf); resto igual.", "texto_esperado": ""}
+  ], "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações", "instrucoes_justificadas": []}
+]

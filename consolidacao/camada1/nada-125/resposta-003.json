@@ -1,0 +1,161 @@
+[
+  {
+    "id": "pt:dre:187049946:por",
+    "artigos": [
+      {
+        "artigo": "Artigo 2.º-A",
+        "veredicto": "certo",
+        "motivo": "Aditado pelo art. 2.º do DLR 11/2026/M; epígrafe e n.os 1 a 4 iguais letra a letra à redação do alterador.",
+        "texto_esperado": ""
+      }
+    ],
+    "instrucoes_em_falta": [],
+    "instrucoes_justificadas": [],
+    "artigos_a_mais": [],
+    "artigos_em_falta": [],
+    "fora_dos_artigos": "sem alterações"
+  },
+  {
+    "id": "pt:dre:205450899:por",
+    "artigos": [],
+    "instrucoes_em_falta": [],
+    "instrucoes_justificadas": [
+      {
+        "instrucao": "Declaração de Retificação n.º 1/2023/M: publicação do anexo omitido a que se refere o artigo 83.º (Quadro Plurianual de Programação Orçamental 2023-2026)",
+        "motivo": "O texto novo só vem em imagem («ver documento original», PDF) e o consolidado não tem título de anexo onde o pôr (a lista dos iguais não tem nenhum Anexo)."
+      }
+    ],
+    "artigos_a_mais": [],
+    "artigos_em_falta": [],
+    "fora_dos_artigos": "sem alterações"
+  },
+  {
+    "id": "pt:dre:211028:por",
+    "artigos": [
+      {
+        "artigo": "Artigo 9.º",
+        "veredicto": "certo",
+        "motivo": "Revogado pela alínea d) do art. 24.º do DL 10/2024; epígrafe mantida e corpo «(Revogado.)».",
+        "texto_esperado": ""
+      }
+    ],
+    "instrucoes_em_falta": [],
+    "instrucoes_justificadas": [],
+    "artigos_a_mais": [],
+    "artigos_em_falta": [],
+    "fora_dos_artigos": "sem alterações"
+  },
+  {
+    "id": "pt:dre:344966:por",
+    "artigos": [
+      {
+        "artigo": "Artigo 2.º",
+        "veredicto": "certo",
+        "motivo": "Revogado pelo art. 13.º, n.º 2, do DL 175/2004; epígrafe mantida e corpo «(Revogado.)».",
+        "texto_esperado": ""
+      },
+      {
+        "artigo": "Artigo 4.º",
+        "veredicto": "certo",
+        "motivo": "Revogado pelo art. 13.º, n.º 2, do DL 175/2004; epígrafe mantida e corpo «(Revogado.)».",
+        "texto_esperado": ""
+      },
+      {
+        "artigo": "Artigo 5.º",
+        "veredicto": "certo",
+        "motivo": "Revogado pelo art. 13.º, n.º 2, do DL 175/2004; epígrafe mantida e corpo «(Revogado.)».",
+        "texto_esperado": ""
+      },
+      {
+        "artigo": "Artigo 6.º",
+        "veredicto": "certo",
+        "motivo": "Só o n.º 1 revogado pelo art. 13.º, n.º 2, do DL 175/2004: «1 - (Revogado.)»; n.os 2 a 4 iguais ao original.",
+        "texto_esperado": ""
+      }
+    ],
+    "instrucoes_em_falta": [],
+    "instrucoes_justificadas": [],
+    "artigos_a_mais": [],
+    "artigos_em_falta": [],
+    "fora_dos_artigos": "sem alterações"
+  },
+  {
+    "id": "pt:dre:468999:por",
+    "artigos": [
+      {
+        "artigo": "Artigo 2.º",
+        "veredicto": "certo",
+        "motivo": "Retificação n.º 2: n.º 2 passa a «na normalização nacional, do CENELEC»; resto igual.",
+        "texto_esperado": ""
+      },
+      {
+        "artigo": "Artigo 6.º",
+        "veredicto": "certo",
+        "motivo": "Retificação n.º 3: «são revogados 90 dias a partir da data»; resto igual.",
+        "texto_esperado": ""
+      }
+    ],
+    "instrucoes_em_falta": [
+      "Declaração de Rectificação n.º 11/2006, n.º 1: no 5.º parágrafo do preâmbulo, onde se lê «passa a ser da competência da Direcção-Geral de Geologia e Energia» deve ler-se «passa a ser da competência do ministro que tutela a área da economia». Sem efeito no consolidado ((preâmbulo) na lista dos iguais). O motivo dado («alvo incerto»: o preâmbulo não vem no texto atual) não é dos admitidos, o alvo é conhecido (5.º parágrafo do preâmbulo) e a vista mostra que o consolidado tem um (preâmbulo)."
+    ],
+    "instrucoes_justificadas": [],
+    "artigos_a_mais": [],
+    "artigos_em_falta": [],
+    "fora_dos_artigos": "sem alterações"
+  },
+  {
+    "id": "pt:dre:544170:por",
+    "artigos": [
+      {
+        "artigo": "Artigo 3.º",
+        "veredicto": "certo",
+        "motivo": "Alínea a) do n.º 2 revogada pelo art. 5.º do DR 3/2018: «a) (Revogada.)»; resto igual.",
+        "texto_esperado": ""
+      },
+      {
+        "artigo": "Artigo 4.º",
+        "veredicto": "certo",
+        "motivo": "Alínea d) do n.º 1 com a nova redação do art. 4.º do DR 3/2018, letra a letra; resto ([...]/...) igual ao original.",
+        "texto_esperado": ""
+      },
+      {
+        "artigo": "Artigo 5.º",
+        "veredicto": "certo",
+        "motivo": "Revogado pelo art. 5.º do DR 3/2018; epígrafe mantida e corpo «(Revogado.)».",
+        "texto_esperado": ""
+      }
+    ],
+    "instrucoes_em_falta": [],
+    "instrucoes_justificadas": [],
+    "artigos_a_mais": [],
+    "artigos_em_falta": [],
+    "fora_dos_artigos": "sem alterações"
+  },
+  {
+    "id": "pt:dre:569889:por",
+    "artigos": [
+      {
+        "artigo": "Artigo 5.º-A",
+        "veredicto": "dúvida",
+        "motivo": "Texto aditado pelo art. 1.º da Lei 3/2007 igual letra a letra (epígrafe e n.os 1 a 3). Mas o art. 4.º diz que a lei «entra em vigor com o Orçamento do Estado para o ano de 2007»: a vista não mostra que esse facto aconteceu. A lei é de 16/1/2007, pelo que o OE de 2007 estaria em princípio já em vigor, o que se infere da data mas não está na vista.",
+        "texto_esperado": ""
+      }
+    ],
+    "instrucoes_em_falta": [],
+    "instrucoes_justificadas": [],
+    "artigos_a_mais": [],
+    "artigos_em_falta": [],
+    "fora_dos_artigos": "sem alterações"
+  },
+  {
+    "id": "pt:dre:66953314:por",
+    "artigos": [],
+    "instrucoes_em_falta": [
+      "Declaração de Retificação n.º 26/2015: publicação do Anexo I omitido (a que se refere o n.º 2 do artigo 4.º do DL 49/2015), com o texto inteiro na declaração (proémio e alíneas a) a e)). Sem efeito no consolidado. O motivo dado («alvo incerto»: o texto atual não tem título de anexo) não é dos admitidos: o texto não vem em imagem, vem em texto, e o alvo é conhecido (Anexo I, referido no n.º 2 do artigo 4.º)."
+    ],
+    "instrucoes_justificadas": [],
+    "artigos_a_mais": [],
+    "artigos_em_falta": [],
+    "fora_dos_artigos": "sem alterações"
+  }
+]

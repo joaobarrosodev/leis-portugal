@@ -1,0 +1,27 @@
+[
+  {
+    "id": "pt:dre:168184695:por",
+    "artigos": [],
+    "instrucoes_em_falta": [],
+    "instrucoes_justificadas": [
+      {
+        "instrucao": "Acórdão do Tribunal Constitucional n.º 626/2022, alínea b) da decisão: declaração de inconstitucionalidade, com força obrigatória geral, dos artigos 1.º, 2.º e 3.º da Lei n.º 47/2021",
+        "motivo": "Não textual: confirmado na parte III - Decisão; o acórdão declara a inconstitucionalidade sem dar nova redação nem eliminar o texto."
+      }
+    ],
+    "artigos_a_mais": [],
+    "artigos_em_falta": [],
+    "fora_dos_artigos": "sem alterações"
+  },
+  {
+    "id": "pt:dre:180580:por",
+    "artigos": [],
+    "instrucoes_em_falta": [
+      "Lei n.º 1/2004, art. 1.º, n.º 5: nova redação do artigo 4.º do Decreto-Lei n.º 327/85 (n.º 1 mantém-se; n.º 2 novo: «A remuneração relevante para efeitos de desconto de quota e de cálculo da pensão de aposentação não pode ser inferior à estabelecida na convenção colectiva de trabalho aplicável nem superior à que respeite à categoria e escalão da carreira docente instituída para o ensino oficial correspondente ao mesmo tempo de serviço docente.»; n.º 3 = anterior n.º 2). Sem efeito no consolidado (Artigo 4.º na lista dos iguais) e sem motivo dado. A vista não mostra o artigo 4.º atual, pelo que não se pode confirmar que o texto atual já tenha esta redação."
+    ],
+    "instrucoes_justificadas": [],
+    "artigos_a_mais": [],
+    "artigos_em_falta": [],
+    "fora_dos_artigos": "sem alterações"
+  }
+]
