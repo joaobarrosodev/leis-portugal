@@ -80,6 +80,7 @@ def test_collect_consolidated_history_and_stale_skip(repo_root: Path, monkeypatc
         "leis_portugal.cli.collect.collect_versions",
         partial(versions_service.collect_versions, client_factory=FakeClient),
     )
+    monkeypatch.setattr("leis_portugal.cli.collect.consolidated_sitemap", lambda: [])
     assert run(repo_root, "collect", "dre-consolidated", "--url", ENTRY.url, "--workers", "1") == 0
     assert "Diplomas: 1; atualizados: 1" in capsys.readouterr().out
     history = json.loads(record.with_name("decreto-lei-140-2009.versoes.json").read_text(encoding="utf-8"))
@@ -141,3 +142,32 @@ def test_collect_dre_dates_in_parallel(repo_root: Path, monkeypatch, capsys):
     # O mesmo diploma listado nos dois dias é recolhido uma vez.
     assert out.out.count("decreto-lei-202-2026.md") == 1
     assert (repo_root / "reports/dre_dates_failures.jsonl").read_text(encoding="utf-8") == ""
+
+
+def test_collect_consolidated_by_url_keeps_the_sitemap_date(repo_root: Path, monkeypatch, capsys):
+    from dataclasses import replace
+
+    record = repo_root / "data/portugal/decretos-leis/2009/decreto-lei-140-2009.md"
+    record.parent.mkdir(parents=True)
+    record.write_text(
+        render_markdown(record_dict("pt:dre:494543:por", title="Decreto-Lei n.º 140/2009", identifiers={"dre": "494543", "internal": "pt:dre:494543:por"}), "# x"),
+        encoding="utf-8",
+    )
+    monkeypatch.setattr("leis_portugal.cli.collect.collect_versions", partial(versions_service.collect_versions, client_factory=FakeClient))
+    monkeypatch.setattr("leis_portugal.cli.collect.consolidated_sitemap", lambda: [replace(ENTRY, lastmod="2026-11-20")])
+    assert run(repo_root, "collect", "dre-consolidated", "--url", ENTRY.url, "--workers", "1") == 0
+    history = json.loads(record.with_name("decreto-lei-140-2009.versoes.json").read_text(encoding="utf-8"))
+    assert history["source_lastmod"] == "2026-11-20"
+    # Com a data guardada igual à do sitemap, o --stale já não volta a recolher.
+    assert run(repo_root, "collect", "dre-consolidated", "--url", ENTRY.url, "--stale") == 0
+    assert "Diplomas: 0" in capsys.readouterr().out
+
+
+def test_entries_for_urls():
+    from dataclasses import replace
+
+    from leis_portugal.services.versions import entries_for_urls
+
+    [entrada] = entries_for_urls([ENTRY.url], [replace(ENTRY, lastmod="2026-11-20")])
+    assert entrada.lastmod == "2026-11-20" and entrada.frag_id == ENTRY.frag_id
+    assert entries_for_urls([ENTRY.url], [])[0].lastmod is None

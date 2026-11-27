@@ -16,10 +16,10 @@ from leis_portugal.services.dre import DreIngestion, imported_references
 from leis_portugal.services.eu_versions import collect_eu_versions
 from leis_portugal.services.eurlex import EurLexIngestion
 from leis_portugal.services.referenced import missing_references, referenced_refs
-from leis_portugal.services.versions import collect_versions
+from leis_portugal.services.versions import collect_versions, entries_for_urls
 from leis_portugal.sources import cnpd, tc
-from leis_portugal.sources.dre.client import DreApiError, split_sitemap_ref
-from leis_portugal.sources.dre.consolidated import consolidated_entry
+from leis_portugal.sources.dre.client import DreApiError, DreClient, split_sitemap_ref
+from leis_portugal.sources.dre.consolidated import parse_sitemap
 from leis_portugal.sources.pdftext import extractor_available
 
 
@@ -319,9 +319,18 @@ def collect_eurlex_translation(args) -> int:
     return 1 if summary.failures else 0
 
 
+def consolidated_sitemap() -> list:
+    """As entradas do sitemap da legislação consolidada do DRE, para dar a data de atualização às ligações dadas à mão."""
+    try:
+        return parse_sitemap(DreClient().consolidated_sitemap())
+    except (DreApiError, OSError) as exc:
+        print(f"Aviso: sem o sitemap do DRE ({exc}); as datas de atualização ficam por saber.", file=sys.stderr)
+        return []
+
+
 def collect_consolidated(args) -> int:
     repository = acervo(args)
-    entries = [consolidated_entry(url) for url in args.url] if args.url else None
+    entries = entries_for_urls(args.url, consolidated_sitemap()) if args.url else None
     summary = collect_versions(repository, entries=entries, stale_only=args.stale, limit=args.limit, workers=args.workers, progress=progress)
     write_failures(repository.root / "reports" / "dre_consolidated_failures.jsonl", summary.failures)
     print(
