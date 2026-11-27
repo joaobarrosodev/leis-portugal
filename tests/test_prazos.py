@@ -88,3 +88,11 @@ def test_erros():
         contar(Conta("x", date(2026, 1, 1), 0))
     with pytest.raises(ValueError):
         contar(Conta("x", date(2026, 1, 1), 5, regime="nenhum"))
+
+
+def test_periodo_nao_transfere_o_termo():
+    # caso-arr-03: a atualização da renda é exigível um ano depois do início (1/3/2025): 1/3/2026, um domingo, fica
+    assert fim(date(2025, 3, 1), 1, "anos", regime="periodo") == date(2026, 3, 1)
+    assert fim(date(2025, 3, 1), 1, "anos", regime="civil") == date(2026, 3, 2)
+    # caso2-trab-01: dois anos de responsabilidade solidária depois de 1/12/2026: 1/12/2028, feriado, fica
+    assert fim(date(2026, 12, 1), 2, "anos", regime="periodo") == date(2028, 12, 1)

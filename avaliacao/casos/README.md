@@ -210,7 +210,7 @@ Ficheiros: `resultados/completar/` (39), `resultados/casos2-antigo/` e `resultad
 
 **A calculadora contra as referências.** Um subagente passou os 152 prazos das respostas de referência (os 39 casos e os 16 novos) a contas, sem ver o que a calculadora dá (`prazos-referencia.jsonl`). 98 são contas de datas; os outros 54 não são (um período de referência, um prazo que ainda não começou). Nas 98, a data da calculadora é a da referência em **87**. As 11 diferenças:
 - **3 são erros da referência:** o termo cai num domingo ou feriado e não passou para o dia útil seguinte (3/06/2029 e 10/06/2029 são domingos; 31/10/2027 é domingo e 1/11/2027 é feriado).
-- **5 não são prazos para praticar um ato:** a data em que uma atualização se torna exigível, o fim de um aviso prévio, o período de uma presunção. A calculadora passa o termo para dia útil e a referência não. Falta um regime «período», sem transferência do termo. Não entrou nesta medição.
+- **5 não são prazos para praticar um ato:** a data em que uma atualização se torna exigível, o fim de um aviso prévio, o período de uma presunção. A calculadora passa o termo para dia útil e a referência não. Depois desta medição, entrou o regime `periodo`, que não passa o termo para dia útil (27/11, com testes; também nas regras de `rag/CASO-ANALISE.md`). O seu efeito no fluxo ainda não foi medido.
 - **1 é a leitura de «a partir do dia seguinte» à cessação** (CT 337.º). A calculadora dá a data mais cedo, que é a prudente.
 - **2 não têm data final na referência.**
 
@@ -238,6 +238,16 @@ Ficheiros: `resultados/contas/` (39), `resultados/casos2-contas/` (16), `prazos-
 1. Fazer do passo de partir o caso uma peça do sistema e medi-la também com outro modelo. A peça está em `rag/caso.py` (26/11/2026), com as regras em `rag/CASO-PARTIR.md` e `rag/CASO-ANALISE.md`, as mesmas desta medição. O `medir.py --decomposicao` passou a usar essa pesquisa. As consultas escritas pelo Sonnet e pelo Haiku estão medidas na secção «A peça do sistema e outro modelo».
 2. Garantir os artigos dos prazos e das formalidades, onde estão as erradas. Feito em parte com a 2.ª volta (secção acima): 10 → 14 de 16 certas nos casos novos. A conta dos prazos é agora feita pelo sistema (`rag/prazos.py`, secção acima). Os erros de prazos descem de 4 para 2 nos 55 casos, mas uma conta mal pedida (sem a dilação, por exemplo) continua errada.
 3. Pôr um advogado a rever os casos e as análises.
+
+## Modos (27/11/2026)
+
+Todas as medições acima são do modo **profissional**. É a análise para advogados, com o que fazer, os prazos contados e o resultado previsível, segundo as regras de `rag/CASO-ANALISE.md`.
+
+O `rag/caso.py` tem também o modo **público**, que é o modo por omissão:
+- explica a lei sem a aplicar ao caso de quem pergunta, sem calcular datas e sem dizer o que fazer (`rag/CASO-INFORMACAO.md`);
+- acaba sempre a indicar um advogado ou solicitador e a proteção jurídica.
+
+O modo público não foi medido. Existe por causa do regime da consulta jurídica (Lei n.º 10/2024; ver [`COMUNICACAO.md`](../../COMUNICACAO.md#informação-jurídica-não-consulta-jurídica)).
 
 ## Ficheiros
 

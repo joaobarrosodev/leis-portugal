@@ -54,6 +54,7 @@ claude mcp add leis-portugal -e RAG_INDICE=$HOME/leis-portugal-indice -- $PWD/.v
 ## Limites
 
 - **Não é aconselhamento jurídico.** O texto é o do acervo, sem valor oficial. Confirma-o sempre na fonte oficial: o Diário da República e o EUR-Lex.
+- **Informação, não consulta jurídica.** As instruções do servidor pedem ao LLM do cliente duas coisas. A quem não é advogado, explica o que a lei diz e de que depende, e indica um advogado ou solicitador e a proteção jurídica. Só aplica a lei ao caso concreto como apoio a quem diz ser advogado ou solicitador (Lei n.º 10/2024). O LLM é do cliente, e o servidor não o pode obrigar: ver [`COMUNICACAO.md`](../COMUNICACAO.md#informação-jurídica-não-consulta-jurídica).
 - **O índice tem a data da versão publicada.** O que saiu no Diário da República depois disso só aparece na versão seguinte.
 - **`contar_prazo` não conta feriados municipais nem tolerâncias de ponto.**
 - **Protocolo:** transporte stdio, uma mensagem JSON-RPC 2.0 por linha, versão `2025-06-18`. O servidor não usa o SDK do MCP, por isso só precisa da biblioteca normal do Python e do radical Snowball.
