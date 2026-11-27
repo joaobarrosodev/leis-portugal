@@ -1,0 +1,91 @@
+[
+ {
+  "id": "pt:dre:570685:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 15.º",
+    "veredicto": "certo",
+    "motivo": "DLR 11/2014/A, art. 1.º: n.º 1 com (euro) 220 000 000, n.os 2 e 3 e epígrafe mantidos («(...)»).",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DLR 20/2014/A, art. 1.º: nova redação do art. 20.º do DLR 7/2008/A",
+    "motivo": "Confirmado: outro diploma: o original só aparece na lista de alterações desse diploma."
+   },
+   {
+    "instrucao": "DLR 1/2015/A, art. 23.º: nova redação do art. 5.º do DLR 14/2009/A «na redação que lhe foi dada pelo artigo 24.º do» original",
+    "motivo": "Confirmado: a instrução visa o art. 5.º do DLR 14/2009/A, outro diploma; o original só lhe deu a redação anterior."
+   },
+   {
+    "instrucao": "DLR 1/2015/A, art. 34.º: aumento do complemento regional de pensão nos termos do art. 13.º do DLR 8/2002/A",
+    "motivo": "Confirmado: outro diploma e não textual (atualização de valor); o original só aparece na lista de alterações."
+   },
+   {
+    "instrucao": "DLR 1/2015/A, art. 35.º: suspensão em 2015 do reembolso de incentivo do DLR 19/2007/A",
+    "motivo": "Confirmado: outro diploma (suspensão, não textual); o original só aparece na lista de alterações."
+   },
+   {
+    "instrucao": "DLR 1/2015/A, art. 38.º: nova redação do art. 40.º do DLR 19/2007/A",
+    "motivo": "Confirmado: outro diploma: o original só aparece na lista de alterações desse diploma."
+   },
+   {
+    "instrucao": "DLR 15/2015/A, art. 3.º: nova redação dos arts. 4.º e 7.º do DLR 2/99/A «na redação que resulta do» original",
+    "motivo": "Confirmado: a instrução visa o DLR 2/99/A, outro diploma."
+   },
+   {
+    "instrucao": "DLR 1/2016/A, art. 34.º: aumento do complemento regional de pensão (DLR 8/2002/A)",
+    "motivo": "Confirmado: outro diploma, não textual; o original só aparece na lista de alterações."
+   },
+   {
+    "instrucao": "DLR 1/2016/A, art. 35.º: nova redação do n.º 2 do art. 10.º e n.º 3 do art. 11.º do DLR 8/2002/A",
+    "motivo": "Confirmado: outro diploma: o original só aparece na lista de alterações desse diploma."
+   },
+   {
+    "instrucao": "DLR 1/2016/A, art. 36.º: suspensão em 2016 do reembolso de incentivo do DLR 19/2007/A",
+    "motivo": "Confirmado: outro diploma (suspensão); o original só aparece na lista de alterações."
+   },
+   {
+    "instrucao": "DLR 1/2016/A, art. 37.º: nova redação dos arts. 15.º e 40.º do DLR 19/2007/A",
+    "motivo": "Confirmado: outro diploma: o original só aparece na lista de alterações desse diploma."
+   },
+   {
+    "instrucao": "DLR 3/2017/A, art. 11.º, n.º 1: revogação do n.º 7 do art. 20.º do DLR 7/2008/A",
+    "motivo": "Confirmado: outro diploma: o original só aparece na lista de alterações desse diploma."
+   },
+   {
+    "instrucao": "DLR 3/2017/A, art. 11.º, n.º 2: natureza supletiva dos n.os 3 e 4 do art. 20.º do DLR 7/2008/A",
+    "motivo": "Confirmado: outro diploma, não textual."
+   },
+   {
+    "instrucao": "DLR 3/2017/A, art. 39.º, n.º 5: nova redação do art. 12.º do DLR 17/2009/A",
+    "motivo": "Confirmado: outro diploma: o original só aparece na lista de alterações desse diploma."
+   },
+   {
+    "instrucao": "DLR 3/2017/A, art. 40.º: nova redação dos arts. 6.º e 8.º do DLR 8/2002/A",
+    "motivo": "Confirmado: outro diploma: o original só aparece na lista de alterações desse diploma."
+   },
+   {
+    "instrucao": "DLR 3/2017/A, art. 41.º: suspensão em 2017 do reembolso de incentivo do DLR 19/2007/A",
+    "motivo": "Confirmado: outro diploma (suspensão); o original só aparece na lista de alterações."
+   },
+   {
+    "instrucao": "DLR 1/2018/A, art. 40.º: nova redação dos arts. 2.º, 6.º e 8.º do regime aprovado pelo DLR 8/2002/A",
+    "motivo": "Confirmado: outro diploma: o original só aparece na lista de alterações desse diploma."
+   },
+   {
+    "instrucao": "DLR 1/2019/A, art. 43.º: atualização da remuneração complementar regional (art. 10.º do DLR 8/2002/A)",
+    "motivo": "Confirmado: outro diploma, não textual; o original só aparece na lista de alterações."
+   },
+   {
+    "instrucao": "DLR 1/2020/A",
+    "motivo": "Confirmado: a vista só traz o título deste alterador, sem texto: o diploma que altera não traz o texto da alteração."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

@@ -1,0 +1,13 @@
+[
+  {"id": "pt:dre:455616:por",
+   "artigos": [
+     {"artigo": "Artigo 8.º", "veredicto": "certo", "motivo": "Nova redação do art. 2.º do DLR 23/2010/M, letra a letra.", "texto_esperado": ""},
+     {"artigo": "ANEXO II", "veredicto": "certo", "motivo": "Bases VII, XIII, XIV, XXII, XXVII e XXX substituídas por inteiro pela redação do DLR 23/2010/M; base XLIV «(Revogada.)» com a epígrafe (art. 3.º); restantes bases iguais. Nada do DLR 9/2016/M foi aplicado.", "texto_esperado": ""}
+   ],
+   "instrucoes_em_falta": [],
+   "instrucoes_justificadas": [
+     {"instrucao": "DLR 9/2016/M, arts. 1.º, 2.º e 4.º: art. 1.º e bases I, III, VII, XII, XIII, XXIV e XXVII do anexo II do DLR 1/2004/M e republicação dessas bases", "motivo": "Instrução de outro diploma (DLR 1/2004/M, concessão VIAEXPRESSO), ainda que alterado pelo original."},
+     {"instrucao": "DLR 9/2016/M, art. 3.º: autorização para subscrever as alterações ao contrato de concessão da VIAEXPRESSO", "motivo": "Outro diploma / não textual: não visa o DLR 36/2008/M."}
+   ],
+   "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+]

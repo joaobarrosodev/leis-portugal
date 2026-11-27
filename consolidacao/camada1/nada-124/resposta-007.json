@@ -1,0 +1,68 @@
+[
+ {
+  "id": "pt:dre:444240:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação do art. 5.º dada pelo art. 1.º do DLR 32/2009/M, letra a letra.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DLR 32/2009/M, art. 2.º (utilização da autorização produz efeitos até 31/1/2010)",
+    "motivo": "não textual: regra de efeitos da autorização, sem nova redação do original"
+   },
+   {
+    "instrucao": "DLR 34/2009/M, art. 40.º, alínea c) (mantém em vigor o subsídio criado pelo art. 40.º do original)",
+    "motivo": "não textual: manutenção em vigor, sem nova redação"
+   },
+   {
+    "instrucao": "DLR 2/2011/M, art. 61.º, alínea c) (mantém em vigor o mesmo subsídio)",
+    "motivo": "não textual: manutenção em vigor, sem nova redação"
+   },
+   {
+    "instrucao": "DLR 8/2011/M, alteração, aditamento e republicação do DLR 24/2002/M",
+    "motivo": "outro diploma (DLR 24/2002/M)"
+   },
+   {
+    "instrucao": "DLR 11/2011/M, arts. 1.º e 2.º (art. 13.º do DLR 2/2011/M; arts. 4.º, 5.º, 6.º e 13.º do DLR 24/2002/M)",
+    "motivo": "outro diploma"
+   },
+   {
+    "instrucao": "DLR 20/2011/M, arts. 1.º e 2.º (DLR 3/2001/M e art. 2.º do DLR 2/2001/M, com as alterações do original)",
+    "motivo": "outro diploma"
+   },
+   {
+    "instrucao": "DLR 22/2011/M, art. 2.º (art. 16.º do DLR 21-A/2005/M, alterado pelo art. 19.º do original)",
+    "motivo": "outro diploma"
+   },
+   {
+    "instrucao": "DLR 42/2012/M, art. 16.º (mantém as taxas de IRC do art. 2.º do DLR 2/2001/M)",
+    "motivo": "outro diploma / não textual"
+   },
+   {
+    "instrucao": "DLR 42/2012/M, art. 60.º, n.º 1, alínea c) (extinção do Fundo de Gestão criado pelo art. 30.º do original)",
+    "motivo": "não textual: extingue o serviço sem revogar nem dar nova redação ao art. 30.º; o n.º 7 revoga outros diplomas, não o original"
+   },
+   {
+    "instrucao": "DLR 33/2016/M (alteração e republicação do DLR 3/2001/M)",
+    "motivo": "outro diploma"
+   },
+   {
+    "instrucao": "DLR 6/2018/M (sétima alteração ao DLR 34/2008/M)",
+    "motivo": "outro diploma"
+   },
+   {
+    "instrucao": "DLR 1-A/2020/M, art. 80.º (art. 16.º do DLR 21-A/2005/M, alterado pelo art. 19.º do original)",
+    "motivo": "outro diploma"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "observacoes": "DRR 2/2010/M e DLR 14/2010/M não têm instruções ao original. Os DLR 31-A/2013/M, 18/2014/M, 17/2015/M, 42-A/2016/M, 2/2018/M e 26/2018/M vêm na vista sem texto: não se vê nenhuma instrução deles, nem justificada nem em falta."
+ }
+]

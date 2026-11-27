@@ -1,0 +1,70 @@
+[
+ {
+  "id": "pt:dre:142555:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "N.º 5 aditado pelo DL 300/76, letra a letra; n.os 1 a 4 iguais.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação integral do art. 5.º pelo DL 300/76 (parágrafo único, sem os antigos n.os 2 e 3).",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 454/83, art. 3.º (extinção, a partir de 1/1/1984, das gratificações instituídas pelo DL 265/70)",
+    "motivo": "Não textual: extingue gratificações sem revogar nem dar nova redação a artigos identificados."
+   },
+   {
+    "instrucao": "DL 454/83, arts. 1.º, 2.º e 4.º",
+    "motivo": "Normas autónomas / outro diploma (revoga o DL 62/80)."
+   }
+  ]
+ },
+ {
+  "id": "pt:dre:155194:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação do art. 3.º do DL 44885, letra a letra.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 44885, arts. 1.º e 2.º (quadros permanentes do Estado; regularização do pessoal)",
+    "motivo": "Não textual: normas autónomas, sem nova redação."
+   },
+   {
+    "instrucao": "DL 48336, art. 1.º (o quadro do art. 1.º passa a ter a composição do mapa anexo)",
+    "motivo": "Texto novo só em imagem e o consolidado não tem anexo com título onde o pôr (a lista dos iguais só tem preâmbulo e artigos)."
+   },
+   {
+    "instrucao": "DL 48336, arts. 2.º a 4.º",
+    "motivo": "Não textual: normas autónomas."
+   },
+   {
+    "instrucao": "Decreto 146/78, art. 41.º, n.º 2 (o OGE deixa de suportar os encargos do n.º 1 do art. 4.º)",
+    "motivo": "Não textual: não altera nem revoga o art. 4.º."
+   },
+   {
+    "instrucao": "Decreto 146/78, art. 2.º (quadros do FDMO passam a ter a composição dos mapas anexos)",
+    "motivo": "Não cita o DL 44785 e os mapas passam a integrar o DL 47/78; além disso só em imagem."
+   }
+  ]
+ }
+]

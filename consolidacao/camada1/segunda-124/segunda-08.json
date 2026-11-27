@@ -1,0 +1,28 @@
+[
+ {
+  "id": "pt:dre:568317:por",
+  "veredicto": "certo",
+  "problemas": [
+   "Arts. 5.º e 6.º: o DL 22/2005, art. 14.º, dá-lhes nova redação com «[...]» na epígrafe, «1 - ...» e um n.º 2 novo dividido nas alíneas a) e b). O consolidado mantém a epígrafe e o n.º 1 e tem o n.º 2 letra a letra. Os restantes alteradores (DL 334/2007, 61/2008, 240/2009, 44/2010, 106/2010, 24/2011, 80/2011 e 37/2012) e o art. 13.º do DL 22/2005 só alteram ou aditam entradas ao anexo I do DL 94/98, que é outro diploma, mesmo quando são entradas que o DL 39/2004 aditou («na redacção do presente diploma», segundo as relationships). Não há retificações nem revogações nas relationships, e no acervo nenhum outro diploma cita o DL 39/2004."
+  ],
+  "vigencia": null
+ },
+ {
+  "id": "pt:dre:455616:por",
+  "veredicto": "certo",
+  "problemas": [
+   "DLR 23/2010/M conferido letra a letra: art. 8.º, e bases VII, XIII, XIV, XXII, XXVII e XXX do anexo II. A nova redação dá o corpo inteiro de cada base, com «[...]» só na epígrafe, e substitui-o por inteiro: na base VII sai o 2.º parágrafo (o da CAC), na base XXVII sai o parágrafo do art. 61.º da Diretiva 2004/18/CE e, nas bases XIII e XXX, os «25 anos» passam a «30 anos». A base XLIV (Comissão de acompanhamento da concessão), revogada pelo art. 3.º, fica com o título e a epígrafe e o texto «(Revogada.)». As «rectificações de erros materiais» anunciadas no preâmbulo do DLR 23/2010/M vêm dentro dessas novas redações; não há declaração de retificação nas relationships.",
+   "DLR 9/2016/M: altera o art. 1.º e as bases I, III, VII, XII, XIII, XXIV e XXVII do anexo II do DLR 1/2004/M (concessão VIAEXPRESSO), «alterado pelo DLR 36/2008/M» (que mudou essas bases no seu art. 10.º), e republica-as. É outro diploma: não se aplica ao DLR 36/2008/M nem ao anexo II deste, que são as bases da VIAMADEIRA, embora o rótulo do DRE o ligue ao presente diploma."
+  ],
+  "vigencia": null
+ },
+ {
+  "id": "pt:dre:550008:por",
+  "veredicto": "duvida",
+  "problemas": [
+   "Art. 2.º: nova redação do DL 43/95 aplicada letra a letra.",
+   "Quadro de pessoal civil: a Portaria n.º 1314/95 manda que «o quadro de pessoal civil da Guarda Nacional Republicana constante do anexo ao Decreto-Lei n.º 396/89 [...] seja substituído pelo constante do anexo ao presente diploma», que só vem em imagem (https://files.diariodarepublica.pt/1s/1995/11/256b00/68356837.pdf). O texto atual tem o quadro depois das fórmulas finais, sem título de divisão: «Quadro a que se refere o artigo 2.º do Decreto-Lei n.º 396/89» e a imagem de 1989 (https://files.diariodarepublica.pt/1s/1989/11/25900/49584961.pdf). O consolidado ficou com a imagem de 1989. Pela regra do README, secção 11 (imagem substituída por inteiro: troca-se a ligação, que nos anexos-aplicados também se fez em quadros do fecho, sem título), a ligação passaria a ser a de 1995; pela ADENDA-respondedor (sem título de anexo no texto atual, não se inventa) fica como está. A substituição é total e o relationships do DRE regista-a («Substituído o quadro de pessoal civil pelo(a) Portaria n.º 1314/95»). Fica em dúvida só por qual das regras se aplica."
+  ],
+  "vigencia": null
+ }
+]

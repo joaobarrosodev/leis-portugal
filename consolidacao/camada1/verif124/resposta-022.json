@@ -1,0 +1,47 @@
+[
+  {"id": "pt:dre:232942:por",
+   "artigos": [
+     {"artigo": "Artigo 14.º", "veredicto": "certo", "motivo": "N.º 1 com a redação do art. 1.º do DL 82/80 (três a cinco administradores); n.os 2 a 4 iguais ao original.", "texto_esperado": ""}
+   ],
+   "instrucoes_em_falta": [],
+   "instrucoes_justificadas": [
+     {"instrucao": "DL 117/91: transformação da Tabaqueira, E. P., em sociedade anónima e aprovação de novos estatutos", "motivo": "Não textual: não dá nova redação nem revoga expressamente o estatuto anexo ao DL 503-G/76."}
+   ],
+   "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"},
+  {"id": "pt:dre:242053:por",
+   "artigos": [
+     {"artigo": "Artigo 3.º", "veredicto": "certo", "motivo": "N.º 3 novo do art. 1.º do DL 106/95; antigos n.os 3 e 4 passam a 4 e 5 com o mesmo texto.", "texto_esperado": ""}
+   ],
+   "instrucoes_em_falta": [],
+   "instrucoes_justificadas": [
+     {"instrucao": "DL 120/2002: orgânica do XV Governo, orientação estratégica do IPE pelos ministros das Finanças e da Economia", "motivo": "Não textual: não dá nova redação nem revoga artigos do DL 406/90."}
+   ],
+   "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"},
+  {"id": "pt:dre:249799:por",
+   "artigos": [
+     {"artigo": "Artigo 10.º", "veredicto": "certo", "motivo": "N.º 3 aditado pela Lei 20/2000, letra a letra.", "texto_esperado": ""},
+     {"artigo": "Artigo 12.º", "veredicto": "certo", "motivo": "Lei 20/2000: novas alíneas p) e q) e antiga q) passa a r); restantes alíneas e números iguais.", "texto_esperado": ""},
+     {"artigo": "Artigo 15.º", "veredicto": "certo", "motivo": "N.º 1 com a redação da Lei 20/2000 (inclui a grafia «companhamento» do alterador); n.º 2 igual.", "texto_esperado": ""},
+     {"artigo": "Artigo 17.º", "veredicto": "certo", "motivo": "N.º 5 com a redação da Lei 20/2000 («designadamente mediante um endereço na Internet»).", "texto_esperado": ""},
+     {"artigo": "Artigo 19.º", "veredicto": "certo", "motivo": "N.º 3 aditado pela Lei 20/2000, letra a letra.", "texto_esperado": ""},
+     {"artigo": "Artigo 20.º", "veredicto": "certo", "motivo": "N.º 3 aditado pela Lei 20/2000, letra a letra.", "texto_esperado": ""},
+     {"artigo": "Artigo 27.º", "veredicto": "certo", "motivo": "N.º 1 com a redação do DL 122/2001; n.º 2 igual.", "texto_esperado": ""},
+     {"artigo": "Artigo 33.º", "veredicto": "certo", "motivo": "N.os 1 e 3 com a redação do art. 7.º da Lei 51/2005; restantes números iguais.", "texto_esperado": ""},
+     {"artigo": "Artigo 35.º", "veredicto": "certo", "motivo": "N.º 3 aditado pela Lei 20/2000, letra a letra (com a grafia «no casos» do alterador).", "texto_esperado": ""}
+   ],
+   "instrucoes_em_falta": [],
+   "instrucoes_justificadas": [
+     {"instrucao": "RCM 101/2003, n.º 4: mantém os órgãos de gestão e manda entender as referências ao POE como feitas ao PRIME", "motivo": "Não textual: mudança de designação sem nova redação."},
+     {"instrucao": "DL 137/2007, art. 14.º, n.º 1, alínea a): extinção da Estrutura de Apoio Técnico instituída pelo art. 9.º", "motivo": "Não textual: extingue a estrutura e transfere atribuições; não revoga nem dá nova redação ao art. 9.º."}
+   ],
+   "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"},
+  {"id": "pt:dre:252195:por",
+   "artigos": [
+     {"artigo": "Artigo 18.º", "veredicto": "certo", "motivo": "Alínea m) do n.º 2 substituída por inteiro pela redação do DL 543/80; resto igual.", "texto_esperado": ""}
+   ],
+   "instrucoes_em_falta": [],
+   "instrucoes_justificadas": [
+     {"instrucao": "DL 98/91: transformação da FEIS, E. P., em sociedade anónima e aprovação de novos estatutos", "motivo": "Não textual: não dá nova redação nem revoga expressamente artigos do DL 194/77."}
+   ],
+   "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+]

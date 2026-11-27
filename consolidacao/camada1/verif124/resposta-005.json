@@ -1,0 +1,75 @@
+[
+ {
+  "id": "pt:dre:285142:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 14.º",
+    "veredicto": "certo",
+    "motivo": "Único trecho que muda é o art. 8.º do DL 122/88 (incluído neste bloco): fica com a redação do art. 151.º da Lei 55-A/2010, letra a letra, que substitui a do art. 6.º do DL 233/91. O resto do bloco (texto dado aos artigos do CIVA e do DL 504-M/85, arts. 2.º a 11.º) fica igual ao original, como deve, porque as alterações posteriores a esses artigos são de outros diplomas.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 198/90: alterações ao CIVA, às listas anexas ao CIVA e ao DL 143/86 (arts. 3.º, 3.º-A, 6.º-A); revogações no CIVA",
+    "motivo": "outro diploma (confirmado no texto)"
+   },
+   {
+    "instrucao": "DL 233/91, arts. 1.º a 5.º e 7.º: CIVA, listas do CIVA, DL 504-M/85 (incl. art. 14.º), DL 408/87",
+    "motivo": "outro diploma (confirmado); o art. 6.º (art. 8.º do DL 122/88) foi substituído pela Lei 55-A/2010"
+   },
+   {
+    "instrucao": "DL 7/96: CPT, CIRS, CIRC, CIVA, Regulamento do Imposto do Selo, Código da Sisa e do Imposto sobre Sucessões e Doações",
+    "motivo": "outro diploma (confirmado)"
+   },
+   {
+    "instrucao": "DL 256/2003: CIVA, EBF, DL 127/90, DL 198/90; revoga DL 375/99, DR 16/2000 e Portaria 52/2002",
+    "motivo": "outro diploma (confirmado)"
+   },
+   {
+    "instrucao": "Lei 57/2005: art. 21.º do CIVA",
+    "motivo": "outro diploma (confirmado)"
+   },
+   {
+    "instrucao": "Lei 33/2006: CIVA (arts. 2.º, 19.º, 28.º, 35.º, 48.º, 53.º, 60.º e anexo E)",
+    "motivo": "outro diploma (confirmado)"
+   },
+   {
+    "instrucao": "DL 238/2006: CIRS, CIRC, CIVA, RITI, regime dos bens em circulação, DL 143/86, DL 20/90, CIS, CIMI, CIMT, DL 287/2003, LGT, CPPT e revogações nesses códigos",
+    "motivo": "outro diploma (confirmado)"
+   },
+   {
+    "instrucao": "DL 21/2007: CIVA, regime de exigibilidade nas empreitadas, regime da renúncia à isenção; revoga DL 241/86",
+    "motivo": "outro diploma (confirmado)"
+   },
+   {
+    "instrucao": "DL 186/2009: CIVA, anexo D, RITI, regime dos serviços por via eletrónica, regime de reembolso; revoga DL 408/87",
+    "motivo": "outro diploma (confirmado)"
+   },
+   {
+    "instrucao": "DL 249/2009: aprova o Código Fiscal do Investimento; altera CIVA, CIRS, EBF; revoga DL 401/99 e DL 409/99",
+    "motivo": "outro diploma (confirmado)"
+   },
+   {
+    "instrucao": "DL 134/2010: CIVA (incl. art. 14.º do CIVA) e RITI; revoga n.º 4 do art. 27.º do CIVA",
+    "motivo": "outro diploma (confirmado): o art. 14.º do CIVA alterado não é o art. 14.º deste decreto-lei"
+   },
+   {
+    "instrucao": "DL 197/2012: CIVA, RITI, DL 221/85, CIRS, CIRC, DL 198/90, regimes especiais, DL 196/2007, Lei 15/2009",
+    "motivo": "outro diploma (confirmado)"
+   },
+   {
+    "instrucao": "DL 71/2013: regime de IVA de caixa, CIVA, LGT, DL 198/2012; revoga regimes especiais de exigibilidade",
+    "motivo": "outro diploma (confirmado)"
+   },
+   {
+    "instrucao": "Lei 51/2013: Lei 66-B/2012, CIRS, CIVA, CIEC, EBF, DL 172/94, Lei 28/2012, DL 113/2011",
+    "motivo": "outro diploma (confirmado)"
+   }
+  ]
+ }
+]

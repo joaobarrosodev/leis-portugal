@@ -1,0 +1,88 @@
+[
+ {
+  "id": "pt:dre:157639:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "N.º 1 com a nova redação do art. 1.º do DL 84/2004; n.os 2 e 3 mantidos («...»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "N.º 1, alíneas novas e n.os 4 a 8 do DL 84/2004; l), m), u), v), x) são as anteriores m), n), s), t), v); a), c), d), i), j), p), q) e n.º 3 mantidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "N.º 2, alíneas a), c), d), e n.º 4 com a nova redação do DL 84/2004; resto mantido.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "Alíneas b) e d) com a nova redação do DL 84/2004; resto mantido.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "Alíneas e), h) e i) com a nova redação do DL 84/2004; resto mantido.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "certo",
+    "motivo": "N.os 2 e 5 com a nova redação do DL 84/2004; resto mantido.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação do art. 1.º do DL 84/2004, letra a letra, com o texto original nos «...».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 11.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação do art. 1.º do DL 84/2004, letra a letra, com o texto original nos «...».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 13.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação do art. 1.º do DL 84/2004, letra a letra, com o texto original nos «...». A ligação ao DL 47/94 é só formatação.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "observacoes": "Todas as instruções do DL 84/2004 (art. 1.º) estão aplicadas; o art. 3.º é a republicação. O DL 215-A/2004 (orgânica do XVI Governo) só faz transitar o CNA para o novo ministério (art. 25.º, n.º 3, alínea i)), sem instrução ao original. Os DL 119/2013, 32/2024 e 87-A/2025 vêm na vista sem texto: não se vê nenhuma instrução deles, nem justificada nem em falta."
+ },
+ {
+  "id": "pt:dre:188939:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "N.º 2 retificado pela Declaração de Rectificação 2-A/2003 (vírgula depois de «utente»).",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Acórdão do TC 246/2005: declara a inconstitucionalidade, com força obrigatória geral, das normas dos arts. 4.º a 8.º",
+    "motivo": "não textual: declaração de inconstitucionalidade sem eliminar o texto (confirmado na decisão, parte III)"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

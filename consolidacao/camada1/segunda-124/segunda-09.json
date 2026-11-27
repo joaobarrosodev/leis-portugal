@@ -1,0 +1,37 @@
+[
+ {
+  "id": "pt:dre:533376:por",
+  "veredicto": "reparos",
+  "problemas": [
+   "Retificação não aplicada: a Declaração de Rectificação n.º 22/94 (pt:dre:165071:por, DR I-A n.º 49, 2.º supl., de 28-02-1994; data/portugal/declaracoes-retificacao/1994/declaracao-retificacao-22-94.md) está nas relationships como corrected_by e não está entre os alteradores. O consolidado mantém o texto errado em dois artigos dados como iguais ao original: (1) art. 21.º, n.º 2, alínea a): onde está «a que se referem as alíneas a), b), e) e i) do número anterior;» deve ler-se «a que se referem as alíneas a), b) e e) do número anterior;»; (2) art. 57.º, alínea b): onde está «98.º a 109.º e 111.º a 114.º do Decreto Regulamentar n.º 42/83, de 20 de Maio;» deve ler-se «98.º a 104.º, 105.º, excepto o n.º 1, alínea a), 106.º a 109.º e 111.º a 114.º do Decreto Regulamentar n.º 42/83, de 20 de Maio;». A terceira retificação (art. 42.º, n.º 5) fica sem objeto, porque o DL 42/97 deu nova redação a todo o art. 42.º.",
+   "Revogação que falta: o DL 51/98 (pt:dre:218950:por; data/portugal/decretos-leis/1998/decreto-lei-51-98.md, norma revogatória) diz «São revogados os artigos 28.º a 31.º do Decreto-Lei n.º 408/93». Está em repealed_by e não é alterador. Os arts. 28.º a 31.º estão no consolidado como iguais ao original e deviam ficar «Art. 28.º - (Revogado.)» a «Art. 31.º - (Revogado.)».",
+   "Revogação que falta: o DL 357/98 (pt:dre:229310:por; data/portugal/decretos-leis/1998/decreto-lei-357-98.md) diz «É revogado o n.º 2 do artigo 35.º do Decreto-Lei n.º 408/93». Está em repealed_by e não é alterador. O art. 35.º está igual ao original; o n.º 2 devia ficar «2 - (Revogado.)».",
+   "Revogação que falta: o art. 28.º, n.º 1, do DL 366/99 (pt:dre:569887:por; data/portugal/decretos-leis/1999/decreto-lei-366-99.md) diz «São revogados os artigos 1.º, 2.º, 3.º, 4.º, 17.º, 18.º, 25.º e 52.º do Decreto-Lei n.º 408/93». É uma revogação incondicional e entrou em vigor a 1-05-2000 (art. 29.º, na redação do DL 3/2000). O DL 366/99 não está entre os alteradores. Os arts. 17.º, 18.º e 25.º foram repristinados pelo art. 2.º, n.º 2, do DL 262/2002, e o texto deles fica. Os arts. 1.º, 2.º, 3.º, 4.º e 52.º nunca foram repristinados e estão no consolidado como iguais ao original; deviam ficar «(Revogado.)». O verificador deu por justificada a repristinação dizendo que «o DL 366/99 não é alterador desta vista». É precisamente essa ausência que deixa sem revogação os arts. 1.º a 4.º e 52.º.",
+   "Fica de fora, com razão: o art. 28.º, n.º 2, do DL 366/99 (revogação dos arts. 5.º a 16.º, 19.º a 24.º, 26.º a 31.º e 32.º a 38.º «a partir da entrada em vigor da portaria a que se refere o artigo 24.º») depende de um facto futuro. Os DL 262/2002 e 237/2004 indicam que a portaria não tinha saído até 2004, e não encontrei no acervo prova de que tenha sido publicada.",
+   "Nada a corrigir no resto: as novas redações do DL 42/97 (arts. 32.º, 33.º, 36.º a 42.º, 44.º, 46.º e 55.º) estão aplicadas. O texto citado do DL 187/90 saiu bem do art. 55.º, e os antigos n.os 2 e 3 deste artigo passaram a n.os 1 e 2."
+  ],
+  "vigencia": null
+ },
+ {
+  "id": "pt:dre:279796:por",
+  "veredicto": "reparos",
+  "problemas": [
+   "Alterador não aplicado por troca de textos: as relationships dizem «Alterados os arts. 20.º, 35.º, 41.º, 42.º, 43.º, 55.º e 77.º, pelo DEC LEI.264-C/81» (pt:dre:517228:por). No acervo, porém, o texto guardado com esse id é o da lei dos estrangeiros. O verificador deu o alterador por «sem texto», e mal. A Declaração de 29-09-1981 (pt:dre:561801:por; data/portugal/declaracoes/1981/declaracao-1981-10-15-561801.md) retifica os sumários trocados: o DL 264-C/81 é o que «Dá nova redacção a várias disposições das Leis n.os 82/77, 85/77 e 39/78». O texto certo está no acervo com o id pt:dre:517227:por (data/portugal/decretos-leis/1981/decreto-lei-264-b-81.md). O seu ARTIGO 1.º diz «Os artigos 20.º, 35.º, 41.º, 42.º, 43.º, 55.º e 77.º da Lei n.º 82/77, de 6 de Dezembro, passam a ter a seguinte redacção» e traz essas novas redações: art. 20.º, n.º 1 (alçadas de 400000$00 e 120000$00; n.º 2 «...»); art. 35.º inteiro (n.os 1, alíneas a) a h), e 2); art. 41.º (n.os 1 e 2); art. 42.º (n.os 1 a 3); art. 43.º («É aplicável às relações o disposto no artigo 23.º, no n.º 3 do artigo 24.º e nos artigos 25.º, 26.º, 28.º, 31.º, 32.º e 34.º»); art. 55.º (n.º 1, alíneas d) e e) novas, a) a c) «...», e n.º 2); art. 77.º, n.º 2 (alíneas a) a c); n.os 1 e 3 «...»). Os sete artigos estão no consolidado como iguais ao original e têm de receber estas redações.",
+   "Retificação menor fora do articulado: a Rectificação de 31-01-1978 (pt:dre:448505:por; data/portugal/outros/rectificacao/1978/rectificacao-1978-02-13-448505.md) manda acrescentar, depois das assinaturas, «Para ser publicada no Boletim Oficial de Macau.». Não mexe nos artigos.",
+   "O resto está certo: as redações do DL 348/80 (arts. 34.º, 46.º, n.º 4, 49.º, n.os 1 e 2, e 66.º, alínea i)) estão aplicadas, e foram bem dadas por não textuais a suspensão da Lei 28/79 e a declaração de inconstitucionalidade da Resolução 34/82 (art. 83.º, n.º 3)."
+  ],
+  "vigencia": {
+   "conclusao": "substituido",
+   "prova": "A Lei n.º 38/87 (nova Lei Orgânica dos Tribunais Judiciais), art. 104.º, n.º 1: «Enquanto não for publicada lei própria para o território de Macau, mantém-se em vigor a Lei n.º 82/77 [...] no tocante à organização, competência e funcionamento dos tribunais». Quer dizer que a Lei 82/77 só se manteve em vigor para Macau."
+  }
+ },
+ {
+  "id": "pt:dre:461650:por",
+  "veredicto": "certo",
+  "problemas": [
+   "Nada a corrigir. Estão aplicados o DL 301/81 (art. 18.º, n.os 1 e 2, com a epígrafe que vem na nova redação), o DL 124/83 (n.º 3 aditado ao art. 2.º) e o DL 460/85 (n.os 1.1 e 1.2 do art. 5.º). Foram bem dados por não textuais o art. 2.º do DL 460/85 (produção de efeitos) e o art. 69.º do DL 20/2006 (mantém o art. 22.º em vigor). Não há corrected_by nem repealed_by, e não encontrei no acervo nenhuma revogação do DL 412/80.",
+   "Uma nota: o DL 301/81 diz «Os n.os 1 e 2 do artigo 18.º [...] passam a ter a seguinte redacção» mas publica o artigo com epígrafe nova, e o consolidado adotou-a. É a leitura habitual, por isso não lhe dou reparos."
+  ],
+  "vigencia": null
+ }
+]

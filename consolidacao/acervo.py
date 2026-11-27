@@ -123,6 +123,11 @@ DE_FORA = {
     "pt:dre:415444:por",   # Portaria 1307-B/93: regulamenta o DL 275-A/93, só mantida transitoriamente (DL 191/99, art. 50.º); como a 1411/95
     # Ronda 114: igual ao original.
     "pt:dre:300610:por",   # DL 78/2002
+    # Ronda 124 (linha 9): o data/ tem uma correção posterior à última consolidação verificada (retificação,
+    # revogação ou anexo por outra via) que a nova consolidação não traz: fica a do data/.
+    "pt:dre:501979:por",
+    "pt:dre:138828:por",
+    "pt:dre:484657:por",
     # Verificado na ronda 6 e nunca aplicado; fora do lote da ronda 112 e sem a segunda leitura.
     "pt:dre:606505:por",
 }

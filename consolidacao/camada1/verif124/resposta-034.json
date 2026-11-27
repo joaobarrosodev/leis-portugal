@@ -1,0 +1,183 @@
+[
+ {
+  "id": "pt:dre:413203:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 14.º",
+    "veredicto": "certo",
+    "motivo": "N.º 2 com a redação do DL 338/78 (alíneas a) e b) do DL 459/75), n.º 4 do DL 459/75, n.º 5 aditado pelo DL 338/78; n.os 1 e 3 do original mantidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 18.º",
+    "veredicto": "certo",
+    "motivo": "N.º 3 com a redação do DL 459/75; n.os 1, 2 e 4 mantidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 34.º",
+    "veredicto": "certo",
+    "motivo": "N.º 1 com a redação do DL 459/75; n.º 2 mantido.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 39.º",
+    "veredicto": "certo",
+    "motivo": "N.os 1 e 2 com a redação do DL 459/75; n.º 3 mantido («3 ...»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 47.º",
+    "veredicto": "certo",
+    "motivo": "N.º 1 = antigo corpo, n.os 2 e 3 do DL 459/75, letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 50.º",
+    "veredicto": "certo",
+    "motivo": "N.os 1 e 2 mantidos; n.os 3 e 4 do DL 459/75, letra a letra.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 371/79, art. 4.º: revogada, «quanto à admissão de serventes», a cláusula do n.º 2 do art. 39.º inserta pelo DL 459/75",
+    "motivo": "Revogação delimitada pelo âmbito (só quanto a serventes): o n.º 2 continua a valer para os escriturários e a parte geral também abrange serventes; não se reduz a um corte de texto (equiparável à condicional)."
+   },
+   {
+    "instrucao": "DL 371/79, art. 5.º: revogado, quanto ao pessoal auxiliar, o art. 52.º",
+    "motivo": "Revogação condicional/por âmbito: o artigo fica para o restante pessoal."
+   },
+   {
+    "instrucao": "DL 57/80, art. 52.º, a): revogadas as disposições do DL 513/73 «no que respeita ao pessoal auxiliar»",
+    "motivo": "Revogação genérica por matéria («todas as disposições legais relativas a»), sem artigos identificados."
+   },
+   {
+    "instrucao": "DL 459/75, arts. 2.º a 7.º; DL 338/78, art. 2.º; DL 371/79, arts. 1.º a 3.º",
+    "motivo": "Normas autónomas/transitórias; não dão nova redação ao original."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:413845:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "N.os 1, 3 e 4 com a redação do DL 599/73; n.º 2 mantido («2. ...»); fecho e mapa do original mantidos.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 599/73, art. 2.º: contratação de pessoal além do quadro",
+    "motivo": "Norma própria do alterador; não adita nem altera o original."
+   },
+   {
+    "instrucao": "Decreto 19/77, art. 1.º: o fotógrafo de 3.ª classe do quadro passa à letra O",
+    "motivo": "O quadro só existe em imagem e o alterador não traz texto nem imagem nova; não há texto onde aplicar."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:414417:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 20.º",
+    "veredicto": "errado",
+    "motivo": "O texto do artigo está certo (art. 5.º do DL 299/82), mas o bloco mantém o MAPA ANEXO «Quadro do pessoal de direcção e chefia» de 1970 (imagem 1970/12/30101 e a Nota), quando o art. 1.º do Decreto 832/74 o substituiu pelo quadro anexo a esse decreto (imagem 1974/12/30311/02000201.pdf e Notas 1 a 4). O mapa tem título no texto («MAPA ANEXO» / «Quadro do pessoal de direcção e chefia»), por isso há onde pôr as linhas da imagem do alterador.",
+    "texto_esperado": "###### Artigo 20.º\n\nÀ Mesa da Misericórdia acrescerá, para a gerência da Lotaria Nacional, o director do Departamento de Apostas Mútuas Desportivas, nos termos do já citado artigo 16.º do [Decreto-Lei n.º 43777](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43777-1961-172897), de 3 de Julho de 1961.\n\nVisto e aprovado em Conselho de Ministros. - Marcello Caetano - Baltasar Leite Rebelo de Sousa.\n\nPromulgado em 29 de Dezembro de 1970.\n\nPublique-se.\n\nO Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.\n\nPara ser presente à Assembleia Nacional.\n\nMAPA ANEXO\n\nQuadro do pessoal de direcção e chefia\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/12/30311/02000201.pdf)\n\nNOTAS\n\n1 - O provedor, os adjuntos e os directores de serviços da Lotaria Nacional e das Apostas Mútuas Desportivas têm direito às gratificações previstas na [Portaria n.º 18824](https://diariodarepublica.pt/dr/detalhe/portaria/18824-1961-185350), de 21 de Novembro de 1961.\n\n2 - As actuais funções de secretário da Mesa da Santa Casa da Misericórdia de Lisboa e de oficial público desta instituição serão remuneradas com a gratificação mensal de 3000$00.\n\n3 - Os membros da Comissão de Organização e Métodos referida no artigo 2.º do [Decreto-Lei n.º 692/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/692-1970-414417), de 31 de Dezembro, terão direito a uma gratificação mensal de 2500$00.\n\n4 - Na colocação do pessoal neste quadro observar-se-á o preceituado no n.º 1 do artigo 65.º do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro.\n\nO Ministro da Saúde e Assistência, Baltasar Leite Rebelo de Sousa."
+   }
+  ],
+  "instrucoes_em_falta": [
+   "Decreto 832/74, art. 1.º: o quadro do pessoal de direcção e chefia anexo ao DL 692/70 é substituído pelo quadro anexo ao decreto (imagem https://files.diariodarepublica.pt/1s/1974/12/30311/02000201.pdf com as Notas 1 a 4); o consolidado mantém a imagem e a Nota de 1970."
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 299/82, arts. 1.º a 4.º e tabela anexa: gratificações pelas gerências da Lotaria e das Apostas Mútuas",
+    "motivo": "Normas próprias do alterador; não dão nova redação ao original."
+   },
+   {
+    "instrucao": "Decreto do Governo 50/83, art. 1.º: quadro acrescido de 1 director de serviço, 3 chefes de divisão e 1 chefe de repartição",
+    "motivo": "O quadro só existe em imagem e o alterador não traz texto nem imagem nova para ele."
+   },
+   {
+    "instrucao": "DL 55/98 (alterações e republicação do DL 296-A/95, incluindo o art. 24.º sobre a dependência da Santa Casa)",
+    "motivo": "Outro diploma."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:417260:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação do DR 66/87, letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação do DR 66/87, letra a letra; fecho do original mantido.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DR 21/89: prazo do art. 1.º prorrogado por um ano",
+    "motivo": "Não textual: prorrogação."
+   },
+   {
+    "instrucao": "DR 27/90: prazo do art. 1.º prorrogado por um ano",
+    "motivo": "Não textual: prorrogação."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:418398:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "dúvida",
+    "motivo": "Alínea f) bem aditada. Mas a nova redação do DR 15/99 só traz «1 - ...», a) a e) «...», f) e «2 - ...», sem n.º 3 nem «...» final; o consolidado mantém o n.º 3 do original. Letra a letra, a redação dada não tem n.º 3; pode ser só técnica de redação parcial.",
+    "texto_esperado": "###### Artigo 3.º — Rendimentos\n\n1 - São considerados, para os efeitos referidos no artigo anterior, os seguintes rendimentos anuais ilíquidos:\n\na) Rendimentos do trabalho dependente e ou independente;\n\nb) Rendimentos comerciais, industriais e ou agrícolas;\n\nc) Rendimentos de capitais;\n\nd) Rendimentos prediais;\n\ne) Pensões.\n\nf) Outras prestações sociais compensatórias da perda ou inexistência de rendimentos concedidas no âmbito dos regimes de protecção social.\n\n2 - Os rendimentos compreendidos no âmbito das categorias enunciadas nas alíneas a) a e) do número anterior são os estabelecidos para as correspondentes categorias na legislação que regula o imposto sobre os rendimentos das pessoas singulares (IRS).\n\n[n.º 3 só se a redação parcial o mantiver: o DR 15/99 não o reproduz nem marca com «...»]"
+   },
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação do DR 15/99, letra a letra.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 176/2003, art. 56.º, n.º 1, a): DR 24-A/97 derrogado na parte relativa às prestações reguladas nesse diploma",
+    "motivo": "Revogação condicional (derrogação parcial por matéria, sem artigos identificados)."
+   },
+   {
+    "instrucao": "DL 133/2012, art. 56.º, n.º 1, a): idem",
+    "motivo": "Revogação condicional (derrogação parcial por matéria, sem artigos identificados)."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

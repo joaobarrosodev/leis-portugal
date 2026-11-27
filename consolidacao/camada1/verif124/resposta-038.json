@@ -1,0 +1,22 @@
+[
+  {
+    "id": "pt:dre:461606:por",
+    "artigos": [
+      {"artigo": "Artigo 4.º", "veredicto": "certo", "motivo": "Nova redação do art. 1.º do DL 237-A/83, letra a letra.", "texto_esperado": ""},
+      {"artigo": "Artigo 7.º", "veredicto": "certo", "motivo": "DL 237-A/83: n.os 1 e 2 a)-h) mantidos ('...'), aditada a alínea i) e o n.º 3, letra a letra.", "texto_esperado": ""},
+      {"artigo": "Artigo 8.º", "veredicto": "certo", "motivo": "N.º 1 na redação do DL 179/87 (a última, sobre as do DL 25/82 e 237-A/83); n.os 2 e 3 do original.", "texto_esperado": ""},
+      {"artigo": "Artigo 9.º", "veredicto": "certo", "motivo": "N.º 1 na redação do DL 179/87 (sobre a do DL 25/82); n.os 2 e 3 do original.", "texto_esperado": ""}
+    ],
+    "instrucoes_em_falta": [],
+    "artigos_a_mais": [],
+    "artigos_em_falta": [],
+    "fora_dos_artigos": "sem alterações",
+    "instrucoes_justificadas": [
+      {"instrucao": "Alterador 2 (DL 25/82, artigo único: nova redação dos arts. 8.º e 9.º)", "motivo": "É o mesmo DL 25/82 do alterador 1, com o mesmo texto; já está aplicado (e depois substituído no n.º 1 pelo DL 179/87)."},
+      {"instrucao": "DL 237-A/83, art. 2.º (alteração do quadro de pessoal anexo, administração e direção técnica)", "motivo": "O quadro novo só vem em imagem e o consolidado não tem anexo com título (só preâmbulo e arts. 1.º a 16.º)."},
+      {"instrucao": "DL 179/87, art. 1.º (o Instituto passa a depender diretamente do Ministro da Saúde)", "motivo": "Não textual: não dá nova redação a nenhum artigo."},
+      {"instrucao": "DL 119/2003, DL 215-A/2004, DL 79/2005 e DL 212/2006 (leis orgânicas: tutela do Instituto; extinção com integração das atribuições no INSA)", "motivo": "Não textuais: alteram o DL 120/2002 e outras orgânicas, não o texto do DL 431/80; não o revogam."},
+      {"instrucao": "DL 271/2007, art. 19.º (o INSA sucede nas atribuições do Instituto, que se extingue)", "motivo": "Não textual; a norma revogatória (art. 22.º) só revoga o DL 307/93."}
+    ]
+  }
+]

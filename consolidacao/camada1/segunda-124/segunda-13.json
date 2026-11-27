@@ -1,0 +1,48 @@
+[
+ {
+  "id": "pt:dre:298005:por",
+  "veredicto": "reparos",
+  "problemas": [
+   "Falta o Decreto-Lei n.º 264-C/81 inteiro. O texto que veio no pedido (o do DRE 517228) é o do DL 264-B/81, sobre estrangeiros, porque o DRE trocou os textos dos dois diplomas. A Declaração de 15.10.1981 (pt:dre:561801) retifica os sumários e confirma que o 264-C/81 é o que «dá nova redacção a várias disposições das Leis n.os 82/77, 85/77 e 39/78». O texto certo está no acervo, no ficheiro data/portugal/decretos-leis/1981/decreto-lei-264-b-81.md (pt:dre:517227, que traz o cabeçalho do 264-C/81). O seu art. 3.º dá nova redação aos arts. 4.º, 5.º, 28.º, 41.º, 57.º, 89.º, 90.º, 91.º, 101.º, 107.º, 121.º, 132.º, 137.º e 153.º da Lei 39/78, e o consolidado não aplica nenhuma delas. As relações do DRE dizem o mesmo («Alterados os arts 4º, 5º, 28º, 41º, 57º, 89º, 90º, 91º, 101º, 107º, 121º, 132º, 137º e 153º pelo DEC LEI.264-C/81»). Exemplos: o art. 89.º passa a ter 8 números (o n.º 1 fica «...», com a redação do DL 348/80; o novo n.º 2 diz «O vencimento dos procuradores-gerais-adjuntos é fixado em 90%…»; o n.º 3 é o do vencimento dos procuradores da República «incorporado de quatro diuturnidades e acrescido de um subsídio de 5%»; o n.º 6 fala em «três, sete, onze e quinze anos»; o n.º 8 cria o subsídio de fixação «nas regiões autónomas e no território de Macau»); o art. 90.º passa a ser «O procurador-geral da República tem direito a um subsídio correspondente a 20% do vencimento a título de despesas de representação.»; o art. 100.º não muda.",
+   "Art. 4.º do DL 264-C/81: os quadros anexos à Lei 39/78, que estão no fim do texto do original, mudam assim: no «Quadro a que se refere o n.º 2 do artigo 11.º», «Procuradores-gerais-adjuntos - 8.» em vez de 6; no «Quadro a que se refere o n.º 2 do artigo 31.º», «Inspectores - 5.» e «Secretários de inspecção - 5.» em vez de 4 e 4. Não está aplicado.",
+   "Art. 91.º: a Declaração de 10.12.1981 (pt:dre:567412) retifica a redação que o DL 264-C/81 dá ao art. 91.º. Ficam os n.os 1 a 5 com «...» (o n.º 5 é o de Macau, dado pelo DL 348/80) e junta-se um n.º 6: «6 - Aos magistrados em serviço nas regiões autónomas e respectivos familiares são abonadas pelo Cofre dos Conservadores, Notários e Funcionários de Justiça as despesas de deslocação ao continente nas férias judiciais de Verão.» Falta no consolidado.",
+   "Retificação de 7.02.1979 (pt:dre:393180, corrected_by, que não está entre os alteradores): no fim da lei, depois das assinaturas, deve ler-se «Para ser publicada no Boletim Oficial de Macau.» Não está aplicada (fica fora dos artigos).",
+   "O que já está aplicado está certo: o art. 22.º revogado pelo art. 13.º do DL 348/80; o art. 89.º com o n.º 1 e o n.º 4 do DL 348/80 e os n.os 5 e 6 da Lei 28/79; o n.º 5 do art. 91.º; os dois números do art. 92.º; «Bom com distinção» no art. 100.º. A Resolução 189-A/82 e o art. 197.º da Lei 47/86 não mudam o texto. O mapa da Portaria 14/81 só existe em imagem."
+  ],
+  "vigencia": {
+   "conclusao": "substituido",
+   "prova": "A Lei n.º 47/86, de 15 de Outubro (nova Lei Orgânica do Ministério Público), substituiu a Lei 39/78. O seu art. 197.º, n.º 1, só ressalva o n.º 1 do art. 224.º da Lei 39/78 («Mantém-se em vigor o disposto no n.º 1 do artigo 224.º»). No acervo não há uma norma da Lei 47/86 que revogue expressamente a Lei 39/78."
+  }
+ },
+ {
+  "id": "pt:dre:405684:por",
+  "veredicto": "reparos",
+  "problemas": [
+   "Falta a Declaração de Rectificação n.º 16-D/96 (pt:dre:248865, corrected_by, publicada a 30.11.1996), que não está entre os alteradores. O consolidado traz os artigos que ela corrige iguais ao texto atual do pedido, que é o texto anterior à retificação. Deve ler-se: art. 6.º, n.º 4, «4 - As entidades referidas no n.º 2 poderão…» em vez de «4 - As mesmas entidades poderão…»; art. 6.º, n.º 5, «…das prestações referidas no artigo 5.º,» em vez de «artigo 4.º»; art. 7.º, n.º 1, «…os terceiros que assumam a dívida,» em vez de «a dúvida»; art. 11.º, al. a), subal. i), «…a quem as representam…» em vez de «a quem os represente»; art. 20.º, «…das medidas previstas nos artigos 4.º e 5.º» em vez de «3.º e 4.º». A versão do DL 124/96 que já está no data/ (consolidada a 14.12.1996, com a nota «Retifica Artigo 6, 7, 11, 14, 20») tem estas correções, e o novo consolidado perde-as.",
+   "Art. 14.º, n.º 1: a mesma retificação manda ler «Decreto-Lei n.º 298/92» em vez de «289/92». Mas o DL 235-A/96, posterior, deu nova redação a todo o n.º 1 e escreveu outra vez «289/92». Pela regra da letra a letra, o consolidado está certo ao copiar «289/92». Repara só que a versão atual do data/ tem «298/92» e que o novo consolidado vai mudá-lo.",
+   "O resto está certo: os arts. 1.º, 3.º, 4.º, 5.º, 14.º e 15.º e o art. 17.º-A aditado, todos do DL 235-A/96. Os arts. 50.º e 54.º, n.º 4, da Lei 127-B/97 e o artigo único do DL 201/99 não mudam o texto."
+  ],
+  "vigencia": null
+ },
+ {
+  "id": "pt:dre:292536:por",
+  "veredicto": "reparos",
+  "problemas": [
+   "Falta a revogação da base XXX («Participação obrigatória das doenças profissionais»). O art. 4.º, n.º 1, do Decreto-Lei n.º 2/82, de 5 de Janeiro (pt:dre:553389, relação repealed_by), revoga «a base XXX da Lei n.º 2127», e esse diploma não está entre os alteradores. No consolidado, a base XXX continua com o texto original (n.os 1 e 2). Deve ficar «BASE XXX / Participação obrigatória das doenças profissionais / (Revogado.)», como já está na versão atual do data/ (consolidada a 19.08.1992).",
+   "O resto está certo: as bases III e XIX na redação da Lei 22/92 (os n.os 4 e 5 da base XIX ficam como no original). Os DL 142/99, 248/99 e 382-A/99 não dão nova redação a nenhuma base."
+  ],
+  "vigencia": {
+   "conclusao": "revogado",
+   "prova": "A Lei n.º 100/97, art. 42.º (no data/, linha 675), diz: «É revogada, com a entrada em vigor do decreto-lei previsto no artigo anterior, a Lei n.º 2127, de 3 de Agosto de 1965, e toda a legislação complementar.» O decreto-lei é o DL 143/99, que pelo DL 382-A/99 entra em vigor a 1.01.2000. Para as doenças profissionais, o DL 248/99 ressalva as disposições que sejam necessárias à sua aplicação (relação pt:dre:372671)."
+  }
+ },
+ {
+  "id": "pt:dre:367047:por",
+  "veredicto": "certo",
+  "problemas": [],
+  "vigencia": {
+   "conclusao": "revogado",
+   "prova": "O DL 459/79 só dá nova redação aos arts. 50.º, 64.º e 65.º do Decreto n.º 360/71, que é legislação complementar da Lei 2127. A Lei n.º 100/97 revoga a Lei 2127 «e toda a legislação complementar» com a entrada em vigor do DL 143/99, a 1.01.2000. Para as doenças profissionais, o DL 248/99 ressalva o que for preciso à sua aplicação."
+  }
+ }
+]

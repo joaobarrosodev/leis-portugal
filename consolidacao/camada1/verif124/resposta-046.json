@@ -1,0 +1,90 @@
+[
+ {
+  "id": "pt:dre:605538:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação dos n.os 1 e 2 pelo art. 2.º do DL 15/2010; antigos n.os 2 e 3 passam a 3 e 4, sem alteração.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 72/2010, arts. 2.º, 5.º e 6.º (DL 220/2006, «alterado pelo DL 68/2009»)",
+    "motivo": "Outro diploma: alteram o DL 220/2006; o art. 5.º, n.º 3, é ressalva sem texto."
+   },
+   {
+    "instrucao": "DL 64/2012, arts. 3.º, 4.º e 5.º (DL 220/2006)",
+    "motivo": "Outro diploma."
+   },
+   {
+    "instrucao": "DL 13/2013, arts. 4.º e 5.º (DL 220/2006)",
+    "motivo": "Outro diploma."
+   },
+   {
+    "instrucao": "DL 153/2019, art. 2.º (DL 220/2006)",
+    "motivo": "Outro diploma."
+   }
+  ]
+ },
+ {
+  "id": "pt:dre:621690:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "Alínea c) aditada ao n.º 3 pelo DL 297/86; resto igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação dos n.os 1 e 2 pelo DL 341/90, letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "Alíneas b) e c) do n.º 1 e n.º 3 na redação do DL 341/90; resto igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "N.º 2 na redação do DL 17/92; n.º 1 igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação dos n.os 1 e 2 pelo DL 341/90.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 12.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação (n.os 1 a 3) pelo DL 17/92.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 341/90, art. 2.º (os novos prazos só se aplicam a situações iniciadas depois da sua entrada em vigor)",
+    "motivo": "Não textual: norma de aplicação no tempo."
+   },
+   {
+    "instrucao": "DL 36/2004, art. 3.º (mantêm-se em vigor as regras da renda do n.º 2 do art. 6.º)",
+    "motivo": "Não textual: não dá nova redação ao DL 344-B/82."
+   }
+  ]
+ }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "id": "pt:dre:293719:por",
+    "artigos": [
+      {"artigo": "Artigo 14.º", "veredicto": "certo", "motivo": "Nova redação do art. 14.º dada pelo art. 2.º do DL 221/93, letra a letra; fórmula final mantida.", "texto_esperado": ""}
+    ],
+    "instrucoes_em_falta": [],
+    "artigos_a_mais": [],
+    "artigos_em_falta": [],
+    "fora_dos_artigos": "sem alterações",
+    "instrucoes_justificadas": [
+      {"instrucao": "DL 221/93, art. 1.º: o direito de opção do n.º 3 do art. 8.º pode ser exercido até 31/12/1993", "motivo": "Não textual: prorrogação de prazo, sem nova redação do art. 8.º."},
+      {"instrucao": "DL 235-B/96, art. 10.º: referências aos Ministros da Defesa Nacional e das Finanças no art. 7.º consideram-se feitas ao conselho de administração da EMPORDEF", "motivo": "Não textual: mudança de designação sem nova redação."}
+    ]
+  },
+  {
+    "id": "pt:dre:294969:por",
+    "artigos": [
+      {"artigo": "Artigo 3.º", "veredicto": "certo", "motivo": "Redação do DL 49458 com o § 6.º na redação do DL 47/71, letra a letra.", "texto_esperado": ""},
+      {"artigo": "Artigo 4.º", "veredicto": "certo", "motivo": "Nova redação do DL 49458 (corpo e §§ 1.º e 2.º), letra a letra.", "texto_esperado": ""}
+    ],
+    "instrucoes_em_falta": [],
+    "artigos_a_mais": [],
+    "artigos_em_falta": [],
+    "fora_dos_artigos": "sem alterações",
+    "instrucoes_justificadas": [
+      {"instrucao": "DL 49458, quadro anexo («Quadro a que se refere o presente decreto-lei»: presidente letra B, vice-presidente -)", "motivo": "É o quadro do próprio DL 49458 (assinado pelo Ministro em 12/12/1969); o artigo único só dá nova redação aos arts. 3.º e 4.º e não adita anexo ao original."},
+      {"instrucao": "DL 70/77, art. 1.º (extinção da Junta Nacional da Educação) e arts. 2.º a 10.º (transferência de funções e pessoal)", "motivo": "Não textual: extingue o organismo e reparte funções, sem revogar nem dar nova redação a artigos do DL 46348."}
+    ]
+  },
+  {
+    "id": "pt:dre:298005:por",
+    "artigos": [
+      {"artigo": "Artigo 22.º", "veredicto": "certo", "motivo": "Revogado pelo art. 13.º do DL 348/80; epígrafe mantida e corpo «(Revogado.)».", "texto_esperado": ""},
+      {"artigo": "Artigo 89.º", "veredicto": "certo", "motivo": "N.º 1 e n.º 4 na redação do DL 348/80 (última), n.os 2 e 3 originais, n.os 5 e 6 na redação da Lei 28/79.", "texto_esperado": ""},
+      {"artigo": "Artigo 91.º", "veredicto": "certo", "motivo": "N.º 5 aditado pelo art. 4.º do DL 348/80; n.os 1 a 4 originais.", "texto_esperado": ""},
+      {"artigo": "Artigo 92.º", "veredicto": "certo", "motivo": "Nova redação dada pelo art. 2.º da Lei 28/79, letra a letra.", "texto_esperado": ""},
+      {"artigo": "Artigo 100.º", "veredicto": "certo", "motivo": "Nova redação dada pelo art. 4.º do DL 348/80 («Bom com distinção»).", "texto_esperado": ""}
+    ],
+    "instrucoes_em_falta": [],
+    "artigos_a_mais": [],
+    "artigos_em_falta": [],
+    "fora_dos_artigos": "sem alterações",
+    "instrucoes_justificadas": [
+      {"instrucao": "Lei 28/79, art. 1.º (arts. 27.º, 30.º, 54.º e 155.º da Lei 85/77) e arts. 3.º a 6.º", "motivo": "Outro diploma (Lei 85/77, Lei 82/77, DL 269/78) ou normas próprias sem nova redação da Lei 39/78."},
+      {"instrucao": "Lei 28/79, art. 7.º, e DL 441/79, art. 2.º (produção de efeitos das novas redações do art. 89.º)", "motivo": "Não textual: produção de efeitos."},
+      {"instrucao": "DL 348/80, arts. 1.º a 3.º, 5.º, 6.º, 8.º a 10.º e art. 13.º na parte da Lei 85/77 e da Lei 28/79", "motivo": "Outro diploma (Lei 82/77, Lei 85/77, DL 269/78, Lei 28/79) ou normas próprias."},
+      {"instrucao": "DL 348/80, art. 7.º (atualização dos vencimentos de 1980 para os efeitos do n.º 1 do art. 89.º) e art. 11.º (encargos)", "motivo": "Não textual: não dá nova redação ao art. 89.º nem ao 91.º."},
+      {"instrucao": "Portaria 14/81: o quadro do pessoal da secretaria da PGR (mapa anexo à Lei 39/78) passa a ser o do mapa anexo à portaria", "motivo": "O mapa novo só vem em imagem e o consolidado não tem anexo com título onde o pôr (a lista dos artigos não tem nenhum ANEXO)."},
+      {"instrucao": "DL 264-C/81 (nova redação, entre outros, dos arts. 101.º, n.º 2, e 121.º, n.º 5, segundo a Resolução 189-A/82)", "motivo": "O diploma que altera não traz o texto da alteração: o texto dado é o do DL 264-B/81, sobre estrangeiros, sem nenhuma instrução à Lei 39/78."},
+      {"instrucao": "Resolução 189-A/82: inconstitucionalidade dos arts. 101.º, n.º 2, e 121.º, n.º 5, na redação do DL 264-C/81, na parte relativa aos classificados com Suficiente", "motivo": "Não textual: declaração de inconstitucionalidade parcial, sem eliminar texto."},
+      {"instrucao": "Lei 47/86, art. 197.º, n.º 1: mantém-se em vigor o n.º 1 do art. 224.º da Lei 39/78", "motivo": "Não textual: ressalva de vigência; a vista só traz este artigo da Lei 47/86 e nenhuma instrução de nova redação ou revogação."}
+    ]
+  }
+]

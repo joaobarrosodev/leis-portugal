@@ -1,0 +1,27 @@
+[
+ {
+  "id": "pt:dre:229973:por",
+  "artigos": [
+   {
+    "artigo": "Artigo único",
+    "veredicto": "certo",
+    "motivo": "Redação do art. 1.º do DL 114/98 (n.os 8 a 14 do art. 71.º do CIVA aí contido), com o n.º 9 na redação do art. 17.º do DL 323/2001 (euros, sem vírgula antes de «desde que»), letra a letra. Nota: a vista não traz texto da Lei 60-A/2005, da Lei 53-A/2006 nem do DL 102/2008; não pude confirmar que não tenham instruções sobre o DL 23/98.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Lei 39-A/2005, art. 12.º: nova redação do art. 71.º do Código do IVA",
+    "motivo": "Outro diploma: altera o CIVA diretamente, não o artigo único do DL 23/98."
+   },
+   {
+    "instrucao": "DL 114/98, art. 2.º (entrada em vigor da alínea c) do n.º 9 a 1/6/1998)",
+    "motivo": "Não textual; data já passada."
+   }
+  ]
+ }
+]

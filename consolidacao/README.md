@@ -570,6 +570,14 @@ A importação passou a aceitar a **troca de expressão** (`camada1.troca_de_exp
 | recusado_na_segunda_leitura | 3 | 3 |
 | recusado_na_verificacao_mecanica | 0 | 2 |
 
+**Ronda 124** (linha 9 «nosso», 27/11/2026, Opus). São os 130 consolidados por nós que têm um alterador publicado depois da última versão.
+- Das 130 respostas, 110 foram juntadas e 86 delas dão o mesmo texto que já está no data/.
+- A verificação às cegas viu os 110. A segunda leitura viu 92 e deu 61 `certo`.
+- No estado: 61 a aplicar, 31 recusados na segunda leitura, 19 sem alteração aplicável, 17 recusados às cegas e 2 recusados na verificação mecânica.
+- Dos 61 a aplicar: 47 já estão iguais ao data/; 11 substituem, porque o data/ tem a última versão verificada; e 3 entraram no `DE_FORA`, porque o data/ tem uma correção posterior (retificação, revogação ou anexo por outra via) que a nova consolidação não traz.
+- O ensaio do acervo aplica 13: os 11 e mais 2 em que o texto não muda e só se refaz o histórico.
+- Limite: a seleção destes diplomas não traz as relações `corrected_by` e `repealed_by`, porque o `refazer-selecao` não os refaz. A segunda leitura apanhou-as e recusou esses diplomas. O data/ fica como estava, e a guarda `retificados_por_regra` impede que se escreva por cima.
+
 ### Verificação dos alvos das respostas do LLM (14/11/2026)
 
 A verificação letra a letra de `llm_completo.verificar_resposta` confirma que cada parágrafo de um artigo devolvido vem de um alterador **ou do original**. Deixava passar dois casos:

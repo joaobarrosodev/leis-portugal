@@ -1,0 +1,31 @@
+[
+  {
+    "id": "pt:dre:442304:por",
+    "artigos": [
+      {"artigo": "Artigo 7.º", "veredicto": "certo", "motivo": "Artigo único do DL 114/87: n.º 1 corpo e alínea a) mantidos, alíneas b) a g) e n.º 2 com a nova redação letra a letra.", "texto_esperado": ""},
+      {"artigo": "Artigo 9.º", "veredicto": "certo", "motivo": "Artigo único do DL 114/87: n.os 1 e 3 mantidos, n.º 2 com a nova redação letra a letra.", "texto_esperado": ""}
+    ],
+    "instrucoes_em_falta": [],
+    "instrucoes_justificadas": [
+      {"instrucao": "DL 296-A/95 (Lei Orgânica do Governo): Fundo de Fomento Cultural entre os serviços do Ministério da Cultura", "motivo": "Confirmado: mera inclusão do FFC na estrutura do ministério, sem nova redação de artigos do DL 102/80; não textual."},
+      {"instrucao": "DL 42/96, artigos 5.º e 15.º: mantém em vigor os diplomas do Fundo de Fomento Cultural e define as suas atribuições", "motivo": "Confirmado: manutenção em vigor e atribuições próprias do DL 42/96, sem nova redação do DL 102/80; não textual. O art. 37.º só revoga os DL 106-A/92 e 106-H/92."}
+    ],
+    "artigos_a_mais": [],
+    "artigos_em_falta": [],
+    "fora_dos_artigos": "sem alterações"
+  },
+  {
+    "id": "pt:dre:448153:por",
+    "artigos": [
+      {"artigo": "Artigo 2.º", "veredicto": "certo", "motivo": "Art. 3.º do DL 237/2004 dá nova redação ao n.º 2 do art. 2.º («repristinados os artigos 17.º, 18.º, 25.º e 26.º ... revogados pelo n.º 1 do artigo 28.º»); epígrafe e n.º 1 mantidos; as alterações do art. 1.º do DL 237/2004 ao DL 366/99 não foram aplicadas ao texto citado no n.º 1, como deve ser.", "texto_esperado": ""}
+    ],
+    "instrucoes_em_falta": [],
+    "instrucoes_justificadas": [
+      {"instrucao": "DL 237/2004, art. 1.º: nova redação dos artigos 2.º, 9.º, 16.º, 18.º, 19.º e 23.º do DL 366/99, na redação dada pelo art. 2.º do DL 262/2002", "motivo": "Confirmado: instrução dirigida ao DL 366/99, outro diploma."},
+      {"instrucao": "DL 118/2011, art. 15.º, n.º 2: mantém em vigor o n.º 5 do art. 6.º do DL 366/99 na redação dada pelo DL 262/2002", "motivo": "Confirmado: manutenção em vigor de norma do DL 366/99, outro diploma e não textual."}
+    ],
+    "artigos_a_mais": [],
+    "artigos_em_falta": [],
+    "fora_dos_artigos": "sem alterações"
+  }
+]

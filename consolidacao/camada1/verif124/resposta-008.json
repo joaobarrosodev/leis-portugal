@@ -1,0 +1,53 @@
+[
+  {
+    "id": "pt:dre:424731:por",
+    "artigos": [
+      {"artigo": "Artigo 3.º", "veredicto": "dúvida", "motivo": "Os n.os 6 e 7 aditados pelo DL 188/2004 estão certos, letra a letra. Mas o DL 188/2004 altera o art. 3.º «com a redacção que lhe foi introduzida pelo DL 240/2003» e mantém os n.os 1 a 5 com «...»; o preâmbulo diz que o n.º 2, nessa redação, prevê a reversão do património não edificado para o domínio privado do Estado, enquanto o consolidado mantém o n.º 2 original (transferência para o INH). O DL 240/2003 não está na vista, por isso não se pode confirmar o texto dos n.os 1 a 5 (e da epígrafe, «[...]»).", "texto_esperado": "N.os 1 a 5 (e epígrafe) na redação do DL 240/2003, que não está na vista; n.os 6 e 7 como estão."}
+    ],
+    "instrucoes_em_falta": [],
+    "artigos_a_mais": [],
+    "artigos_em_falta": [],
+    "fora_dos_artigos": "sem alterações",
+    "instrucoes_justificadas": [
+      {"instrucao": "DL 215-A/2004: transição do INH e do IGAPHE para o Ministério das Cidades, Administração Local, Habitação e Desenvolvimento Regional", "motivo": "Não textual: orgânica do Governo, sem nova redação do DL 243/2002."}
+    ]
+  },
+  {
+    "id": "pt:dre:431274:por",
+    "artigos": [
+      {"artigo": "CAPÍTULO III", "veredicto": "certo", "motivo": "Título «CAPÍTULO III — Órgãos» da nova redação do capítulo dada pelo art. 2.º do DL 427/82.", "texto_esperado": ""},
+      {"artigo": "Artigo 7.º", "veredicto": "certo", "motivo": "Nova redação do capítulo III (DL 427/82), letra a letra.", "texto_esperado": ""},
+      {"artigo": "Artigo 8.º", "veredicto": "certo", "motivo": "Nova redação do capítulo III (DL 427/82), letra a letra.", "texto_esperado": ""},
+      {"artigo": "Artigo 9.º", "veredicto": "certo", "motivo": "Nova redação do capítulo III (DL 427/82), letra a letra.", "texto_esperado": ""},
+      {"artigo": "Artigo 10.º", "veredicto": "certo", "motivo": "Nova redação do capítulo III (DL 427/82), letra a letra.", "texto_esperado": ""},
+      {"artigo": "Artigo 11.º", "veredicto": "certo", "motivo": "Nova redação do capítulo III (DL 427/82), letra a letra.", "texto_esperado": ""},
+      {"artigo": "Artigo 12.º", "veredicto": "certo", "motivo": "Nova redação do capítulo III (DL 427/82), letra a letra.", "texto_esperado": ""},
+      {"artigo": "Artigo 13.º", "veredicto": "certo", "motivo": "Nova redação do capítulo III (DL 427/82), letra a letra.", "texto_esperado": ""},
+      {"artigo": "Artigo 14.º", "veredicto": "certo", "motivo": "Nova redação do capítulo III (DL 427/82), letra a letra.", "texto_esperado": ""},
+      {"artigo": "Artigo 15.º", "veredicto": "certo", "motivo": "Nova redação do capítulo III (DL 427/82), letra a letra.", "texto_esperado": ""},
+      {"artigo": "Artigo 16.º", "veredicto": "certo", "motivo": "Nova redação do capítulo III (DL 427/82), letra a letra.", "texto_esperado": ""},
+      {"artigo": "Artigo 17.º", "veredicto": "certo", "motivo": "Nova redação do capítulo III (DL 427/82), letra a letra.", "texto_esperado": ""},
+      {"artigo": "SECÇÃO IV", "veredicto": "certo", "motivo": "Título «SECÇÃO IV — Comissão de fiscalização» da nova redação do capítulo III, antes do art. 18.º.", "texto_esperado": ""},
+      {"artigo": "Artigo 18.º", "veredicto": "certo", "motivo": "Nova redação do capítulo III (DL 427/82), letra a letra.", "texto_esperado": ""},
+      {"artigo": "Artigo 19.º", "veredicto": "certo", "motivo": "Nova redação do capítulo III (DL 427/82), letra a letra.", "texto_esperado": ""},
+      {"artigo": "Artigo 20.º", "veredicto": "certo", "motivo": "Nova redação do capítulo III (DL 427/82), letra a letra.", "texto_esperado": ""},
+      {"artigo": "Artigo 21.º", "veredicto": "certo", "motivo": "Nova redação do capítulo III (DL 427/82), letra a letra.", "texto_esperado": ""},
+      {"artigo": "Artigo 22.º", "veredicto": "certo", "motivo": "Nova redação do capítulo III (DL 427/82), letra a letra.", "texto_esperado": ""},
+      {"artigo": "Artigo 23.º", "veredicto": "certo", "motivo": "Nova redação do capítulo III (DL 427/82), letra a letra.", "texto_esperado": ""},
+      {"artigo": "Artigo 24.º", "veredicto": "certo", "motivo": "Nova redação do capítulo III (DL 427/82), letra a letra.", "texto_esperado": ""},
+      {"artigo": "Artigo 25.º", "veredicto": "certo", "motivo": "Nova redação do capítulo III (DL 427/82), letra a letra.", "texto_esperado": ""},
+      {"artigo": "Artigo 50.º", "veredicto": "certo", "motivo": "Nova redação dada pelo art. 3.º do DL 427/82, letra a letra.", "texto_esperado": ""},
+      {"artigo": "Artigo 51.º", "veredicto": "certo", "motivo": "Nova redação dada pelo art. 4.º do DL 427/82, letra a letra.", "texto_esperado": ""}
+    ],
+    "instrucoes_em_falta": [
+      "DL 427/82, art. 2.º (nova redação de todo o capítulo III): o título «SECÇÃO V — Órgãos de articulação com o poder local», antes do art. 23.º, não foi aplicado; o consolidado mantém a «SECÇÃO V» original (= «Comissão de fiscalização», que na nova redação é a secção IV, antes do art. 18.º). O alvo é certo: a nova redação substitui o capítulo inteiro, incluindo os títulos das secções."
+    ],
+    "artigos_a_mais": [],
+    "artigos_em_falta": [],
+    "fora_dos_artigos": "Título da SECÇÃO V do capítulo III: devia ser «#### SECÇÃO V — Órgãos de articulação com o poder local», antes do art. 23.º, e não o título original (Comissão de fiscalização).",
+    "instrucoes_justificadas": [
+      {"instrucao": "DL 427/82, arts. 1.º, 5.º, 6.º e 7.º (alteração genérica; referências a ministros; designação inicial do conselho regional; dúvidas)", "motivo": "Não textual: disposições próprias do alterador ou de designação, sem nova redação."},
+      {"instrucao": "DL 7/91, arts. 1.º a 17.º e anexos I e II (transformação da EDP, E. P., em sociedade anónima e novos estatutos)", "motivo": "Não textual: não dá nova redação nem revoga expressamente o Estatuto aprovado pelo DL 502/76."}
+    ]
+  }
+]

@@ -1,0 +1,207 @@
+[
+ {
+  "id": "pt:dre:307235:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação do art. 4.º do DL 49/86, letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação do art. 1.º do DL 513/77 (n.os 1 a 3), letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 10.º",
+    "veredicto": "certo",
+    "motivo": "N.º 1 com a redação do DL 176/79; n.os 2 e 3 do original mantidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 11.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação do art. 4.º do DL 49/86, letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 16.º",
+    "veredicto": "certo",
+    "motivo": "N.º 1 com a redação do DL 176/79; n.º 2 do original mantido.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 29.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação do art. 1.º do DL 513/77, letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 31.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação do art. 2.º do DL 513/77 (n.os 1 a 5), letra a letra.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 450/76, art. 4.º: prazo do n.º 1 do art. 28.º alargado até 30/6/1976 quanto ao exercício de 1975",
+    "motivo": "Não textual: prorrogação de prazo para um exercício, sem nova redação (confirmado no texto)."
+   },
+   {
+    "instrucao": "DL 450/76, arts. 1.º a 3.º: balanços, contas e lucros de 1974 e 1975",
+    "motivo": "Normas autónomas sobre as instituições nacionalizadas; não se dirigem ao texto do DL 729-F/75."
+   },
+   {
+    "instrucao": "DL 49/86, arts. 1.º, 2.º, 3.º e 5.º: alterações aos DL 136/79, 499/80, 46302 e 2/78",
+    "motivo": "Outro diploma (confirmado no texto)."
+   },
+   {
+    "instrucao": "DL 282-A/90: transformação da Sociedade Financeira Portuguesa, E. P., em S. A. e aprovação dos seus estatutos",
+    "motivo": "Não dá nova redação nem revoga artigos do DL 729-F/75; normas próprias e estatutos da sociedade."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:309534:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 21.º",
+    "veredicto": "certo",
+    "motivo": "N.os 6 e 7 aditados pelo DL 411/85, letra a letra; n.os 1 a 5 do original mantidos.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 382/86, art. 5.º, n.º 2: o art. 4.º é derrogado em relação ao Instituto (de Lisboa)",
+    "motivo": "Não textual: derrogação só quanto a um dos institutos, sem eliminar o texto (confirmado)."
+   },
+   {
+    "instrucao": "DL 382/86, arts. 1.º a 4.º: objecto, atribuições, áreas e licenciatura em ensino do ISEF",
+    "motivo": "Normas autónomas; não dão nova redação a artigos do DL 675/75."
+   },
+   {
+    "instrucao": "DL 153/88, art. 32.º, n.º 1: revogação do DL 675/75 «em tudo o que respeite» ao ISEF da Universidade Técnica de Lisboa",
+    "motivo": "Revogação delimitada pela matéria/âmbito (como a condicional): o diploma continua a valer para o outro Instituto e a instrução não identifica artigos ou números; não se aplica ao texto."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:315161:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "N.os 1 a 3 mantidos; n.º 4 com a nova redação; n.os 5 e 6 são os anteriores n.os 6 e 7 (o antigo n.º 5 desaparece com a renumeração), conforme o art. 1.º do DLR 19/2001/M.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 11.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação do art. 1.º do DLR 19/2001/M, letra a letra; fórmula final do original mantida.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Decreto-Lei n.º 121/2008",
+    "motivo": "O diploma que altera não traz texto na vista (só o título)."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:322095:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 23.º",
+    "veredicto": "certo",
+    "motivo": "Alínea h) do n.º 2 com a redação do DL 255/95; resto mantido.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 60.º",
+    "veredicto": "certo",
+    "motivo": "N.º 1 com a redação do DL 2-A/96; n.os 2 a 4 mantidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 147.º",
+    "veredicto": "certo",
+    "motivo": "N.º 3 aditado pelo DL 255/95, letra a letra; n.os 1 e 2 mantidos.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 255/95, art. 2.º: referências a superintendente-geral no anexo II do DL 298/91",
+    "motivo": "Outro diploma."
+   },
+   {
+    "instrucao": "DL 255/95, arts. 3.º e 4.º: art. 120.º e quadros A e B do Regulamento Disciplinar da PSP (Lei 7/90)",
+    "motivo": "Outro diploma."
+   },
+   {
+    "instrucao": "DL 320/98, art. 4.º: derrogação dos arts. 119.º, 122.º, n.º 1, b), e 133.º durante a vigência do DL 320/98",
+    "motivo": "Não textual: derrogação temporária (suspensão), sem eliminar o texto."
+   },
+   {
+    "instrucao": "Lei 5/99, art. 101.º: os conselhos mantêm competência e composição até à eleição/nomeação dos membros",
+    "motivo": "Não textual: norma transitória."
+   },
+   {
+    "instrucao": "Lei 5/99, art. 107.º: revogação da legislação sobre atribuições, organização e funcionamento da PSP, mantendo o DL 321/94 quanto ao estatuto do pessoal «em tudo o que não o contrariar»",
+    "motivo": "Revogação condicional/por matéria: não identifica artigos e mantém o diploma em tudo o que não contrarie."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:324310:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "certo",
+    "motivo": "Norma 1.ª com a redação do artigo único do DL 56/88, letra a letra (o ponto final vem do alterador); restantes normas mantidas.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [
+   "DL 172/94, art. 11.º, n.º 2: «A distância prevista no artigo 10.º do Decreto-Lei n.º 119/85 passa a ser de 30 km» — alteração do valor no texto do art. 10.º, cujo alvo é certo; o art. 10.º do consolidado está igual ao original. Não é prorrogação nem mudança de designação."
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 118/88, art. 3.º: novos valores das ajudas de custo e pagamento pelo escalão superior",
+    "motivo": "Não dá nova redação a nenhum artigo; fixa valores por norma própria (o mesmo diploma revoga a Portaria n.º 132/87, onde estavam os valores anteriores)."
+   },
+   {
+    "instrucao": "DL 97/89, art. 3.º: novos valores das ajudas de custo e pagamento pelo escalão superior",
+    "motivo": "Idem: valores fixados por norma própria, sem nova redação de artigo do original."
+   },
+   {
+    "instrucao": "DL 172/94, art. 11.º, n.º 1: acumulação com a ajuda de custo do art. 10.º",
+    "motivo": "Não textual: norma de articulação que não altera o original."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

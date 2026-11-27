@@ -1,0 +1,52 @@
+[
+ {
+  "id": "pt:dre:470072:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 12.º",
+    "veredicto": "certo",
+    "motivo": "n.º 1 com a nova redação do art. 20.º do DL 176/2009, letra a letra; n.os 2 a 4 iguais ao original",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 102/2023, art. 1.º, n.º 1, alíneas cc) e dd): reestruturação da ULS do Norte Alentejano, E. P. E., que passa a denominar-se ULS do Alto Alentejo, E. P. E.",
+    "motivo": "não textual: mudança de designação e integração de serviços sem nova redação nem revogação de artigos do DL 50-B/2007"
+   }
+  ]
+ },
+ {
+  "id": "pt:dre:479646:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "n.º 2 com a nova redação do art. 1.º do DL 22/2010 («31 de Agosto de 2010»), letra a letra; restantes números iguais ao original",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 234/2012, art. 2.º: nova redação dos artigos 5.º, 7.º, 8.º, 10.º, 16.º, 18.º-A, 19.º-D, 19.º-E, 20.º, 23.º, 25.º, 28.º, 30.º, 31.º, 32.º e 35.º do Decreto-Lei n.º 165/2006",
+    "motivo": "outro diploma (DL 165/2006, só republicado em anexo pelo original); não se aplica ao anexo"
+   },
+   {
+    "instrucao": "DL 234/2012, art. 4.º: revogação do n.º 2 do artigo 5.º, do n.º 3 do artigo 10.º e do n.º 8 do artigo 31.º do Decreto-Lei n.º 165/2006",
+    "motivo": "outro diploma; não se aplica ao anexo"
+   },
+   {
+    "instrucao": "Decreto Regulamentar 6/2018, art. 90.º: taxa contributiva para efeitos do n.º 4 do artigo 36.º-A do DL 165/2006",
+    "motivo": "outro diploma e não textual"
+   }
+  ]
+ }
+]

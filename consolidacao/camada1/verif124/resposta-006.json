@@ -1,0 +1,26 @@
+[
+  {"id": "pt:dre:288442:por",
+   "artigos": [
+     {"artigo": "Artigo 21.º-A", "veredicto": "certo", "motivo": "Aditado pelo art. 3.º, n.º 2, do DL 133/2008, letra a letra.", "texto_esperado": ""},
+     {"artigo": "Artigo 26.º", "veredicto": "certo", "motivo": "N.º 8 com a redação do art. 3.º, n.º 1, do DL 133/2008 (grafia «5 x 104N» do alterador); restantes números iguais.", "texto_esperado": ""},
+     {"artigo": "Artigo 26.º-A", "veredicto": "certo", "motivo": "Aditado pelo art. 3.º, n.º 2, do DL 133/2008, letra a letra.", "texto_esperado": ""},
+     {"artigo": "ANEXO X", "veredicto": "certo", "motivo": "Lista de Estados-Membros substituída pela do anexo VII do DL 148/2013 (art. 10.º); frase inicial e parágrafos seguintes («[...]») mantidos.", "texto_esperado": ""}
+   ],
+   "instrucoes_em_falta": [],
+   "instrucoes_justificadas": [],
+   "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"},
+  {"id": "pt:dre:339847:por",
+   "artigos": [
+     {"artigo": "Artigo 7.º", "veredicto": "certo", "motivo": "N.os 1 e 2 (redação do DL 320-B/2002) revogados pelo art. 4.º, n.º 3, do DL 324/2003; n.os 3 a 9 iguais.", "texto_esperado": ""}
+   ],
+   "instrucoes_em_falta": [],
+   "instrucoes_justificadas": [
+     {"instrucao": "Lei 30-D/2000, artigo único: arts. 150.º, 238.º, 252.º-A, 257.º, 474.º, 623.º e 629.º do CPC na redação do art. 1.º do original", "motivo": "Instrução de outro diploma (Código de Processo Civil)."},
+     {"instrucao": "DL 32/2003, art. 8.º: artigos do anexo ao DL 269/98 com a redação dada pelo original", "motivo": "Instrução de outro diploma (DL 269/98)."},
+     {"instrucao": "DL 199/2003, art. 1.º: artigos do CPC", "motivo": "Instrução de outro diploma; o original só aparece na lista de alterações do Código."},
+     {"instrucao": "DL 35/2010, art. 1.º: arts. 143.º e 144.º do CPC", "motivo": "Instrução de outro diploma."},
+     {"instrucao": "Lei 60/2012, art. 1.º: arts. 834.º, 886.º-A e 889.º do CPC", "motivo": "Instrução de outro diploma."},
+     {"instrucao": "DL 38/2003, DL 303/2007, DL 34/2008, Lei 52/2008 e DL 226/2008", "motivo": "O diploma que altera não traz o texto da alteração (vista sem conteúdo destes alteradores)."}
+   ],
+   "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+]

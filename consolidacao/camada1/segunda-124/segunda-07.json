@@ -1,0 +1,27 @@
+[
+ {
+  "id": "pt:dre:461606:por",
+  "veredicto": "duvida",
+  "problemas": [
+   "Articulado certo: art. 4.º (DL 237-A/83), art. 7.º (nova alínea i) do n.º 2 e novo n.º 3, DL 237-A/83, com as alíneas a) a h) intactas), art. 8.º, n.º 1 e art. 9.º, n.º 1 (DL 179/87, que substitui as redações do DL 25/82 e do DL 237-A/83) batem letra a letra com os alteradores. O DL 25/82 em duplicado, o art. 1.º do DL 179/87 e as orgânicas (DL 119/2003, 215-A/2004, 79/2005, 212/2006 e 271/2007) não dão nova redação ao DL 431/80; o DL 334/87 (que muda o nome do Instituto) também não.",
+   "Quadro de pessoal anexo: o DL 237-A/83, art. 2.º, altera o quadro anexo ao DL 431/80 «na parte respeitante à administração e direcção técnica», com o quadro novo só em imagem (https://files.diariodarepublica.pt/1s/1983/06/13101/00010002.pdf). O texto atual tem o mapa (publicado pela Declaração de retificação de 18/11/1980, corrected_by pt:dre:458223:por) depois das fórmulas finais: «MAPA DE PESSOAL», «Administração e direcção técnica» e a imagem de 1980 (https://files.diariodarepublica.pt/1s/1980/11/26700/38963896.pdf), seguida dos outros três quadros. O consolidado ficou só com a imagem de 1980. Pela regra do README, secção 11 (alteração parcial de um quadro que só existe em imagem: insere-se, a seguir ao quadro, um parágrafo curto e a imagem do alterador), faltaria inserir a imagem de 1983 a seguir a «Administração e direcção técnica»; pela ADENDA-respondedor (sem título de anexo no texto atual, não se inventa) fica como está. Não consigo decidir qual das regras vale aqui; o art. 7.º, n.º 3, novo, remete as remunerações de direcção para esse quadro anexo."
+  ],
+  "vigencia": {
+   "conclusao": "caducado",
+   "prova": "O DL 212/2006, de 27/10, extingue por fusão o Instituto de Genética Médica Dr. Jacinto de Magalhães, com as atribuições integradas no INSA, e o DL 271/2007, de 26/07, art. 19.º: «O INSA, I. P., sucede nas atribuições do Instituto de Genética Médica Doutor Jacinto de Magalhães, que se extingue». O DL 23/2021 faz cessar a vigência do DL 179/87 (alterador), o que não repristina o texto anterior."
+  }
+ },
+ {
+  "id": "pt:dre:185294:por",
+  "veredicto": "certo",
+  "problemas": [
+   "Conferidos os 26 artigos a que o DL 15/70, art. 1.º, dá nova redação (1.º, 2.º, 3.º, 11.º, 15.º, 19.º, 20.º, 21.º, 23.º, 25.º, 26.º, 27.º, 30.º, 31.º, 32.º, 33.º, 37.º, 38.º, 39.º, 42.º, 44.º, 47.º, 48.º, 49.º, 52.º e 64.º), os 4 do DL 530/72 (38.º, 40.º, 48.º e 65.º) e o n.º 6 do art. 38.º do DL 258/76: o texto novo está letra a letra e os números com «...» ficaram como estavam. O antigo art. 2.º passa, com outra redação, a n.º 2 do art. 1.º, e o art. 2.º novo é o dos arquivos centrais. Art. 38.º: n.º 4 novo e antigo n.º 4 a n.º 5 (DL 15/70), n.º 2 novo e n.os 6 a 8 aditados (DL 530/72), n.º 6 do DL 258/76. Art. 48.º: alínea d) do n.º 1 (DL 15/70), n.os 2 e 3 novos e antigos 3 a 5 a 4 a 6 (DL 530/72); o n.º 2 do DL 15/70 («1/3») fica substituído pelo do DL 530/72.",
+   "Art. 33.º: o DL 15/70 dá nova redação ao artigo só com «1. ...» e «2. ...», e o consolidado tirou o n.º 3 (contagem do tempo de serviço dos ajudantes de 1949). É a leitura certa: o artigo vem na lista dos que mudam e a única mudança possível é a supressão do n.º 3.",
+   "Fora dos alteradores e sem efeito no texto: o DL 148/78, art. 3.º, fixa novas «taxas a que se refere o n.º 1 do artigo 54.º» (100$00, 30$00, …) sem dar nova redação ao art. 54.º, que continua com 40$00 e 20$00. Os DL 48503 (arts. 5.º e 13.º), DL 47611 (art. 5.º) e DL 530/72 (arts. 2.º e 6.º) alargam ou reinterpretam normas sem nova redação. Não há retificações nas relationships."
+  ],
+  "vigencia": {
+   "conclusao": "substituido",
+   "prova": "O DL 519-F2/79 (data/portugal/decretos-leis/1979/decreto-lei-519-f2-79.md) «Aprova a nova Lei Orgânica dos Serviços dos Registos e do Notariado», sobre a mesma matéria, e remete para o art. 53.º do DL 44063 só como regime transitório. No ficheiro não encontrei uma norma que revogue expressamente o DL 44063, por isso é uma revogação tácita por substituição."
+  }
+ }
+]

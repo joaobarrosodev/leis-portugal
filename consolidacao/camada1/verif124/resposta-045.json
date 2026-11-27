@@ -1,0 +1,17 @@
+[
+  {
+    "id": "pt:dre:568317:por",
+    "artigos": [
+      {"artigo": "Artigo 5.º", "veredicto": "certo", "motivo": "Art. 14.º do DL 22/2005: n.º 1 mantém-se («...»), n.º 2 com a nova redação e alíneas a) e b), letra a letra; epígrafe original no lugar de «[...]».", "texto_esperado": ""},
+      {"artigo": "Artigo 6.º", "veredicto": "certo", "motivo": "Art. 14.º do DL 22/2005: n.º 1 mantém-se, n.º 2 com a nova redação e alíneas a) e b), letra a letra; epígrafe original mantida.", "texto_esperado": ""}
+    ],
+    "instrucoes_em_falta": [],
+    "instrucoes_justificadas": [
+      {"instrucao": "DL 22/2005, art. 13.º e anexo: aditamento dos n.os 54 a 58, 72 a 78, 80 a 83, 90 e 91 ao anexo I do DL 94/98", "motivo": "Confirmado: a instrução visa o anexo I do DL 94/98, outro diploma."},
+      {"instrucao": "DL 334/2007, DL 61/2008, DL 240/2009, DL 44/2010, DL 106/2010, DL 24/2011, DL 80/2011 e DL 37/2012, art. 2.º e anexos: alterações e aditamentos ao anexo I do DL 94/98", "motivo": "Confirmado: todos alteram o anexo I do DL 94/98 (o DL 39/2004 só aparece na lista das alterações anteriores desse anexo); outro diploma."}
+    ],
+    "artigos_a_mais": [],
+    "artigos_em_falta": [],
+    "fora_dos_artigos": "sem alterações"
+  }
+]

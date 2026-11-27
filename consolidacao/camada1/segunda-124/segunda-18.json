@@ -1,0 +1,77 @@
+[
+ {
+  "id": "pt:dre:177451:por",
+  "veredicto": "reparos",
+  "problemas": [
+   "Art. 44.º, n.º 1: falta a revogação feita pelo DL n.º 281/99, de 26 de julho, art. 7.º («É revogado o n.º 1 do artigo 44.º da Lei n.º 46/85, de 20 de Setembro»). Há relação repealed_by pt:dre:353354:por; o texto está em data/portugal/decretos-leis/1999/decreto-lei-281-99.md. O DL 281/99 não está entre os alteradores. O consolidado deve ter «1 - (Revogado.)» e manter os n.os 2 e 3 com a redação do DL 74/86. A revogação posterior da norma revogatória (art. 7.º do DL 281/99, revogado pelo DL 10/2024, art. 24.º) não faz repristinar o n.º 1.",
+   "Falta a revogação feita pelo DL n.º 321-B/90, de 15 de outubro (relação repealed_by pt:dre:667147:por; data/portugal/decretos-leis/1990/decreto-lei-321-b-90.md), que não está entre os alteradores. O art. 3.º, n.º 1, al. i), revoga a Lei 46/85 com exceções, por isso a revogação aplica-se artigo a artigo. Ficam ressalvados: o art. 44.º (art. 3.º, n.º 6); os arts. 11.º a 15.º, quanto a avaliações e correções extraordinárias de rendas «enquanto tiver aplicação» (art. 9.º do DL 321-B/90); os arts. 22.º a 27.º e 36.º, quanto ao subsídio de renda (art. 12.º); os arts. 31.º a 34.º e 39.º, quanto aos arrendamentos já celebrados (art. 13.º, com o art. 3.º, n.º 2). Os restantes artigos devem ficar «(Revogado.)»: 1.º a 10.º, 16.º a 21.º, 28.º a 30.º, 35.º, 37.º, 38.º, 40.º a 43.º (com as normas do Código Civil e de outros diplomas que trazem dentro) e 45.º a 53.º. É preciso conferir se os anexos I e II servem os arts. 11.º a 15.º e por isso ficam."
+  ],
+  "vigencia": {
+   "conclusao": "outro",
+   "prova": "Revogada pelo DL 321-B/90 (art. 3.º, n.º 1, al. i)), com a ressalva do art. 44.º e a manutenção transitória dos arts. 11.º a 15.º, 22.º a 27.º, 31.º a 34.º, 36.º e 39.º (arts. 9.º, 12.º e 13.º do DL 321-B/90). O n.º 1 do art. 44.º foi depois revogado pelo DL 281/99, art. 7.º."
+  }
+ },
+ {
+  "id": "pt:dre:183251:por",
+  "veredicto": "duvida",
+  "problemas": [
+   "O consolidado dá todos os artigos como «(Revogado.)», menos o art. 15.º. Baseia-se no art. 16.º do DL 135/91, na redação da Lei 51/91, que já na redação original revogava o DL 291/85 «com excepção do seu artigo 15.º». Mas o n.º 2 desse art. 16.º diz que a legislação revogada «mantém-se, no entanto, em vigor para efeitos do previsto no n.º 2 do artigo 1.º do Decreto-Lei n.º 65/89». E o DL 65/89, art. 1.º, n.º 2 (data/portugal/decretos-leis/1989/decreto-lei-65-89.md), manda aplicar ao Centro Cultural de Belém – SGII, S. A., o DL 291/85 «com excepção dos seus artigos 2.º, 3.º, 5.º e 6.º», na redação dos DL 211-A/86 e 237/87. Assim, os arts. 1.º, 4.º, 7.º a 11.º, 14.º e 16.º continuam em vigor para essa sociedade (os 12.º e 13.º já tinham sido revogados pelo DL 237/87). Não sei decidir se esta ressalva por finalidade deve impedir o «(Revogado.)» nesses artigos (como as ressalvas do DL 321-B/90 noutros diplomas) ou se é só uma ressalva de efeitos que não toca no texto (foi o que o verificador aceitou).",
+   "O resto confere. A al. j) do n.º 1 do art. 15.º (DL 211-A/86) está aplicada. As epígrafes dos artigos alterados pelo DL 237/87 seguem a redação deste. A prorrogação do DL 377/90 (art. 8.º) não é textual. A revogação do n.º 4 do art. 2.º pelo DL 228/87 ficou sem objeto com a nova redação do DL 237/87 e com a revogação do artigo."
+  ],
+  "vigencia": {
+   "conclusao": "revogado",
+   "prova": "Revogado pelo DL 135/91, art. 16.º, n.º 1 (redação da Lei 51/91), salvo o art. 15.º. Continua em vigor para efeitos do art. 1.º, n.º 2, do DL 65/89 (Centro Cultural de Belém – SGII, S. A.)."
+  }
+ },
+ {
+  "id": "pt:dre:307235:por",
+  "veredicto": "reparos",
+  "problemas": [
+   "Arts. 7.º e 8.º: falta a revogação feita pelo DL n.º 2/78, de 9 de janeiro, art. 6.º («São revogados […] os artigos 7.º e 8.º do Decreto-Lei n.º 729-F/75»). Há relação repealed_by pt:dre:468853:por; o texto está em data/portugal/decretos-leis/1978/decreto-lei-2-78.md. O DL 2/78 não está entre os alteradores. Os dois artigos devem ficar «(Revogado.)».",
+   "Art. 31.º: falta a revogação feita pelo DL n.º 51/79, de 22 de março, art. 1.º, n.º 1. Ele revoga os n.os 3 e 4 do art. 31.º, na redação do art. 2.º do DL 513/77, e manda que «o actual n.º 5 passa a n.º 3». Há relação repealed_by pt:numero:decreto-lei:51/79; o texto está em data/portugal/decretos-leis/1979/decreto-lei-51-79.md. O DL 51/79 não está entre os alteradores. O art. 31.º deve ficar com os n.os 1 e 2 como estão e um n.º 3 com o texto do atual n.º 5: «3 - Os demais trabalhadores da instituição não poderão exercer funções profissionais remuneradas fora dela ou ser membros dos corpos sociais de qualquer sociedade, salvo autorização expressa do conselho de gestão, que deverá ser renovada anualmente.» O n.º 2 do mesmo art. 1.º (os efeitos não se aplicam aos gestores então em funções) é uma ressalva de efeitos e não muda o texto."
+  ],
+  "vigencia": null
+ },
+ {
+  "id": "pt:dre:508223:por",
+  "veredicto": "reparos",
+  "problemas": [
+   "Art. 67.º: falta a revogação feita pelo DL n.º 178/70, de 23 de abril, art. 5.º («É revogado o artigo 67.º do Decreto-Lei n.º 46758»). Há relação repealed_by pt:dre:226022:por; o texto está em data/portugal/decretos-leis/1970/decreto-lei-178-70.md. O DL 178/70 não está entre os alteradores. O texto atual do pedido (pedidos-11/completo/pedido-032.md) ainda tem o texto original do art. 67.º, e o consolidado deixa-o igual. Deve ficar «(Revogado.)». A versão de data/ publicada antes já o tinha revogado.",
+   "Art. 22.º, § 1.º: o DL n.º 158/83, art. 1.º, n.º 3 (data/portugal/decretos-leis/1983/decreto-lei-158-83.md), revoga «o § 1.º do artigo 22.º […] na parte relativa à entrada gratuita ao sábado». Não está entre os alteradores nem nas relationships. É uma revogação parcial de uma frase («Será gratuita a entrada ao sábado e domingo.»). Não sei qual é a forma certa de a pôr no texto; fica para decidir."
+  ],
+  "vigencia": null
+ },
+ {
+  "id": "pt:dre:309534:por",
+  "veredicto": "reparos",
+  "problemas": [
+   "Arts. 6.º, 7.º e 8.º: falta a revogação feita pelo DL n.º 269/86, de 3 de setembro, art. 3.º («São revogados os artigos 6.º, 7.º e 8.º do Decreto-Lei n.º 675/75»). Há relação repealed_by pt:dre:220101:por; o texto está em data/portugal/decretos-leis/1986/decreto-lei-269-86.md. O DL 269/86 não está entre os alteradores. O consolidado deixa os três artigos iguais ao original; devem ficar «(Revogado.)».",
+   "O resto confere. Os n.os 6 e 7 do art. 21.º (DL 411/85) estão aplicados. A derrogação do art. 4.º só para o ISEF de Lisboa (DL 382/86) e a revogação «em tudo o que respeite» ao ISEF de Lisboa (DL 153/88, art. 32.º) delimitam por matéria e não mudam o texto, porque o diploma continua a valer para o ISEF do Porto."
+  ],
+  "vigencia": {
+   "conclusao": "outro",
+   "prova": "Revogado em tudo o que respeite ao ISEF da Universidade Técnica de Lisboa pelo DL 153/88, art. 32.º, n.º 1. O art. 4.º já tinha sido derrogado quanto a esse instituto pelo DL 382/86, art. 5.º, n.º 2."
+  }
+ },
+ {
+  "id": "pt:dre:178503:por",
+  "veredicto": "certo",
+  "problemas": [],
+  "vigencia": null
+ },
+ {
+  "id": "pt:dre:501979:por",
+  "veredicto": "certo",
+  "problemas": [],
+  "vigencia": null
+ },
+ {
+  "id": "pt:dre:322095:por",
+  "veredicto": "certo",
+  "problemas": [],
+  "vigencia": {
+   "conclusao": "outro",
+   "prova": "A Lei 5/99, art. 107.º, revoga a legislação sobre atribuições, organização e funcionamento da PSP e mantém o DL 321/94 só quanto ao estatuto do pessoal, «em tudo o que não o contrariar»."
+  }
+ }
+]

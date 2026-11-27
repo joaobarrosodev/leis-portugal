@@ -1,0 +1,178 @@
+[
+ {
+  "id": "pt:dre:183251:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 16.º, n.º 1, do DL 135/91 (redação da Lei 51/91): revoga o DL 291/85 com exceção do art. 15.º; título e epígrafe mantidos, corpo «(Revogado.)». A epígrafe é a da redação do DL 237/87.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 16.º, n.º 1, do DL 135/91 (redação da Lei 51/91): revoga o DL 291/85 com exceção do art. 15.º; título e epígrafe mantidos, corpo «(Revogado.)». A epígrafe é a da redação do DL 237/87.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 16.º, n.º 1, do DL 135/91 (redação da Lei 51/91): revoga o DL 291/85 com exceção do art. 15.º; título e epígrafe mantidos, corpo «(Revogado.)». A epígrafe é a da redação do DL 237/87.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 16.º, n.º 1, do DL 135/91 (redação da Lei 51/91): revoga o DL 291/85 com exceção do art. 15.º; título e epígrafe mantidos, corpo «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 16.º, n.º 1, do DL 135/91 (redação da Lei 51/91): revoga o DL 291/85 com exceção do art. 15.º; título e epígrafe mantidos, corpo «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 16.º, n.º 1, do DL 135/91 (redação da Lei 51/91): revoga o DL 291/85 com exceção do art. 15.º; título e epígrafe mantidos, corpo «(Revogado.)». A redação do DL 2/90 ao art. 6.º fica sem efeito pela revogação.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 16.º, n.º 1, do DL 135/91 (redação da Lei 51/91): revoga o DL 291/85 com exceção do art. 15.º; título e epígrafe mantidos, corpo «(Revogado.)». A epígrafe é a da redação do DL 237/87.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 16.º, n.º 1, do DL 135/91 (redação da Lei 51/91): revoga o DL 291/85 com exceção do art. 15.º; título e epígrafe mantidos, corpo «(Revogado.)». A epígrafe é a da redação do DL 237/87.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 16.º, n.º 1, do DL 135/91 (redação da Lei 51/91): revoga o DL 291/85 com exceção do art. 15.º; título e epígrafe mantidos, corpo «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 10.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 16.º, n.º 1, do DL 135/91 (redação da Lei 51/91): revoga o DL 291/85 com exceção do art. 15.º; título e epígrafe mantidos, corpo «(Revogado.)». A epígrafe é a da redação do DL 237/87.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 11.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 16.º, n.º 1, do DL 135/91 (redação da Lei 51/91): revoga o DL 291/85 com exceção do art. 15.º; título e epígrafe mantidos, corpo «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 12.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 2.º do DL 237/87 (e pelo art. 16.º do DL 135/91, redação da Lei 51/91); corpo «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 13.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 2.º do DL 237/87 (e pelo art. 16.º do DL 135/91, redação da Lei 51/91); corpo «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 14.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 16.º, n.º 1, do DL 135/91 (redação da Lei 51/91): revoga o DL 291/85 com exceção do art. 15.º; título e epígrafe mantidos, corpo «(Revogado.)». A epígrafe é a da redação do DL 237/87.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 15.º",
+    "veredicto": "certo",
+    "motivo": "Exceção à revogação; alínea j) aditada ao n.º 1 pelo DL 211-A/86, letra a letra, a seguir à i).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 16.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 16.º, n.º 1, do DL 135/91 (redação da Lei 51/91): revoga o DL 291/85 com exceção do art. 15.º; título e epígrafe mantidos, corpo «(Revogado.)». A epígrafe é a da redação do DL 237/87.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 377/90, art. 8.º: prorrogação até 31/12/1990 do prazo do n.º 1 do art. 15.º",
+    "motivo": "Não textual: prorrogação de prazo, sem nova redação."
+   },
+   {
+    "instrucao": "DL 377/90, arts. 1.º a 7.º e 9.º (CIRS, CIRC, Imposto do Selo, Sisa, isenção de contribuição autárquica)",
+    "motivo": "Outro diploma / norma autónoma: não dão nova redação ao DL 291/85."
+   },
+   {
+    "instrucao": "Lei 51/91: art. 16.º, n.º 2, do DL 135/91 (mantém em vigor a legislação revogada para efeitos do n.º 2 do art. 1.º do DL 65/89)",
+    "motivo": "Não textual: ressalva de efeitos, sem texto a repor."
+   },
+   {
+    "instrucao": "Lei 51/91: arts. 8.º e 9.º e n.º 7 do art. 15.º do DL 135/91",
+    "motivo": "Outro diploma: alteram o DL 135/91."
+   },
+   {
+    "instrucao": "DL 2/90, art. 1.º (rácio de habitação das SGII)",
+    "motivo": "Norma autónoma do DL 2/90, não altera o texto do DL 291/85."
+   }
+  ]
+ },
+ {
+  "id": "pt:dre:190576:por",
+  "artigos": [],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Lei 82-D/2014, art. 12.º: nova redação dos n.os 1 e 2 do art. 2.º (inscrição no cadastro predial)",
+    "motivo": "Efeito adiado: o art. 55.º, n.º 5, da Lei 82-D/2014 diz que o art. 2.º nesta redação, na parte do cadastro predial, só produz efeitos com a entrada em vigor do diploma da reforma do cadastro predial; a vista não mostra que tenha entrado em vigor. Nota: o texto original do art. 2.º não está na vista, por isso não pude confirmar que a única mudança dos n.os 1 e 2 é a do cadastro."
+   },
+   {
+    "instrucao": "Lei 110/2017, art. 4.º: nova redação do art. 28.º do Regulamento Emolumentar dos Registos e Notariado",
+    "motivo": "Outro diploma."
+   },
+   {
+    "instrucao": "DL 66/2019, art. 5.º: nova redação do art. 28.º do Regulamento Emolumentar dos Registos e Notariado",
+    "motivo": "Outro diploma."
+   }
+  ]
+ },
+ {
+  "id": "pt:dre:223626:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "Alíneas g) e h) do n.º 1 aditadas pelo DL 253/98, letra a letra; resto igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "Alínea b) com 20%, nova c) «entidade instrutora» e antiga c) passa a d), conforme o art. 2.º do DL 253/98.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Lei 12/2012: revogação do DL 254/2009 (Código Florestal) e manutenção em vigor do quadro legal anterior",
+    "motivo": "Outro diploma; a manutenção em vigor não é textual."
+   }
+  ]
+ }
+]

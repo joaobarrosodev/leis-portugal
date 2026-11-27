@@ -1,0 +1,35 @@
+[
+  {"id": "pt:dre:662098:por",
+   "artigos": [
+     {"artigo": "Artigo 1.º", "veredicto": "certo", "motivo": "Nova redação (n.os 1 e 2) do art. 1.º do DLR 4/85/M, letra a letra.", "texto_esperado": ""},
+     {"artigo": "Artigo 4.º", "veredicto": "certo", "motivo": "Nova redação do DLR 4/85/M, letra a letra.", "texto_esperado": ""},
+     {"artigo": "Artigo 5.º", "veredicto": "certo", "motivo": "Nova redação do DLR 4/85/M, letra a letra (grafia «forma deste» do alterador).", "texto_esperado": ""}
+   ],
+   "instrucoes_em_falta": [],
+   "instrucoes_justificadas": [
+     {"instrucao": "DLR 4/87/M, arts. 1.º a 3.º: suspensão da aplicação do art. 1.º e regime durante a suspensão", "motivo": "Não textual: suspensão, sem nova redação."}
+   ],
+   "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"},
+  {"id": "pt:dre:665133:por",
+   "artigos": [
+     {"artigo": "Artigo 26.º", "veredicto": "certo", "motivo": "N.º 3 aditado pelo artigo único do DL 209/76, letra a letra; n.os 1 e 2 iguais.", "texto_esperado": ""}
+   ],
+   "instrucoes_em_falta": [],
+   "instrucoes_justificadas": [
+     {"instrucao": "Portaria 528/80: cria um lugar de assessor e dois de técnico superior principal no quadro do mapa I", "motivo": "Não dá texto novo do mapa (acrescenta lugares a um quadro que só existe em imagem) e o consolidado não tem anexo com título onde o pôr."},
+     {"instrucao": "Portaria 39/81, n.º 4.º: substitui o quadro de pessoal do Fundo de Fomento da Habitação pelo quadro anexo IV", "motivo": "O quadro novo só vem em imagem e o consolidado não tem um anexo com título onde o pôr."},
+     {"instrucao": "Portaria 39/81, n.os 1.º a 3.º e 5.º a 7.º: quadros de outros serviços", "motivo": "Outro diploma: quadros aprovados pelos DL 195/77, 188/79, 189/79 e 254/77."},
+     {"instrucao": "DL 17/85, art. 1.º: alínea h) e nova alínea i) do art. 4.º do DL 7/83", "motivo": "Outro diploma (DL 7/83)."}
+   ],
+   "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"},
+  {"id": "pt:dre:666750:por",
+   "artigos": [
+     {"artigo": "Artigo 4.º", "veredicto": "certo", "motivo": "Proémio do n.º 1 com a redação do DL 366/75; alíneas e n.º 2 iguais.", "texto_esperado": ""}
+   ],
+   "instrucoes_em_falta": [],
+   "instrucoes_justificadas": [
+     {"instrucao": "DL 729-M/75, art. 5.º: mantêm-se em vigor as disposições do original que não contrariem o novo diploma", "motivo": "Revogação condicional («que não contrariem»)."},
+     {"instrucao": "DL 729-M/75, arts. 1.º a 4.º: gestão do Montepio Geral por uma direcção", "motivo": "Não textual: normas próprias, sem nova redação nem revogação expressa de artigos do original."}
+   ],
+   "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+]

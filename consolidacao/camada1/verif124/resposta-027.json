@@ -1,0 +1,57 @@
+[
+ {
+  "id": "pt:dre:324318:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "certo",
+    "motivo": "Epígrafe e n.os 4 a 7 na redação do art. 1.º do DLR 12/2001/M; n.os 1 a 3 iguais.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "Novo n.º 4 do DLR 12/2001/M; antigo n.º 4 passa a 5.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "Alíneas g) e h) aditadas ao n.º 1 e alínea e) do n.º 4 na redação do DLR 12/2001/M.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 12.º",
+    "veredicto": "certo",
+    "motivo": "N.º 2 na redação do DLR 12/2001/M; resto igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 14.º",
+    "veredicto": "certo",
+    "motivo": "N.º 1 (corpo) e novo n.º 2 do DLR 12/2001/M; antigos n.os 2 e 3 passam a 3 e 4.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 21.º",
+    "veredicto": "certo",
+    "motivo": "N.os 5 e 6 aditados pelo DLR 12/2001/M, letra a letra.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DLR 12/2001/M, art. 2.º (efeitos reportados à entrada em vigor do original)",
+    "motivo": "Não textual: produção de efeitos."
+   },
+   {
+    "instrucao": "DLR 22/2004/M, arts. 1.º a 3.º (aprova novo regime de execução do SIPPE-RAM em anexo, aplicável às candidaturas posteriores)",
+    "motivo": "Não textual: aprova regime próprio em anexo do DLR 22/2004/M, sem alterar nem revogar o texto do original (confirmado)."
+   }
+  ]
+ }
+]

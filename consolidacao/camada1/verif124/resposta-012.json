@@ -1,0 +1,21 @@
+[
+  {
+    "id": "pt:dre:668899:por",
+    "artigos": [
+      {"artigo": "Artigo 1.º", "veredicto": "certo", "motivo": "DL 141/97, art. 2.º, dá nova redação à alínea f) («no âmbito da Direcção de Serviços de Conservação»), restantes alíneas mantidas; consolidado igual", "texto_esperado": ""},
+      {"artigo": "Artigo 8.º", "veredicto": "certo", "motivo": "DL 141/97, art. 2.º: novos n.os 1 e 2 letra a letra, n.º 3 mantido do original", "texto_esperado": ""},
+      {"artigo": "Artigo 9.º", "veredicto": "certo", "motivo": "DL 141/97, art. 2.º: novos n.os 1 e 3 letra a letra, n.º 2 mantido do original", "texto_esperado": ""}
+    ],
+    "instrucoes_em_falta": [],
+    "instrucoes_justificadas": [
+      {"instrucao": "DL 141/97, art. 1.º: nova redação do artigo 2.º do DL 184/78", "motivo": "instrução de outro diploma (DL 184/78)"},
+      {"instrucao": "DL 141/97, art. 6.º: revogação da alínea d) do n.º 1 e do n.º 2 do artigo 66.º do DL 184/78", "motivo": "instrução de outro diploma (DL 184/78)"},
+      {"instrucao": "DL 141/97, art. 5.º: cessação de funções dos coordenadores de empreendimento nomeados ao abrigo do artigo 5.º do DL 268/95", "motivo": "não textual: regra sobre cessação de funções, sem nova redação nem revogação do artigo 5.º"},
+      {"instrucao": "DL 141/97, arts. 3.º e 4.º: atribuições da DEC e notário privativo da JAE", "motivo": "não são instruções dirigidas ao texto do DL 268/95 (normas autónomas)"},
+      {"instrucao": "DL 374/2007: transformação da EP, E. P. E., em sociedade anónima e revogação do DL 239/2004", "motivo": "não visa o DL 268/95: nenhuma instrução dirigida ao seu texto"}
+    ],
+    "artigos_a_mais": [],
+    "artigos_em_falta": [],
+    "fora_dos_artigos": "sem alterações"
+  }
+]

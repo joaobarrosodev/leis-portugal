@@ -1,0 +1,19 @@
+[
+ {
+  "id": "pt:dre:285142:por",
+  "veredicto": "reparos",
+  "problemas": [
+   "Retificação por aplicar: a Declaração de 16/5/1988, publicada no DR I n.º 126, 3.º supl., de 31/5/1988 (relação corrected_by pt:dre:222406:por; no acervo em data/portugal/declaracoes/1988/declaracao-1988-05-31-222406.md), não está entre os alteradores e o consolidado mantém 8 dos 9 erros que ela corrige. A versão atual em data/ já tem estas trocas, aplicadas pelo retificacoes_llm.py, mas este consolidado novo volta ao texto publicado. Faltam estas 8 trocas:",
+   "Preâmbulo, 1.º parágrafo: «Procedendo autorização legislativa» deve ler-se «Precedendo autorização legislativa».",
+   "Preâmbulo, 2.º parágrafo: «quer procurando faciliar a estes» deve ler-se «quer procurando facilitar a estes».",
+   "Art. 1.º (no texto que dá ao n.º 7 do art. 50.º do CIVA, dentro do bloco «Artigo 14.º» do consolidado): «Os livros a que se referem o artigo 349.º» deve ler-se «Os livros a que se refere o artigo 349.º».",
+   "Art. 1.º (n.º 3 do art. 58.º do CIVA): «alíneas a), b), c), d) e e) do mesmo número» deve ler-se «alíneas a), b), c) d) ou e) do mesmo número» (a versão em data/ traz «c), d) ou e)», com uma vírgula que a retificação não tem).",
+   "Art. 1.º (n.º 3 do art. 87.º do CIVA): «nos artigos 82.º e 83.º-A e no presente artigo, o Serviço de Administração do IVA» deve ler-se «no artigo 82.º e no presente artigo, o Serviço de Administração do IVA».",
+   "Art. 6.º (verba 13-A da lista III): esta troca já está. O consolidado traz «proporcionar a utilização dos jogos», como a retificação pede, e não «proporcinar».",
+   "Art. 7.º (verba 3.13 da lista II): «dos referidos na verba 3.13-A da lista III» deve ler-se «dos referidos na verba 13-A da lista III».",
+   "Art. 10.º, n.º 1 (norma própria do DL 122/88): «poderão entregar o IVA correspondente ao preço de venda» deve ler-se «poderão entregar todo o IVA correspondente ao preço de venda».",
+   "Resto conferido sem reparos: o art. 8.º (dentro do bloco «Artigo 14.º») tem a redação do art. 151.º da Lei 55-A/2010, letra a letra. Esta redação substitui a do art. 6.º do DL 233/91, que fica sem objeto. As outras instruções dos alteradores (o CIVA, as suas listas, os DL 504-M/85 e 408/87 e outros diplomas, incluindo o DL 195/89 sobre o art. 14.º do DL 504-M/85) são sobre artigos de outros diplomas, na redação dada por este, e não se aplicam aqui: as justificações aceites estão certas. Não há relações repealed_by. A Lei 28/2021, art. 5.º, al. ggggggg), declara não vigente o DL 233/91, não o DL 122/88."
+  ],
+  "vigencia": null
+ }
+]

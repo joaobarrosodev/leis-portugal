@@ -1,0 +1,203 @@
+[
+ {
+  "id": "pt:dre:185294:por",
+  "artigos": [
+   {
+    "artigo": "Trecho 1",
+    "veredicto": "certo",
+    "motivo": "Art. 1.º, corpo do n.º 1 com a redação do DL 15/70.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 2",
+    "veredicto": "certo",
+    "motivo": "Art. 1.º, n.º 2, e novo art. 2.º (n.os 1 e 2) do DL 15/70, que substituem o antigo art. 2.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 3",
+    "veredicto": "certo",
+    "motivo": "Art. 3.º, n.os 3 a 5 aditados pelo DL 15/70 (n.os 1 e 2 originais).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 4",
+    "veredicto": "certo",
+    "motivo": "Art. 11.º, n.º 3 aditado pelo DL 15/70.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 5",
+    "veredicto": "certo",
+    "motivo": "Art. 15.º, n.º 1 com a redação do DL 15/70.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 6",
+    "veredicto": "certo",
+    "motivo": "Art. 19.º, n.os 5 e 6 aditados pelo DL 15/70.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 7",
+    "veredicto": "certo",
+    "motivo": "Art. 20.º, n.º 2, alínea b), com a redação do DL 15/70.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 8",
+    "veredicto": "certo",
+    "motivo": "Art. 21.º, n.º 3 aditado pelo DL 15/70.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 9",
+    "veredicto": "certo",
+    "motivo": "Art. 23.º, n.º 4 com a redação do DL 15/70.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 10",
+    "veredicto": "certo",
+    "motivo": "Art. 25.º, n.º 2 com a redação do DL 15/70.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 11",
+    "veredicto": "certo",
+    "motivo": "Art. 26.º (n.os 1 e 2) e art. 27.º, n.º 1, com a redação do DL 15/70.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 12",
+    "veredicto": "certo",
+    "motivo": "Art. 30.º, proémio do n.º 1, com a redação do DL 15/70.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 13",
+    "veredicto": "certo",
+    "motivo": "Art. 30.º, alíneas b) e c) e n.º 2, e art. 31.º, n.º 1, com a redação do DL 15/70 (sem ponto final, como no alterador).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 14",
+    "veredicto": "certo",
+    "motivo": "Art. 32.º com a redação do DL 15/70.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 15",
+    "veredicto": "certo",
+    "motivo": "Art. 33.º, n.º 3 eliminado: o DL 15/70 inclui o art. 33.º na lista dos artigos com nova redação e essa redação só tem os n.os 1 e 2 («...»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 16",
+    "veredicto": "certo",
+    "motivo": "Art. 37.º, n.º 1, com a redação do DL 15/70.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 17",
+    "veredicto": "certo",
+    "motivo": "Art. 37.º, n.º 3, com a redação do DL 15/70.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 18",
+    "veredicto": "certo",
+    "motivo": "Art. 38.º, n.º 2, com a redação do DL 530/72.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 19",
+    "veredicto": "certo",
+    "motivo": "Art. 38.º: n.º 4 novo e n.º 5 = antigo n.º 4 (DL 15/70); n.os 7 e 8 do DL 530/72; n.º 6 na redação do DL 258/76.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 20",
+    "veredicto": "certo",
+    "motivo": "Art. 39.º, n.º 3 aditado pelo DL 15/70.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 21",
+    "veredicto": "certo",
+    "motivo": "Art. 40.º, n.º 2, com a redação do DL 530/72.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 22",
+    "veredicto": "certo",
+    "motivo": "Art. 42.º com a redação do DL 15/70.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 23",
+    "veredicto": "certo",
+    "motivo": "Art. 44.º com a redação do DL 15/70 (n.os 1 e 2).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 24",
+    "veredicto": "certo",
+    "motivo": "Art. 47.º, n.º 1, com a redação do DL 15/70 («liquida», como no alterador).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 25",
+    "veredicto": "certo",
+    "motivo": "Art. 48.º, n.º 1, alínea d), com a redação do DL 15/70.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 26",
+    "veredicto": "certo",
+    "motivo": "Art. 48.º, n.os 2 e 3 do DL 530/72 (que substituem o n.º 2 do DL 15/70) e n.os 4 a 6 = antigos n.os 3 a 5.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 27",
+    "veredicto": "certo",
+    "motivo": "Art. 49.º, n.º 2, com a redação do DL 15/70.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 28",
+    "veredicto": "certo",
+    "motivo": "Art. 52.º com a redação do DL 15/70.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Trecho 29",
+    "veredicto": "certo",
+    "motivo": "Art. 64.º, n.º 3 aditado pelo DL 15/70, e art. 65.º com a redação do DL 530/72.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 48503, art. 5.º (o n.º 2 do art. 59.º considera-se referido às categorias de técnico de 1.ª ou 2.ª classe)",
+    "motivo": "Não textual: mudança de designação sem nova redação."
+   },
+   {
+    "instrucao": "DL 48503, arts. 1.º a 4.º e 6.º a 15.º (gabinete técnico, quadro da DGRN, chefe de secção na CRC, etc.)",
+    "motivo": "Não textual: normas autónomas, sem nova redação do DL 44063."
+   },
+   {
+    "instrucao": "DL 15/70, arts. 2.º a 4.º (tabela dos funcionários de justiça do DL 35977, participação emolumentar, efeitos)",
+    "motivo": "Outro diploma / não textual."
+   },
+   {
+    "instrucao": "DL 530/72, arts. 2.º a 9.º (técnicos da CRC, secretários da inspeção, deslocações, traduções, isenções)",
+    "motivo": "Não textual: normas autónomas."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

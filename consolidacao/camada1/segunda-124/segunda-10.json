@@ -1,0 +1,28 @@
+[
+ {
+  "id": "pt:dre:632734:por",
+  "veredicto": "reparos",
+  "problemas": [
+   "Revogação que falta: o DL 541/79 (pt:dre:230886:por; data/portugal/decretos-leis/1979/decreto-lei-541-79.md), art. 32.º, alínea a), revoga «O n.º 2 do artigo 13.º e o n.º 2 do artigo 14.º do Decreto-Lei n.º 408/71». Entrou em vigor a 1-01-1980 e está nas relationships como repealed_by, mas não é alterador. No consolidado, os arts. 13.º e 14.º estão iguais ao original e ainda têm os n.os 2 («Pertence também a esta Direcção-Geral promover e orientar o ensino secundário / básico da língua portuguesa no estrangeiro.»). Esses números deviam ficar «2. (Revogado.)».",
+   "O resto está certo: a revogação da alínea f) do n.º 2, II), do art. 4.º e do art. 17.º pelo art. 37.º, alínea a), do DL 534/79 está aplicada (o DL 478/77, art. de revogação, alínea b), já tinha revogado o mesmo). Foram bem dadas por não aplicáveis as extinções, as mudanças de designação e as mudanças nos mapas: estas não trazem texto, ou o texto só vem em imagem."
+  ],
+  "vigencia": null
+ },
+ {
+  "id": "pt:dre:339395:por",
+  "veredicto": "certo",
+  "problemas": [
+   "Nada a corrigir. O único alterador dirigido ao texto deste diploma é o DL 332/2000 (n.º 3 do art. 10.º: «1 de Fevereiro de 2001»), e está aplicado. As instruções do DL 219/2004, DL 250/2007, DL 74/2011, DL 113-A/2011 e DL 67/2012 alteram o DL 186-A/99, mesmo «na redacção dada» por este diploma. Por isso ficam bem fora, segundo a regra das instruções sobre outro diploma. O DL 177/2006 extingue juízos, o que não é textual. Não há corrected_by nem repealed_by, e não encontrei no acervo nenhuma revogação do DL 178/2000."
+  ],
+  "vigencia": null
+ },
+ {
+  "id": "pt:dre:442304:por",
+  "veredicto": "certo",
+  "problemas": [
+   "Nada a corrigir. As novas redações dos arts. 7.º e 9.º pelo DL 114/87 estão aplicadas letra a letra, com as gralhas do próprio alterador («gravuras documentos», «publicacações», «áudio-visuais. espectáculos»), sem retificação registada. O DL 296-A/95 e os arts. 5.º e 15.º do DL 42/96 foram bem dados por não textuais. Não há corrected_by nem repealed_by deste diploma.",
+   "Nota: o DL 23/2021, art. 11.º, alínea d), considera revogado o DL 114/87, o que altera os arts. 7.º e 9.º. Uma alteração já incorporada no diploma alterado não cai com a revogação do diploma que a fez, e o DL 23/2021 não revoga o DL 102/80. Por isso o texto consolidado mantém-se."
+  ],
+  "vigencia": null
+ }
+]

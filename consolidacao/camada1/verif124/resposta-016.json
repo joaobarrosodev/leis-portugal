@@ -1,0 +1,31 @@
+[
+ {
+  "id": "pt:dre:169972:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "DL 371/86: n.os 1 a 3 mantidos ('...') e aditado o n.º 4, letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 13.º-A",
+    "veredicto": "certo",
+    "motivo": "Aditado pelo art. 1.º do DL 278/86, letra a letra.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [
+   "DL 130/86: o texto do alterador vem vazio na vista (só o título); não se pode confirmar que não traz nenhuma instrução dirigida ao DL 497/85 — alvo incerto."
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Portaria n.º 425/86, n.os 1.º a 3.º (criação dos lugares de director-geral e subdirectores-gerais da DGIES)",
+    "motivo": "Não textual: só cita o art. 19.º, n.º 1, do original; não lhe dá nova redação."
+   }
+  ]
+ }
+]

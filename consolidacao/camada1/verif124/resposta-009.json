@@ -1,0 +1,80 @@
+[
+ {"id": "pt:dre:438061:por",
+  "artigos": [
+   {"artigo": "Artigo 22.º", "veredicto": "certo", "motivo": "Nova redação do art. 22.º dada pelo art. 11.º do DL 126/2003, letra a letra.", "texto_esperado": ""}
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {"instrucao": "DL 126/2003, arts. 1.º a 10.º e 12.º (alterações aos DL 272/2002, 276/2002, 280/2002, 282/2002, 283/2002, 285/2002, 289/2002, 290/2002, 292/2002, 295/2002, 301/2002 e respetivos estatutos)", "motivo": "Outro diploma: confirmado nas epígrafes e nos proémios desses artigos."},
+   {"instrucao": "DL 27/2009 (cria o Centro Hospitalar de Entre o Douro e Vouga, E. P. E., que integra o Hospital de S. Sebastião, E. P. E.)", "motivo": "Não textual: nenhum artigo do DL 27/2009 dá nova redação ou revoga o DL 296/2002."}
+  ],
+  "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"},
+ {"id": "pt:dre:462578:por",
+  "artigos": [
+   {"artigo": "Artigo 7.º", "veredicto": "certo", "motivo": "Alínea j) do n.º 1 com a redação do DL 317/81; resto igual ao original.", "texto_esperado": ""}
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {"instrucao": "Portaria 207/85: alarga a área da Região de Turismo do Douro Sul ao Município de Meda", "motivo": "Não textual: a portaria não dá nova redação a nenhum artigo do DL 489/80 (invoca o art. 1.º dos estatutos anexos à Portaria 261/83 e o art. 2.º do DL 327/82)."}
+  ],
+  "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"},
+ {"id": "pt:dre:484575:por",
+  "artigos": [
+   {"artigo": "Artigo 2.º", "veredicto": "certo", "motivo": "Nova redação do DL 52/2000 (n.os 1 a 3), letra a letra; a epígrafe mantém-se porque a nova redação não traz epígrafe.", "texto_esperado": ""},
+   {"artigo": "Artigo 8.º", "veredicto": "certo", "motivo": "Nova redação do DL 48/97 (n.os 1 e 2).", "texto_esperado": ""},
+   {"artigo": "Artigo 10.º", "veredicto": "certo", "motivo": "N.os 2 e 3 do DL 48/97; n.º 1 original («...»).", "texto_esperado": ""},
+   {"artigo": "Artigo 13.º", "veredicto": "certo", "motivo": "Alíneas i) e j) aditadas pelo DL 48/97; restantes alíneas e n.º 2 originais («...»).", "texto_esperado": ""}
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {"instrucao": "DRR 4/2006/M, art. 1.º: nova redação dos arts. 2.º, 4.º, 5.º, 6.º, 12.º, 13.º, 15.º, 16.º e 18.º", "motivo": "Outro diploma: altera o Decreto Regulamentar Regional n.º 13/99/M, não o DL 198/95."}
+  ],
+  "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"},
+ {"id": "pt:dre:484657:por",
+  "artigos": [
+   {"artigo": "Artigo 4.º", "veredicto": "certo", "motivo": "Nova redação do art. 4.º dada pelo art. 5.º do DL 318/97; fórmula final do original mantida.", "texto_esperado": ""}
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {"instrucao": "DL 59/2004: nova redação dos arts. 508.º e 510.º do Código Civil", "motivo": "Outro diploma: altera o Código Civil, não o DL 190/95."}
+  ],
+  "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"},
+ {"id": "pt:dre:512248:por",
+  "artigos": [
+   {"artigo": "Artigo 1.º", "veredicto": "certo", "motivo": "N.º 2 com a redação do DL 47658; n.º 1 original.", "texto_esperado": ""},
+   {"artigo": "Artigo 13.º", "veredicto": "certo", "motivo": "N.os 6 e 7 aditados pelo DL 47658; n.os 1 a 5 originais.", "texto_esperado": ""},
+   {"artigo": "Artigo 18.º", "veredicto": "certo", "motivo": "Corpo original («...») seguido dos n.os 2 e 3 do DL 47658.", "texto_esperado": ""},
+   {"artigo": "Artigo 20.º", "veredicto": "certo", "motivo": "Nova redação do DL 47658.", "texto_esperado": ""},
+   {"artigo": "Artigo 21.º", "veredicto": "certo", "motivo": "Nova redação do DL 47658 (corpo e n.º 2).", "texto_esperado": ""},
+   {"artigo": "Artigo 23.º", "veredicto": "certo", "motivo": "Novo art. 23.º aditado pelo art. 2.º do DL 47658.", "texto_esperado": ""},
+   {"artigo": "Artigo 24.º", "veredicto": "certo", "motivo": "Novo art. 24.º aditado pelo DL 47658.", "texto_esperado": ""},
+   {"artigo": "Artigo 25.º", "veredicto": "certo", "motivo": "Novo art. 25.º aditado pelo DL 47658.", "texto_esperado": ""},
+   {"artigo": "Artigo 26.º", "veredicto": "certo", "motivo": "Novo art. 26.º aditado pelo DL 47658.", "texto_esperado": ""},
+   {"artigo": "Artigo 27.º", "veredicto": "certo", "motivo": "Novo art. 27.º aditado pelo DL 47658.", "texto_esperado": ""},
+   {"artigo": "Artigo 28.º", "veredicto": "certo", "motivo": "Novo art. 28.º aditado pelo DL 47658.", "texto_esperado": ""},
+   {"artigo": "Artigo 29.º", "veredicto": "certo", "motivo": "Antigo art. 23.º renumerado como 29.º.", "texto_esperado": ""},
+   {"artigo": "Artigo 30.º", "veredicto": "certo", "motivo": "Antigo art. 24.º renumerado como 30.º.", "texto_esperado": ""},
+   {"artigo": "Artigo 31.º", "veredicto": "certo", "motivo": "Antigo art. 25.º renumerado como 31.º.", "texto_esperado": ""},
+   {"artigo": "Artigo 32.º", "veredicto": "errado", "motivo": "Antigo art. 26.º renumerado, mas a fórmula final «Publique-se e cumpra-se…» e as assinaturas de 24 de novembro de 1965 aparecem duas vezes; no original aparecem uma só vez.", "texto_esperado": "1. O regime constante do presente diploma poderá, por meio de portaria, ser tornado extensivo, com as adaptações que se mostrem necessárias ou vantajosas, aos outros centros universitários já existentes, assim como, por meio de portaria, poderão ser criados novos centros e fazer-se-lhes essa mesma extensão.\n\n2. As portarias serão expedidas pelo Ministro da Educação Nacional, juntamente com o das Finanças, quanto à metrópole, e com o do Ultramar, quanto às províncias ultramarinas.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 24 de Novembro de 1965. - [assinaturas, uma só vez]"}
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {"instrucao": "DL 159/83: extingue o Centro Universitário do Porto e transfere pessoal e património", "motivo": "Não textual: não revoga o DL 46667 nem dá nova redação a nenhum artigo."}
+  ],
+  "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"},
+ {"id": "pt:dre:517806:por",
+  "artigos": [
+   {"artigo": "Artigo 11.º", "veredicto": "certo", "motivo": "N.os 1, 2 e 6 com a redação do DL 36/2010; n.os 3 a 5 originais; n.º 7 mantido porque a revogação só opera com a publicação do despacho do n.º 1 (art. 2.º, n.º 2, do DL 36/2010), que a vista não mostra.", "texto_esperado": ""}
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {"instrucao": "DL 36/2010, art. 2.º, n.º 1, a), e «7 - (Revogado.)» da nova redação do art. 11.º", "motivo": "Efeito adiado para facto futuro: o n.º 2 do art. 2.º faz operar a revogação à data da publicação do despacho previsto no n.º 1 do art. 11.º; a vista não mostra que foi publicado."},
+   {"instrucao": "DL 251-A/2015", "motivo": "O diploma que altera não traz texto na vista."},
+   {"instrucao": "DL 90/2018", "motivo": "O diploma que altera não traz texto na vista."},
+   {"instrucao": "DL 169-B/2019", "motivo": "O diploma que altera não traz texto na vista."},
+   {"instrucao": "DL 32/2022", "motivo": "O diploma que altera não traz texto na vista."},
+   {"instrucao": "DL 32/2024", "motivo": "O diploma que altera não traz texto na vista."},
+   {"instrucao": "DL 87-A/2025", "motivo": "O diploma que altera não traz texto na vista."}
+  ],
+  "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+]

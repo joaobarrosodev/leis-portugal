@@ -1,0 +1,48 @@
+[
+ {
+  "id": "pt:dre:427162:por",
+  "artigos": [],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Portaria 344/89, 1.º: nova redação dos artigos 19.º e 20.º do Decreto-Lei n.º 26852",
+    "motivo": "outro diploma (Regulamento de Licenças para Instalações Eléctricas, DL 26852)"
+   },
+   {
+    "instrucao": "Portaria 344/89, 2.º: nova redação do n.º 3 do artigo 18.º e da alínea c) do n.º 1 do artigo 27.º «do Decreto-Lei n.º 446/76»",
+    "motivo": "outro diploma: o DL 446/76 só tem os artigos 1.º a 9.º; os artigos 18.º e 27.º são do Regulamento de Licenças (DL 26852), que o DL 446/76 redigiu no anexo; aplicar ao anexo seria errado"
+   },
+   {
+    "instrucao": "Portaria 344/89, 3.º: nova redação do n.º 2.º da Portaria n.º 401/76",
+    "motivo": "outro diploma"
+   },
+   {
+    "instrucao": "Portaria 344/89, 5.º: revogação da Portaria n.º 24/80",
+    "motivo": "outro diploma"
+   },
+   {
+    "instrucao": "DL 272/92, art. 18.º, n.º 1: nova redação do n.º 1 do artigo 13.º do Regulamento de Licenças, com a alteração do DL 446/76",
+    "motivo": "outro diploma (Regulamento, DL 26852); não se aplica ao anexo do DL 446/76"
+   },
+   {
+    "instrucao": "DL 272/92, art. 18.º, n.os 2 a 5: alterações ao Decreto-Lei n.º 517/80",
+    "motivo": "outro diploma"
+   },
+   {
+    "instrucao": "Lei 30/2006, art. 7.º: nova redação dos artigos 59.º a 65.º, 67.º a 72.º, 74.º e 75.º do Regulamento de Licenças (alterado pelo DL 446/76); art. 8.º aditamento do 58.º-A; art. 37.º c) revogação dos artigos 66.º e 73.º",
+    "motivo": "outro diploma (Regulamento, DL 26852); não se aplica ao anexo do DL 446/76"
+   },
+   {
+    "instrucao": "DL 101/2007, art. 1.º e art. 5.º, n.º 1: nova redação dos artigos 7.º, 8.º, 9.º, 12.º, 13.º, 18.º, 27.º, 32.º, 39.º, 41.º e 42.º e revogações nos artigos 9.º, 11.º e 41.º do Regulamento de Licenças",
+    "motivo": "outro diploma (Regulamento, DL 26852); não se aplica ao anexo do DL 446/76"
+   },
+   {
+    "instrucao": "DL 101/2007, arts. 3.º, 4.º e 5.º, n.º 2: alterações aos DL 517/80 e 272/92",
+    "motivo": "outro diploma"
+   }
+  ]
+ }
+]

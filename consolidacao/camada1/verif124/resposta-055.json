@@ -1,0 +1,35 @@
+[
+ {
+  "id": "pt:dre:475919:por",
+  "artigos": [
+   {
+    "artigo": "Trecho 1",
+    "veredicto": "certo",
+    "motivo": "A Lei 16/2015, art. 6.º, al. b), revoga sem exceções «o regime jurídico dos organismos de investimento coletivo, aprovado pelo DL 63-A/2013», isto é, o Regime aprovado pelo art. 2.º e publicado em anexo (incluindo o anexo I desse Regime). O consolidado mantém o título «ANEXO I — (a que se refere o artigo 2.º)» e põe o corpo do anexo em «(Revogado.)»; os arts. 1.º a 8.º do decreto-lei, que a norma não revoga, ficam iguais ao original. A revogação do art. 6.º da Lei 16/2015 pelo DL 27/2023 não repristina o Regime.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 157/2014, art. 3.º: nova redação de artigos do RGICSF (DL 298/92), incluindo o art. 103.º-A",
+    "motivo": "outro diploma: altera o RGICSF; o DL 63-A/2013 só é citado na al. a) do n.º 1 do art. 103.º-A"
+   },
+   {
+    "instrucao": "DL 157/2014 / Lei 35/2018: art. 103.º-A do RGICSF (Cooperação)",
+    "motivo": "outro diploma: é artigo do RGICSF; o DL 63-A/2013 só é citado na al. a) do n.º 1"
+   },
+   {
+    "instrucao": "Lei 16/2015, art. 1.º, n.º 2, al. a): revisão do regime jurídico dos OIC aprovado pelo DL 63-A/2013",
+    "motivo": "não textual: norma de objeto, sem nova redação; o efeito sobre o original vem do art. 6.º, al. b)"
+   },
+   {
+    "instrucao": "Lei 28/2017",
+    "motivo": "o diploma que altera não traz texto na vista; nenhuma instrução dirigida ao original"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

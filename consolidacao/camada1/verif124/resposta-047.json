@@ -1,0 +1,24 @@
+[
+  {
+    "id": "pt:dre:632734:por",
+    "artigos": [
+      {"artigo": "Artigo 4.º", "veredicto": "certo", "motivo": "DL 534/79, art. 37.º, a), revoga a alínea f) do n.º II) do n.º 2 do artigo 4.º; consolidado tem «f) (Revogada.)» e o resto igual ao original", "texto_esperado": ""},
+      {"artigo": "Artigo 17.º", "veredicto": "certo", "motivo": "DL 534/79, art. 37.º, a), revoga o artigo 17.º; consolidado com «(Revogado.)»", "texto_esperado": ""}
+    ],
+    "instrucoes_em_falta": [],
+    "instrucoes_justificadas": [
+      {"instrucao": "DL 71/73, art. 21.º, n.º 2: quadro do ITE acrescido aos quadros únicos do artigo 26.º do DL 408/71", "motivo": "não textual: acréscimo de pessoal ao quadro, sem nova redação do original"},
+      {"instrucao": "DL 146/73, art. 1.º: acrescenta um lugar de inspector-geral ao mapa do artigo 26.º, n.º 1", "motivo": "o alterador não traz o texto da alteração (não dá a nova redação do mapa); de resto o mapa foi depois substituído por inteiro pelo mapa I do Decreto 69/78, só em imagem"},
+      {"instrucao": "DL 694/74, art. 1.º: a DG da Educação Física e Desportos passa a designar-se DG dos Desportos", "motivo": "não textual: mudança de designação sem nova redação"},
+      {"instrucao": "DL 489/75, art. 1.º: extinção da DG da Administração Escolar e criação de duas direcções-gerais", "motivo": "não textual: extinção e criação de serviços sem nova redação nem revogação de preceitos do DL 408/71"},
+      {"instrucao": "Decreto 89/76, art. 1.º: extinção da DG dos Assuntos Culturais", "motivo": "não textual: extinção e transferência de serviços, sem nova redação nem revogação de preceitos do DL 408/71"},
+      {"instrucao": "Portaria 748/77: aumento de um lugar de adjunto do secretário-geral no quadro do mapa anexo ao DL 408/71", "motivo": "o alterador não traz o texto da alteração (não dá a nova redação do mapa); o mapa foi depois substituído pelo mapa I do Decreto 69/78"},
+      {"instrucao": "Decreto 69/78, art. 1.º: o mapa anexo ao DL 408/71 é substituído pelo mapa I", "motivo": "o mapa I só vem em imagem e o consolidado não tem um anexo com título onde o pôr (fora dos artigos sem alterações)"},
+      {"instrucao": "Decreto 69/78, arts. 2.º, 3.º e 5.º: criação do quadro previsto no artigo 27.º, especialista passa a técnico principal, extinção da categoria de técnico de 3.ª classe", "motivo": "não textual: criação de quadro, mudança de designação sem nova redação e extinção de categoria"},
+      {"instrucao": "DL 143/93, art. 26.º: extinção da DG dos Desportos e do Fundo de Fomento do Desporto", "motivo": "não textual: extinção de serviços com remissão das referências para o INDESP, sem nova redação nem revogação de preceitos do DL 408/71"}
+    ],
+    "artigos_a_mais": [],
+    "artigos_em_falta": [],
+    "fora_dos_artigos": "sem alterações"
+  }
+]
