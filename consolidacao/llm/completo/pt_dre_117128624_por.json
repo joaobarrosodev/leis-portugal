@@ -1,0 +1,24 @@
+{
+  "id": "pt:dre:117128624:por",
+  "artigos": [
+    {
+      "chave": "9.º",
+      "epigrafe": "Produção de efeitos",
+      "texto": "1 - O presente decreto-lei produz efeitos no dia 1 de janeiro de 2019, sem prejuízo da sua concretização gradual nos termos do n.º 2 do artigo 4.º da Lei n.º 50/2018, de 20 de agosto, e do disposto no número seguinte.\n\n2 - Relativamente ao ano de 2019, os municípios que não pretendam exercer as competências previstas no presente decreto-lei comunicam esse facto à Direção-Geral das Autarquias Locais, após prévia deliberação dos seus órgãos deliberativos, até 60 dias corridos após entrada em vigor do presente decreto-lei.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (DR 2/2019): no n.º 2 do art. 9.º, sai «e as entidades intermunicipais»; aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "ronda_camada1": 125,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
+}

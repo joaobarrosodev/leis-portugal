@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "28.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 28.º — Encargos do processo de arbitragem de serviços mínimos\n\nAos encargos do processo de arbitragem de serviços mínimos é aplicável o disposto nos n.os 1 e 4 do artigo 23.º",
+    "depois": "###### Artigo 28.º — Encargos do processo de arbitragem de serviços mínimos\n\nAos encargos do processo de arbitragem de serviços mínimos é aplicável o disposto no artigo 23.º\n\n> Alterado pelo/a [Declaração de Rectificação n.º 76/2009](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/76-2009-483075), publicado em 2009-10-15.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:490467:por",
+    "alterador": "pt:dre:483075:por"
+  }
+]

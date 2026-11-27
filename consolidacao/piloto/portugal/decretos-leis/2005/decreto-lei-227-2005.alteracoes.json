@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "Anexo I",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "## Anexo I\n(ver modelo no documento original)",
+    "depois": "## Anexo I\n\n[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2006/02/026a00/08570857.pdf)](https://files.diariodarepublica.pt/1s/2006/02/026a00/08570857.pdf)\n\n> Alterado pelo/a [Declaração de Rectificação n.º 9/2006](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/9-2006-551868), publicado em 2006-02-06.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:469001:por",
+    "alterador": "pt:dre:551868:por"
+  },
+  {
+    "artigo": "Anexo II — Certificado",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "## Anexo II — Certificado\n(ver modelo no documento original)",
+    "depois": "## Anexo II — Certificado\n\n[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2006/02/026a00/08570857.pdf)](https://files.diariodarepublica.pt/1s/2006/02/026a00/08570857.pdf)\n\n> Alterado pelo/a [Declaração de Rectificação n.º 9/2006](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/9-2006-551868), publicado em 2006-02-06.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:469001:por",
+    "alterador": "pt:dre:551868:por"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "15.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 15.º — Regime processual\n\n1 - As acções para declaração de perda de mandato ou de dissolução de órgãos autárquicos ou entidades equiparadas têm carácter urgente.\n\n2 - As acções seguem os termos dos recursos dos actos administrativos dos órgãos da administração local, com as modificações constantes dos números seguintes.\n\n3 - O oferecimento do rol de testemunhas e o requerimento de outros meios de prova devem ser efectuados nos articulados, não podendo cada parte produzir mais de 5 testemunhas sobre cada facto nem o número total destas ser superior a 20.\n\n4 - Não há lugar a especificação e questionário nem a intervenção do tribunal colectivo, e os depoimentos são sempre reduzidos a escrito.\n\n5 - É aplicável a alegações e a prazos o preceituado nos n.os 2 e 3 do artigo 60.º do Decreto-Lei n.º 267/85, de 16 de Julho.\n\n6 - Somente cabe recurso da decisão que ponha termo ao processo, o qual sobe imediatamente e nos próprios autos, com efeito suspensivo, e, dado o seu carácter urgente, deve ainda ser observado no seu regime o disposto nos n.os 1 e 2 do artigo 115.º do Decreto-Lei n.º 267/85, de 16 de Julho.\n\n7 - As sentenças proferidas nas acções de perda de mandato ou de dissolução de órgão são notificadas ao Governo.\n\n8 - Às acções desta natureza é aplicável o regime de custas e preparos estabelecido para os recursos de actos administrativos.",
+    "depois": "###### Artigo 15.º — Regime processual\n\n1 - As ações para declaração de perda de mandato ou de dissolução de órgãos autárquicos ou entidades equiparadas têm caráter urgente e seguem os termos do processo do contencioso eleitoral, previstos no Código de Processo nos Tribunais Administrativos.\n\n2 - [Revogado].\n\n3 - [Revogado].\n\n4 - [Revogado].\n\n5 - [Revogado].\n\n6 - [Revogado].\n\n7 - [Revogado].\n\n8 - [Revogado].\n\n> Alterado pelo/a [Decreto-Lei n.º 214-G/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-g-2015-70423756), publicado em 2015-10-02.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:407284:por",
+    "alterador": "pt:dre:70423756:por"
+  }
+]

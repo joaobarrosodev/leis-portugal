@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "Anexo::66.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 66.º — Direito de preferência da Região Autónoma dos Açores\n\n1 - A alienação ou a constituição de outro direito real sobre bem cultural incorporado em museu privado confere à Região o direito de preferência, independentemente de o bem-estar classificado ou em vias de classificação ou inventariado.\n\n2 - A comunicação da alienação ou da constituição de outro direito real deve ser feita por escrito pelo responsável pelo museu ou do órgão dirigente da pessoa coletiva de que dependa, no caso de o museu não dispor de personalidade jurídica, ao serviço competente para a instrução do respetivo procedimento.\n\n3 - O incumprimento do dever previsto no número anterior determina a nulidade do ato ou negócio jurídico.\n\n4 - O prazo para o exercício do direito de preferência é de 60 dias.\n\n5 - O direito de preferência por parte da Região é exercido pelos membros do Governo Regional com competência em matéria de finanças e cultura.",
+    "depois": "###### Artigo 66.º — Direito de preferência da Região Autónoma dos Açores\n\n1 - A alienação ou a constituição de outro direito real sobre bem cultural incorporado em museu privado confere à Região o direito de preferência, independentemente de o bem estar classificado ou em vias de classificação ou inventariado.\n\n2 - A comunicação da alienação ou da constituição de outro direito real deve ser feita por escrito pelo responsável pelo museu ou do órgão dirigente da pessoa coletiva de que dependa, no caso de o museu não dispor de personalidade jurídica, ao serviço competente para a instrução do respetivo procedimento.\n\n3 - O incumprimento do dever previsto no número anterior determina a nulidade do ato ou negócio jurídico.\n\n4 - O prazo para o exercício do direito de preferência é de 60 dias.\n\n5 - O direito de preferência por parte da Região é exercido pelos membros do Governo Regional com competência em matéria de finanças e cultura.\n\n> Alterado pelo/a [Declaração de Retificação n.º 15/2021/A](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/15-2021-176147942), publicado em 2021-12-20.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:174824638:por",
+    "alterador": "pt:dre:176147942:por"
+  }
+]

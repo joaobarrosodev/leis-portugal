@@ -1,0 +1,23 @@
+{
+  "id": "pt:dre:127504232:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [
+    {
+      "titulo": "## Anexo — (a que se refere o artigo 10.º)",
+      "texto": "«Artigo 2.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) A exploração de atividades de fabrico e venda, bem como de serviços de manutenção, reparação, grande reparação e reabilitação, de material circulante ferroviário, incluindo todas as atividades complementares, como estudos e conceção de instalações oficinais, fabrico, reparação e manutenção de componentes eletrónicos de ferrovia e desenvolvimento de soluções informáticas;\n\nf) [Anterior alínea e).]\n\ng) [Anterior alínea f).]»\n\n112885849",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (DR 10/2020): no anexo a que se refere o art. 10.º, o texto do art. 2.º dos Estatutos termina na alínea g) do n.º 3 (saem os n.os 4 a 6); aplicado ao corpo do anexo."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "ronda_camada1": 125,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
+}

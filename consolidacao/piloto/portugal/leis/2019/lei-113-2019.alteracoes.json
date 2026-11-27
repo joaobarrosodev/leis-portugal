@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "Anexo — (a que se refere o artigo 8.º)",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "## Anexo — (a que se refere o artigo 8.º)",
+    "depois": "## Anexo — (a que se refere o artigo 7.º)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:124609256:por",
+    "alterador": "pt:dre:125074529:por"
+  }
+]

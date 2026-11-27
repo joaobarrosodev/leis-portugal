@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "9.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 9.º — Produção de efeitos\n\n1 - O presente decreto-lei produz efeitos no dia 1 de janeiro de 2019, sem prejuízo da sua concretização gradual nos termos do n.º 2 do artigo 4.º da Lei n.º 50/2018, de 20 de agosto, e do disposto no número seguinte.\n\n2 - Relativamente ao ano de 2019, os municípios e as entidades intermunicipais que não pretendam exercer as competências previstas no presente decreto-lei comunicam esse facto à Direção-Geral das Autarquias Locais, após prévia deliberação dos seus órgãos deliberativos, até 60 dias corridos após entrada em vigor do presente decreto-lei.",
+    "depois": "###### Artigo 9.º — Produção de efeitos\n\n1 - O presente decreto-lei produz efeitos no dia 1 de janeiro de 2019, sem prejuízo da sua concretização gradual nos termos do n.º 2 do artigo 4.º da Lei n.º 50/2018, de 20 de agosto, e do disposto no número seguinte.\n\n2 - Relativamente ao ano de 2019, os municípios que não pretendam exercer as competências previstas no presente decreto-lei comunicam esse facto à Direção-Geral das Autarquias Locais, após prévia deliberação dos seus órgãos deliberativos, até 60 dias corridos após entrada em vigor do presente decreto-lei.\n\n> Alterado pelo/a [Declaração de Retificação n.º 2/2019](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/2-2019-118406928), publicado em 2019-01-24.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:117128624:por",
+    "alterador": "pt:dre:118406928:por"
+  }
+]

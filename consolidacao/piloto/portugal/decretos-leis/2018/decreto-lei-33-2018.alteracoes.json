@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "169.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 169.º — Alteração à Portaria n.º 145/2014, de 16 de julho\n\nO artigo 3.º da Portaria n.º 145/2014, de 16 de julho, passa a ter a seguinte redação:\n\n«Artigo 3.º\n\n[...]\n\n[...]:\n\na) [...];\n\nb) [...];\n\nc) [...];\n\nd) [...];\n\ne) [...];\n\nf) [...];\n\ng) Assegurar todos os procedimentos de contratação pública no domínio das competências específicas atribuídas pelo regime jurídico do sistema nacional de compras públicas;\n\nh) [...];\n\ni) [...];\n\nj) [...];\n\nk) [...].»",
+    "depois": "###### Artigo 169.º — Alteração à Portaria n.º 145/2014, de 16 de julho\n\nO artigo 3.º da Portaria n.º 145/2014, de 16 de julho, passa a ter a seguinte redação:\n\n«Artigo 3.º\n\n[...]\n\n[...]:\n\na) [...];\n\nb) [...];\n\nc) [...];\n\nd) [...];\n\ne) [...];\n\nf) [...];\n\ng) [...];\n\nh) Assegurar todos os procedimentos de contratação pública no domínio das competências específicas atribuídas pelo regime jurídico do sistema nacional de compras públicas;\n\ni) [...];\n\nj) [...];\n\nk) [...].»\n\n> Alterado pelo/a [Declaração de Retificação n.º 22/2018](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/22-2018-115674375), publicado em 2018-07-10.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:115312061:por",
+    "alterador": "pt:dre:115674375:por"
+  }
+]

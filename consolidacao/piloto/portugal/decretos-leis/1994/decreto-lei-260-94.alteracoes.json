@@ -12,5 +12,19 @@
     "unidade": [],
     "diploma": "pt:dre:626221:por",
     "alterador": "pt:dre:67356344:por"
+  },
+  {
+    "artigo": "4.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 4.º — Recursos\n\nAs sociedades de investimento só podem financiar a sua actividade com fundos próprios e através dos seguintes recursos:\n\na) Emissão de obrigações de qualquer espécie, nas condições previstas na lei, elevando os limites fixados no Código das Sociedades Comerciais até ao quádruplo dos seus capitais próprios, bem como de papel comercial;\n\nb) [Revogada];\n\nc) Financiamentos concedidos por instituições de crédito, nomeadamente no âmbito do mercado interbancário, de acordo com a legislação aplicável a este mercado, bem como por instituições financeiras;\n\nd) Financiamentos previstos nas alíneas a) e d) do n.º 2 do artigo 9.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras.\n\n> Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 157/2014 - Diário da República n.º 206/2014, Série I de 2014-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2014-58585556), em vigor a partir de 2014-11-23",
+    "depois": "###### Artigo 4.º — Recursos\n\n1 - As sociedades de investimento só podem financiar a sua actividade com fundos próprios e através dos seguintes recursos:\n\na) Emissão de obrigações de qualquer espécie, nas condições previstas na lei, em montante que não exceda o quádruplo dos seus capitais próprios, considerando a soma do preço de subscrição de todas as obrigações emitidas e não amortizadas, bem como emissão de papel comercial;\n\nb) [Revogada];\n\nc) Financiamentos concedidos por instituições de crédito, nomeadamente no âmbito do mercado interbancário, de acordo com a legislação aplicável a este mercado, bem como por instituições financeiras;\n\nd) Financiamentos previstos nas alíneas a) e d) do n.º 2 do artigo 9.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras.\n\n2 - Para efeitos da alínea a) do número anterior, entende-se por capitais próprios o somatório do capital realizado, deduzidas as ações próprias, com as reservas, os resultados transitados e os ajustamentos em ativos financeiros.\n\n> Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 157/2014 - Diário da República n.º 206/2014, Série I de 2014-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2014-58585556), em vigor a partir de 2014-11-23\n\n> Alterado pelo/a [Decreto-Lei n.º 100/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-2015-67356344), publicado em 2015-06-02.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:626221:por",
+    "alterador": "pt:dre:67356344:por"
   }
 ]

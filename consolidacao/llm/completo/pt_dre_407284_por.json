@@ -1,0 +1,25 @@
+{
+  "id": "pt:dre:407284:por",
+  "artigos": [
+    {
+      "chave": "15.º",
+      "epigrafe": "Regime processual",
+      "texto": "1 - As ações para declaração de perda de mandato ou de dissolução de órgãos autárquicos ou entidades equiparadas têm caráter urgente e seguem os termos do processo do contencioso eleitoral, previstos no Código de Processo nos Tribunais Administrativos.\n\n2 - [Revogado].\n\n3 - [Revogado].\n\n4 - [Revogado].\n\n5 - [Revogado].\n\n6 - [Revogado].\n\n7 - [Revogado].\n\n8 - [Revogado].",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (DL 214-G/2015), art. 9.º: nova redação do art. 15.º (epígrafe «[...]» mantida; n.º 1 novo; n.os 2 a 8 revogados); aplicado com o texto do alterador.",
+    "Alterador 1, art. 1.º: objeto; não textual."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "ronda_camada1": 125,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
+}

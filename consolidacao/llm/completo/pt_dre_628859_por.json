@@ -1,0 +1,23 @@
+{
+  "id": "pt:dre:628859:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [
+    {
+      "titulo": "## Anexo A",
+      "texto": "Conclusão e certificação do ensino secundário pela via escolar com afectação a uma área de formação e com classificação\n\nTABELA I\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/12/25000/0911009111.pdf)\n\nTABELA II\n\nDisciplinas das componentes de formação sócio-cultural e científica dos cursos profissionais (Decreto-Lei n.º 74/2004, de 26 de Março)\n\n(ver documento original)\n\nTABELA III\n\nClassificação nacional das áreas de educação e formação\n\n(ver documento original)",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (DR 117/2007): republica na íntegra, em imagem, a tabela I do anexo A; no corpo do anexo A, a imagem antiga da tabela I foi substituída pela linha de imagem do alterador; tabelas II e III ficam."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "ronda_camada1": 125,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
+}

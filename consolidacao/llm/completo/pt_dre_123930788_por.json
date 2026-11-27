@@ -1,0 +1,24 @@
+{
+  "id": "pt:dre:123930788:por",
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "Alteração ao Decreto Legislativo Regional n.º 17/2014/M, de 16 de dezembro",
+      "texto": "Os artigos 3.º, 4.º, 21.º e 22.º ao Decreto Legislativo Regional n.º 17/2014/M, de 16 de dezembro, na sua atual redação, passam a ter a seguinte redação:\n\n«Artigo 3.º\n\n[...]\n\n1 - [...]\n\n2 - [...]:\n\na) [...]\n\nb) [...]\n\nc) [...]\n\nd) [...]\n\ne) [...]\n\nf) [...]\n\ng) Gestão de resíduos em regime de alta, incluindo as operações de valorização e eliminação de resíduos, nomeadamente transferência, triagem, valorização orgânica e energética, bem como outras formas de tratamento, e o envio ou deposição em destino final;\n\nh) Gestão de resíduos em regime de baixa, incluindo recolha seletiva e indiferenciada.\n\nArtigo 4.º\n\n[...]\n\n[...]\n\na) [...]\n\nb) [...]\n\nc) [...]\n\nd) [...]\n\ne) Recolha seletiva e indiferenciada de resíduos;\n\nf) Operações de valorização e eliminação de resíduos, nomeadamente transferência, triagem, valorização orgânica e energética, bem como outras formas de tratamento, e o envio ou deposição em destino final;\n\ng) [...]\n\nh) [...]\n\ni) [...]\n\nj) [...]\n\nk) [...]\n\nl) [...]\n\nm) [...]\n\nArtigo 21.º\n\n[...]\n\n1 - [...]\n\n2 - Os trabalhadores a que se refere o número anterior que exercem funções na concessionária ao abrigo de situações anteriores à vigência da Lei Geral do Trabalho em Funções Públicas, aprovada pela Lei n.º 35/2014, de 20 de junho, na sua atual redação, são integrados no correspondente grupo funcional da concessionária, sendo-lhes aplicável o respetivo regime de remunerações, suplementos e efeitos da avaliação do desempenho vigente na concessionária, sem prejuízo da manutenção do seu estatuto de origem.\n\n3 - [...]\n\n4 - [...]\n\n5 - [...]\n\nArtigo 22.º\n\n[...]\n\n1 - [...]\n\na) [...]\n\nb) [...]\n\nc) [...]\n\nd) [...]\n\ne) [...]\n\nf) A execução de ligações aos sistemas públicos de abastecimento de águas, de drenagem de águas residuais e de águas para regadio ou alteração das existentes sem a respetiva autorização da concessionária;\n\ng) [...]\n\nh) [...]\n\ni) [...]\n\nj) [...]\n\nk) [...]\n\nl) [...]\n\nm) [...]\n\nn) [...]\n\no) [...]\n\np) [...]\n\nq) [...]\n\nr) [...]\n\ns) [...]\n\nt) [...]\n\nu) O abandono de resíduos fora dos equipamentos de deposição nos respetivos pontos de recolha, em violação das normas regulamentares e legais vigentes;\n\nv) A alteração do posicionamento dos contentores de recolha de resíduos para fora dos respetivos pontos de recolha;\n\nw) [Anterior alínea u).]\n\nx) [Anterior alínea v).]\n\n2 - [...]»",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: retifica a inexatidão com que saiu o DLR 10/2019/M no texto do art. 3.º do DLR 17/2014/M que o art. 2.º reproduz (alíneas e) e f) passam a «[...]» e o texto vai para as novas g) e h)); aplicado ao art. 2.º. O anexo de republicação (art. 3.º) já tem as alíneas g) e h) certas, sem mudança."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "ronda_camada1": 125,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
+}

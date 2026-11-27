@@ -1,0 +1,36 @@
+[
+ {
+  "id": "pt:dre:333155:por",
+  "artigos": [
+   {
+    "chave": "8.º",
+    "epigrafe": "Direitos inerentes à actividade",
+    "texto": "No âmbito e na vigência do contrato de prospecção e pesquisa poderá o titular dos direitos realizar os estudos e trabalhos necessários ao esclarecimento das estruturas geológicas em terrenos vizinhos da área abrangida pelo mesmo, sempre que a Direcção-Geral fundamentadamente reconheça essa necessidade, mediante a observância das condições por esta fixadas e sem prejuízo de terceiros.",
+    "alterador": 1
+   },
+   {
+    "chave": "9.º",
+    "epigrafe": "Obrigações decorrentes do contrato",
+    "texto": "Para além do cumprimento das obrigações descritas no artigo 16.º do Decreto-Lei n.º 90/90, de 16 de Março, o titular dos direitos de prospecção e pesquisa deverá:\n\na) Submeter à Direcção-Geral os programas e relatórios do progresso dos trabalhos, de acordo com os prazos e especificações por esta estabelecidos ou previstos no respectivo contrato, e comunicar-lhe prontamente todos os factos relevantes para o conhecimento geológico da área abrangida;\n\nb) Conservar devidamente os testemunhos de sondagens e entregá-los, adequadamente acondicionados e classificados, à Direcção-Geral no termo da vigência do contrato;\n\nc) Contabilizar as despesas em escrita apropriada, por forma a permitir a correcta apreciação dos investimentos realizados;\n\nd) Cumprir as instruções que lhe forem transmitidas pela Direcção-Geral no âmbito do contrato.",
+    "alterador": 1
+   }
+  ],
+  "removidos": [],
+  "titulos": [
+   {
+    "atual": "### Capítulo II — Da licença de prospecção e pesquisa",
+    "novo": "### Capítulo II — Da prospecção e pesquisa",
+    "alterador": 1
+   }
+  ],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, «Artigo 53.º (Taxas)» passa a «Artigo 54.º (Taxas)»: alvo incerto: o texto atual não tem nenhum artigo com a epígrafe «Taxas»; o único art. 53.º é «Direitos adquiridos» e não há art. 54.º.",
+  "instrucoes": [
+   "Alterador 1, título do capítulo II: «Da licença de prospecção e pesquisa» passa a «Da prospecção e pesquisa»; em titulos.",
+   "Alterador 1, epígrafe do art. 8.º: «Direitos inerentes à actividade»; aplicado.",
+   "Alterador 1, epígrafe do art. 9.º: «Obrigações decorrentes do contrato» (o texto atual diz «da licença», o onde se lê «de licença»); aplicado.",
+   "Alterador 1, art. 40.º, n.º 1, alínea b) («Até ao fim do mesmo mês»): o programa já a aplicou bem; sem mudança.",
+   "Alterador 1, art. 53.º (Taxas) passa a 54.º: não aplicado, ver nao_aplicavel."
+  ]
+ }
+]

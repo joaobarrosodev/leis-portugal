@@ -1,0 +1,187 @@
+[
+ {
+  "pedaco": 1,
+  "lote": "entrada-piloto-125-lote-01.jsonl",
+  "ids": [
+   "pt:dre:344966:por",
+   "pt:dre:211028:por",
+   "pt:dre:544170:por",
+   "pt:dre:187049946:por",
+   "pt:dre:569889:por",
+   "pt:dre:107963496:por",
+   "pt:dre:1080481232:por",
+   "pt:dre:108107541:por",
+   "pt:dre:114288884:por"
+  ],
+  "chars": 117045,
+  "vista": "camada1/verif125/vista-001.md",
+  "resposta": "camada1/verif125/resposta-001.json"
+ },
+ {
+  "pedaco": 2,
+  "lote": "entrada-piloto-125-lote-01.jsonl",
+  "ids": [
+   "pt:dre:114425586:por",
+   "pt:dre:114484243:por"
+  ],
+  "chars": 122458,
+  "vista": "camada1/verif125/vista-002.md",
+  "resposta": "camada1/verif125/resposta-002.json"
+ },
+ {
+  "pedaco": 3,
+  "lote": "entrada-piloto-125-lote-01.jsonl",
+  "ids": [
+   "pt:dre:115235757:por"
+  ],
+  "chars": 259734,
+  "vista": "camada1/verif125/vista-003.md",
+  "resposta": "camada1/verif125/resposta-003.json"
+ },
+ {
+  "pedaco": 4,
+  "lote": "entrada-piloto-125-lote-01.jsonl",
+  "ids": [
+   "pt:dre:115312061:por",
+   "pt:dre:117128624:por",
+   "pt:dre:117537583:por",
+   "pt:dre:119397714:por"
+  ],
+  "chars": 103447,
+  "vista": "camada1/verif125/vista-004.md",
+  "resposta": "camada1/verif125/resposta-004.json"
+ },
+ {
+  "pedaco": 5,
+  "lote": "entrada-piloto-125-lote-01.jsonl",
+  "ids": [
+   "pt:dre:119397715:por",
+   "pt:dre:123930788:por",
+   "pt:dre:124044595:por",
+   "pt:dre:124609256:por",
+   "pt:dre:127504232:por",
+   "pt:dre:141382321:por"
+  ],
+  "chars": 75684,
+  "vista": "camada1/verif125/vista-005.md",
+  "resposta": "camada1/verif125/resposta-005.json"
+ },
+ {
+  "pedaco": 6,
+  "lote": "entrada-piloto-125-lote-01.jsonl",
+  "ids": [
+   "pt:dre:146215:por"
+  ],
+  "chars": 363041,
+  "vista": "camada1/verif125/vista-006.md",
+  "resposta": "camada1/verif125/resposta-006.json"
+ },
+ {
+  "pedaco": 7,
+  "lote": "entrada-piloto-125-lote-01.jsonl",
+  "ids": [
+   "pt:dre:146809939:por",
+   "pt:dre:161518655:por",
+   "pt:dre:161587773:por",
+   "pt:dre:163012626:por",
+   "pt:dre:164454929:por",
+   "pt:dre:165036155:por",
+   "pt:dre:168697989:por"
+  ],
+  "chars": 125361,
+  "vista": "camada1/verif125/vista-007.md",
+  "resposta": "camada1/verif125/resposta-007.json"
+ },
+ {
+  "pedaco": 8,
+  "lote": "entrada-piloto-125-lote-02.jsonl",
+  "ids": [
+   "pt:dre:169780055:por",
+   "pt:dre:170221042:por",
+   "pt:dre:174824638:por",
+   "pt:dre:179288:por",
+   "pt:dre:184108568:por",
+   "pt:dre:185224662:por"
+  ],
+  "chars": 68614,
+  "vista": "camada1/verif125/vista-008.md",
+  "resposta": "camada1/verif125/resposta-008.json"
+ },
+ {
+  "pedaco": 9,
+  "lote": "entrada-piloto-125-lote-02.jsonl",
+  "ids": [
+   "pt:dre:207272800:por",
+   "pt:dre:230889:por",
+   "pt:dre:249819:por"
+  ],
+  "chars": 109629,
+  "vista": "camada1/verif125/vista-009.md",
+  "resposta": "camada1/verif125/resposta-009.json"
+ },
+ {
+  "pedaco": 10,
+  "lote": "entrada-piloto-125-lote-02.jsonl",
+  "ids": [
+   "pt:dre:25343691:por",
+   "pt:dre:257806:por",
+   "pt:dre:290635:por",
+   "pt:dre:333155:por",
+   "pt:dre:407284:por",
+   "pt:dre:451220:por",
+   "pt:dre:469001:por"
+  ],
+  "chars": 105878,
+  "vista": "camada1/verif125/vista-010.md",
+  "resposta": "camada1/verif125/resposta-010.json"
+ },
+ {
+  "pedaco": 11,
+  "lote": "entrada-piloto-125-lote-02.jsonl",
+  "ids": [
+   "pt:dre:483145:por",
+   "pt:dre:490467:por",
+   "pt:dre:494186:por",
+   "pt:dre:494224:por"
+  ],
+  "chars": 126038,
+  "vista": "camada1/verif125/vista-011.md",
+  "resposta": "camada1/verif125/resposta-011.json"
+ },
+ {
+  "pedaco": 12,
+  "lote": "entrada-piloto-125-lote-02.jsonl",
+  "ids": [
+   "pt:dre:522813:por",
+   "pt:dre:535012:por",
+   "pt:dre:615241:por",
+   "pt:dre:626221:por",
+   "pt:dre:628859:por",
+   "pt:dre:66953289:por"
+  ],
+  "chars": 112461,
+  "vista": "camada1/verif125/vista-012.md",
+  "resposta": "camada1/verif125/resposta-012.json"
+ },
+ {
+  "pedaco": 13,
+  "lote": "entrada-piloto-125-lote-02.jsonl",
+  "ids": [
+   "pt:dre:67664950:por"
+  ],
+  "chars": 142076,
+  "vista": "camada1/verif125/vista-013.md",
+  "resposta": "camada1/verif125/resposta-013.json"
+ },
+ {
+  "pedaco": 14,
+  "lote": "entrada-piloto-125-lote-02.jsonl",
+  "ids": [
+   "pt:dre:70133815:por",
+   "pt:dre:75170385:por"
+  ],
+  "chars": 7552,
+  "vista": "camada1/verif125/vista-014.md",
+  "resposta": "camada1/verif125/resposta-014.json"
+ }
+]

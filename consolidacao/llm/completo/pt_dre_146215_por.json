@@ -1,0 +1,1339 @@
+{
+  "id": "pt:dre:146215:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "Objecto",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "2.º",
+      "epigrafe": "Âmbito de aplicação",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "3.º",
+      "epigrafe": "Objectivos",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "4.º",
+      "epigrafe": "Definições",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "5.º",
+      "epigrafe": "Fim do estatuto de resíduo",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "6.º",
+      "epigrafe": "Subprodutos",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "7.º",
+      "epigrafe": "Responsabilidade alargada do produtor",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "8.º",
+      "epigrafe": "Obrigações do produtor do produto",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "9.º",
+      "epigrafe": "Medidas de aplicação",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "10.º",
+      "epigrafe": "Princípios gerais",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "11.º",
+      "epigrafe": "Princípio da hierarquia de gestão de resíduos",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "12.º",
+      "epigrafe": "Princípio da responsabilidade pela gestão",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "13.º",
+      "epigrafe": "Princípio do poluidor-pagador",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "14.º",
+      "epigrafe": "Princípios da prevenção e redução",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "15.º",
+      "epigrafe": "Princípio da regulação da gestão de resíduos",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "16.º",
+      "epigrafe": "Princípio responsabilidade do cidadão",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "17.º",
+      "epigrafe": "Princípio da equivalência",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "18.º",
+      "epigrafe": "Princípio da auto-suficiência e da proximidade",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "19.º",
+      "epigrafe": "Autoridade ambiental",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "20.º",
+      "epigrafe": "Planos de gestão de resíduos",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "21.º",
+      "epigrafe": "Conteúdo dos planos de gestão de resíduos",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "22.º",
+      "epigrafe": "Plano Estratégico de Prevenção e Gestão de Resíduos",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "23.º",
+      "epigrafe": "Planos multimunicipais, intermunicipais e municipais de acção",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "24.º",
+      "epigrafe": "Avaliação e revisão dos planos e programas",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "25.º",
+      "epigrafe": "Programa regional de prevenção de resíduos",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "26.º",
+      "epigrafe": "Medidas de prevenção de resíduos",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "27.º",
+      "epigrafe": "Consulta pública",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "28.º",
+      "epigrafe": "Consultas de Estados membros da União Europeia",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "29.º",
+      "epigrafe": "Relatório da consulta pública",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "30.º",
+      "epigrafe": "Aprovação e publicidade",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "31.º",
+      "epigrafe": "Sujeição das operações de gestão de resíduos a normas técnicas",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "32.º",
+      "epigrafe": "Normas técnicas para gestão de bio-resíduos",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "33.º",
+      "epigrafe": "Normas de armazenagem e de triagem de resíduos",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "34.º",
+      "epigrafe": "Normas para a reutilização e reciclagem",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "35.º",
+      "epigrafe": "Normas para a valorização e eliminação",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "36.º",
+      "epigrafe": "Normas das instalações de operações de gestão de resíduos",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "37.º",
+      "epigrafe": "Centros integrados de recuperação, valorização e eliminação de resíduos perigosos",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "38.º",
+      "epigrafe": "Planos internos de prevenção e gestão de resíduos",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "39.º",
+      "epigrafe": "Conteúdo mínimo dos planos internos de prevenção e gestão de resíduos",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "40.º",
+      "epigrafe": "Controlo de resíduos perigosos",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "41.º",
+      "epigrafe": "Proibição da mistura de resíduos perigosos",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "42.º",
+      "epigrafe": "Rotulagem de resíduos perigosos",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "43.º",
+      "epigrafe": "Resíduos perigosos produzidos por habitações",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "44.º",
+      "epigrafe": "Óleos usados",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "45.º",
+      "epigrafe": "Normas específicas de gestão e classificação dos resíduos hospitalares",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "46.º",
+      "epigrafe": "Triagem de resíduos hospitalares",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "47.º",
+      "epigrafe": "Armazenamento e acondicionamento de resíduos hospitalares",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "48.º",
+      "epigrafe": "Metodologias e práticas a adoptar no projecto e execução de obras",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "49.º",
+      "epigrafe": "Reutilização de solos e rochas",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "50.º",
+      "epigrafe": "Utilização de resíduos de construção e demolição em obra",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "51.º",
+      "epigrafe": "Operações de triagem e fragmentação de resíduos de construção e demolição",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "52.º",
+      "epigrafe": "Gestão de resíduos de construção e demolição em obra",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "53.º",
+      "epigrafe": "Plano de prevenção e gestão de resíduos de construção e demolição",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "54.º",
+      "epigrafe": "Instrução do procedimento para as transferências de resíduos",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "55.º",
+      "epigrafe": "Transferências de resíduos hospitalares",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "56.º",
+      "epigrafe": "Transferências de resíduos por via marítima",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "57.º",
+      "epigrafe": "Transferência e eliminação no mar",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "58.º",
+      "epigrafe": "Garantia financeira",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "59.º",
+      "epigrafe": "Transporte rodoviário de resíduos",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "60.º",
+      "epigrafe": "Condições de transporte rodoviário de resíduos",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "61.º",
+      "epigrafe": "Regime de exploração dos centros de processamento de resíduos",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "62.º",
+      "epigrafe": "Regime económico-financeiro da exploração dos centros de processamento de resíduos",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "63.º",
+      "epigrafe": "Operacionalização e monitorização dos centros de processamento de resíduos",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "64.º",
+      "epigrafe": "Resíduos admissíveis em aterro",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "65.º",
+      "epigrafe": "Resíduos não admissíveis em aterro",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "66.º",
+      "epigrafe": "Classificação dos aterros",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "67.º",
+      "epigrafe": "Requisitos técnicos dos aterros",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "68.º",
+      "epigrafe": "Critérios de admissão de resíduos por classes de aterro",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "69.º",
+      "epigrafe": "Processo de admissão de resíduos em aterro",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "70.º",
+      "epigrafe": "Admissão excepcional de resíduos",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "71.º",
+      "epigrafe": "Registo dos resíduos recebidos",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "72.º",
+      "epigrafe": "Direcção da exploração do aterro",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "73.º",
+      "epigrafe": "Acompanhamento e controlo na fase de exploração",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "74.º",
+      "epigrafe": "Interrupção da exploração do aterro",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "75.º",
+      "epigrafe": "Encerramento, manutenção e controlo na fase pós-encerramento",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "76.º",
+      "epigrafe": "Entidades licenciadoras",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "77.º",
+      "epigrafe": "Operações sujeitas a licenciamento",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "78.º",
+      "epigrafe": "Dispensa de licenciamento e comunicação prévia",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "79.º",
+      "epigrafe": "Operações de eliminação de biomassa florestal e agrícola",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "80.º",
+      "epigrafe": "Integração com o regime jurídico de avaliação do impacte e do licenciamento ambiental",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "81.º",
+      "epigrafe": "Integração com o regime jurídico do licenciamento industrial",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "82.º",
+      "epigrafe": "Articulação com os instrumentos de gestão territorial",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "83.º",
+      "epigrafe": "Articulação com o regime jurídico de urbanização e edificação",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "84.º",
+      "epigrafe": "Regimes específicos de licenciamento",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "85.º",
+      "epigrafe": "Pedido de licença",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "86.º",
+      "epigrafe": "Requisitos para licença de deposição de resíduos em aterro",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "87.º",
+      "epigrafe": "Conformidade do pedido de licença",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "88.º",
+      "epigrafe": "Avaliação técnica",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "89.º",
+      "epigrafe": "Aprovação do projecto e autorização de instalação",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "90.º",
+      "epigrafe": "Vistoria",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "91.º",
+      "epigrafe": "Decisão final e emissão de alvará de licença de funcionamento",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "92.º",
+      "epigrafe": "Garantia financeira para licenciamento de aterros",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "93.º",
+      "epigrafe": "Alteração da garantia financeira para licenciamento de aterros",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "94.º",
+      "epigrafe": "Seguro de responsabilidade civil e extracontratual para licenciamento de aterros",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "95.º",
+      "epigrafe": "Licença provisória",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "96.º",
+      "epigrafe": "Licenciamento simplificado",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "97.º",
+      "epigrafe": "Extinção do procedimento e nulidade",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "98.º",
+      "epigrafe": "Registo das licenças das operações de gestão de resíduos",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "99.º",
+      "epigrafe": "Validade da licença",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "100.º",
+      "epigrafe": "Renovação da licença",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "101.º",
+      "epigrafe": "Revisão oficiosa da licença",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "102.º",
+      "epigrafe": "Revisão a pedido do titular",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "103.º",
+      "epigrafe": "Transmissão da licença",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "104.º",
+      "epigrafe": "Suspensão e revogação da licença",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "105.º",
+      "epigrafe": "Suspensão e cessação voluntárias do exercício da actividade",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "106.º",
+      "epigrafe": "Entrega do alvará",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "107.º",
+      "epigrafe": "Sujeição",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "108.º",
+      "epigrafe": "Concessão",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "109.º",
+      "epigrafe": "Missão de interesse público",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "110.º",
+      "epigrafe": "Princípios gerais da concessão",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "111.º",
+      "epigrafe": "Obrigação de adesão dos utilizadores",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "112.º",
+      "epigrafe": "Obrigações dos municípios",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "113.º",
+      "epigrafe": "Poderes da concedente",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "114.º",
+      "epigrafe": "Contrato de concessão",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "115.º",
+      "epigrafe": "Objecto e conteúdo da concessão",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "116.º",
+      "epigrafe": "Obrigações de serviço",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "117.º",
+      "epigrafe": "Relação com os utilizadores",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "118.º",
+      "epigrafe": "Relação com as entidades públicas",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "119.º",
+      "epigrafe": "Prazo da concessão",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "120.º",
+      "epigrafe": "Início da concessão",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "121.º",
+      "epigrafe": "Reequilíbrio económico-financeiro",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "122.º",
+      "epigrafe": "Estabelecimento da concessão",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "123.º",
+      "epigrafe": "Bens e outros meios afectos à concessão",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "124.º",
+      "epigrafe": "Propriedade dos bens afectos à concessão",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "125.º",
+      "epigrafe": "Infra-estruturas pertencentes aos municípios ou a associações de municípios",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "126.º",
+      "epigrafe": "Manutenção dos bens e meios afectos à concessão",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "127.º",
+      "epigrafe": "Inventário",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "128.º",
+      "epigrafe": "Certificação da qualidade",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "129.º",
+      "epigrafe": "Planos integrados de actividades e financeiros plurianuais",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "130.º",
+      "epigrafe": "Tarifários aplicados pela concessionária",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "131.º",
+      "epigrafe": "Critérios para a fixação das tarifas",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "132.º",
+      "epigrafe": "Fixação e revisão das tarifas",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "133.º",
+      "epigrafe": "Retribuição da concedente",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "134.º",
+      "epigrafe": "Poderes da concedente",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "135.º",
+      "epigrafe": "Actividades acessórias ou complementares",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "136.º",
+      "epigrafe": "Fiscalização",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "137.º",
+      "epigrafe": "Acordos sociais ou parassociais e localização da sede e instalações",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "138.º",
+      "epigrafe": "Responsabilidade civil extracontratual",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "139.º",
+      "epigrafe": "Medição e facturação",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "140.º",
+      "epigrafe": "Suspensão do serviço",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "141.º",
+      "epigrafe": "Caução",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "142.º",
+      "epigrafe": "Execução e liberação da garantia",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "143.º",
+      "epigrafe": "Utilização do domínio público",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "144.º",
+      "epigrafe": "Servidões e expropriações",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "145.º",
+      "epigrafe": "Infra-estruturas e equipamentos",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "146.º",
+      "epigrafe": "Prazos de construção, aquisição e instalação",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "147.º",
+      "epigrafe": "Aprovação dos projectos de engenharia",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "148.º",
+      "epigrafe": "Multas contratuais",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "149.º",
+      "epigrafe": "Sequestro",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "150.º",
+      "epigrafe": "Cessão de posição contratual",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "151.º",
+      "epigrafe": "Subconcessão",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "152.º",
+      "epigrafe": "Modificação da concessão",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "153.º",
+      "epigrafe": "Rescisão do contrato",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "154.º",
+      "epigrafe": "Termo do prazo de concessão",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "155.º",
+      "epigrafe": "Resgate da concessão",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "156.º",
+      "epigrafe": "Arbitragem",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "157.º",
+      "epigrafe": "Carta compromisso",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "158.º",
+      "epigrafe": "Regulamentos de serviço",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "159.º",
+      "epigrafe": "Reclamações",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "160.º",
+      "epigrafe": "Modelo operativo do Sistema Regional de Informação sobre Resíduos",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "161.º",
+      "epigrafe": "Obrigatoriedade de inscrição e registo",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "162.º",
+      "epigrafe": "Informação do SRIR",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "163.º",
+      "epigrafe": "Inscrição",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "164.º",
+      "epigrafe": "Pedido de inscrição",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "165.º",
+      "epigrafe": "Recusa de inscrição",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "166.º",
+      "epigrafe": "Cancelamento da inscrição",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "167.º",
+      "epigrafe": "Mapas de registo",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "168.º",
+      "epigrafe": "Periodicidade de preenchimento dos mapas de registo",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "169.º",
+      "epigrafe": "Outras obrigações de registo",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "170.º",
+      "epigrafe": "Gestão do SRIR",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "171.º",
+      "epigrafe": "Regime de acesso e confidencialidade",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "172.º",
+      "epigrafe": "Acesso à informação",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "173.º",
+      "epigrafe": "Aprovação de unidades, entrepostos e estabelecimentos onde se manuseiem subprodutos animais",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "174.º",
+      "epigrafe": "Estabelecimentos geradores de subprodutos animais",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "175.º",
+      "epigrafe": "Controlo oficial",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "176.º",
+      "epigrafe": "Derrogações e abate sanitário",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "177.º",
+      "epigrafe": "Sistema regional de recolha de cadáveres animais",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "178.º",
+      "epigrafe": "Financiamento do SIRERCA",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "179.º",
+      "epigrafe": "Proibição de abandono e normas sobre enterramento de animais",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "192.º",
+      "epigrafe": "Princípios",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "193.º",
+      "epigrafe": "Actualização das taxas",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "194.º",
+      "epigrafe": "Pagamento das taxas",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "195.º",
+      "epigrafe": "Repercussão pelos sujeitos passivos",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "196.º",
+      "epigrafe": "Valores e receita",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "197.º",
+      "epigrafe": "Taxas gerais de licenciamento",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "198.º",
+      "epigrafe": "Licenciamento da gestão de fluxos específicos de resíduos",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "199.º",
+      "epigrafe": "Taxas de licenciamento de instalações para resíduos perigosos",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "200.º",
+      "epigrafe": "Taxas de licenciamento de instalações de incineração e co-incineração",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "201.º",
+      "epigrafe": "Taxa de gestão regional de resíduos",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "202.º",
+      "epigrafe": "Taxas aplicáveis a categorias específicas de embalagens",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "203.º",
+      "epigrafe": "Taxas de regulação",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "204.º",
+      "epigrafe": "Taxas relativas ao movimento transfronteiriço de resíduos",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "205.º",
+      "epigrafe": "Taxas de autorização de acesso ao mercado regional organizado de resíduos",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "206.º",
+      "epigrafe": "Tarifas para deposição de resíduos em aterros",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "207.º",
+      "epigrafe": "Sistema de apoio à gestão de resíduos",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "208.º",
+      "epigrafe": "Funcionamento do sistema de apoio à gestão de resíduos",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "209.º",
+      "epigrafe": "Liberdade de comércio",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "210.º",
+      "epigrafe": "Mercado regional organizado de resíduos",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "211.º",
+      "epigrafe": "Constituição do mercado",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "212.º",
+      "epigrafe": "Entidades gestoras das plataformas de negociação",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "213.º",
+      "epigrafe": "Plataformas de negociação",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "214.º",
+      "epigrafe": "Universalidade e igualdade",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "215.º",
+      "epigrafe": "Informação",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "216.º",
+      "epigrafe": "Segurança",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "217.º",
+      "epigrafe": "Sustentabilidade",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "218.º",
+      "epigrafe": "Interconexão e comunicação de dados",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "219.º",
+      "epigrafe": "Dever de informação e registos",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "220.º",
+      "epigrafe": "Regulamento de funcionamento",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "221.º",
+      "epigrafe": "Autorização de acesso ao mercado regional",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "222.º",
+      "epigrafe": "Validade e renovação da autorização",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "223.º",
+      "epigrafe": "Transmissão",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "224.º",
+      "epigrafe": "Logótipo e designação",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "225.º",
+      "epigrafe": "Mecanismos de incentivo financeiro",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "226.º",
+      "epigrafe": "Mecanismos de incentivo administrativo",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "227.º",
+      "epigrafe": "Fiscalização e inspecção",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "228.º",
+      "epigrafe": "Instrução de processos e aplicação de sanções",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "229.º",
+      "epigrafe": "Classificação das contra-ordenações",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "230.º",
+      "epigrafe": "Sanções acessórias e apreensão cautelar",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "231.º",
+      "epigrafe": "Reposição da situação anterior à infracção",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "232.º",
+      "epigrafe": "Afectação do produto das coimas",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, art. 157.º, a): revoga os títulos I, II, III, V e VI do original. Apliquei a revogação a todos os artigos desses títulos: 1.º a 18.º (título I), 19.º a 172.º (título II), 173.º a 179.º (título III), 192.º a 226.º (título V) e 227.º a 232.º (título VI), com corpo «(Revogado.)» e a epígrafe atual; os títulos de divisão ficam. O título IV (180.º a 191.º), o título VII (233.º a 246.º) e os anexos não são revogados e não mudam.",
+    "Alterador 1, art. 157.º, b) a d): revogam normas do DLR 24/2012/A, do DLR 32/2012/A e a Portaria 1879/2017, não do original: ignoradas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "ronda_camada1": 125,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
+}
