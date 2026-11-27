@@ -1,0 +1,27 @@
+{
+  "id": "pt:dre:476961:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [
+    {
+      "titulo": "## ANEXO IV — Laboratórios nacionais da peste suína africana e respectivas tarefas",
+      "texto": "1 - (Revogado.)\n\n2 - Incumbe ao Laboratório acima referido assegurar que os testes laboratoriais para a detecção da existência de peste suína africana e a identificação do tipo genético dos isolados de vírus se efectuem em conformidade com o disposto no manual de diagnóstico, podendo para esse efeito, fazer acordos especiais com o laboratório comunitário de referência ou com outros laboratórios nacionais.\n\n3 - O laboratório nacional da peste suína africana é responsável pela coordenação das normas e métodos de diagnóstico de cada laboratório de diagnóstico da peste suína africana e para esse efeito:\n\na) Pode fornecer reagentes diagnósticos a laboratórios específicos;\n\nb) Deve controlar a qualidade de todos os reagentes diagnósticos utilizados a nível nacional;\n\nc) Deve organizar testes comparativos periódicos;\n\nd) Deve conservar isolados do vírus da peste suína africana de casos e focos confirmados.",
+      "alterador": 2
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (DL 131/2008), art. 29.º, al. b): revoga o art. 28.º; já está «(Revogado.)» no texto atual, fica como está.",
+    "Alterador 1: os restantes artigos e anexos regulam matéria própria (DL 22/95, Portaria 577/95) e não alteram o texto do original.",
+    "Alterador 2 (DL 79/2011), art. 7.º: nova redação dos n.os 2, 3 e 6 do art. 18.º; o texto atual (aplicado pelo programa) já coincide letra a letra com o alterador e mantém os n.os 1, 4 e 5; fica como está.",
+    "Alterador 2, art. 10.º, n.º 2, al. c): revoga o n.º 1 do anexo IV; aplicado no corpo do anexo IV («1 - (Revogado.)»), os n.os 2 e 3 copiados do texto atual.",
+    "Alterador 2, art. 10.º, n.º 1 e restantes alíneas do n.º 2: revogam outros diplomas; não são do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "ronda_camada1": 123,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
+}

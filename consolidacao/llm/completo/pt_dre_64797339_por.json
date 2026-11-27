@@ -1,0 +1,17 @@
+{
+  "id": "pt:dre:64797339:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, Decreto-Lei n.º 111/2019: sem texto: o pedido não traz nenhum artigo do alterador que mencione o original; pelo que se sabe, a alteração visa o Regulamento do Registo de Automóveis (Decreto n.º 55/75), que é outro diploma.",
+  "instrucoes": [
+    "Alterador 1 (DL 111/2019): o pedido não traz texto do alterador dirigido ao DL 177/2014; nada aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "ronda_camada1": 123,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
+}

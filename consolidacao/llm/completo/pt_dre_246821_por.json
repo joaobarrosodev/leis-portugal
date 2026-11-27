@@ -2,12 +2,18 @@
   "id": "pt:dre:246821:por",
   "artigos": [],
   "removidos": [],
-  "nao_aplicavel": "Art. 6.º do Decreto-Lei n.º 202/2008 suprime a rubrica da deltametrina no anexo II do Decreto-Lei n.º 51/2008; o anexo não consta do texto atual (só em imagem); não aplicado.",
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, art. 6.º (no anexo II é suprimida a rubrica referente à substância activa deltametrina): só em imagem: o quadro do anexo II só existe em imagem no texto atual e o alterador não traz imagem nova desse anexo (a imagem do alterador é o seu próprio anexo, a que se refere o seu art. 2.º), não há texto onde suprimir a rubrica",
   "instrucoes": [
-    "Arts. 3.º a 5.º do alterador 1: alteram outros diplomas — ignorados.",
-    "Art. 6.º: supressão de rubrica no anexo II — anexo indisponível, não aplicado."
+    "DL 202/2008, arts. 3.º a 5.º: alteram outros diplomas (DL 27/2000, 116/2004, 233/2006) — outro diploma, ignorados",
+    "DL 202/2008, art. 6.º: suprime a rubrica da deltametrina no anexo II do original — anexo só em imagem, sem imagem nova; nao_aplicavel",
+    "DL 202/2008, arts. 2.º e 7.º a 12.º: disposições próprias do alterador — nada a aplicar"
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 123,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

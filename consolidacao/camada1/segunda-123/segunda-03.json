@@ -1,0 +1,58 @@
+[
+ {
+  "id": "pt:dre:300610:por",
+  "veredicto": "certo",
+  "problemas": [],
+  "vigencia": {
+   "conclusao": "outro",
+   "prova": "O art. 1.º do DL 78/2002 (nova redação do art. 9.º do DL 269/2000) ficou sem objeto: o DL 47/2005, art. 39.º, al. c), revogou o DL 269/2000 «com a redacção dada pelo artigo 1.º do Decreto-Lei n.º 78/2002». Os arts. 2.º a 4.º não são revogados; o texto do DL 78/2002 não muda."
+  }
+ },
+ {
+  "id": "pt:dre:303201:por",
+  "veredicto": "reparos",
+  "problemas": [
+   "ANEXO VIII: quem consolidou retirou do fim do anexo as linhas «Regulamento n.º 7/2002» e a «Nota justificativa da necessidade e urgência do projecto de decreto-lei que visa a transposição para o direito interno da Directiva n.º 2000/40/CE.», com o parágrafo «A necessidade de aprovação imediata do diploma em causa advém do facto [...] de Portugal estar, no caso concreto, em mora quanto a essa obrigação.». O DL 148/2013 (art. 8.º e anexo V) só troca a lista de Estados-Membros: mantém com «[...]» o parágrafo inicial e o final, e não manda tirar nada. O que a instrução não muda fica letra a letra como no texto atual, por isso essas linhas têm de voltar, iguais ao original, a seguir ao parágrafo «Deve também incluir o número de homologação de base [...] é 00.». É assim que o acervo trata o mesmo caso: a versão consolidada oficial do DRE do DL 132/2002 (fragmento 886819680, de 2014) guarda a nota justificativa no último anexo depois da alteração, e a versão de 2008 do DL 115/2002 em data/ também a mantém no anexo X.",
+   "O resto está certo: a lista nova de Estados (1 a 36, CY, MT) é igual à do anexo V do DL 148/2013. Os DL 178/2005, 198/2007, 135/2008 e 16/2010 só mexem no DL 72/2000 ou revogam-no (relationships: «Revogado, a partir de 17.03.2010, o Dec Lei 72/2000 [...] pelo DEC LEI.16/2010»). Os arts. 2.º a 7.º e 9.º a 18.º do DL 148/2013 alteram outros diplomas."
+  ],
+  "vigencia": null
+ },
+ {
+  "id": "pt:dre:444390:por",
+  "veredicto": "reparos",
+  "problemas": [
+   "O DL 298/2009, art. 33.º, n.º 1, al. e), revoga o DL 455/83 por inteiro, e o consolidado pôs «(Revogado.)» nos arts. 1.º, 2.º e 3.º. Pela regra do README (ronda 80: RCM 85/95, 92/94, 136/95 e 144/95 e Portaria 780/99), um consolidado com todos os artigos «(Revogado.)» por causa de um alterador que revoga o diploma inteiro é «revogado por inteiro» e não uma consolidação. Deve sair à mão: fica o texto original e a revogação vai para a vigência. Além disso, o art. 33.º, n.º 2, do DL 298/2009 mantém os suplementos das alíneas d) e e) (DL 454/83 e DL 455/83) a quem já os recebia, enquanto estiver nessas funções, por isso o texto original ainda tem uso. A extinção da gratificação «na parte aplicável à PSP» pelo DL 299/2009, art. 121.º, não é textual (foi bem posta de lado)."
+  ],
+  "vigencia": {
+   "conclusao": "revogado",
+   "prova": "DL 298/2009, art. 33.º, n.º 1, al. e): «São revogados: [...] e) O Decreto-Lei n.º 455/83, de 28 de Dezembro»; produz efeitos a 1-1-2010 (art. 34.º). Ressalva do n.º 2: quem já recebia o suplemento mantém-no enquanto estiver nessas funções."
+  }
+ },
+ {
+  "id": "pt:dre:476961:por",
+  "veredicto": "certo",
+  "problemas": [],
+  "vigencia": null
+ },
+ {
+  "id": "pt:dre:497796:por",
+  "veredicto": "certo",
+  "problemas": [],
+  "vigencia": null
+ },
+ {
+  "id": "pt:dre:563050:por",
+  "veredicto": "certo",
+  "problemas": [],
+  "vigencia": null
+ },
+ {
+  "id": "pt:dre:591106:por",
+  "veredicto": "certo",
+  "problemas": [],
+  "vigencia": {
+   "conclusao": "outro",
+   "prova": "O art. 2.º foi revogado pela Lei 12-A/2008, art. 116.º, al. ae), com efeitos desde que o RCTFP entrou em vigor (art. 118.º, n.º 7; a Lei 59/2008 entrou em vigor a 1-1-2009). O art. 1.º só dava nova redação aos arts. 3.º e 4.º do DL 265/88, que a mesma Lei revogou (al. r)), por isso ficou sem objeto."
+  }
+ }
+]

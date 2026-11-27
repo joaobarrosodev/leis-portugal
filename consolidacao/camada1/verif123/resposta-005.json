@@ -1,0 +1,91 @@
+[
+ {
+  "id": "pt:dre:431014:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 26.º",
+    "veredicto": "certo",
+    "motivo": "Aditado pelo art. 2.º do DL 3/2005; texto e epígrafe iguais aos do alterador.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "ANEXO I",
+    "veredicto": "certo",
+    "motivo": "Anexo I do DL 3/2005, n.º 1: novos pontos 9.10.5.3 e 9.10.5.3.1 e o antigo 9.10.5.3 passa a 9.10.5.4, letra a letra; o resto é [...] e fica como no original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "ANEXO III",
+    "veredicto": "certo",
+    "motivo": "Anexo I do DL 3/2005, n.º 3: ponto 1.2 com a nova redação; o resto é [...].",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "ANEXO V",
+    "veredicto": "certo",
+    "motivo": "Ponto 1.1.2 com a redação do DL 3/2005 (anexo I, n.º 4) e lista do ponto 1.1.1 com a redação do DL 148/2013 (art. 11.º e anexo VIII), letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "ANEXO VI",
+    "veredicto": "certo",
+    "motivo": "Nova redação do anexo I, n.º 5, do DL 3/2005: n.º 2 (sic) com o quadro em imagem do alterador, n.º 2, nota 1 e nova nota 2; a antiga nota 2 (anúncio do anexo X) e nota 3 saem, como manda a nova redação.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "ANEXO X",
+    "veredicto": "certo",
+    "motivo": "Redação do anexo I, n.º 6, do DL 3/2005 com as alterações do DL 134/2008 (anexo, n.º 1: títulos dos n.os 1 e 2 e ponto 1.1.6.2), letra a letra; o texto antigo do original saiu.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [
+   "DL 3/2005, art. 2.º: aditamento da secção III («Dos requisitos de segurança aplicáveis aos sistemas de aquecimento a gás de petróleo liquefeito (GPL)») ao capítulo IV, antes do artigo 26.º; o título da secção não está no consolidado (o alvo é conhecido: capítulo IV, a seguir à secção II e antes do artigo 26.º).",
+   "DL 3/2005, anexo I, n.º 2: nova redação da adenda ao anexo II (pontos 1.2.1 «Marca e modelo:...» e 1.2.2 «Componente e número de homologação, se aplicável:...»); o ANEXO II está na lista dos iguais, sem efeito. Alvo: a adenda do anexo II (se a adenda não está no texto, alvo incerto quanto ao sítio exato).",
+   "DL 134/2008, art. 2.º, n.º 2, e anexo, n.º 2: aditamento do anexo XI («Disposições complementares aplicáveis a determinados veículos definidos na Directiva n.º 94/55/CE»), com o texto completo no alterador; não está no consolidado (alvo conhecido: novo anexo a seguir ao anexo X)."
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 3/2005, art. 4.º e anexo II (anexos I e XI do Regulamento da Homologação CE)",
+    "motivo": "Outro diploma: o Regulamento aprovado pelo DL 72/2000, confirmado no texto do art. 4.º."
+   },
+   {
+    "instrucao": "DL 148/2013, arts. 2.º a 10.º e 12.º a 18.º",
+    "motivo": "Outros diplomas: cada artigo indica na epígrafe e no texto o DL que altera (195/2000, 291/2000, 317/2000, 225/2001, 3/2002, 30/2002, 92/2002, 114/2002, 115/2002, 215/2004, 74/2005, 237/2006, 336/2007, 151/2008, 19/2009 e 16/2010)."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [
+   "ANEXO XI (aditado pelo DL 134/2008)"
+  ],
+  "fora_dos_artigos": "Falta o título «SECÇÃO III — Dos requisitos de segurança aplicáveis aos sistemas de aquecimento a gás de petróleo liquefeito (GPL)» antes do Artigo 26.º no capítulo IV (na ordem do consolidado o artigo 26.º fica na secção II); de resto a ordem dos títulos e artigos está certa."
+ },
+ {
+  "id": "pt:dre:444390:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "O DL 298/2009, art. 33.º, n.º 1, al. e), revoga todo o DL 455/83, com efeitos a 1-1-2010 (art. 34.º); corpo «(Revogado.)».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "Revogação total pelo DL 298/2009, art. 33.º, n.º 1, al. e).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "Revogação total pelo DL 298/2009, art. 33.º, n.º 1, al. e); ficam só as fórmulas finais de aprovação e promulgação, que não são texto do artigo.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

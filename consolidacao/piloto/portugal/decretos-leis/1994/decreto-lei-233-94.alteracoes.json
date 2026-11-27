@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "4.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 4.º — Carreira técnica\n\n1 - ...\n\na) ...\n\nb) ...\n\nc) Técnico de 2.ª classe, de entre indivíduos habilitados com curso superior que não confira o grau de licenciatura, em área de formação adequada ao conteúdo funcional do lugar a prover, aprovados em estágio com classificação não inferior a Bom (14 valores).\n\n2 - ...\n\n3 - ...\n\na) ...\n\nb) ...\n\nArt. 2.º - 1 - Compete aos dirigentes máximos dos serviços e organismos públicos, no despacho de autorização de abertura do concurso para admissão a estágio para lugares de ingresso nas carreiras técnica superior e técnica, especificar as áreas de formação consideradas adequadas ao exercício das funções correspondentes aos lugares a prover.\n\n2 - A especificação referida no número anterior deve constar do aviso de abertura do concurso respectivo.\n\nVisto e aprovado em Conselho de Ministros de 21 de Julho de 1994. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga.\n\nPromulgado em 16 de Agosto de 1994.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 22 de Agosto de 1994.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.",
+    "depois": "###### Artigo 4.º — Carreira técnica\n\n1 - ...\n\na) ...\n\nb) ...\n\nc) Técnico de 2.ª classe, de entre indivíduos habilitados com curso superior que não confira o grau de licenciatura, em área de formação adequada ao conteúdo funcional do lugar a prover, aprovados em estágio com classificação não inferior a Bom (14 valores).\n\n2 - ...\n\n3 - ...\n\na) ...\n\nb) ...\n\nArt. 2.º - (Revogado.)\n\n> Alterado pelo/a [Lei n.º 12-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663), publicado em 2008-02-27.\n\nVisto e aprovado em Conselho de Ministros de 21 de Julho de 1994. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga.\n\nPromulgado em 16 de Agosto de 1994.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 22 de Agosto de 1994.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:591106:por",
+    "alterador": "pt:dre:468663:por"
+  }
+]

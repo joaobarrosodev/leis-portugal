@@ -2,14 +2,20 @@
   "id": "pt:dre:541811:por",
   "artigos": [],
   "removidos": [],
-  "nao_aplicavel": "Alterador 1 art. 3.º n.º 2 (com o anexo I): nova redação da parte II do anexo IV do Regulamento, que não consta do texto por artigos e é dada com remissões '[...]'.",
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, art. 3.º n.º 2 e anexo I (nova redação da parte II do anexo IV do Regulamento): alvo incerto: no texto atual o anexo IV tem o corpo vazio e a «PARTE II» é só um título de divisão sem corpo; a nova redação mantém por «[...]» quase todos os pontos (1, 1.1, 1.2, 1.4 a 1.7.2.3, 2 e notas 1 a 5), cujo texto atual não existe no pedido, e não há corpo de anexo onde pôr o texto.",
   "instrucoes": [
-    "Alterador 1 art. 3.º n.º 1: nova redação dos arts. 1.º, 2.º, 5.º e 13.º do Regulamento - já refletida no texto atual.",
-    "Alterador 1 art. 4.º: aditamento dos arts. 3.º-A e 5.º-A - já refletido no texto atual.",
-    "Alterador 1 art. 3.º n.º 2: parte II do anexo IV - não aplicável.",
-    "Alterador 1 art. 5.º: altera o Regulamento da Homologação CE (outro diploma) - ignorado; arts. 2.º, 6.º e 7.º: normas autónomas."
+    "Alterador 1, art. 3.º n.º 1: nova redação dos arts. 1.º, 2.º, 5.º e 13.º do Regulamento: já aplicada pelo programa, letra a letra igual ao alterador (n.º 1 do art. 1.º e n.os 1 a 5 do art. 2.º ficam com '...'): sem mudança.",
+    "Alterador 1, art. 4.º: aditamento dos arts. 3.º-A e 5.º-A: já aplicados pelo programa, iguais ao alterador: sem mudança.",
+    "Alterador 1, art. 3.º n.º 2 e anexo I: nova redação da parte II do anexo IV: não aplicada, ver nao_aplicavel.",
+    "Alterador 1, art. 5.º e anexo II: alteram os anexos IV e IX do Regulamento aprovado pelo Decreto-Lei n.º 72/2000 (outro diploma): ignorados.",
+    "Alterador 1, arts. 2.º, 6.º e 7.º: definições, uso de dados e produção de efeitos do próprio alterador: não alteram o texto do original."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 123,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

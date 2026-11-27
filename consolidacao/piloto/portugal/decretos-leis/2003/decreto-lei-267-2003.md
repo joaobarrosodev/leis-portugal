@@ -3,7 +3,8 @@ id: pt:dre:476961:por
 title: Decreto-Lei n.º 267/2003
 original: data/portugal/decretos-leis/2003/decreto-lei-267-2003.md
 consolidacao:
-  metodo: piloto da fase 2 (consolidacao/consolidar.py), sem valor oficial
+  metodo: piloto da fase 2 (consolidacao/consolidar.py e, pelo LLM, consolidacao/juntar.py),
+    sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
   - id: pt:dre:456785:por
@@ -792,7 +793,7 @@ b) Pesquisa dos vectores através de armadilhas de CO(índice 2): as armadilhas 
 
 ## ANEXO IV — Laboratórios nacionais da peste suína africana e respectivas tarefas
 
-1 - O laboratório nacional da peste suína africana é o Laboratório Nacional de Investigação Veterinária.
+1 - (Revogado.)
 
 2 - Incumbe ao Laboratório acima referido assegurar que os testes laboratoriais para a detecção da existência de peste suína africana e a identificação do tipo genético dos isolados de vírus se efectuem em conformidade com o disposto no manual de diagnóstico, podendo para esse efeito, fazer acordos especiais com o laboratório comunitário de referência ou com outros laboratórios nacionais.
 
@@ -805,6 +806,8 @@ b) Deve controlar a qualidade de todos os reagentes diagnósticos utilizados a n
 c) Deve organizar testes comparativos periódicos;
 
 d) Deve conservar isolados do vírus da peste suína africana de casos e focos confirmados.
+
+> Revogado pelo/a [Decreto-Lei n.º 79/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2011-670027), publicado em 2011-06-20.
 
 ## ANEXO V — Laboratório comunitário de referência da peste suína africana
 

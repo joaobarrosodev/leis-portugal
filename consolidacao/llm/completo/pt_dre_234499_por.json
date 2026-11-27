@@ -2,12 +2,18 @@
   "id": "pt:dre:234499:por",
   "artigos": [],
   "removidos": [],
-  "nao_aplicavel": "Art. 15.º do Decreto-Lei n.º 443/91 revoga o Decreto-Lei n.º 5/89 apenas 'em tudo o que se refere à apresentação de novas candidaturas' no âmbito da pesca e aquicultura: revogação parcial por matéria, sem alvo textual determinado; não aplicada ao texto.",
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, art. 22.º, revogação do DL 5/89 «em tudo o que se refere à apresentação de novas candidaturas relativas a investimentos no âmbito da transformação e comercialização de produtos agrícolas»: revogação condicional — revoga o diploma só numa matéria, sem designar artigos, números ou alíneas; não se pode aplicar ao texto.\nAlterador 2, art. 15.º, revogação do DL 5/89 «em tudo o que se refere à apresentação de novas candidaturas relativas a investimentos no âmbito da transformação e comercialização de produtos da pesca e da aquicultura»: revogação condicional — revoga o diploma só numa matéria, sem designar artigos, números ou alíneas; não se pode aplicar ao texto.",
   "instrucoes": [
-    "Arts. 1.º a 14.º do alterador 1: regime próprio, não alteram o texto do original.",
-    "Art. 15.º: revogação parcial por matéria — não aplicada."
+    "Alterador 1 (DL 394/90): só o art. 22.º se dirige ao DL 5/89 (revogação parcial por matéria, novas candidaturas de produtos agrícolas). Não aplicada ao texto: vai em nao_aplicavel. O art. 21.º (retroatividade) não altera o texto do original.",
+    "Alterador 2 (DL 443/91): só o art. 15.º se dirige ao DL 5/89 (revogação parcial por matéria, novas candidaturas de produtos da pesca e da aquicultura). Não aplicada ao texto: vai em nao_aplicavel.",
+    "Nenhum artigo muda de redação."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 123,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

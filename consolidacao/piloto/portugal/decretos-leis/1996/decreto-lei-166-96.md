@@ -78,7 +78,7 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 (Revogado.)
 
-> Alterado pelo/a [Decreto-Lei n.º 102/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2014-25345604), publicado em 2014-07-02.
+> Revogado pelo/a [Decreto-Lei n.º 102/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2014-25345604), publicado em 2014-07-02.
 
 ###### Artigo 8.º
 

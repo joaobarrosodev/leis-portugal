@@ -56,7 +56,7 @@ São isentos das taxas a que se refere o artigo 1.º do [Decreto-Lei n.º 36874]
 
 (Revogado.)
 
-> Revogado pelo/a [Decreto-Lei n.º 521/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/521-1971-631797), publicado em 1971-11-24.
+> Alterado pelo/a [Decreto-Lei n.º 521/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/521-1971-631797), publicado em 1971-11-24.
 
 Publique-se e cumpra-se como nele se contém.
 

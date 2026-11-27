@@ -553,6 +553,23 @@ A importação passou a aceitar a **troca de expressão** (`camada1.troca_de_exp
 | recusado_na_segunda_leitura | 5 |
 | por_ver (DL 202/2000, fora da verificação) | 1 |
 
+**Rondas 122 e 123** (27/11/2026, tudo em Opus, no máximo 8 agentes). A 122 tem os 78 citados por 1 diploma em vigor (`pedidos-9`, `verif122`, `nada-122`, `segunda-122`). A 123 tem os 50 citados por 0 (`pedidos-10`, `verif123`, `nada-123`, `segunda-123`). Com estas duas rondas, as linhas 6 e 7 da onda 2 ficam todas com estado final.
+- **Renumerações** (antes da 122, `cf25eea5e0b`): os títulos de divisão já não se trocam pela posição, e a vista mostra a ordem dos títulos quando um alterador renumera. No data/ havia 4 casos destes, todos certos.
+- **Lote para o data/** (`camada1/lote.sh RONDA ESPERADOS`): antes do commit, valida o esquema dos ficheiros mudados e corre os testes. Se o número de aplicados não for o esperado, ou se a validação ou os testes falharem, não faz commit.
+- **Revogação do diploma inteiro.** A regra da ronda 80 diz que uma resposta com todos os artigos «(Revogado.)», por um alterador que revoga o diploma inteiro, é «revogado por inteiro» e não uma consolidação. O diploma fica com o texto original e a revogação vai para a vigência.
+  - Desde a ronda 119, o pedido aos respondedores dizia para aplicar a revogação artigo a artigo. Só um caso chegou ao data/ com todos os artigos revogados: o DL 389/70 (ronda 121). Esse diploma passou para `llm/exclusoes.json`, voltou ao texto original e tem a revogação em `reports/vigencia-manual.jsonl`.
+  - As revogações com exceções continuam a aplicar-se artigo a artigo (DL 123/2007, DL 108/82, DL 297/2003, DR 50/2007, entre outros).
+- A segunda leitura da 123 encontrou prova no acervo da privatização da EGF (RCM 55-B/2014 e 87/2017). Essa prova pode desbloquear as normas que os decretos-leis de 2014 dos sistemas multimunicipais adiaram «até a sociedade deixar de ser maioritariamente pública»: RESULIMA, RESIESTRELA, ERSUC e outros. Por agora, esses diplomas ficam recusados.
+
+| Estado | Ronda 122 (78) | Ronda 123 (50) |
+|---|---:|---:|
+| aplicar | 30 (30 no data/) | 13 (12 no data/; o DL 78/2002 fica no `DE_FORA`) |
+| recusado_as_cegas | 25 | 18 |
+| sem_alteracao_aplicavel | 11 | 12 |
+| resposta_recusada | 9 | 2 |
+| recusado_na_segunda_leitura | 3 | 3 |
+| recusado_na_verificacao_mecanica | 0 | 2 |
+
 ### Verificação dos alvos das respostas do LLM (14/11/2026)
 
 A verificação letra a letra de `llm_completo.verificar_resposta` confirma que cada parágrafo de um artigo devolvido vem de um alterador **ou do original**. Deixava passar dois casos:

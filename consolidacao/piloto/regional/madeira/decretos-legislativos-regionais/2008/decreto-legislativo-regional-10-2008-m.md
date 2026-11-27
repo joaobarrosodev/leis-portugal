@@ -70,7 +70,7 @@ Sem prejuízo das garantias gerais do exercício da actividade de inspecção, n
 
 (Revogado.)
 
-> Revogado pelo/a [Decreto Legislativo Regional n.º 19/2010/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2010-343619), publicado em 2010-08-19.
+> Alterado pelo/a [Decreto Legislativo Regional n.º 19/2010/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2010-343619), publicado em 2010-08-19.
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 5 de Março de 2008.
 

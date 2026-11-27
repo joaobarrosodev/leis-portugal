@@ -1,0 +1,156 @@
+[
+ {
+  "id": "pt:dre:456778:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "Art. 3.º do decreto-lei revogado pelo art. 6.º, b), do DL 98/2014.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "Art. 4.º do decreto-lei revogado pelo art. 6.º, b).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "certo",
+    "motivo": "Art. 7.º do decreto-lei revogado pelo art. 6.º, b); o fecho (assinaturas) passa para depois do novo art. 9.º, o que não é erro.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "A chave junta o art. 8.º dos estatutos do original com o art. 8.º (Conselho consultivo) aditado ao decreto-lei pelo art. 3.º do DL 98/2014, que está letra a letra; o art. 8.º dos estatutos vem em «Artigo 8.º #2».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "Igual ao art. 9.º (Caução) aditado ao decreto-lei pelo art. 3.º do DL 98/2014, que entra em vigor logo; o art. 9.º dos estatutos vem em «Artigo 9.º #2».",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º #2",
+    "veredicto": "errado",
+    "motivo": "Aplicou a nova redação do art. 3.º dos estatutos, de entrada em vigor diferida. O art. 8.º, n.º 2, do DL 98/2014 faz entrar em vigor o art. 3.º e o art. 24.º-A dos estatutos só quando a RESIESTRELA deixar de ser detida maioritariamente por entidades públicas; a vista não mostra que isso aconteceu. Deve ficar a redação original.",
+    "texto_esperado": "###### Artigo 3.º — Objecto social\n\n1 - A sociedade tem por objecto social exclusivo a exploração e a gestão do sistema multimunicipal de triagem, recolha selectiva, valorização e tratamento de resíduos sólidos urbanos da Cova da Beira, integrando como utilizadores originários os municípios de Almeida, Belmonte, Celorico da Beira, Covilhã, Figueira de Castelo Rodrigo, Fornos de Algodres, Fundão, Guarda, Manteigas, Meda, Penamacor, Pinhel, Sabugal e Trancoso.\n\n2 - A exploração e a gestão referidas no número anterior incluem a construção, extensão, reparação, renovação, manutenção e melhoria das obras e equipamentos necessários para o desenvolvimento das actividades previstas nos números anteriores.\n\n3 - A sociedade pode, desde que para o efeito esteja habilitada, exercer outras actividades para além daquelas que constituem o objecto da concessão, desde que consideradas acessórias ou complementares e devidamente autorizadas pelo concedente, nomeadamente a actividade de promoção da recolha dos resíduos sólidos urbanos produzidos na área dos municípios utilizadores."
+   },
+   {
+    "artigo": "Artigo 5.º #2",
+    "veredicto": "certo",
+    "motivo": "N.os 1 e 2 com a nova redação (art. 4.º); n.os 3 e 4 revogados (art. 6.º, c)), na forma «[Revogado].» do diploma que altera.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º #2",
+    "veredicto": "certo",
+    "motivo": "Art. 6.º dos estatutos revogado (art. 6.º, c)).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 7.º #2",
+    "veredicto": "certo",
+    "motivo": "N.º 1 com a nova redação; n.º 2 revogado (art. 6.º, c)).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 8.º #2",
+    "veredicto": "certo",
+    "motivo": "Art. 8.º dos estatutos: n.os 1, 2 e 5 revogados; 3, 4, 8, 10, 12 e 14 com a nova redação; 6, 7, 9, 11 e 13 («[...]») como no original. Aparece como «novo» só por causa da chave.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 9.º #2",
+    "veredicto": "certo",
+    "motivo": "Art. 9.º dos estatutos, que nenhuma instrução altera, igual ao original (que está na chave «Artigo 9.º»).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 13.º",
+    "veredicto": "certo",
+    "motivo": "N.º 1 com a nova redação (art. 4.º); n.º 2 («[...]») mantido.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 18.º",
+    "veredicto": "certo",
+    "motivo": "N.º 2 com a nova redação; n.os 1 e 3 mantidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 24.º-A",
+    "veredicto": "errado",
+    "motivo": "Aditado pelo art. 5.º do DL 98/2014, mas de entrada em vigor diferida. O art. 8.º, n.º 2, do DL 98/2014 faz entrar em vigor o art. 3.º e o art. 24.º-A dos estatutos só quando a RESIESTRELA deixar de ser detida maioritariamente por entidades públicas; a vista não mostra que isso aconteceu. Não deve constar.",
+    "texto_esperado": "(não deve constar enquanto a condição do art. 8.º, n.º 2, do DL 98/2014 não se verificar)"
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [
+   "Artigo 24.º-A (estatutos), de entrada em vigor diferida para um facto futuro que a vista não mostra"
+  ],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 98/2014, art. 2.º (nova redação dos arts. 3.º e 4.º do DL 319-A/2001) e art. 6.º, a) (revogações no DL 319-A/2001)",
+    "motivo": "São instruções para outro diploma (DL 319-A/2001), confirmado no texto."
+   }
+  ]
+ },
+ {
+  "id": "pt:dre:518197:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 42.º do DL 521/71, que revoga o DL 44234 salvo o art. 2.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 42.º do DL 521/71.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 42.º do DL 521/71.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 42.º do DL 521/71.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 42.º do DL 521/71.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "errado",
+    "motivo": "O corpo está bem «(Revogado.)» e o fecho pode ficar, mas a seguir continua a tabela de 1962 («Tabela a que se refere o artigo 1.º…», com a imagem de 1962) como se estivesse em vigor. O art. 42.º do DL 521/71 revoga todo o DL 44234 menos o art. 2.º, e com ele a tabela anexa ao art. 1.º; antes disso o DL 44849 já a tinha substituído. É texto antigo deixado depois de «(Revogado.)».",
+    "texto_esperado": "(Revogado.)\n\n[fecho: «Publique-se…», assinaturas, «Para ser presente à Assembleia Nacional.»]\n\nTabela a que se refere o artigo 1.º do Decreto-Lei n.º 44234\n\n(Revogada.)"
+   }
+  ],
+  "instrucoes_em_falta": [
+   "DL 521/71, art. 42.º, na parte em que revoga a tabela de emolumentos e taxas anexa ao DL 44234 (art. 1.º): a tabela continua no consolidado, a seguir ao art. 7.º."
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 44849, artigo único: substituição da tabela de emolumentos e taxas do DL 44234 pela tabela anexa",
+    "motivo": "Confirmado: a tabela nova só vem em imagem e o consolidado não tem anexo com título onde a pôr (a tabela está numa linha a seguir às assinaturas). A tabela foi depois revogada pelo DL 521/71 (ver instrucoes_em_falta)."
+   }
+  ]
+ }
+]

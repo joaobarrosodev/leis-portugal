@@ -2,14 +2,25 @@
   "id": "pt:dre:303201:por",
   "artigos": [],
   "removidos": [],
-  "nao_aplicavel": "Só o DL 148/2013 (art. 8.º) se dirige ao original: substitui o anexo VIII do Regulamento, que não consta do texto por artigos. DL 178/2005 e DL 135/2008 alteram outros diplomas; o DL 198/2007 não traz artigos.",
+  "titulos": [],
+  "anexos": [
+    {
+      "titulo": "## ANEXO VIII — (referente ao capítulo I)",
+      "texto": "A marca referida no n.º 2 do artigo 7.º deve ser constituída por um rectângulo envolvendo a letra minúscula «e», seguida do número distintivo do Estado-Membro que procedeu à homologação:\n\n1 para a Alemanha;\n\n2 para a França;\n\n3 para a Itália;\n\n4 para os Países Baixos;\n\n5 para a Suécia;\n\n6 para a Bélgica;\n\n7 para a Hungria;\n\n8 para a República Checa;\n\n9 para a Espanha;\n\n11 para o Reino Unido;\n\n12 para a Áustria;\n\n13 para o Luxemburgo;\n\n17 para a Finlândia;\n\n18 para a Dinamarca;\n\n19 para a Roménia;\n\n20 para a Polónia;\n\n21 para Portugal;\n\n23 para a Grécia;\n\n24 para a Irlanda;\n\n25 para a Croácia;\n\n26 para a Eslovénia;\n\n27 para a Eslováquia;\n\n29 para a Estónia;\n\n32 para a Letónia;\n\n34 para a Bulgária;\n\n36 para a Lituânia;\n\nCY para Chipre;\n\nMT para Malta.\n\nDeve também incluir o número de homologação de base que constitui a secção 4 do número de homologação objecto do anexo VII ao Regulamento da Homologação CE de Modelo de Automóveis e Reboques, Seus Sistemas, Componentes e Unidades Técnicas, precedido do número sequencial de dois algarismos atribuído à mais recente alteração técnica significativa do presente Regulamento à data da concessão da homologação CE, ambos a figurar na proximidade do rectângulo. O número sequencial correspondente ao presente Regulamento é 00.",
+      "alterador": 5
+    }
+  ],
+  "nao_aplicavel": "Alterador 1, alterações ao Regulamento das Emissões de CO2 (DL 253/2000) e aos anexos IV e IX do Regulamento da Homologação CE (DL 72/2000): outro diploma\nAlterador 3, nova redação dos anexos I e III do Regulamento da Homologação CE (DL 72/2000): outro diploma\nAlterador 5, arts. 2.º a 7.º e 9.º a 18.º (alterações a outros decretos-leis): outro diploma",
   "instrucoes": [
-    "DL 178/2005: altera os DL 253/2000 e 72/2000 — ignorado",
-    "DL 198/2007: sem conteúdo — nada",
-    "DL 135/2008: altera o DL 72/2000 — ignorado",
-    "DL 148/2013, art. 8.º: nova redação do anexo VIII do Regulamento — anexo fora do texto, não aplicado"
+    "Alterador 1 (DL 178/2005): só altera os DL 253/2000 e 72/2000; nada aplicado ao original.",
+    "Alterador 2 (DL 198/2007) e alterador 4 (DL 16/2010): sem artigos que mencionem o original; nada a aplicar.",
+    "Alterador 3 (DL 135/2008): altera os anexos I e III do Regulamento do DL 72/2000; nada aplicado ao original.",
+    "Alterador 5 (DL 148/2013), art. 8.º e anexo V: nova redação do anexo VIII do Regulamento; o texto vem no alterador (não é imagem). Mantidos o parágrafo inicial ([...]:) e o final ([...].) do texto atual, lista de Estados-Membros substituída pela do alterador. Retirados do corpo o «Regulamento n.º 7/2002» e a nota justificativa, que não fazem parte do anexo."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 123,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

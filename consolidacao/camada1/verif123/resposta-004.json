@@ -1,0 +1,152 @@
+[
+ {
+  "id": "pt:dre:410906:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "errado",
+    "motivo": "A nova redação do art. 3.º do DL 114/96 (art. 2.º do DL 101/2014) só entra em vigor quando a RESULIMA deixar de ser detida maioritariamente por entidades públicas (art. 8.º, n.º 2); a vista não mostra que isso aconteceu, por isso o n.º 1 novo não pode estar aplicado. Os n.os 2 e 3 ficam revogados pelo art. 6.º (sem diferimento).",
+    "texto_esperado": "###### Artigo 3.º\n\n1 - A exploração e gestão do sistema multimunicipal do Vale do Lima e Baixo Cávado é adjudicada, em regime de concessão exclusiva, à RESULIMA - Valorização e Tratamento de Resíduos Sólidos, S. A., nos termos do [Decreto-Lei n.º 294/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1994-534587), de 16 de Novembro, por um período de 25 anos.\n\n2 - (Revogado.)\n\n3 - (Revogado.)"
+   },
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 6.º do DL 101/2014.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "N.º 3 revogado pelo art. 6.º; n.os 1 e 2 iguais.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 6.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 6.º; o fecho (Visto e aprovado... Primeiro-Ministro) que vinha a seguir passou para o fim do diploma, depois do art. 9.º aditado.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "Artigo 8.º do DL aditado pelo art. 3.º do DL 101/2014, letra a letra (o lado ORIGINAL mostra o art. 8.º dos estatutos por emparelhamento).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "Artigo 9.º do DL aditado pelo art. 3.º, letra a letra, seguido do fecho original do diploma (deslocado do fim do antigo art. 7.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 2.º #2",
+    "veredicto": "certo",
+    "motivo": "Estatutos: n.º 1 nova redação; n.os 2 e 3 '[...]' com o texto original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º #2",
+    "veredicto": "errado",
+    "motivo": "A nova redação do art. 3.º dos estatutos só entra em vigor quando a RESULIMA deixar de ser detida maioritariamente por entidades públicas (art. 8.º, n.º 2 do DL 101/2014); a vista não mostra esse facto. Deve manter-se o texto original.",
+    "texto_esperado": "###### Artigo 3.º\n\n1 - A sociedade tem por objecto social principal as actividades de recolha selectiva, triagem, tratamento e valorização de resíduos sólidos, nomeadamente através de:\n\na) Promoção directa ou indirecta da concepção, construção e exploração de unidades integrantes dos sistemas de transporte, valorização, tratamento e destino final de resíduos sólidos;\n\nb) Prestação de serviços de gestão, fiscalização e assessoria técnica e administrativa a entidades públicas ou privadas que prossigam total ou parcialmente actividade do mesmo ramo.\n\n2 - A sociedade poderá, desde que para o efeito esteja habilitada, exercer outras actividades para além daquelas que constituem o objecto da concessão, desde que consideradas acessórias ou complementares e devidamente autorizadas pela concedente."
+   },
+   {
+    "artigo": "Artigo 4.º #2",
+    "veredicto": "certo",
+    "motivo": "Estatutos: nova redação do art. 4.º letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º #2",
+    "veredicto": "certo",
+    "motivo": "Estatutos: n.º 1 '[...]' com o texto original; n.º 2 nova redação.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º #2",
+    "veredicto": "certo",
+    "motivo": "Estatutos: art. 6.º revogado pelo art. 6.º do DL 101/2014.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 8.º #2",
+    "veredicto": "certo",
+    "motivo": "Estatutos: n.º 1 novo; n.os 2, 4 e 5 '[...]' com o texto original; n.º 3 revogado.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 9.º #2",
+    "veredicto": "certo",
+    "motivo": "Estatutos: n.os 1 e 2 revogados; n.os 3 a 12 nova redação letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 10.º",
+    "veredicto": "certo",
+    "motivo": "Estatutos: n.º 1 novo; n.º 2 original; n.º 3 revogado.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 12.º",
+    "veredicto": "certo",
+    "motivo": "Estatutos: nova redação letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 14.º",
+    "veredicto": "certo",
+    "motivo": "Estatutos: n.º 1 novo; n.º 2 original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 16.º",
+    "veredicto": "certo",
+    "motivo": "Estatutos: n.º 1 original; n.º 2 novo.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 18.º",
+    "veredicto": "certo",
+    "motivo": "Estatutos: só a alínea a) do n.º 2 muda; resto '[...]' original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 19.º",
+    "veredicto": "certo",
+    "motivo": "Estatutos: n.º 2 novo; n.os 1, 3 e 4 originais.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 25.º",
+    "veredicto": "certo",
+    "motivo": "Estatutos: nova redação letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 25.º-A",
+    "veredicto": "errado",
+    "motivo": "Aditado pelo art. 5.º do DL 101/2014, mas só entra em vigor quando a RESULIMA deixar de ser detida maioritariamente por entidades públicas (art. 8.º, n.º 2); a vista não mostra esse facto, por isso não deve estar no consolidado.",
+    "texto_esperado": "(não deve existir)"
+   },
+   {
+    "artigo": "Artigo 27.º",
+    "veredicto": "certo",
+    "motivo": "Estatutos: art. 27.º revogado pelo art. 6.º.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [],
+  "artigos_a_mais": [
+   "Artigo 25.º-A (estatutos): aditamento com entrada em vigor diferida (art. 8.º, n.º 2), facto não demonstrado"
+  ],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "O fecho do DL 114/96 (Visto e aprovado... Primeiro-Ministro) passou do fim do art. 7.º para o fim do art. 9.º aditado, que é o lugar certo; sem outras alterações."
+ }
+]

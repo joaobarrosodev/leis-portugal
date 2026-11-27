@@ -1,0 +1,54 @@
+[
+  {
+    "id": "pt:dre:476961:por",
+    "artigos": [
+      {"artigo": "Artigo 18.º", "veredicto": "certo", "motivo": "DL 79/2011, art. 7.º: epígrafe e n.os 1, 4 e 5 mantidos ([...]/...), n.os 2 e 3 com a nova redação e n.º 6 aditado, letra a letra.", "texto_esperado": ""},
+      {"artigo": "Artigo 28.º", "veredicto": "certo", "motivo": "DL 131/2008, art. 29.º, al. b): revoga o art. 28.º; epígrafe mantida e corpo «(Revogado.)».", "texto_esperado": ""},
+      {"artigo": "ANEXO IV", "veredicto": "certo", "motivo": "DL 79/2011, art. 10.º, n.º 2, al. c): revoga o n.º 1 do anexo IV; «1 - (Revogado.)» e restantes números iguais.", "texto_esperado": ""}
+    ],
+    "instrucoes_em_falta": [],
+    "artigos_a_mais": [],
+    "artigos_em_falta": [],
+    "fora_dos_artigos": "sem alterações",
+    "instrucoes_justificadas": []
+  },
+  {
+    "id": "pt:dre:497796:por",
+    "artigos": [
+      {"artigo": "Artigo 8.º", "veredicto": "certo", "motivo": "DLR 5/97/A, art. 1.º: epígrafe nova «Correspondência de cargos e publicitação», al. a) do n.º 1 nova, resto do n.º 1 e n.º 2 mantidos, n.º 3 aditado, letra a letra.", "texto_esperado": ""},
+      {"artigo": "Artigo 9.º", "veredicto": "certo", "motivo": "DLR 5/97/A, art. 1.º: nova redação integral do art. 9.º, sem epígrafe nem [...]; o consolidado copia-a letra a letra.", "texto_esperado": ""}
+    ],
+    "instrucoes_em_falta": [],
+    "artigos_a_mais": [],
+    "artigos_em_falta": [],
+    "fora_dos_artigos": "sem alterações",
+    "instrucoes_justificadas": []
+  },
+  {
+    "id": "pt:dre:563050:por",
+    "artigos": [
+      {"artigo": "Artigo 3.º", "veredicto": "certo", "motivo": "DL 32/98, art. 1.º: nova redação dos n.os 1 a 3 letra a letra.", "texto_esperado": ""},
+      {"artigo": "Artigo 4.º", "veredicto": "certo", "motivo": "DL 32/98, art. 1.º: nova redação letra a letra; o bloco de assinaturas do original passou para o fim do diploma (depois do art. 5.º aditado).", "texto_esperado": ""},
+      {"artigo": "Artigo 5.º", "veredicto": "certo", "motivo": "DL 32/98, art. 2.º: artigo aditado letra a letra; segue-se o bloco de assinaturas do original, texto fora dos artigos.", "texto_esperado": ""},
+      {"artigo": "ANEXO", "veredicto": "certo", "motivo": "DL 32/98, art. 3.º: o anexo passa a ter a redação do anexo do alterador (título e alíneas a) a g)), letra a letra.", "texto_esperado": ""}
+    ],
+    "instrucoes_em_falta": [],
+    "artigos_a_mais": [],
+    "artigos_em_falta": [],
+    "fora_dos_artigos": "sem alterações (só o bloco de assinaturas mudou de lugar, para depois do art. 5.º aditado)",
+    "instrucoes_justificadas": []
+  },
+  {
+    "id": "pt:dre:591106:por",
+    "artigos": [
+      {"artigo": "Artigo 4.º", "veredicto": "certo", "motivo": "Lei 12-A/2008, art. 116.º, al. ae): revoga o art. 2.º do DL 233/94, que vinha dentro deste bloco; fica «Art. 2.º - (Revogado.)» e o resto igual.", "texto_esperado": ""}
+    ],
+    "instrucoes_em_falta": [],
+    "artigos_a_mais": [],
+    "artigos_em_falta": [],
+    "fora_dos_artigos": "sem alterações",
+    "instrucoes_justificadas": [
+      {"instrucao": "Lei 12-A/2008, art. 116.º, proémio (revogação de todas as disposições contrárias)", "motivo": "Confirmado no texto: revogação condicional («disposições legais contrárias ao disposto na presente lei»)."}
+    ]
+  }
+]

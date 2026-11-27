@@ -1,0 +1,146 @@
+[
+ {
+  "pedaco": 1,
+  "lote": "entrada-piloto-123-lote-01.jsonl",
+  "ids": [
+   "pt:dre:75542126:por",
+   "pt:dre:123968666:por",
+   "pt:dre:239776:por"
+  ],
+  "chars": 133055,
+  "vista": "camada1/verif123/vista-001.md",
+  "resposta": "camada1/verif123/resposta-001.json"
+ },
+ {
+  "pedaco": 2,
+  "lote": "entrada-piloto-123-lote-01.jsonl",
+  "ids": [
+   "pt:dre:25343992:por"
+  ],
+  "chars": 213091,
+  "vista": "camada1/verif123/vista-002.md",
+  "resposta": "camada1/verif123/resposta-002.json"
+ },
+ {
+  "pedaco": 3,
+  "lote": "entrada-piloto-123-lote-01.jsonl",
+  "ids": [
+   "pt:dre:303201:por",
+   "pt:dre:353534:por"
+  ],
+  "chars": 91485,
+  "vista": "camada1/verif123/vista-003.md",
+  "resposta": "camada1/verif123/resposta-003.json"
+ },
+ {
+  "pedaco": 4,
+  "lote": "entrada-piloto-123-lote-01.jsonl",
+  "ids": [
+   "pt:dre:410906:por"
+  ],
+  "chars": 60697,
+  "vista": "camada1/verif123/vista-004.md",
+  "resposta": "camada1/verif123/resposta-004.json"
+ },
+ {
+  "pedaco": 5,
+  "lote": "entrada-piloto-123-lote-01.jsonl",
+  "ids": [
+   "pt:dre:431014:por",
+   "pt:dre:444390:por"
+  ],
+  "chars": 125801,
+  "vista": "camada1/verif123/vista-005.md",
+  "resposta": "camada1/verif123/resposta-005.json"
+ },
+ {
+  "pedaco": 6,
+  "lote": "entrada-piloto-123-lote-01.jsonl",
+  "ids": [
+   "pt:dre:476961:por",
+   "pt:dre:497796:por",
+   "pt:dre:563050:por",
+   "pt:dre:591106:por"
+  ],
+  "chars": 89286,
+  "vista": "camada1/verif123/vista-006.md",
+  "resposta": "camada1/verif123/resposta-006.json"
+ },
+ {
+  "pedaco": 7,
+  "lote": "entrada-piloto-123-lote-01.jsonl",
+  "ids": [
+   "pt:dre:615043:por"
+  ],
+  "chars": 350302,
+  "vista": "camada1/verif123/vista-007.md",
+  "resposta": "camada1/verif123/resposta-007.json"
+ },
+ {
+  "pedaco": 8,
+  "lote": "entrada-piloto-123-lote-01.jsonl",
+  "ids": [
+   "pt:dre:625022:por"
+  ],
+  "chars": 112595,
+  "vista": "camada1/verif123/vista-008.md",
+  "resposta": "camada1/verif123/resposta-008.json"
+ },
+ {
+  "pedaco": 9,
+  "lote": "entrada-piloto-123-lote-01.jsonl",
+  "ids": [
+   "pt:dre:655963:por",
+   "pt:dre:662081:por"
+  ],
+  "chars": 97728,
+  "vista": "camada1/verif123/vista-009.md",
+  "resposta": "camada1/verif123/resposta-009.json"
+ },
+ {
+  "pedaco": 10,
+  "lote": "entrada-piloto-123-lote-01.jsonl",
+  "ids": [
+   "pt:dre:670028:por"
+  ],
+  "chars": 185382,
+  "vista": "camada1/verif123/vista-010.md",
+  "resposta": "camada1/verif123/resposta-010.json"
+ },
+ {
+  "pedaco": 11,
+  "lote": "entrada-piloto-123-lote-01.jsonl",
+  "ids": [
+   "pt:dre:685034:por",
+   "pt:dre:69968703:por",
+   "pt:dre:73740378:por",
+   "pt:dre:74076045:por"
+  ],
+  "chars": 131249,
+  "vista": "camada1/verif123/vista-011.md",
+  "resposta": "camada1/verif123/resposta-011.json"
+ },
+ {
+  "pedaco": 12,
+  "lote": "entrada-piloto-123-lote-01.jsonl",
+  "ids": [
+   "pt:dre:241673:por",
+   "pt:dre:246317:por",
+   "pt:dre:300610:por"
+  ],
+  "chars": 120231,
+  "vista": "camada1/verif123/vista-012.md",
+  "resposta": "camada1/verif123/resposta-012.json"
+ },
+ {
+  "pedaco": 13,
+  "lote": "entrada-piloto-123-lote-01.jsonl",
+  "ids": [
+   "pt:dre:456778:por",
+   "pt:dre:518197:por"
+  ],
+  "chars": 91757,
+  "vista": "camada1/verif123/vista-013.md",
+  "resposta": "camada1/verif123/resposta-013.json"
+ }
+]

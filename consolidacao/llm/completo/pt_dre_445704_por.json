@@ -2,11 +2,18 @@
   "id": "pt:dre:445704:por",
   "artigos": [],
   "removidos": [],
-  "nao_aplicavel": "Alterador 1 (DL 37/2009), art. 18.º, revoga 'o artigo 3.º do Decreto-Lei n.º 61/96', mas o texto atual do original só tem os artigos 1.º e 2.º; alvo inexistente no texto atual, não aplicado.",
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, art. 18.º, revogação do «artigo 3.º do Decreto-Lei n.º 61/96, de 24 de Maio»: alvo incerto — o texto atual do DL 61/96 só tem os arts. 1.º e 2.º (seguidos das assinaturas); não há art. 3.º onde pôr «(Revogado.)», e criar o artigo seria inventar uma chave e um título que não estão no texto atual.",
   "instrucoes": [
-    "Alt. 1, art. 18.º: revogação do DL 110/93 e portarias (outros diplomas, ignorado) e do art. 3.º do DL 61/96; este artigo não existe no texto atual, não aplicado."
+    "Alterador 1 (DL 37/2009), art. 18.º: revoga o DL 110/93 (outro diploma: os arts. 1.º e 2.º do DL 61/96 alteram e aditam artigos do DL 110/93, mas a revogação do DL 110/93 não revoga o texto do DL 61/96, que fica como está).",
+    "Alterador 1, art. 18.º: revoga o art. 3.º do DL 61/96 — o artigo não existe no texto atual; vai em nao_aplicavel.",
+    "As Portarias 576/93 e 100/96, também revogadas pelo art. 18.º, são outros diplomas."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 123,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

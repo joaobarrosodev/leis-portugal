@@ -71,10 +71,10 @@
   },
   {
     "artigo": "7.º",
-    "operacao": "revogar",
+    "operacao": "substituir",
     "regra": "llm",
     "antes": "###### Artigo 7.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação e produz efeitos reportados a 20 de Fevereiro de 2007.\n\nAprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 5 de Março de 2008.\n\nO Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.\n\nAssinado em 25 de Março de 2008.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.",
-    "depois": "###### Artigo 7.º — Entrada em vigor\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Legislativo Regional n.º 19/2010/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2010-343619), publicado em 2010-08-19.\n\nAprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 5 de Março de 2008.\n\nO Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.\n\nAssinado em 25 de Março de 2008.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.",
+    "depois": "###### Artigo 7.º — Entrada em vigor\n\n(Revogado.)\n\n> Alterado pelo/a [Decreto Legislativo Regional n.º 19/2010/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2010-343619), publicado em 2010-08-19.\n\nAprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 5 de Março de 2008.\n\nO Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.\n\nAssinado em 25 de Março de 2008.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.",
     "excerto": "",
     "artigo_alterador": "",
     "metodo": "llm",

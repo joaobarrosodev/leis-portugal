@@ -2,14 +2,17 @@
   "id": "pt:dre:235936:por",
   "artigos": [],
   "removidos": [],
-  "nao_aplicavel": "Alterador 1 (art. 1.º, n.º 2) integra o GCC no Ministério da Cooperação e alterador 2 (art. 1.º) extingue o GCC: não são alterações textuais ao articulado do Decreto-Lei n.º 791/74.",
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, art. 1.º, n.º 2 (o GCC é integrado no Ministério da Cooperação): não textual: integração orgânica, sem nova redação nem revogação de artigos do original\nAlterador 2, art. 1.º (é extinto o GCC, criado pelo Decreto-Lei n.º 791/74): não textual: extinção do organismo, sem norma que revogue o original ou dê nova redação aos seus artigos (o texto do alterador está completo e não tem norma revogatória)",
   "instrucoes": [
-    "Alterador 1, art. 1.º, n.º 2: integração do GCC no Ministério da Cooperação; não textual, não aplicada.",
-    "Alterador 1, art. 2.º: transição de funcionários; não altera o texto.",
-    "Alterador 2, art. 1.º: extinção do GCC; não textual, não aplicada.",
-    "Alterador 2, arts. 9.º, 13.º a 15.º: transição de pessoal, património e encargos para a DGC; não alteram o texto."
+    "DL 532-A/75: integra o GCC no Ministério da Cooperação — não textual",
+    "DL 439-A/83: extingue o GCC e transfere pessoal, património e encargos para a DGC — não textual, sem revogação expressa do original"
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 123,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

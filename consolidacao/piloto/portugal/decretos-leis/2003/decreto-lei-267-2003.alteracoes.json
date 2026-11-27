@@ -26,5 +26,19 @@
     "unidade": [],
     "diploma": "pt:dre:476961:por",
     "alterador": "pt:dre:670027:por"
+  },
+  {
+    "artigo": "ANEXO IV — Laboratórios nacionais da peste suína africana e respectivas tarefas",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "## ANEXO IV — Laboratórios nacionais da peste suína africana e respectivas tarefas\n1 - O laboratório nacional da peste suína africana é o Laboratório Nacional de Investigação Veterinária.\n\n2 - Incumbe ao Laboratório acima referido assegurar que os testes laboratoriais para a detecção da existência de peste suína africana e a identificação do tipo genético dos isolados de vírus se efectuem em conformidade com o disposto no manual de diagnóstico, podendo para esse efeito, fazer acordos especiais com o laboratório comunitário de referência ou com outros laboratórios nacionais.\n\n3 - O laboratório nacional da peste suína africana é responsável pela coordenação das normas e métodos de diagnóstico de cada laboratório de diagnóstico da peste suína africana e para esse efeito:\n\na) Pode fornecer reagentes diagnósticos a laboratórios específicos;\n\nb) Deve controlar a qualidade de todos os reagentes diagnósticos utilizados a nível nacional;\n\nc) Deve organizar testes comparativos periódicos;\n\nd) Deve conservar isolados do vírus da peste suína africana de casos e focos confirmados.",
+    "depois": "## ANEXO IV — Laboratórios nacionais da peste suína africana e respectivas tarefas\n\n1 - (Revogado.)\n\n2 - Incumbe ao Laboratório acima referido assegurar que os testes laboratoriais para a detecção da existência de peste suína africana e a identificação do tipo genético dos isolados de vírus se efectuem em conformidade com o disposto no manual de diagnóstico, podendo para esse efeito, fazer acordos especiais com o laboratório comunitário de referência ou com outros laboratórios nacionais.\n\n3 - O laboratório nacional da peste suína africana é responsável pela coordenação das normas e métodos de diagnóstico de cada laboratório de diagnóstico da peste suína africana e para esse efeito:\n\na) Pode fornecer reagentes diagnósticos a laboratórios específicos;\n\nb) Deve controlar a qualidade de todos os reagentes diagnósticos utilizados a nível nacional;\n\nc) Deve organizar testes comparativos periódicos;\n\nd) Deve conservar isolados do vírus da peste suína africana de casos e focos confirmados.\n\n> Revogado pelo/a [Decreto-Lei n.º 79/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2011-670027), publicado em 2011-06-20.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:476961:por",
+    "alterador": "pt:dre:670027:por"
   }
 ]

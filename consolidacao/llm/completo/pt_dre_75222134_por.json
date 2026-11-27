@@ -3,13 +3,17 @@
   "artigos": [],
   "removidos": [],
   "titulos": [],
-  "nao_aplicavel": "O n.º 2 do artigo 41.º do Decreto-Lei n.º 63/2017 revoga o Decreto-Lei n.º 59/2016 só com a entrada em vigor dos atos de execução do n.º 2 do artigo 35.º da Diretiva 2014/90/UE (facto futuro), pelo que não se aplica ao texto.",
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, art. 41.º, n.º 2 (revogação do Decreto-Lei n.º 59/2016): efeito adiado: a revogação só produz efeito com a entrada em vigor dos atos de execução referidos no n.º 2 do artigo 35.º da Diretiva 2014/90/UE, facto futuro cuja data o pedido não dá\nAlterador 1, art. 40.º (as normas do anexo continuam a aplicar-se até aos atos de execução): não textual: disposição transitória, não muda o texto",
   "instrucoes": [
-    "Alterador 1, art. 40.º: disposição transitória que mantém o anexo em aplicação; não altera o texto.",
-    "Alterador 1, art. 41.º, n.º 1: revoga outros diplomas (DL 167/99, DL 24/2004, Portaria 381/2000), não o original; ignorado.",
-    "Alterador 1, art. 41.º, n.º 2: revogação do original diferida para a entrada em vigor de atos de execução; não aplicada (nao_aplicavel)."
+    "DL 63/2017, art. 40.º: manutenção transitória do anexo — não textual",
+    "DL 63/2017, art. 41.º, n.º 1: revoga outros diplomas — outro diploma, nada a aplicar",
+    "DL 63/2017, art. 41.º, n.º 2: revogação do DL 59/2016 dependente dos atos de execução da Diretiva 2014/90/UE — efeito adiado, nao_aplicavel"
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 123,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

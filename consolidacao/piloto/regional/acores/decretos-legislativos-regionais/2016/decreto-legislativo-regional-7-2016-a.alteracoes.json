@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "5.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 5.º — Produção de efeitos\n\nO presente decreto legislativo regional produz efeitos à data da entrada em vigor de legislação nacional que estabeleça a gratuitidade dos cuidados prestados pelo SNS, ou entidades nele integradas, aos utentes do SRS.\n\nAprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 19 de fevereiro de 2016.\n\nA Presidente da Assembleia Legislativa, Ana Luísa Luís.\n\nAssinado em Angra do Heroísmo em 16 de março de 2016.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.",
+    "depois": "###### Artigo 5.º — Produção de efeitos\n\nO presente diploma produz efeitos a 1 de janeiro de 2016.\n\nAprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 19 de fevereiro de 2016.\n\nA Presidente da Assembleia Legislativa, Ana Luísa Luís.\n\n> Alterado pelo/a [Decreto Legislativo Regional n.º 16/2016/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2016-75025071), publicado em 2016-07-25.\n\nAssinado em Angra do Heroísmo em 16 de março de 2016.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:74076045:por",
+    "alterador": "pt:dre:75025071:por"
+  }
+]

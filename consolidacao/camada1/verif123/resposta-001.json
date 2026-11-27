@@ -1,0 +1,75 @@
+[
+ {
+  "id": "pt:dre:75542126:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "Art. 57.º do DLR 1/2018/A: nova redação dos n.os 1 e 2, alínea b), aplicada letra a letra; alínea a) e n.os 3 e 4 ([...]) mantêm o original; tabela fica «(ver documento original)» como no alterador.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "Art. 57.º do DLR 1/2018/A: nova redação dos n.os 2 e 3, alínea b), aplicada letra a letra; n.º 1, alínea a) do n.º 3 e n.º 4 ([...]) mantêm o original.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": []
+ },
+ {
+  "id": "pt:dre:123968666:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "Declaração de Retificação n.º 38/2019: «n.º 4 do artigo 10.º» passa a «n.º 5 do artigo 10.º»; aplicado.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Decreto-Lei n.º 9/2021 (alterações aos arts. 16.º e 17.º do DL 70/2007, segundo a triagem)",
+    "motivo": "a vista não traz nenhum texto do DL 9/2021 (só o título): o diploma que altera não traz o texto da alteração; a parte «outro diploma» não é confirmável na vista"
+   }
+  ]
+ },
+ {
+  "id": "pt:dre:239776:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "Art. 62.º do DL 141/2019 revoga o DR 9/2003 exceto as normas da carreira de inspetor-adjunto; alíneas a) e b) (inspetor superior e inspetor técnico, carreiras extintas) revogadas, c) mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "Art. 62.º do DL 141/2019: n.os 1 e 2 (funções de inspetor superior e técnico) revogados; n.º 3 (inspetor-adjunto) e n.º 4 (comum) mantidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "certo",
+    "motivo": "Art. 62.º do DL 141/2019: n.º 3 (fusão das categorias de inspetor superior) só respeita a carreira extinta, revogado; n.os 1 e 2 abrangem também o inspetor-adjunto, mantidos.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [
+   "Art. 62.º do DL 141/2019 (revogação do DR 9/2003 com exceção das normas aplicáveis à carreira de inspetor-adjunto): alvo incerto quanto aos arts. 1.º, 4.º, 5.º, 6.º e 8.º, que ficaram iguais e cujo texto não está na vista; se algum tiver normas só das carreiras de inspetor superior ou inspetor técnico, faltam essas revogações"
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": []
+ }
+]

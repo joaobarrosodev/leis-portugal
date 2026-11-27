@@ -1481,9 +1481,9 @@ Figura 6
 
 [(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
-10 - Tractores de via estreita
+10 - Tratores de via estreita e tratores da categoria T4.3
 
-10.1 - As exigências do artigo 15.º do presente decreto-lei não se aplicam à zona situada abaixo de um plano inclinado a 45º para trás, transversalmente em relação ao sentido da marcha, e que passa por um ponto situado 240 mm atrás do ponto índice do banco, conforme figura 7 ao presente anexo.
+10.1. - No caso de tratores de via estreita e de tratores da categoria T4.3, os requisitos do n.º 8 não são aplicáveis à zona situada abaixo de um plano inclinado a 45º para trás, transversalmente em relação ao sentido da marcha, e que passa por um ponto situado a 230 mm atrás do ponto índice do banco, conforme figura 7 ao presente anexo.
 
 10.2 - Se existirem quaisquer pontos perigosos nessa zona, devem ser apostos os correspondentes avisos no tractor.
 
@@ -1752,6 +1752,8 @@ e) O nível das estruturas de protecção contra a queda de objectos, se as houv
 26 - Trabalho com pulverizadores
 
 26.1 - No manual do utilizador deve ser indicado o nível de protecção contra substâncias perigosas em conformidade com a norma EN 15695-1:2009.
+
+> Alterado pelo/a [Decreto-Lei n.º 53/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2013-260417), publicado em 2013-04-17.
 
 ## ANEXO III — (a que se refere o artigo 21.º)
 
@@ -4595,6 +4597,26 @@ Dispositivo de engate automático, com cavilha cilíndrica
 
 [(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
+Figura 1c
+
+Dispositivo de engate automático, com cavilha dentada
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/06/12100/0340803420.pdf)
+
+Figura 1d
+
+Engate de boca de lobo sem rotação
+
+(correspondente à norma ISO 6489-5:2011)
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/06/12100/0340803420.pdf)
+
+Quadro 1
+
+Formas e dimensões dos engates de boca de lobo do reboque ou da alfaia
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/06/12100/0340803420.pdf)
+
 Figura 2
 
 Engate não automático à norma ISO 6489/II de Outubro de 1980
@@ -4603,21 +4625,29 @@ Engate não automático à norma ISO 6489/II de Outubro de 1980
 
 Figura 3
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+Barra oscilante
 
-Entre os pontos X e Y nenhum ponto do gancho deve ficar fora do raio r.
+Corresponde à norma ISO 6489, parte 3, de junho de 2004
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/06/12100/0340803420.pdf)
 
 Figura 4
 
-Barra oscilante
+Engate do tipo esfera
 
-Corresponde à norma ISO 6489/III
+(correspondente à norma ISO 24347:2005)
 
-Ângulo de rotação nos termos dos n.os 2.8 e 2.9
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/06/12100/0340803420.pdf)
 
-Corresponde à norma ISO 6489/I de Outubro de 1980
+Figura 5
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+Engate do tipo cabeçote
+
+(correspondente à norma ISO 6489-4:2004)
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/06/12100/0340803420.pdf)
+
+> Alterado pelo/a [Decreto-Lei n.º 97/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-2014-25345582), publicado em 2014-06-26.
 
 ## ANEXO XXXI — (a que se referem os artigos 62.º, 63.º, 64.º e 65.º)
 
@@ -4637,11 +4667,11 @@ A componente horizontal, segundo o eixo longitudinal do veículo, é representad
 
 Para a ligação mecânica vale a expressão:
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/06/12100/0340803420.pdf)
 
-A componente vertical perpendicular ao plano da via é constituída pela carga vertical estática S.
+As componentes da força vertical perpendiculares ao plano da via são expressas pela carga vertical estática S (Kg).
 
-As cargas tecnicamente admissíveis são especificadas pelo fabricante.
+As massas tecnicamente admissíveis M(índice T) e M(índice R) são especificadas pelo fabricante em toneladas.
 
 3 - Realização do ensaio:
 
@@ -4661,7 +4691,11 @@ Para peças de aço ou aço vazado, o número de ciclos de carga deve ser de 2.1
 
 Se as peças de ligação mecânica incluírem molas e ou amortecedores, estes não são desmontados durante o ensaio, podendo no entanto ser substituídos se se avariarem por terem sido expostos a solicitações que não sejam habituais durante o serviço (por exemplo, transmissão de calor). No protocolo de ensaio deve descrever-se o seu comportamento antes, durante e depois do ensaio.
 
-3.2 - Forças de ensaio. - A força de ensaio é a resultante geométrica das componentes vertical e horizontal da carga [(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf).
+3.2- Forças de ensaio. - A força de ensaio é a resultante geométrica das componentes vertical e horizontal da carga:
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/06/12100/0340803420.pdf)
+
+> Alterado pelo/a [Decreto-Lei n.º 97/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-2014-25345582), publicado em 2014-06-26.
 
 ## ANEXO XXXII — (a que se referem os artigos 62.º, 63.º, 64.º e 65.º)
 
@@ -4697,11 +4731,13 @@ Não se deve verificar qualquer rotura para valores iguais ou inferiores à carg
 
 1.4.2.2 - O valor da deformação permanente observado não deve exceder 25 % da deformação elástica máxima observada.
 
-1.5 - Antes do ensaio referido no n.º 1.4.2 deve efectuar-se um ensaio que consiste em aplicar de modo gradual e crescente, ao centro de referência do dispositivo de engate, e partir de uma carga inicial de 500 daN, uma carga vertical fixada em três vezes a carga vertical máxima admissível indicada pelo fabricante.
+1.5 - Antes do ensaio referido no ponto 1.4.2, deve efetuar-se um ensaio que consiste em aplicar, de modo gradual e crescente, ao centro de referência do dispositivo de ligação, e a partir de uma carga inicial de 500 daN, uma carga vertical fixada em três vezes a carga vertical máxima admissível (em daN, igual a g . S/10) recomendada pelo fabricante.
 
-Durante o ensaio, a deformação do gancho não deve exceder 10 % da deformação máxima elástica observada.
+Durante o ensaio, a deformação do dispositivo de ligação não deve exceder 10 % da deformação máxima elástica observada.
 
-A verificação efectuar-se-á depois de anulada a carga vertical e restabelecida a pré-carga de 500 daN.
+A verificação é efetuada depois de anulada a carga vertical (em daN, igual a g . S/10) e restabelecida a pré-carga de 500 daN.
+
+> Alterado pelo/a [Decreto-Lei n.º 97/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-2014-25345582), publicado em 2014-06-26.
 
 ## ANEXO XXXIII — (a que se refere o artigo 63.º)
 
@@ -4709,13 +4745,17 @@ Prescrições relativas à altura acima do solo do dispositivo de engate (h)
 
 [(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
-Qualquer tractor cuja massa em carga exceda 2,5 t deve estar equipado com um dispositivo de engate cuja altura acima do solo satisfaça uma das relações seguintes:
+Qualquer trator cuja massa em carga exceda 2,5 t deve estar equipado com um dispositivo de engate cuja altura acima do solo satisfaça uma das relações seguintes:
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/06/12100/0340803420.pdf)
 
 ou
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/06/12100/0340803420.pdf)
+
+As massas m(índice t), m(índice lt), m(índice a) e m(índice la) são expressas em kg.
+
+> Alterado pelo/a [Decreto-Lei n.º 97/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-2014-25345582), publicado em 2014-06-26.
 
 ## ANEXO XXXIV — (a que se refere o artigo 65.º)
 
@@ -4757,13 +4797,13 @@ Um rectângulo, em cujo interior se encontra inscrita a letra «e» e o número 
 
 Um número de homologação CE num ponto arbitrário sob o rectângulo, e na sua proximidade, correspondente ao número da folha de homologação CE para o tipo de dispositivo de ligação mecânica em causa, e referente à sua resistência e às suas dimensões, pela letra D ou ST conforme o ensaio a que a ligação mecânica foi submetida (ensaio dinâmico, D-ensaio estático, ST) por cima do rectângulo que contém a letra «e».
 
-Exemplos de símbolos de homologação:
+Exemplo de uma marca de homologação CE
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/06/12100/0340803420.pdf)
 
-Legenda:
+O dispositivo de ligação que ostenta a marca de homologação CE de componente acima é um dispositivo para o qual a homologação CE foi concedida na Alemanha (e 1), sob o número 38-363 e em que foi realizado um ensaio de resistência estático (S).
 
-O dispositivo de ligação a que correspondem os símbolos de homologação CE acima representados é um dispositivo de ligação a que foi atribuída na Alemanha (e1) uma homologação CE com o n.º 88-563 e que foi submetido ao ensaio dinâmico de resistência (D).
+> Alterado pelo/a [Decreto-Lei n.º 97/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-2014-25345582), publicado em 2014-06-26.
 
 ## ANEXO XXXV — (a que se referem os artigos 67.º e 68.º)
 
@@ -4771,13 +4811,13 @@ Modelo de ficha de homologação CE
 
 [(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
-Dados sobre a concessão, a recusa ou a suspensão da homologação CE ou sobre a extensão da homologação CE de um tipo determinado de dispositivo de ligação (gancho, engate de boca de lobo ou barra oscilante) no respeitante à sua resistência e dimensões e à carga vertical no ponto de engate.
+COMUNICAÇÃO RELATIVA À CONCESSÃO, À RECUSA, À REVOGAÇÃO OU À EXTENSÃO DA HOMOLOGAÇÃO CE DE UM COMPONENTE NO QUE DIZ RESPEITO À SUA RESISTÊNCIA E ÀS DIMENSÕES E À CARGA VERTICAL NO PONTO DE ENGATE DE UM TIPO DE DISPOSITIVO DE LIGAÇÃO (ENGATE DE BOCA DE LOBO, ENGATE DE BOCA DE LOBO SEM ROTAÇÃO, GANCHO DE REBOQUE, BARRA OSCILANTE, ENGATE DO TIPO ESFERA E ENGATE DO TIPO CABEÇOTE.)
 
 Número de homologação CE:... extensão (1) n.º: ...
 
 1 - Marca de fábrica ou marca comercial: ...
 
-2 - Tipo de dispositivo de ligação: gancho/engate de boca de lobo/barra oscilante (2).
+2 - Tipo de dispositivo de ligação (engate de boca de lobo, engate de boca de lobo sem rotação, gancho de reboque, barra oscilante, engate do tipo esfera, engate do tipo cabeçote) (2).
 
 3 - Nome e endereço do fabricante do dispositivo de ligação: ...
 
@@ -4785,17 +4825,17 @@ Número de homologação CE:... extensão (1) n.º: ...
 
 5 - O dispositivo de ligação foi sujeito a um ensaio dinâmico estático (2) e homologado para os seguintes valores: ...
 
-5.1 - No caso de ensaio dinâmico:
+5.1- No caso de ensaio dinâmico:
 
-Valor D: ...(KN)
+Valor D:... (kN)
 
-Carga vertical no ponto de engate: ...(daN)
+Carga vertical no ponto de engate (S):... (Kg)
 
-5.2 - No caso de ensaio estático:
+5.2- No caso e ensaio estático:
 
-Massa rebocável: ...(Kg)
+Massa rebocável T: ... (toneladas)
 
-Carga vertical no ponto de engate: ... (daN)
+Carga vertical no ponto de engate (S):... (Kg)
 
 6 - Data de apresentação para homologação CE: ...
 
@@ -4818,6 +4858,8 @@ Carga vertical no ponto de engate: ... (daN)
 (1) Eventualmente, indicar se se trata de uma primeira, segunda, terceira, etc., extensão da homologação CE inicial.
 
 (2) Riscar o que não interessa.
+
+> Alterado pelo/a [Decreto-Lei n.º 97/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-2014-25345582), publicado em 2014-06-26.
 
 ## ANEXO XXXVI — (a que se refere o artigo 69.º)
 
@@ -4847,7 +4889,7 @@ Número de homologação CE: ... extensão (1) n.º: ...
 
 8 - Extensão da homologação CE ao(s) seguinte(s) tipo(s) de dispositivo(s) de ligação: ...
 
-9 - Carga vertical estática autorizada no ponto de engate: ...
+9 - Carga vertical estática autorizada no ponto de engate: ... (Kg)
 
 10 - Data de apresentação do tractor à homologação CE: ...
 
@@ -4870,6 +4912,8 @@ Número de homologação CE: ... extensão (1) n.º: ...
 (1) Eventualmente, indicar se se trata de uma primeira, segunda, etc., extensão da homologação CE inicial.
 
 (2) Riscar o que não interessa.
+
+> Alterado pelo/a [Decreto-Lei n.º 97/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-2014-25345582), publicado em 2014-06-26.
 
 ## ANEXO XXXVII — (a que se referem os artigos 70.º e 71.º)
 

@@ -1,0 +1,55 @@
+[
+ {
+  "id": "pt:dre:655963:por",
+  "artigos": [
+   {
+    "artigo": "ANEXO I",
+    "veredicto": "certo",
+    "motivo": "Aditado o n.º 4.1 depois do quadro n.º 2 e substituído o n.º 5 pela nova redação do anexo do DL 118/2005, letra a letra; n.os 1 a 4 e quadros mantidos ([...]); nota 1 mantém-se.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "ANEXO II",
+    "veredicto": "certo",
+    "motivo": "Aditado ao n.º 2 o parágrafo do limite específico aceite de quantificação, conforme o n.º 2 do anexo do DL 118/2005; restantes números iguais ([...]).",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:662081:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação do art. 2.º dada pelo art. 2.º do DL 107/2019, letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "ANEXO I",
+    "veredicto": "errado",
+    "motivo": "O art. 4.º do DL 107/2019 substitui todo o anexo I pela planta do alterador; o consolidado acrescenta a imagem de 2019 mas mantém no título a ligação à planta antiga de 1999, que é texto antigo deixado no anexo substituído.",
+    "texto_esperado": "## ANEXO I\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/15300/0001000016.pdf)"
+   },
+   {
+    "artigo": "ANEXO II",
+    "veredicto": "certo",
+    "motivo": "Anexo II substituído pela redação do anexo do DL 107/2019 (P1 a P21, alíneas a) a u) e nota), letra a letra.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [
+   "Art. 3.º do DL 107/2019: nova redação das bases I (alínea i)), III (n.os 1 e 2), XI (alíneas d) e e)), XII (n.os 2 e 3), XIII, XVII, XIX (n.º 1 e n.º 2 [Revogado]) e XXVIII (n.º 1) das bases da concessão aprovadas em anexo ao DL 384-A/99 — sem efeito no consolidado; alvo incerto: o texto das bases não aparece no consolidado (os capítulos estão iguais ao original e a vista não mostra o corpo das bases). «Alvo incerto» não é justificação.",
+   "Art. 6.º do DL 107/2019: revogação da base XV e do n.º 2 da base XIX — sem efeito no consolidado; alvo incerto: o texto das bases não aparece no consolidado."
+  ],
+  "instrucoes_justificadas": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]
